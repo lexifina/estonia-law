@@ -14,6 +14,6 @@
 
 6) kuupäev.
 
-(2) Kaebusele kirjutab alla selle esitaja. Erakonna kaebusele kirjutab alla erakonna volitatud esindaja.
+(2) Kaebusele kirjutab alla selle esitaja. Erakonna või valimisliidu kaebusele kirjutab alla erakonna või valimisliidu volitatud esindaja.
 
 (3) Kui kaebus ei vasta käesoleva paragrahvi lõigetes 1 ja 2 ettenähtud nõuetele või kui kaebus on esitatud käesoleva seaduse §-des 64 ja 65 ettenähtud korda rikkudes, võib organ, kellele kaebus esitatakse, jätta selle läbi vaatamata ning tagastada kaebuse selle esitajale.

@@ -1,6 +1,6 @@
 # § 61. Valimiskampaania kulud
 
-(1) Erakond ja üksikkandidaat märgivad aruandes:
+(1) Erakond, valimisliit ja üksikkandidaat märgivad aruandes:
 
 1) kulutuse tegemise kuupäeva;
 
@@ -32,4 +32,4 @@
 
 9) muud kulud.
 
-(3) Kuluaruandes märgitakse ka andmed tasumata lepinguliste maksete ja maksmata arvete kohta. Tasumata lepinguliste maksete ja maksmata arvete tasumise kohta esitavad erakond ja üksikkandidaat täiendava aruande.
+(3) Kuluaruandes märgitakse ka andmed tasumata lepinguliste maksete ja maksmata arvete kohta. Tasumata lepinguliste maksete ja maksmata arvete tasumise kohta esitavad erakond, valimisliit ja üksikkandidaat täiendava aruande.

@@ -4,9 +4,9 @@
 
 (2) Kandidaadile antakse registreerimisnumber. Registreerimisnumbrid algavad 101-st ja need antakse kandidaatidele registreerimise järjekorras.
 
-(3) Kui käesoleva seaduse § 36 lõikes 6 nimetatud tähtaja jooksul ei ole erakond või üksikkandidaat teinud valla või linna valimiskomisjoni nõutud toiminguid, jätab valla või linna valimiskomisjon registreerimata:
+(3) Kui käesoleva seaduse § 36 lõikes 6 nimetatud tähtaja jooksul ei ole erakond, valimisliit või üksikkandidaat teinud valla või linna valimiskomisjoni nõutud toiminguid, jätab valla või linna valimiskomisjon registreerimata:
 
-1) kõik erakonna poolt registreerimiseks esitatud kandidaadid, kui puuduvad käesoleva seaduse § 35 lõike 3 punktis 1 või 2 nimetatud dokumendid, neis on vigu või need ei ole vormikohased;
+1) kõik erakonna või valimisliidu poolt registreerimiseks esitatud kandidaadid, kui puuduvad käesoleva seaduse § 35 lõike 3 punktis 1 või 2 nimetatud dokumendid, neis on vigu või need ei ole vormikohased;
 
 2) kandidaadi, kelle dokumente või andmeid on puudu, kelle dokumentides on vigu või kelle dokumendid ei ole vormikohased.
 

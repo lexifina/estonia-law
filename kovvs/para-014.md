@@ -18,9 +18,9 @@
 
 (6) Valimiskomisjoni liikme volitused peatuvad:
 
-1) tema erakonna või üksikkandidaadi volitatud esindajaks asumisega;
+1) tema asumisega valimisliidu moodustajaks või erakonna, valimisliidu või üksikkandidaadi volitatud esindajaks;
 
-2) tema volikogu liikmekandidaadiks registreerimiseks esitamisega.
+2) tema esitamisega volikogu liikmekandidaadiks registreerimiseks.
 
 (7) Vabariigi Valimiskomisjon võib peatada maakonna valimiskomisjoni, valla või linna valimiskomisjoni või jaoskonnakomisjoni liikme volitused, kes on seadust rikkunud. Maakonna valimiskomisjon võib peatada valla või linna valimiskomisjoni või jaoskonnakomisjoni liikme volitused, kes on seadust rikkunud.
 
@@ -30,6 +30,6 @@
 
 2) käesoleva paragrahvi lõike 6 punktis 2 ettenähtud juhul – kandidaadi registreerimata jätmisele või kandideerimisest loobumisele järgnevast päevast või valimistulemuste väljakuulutamise päevast, kui kandidaat ei osutunud valituks.
 
-(9) Valimiskomisjoni liige ei või teha agitatsiooni erakonna ega kandidaadi poolt ega vastu.
+(9) Valimiskomisjoni liige ei või teha agitatsiooni erakonna, valimisliidu ega kandidaadi poolt ega vastu.
 
 (10) Valimiskomisjoni liige on oma ülesandeid täites sõltumatu. Valimiskomisjoni liige juhindub seadusest ja kõrgemalseisva valimiskomisjoni juhistest.

@@ -10,7 +10,7 @@
 
 (2) Kandideerimisavalduses isik:
 
-1) väljendab oma soovi kandideerida erakonna nimekirjas või üksikkandidaadina;
+1) väljendab oma soovi kandideerida erakonna või valimisliidu nimekirjas või üksikkandidaadina;
 
 2) kinnitab, et ta vastab käesolevas seaduses volikogu liikmekandidaadile esitatud nõuetele.
 
@@ -44,6 +44,6 @@
 
 (7) Kandideerimisavaldus ja kandidaadi ankeet allkirjastatakse kandidaadi poolt.
 
-(145) [15. 07. 2002. a Riigikohtu põhiseaduslikkuse järelevalve kolleegiumi kohtuotsus nr 3-4-1-7-02 -
+(151) [15. 07. 2002. a Riigikohtu põhiseaduslikkuse järelevalve kolleegiumi kohtuotsus nr 3-4-1-7-02 -
 
 - jõust.15. 07. 2002]

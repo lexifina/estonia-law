@@ -12,7 +12,7 @@
 
 (6) Väljaspool elukohajärgset valimisjaoskonda hääletanute hääletamissedeleid sisaldavad sisemised ümbrikud avatakse, hääletamissedelite välisküljele pannakse jaoskonnakomisjoni pitsati jäljend ning need sedelid pannakse koos eelhääletanute hääletamissedelitega valimispäeval hääletanute sedelite hulka.
 
-(7) Jaoskonnakomisjon teeb hääletamiskastides olnud sedelite alusel kindlaks hääletamisest osavõtnud valijate arvu, kehtetute sedelite arvu ning kandidaatidele ja erakondadele antud häälte arvu ning kannab need vormikohasesse protokolli.
+(7) Jaoskonnakomisjon teeb hääletamiskastides olnud sedelite alusel kindlaks hääletamisest osavõtnud valijate arvu, kehtetute sedelite arvu ning kandidaatidele, erakondadele ja valimisliitudele antud häälte arvu ning kannab need vormikohasesse protokolli.
 
 (8) Kehtetuks tunnistatakse hääletamissedel:
 

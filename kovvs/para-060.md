@@ -1,6 +1,6 @@
 # § 60. Valimiskampaaniaks kasutatud vahendid
 
-(1) Erakond ja üksikkandidaat märgivad aruandes:
+(1) Erakond, valimisliit ja üksikkandidaat märgivad aruandes:
 
 1) vahendite laekumise kuupäeva;
 
@@ -28,7 +28,7 @@
 
 8) laen.
 
-(3) Üksikkandidaadile laekunud vahendite liigid on:
+(3) Valimisliidule ja üksikkandidaadile laekunud vahendite liigid on:
 
 1) annetus (rahaline annetus, mitterahaline annetus ja tegevustoetus);
 

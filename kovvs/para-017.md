@@ -16,6 +16,8 @@
 
 1) kandidaatide registreerimiseks esitamise ja registreerimise korra;
 
+1¹) valimisliidu registreerimise avalduse vormi;
+
 2) kandidaatide registreerimise avalduse vormi, kandidaatide ringkonnanimekirja vormi, kandideerimisavalduse vormi ja kandidaadi ankeedi vormi;
 
 3) Euroopa Liidu kodaniku hääleõiguslikkusest teavitamise teatise vormi;

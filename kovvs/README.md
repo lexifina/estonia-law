@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/182555> (version in force from 2002-07-18)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/189140> (version in force from 2002-08-07)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -43,6 +43,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/182555> (version in force from 2
 | [§ 30](para-030.md) | Valijate nimekirjas muudatuste tegemine |
 | **6. peatükk KANDIDAATIDE REGISTREERIMISEKS ESITAMINE JA REGISTREERIMINE** | |
 | [§ 31](para-031.md) | Erakond |
+| [§ 31¹](para-031b1.md) | Valimisliit |
 | [§ 32](para-032.md) | Üksikkandidaat |
 | [§ 33](para-033.md) | Kandideerimisdokumendid |
 | [§ 34](para-034.md) | Kandidaatide ringkonnanimekiri |
@@ -74,7 +75,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/182555> (version in force from 2
 | [§ 57](para-057.md) | Täiendavate valimiste erisused |
 | **10. peatükk VALIMISTE KULUD** | |
 | [§ 58](para-058.md) | Valimiste korraldamise kulud |
-| [§ 59](para-059.md) | Erakonna ja üksikkandidaadi valimiskampaania rahastamise aruanne |
+| [§ 59](para-059.md) | Erakonna, valimisliidu ja üksikkandidaadi valimiskampaania rahastamise aruanne |
 | [§ 60](para-060.md) | Valimiskampaaniaks kasutatud vahendid |
 | [§ 61](para-061.md) | Valimiskampaania kulud |
 | **11. peatükk KAEBUSED** | |
@@ -88,5 +89,6 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/182555> (version in force from 2
 | [§ 68](para-068.md) | Volikogu liikmete registreerimine ja nende volituste algamine |
 | [§ 69](para-069.md) | Volikogu asendusliikmete registreerimine |
 | [§ 70](para-070.md) | Lisamandaatide registreerimine |
+| [§ 70¹](para-070b1.md) | Valimisliitude registreerimiseks esitamine |
 | [§ 71](para-071.md) | -73. |
 | [§ 74](para-074.md) | Seaduse jõustumine |
