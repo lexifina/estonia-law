@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/26652> (version in force from 2002-06-01)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/193819> (version in force from 2002-09-01)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -39,13 +39,18 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/26652> (version in force from 20
 | [§ 27](para-027.md) | Turismiinfokeskusele esitatavad kohustuslikud nõuded |
 | [§ 28](para-028.md) | Turismiinfokeskuse tunnistus |
 | [§ 29](para-029.md) | Turismiinfopunkt |
-| **5. peatükk RIIKLIK JÄRELEVALVE JA VASTUTUS** | |
+| **5. peatükk RIIKLIK JÄRELEVALVE** | |
 | [§ 30](para-030.md) | Riikliku järelevalve teostajad |
 | [§ 31](para-031.md) | Ettekirjutus |
-| [§ 32](para-032.md) | Juriidilise isiku vastutus |
-| [§ 33](para-033.md) | Menetlus juriidilise isiku haldusõiguserikkumise asjas |
+| **5¹. peatükk VASTUTUS** | |
+| [§ 31¹](para-031b1.md) | Registreeringunõuete rikkumine |
+| [§ 31²](para-031b2.md) | Majutusteenuse osutamine tunnustamata majutusettevõtte poolt |
+| [§ 31³](para-031b3.md) | Majutusteenuse osutamise nõuete rikkumine |
+| [§ 31⁴](para-031b4.md) | Turismiinfokeskusele esitatud nõuete rikkumine |
+| [§ 31⁵](para-031b5.md) | Menetlus |
+| [§ 32](para-032.md) | -33. |
 | **6. peatükk LÕPPSÄTTED** | |
 | [§ 34](para-034.md) | Riigilõiv |
-| [§ 35](para-035.md) | Riigilõivuseaduse muutmine |
+| [§ 35](para-035.md) |  |
 | [§ 36](para-036.md) | Üleminekusätted |
 | [§ 37](para-037.md) | Seaduse jõustumine |
