@@ -12,6 +12,6 @@
 
 (5) Erakond võib volitada vallas või linnas ennast esindama kuni kaks isikut.
 
-(133) [15. 07. 2002. a Riigikohtu põhiseaduslikkuse järelevalve kolleegiumi kohtuotsus nr 3-4-1-7-02 -
+(133) [15. 07. 2002. a Riigikohtu põhiseaduslikkuse järelevalvekolleegiumi kohtuotsus nr 3-4-1-7-02 -
 
 - jõust.15. 07. 2002]

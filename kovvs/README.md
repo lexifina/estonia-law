@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/189140> (version in force from 2002-08-07)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/191379> (version in force from 2002-09-01)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -85,6 +85,8 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/189140> (version in force from 2
 | [§ 65](para-065.md) | Maakonna valimiskomisjoni otsuse või toimingu peale kaebuse esitamise ja kaebuse läbivaatamise kord |
 | [§ 66](para-066.md) | Valimiskomisjoni otsuse või toimingu peale kaebuse esitamine |
 | [§ 67](para-067.md) | Hääletamistulemuste kehtetuks tunnistamine |
+| **11¹. peatükk VASTUTUS** | |
+| [§ 67¹](para-067b1.md) | Andmete või materjalide esitamata jätmine või valimiskomisjoni otsuse mittetäitmine |
 | **12. peatükk LÕPPSÄTTED** | |
 | [§ 68](para-068.md) | Volikogu liikmete registreerimine ja nende volituste algamine |
 | [§ 69](para-069.md) | Volikogu asendusliikmete registreerimine |

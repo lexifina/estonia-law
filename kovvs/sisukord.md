@@ -22,4 +22,6 @@
 
 11. peatükk KAEBUSED
 
+11¹. peatükk VASTUTUS
+
 12. peatükk LÕPPSÄTTED
