@@ -1,0 +1,31 @@
+# § 63. Riigikogu erakorraliste valimiste erisused
+
+(1) Riigikogu erakorralised valimised viiakse läbi käesoleva seaduse kohaselt käesolevas peatükis ettenähtud erisusi arvestades.
+
+(2) Vabariigi Valimiskomisjon kehtestab oma otsusega Riigikogu erakorraliste valimiste toimingute järgmised tähtajad:
+
+- 1) hääleõiguslike Eesti kodanike arvu esitamine (§ 7 lg 3);
+
+- 2) valimisjaoskondade jaotuse muutmine (§ 8 lg 3 ja 4);
+
+- 3) jaoskonnakomisjonide moodustamine (§ 18);
+
+- 4) valijakaardi saatmine (§ 21);
+
+- 5) erakondade nimekirja esitamine (§ 26 lg 2);
+
+- 6) kandidaatide registreerimiseks esitamine (§ 30);
+
+- 7) kandidaatide registreerimine (§ 32);
+
+- 8) valijakaardi saatmine välisriigis ajutiselt elavale valijale (§ 49 lg 5);
+
+- 9) kirja teel hääletamise taotluste välisesindustele esitamine (§ 50);
+
+- 10) kirja teel hääletamise hääletamissedelite laekumine (§ 52 lg 2);
+
+- 11) välisesinduses hääletamise aeg (§ 54 lg 2).
+
+(3) Riigikogu erakorraliste valimiste korral peab kandidaatide registreerimiseks esitamiseks ja registreerimiseks jääma kokku vähemalt kümme päeva.
+
+(4) Erakorraliste valimiste korral kantakse valija selle valimisjaoskonna nimekirja, mille territooriumil valimiste väljakuulutamise päeval asub tema rahvastikuregistrisse kantud elukoht. Kui valija elukoha aadressiandmed on kantud rahvastikuregistrisse valla või linna, Tallinnas linnaosa täpsusega, kantakse valija käesoleva seaduse § 8 lõike 2 punkti 5 alusel määratud valimisjaoskonna valijate nimekirja.
