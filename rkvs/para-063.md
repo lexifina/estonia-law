@@ -18,6 +18,8 @@
 
 - 7) kandidaatide registreerimine (§ 32);
 
+- 7¹) eelhääletamise aeg (§ 38 lg 2);
+
 - 8) valijakaardi saatmine välisriigis ajutiselt elavale valijale (§ 49 lg 5);
 
 - 9) kirja teel hääletamise taotluste välisesindustele esitamine (§ 50);

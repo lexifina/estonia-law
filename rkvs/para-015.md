@@ -34,7 +34,7 @@
 
 - 10) valimiste korraldamiseks eraldatud raha kasutamise korra;
 
-- 11) valimiskulude aruande koostamise, esitamise ja avalikustamise korra.
+- 11) [Kehtetu]
 
 (5) Vabariigi Valimiskomisjoni pädevuses oleva üksikküsimuse lahendamiseks võtab Vabariigi Valimiskomisjon vastu otsuse. Otsusele kirjutab alla komisjoni esimees. Otsus jõustub allakirjutamisega.
 

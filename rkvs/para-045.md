@@ -1,6 +1,6 @@
 # § 45. Hääletamine kinnipidamiskohas
 
-(1) Kinnipidamiskohas korraldatakse hääletamine eelhääletamise päevadel.
+(1) Kinnipidamiskohas korraldatakse hääletamine käesoleva seaduse § 38 lõike 2 punktis 2 ettenähtud päevadel .
 
 (2) Kinnipidamiskoha administratsioon esitab taotluse hääletamise korraldamiseks käesoleva seaduse § 41 lõikes 2 ettenähtud jaoskonnakomisjonile.
 
