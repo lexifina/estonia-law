@@ -12,7 +12,7 @@
 
 5) teabevaldaja töö või tööedukuse aruandeid ning andmeid ülesannete täitmise kvaliteedi ja juhtimisvigade kohta;
 
-6) riigi- või kohaliku omavalitsuse ametniku või avalikke ülesandeid täitva eraõigusliku juriidilise isiku või füüsilise isiku mainet kahjustavat teavet, välja arvatud eraelulised isikuandmed;
+6) riigi- või kohaliku omavalitsuse ametniku või avalikke ülesandeid täitva eraõigusliku juriidilise isiku või füüsilise isiku mainet kahjustavat teavet, välja arvatud delikaatsed või eraelulised isikuandmed;
 
 7) tarbija huvide kaitsest lähtuvat teavet kaupade ja teenuste kvaliteedi kohta;
 

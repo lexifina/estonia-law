@@ -20,10 +20,10 @@
 
 4) teabenõuet ei saa täita ühekordse teabe väljastamisega;
 
-5) teabenõude täitmiseks tuleb teavet täiendavalt süstematiseerida ja analüüsida ning selle alusel on vaja uus teave dokumenteerida. Selline teabenõue loetakse avalduseks ja sellele vastatakse avaldustele vastamise seadusega ettenähtud korras;
+5) teabenõude täitmiseks tuleb teavet täiendavalt süstematiseerida ja analüüsida ning selle alusel on vaja uus teave dokumenteerida. Selline teabenõue loetakse selgitustaotluseks ja sellele vastatakse märgukirjale ja selgitustaotlusele vastamise seadusega ettenähtud korras;
 
 6) kohus on tunnistanud teabenõudja teovõimetuks;
 
 7) teabenõudja sideandmed puuduvad.
 
-(3) Teabevaldaja teeb käesoleva paragrahvi lõikes 1 või 2 sätestatud alusel teabenõude täitmisest keeldumise teabenõudjale teatavaks viie tööpäeva jooksul. Teabenõude täitmisest keeldumisest teatab teabevaldaja samal ajal Andmekaitse Inspektsioonile digitaalselt.
+(3) Teabevaldaja teeb käesoleva paragrahvi lõikes 1 või 2 sätestatud alusel teabenõude täitmisest keeldumise teabenõudjale teatavaks viie tööpäeva jooksul.

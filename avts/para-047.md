@@ -10,6 +10,8 @@
 
 4) teabevaldajale esitatud teabenõude sisu;
 
-5) põhjendused, milles teabenõudja arvates seisnes teabevaldaja tegevuse ebaseaduslikkus.
+5) põhjendused, milles teabenõudja arvates seisnes teabevaldaja tegevuse ebaseaduslikkus;
+
+6) vaide esitaja selgelt väljendatud taotlus.
 
 (2) Kui vaide esitaja arvates teabevaldaja ebaseaduslikult keeldus teabenõuet täitmast või esitas ebaõiget teavet, lisab vaide esitaja vaidele teabevaldaja poolt teabenõude täitmisest kirjaliku keeldumise või teabevaldaja esitatud ebaõige teabe koopia.

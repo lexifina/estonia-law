@@ -16,6 +16,6 @@ Andmekaitse Inspektsioon võib teha teabevaldajale ettekirjutuse seadusliku oluk
 
 7) on teabele ebaseaduslikult kehtestanud juurdepääsupiirangud;
 
-8) on jätnud eraelulisi isikuandmeid sisaldavale teabele juurdepääsupiirangud kehtestamata;
+8) on jätnud seaduses sätestatud juurdepääsupiirangu kehtestamata;
 
 9) on väljastanud käesoleva seaduse alusel kehtestatud juurdepääsupiirangutega teavet.

@@ -14,7 +14,7 @@
 
 2) juurdepääsu võimaldamisel avalikele arhivaalidele arhiiviasutuste poolt arhiiviseaduses (RT I 1998, 36/37, 552; 1999, 16, 271) ja selle alusel sätestatud korras;
 
-3) avaldustele vastamise seaduses (RT I 1994, 51, 857; 1996, 49, 953; 2000, 49, 304) sätestatud korras avaldustele ja märgukirjadele vastamisele, kui vastamine eeldab jäädvustatud teabe analüüsimist, sünteesimist või täiendava teabe kogumist ja dokumenteerimist;
+3) märgukirjale ja selgitustaotlusele vastamise seaduses sätestatud korras märgukirjadele ja selgitustaotlustele vastamisele, kui vastamine eeldab jäädvustatud teabe analüüsimist, sünteesimist või täiendava teabe kogumist ja dokumenteerimist;
 
 4) teabele juurdepääsupiirangute, juurdepääsu eritingimuste, korra ja viiside osas, juhul kui need on eriseaduses või välislepingus sätestatud teisiti.
 

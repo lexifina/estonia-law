@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/264970> (version in force from 2003-07-01)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/822692> (version in force from 2004-12-10)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -52,9 +52,9 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/264970> (version in force from 2
 | [§ 34](para-034.md) | Piiratud juurdepääsuga teave |
 | [§ 35](para-035.md) | Teabe asutusesiseseks tunnistamise alused |
 | [§ 36](para-036.md) | Teabe asutusesiseseks kasutamiseks tunnistamise keeld |
-| [§ 37](para-037.md) | Juurdepääsupiirang eraelulistele isikuandmetele |
+| [§ 37](para-037.md) |  |
 | [§ 38](para-038.md) | Juurdepääs üksnes asutusesiseseks tunnistatud teabele |
-| [§ 39](para-039.md) | Juurdepääs asutusesiseseks kasutamiseks tunnistatud teabele, mis sisaldab eraelulisi isikuandmeid |
+| [§ 39](para-039.md) | Juurdepääs isikuandmeid sisaldavale teabele |
 | [§ 40](para-040.md) | Juurdepääsupiirangu tähtajad |
 | [§ 41](para-041.md) | Teabe asutusesiseseks tunnistamise kord |
 | [§ 42](para-042.md) | Juurdepääsupiirangu kehtetuks tunnistamine |
