@@ -8,7 +8,7 @@
 
 3) kohustab tegema edasise reisiteenuse pakkumise ja osutamise õiguspäraseks jätkamiseks vajalikke toiminguid.
 
-(2) Tarbijakaitseamet edastab teate ettekirjutuse kohta koos ettekirjutuse koopiaga kohe registrile.
+(2) Tarbijakaitseamet kannab andmed ettekirjutuse kohta registrisse vastavalt majandustegevuse registri seaduses sätestatule.
 
 (3) Tervisekaitsenõuetele mittevastava majutusettevõtte kaudu majutusteenuse osutamise avastamise korral teeb Tervisekaitseinspektsioon majutusteenust osutavale ettevõtjale ettekirjutuse, milles:
 

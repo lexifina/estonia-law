@@ -1,29 +1,13 @@
-# § 11. Registreering
+# § 11. Registreerimismenetlus ja registriandmed
 
-(1) Registreering tehakse reisikorraldaja või reisibüroo poolt esitatud andmete alusel kahe tööpäeva jooksul registreerimistaotluse saamisest arvates tingimusel, et reisikorraldaja või reisibüroo poolt turismiteenuse pakkumise ja osutamise õiguse äravõtmise kohta ei ole jõustunud kohtuotsust.
+(1) Registreerimismenetlusele kohaldatakse majandustegevuse registri seadust (RT I 2004, 12, 79) käesolevast seadusest tulenevate erisustega.
 
-(2) Reisikorraldaja või reisibüroo poolt turismiteenuse pakkumise ja osutamise õiguse äravõtmise kohta jõustunud kohtuotsuse olemasolu tuvastatakse Majandus- ja Kommunikatsiooniministeeriumi poolt Karistusregistrile esitatud päringu vastuse alusel.
+(2) Registrisse kantakse lisaks majandustegevuse registri seaduses sätestatule järgmised andmed:
 
-(3) Käesoleva paragrahvi lõike 4 punktis 9 nimetatud registreeringuandmete kanne tehakse Tarbijakaitseameti esitatud teate alusel.
+1) reisiettevõtja kasutatav kaubamärk selle olemasolu korral;
 
-(4) Registreeringuandmed on:
+2) tegevuskoha aadress või tegevuskohtade aadressid ja muud kontaktandmed;
 
-1) registreeringu number;
+3) reisiettevõtja tegevusala;
 
-2) registreeringu tegemise kuupäev;
-
-3) reisikorraldaja või reisibüroo nimi, registrikood, aadress ja muud kontaktandmed;
-
-4) reisiteenuse osutamise eest vastutava isiku nimi ja kontaktandmed;
-
-5) reisiteenuse osutamisel kasutatava transpordivahendi liik;
-
-6) reisiteenuse osutamise piirkond;
-
-7) käesoleva seaduse §-s 15 sätestatud tagatise suurus ja kehtivuse aeg ning tagatise olemasolu tõendava dokumendi väljastanud ettevõtja nimi, registrikood, aadress ja muud kontaktandmed;
-
-8) registreerimistaotlusele alla kirjutanud isiku nimi, ametinimetus ja kontaktandmed;
-
-9) käesoleva seaduse §-s 31 nimetatud ettekirjutuse kohta käiv teave.
-
-(5) Registreeringuandmed avaldatakse registri Interneti-lehel.
+4) käesoleva seaduse §-s 15 sätestatud tagatise suurus ja kehtivuse aeg ning tagatise olemasolu tõendava dokumendi väljastanud ettevõtja nimi, registrikood, aadress ja muud kontaktandmed.

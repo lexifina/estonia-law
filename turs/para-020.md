@@ -24,4 +24,4 @@
 
 (7) Kohalik omavalitsus on kohustatud teavitama käesoleva seaduse § 26 lõikes 5 nimetatud isikut kohe majutusettevõtte tunnistuse väljastamisest ja selle kehtetuks tunnistamisest.
 
-(8) Majutusettevõtte tunnistuse väljastamise eest tasutakse riigilõivu.
+(8) Majutusettevõtte tunnustamise taotluse menetlemise eest tasutakse riigilõivu.

@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/697025> (version in force from 2004-01-08)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/728961> (version in force from 2004-04-15)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -11,17 +11,15 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/697025> (version in force from 2
 | [§ 2](para-002.md) | Turismiteenus |
 | [§ 3](para-003.md) | Reisiteenus |
 | [§ 4](para-004.md) | Riiklik turismiarengukava |
-| **2. peatükk REISIKORRALDAJA JA REISIBÜROO, GIID JA GIID-TÕLK** | |
-| [§ 5](para-005.md) | Reisikorraldaja |
-| [§ 6](para-006.md) | Reisibüroo |
+| **2. peatükk REISIETTEVÕTJA, GIID JA GIID-TÕLK** | |
+| [§ 5](para-005.md) | Reisiettevõtja |
+| [§ 6](para-006.md) | Reisiettevõtja tegevusalade liigitus |
 | [§ 7](para-007.md) | Pakettreis |
-| [§ 8](para-008.md) | Tegutsemine reisikorraldajana või reisibüroona |
-| [§ 9](para-009.md) | Registri pidamine |
+| [§ 8](para-008.md) | Tegutsemine reisiettevõtjana |
+| [§ 9](para-009.md) |  |
 | [§ 10](para-010.md) | Registreerimistaotlus |
-| [§ 11](para-011.md) | Registreering |
-| [§ 12](para-012.md) | Registreeringu tegemisest keeldumine |
-| [§ 13](para-013.md) | Registreeringuandmete kustutamine |
-| [§ 14](para-014.md) | Täiendavate andmete esitamise kohustus |
+| [§ 11](para-011.md) | Registreerimismenetlus ja registriandmed |
+| [§ 12](para-012.md) | -14. |
 | [§ 15](para-015.md) | Tagatis |
 | [§ 16](para-016.md) | Giid, giid-tõlk ja reisisaatja |
 | **3. peatükk MAJUTUSETTEVÕTTED** | |
@@ -43,7 +41,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/697025> (version in force from 2
 | [§ 30](para-030.md) | Riikliku järelevalve teostajad |
 | [§ 31](para-031.md) | Ettekirjutus |
 | **5¹. peatükk VASTUTUS** | |
-| [§ 31¹](para-031b1.md) | Registreeringunõuete rikkumine |
+| [§ 31¹](para-031b1.md) | Tagatisega seonduvate nõuete rikkumine |
 | [§ 31²](para-031b2.md) | Majutusteenuse osutamine tunnustamata majutusettevõtte poolt |
 | [§ 31³](para-031b3.md) | Majutusteenuse osutamise nõuete rikkumine |
 | [§ 31⁴](para-031b4.md) | Turismiinfokeskusele esitatud nõuete rikkumine |

@@ -1,3 +1,3 @@
 # § 29. Turismiinfopunkt
 
-(91) Turismiinfopunkt kogub ja korrastab erapooletut ja pädevat informatsiooni turismiteenuse ja selle osutamise ning huviväärsuste kohta enda asukoha järgse kohaliku omavalitsuse haldusterritooriumil.
+(85) Turismiinfopunkt kogub ja korrastab erapooletut ja pädevat informatsiooni turismiteenuse ja selle osutamise ning huviväärsuste kohta enda asukoha järgse kohaliku omavalitsuse haldusterritooriumil.

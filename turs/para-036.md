@@ -7,3 +7,5 @@
 (3) Enne käesoleva seaduse jõustumist kehtinud õigusakte järgides väljastatud tunnistus hotellile omistatud kategooria kohta, mille kehtivuse tähtaeg lõpeb pärast 2001. aasta 1. märtsi, kehtib sellel märgitud tähtpäeva saabumiseni, kuid mitte kauem kui 2002. aasta 1. jaanuarini.
 
 (4) Ettevõtja, kellele on väljastatud käesoleva paragrahvi lõikes 1 nimetatud tegevuslitsents, ei pea sellise tegevuslitsentsi kehtivuse ajal omama käesoleva seaduse §-s 15 sätestatud tagatist.
+
+(5) Riiklikus erinõuetega tegevusaladel tegutsevate ettevõtjate registris registreeritud reisibürood ja reisikorraldajad on kohustatud 2004. aasta 15. oktoobriks viima oma andmed vastavusse turismiseaduse nõuetega, esitades uue registreerimistaotluse.

@@ -1,6 +1,6 @@
 # § 3. Reisiteenus
 
-(4) Käesoleva seaduse tähenduses on reisiteenus reisikorraldaja või reisibüroo poolt:
+(4) Käesoleva seaduse tähenduses on reisiteenus reisiettevõtja poolt:
 
 1) sõitjateveoteenuse osutamine, välja arvatud taksoteenus;
 
