@@ -6,4 +6,4 @@
 
 (3) Majutusettevõtet tunnustab oma haldusterritooriumi piires kohalik omavalitsus, kes kaasab selleks eksperdina turismiinfokeskuse töötaja või muu pädeva isiku.
 
-(4) Majutusettevõtetele esitatavad kohustuslikud nõuded ja majutusettevõtte tunnustamise korra kehtestab majandusminister.
+(4) Majutusettevõtetele esitatavad kohustuslikud nõuded ja majutusettevõtte tunnustamise korra kehtestab majandus- ja kommunikatsiooniminister.

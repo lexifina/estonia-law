@@ -2,7 +2,7 @@
 
 (1) Registreering tehakse reisikorraldaja või reisibüroo poolt esitatud andmete alusel kahe tööpäeva jooksul registreerimistaotluse saamisest arvates tingimusel, et reisikorraldaja või reisibüroo poolt turismiteenuse pakkumise ja osutamise õiguse äravõtmise kohta ei ole jõustunud kohtuotsust.
 
-(2) Reisikorraldaja või reisibüroo poolt turismiteenuse pakkumise ja osutamise õiguse äravõtmise kohta jõustunud kohtuotsuse olemasolu tuvastatakse Majandusministeeriumi poolt Karistusregistrile esitatud päringu vastuse alusel.
+(2) Reisikorraldaja või reisibüroo poolt turismiteenuse pakkumise ja osutamise õiguse äravõtmise kohta jõustunud kohtuotsuse olemasolu tuvastatakse Majandus- ja Kommunikatsiooniministeeriumi poolt Karistusregistrile esitatud päringu vastuse alusel.
 
 (3) Käesoleva paragrahvi lõike 4 punktis 9 nimetatud registreeringuandmete kanne tehakse Tarbijakaitseameti esitatud teate alusel.
 

@@ -1,6 +1,6 @@
 # § 9. Registri pidamine
 
-(1) Registri vastutav töötleja on Majandusministeerium.
+(1) Registri vastutav töötleja on Majandus- ja Kommunikatsiooniministeerium.
 
 (2) Registri asutab ja registri pidamise põhimääruse kinnitab Vabariigi Valitsus.
 

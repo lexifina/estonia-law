@@ -4,4 +4,4 @@
 
 (2) Riigilõivu tasub majutusettevõtte tunnistuse taotleja või kolmas isik, kes on huvitatud käesolevas seaduses ettenähtud toimingute sooritamisest ja dokumentide väljastamisest.
 
-(3) Riigilõiv loetakse tasutuks, kui selle tasumist tõendav dokument on saabunud majutusettevõtte tunnistuse taotlemise korral kohalikule omavalitsusele, järgutunnistuse taotlemise korral Majandusministeeriumile.
+(3) Riigilõiv loetakse tasutuks, kui selle tasumist tõendav dokument on saabunud majutusettevõtte tunnistuse taotlemise korral kohalikule omavalitsusele, järgutunnistuse taotlemise korral Majandus- ja Kommunikatsiooniministeeriumile.

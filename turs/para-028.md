@@ -2,7 +2,7 @@
 
 (1) Turismiinfokeskuse vastavust kohustuslikele nõuetele kinnitab turismiinfokeskuse tunnistus.
 
-(2) Turismiinfokeskuse tunnistuse väljastab ja tunnistab kehtetuks majandusminister.
+(2) Turismiinfokeskuse tunnistuse väljastab ja tunnistab kehtetuks majandus- ja kommunikatsiooniminister.
 
 (3) Turismiinfokeskuse tunnistus väljastatakse kuni viieks aastaks.
 
@@ -12,7 +12,7 @@
 
 1) turismiinfokeskuse nimi ja asukoha aadress;
 
-2) turismiinfokeskuse tunnistuse väljastaja nimi, ametinimetus, allkiri ja Majandusministeeriumi pitsati jäljend;
+2) turismiinfokeskuse tunnistuse väljastaja nimi, ametinimetus, allkiri ja Majandus- ja Kommunikatsiooniministeeriumi pitsati jäljend;
 
 3) turismiinfokeskuse tunnistuse väljastamise kuupäev ja kehtivuse tähtaeg;
 
