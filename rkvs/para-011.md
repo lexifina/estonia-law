@@ -12,7 +12,7 @@
 
 - 3) tema surmaga.
 
-(4) Isiku v��ib ennetähtaegselt valimiskomisjoni liikme kohustustest vabastada tema nimetanud ametiisik või organ oma põhistatud otsusega kas oma algatusel või valimiskomisjoni ettepanekul.
+(4) Isiku võib ennetähtaegselt valimiskomisjoni liikme kohustustest vabastada tema nimetanud ametiisik või organ oma põhistatud otsusega kas oma algatusel või valimiskomisjoni ettepanekul.
 
 (5) Valimiskomisjoni liikme volitused peatuvad:
 

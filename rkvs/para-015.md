@@ -36,6 +36,6 @@
 
 - 11) [Kehtetu]
 
-(5) Vabariigi Valimiskomisjoni pädevuses oleva üksikküsimuse lahendamiseks võtab Vabariigi Valimiskomisjon vastu otsuse.Otsusele kirjutab alla komisjoni esimees. Otsus jõustub allakirjutamisega.
+(5) Vabariigi Valimiskomisjoni pädevuses oleva üksikküsimuse lahendamiseks võtab Vabariigi Valimiskomisjon vastu otsuse. Otsusele kirjutab alla komisjoni esimees. Otsus jõustub allakirjutamisega.
 
 (6) Vabariigi Valimiskomisjoni määrus, otsus ja juhis on maakonna valimiskomisjonile ning jaoskonnakomisjonile kohustuslikud.
