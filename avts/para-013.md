@@ -1,6 +1,6 @@
 # § 13. Teabenõude esitamise viis
 
-(30) Teabenõudja esitab teabevaldajale teabenõude kas:
+Teabenõudja esitab teabevaldajale teabenõude kas:
 
 1) suuliselt, pöördudes teabevaldaja poole vahetult või telefoni teel, või
 

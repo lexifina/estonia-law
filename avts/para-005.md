@@ -8,10 +8,10 @@
 
 3) eraõiguslik juriidiline isik ja füüsiline isik käesoleva paragrahvi lõikes 2 sätestatud tingimustel.
 
-(2) Eraõiguslikule juriidilisele isikule ja füüsilisele isikule laienevad teabevaldaja kohustused, kui isik täidab seaduse, haldusakti või lepingu alusel avalikke ülesandeid, sealhulgas osutab haridus-, tervishoiu-, sotsiaal- või muid avalikke teenuseid, – teabe osas, mis puudutab nende ülesannete täitmist.
+(2) Eraõiguslikule juriidilisele isikule ja füüsilisele isikule laienevad teabevaldaja kohustused, kui isik täidab seaduse, haldusakti või lepingu alusel avalikke ülesandeid, sealhulgas osutab haridus-, tervishoiu-, sotsiaal- või muid avalikke teenuseid, ¿ teabe osas, mis puudutab nende ülesannete täitmist.
 
 (3) Teabevaldajaga võrdsustatakse:
 
-1) ettevõtja, kes on kaubaturul valitsevas seisundis, omab eri- või ainuõigust või loomulikku monopoli, – teabe osas, mis puudutab kaupade ja teenuste pakkumise tingimusi, hindu ja nende muudatusi;
+1) ettevõtja, kes on kaubaturul valitsevas seisundis, omab eri- või ainuõigust või loomulikku monopoli, ¿ teabe osas, mis puudutab kaupade ja teenuste pakkumise tingimusi, hindu ja nende muudatusi;
 
-2) mittetulundusühing, sihtasutus või äriühing, mille liige, asutaja või milles osaleja on riik, kohaliku omavalitsuse üksus või avalik-õiguslik juriidiline isik, – teabe osas, mis puudutab riigi või kohaliku omavalitsuse eelarvest eraldatud vahendite kasutamist.
+2) mittetulundusühing, sihtasutus või äriühing, mille liige, asutaja või milles osaleja on riik, kohaliku omavalitsuse üksus või avalik-õiguslik juriidiline isik, ¿ teabe osas, mis puudutab riigi või kohaliku omavalitsuse eelarvest eraldatud vahendite kasutamist.

@@ -1,6 +1,6 @@
 # § 44. Järelevalve seaduse täitmise üle
 
-(114) Käesoleva seaduse täitmise üle teostavad oma pädevuse piires järelevalvet:
+Käesoleva seaduse täitmise üle teostavad oma pädevuse piires järelevalvet:
 
 1) Andmekaitse Inspektsioon käesolevas seaduses sätestatud korras;
 

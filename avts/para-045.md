@@ -2,7 +2,7 @@
 
 (1) Andmekaitse Inspektsioon teostab teabevaldajate üle riiklikku järelevalvet nende poolt teabenõuete täitmisel ja teabe avalikustamisel.
 
-(2) Andmekaitse Inspektsioon võib järelevalvemenetluse algatada kaebuse alusel või oma algatusel.
+(2) Andmekaitse Inspektsioon võib järelevalvemenetluse algatada vaide alusel või oma algatusel.
 
 (3) Järelevalvet teostades selgitab Andmekaitse Inspektsioon, kas:
 

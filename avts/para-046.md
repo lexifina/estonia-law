@@ -1,3 +1,3 @@
-# § 46. Kaebuse esitamine teabenõude täitmisest keeldumise või mittenõuetekohase täitmise peale
+# § 46. Vaide või kaebuse esitamine teabenõude täitmisest keeldumise või mittenõuetekohase täitmise peale
 
-(118) Isik, kelle käesolevas seaduses sätestatud õigusi on rikutud, võib kaebusega pöörduda käesoleva seaduse §-s 44 nimetatud järelevalveorgani poole või halduskohtusse kas isiklikult või esindaja kaudu.
+Isik, kelle käesolevas seaduses sätestatud õigusi on rikutud, võib vaidega pöörduda käesoleva seaduse §-s 44 nimetatud järelevalveorgani poole või kaebusega halduskohtusse kas isiklikult või esindaja kaudu.

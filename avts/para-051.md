@@ -1,6 +1,6 @@
 # § 51. Andmekaitse Inspektsiooni ettekirjutus
 
-(1) Andmekaitse Inspektsioon võib teha teabevaldajale ettekirjutuse seadusliku olukorra taastamiseks, kui ta leiab, et teabevaldaja:
+Andmekaitse Inspektsioon võib teha teabevaldajale ettekirjutuse seadusliku olukorra taastamiseks, kui ta leiab, et teabevaldaja:
 
 1) on ebaseaduslikult keeldunud teabenõude täitmisest;
 
@@ -19,5 +19,3 @@
 8) on jätnud eraelulisi isikuandmeid sisaldavale teabele juurdepääsupiirangud kehtestamata;
 
 9) on väljastanud käesoleva seaduse alusel kehtestatud juurdepääsupiirangutega teavet.
-
-(2) Ettekirjutus peab olema motiveeritud ja haldusdokumentidele esitatavate nõuete kohane.

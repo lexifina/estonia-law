@@ -12,4 +12,4 @@
 
 5) teha teabevaldajale ettepanekuid teabele juurdepääsu paremaks korraldamiseks.
 
-(2) Järelevalve tulemustest teatab Andmekaitse Inspektsioon kaebuse esitajale, teabevaldajale ja teabevaldaja kõrgemalseisvale asutusele või organile. Järelevalve tulemus avalikustatakse Andmekaitse Inspektsiooni veebilehel.
+(2) Vaideotsuse teeb Andmekaitse Inspektsioon teatavaks vaide esitajale, teabevaldajale ja teabevaldaja kõrgemalseisvale asutusele või organile. Järelevalve tulemus avalikustatakse Andmekaitse Inspektsiooni veebilehel.

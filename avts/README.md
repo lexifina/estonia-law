@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/26643> (version in force from 2002-06-01)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/184506> (version in force from 2002-08-01)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -62,10 +62,9 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/26643> (version in force from 20
 | **6. peatükk JÄRELEVALVE** | |
 | [§ 44](para-044.md) | Järelevalve seaduse täitmise üle |
 | [§ 45](para-045.md) | Andmekaitse Inspektsiooni järelevalvepädevus |
-| [§ 46](para-046.md) | Kaebuse esitamine teabenõude täitmisest keeldumise või mittenõuetekohase täitmise peale |
-| [§ 47](para-047.md) | Kaebuse esitamine riikliku järelevalve menetluse algatamiseks |
-| [§ 48](para-048.md) | Kaebuse läbivaatamine Andmekaitse Inspektsiooni poolt |
-| [§ 49](para-049.md) | Kaebuse läbivaatamisest keeldumine Andmekaitse Inspektsiooni poolt |
+| [§ 46](para-046.md) | Vaide või kaebuse esitamine teabenõude täitmisest keeldumise või mittenõuetekohase täitmise peale |
+| [§ 47](para-047.md) | Vaide esitamine riikliku järelevalve menetluse algatamiseks |
+| [§ 48](para-048.md) | – 49. |
 | [§ 50](para-050.md) | Andmekaitse Inspektsiooni õigused |
 | [§ 51](para-051.md) | Andmekaitse Inspektsiooni ettekirjutus |
 | [§ 52](para-052.md) | Andmekaitse Inspektsiooni ettekirjutuse täitmine |
@@ -76,14 +75,5 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/26643> (version in force from 20
 | [§ 56](para-056.md) | Veebilehe pidamise alustamine |
 | [§ 57](para-057.md) | Riigi ja kohaliku omavalitsuse andmekogudes peetavatele andmetele juurdepääsu korra kooskõlla viimine seadusega |
 | [§ 58](para-058.md) | Asjaajamiskorra kooskõlla viimine käesoleva seadusega |
-| [§ 59](para-059.md) | Kriminaalkoodeksi muutmine |
-| [§ 60](para-060.md) | Avaldustele vastamise seaduse muutmine |
-| [§ 61](para-061.md) | Isikuandmete kaitse seaduse muutmine |
-| [§ 62](para-062.md) | Andmekogude seaduse muutmine |
-| [§ 63](para-063.md) | Riigilõivuseaduse muutmine |
-| [§ 64](para-064.md) | Arhiiviseaduse muutmine |
-| [§ 65](para-065.md) | Rahvaraamatukogu seaduse muutmine |
-| [§ 66](para-066.md) | Keskkonnaseire seaduse muutmine |
-| [§ 67](para-067.md) | Õiguskantsleri seaduse täiendamine |
-| [§ 68](para-068.md) | Digitaalallkirja seaduse muutmine |
+| [§ 59](para-059.md) | – 68. |
 | [§ 69](para-069.md) | Seaduse jõustumine |

@@ -26,4 +26,4 @@
 
 7) teabenõudja sideandmed puuduvad.
 
-(3) Teabevaldaja teatab viie tööpäeva jooksul teabenõude täitmisest keeldumisest teabenõudjale, viidates käesoleva paragrahvi lõikes 1 või 2 sätestatud alusele ja põhjendades keeldumist. Teabenõude täitmisest keeldumisest teatab teabevaldaja samal ajal Andmekaitse Inspektsioonile digitaalselt.
+(3) Teabevaldaja teeb käesoleva paragrahvi lõikes 1 või 2 sätestatud alusel teabenõude täitmisest keeldumise teabenõudjale teatavaks viie tööpäeva jooksul. Teabenõude täitmisest keeldumisest teatab teabevaldaja samal ajal Andmekaitse Inspektsioonile digitaalselt.

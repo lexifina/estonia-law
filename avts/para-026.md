@@ -1,6 +1,6 @@
 # § 26. Kulude katmisest vabastamine
 
-(68) Teabevaldaja võib vabastada teabenõudja käesoleva seaduse § 25 lõikes 2 sätestatud kulude katmisest, kui:
+Teabevaldaja võib vabastada teabenõudja käesoleva seaduse § 25 lõikes 2 sätestatud kulude katmisest, kui:
 
 1) kulude sissenõudmine ei ole majanduslikult otstarbekas;
 

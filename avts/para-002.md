@@ -17,3 +17,5 @@
 3) avaldustele vastamise seaduses (RT I 1994, 51, 857; 1996, 49, 953; 2000, 49, 304) sätestatud korras avaldustele ja märgukirjadele vastamisele, kui vastamine eeldab jäädvustatud teabe analüüsimist, sünteesimist või täiendava teabe kogumist ja dokumenteerimist;
 
 4) teabele juurdepääsupiirangute, juurdepääsu eritingimuste, korra ja viiside osas, juhul kui need on eriseaduses või välislepingus sätestatud teisiti.
+
+(3) Käesolevas seaduses ettenähtud haldusmenetlusele kohaldatakse haldusmenetluse seaduse (RT I 2001, 58, 354) sätteid, arvestades käesoleva seaduse erisusi.
