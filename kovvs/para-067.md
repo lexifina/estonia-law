@@ -4,6 +4,6 @@
 
 (2) Kordushääletamisel käesoleva seaduse §-des 46–51 ettenähtut ei kohaldata.
 
-(315) [11¹. peatükk jõustus 1. 09. 2002-
+(316) [11¹. peatükk jõustus 1. 09. 2002 -
 
 ]

@@ -34,10 +34,8 @@
 
 9) valimiste korraldamiseks eraldatud raha kasutamise korra;
 
-10) valimiskulude aruande koostamise, esitamise ja avalikustamise korra.
-
 (5) Vabariigi Valimiskomisjoni pädevuses oleva üksikküsimuse lahendamiseks võtab Vabariigi Valimiskomisjon vastu otsuse. Otsusele kirjutab alla komisjoni esimees. Otsus jõustub allakirjutamisega.
 
 (6) Vabariigi Valimiskomisjoni määrus, otsus ja juhis on maakonna valimiskomisjonile, valla ja linna valimiskomisjonile ning jaoskonnakomisjonile kohustuslikud.
 
-(7) Vabariigi Valimiskomisjon esitab Riigikohtule protesti valla või linna valimiskomisjoni otsuse tühistamiseks osas, millega registreeriti isik volikogu liikmeks, juhul kui on ilmnenud, etseevolikogu liige ei vasta käesoleva seaduse § 5 lõikes 5 või 6 ettenähtud nõuetele.
+(7) Vabariigi Valimiskomisjon esitab Riigikohtule protesti valla või linna valimiskomisjoni otsuse tühistamiseks osas, millega registreeriti isik volikogu liikmeks, juhul kui on ilmnenud, et see volikogu liige ei vasta käesoleva seaduse § 5 lõikes 5 või 6 ettenähtud nõuetele.

@@ -1,6 +1,6 @@
 # § 50. Elektrooniline hääletamine
 
-(1) Valija, kellel on digitaalallkirja sertifikaat, saab eelhääletamise päevadel hääletada elektrooniliselt Vabariigi Valimiskomisjoni veebilehel. Valija hääletab ise.
+(1) Valija, kellel on digitaalallkirja sertifikaat, saab käesoleva seaduse § 44 lõike 2 punktis 2 ettenähtud päevadel hääletada elektrooniliselt Vabariigi Valimiskomisjoni veebilehel. Valija hääletab ise.
 
 (2) Valija tõendab oma isikut digitaalallkirja andmisega.
 

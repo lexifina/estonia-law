@@ -46,4 +46,4 @@
 
 (151) [15. 07. 2002. a Riigikohtu põhiseaduslikkuse järelevalve kolleegiumi kohtuotsus nr 3-4-1-7-02 -
 
-- jõust.15. 07. 2002]
+- jõust. 15. 07. 2002]

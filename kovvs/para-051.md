@@ -1,6 +1,6 @@
 # § 51. Hääletamine kinnipidamiskohas
 
-(1) Kinnipidamiskohas korraldatakse hääletamine eelhääletamise päevadel.
+(1) Kinnipidamiskohas korraldatakse hääletamine käesoleva seaduse § 44 lõike 2 punktis 2 ettenähtud päevadel .
 
 (2) Kinnipidamiskoha juhtkond esitab taotluse hääletamise korraldamiseks käesoleva seaduse § 47 lõikes 2 ettenähtud korras määratud jaoskonnakomisjonile.
 
