@@ -1,3 +1,3 @@
-# § 59 – 68.
+# § 59.
 
-[Käesolevast tekstist välja jäetud]
+–

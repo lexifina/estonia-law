@@ -22,4 +22,6 @@
 
 6. peatükk JÄRELEVALVE
 
+6¹. peatükk VASTUTUS
+
 7. peatükk RAKENDUSSÄTTED

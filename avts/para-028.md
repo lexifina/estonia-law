@@ -4,7 +4,7 @@
 
 1) riigi ja kohaliku omavalitsuse üksuste üldistava majandusstatistika ja majandusprognoosid;
 
-2) kuritegevuse ja haldusõiguserikkumiste üldistava statistika;
+2) kuritegevuse ja väärtegude üldistava statistika;
 
 3) riigi- ja kohaliku omavalitsuse asutuste ning nende struktuuriüksuste põhimäärused;
 

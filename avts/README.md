@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/184506> (version in force from 2002-08-01)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/191530> (version in force from 2002-09-01)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -43,7 +43,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/184506> (version in force from 2
 | **1. jagu Avalikustamisele kuuluv teave** | |
 | [§ 28](para-028.md) | Teabevaldaja kohustus teave avalikustada |
 | [§ 29](para-029.md) | Teabe avalikustamise viisid |
-| [§ 30](para-030.md) | Teabe avalikustamise viisi valimine |
+| [§ 30](para-030.md) | Teabe avalikustamise viisivalimine |
 | **2. jagu Teabe avalikustamine üldkasutatavas andmesidevõrgus** | |
 | [§ 31](para-031.md) | Veebilehe pidamise kohustus |
 | [§ 32](para-032.md) | Riigi- ja kohaliku omavalitsuse asutuse veebilehe pidamise nõuded |
@@ -64,16 +64,19 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/184506> (version in force from 2
 | [§ 45](para-045.md) | Andmekaitse Inspektsiooni järelevalvepädevus |
 | [§ 46](para-046.md) | Vaide või kaebuse esitamine teabenõude täitmisest keeldumise või mittenõuetekohase täitmise peale |
 | [§ 47](para-047.md) | Vaide esitamine riikliku järelevalve menetluse algatamiseks |
-| [§ 48](para-048.md) | – 49. |
+| [§ 48](para-048.md) | –49. |
 | [§ 50](para-050.md) | Andmekaitse Inspektsiooni õigused |
 | [§ 51](para-051.md) | Andmekaitse Inspektsiooni ettekirjutus |
 | [§ 52](para-052.md) | Andmekaitse Inspektsiooni ettekirjutuse täitmine |
 | [§ 53](para-053.md) | Andmekaitse Inspektsiooni taotlus teenistusliku järelevalve korraldamiseks |
 | [§ 54](para-054.md) | Andmekaitse Inspektsiooni ettekanne seaduse täitmisest |
+| **6¹. peatükk VASTUTUS** | |
+| [§ 54¹](para-054b1.md) | Avaliku teabe avalikustamise ja väljastamise nõuete rikkumine |
 | **7. peatükk RAKENDUSSÄTTED** | |
 | [§ 55](para-055.md) | Juurdepääs avalikele arvutivõrkudele rahvaraamatukogudes |
 | [§ 56](para-056.md) | Veebilehe pidamise alustamine |
 | [§ 57](para-057.md) | Riigi ja kohaliku omavalitsuse andmekogudes peetavatele andmetele juurdepääsu korra kooskõlla viimine seadusega |
 | [§ 58](para-058.md) | Asjaajamiskorra kooskõlla viimine käesoleva seadusega |
-| [§ 59](para-059.md) | – 68. |
+| [§ 59](para-059.md) |  |
+| [§ 68](para-068.md) |  |
 | [§ 69](para-069.md) | Seaduse jõustumine |

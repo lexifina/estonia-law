@@ -1,4 +1,4 @@
-# § 30. Teabe avalikustamise viisi valimine
+# § 30. Teabe avalikustamise viisivalimine
 
 (1) Teabevaldaja on kohustatud teabe avalikustama viisil, mis tagab selle jõudmise võimalikult kiiresti igaüheni, kes teavet vajab.
 

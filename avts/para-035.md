@@ -2,7 +2,7 @@
 
 (1) Teabevaldaja on kohustatud tunnistama asutusesiseseks kasutamiseks mõeldud teabeks:
 
-1) kriminaal- või haldusõiguserikkumise menetluses kogutud teabe kuni asja kohtusse esitamiseni, kuid mitte kauemaks kui aegumistähtaja lõpuni;
+1) kriminaal- või väärteomenetluses kogutud teabe kuni asja kohtusse esitamiseni, kuid mitte kauemaks kui aegumistähtaja lõpuni;
 
 2) riikliku järelevalve menetluse käigus kogutud teabe kuni selle kohta tehtud otsuse jõustumiseni;
 
