@@ -4,7 +4,7 @@
 
 (2) Eelhääletamise õigus on valijate nimekirjas oleval valijal, kes eelhääletamise päevaks on vähemalt 18-aastane.
 
-(3) Eelhääletamist korraldavad vähemalt kolm jaoskonnakomisjoni liiget.
+(3) Eelhä��letamist korraldavad vähemalt kolm jaoskonnakomisjoni liiget.
 
 (4) Jaoskonnakomisjoni liige märgib hääletanud valija kohta valijate nimekirja hääletamise kuupäeva.
 
