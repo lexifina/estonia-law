@@ -16,7 +16,11 @@
 
 7) teabe turvasüsteemide, turvaorganisatsiooni või turvameetmete kirjelduse kohta;
 
-8) teabe tehnoloogiliste lahenduste kohta, kui sellise teabe avalikuks tulek kahjustaks teabevaldaja huve või sellise teabe asutusesiseseks kasutamiseks tunnistamine on ette nähtud eraõigusliku isikuga sõlmitud lepingus.
+8) teabe tehnoloogiliste lahenduste kohta, kui sellise teabe avalikuks tulek kahjustaks teabevaldaja huve või sellise teabe asutusesiseseks kasutamiseks tunnistamine on ette nähtud eraõigusliku isikuga sõlmitud lepingus;
+
+[Alapunkt 9 jõustub 1. 07. 2003]
+
+9) seaduses sätestatud muu teabe.
 
 (2) Riigi- või kohaliku omavalitsuse asutuse või avalik-õigusliku juriidilise isiku juht võib asutusesiseseks kasutamiseks mõeldud teabeks tunnistada:
 
