@@ -1,0 +1,13 @@
+# Sisukord
+
+1. peatükk ÜLDSÄTTED
+
+2. peatükk REISIKORRALDAJA JA REISIBÜROO, GIID JA GIID-TÕLK
+
+3. peatükk MAJUTUSETTEVÕTTED
+
+4. peatükk TURISMIINFO
+
+5. peatükk RIIKLIK JÄRELEVALVE JA VASTUTUS
+
+6. peatükk LÕPPSÄTTED
