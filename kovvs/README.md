@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/95225> (version in force from 2002-06-01)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/182555> (version in force from 2002-07-18)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -88,7 +88,5 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/95225> (version in force from 20
 | [§ 68](para-068.md) | Volikogu liikmete registreerimine ja nende volituste algamine |
 | [§ 69](para-069.md) | Volikogu asendusliikmete registreerimine |
 | [§ 70](para-070.md) | Lisamandaatide registreerimine |
-| [§ 71](para-071.md) | Riigikogu töökorra seaduse muutmine |
-| [§ 72](para-072.md) | Kohaliku omavalitsuse korralduse seaduse muutmine |
-| [§ 73](para-073.md) | Senise kohaliku omavalitsuse volikogu valimise seaduse kehtetuks tunnistamine |
+| [§ 71](para-071.md) | -73. |
 | [§ 74](para-074.md) | Seaduse jõustumine |
