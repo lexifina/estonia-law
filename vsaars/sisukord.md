@@ -1,0 +1,11 @@
+# Sisukord
+
+1. peatükk ÜLDSÄTTED
+
+2. peatükk OMAVALITSUSKORRALDUSE ERISUSED
+
+3. peatükk TEENUSED JA INFRASTRUKTUUR
+
+4. peatükk MAJANDUS JA LOODUSHOID
+
+5. peatükk LÕPPSÄTTED
