@@ -2,7 +2,7 @@
 
 (1) Vabariigi Valimiskomisjon koostab pärast kandidaatide registreerimist valimisringkonna kandidaatide koondnimekirja.
 
-(2) Valimisringkonna kandidaatide koondnimekirja kantakse kandidaadid erakondade ringkonnanimekirjade kaupa nende registreerimise järjekorras. Ringkonnanimekirja ette märgitakse selle esitanud erakonna nimi. Üksikkandidaadid kantakse valimisringkonna kandidaatide koondnimekirja nende registreerimise järjekorras pärast erakondade ringkonnanimekirju.
+(2) Valimisringkonna kandidaatide koondnimekirja kantakse kandidaadid erakondade ringkonnanimekirjade kaupa registreerimisnumbrite järjekorras. Ringkonnanimekirja ette märgitakse selle esitanud erakonna nimi. Üksikkandidaadid kantakse valimisringkonna kandidaatide koondnimekirja pärast erakondade ringkonnanimekirju registreerimisnumbrite järjekorras.
 
 (3) Valimisringkonna kandidaatide koondnimekirja märgitakse iga kandidaadi kohta tema registreerimisnumber ja nimi. Kui ühes valimisringkonnas kandideerib mitu samanimelist kandidaati, märgitakse koondnimekirja ka nende sünniaeg.
 
