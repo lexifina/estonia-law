@@ -14,4 +14,6 @@
 
 5) revisjonikomisjoni liikmete nimed.
 
-(3) -(4)
+(3) -(4) [Kehtetud]
+
+(15) Paragrahvid 8--9. [Kehtetud]

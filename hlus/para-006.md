@@ -1,6 +1,6 @@
 # § 6. Hoiu-laenuühistu tehingud
 
-(10) Hoiu-laenuühistu teostab järgmisi tehingud ja toimingud:
+(1) Hoiu-laenuühistu teostab järgmisi tehingud ja toimingud:
 
 1) raha hoiustamiseks vastuvõtmine oma liikmetelt;
 
@@ -17,3 +17,5 @@
 7) varakappide ja seifide üürimine;
 
 8) klientide nõustamine majandustegevust puudutavates küsimustes.
+
+(2) Käesoleva paragrahvi lõikes 1 sätestatu ei välista ega piira hoiu-laenuühistu poolt tehtud muude tehingute ja toimingute kehtivust.
