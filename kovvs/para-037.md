@@ -2,7 +2,7 @@
 
 (1) Valla või linna valimiskomisjon registreerib kõik käesoleva seaduse nõuete kohaselt registreerimiseks esitatud isikud nende registreerimiseks esitamise järjekorras pärast kandidaatide registreerimiseks esitamise tähtaja lõppemist hiljemalt 35. päeval enne valimispäeva.
 
-(2) Kandidaadile antakse registreerimisnumber. Registreerimisnumbrid algavad 101-st ja need antakse kandidaatidele registreerimise järjekorras.
+(2) Kandidaadile antakse registreerimisnumber. Registreerimisnumbrid algavad 101-st ja need antakse kandidaatidele erakondade ja valimisliitude nimekirjade kaupa. Üksikkandidaatidele antakse registreerimisnumbrid pärast erakondade ja valimisliitude kandidaatidele numbrite andmist. Numbrite andmise järjekord erakondade ja valimisliitude vahel ning üksikkandidaatide vahel selgitatakse liisu heitmisega.
 
 (3) Kui käesoleva seaduse § 36 lõikes 6 nimetatud tähtaja jooksul ei ole erakond, valimisliit või üksikkandidaat teinud valla või linna valimiskomisjoni nõutud toiminguid, jätab valla või linna valimiskomisjon registreerimata:
 

@@ -10,4 +10,4 @@
 
 (3) Kodus hääletamine korraldatakse käesolevas seaduses ettenähtud juhtudel valimispäeval.
 
-(4) Kinnipidamiskohas hääletamine korraldatakse käesolevas seaduses ettenähtud juhtudel käesoleva paragrahvi lõike 2 punktis 2 ettenähtud päevadel .
+(4) Kinnipidamiskohas hääletamine korraldatakse käesolevas seaduses ettenähtud juhtudel käesoleva paragrahvi lõike 2 punktis 2 ettenähtud päevadel.
