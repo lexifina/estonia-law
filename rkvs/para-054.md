@@ -1,6 +1,6 @@
 # § 54. Hääletamine välisesinduses
 
-(1) Kui valija eiesitakirja teel hääletamise taotlust välisesindusele käesoleva seaduse § 50 lõikes 5 ettenähtud tähtaja jooksul või ei saada hääletamissedelit välisesindusele § 52 lõikes 2 ettenähtud tähtpäevaks, võib ta hääletada välisesinduses viimase määratud ajal.
+(1) Kui valija ei esita kirja teel hääletamise taotlust välisesindusele käesoleva seaduse § 50 lõikes 5 ettenähtud tähtaja jooksul või ei saada hääletamissedelit välisesindusele § 52 lõikes 2 ettenähtud tähtpäevaks, võib ta hääletada välisesinduses viimase määratud ajal.
 
 (2) Välisesinduses hääletamist peab välisesindus võimaldama vähemalt kahel päeval ajavahemikus 15. päevast kuni 10. päevani enne valimispäeva.
 

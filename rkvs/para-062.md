@@ -24,7 +24,7 @@ jne. Seejuures jäetakse iga erakonna võrdlusarvude arvutamisel vahele nii mitu
 
 (6) Kandidaatide üleriigilises nimekirjas saab kompensatsioonimandaadi kandidaat, kes on nimekirjas eespool ja kellele antud häälte arv on vähemalt 5 protsenti lihtkvoodist. Mandaatide jaotamisel jäetakse vahele need kandidaadid, kes osutusid valituks valimisringkondades.
 
-(7) Kui kompensatsioonimandaatide jaotamisel selgub, etüleriigilisesnimekirjas ei ole piisavalt kandidaate, kellele antud häälte arv oli vähemalt 5 protsenti oma valimisringkonna lihtkvoodist, saab kompensatsioonimandaadi oma valimisringkonna lihtkvoodist enima häälteprotsendi kogunud sama nimekirja kandidaat. Häälte võrdsuse korral saab kompensatsioonimandaadi kandidaat, kes on esitatud nimekirjas eespool.
+(7) Kui kompensatsioonimandaatide jaotamisel selgub, et üleriigilises nimekirjas ei ole piisavalt kandidaate, kellele antud häälte arv oli vähemalt 5 protsenti oma valimisringkonna lihtkvoodist, saab kompensatsioonimandaadi oma valimisringkonna lihtkvoodist enima häälteprotsendi kogunud sama nimekirja kandidaat. Häälte võrdsuse korral saab kompensatsioonimandaadi kandidaat, kes on esitatud nimekirjas eespool.
 
 (8) Erakond ei või saada rohkem mandaate, kui on tema nimekirjas kandidaate.
 

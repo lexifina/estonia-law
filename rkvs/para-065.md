@@ -4,7 +4,7 @@
 
 aruanne
 
-). Korruptsioonivastase seaduse § 14 lõikes 2 nimetatud Riigikogu komisjon avalikustab aruanded.
+). Korruptsioonivastase seaduse § 14 lõikes 2 nimetatud Riigikogu komisjonavalikustab aruanded.
 
 (2) Kui erakonna nimekirjas kandideerinud isik tegi valimiskampaaniaks kulutusi erakonna kampaania kuludest eraldi, peab aruanne sisaldama andmeid ka nende kulude kohta. Nimetatud kuludele kohaldatakse erakonna aruande kohta ettenähtut.
 
