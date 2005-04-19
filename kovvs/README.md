@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/810706> (version in force from 2004-10-29)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/899185> (version in force from 2005-04-19)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -91,5 +91,5 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/810706> (version in force from 2
 | [§ 68](para-068.md) | Volikogu liikmete registreerimine ja nende volituste algamine |
 | [§ 69](para-069.md) | Volikogu asendusliikmete registreerimine |
 | [§ 70](para-070.md) | Lisamandaatide registreerimine |
-| [§ 70¹](para-070b1.md) | Valimisliitude registreerimiseks esitamine |
+| [§ 70¹](para-070b1.md) |  |
 | [§ 74](para-074.md) | Seaduse jõustumine |
