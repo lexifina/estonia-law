@@ -8,7 +8,9 @@
 
 (4) Nimekirjamandaatide jaotamiseks reastatakse kandidaadid ringkonnanimekirjades vastavalt igaühele antud häälte arvule. Kui vähemalt kahele kandidaadile on antud võrdne arv hääli, siis reastatakse ettepoole kandidaat, kes paiknes nimekirjas eespool. Sama erakonna või valimisliidu ringkonnanimekirjas olevate kandidaatide hääled liidetakse.
 
-(5) Nimekirjamandaadid jaotatakse modifitseeritud d’Hondti jagajate meetodil jagajate jadadega 1, 2<sup>0,9</sup>, 3<sup>0,9</sup>, 4<sup>0,9 </sup>jne. Seejuures jäetakse iga erakonna või valimisliidu võrdlusarvude arvutamisel vahele nii mitu jada esimest elementi, kui mitu mandaati sai erakond või valimisliit vastavas valimisringkonnas lihtkvoodi alusel. Kui vähemalt kahe erakonna või valimisliidu võrdlusarvud on võrdsed, saab mandaadi erakond või valimisliit, kelle kandidaadid on varem registreeritud.
+(5) Nimekirjamandaadid jaotatakse modifitseeritud d’Hondti jagajate meetodil jagajate jadadega 1, 2<sup>0,9</sup>, 3<sup>0,9</sup>, 4<sup>0,9
+
+</sup>jne. Seejuures jäetakse iga erakonna või valimisliidu võrdlusarvude arvutamisel vahele nii mitu jada esimest elementi, kui mitu mandaati sai erakond või valimisliit vastavas valimisringkonnas lihtkvoodi alusel. Kui vähemalt kahe erakonna või valimisliidu võrdlusarvud on võrdsed, saab mandaadi erakond või valimisliit, kelle kandidaadid on varem registreeritud.
 
 (6) Ümberreastatud kandidaatidega ringkonnanimekirjas (lõige 4) saab nimekirjamandaadi kandidaat, kes on selles nimekirjas eespool. Mandaatide jaotamisel jäetakse vahele need kandidaadid, kes osutusid valituks lihtkvoodi alusel.
 

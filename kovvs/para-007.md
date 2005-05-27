@@ -10,7 +10,9 @@
 
 3) üle 10 000 elaniku – vähemalt 21-liikmeline volikogu;
 
-4) üle 50 000 elaniku – vähemalt 31-liikmeline volikogu.
+4) üle 50 000 elaniku – vähemalt 31-liikmeline volikogu;
+
+5) üle 300 000 elaniku – vähemalt 63-liikmeline volikogu.
 
 (3) Volikogu liikmete arv määratakse hiljemalt 90. päeval enne valimispäeva.
 
