@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/900654> (version in force from 2005-05-27)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/918131> (version in force from 2005-07-10)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -14,6 +14,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/900654> (version in force from 2
 | [§ 5](para-005.md) | Hääletamis- ja kandideerimisõigus |
 | **2. peatükk AGITATSIOON** | |
 | [§ 6](para-006.md) | Agitatsiooni piirang |
+| [§ 6¹](para-006b1.md) | Poliitilise välireklaami keeld |
 | **3. peatükk VOLIKOGU LIIKMETE ARV, VALIMISRINGKONNAD JA -JAOSKONNAD** | |
 | [§ 7](para-007.md) | Volikogu liikmete arvu määramine |
 | [§ 8](para-008.md) | Valimisringkondade moodustamine |
@@ -87,6 +88,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/900654> (version in force from 2
 | [§ 67](para-067.md) | Hääletamistulemuste kehtetuks tunnistamine |
 | **11¹. peatükk VASTUTUS** | |
 | [§ 67¹](para-067b1.md) | Andmete või materjalide esitamata jätmine või valimiskomisjoni otsuse mittetäitmine |
+| [§ 67²](para-067b2.md) | Poliitilisele välireklaamile kehtestatud piirangute rikkumine |
 | **12. peatükk LÕPPSÄTTED** | |
 | [§ 68](para-068.md) | Volikogu liikmete registreerimine ja nende volituste algamine |
 | [§ 69](para-069.md) | Volikogu asendusliikmete registreerimine |
