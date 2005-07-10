@@ -1,6 +1,6 @@
 # § 37. Hääletamissedel
 
-(1) Hääletamissedeli vormi kehtestab Vabariigi Valimiskomisjon.
+(1) Hääletamissedeli vormi kehtestab Vabariigi Valimiskomisjon .
 
 (2) Vabariigi Valimiskomisjon korraldab hääletamissedelite valmistamise ning jaoskonnakomisjonidele kättetoimetamise.
 
