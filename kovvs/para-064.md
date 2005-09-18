@@ -1,6 +1,6 @@
 # § 64. Jaoskonnakomisjoni toimingu ja valla või linna valimiskomisjoni otsuse või toimingu peale kaebuse esitamise ja kaebuse läbivaatamise kord
 
-(1) Kui üksikisik, kandidaat, valimisliit või erakond (edaspidi *huvitatud isik*) leiab, et jaoskonnakomisjoni toiminguga või valla või linna valimiskomisjoni otsuse või toiminguga rikutakse tema õigusi, võib ta esitada kaebuse maakonna valimiskomisjonile.
+(1) Kui üksikisik, kandidaat, valimisliit või erakond (edaspidi * huvitatud isik*) leiab, et jaoskonnakomisjoni toiminguga või valla või linna valimiskomisjoni otsuse või toiminguga rikutakse tema õigusi, võib ta esitada kaebuse maakonna valimiskomisjonile.
 
 (2) Kaebus tuleb esitada maakonna valimiskomisjonile kolme päeva jooksul, arvates käesoleva paragrahvi lõikes 1 ettenähtud otsuse või toimingu tegemisest.
 
@@ -20,6 +20,6 @@
 
 1) peatada jaoskonnakomisjoni või valla või linna valimiskomisjoni liikme tegevuse, kes on seadust rikkunud;
 
-2) tunnistada jaoskonnakomisjoni toimingu või valla või linna valimiskomisjoni otsuse või toimingu seadusevastaseks ning teha jaoskonnakomisjonile või valla või linna valimiskomisjonile ettekirjutuse seaduserikkumise kõrvaldamiseks;
+2) tühistada valla või linna valimiskomisjoni otsuse või tunnistada jaoskonnakomisjoni toimingu või valla või linna valimiskomisjoni otsuse või toimingu seadusevastaseks ning teha jaoskonnakomisjonile või valla või linna valimiskomisjonile ettekirjutuse seaduserikkumise kõrvaldamiseks;
 
 3) teha Vabariigi Valimiskomisjonile ettepaneku tunnistada hääletamistulemused valimisjaoskonnas kehtetuks ning korraldada valimisjaoskonnas kordushääletamine, kui seaduserikkumine mõjutas või võis hääletamistulemusi oluliselt mõjutada.

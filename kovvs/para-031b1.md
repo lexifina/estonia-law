@@ -16,7 +16,7 @@
 
 5) soovi korral muud valimisliidu tegevust puudutavad andmed.
 
-(4) Valimisliidu nimi ei või olla ebaesteetiline ega eksitav. Eelmistel volikogu valimistel registreeritud valimisliidu nime võib kasutada juhul, kui üle poolte valimisliidu moodustajatest olid sama valimisliidu moodustajateks ka eelmistel valimistel. Keelatud on valimisliidu nimena kasutada erakonna või mõne muu valimisliidu nime või sellega eksitavalt sarnast nime.
+(4) Valimisliidu nimi ei või olla ebaesteetiline ega eksitav. Eelmistel volikogu valimistel registreeritud valimisliidu nime võib kasutada juhul, kui üle poole eelmise valimisliidu moodustajatest on ka uue valimisliidu moodustajateks. Keelatud on valimisliidu nimena kasutada erakonna või mõne muu valimisliidu nime või sellega eksitavalt sarnast nime.
 
 (5) Valla või linna valimiskomisjon registreerib nõuetekohaselt registreerimiseks esitatud valimisliidu kolme päeva jooksul pärast käesoleva paragrahvi lõikes 3 märgitud dokumentide saamist.
 

@@ -8,7 +8,7 @@
 
 2) on valimispäevaks elanud seaduslikult vähemalt viimased viis aastat vastavas vallas või linnas.
 
-(3) Hääleõiguslik ei ole isik, kes on kohtu poolt tunnistatud teovõimetuks.
+(3) Hääleõiguslik ei ole isik, kes on valimisõiguse osas teovõimetuks tunnistatud.
 
 (4) Hääletamisest ei võta osa isik, kes on kohtu poolt süüdi mõistetud ja kannab karistust kinnipidamiskohas.
 

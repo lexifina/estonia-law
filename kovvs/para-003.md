@@ -7,3 +7,5 @@
 (3) Täiendavad valimised kuulutab välja maavanem oma korraldusega kooskõlastatult Vabariigi Valimiskomisjoniga kümne päeva jooksul, arvates käesoleva paragrahvi lõikes 2 nimetatud teate saamisest. Valimised toimuvad hiljemalt 30. päeval pärast valimiste väljakuulutamist. Volikogu täiendavate valimiste päev on pühapäev.
 
 (4) Valla või linna valimiskomisjon kehtestab oma otsusega kooskõlastatult Vabariigi Valimiskomisjoniga täiendavate valimiste toimingute tähtajad ning avalikustab need kolme päeva jooksul, arvates otsuse vastuvõtmise päevast.
+
+(5) Täiendavaid valimisi ei korraldata kohaliku omavalitsuse volikogu korralistele valimistele vahetult eelneval kolmekuulisel ajavahemikul.

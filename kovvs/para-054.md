@@ -1,6 +1,6 @@
 # § 54. Hääletamistulemuste kindlakstegemine jaoskonnakomisjonis
 
-(1) Jaoskonnakomisjon avab hääletamiskastid valimispäeval pärast hääletamise lõppemist. Avamise juures peab olema üle poole jaoskonnakomisjoni koosseisust.
+(1) Jaoskonnakomisjon avab valimispäeval kasutatud hääletamiskastid pärast hääletamise lõppemist . Avamise juures peab olema üle poole jaoskonnakomisjoni koosseisust.
 
 (2) Enne hääletamiskastide avamist peab jaoskonnakomisjon üle lugema ja kustutama kõik valijatele välja andmata jäänud, samuti valijate tagastatud rikutud hääletamissedelid. Hääletamissedelid kustutatakse sedeli nurga äralõikamisega.
 
@@ -10,7 +10,7 @@
 
 (5) Kodus hääletanute hääletamissedelite välisküljele pannakse jaoskonnakomisjoni pitsati jäljend ning sedelid pannakse hääletamisruumis hääletanute hääletamissedelite hulka.
 
-(6) Väljaspool elukohajärgset valimisjaoskonda hääletanute hääletamissedeleid sisaldavad sisemised ümbrikud avatakse, hääletamissedelite välisküljele pannakse jaoskonnakomisjoni pitsati jäljend ning need sedelid pannakse koos eelhääletanute hääletamissedelitega valimispäeval hääletanute sedelite hulka.
+(6) Väljaspool elukohajärgset valimisjaoskonda hääletanute hääletamissedelite välisküljele pannakse jaoskonnakomisjoni pitsati jäljend ning need sedelid pannakse koos eelhääletanute hääletamissedelitega valimispäeval hääletanute sedelite hulka.
 
 (7) Jaoskonnakomisjon teeb hääletamiskastides olnud sedelite alusel kindlaks hääletamisest osavõtnud valijate arvu, kehtetute sedelite arvu ning kandidaatidele, erakondadele ja valimisliitudele antud häälte arvu ning kannab need vormikohasesse protokolli.
 

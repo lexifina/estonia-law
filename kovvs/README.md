@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/918131> (version in force from 2005-07-10)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/938781> (version in force from 2005-09-18)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -68,8 +68,11 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/918131> (version in force from 2
 | [§ 51](para-051.md) | Hääletamine kinnipidamiskohas |
 | [§ 52](para-052.md) | Kodus hääletamine |
 | [§ 53](para-053.md) | Eelhääletamise ajal väljaspool elukohajärgset valimisjaoskonda antud häälte arvestamine |
+| [§ 53¹](para-053b1.md) | Elektrooniliselt antud häälte arvestamine |
 | **8. peatükk HÄÄLETAMIS- JA VALIMISTULEMUSTE KINDLAKSTEGEMINE** | |
 | [§ 54](para-054.md) | Hääletamistulemuste kindlakstegemine jaoskonnakomisjonis |
+| [§ 54¹](para-054b1.md) | Eelhääletamisel antud häälte lugemine |
+| [§ 54²](para-054b2.md) | Elektrooniliselt antud häälte lugemine |
 | [§ 55](para-055.md) | Hääletamistulemuste kindlakstegemine valla ja linna valimiskomisjonis |
 | [§ 56](para-056.md) | Valimistulemuste kindlakstegemine |
 | **9. peatükk VOLIKOGU TÄIENDAVATE VALIMISTE ERISUSED** | |
@@ -77,6 +80,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/918131> (version in force from 2
 | **10. peatükk VALIMISTE KULUD** | |
 | [§ 58](para-058.md) | Valimiste korraldamise kulud |
 | [§ 59](para-059.md) | Erakonna, valimisliidu ja üksikkandidaadi valimiskampaania rahastamise aruanne |
+| [§ 59¹](para-059b1.md) | Valimisliidu rahalised vahendid |
 | [§ 60](para-060.md) | Valimiskampaaniaks kasutatud vahendid |
 | [§ 61](para-061.md) | Valimiskampaania kulud |
 | **11. peatükk KAEBUSED** | |

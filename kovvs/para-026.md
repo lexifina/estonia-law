@@ -6,7 +6,7 @@
 
 1) valija ees- ja perekonnanimi;
 
-2) valija sünniaeg;
+2) valija sünniaasta;
 
 3) valija elukoha aadress;
 

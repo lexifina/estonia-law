@@ -8,31 +8,21 @@
 
 2) peatada maakonna valimiskomisjoni, valla või linna valimiskomisjoni või jaoskonnakomisjoni toiming või maakonna valimiskomisjoni või valla või linna valimiskomisjoni otsuse kehtivus;
 
-3) tunnistada maakonna valimiskomisjoni või valla või linna valimiskomisjoni otsus kehtetuks ja vajaduse korral teha ettekirjutus uue otsuse tegemiseks.
+3) tunnistada maakonna valimiskomisjoni või valla või linna valimiskomisjoni otsus kehtetuks ja vajaduse korral teha ettekirjutus uue otsuse tegemiseks;
+
+4) tunnistada hääletamistulemused valimisjaoskonnas, valimisringkonnas või vallas või linnas kehtetuks ning korraldada kordushääletamine, kui seaduserikkumine mõjutas või võis hääletamistulemusi oluliselt mõjutada.
 
 (3) Vabariigi Valimiskomisjon annab määrusi käesoleva paragrahvi lõikes 4 ettenähtud juhtudel. Vabariigi Valimiskomisjoni määrusele kirjutab alla esimees. Määrus jõustub kolmandal päeval, arvates Riigi Teatajas avaldamisest.
 
 (4) Vabariigi Valimiskomisjon kehtestab oma määrusega:
 
-1) kandidaatide registreerimiseks esitamise ja registreerimise korra;
-
 1¹) valimisliidu registreerimise avalduse vormi;
 
-2) kandidaatide registreerimise avalduse vormi, kandidaatide ringkonnanimekirja vormi, kandideerimisavalduse vormi ja kandidaadi ankeedi vormi;
+4) ;
 
-3) Euroopa Liidu kodaniku hääleõiguslikkusest teavitamise teatise vormi;
+7) ;
 
-4) valijate nimekirja vormi;
-
-5) hääletamise korraldamise ning hääletamis- ja valimistulemuste kindlakstegemise korra;
-
-6) hääletamissedeli vormi;
-
-7) hääletamis- ja valimistulemuste protokollide vormid;
-
-8) vaatleja staatuse;
-
-9) valimiste korraldamiseks eraldatud raha kasutamise korra;
+9) ;
 
 (5) Vabariigi Valimiskomisjoni pädevuses oleva üksikküsimuse lahendamiseks võtab Vabariigi Valimiskomisjon vastu otsuse. Otsusele kirjutab alla komisjoni esimees. Otsus jõustub allakirjutamisega.
 

@@ -1,6 +1,6 @@
 # § 27. Valijate nimekiri
 
-(1) Rahvastikuregistri vastutav töötleja korraldab rahvastikuregistri andmete alusel iga valimisjaoskonna valijate nimekirja koostamise ja trükkimise ning selle jaoskonnakomisjonidele kättetoimetamise hiljemalt seitsmendaks päevaks enne valimispäeva.
+(1) Rahvastikuregistri vastutav töötleja korraldab rahvastikuregistri andmete alusel iga valimisjaoskonna valijate nimekirja koostamise ja trükkimise ning selle jaoskonnakomisjonidele kättetoimetamise hiljemalt seitsmendaks päevaks enne valimispäeva. Valijate elektroonilised nimekirjad edastatakse Vabariigi Valimiskomisjonile hiljemalt seitsmendaks päevaks enne valimispäeva.
 
 (2) Valijate nimekirja koostamise aluseks on käesoleva seaduse § 24 lõikes 3 ettenähtud andmed valimispäevale eelneva 30. päeva seisuga. Valijate nimekirja koostamisel võetakse arvesse ka käesoleva seaduse § 24 lõike 3 punktides 1–6 nimetatud andmetes pärast valimispäevale eelnevat 30. päeva tehtud muudatused. Elukoha aadressiandmetes pärast valimispäevale eelnevat 30. päeva tehtud muudatusi arvesse ei võeta.
 
@@ -16,7 +16,7 @@
 
 3) elukoha aadress.
 
-(6) Valijad kantakse valijate nimekirja nende perekonnanimede järjekorras.
+(6) Valijad kantakse valijate nimekirja nende perekonnanimede tähestikulises järjekorras.
 
 (7) Valijate nimekirja koostaja kirjutab valijate nimekirjale alla hiljemalt seitsmendal päeval enne valimispäeva ning jaoskonnakomisjoni esimees valimispäeval pärast hääletamise lõppemist.
 

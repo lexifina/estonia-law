@@ -2,13 +2,13 @@
 
 (1) Valla või linna valimiskomisjoni liikmeks võib olla Eesti kodanik või Euroopa Liidu kodanik, kellel on hääletamisõigus käesoleva seaduse § 5 lõigete 1, 3 ja 4 kohaselt. Valla või linna valimiskomisjoni liige peab valdama eesti keelt.
 
-(2) Jaoskonnakomisjoni liikmeks võib olla Eesti kodanik või välismaalane, kellel on hääletamisõigus käesoleva seaduse § 5 lõigete 1–4 kohaselt. Jaoskonnakomisjoni liige peab valdama eesti keelt.
+(2) Jaoskonnakomisjoni liikmeks võib olla Eesti kodanik, Euroopa Liidu kodanik või välismaalane, kellel on hääletamisõigus käesoleva seaduse § 5 lõigete 1–4 kohaselt . Jaoskonnakomisjoni liige peab valdama eesti keelt.
 
 (3) Isik võib olla ühe valimiskomisjoni liige.
 
 (4) Valimiskomisjoni liikme volitused lõpevad ennetähtaegselt:
 
-1) teda süüdimõistva kohtuotsuse jõustumisega;
+1) kui ilmneb, et tal puudub hääletamisõigus käesoleva seaduse § 5 lõigete 1–4 kohaselt;
 
 2) tema tagasiastumisega;
 

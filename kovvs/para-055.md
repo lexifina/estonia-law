@@ -6,6 +6,4 @@
 
 (3) Valla või linna hääletamistulemuste kindlakstegemise kohta koostab valla või linna valimiskomisjon vormikohase protokolli, millele kirjutab alla komisjoni esimees. Protokollis märgitakse selle koostamise kuupäev ja kellaaeg.
 
-(4) Elektroonilise hääletamise tulemusi ei avaldata enne hääletamise lõppemist valimispäeval.
-
 (5) Hääletamistulemused tehakse valla või linna valimiskomisjonis kindlaks avalikult.
