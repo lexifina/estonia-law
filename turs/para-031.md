@@ -1,19 +1,13 @@
-# § 31. Ettekirjutus
+# § 31. Järelevalvet teostava ametiisiku ettekirjutus
 
-(1) Kehtiva või nõuetekohase tagatiseta tegutsemise avastamise korral teeb Tarbijakaitseamet reisikorraldajale või reisibüroole ettekirjutuse, milles:
+(1) Käesoleva seaduse või selle alusel kehtestatud õigusaktide nõuete rikkumise lõpetamiseks teeb järelevalvet teostav ametiisik ettekirjutuse, milles:
 
-1) juhib tähelepanu õiguserikkumisele,
+1) juhib tähelepanu õigusrikkumisele;
 
-2) esitab nõude reisiteenuse pakkumise ja osutamise osaliseks või täielikuks peatamiseks ja
+2) kohustab tegema edasise tegevuse õiguspäraseks jätkamiseks vajalikke toiminguid;
 
-3) kohustab tegema edasise reisiteenuse pakkumise ja osutamise õiguspäraseks jätkamiseks vajalikke toiminguid.
+3) esitab vajaduse korral nõude õigusrikkumisega seotud tegevuse osaliseks või täielikuks peatamiseks.
 
-(2) Tarbijakaitseamet kannab andmed ettekirjutuse kohta registrisse vastavalt majandustegevuse registri seaduses sätestatule.
+(2) Käesoleva seaduse § 30 lõikes 1 nimetatud järelevalvet teostavad asutused kannavad andmed majutusteenuse osutajale või reisiettevõtjale tehtud ettekirjutuse kohta registrisse vastavalt majandustegevuse registri seaduses sätestatule.
 
-(3) Tervisekaitsenõuetele mittevastava majutusettevõtte kaudu majutusteenuse osutamise avastamise korral teeb Tervisekaitseinspektsioon majutusteenust osutavale ettevõtjale ettekirjutuse, milles:
-
-1) juhib tähelepanu õiguserikkumisele,
-
-2) esitab nõude majutusteenuse pakkumise ja osutamise osaliseks või täielikuks peatamiseks ja
-
-3) kohustab tegema edasise majutusteenuse pakkumise ja osutamise õiguspäraseks jätkamiseks vajalikke toiminguid.
+(3) Käesoleva paragrahvi lõikes 1 sätestatud ettekirjutuse täitmata jätmise korral võib järelevalvet teostav ametiisik rakendada sunnivahendit asendustäitmise ja sunniraha seaduses (RT I 2001, 50, 283; 94, 580) sätestatud korras. Sunniraha ülemmäär on 10 000 krooni.

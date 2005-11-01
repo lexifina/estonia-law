@@ -2,7 +2,7 @@
 
 (1) Turismiinfokeskus kogub ja korrastab erapooletut ja pädevat informatsiooni turismiteenuse ja selle osutamise ning huviväärsuste kohta enda asukoha järgse maakonna haldusterritooriumil ja edastab selle turismiinfost huvitatud isikutele ja teistele turismiinfokeskustele ning Vabariigi Valitsuse määratud isikule.
 
-(2) Vabariigi Valitsuse määratud isik avaldab Interneti-lehel majutusettevõtte tunnistusele, järgutunnistusele ja turismiinfokeskuse tunnistusele märgitud andmeid, samuti andmeid giidide ja giid-tõlkide kohta ning turismiinfokeskuste poolt edastatud turismiinfot.
+(2) Vabariigi Valitsuse määratud isik avaldab veebilehel majutusettevõtete ja turismiinfokeskustega seonduvaid andmeid, samuti andmeid giidide ja giid-tõlkide kohta ning turismiinfokeskuste poolt edastatud turismiinfot.
 
 (3) Turismiinfokeskus tähistatakse märgiga, kus rohelisel põhjal asetseb valget värvi täht «i».
 
@@ -22,4 +22,4 @@
 
 7) posti- ja sideteenuste müük.
 
-(5) Vabariigi Valitsus määrab isiku, kellele turismiinfokeskus edastab enda poolt kogutud ja korrastatud erapooletut ja pädevat informatsiooni turismiteenuse ja selle osutamise ning huviväärsuste kohta enda asukoha järgse maakonna haldusterritooriumil.
+(5) , kellele turismiinfokeskus edastab enda poolt kogutud ja korrastatud erapooletut ja pädevat informatsiooni turismiteenuse ja selle osutamise ning huviväärsuste kohta enda asukoha järgse maakonna haldusterritooriumil.

@@ -1,27 +1,27 @@
-# § 20. Majutusettevõtte tunnistus
+# § 20. Majutusettevõtte registreerimise taotlus
 
-(1) Majutusettevõtte vastavust kohustuslikele nõuetele kinnitab majutusettevõtte tunnistus.
+(1) Ettevõtja, kes soovib osutada majutusteenust, esitab majutusettevõtte registreerimise taotluse majutusettevõtte asukohajärgsele valla- või linnavalitsusele.
 
-(2) Majutusettevõtte tunnistuse väljastab ja tunnistab kehtetuks kohalik omavalitsus.
+(2) Registreerimistaotluses peavad olema märgitud:
 
-(3) Majutusettevõtte tunnistus väljastatakse kuni kolmeks aastaks.
+1) ettevõtja nimi, aadress ja muud kontaktandmed, registrikood või isikukood või viimase puudumisel sünniaeg;
 
-(4) Majutusettevõtte tunnistus kaotab kehtivuse majutusettevõtte tunnistuse kehtivuse tähtaja lõppemisel või tunnistatakse kehtetuks, kui majutusettevõte ei vasta enam kohustuslikele nõuetele.
+2) majutusettevõtte nimi ja liik või muu liiki iseloomustav määratlus;
 
-(5) Majutusettevõtte tunnistuse kehtivuse tähtaja lõppemise korral on kohalikul omavalitsusel õigus majutusettevõtte tunnistust pikendada kuni samale majutusettevõttele väljastatud järgutunnistuse kehtivuse tähtaja lõppemiseni.
+3) majutusettevõtte aadress ja muud kontaktandmed;
 
-(6) Majutusettevõtte tunnistusele kantakse:
+4) majutusruumide ja majutuskohtade arv;
 
-1) majutusettevõtte nimi, liik, asukoha aadress;
+5) majutamise periood (kuudes, aasta ringi vms);
 
-2) ettevõtja nimi ja olemasolu korral äriregistri registrikood;
+6) kui tunnustamine toiduseaduse (RT I 1999, 30, 415; 58, 608; 2001, 93, 566; 2002, 61, 375; 63, 387; 102, 603; 2004, 27, 177; 34, 236) tähenduses on nõutud, siis tunnustamise otsuse number, otsuse tegemise kuupäev, otsuse teinud asutuse nimi ja käitlemisvaldkond;
 
-3) majutusettevõtte tunnistuse väljastaja nimi ja pitsati jäljend, ametniku nimi, ametinimetus ja allkiri;
+7) andmed alkohoolsete jookide jaemüügi kohta, kui majutusettevõtte majutusruumis või vastuvõturuumis soovitakse müüa alkohoolseid jooke;
 
-4) majutusettevõtte tunnistuse väljastamise kuupäev ja kehtivuse tähtaeg;
+8) registreerimistaotluse allkirjastanud isiku nimi, ametinimetus ja kontaktandmed;
 
-5) majutusettevõtte tunnistuse number.
+9) registreerimistaotluse esitamise kuupäev;
 
-(7) Kohalik omavalitsus on kohustatud teavitama käesoleva seaduse § 26 lõikes 5 nimetatud isikut kohe majutusettevõtte tunnistuse väljastamisest ja selle kehtetuks tunnistamisest.
+10) muud seadusega sätestatud andmed.
 
-(8) Majutusettevõtte tunnustamise taotluse menetlemise eest tasutakse riigilõivu.
+(3) Registreeringus märgitud majutusettevõtte aadressi muutumise või majutusteenust osutava ettevõtja vahetumise korral peab taotlema uue registreeringu tegemist.

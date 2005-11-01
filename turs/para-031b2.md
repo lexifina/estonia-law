@@ -1,5 +1,5 @@
-# § 31². Majutusteenuse osutamine tunnustamata majutusettevõtte poolt
+# § 31². Majutusettevõttele kehtestatud nõuete rikkumine
 
-(1) Majutusteenuse osutamise eest tunnustamata majutusettevõtte kaudu või sellise majutusteenuse vahendamise eest – karistatakse rahatrahviga kuni 200 trahviühikut.
+(1) Majutusettevõttele kehtestatud nõuete rikkumise eest – karistatakse rahatrahviga kuni 300 trahviühikut.
 
-(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 30 000 krooni.
+(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 50 000 krooni.

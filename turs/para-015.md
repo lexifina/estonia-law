@@ -12,7 +12,7 @@
 
 (3) Tagatise kasutamise üle otsustab Tarbijakaitseamet.
 
-(4) Tagatise kasutamise korra kehtestab majandus- ja kommunikatsiooniminister.
+(4) .
 
 (5) Tagatise suurust arvestatakse sõltuvalt reisiettevõtja planeeritavast aastasest pakettreiside kogumüügist ja käesoleva seaduse §-s 6 loetletud tegevusalast järgmiselt:
 
@@ -30,4 +30,6 @@
 
 (7) Kui tagatise kehtivuse ajal pakettreiside tegelik kogumüük ületab tagatise suuruse määramise aluseks olnud planeeritud kogumüügi, tuleb tagatise suurust kohe suurendada.
 
-(8) Reisiettevõtjad esitavad kord kvartalis 20. kuupäevaks pärast aruandekvartali lõppu Tarbijakaitseametile pakettreiside müügi aruande, mille vormi kehtestab majandus- ja kommunikatsiooniminister.
+(8) Reisiettevõtjad esitavad kord kvartalis 20. kuupäevaks pärast aruandekvartali lõppu Tarbijakaitseametile
+
+.

@@ -1,17 +1,17 @@
 # § 17. Majutusettevõte
 
-(1) Majutusettevõte on majandusüksus, mille kaudu ettevõtja pakub tasu eest majutusteenust ja sellega kaasnevaid teenuseid.
+(1) Majutusettevõte on majandusüksus, mille kaudu ettevõtja oma majandus- või kutsetegevuse raames osutab majutusteenust.
 
-(2) Majutusteenuseks ei loeta:
+(2) Majutusteenus on ööbimisvõimaluse ning sellega kaasneva kauba või teenuse müügiks pakkumine ja müük.
 
-1) juriidilise isiku poolt temale kuuluva vara arvel oma töötajate majutamist;
+(3) Majutusteenuseks ei loeta:
 
-2) majutamist, mille puhul sõlmitakse eluruumi üürileping tähtajaga üle 30 päeva;
+1) ettevõtja poolt temale kuuluva vara arvel temaga töö- või teenistussuhetes olevate isikute majutamist;
 
-3) õppeasutuse poolt selles õppeasutuses õppivate isikute majutamist;
+2) majutamist, mille puhul sõlmitakse eluruumi üürileping, välja arvatud võlaõigusseaduse § 272 lõike 4 punktis 1 nimetatud juhtudel;
 
-4) füüsilise isiku poolt temale kuuluva vara arvel oma perekonna liikmete või teiste isikute majutamist ilma sellekohase reklaamita;
+3) õppeasutuse poolt õppeasutuses õppivate või töötavate isikute majutamist;
 
-5) füüsilise isiku poolt temale kuuluva vara arvel kuni viie isiku majutamist;
+4) majutamist reisijateveoteenuse osutamiseks kasutatavas transpordivahendis;
 
-6) majutamist regulaarliinil sõitvas transpordivahendis.
+5) erakordsetes tingimustes ööbimise võimaldamist elamuse saamise eesmärgil (vabas looduses, onnis, parvel jms).

@@ -1,11 +1,9 @@
-# § 19. Majutusettevõtte tunnustamine
+# § 19. Majutusteenuse osutamine
 
-(1) Ettevõtja võib osutada majutusteenust ainult tunnustatud majutusettevõtte kaudu.
+(1) Ettevõtja võib osutada majutusteenust ainult registris registreeritud majutusettevõtte kaudu.
 
-(2) Majutusettevõtte tunnustamine on majutusettevõtte vastavuse hindamine kohustuslikele nõuetele.
+(2) Majutusettevõte peab kogu külastajate majutamise perioodil vastama majutusettevõttele kehtestatud nõuetele.
 
-(3) Majutusettevõtet tunnustab oma haldusterritooriumi piires kohalik omavalitsus, kes kaasab selleks eksperdina turismiinfokeskuse töötaja või muu pädeva isiku.
+(3) Ööbimisvõimalusega kaasneva kauba või teenuse müügiks pakkumise ning müügi korral ei pea majutusteenust osutaval ettevõtjal olema eraldi vastavat registreeringut kaubandustegevuse seaduse (RT I 2004, 12, 78) tähenduses.
 
-(3¹) Kui majutusettevõte ei vasta ühelegi § 18 lõikes 1 nimetatud liigi kirjeldusele ega seda liiki majutusettevõttele kehtestatud nõuetele, võib majutusettevõtte tunnustada liiki määratlemata või ettevõtja poolt määratletuna, kui majutusettevõte vastab majutusettevõtetele kehtestatud üldnõuetele.
-
-(4) Majutusettevõtetele esitatavad kohustuslikud nõuded ja majutusettevõtte tunnustamise korra kehtestab majandus- ja kommunikatsiooniminister.
+(4) .

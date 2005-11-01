@@ -1,10 +1,10 @@
-# § 10. Registreerimistaotlus
+# § 10. Reisiettevõtja registreerimistaotlus
 
 (1) Reisiettevõtja esitab registrile registreerimistaotluse.
 
 (2) Registreerimistaotluses peavad sisalduma vähemalt:
 
-1) reisiettevõtja nimi, registrikood, aadress ja muud kontaktandmed;
+1) reisiettevõtja nimi, registrikood või isikukood või viimase puudumisel sünniaeg, aadress ja muud kontaktandmed;
 
 1¹) tegevuskoha aadress või tegevuskohtade aadressid ja muud kontaktandmed;
 
