@@ -14,4 +14,4 @@
 
 1) hääletades uuesti elektrooniliselt käesoleva seaduse § 44 lõike 2 punktis 3 ettenähtud ajal;
 
-2) hääletades hääletamissedeliga kuuendast päevast kuni neljanda päevani enne valimispäeva käesoleva seaduse §-des 46–49 või §-s 51 ettenähtud korras.
+2) hääletades hääletamissedeliga kuuendast päevast kuni neljanda päevani enne valimispäeva käesoleva seaduse § -des 46–49 või § -s 51 ettenähtud korras.

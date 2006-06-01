@@ -16,8 +16,6 @@
 
 (4) Vabariigi Valimiskomisjon kehtestab oma määrusega:
 
-1¹) valimisliidu registreerimise avalduse vormi;
-
 4) ;
 
 7) ;

@@ -6,4 +6,4 @@
 
 (3) Hääletamist korraldavad vähemalt kaks jaoskonnakomisjoni liiget käesoleva seaduse § 45 lõigetes 4–6 ning § 48 lõigetes 1, 2 ja 4 ettenähtut järgides.
 
-(4) Hääletamistulemuste kindlakstegemisel arvestatakse kinnipidamiskohas eelhääletanud valijate hääli käesoleva seaduse §-s 53 ettenähtut järgides.
+(4) Hääletamistulemuste kindlakstegemisel arvestatakse kinnipidamiskohas eelhääletanud valijate hääli käesoleva seaduse § -s 53 ettenähtut järgides.

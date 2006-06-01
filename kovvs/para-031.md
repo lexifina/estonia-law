@@ -1,6 +1,6 @@
 # § 31. Erakond
 
-(129) [15.07.2002. a Riigikohtu põhiseaduslikkuse järelevalve kolleegiumi kohtuotsus nr 3-4-1-7-02 tunnistab lõike 1 vastuolus olevaks põhiseaduse §-dega 11, 12 ja § 156 lg-ga 1]
+(129) [15.07.2002. a Riigikohtu põhiseaduslikkuse järelevalve kolleegiumi kohtuotsus nr 3-4-1-7-02 tunnistab lõike 1 vastuolus olevaks põhiseaduse § -dega 11, 12 ja § 156 lg-ga 1]
 
 (1) Volikogu valimistel võib osaleda erakond, kes on kantud mittetulundusühingute ja sihtasutuste registrisse hiljemalt kandidaatide registreerimiseks esitamise viimasel päeval.
 
@@ -12,6 +12,6 @@
 
 (5) Erakond võib volitada vallas või linnas ennast esindama kuni kaks isikut.
 
-(135) [15.07.2002. a Riigikohtu põhiseaduslikkuse järelevalve kolleegiumi kohtuotsus nr 3-4-1-7-02 -
+(135) [15.07.2002. a Riigikohtu põhiseaduslikkuse järelevalve kolleegiumi kohtuotsus nr 3-4-1-7-02 –
 
-- jõust. 15.07.2002]
+– jõust. 15.07.2002]

@@ -14,7 +14,7 @@
 
 4) kodakondsuse andmed;
 
-5) välismaalase alalise elamisloa olemasolu;
+5) välismaalase pikaajalise elaniku elamisloa olemasolu;
 
 6) teovõimetuks tunnistamise andmed;
 

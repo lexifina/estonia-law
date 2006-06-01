@@ -4,7 +4,7 @@
 
 (2) Hääletamisõigus on välismaalasel, kes vastab käesoleva paragrahvi lõikes 1 nimetatud tingimustele ja kes:
 
-1) elab Eestis alalise elamisloa alusel;
+1) elab Eestis pikaajalise elaniku elamisloa alusel;
 
 2) on valimispäevaks elanud seaduslikult vähemalt viimased viis aastat vastavas vallas või linnas.
 

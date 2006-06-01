@@ -1,6 +1,6 @@
 # § 45. Hääletamine
 
-(1) Valija hääletab selles valimisjaoskonnas, mille valijate nimekirja ta on kantud, välja arvatud käesoleva seaduse §-des 47–51 ettenähtud juhtudel.
+(1) Valija hääletab selles valimisjaoskonnas, mille valijate nimekirja ta on kantud, välja arvatud käesoleva seaduse § -des 47–51 ettenähtud juhtudel.
 
 (2) Hääletamissedeli saamiseks esitab valija jaoskonnakomisjonile isikut tõendava dokumendi. Hääletamissedeli saamise kohta annab valija allkirja valijate nimekirja.
 

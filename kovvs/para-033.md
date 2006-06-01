@@ -6,7 +6,7 @@
 
 2) kandidaadi ankeet.
 
-[15.07.2002. a Riigikohtu põhiseaduslikkuse järelevalve kolleegiumi kohtuotsus nr 3-4-1-7-02 tunnistab lõike 2 p 1 vastuolus olevaks põhiseaduse §-dega 11, 12 ja § 156 lg-ga 1]
+[15.07.2002. a Riigikohtu põhiseaduslikkuse järelevalve kolleegiumi kohtuotsus nr 3-4-1-7-02 tunnistab lõike 2 p 1 vastuolus olevaks põhiseaduse § -dega 11, 12 ja § 156 lg-ga 1]
 
 (2) Kandideerimisavalduses isik:
 
