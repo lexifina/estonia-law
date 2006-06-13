@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/860567> (version in force from 2005-05-01)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/1038440> (version in force from 2006-06-13)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -26,7 +26,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/860567> (version in force from 2
 | **3. peatükk IMMUNOHEMATOLOOGILISTE UURINGUTE REFERENTLABOR** | |
 | [§ 16](para-016.md) | Immunohematoloogiliste uuringute referentlabor |
 | [§ 17](para-017.md) | Referentlabori ülesanded |
-| [§ 18](para-018.md) | Referentlabori määramine |
+| [§ 18](para-018.md) | Referentteenuse osutamise korraldamine |
 | **4. peatükk VERE KÄITLEMISE RAHASTAMINE** | |
 | [§ 19](para-019.md) | Vere käitlemise rahastamine |
 | **5. peatükk RIIKLIK JÄRELEVALVE** | |
@@ -41,8 +41,5 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/860567> (version in force from 2
 | **7. peatükk RAKENDUSSÄTTED** | |
 | [§ 27](para-027.md) | Euroopa Komisjoni teavitamine |
 | [§ 28](para-028.md) | Heade tootmistavade rakendamine |
-| [§ 29](para-029.md) | Meditsiiniseadme seaduse muutmine |
-| [§ 30](para-030.md) | Nakkushaiguste ennetamise ja tõrje seaduse muutmine |
-| [§ 31](para-031.md) | Käibemaksuseaduse muutmine |
-| [§ 32](para-032.md) | Ravimiseaduse muutmine |
+| [§ 29](para-029.md) | –32. |
 | [§ 33](para-033.md) | Seaduse jõustumine |

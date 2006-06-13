@@ -14,7 +14,7 @@
 
 4) saada teavet oma tervise seisundi, verele teostatud uuringute tulemuste ja loovutatud vere raviks kõlblikkuse kohta;
 
-5) puududa töölt vere loovutamise eesmärgil vastavalt töö- ja puhkeaja seaduse (RT I 2001, 17, 78; 102, 675; 2002, 56, 347; 61, 375; 99, 576; 2003, 23, 137; 2004, 86, 584) §-s 24 sätestatule;
+5) puududa töölt vere loovutamise eesmärgil vastavalt töö- ja puhkeaja seaduse (RT I 2001, 17, 78; 102, 675; 2002, 56, 347; 61, 375; 99, 576; 2003, 23, 137; 2004, 86, 584) § -s 24 sätestatule;
 
 6) isikuandmete salastatusele.
 

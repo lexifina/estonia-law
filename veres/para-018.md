@@ -1,5 +1,3 @@
-# § 18. Referentlabori määramine
+# § 18. Referentteenuse osutamise korraldamine
 
-(1) Referentteenuse osutamise tagab Sotsiaalministeerium oma valitsemisalas asuva valitsusasutuse või hallatava riigiasutuse kaudu.
-
-(2) Referentlabori määrab sotsiaalminister käskkirjaga.
+(52) Referentteenuse osutamist korraldab Sotsiaalministeerium. Referentteenuse osutamiseks sõlmib sotsiaalminister verekeskusega, millel on käesoleva seaduse nõuetele vastav referentlabor, viieaastase tähtajaga halduslepingu, lähtudes halduskoostöö seaduses sätestatud tingimustest.
