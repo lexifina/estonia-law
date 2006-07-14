@@ -10,7 +10,7 @@
 
 (5) Valija täidab hääletamissedeli ise. Kui valija füüsilise puude tõttu ei ole võimeline hääletamissedelit ise täitma, võib seda tema palvel ja tema juuresolekul teha teine valija, kuid mitte tema elukohajärgse valimisringkonna kandidaat.
 
-(6) Kui valija rikub hääletamissedeli, on tal õigus saada jaoskonnakomisjonilt uus sedel. Sellisel juhul peab valija rikutud hääletamissedeli jaoskonnakomisjonile tagastama.
+(6) Valija ei või hääletamissedelit hääletamisruumist välja viia. Kui valija rikub hääletamissedeli, on tal õigus saada jaoskonnakomisjonilt uus sedel. Valija peab rikutud või kasutamata hääletamissedeli jaoskonnakomisjonile tagastama.
 
 (7) Pärast hääletamissedeli täitmist murrab valija sedeli kokku ning annab selle jaoskonnakomisjoni liikmele, kes paneb kokkumurtud hääletamissedeli välisküljele jaoskonnakomisjoni pitsati jäljendi.
 

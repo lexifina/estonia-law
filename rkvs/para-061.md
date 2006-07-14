@@ -4,6 +4,6 @@
 
 (2) Hääletamistulemuste kohta koostab Vabariigi Valimiskomisjon protokolli, millele kirjutab alla komisjoni esimees. Protokolli märgitakse selle koostamise kuupäev ja kellaaeg.
 
-(3) Elektroonilise hääletamise tulemusi ei avaldata enne hääletamise lõppemist valimispäeval.
+(3) [Kehtetu]
 
 (4) Hääletamistulemuste kindlakstegemine Vabariigi Valimiskomisjonis on avalik.

@@ -10,7 +10,7 @@
 
 (3) Valija, keda ei ole alaliselt välisriigis elavate valijate nimekirjas:
 
-- 1) lisab taotlusele isikut ja kodakondsust tõendava dokumendi isikuandmete lehekülje koopia või esitab muude dokumentide koopiad, mis tõendavad, et tal on hääletamisõigus käesoleva seaduse § 4 lõigete 1 ja 2 kohaselt;
+- 1) lisab taotlusele koopiad dokumentidest, mis tõendavad tema isikut ja seda, et tal on hääletamisõigus käesoleva seaduse § 4 lõigete 1 ja 2 kohaselt;
 
 - 2) märgib välisriigis oleva elukoha aadressi;
 

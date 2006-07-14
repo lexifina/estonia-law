@@ -16,10 +16,4 @@
 
 - 3) kaebus rahuldada osaliselt.
 
-(6) Kui Vabariigi Valimiskomisjon kaebuse rahuldab, võib ta otsustada:
-
-- 1) peatada jaoskonnakomisjoni või maakonna valimiskomisjoni liikme tegevus, kes on seadust rikkunud;
-
-- 2) tühistada maakonna valimiskomisjoni otsuse või tunnistada jaoskonnakomisjoni või maakonna valimiskomisjoni toimingu seadusevastaseks ning teha jaoskonnakomisjonile või maakonna valimiskomisjonile ettekirjutuse seaduserikkumise kõrvaldamiseks;
-
-- 3) tunnistada hääletamistulemused valimisjaoskonnas, valimisringkonnas, maakonnas, Tallinnas või Tartu linnas või riigis kehtetuks ning korraldada kordushääletamine, kui seaduserikkumine mõjutas või võis hääletamistulemusi oluliselt mõjutada.
+(6) Kui Vabariigi Valimiskomisjon kaebuse rahuldab, võib ta otsustada teha käesoleva seaduse § 15 lõikes 2 loetletud toiminguid.

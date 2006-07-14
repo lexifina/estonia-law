@@ -4,7 +4,7 @@
 
 (2) Saanud alaliselt välisriigis elavate valijate hääletamissedelitega ümbrikud, kontrollib Vabariigi Valimiskomisjon, kas alaliselt välisriigis elav valija ei ole hääletanud mitu korda ja kas Eestis hääletanud alaliselt välisriigis elav valija on kantud välisriigis alaliselt elavate valijate nimekirja.
 
-(3) Kui alaliselt välisriigis elav valija on hääletanud mitu korda või ei ole kantud välisriigis alaliselt elavate valijate nimekirja, jätab Vabariigi Valimiskomisjon kõik valija täidetud hääletamissedelid ja elektroonilisel hääletamisel antud hääle hääletamistulemuste kindlakstegemisel arvestamata.
+(3) Kui alaliselt välisriigis elav valija on hääletanud hääletamissedeliga mitu korda või kui ta ei ole kantud välisriigis alaliselt elavate valijate nimekirja, jätab Vabariigi Valimiskomisjon kõik valija hääletamissedeliga ümbrikud arvestamata. Kui valija on hääletanud nii elektrooniliselt kui ka hääletamissedeliga, arvestatakse valija hääletamissedelit. Kui valija on hääletanud mitu korda hääletamissedeliga ja elektrooniliselt, jäetakse kõik valija hääletamissedeliga ümbrikud ja elektrooniliselt antud hääl arvestamata.
 
 (4) Vabariigi Valimiskomisjon määrab iga valimisringkonna kohta ühe maakonna valimiskomisjoni, kes teeb kindlaks välisriigis alaliselt elavate valijate hääletamistulemused.
 

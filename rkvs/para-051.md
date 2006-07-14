@@ -10,4 +10,4 @@
 
 (2) Kui alaliselt välisriigis elav valija on märkinud oma või vanemate või vanavanemate viimase elukohana Eestis Tallinna linnaosa täpsustamata, saadetakse talle valimisringkonna nr 1 kandidaatide koondnimekiri.
 
-(3) Kui alaliselt välisriigis elav valija on oma või vanemate või vanavanemate viimase elukohana Eestis märkinud Petseri maakonna, saadetakse talle valimisringkonna nr 10 kandidaatide koondnimekiri.
+(3) Kui alaliselt välisriigis elav valija on oma või vanemate või vanavanemate viimase elukohana Eestis märkinud Petseri maakonna, saadetakse talle valimisringkonna nr 11 kandidaatide koondnimekiri.

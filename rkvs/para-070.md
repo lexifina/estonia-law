@@ -20,10 +20,4 @@ huvitatud isik
 
 - 3) kaebus rahuldada osaliselt.
 
-(6) Kui maakonna valimiskomisjon kaebuse rahuldab, võib ta otsustada:
-
-- 1) peatada jaoskonnakomisjoni liikme tegevus, kes on seadust rikkunud;
-
-- 2) tunnistada jaoskonnakomisjoni toimingu seadusevastaseks ning teha jaoskonnakomisjonile ettekirjutuse seaduserikkumise kõrvaldamiseks;
-
-- 3) teha Vabariigi Valimiskomisjonile ettepaneku tunnistada hääletamistulemused valimisjaoskonnas kehtetuks ning korraldada valimisjaoskonnas kordushääletamine, kui seaduserikkumine mõjutas või võis hääletamistulemusi oluliselt mõjutada.
+(6) Kui maakonna valimiskomisjon kaebuse rahuldab, võib ta otsustada teha käesoleva seaduse § 17 lõikes 2 loetletud toiminguid.

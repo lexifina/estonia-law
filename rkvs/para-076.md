@@ -4,4 +4,4 @@
 
 (2) Võrdlusarvude tabelis on erakondadele arvutatud võrdlusarvud (§ 62 lg 5) suuruse järjekorras, alates võrdlusarvust, mis esimesena jäi kompensatsioonimandaatide jaotamisel arvesse võtmata.
 
-(3) Kui vähemalt kaks võrdlusarvu on võrdsed, saab kõrgema järjekoha valijatelt rohkem hääli saanud erakonna võrdlusarv. Kui erakondade häälte arvud on võrdsed, saab kõrgema järjekoha erakond, kelle kandidaadid on varem registreeritud.
+(3) Kui vähemalt kaks võrdlusarvu on võrdsed, saab kõrgema järjekoha valijatelt rohkem hääli saanud erakonna võrdlusarv. Kui erakondadele on antud võrdne arv hääli, saab kõrgema järjekoha erakond, kelle kandidaadid paiknesid valimisringkonna kandidaatide koondnimekirjas tagapool.

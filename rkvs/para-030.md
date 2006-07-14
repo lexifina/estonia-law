@@ -24,4 +24,4 @@
 
 - 3) kandideerimisdokumendid (§ 28 lg 1).
 
-(5) Erakond või üksikkandidaat kannab enne kandidaatide registreerimiseks esitamist Vabariigi Valimiskomisjoni arvele kautsjonina summa, mille suurus on Vabariigi Valitsuse kehtestatud kuupalga kaks alammäära iga registreerimiseks esitatud isiku kohta.
+(5) Erakond või üksikkandidaat kannab enne kandidaatide registreerimiseks esitamist Vabariigi Valimiskomisjoni arvele kautsjonina summa, mille suurus on valimiste väljakuulutamise aastal Vabariigi Valitsuse kehtestatud kuupalga kaks alammäära iga registreerimiseks esitatud isiku kohta.

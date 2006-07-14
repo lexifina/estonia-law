@@ -14,7 +14,7 @@
 
 - 5) valimisjaoskond, kus saavad hääletada valijad, kelle elukoha andmed selles vallas või linnas on rahvastikuregistrisse kantud valla või linna, Tallinnas linnaosa täpsusega.
 
-(3) Valimisjaoskonnad on alalised. Riigikogu valimistel ja kohaliku omavalitsuse volikogu valimistel ning rahvahääletusel korraldatakse hääletamine samades valimisjaoskondades, kui valla- või linnavalitsus ei määra teisiti, muutes käesoleva paragrahvi lõikes 2 nimetatud määrust.
+(3) Valimisjaoskonnad on alalised. Riigikogu, kohaliku omavalitsuse volikogu ja Euroopa Parlamendi valimistel ning rahvahääletusel korraldatakse hääletamine samades valimisjaoskondades, kui valla- või linnavalitsus ei määra teisiti, muutes käesoleva paragrahvi lõikes 2 nimetatud määrust.
 
 (4) Käesoleva paragrahvi lõikes 2 nimetatud määrust võib valla- või linnavalitsus muuta hiljemalt 50. päeval enne valimispäeva, erakorralistel juhtudel pärast nimetatud tähtpäeva. Muudatustest teavitab valla- või linnavalitsus viivitamata Vabariigi Valimiskomisjoni ja rahvastikuregistri vastutavat töötlejat.
 

@@ -1,4 +1,4 @@
-# § 5. Valimisagitatsiooni aeg
+# § 5. Agitatsiooni piirang
 
 (1) Aktiivse valimisagitatsiooni ajaks loetakse aega alates kandidaatide registreerimise viimasest päevast.
 

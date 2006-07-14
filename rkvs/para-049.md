@@ -34,4 +34,6 @@
 
 - 7) kirja teel saadetava hääletamissedeli välisesindusele laekumise tähtpäev;
 
-- 8) välisesinduses hääletamise aeg.
+- 8) välisesinduses hääletamise aeg;
+
+- 9) elektroonilise hääletamise aeg.

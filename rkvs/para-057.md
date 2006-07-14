@@ -1,18 +1,18 @@
 # § 57. Hääletamistulemuste kindlakstegemine jaoskonnakomisjonis
 
-(1) Jaoskonnakomisjon avab hääletamiskastid valimispäeval pärast hääletamise lõppemist. Avamise juures peab olema üle poole jaoskonnakomisjoni koosseisust.
+(1) Jaoskonnakomisjon avab valimispäeval kasutatud hääletamiskastid pärast hääletamise lõppemist. Avamise juures peab olema üle poole jaoskonnakomisjoni koosseisust.
 
 (2) Enne hääletamiskastide avamist peab jaoskonnakomisjon üle lugema ja kustutama kõik valijatele välja andmata jäänud, samuti valijate tagastatud rikutud hääletamissedelid. Hääletamissedelid kustutatakse sedeli nurga äralõikamisega.
 
-(3) Enne hääletamiskastide avamist teeb jaoskonnakomisjon valijate nimekirjade alusel kindlaks nimekirjadesse kantud valijate arvu ja nimekirjadesse hääletamissedeli saamise kohta antud allkirjade alusel sedeli saanud valijate arvu ning kannab need vormikohasesse protokolli.
+(3) Enne hääletamiskastide avamist teeb jaoskonnakomisjon valijate nimekirja alusel kindlaks valijate arvu ning hääletamissedeli saamise kohta antud allkirjade ja märkuste alusel esialgse hääletamisest osavõtnute arvu ning edastab need viivitamata Vabariigi Valimiskomisjonile. Arvestada tuleb valijate nimekirja märkusi väljaspool elukohta eelhääletanud, elektrooniliselt hääletanud ja kodus hääletanud valijate kohta. Valijate arv kantakse vormikohasesse protokolli.
 
 (4) Hääletamiskasti avades kontrollitakse sellel oleva pitsati jäljendi seisukorda.
 
 (5) Kodus hääletanute hääletamissedelite välisküljele pannakse jaoskonnakomisjoni pitsati jäljend ning sedelid pannakse hääletamisruumis hääletanute hääletamissedelite hulka.
 
-(6) Väljaspool elukohajärgset valimisjaoskonda hääletanute hääletamissedelite välisküljele pannakse jaoskonnakomisjoni pitsati jäljend ning need sedelid pannakse koos eelhääletanute hääletamissedelitega valimispäeval hääletanute sedelite hulka.
+(6) Väljaspool elukohajärgset valimisjaoskonda hääletanute hääletamissedelite välisküljele pannakse jaoskonnakomisjoni pitsati jäljend ning need sedelid pannakse koos eelhääletanute hääletamissedelitega pärast § 58 lõikes 4 nimetatud kokkuvõtte koostamist valimispäeval hääletanute sedelite hulka.
 
-(7) Jaoskonnakomisjon teeb hääletamiskastides olnud hääletamissedelite alusel kindlaks hääletamisest osavõtnud valijate arvu, kehtetute sedelite arvu ning kandidaatidele ja erakondadele antud häälte arvu ning kannab need vormikohasesse protokolli.
+(7) Jaoskonnakomisjon teeb kindlaks hääletamiskastides olnud sedelite arvu, sealhulgas kehtetute sedelite arvu, ning kandidaatidele ja erakondadele antud häälte arvu ning kannab need vormikohasesse protokolli.
 
 (8) Kehtetuks tunnistatakse hääletamissedel:
 

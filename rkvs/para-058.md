@@ -1,10 +1,10 @@
 # § 58. Eelhääletamisel antud häälte lugemine
 
-(1) Jaoskonnakomisjon avab eelhääletamisel kasutatud hääletamiskasti eelhääletamisel antud häälte lugemiseks valimispäeval kell 19.00. Avamise juures peavad olema vähemalt kolm komisjoni liiget või asendusliiget.
+(1) Jaoskonnakomisjon avab eelhääletamisel kasutatud hääletamiskasti häälte lugemiseks valimispäeval pärast kella 19.00. Avamise juures peavad olema vähemalt kolm komisjoni liiget või asendusliiget.
 
 (2) Eelhääletamisel antud hääled loetakse hääletamisruumist eraldi ruumis.
 
-(3) Väljaspool elukohajärgset valimisjaoskonda hääletanute hääletamissedeleid sisaldavad sisemised ümbrikud avatakse ning neid arvestatakse eelhääletamise tulemuste kokkuvõtete tegemisel ja hoitakse eraldi teistest hääletamissedelitest.
+(3) Väljaspool elukohajärgset valimisjaoskonda hääletanute hääletamissedeleid sisaldavad sisemised ümbrikud avatakse ning neid arvestatakse eelhääletamise tulemuste kokkuvõtete tegemisel ja hoitakse eraldi teistest hääletamissedelitest kuni neile jaoskonnakomisjoni pitsati jäljendi panemiseni.
 
 (4) Eelhääletamise tulemuste kohta koostatakse kokkuvõte, millele kirjutab alla komisjoni esimees. Eelhääletamise tulemused edastatakse viivitamata maakonna valimiskomisjonile või Vabariigi Valimiskomisjonile.
 

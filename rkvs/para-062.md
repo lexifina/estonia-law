@@ -20,7 +20,7 @@
 
 ^0,9
 
-jne. Seejuures jäetakse iga erakonna võrdlusarvude arvutamisel vahele nii mitu jada esimest elementi, kui mitu mandaati sai erakond valimisringkondades. Kui vähemalt kahe erakonna võrdlusarvud on võrdsed, saab mandaadi erakond, kelle kandidaadid on varem registreeritud.
+jne. Seejuures jäetakse iga erakonna võrdlusarvude arvutamisel vahele nii mitu jada esimest elementi, kui mitu mandaati sai erakond valimisringkondades. Kui vähemalt kahe erakonna võrdlusarvud on võrdsed, saab mandaadi erakond, kelle kandidaadid paiknesid valimisringkonna kandidaatide koondnimekirjas tagapool.
 
 (6) Kandidaatide üleriigilises nimekirjas saab kompensatsioonimandaadi kandidaat, kes on nimekirjas eespool ja kellele antud häälte arv on vähemalt 5 protsenti lihtkvoodist. Mandaatide jaotamisel jäetakse vahele need kandidaadid, kes osutusid valituks valimisringkondades.
 
