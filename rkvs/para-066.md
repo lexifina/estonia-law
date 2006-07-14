@@ -36,4 +36,4 @@
 
 - 4) isiklikud vahendid.
 
-(4) Anonüümsed ja varjatud annetused on keelatud .
+(4) Anonüümsed ja varjatud annetused on keelatud.
