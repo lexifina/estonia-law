@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/1027907> (version in force from 2006-06-01)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/12749230> (version in force from 2006-11-18)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -12,6 +12,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/1027907> (version in force from 
 | [§ 3](para-003.md) | Täiendavate valimiste toimumise alused ja aeg |
 | [§ 4](para-004.md) | Uue kohaliku omavalitsuse üksuse volikogu valimiste aeg |
 | [§ 5](para-005.md) | Hääletamis- ja kandideerimisõigus |
+| [§ 5¹](para-005b1.md) | Välismaalane |
 | **2. peatükk AGITATSIOON** | |
 | [§ 6](para-006.md) | Agitatsiooni piirang |
 | [§ 6¹](para-006b1.md) | Poliitilise välireklaami keeld |
@@ -77,6 +78,8 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/1027907> (version in force from 
 | [§ 56](para-056.md) | Valimistulemuste kindlakstegemine |
 | **9. peatükk VOLIKOGU TÄIENDAVATE VALIMISTE ERISUSED** | |
 | [§ 57](para-057.md) | Täiendavate valimiste erisused |
+| **9¹. peatükk UUE KOHALIKU OMAVALITSUSE ÜKSUSE VOLIKOGU VALIMISTE ERISUSED KORRALISTE VALIMISTE VAHELISEL PERIOODIL** | |
+| [§ 57¹](para-057b1.md) | Korraliste valimiste vahelisel perioodil toimuva uue kohaliku omavalitsuse üksuse volikogu valimiste erisused |
 | **10. peatükk VALIMISTE KULUD** | |
 | [§ 58](para-058.md) | Valimiste korraldamise kulud |
 | [§ 59](para-059.md) | Erakonna, valimisliidu ja üksikkandidaadi valimiskampaania rahastamise aruanne |
@@ -93,6 +96,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/1027907> (version in force from 
 | **11¹. peatükk VASTUTUS** | |
 | [§ 67¹](para-067b1.md) | Andmete või materjalide esitamata jätmine või valimiskomisjoni otsuse mittetäitmine |
 | [§ 67²](para-067b2.md) | Poliitilisele välireklaamile kehtestatud piirangute rikkumine |
+| [§ 67³](para-067b3.md) | Hääletamissedeli hääletamisruumist väljaviimine |
 | **12. peatükk LÕPPSÄTTED** | |
 | [§ 68](para-068.md) | Volikogu liikmete registreerimine ja nende volituste algamine |
 | [§ 69](para-069.md) | Volikogu asendusliikmete registreerimine |

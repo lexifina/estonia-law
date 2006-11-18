@@ -1,6 +1,6 @@
 # § 46. Eelhääletamine
 
-(1) Eelhääletamine toimub käesoleva seaduse § -s 45 ettenähtud korras.
+(1) Eelhääletamine toimub käesoleva seaduse §-s 45 ettenähtud korras.
 
 (2) Eelhääletamise õigus on valijate nimekirjas oleval valijal, kes selleks eelhääletamise päevaks on saanud 18-aastaseks.
 
