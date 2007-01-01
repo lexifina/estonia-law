@@ -26,7 +26,7 @@
 
 12) andmed riigieelarve tulude laekumise kohta;
 
-13) andmed keskkonnaseisundi, keskkonnakahjustuste ja ohtlike keskkonnamõjude kohta;
+13) ;
 
 14) riikliku või teenistusliku järelevalve ettekirjutused või otsused nende jõustumisest alates;
 
@@ -58,7 +58,7 @@
 
 28) erakondade liikmete nimekirjad;
 
-29) jõustunud kohtuotsused;
+29) jõustunud kohtulahendid seadusest tulenevate piirangutega;
 
 30) riigi põhiregistrite ja riiklike registrite andmed seadusega ettenähtud ulatuses;
 

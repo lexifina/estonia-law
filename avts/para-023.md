@@ -22,7 +22,7 @@
 
 5) teabenõude täitmiseks tuleb teavet täiendavalt süstematiseerida ja analüüsida ning selle alusel on vaja uus teave dokumenteerida. Selline teabenõue loetakse selgitustaotluseks ja sellele vastatakse märgukirjale ja selgitustaotlusele vastamise seadusega ettenähtud korras;
 
-6) kohus on tunnistanud teabenõudja teovõimetuks;
+6) kohus on tuvastanud, et teabenõudja teovõime on piiratud;
 
 7) teabenõudja sideandmed puuduvad.
 

@@ -1,6 +1,6 @@
 # § 4. Avalikule teabele juurdepääsu võimaldamise põhimõtted
 
-(1) Demokraatliku riigikorralduse tagamiseks ning avaliku huvi ja igaühe õiguste, vabaduste ja kohustuste täitmise võimaldamiseks on teabevaldajad kohustatud tagama juurdepääsu nende valduses olevale teabele seaduses sätestatud tingimustel ja korras.
+(1) ja igaühe õiguste, vabaduste ja kohustuste täitmise võimaldamiseks on teabevaldajad kohustatud tagama juurdepääsu nende valduses olevale teabele seaduses sätestatud tingimustel ja korras.
 
 (2) Teabele juurdepääs tuleb tagada igaühele võimalikult kiirel ja hõlpsal viisil.
 

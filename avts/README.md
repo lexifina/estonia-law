@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/822692> (version in force from 2004-12-10)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/12766090> (version in force from 2007-01-01)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -43,7 +43,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/822692> (version in force from 2
 | **1. jagu Avalikustamisele kuuluv teave** | |
 | [§ 28](para-028.md) | Teabevaldaja kohustus teave avalikustada |
 | [§ 29](para-029.md) | Teabe avalikustamise viisid |
-| [§ 30](para-030.md) | Teabe avalikustamise viisivalimine |
+| [§ 30](para-030.md) | Teabe avalikustamise viisi valimine |
 | **2. jagu Teabe avalikustamine üldkasutatavas andmesidevõrgus** | |
 | [§ 31](para-031.md) | Veebilehe pidamise kohustus |
 | [§ 32](para-032.md) | Riigi- ja kohaliku omavalitsuse asutuse veebilehe pidamise nõuded |
