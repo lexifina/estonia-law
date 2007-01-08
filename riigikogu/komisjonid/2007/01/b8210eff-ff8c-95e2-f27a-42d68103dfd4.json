@@ -1,0 +1,33 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-01-08T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6a54994a-8eff-b96e-09ef-351da17aa740"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 08.01.2007",
+      "uuid": "5fa21deb-7a39-a6cd-2270-ef33e736c9a0",
+      "files": [
+        "Väliskomisjon_paevakord_08_01_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "b8210eff-ff8c-95e2-f27a-42d68103dfd4",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b8210eff-ff8c-95e2-f27a-42d68103dfd4)",
+  "source": "https://api.riigikogu.ee/api/volumes/b8210eff-ff8c-95e2-f27a-42d68103dfd4",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-01-01&endDate=2007-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
