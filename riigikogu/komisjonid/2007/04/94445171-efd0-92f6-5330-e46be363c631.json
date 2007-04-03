@@ -1,0 +1,33 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-04-03T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "eddb352c-3349-4316-3497-1e77984bb85d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 03.04.2007",
+      "uuid": "321ec324-9b4e-547f-00a3-7ead80c363d3",
+      "files": [
+        "Õiguskomisjon_paevakord_03_04_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "94445171-efd0-92f6-5330-e46be363c631",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 94445171-efd0-92f6-5330-e46be363c631)",
+  "source": "https://api.riigikogu.ee/api/volumes/94445171-efd0-92f6-5330-e46be363c631",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-04-01&endDate=2007-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
