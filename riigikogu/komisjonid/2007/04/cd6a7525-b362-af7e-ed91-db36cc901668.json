@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-04-17T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väliskomisjoni esimehe ja aseesimehe valimine.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7780b7db-c121-bd2d-63c4-d475ce57a0ea"
+    },
+    {
+      "order": 2,
+      "title": "Väliskomisjoni I istungjärgu 3. töönädala töökava kinnitamine.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "eef04c5b-6d63-e938-46aa-c0461ec6838b"
+    },
+    {
+      "order": 3,
+      "title": "Väliskomisjoni töö ja töökorralduse tutvustamine.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "178bd5e4-ec23-ae62-91f0-85da5231c80f"
+    },
+    {
+      "order": 4,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2377e173-6a09-1e58-ccaa-cd0b60e0c738"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 17.04.2007",
+      "uuid": "172431c6-c57b-032e-5e7c-aa2e7fad6df1",
+      "files": [
+        "V%252525252525252525E4liskomisjon_paevakord_17_04_2007.odt",
+        "V%E4liskomisjon_istungi_protokoll_16_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "cd6a7525-b362-af7e-ed91-db36cc901668",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid cd6a7525-b362-af7e-ed91-db36cc901668)",
+  "source": "https://api.riigikogu.ee/api/volumes/cd6a7525-b362-af7e-ed91-db36cc901668",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-04-01&endDate=2007-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
