@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-04-17T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Komisjoni esimehe ja aseesimehe valimine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fe2ded64-cfca-834d-7992-4ecc07e9c15b"
+    },
+    {
+      "order": 2,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "39685054-8881-2b92-5b5a-0bc3cab04d31"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 17.04.2007",
+      "uuid": "26399f2f-4e8e-54da-5b81-7ad1a58be684",
+      "files": [
+        "Rahanduskomisjon_istungi_protokoll_16_2007%255B1%255D[1].odt",
+        "Rahanduskomisjon_paevakord_17_04_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "3bb7fc96-99df-28ce-2eca-2289f10b1080",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3bb7fc96-99df-28ce-2eca-2289f10b1080)",
+  "source": "https://api.riigikogu.ee/api/volumes/3bb7fc96-99df-28ce-2eca-2289f10b1080",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-04-01&endDate=2007-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
