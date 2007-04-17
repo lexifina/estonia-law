@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-04-17T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kultuurikomisjoni esimehe ja aseesimehe valimine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "75cf647a-0285-c13b-8e49-67ddd31a6244"
+    },
+    {
+      "order": 2,
+      "title": "Komisjoni töö tutvustamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3c5b1939-5084-e8fb-23c2-b075f33fe806"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 17.04.2007",
+      "uuid": "d27ca15e-c14d-30bd-21fa-7f47c6548ae5",
+      "files": [
+        "Kultuurikomisjon_istungi_protokoll_16_2007.odt",
+        "Kultuurikomisjon_paevakord_17_04_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "25ea965c-8960-d87c-1815-be1786b098fd",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 25ea965c-8960-d87c-1815-be1786b098fd)",
+  "source": "https://api.riigikogu.ee/api/volumes/25ea965c-8960-d87c-1815-be1786b098fd",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-04-01&endDate=2007-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
