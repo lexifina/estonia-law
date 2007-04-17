@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-04-17T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikaitsekomisjoni esimehe ja aseesimehe valimine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "31049239-f405-2d8f-0068-d69ee3615eaf"
+    },
+    {
+      "order": 2,
+      "title": "Informatsioon",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d998adb9-022c-ca8f-f28c-83205ab26caf"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 17.04.2007",
+      "uuid": "ae8242a3-5516-c9a5-e4df-506e7ca9fc43",
+      "files": [
+        "Riigikaitsekomisjon_istungi_protokoll_16_2007.odt",
+        "Riigikaitsekomisjon_paevakord_17_04_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "362b5a3a-c957-b8f1-7385-f7c4c0a3722c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 362b5a3a-c957-b8f1-7385-f7c4c0a3722c)",
+  "source": "https://api.riigikogu.ee/api/volumes/362b5a3a-c957-b8f1-7385-f7c4c0a3722c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-04-01&endDate=2007-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
