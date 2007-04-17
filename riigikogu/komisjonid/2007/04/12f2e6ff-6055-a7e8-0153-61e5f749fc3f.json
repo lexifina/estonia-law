@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-04-17T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Komisjoni esimehe ja aseesimehe valimine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6d36df2a-452b-e025-43e3-4ddf83df71b6"
+    },
+    {
+      "order": 2,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "98668520-065e-86c2-a8a9-8c8340096483"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 17.04.2007",
+      "uuid": "478f5db8-396f-15c1-5f0e-299c04976534",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_16_2007.odt",
+        "Maaelukomisjon_paevakord_17_04_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "12f2e6ff-6055-a7e8-0153-61e5f749fc3f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 12f2e6ff-6055-a7e8-0153-61e5f749fc3f)",
+  "source": "https://api.riigikogu.ee/api/volumes/12f2e6ff-6055-a7e8-0153-61e5f749fc3f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-04-01&endDate=2007-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
