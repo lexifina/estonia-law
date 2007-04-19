@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-04-19T10:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikogu otsuse \"Rahvusringhäälingu nõukogu liikmete nimetamine\" eelnõu ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0e2e59e4-f164-6b6e-4752-5ef58bb263c6"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu otsuse “Eesti Rahvusraamatukogu nõukogu liikmete nimetamine\" eelnõu ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1decb9d5-50af-e20d-fa37-ded2563e9ee8"
+    },
+    {
+      "order": 3,
+      "title": "Riigikogu otsuse “Rahvusooperi nõukogu liikmete nimetamine” eelnõu ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "95a6609a-930a-9777-8cf4-fd3ef6adeb1c"
+    },
+    {
+      "order": 4,
+      "title": "Info, kirjad",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3972fa92-6444-b971-ec35-902d8c7c7b8d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 19.04.2007",
+      "uuid": "b9c413d5-487a-30a3-e183-5d4aed74a51a",
+      "files": [
+        "Kultuurikomisjon_paevakord_19_04_2007.odt",
+        "Kultuurikomisjon_istungi_protokoll_16_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "86f8c4a3-395e-b40f-4061-442327bffc67",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 86f8c4a3-395e-b40f-4061-442327bffc67)",
+  "source": "https://api.riigikogu.ee/api/volumes/86f8c4a3-395e-b40f-4061-442327bffc67",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-04-01&endDate=2007-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
