@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-04-19T12:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikaitsekomisjoni väljasõiduistung. Kohtumine Vabariigi Presidendiga",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0c4e314c-87f4-6255-3d79-6a1f6b19b598"
+    },
+    {
+      "order": 2,
+      "title": "Euroopa Liidu Nõukogu määruse eelnõu, millega kehtestatakse ühenduse kord kahesuguse kasutusega kaupade ja tehnoloogia ekspordi kontrollimiseks   ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ad78eb49-f90c-d73e-4045-865c804be2e2"
+    },
+    {
+      "order": 3,
+      "title": "Riigikaitsekomisjoni esindajate saatmine Riias k.a 20. - 22. mail toimuvale kolme Balti riigi Parlamentide riigikaitsekomisjonide ühisistungile",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0a746cd6-e462-f2af-d458-7d4dabcca5cd"
+    },
+    {
+      "order": 4,
+      "title": "Informatsioon",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f947dd4f-9711-91a7-b742-dd4e7583792a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 19.04.2007",
+      "uuid": "1885967b-23fd-390a-8d55-2a4cddccf609",
+      "files": [
+        "Riigikaitsekomisjon_istungi_protokoll_16_2007.odt",
+        "Riigikaitsekomisjon_paevakord_19_04_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "3b96636f-52be-5ab9-6dc6-052cb31911f8",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3b96636f-52be-5ab9-6dc6-052cb31911f8)",
+  "source": "https://api.riigikogu.ee/api/volumes/3b96636f-52be-5ab9-6dc6-052cb31911f8",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-04-01&endDate=2007-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
