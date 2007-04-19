@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-04-19T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikogu välisdelegatsioonide moodustamise üldpõhimõtete arutelu.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e0ae5858-cdf3-fb50-f25c-3b75159dcc03"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu XI koosseisu väliskomisjoni I istungjärgu töökava arutelu.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "edbd35db-c6fb-0251-ce31-a613a899d072"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "873a9c07-ca3d-9886-7742-fc7a94eb4610"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 19.04.2007",
+      "uuid": "3e135ee8-f7be-1f41-7809-f46ce5073f82",
+      "files": [
+        "V%25E4liskomisjon_istungi_protokoll_16_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "6f54a9a3-9685-97c9-9ef9-a699b952083b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 6f54a9a3-9685-97c9-9ef9-a699b952083b)",
+  "source": "https://api.riigikogu.ee/api/volumes/6f54a9a3-9685-97c9-9ef9-a699b952083b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-04-01&endDate=2007-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
