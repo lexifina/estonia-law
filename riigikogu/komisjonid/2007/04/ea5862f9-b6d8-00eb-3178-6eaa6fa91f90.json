@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-04-19T10:20:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riikliku pensionikindlustuse seaduse § 61 täiendamise seadus [1 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6a6821ba-1ed6-d54a-8adc-7e1d35b11dab"
+    },
+    {
+      "order": 2,
+      "title": "Riigkogu otsuse \"Eesti Haigekassa nõukogu liikme nimetamine\" eelnõu algatamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ed7d68e4-e8d7-30a6-7572-730e63f20771"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 19.04.2007",
+      "uuid": "214ce8d7-3712-5956-1e0e-fe81be7e2e7d",
+      "files": [
+        "Sotsiaalkomisjon_istungi_protokoll_16_2007.odt",
+        "Sotsiaalkomisjon_paevakord_19_04_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "ea5862f9-b6d8-00eb-3178-6eaa6fa91f90",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ea5862f9-b6d8-00eb-3178-6eaa6fa91f90)",
+  "source": "https://api.riigikogu.ee/api/volumes/ea5862f9-b6d8-00eb-3178-6eaa6fa91f90",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-04-01&endDate=2007-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
