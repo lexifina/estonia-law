@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-04-20T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ühisistung ELAKiga - Eesti seisukohad 23.-24. aprillil 2007 toimuval ELi üldasjade ja välissuhete nõukogu istungil.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ca51a4f6-9540-3f3f-d717-901fa1bafdff"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1ef844ae-d560-364c-cab8-a2cd2d63cd08"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 20.04.2007",
+      "uuid": "d58731cf-eeff-fae9-b4b7-2ef2e9881c09",
+      "files": [
+        "Väliskomisjon_istungi_protokoll_16_2007.odt",
+        "Väliskomisjon_paevakord_20_04_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "e24b6f83-dc93-f3e8-67b3-be45b4c665c0",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e24b6f83-dc93-f3e8-67b3-be45b4c665c0)",
+  "source": "https://api.riigikogu.ee/api/volumes/e24b6f83-dc93-f3e8-67b3-be45b4c665c0",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-04-01&endDate=2007-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
