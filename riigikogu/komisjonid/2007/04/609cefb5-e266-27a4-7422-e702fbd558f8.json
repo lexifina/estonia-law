@@ -1,0 +1,58 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-04-30T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d5e112af-d911-3ba4-e9c2-8071099f93d7"
+    },
+    {
+      "order": 2,
+      "title": "Põllumajandusmaade ajutine kasutamine (EHKÜ kiri 21.03.2007)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ceb09d90-1057-c867-13e1-e6e524a220e9"
+    },
+    {
+      "order": 3,
+      "title": "Notarite Koja kiri 04.04.2007 Nr 7-2/172",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "64ec9094-267d-2d19-e739-b1c14782b4eb"
+    },
+    {
+      "order": 4,
+      "title": "MSI osakonna ettepanek",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "efd22fdc-6a04-dc43-96a9-1be096066a75"
+    },
+    {
+      "order": 5,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "43e78f44-25c9-9b79-c5d4-f5be3038ebab"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 30.04.2007",
+      "uuid": "00fbe664-155e-fad5-6b42-632c02f6e078",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_18_2007.odt",
+        "Maaelukomisjon_paevakord_30_04_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "609cefb5-e266-27a4-7422-e702fbd558f8",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 609cefb5-e266-27a4-7422-e702fbd558f8)",
+  "source": "https://api.riigikogu.ee/api/volumes/609cefb5-e266-27a4-7422-e702fbd558f8",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-04-01&endDate=2007-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
