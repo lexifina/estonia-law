@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-04-30T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Keskkonnakomisjoni töökava",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "49fb7f3f-bd2f-835e-568d-b6b5f5a86b0f"
+    },
+    {
+      "order": 2,
+      "title": "MTÜ Eesti Hobuse Kaitse Ühingu (EHKÜ) 21. märtsi 2007 kiri ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d2274bf1-f264-aa8f-0b86-9e1d8b7688e2"
+    },
+    {
+      "order": 3,
+      "title": "Riigikogu Kantselei majandus- ja sotsiaalinfoosakonna 18.04.2007 kiri nr 15-4/138 uuringute tellimisest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6e42e564-acff-c3e1-15ad-38378b78bb88"
+    },
+    {
+      "order": 4,
+      "title": "Jooksvad küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c48033a9-7bbf-630d-c239-c0e9057bce58"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 30.04.2007",
+      "uuid": "4d9ebb40-b805-3a63-3682-d5b608e8f925",
+      "files": [
+        "Keskkonnakomisjon_istungi_protokoll_18_2007.odt",
+        "Keskkonnakomisjon_paevakord_30_04_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "782bf59f-18c6-2001-29c0-58984a4a7fa5",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 782bf59f-18c6-2001-29c0-58984a4a7fa5)",
+  "source": "https://api.riigikogu.ee/api/volumes/782bf59f-18c6-2001-29c0-58984a4a7fa5",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-04-01&endDate=2007-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
