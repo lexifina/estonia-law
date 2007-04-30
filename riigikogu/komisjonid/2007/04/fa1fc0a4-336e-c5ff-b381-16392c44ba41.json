@@ -1,0 +1,33 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-04-30T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1f190a45-4eda-f042-3c69-1cab66895ef6"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 30.04.2007",
+      "uuid": "e65f6628-453c-992e-02df-f937877a89f4",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_18_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "fa1fc0a4-336e-c5ff-b381-16392c44ba41",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid fa1fc0a4-336e-c5ff-b381-16392c44ba41)",
+  "source": "https://api.riigikogu.ee/api/volumes/fa1fc0a4-336e-c5ff-b381-16392c44ba41",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-04-01&endDate=2007-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
