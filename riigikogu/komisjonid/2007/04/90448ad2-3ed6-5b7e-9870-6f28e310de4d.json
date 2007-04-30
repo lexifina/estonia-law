@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-04-30T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad Euroopa Komisjoni rohelise raamatu \"Suund Euroopa vabastamiseks tubakasuitsust: poliitikavalikud EL tasandil\" suhtes",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cea51c94-53a8-2e2e-47c6-487e157305ce"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad Euroopa Komisjoni rohelise raamatu \"Tööõiguse ajakohastamine 21.sajandi sõlmküsimuste lahendamisel\" suhtes",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0ab9324c-2fe7-82c2-d79e-4cfff80c4212"
+    },
+    {
+      "order": 3,
+      "title": "Riigikogu otsuse \"Eesti Haigekassa nõukogu liikme nimetamine\" eelnõu algatamine ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "208c48cf-8188-56bf-c8fc-d2777fb6f229"
+    },
+    {
+      "order": 4,
+      "title": "Lähetus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "05d56ed1-5bad-0155-2ba3-7d2825ea03b9"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 30.04.2007",
+      "uuid": "d2b2e926-d066-d26e-88f5-7bba284221f5",
+      "files": [
+        "Sotsiaalkomisjon_istungi_protokoll_18_2007.odt",
+        "Sotsiaalkomisjon_paevakord_30_04_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "90448ad2-3ed6-5b7e-9870-6f28e310de4d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 90448ad2-3ed6-5b7e-9870-6f28e310de4d)",
+  "source": "https://api.riigikogu.ee/api/volumes/90448ad2-3ed6-5b7e-9870-6f28e310de4d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-04-01&endDate=2007-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
