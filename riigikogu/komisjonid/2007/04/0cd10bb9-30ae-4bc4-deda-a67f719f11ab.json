@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-04-30T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Korruptsioonivastase seaduse kohaldamise erikomisjoni algatamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1af8b120-661f-33ec-dc8b-0934d6289775"
+    },
+    {
+      "order": 2,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1592d57c-e55d-bd52-36ef-6ff88fe1b271"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 30.04.2007",
+      "uuid": "0278c1dc-8c52-02c9-a8db-b40044dbfa1e",
+      "files": [
+        "P%F5hiseaduskomisjon_istungi_protokoll_18_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "0cd10bb9-30ae-4bc4-deda-a67f719f11ab",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0cd10bb9-30ae-4bc4-deda-a67f719f11ab)",
+  "source": "https://api.riigikogu.ee/api/volumes/0cd10bb9-30ae-4bc4-deda-a67f719f11ab",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-04-01&endDate=2007-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
