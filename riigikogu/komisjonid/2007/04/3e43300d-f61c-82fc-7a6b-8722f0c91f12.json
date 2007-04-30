@@ -1,0 +1,64 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-04-30T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töönädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "84428f6e-5ca9-9209-4479-8e0793365014"
+    },
+    {
+      "order": 2,
+      "title": "Arvamuse andmine ELAK-le",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5f35a33d-01b1-cd9d-4db7-5430992e6f93"
+    },
+    {
+      "order": 3,
+      "title": "Arvamuse andmine Riigikohtule",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "609d98fd-48f6-fb51-2cf4-b34bc25bdecb"
+    },
+    {
+      "order": 4,
+      "title": "Esindaja määramine kohtute haldamise nõukotta",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ffea115e-2705-81c3-64c6-d2839675b258"
+    },
+    {
+      "order": 5,
+      "title": "Lähetus Brüsselisse",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "298f9ecb-ef98-f64e-4a26-64e411d641d0"
+    },
+    {
+      "order": 6,
+      "title": "Kohtumine siseministriga",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6249f4d0-0c55-9f3a-c75a-255c1f87ff29"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 30.04.2007",
+      "uuid": "ccc46bbd-8595-5d18-8f0f-08eac8d725fa",
+      "files": [
+        "Õiguskomisjon_paevakord_30_04_2007.odt",
+        "iguskomisjon_istungi_protokoll_18_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "3e43300d-f61c-82fc-7a6b-8722f0c91f12",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3e43300d-f61c-82fc-7a6b-8722f0c91f12)",
+  "source": "https://api.riigikogu.ee/api/volumes/3e43300d-f61c-82fc-7a6b-8722f0c91f12",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-04-01&endDate=2007-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
