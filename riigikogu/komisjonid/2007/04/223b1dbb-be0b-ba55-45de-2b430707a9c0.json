@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-04-30T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väliskomisjoni 4. töönädala töökava kinnitamine.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bd757c9c-bd9a-6eaf-9e4b-ca094e14879f"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade Eesti ja Venemaa vahelistest suhetest. Kutsutud välisministeeriumi 3. poliitikaosakonna peadirektor Simmu Tiik.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "05059ed8-ab19-f756-2b34-be0904eed0f2"
+    },
+    {
+      "order": 3,
+      "title": "Informatsioon väliskomisjoni liikmete tegevusest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e1866199-04ea-95bb-b472-7c9b9dd106c4"
+    },
+    {
+      "order": 4,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8d548b99-72e5-a96b-705c-e2d855c65855"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 30.04.2007",
+      "uuid": "605d41a8-a7e4-c518-3360-bae9da75d9da",
+      "files": [
+        "V%E4liskomisjon_istungi_protokoll_18_2007.odt",
+        "V%E4liskomisjon_paevakord_30_04_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "223b1dbb-be0b-ba55-45de-2b430707a9c0",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 223b1dbb-be0b-ba55-45de-2b430707a9c0)",
+  "source": "https://api.riigikogu.ee/api/volumes/223b1dbb-be0b-ba55-45de-2b430707a9c0",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-04-01&endDate=2007-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
