@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-05-02T14:00:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikogu otsuse \"Eesti Rahvusringhäälingu nõukogu liikmete nimetamine\" eelnõu      ettevalmistamine.     Arutelu jätkamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "74a73723-976c-8478-f2ad-901cef2005bf"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu otsuse \"Eesti Rahvusraamatukogu nõukogu liikmete nimetamine\" eelnõu ettevalmistamine. Arutelu jätkamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5832a28a-680b-d829-b74c-fddc7774bc50"
+    },
+    {
+      "order": 3,
+      "title": "Riigikogu otsuse \"Rahvusooperi nõukogu liikmete nimetamine\" eelnõu ettevalmistamine. Arutelu jätkamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "32f0130d-83b3-9eaf-a093-e463d9b95cc2"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 02.05.2007",
+      "uuid": "cfbf8c88-93db-ade8-ba96-3734c3f5169c",
+      "files": [
+        "Kultuurikomisjon_istungi_protokoll_18_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "50a49932-ffd2-4add-fcd8-060707a60520",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 50a49932-ffd2-4add-fcd8-060707a60520)",
+  "source": "https://api.riigikogu.ee/api/volumes/50a49932-ffd2-4add-fcd8-060707a60520",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-05-01&endDate=2007-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
