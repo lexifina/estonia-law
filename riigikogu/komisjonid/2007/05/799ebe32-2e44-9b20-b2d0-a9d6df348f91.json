@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-05-03T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikogu otsuse \"Hasartmängumaksust toetuste määramise nõukogu moodustamine\" eelnõu algatamise ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9a2c949c-dbd1-2d2d-ee8e-ee5b0fbaddb2"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade stabiliseerimisreservi varade koosseisu ja väärtuse kohta seisuga 31.03.2007",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "48780774-c6c1-18aa-f81b-bf69f440e9d2"
+    },
+    {
+      "order": 3,
+      "title": "Informatsioon",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8313d725-b64e-2946-09c3-7eb923583968"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 03.05.2007",
+      "uuid": "d3d9096b-3f52-a426-0d0c-de56b0a86f81",
+      "files": [
+        "Rahanduskomisjon_istungi_protokoll_18_2007.odt",
+        "Rahanduskomisjon_paevakord_03_05_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "799ebe32-2e44-9b20-b2d0-a9d6df348f91",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 799ebe32-2e44-9b20-b2d0-a9d6df348f91)",
+  "source": "https://api.riigikogu.ee/api/volumes/799ebe32-2e44-9b20-b2d0-a9d6df348f91",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-05-01&endDate=2007-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
