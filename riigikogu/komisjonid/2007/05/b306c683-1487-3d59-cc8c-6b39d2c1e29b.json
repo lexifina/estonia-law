@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-05-03T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigivara tasuta võõrandamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "15babdfc-877d-235d-8b89-4ff3d00d3736"
+    },
+    {
+      "order": 2,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "850732fa-34ba-c41b-1999-c5e7918886fe"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 03.05.2007",
+      "uuid": "35e0bda7-c0b0-da14-da42-295002de8be9",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_18_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "b306c683-1487-3d59-cc8c-6b39d2c1e29b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b306c683-1487-3d59-cc8c-6b39d2c1e29b)",
+  "source": "https://api.riigikogu.ee/api/volumes/b306c683-1487-3d59-cc8c-6b39d2c1e29b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-05-01&endDate=2007-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
