@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-05-04T10:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 7.-8. mail toimuval põllumajanduse ja kalanduse nõukogu kohtumisel.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0e54840c-08f7-2a59-41b7-cb15698d8b50"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad 8. mail toimuval  majandus- ja rahandusministrite nõukogu (ECOFIN) kohtumisel.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c61bfc8b-19a6-3d26-f9d8-58bd2b7a1cdf"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 04.05.2007",
+      "uuid": "984d15ba-9dd2-0b9a-e5db-f69761a78278",
+      "files": [
+        "Euroopa Liidu asjade komisjon_istungi_protokoll_18_2007.odt",
+        "Euroopa Liidu asjade komisjon_paevakord_04_05_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "5c3d8fa1-8c2e-0a49-c360-cbcdc600a3c9",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 5c3d8fa1-8c2e-0a49-c360-cbcdc600a3c9)",
+  "source": "https://api.riigikogu.ee/api/volumes/5c3d8fa1-8c2e-0a49-c360-cbcdc600a3c9",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-05-01&endDate=2007-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
