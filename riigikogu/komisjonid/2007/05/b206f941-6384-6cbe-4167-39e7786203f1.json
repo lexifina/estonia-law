@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-05-07T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "72f2020d-b029-3dc0-e7ad-22943a29c252"
+    },
+    {
+      "order": 2,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "66f36b4c-df1c-1b62-c65a-944bcf8e3092"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 07.05.2007",
+      "uuid": "39416087-6486-9572-e497-2802ad48c474",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_19_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "b206f941-6384-6cbe-4167-39e7786203f1",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b206f941-6384-6cbe-4167-39e7786203f1)",
+  "source": "https://api.riigikogu.ee/api/volumes/b206f941-6384-6cbe-4167-39e7786203f1",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-05-01&endDate=2007-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
