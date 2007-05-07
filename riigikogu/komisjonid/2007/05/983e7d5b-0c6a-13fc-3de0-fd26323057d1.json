@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-05-07T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikogu otsus \"Eesti Haigekassa nõukogu liikme nimetamine\" [17 OE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "eec15bc3-0e40-a249-f68d-e355251a3451"
+    },
+    {
+      "order": 2,
+      "title": "Lähetus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3f215712-f9a7-bf9d-5475-0ab44e1c0eca"
+    },
+    {
+      "order": 3,
+      "title": "Esindaja nimetamine HIV ja AIDSi komisjoni",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "173fc993-2b48-1308-1b40-9dcb024313b2"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 07.05.2007",
+      "uuid": "f564dfb6-220f-1c74-dc3d-168b15853df2",
+      "files": [
+        "Sotsiaalkomisjon_istungi_protokoll_19_2007.odt",
+        "Sotsiaalkomisjon_paevakord_07_05_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "983e7d5b-0c6a-13fc-3de0-fd26323057d1",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 983e7d5b-0c6a-13fc-3de0-fd26323057d1)",
+  "source": "https://api.riigikogu.ee/api/volumes/983e7d5b-0c6a-13fc-3de0-fd26323057d1",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-05-01&endDate=2007-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
