@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-05-07T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Eesti Reservohvitseride Kogu esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a53ef7a4-53a1-d19f-aeea-32681796a691"
+    },
+    {
+      "order": 2,
+      "title": "Kaitsetahte alaste uuringute tutvustamine. Kutsutud Juhan Kivirähk.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0f3e5440-8101-b888-afbb-ffc6052899e7"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 07.05.2007",
+      "uuid": "bb71da5d-d8ff-9224-9d71-bdb4aca64e48",
+      "files": [
+        "07.05.07.doc"
+      ]
+    }
+  ],
+  "uuid": "c73001da-6e12-ec4e-a834-e92142a19539",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c73001da-6e12-ec4e-a834-e92142a19539)",
+  "source": "https://api.riigikogu.ee/api/volumes/c73001da-6e12-ec4e-a834-e92142a19539",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-05-01&endDate=2007-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
