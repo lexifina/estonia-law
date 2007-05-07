@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-05-07T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade Eesti majandusehetkeseisust ja prognoosidest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "35416e0a-079f-9b30-779b-66cd1b8150a5"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine Rahvusvahelise Valuutafondi (IMF) missiooniga",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "50005ba3-4f43-930f-1a73-67551a61d9af"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 07.05.2007",
+      "uuid": "35855d6f-29c7-d7a9-f93e-de97f59dcb71",
+      "files": [
+        "Rahanduskomisjon_istungi_protokoll_19_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "f88e6b55-2ab3-e063-f337-8f9b57b77537",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f88e6b55-2ab3-e063-f337-8f9b57b77537)",
+  "source": "https://api.riigikogu.ee/api/volumes/f88e6b55-2ab3-e063-f337-8f9b57b77537",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-05-01&endDate=2007-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
