@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-05-07T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine haridus- ja teadusminister Tõnis Lukasega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "45a34cba-3d96-6719-af58-558eefd1fd55"
+    },
+    {
+      "order": 2,
+      "title": "Info, kirjad",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f16e3cf8-c685-5201-ce62-042366a9b508"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 07.05.2007",
+      "uuid": "8aa8c4c3-5a3a-8645-aa25-750a8958340f",
+      "files": [
+        "Kultuurikomisjon_paevakord_07_05_2007.odt",
+        "Kultuurikomisjon_istungi_protokoll_19_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "332205a9-f019-2b3b-f6eb-68c0426179a9",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 332205a9-f019-2b3b-f6eb-68c0426179a9)",
+  "source": "https://api.riigikogu.ee/api/volumes/332205a9-f019-2b3b-f6eb-68c0426179a9",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-05-01&endDate=2007-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
