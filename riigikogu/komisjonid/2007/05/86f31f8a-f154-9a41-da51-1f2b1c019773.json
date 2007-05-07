@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-05-07T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikogu otsuse „Korruptsioonivastase seaduse kohaldamise erikomisjoni moodustamine” eelnõu -13 OE – esimese ja teise lugemise arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f8543579-2cdf-adf2-fb7a-48e66a840bc9"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu otsuse „Riigikogu julgeolekuasutuste järelevalve komisjoni moodustamine” eelnõu  -14 OE- esimese ja teise lugemise arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "85fa25e0-d4b1-0b80-69cc-3164586815a9"
+    },
+    {
+      "order": 3,
+      "title": "Riigikogu otsuse „Riigieelarve kontrolli komisjoni moodustamine” eelnõu -15 OE- esimese ja teise lugemise arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c8302aac-94cd-27a4-cb51-9ceb7e7925e7"
+    },
+    {
+      "order": 4,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c20a3ce8-3649-d9ef-2ec5-c9e8af19927f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 07.05.2007",
+      "uuid": "e8b079a2-8745-53c4-14a2-afdd9e0c1299",
+      "files": [
+        "Põhiseaduskomisjon_istungi_protokoll_19_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "86f31f8a-f154-9a41-da51-1f2b1c019773",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 86f31f8a-f154-9a41-da51-1f2b1c019773)",
+  "source": "https://api.riigikogu.ee/api/volumes/86f31f8a-f154-9a41-da51-1f2b1c019773",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-05-01&endDate=2007-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
