@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-05-08T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Kaitseministeeriumi kaitsepoliitika asekantsler Lauri Lindströmiga ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0796d290-a03c-f0a3-230a-3c57b5c1d3a6"
+    },
+    {
+      "order": 2,
+      "title": "Informatsioon k. a 7. mail Brüsselis toimunud EL liikmesriikide parlamentide ja Euroopa Parlamendi välis- ja kaitsekomisjonide ühisistungist ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0501b628-db25-77d1-f4db-fb15640cf4ae"
+    },
+    {
+      "order": 3,
+      "title": "Riigikaitsekomisjoni kavandatavad välislähetused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d1528470-7e6f-5b60-58cf-c29211fea540"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 08.05.2007",
+      "uuid": "825b15ac-714e-ca24-ef7b-edb627760be9",
+      "files": [
+        "08.05.07.doc"
+      ]
+    }
+  ],
+  "uuid": "5b5aed72-b44b-94e8-1280-9af6e5e84aac",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 5b5aed72-b44b-94e8-1280-9af6e5e84aac)",
+  "source": "https://api.riigikogu.ee/api/volumes/5b5aed72-b44b-94e8-1280-9af6e5e84aac",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-05-01&endDate=2007-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
