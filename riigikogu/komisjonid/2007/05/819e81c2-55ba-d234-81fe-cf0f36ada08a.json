@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-05-08T11:00:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riikliku pensionikindlustuse seaduse § 61 täiendamise seadus [1 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2cb1d037-d041-78da-b87a-c550bff793dd"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade sotsiaaluuringutest ja uuringute tellimisest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e876f94d-8b89-e2ae-3c3d-4ef3d76fb9c7"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 08.05.2007",
+      "uuid": "6367577f-e72f-7203-62ca-4530e546ef01",
+      "files": [
+        "Sotsiaalkomisjon_paevakord_08_05_2007.odt",
+        "Sotsiaalkomisjon_istungi_protokoll_19_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "819e81c2-55ba-d234-81fe-cf0f36ada08a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 819e81c2-55ba-d234-81fe-cf0f36ada08a)",
+  "source": "https://api.riigikogu.ee/api/volumes/819e81c2-55ba-d234-81fe-cf0f36ada08a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-05-01&endDate=2007-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
