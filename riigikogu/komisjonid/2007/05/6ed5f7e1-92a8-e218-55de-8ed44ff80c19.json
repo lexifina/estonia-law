@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-05-08T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väliskomisjoni 5. töönädala töökava kinnitamine.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "897b1b7d-515a-fe4a-1fc2-583334149577"
+    },
+    {
+      "order": 2,
+      "title": "Informatsioon väliskomisjoni liikmete tegevusest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cf9807c8-815e-d6ed-da15-b8a61ae9edce"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "621613f7-7bd0-0683-1103-c8f5fb4c2e03"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 08.05.2007",
+      "uuid": "f18eb826-f801-4934-d709-a79be706a7ca",
+      "files": [
+        "V%E4liskomisjon_paevakord_08_05_2007.odt",
+        "V%E4liskomisjon_istungi_protokoll_19_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "6ed5f7e1-92a8-e218-55de-8ed44ff80c19",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 6ed5f7e1-92a8-e218-55de-8ed44ff80c19)",
+  "source": "https://api.riigikogu.ee/api/volumes/6ed5f7e1-92a8-e218-55de-8ed44ff80c19",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-05-01&endDate=2007-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
