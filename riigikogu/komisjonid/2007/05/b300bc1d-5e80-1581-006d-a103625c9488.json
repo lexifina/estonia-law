@@ -1,0 +1,34 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-05-08T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väljasõiduistung Maa-ametis",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "570054da-901a-973a-2455-8f44d739782b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 08.05.2007",
+      "uuid": "4323245d-1267-e96d-f127-f9fefd9c2b1a",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_19_2007.odt",
+        "Maaelukomisjon_paevakord_08_05_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "b300bc1d-5e80-1581-006d-a103625c9488",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b300bc1d-5e80-1581-006d-a103625c9488)",
+  "source": "https://api.riigikogu.ee/api/volumes/b300bc1d-5e80-1581-006d-a103625c9488",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-05-01&endDate=2007-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
