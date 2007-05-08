@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-05-08T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikogu otsuse eelnõu \"Stabiliseerimisreservi nõukogu liikmete nimetamine\" algatamise ettevalmistamine      ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4eb7a0e5-61f9-c0d6-474b-2fa344b7ddc9"
+    },
+    {
+      "order": 2,
+      "title": "Euroopa Liidu eelarve kujundamine ja mõju rahvuslikule eelarvele",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "488a6523-0cce-794e-bf2a-8ca00dbea065"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 08.05.2007",
+      "uuid": "d8c248c5-4ffd-c8c3-e91c-dc507ff6e3e2",
+      "files": [
+        "Rahanduskomisjon_istungi_protokoll_19_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "756e797a-a3bc-570e-f132-526882abb784",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 756e797a-a3bc-570e-f132-526882abb784)",
+  "source": "https://api.riigikogu.ee/api/volumes/756e797a-a3bc-570e-f132-526882abb784",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-05-01&endDate=2007-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
