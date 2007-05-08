@@ -1,0 +1,33 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-05-08T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Planeerimata",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9c1abb80-f335-d635-7e59-091b63fd4dfe"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 08.05.2007",
+      "uuid": "3456874e-0604-baeb-c835-ee4c2ef4053b",
+      "files": [
+        "Õiguskomisjon_paevakord_08_05_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "e0116397-15e2-ae87-97a2-c8f5b5d7dd70",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e0116397-15e2-ae87-97a2-c8f5b5d7dd70)",
+  "source": "https://api.riigikogu.ee/api/volumes/e0116397-15e2-ae87-97a2-c8f5b5d7dd70",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-05-01&endDate=2007-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
