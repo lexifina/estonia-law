@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-05-10T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikogu välissuhtlus. Kohtumine Riigikogu esimehe Ene Ergmaga.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0a9cf8dd-47ac-42be-76bd-3585ff49d0c3"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "df28c247-848f-fcc6-704e-0e419d333b77"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 10.05.2007",
+      "uuid": "1eb89b73-b530-fb84-a88d-81877d8cdcd2",
+      "files": [
+        "Väliskomisjon_paevakord_10_05_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "7915e44c-099b-5912-f802-265dc6833936",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7915e44c-099b-5912-f802-265dc6833936)",
+  "source": "https://api.riigikogu.ee/api/volumes/7915e44c-099b-5912-f802-265dc6833936",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-05-01&endDate=2007-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
