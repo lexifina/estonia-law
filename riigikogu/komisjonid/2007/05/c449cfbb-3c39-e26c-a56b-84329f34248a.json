@@ -1,0 +1,57 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-05-14T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Keskkonnakomisjoni töökava",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f3e7193b-e044-268c-1b59-3a9099e674ce"
+    },
+    {
+      "order": 2,
+      "title": "Jäätmeseaduse muutmise seaduse eelnõu algatamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "97cf4cb4-1f8e-576b-8837-3c726efc0b4d"
+    },
+    {
+      "order": 3,
+      "title": "Riigikogu otsuse „Keskkonnakasutusest riigieelarvesse laekuva raha kasutamiseks asutatud sihtasutuse nõukogu liikmete nimetamine” eelnõu esitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8739e716-5f26-1668-49da-c4d31ec474e5"
+    },
+    {
+      "order": 4,
+      "title": "Riigikogu otsuse „Riigimetsa Majandamise Keskuse nõukogu liikmete nimetamine” eelnõu esitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b4b1784d-0cda-56e3-d9b8-282d23026e36"
+    },
+    {
+      "order": 5,
+      "title": "Jooksvad küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e4da8aa2-aed3-e313-b6e3-5108e4d1a0a6"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 14.05.2007",
+      "uuid": "c747061f-9c2b-4ec2-83d7-4ead5f282f66",
+      "files": [
+        "Keskkonnakomisjon_istungi_protokoll_20_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "c449cfbb-3c39-e26c-a56b-84329f34248a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c449cfbb-3c39-e26c-a56b-84329f34248a)",
+  "source": "https://api.riigikogu.ee/api/volumes/c449cfbb-3c39-e26c-a56b-84329f34248a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-05-01&endDate=2007-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
