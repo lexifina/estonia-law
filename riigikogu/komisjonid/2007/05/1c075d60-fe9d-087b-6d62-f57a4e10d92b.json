@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-05-14T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine kultuuriminister Laine Jänesega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a23647d1-0ffc-08bc-df90-80c4c0b6e2f1"
+    },
+    {
+      "order": 2,
+      "title": "Torgu Põhikooli sulgemisest. Kohtumine lapsevanemate esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3c967b56-a192-c246-7be1-6a18ce5e1686"
+    },
+    {
+      "order": 3,
+      "title": "Info, kirjad",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e9a3c1a2-8b0d-3635-f7cb-84f6070cfc55"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 14.05.2007",
+      "uuid": "14812ed2-a6c2-4a3b-1a7e-4a124836be5e",
+      "files": [
+        "Kultuurikomisjon_istungi_protokoll_20_2007.odt",
+        "Kultuurikomisjon_paevakord_14_05_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "1c075d60-fe9d-087b-6d62-f57a4e10d92b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 1c075d60-fe9d-087b-6d62-f57a4e10d92b)",
+  "source": "https://api.riigikogu.ee/api/volumes/1c075d60-fe9d-087b-6d62-f57a4e10d92b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-05-01&endDate=2007-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
