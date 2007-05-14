@@ -1,0 +1,34 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-05-14T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2f5779e2-c33e-4545-8a28-449d1dc8fc96"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 14.05.2007",
+      "uuid": "e3ca7c91-0fa1-b3a5-2a84-c0e6c61a4a89",
+      "files": [
+        "Sotsiaalkomisjon_paevakord_14_05_2007.odt",
+        "Sotsiaalkomisjon_istungi_protokoll_20_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "9a6a83df-4bca-55b3-17e7-4a763796efff",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9a6a83df-4bca-55b3-17e7-4a763796efff)",
+  "source": "https://api.riigikogu.ee/api/volumes/9a6a83df-4bca-55b3-17e7-4a763796efff",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-05-01&endDate=2007-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
