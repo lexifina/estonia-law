@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-05-15T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikogu otsuse „Stabiliseerimisreservi nõukogu liikmete nimetamine” eelnõu algatamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "af2993ee-3e45-c7f4-a8b9-fc65a1c8fef9"
+    },
+    {
+      "order": 2,
+      "title": "Informatsioon",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9d4b2a86-1650-cf29-f0d1-b4ebd28b6629"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 15.05.2007",
+      "uuid": "228640d8-651c-a8cc-8cf8-ed8b60bf511c",
+      "files": [
+        "Rahanduskomisjon_istungi_protokoll_20_2007.odt",
+        "Rahanduskomisjon_paevakord_15_05_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "3f823392-0dde-43c5-c541-14487a2942a2",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3f823392-0dde-43c5-c541-14487a2942a2)",
+  "source": "https://api.riigikogu.ee/api/volumes/3f823392-0dde-43c5-c541-14487a2942a2",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-05-01&endDate=2007-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
