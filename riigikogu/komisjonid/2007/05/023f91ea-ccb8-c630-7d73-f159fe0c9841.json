@@ -1,0 +1,33 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-05-15T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väljasõiduistung Kaitseressursside Ametisse.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d059a430-a418-ce90-f598-645c2f920062"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 15.05.2007",
+      "uuid": "f35d5b47-0821-df69-47df-3144a0bbc22e",
+      "files": [
+        "15.05.07.doc"
+      ]
+    }
+  ],
+  "uuid": "023f91ea-ccb8-c630-7d73-f159fe0c9841",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 023f91ea-ccb8-c630-7d73-f159fe0c9841)",
+  "source": "https://api.riigikogu.ee/api/volumes/023f91ea-ccb8-c630-7d73-f159fe0c9841",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-05-01&endDate=2007-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
