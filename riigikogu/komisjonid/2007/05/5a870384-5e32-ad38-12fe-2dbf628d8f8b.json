@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-05-15T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Eesti suursaadiku, alalise esindajaga ÜRO juures Tiina Intelmanniga.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d9268708-fd8b-c060-05be-bd01b92c4f93"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "461f632a-7b1f-870c-3296-b54d9391c088"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 15.05.2007",
+      "uuid": "15cbebb0-6996-e8ad-9855-9a012a91e01b",
+      "files": [
+        "V%E4liskomisjon_istungi_protokoll_20_2007.odt",
+        "Väliskomisjon_paevakord_15_05_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "5a870384-5e32-ad38-12fe-2dbf628d8f8b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 5a870384-5e32-ad38-12fe-2dbf628d8f8b)",
+  "source": "https://api.riigikogu.ee/api/volumes/5a870384-5e32-ad38-12fe-2dbf628d8f8b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-05-01&endDate=2007-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
