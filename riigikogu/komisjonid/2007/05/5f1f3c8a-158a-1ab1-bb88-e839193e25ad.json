@@ -1,0 +1,34 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-05-15T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väljasõiduistung Põllumajandusministeeriumis",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "098766ea-c5a7-46f4-5f13-6be26e0fc67e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 15.05.2007",
+      "uuid": "fb85ad11-2a57-c63b-3747-d001b0fe8839",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_20_2007.odt",
+        "Maaelukomisjon_paevakord_15_05_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "5f1f3c8a-158a-1ab1-bb88-e839193e25ad",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 5f1f3c8a-158a-1ab1-bb88-e839193e25ad)",
+  "source": "https://api.riigikogu.ee/api/volumes/5f1f3c8a-158a-1ab1-bb88-e839193e25ad",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-05-01&endDate=2007-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
