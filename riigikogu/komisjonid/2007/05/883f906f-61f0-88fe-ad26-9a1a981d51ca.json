@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-05-17T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine välisminister Urmas Paetiga.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d9ebcf29-f0d7-1d95-fc8a-0676bab1f673"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7c61c6d7-0fe6-1064-2dcf-75a28499fbeb"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 17.05.2007",
+      "uuid": "44f34bbb-d940-5d45-2d1f-297e7f69af7c",
+      "files": [
+        "Väliskomisjon_paevakord_17_05_2007.odt",
+        "V%25E4liskomisjon_istungi_protokoll_20_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "883f906f-61f0-88fe-ad26-9a1a981d51ca",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 883f906f-61f0-88fe-ad26-9a1a981d51ca)",
+  "source": "https://api.riigikogu.ee/api/volumes/883f906f-61f0-88fe-ad26-9a1a981d51ca",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-05-01&endDate=2007-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
