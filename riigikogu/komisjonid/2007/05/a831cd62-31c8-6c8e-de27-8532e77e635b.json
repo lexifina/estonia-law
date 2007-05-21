@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-05-21T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 24.-25. mail toimuval linnade arengu ja territoriaalse ühtekuuluvusega tegelevate ministrite mitteametlikul kohtumisel.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ef693bd9-5dd2-ce2a-a8c4-3a3a06ad98cf"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad 21.-22. mail toimuval konkurentsivõime ja kasvu nõukogu kohtumisel.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ec9e652a-f2fb-988d-6ded-c360161c45eb"
+    },
+    {
+      "order": 3,
+      "title": "Eesti seisukohad 24.-25. mail toimuval haridus-, noorte- ja kultuuriministrite kohtumisel.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "06fef999-22c1-713c-1dcd-03e1a11da925"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 21.05.2007",
+      "uuid": "5841a9b2-1f72-d1e6-4a55-0e34fd961360",
+      "files": [
+        "Euroopa+Liidu+asjade+komisjon_istungi_protokoll_21_2007.odt",
+        "Euroopa Liidu asjade komisjon_paevakord_21_05_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "a831cd62-31c8-6c8e-de27-8532e77e635b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a831cd62-31c8-6c8e-de27-8532e77e635b)",
+  "source": "https://api.riigikogu.ee/api/volumes/a831cd62-31c8-6c8e-de27-8532e77e635b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-05-01&endDate=2007-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
