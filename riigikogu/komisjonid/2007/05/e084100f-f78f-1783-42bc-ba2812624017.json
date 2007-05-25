@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-05-25T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Euroopa Komisjoni asepresident Siim Kallasega.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5873eec2-9f7f-29b4-790a-6e36967651d0"
+    },
+    {
+      "order": 2,
+      "title": "Brüsselis 11.-12. juunil 2007. a toimuv eesistuja ja Euroopa Parlamendi poolt korraldatav tuleviku konverents.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8bd466e4-8b7d-4775-87fa-96d066c9e6b1"
+    },
+    {
+      "order": 3,
+      "title": "Lissabonis 9.-10. juulil 2007. a toimuv COSAC esimeeste kohtumine.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0701fb57-6fa5-d4f9-9f96-87f4b957529e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 25.05.2007",
+      "uuid": "9601b2be-b84c-422a-a718-5cbaa98ad1d0",
+      "files": [
+        "Euroopa+Liidu+asjade+komisjon_istungi_protokoll_21_2007.odt",
+        "Euroopa Liidu asjade komisjon_paevakord_25_05_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "e084100f-f78f-1783-42bc-ba2812624017",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e084100f-f78f-1783-42bc-ba2812624017)",
+  "source": "https://api.riigikogu.ee/api/volumes/e084100f-f78f-1783-42bc-ba2812624017",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-05-01&endDate=2007-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
