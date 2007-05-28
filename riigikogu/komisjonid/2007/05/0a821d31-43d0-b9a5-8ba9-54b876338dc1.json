@@ -1,0 +1,33 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-05-28T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a2e29a30-159f-4fee-a36e-0e8e0534beac"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 28.05.2007",
+      "uuid": "99bdbbc0-e4fd-0a6f-6d37-615e51e9c6cb",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_22_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "0a821d31-43d0-b9a5-8ba9-54b876338dc1",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0a821d31-43d0-b9a5-8ba9-54b876338dc1)",
+  "source": "https://api.riigikogu.ee/api/volumes/0a821d31-43d0-b9a5-8ba9-54b876338dc1",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-05-01&endDate=2007-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
