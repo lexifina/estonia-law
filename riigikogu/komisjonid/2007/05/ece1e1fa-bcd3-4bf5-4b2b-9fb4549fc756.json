@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-05-28T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ühisistung väliskomisjoniga. Kohtumine strateegilise kauba komisjoni esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0ef11812-6cd4-8df7-42fc-53362f146bc1"
+    },
+    {
+      "order": 2,
+      "title": "Eesti Vabariigi põhiseaduse muutmise seaduse (47 SE) eelnõu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "45594d88-f80c-87c7-8bdd-3b629c878ef7"
+    },
+    {
+      "order": 3,
+      "title": "Ülevaade k.a 21. - 22. mail Riias toimunud Balti riikide parlamentide riigikaitsekomisjonide ühisistungist",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1bcc7861-a3e7-45ad-0df6-c1b8b3ed2ccc"
+    },
+    {
+      "order": 4,
+      "title": "Jooksvad küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "25bd817a-9aaf-f99a-d26c-2d054b6cfdab"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 28.05.2007",
+      "uuid": "c5f61ff6-7f2d-1264-7201-8e4901c9739c",
+      "files": [
+        "28.05.07.doc",
+        "Riigikaitsekomisjon_paevakord_28_05_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "ece1e1fa-bcd3-4bf5-4b2b-9fb4549fc756",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ece1e1fa-bcd3-4bf5-4b2b-9fb4549fc756)",
+  "source": "https://api.riigikogu.ee/api/volumes/ece1e1fa-bcd3-4bf5-4b2b-9fb4549fc756",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-05-01&endDate=2007-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
