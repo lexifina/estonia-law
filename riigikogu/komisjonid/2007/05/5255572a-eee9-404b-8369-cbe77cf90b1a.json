@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-05-28T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 30.-31. mail toimuval töö-, sotsiaalpoliitika, tervishoiu ja tarbijakaitse nõukogu (EPSCO) kohtumisel.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b561b325-3807-f10a-c5b1-aee5b4dfb603"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad 1.-3. juunil toimuval mitteametlikul keskkonnanõukogu kohtumisel. ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "97112309-3826-0fc4-be69-76ec15135e65"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 28.05.2007",
+      "uuid": "5186bdee-c487-eee9-a9aa-6dc60a36c95d",
+      "files": [
+        "Euroopa+Liidu+asjade+komisjon_istungi_protokoll_22_2007.odt",
+        "Euroopa Liidu asjade komisjon_paevakord_28_05_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "5255572a-eee9-404b-8369-cbe77cf90b1a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 5255572a-eee9-404b-8369-cbe77cf90b1a)",
+  "source": "https://api.riigikogu.ee/api/volumes/5255572a-eee9-404b-8369-cbe77cf90b1a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-05-01&endDate=2007-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
