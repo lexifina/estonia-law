@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-05-28T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti Vabariigi põhiseaduse muutmise seaduse eelnõu -47 SE- esimese lugemise arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c1dd6a46-067f-ff57-f51c-2166b19d805c"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Presidendi poolt välja kuulutamata jäetud keelatud rajatise kõrvaldamise seaduse arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cd8743d5-0e75-daab-bc0b-114631503543"
+    },
+    {
+      "order": 3,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5fd9118d-9c1f-4e9b-e378-37deb5bd094a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 28.05.2007",
+      "uuid": "4b490a14-0abe-0b68-bdc8-1b3292004cdd",
+      "files": [
+        "Põhiseaduskomisjon_istungi_protokoll_22_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "22a50657-d9de-c4dc-b459-d57299c53edc",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 22a50657-d9de-c4dc-b459-d57299c53edc)",
+  "source": "https://api.riigikogu.ee/api/volumes/22a50657-d9de-c4dc-b459-d57299c53edc",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-05-01&endDate=2007-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
