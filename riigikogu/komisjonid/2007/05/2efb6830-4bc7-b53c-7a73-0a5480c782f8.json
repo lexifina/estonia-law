@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-05-29T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Põllumajanduse Registrite ja Informatsiooni Ametis",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "894eb35b-672d-f072-9158-163ce72a4667"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine Eesti Maaülikoolis",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4e7a304f-1e29-ff35-5894-3bc1629e7842"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 29.05.2007",
+      "uuid": "99f4e679-136d-d2fe-c013-92f3ff175b72",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_22_2007.odt",
+        "Maaelukomisjon_paevakord_29_05_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "2efb6830-4bc7-b53c-7a73-0a5480c782f8",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2efb6830-4bc7-b53c-7a73-0a5480c782f8)",
+  "source": "https://api.riigikogu.ee/api/volumes/2efb6830-4bc7-b53c-7a73-0a5480c782f8",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-05-01&endDate=2007-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
