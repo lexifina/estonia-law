@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-05-29T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine siseminister Jüri Pihliga",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a0bd8f7b-b33c-4db2-87d5-1afb6be9835c"
+    },
+    {
+      "order": 2,
+      "title": "Õiguskomisjoni ja põhiseaduskomisjoni ühisistungi korraldamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7b3c9eb8-77c4-09a8-3cca-45e78630c77a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 29.05.2007",
+      "uuid": "01ce7bfe-f924-f9bd-61f1-d01db21f7b28",
+      "files": [
+        "Õiguskomisjon_istungi_protokoll_22_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "affefb67-6ac4-f6ab-e016-6ee646d2718a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid affefb67-6ac4-f6ab-e016-6ee646d2718a)",
+  "source": "https://api.riigikogu.ee/api/volumes/affefb67-6ac4-f6ab-e016-6ee646d2718a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-05-01&endDate=2007-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
