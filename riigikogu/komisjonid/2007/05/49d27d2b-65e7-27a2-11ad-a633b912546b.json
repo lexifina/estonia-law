@@ -1,0 +1,33 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-05-29T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väljasõiduistung Majandus- ja Kommunikatsiooniministeeriumisse",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "085612f9-a73b-9c27-2cc9-21f64ff83005"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 29.05.2007",
+      "uuid": "cdd8f0f0-da99-50e2-6fc4-baba273e2448",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_22_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "49d27d2b-65e7-27a2-11ad-a633b912546b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 49d27d2b-65e7-27a2-11ad-a633b912546b)",
+  "source": "https://api.riigikogu.ee/api/volumes/49d27d2b-65e7-27a2-11ad-a633b912546b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-05-01&endDate=2007-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
