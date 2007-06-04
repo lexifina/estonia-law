@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-06-04T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade Euroopa Liidu struktuuritoetuste jagamisest Haridus- ja Teadusministeeriumis",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6ea4e72a-86b0-f8d7-e698-23cc43594e93"
+    },
+    {
+      "order": 2,
+      "title": "Info, kirjad",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f27c14d4-04a0-4589-57d3-9e7611501823"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 04.06.2007",
+      "uuid": "b530831a-9963-4187-4d8e-45cb5f6ceef4",
+      "files": [
+        "Kultuurikomisjon_istungi_protokoll_23_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "6bea09ba-c13b-5b51-fcc7-5e673a460cda",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 6bea09ba-c13b-5b51-fcc7-5e673a460cda)",
+  "source": "https://api.riigikogu.ee/api/volumes/6bea09ba-c13b-5b51-fcc7-5e673a460cda",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-06-01&endDate=2007-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
