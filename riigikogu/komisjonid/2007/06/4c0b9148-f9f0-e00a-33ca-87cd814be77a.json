@@ -1,0 +1,34 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-06-05T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väljasõiduistung Salu Koolis Sauel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f7723773-bfb6-f1b8-7777-53d0c589f87a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 05.06.2007",
+      "uuid": "0531b8e2-74ce-823c-0f1c-a9eeb28d95ea",
+      "files": [
+        "Kultuurikomisjon_istungi_protokoll_23_2007.odt",
+        "Kultuurikomisjon_paevakord_05_06_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "4c0b9148-f9f0-e00a-33ca-87cd814be77a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 4c0b9148-f9f0-e00a-33ca-87cd814be77a)",
+  "source": "https://api.riigikogu.ee/api/volumes/4c0b9148-f9f0-e00a-33ca-87cd814be77a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-06-01&endDate=2007-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
