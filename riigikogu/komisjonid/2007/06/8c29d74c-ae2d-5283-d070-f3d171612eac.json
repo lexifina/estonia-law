@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-06-05T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Võrdse kohtlemise seaduse eelnõu – 67 SE – esimese lugemise arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bd9e3fae-b6ae-6d86-0533-5f5916b5b9ed"
+    },
+    {
+      "order": 2,
+      "title": "Merealapiiride seaduse eelnõu – 3 SE – esimese lugemise arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7f5bbb79-f304-0c05-2dda-e4584c730870"
+    },
+    {
+      "order": 3,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "06e4a735-56c0-9b42-1aea-cf3debac6268"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 05.06.2007",
+      "uuid": "4e95642b-821a-ac5e-0ad4-4726fc1a857a",
+      "files": [
+        "Põhiseaduskomisjon_istungi_protokoll_23_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "8c29d74c-ae2d-5283-d070-f3d171612eac",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8c29d74c-ae2d-5283-d070-f3d171612eac)",
+  "source": "https://api.riigikogu.ee/api/volumes/8c29d74c-ae2d-5283-d070-f3d171612eac",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-06-01&endDate=2007-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
