@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-06-07T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vanemahüvitise seaduse muutmise seadus [44 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "23f198e1-f541-7336-2e1e-aff5eaa4137f"
+    },
+    {
+      "order": 2,
+      "title": "Õiguskantsleri ettekanne nr 2/2006 \"Kollektiivse töötüli lahendamise seaduse § 21 lõike 1 põhiseaduslikkus\"",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8a5fcc82-01b0-5094-1765-e01397ef3306"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 07.06.2007",
+      "uuid": "028398f7-614e-6e25-ab4d-5b984a3c9cc5",
+      "files": [
+        "Sotsiaalkomisjon_paevakord_07_06_2007.odt",
+        "Sotsiaalkomisjon_istungi_protokoll_23_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "48d7bec5-fe48-9be9-5903-1766a5149967",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 48d7bec5-fe48-9be9-5903-1766a5149967)",
+  "source": "https://api.riigikogu.ee/api/volumes/48d7bec5-fe48-9be9-5903-1766a5149967",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-06-01&endDate=2007-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
