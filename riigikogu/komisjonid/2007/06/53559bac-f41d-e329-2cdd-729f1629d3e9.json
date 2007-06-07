@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-06-07T10:20:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Maapõueseaduse muutmise seadus [20 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ea5f0b4e-3d1c-baf4-54af-395e749b9772"
+    },
+    {
+      "order": 2,
+      "title": "Jäätmeseaduse muutmise seadus [45 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e8dec184-98f4-4f45-1c84-766812b7cbfe"
+    },
+    {
+      "order": 3,
+      "title": "Väljasõiduistung  metsandusküsimustes Lääne-Virumaale ja Järvamaale",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "97b17b35-4ce7-bfce-4335-1a4dbf26733a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 07.06.2007",
+      "uuid": "0af89836-d770-373c-b525-ef77262f090d",
+      "files": [
+        "Keskkonnakomisjon_istungi_protokoll_23_2007.odt",
+        "Keskkonnakomisjon_paevakord_07_06_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "53559bac-f41d-e329-2cdd-729f1629d3e9",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 53559bac-f41d-e329-2cdd-729f1629d3e9)",
+  "source": "https://api.riigikogu.ee/api/volumes/53559bac-f41d-e329-2cdd-729f1629d3e9",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-06-01&endDate=2007-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
