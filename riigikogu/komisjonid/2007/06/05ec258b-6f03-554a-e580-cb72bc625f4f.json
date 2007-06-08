@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-06-08T09:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 11.-12. juunil toimuval põllumajanduse ja kalanduse nõukogu kohtumisel.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4c69cf0e-96f4-9c37-37c4-bd101818cf54"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad 12.-13 . juunil toimuval justiits- ja siseküsimuste nõukogu kohtumisel. ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "452ea829-e217-2f93-8c0f-3680f02b5921"
+    },
+    {
+      "order": 3,
+      "title": "EL tuleviku arengud.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cc9ed2f4-e717-223e-0b0c-4fad572224a2"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 08.06.2007",
+      "uuid": "5b64ad3b-951f-d628-ae98-bacd144af574",
+      "files": [
+        "Euroopa+Liidu+asjade+komisjon_istungi_protokoll_23_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "05ec258b-6f03-554a-e580-cb72bc625f4f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 05ec258b-6f03-554a-e580-cb72bc625f4f)",
+  "source": "https://api.riigikogu.ee/api/volumes/05ec258b-6f03-554a-e580-cb72bc625f4f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-06-01&endDate=2007-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
