@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-06-11T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikohtule arvamuse andmise arutelu käibemaksuseaduse § 15 lg 2 punkti 6 vastavuse kohta põhiseadusega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bfc3146e-5147-a3c1-d9ea-ae722df3c42a"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu liikme staatuse seaduse eelnõu -54 SE- teise lugemise arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dc9c99ea-6e6e-b160-be26-aaf9fb3b3cbc"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 11.06.2007",
+      "uuid": "52a8ef72-a61c-6c2b-2b32-495b2b5c783c",
+      "files": [
+        "Põhiseaduskomisjon_istungi_protokoll_24_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "9776eaf3-17c4-3c65-7a05-ae59f587f1c7",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9776eaf3-17c4-3c65-7a05-ae59f587f1c7)",
+  "source": "https://api.riigikogu.ee/api/volumes/9776eaf3-17c4-3c65-7a05-ae59f587f1c7",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-06-01&endDate=2007-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
