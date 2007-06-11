@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-06-11T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Keskkonnakomisjoni töökava",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "48dba2cf-babe-b43a-c878-0c9ec8e88b66"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli auditi „Reoveekäitluse arendamine maapiirkondades Ühtekuuluvusfondi projektide toel” kontrolliaruande arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0e96f924-5916-5147-70be-9a910050de48"
+    },
+    {
+      "order": 3,
+      "title": "Eesti seisukohad Euroopa Parlamendi ja nõukogu direktiivi eelnõu kohta, mis käsitleb keskkonna kaitsmist kriminaalõiguse kaudu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9a511b47-5c46-6b4e-120e-4fb601ba055b"
+    },
+    {
+      "order": 4,
+      "title": "Jooksvad küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b1c3998c-505e-05a1-53e4-164c1c6b98d7"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 11.06.2007",
+      "uuid": "f9f56d6f-922f-4118-02ee-19a0d47d2378",
+      "files": [
+        "Keskkonnakomisjon_istungi_protokoll_24_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "2defde45-3d9c-b985-52bf-ffca62f8e1b1",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2defde45-3d9c-b985-52bf-ffca62f8e1b1)",
+  "source": "https://api.riigikogu.ee/api/volumes/2defde45-3d9c-b985-52bf-ffca62f8e1b1",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-06-01&endDate=2007-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
