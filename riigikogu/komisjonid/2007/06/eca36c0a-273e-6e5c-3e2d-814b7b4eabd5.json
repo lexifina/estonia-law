@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-06-11T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikogu  valitsemisel oleva riigivara võõrandamine avaliku enampakkumise teel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b75495da-bf95-2a1a-ce8a-7aca4f25ecb2"
+    },
+    {
+      "order": 2,
+      "title": "Tarbijakaitseseaduse ja võlaõigusseaduse muutmise seadus [28 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "59ddcf36-231d-dfb8-049d-97c3b107419f"
+    },
+    {
+      "order": 3,
+      "title": "Riigivara tasuta võõrandamine (7)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4c387269-3421-9b4c-9184-d3ec992745c2"
+    },
+    {
+      "order": 4,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "79bf2b4d-117a-ca8e-1a25-a37c79fc0579"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 11.06.2007",
+      "uuid": "10fc5aec-0a59-d52c-391e-545520346255",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_24_2007.odt",
+        "Majanduskomisjon_paevakord_11_06_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "eca36c0a-273e-6e5c-3e2d-814b7b4eabd5",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid eca36c0a-273e-6e5c-3e2d-814b7b4eabd5)",
+  "source": "https://api.riigikogu.ee/api/volumes/eca36c0a-273e-6e5c-3e2d-814b7b4eabd5",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-06-01&endDate=2007-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
