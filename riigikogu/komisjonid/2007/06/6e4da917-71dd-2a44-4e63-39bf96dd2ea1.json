@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-06-11T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dc4f11f6-d4cb-cee5-d978-1f03044ea562"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade Maaelu Edendamise Sihtasutuse tegevusest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b9b0ed4e-8c71-f196-5ab5-bb6ec44958bc"
+    },
+    {
+      "order": 3,
+      "title": "MTÜ Veskivaramu pöördumine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a16f6d4c-bf52-83b8-225f-848d26713f29"
+    },
+    {
+      "order": 4,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bd247b81-e061-25cd-861e-c8a086d09e74"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 11.06.2007",
+      "uuid": "35e71c78-6ed3-0da7-473e-e218fe016f4c",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_24_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "6e4da917-71dd-2a44-4e63-39bf96dd2ea1",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 6e4da917-71dd-2a44-4e63-39bf96dd2ea1)",
+  "source": "https://api.riigikogu.ee/api/volumes/6e4da917-71dd-2a44-4e63-39bf96dd2ea1",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-06-01&endDate=2007-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
