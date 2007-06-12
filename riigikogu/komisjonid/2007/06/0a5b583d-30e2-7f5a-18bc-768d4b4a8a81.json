@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-06-12T12:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Õiguskantsleri ettekanne nr 2/2006 \"Kollektiivse töötüli lahendamise seaduse § 21 lõike 1 põhiseaduslikkus\"",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b4ae09e8-6601-c807-cbb1-32a7b128daca"
+    },
+    {
+      "order": 2,
+      "title": "Väljasõit Iru Hooldekodusse ja Kursana Merivälja Pansioni. Väljasõit kell 12.30",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fd2f35fe-9cd5-c8b1-8d75-79cc24bc09d4"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 12.06.2007",
+      "uuid": "5b6faf8a-a7b2-3efa-d253-324ec787d367",
+      "files": [
+        "Sotsiaalkomisjon_istungi_protokoll_24_2007.odt",
+        "Sotsiaalkomisjon_paevakord_12_06_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "0a5b583d-30e2-7f5a-18bc-768d4b4a8a81",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0a5b583d-30e2-7f5a-18bc-768d4b4a8a81)",
+  "source": "https://api.riigikogu.ee/api/volumes/0a5b583d-30e2-7f5a-18bc-768d4b4a8a81",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-06-01&endDate=2007-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
