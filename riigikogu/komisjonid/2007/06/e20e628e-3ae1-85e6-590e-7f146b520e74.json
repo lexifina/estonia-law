@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-06-12T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikontrolli kontrolliaruande \"Põllumajandustootmise arendamiseks antud toetuste tulemuslikkus\" tutvustamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "03f40120-3397-f556-10b7-2d554a71f1c4"
+    },
+    {
+      "order": 2,
+      "title": "Maade munitsipaliseerimine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ab8298f8-e53b-45b0-84c4-691344cfbba6"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 12.06.2007",
+      "uuid": "1a6c8df8-c700-c7f7-fae7-e84742bc5221",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_24_2007.odt",
+        "Maaelukomisjon_paevakord_12_06_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "e20e628e-3ae1-85e6-590e-7f146b520e74",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e20e628e-3ae1-85e6-590e-7f146b520e74)",
+  "source": "https://api.riigikogu.ee/api/volumes/e20e628e-3ae1-85e6-590e-7f146b520e74",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-06-01&endDate=2007-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
