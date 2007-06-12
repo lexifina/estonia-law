@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-06-12T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikogu väliskomisjoni ja riigikaitsekomisjoni ühisistung. Kohtumine Teabeameti ja Kaitsepolitseiameti esindajatega. ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "daf05742-1de3-2a5e-50e7-c8d62a55a9d5"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused. ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ce219018-4e6d-ae38-c657-d70ee363e763"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 12.06.2007",
+      "uuid": "f8d4ac1f-dad6-5051-1e30-aca3c9609f79",
+      "files": [
+        "V%25E4liskomisjon_istungi_protokoll_24_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "d3314776-299b-6f3f-0615-204c617281aa",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d3314776-299b-6f3f-0615-204c617281aa)",
+  "source": "https://api.riigikogu.ee/api/volumes/d3314776-299b-6f3f-0615-204c617281aa",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-06-01&endDate=2007-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
