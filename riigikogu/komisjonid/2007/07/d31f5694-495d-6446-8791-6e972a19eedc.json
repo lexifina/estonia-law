@@ -1,0 +1,33 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-07-02T11:00:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Lähetus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c36c4dc6-eee1-6e30-6267-70f8a9048ef8"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 02.07.2007",
+      "uuid": "5b5023d9-326c-e755-05a7-e66fbf9f5db5",
+      "files": [
+        "Sotsiaalkomisjon_istungi_protokoll_27_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "d31f5694-495d-6446-8791-6e972a19eedc",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d31f5694-495d-6446-8791-6e972a19eedc)",
+  "source": "https://api.riigikogu.ee/api/volumes/d31f5694-495d-6446-8791-6e972a19eedc",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-07-01&endDate=2007-07-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
