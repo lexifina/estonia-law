@@ -5,5 +5,3 @@
 (2) Käesoleva paragrahvi lõikes 1 sätestatud väärteole kohaldatakse karistusseadustiku üldosa ja väärteomenetluse seadustiku sätteid.
 
 (3) Käesoleva paragrahvi lõikes 1 sätestatud väärteo kohtuväline menetleja on politseiprefektuur.
-
-(366) ]

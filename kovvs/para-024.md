@@ -19,6 +19,3 @@
 6) teovõimetuks tunnistamise andmed;
 
 7) elukoha andmed.
-
-[RT I 2006, 26, 191
-– jõust. 1. 08. 2006] ] (õ) 24.11.2006 11:45

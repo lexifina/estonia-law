@@ -15,5 +15,3 @@
 (7) Pärast hääletamissedeli täitmist murrab valija sedeli kokku ning annab selle jaoskonnakomisjoni liikmele, kes paneb kokkumurtud hääletamissedeli välisküljele jaoskonnakomisjoni pitsati jäljendi.
 
 (8) Valija laseb hääletamissedeli hääletamiskasti ise. Kui valija füüsilise puude tõttu ei ole võimeline hääletamissedelit ise hääletamiskasti laskma, võib seda tema palvel teha teine valija tema juuresolekul.
-
-(215) ]
