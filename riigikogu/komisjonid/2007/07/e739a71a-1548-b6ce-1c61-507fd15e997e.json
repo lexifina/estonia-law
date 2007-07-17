@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-07-17T11:00:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikohtule arvamuse andmine avaliku teenistuse seaduse paragrahvide, mis puudutavad teenistusest vabastamist vanuse tõttu, põhiseadusele vastavuse kohta.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "db6c8f2d-20d5-8c5b-02e7-4572e72a8880"
+    },
+    {
+      "order": 2,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5c954d0c-60f9-f2ef-bae0-4c1ed75e3fe8"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 17.07.2007",
+      "uuid": "e4ac3a03-4f6c-fbc5-64f5-a422f3072fd8",
+      "files": [
+        "Põhiseaduskomisjon_istungi_protokoll_29_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "e739a71a-1548-b6ce-1c61-507fd15e997e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e739a71a-1548-b6ce-1c61-507fd15e997e)",
+  "source": "https://api.riigikogu.ee/api/volumes/e739a71a-1548-b6ce-1c61-507fd15e997e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-07-01&endDate=2007-07-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
