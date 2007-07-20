@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-07-20T10:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ühisistung Euroopa Liidu asjade komisjoniga – Eesti seisukohad 23.-24. juulil 2007 toimuval Euroopa Liidu üldasjade ja välissuhete nõukogu istungil.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3ced38c2-380d-6a19-c441-ebb60735d04f"
+    },
+    {
+      "order": 2,
+      "title": "Informatsioon Eesti Vabariigi erakorraliste ja täievoliliste suursaadikukandidaatide esitamise kohta.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "98dc9cf7-7402-182f-914c-227ab4314017"
+    },
+    {
+      "order": 3,
+      "title": "Informatsioon komisjoni liikmete tegevusest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "81171440-f195-bbd8-68c1-ef69e013c585"
+    },
+    {
+      "order": 4,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2df8dc13-c70e-f374-a93d-95e0cc29b057"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 20.07.2007",
+      "uuid": "ae8a496d-40dc-1abb-d4f7-86b67acbabe9",
+      "files": [
+        "V%E4liskomisjon_paevakord_20_07_2007.odt",
+        "V%2525E4liskomisjon_istungi_protokoll_29_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "855e01a9-54f1-a25d-0e9f-4b23476640a5",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 855e01a9-54f1-a25d-0e9f-4b23476640a5)",
+  "source": "https://api.riigikogu.ee/api/volumes/855e01a9-54f1-a25d-0e9f-4b23476640a5",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-07-01&endDate=2007-07-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
