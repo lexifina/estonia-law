@@ -8,6 +8,6 @@ mis on rajatud vabadusele, õiglusele ja õigusele,
 
 mis on kaitseks sisemisele ja välisele rahule ning pandiks praegustele ja tulevastele põlvedele nende ühiskondlikus edus ja üldises kasus,
 
-mis peab tagama eesti rahvuse ja kultuuri säilimise läbi aegade -
+mis peab tagama eesti rahvuse, keele ja kultuuri säilimise läbi aegade –
 
 võttis Eesti rahvas 1938. aastal jõustunud põhiseaduse § 1 alusel 1992. aasta 28. juuni rahvahääletusel vastu järgmise põhiseaduse.
