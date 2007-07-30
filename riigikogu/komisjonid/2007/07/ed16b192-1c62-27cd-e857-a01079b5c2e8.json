@@ -1,0 +1,34 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-07-30T11:00:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Lähetus Portugali",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ef132f81-40da-7211-88c8-975e64f672e4"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 30.07.2007",
+      "uuid": "46aad989-eada-7bbd-3606-cac1d314c6d1",
+      "files": [
+        "Õiguskomisjon_paevakord_30_07_2007.odt",
+        "Õiguskomisjon_istungi_protokoll_31_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "ed16b192-1c62-27cd-e857-a01079b5c2e8",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ed16b192-1c62-27cd-e857-a01079b5c2e8)",
+  "source": "https://api.riigikogu.ee/api/volumes/ed16b192-1c62-27cd-e857-a01079b5c2e8",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-07-01&endDate=2007-07-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
