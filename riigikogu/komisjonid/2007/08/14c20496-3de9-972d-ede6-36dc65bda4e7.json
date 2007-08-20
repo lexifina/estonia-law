@@ -1,0 +1,33 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-08-20T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0b19bbb0-82be-a1e6-9966-88edacd2b58a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 20.08.2007",
+      "uuid": "3f5cda85-c71a-b192-ce57-59b7db91e361",
+      "files": [
+        "Õiguskomisjon_paevakord_20_08_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "14c20496-3de9-972d-ede6-36dc65bda4e7",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 14c20496-3de9-972d-ede6-36dc65bda4e7)",
+  "source": "https://api.riigikogu.ee/api/volumes/14c20496-3de9-972d-ede6-36dc65bda4e7",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-08-01&endDate=2007-08-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
