@@ -1,0 +1,34 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-08-27T10:00:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Pärimisseaduse arutelu Pedasel.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7b054ffe-a11b-3351-8910-6afab1ffbce2"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 27.08.2007",
+      "uuid": "74e5a209-e7df-2589-8a09-9d88c141c8c4",
+      "files": [
+        "Õiguskomisjon_paevakord_27_08_2007.odt",
+        "iguskomisjon_istungi_protokoll_35_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "e23e397e-3a57-ff19-41a7-d923efab7831",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e23e397e-3a57-ff19-41a7-d923efab7831)",
+  "source": "https://api.riigikogu.ee/api/volumes/e23e397e-3a57-ff19-41a7-d923efab7831",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-08-01&endDate=2007-08-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
