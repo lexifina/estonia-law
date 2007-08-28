@@ -1,0 +1,33 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-08-28T10:00:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "1. Perekonnaseaduse arutelu Pedasel.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5be64621-2c88-e245-5ddd-cf546679ea25"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 28.08.2007",
+      "uuid": "3907f9e9-5bbf-e677-dd90-b50129cb79d6",
+      "files": [
+        "Õiguskomisjon_istungi_protokoll_35_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "6cdedb9f-cf24-f6f0-7e82-86976cc0fed9",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 6cdedb9f-cf24-f6f0-7e82-86976cc0fed9)",
+  "source": "https://api.riigikogu.ee/api/volumes/6cdedb9f-cf24-f6f0-7e82-86976cc0fed9",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-08-01&endDate=2007-08-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
