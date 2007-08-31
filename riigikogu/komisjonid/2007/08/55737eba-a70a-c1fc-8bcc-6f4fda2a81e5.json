@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-08-31T10:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ühisistung Euroopa Liidu asjade komisjoniga – informatsioon 7.-8. septembril toimuva Euroopa Liidu välisministrite mitteametliku kohtumise kohta.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f70182a5-fd84-d006-94ec-7e0d515e372c"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu väliskomisjoni esindaja nimetamine SA Eesti Välispoliitika Instituudi nõukogusse.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7c48d94a-ea29-ff1d-d76b-ebfe8294c534"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 31.08.2007",
+      "uuid": "cec6787f-a16e-ee65-f220-0f6d55782577",
+      "files": [
+        "V%E4liskomisjon_paevakord_31_08_2007.odt",
+        "V%25E4liskomisjon_istungi_protokoll_35_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "55737eba-a70a-c1fc-8bcc-6f4fda2a81e5",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 55737eba-a70a-c1fc-8bcc-6f4fda2a81e5)",
+  "source": "https://api.riigikogu.ee/api/volumes/55737eba-a70a-c1fc-8bcc-6f4fda2a81e5",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-08-01&endDate=2007-08-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
