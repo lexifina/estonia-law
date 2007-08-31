@@ -1,0 +1,33 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-08-31T00:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Komisjoni liikme U. Reinsalu välislähetus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8b0933c2-f2f2-3d62-88e1-611e4e53d651"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 31.08.2007",
+      "uuid": "82f7dd76-068a-395e-87c2-8e54f1be104f",
+      "files": [
+        "Põhiseaduskomisjon_istungi_protokoll_35_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "f075f7dd-2a08-5ba9-8aac-9fdded80055a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f075f7dd-2a08-5ba9-8aac-9fdded80055a)",
+  "source": "https://api.riigikogu.ee/api/volumes/f075f7dd-2a08-5ba9-8aac-9fdded80055a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-08-01&endDate=2007-08-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
