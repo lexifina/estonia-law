@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-09-10T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väliskomisjoni 1. töönädala töökava kinnitamine.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ef7a3854-3d0c-189b-535d-0ed580054b9d"
+    },
+    {
+      "order": 2,
+      "title": "Väliskomisjoni II istungjärgu töökava arutamine.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "20096a26-9de6-902e-e6ad-2054b26ea176"
+    },
+    {
+      "order": 3,
+      "title": "  Informatsioon komisjoni liikmete tegevusest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d0e37322-daae-b167-10b2-01d4c4779637"
+    },
+    {
+      "order": 4,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a124f916-a9f6-26d9-cfe6-110d39537652"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 10.09.2007",
+      "uuid": "d0a8bafd-1656-0bda-5af5-4d396e040a8a",
+      "files": [
+        "V%E4liskomisjon_paevakord_10_09_2007.odt",
+        "V%E4liskomisjon_istungi_protokoll_37_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "abe37a6b-fef4-044e-8508-fa8b351e8c52",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid abe37a6b-fef4-044e-8508-fa8b351e8c52)",
+  "source": "https://api.riigikogu.ee/api/volumes/abe37a6b-fef4-044e-8508-fa8b351e8c52",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-09-01&endDate=2007-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
