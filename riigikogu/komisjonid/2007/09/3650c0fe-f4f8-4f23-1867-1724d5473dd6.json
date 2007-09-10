@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-09-10T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Tulumaksuseaduse § 32 muutmise seadus [18 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e3857fa5-5f92-c7cd-9ad2-f7b11710387b"
+    },
+    {
+      "order": 2,
+      "title": "Tulumaksuseaduse muutmise seadus [19 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f7ef1917-b3c6-61e8-a867-5abcabb4e66f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 10.09.2007",
+      "uuid": "c6d6da44-12d9-d3bf-fe59-1ed90b2ff04a",
+      "files": [
+        "Rahanduskomisjon_paevakord_10_09_2007.odt",
+        "Rahanduskomisjon_istungi_protokoll_37_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "3650c0fe-f4f8-4f23-1867-1724d5473dd6",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3650c0fe-f4f8-4f23-1867-1724d5473dd6)",
+  "source": "https://api.riigikogu.ee/api/volumes/3650c0fe-f4f8-4f23-1867-1724d5473dd6",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-09-01&endDate=2007-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
