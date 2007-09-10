@@ -1,0 +1,58 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-09-10T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Keskkonnakomisjoni töökava",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a4d62c72-fb2e-8a84-bebb-ac477b22ffc0"
+    },
+    {
+      "order": 2,
+      "title": "Keskkonnavastutuse seadus [77 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "eb8b1d2c-e4d6-f3bd-caaf-790043d8c100"
+    },
+    {
+      "order": 3,
+      "title": "Kalapüügiseaduse § 13­­ muutmise seadus [41 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7b19d50b-6698-d7ca-48dd-5bf62bb75442"
+    },
+    {
+      "order": 4,
+      "title": "Looduskaitseseaduse muutmise seadus [46 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "307abbfd-f742-e974-5993-5b41e6cef092"
+    },
+    {
+      "order": 5,
+      "title": "Jooksvad küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "162cd357-d444-99a5-3a05-b4a636c185e8"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 10.09.2007",
+      "uuid": "5afbac3c-91a7-a915-b5aa-24aa0ef75068",
+      "files": [
+        "Keskkonnakomisjon_paevakord_10_09_2007.odt",
+        "Keskkonnakomisjon_istungi_protokoll_37_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "84194969-f6cf-fdec-881b-fcb8b0099a8d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 84194969-f6cf-fdec-881b-fcb8b0099a8d)",
+  "source": "https://api.riigikogu.ee/api/volumes/84194969-f6cf-fdec-881b-fcb8b0099a8d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-09-01&endDate=2007-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
