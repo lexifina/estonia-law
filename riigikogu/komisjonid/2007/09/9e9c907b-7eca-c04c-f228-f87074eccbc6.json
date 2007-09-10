@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-09-10T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Sügisistungjärgu tööplaan",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "38008b28-66fd-5056-117e-506e1f55ac94"
+    },
+    {
+      "order": 2,
+      "title": "Infod",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e3812616-a9ae-587d-989e-2b341c2b3bd1"
+    },
+    {
+      "order": 3,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "458f8ab2-7035-40cd-f6ac-92dd6225dcdd"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 10.09.2007",
+      "uuid": "cf2db6f6-9fb0-aaf7-b939-5646ed95557c",
+      "files": [
+        "Maaelukomisjon_paevakord_10_09_2007.odt",
+        "Maaelukomisjon_istungi_protokoll_37_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "9e9c907b-7eca-c04c-f228-f87074eccbc6",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9e9c907b-7eca-c04c-f228-f87074eccbc6)",
+  "source": "https://api.riigikogu.ee/api/volumes/9e9c907b-7eca-c04c-f228-f87074eccbc6",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-09-01&endDate=2007-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
