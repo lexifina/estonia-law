@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-09-11T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti Naisteühenduste Ümarlaua SA pöördumine\"Perekonnaseaduse(eelnõu)sotsiaalsete mõjude hindamine\"",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "623f16a6-9ffd-02a3-97f8-e3f282e84e5f"
+    },
+    {
+      "order": 2,
+      "title": "Eesti Euroopa Liidu poliitika 2007-2011 eelnõu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6f74fb8f-f413-fc31-649c-ea31598d8a43"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 11.09.2007",
+      "uuid": "a511e004-1ee5-9b4a-60c8-9414d2d331fc",
+      "files": [
+        "Sotsiaalkomisjon_paevakord_11_09_2007.odt",
+        "Sotsiaalkomisjon_istungi_protokoll_37_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "611117c6-b2c1-b03d-a52f-6101b1fb1ac2",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 611117c6-b2c1-b03d-a52f-6101b1fb1ac2)",
+  "source": "https://api.riigikogu.ee/api/volumes/611117c6-b2c1-b03d-a52f-6101b1fb1ac2",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-09-01&endDate=2007-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
