@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-09-11T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Arvamus Riigikohtule maareformi seaduse ja maareformiga seonduvate õigusaktide muutmise seaduse muutmise seaduse § 14 lg 2 põhiseadusega vastavuse kohta",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "db67cfa4-3e4f-9e61-3532-209e730c239e"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse raamdokument \"Eesti Euroopa Liidu poliitika 2007-2011\" eelnõu. Arvamuse andmine ELAKile",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "96b7aca1-425a-d1f8-ad0b-e726222b8647"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 11.09.2007",
+      "uuid": "32626af3-f96f-fb6c-67c8-2ac3e97dc871",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_37_2007.odt",
+        "Maaelukomisjon_paevakord_11_09_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "124c4ebd-5978-b059-febb-b21d29acfcda",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 124c4ebd-5978-b059-febb-b21d29acfcda)",
+  "source": "https://api.riigikogu.ee/api/volumes/124c4ebd-5978-b059-febb-b21d29acfcda",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-09-01&endDate=2007-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
