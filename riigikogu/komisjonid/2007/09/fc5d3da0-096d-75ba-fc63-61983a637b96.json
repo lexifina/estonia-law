@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-09-17T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riikliku pensionikindlustuse seaduse ja kogumispensionide seaduse muutmise seadus [79 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fd626588-736d-7858-4fdf-d5a9e20eb506"
+    },
+    {
+      "order": 2,
+      "title": "Puuetega inimeste sotsiaaltoetuste seaduse muutmise seadus [30 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7767346d-f176-05ea-4ac3-1a41768b9114"
+    },
+    {
+      "order": 3,
+      "title": "Uuringu tellimine perekonnaseaduse eelnõu (55 SE) kohta",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bebd4aba-c720-929d-4c78-7f05bb781584"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 17.09.2007",
+      "uuid": "814ecf12-c748-7e1a-ddc8-febf50dcf6e6",
+      "files": [
+        "Sotsiaalkomisjon_istungi_protokoll_38_2007.odt",
+        "Sotsiaalkomisjon_paevakord_17_09_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "fc5d3da0-096d-75ba-fc63-61983a637b96",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid fc5d3da0-096d-75ba-fc63-61983a637b96)",
+  "source": "https://api.riigikogu.ee/api/volumes/fc5d3da0-096d-75ba-fc63-61983a637b96",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-09-01&endDate=2007-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
