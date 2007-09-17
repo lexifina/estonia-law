@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-09-17T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b5f1665e-0283-11e9-dfcb-867969b5b1b7"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad nõukogu määruse veinituru ühise korralduse kohta. Arvamuse andmine ELAKile.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "378db520-f122-5247-fb7f-418939cb2472"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 17.09.2007",
+      "uuid": "0b9f5af7-b7f6-0d13-91b3-87c41e31a4ae",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_38_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "9f703bed-17f6-c28b-4dc4-aa1e5a3f7834",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9f703bed-17f6-c28b-4dc4-aa1e5a3f7834)",
+  "source": "https://api.riigikogu.ee/api/volumes/9f703bed-17f6-c28b-4dc4-aa1e5a3f7834",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-09-01&endDate=2007-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
