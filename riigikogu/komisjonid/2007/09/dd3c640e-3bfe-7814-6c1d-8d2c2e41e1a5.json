@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-09-17T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "„Eesti Euroopa Liidu poliitika 2007–2011” eelnõu. Vabariigi Valitsuse esitatud raamdokument. Arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fd5b86bc-4643-b9fa-7ada-aa2accf275a0"
+    },
+    {
+      "order": 2,
+      "title": "Info, kirjad",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "82c08f1d-84b7-9d3e-ba49-de7089299b49"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 17.09.2007",
+      "uuid": "3d61d96d-007d-7237-5f90-82f5e45069b4",
+      "files": [
+        "Kultuurikomisjon_istungi_protokoll_38_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "dd3c640e-3bfe-7814-6c1d-8d2c2e41e1a5",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid dd3c640e-3bfe-7814-6c1d-8d2c2e41e1a5)",
+  "source": "https://api.riigikogu.ee/api/volumes/dd3c640e-3bfe-7814-6c1d-8d2c2e41e1a5",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-09-01&endDate=2007-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
