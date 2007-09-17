@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-09-17T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti EL poliitika 2007-2011 eelnõu tutvustamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f6d8e64f-c49d-81fe-e228-ff06e59a77bd"
+    },
+    {
+      "order": 2,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a43f0986-5ee3-bbaa-f398-fb8520378f41"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 17.09.2007",
+      "uuid": "51ede518-9a99-cf65-027b-48e875d5db2c",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_38_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "4389d80a-0b2f-813d-ec17-61031a7fd786",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 4389d80a-0b2f-813d-ec17-61031a7fd786)",
+  "source": "https://api.riigikogu.ee/api/volumes/4389d80a-0b2f-813d-ec17-61031a7fd786",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-09-01&endDate=2007-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
