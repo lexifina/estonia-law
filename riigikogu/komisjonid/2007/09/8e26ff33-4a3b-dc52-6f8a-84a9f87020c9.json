@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-09-18T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nelja EL Nõukogu määruse, mis käsitlevad ühiste tehnoloogiaalgatuste rakendamist, eelnõu arutelu  ja arvamuse esitamine ELAK-le.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c571de6c-ae4b-1e02-4023-0bbedcdef425"
+    },
+    {
+      "order": 2,
+      "title": "Riigivara tasuta võõrandamine ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7fed68cc-90f1-59e3-ca62-8be350b002a9"
+    },
+    {
+      "order": 3,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9ba1c7aa-fd37-efb3-db45-90138f56ce93"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 18.09.2007",
+      "uuid": "f0cca4d8-698a-1b68-ae14-2bf1f55e6659",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_38_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "8e26ff33-4a3b-dc52-6f8a-84a9f87020c9",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8e26ff33-4a3b-dc52-6f8a-84a9f87020c9)",
+  "source": "https://api.riigikogu.ee/api/volumes/8e26ff33-4a3b-dc52-6f8a-84a9f87020c9",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-09-01&endDate=2007-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
