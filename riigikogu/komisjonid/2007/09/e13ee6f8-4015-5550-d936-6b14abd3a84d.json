@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-09-18T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ettepanekud Riigikontrolli auditite läbiviimiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8c86120b-8f54-7d6f-2222-56e844432284"
+    },
+    {
+      "order": 2,
+      "title": "Leedu Seimi maaelukomisjoni Eesti visiidi planeerimine ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fdccfe18-eec4-c11a-f8b0-6952e5b41922"
+    },
+    {
+      "order": 3,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "468d4686-2e81-e6a9-00e5-c898b90eb28c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 18.09.2007",
+      "uuid": "44dd5bb9-b0fb-75f3-a4f8-c61a651e6276",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_38_2007.odt",
+        "Maaelukomisjon_paevakord_18_09_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "e13ee6f8-4015-5550-d936-6b14abd3a84d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e13ee6f8-4015-5550-d936-6b14abd3a84d)",
+  "source": "https://api.riigikogu.ee/api/volumes/e13ee6f8-4015-5550-d936-6b14abd3a84d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-09-01&endDate=2007-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
