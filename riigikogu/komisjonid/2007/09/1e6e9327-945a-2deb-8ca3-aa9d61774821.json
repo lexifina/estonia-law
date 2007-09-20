@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-09-20T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Politseiseaduse, välismaalaste seaduse, väljasõidukohustuse ja sissesõidukeelu seaduse ning isikut tõendavate dokumentide seaduse muutmise seaduse eelnõu -75 SE- esimese lugemise arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6b7c6d79-52c6-c06a-5186-f00ada13b35d"
+    },
+    {
+      "order": 2,
+      "title": "Välismaalaste seaduse muutmise seaduse eelnõu -99 SE- esimese lugemise arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "29a22a3a-9dd9-8cc9-18e6-9de90f51be3f"
+    },
+    {
+      "order": 3,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "96e9ce80-9b76-425e-49c5-39bb2cc86881"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 20.09.2007",
+      "uuid": "bd26d099-168c-a6b8-5e69-27d48413f3a6",
+      "files": [
+        "Põhiseaduskomisjon_paevakord_20_09_2007.odt",
+        "Põhiseaduskomisjon_istungi_protokoll_38_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "1e6e9327-945a-2deb-8ca3-aa9d61774821",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 1e6e9327-945a-2deb-8ca3-aa9d61774821)",
+  "source": "https://api.riigikogu.ee/api/volumes/1e6e9327-945a-2deb-8ca3-aa9d61774821",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-09-01&endDate=2007-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
