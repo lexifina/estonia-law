@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-09-20T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Õiguskantsleri aruande kuulamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c22d1d9d-f805-5957-fbb1-4228ff2e0947"
+    },
+    {
+      "order": 2,
+      "title": "EL Nõukogu määruse veinituru ühise korralduse kohta, millega muudetakse teatavaid määrusi, eelnõu arutelu ja arvamuse esitamine ELAK-le",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1d8d9a62-b394-20b3-c2af-877e983074ab"
+    },
+    {
+      "order": 3,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "895d92e7-6b50-76ad-ed3c-3446f4b4225a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 20.09.2007",
+      "uuid": "e7975e44-f41b-bb6e-d9be-999d4e8e41a2",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_38_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "7d8cb193-add3-b0e4-023c-523fc6ae020c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7d8cb193-add3-b0e4-023c-523fc6ae020c)",
+  "source": "https://api.riigikogu.ee/api/volumes/7d8cb193-add3-b0e4-023c-523fc6ae020c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-09-01&endDate=2007-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
