@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-09-21T10:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse raamdokumendi \"Eesti Euroopa Liidu poliitika 2007-2011\" arutelu.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7c2b5956-b32c-611b-625b-57e01f91a202"
+    },
+    {
+      "order": 2,
+      "title": "Seisukoha andmine: Euroopa Parlamendi ja nõukogu määrus, millega muudetakse määrust (EÜ) nr 2004/2003 Euroopa tasandi erakondi reguleerivate määruste ja erakondade rahastamise eeskirjade kohta.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d5f407a5-3fc9-7339-c884-7ab611dd5970"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 21.09.2007",
+      "uuid": "b7f20dd7-5866-c4e3-8f0b-1a4e5da981dc",
+      "files": [
+        "Euroopa Liidu asjade komisjon_paevakord_21_09_2007.odt",
+        "Euroopa Liidu asjade komisjon_istungi_protokoll_38_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "29960d04-1fae-e7c0-6b52-155f116c0afa",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 29960d04-1fae-e7c0-6b52-155f116c0afa)",
+  "source": "https://api.riigikogu.ee/api/volumes/29960d04-1fae-e7c0-6b52-155f116c0afa",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-09-01&endDate=2007-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
