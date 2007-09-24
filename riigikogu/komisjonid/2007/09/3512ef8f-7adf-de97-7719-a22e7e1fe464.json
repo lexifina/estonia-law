@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-09-24T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Keskkonnakomisjoni töökava",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7f4b2d61-1258-0017-0348-24b762d18100"
+    },
+    {
+      "order": 2,
+      "title": "Riigimetsa Majandamise Keskuse külastamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fe9c2ded-48f1-bd13-4463-cd258d5a3238"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 24.09.2007",
+      "uuid": "e9671707-9f6f-e8b8-6cbc-c20b4e68cb2b",
+      "files": [
+        "Keskkonnakomisjon_istungi_protokoll_39_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "3512ef8f-7adf-de97-7719-a22e7e1fe464",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3512ef8f-7adf-de97-7719-a22e7e1fe464)",
+  "source": "https://api.riigikogu.ee/api/volumes/3512ef8f-7adf-de97-7719-a22e7e1fe464",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-09-01&endDate=2007-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
