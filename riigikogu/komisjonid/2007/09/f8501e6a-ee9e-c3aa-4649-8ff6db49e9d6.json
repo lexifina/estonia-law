@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-09-24T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e3420e88-371f-23d5-2523-162419474c15"
+    },
+    {
+      "order": 2,
+      "title": "Põllumajandusloomade aretuse seaduse muutmise seadus [94 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "20efa38b-d937-48e2-30d7-d325e6779ac4"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 24.09.2007",
+      "uuid": "99b5ec3e-e939-eecd-466f-9fe60e3719e4",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_39_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "f8501e6a-ee9e-c3aa-4649-8ff6db49e9d6",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f8501e6a-ee9e-c3aa-4649-8ff6db49e9d6)",
+  "source": "https://api.riigikogu.ee/api/volumes/f8501e6a-ee9e-c3aa-4649-8ff6db49e9d6",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-09-01&endDate=2007-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
