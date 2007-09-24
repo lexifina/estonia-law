@@ -1,0 +1,33 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-09-24T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Teabeameti külastamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "15c579b2-cca7-b1f8-02ce-1ec32aed2965"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 24.09.2007",
+      "uuid": "6e1fea6d-179e-84f1-b93c-b1442b188e2a",
+      "files": [
+        "24.09.07.doc"
+      ]
+    }
+  ],
+  "uuid": "70bb8eef-b5e9-0286-dac7-76f63a1b1f93",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 70bb8eef-b5e9-0286-dac7-76f63a1b1f93)",
+  "source": "https://api.riigikogu.ee/api/volumes/70bb8eef-b5e9-0286-dac7-76f63a1b1f93",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-09-01&endDate=2007-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
