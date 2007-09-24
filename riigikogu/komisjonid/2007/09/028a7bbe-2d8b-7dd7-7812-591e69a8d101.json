@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-09-24T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töönädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7d2cc0d7-02b5-cdb8-a20e-3df0660b2c35"
+    },
+    {
+      "order": 2,
+      "title": "Karistusseadustiku ja väärteomenetluse seadustiku muutmise seadus [106 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "aaf8b9ce-6db4-52f2-ccc1-7da6b73a69c9"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 24.09.2007",
+      "uuid": "049625c4-8a29-de25-294c-8dcd785e736c",
+      "files": [
+        "Õiguskomisjon_paevakord_24_09_2007.odt",
+        "iguskomisjon_istungi_protokoll_39_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "028a7bbe-2d8b-7dd7-7812-591e69a8d101",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 028a7bbe-2d8b-7dd7-7812-591e69a8d101)",
+  "source": "https://api.riigikogu.ee/api/volumes/028a7bbe-2d8b-7dd7-7812-591e69a8d101",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-09-01&endDate=2007-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
