@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-09-24T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikontrolli kontrolliaruanne \"Eesti valmisolek hädaolukorraks\"",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "92842aa1-e386-b976-b567-3b9e742d7ed5"
+    },
+    {
+      "order": 2,
+      "title": "Organisatsioonilised küsimused- lähetused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4ab0fae9-e7f3-fa04-0201-898fe3676401"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 24.09.2007",
+      "uuid": "ab03be09-8ec4-1e32-ca05-87d920eda3a4",
+      "files": [
+        "Sotsiaalkomisjon_istungi_protokoll_39_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "d2fc2757-d4a9-1367-e51f-a1c242012ea8",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d2fc2757-d4a9-1367-e51f-a1c242012ea8)",
+  "source": "https://api.riigikogu.ee/api/volumes/d2fc2757-d4a9-1367-e51f-a1c242012ea8",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-09-01&endDate=2007-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
