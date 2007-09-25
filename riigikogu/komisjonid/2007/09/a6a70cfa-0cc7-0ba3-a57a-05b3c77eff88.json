@@ -1,0 +1,34 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-09-25T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Eestimaa Põllumeeste Keskliidu esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "664043c5-fa75-ee37-bf29-349dc0e4dba8"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 25.09.2007",
+      "uuid": "218a34e9-c977-0f6f-84cb-0b6910812df1",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_39_2007.odt",
+        "Maaelukomisjon_paevakord_25_09_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "a6a70cfa-0cc7-0ba3-a57a-05b3c77eff88",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a6a70cfa-0cc7-0ba3-a57a-05b3c77eff88)",
+  "source": "https://api.riigikogu.ee/api/volumes/a6a70cfa-0cc7-0ba3-a57a-05b3c77eff88",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-09-01&endDate=2007-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
