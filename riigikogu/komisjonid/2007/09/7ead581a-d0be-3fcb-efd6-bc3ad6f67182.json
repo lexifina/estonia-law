@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-09-25T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Õiguskantsleri 2006 aasta tegevuse ülevaate arutelu.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "15802994-a582-b7e3-cec6-3e709e0c292c"
+    },
+    {
+      "order": 2,
+      "title": "EL põhiseaduse lepingu tuleviku arutelu.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6f177877-5798-34b6-772b-478406c048b2"
+    },
+    {
+      "order": 3,
+      "title": "Istungil algatatud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9b4821b2-ee6b-2a31-70df-b688b6bafe7e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 25.09.2007",
+      "uuid": "a92cf0aa-2fa3-3008-0093-ad61d4c6cfed",
+      "files": [
+        "Põhiseaduskomisjon_istungi_protokoll_39_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "7ead581a-d0be-3fcb-efd6-bc3ad6f67182",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7ead581a-d0be-3fcb-efd6-bc3ad6f67182)",
+  "source": "https://api.riigikogu.ee/api/volumes/7ead581a-d0be-3fcb-efd6-bc3ad6f67182",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-09-01&endDate=2007-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
