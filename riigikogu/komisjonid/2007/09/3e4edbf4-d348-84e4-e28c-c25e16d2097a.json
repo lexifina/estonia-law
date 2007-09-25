@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-09-25T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ettekanne Euroopa Liidu otsustusprotsessist",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c2a9f9ee-bdf5-c090-2daf-9e7a32c666f6"
+    },
+    {
+      "order": 2,
+      "title": "Euroopa Parlamendi ja nõukogu määruse „Rahvusvahelisele autoveoturule juurdepääsu käsitletavate ühiseeskirjade kohta” eelnõu arutelu  ja arvamuse esitamine ELAK-le.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6f73b462-bc74-96ff-99cd-4259fa8b0494"
+    },
+    {
+      "order": 3,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f8a44066-d5d1-c7dd-a7ce-240c188a67a8"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 25.09.2007",
+      "uuid": "be84964b-7779-99bd-b52e-713d6476e51c",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_39_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "3e4edbf4-d348-84e4-e28c-c25e16d2097a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3e4edbf4-d348-84e4-e28c-c25e16d2097a)",
+  "source": "https://api.riigikogu.ee/api/volumes/3e4edbf4-d348-84e4-e28c-c25e16d2097a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-09-01&endDate=2007-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
