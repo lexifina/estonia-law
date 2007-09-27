@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-09-27T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikogu otsuse „Riigikogu probleemkomisjoni moodustamine ühiskonna lõimumise probleemide läbitöötamiseks” eelnõu -38 OE- esimese lugemise arutelu.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "11ab4187-0493-c35f-66e9-14664dda2f99"
+    },
+    {
+      "order": 2,
+      "title": "Istungil algatatud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a653bf48-d22d-f207-f95c-cc65380539be"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 27.09.2007",
+      "uuid": "5f020df6-8f39-8fa7-2039-9062ace91c27",
+      "files": [
+        "Põhiseaduskomisjon_istungi_protokoll_39_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "8c86cb54-0a4b-22f8-af13-469009f03fea",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8c86cb54-0a4b-22f8-af13-469009f03fea)",
+  "source": "https://api.riigikogu.ee/api/volumes/8c86cb54-0a4b-22f8-af13-469009f03fea",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-09-01&endDate=2007-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
