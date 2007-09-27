@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-09-27T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Relvaseaduse, planeerimisseaduse ja päästeseaduse muutmise seadus [101 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "171f4b80-0801-4f86-06ab-2e7e80b9b38a"
+    },
+    {
+      "order": 2,
+      "title": "Kaitseliidu seaduse § 40 muutmise seadus [92 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fa361284-efa9-a194-5936-1c874c6963a9"
+    },
+    {
+      "order": 3,
+      "title": "Eesti Vabariigi valitsuse, Läti Vabariigi valitsuse ja Leedu Vabariigi valitsuse Balti õhuseirevõrgu ja juhtimissüsteemi arendamise kokkuleppe ratifitseerimise seadus [90 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7e01c48b-96c3-d8ea-206d-840d121abc98"
+    },
+    {
+      "order": 4,
+      "title": "Kaitseväe väeosade külastamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "43de3d82-d8e1-7dfd-469b-7f92c5ab3284"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 27.09.2007",
+      "uuid": "d59be4cb-36e7-1f91-e5bf-69ef6bbb5dea",
+      "files": [
+        "27.09.07.doc"
+      ]
+    }
+  ],
+  "uuid": "efe3a12d-e35d-0918-c19a-c0c5cd75cebb",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid efe3a12d-e35d-0918-c19a-c0c5cd75cebb)",
+  "source": "https://api.riigikogu.ee/api/volumes/efe3a12d-e35d-0918-c19a-c0c5cd75cebb",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-09-01&endDate=2007-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
