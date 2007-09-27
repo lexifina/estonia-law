@@ -1,0 +1,33 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-09-27T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Planeerimata",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "66462763-e843-f3d1-db37-e3474dc1f5c2"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 27.09.2007",
+      "uuid": "b956a5b8-96f6-7270-adea-6eecdd4ab7c0",
+      "files": [
+        "Õiguskomisjon_paevakord_27_09_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "2f09f51f-3207-75a3-1b74-492d397f6911",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2f09f51f-3207-75a3-1b74-492d397f6911)",
+  "source": "https://api.riigikogu.ee/api/volumes/2f09f51f-3207-75a3-1b74-492d397f6911",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-09-01&endDate=2007-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
