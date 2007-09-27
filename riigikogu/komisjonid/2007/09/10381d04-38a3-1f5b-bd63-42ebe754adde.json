@@ -1,0 +1,33 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-09-27T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väljasõiduistung Loksa Laevatehasesse",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2e16ab3a-d54a-52b1-232a-36ded5f07d9b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 27.09.2007",
+      "uuid": "47f9be62-6e6e-3a11-1916-8f3f7939ca8e",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_39_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "10381d04-38a3-1f5b-bd63-42ebe754adde",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 10381d04-38a3-1f5b-bd63-42ebe754adde)",
+  "source": "https://api.riigikogu.ee/api/volumes/10381d04-38a3-1f5b-bd63-42ebe754adde",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-09-01&endDate=2007-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
