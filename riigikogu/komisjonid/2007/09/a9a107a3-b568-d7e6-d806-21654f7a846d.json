@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-09-27T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade olukorrast Ukrainas enne 30. septembril 2007 toimuvaid erakorralisi parlamendivalimisi.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "865be2c6-ea99-572e-4e1f-780d97a82b81"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse 20. septembri 2007 otsus Nord Stream AG uurimisloa taotluse kohta.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a6ecaf0a-d3cb-5791-5d45-ccdbafafd45c"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b548a525-8b1a-e146-297a-65aa85a8ac26"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 27.09.2007",
+      "uuid": "d087f98f-9351-1cac-4b07-c599dd375a56",
+      "files": [
+        "Väliskomisjon_istungi_protokoll_39_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "a9a107a3-b568-d7e6-d806-21654f7a846d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a9a107a3-b568-d7e6-d806-21654f7a846d)",
+  "source": "https://api.riigikogu.ee/api/volumes/a9a107a3-b568-d7e6-d806-21654f7a846d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-09-01&endDate=2007-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
