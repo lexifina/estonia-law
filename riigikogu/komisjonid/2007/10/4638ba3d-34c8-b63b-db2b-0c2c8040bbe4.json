@@ -1,0 +1,64 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-10-08T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töönädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b7e2637d-0787-7689-a6b1-43000e404eaa"
+    },
+    {
+      "order": 2,
+      "title": "Piirivalveteenistuse seaduse muutmise seadus [95 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e74f01bd-664c-2c34-ed51-1e9795de4cfe"
+    },
+    {
+      "order": 3,
+      "title": "Notarite infosüsteemi ja õigusregistritega seotud seaduste muutmise seadus [105 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0adeb535-641e-b164-7373-243b27458069"
+    },
+    {
+      "order": 4,
+      "title": "Äriseadustiku ja sellega seonduvate seaduste muutmise seadus [102 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dba76878-f332-edf5-25c6-068e18de3096"
+    },
+    {
+      "order": 5,
+      "title": "Prokuratuuriseaduse muutmise seadus [104 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "deab6193-f4e3-21fd-7310-0dc7f11e6df3"
+    },
+    {
+      "order": 6,
+      "title": "Arvamuse andmine ELAK-le",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a0dcb5e0-7dc2-434e-92e4-6047626c828a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 08.10.2007",
+      "uuid": "4e6aa097-39cf-f5f7-244b-a45eb3e8ed29",
+      "files": [
+        "iguskomisjon_istungi_protokoll_41_2007.odt",
+        "Õiguskomisjon_paevakord_08_10_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "4638ba3d-34c8-b63b-db2b-0c2c8040bbe4",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 4638ba3d-34c8-b63b-db2b-0c2c8040bbe4)",
+  "source": "https://api.riigikogu.ee/api/volumes/4638ba3d-34c8-b63b-db2b-0c2c8040bbe4",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-10-01&endDate=2007-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
