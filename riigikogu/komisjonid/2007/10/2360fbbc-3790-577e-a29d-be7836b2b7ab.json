@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-10-08T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "arvamuse andmine Euroopa Parlamendi ja nõukogu direktiivi, kindlustus- ja edasikindlustustegevuse alustamise ja jätkamise kohta, eelnõu kohta",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f116e79d-e093-f64a-40c1-c0e678878b18"
+    },
+    {
+      "order": 2,
+      "title": "Eesti Vabariigi valitsuse ja Singapuri Vabariigi valitsuse vahelise tulumaksudega topeltmaksustamise vältimise ning maksudest hoidumise tõkestamise lepingu ja selle juurde kuuluva protokolli ratifitseerimise seadus [96 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c3ad681e-0363-7f9b-2bbf-63309f07e1b2"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 08.10.2007",
+      "uuid": "a2b175ed-f6cd-fc28-49d8-a1fa8612142b",
+      "files": [
+        "Rahanduskomisjon_istungi_protokoll_41_2007.odt",
+        "Rahanduskomisjon_paevakord_08_10_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "2360fbbc-3790-577e-a29d-be7836b2b7ab",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2360fbbc-3790-577e-a29d-be7836b2b7ab)",
+  "source": "https://api.riigikogu.ee/api/volumes/2360fbbc-3790-577e-a29d-be7836b2b7ab",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-10-01&endDate=2007-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
