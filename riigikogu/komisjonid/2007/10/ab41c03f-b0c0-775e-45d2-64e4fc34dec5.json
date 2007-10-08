@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-10-08T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 9. oktoobril toimuval  majandus- ja rahandusministrite nõukogu (ECOFIN) kohtumisel.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "236601b5-1fac-f656-6a81-e1624869601b"
+    },
+    {
+      "order": 2,
+      "title": "Seisukoha andmine: Nõukogu direktiivi eelnõu, millega muudetakse direktiivi 2003/109/EÜ, et laiendada selle reguleerimisala rahvusvahelise kaitse saajatele.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "47da9a55-9291-019a-c9ac-17bcb568fb75"
+    },
+    {
+      "order": 3,
+      "title": "Seisukoha andmine: Euroopa Parlamendi ja nõukogu direktiivi eelnõu, kindlustus- ja edasikindlustustegevuse alustamise ja jätkamise kohta.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bcb978a3-6a1a-fa48-06f8-6b6841ef2155"
+    },
+    {
+      "order": 4,
+      "title": "Eesti Euroopa Liidu poliitika 2007-2011 eelnõu arutelu jätkamine.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "33ec2c9c-4b97-a8a4-63f8-4d770903c915"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 08.10.2007",
+      "uuid": "a0d5d52c-1447-de49-7dc0-8e3656e6b9b4",
+      "files": [
+        "Euroopa Liidu asjade komisjon_paevakord_08_10_2007.odt",
+        "Euroopa Liidu asjade komisjon_istungi_protokoll_41_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "ab41c03f-b0c0-775e-45d2-64e4fc34dec5",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ab41c03f-b0c0-775e-45d2-64e4fc34dec5)",
+  "source": "https://api.riigikogu.ee/api/volumes/ab41c03f-b0c0-775e-45d2-64e4fc34dec5",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-10-01&endDate=2007-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
