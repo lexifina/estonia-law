@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-10-08T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8bcc0b42-8783-d7f1-7ae0-e3fa1fcd6dba"
+    },
+    {
+      "order": 2,
+      "title": "Põllumajandusloomade aretuse seaduse muutmise seaduse eelnõu [94 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "02af9278-5870-c0c0-2bf2-9e4da8746d30"
+    },
+    {
+      "order": 3,
+      "title": "Leedu Seimi maaelukomisjoni Eesti visiidi planeerimine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "67031a56-032b-0cde-1f52-a1636836342c"
+    },
+    {
+      "order": 4,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6381f7df-580c-720c-2a97-9d228c3171a3"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 08.10.2007",
+      "uuid": "adaec700-3164-5593-749a-c0be3f06821a",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_41_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "3d407443-5edb-1a16-2345-3df53b54c147",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3d407443-5edb-1a16-2345-3df53b54c147)",
+  "source": "https://api.riigikogu.ee/api/volumes/3d407443-5edb-1a16-2345-3df53b54c147",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-10-01&endDate=2007-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
