@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-10-08T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine julgeoleku koordinatsioonidirektori Andreas Anveltiga",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1b43d5ca-f482-32c5-5eae-f28fd53ff18a"
+    },
+    {
+      "order": 2,
+      "title": "Informatsioon Soome Eduskunta kaitsekomisjoni visiidist Eestisse 23.10 - 24.10.2007",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c59630ae-c696-6f18-3f05-429b8ef18ca1"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 08.10.2007",
+      "uuid": "5e481ad3-9bdc-ea38-f6e1-2f22d499999b",
+      "files": [
+        "08.10.07.doc"
+      ]
+    }
+  ],
+  "uuid": "51cb714c-1ec6-5fee-e6df-00faaf5ac762",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 51cb714c-1ec6-5fee-e6df-00faaf5ac762)",
+  "source": "https://api.riigikogu.ee/api/volumes/51cb714c-1ec6-5fee-e6df-00faaf5ac762",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-10-01&endDate=2007-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
