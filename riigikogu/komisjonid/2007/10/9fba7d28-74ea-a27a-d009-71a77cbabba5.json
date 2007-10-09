@@ -1,0 +1,33 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-10-09T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Istungi toimumisest teatatakse täiendavalt.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7c3beab2-459d-87f4-3a58-eb3310849c3e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 09.10.2007",
+      "uuid": "c1adcaaf-3abd-1499-0e26-322beb9725ec",
+      "files": [
+        "Rahanduskomisjon_paevakord_09_10_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "9fba7d28-74ea-a27a-d009-71a77cbabba5",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9fba7d28-74ea-a27a-d009-71a77cbabba5)",
+  "source": "https://api.riigikogu.ee/api/volumes/9fba7d28-74ea-a27a-d009-71a77cbabba5",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-10-01&endDate=2007-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
