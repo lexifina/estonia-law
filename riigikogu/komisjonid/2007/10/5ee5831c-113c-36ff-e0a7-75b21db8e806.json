@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-10-11T12:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Põhikooli- ja gümnaasiumiseaduse ning kutseõppeasutuse seaduse muutmise seadus [115 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2086b77a-8329-75f8-fd26-4e9c06aed5e6"
+    },
+    {
+      "order": 2,
+      "title": "2008. aasta riigieelarve eelnõu. Haridus- ja Teadusministeeriumi valitsemisala. Arutelu ministri osavõtul",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d25de664-b4ee-de34-8b63-03ca406b5dde"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 11.10.2007",
+      "uuid": "38fc5a35-ceb8-ed7c-9512-8cffa0c41ab2",
+      "files": [
+        "Kultuurikomisjon_paevakord_11_10_2007.odt",
+        "Kultuurikomisjon_istungi_protokoll_41_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "5ee5831c-113c-36ff-e0a7-75b21db8e806",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 5ee5831c-113c-36ff-e0a7-75b21db8e806)",
+  "source": "https://api.riigikogu.ee/api/volumes/5ee5831c-113c-36ff-e0a7-75b21db8e806",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-10-01&endDate=2007-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
