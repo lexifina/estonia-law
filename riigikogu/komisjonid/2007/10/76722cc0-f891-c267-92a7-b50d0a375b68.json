@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-10-11T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "2008. aasta riigieelarve seadus [122 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f162095d-00e3-f3a3-7f27-af9ef29a6c3b"
+    },
+    {
+      "order": 2,
+      "title": "Riigi 2007. aasta lisaeelarve seadus [121 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b48c05fc-7c0d-0ef3-7c9c-4a73cd6ab20a"
+    },
+    {
+      "order": 3,
+      "title": "Väärtpaberituru seaduse ja sellega seonduvate seaduste muutmise seadus [108 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fc4796f0-b3ef-04db-0d24-0048c313fd57"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 11.10.2007",
+      "uuid": "8bbf2dfa-e463-b57d-4e91-b519aded8d77",
+      "files": [
+        "Rahanduskomisjon_istungi_protokoll_41_2007.odt",
+        "Rahanduskomisjon_paevakord_11_10_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "76722cc0-f891-c267-92a7-b50d0a375b68",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 76722cc0-f891-c267-92a7-b50d0a375b68)",
+  "source": "https://api.riigikogu.ee/api/volumes/76722cc0-f891-c267-92a7-b50d0a375b68",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-10-01&endDate=2007-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
