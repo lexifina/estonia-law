@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-10-12T10:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ühisistung ELAKiga - Eesti seisukohad 18.-19. oktoobril 2007 toimuval mitteametlikul Euroopa Ülemkogul.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5151f92e-e0cb-c69a-a924-c52cd95aef8b"
+    },
+    {
+      "order": 2,
+      "title": "Ühisistung ELAKiga - Eesti seisukohad 15.-16. oktoobril 2007 toimuval Euroopa Liidu üldasjade ja välissuhete nõukogu istungil.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cdda79d8-cd1a-e61b-b02e-679337d16803"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bd7fdab9-8272-e029-7053-ce4afc99ee2b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 12.10.2007",
+      "uuid": "11c6866a-3a5e-0c8c-3ae1-c24fb8a4e0c1",
+      "files": [
+        "Väliskomisjon_istungi_protokoll_41_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "f8cd326d-f165-adf8-07fa-5fc55bc26e31",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f8cd326d-f165-adf8-07fa-5fc55bc26e31)",
+  "source": "https://api.riigikogu.ee/api/volumes/f8cd326d-f165-adf8-07fa-5fc55bc26e31",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-10-01&endDate=2007-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
