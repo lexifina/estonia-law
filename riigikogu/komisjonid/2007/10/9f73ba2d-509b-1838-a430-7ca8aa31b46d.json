@@ -1,0 +1,33 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-10-15T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Planeerimata",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6bc93929-22c1-b1c5-996f-d571c7a00212"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 15.10.2007",
+      "uuid": "041c691c-853b-e94e-83da-96bd2b8c5ff5",
+      "files": [
+        "Õiguskomisjon_paevakord_15_10_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "9f73ba2d-509b-1838-a430-7ca8aa31b46d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9f73ba2d-509b-1838-a430-7ca8aa31b46d)",
+  "source": "https://api.riigikogu.ee/api/volumes/9f73ba2d-509b-1838-a430-7ca8aa31b46d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-10-01&endDate=2007-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
