@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-10-15T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Keskkonnakomisjoni töökava",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "25ed6cab-3e63-0dc6-c927-5bf7640c6e26"
+    },
+    {
+      "order": 2,
+      "title": "Nõukogu määruse eelnõu, millega määratakse kindlaks teatavate Läänemere kalavarude ja kalavarurühmade püügivõimalused ning tingimused 2008. aastaks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0adae0fb-bf3b-f98d-1e19-ffae46243af8"
+    },
+    {
+      "order": 3,
+      "title": "Euroopa Komisoni roheline raamat „Turupõhised vahendid keskkonnapoliitikas ja sellega seotud valdkondades” ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1f8f2626-706f-9e21-db23-14f60b7afefc"
+    },
+    {
+      "order": 4,
+      "title": " Jooksvad küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "74d9f448-a04f-80ac-0851-8bfcc09588f2"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 15.10.2007",
+      "uuid": "abc64d07-fcb6-af07-8186-3959bb175b04",
+      "files": [
+        "Keskkonnakomisjon_istungi_protokoll_42_2007.odt",
+        "Keskkonnakomisjon_paevakord_15_10_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "e7e4b175-c764-d58e-a078-63bf8ba5ae92",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e7e4b175-c764-d58e-a078-63bf8ba5ae92)",
+  "source": "https://api.riigikogu.ee/api/volumes/e7e4b175-c764-d58e-a078-63bf8ba5ae92",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-10-01&endDate=2007-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
