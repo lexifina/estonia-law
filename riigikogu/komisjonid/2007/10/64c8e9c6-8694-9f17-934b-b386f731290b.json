@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-10-15T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väärtpaberituru seaduse ja sellega seonduvate seaduste muutmise seadus [108 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c2cd4c14-08d1-0f77-0b01-45b48433cdd4"
+    },
+    {
+      "order": 2,
+      "title": "Eesti Vabariigi ja Gruusia vahelise tulu- ja kapitalimaksudega topeltmaksustamise vältimise ning maksudest hoidumise tõkestamise lepingu ja selle juurde kuuluva protokolli ratifitseerimise seadus [119 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0f1e3fae-5816-b027-7d22-120cf3ec4412"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 15.10.2007",
+      "uuid": "3afbd2aa-d72a-d129-9cd1-df3db40697e0",
+      "files": [
+        "Rahanduskomisjon_istungi_protokoll_42_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "64c8e9c6-8694-9f17-934b-b386f731290b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 64c8e9c6-8694-9f17-934b-b386f731290b)",
+  "source": "https://api.riigikogu.ee/api/volumes/64c8e9c6-8694-9f17-934b-b386f731290b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-10-01&endDate=2007-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
