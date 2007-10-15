@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-10-15T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Politseiseaduse, välismaalaste seaduse, väljasõidukohustuse ja sissesõidukeelu seaduse ning isikut tõendavate dokumentide seaduse muutmise seaduse eelnõu -75 SE- teise lugemise arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5bad1100-9d86-1ea0-2ba7-23c918d961ce"
+    },
+    {
+      "order": 2,
+      "title": "Välismaalaste seaduse muutmise seaduse eelnõu -99 SE- teise lugemise arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7a3ddd78-490e-ffa5-32e9-8ad00691ef10"
+    },
+    {
+      "order": 3,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "85de40f2-5abf-8afe-53c2-c07985342d18"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 15.10.2007",
+      "uuid": "662f9cd1-574b-12ca-7f39-5a112cbe40e9",
+      "files": [
+        "Põhiseaduskomisjon_istungi_protokoll_42_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "f22b3a6d-695a-4cc7-e839-e6449d58a002",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f22b3a6d-695a-4cc7-e839-e6449d58a002)",
+  "source": "https://api.riigikogu.ee/api/volumes/f22b3a6d-695a-4cc7-e839-e6449d58a002",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-10-01&endDate=2007-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
