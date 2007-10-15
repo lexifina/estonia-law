@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-10-15T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "19ab790a-aec3-19a2-94e7-a5aee2a8bfb8"
+    },
+    {
+      "order": 2,
+      "title": "Riigi 2007. aasta lisaeelarve seaduse eelnõu (121 SE) ja 2008. aasta riigieelarve seaduse eelnõu (122 SE) Põllumajandusministeeriumi haldusala",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1fce278b-1997-1c54-0d24-b8db23745f7a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 15.10.2007",
+      "uuid": "1780a5df-e227-b62d-6c29-3533103b6389",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_42_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "301ad92c-a672-17f7-0f77-492adc34835e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 301ad92c-a672-17f7-0f77-492adc34835e)",
+  "source": "https://api.riigikogu.ee/api/volumes/301ad92c-a672-17f7-0f77-492adc34835e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-10-01&endDate=2007-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
