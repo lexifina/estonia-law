@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-10-16T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Päevakord",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "475b24cf-6803-1b02-c49f-566e7281f3ef"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine siseminister Jüri Pihliga",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0f04c0b6-85d1-a3d6-90b8-ac76dfa17d7a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 16.10.2007",
+      "uuid": "aebdb63c-9c47-2647-d503-32c761490535",
+      "files": [
+        "Õiguskomisjon_istungi_protokoll_42_2007.odt",
+        "Õiguskomisjon_paevakord_16_10_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "bbd3978d-3070-8703-76a8-c0c615265a62",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid bbd3978d-3070-8703-76a8-c0c615265a62)",
+  "source": "https://api.riigikogu.ee/api/volumes/bbd3978d-3070-8703-76a8-c0c615265a62",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-10-01&endDate=2007-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
