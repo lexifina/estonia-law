@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-10-16T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Ameerika Ühendriikide suursaadikuga Eestis T.E hr Dave Phillips’iga.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "87e76c62-3f5b-33a9-70ee-940443513c24"
+    },
+    {
+      "order": 2,
+      "title": "Väliskomisjoni töövisiidi ettevalmistamine Soome Vabariiki 25. oktoobril 2007. Ülevaade Eesti-Soome suhetest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e9088881-6ac6-94b9-8f6e-93b20e8cb2e3"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7e1645ef-ed40-6bd2-86eb-3d98fca8378d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 16.10.2007",
+      "uuid": "de0d2642-2c2d-96cc-8d62-e7f5522f5e14",
+      "files": [
+        "Väliskomisjon_istungi_protokoll_42_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "994ec66e-2ee2-b2be-87ba-df3f474c1fb8",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 994ec66e-2ee2-b2be-87ba-df3f474c1fb8)",
+  "source": "https://api.riigikogu.ee/api/volumes/994ec66e-2ee2-b2be-87ba-df3f474c1fb8",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-10-01&endDate=2007-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
