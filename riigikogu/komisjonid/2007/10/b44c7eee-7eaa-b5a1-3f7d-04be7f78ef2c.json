@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-10-22T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse seaduse ja teiste seaduste muutmise seadus seoses valitsusasutuste ühendamisega -125 SE - esimese lugemise arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b728fecb-c042-0362-fecc-afdb893403e0"
+    },
+    {
+      "order": 2,
+      "title": "Võrdse kohtlemise seaduse eelnõu -67 SE- teise lugemise arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4342907b-9584-440c-7817-4356362a6bfd"
+    },
+    {
+      "order": 3,
+      "title": "Avaliku teenistuse seaduse muutmise seaduse eelnõu -39 SE- esimese lugemise arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f7a2db26-f774-c002-6aa2-0c669cb261c0"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 22.10.2007",
+      "uuid": "b0458a12-3144-12e0-d112-7f1df9e9fcbb",
+      "files": [
+        "Põhiseaduskomisjon_istungi_protokoll_43_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "b44c7eee-7eaa-b5a1-3f7d-04be7f78ef2c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b44c7eee-7eaa-b5a1-3f7d-04be7f78ef2c)",
+  "source": "https://api.riigikogu.ee/api/volumes/b44c7eee-7eaa-b5a1-3f7d-04be7f78ef2c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-10-01&endDate=2007-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
