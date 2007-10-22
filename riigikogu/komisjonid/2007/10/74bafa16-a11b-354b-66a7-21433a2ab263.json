@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-10-22T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töönädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b21a4c1e-fc6e-064a-c7d8-e508465965e0"
+    },
+    {
+      "order": 2,
+      "title": "Perekonnaseadus [55 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9ef745a6-1d6d-1745-48c0-ffd0991793ac"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 22.10.2007",
+      "uuid": "d5f8f872-2bc2-38f1-eb1f-5418547f3fb1",
+      "files": [
+        "iguskomisjon_istungi_protokoll_43_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "74bafa16-a11b-354b-66a7-21433a2ab263",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 74bafa16-a11b-354b-66a7-21433a2ab263)",
+  "source": "https://api.riigikogu.ee/api/volumes/74bafa16-a11b-354b-66a7-21433a2ab263",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-10-01&endDate=2007-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
