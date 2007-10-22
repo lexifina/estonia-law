@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-10-22T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade 18.-19. oktoobril toimunud mitteametlikust Euroopa Ülemkogust.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "11a14101-b325-1dd1-be74-3e98441f505c"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "74766ad3-5895-4ab2-4773-8f13dfbc2152"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 22.10.2007",
+      "uuid": "2e766250-cad3-bfbc-d321-68ac6864581b",
+      "files": [
+        "Euroopa Liidu asjade komisjon_paevakord_22_10_2007.odt",
+        "Euroopa Liidu asjade komisjon_istungi_protokoll_43_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "dae7e42e-22ef-e815-b92d-e6c25b26b9a3",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid dae7e42e-22ef-e815-b92d-e6c25b26b9a3)",
+  "source": "https://api.riigikogu.ee/api/volumes/dae7e42e-22ef-e815-b92d-e6c25b26b9a3",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-10-01&endDate=2007-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
