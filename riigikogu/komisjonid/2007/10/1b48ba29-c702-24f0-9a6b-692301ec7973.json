@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-10-22T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Konkurentsiseaduse muutmise seadus [80 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9071b17e-b57e-6768-5558-2fe505f2de46"
+    },
+    {
+      "order": 2,
+      "title": "Riigivara tasuta võõrandamine (2)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "242e3407-fed2-2d22-a238-b3e23fbe4d88"
+    },
+    {
+      "order": 3,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cac2074b-3efb-6297-9dd2-f30555726aee"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 22.10.2007",
+      "uuid": "81eb6943-d159-4b05-3627-8e45c608157e",
+      "files": [
+        "Majanduskomisjon_paevakord_22_10_2007.odt",
+        "Majanduskomisjon_istungi_protokoll_43_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "1b48ba29-c702-24f0-9a6b-692301ec7973",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 1b48ba29-c702-24f0-9a6b-692301ec7973)",
+  "source": "https://api.riigikogu.ee/api/volumes/1b48ba29-c702-24f0-9a6b-692301ec7973",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-10-01&endDate=2007-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
