@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-10-22T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Keskkonnakomisjoni töökava",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "497a664d-79f1-b3f1-87ad-d4feb4c88726"
+    },
+    {
+      "order": 2,
+      "title": "Keskkonnavastutuse seadus [77 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e6b67d74-5e25-0f1a-dac3-86e68859a9c9"
+    },
+    {
+      "order": 3,
+      "title": "Jooksvad küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "359a38d4-06f7-e229-39ad-cc214a69ca86"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 22.10.2007",
+      "uuid": "7c3e202a-a8cd-4249-862d-c920c31613c3",
+      "files": [
+        "Keskkonnakomisjon_istungi_protokoll_43_2007.odt",
+        "Keskkonnakomisjon_paevakord_22_10_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "003cdcc4-9b8c-41bf-a042-bb418a262d22",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 003cdcc4-9b8c-41bf-a042-bb418a262d22)",
+  "source": "https://api.riigikogu.ee/api/volumes/003cdcc4-9b8c-41bf-a042-bb418a262d22",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-10-01&endDate=2007-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
