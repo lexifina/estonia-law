@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-10-23T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "2008. aasta riigieelarve seadus (122 SE I). Osaleb sotsiaalminister Maret Maripuu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6510581c-5907-e857-aa7f-66f9243780d1"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu otsus \"Riigi 2006. aasta majandusaasta koondaruande kinnitamine\" [120 OE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "886d11b9-4f4d-bc69-3ea6-cedc6469e5e7"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 23.10.2007",
+      "uuid": "60f1c7df-7149-75d4-29bf-8bbc4b7eb64a",
+      "files": [
+        "Rahanduskomisjon_istungi_protokoll_43_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "8f475146-e11f-49b9-d040-f10e97649174",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8f475146-e11f-49b9-d040-f10e97649174)",
+  "source": "https://api.riigikogu.ee/api/volumes/8f475146-e11f-49b9-d040-f10e97649174",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-10-01&endDate=2007-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
