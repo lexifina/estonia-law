@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-10-23T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Arvamuse andmine ELAK-le",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fa862aab-ea8e-9437-dd13-96208b755c4b"
+    },
+    {
+      "order": 2,
+      "title": "Riigiprokuratuuri külastamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6f233a3a-740f-978a-7bf1-b3f517ed9423"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 23.10.2007",
+      "uuid": "8cac4ba8-0ec7-9f9f-f56f-548725c1cb38",
+      "files": [
+        "Õiguskomisjon_istungi_protokoll_43_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "db8e254e-30ef-44c2-b57f-282dd4febdc8",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid db8e254e-30ef-44c2-b57f-282dd4febdc8)",
+  "source": "https://api.riigikogu.ee/api/volumes/db8e254e-30ef-44c2-b57f-282dd4febdc8",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-10-01&endDate=2007-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
