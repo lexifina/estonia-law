@@ -1,0 +1,33 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-10-23T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Soome Eduskunta riigikaitsekomisjoniga",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "822ae1a2-7823-7777-8abb-7ab65268a526"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 23.10.2007",
+      "uuid": "597d9ae9-0854-e7d8-8b6b-60d62a25707a",
+      "files": [
+        "23.10.07.doc"
+      ]
+    }
+  ],
+  "uuid": "fc09a42b-0fba-ce7a-b499-a1e63c38584d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid fc09a42b-0fba-ce7a-b499-a1e63c38584d)",
+  "source": "https://api.riigikogu.ee/api/volumes/fc09a42b-0fba-ce7a-b499-a1e63c38584d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-10-01&endDate=2007-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
