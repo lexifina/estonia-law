@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-11-05T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Loomsete jäätmete käitlemine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5c6886e3-8fd8-75c0-69d0-4debdc7d8238"
+    },
+    {
+      "order": 2,
+      "title": "Põllumajandusloomade aretuse seaduse muutmise seadus [94 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a6a65b5c-dae8-314e-c2fe-18ddf195fff0"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 05.11.2007",
+      "uuid": "541b7c5d-2fa7-15d6-78a0-7331f6551727",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_45_2007.odt",
+        "Maaelukomisjon_paevakord_05_11_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "1b965186-f7e1-9d45-5fe8-96a461dd4877",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 1b965186-f7e1-9d45-5fe8-96a461dd4877)",
+  "source": "https://api.riigikogu.ee/api/volumes/1b965186-f7e1-9d45-5fe8-96a461dd4877",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-11-01&endDate=2007-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
