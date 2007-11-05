@@ -1,0 +1,64 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-11-05T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töönädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "be8e6fb2-81bf-1183-e6da-e1271d3a843e"
+    },
+    {
+      "order": 2,
+      "title": "Karistusseadustiku ja väärteomenetluse seadustiku muutmise seadus [106 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d656f458-a10f-5039-4390-4aecbbd3f483"
+    },
+    {
+      "order": 3,
+      "title": "Karistusseadustiku muutmise seadus [74 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1c3e2b5d-9bd9-6054-ac4a-b0c09bc848d4"
+    },
+    {
+      "order": 4,
+      "title": "Notarite infosüsteemi ja õigusregistritega seotud seaduste muutmise seadus [105 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8f966120-cca6-da0a-69eb-365e66830604"
+    },
+    {
+      "order": 5,
+      "title": "Äriseadustiku ja sellega seonduvate seaduste muutmise seadus [102 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ee836654-56a9-2bba-3cfe-dc6bf6dc414f"
+    },
+    {
+      "order": 6,
+      "title": "Kutse Brüsselisse põhiseadus-ja õiguskomisjonide ühisistungile 26.- 27. november",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9bfcf7b8-f8e8-0f71-3317-ca27a6b2ffa2"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 05.11.2007",
+      "uuid": "137dc7f5-fafc-01bf-e56e-708c6ce1524f",
+      "files": [
+        "Õiguskomisjon_paevakord_05_11_2007.odt",
+        "iguskomisjon_istungi_protokoll_45_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "c9d2ce9f-2628-e0c9-4552-3c7b231a258a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c9d2ce9f-2628-e0c9-4552-3c7b231a258a)",
+  "source": "https://api.riigikogu.ee/api/volumes/c9d2ce9f-2628-e0c9-4552-3c7b231a258a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-11-01&endDate=2007-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
