@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-11-05T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad  8.-9. novembril toimuval justiits- ja siseküsimuste nõukogu kohtumisel. ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2a60e068-6e35-8979-049c-3264b0f81190"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused. ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7e51dc1e-253c-8239-31c5-5d875262ace3"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 05.11.2007",
+      "uuid": "72fc7f90-6f4d-4bcf-0dc6-0c273bdef370",
+      "files": [
+        "Euroopa Liidu asjade komisjon_istungi_protokoll_45_2007.odt",
+        "Euroopa Liidu asjade komisjon_paevakord_05_11_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "f326c694-d51e-8fff-4274-0af13af3f1a1",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f326c694-d51e-8fff-4274-0af13af3f1a1)",
+  "source": "https://api.riigikogu.ee/api/volumes/f326c694-d51e-8fff-4274-0af13af3f1a1",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-11-01&endDate=2007-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
