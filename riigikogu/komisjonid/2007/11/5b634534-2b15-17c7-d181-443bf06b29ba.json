@@ -1,0 +1,57 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-11-05T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Teenetemärkide seaduse eelnõu -134 SE- esimese lugemise arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5f9e8b2a-6568-1ae0-17af-07c9c48aed1b"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli seaduse muutmise seaduse eelnõu -110 SE- esimese lugemise arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "48b298d1-9808-6a43-5fc7-29f7953e16a3"
+    },
+    {
+      "order": 3,
+      "title": "Politseiseaduse, välismaalaste seaduse, väljasõidukohustuse ja sissesõidukeelu seaduse ning isikut tõendavate dokumentide seaduse muutmise seaduse eelnõu -75 SE- kolmanda lugemise arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3934cdd8-cec4-10bc-7ea7-525e05bb38df"
+    },
+    {
+      "order": 4,
+      "title": "Välismaalaste seaduse muutmise seaduse eelnõu -99 SE- kolmanda lugemise arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fe900369-a8c7-00ca-a7f6-a91ebc994a12"
+    },
+    {
+      "order": 5,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fe544e4a-ccba-88e6-9e13-62782b6420ae"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 05.11.2007",
+      "uuid": "5d011a2c-97f8-5aa2-db85-00677d8a1021",
+      "files": [
+        "Põhiseaduskomisjon_istungi_protokoll_45_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "5b634534-2b15-17c7-d181-443bf06b29ba",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 5b634534-2b15-17c7-d181-443bf06b29ba)",
+  "source": "https://api.riigikogu.ee/api/volumes/5b634534-2b15-17c7-d181-443bf06b29ba",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-11-01&endDate=2007-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
