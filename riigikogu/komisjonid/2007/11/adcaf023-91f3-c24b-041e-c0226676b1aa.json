@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-11-06T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kaitseväeteenistuse seaduse muutmise seadus [124 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "df362e95-aadb-cfaa-ee06-5e6a8e665706"
+    },
+    {
+      "order": 2,
+      "title": "Relvaseaduse, planeerimisseaduse ja päästeseaduse muutmise seadus [101 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6eca8ffb-d5f2-3371-dd14-214a73131cd3"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 06.11.2007",
+      "uuid": "dad3b934-0dcc-73bb-72d4-8c9283aa406b",
+      "files": [
+        "6.11.07.doc"
+      ]
+    }
+  ],
+  "uuid": "adcaf023-91f3-c24b-041e-c0226676b1aa",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid adcaf023-91f3-c24b-041e-c0226676b1aa)",
+  "source": "https://api.riigikogu.ee/api/volumes/adcaf023-91f3-c24b-041e-c0226676b1aa",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-11-01&endDate=2007-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
