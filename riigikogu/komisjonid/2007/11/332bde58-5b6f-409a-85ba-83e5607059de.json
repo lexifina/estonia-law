@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-11-06T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Alkoholiseaduse muutmise seadus [88 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "30eb118b-a956-9d95-b194-fe6da63d6a9b"
+    },
+    {
+      "order": 2,
+      "title": "Teeseaduse ja raudteeseaduse muutmise seadus [91 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ff08a179-680f-d95f-161c-d2f5bf1f5e18"
+    },
+    {
+      "order": 3,
+      "title": "Elektroonilise side seaduse ja rahvatervise seaduse muutmise seadus [62 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0ed8c902-1480-e18a-f060-3a46d8a2d134"
+    },
+    {
+      "order": 4,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "817ff1cc-a0ca-0bdf-8ff2-768743e722cb"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 06.11.2007",
+      "uuid": "3cfe29a6-387f-f2b3-a226-3985ced6c4b3",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_45_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "332bde58-5b6f-409a-85ba-83e5607059de",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 332bde58-5b6f-409a-85ba-83e5607059de)",
+  "source": "https://api.riigikogu.ee/api/volumes/332bde58-5b6f-409a-85ba-83e5607059de",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-11-01&endDate=2007-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
