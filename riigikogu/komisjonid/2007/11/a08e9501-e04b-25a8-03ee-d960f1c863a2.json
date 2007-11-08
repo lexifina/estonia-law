@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-11-08T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riiklike peretoetuste seaduse muutmise seadus [136 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0b8378cf-a689-1578-9b12-fa27f217837b"
+    },
+    {
+      "order": 2,
+      "title": "Riikliku pensionikindlustuse seaduse § 12 muutmise seadus [81 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f3d2f8a6-3ade-f901-9326-08f4452bf9d6"
+    },
+    {
+      "order": 3,
+      "title": "146 SE: Tervishoiuteenuste korraldamise seaduse muutmine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e64f0dc0-4717-45a4-29dc-a00da1137920"
+    },
+    {
+      "order": 4,
+      "title": "145 SE: Puhkuseseaduse muutmise seadus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ac4b4bc0-3d39-21b1-d8de-3e797d360a65"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 08.11.2007",
+      "uuid": "8b0c6d7d-ab5c-3660-e508-e945fa513128",
+      "files": [
+        "Sotsiaalkomisjon_istungi_protokoll_45_2007.odt",
+        "Sotsiaalkomisjon_paevakord_08_11_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "a08e9501-e04b-25a8-03ee-d960f1c863a2",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a08e9501-e04b-25a8-03ee-d960f1c863a2)",
+  "source": "https://api.riigikogu.ee/api/volumes/a08e9501-e04b-25a8-03ee-d960f1c863a2",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-11-01&endDate=2007-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
