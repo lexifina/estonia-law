@@ -1,0 +1,33 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-11-08T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väljasõiduistung Ida-Virumaale 8. - 9. novembril",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3615eb3d-4f1c-9eea-c6e6-21e4328408f8"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 08.11.2007",
+      "uuid": "95f2c1ac-7002-3eaf-cf0e-6708cda10b21",
+      "files": [
+        "Keskkonnakomisjon_istungi_protokoll_45_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "ce66be73-e4fa-0bea-e2a5-11dc069c63ac",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ce66be73-e4fa-0bea-e2a5-11dc069c63ac)",
+  "source": "https://api.riigikogu.ee/api/volumes/ce66be73-e4fa-0bea-e2a5-11dc069c63ac",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-11-01&endDate=2007-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
