@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-11-12T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "951b45d4-65b8-9d81-eefa-8b934a9ac472"
+    },
+    {
+      "order": 2,
+      "title": "Põllumajandusloomade aretuse seaduse muutmise seaduse eelnõu (94 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c8d670ce-be10-e9a4-19c7-ebba498ed12e"
+    },
+    {
+      "order": 3,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "36acb9b0-abef-8b98-3a31-f889f979181f"
+    },
+    {
+      "order": 4,
+      "title": "12.30 Ühisistung REK komisjoniga Riigikontrolli aruanne \"Põllumajandustootmise ja maaelu arendamiseks antud toetuste tulemuslikkus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4fa40b71-3d17-ed83-dc2c-b0bd14a939e0"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 12.11.2007",
+      "uuid": "a20004f0-3bcc-bb9d-1701-49f630d17ffe",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_46_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "d65c869d-d589-3274-d698-6da5c2d47dfc",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d65c869d-d589-3274-d698-6da5c2d47dfc)",
+  "source": "https://api.riigikogu.ee/api/volumes/d65c869d-d589-3274-d698-6da5c2d47dfc",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-11-01&endDate=2007-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
