@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-11-12T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Rahapesu ja terrorismi rahastamise tõkestamise seadus [137 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "efc626a1-800f-b085-ee0e-a55e4b420883"
+    },
+    {
+      "order": 2,
+      "title": "2008. aasta riigieelarve seadus [122 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5c48be24-b049-d7e3-b41e-a6849df40b9a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 12.11.2007",
+      "uuid": "1f39a855-cbc2-0659-399f-420d53f75351",
+      "files": [
+        "Rahanduskomisjon_istungi_protokoll_46_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "a9dbade6-cddb-cbd6-0e88-03d4c8e504d1",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a9dbade6-cddb-cbd6-0e88-03d4c8e504d1)",
+  "source": "https://api.riigikogu.ee/api/volumes/a9dbade6-cddb-cbd6-0e88-03d4c8e504d1",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-11-01&endDate=2007-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
