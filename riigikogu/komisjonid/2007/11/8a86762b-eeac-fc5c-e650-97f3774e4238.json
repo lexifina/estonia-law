@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-11-12T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtute seaduse muutmise seaduse eelnõu  -114 SE- esimese lugemise arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bd293c0d-b445-a25a-9c54-b59b87443fde"
+    },
+    {
+      "order": 2,
+      "title": "Riigipiiri seaduse ning väljasõidukohustuse ja sissesõidukeelu seaduse muutmise seaduse eelnõu -117 SE- teise lugemise jätkamise arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "46320223-df70-4904-797c-4c0f7bfc5f69"
+    },
+    {
+      "order": 3,
+      "title": "Riigikogu otsus „Riigikogu julgeolekuasutuste järelevalve komisjoni moodustamine” muutmine eelnõu -132 OE- teise lugemise arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "158f8a85-2c11-03ad-67f3-a45fa531408e"
+    },
+    {
+      "order": 4,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9dec2286-3c93-d656-5172-e6b2f2259b45"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 12.11.2007",
+      "uuid": "9427c5ef-105b-b981-9b4e-3095a354e055",
+      "files": [
+        "Põhiseaduskomisjon_istungi_protokoll_46_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "8a86762b-eeac-fc5c-e650-97f3774e4238",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8a86762b-eeac-fc5c-e650-97f3774e4238)",
+  "source": "https://api.riigikogu.ee/api/volumes/8a86762b-eeac-fc5c-e650-97f3774e4238",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-11-01&endDate=2007-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
