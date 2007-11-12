@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-11-12T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine sihtasutuse Haraka Kodu esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5732a3f1-fa36-5012-fc80-99c2e5e84141"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine Eesti  Seksuaaltervise Liidu esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5511cf7f-847a-6ebd-d2c9-6bfa10571097"
+    },
+    {
+      "order": 3,
+      "title": "Kohtumine Võrumaa sotsiaaltöötajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1036e96f-3cce-f63d-9191-92b83c3cdeeb"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 12.11.2007",
+      "uuid": "0d53ca36-9787-70e9-1c1d-415a60fc9872",
+      "files": [
+        "Sotsiaalkomisjon_istungi_protokoll_46_2007.odt",
+        "Sotsiaalkomisjon_paevakord_12_11_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "eef21546-3019-e835-b170-c02058643e54",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid eef21546-3019-e835-b170-c02058643e54)",
+  "source": "https://api.riigikogu.ee/api/volumes/eef21546-3019-e835-b170-c02058643e54",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-11-01&endDate=2007-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
