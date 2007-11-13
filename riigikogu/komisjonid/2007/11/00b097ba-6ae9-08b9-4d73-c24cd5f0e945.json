@@ -1,0 +1,33 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-11-13T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väljasõiduistung Akadeemias Nord ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "883d1d6a-2ee8-1081-fdb8-7cbbf1ca7e5a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 13.11.2007",
+      "uuid": "29d0927a-7f48-4d5b-37c2-1a31ad4bcf80",
+      "files": [
+        "Kultuurikomisjon_istungi_protokoll_46_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "00b097ba-6ae9-08b9-4d73-c24cd5f0e945",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 00b097ba-6ae9-08b9-4d73-c24cd5f0e945)",
+  "source": "https://api.riigikogu.ee/api/volumes/00b097ba-6ae9-08b9-4d73-c24cd5f0e945",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-11-01&endDate=2007-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
