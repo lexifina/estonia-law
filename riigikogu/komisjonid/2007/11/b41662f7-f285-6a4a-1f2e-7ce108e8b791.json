@@ -1,0 +1,33 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-11-15T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väljasõiduistung Eesti Põllumajandus-Kaubanduskojas",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d208d2ba-38f9-b323-fa17-5b2546cf9d09"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 15.11.2007",
+      "uuid": "6e98d50c-e517-468d-d796-e7224ecd5e00",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_46_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "b41662f7-f285-6a4a-1f2e-7ce108e8b791",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b41662f7-f285-6a4a-1f2e-7ce108e8b791)",
+  "source": "https://api.riigikogu.ee/api/volumes/b41662f7-f285-6a4a-1f2e-7ce108e8b791",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-11-01&endDate=2007-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
