@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-11-15T14:40:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Rahvusvahelise Aatomienergiaagentuuri eesõiguste ja puutumatuse kokkuleppe heakskiitmise seadus [138 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ef812381-819d-baa4-655a-248bf4bf07c9"
+    },
+    {
+      "order": 2,
+      "title": "Alkoholiseaduse muutmise seadus [89 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b8386216-7919-335e-76b0-d94b6cd8836b"
+    },
+    {
+      "order": 3,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "144c665f-950f-1400-43c9-5ada304af5b8"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 15.11.2007",
+      "uuid": "e02e05ef-4214-e7c1-3a65-23356d90a05f",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_46_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "339c69f7-b307-fda7-7957-a797cab466a8",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 339c69f7-b307-fda7-7957-a797cab466a8)",
+  "source": "https://api.riigikogu.ee/api/volumes/339c69f7-b307-fda7-7957-a797cab466a8",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-11-01&endDate=2007-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
