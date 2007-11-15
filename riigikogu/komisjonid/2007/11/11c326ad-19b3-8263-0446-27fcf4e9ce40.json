@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-11-15T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Relvaseaduse, planeerimisseaduse ja päästeseaduse muutmise seadus [101 SE III]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "848c46b1-13c4-eaa4-b9c4-9faa48328210"
+    },
+    {
+      "order": 2,
+      "title": "Kaitseväeteenistuse seaduse muutmise seadus [124 SE III]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "709bdd40-479c-73be-00f2-424983299e96"
+    },
+    {
+      "order": 3,
+      "title": "kell 14.30 kohtumine Eestisse akrediteeritud kaitseatašeedega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a7d86fdd-c3b7-45c1-5979-43b7e93464ec"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 15.11.2007",
+      "uuid": "88218d44-3619-595c-8b1e-d863f36394c5",
+      "files": [
+        "15.11.07.doc"
+      ]
+    }
+  ],
+  "uuid": "11c326ad-19b3-8263-0446-27fcf4e9ce40",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 11c326ad-19b3-8263-0446-27fcf4e9ce40)",
+  "source": "https://api.riigikogu.ee/api/volumes/11c326ad-19b3-8263-0446-27fcf4e9ce40",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-11-01&endDate=2007-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
