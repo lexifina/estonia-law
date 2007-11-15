@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-11-15T00:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Istung toimub 10 minutit pärast Riigikogu istungi lõppu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6fd9d227-596b-f586-e208-61434c400929"
+    },
+    {
+      "order": 2,
+      "title": "Arvamuse andmine ELAKle mitmeaastast finantsraamistikku käsitlevas Euroopa Komisjoni teatises sisalduva Euroopa ülemaailmse navigatsioonisatelliitide süsteemi programmide (EGNOS, GALILEO) ja Euroopa Tehnoloogiainstituudi rahastamist puudutava ettepaneku suhtes",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4d8852b9-fade-95c6-2d54-756148b235f9"
+    },
+    {
+      "order": 3,
+      "title": "Eesti Vabariigi ja Gruusia vahelise tulu- ja kapitalimaksudega topeltmaksustamise vältimise ning maksudest hoidumise tõkestamise lepingu ja selle juurde kuuluva protokolli ratifitseerimise seadus [119 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e3506c61-69c7-c21d-259d-49f4045b580b"
+    },
+    {
+      "order": 4,
+      "title": "Riigikogu otsuse \"Audiitori nimetamine Riigikontrolli 2007. aasta tegevuse kontrollimiseks\" eelnõu algatamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "66f4763b-de3a-9032-f71a-14f294b8c4fe"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 15.11.2007",
+      "uuid": "00484cb5-a45e-152f-3274-80b2fe83e002",
+      "files": [
+        "Rahanduskomisjon_istungi_protokoll_46_2007.odt",
+        "Rahanduskomisjon_paevakord_15_11_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "4d87ea7d-d372-e456-1cd2-c33a41591f4f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 4d87ea7d-d372-e456-1cd2-c33a41591f4f)",
+  "source": "https://api.riigikogu.ee/api/volumes/4d87ea7d-d372-e456-1cd2-c33a41591f4f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-11-01&endDate=2007-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
