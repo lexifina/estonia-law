@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-11-19T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väliskomisjoni 9. töönädala töökava kinnitamine.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fdd0457e-71eb-8e3f-7942-d408f08048c2"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade olukorrast Kasahstanis.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "74b88746-b03d-72d6-f86d-5dd47844d14a"
+    },
+    {
+      "order": 3,
+      "title": "Informatsioon komisjoni liikmete tegevusest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "131f54a1-7597-7b15-1c7d-6846a7bf1bbc"
+    },
+    {
+      "order": 4,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "de69ad39-f511-70d7-870b-e853993e63c5"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 19.11.2007",
+      "uuid": "8b4fa20b-c6f7-ca48-55d6-7c4c5d7da48b",
+      "files": [
+        "Väliskomisjon_istungi_protokoll_47_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "7d314f72-0b24-a1cd-74f9-784923390671",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7d314f72-0b24-a1cd-74f9-784923390671)",
+  "source": "https://api.riigikogu.ee/api/volumes/7d314f72-0b24-a1cd-74f9-784923390671",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-11-01&endDate=2007-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
