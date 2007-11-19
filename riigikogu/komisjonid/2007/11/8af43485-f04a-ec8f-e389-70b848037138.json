@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-11-19T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine haridus- ja teadusministriga. Teema: uus rahastamismudel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1ef42707-b900-7e4a-66fa-9f4d0fdd662b"
+    },
+    {
+      "order": 2,
+      "title": "Põhikooli- ja gümnaasiumiseaduse ning kutseõppeasutuse seaduse muutmise seadus [115 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6b7f42f8-a41e-72e6-4fd5-e42bef19b46e"
+    },
+    {
+      "order": 3,
+      "title": "Kultuuriväärtuste väljaveo, ekspordi ja sisseveo seadus [78 SE II-2]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c33b1379-8db5-d0bf-87a1-fd30500c8d3d"
+    },
+    {
+      "order": 4,
+      "title": "Info, kirjad",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fc5cf07a-1a94-adbd-48ce-dff64d0a86fc"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 19.11.2007",
+      "uuid": "675c5126-f47a-2c3c-2a4c-f3837ceb3a2d",
+      "files": [
+        "Kultuurikomisjon_istungi_protokoll_47_2007.odt",
+        "Kultuurikomisjon_paevakord_19_11_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "8af43485-f04a-ec8f-e389-70b848037138",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8af43485-f04a-ec8f-e389-70b848037138)",
+  "source": "https://api.riigikogu.ee/api/volumes/8af43485-f04a-ec8f-e389-70b848037138",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-11-01&endDate=2007-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
