@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-11-19T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Elatisabi seaduse muutmise seadus [156 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "eb3857ed-c179-ad92-5318-769b4bae2145"
+    },
+    {
+      "order": 2,
+      "title": "Lähetused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bcc84148-d611-0ea3-18a4-db29a2c74d01"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 19.11.2007",
+      "uuid": "7cd8df25-c0a9-75dc-0c58-ca042d471173",
+      "files": [
+        "Sotsiaalkomisjon_istungi_protokoll_47_2007.odt",
+        "Sotsiaalkomisjon_paevakord_19_11_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "b0db3c51-d4b0-76a4-8504-848afa4ebf82",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b0db3c51-d4b0-76a4-8504-848afa4ebf82)",
+  "source": "https://api.riigikogu.ee/api/volumes/b0db3c51-d4b0-76a4-8504-848afa4ebf82",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-11-01&endDate=2007-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
