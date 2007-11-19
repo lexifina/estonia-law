@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-11-19T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ühisistung majanduskomisjoniga. Ülevaade Eesti majanduse olukorrast ja prognoosidest. Ettekande teeb Eesti Panga asepresident Andres Sutt",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "08dfc637-ee63-f7df-8f25-df7f9653fbdc"
+    },
+    {
+      "order": 2,
+      "title": "Kell 13.30 ühisistung riigieelarve kontrolli komisjoniga. Ülevaade Euroopa Kontrollikoja aastaaruandest. Ettekandja Kersti Kaljulaid",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "11dc1775-c830-f459-dc9b-fbcdd3d166cb"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 19.11.2007",
+      "uuid": "5577b5b0-28e6-8249-d9c6-31ddfb508606",
+      "files": [
+        "Rahanduskomisjon_istungi_protokoll_47_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "29574d53-431c-c7fe-5325-74d7bccd56f5",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 29574d53-431c-c7fe-5325-74d7bccd56f5)",
+  "source": "https://api.riigikogu.ee/api/volumes/29574d53-431c-c7fe-5325-74d7bccd56f5",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-11-01&endDate=2007-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
