@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-11-19T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "699fe450-b968-1a7c-7cd8-965fa126a0b2"
+    },
+    {
+      "order": 2,
+      "title": "Maaelu arengukava (MAK) 2007 - 2013",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "00afda56-8c5c-8fc4-b6ac-281020f1b397"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 19.11.2007",
+      "uuid": "3e524eeb-1d9d-77e4-4d38-4c558c502109",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_47_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "80f2e356-a2ac-f943-ff4a-8c30fb2f27af",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 80f2e356-a2ac-f943-ff4a-8c30fb2f27af)",
+  "source": "https://api.riigikogu.ee/api/volumes/80f2e356-a2ac-f943-ff4a-8c30fb2f27af",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-11-01&endDate=2007-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
