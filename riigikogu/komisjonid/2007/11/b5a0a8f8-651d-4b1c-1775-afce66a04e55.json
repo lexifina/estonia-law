@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-11-19T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Keskkonnakomisjoni töökava",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d934e2bf-cd52-b94d-b253-bca34c6083ad"
+    },
+    {
+      "order": 2,
+      "title": "Eesti Kalaliidu 02.11.2007 kiri nr 764 ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "16960172-d212-644c-aea1-f6eb6c630f02"
+    },
+    {
+      "order": 3,
+      "title": " Peipsi Alamvesikonna Kalurite Liidu kiri ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "85245d75-24e4-5584-0c0a-5a8730f4f777"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 19.11.2007",
+      "uuid": "2033c73e-0036-7eb0-cb25-e914df2cdd08",
+      "files": [
+        "Keskkonnakomisjon_istungi_protokoll_47_2007.odt",
+        "Keskkonnakomisjon_paevakord_19_11_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "b5a0a8f8-651d-4b1c-1775-afce66a04e55",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b5a0a8f8-651d-4b1c-1775-afce66a04e55)",
+  "source": "https://api.riigikogu.ee/api/volumes/b5a0a8f8-651d-4b1c-1775-afce66a04e55",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-11-01&endDate=2007-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
