@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-11-20T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikogu otsus \"Eesti kaitseväe kasutamise tähtaja pikendamine Eesti riigi rahvusvaheliste kohustuste täitmisel rahvusvahelisel rahutagamismissioonil Bosnias ja Hertsegoviinas\" [142 OE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "99ba3825-3e9a-e6d0-974a-c940c49638ff"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu otsus \"Eesti kaitseväe kasutamise tähtaja pikendamine Eesti riigi rahvusvaheliste kohustuste täitmisel rahvusvahelisel rahutagamismissioonil Afganistanis\" [141 OE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b3e8a1cb-033f-1530-aaa2-40348dee26c6"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 20.11.2007",
+      "uuid": "15e0d8bf-bd4c-4a26-c01f-e77d9c7295b9",
+      "files": [
+        "20.11.07.doc",
+        "Riigikaitsekomisjon_paevakord_19_11_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "27b090f3-0fcc-298e-ae55-a7581048f4a1",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 27b090f3-0fcc-298e-ae55-a7581048f4a1)",
+  "source": "https://api.riigikogu.ee/api/volumes/27b090f3-0fcc-298e-ae55-a7581048f4a1",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-11-01&endDate=2007-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
