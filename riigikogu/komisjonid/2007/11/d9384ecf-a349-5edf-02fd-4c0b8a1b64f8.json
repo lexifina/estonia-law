@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-11-20T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Reklaamiseadus [135 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "41042aa2-be0b-5667-581d-49340aa39dbc"
+    },
+    {
+      "order": 2,
+      "title": "Transiidikomisjoni ekspertrühma aruande ärakuulamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fbff7f1c-a507-c14e-3440-1925bcbdeb85"
+    },
+    {
+      "order": 3,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c0a796c7-6901-faf3-2573-8816f70c4acc"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 20.11.2007",
+      "uuid": "994d5abb-d394-224c-4f9a-219faa9fc631",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_47_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "d9384ecf-a349-5edf-02fd-4c0b8a1b64f8",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d9384ecf-a349-5edf-02fd-4c0b8a1b64f8)",
+  "source": "https://api.riigikogu.ee/api/volumes/d9384ecf-a349-5edf-02fd-4c0b8a1b64f8",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-11-01&endDate=2007-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
