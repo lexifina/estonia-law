@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-11-20T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti eestistumine Balti Assamblees 2008. aastal. ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c80f38f2-2452-325e-623a-f3e3a08c9e76"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ff4eeda6-db69-2a0b-bebb-9136fc149ceb"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 20.11.2007",
+      "uuid": "3b6939a3-36fe-7f81-90f1-d507d81634b5",
+      "files": [
+        "Väliskomisjon_istungi_protokoll_47_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "d4fe670d-a130-0183-5c43-815b9753d391",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d4fe670d-a130-0183-5c43-815b9753d391)",
+  "source": "https://api.riigikogu.ee/api/volumes/d4fe670d-a130-0183-5c43-815b9753d391",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-11-01&endDate=2007-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
