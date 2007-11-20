@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-11-20T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Koolieelse lasteasutuse seaduse muutmise seadus [116 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b47f151d-a247-d3c1-6fea-bf60eb93c03c"
+    },
+    {
+      "order": 2,
+      "title": "Kultuurikomisjoni algatatava õppetoetuste ja õppelaenu seaduse muutmise seaduse eelnõu tekstide ülevaatamine. Arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3eb45db4-2c2c-2aa6-4733-3dc24e730c32"
+    },
+    {
+      "order": 3,
+      "title": "Info, kirjad",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "96428402-b223-f24e-c0bb-df8ccdbbde49"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 20.11.2007",
+      "uuid": "66da8f38-3005-3a84-2fea-e96145adb635",
+      "files": [
+        "Kultuurikomisjon_paevakord_20_11_2007.odt",
+        "Kultuurikomisjon_istungi_protokoll_47_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "6a7de3e1-5ac4-3e02-747c-75494eea24a6",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 6a7de3e1-5ac4-3e02-747c-75494eea24a6)",
+  "source": "https://api.riigikogu.ee/api/volumes/6a7de3e1-5ac4-3e02-747c-75494eea24a6",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-11-01&endDate=2007-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
