@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-11-20T11:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigi 2007. aasta lisaeelarve seadus [121 SE III]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e1daa6ed-17a4-832c-aa30-fd0d3a70af23"
+    },
+    {
+      "order": 2,
+      "title": "Riigilõivuseaduse, maa hindamise seaduse ja maakatastriseaduse muutmise seaduse [154 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ba8d6525-1696-e91c-961e-f621007912eb"
+    },
+    {
+      "order": 3,
+      "title": "Riigikogu otsus \"Riigi 2006. aasta majandusaasta koondaruande kinnitamine\" [120 OE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "807d8100-c102-e14d-30de-736264e161ae"
+    },
+    {
+      "order": 4,
+      "title": "Riigikogu otsuse \"Audiitori nimetamine Riigikontrolli 2007. aasta tegevuse kontrolllimiseks\" eelnõu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7320bd62-564c-37e0-3649-9e52c9f186e6"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 20.11.2007",
+      "uuid": "526df83a-1f57-8e91-39b8-d9cd0bd34d07",
+      "files": [
+        "Rahanduskomisjon_istungi_protokoll_47_2007.odt",
+        "Rahanduskomisjon_paevakord_20_11_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "7e8e290f-1e07-b4ca-a6bc-9c48ae423506",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7e8e290f-1e07-b4ca-a6bc-9c48ae423506)",
+  "source": "https://api.riigikogu.ee/api/volumes/7e8e290f-1e07-b4ca-a6bc-9c48ae423506",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-11-01&endDate=2007-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
