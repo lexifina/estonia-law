@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-11-22T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riiklike peretoetuste seaduse muutmise seadus [136 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3bc5674d-9574-e1d2-df7b-caa4f26b7998"
+    },
+    {
+      "order": 2,
+      "title": "Puhkuseseaduse muutmise seadus [145 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6583ae67-78f1-7806-db1a-2c8b41bd83aa"
+    },
+    {
+      "order": 3,
+      "title": "Puuetega inimeste sotsiaaltoetuste seaduse, riikliku pensionikindlustuse seaduse ja ravikindlustuse seaduse muutmise seadus [159 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a6b844d8-2e72-c4d9-cd15-fed5e2554b68"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 22.11.2007",
+      "uuid": "c49a16f0-6869-eee2-bddc-577ee844156f",
+      "files": [
+        "Sotsiaalkomisjon_istungi_protokoll_47_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "40144945-a737-d604-cca8-22a5cd4e2c90",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 40144945-a737-d604-cca8-22a5cd4e2c90)",
+  "source": "https://api.riigikogu.ee/api/volumes/40144945-a737-d604-cca8-22a5cd4e2c90",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-11-01&endDate=2007-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
