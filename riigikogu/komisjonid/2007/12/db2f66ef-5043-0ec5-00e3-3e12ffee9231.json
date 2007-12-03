@@ -1,0 +1,64 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-12-03T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigi 2007. aasta lisaeelarve seadus [121 SE III]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c6fe00ca-c344-8aa2-1004-9ba755679052"
+    },
+    {
+      "order": 2,
+      "title": "2008. aasta riigieelarve seadus [122 SE III]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "600ef157-7130-ba6c-8cc4-370d24b1aaac"
+    },
+    {
+      "order": 3,
+      "title": "Rahapesu ja terrorismi rahastamise tõkestamise seadus [137 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3045ae9c-06fd-fd20-5f61-6587f00b1ffd"
+    },
+    {
+      "order": 4,
+      "title": "Maamaksuseaduse muutmise seadus [161 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fc89c64c-215c-fd3f-db80-ae84abf4dd7e"
+    },
+    {
+      "order": 5,
+      "title": "Riigilõivuseaduse, maa hindamise seaduse ja maakatastriseaduse muutmise seaduse [154 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4eb79d6c-124c-e719-f948-64c28e985e80"
+    },
+    {
+      "order": 6,
+      "title": "Info",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "64b609a4-23c8-20b8-5b13-ed2d610d5538"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 03.12.2007",
+      "uuid": "321266ec-b116-05cb-b575-137151b67616",
+      "files": [
+        "Rahanduskomisjon_istungi_protokoll_49_2007.odt",
+        "Rahanduskomisjon_paevakord_03_12_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "db2f66ef-5043-0ec5-00e3-3e12ffee9231",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid db2f66ef-5043-0ec5-00e3-3e12ffee9231)",
+  "source": "https://api.riigikogu.ee/api/volumes/db2f66ef-5043-0ec5-00e3-3e12ffee9231",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-12-01&endDate=2007-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
