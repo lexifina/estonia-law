@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-12-03T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Keskkonnakomisjoni töökava",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e668cf1e-156b-6907-4147-65d65e19db8d"
+    },
+    {
+      "order": 2,
+      "title": "Pakendiseaduse § 36 muutmise seadus [127 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4c249824-dc9b-3c06-f88e-adbc8a1ce430"
+    },
+    {
+      "order": 3,
+      "title": "Kohtumine Eesti Jäätmekäitlejate Liidu esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "328913ee-5450-6b5b-034e-e2dcfbde159a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 03.12.2007",
+      "uuid": "679b54b6-d674-6be2-fa2e-fe43d2e11c0e",
+      "files": [
+        "Keskkonnakomisjon_istungi_protokoll_49_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "3efeb9c2-729c-9377-a8d0-e9d8a3b229ce",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3efeb9c2-729c-9377-a8d0-e9d8a3b229ce)",
+  "source": "https://api.riigikogu.ee/api/volumes/3efeb9c2-729c-9377-a8d0-e9d8a3b229ce",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-12-01&endDate=2007-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
