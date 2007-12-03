@@ -1,0 +1,57 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-12-03T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töönädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2fb08c8a-e486-ee48-9343-79af80fa6ac6"
+    },
+    {
+      "order": 2,
+      "title": "Päästeteenistuse seadus [164 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4b873397-572b-c21e-4929-857432381562"
+    },
+    {
+      "order": 3,
+      "title": "Relvaseaduse ja riigilõivuseaduse muutmise seadus [97 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "431ce2ea-9393-b7f9-388b-85c79e9be97a"
+    },
+    {
+      "order": 4,
+      "title": "Prokuratuuriseaduse muutmise seadus [104 SE III]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cbd9ef8a-9edb-5682-c1fb-8b436f196b59"
+    },
+    {
+      "order": 5,
+      "title": "Karistusseadustiku ja väärteomenetluse seadustiku muutmise seadus [106 SE & 74 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "01361d69-f798-1692-5621-cd947c8e1019"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 03.12.2007",
+      "uuid": "b4be6138-d900-8a55-433f-9048fd4c6168",
+      "files": [
+        "iguskomisjon_istungi_protokoll_49_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "84c224d8-6974-21eb-4815-2efa6cb8b298",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 84c224d8-6974-21eb-4815-2efa6cb8b298)",
+  "source": "https://api.riigikogu.ee/api/volumes/84c224d8-6974-21eb-4815-2efa6cb8b298",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-12-01&endDate=2007-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
