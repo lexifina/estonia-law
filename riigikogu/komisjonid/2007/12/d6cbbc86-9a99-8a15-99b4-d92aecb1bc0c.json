@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-12-03T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ff02ada1-ecc1-2a69-9fcd-0f14a7ecfa59"
+    },
+    {
+      "order": 2,
+      "title": "Põllumajandusloomade aretuse seaduse muutmise seadus [94 SE III]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f5b7ba63-a8d5-bc1f-d1e1-986643938b84"
+    },
+    {
+      "order": 3,
+      "title": "Veterinaarkorralduse seaduse ja sellega seonduvate seaduste muutmise seadus [147 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7b1719bc-2e4f-56c5-3672-c2018e366f5e"
+    },
+    {
+      "order": 4,
+      "title": "Euroopa Komisjoni teatis, mis käsitleb EL uut loomatervishoiustrateegiat aastateks 2007–2013. Arvamuse andmine ELAKile",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a0811d88-8cc4-7188-df91-812f474a8de4"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 03.12.2007",
+      "uuid": "f30fd761-2773-62eb-2abd-b3f972241141",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_49_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "d6cbbc86-9a99-8a15-99b4-d92aecb1bc0c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d6cbbc86-9a99-8a15-99b4-d92aecb1bc0c)",
+  "source": "https://api.riigikogu.ee/api/volumes/d6cbbc86-9a99-8a15-99b4-d92aecb1bc0c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-12-01&endDate=2007-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
