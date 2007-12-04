@@ -1,0 +1,33 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-12-04T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väljasõiduistung AS-i Tallinna Sadam",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0c3bc505-1179-a899-da5f-f7392f752c1c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 04.12.2007",
+      "uuid": "b42075a6-b3db-4502-48a2-0e69c23b0508",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_49_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "9d16c4bc-28a9-6b0d-79e2-fabdb5db4810",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9d16c4bc-28a9-6b0d-79e2-fabdb5db4810)",
+  "source": "https://api.riigikogu.ee/api/volumes/9d16c4bc-28a9-6b0d-79e2-fabdb5db4810",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-12-01&endDate=2007-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
