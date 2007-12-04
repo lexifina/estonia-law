@@ -1,0 +1,34 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-12-04T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "2008. aasta riigieelarve seadus [122 SE III]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "45b36437-7be2-e7cd-6273-e4be0843738a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 04.12.2007",
+      "uuid": "b5cb338f-083a-636f-3955-dd0be1aa6ac6",
+      "files": [
+        "Rahanduskomisjon_istungi_protokoll_49_2007.odt",
+        "Rahanduskomisjon_paevakord_04_12_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "e2f09954-dd8a-853d-28b0-b2c5ff4d8aea",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e2f09954-dd8a-853d-28b0-b2c5ff4d8aea)",
+  "source": "https://api.riigikogu.ee/api/volumes/e2f09954-dd8a-853d-28b0-b2c5ff4d8aea",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-12-01&endDate=2007-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
