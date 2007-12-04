@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-12-04T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Uuringu \"Isad ja lapsehoolduspuhkus Eestis! tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7b5db152-9e5f-1208-4a0c-1788a1003986"
+    },
+    {
+      "order": 2,
+      "title": "Riiklike peretoetuste seaduse muutmise seadus [136 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5f1c7d2e-cb04-1f36-6eac-2fce73c57fc6"
+    },
+    {
+      "order": 3,
+      "title": "Puhkuseseaduse muutmise seadus [145 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1e641c3a-36db-09d3-292c-d67a0ce7e452"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 04.12.2007",
+      "uuid": "89193f90-2867-a996-95a0-a5dbc67a64aa",
+      "files": [
+        "Sotsiaalkomisjon_istungi_protokoll_49_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "604ca5f6-abcd-88a2-5a38-75eb875307d3",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 604ca5f6-abcd-88a2-5a38-75eb875307d3)",
+  "source": "https://api.riigikogu.ee/api/volumes/604ca5f6-abcd-88a2-5a38-75eb875307d3",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-12-01&endDate=2007-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
