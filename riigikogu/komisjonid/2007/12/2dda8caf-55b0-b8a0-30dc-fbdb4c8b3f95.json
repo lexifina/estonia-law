@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-12-04T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Soolise võrdõiguslikkuse voliniku aastaülevaate 2005/2006 arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f3f95d02-49ef-b64e-6a88-de8d1e8729b6"
+    },
+    {
+      "order": 2,
+      "title": "Võrdse kohtlemise seaduse eelnõu -67 SE- teise lugemise  jätkamise arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a0541ef6-d819-60c3-7930-6fb8973e8e07"
+    },
+    {
+      "order": 3,
+      "title": "Sihtasutuse Kodanikuühiskond Sihtkapital nõukogusse Riigikogu liikmetest kahe kandidaadi nimetamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0764545d-a4c7-2542-901e-7484e32f15cc"
+    },
+    {
+      "order": 4,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a846a5b5-4401-d1fd-f536-a5ef307085bd"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 04.12.2007",
+      "uuid": "fa7721d0-6494-e506-132d-3d4bd5533cf7",
+      "files": [
+        "Põhiseaduskomisjon_istungi_protokoll_49_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "2dda8caf-55b0-b8a0-30dc-fbdb4c8b3f95",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2dda8caf-55b0-b8a0-30dc-fbdb4c8b3f95)",
+  "source": "https://api.riigikogu.ee/api/volumes/2dda8caf-55b0-b8a0-30dc-fbdb4c8b3f95",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-12-01&endDate=2007-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
