@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-12-06T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kell 9.00. Riigikaitsekomisjoni esimees Mati Raidma kohtub Aserbaidžaani kaitseministri kindralkolonel Safar Abiyev’iga. Kohtumisel osaleb ka Aserbaidžaani suursaadik Tofic Zulfugarov.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "83850d18-c40c-c020-5f84-a0e846d6d166"
+    },
+    {
+      "order": 2,
+      "title": "Arutelu võimalikest muudatustest kaitseväeteenistuse seaduses",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "98c38f0a-93ec-5f55-1222-3718add2bb6f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 06.12.2007",
+      "uuid": "60cc8ee9-7615-e7b2-e44f-ff93764a25c5",
+      "files": [
+        "Riigikaitsekomisjon_paevakord_06_12_2007.odt",
+        "06.12.07.doc"
+      ]
+    }
+  ],
+  "uuid": "506d6b4b-e9ca-4cf9-639d-db606216fd91",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 506d6b4b-e9ca-4cf9-639d-db606216fd91)",
+  "source": "https://api.riigikogu.ee/api/volumes/506d6b4b-e9ca-4cf9-639d-db606216fd91",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-12-01&endDate=2007-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
