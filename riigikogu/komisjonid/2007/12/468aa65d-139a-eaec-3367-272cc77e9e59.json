@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-12-07T10:45:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Seisukoha andmine: Euroopa Komisjoni teatis, mis käsitleb Euroopa Liidu uut loomatervishoiustrateegiat aastateks 2007–2013: \"Haiguste ennetamine on parem kui ravi\" KOM(2007)539.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "341456fd-5df3-2dbe-53f6-8dd43376abfd"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad 10.-11. detsembril toimuval üldasjade ja välissuhete nõukogu kohtumisel (ühisistung väliskomisjoniga).",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "aa4c3eaf-6986-d87c-6d2b-8c96149800a3"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 07.12.2007",
+      "uuid": "d50e2ba4-b6fa-2020-f94b-9687ed81b40f",
+      "files": [
+        "Euroopa Liidu asjade komisjon_istungi_protokoll_49_2007.odt",
+        "Euroopa Liidu asjade komisjon_paevakord_07_12_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "468aa65d-139a-eaec-3367-272cc77e9e59",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 468aa65d-139a-eaec-3367-272cc77e9e59)",
+  "source": "https://api.riigikogu.ee/api/volumes/468aa65d-139a-eaec-3367-272cc77e9e59",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-12-01&endDate=2007-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
