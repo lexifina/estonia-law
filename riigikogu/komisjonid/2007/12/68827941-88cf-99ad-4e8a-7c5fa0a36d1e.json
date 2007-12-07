@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-12-07T10:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Euroopa Parlamendi liikme Toomas Saviga.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ec2d8bf2-a1b4-a961-201f-5d06593b23f3"
+    },
+    {
+      "order": 2,
+      "title": "Väliskomisjoni ja ELAKi ühisistung: Eesti seisukohad 10.-11. detsembril 2007 toimuval Euroopa Liidu üldasjade ja välissuhete nõukogu istungil.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "685648e2-fcca-2042-afdb-607563eee11c"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "aba9fe4d-7bd9-3d5d-6a7a-e413ada60662"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 07.12.2007",
+      "uuid": "8f39fb15-773c-55f9-435f-34dd2b3ae42a",
+      "files": [
+        "07.12.07 (45, 46) yhis.doc",
+        "Väliskomisjon_paevakord_07_12_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "68827941-88cf-99ad-4e8a-7c5fa0a36d1e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 68827941-88cf-99ad-4e8a-7c5fa0a36d1e)",
+  "source": "https://api.riigikogu.ee/api/volumes/68827941-88cf-99ad-4e8a-7c5fa0a36d1e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-12-01&endDate=2007-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
