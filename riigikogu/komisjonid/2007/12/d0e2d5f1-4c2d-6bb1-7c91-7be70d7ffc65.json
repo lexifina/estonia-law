@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-12-10T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väliskomisjoni 11. töönädala töökava kinnitamine.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3a2c60f6-de89-db52-86bd-08e9b86b0201"
+    },
+    {
+      "order": 2,
+      "title": "Euroopa Komisjoni 2008. aasta tööprogramm. ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dd904b1d-f484-fe88-ddba-094649f2c6dc"
+    },
+    {
+      "order": 3,
+      "title": "Eesti seisukohad 14. detsembril 2007 toimuval Euroopa Ülemkogul. ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "605ae44f-66a9-4de8-9332-23ec27893e35"
+    },
+    {
+      "order": 4,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "621aeac4-74e4-ec41-8a50-676ddf9f62c9"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 10.12.2007",
+      "uuid": "74c8d0b8-10b8-a5a8-cccb-b0c99166991a",
+      "files": [
+        "Väliskomisjon_istungi_protokoll_50_2007.odt",
+        "Väliskomisjon_paevakord_10_12_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "d0e2d5f1-4c2d-6bb1-7c91-7be70d7ffc65",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d0e2d5f1-4c2d-6bb1-7c91-7be70d7ffc65)",
+  "source": "https://api.riigikogu.ee/api/volumes/d0e2d5f1-4c2d-6bb1-7c91-7be70d7ffc65",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-12-01&endDate=2007-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
