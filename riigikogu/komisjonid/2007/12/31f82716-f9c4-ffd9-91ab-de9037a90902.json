@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-12-10T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Keskkonnakomisjoni töökava",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "58166e07-cfb1-c90b-ea72-6d203127e806"
+    },
+    {
+      "order": 2,
+      "title": "Euroopa Komisjoni roheline raamat „Kliimamuutustega kohanemine Euroopas- võimalused Euroopa Liidu meetmete võtmiseks”",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5281972a-184f-a27e-07bb-c900d0459709"
+    },
+    {
+      "order": 3,
+      "title": "Jooksvad küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c2938d65-e879-2bcf-3c1d-43b2d385afcc"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 10.12.2007",
+      "uuid": "a9e61457-dcc1-c412-9968-bdc5e8cd9fce",
+      "files": [
+        "Keskkonnakomisjon_paevakord_10_12_2007.odt",
+        "Keskkonnakomisjon_istungi_protokoll_50_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "31f82716-f9c4-ffd9-91ab-de9037a90902",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 31f82716-f9c4-ffd9-91ab-de9037a90902)",
+  "source": "https://api.riigikogu.ee/api/volumes/31f82716-f9c4-ffd9-91ab-de9037a90902",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-12-01&endDate=2007-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
