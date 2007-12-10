@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-12-10T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Võrdse kohtlemise seaduse eelnõu -67 SE- teise lugemise  jätkamise arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c7a5b2d6-5238-a68e-7cb3-2f8c8c0a3dab"
+    },
+    {
+      "order": 2,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0d3d450c-ef47-02fe-5896-30f40f2728b3"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 10.12.2007",
+      "uuid": "7e87d549-5736-d17d-920c-331d2a473fb3",
+      "files": [
+        "Põhiseaduskomisjon_istungi_protokoll_50_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "8bf755da-5e2e-e3ab-6ebd-9582108dcfc4",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8bf755da-5e2e-e3ab-6ebd-9582108dcfc4)",
+  "source": "https://api.riigikogu.ee/api/volumes/8bf755da-5e2e-e3ab-6ebd-9582108dcfc4",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-12-01&endDate=2007-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
