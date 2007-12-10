@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-12-10T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kultuuriväärtuste väljaveo, ekspordi ja sisseveo seadus [78 SE II-2]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "049b1f24-3118-59ea-cbed-bd080463150a"
+    },
+    {
+      "order": 2,
+      "title": "Info, kirjad",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fe8785bf-be74-3234-5007-da17c7bc494d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 10.12.2007",
+      "uuid": "7d413922-1981-9d48-eb00-63bb25e5637e",
+      "files": [
+        "Kultuurikomisjon_istungi_protokoll_50_2007.odt",
+        "Kultuurikomisjon_paevakord_10_12_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "a55c7dc0-c47d-cf96-971c-c0fad174432f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a55c7dc0-c47d-cf96-971c-c0fad174432f)",
+  "source": "https://api.riigikogu.ee/api/volumes/a55c7dc0-c47d-cf96-971c-c0fad174432f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-12-01&endDate=2007-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
