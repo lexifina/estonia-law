@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-12-11T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Reklaamiseaduse muutmise seadus [128 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "180433d3-595e-7fdf-052e-001a80f24cab"
+    },
+    {
+      "order": 2,
+      "title": "Kaubandustegevuse seaduse, majandustegevuse registri seaduse ja nendega seonduvalt teiste seaduste muutmise seadus [150 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4f0cc936-eda4-3767-8a29-89a031dc4dd1"
+    },
+    {
+      "order": 3,
+      "title": "Kohtumine nelja ministeeriumi esindajatega: piiriületusjärjekorrad ja riigi võimalused tekkinud ebanormaalse olukorra normaliseerimiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "658f8c7e-3b01-bf39-7a62-6e9c0c7c1470"
+    },
+    {
+      "order": 4,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3697f1b2-9a31-17ad-fab7-127a2c3d96bf"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 11.12.2007",
+      "uuid": "b3a624b9-2abf-b23c-489a-d8204e083775",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_50_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "4af6d9d7-24c2-ac44-4748-4e15bb68f6bd",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 4af6d9d7-24c2-ac44-4748-4e15bb68f6bd)",
+  "source": "https://api.riigikogu.ee/api/volumes/4af6d9d7-24c2-ac44-4748-4e15bb68f6bd",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-12-01&endDate=2007-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
