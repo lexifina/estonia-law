@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-12-11T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Karistuspoliitika  küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fbdbd05f-6eb9-0793-259b-1c76ce524f3b"
+    },
+    {
+      "order": 2,
+      "title": "Arvamuse andmine ELAK-le",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9eca9964-4db2-bca4-b4ec-a7a288973458"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 11.12.2007",
+      "uuid": "07a76560-a2d8-64c8-2a4b-f03a5fd3fd3e",
+      "files": [
+        "Õiguskomisjon_istungi_protokoll_50_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "2eb3f628-0e77-3384-d141-2eb9b1056f25",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2eb3f628-0e77-3384-d141-2eb9b1056f25)",
+  "source": "https://api.riigikogu.ee/api/volumes/2eb3f628-0e77-3384-d141-2eb9b1056f25",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-12-01&endDate=2007-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
