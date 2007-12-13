@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-12-13T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade Eesti tegevusest soome-ugri hõimurahvaste toetamisel. ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a51a0ca2-d000-8da7-d8a3-6501e06bd001"
+    },
+    {
+      "order": 2,
+      "title": "Informatsioon komisjoni liikmete tegevusest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e8f2dfae-efac-302f-d74a-e3ab066ba5a7"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e4377d28-0a96-b70e-298a-14117db4c721"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 13.12.2007",
+      "uuid": "5b2e7051-e627-87ba-6335-65eb56fab80d",
+      "files": [
+        "Väliskomisjon_istungi_protokoll_50_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "8017e8d5-2ff4-7093-31db-717bbdf318a5",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8017e8d5-2ff4-7093-31db-717bbdf318a5)",
+  "source": "https://api.riigikogu.ee/api/volumes/8017e8d5-2ff4-7093-31db-717bbdf318a5",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-12-01&endDate=2007-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
