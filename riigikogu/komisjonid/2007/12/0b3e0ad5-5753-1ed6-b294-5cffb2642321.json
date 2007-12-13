@@ -1,0 +1,34 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-12-13T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Keskkonnakomisjoni väljasõiduistung teemal keskkonnakomisjoni suhted avalikkusega: avalike suhete arendamise hetkeseis ja tulevikuvõimalused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a30252e2-0ba9-81c9-12f2-81e4bcce5e66"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 13.12.2007",
+      "uuid": "2239c84d-9ef4-ed4b-c4b0-25d9a42bd48d",
+      "files": [
+        "Keskkonnakomisjon_istungi_protokoll_50_2007.odt",
+        "Keskkonnakomisjon_paevakord_13_12_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "0b3e0ad5-5753-1ed6-b294-5cffb2642321",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0b3e0ad5-5753-1ed6-b294-5cffb2642321)",
+  "source": "https://api.riigikogu.ee/api/volumes/0b3e0ad5-5753-1ed6-b294-5cffb2642321",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-12-01&endDate=2007-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
