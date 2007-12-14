@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-12-14T10:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 17.-19. detsembril toimuval põllumajanduse ja kalanduse nõukogu kohtumisel. ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f41bd36c-c728-0e4b-8ae4-d9bc2c51e9bb"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad 20. detsembril toimuval keskkonnanõukogu kohtumisel.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7166dbf3-63e2-1818-29a2-659ea8ddb0ed"
+    },
+    {
+      "order": 3,
+      "title": "EL asjade komisjoni 2008. aasta tööplaan.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f580cc53-dae0-24f4-0ce7-1a3917a78962"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 14.12.2007",
+      "uuid": "a565db16-63c3-7102-befd-59ddba3e7625",
+      "files": [
+        "Euroopa Liidu asjade komisjon_istungi_protokoll_50_2007.odt",
+        "Euroopa Liidu asjade komisjon_paevakord_14_12_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "b43e2541-7a36-a34f-9e39-5f03b56b0d4b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b43e2541-7a36-a34f-9e39-5f03b56b0d4b)",
+  "source": "https://api.riigikogu.ee/api/volumes/b43e2541-7a36-a34f-9e39-5f03b56b0d4b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-12-01&endDate=2007-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
