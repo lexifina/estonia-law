@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-12-17T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "17f4e890-57c9-60a4-18fe-cb24be621d1e"
+    },
+    {
+      "order": 2,
+      "title": "Majanduskomisjoni ja maaelukomisjoni ühisistung: maakondade regionaalarengu ühiskonverentsi \"Eesti mudel\" kokkuvõtted.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "844ecba1-dac8-00ef-033d-90d0b6cf892d"
+    },
+    {
+      "order": 3,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b2464258-ab91-ee87-d69e-ced9cde22bdf"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 17.12.2007",
+      "uuid": "a4e14037-04f3-795c-fbbc-c43ed54b1020",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_51_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "20cb2e61-0b52-8038-a3eb-ed6d2b76e137",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 20cb2e61-0b52-8038-a3eb-ed6d2b76e137)",
+  "source": "https://api.riigikogu.ee/api/volumes/20cb2e61-0b52-8038-a3eb-ed6d2b76e137",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-12-01&endDate=2007-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
