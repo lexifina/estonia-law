@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-12-17T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väliskomisjoni 12. töönädala töökava kinnitamine.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "775b142d-23ed-8769-57f3-94a0e5460a9b"
+    },
+    {
+      "order": 2,
+      "title": "Kosovo staatuse küsimus. ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "24b12dba-33c6-8407-0bcf-b9f9fdba452a"
+    },
+    {
+      "order": 3,
+      "title": "Informatsioon komisjoni liikmete tegevusest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b3e1b995-c149-e312-78b0-253ad6cee5a3"
+    },
+    {
+      "order": 4,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "46a4c777-6a75-3da0-b4f6-382bc9db50ea"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 17.12.2007",
+      "uuid": "0727d4db-ba23-35b8-73a9-404a1d947cb3",
+      "files": [
+        "Väliskomisjon_istungi_protokoll_51_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "a9fc9870-e4c2-4a1d-b205-d42c27adad18",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a9fc9870-e4c2-4a1d-b205-d42c27adad18)",
+  "source": "https://api.riigikogu.ee/api/volumes/a9fc9870-e4c2-4a1d-b205-d42c27adad18",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-12-01&endDate=2007-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
