@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-12-17T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Perekonnaseaduse eelnõu mõjude uuringust",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a5478fe4-198a-332a-882f-ce2d45079d3f"
+    },
+    {
+      "order": 2,
+      "title": "Puuetega inimeste sotsiaaltoetuste seaduse ja sellega seonduvate seaduste muutmise seadus [159 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8981a593-c020-84bd-cd27-ec1e7994f60e"
+    },
+    {
+      "order": 3,
+      "title": "Riikliku pensionikindlustuse seaduse § 61 täiendamise seadus [139 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bdd6facb-ce16-4246-879d-72c55da3c764"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 17.12.2007",
+      "uuid": "1049280b-da96-bede-d8aa-b67a14188a33",
+      "files": [
+        "Sotsiaalkomisjon_istungi_protokoll_51_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "0ce9e241-3527-bc89-5335-77376335d05a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0ce9e241-3527-bc89-5335-77376335d05a)",
+  "source": "https://api.riigikogu.ee/api/volumes/0ce9e241-3527-bc89-5335-77376335d05a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-12-01&endDate=2007-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
