@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-12-17T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Koolieelse lasteasutuse seaduse, erakooliseaduse ning huvikooli seaduse muutmise seadus [165 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f18618fc-2fcd-9cfa-6dfe-24a07a5a8c61"
+    },
+    {
+      "order": 2,
+      "title": "Koolieelse lasteasutuse seaduse § 24 muutmise seadus [152 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ddbdae94-1b7c-9f42-d884-091cc79020b8"
+    },
+    {
+      "order": 3,
+      "title": "Info, kirjad",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c1b1c54f-e220-367f-67e4-fba0c56567a5"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 17.12.2007",
+      "uuid": "71982f2a-0d85-6603-2d31-ba9e87f221d3",
+      "files": [
+        "Kultuurikomisjon_istungi_protokoll_51_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "9f1f17de-1f22-63b6-fa91-09724eb01ed3",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9f1f17de-1f22-63b6-fa91-09724eb01ed3)",
+  "source": "https://api.riigikogu.ee/api/volumes/9f1f17de-1f22-63b6-fa91-09724eb01ed3",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-12-01&endDate=2007-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
