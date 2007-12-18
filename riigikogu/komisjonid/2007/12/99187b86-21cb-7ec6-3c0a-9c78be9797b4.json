@@ -1,0 +1,33 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-12-18T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väljasõiduistung Tallinna Börs ja Eesti Väärtpaberikeskus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f32951c5-30cc-5161-180d-26bcd2997570"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 18.12.2007",
+      "uuid": "05cb77f8-456c-86ba-e321-f8c28f75a22c",
+      "files": [
+        "Rahanduskomisjon_istungi_protokoll_51_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "99187b86-21cb-7ec6-3c0a-9c78be9797b4",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 99187b86-21cb-7ec6-3c0a-9c78be9797b4)",
+  "source": "https://api.riigikogu.ee/api/volumes/99187b86-21cb-7ec6-3c0a-9c78be9797b4",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-12-01&endDate=2007-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
