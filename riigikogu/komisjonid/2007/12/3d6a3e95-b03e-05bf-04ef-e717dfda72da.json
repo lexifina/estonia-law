@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung",
+  "sitting_time": "2007-12-19T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti Panga seaduse muutmise seaduse algatamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "00dd9cbf-3a91-02ad-933a-35ce89157c75"
+    },
+    {
+      "order": 2,
+      "title": "Info",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9cdadcce-cc67-1259-9d30-f2bd2f36aa97"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 19.12.2007",
+      "uuid": "57acb5a8-9cf9-fb11-f9c0-1a1dcf160685",
+      "files": [
+        "Rahanduskomisjon_istungi_protokoll_51_2007.odt"
+      ]
+    }
+  ],
+  "uuid": "3d6a3e95-b03e-05bf-04ef-e717dfda72da",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3d6a3e95-b03e-05bf-04ef-e717dfda72da)",
+  "source": "https://api.riigikogu.ee/api/volumes/3d6a3e95-b03e-05bf-04ef-e717dfda72da",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2007-12-01&endDate=2007-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
