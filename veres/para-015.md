@@ -6,7 +6,7 @@
 
 ).
 
-(2) Vereteenistuse infosüsteem on riiklik register, mida peetakse andmekogude seaduse (RT I 1997, 28, 423; 1998, 36/37, 552; 1999, 10, 155; 2000, 50, 317; 57, 373; 92, 597; 2001, 7, 17; 17, 77; 2002, 61, 375; 63, 387; 2003, 18, 107; 26, 158; 2004, 30, 204) ja käesoleva seaduse alusel. Vereteenistuse infosüsteem koondab ühtseks tervikuks vere käitlemisega seonduvad protsessid, alamregistrid ning muud asjakohased dokumendid.
+(2) Vereteenistuse infosüsteemile ja selle pidamisele kohaldatakse avaliku teabe seaduses ja isikuandmete kaitse seaduses sätestatut käesolevas seaduses sätestatud erisustega. Vereteenistuse infosüsteem koondab ühtseks tervikuks vere käitlemisega seonduvad protsessid, alamregistrid ning muud asjakohased dokumendid.
 
 (3) Vereteenistuse infosüsteemi osadeks on alljärgnevad alamregistrid:
 
@@ -25,8 +25,6 @@
 3) doonorivere uuringute ja verekomponentide kvaliteedinõuete kirjeldused.
 
 (5) Doonorite ja retsipientide andmeid töödeldakse vereteenistuse infosüsteemis isikustatult.
-
-(6) Vereteenistuse infosüsteemi kantavaid andmeid töödeldakse kooskõlas andmekogude seadusega, isikuandmete kaitse seadusega (RT I 2003, 26, 158; 2004, 30, 208) ja teiste õigusaktidega.
 
 (7) Vereteenistuse infosüsteemi vastutav töötleja on Sotsiaalministeerium.
 
