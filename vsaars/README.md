@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/262923> (version in force from 2004-01-01)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/12808278> (version in force from 2008-01-01)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -20,10 +20,12 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/262923> (version in force from 2
 | [§ 9](para-009.md) | Sadamad ja veeteed |
 | [§ 10](para-010.md) | Sideteenused ja elektrienergiaga varustamine |
 | [§ 11](para-011.md) | Korrakaitse ja päästeteenistuste tegevuse koordineerimine |
+| [§ 11¹](para-011b1.md) | Saarevaht |
 | [§ 12](para-012.md) | Saarvaldade ja saarelise osaga valdade täiendav toetus |
 | **4. peatükk MAJANDUS JA LOODUSHOID** | |
 | [§ 13](para-013.md) | Majandustegevuse toetamine saartel |
 | [§ 14](para-014.md) | Loodushoid |
+| [§ 14¹](para-014b1.md) | Kinnisasja ostueesõigus |
 | **5. peatükk LÕPPSÄTTED** | |
-| [§ 15](para-015.md) | Kohaliku omavalitsuse korralduse seaduse muutmine |
+| [§ 15](para-015.md) |  |
 | [§ 16](para-016.md) | Seaduse jõustumine |

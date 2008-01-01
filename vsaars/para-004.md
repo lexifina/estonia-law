@@ -1,10 +1,6 @@
 # § 4. Väikesaarte komisjon
 
-(1) Väikesaarte arenguga seonduvate küsimuste arutamiseks ja Vabariigi Valitsuse nõustamiseks väikesaartele suunatud regionaalpoliitika küsimustes moodustatakse väikesaarte komisjon (edaspidi
-
-*komisjon*
-
-).
+(1) Väikesaarte arenguga seonduvate küsimuste arutamiseks ja Vabariigi Valitsuse nõustamiseks väikesaartele suunatud regionaalpoliitika küsimustes moodustatakse väikesaarte komisjon (edaspidi *komisjon*).
 
 (2) Komisjoni pädevuses on:
 
@@ -14,7 +10,7 @@
 
 3) seisukoha esitamine Vabariigi Valitsusele riigieelarve eelnõu kohta, lähtudes selle võimalikust mõjust väikesaarte arengule;
 
-4) ettepanekute esitamine Vabariigi Valitsusele seaduste muutmiseks ja täiendamiseks väikesaarte arenguga seonduvates küsimustes;
+4) ettepanekute esitamine Vabariigi Valitsusele seoses püsiasustusega väikesaarte nimistu täiendamisega ja püsiasustuse taastamisega;
 
 5) ettepanekute esitamine Vabariigi Valitsusele väikesaarte liikluse ühendusteede ning nendega seotud sadamate ja sadamarajatiste määramiseks;
 
@@ -26,7 +22,7 @@
 
 9) muude põhimäärusega talle pandud ülesannete täitmine.
 
-(3) Komisjoni kuulub hääleõigusega regionaalpoliitika eest vastutav minister, Siseministeeriumi, Keskkonnaministeeriumi, Rahandusministeeriumi ning Majandus- ja Kommunikatsiooniministeeriumi esindaja, kaks maavanemate esindajat, üks iga käesolevas seaduses nimetatud väikesaare esindaja, üks saarte elanike huve esindavate ühingute esindaja ja kaks väikesaarte esindajate kutsutud Riigikogu liiget. Komisjoni koosseisu kinnitab Vabariigi Valitsus.
+(3) Komisjoni kuulub hääleõigusega regionaalminister, Siseministeeriumi, Keskkonnaministeeriumi, Rahandusministeeriumi ning Majandus- ja Kommunikatsiooniministeeriumi esindaja, kaks maavanemate esindajat, üks iga väikesaarte nimekirja kantud saare esindaja, üks saarte elanike huve esindavate ühingute esindaja ja kolm väikesaarte esindajate kutsutud Riigikogu liiget. Komisjoni koosseisu kinnitab Vabariigi Valitsus.
 
 (4) Komisjoni esimees on regionaalpoliitika eest vastutav minister. Komisjon valib oma liikmete hulgast aseesimehe, kes asendab esimeest tema äraolekul. Komisjoni tehnilise teenindamise tagab Siseministeerium.
 
