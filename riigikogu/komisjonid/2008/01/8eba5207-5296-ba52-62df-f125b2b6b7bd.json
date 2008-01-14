@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-01-14T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Keskkonnakomisjoni töökava",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "202a8dd5-29c6-3f08-6523-86a12611ae53"
+    },
+    {
+      "order": 2,
+      "title": "Keskkonnaminister Jaanus Tamkivi ülevaade  2008. aasta õigusloome tööplaani ja aktuaalsete keskkonnaküsimuste kohta",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "91ed4f71-3ae2-176c-f251-0a70bd71bf21"
+    },
+    {
+      "order": 3,
+      "title": "Riigikantselei 20.12.2007 kiri nr 1-4/07-08114 rikkumismenetluste kohta",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "10cbaf4f-2bef-5e65-401b-a73fe36830eb"
+    },
+    {
+      "order": 4,
+      "title": "Jooksvad küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6f5da6e4-5092-01b5-dff7-4052de4c4da1"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 14.01.2008",
+      "uuid": "12ea4a21-4c11-4232-6451-3dc3625e929e",
+      "files": [
+        "Keskkonnakomisjon_istungi_protokoll_03_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "8eba5207-5296-ba52-62df-f125b2b6b7bd",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8eba5207-5296-ba52-62df-f125b2b6b7bd)",
+  "source": "https://api.riigikogu.ee/api/volumes/8eba5207-5296-ba52-62df-f125b2b6b7bd",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-01-01&endDate=2008-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
