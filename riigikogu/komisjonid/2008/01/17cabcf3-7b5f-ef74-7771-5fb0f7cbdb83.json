@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-01-14T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine haridus- ja teadusministri Tõnis Lukasega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c81f77d7-7263-1259-355c-969b3e69f9ce"
+    },
+    {
+      "order": 2,
+      "title": "Autoriõiguse seaduse muutmise seadus [178 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "56d5d4ef-e477-1e18-3fad-1dd0870d9698"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 14.01.2008",
+      "uuid": "60503df0-024a-e712-03ff-f78d6796f1cc",
+      "files": [
+        "Kultuurikomisjon_istungi_protokoll_03_2008.odt",
+        "Kultuurikomisjon_paevakord_14_01_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "17cabcf3-7b5f-ef74-7771-5fb0f7cbdb83",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 17cabcf3-7b5f-ef74-7771-5fb0f7cbdb83)",
+  "source": "https://api.riigikogu.ee/api/volumes/17cabcf3-7b5f-ef74-7771-5fb0f7cbdb83",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-01-01&endDate=2008-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
