@@ -1,0 +1,58 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-01-14T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töönädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d6f4d45b-2e48-0efd-3bd2-0b43d7a7fbee"
+    },
+    {
+      "order": 2,
+      "title": "Pärimisseadus [56 SE II-2]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bf9be570-0261-f3a9-5a62-0fe58ec09da4"
+    },
+    {
+      "order": 3,
+      "title": "Komisjoni kirjavahetus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "60736721-5cb6-37bd-8da5-c8e20162f046"
+    },
+    {
+      "order": 4,
+      "title": "Kriminaalhooldusseaduse, vangistusseaduse ja kohtute seaduse muutmise seadus [169 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "35a5beb7-808d-f52a-7f06-61d0d0987d0d"
+    },
+    {
+      "order": 5,
+      "title": "ELAK-i Arvamus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1b5b3409-35b5-e937-7a47-b2f8cb7c075c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 14.01.2008",
+      "uuid": "8458d924-7231-d539-f8b3-9b2df3537394",
+      "files": [
+        "Õiguskomisjon_paevakord_14_01_2008.odt",
+        "iguskomisjon_istungi_protokoll_03_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "d7a977fe-ecc3-df92-b76f-dff058966c15",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d7a977fe-ecc3-df92-b76f-dff058966c15)",
+  "source": "https://api.riigikogu.ee/api/volumes/d7a977fe-ecc3-df92-b76f-dff058966c15",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-01-01&endDate=2008-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
