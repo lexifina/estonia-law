@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-01-14T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti Panga seaduse muutmise seadus [182 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a676baff-408d-dd30-bc8e-f737d2c988f1"
+    },
+    {
+      "order": 2,
+      "title": "Tulumaksuseaduse muutmise seadus [180 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "973e9295-269f-bb81-5382-3d41ad85d84e"
+    },
+    {
+      "order": 3,
+      "title": "Tulumaksuseaduse muutmise seadus [181 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "40647907-77fd-1064-156d-5066defd5288"
+    },
+    {
+      "order": 4,
+      "title": "Info",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d29149f0-34aa-9313-572c-1dd6fe70a671"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 14.01.2008",
+      "uuid": "1694bae7-36a4-b101-816b-d5f202c787e1",
+      "files": [
+        "Rahanduskomisjon_istungi_protokoll_03_2008.odt",
+        "Rahanduskomisjon_paevakord_14_01_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "17caa7ba-a9b8-45d1-c3cf-bbc4cd622b7d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 17caa7ba-a9b8-45d1-c3cf-bbc4cd622b7d)",
+  "source": "https://api.riigikogu.ee/api/volumes/17caa7ba-a9b8-45d1-c3cf-bbc4cd622b7d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-01-01&endDate=2008-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
