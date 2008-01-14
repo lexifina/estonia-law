@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-01-14T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8b928a39-48d2-2709-74ff-da3d08af765a"
+    },
+    {
+      "order": 2,
+      "title": "Riigipiiri seaduse ning laeva lipuõiguse ja laevaregistrite seaduse muutmise seadus [160 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "06b47720-a19f-f540-7ab5-4bc3d6988052"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 14.01.2008",
+      "uuid": "6def7d31-f28a-3e73-06ad-e3008203022d",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_03_2008.odt",
+        "Maaelukomisjon_paevakord_14_01_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "7106bb8f-9ac0-804c-bdb0-79aa1c30ef46",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7106bb8f-9ac0-804c-bdb0-79aa1c30ef46)",
+  "source": "https://api.riigikogu.ee/api/volumes/7106bb8f-9ac0-804c-bdb0-79aa1c30ef46",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-01-01&endDate=2008-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
