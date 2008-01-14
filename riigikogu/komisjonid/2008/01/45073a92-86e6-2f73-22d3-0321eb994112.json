@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-01-14T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Õiguskantsleri ettekanne nr 1\"Vanemahüvitise ja sünnitushüvitise vahe hüvitamise kohta vanemahüvitise seaduse alusel\"",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "969ac0a7-1f9e-d9de-67de-315f231d6513"
+    },
+    {
+      "order": 2,
+      "title": "Eesti Keskerakonna Seenioride Kogu Läkitus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cd540422-1a54-48dc-e790-8402754d5e3d"
+    },
+    {
+      "order": 3,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a5a00938-7740-be7d-fdbc-2cd97ea58f71"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 14.01.2008",
+      "uuid": "e0eed0e4-2b6f-3a97-dfdb-a500b4af6402",
+      "files": [
+        "Sotsiaalkomisjon_istungi_protokoll_03_2008.odt",
+        "Sotsiaalkomisjon_paevakord_14_01_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "45073a92-86e6-2f73-22d3-0321eb994112",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 45073a92-86e6-2f73-22d3-0321eb994112)",
+  "source": "https://api.riigikogu.ee/api/volumes/45073a92-86e6-2f73-22d3-0321eb994112",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-01-01&endDate=2008-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
