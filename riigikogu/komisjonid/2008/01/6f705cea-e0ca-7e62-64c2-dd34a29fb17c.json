@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-01-14T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Euroopa Komisjoni teatise „Euroopa energiatarbijate õiguste harta” arutelu ja arvamuse esitamine ELAK-le",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bf2acd4a-1cd8-0b0e-c316-a37f16328648"
+    },
+    {
+      "order": 2,
+      "title": "Elamuseaduse muutmise seadus [149 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "98482e06-9e7b-305f-49f4-ec472ec12ea8"
+    },
+    {
+      "order": 3,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f2e1d230-2b81-8c76-ebd7-1bc649f9b89d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 14.01.2008",
+      "uuid": "bde1b617-6445-703c-162f-efd989b366d1",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_03_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "6f705cea-e0ca-7e62-64c2-dd34a29fb17c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 6f705cea-e0ca-7e62-64c2-dd34a29fb17c)",
+  "source": "https://api.riigikogu.ee/api/volumes/6f705cea-e0ca-7e62-64c2-dd34a29fb17c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-01-01&endDate=2008-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
