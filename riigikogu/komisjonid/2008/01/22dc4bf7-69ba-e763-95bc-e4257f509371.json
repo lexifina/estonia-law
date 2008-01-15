@@ -1,0 +1,33 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-01-15T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Tori hobuse aretus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ca2e5ca6-3d99-ac8d-7eee-a531005993d0"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 15.01.2008",
+      "uuid": "1fbdb419-1119-e8c7-6b3b-1829e0b71815",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_03_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "22dc4bf7-69ba-e763-95bc-e4257f509371",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 22dc4bf7-69ba-e763-95bc-e4257f509371)",
+  "source": "https://api.riigikogu.ee/api/volumes/22dc4bf7-69ba-e763-95bc-e4257f509371",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-01-01&endDate=2008-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
