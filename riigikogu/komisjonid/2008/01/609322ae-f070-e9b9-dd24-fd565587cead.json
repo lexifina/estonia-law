@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-01-17T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Õiguskomisjoni liikme Toivo Tootseni lähetus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "11aded87-712a-6c7c-f8b4-5dbbcbde602e"
+    },
+    {
+      "order": 2,
+      "title": "Päästeteenistuse seadus [164 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "75adee38-f94a-edb7-58f9-4e8578ba12bd"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 17.01.2008",
+      "uuid": "d53800d0-be1f-4178-feb0-e197d6187099",
+      "files": [
+        "iguskomisjon_istungi_protokoll_03_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "609322ae-f070-e9b9-dd24-fd565587cead",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 609322ae-f070-e9b9-dd24-fd565587cead)",
+  "source": "https://api.riigikogu.ee/api/volumes/609322ae-f070-e9b9-dd24-fd565587cead",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-01-01&endDate=2008-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
