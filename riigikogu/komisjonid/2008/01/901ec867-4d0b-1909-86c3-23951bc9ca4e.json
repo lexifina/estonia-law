@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-01-21T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Investeerimisfondide seaduse, tagatisfondi seaduse ja väärtpaberituru seaduse muutmise seadus [172 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5e427672-af52-4cc1-9b37-83997424e724"
+    },
+    {
+      "order": 2,
+      "title": "Tulumaksuseaduse muutmise seadus [153 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4a97eb6d-2aef-8230-6c85-2084d27e3f93"
+    },
+    {
+      "order": 3,
+      "title": "Käibemaksuseaduse § 15 täiendamise seadus [155 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "13f97b6b-047c-ab37-7e7b-6d3e1a235bf0"
+    },
+    {
+      "order": 4,
+      "title": "Info",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1b34d62d-b2de-264f-9d4d-dac9168f3b9d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 21.01.2008",
+      "uuid": "c767df68-214b-056a-db5e-f1d8b15c9b03",
+      "files": [
+        "Rahanduskomisjon_paevakord_21_01_2008.odt",
+        "Rahanduskomisjon_istungi_protokoll_04_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "901ec867-4d0b-1909-86c3-23951bc9ca4e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 901ec867-4d0b-1909-86c3-23951bc9ca4e)",
+  "source": "https://api.riigikogu.ee/api/volumes/901ec867-4d0b-1909-86c3-23951bc9ca4e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-01-01&endDate=2008-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
