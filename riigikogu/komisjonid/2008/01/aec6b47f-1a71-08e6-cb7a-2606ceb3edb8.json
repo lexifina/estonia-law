@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-01-21T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kokkuvõte Portugali EL Ministrite Nõukogu eesistumisest. Eesti eesmärgid Sloveenia EL Ministrite Nõukogu eesistumisperioodil (ühisistung väliskomisjoniga).",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "771f78ff-870b-c010-dc1d-43801dfc194d"
+    },
+    {
+      "order": 2,
+      "title": "Seisukoha andmine: Euroopa energiatarbijate õiguste harta.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a9703774-68c9-6fd1-763c-8f9f073b38ff"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 21.01.2008",
+      "uuid": "88d45bf1-b3b5-a162-ec21-ca0ceaf9e0b5",
+      "files": [
+        "Euroopa Liidu asjade komisjon_istungi_protokoll_04_2008.odt",
+        "Euroopa Liidu asjade komisjon_paevakord_21_01_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "aec6b47f-1a71-08e6-cb7a-2606ceb3edb8",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid aec6b47f-1a71-08e6-cb7a-2606ceb3edb8)",
+  "source": "https://api.riigikogu.ee/api/volumes/aec6b47f-1a71-08e6-cb7a-2606ceb3edb8",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-01-01&endDate=2008-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
