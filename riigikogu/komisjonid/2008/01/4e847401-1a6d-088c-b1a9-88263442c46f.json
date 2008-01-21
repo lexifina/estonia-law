@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-01-21T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Huvikooli seaduse, koolieelse lasteasutuse seaduse, kutseõppeasutuse seaduse ning põhikooli- ja gümnaasiumiseaduse muutmise seadus [175 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "42a921ab-6118-d42a-0939-e5978515b76d"
+    },
+    {
+      "order": 2,
+      "title": "Eesti lipu seaduse § 3 muutmise seaduse eelnõu. Arutelu selle võimalikust algatamisest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4b13541f-50c2-2ff7-a33b-0d295b7799aa"
+    },
+    {
+      "order": 3,
+      "title": "Info, kirjad",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8804fe81-325c-782a-4729-b1129a05cc75"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 21.01.2008",
+      "uuid": "a276755d-a786-58fb-1a67-49f28ffe5104",
+      "files": [
+        "Kultuurikomisjon_istungi_protokoll_04_2008.odt",
+        "Kultuurikomisjon_paevakord_21_01_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "4e847401-1a6d-088c-b1a9-88263442c46f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 4e847401-1a6d-088c-b1a9-88263442c46f)",
+  "source": "https://api.riigikogu.ee/api/volumes/4e847401-1a6d-088c-b1a9-88263442c46f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-01-01&endDate=2008-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
