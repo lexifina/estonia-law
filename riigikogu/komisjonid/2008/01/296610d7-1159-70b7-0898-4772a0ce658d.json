@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-01-21T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Sotsiaalhoolekande seaduse, ühistranspordiseaduse ja okupatsioonirežiimide poolt represseeritud isiku seaduse muutmise seadus [151 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5b24ad86-dc37-d9c9-37ab-868657704d18"
+    },
+    {
+      "order": 2,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "59a1cf82-33df-f65b-09a2-dcea073d49a7"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 21.01.2008",
+      "uuid": "7448df25-c10e-6950-fe69-bb71a20b2504",
+      "files": [
+        "Sotsiaalkomisjon_paevakord_21_01_2008.odt",
+        "Sotsiaalkomisjon_istungi_protokoll_04_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "296610d7-1159-70b7-0898-4772a0ce658d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 296610d7-1159-70b7-0898-4772a0ce658d)",
+  "source": "https://api.riigikogu.ee/api/volumes/296610d7-1159-70b7-0898-4772a0ce658d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-01-01&endDate=2008-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
