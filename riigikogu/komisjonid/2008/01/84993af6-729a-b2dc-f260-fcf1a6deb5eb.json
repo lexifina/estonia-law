@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-01-21T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töönädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6b9287f5-e62c-0901-181e-1d6d9ed4e391"
+    },
+    {
+      "order": 2,
+      "title": "Päästeteenistuse seadus [164 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8c7f69e6-74a6-544b-0539-26993304e769"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 21.01.2008",
+      "uuid": "67df52aa-723f-44f2-9679-b6b6c4dc775b",
+      "files": [
+        "iguskomisjon_istungi_protokoll_04_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "84993af6-729a-b2dc-f260-fcf1a6deb5eb",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 84993af6-729a-b2dc-f260-fcf1a6deb5eb)",
+  "source": "https://api.riigikogu.ee/api/volumes/84993af6-729a-b2dc-f260-fcf1a6deb5eb",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-01-01&endDate=2008-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
