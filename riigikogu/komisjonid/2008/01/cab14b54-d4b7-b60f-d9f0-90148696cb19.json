@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-01-21T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7b3c6ae4-fa68-19d8-8384-a52a5e41ce22"
+    },
+    {
+      "order": 2,
+      "title": "Eesti Loomakaitse Seltsi ettepanekud loomakaitset reguleerivate seaduste muutmiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f20e21f6-3903-ba95-941c-cd6f14da0ede"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 21.01.2008",
+      "uuid": "3b808780-a1bd-b4b6-826d-2d0d4ec8d32f",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_04_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "cab14b54-d4b7-b60f-d9f0-90148696cb19",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid cab14b54-d4b7-b60f-d9f0-90148696cb19)",
+  "source": "https://api.riigikogu.ee/api/volumes/cab14b54-d4b7-b60f-d9f0-90148696cb19",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-01-01&endDate=2008-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
