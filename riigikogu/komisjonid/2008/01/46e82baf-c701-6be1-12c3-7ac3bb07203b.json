@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-01-22T12:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Keskkonnakomisjoni töökava",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7a6fe702-8a76-bfae-802a-b83ca8b352ae"
+    },
+    {
+      "order": 2,
+      "title": "Kalapüügiseaduse muutmise seadus [184 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4fd3a6b7-a923-bb32-dc0a-14197c61bcea"
+    },
+    {
+      "order": 3,
+      "title": "Jooksvad küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c9860401-0284-f751-9e5f-b4507d7d2e41"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 22.01.2008",
+      "uuid": "b4dc6a54-d1fd-fd64-ec9c-4f1f3d50e0cc",
+      "files": [
+        "Keskkonnakomisjon_istungi_protokoll_04_2008.odt",
+        "Keskkonnakomisjon_paevakord_22_01_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "46e82baf-c701-6be1-12c3-7ac3bb07203b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 46e82baf-c701-6be1-12c3-7ac3bb07203b)",
+  "source": "https://api.riigikogu.ee/api/volumes/46e82baf-c701-6be1-12c3-7ac3bb07203b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-01-01&endDate=2008-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
