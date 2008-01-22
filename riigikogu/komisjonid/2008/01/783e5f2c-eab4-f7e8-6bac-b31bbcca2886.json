@@ -1,0 +1,33 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-01-22T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väljasõiduistung Põllumajandusuuringute Keskuses",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d654586c-2734-76e6-9220-f39d22d94aaa"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 22.01.2008",
+      "uuid": "8906bb6e-3cf3-922f-8993-2ae6ba5f431b",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_04_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "783e5f2c-eab4-f7e8-6bac-b31bbcca2886",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 783e5f2c-eab4-f7e8-6bac-b31bbcca2886)",
+  "source": "https://api.riigikogu.ee/api/volumes/783e5f2c-eab4-f7e8-6bac-b31bbcca2886",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-01-01&endDate=2008-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
