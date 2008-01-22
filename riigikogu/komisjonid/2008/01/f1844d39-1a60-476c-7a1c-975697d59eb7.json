@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-01-22T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Perekonnaseisutoimingute seadus [68 SE II-1] ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5e7f1cbc-ed90-6f3d-d225-16543d20817d"
+    },
+    {
+      "order": 2,
+      "title": "Arvamuse andmine Riigikohtule",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0bd3f85a-63f6-5c70-366f-a665863af213"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 22.01.2008",
+      "uuid": "788600f9-833c-bab2-593c-345b3eb734ad",
+      "files": [
+        "iguskomisjon_istungi_protokoll_04_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "f1844d39-1a60-476c-7a1c-975697d59eb7",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f1844d39-1a60-476c-7a1c-975697d59eb7)",
+  "source": "https://api.riigikogu.ee/api/volumes/f1844d39-1a60-476c-7a1c-975697d59eb7",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-01-01&endDate=2008-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
