@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-01-24T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtute seaduse muutmise seaduse eelnõu -114 SE- teise lugemise arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f532fcfd-75f6-4913-4742-87c086679b15"
+    },
+    {
+      "order": 2,
+      "title": "Volituse andmise SA Eesti Õiguskeskus lõpetamiseks, arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a1be96ed-69a3-37bf-7d1f-c516cbe27eb6"
+    },
+    {
+      "order": 3,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4f1144ee-a781-1b27-f4d5-3492299f7b52"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 24.01.2008",
+      "uuid": "a60ec637-f12a-bc77-b89e-6b98168950ee",
+      "files": [
+        "Põhiseaduskomisjon_istungi_protokoll_04_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "92bfe7c9-733d-c337-31f2-34392d666efc",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 92bfe7c9-733d-c337-31f2-34392d666efc)",
+  "source": "https://api.riigikogu.ee/api/volumes/92bfe7c9-733d-c337-31f2-34392d666efc",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-01-01&endDate=2008-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
