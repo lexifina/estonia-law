@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-01-25T10:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ühisistung ELAKiga -\tEesti seisukohad 28.-29. jaanuaril 2008 toimuval Euroopa Liidu üldasjade ja välissuhete nõukogu istungil.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "32a9c0db-e00d-84b7-48c2-af9543067374"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9a7b286f-2324-88fb-ffcc-e38c7a6f4fa4"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 25.01.2008",
+      "uuid": "9a5c4337-6797-be70-5438-fb5bd4dd2745",
+      "files": [
+        "Väliskomisjon_istungi_protokoll_04_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "797596de-196e-f30a-ea3d-e5fac0ff13cd",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 797596de-196e-f30a-ea3d-e5fac0ff13cd)",
+  "source": "https://api.riigikogu.ee/api/volumes/797596de-196e-f30a-ea3d-e5fac0ff13cd",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-01-01&endDate=2008-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
