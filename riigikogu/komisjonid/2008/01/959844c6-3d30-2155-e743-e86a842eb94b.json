@@ -1,0 +1,33 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-01-28T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Istungi toimumisest teatatakse täendavalt",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "04c324fc-bfca-e3fc-ebef-91903d2e4e27"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 28.01.2008",
+      "uuid": "88bb3635-dde4-98f1-73aa-7eda3e4258da",
+      "files": [
+        "Rahanduskomisjon_paevakord_28_01_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "959844c6-3d30-2155-e743-e86a842eb94b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 959844c6-3d30-2155-e743-e86a842eb94b)",
+  "source": "https://api.riigikogu.ee/api/volumes/959844c6-3d30-2155-e743-e86a842eb94b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-01-01&endDate=2008-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
