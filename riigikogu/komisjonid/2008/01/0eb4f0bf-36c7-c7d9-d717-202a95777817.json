@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-01-28T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0b7dcf6d-f397-746f-c9e7-36be750de93d"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade WTO läbirääkimistest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c6b8acab-b0c1-b8f1-2988-d6f0d3bccb0a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 28.01.2008",
+      "uuid": "99d0975f-4520-621f-4ad4-31322203b63d",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_05_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "0eb4f0bf-36c7-c7d9-d717-202a95777817",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0eb4f0bf-36c7-c7d9-d717-202a95777817)",
+  "source": "https://api.riigikogu.ee/api/volumes/0eb4f0bf-36c7-c7d9-d717-202a95777817",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-01-01&endDate=2008-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
