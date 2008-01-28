@@ -1,0 +1,58 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-01-28T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töönädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f0551693-82c9-5c30-1570-c5ccdb89cbdc"
+    },
+    {
+      "order": 2,
+      "title": "Liiklusseaduse ja karistusseadustiku ning nendega seonduvate  seaduste muutmise seadus [179 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cd595199-01ec-6c61-915f-7c4ef42c4f4f"
+    },
+    {
+      "order": 3,
+      "title": "Riigipiiri seaduse, karistusseadustiku ja kriminaalmenetluse seadustiku muutmise seadus [185 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6ef444f0-cb84-c71b-8a11-869dc505e313"
+    },
+    {
+      "order": 4,
+      "title": "Äriseadustiku ja Euroopa Liidu Nõukogu määruse (EÜ) nr 2157/2001 \"Euroopa äriühingu (SE) põhikirja kohta\" rakendamise seaduse muutmise seadus [186 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c789cd2c-7f58-058d-7cc7-5f2a0ecdda76"
+    },
+    {
+      "order": 5,
+      "title": "Päästeteenistuse seadus [164 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4da95305-1eeb-0dda-3c59-e44ab48f48e6"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 28.01.2008",
+      "uuid": "0fe83646-ae14-5e85-0288-b64fb1299746",
+      "files": [
+        "iguskomisjon_istungi_protokoll_05_2008.odt",
+        "Õiguskomisjon_paevakord_28_01_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "ed812a4b-535f-7f9c-5aac-356ca56beb3b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ed812a4b-535f-7f9c-5aac-356ca56beb3b)",
+  "source": "https://api.riigikogu.ee/api/volumes/ed812a4b-535f-7f9c-5aac-356ca56beb3b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-01-01&endDate=2008-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
