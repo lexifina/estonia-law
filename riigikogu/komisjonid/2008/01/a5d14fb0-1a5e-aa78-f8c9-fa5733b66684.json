@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-01-28T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kokkuvõte 22. jaanuaril Eesti Teaduste Akadeemias toimunud arutelust",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7e5fd779-be06-d0c7-75e9-c602b3228f90"
+    },
+    {
+      "order": 2,
+      "title": "Info, kirjad",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8de6ba67-9b76-9ca5-7f2b-2d105a4ca5ca"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 28.01.2008",
+      "uuid": "fd6ba424-69bd-64e3-f990-461d597724b8",
+      "files": [
+        "Kultuurikomisjon_istungi_protokoll_05_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "a5d14fb0-1a5e-aa78-f8c9-fa5733b66684",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a5d14fb0-1a5e-aa78-f8c9-fa5733b66684)",
+  "source": "https://api.riigikogu.ee/api/volumes/a5d14fb0-1a5e-aa78-f8c9-fa5733b66684",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-01-01&endDate=2008-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
