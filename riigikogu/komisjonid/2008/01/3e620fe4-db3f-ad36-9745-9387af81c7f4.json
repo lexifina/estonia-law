@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-01-28T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Õiguskantsleri ettepanek nr 1 „Riigikogu liikme staatuse seaduse kooskõlla viimiseks Eesti Vabariigi põhiseadusega”, arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b54db763-19a3-51f4-5428-2e5530d6fd9e"
+    },
+    {
+      "order": 2,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3d62d840-d234-9523-86e3-553a4cdac667"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 28.01.2008",
+      "uuid": "0b42d097-9501-2f9e-904d-a29e613e4f47",
+      "files": [
+        "Põhiseaduskomisjon_istungi_protokoll_05_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "3e620fe4-db3f-ad36-9745-9387af81c7f4",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3e620fe4-db3f-ad36-9745-9387af81c7f4)",
+  "source": "https://api.riigikogu.ee/api/volumes/3e620fe4-db3f-ad36-9745-9387af81c7f4",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-01-01&endDate=2008-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
