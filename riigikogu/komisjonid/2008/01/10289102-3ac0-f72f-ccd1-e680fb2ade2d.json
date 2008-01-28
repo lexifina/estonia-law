@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-01-28T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Keskkonnakomisjoni töökava",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6f555af3-6cec-c5ca-1f08-2497be178364"
+    },
+    {
+      "order": 2,
+      "title": "Keskkonnakomisjoni väljasõiduistung Harjumaa Keskkonnateenistusse",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "26869d79-d39a-2b78-1184-f959fa855e51"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 28.01.2008",
+      "uuid": "74edba26-20e5-8a7d-d265-770c4284e267",
+      "files": [
+        "Keskkonnakomisjon_istungi_protokoll_05_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "10289102-3ac0-f72f-ccd1-e680fb2ade2d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 10289102-3ac0-f72f-ccd1-e680fb2ade2d)",
+  "source": "https://api.riigikogu.ee/api/volumes/10289102-3ac0-f72f-ccd1-e680fb2ade2d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-01-01&endDate=2008-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
