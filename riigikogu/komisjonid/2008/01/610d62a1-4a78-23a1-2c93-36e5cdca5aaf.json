@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-01-28T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Transiidi uurimustöö vahearuande arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "568c8878-ca2c-d8a8-a6f9-50c3ad5fcbdd"
+    },
+    {
+      "order": 2,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5556132b-fccd-0965-2b66-a1bc97e533e4"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 28.01.2008",
+      "uuid": "8cb68b73-30b6-cdd8-fc36-b12640b2601d",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_05_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "610d62a1-4a78-23a1-2c93-36e5cdca5aaf",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 610d62a1-4a78-23a1-2c93-36e5cdca5aaf)",
+  "source": "https://api.riigikogu.ee/api/volumes/610d62a1-4a78-23a1-2c93-36e5cdca5aaf",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-01-01&endDate=2008-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
