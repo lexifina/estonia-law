@@ -1,0 +1,33 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-01-29T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väljasõiduistung AS-i Elektriraudtee ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "363d199c-7b20-6a3c-a791-92b045273456"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 29.01.2008",
+      "uuid": "3ad01432-a9fb-9da3-75d8-8de55dc311e7",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_05_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "da7962d4-81a2-c937-068f-7cece959f95e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid da7962d4-81a2-c937-068f-7cece959f95e)",
+  "source": "https://api.riigikogu.ee/api/volumes/da7962d4-81a2-c937-068f-7cece959f95e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-01-01&endDate=2008-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
