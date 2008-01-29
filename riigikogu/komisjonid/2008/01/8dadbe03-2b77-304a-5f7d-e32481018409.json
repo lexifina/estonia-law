@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-01-29T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Maaparandusseaduse ja sellega seonduvate seaduste muutmise seadus (189 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cc90ebd2-5fa9-6675-70d6-ea7d9391aa8c"
+    },
+    {
+      "order": 2,
+      "title": "Põllumajandusministeeriumi 2008. a tööplaanid",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "41825975-6e83-0771-e9b1-1f881e64e43e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 29.01.2008",
+      "uuid": "e68cd075-11e1-d041-5da6-ad815f57ed30",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_05_2008.odt",
+        "Maaelukomisjon_istungi_protokoll_05_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "8dadbe03-2b77-304a-5f7d-e32481018409",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8dadbe03-2b77-304a-5f7d-e32481018409)",
+  "source": "https://api.riigikogu.ee/api/volumes/8dadbe03-2b77-304a-5f7d-e32481018409",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-01-01&endDate=2008-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
