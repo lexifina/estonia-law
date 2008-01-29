@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-01-29T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Korrakaitseseadus [49 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "377144a6-640e-95c2-aabb-7b6f758e5dea"
+    },
+    {
+      "order": 2,
+      "title": "Arvamused Riigikohtule",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4c28a5b8-c5c8-6e9b-d09f-5b8a37a279ad"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 29.01.2008",
+      "uuid": "c0a82ae8-f46a-0642-f03a-14c713c16eb5",
+      "files": [
+        "Õiguskomisjon_istungi_protokoll_05_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "5d140b68-f08d-9cc4-d54f-40c47e5591f3",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 5d140b68-f08d-9cc4-d54f-40c47e5591f3)",
+  "source": "https://api.riigikogu.ee/api/volumes/5d140b68-f08d-9cc4-d54f-40c47e5591f3",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-01-01&endDate=2008-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
