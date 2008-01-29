@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-01-29T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Erihoolekande olukord ja areng",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ded07570-9c49-05d9-29ac-b838c094d623"
+    },
+    {
+      "order": 2,
+      "title": "Väljasõidu korraldamine erihooldekodudesse",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7f13b5fb-1308-02b3-c62a-653016fe0b59"
+    },
+    {
+      "order": 3,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e4a2eb87-9617-8ef2-bbae-5a91f397cf9c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 29.01.2008",
+      "uuid": "a6f591db-f71e-c0c2-4a31-620ee5883896",
+      "files": [
+        "Sotsiaalkomisjon_istungi_protokoll_05_2008.odt",
+        "Sotsiaalkomisjon_paevakord_29_01_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "d50cef36-467e-6db4-9657-e22b156ba12a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d50cef36-467e-6db4-9657-e22b156ba12a)",
+  "source": "https://api.riigikogu.ee/api/volumes/d50cef36-467e-6db4-9657-e22b156ba12a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-01-01&endDate=2008-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
