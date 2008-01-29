@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-01-29T14:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väliskomisjoni 3. töönädala töökava kinnitamine.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9e81ebf7-6927-fede-b928-7bd7b3002598"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade olukorrast Gruusias pärast 5. jaanuaril 2008 toimunud presidendivalimisi. ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "16e06454-fe3a-9481-b544-3725e93a305b"
+    },
+    {
+      "order": 3,
+      "title": "Informatsioon komisjoni liikmete tegevusest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "65f6c77a-3dbc-9819-65ae-343a7ea1d869"
+    },
+    {
+      "order": 4,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "151a0987-b943-5e9a-463a-c032144586dc"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 29.01.2008",
+      "uuid": "b20a158c-392e-8f64-be7b-79fde22b7ae3",
+      "files": [
+        "Väliskomisjon_istungi_protokoll_05_2008.odt",
+        "28.01-01.02.08.doc"
+      ]
+    }
+  ],
+  "uuid": "2574af0c-6be6-a79f-67cd-715023e480dd",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2574af0c-6be6-a79f-67cd-715023e480dd)",
+  "source": "https://api.riigikogu.ee/api/volumes/2574af0c-6be6-a79f-67cd-715023e480dd",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-01-01&endDate=2008-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
