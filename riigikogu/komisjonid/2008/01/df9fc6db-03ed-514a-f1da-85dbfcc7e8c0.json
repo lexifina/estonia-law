@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-01-31T14:00:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikogu otsuse \"Indrek Tederi õiguskantsleri ametisse nimetamine\" eelnõu -192 OE- esimese lugemise arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2dc2c4a4-3e1b-30c5-8ca7-54360454838d"
+    },
+    {
+      "order": 2,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3ae1cb57-c265-1204-4efd-e0d21313daf0"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 31.01.2008",
+      "uuid": "6a2b9a8c-fad8-f692-a54c-f68862bd8b62",
+      "files": [
+        "Põhiseaduskomisjon_istungi_protokoll_05_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "df9fc6db-03ed-514a-f1da-85dbfcc7e8c0",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid df9fc6db-03ed-514a-f1da-85dbfcc7e8c0)",
+  "source": "https://api.riigikogu.ee/api/volumes/df9fc6db-03ed-514a-f1da-85dbfcc7e8c0",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-01-01&endDate=2008-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
