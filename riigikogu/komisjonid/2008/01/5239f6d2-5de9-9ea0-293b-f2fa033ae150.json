@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-01-31T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigihangete seaduse muutmise seadus [170 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e09aa69a-0e16-3d5c-4e4f-5ae93dcaef06"
+    },
+    {
+      "order": 2,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d2fc0057-7e9f-f692-bb1a-f593d95d73fc"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 31.01.2008",
+      "uuid": "3856ee40-f9a1-b76a-e917-f0835a2608a0",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_05_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "5239f6d2-5de9-9ea0-293b-f2fa033ae150",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 5239f6d2-5de9-9ea0-293b-f2fa033ae150)",
+  "source": "https://api.riigikogu.ee/api/volumes/5239f6d2-5de9-9ea0-293b-f2fa033ae150",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-01-01&endDate=2008-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
