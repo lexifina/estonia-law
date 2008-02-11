@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-02-11T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Keskkonnakomisjoni töökava",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3edc3081-7208-211d-a473-c892e3eadb36"
+    },
+    {
+      "order": 2,
+      "title": "Keskkonnakomisjoni väljasõiduistung Riiklikku Looduskaitsekeskusesse",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "05c859ea-cf7b-b765-edf6-81ab34155518"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 11.02.2008",
+      "uuid": "78b7cac6-952e-d15d-6e28-bda5e3fe165e",
+      "files": [
+        "Keskkonnakomisjon_istungi_protokoll_07_2008.odt",
+        "Keskkonnakomisjon_paevakord_11_02_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "ad326905-2168-1b3d-87c3-d1f3beb96cbf",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ad326905-2168-1b3d-87c3-d1f3beb96cbf)",
+  "source": "https://api.riigikogu.ee/api/volumes/ad326905-2168-1b3d-87c3-d1f3beb96cbf",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-02-01&endDate=2008-02-29",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
