@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-02-11T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "18dab484-2a71-39e7-7218-8041e7aca73e"
+    },
+    {
+      "order": 2,
+      "title": "Riigipiiri seaduse ning laeva lipuõiguse ja laevaregistrite seaduse muutmise seaduse eelnõu (160 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e9899d8b-cd33-7180-d0da-9da0483a1da0"
+    },
+    {
+      "order": 3,
+      "title": "Toiduseaduse muutmise seaduse eelnõu (191 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "54158345-e356-4aab-0f96-bee0128cb50e"
+    },
+    {
+      "order": 4,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e17323b9-3957-8745-5fd2-80bc722c0e83"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 11.02.2008",
+      "uuid": "bdb445d8-23ed-ada9-c7ca-d2f1cb389289",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_07_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "8504ac8f-ba19-b112-d1a6-694a7181dd94",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8504ac8f-ba19-b112-d1a6-694a7181dd94)",
+  "source": "https://api.riigikogu.ee/api/volumes/8504ac8f-ba19-b112-d1a6-694a7181dd94",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-02-01&endDate=2008-02-29",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
