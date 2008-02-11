@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-02-11T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikogu otsuse \"Indrek Tederi õiguskantsleri ametisse nimetamine\" eelnõu -192 OE- esimese lugemise arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f769c5b5-d8fb-49b3-b6e1-765f130d343f"
+    },
+    {
+      "order": 2,
+      "title": "Välismaalaste seaduse paragrahvi 1028 muutmise seaduse eelnõu -173 SE- esimese lugemise arutelu  ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1a55b556-0243-a340-dffc-0ea1ac603dff"
+    },
+    {
+      "order": 3,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "78e9ce9c-196e-d2b8-3961-7f08d3909b7a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 11.02.2008",
+      "uuid": "8b024bc8-6942-a7b1-0bdb-54b792d560f7",
+      "files": [
+        "Põhiseaduskomisjon_istungi_protokoll_07_2008.odt",
+        "Põhiseaduskomisjon_paevakord_11_02_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "acb375f4-a4d9-48d9-3e3a-b81280a015b0",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid acb375f4-a4d9-48d9-3e3a-b81280a015b0)",
+  "source": "https://api.riigikogu.ee/api/volumes/acb375f4-a4d9-48d9-3e3a-b81280a015b0",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-02-01&endDate=2008-02-29",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
