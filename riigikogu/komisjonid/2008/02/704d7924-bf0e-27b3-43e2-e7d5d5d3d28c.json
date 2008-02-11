@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-02-11T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 12. veebruaril toimuval  majandus- ja rahandusministrite nõukogu (ECOFIN) kohtumisel.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "36726dea-d087-2a7f-aeff-9c51ed3e9194"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad 14. veebruaril toimuval hariduse, noorsoo ja kultuuri nõukogu kohtumisel.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2fdb6f44-c435-8043-c854-69a10cd4256e"
+    },
+    {
+      "order": 3,
+      "title": "Euroopa Liidu Nõukogu raamotsuse eelnõu, mis käsitleb broneeringuinfo kasutamise õiguskaitse eesmärkidel.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "77da10c4-0dc2-d409-6204-acba892ecfe2"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 11.02.2008",
+      "uuid": "c931a27a-a4f4-4c25-8af8-110ee8089b13",
+      "files": [
+        "Euroopa Liidu asjade komisjon_paevakord_11_02_2008.odt",
+        "Euroopa Liidu asjade komisjon_istungi_protokoll_07_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "704d7924-bf0e-27b3-43e2-e7d5d5d3d28c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 704d7924-bf0e-27b3-43e2-e7d5d5d3d28c)",
+  "source": "https://api.riigikogu.ee/api/volumes/704d7924-bf0e-27b3-43e2-e7d5d5d3d28c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-02-01&endDate=2008-02-29",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
