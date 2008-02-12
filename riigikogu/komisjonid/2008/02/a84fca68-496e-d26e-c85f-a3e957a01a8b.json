@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-02-12T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade põllumajandustootjate 2006.a majandusnäitajate analüüsist",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f157b7f7-c93d-2be1-f6f0-4cace98de322"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad  Euroopa Komisjoni teatise „Ühise põllumajanduspoliitika reformi „tervisekontrolli” ettevalmistamine” suhtes. Arvamuse andmine ELAKile",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d1601ee3-6cfc-fe9e-46c8-71cd834e10ed"
+    },
+    {
+      "order": 3,
+      "title": "Kalapüügiseaduse muutmise seaduse eelnõu (184 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "549cd675-014e-2be6-2d69-6d56055d0866"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 12.02.2008",
+      "uuid": "e06e2fcc-048f-dcfe-5862-99d2e609f37c",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_07_2008.odt",
+        "Maaelukomisjon_paevakord_12_02_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "a84fca68-496e-d26e-c85f-a3e957a01a8b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a84fca68-496e-d26e-c85f-a3e957a01a8b)",
+  "source": "https://api.riigikogu.ee/api/volumes/a84fca68-496e-d26e-c85f-a3e957a01a8b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-02-01&endDate=2008-02-29",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
