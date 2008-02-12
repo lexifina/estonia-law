@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-02-12T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Lissaboni strateegia aruande ja ühenduse Lissaboni programmi 2008–2010 arutelu ja arvamuse esitamine ELAK-le",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0dc1e1ec-8f8d-b861-7206-e91087433c9e"
+    },
+    {
+      "order": 2,
+      "title": "Euroopa Komisjoni teatiste „Euroopa Liidu kaubaveokava: kaubaveo tõhusamaks, integreeritumaks ja jätkusuutlikumaks muutmine” ning „Kaubaveologistika tegevuskava” arutelu ja arvamuse esitamine ELAK-le",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a039ce64-4c80-1272-ed06-2a2cbff0d25c"
+    },
+    {
+      "order": 3,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f9eda3d5-9018-45e7-58d8-9d819f9d75f5"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 12.02.2008",
+      "uuid": "3d44c492-774b-4b82-9895-7b6b7b6dbd2b",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_07_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "85223b49-701d-258a-7509-bd62b9dedf89",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 85223b49-701d-258a-7509-bd62b9dedf89)",
+  "source": "https://api.riigikogu.ee/api/volumes/85223b49-701d-258a-7509-bd62b9dedf89",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-02-01&endDate=2008-02-29",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
