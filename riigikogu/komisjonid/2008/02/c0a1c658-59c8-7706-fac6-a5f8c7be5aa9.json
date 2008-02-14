@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-02-14T11:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine välisministeeriumi kantsleri Matti Maasikaga.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ece800d6-2117-044b-b776-bac40c617b8f"
+    },
+    {
+      "order": 2,
+      "title": "Välispoliitika arutelu olulise tähtsusega riikliku küsimusena Riigikogu täiskogul neljapäeval, 21. veebruaril 2008. Riigikogu väliskomisjoni ettekande arutelu jätkamine.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e6378b3b-051d-99cb-b343-cd1d715ba966"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "12dbeb47-4d1f-f2a8-3c6d-ba171da5186a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 14.02.2008",
+      "uuid": "505ac2d8-ebb5-4007-2f00-c82f0a96231b",
+      "files": [
+        "Väliskomisjon_istungi_protokoll_07_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "c0a1c658-59c8-7706-fac6-a5f8c7be5aa9",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c0a1c658-59c8-7706-fac6-a5f8c7be5aa9)",
+  "source": "https://api.riigikogu.ee/api/volumes/c0a1c658-59c8-7706-fac6-a5f8c7be5aa9",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-02-01&endDate=2008-02-29",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
