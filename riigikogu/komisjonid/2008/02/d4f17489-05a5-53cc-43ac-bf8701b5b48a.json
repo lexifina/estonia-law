@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-02-15T10:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ühisistung ELAKiga - Eesti seisukohad 18.-19. veebruaril 2008 toimuval Euroopa Liidu üldasjade ja välissuhete nõukogu istungil. ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d14a03e7-bc6a-9656-cada-20c9d566ece3"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3743d764-ba88-4e49-ecf7-353d974d2419"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 15.02.2008",
+      "uuid": "541ab29d-86a1-ea19-a29f-9740a8ca401f",
+      "files": [
+        "Väliskomisjon_istungi_protokoll_07_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "d4f17489-05a5-53cc-43ac-bf8701b5b48a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d4f17489-05a5-53cc-43ac-bf8701b5b48a)",
+  "source": "https://api.riigikogu.ee/api/volumes/d4f17489-05a5-53cc-43ac-bf8701b5b48a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-02-01&endDate=2008-02-29",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
