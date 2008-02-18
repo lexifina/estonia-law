@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-02-18T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a1cbc460-fdc6-47eb-23d6-e418d69d2432"
+    },
+    {
+      "order": 2,
+      "title": "Postituru avanemise mõjud maapiirkonnas",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fc0fa92d-b592-abea-2b81-4d113baffd7b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 18.02.2008",
+      "uuid": "07577b9d-5083-9d20-7e1a-5620fe8eac1a",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_08_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "dabceb39-fa96-0375-f2b0-6d249a1e1a98",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid dabceb39-fa96-0375-f2b0-6d249a1e1a98)",
+  "source": "https://api.riigikogu.ee/api/volumes/dabceb39-fa96-0375-f2b0-6d249a1e1a98",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-02-01&endDate=2008-02-29",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
