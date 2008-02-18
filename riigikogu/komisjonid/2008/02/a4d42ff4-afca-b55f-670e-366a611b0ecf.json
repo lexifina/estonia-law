@@ -1,0 +1,33 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-02-18T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Istungi toimumisest teatatakse täiendavalt",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "69138668-5029-4b1c-5523-ad3c15d00cd6"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 18.02.2008",
+      "uuid": "6da77c49-9e7c-a9ed-b3fc-fb2118759923",
+      "files": [
+        "Rahanduskomisjon_paevakord_18_02_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "a4d42ff4-afca-b55f-670e-366a611b0ecf",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a4d42ff4-afca-b55f-670e-366a611b0ecf)",
+  "source": "https://api.riigikogu.ee/api/volumes/a4d42ff4-afca-b55f-670e-366a611b0ecf",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-02-01&endDate=2008-02-29",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
