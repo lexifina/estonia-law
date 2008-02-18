@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-02-18T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väliskomisjoni 5. töönädala töökava kinnitamine.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dda8465b-b2c6-97cd-48d7-c41b3846f08d"
+    },
+    {
+      "order": 2,
+      "title": "Välispoliitika arutelu olulise tähtsusega riikliku küsimusena Riigikogu täiskogul neljapäeval, 21. veebruaril 2008 – Riigikogu väliskomisjoni ettekande arutelu jätkamine.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c520b8f0-943f-4436-9269-80e89b21112b"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "98fb1cf2-5d5e-69b6-f962-6c1851b31e02"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 18.02.2008",
+      "uuid": "4b52341e-c0ba-fdd3-3fa5-92468eec68f1",
+      "files": [
+        "Väliskomisjon_istungi_protokoll_08_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "e9159dba-024c-8a8e-bc33-6d04502aaf0e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e9159dba-024c-8a8e-bc33-6d04502aaf0e)",
+  "source": "https://api.riigikogu.ee/api/volumes/e9159dba-024c-8a8e-bc33-6d04502aaf0e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-02-01&endDate=2008-02-29",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
