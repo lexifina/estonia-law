@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-02-18T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töönädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5c8f60c8-8e09-fae4-26f2-85740f35829b"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud perekonnaseaduse eelnõu (55 SE) teisipäevase istungi avalikkuse küsimus.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5248a9b0-48e5-5124-b728-96df0b423063"
+    },
+    {
+      "order": 3,
+      "title": "Turvaseaduse muutmise seadus [174 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "148d8417-f293-46c3-bf00-ccaeca60a235"
+    },
+    {
+      "order": 4,
+      "title": "Korrakaitseseadus [49 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "35d75d27-49af-c8d7-f555-a174242a63a8"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 18.02.2008",
+      "uuid": "0ccdf480-d945-4e77-16d8-a4701136e361",
+      "files": [
+        "iguskomisjon_istungi_protokoll_08_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "77d12cae-64e5-5628-8675-da4cbcf4f823",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 77d12cae-64e5-5628-8675-da4cbcf4f823)",
+  "source": "https://api.riigikogu.ee/api/volumes/77d12cae-64e5-5628-8675-da4cbcf4f823",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-02-01&endDate=2008-02-29",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
