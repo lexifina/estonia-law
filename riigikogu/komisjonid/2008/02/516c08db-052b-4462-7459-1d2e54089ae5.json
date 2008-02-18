@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-02-18T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Arutelu analoogtelevisiooni kavandatavast üleminekust digitaaltelevisioonile. Kohtumine asjatundjate komisjoni esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "72dd1b61-7add-8916-1498-c3dd516d8f1b"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine kultuuriminister Laine Jänesega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1664087c-c0f4-8fca-b53b-fad5b80a3f81"
+    },
+    {
+      "order": 3,
+      "title": "Info ja kirjad",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "976e2e37-6b72-abe3-9cf6-2cef532d46b2"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 18.02.2008",
+      "uuid": "813d5470-725d-01ce-3f27-22022f32ef13",
+      "files": [
+        "Kultuurikomisjon_istungi_protokoll_08_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "516c08db-052b-4462-7459-1d2e54089ae5",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 516c08db-052b-4462-7459-1d2e54089ae5)",
+  "source": "https://api.riigikogu.ee/api/volumes/516c08db-052b-4462-7459-1d2e54089ae5",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-02-01&endDate=2008-02-29",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
