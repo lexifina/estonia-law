@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-02-19T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Välispoliitika arutelu olulise tähtsusega riikliku küsimusena Riigikogu täiskogul neljapäeval, 21. veebruaril 2008 – Vabariigi Valitsuse ettekanne. ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e76b0678-ceee-ffe8-b85d-800103e34e1b"
+    },
+    {
+      "order": 2,
+      "title": "Euroopa Liidu kaitseministrite mitteametlik kohtumine 21.-22. veebruaril 2008.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c6722740-d4f1-9784-c3ab-05a4f8c420f1"
+    },
+    {
+      "order": 3,
+      "title": "Informatsioon komisjoni liikmete tegevusest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "906f8eb5-b106-69a1-5af4-b72c2f8be6cb"
+    },
+    {
+      "order": 4,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "76479e65-0a05-59b9-cb58-8582c509ca4f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 19.02.2008",
+      "uuid": "ec8575c8-93f1-f44b-6eb8-bc4b3687f48f",
+      "files": [
+        "Väliskomisjon_istungi_protokoll_08_2008.odt",
+        "Väliskomisjon_paevakord_19_02_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "d0ba6232-1935-d1d4-730c-4adac0254f44",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d0ba6232-1935-d1d4-730c-4adac0254f44)",
+  "source": "https://api.riigikogu.ee/api/volumes/d0ba6232-1935-d1d4-730c-4adac0254f44",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-02-01&endDate=2008-02-29",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
