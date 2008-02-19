@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-02-19T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade Eesti piimaturu olukorrast ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bd7fa434-5f3f-033b-c14b-cc0bcdb790ce"
+    },
+    {
+      "order": 2,
+      "title": "Riigipiiri seaduse ning laeva lipuõiguse ja laevaregistrite seaduse täiendamise seaduse eelnõu (160 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cdbf539e-c013-541b-3319-aa4fd668d2f8"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 19.02.2008",
+      "uuid": "936b6444-d490-f250-f1b0-0973e6876c24",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_08_2008.odt",
+        "Maaelukomisjon_paevakord_19_02_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "1af0dddf-3f2a-237a-bf59-882ae32bedc7",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 1af0dddf-3f2a-237a-bf59-882ae32bedc7)",
+  "source": "https://api.riigikogu.ee/api/volumes/1af0dddf-3f2a-237a-bf59-882ae32bedc7",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-02-01&endDate=2008-02-29",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
