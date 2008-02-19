@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-02-19T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikogu otsus \"Mihkel Oviiri riigikontrolöri ametisse nimetamine\" [198 OE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3ccba454-54e6-d532-33f8-a056fbe58d20"
+    },
+    {
+      "order": 2,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "713ac4d3-3a7f-56af-f455-37796bfb99ec"
+    },
+    {
+      "order": 3,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f7173235-ac4b-60be-b14d-1689aec76602"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 19.02.2008",
+      "uuid": "4e1e179d-a4b5-b4d0-28a4-69ea5777e0bb",
+      "files": [
+        "Põhiseaduskomisjon_istungi_protokoll_08_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "c0ae1709-331e-dba0-d351-d4496463cbcb",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c0ae1709-331e-dba0-d351-d4496463cbcb)",
+  "source": "https://api.riigikogu.ee/api/volumes/c0ae1709-331e-dba0-d351-d4496463cbcb",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-02-01&endDate=2008-02-29",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
