@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-02-21T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Alaealise mõjutusvahendite seaduse muutmise seadus [98 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9105e99a-6588-b09f-9a45-4b23d1406348"
+    },
+    {
+      "order": 2,
+      "title": "Kriminaalpoliitika arengisuunad 2007. a. Ülevaade Riigikogule. ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2dda7fb7-d689-fefc-25be-da1d06de3de4"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 21.02.2008",
+      "uuid": "43b4b1f7-7140-f760-1ab6-400f78fa788e",
+      "files": [
+        "Õiguskomisjon_paevakord_21_02_2008.odt",
+        "iguskomisjon_istungi_protokoll_08_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "1add9536-f884-d902-c8b8-9ba221d13e25",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 1add9536-f884-d902-c8b8-9ba221d13e25)",
+  "source": "https://api.riigikogu.ee/api/volumes/1add9536-f884-d902-c8b8-9ba221d13e25",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-02-01&endDate=2008-02-29",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
