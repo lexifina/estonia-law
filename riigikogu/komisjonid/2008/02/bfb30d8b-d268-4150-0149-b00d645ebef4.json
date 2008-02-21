@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-02-21T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti Panga seaduse muutmise seadus [182 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f793390e-b762-6631-033d-14e779a51da8"
+    },
+    {
+      "order": 2,
+      "title": "Maamaksuseaduse muutmise seadus [161 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6a0d529a-3ee7-86ae-dd8b-29c43fca0503"
+    },
+    {
+      "order": 3,
+      "title": "Investeerimisfondide seaduse, tagatisfondi seaduse ja väärtpaberituru seaduse muutmise seadus [172 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "24c2473a-82fd-b575-52ac-3c3c4f59cc73"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 21.02.2008",
+      "uuid": "a8a311c3-9b0b-a9d0-b618-2c33be663bbf",
+      "files": [
+        "Rahanduskomisjon_paevakord_21_02_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "bfb30d8b-d268-4150-0149-b00d645ebef4",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid bfb30d8b-d268-4150-0149-b00d645ebef4)",
+  "source": "https://api.riigikogu.ee/api/volumes/bfb30d8b-d268-4150-0149-b00d645ebef4",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-02-01&endDate=2008-02-29",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
