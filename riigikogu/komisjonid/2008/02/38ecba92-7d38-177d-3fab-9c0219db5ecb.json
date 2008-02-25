@@ -1,0 +1,33 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-02-25T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti Panga seaduse muutmise seadus [182 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "58c2d9ef-b9f8-5c5b-3be4-9d9bcfaf4ebf"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 25.02.2008",
+      "uuid": "69d238a5-09dc-8394-56e8-c60ac6dbfa42",
+      "files": [
+        "Rahanduskomisjon_istungi_protokoll_09_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "38ecba92-7d38-177d-3fab-9c0219db5ecb",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 38ecba92-7d38-177d-3fab-9c0219db5ecb)",
+  "source": "https://api.riigikogu.ee/api/volumes/38ecba92-7d38-177d-3fab-9c0219db5ecb",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-02-01&endDate=2008-02-29",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
