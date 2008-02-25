@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-02-25T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 28.-29. veebruaril toimuval justiits- ja siseküsimuste nõukogu kohtumisel.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "15afc36d-3a97-d7d4-f983-cd7583850b88"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad 29. veebruaril toimuval töö-, sotsiaalpoliitika, tervishoiu ja tarbijakaitse nõukogu (EPSCO) kohtumisel.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "28355ce8-4a7e-61ba-6a95-9998de392e5f"
+    },
+    {
+      "order": 3,
+      "title": "Seisukoha andmine: Euroopa Komisjoni teatis „Sotsiaalkaitse moderniseerimine parema sotsiaalse õigluse ja suurema majandusliku ühtekuuluvuse nimel: tööturult enim tõrjutud isikute aktiivse kaasamise edendamine”.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "85358e48-49cc-44e2-6549-d5f723c1687a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 25.02.2008",
+      "uuid": "ebd2c0ab-df2b-c877-4cb6-b30f771bc766",
+      "files": [
+        "Euroopa Liidu asjade komisjon_istungi_protokoll_09_2008.odt",
+        "Euroopa Liidu asjade komisjon_paevakord_25_02_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "1da20a45-1282-2fbd-9169-be7635c6f5c7",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 1da20a45-1282-2fbd-9169-be7635c6f5c7)",
+  "source": "https://api.riigikogu.ee/api/volumes/1da20a45-1282-2fbd-9169-be7635c6f5c7",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-02-01&endDate=2008-02-29",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
