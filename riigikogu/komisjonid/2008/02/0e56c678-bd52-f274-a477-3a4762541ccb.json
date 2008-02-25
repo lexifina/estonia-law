@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-02-25T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Uuringukokkuvõtte tutvustamine „Arvamused kaitseväest enne ja pärast ajateenistust“. ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bfa02ea0-4747-ba78-295e-7b1961ca40fc"
+    },
+    {
+      "order": 2,
+      "title": "Kutse osalemiseks XVIII Kõrgematel Riigikaitsekursustel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a82601da-ca12-b55e-258c-10bc36fc55ec"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 25.02.2008",
+      "uuid": "13c99d76-738a-fb63-806c-a3535ac5b8b9",
+      "files": [
+        "25.02.08.doc"
+      ]
+    }
+  ],
+  "uuid": "0e56c678-bd52-f274-a477-3a4762541ccb",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0e56c678-bd52-f274-a477-3a4762541ccb)",
+  "source": "https://api.riigikogu.ee/api/volumes/0e56c678-bd52-f274-a477-3a4762541ccb",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-02-01&endDate=2008-02-29",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
