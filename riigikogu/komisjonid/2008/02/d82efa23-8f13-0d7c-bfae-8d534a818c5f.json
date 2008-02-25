@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-02-25T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Regionaalarengu suunamise seaduse eelnõu –188 OE–  esimese lugemise arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2aa905ca-7071-a6a9-fb66-6262ea59bee0"
+    },
+    {
+      "order": 2,
+      "title": "Välismaalaste seaduse ja riigilõivu seaduse muutmise seaduse eelnõu –183 SE– kolmanda lugemise  arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4f5088a1-0d46-42f8-1a0e-e77cd37905cf"
+    },
+    {
+      "order": 3,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5a28d243-28e4-49ff-3181-b87860de9b73"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 25.02.2008",
+      "uuid": "b35bdda7-17f1-7b3f-f1bb-3ccf27b82362",
+      "files": [
+        "Põhiseaduskomisjon_istungi_protokoll_09_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "d82efa23-8f13-0d7c-bfae-8d534a818c5f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d82efa23-8f13-0d7c-bfae-8d534a818c5f)",
+  "source": "https://api.riigikogu.ee/api/volumes/d82efa23-8f13-0d7c-bfae-8d534a818c5f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-02-01&endDate=2008-02-29",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
