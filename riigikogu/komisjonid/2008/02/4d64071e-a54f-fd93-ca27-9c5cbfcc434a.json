@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-02-25T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f8135cb3-385f-17c0-b60f-b7c108a9b6eb"
+    },
+    {
+      "order": 2,
+      "title": "Postituru avanemise regionaalsed mõjud",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "08f50d1b-2edb-1316-3b2f-db4a814ff103"
+    },
+    {
+      "order": 3,
+      "title": "Maaparandusseaduse ja sellega seonduvate seaduste muutmise seaduse eelnõu (189 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "727b7751-95f5-42ff-910b-3c6c22b414c3"
+    },
+    {
+      "order": 4,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3b5f65b4-4e5e-c686-cfaa-43062220c8a9"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 25.02.2008",
+      "uuid": "d7defc56-87fd-4a24-4261-c0fe5a4c1149",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_09_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "4d64071e-a54f-fd93-ca27-9c5cbfcc434a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 4d64071e-a54f-fd93-ca27-9c5cbfcc434a)",
+  "source": "https://api.riigikogu.ee/api/volumes/4d64071e-a54f-fd93-ca27-9c5cbfcc434a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-02-01&endDate=2008-02-29",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
