@@ -1,0 +1,33 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-02-26T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikaitsekomisjoni väljasõiduistung. Mereväebaasi külastamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "17b6ba76-13ec-662b-eb36-64b47073a985"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 26.02.2008",
+      "uuid": "11ef0318-7ad6-1baf-f231-f7222ca85b71",
+      "files": [
+        "26.02.08.doc"
+      ]
+    }
+  ],
+  "uuid": "15054ddb-b7f7-7d99-251c-dea1079b50e0",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 15054ddb-b7f7-7d99-251c-dea1079b50e0)",
+  "source": "https://api.riigikogu.ee/api/volumes/15054ddb-b7f7-7d99-251c-dea1079b50e0",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-02-01&endDate=2008-02-29",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
