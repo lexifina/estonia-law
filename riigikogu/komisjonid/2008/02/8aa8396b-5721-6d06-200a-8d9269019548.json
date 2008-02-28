@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-02-28T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Istungi algus 13.30",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d52f94cd-3b9e-eca4-07c2-d969e5d75f38"
+    },
+    {
+      "order": 2,
+      "title": "Kriminaalhooldusseaduse, vangistusseaduse ja kohtute seaduse muutmise seadus [169 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d0e18a98-8f0e-d1cb-81f1-1f04a62758d2"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 28.02.2008",
+      "uuid": "42402ece-6677-d5ec-18e2-5dcaaf678221",
+      "files": [
+        "iguskomisjon_istungi_protokoll_09_2008.odt",
+        "Õiguskomisjon_paevakord_28_02_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "8aa8396b-5721-6d06-200a-8d9269019548",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8aa8396b-5721-6d06-200a-8d9269019548)",
+  "source": "https://api.riigikogu.ee/api/volumes/8aa8396b-5721-6d06-200a-8d9269019548",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-02-01&endDate=2008-02-29",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
