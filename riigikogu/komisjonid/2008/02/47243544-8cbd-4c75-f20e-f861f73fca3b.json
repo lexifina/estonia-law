@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-02-28T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Euroopa Komisjoni kliimamuutuste ja taastuvenergia pakett ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "714d8441-da72-f713-f9d3-2da75bb56e4f"
+    },
+    {
+      "order": 2,
+      "title": "Jooksvad küsimused ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b2fa0bee-9de2-1f85-ae67-43bf34a74481"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 28.02.2008",
+      "uuid": "c1ce387b-6325-af16-a695-eac3b3a0b33e",
+      "files": [
+        "prott39 28.02.08.doc"
+      ]
+    }
+  ],
+  "uuid": "47243544-8cbd-4c75-f20e-f861f73fca3b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 47243544-8cbd-4c75-f20e-f861f73fca3b)",
+  "source": "https://api.riigikogu.ee/api/volumes/47243544-8cbd-4c75-f20e-f861f73fca3b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-02-01&endDate=2008-02-29",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
