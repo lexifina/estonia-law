@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-03-03T10:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 4. märtsil toimuval majandus- ja rahandusministrite nõukogu (ECOFIN) kohtumisel.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "de7c083d-b025-8f55-7cc4-790d4bb47cd3"
+    },
+    {
+      "order": 2,
+      "title": "Seisukoha andmine: Euroopa Komisjoni teatised “Strateegiline aruanne majanduskasvu ja tööhõivet käsitleva uuendatud Lissaboni strateegia kohta: uue etapi käivitamine (2008–2010)” ja \"Ettepanek ühenduse Lissaboni programmi kohta aastateks 2008 – 2010”.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "97691fc9-ac58-42c7-4800-1a1b79316196"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 03.03.2008",
+      "uuid": "1b76b2ce-bbb0-2c7b-6c0d-80846fee9555",
+      "files": [
+        "Euroopa Liidu asjade komisjon_paevakord_03_03_2008.odt",
+        "Euroopa Liidu asjade komisjon_istungi_protokoll_10_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "c650ca9c-127f-bed1-5b3f-91593b7148f4",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c650ca9c-127f-bed1-5b3f-91593b7148f4)",
+  "source": "https://api.riigikogu.ee/api/volumes/c650ca9c-127f-bed1-5b3f-91593b7148f4",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-03-01&endDate=2008-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
