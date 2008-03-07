@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-03-07T10:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ühisistung ELAKiga - Eesti seisukohad 10.-11. märtsil 2008 toimuval üldasjade ja välissuhete nõukogu kohtumisel.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "536a0c37-135c-583a-e0db-e301a4f62be9"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "92656cf3-1105-c7c9-80d6-96dbbcdecf61"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 07.03.2008",
+      "uuid": "355cd2f7-46cf-9e48-fb43-0a1b2e10e926",
+      "files": [
+        "Väliskomisjon_istungi_protokoll_10_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "d979a427-967d-74bc-d51e-211c7c9ad091",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d979a427-967d-74bc-d51e-211c7c9ad091)",
+  "source": "https://api.riigikogu.ee/api/volumes/d979a427-967d-74bc-d51e-211c7c9ad091",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-03-01&endDate=2008-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
