@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-03-10T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töönädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d1a0d5fb-e62a-1fd3-8374-493bcbfff9fa"
+    },
+    {
+      "order": 2,
+      "title": "Äriseadustiku ja Euroopa Liidu Nõukogu määruse (EÜ) nr 2157/2001 \"Euroopa äriühingu (SE) põhikirja kohta\" rakendamise seaduse muutmise seadus [186 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ddb9bed0-037f-685d-b174-61c079ac5dec"
+    },
+    {
+      "order": 3,
+      "title": "Euroopa Parlamendi poolt korraldatav ÕIK õppereis ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3e6d34e4-a2a3-3ed8-8a66-94a8a7c79d17"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 10.03.2008",
+      "uuid": "7eefa594-4db4-2e45-d728-438c3fdc9a75",
+      "files": [
+        "iguskomisjon_istungi_protokoll_11_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "68eade03-c18a-3538-156a-ef20fae945e4",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 68eade03-c18a-3538-156a-ef20fae945e4)",
+  "source": "https://api.riigikogu.ee/api/volumes/68eade03-c18a-3538-156a-ef20fae945e4",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-03-01&endDate=2008-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
