@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-03-10T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Välismaalaste seaduse § 10.28 muutmise seaduse eelnõu –173 SE–  teise lugemise arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "30f47914-063b-a9c2-c676-bbce859fc904"
+    },
+    {
+      "order": 2,
+      "title": "Kohtute seaduse ja halduskoostöö seaduse muutmise seaduse eelnõu -190 SE- esimese lugemise  arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5aa751d6-f0df-f110-b516-fa324270ca29"
+    },
+    {
+      "order": 3,
+      "title": "Riigikohtule arvamuse andmine vaidlustusmenetluse regulatsiooni osas  riigihangete seaduses, arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e538aca9-8d87-86f5-e7fa-529055f7f588"
+    },
+    {
+      "order": 4,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "96d097ef-ac9f-101c-22a8-5d0604b91550"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 10.03.2008",
+      "uuid": "39c0af56-e7ad-a42a-c970-b493c5dab2d8",
+      "files": [
+        "Põhiseaduskomisjon_istungi_protokoll_11_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "62312e99-527d-10d2-a3ca-f966cb899ef3",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 62312e99-527d-10d2-a3ca-f966cb899ef3)",
+  "source": "https://api.riigikogu.ee/api/volumes/62312e99-527d-10d2-a3ca-f966cb899ef3",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-03-01&endDate=2008-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
