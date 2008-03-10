@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-03-10T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Sotsiaalse ettevõtluse probleemid",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cd2260bb-098d-64d4-ee04-ea99b39b4c28"
+    },
+    {
+      "order": 2,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "02406110-3ef4-becc-24f8-ca5609555994"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 10.03.2008",
+      "uuid": "ad1ff97d-28eb-cbdf-ed7e-e1204b632d9d",
+      "files": [
+        "Sotsiaalkomisjon_istungi_protokoll_11_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "0cc15878-28e3-cb26-8287-e928b12b119a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0cc15878-28e3-cb26-8287-e928b12b119a)",
+  "source": "https://api.riigikogu.ee/api/volumes/0cc15878-28e3-cb26-8287-e928b12b119a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-03-01&endDate=2008-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
