@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-03-11T12:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Keskkonnakomisjoni töökava",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "be970007-360d-b333-c7d8-18190711c30e"
+    },
+    {
+      "order": 2,
+      "title": "Kalapüügiseaduse muutmise seadus [184 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c56c81c7-2781-2e76-a4d2-02fd6be66376"
+    },
+    {
+      "order": 3,
+      "title": "Euroopa Liidu nõukogu määruse, millega luukase ühenduse süsteem ebaseadusliku, teatamata ja reguleerimata kalapüügi vältimiseks, ärahoidmiseks ja lõpetamiseks, eelnõu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "81390272-37d0-942b-755c-d0eb4ac8f6cb"
+    },
+    {
+      "order": 4,
+      "title": "Jooksvad küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7db71a4f-4c24-d92f-e851-56963192352d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 11.03.2008",
+      "uuid": "a5b77019-2f5d-cbc4-72cb-046f209275ab",
+      "files": [
+        "prot41 11.03.08.doc"
+      ]
+    }
+  ],
+  "uuid": "2b760afd-d9a6-c213-83af-3b307a88db0b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2b760afd-d9a6-c213-83af-3b307a88db0b)",
+  "source": "https://api.riigikogu.ee/api/volumes/2b760afd-d9a6-c213-83af-3b307a88db0b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-03-01&endDate=2008-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
