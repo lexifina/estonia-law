@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-03-11T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kandidaat Eesti Vabariigi erakorralise ja täievolilise suursaadiku ametikohale Vene Föderatsioonis.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4b519747-0965-c66d-33f7-eb473efc80f8"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade 2. märtsil 2008 toimunud Vene Föderatsiooni presidendi valimistest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "414b662f-4adf-d3ea-2c20-061e7f05a2dc"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f4568481-5a60-a357-3a69-888f41ba111f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 11.03.2008",
+      "uuid": "41bb7a94-5964-e1cb-3153-b5bd7330c246",
+      "files": [
+        "Väliskomisjon_istungi_protokoll_11_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "d39d120f-a985-a8c3-e2d1-35f61a76cc35",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d39d120f-a985-a8c3-e2d1-35f61a76cc35)",
+  "source": "https://api.riigikogu.ee/api/volumes/d39d120f-a985-a8c3-e2d1-35f61a76cc35",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-03-01&endDate=2008-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
