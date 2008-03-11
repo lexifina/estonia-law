@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-03-11T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Autoriõiguse seaduse muutmise seadus [178 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9fac0f3a-a10d-916b-6bcd-f8711d5d1cc4"
+    },
+    {
+      "order": 2,
+      "title": "Arutelu teemal „Tallinna Loomaaia rahastamine”. ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "908c7bd6-1f17-04db-8cb4-115c0106674a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 11.03.2008",
+      "uuid": "ccc6ee1e-7364-293a-8f7d-deb222fb79da",
+      "files": [
+        "Kultuurikomisjon_istungi_protokoll_11_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "3df13cd9-86d5-0798-3f33-8bd4365c90dd",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3df13cd9-86d5-0798-3f33-8bd4365c90dd)",
+  "source": "https://api.riigikogu.ee/api/volumes/3df13cd9-86d5-0798-3f33-8bd4365c90dd",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-03-01&endDate=2008-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
