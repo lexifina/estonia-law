@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-03-11T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Toiduseaduse muutmise seaduse eelnõu (191 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3d050457-2f80-34c5-f5ca-169e32ae2255"
+    },
+    {
+      "order": 2,
+      "title": "Eesti Loomakaitse Seltsi ettepankutest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c3a684d7-a588-b6e7-efbe-9433c139df61"
+    },
+    {
+      "order": 3,
+      "title": "Maaparandusseaduse ja sellega seonduvate seaduste muutmise seaduse eelnõu (189 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3a170243-a986-7963-b2b5-f1e1dee8e471"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 11.03.2008",
+      "uuid": "fc69afba-4c7c-3b18-0db3-5259e9433367",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_11_2008.odt",
+        "Maaelukomisjon_paevakord_11_03_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "67bae3bb-cca3-e0a9-37dc-9d1bb1539b0d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 67bae3bb-cca3-e0a9-37dc-9d1bb1539b0d)",
+  "source": "https://api.riigikogu.ee/api/volumes/67bae3bb-cca3-e0a9-37dc-9d1bb1539b0d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-03-01&endDate=2008-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
