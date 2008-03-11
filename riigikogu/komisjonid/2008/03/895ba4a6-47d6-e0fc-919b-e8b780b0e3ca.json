@@ -1,0 +1,58 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-03-11T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Istungi algus kell 11:00",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d33d8596-bed0-a187-caff-cc2f3f40b818"
+    },
+    {
+      "order": 2,
+      "title": "Kriminaalhooldusseaduse, vangistusseaduse ja kohtute seaduse muutmise seadus [169 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3ddd1569-603d-3193-6fe1-9be86317c422"
+    },
+    {
+      "order": 3,
+      "title": "Karistusseadustiku § 218 muutmise seaduse eelnõu algatmise ostustamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a89eefb1-5107-c3ff-292f-c71e1bca4da3"
+    },
+    {
+      "order": 4,
+      "title": "Kohtumine Politseameti peadirektor Raivo Aeg´iga",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9b31f78e-272d-f61e-a28c-325c8d6add23"
+    },
+    {
+      "order": 5,
+      "title": "Lähetused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0e1e6ec4-bc22-169c-5c71-77a9f7298392"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 11.03.2008",
+      "uuid": "51c06c8e-4ddc-71fd-f142-98c6252dc697",
+      "files": [
+        "Õiguskomisjon_paevakord_11_03_2008.odt",
+        "iguskomisjon_istungi_protokoll_11_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "895ba4a6-47d6-e0fc-919b-e8b780b0e3ca",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 895ba4a6-47d6-e0fc-919b-e8b780b0e3ca)",
+  "source": "https://api.riigikogu.ee/api/volumes/895ba4a6-47d6-e0fc-919b-e8b780b0e3ca",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-03-01&endDate=2008-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
