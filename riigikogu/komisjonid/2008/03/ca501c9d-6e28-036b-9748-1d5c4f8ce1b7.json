@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-03-17T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kaitseväe korralduse seadus [202 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8db4bde2-2266-b843-76d3-1b0b57f543a5"
+    },
+    {
+      "order": 2,
+      "title": "Kriminaalmenetluse seadustiku, rahuaja riigikaitse seaduse, sõjaaja riigikaitse seaduse ja Vabariigi Valitsuse seaduse muutmise seadus [203 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "886f3b88-4dfb-45b3-f6e2-5edf828e0055"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 17.03.2008",
+      "uuid": "d50ef11e-d8ae-a6d9-fddf-d63628cb5cbb",
+      "files": [
+        "17.03.08.doc"
+      ]
+    }
+  ],
+  "uuid": "ca501c9d-6e28-036b-9748-1d5c4f8ce1b7",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ca501c9d-6e28-036b-9748-1d5c4f8ce1b7)",
+  "source": "https://api.riigikogu.ee/api/volumes/ca501c9d-6e28-036b-9748-1d5c4f8ce1b7",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-03-01&endDate=2008-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
