@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-03-17T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f64a795c-9d6b-207e-0e36-98b222d920ab"
+    },
+    {
+      "order": 2,
+      "title": "Taimekaitseseaduse, halduskoostöö seaduse ja riigilõivuseaduse muutmise seaduse eelnõu (215 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e08e612c-f355-385f-fe7b-7ae53f86defc"
+    },
+    {
+      "order": 3,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6c13e850-e639-b5b7-689f-ec25279d88ae"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 17.03.2008",
+      "uuid": "435a7be4-fd65-0bf6-52bd-141698396aa3",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_12_2008.odt",
+        "Maaelukomisjon_paevakord_17_03_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "ba996e3f-6aa7-5de5-67d2-4e118a26d0be",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ba996e3f-6aa7-5de5-67d2-4e118a26d0be)",
+  "source": "https://api.riigikogu.ee/api/volumes/ba996e3f-6aa7-5de5-67d2-4e118a26d0be",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-03-01&endDate=2008-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
