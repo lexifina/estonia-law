@@ -1,0 +1,33 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-03-17T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väljasõiduistung AS-i Eesti Raudtee",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1311fb9f-9a04-2253-aa58-2fb285ca8caa"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 17.03.2008",
+      "uuid": "8b9c5d72-73b6-9d8f-b6ad-a4d149b5abab",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_12_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "ce045406-e362-5fb6-d453-3578a503e338",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ce045406-e362-5fb6-d453-3578a503e338)",
+  "source": "https://api.riigikogu.ee/api/volumes/ce045406-e362-5fb6-d453-3578a503e338",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-03-01&endDate=2008-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
