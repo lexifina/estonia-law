@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-03-17T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Keskkonnakomisjoni töökava",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "24b261c2-3682-2be0-7063-b4800e9f193a"
+    },
+    {
+      "order": 2,
+      "title": "Pakendiseaduse ja pakendiaktsiisi seaduse muutmise seadus [195 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "03b6195c-5583-582e-a017-023701de3a85"
+    },
+    {
+      "order": 3,
+      "title": "Jooksvad küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6bbc0e06-507f-b230-ae2d-4cd8c1685623"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 17.03.2008",
+      "uuid": "8d9caca0-9fed-0f19-c0fb-858f5e88724b",
+      "files": [
+        "prot42 17.03.08.doc"
+      ]
+    }
+  ],
+  "uuid": "2ed17b4c-c8e5-cec8-b949-9df95b13d57a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2ed17b4c-c8e5-cec8-b949-9df95b13d57a)",
+  "source": "https://api.riigikogu.ee/api/volumes/2ed17b4c-c8e5-cec8-b949-9df95b13d57a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-03-01&endDate=2008-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
