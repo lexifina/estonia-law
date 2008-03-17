@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-03-17T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Komisjoni töönädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3dc56a08-bf34-2a15-6ff2-107b5c509106"
+    },
+    {
+      "order": 2,
+      "title": "Kriminaalhooldusseaduse, vangistusseaduse ja kohtute seaduse muutmise seadus [169 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "deed41b7-0968-cdd1-32aa-2c2fb1dbb508"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 17.03.2008",
+      "uuid": "f2b42858-9f1a-ccbc-d843-85dc1f0f6be0",
+      "files": [
+        "iguskomisjon_istungi_protokoll_12_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "b536466a-a3a8-272f-f41e-954b281dc4ed",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b536466a-a3a8-272f-f41e-954b281dc4ed)",
+  "source": "https://api.riigikogu.ee/api/volumes/b536466a-a3a8-272f-f41e-954b281dc4ed",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-03-01&endDate=2008-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
