@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-03-18T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Õiguskantsler Indrek Tederiga.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "74fa84ec-81c1-8080-bb75-c872cd5f3fcc"
+    },
+    {
+      "order": 2,
+      "title": "14:00 Karistusseadustiku muudatused (pisivarguste teema)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9fbbed42-09f9-2ac0-3c81-2c63187c1c48"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 18.03.2008",
+      "uuid": "a09e816c-0265-99d6-1d1c-5fc762ed6e7a",
+      "files": [
+        "Õiguskomisjon_istungi_protokoll_12_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "ebe4edb9-c9de-4283-d3a2-9c679cfe4e44",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ebe4edb9-c9de-4283-d3a2-9c679cfe4e44)",
+  "source": "https://api.riigikogu.ee/api/volumes/ebe4edb9-c9de-4283-d3a2-9c679cfe4e44",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-03-01&endDate=2008-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
