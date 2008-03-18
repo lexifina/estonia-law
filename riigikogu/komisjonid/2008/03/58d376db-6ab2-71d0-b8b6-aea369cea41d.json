@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-03-18T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kavandatud väljasõiduistungite arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f60d4047-1e96-2eff-4471-9d43b55b28bd"
+    },
+    {
+      "order": 2,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8f2d8638-8d4c-65e8-b064-48f42324a5df"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 18.03.2008",
+      "uuid": "1fbf53bc-3a83-20bc-fb41-0c9ac768e3a8",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_12_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "58d376db-6ab2-71d0-b8b6-aea369cea41d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 58d376db-6ab2-71d0-b8b6-aea369cea41d)",
+  "source": "https://api.riigikogu.ee/api/volumes/58d376db-6ab2-71d0-b8b6-aea369cea41d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-03-01&endDate=2008-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
