@@ -1,0 +1,33 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-03-18T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kaitseväe kalmistud ja sõjahauad",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d59ee285-8e96-1cb3-5fbd-c50b8a75f69f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 18.03.2008",
+      "uuid": "ebf3b28a-d371-d158-c101-13f5191fdea1",
+      "files": [
+        "18.03.08.doc"
+      ]
+    }
+  ],
+  "uuid": "e175f43e-cc75-e241-2ebd-c735b952d9de",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e175f43e-cc75-e241-2ebd-c735b952d9de)",
+  "source": "https://api.riigikogu.ee/api/volumes/e175f43e-cc75-e241-2ebd-c735b952d9de",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-03-01&endDate=2008-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
