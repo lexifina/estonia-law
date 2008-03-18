@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-03-18T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade Riigimetsa Majandamise Keskuse reformikavast ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4693cb23-9ab5-e93f-648f-656baca89895"
+    },
+    {
+      "order": 2,
+      "title": "Looduskaitseseaduse muutmise seadus [212 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cfe49421-d6eb-67ff-39cb-12f4a1eb40e3"
+    },
+    {
+      "order": 3,
+      "title": "Pakendiseaduse ja pakendiaktsiisi seaduse muutmise seadus [195 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6da628ea-adcc-af75-1af3-25c2a09aea08"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 18.03.2008",
+      "uuid": "ef1c8e5c-648e-ce9b-627c-b2e3be6c06b9",
+      "files": [
+        "prot43 18.03.08.doc"
+      ]
+    }
+  ],
+  "uuid": "3443511f-8f6c-e35c-8991-38b9e581452a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3443511f-8f6c-e35c-8991-38b9e581452a)",
+  "source": "https://api.riigikogu.ee/api/volumes/3443511f-8f6c-e35c-8991-38b9e581452a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-03-01&endDate=2008-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
