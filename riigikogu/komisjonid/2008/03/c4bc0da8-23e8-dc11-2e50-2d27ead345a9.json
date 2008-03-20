@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-03-20T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "NATO tippkohtumine Bukarestis 2.-4. aprillil 2008. ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "15b1ce44-a632-05c9-278d-af0def11cf69"
+    },
+    {
+      "order": 2,
+      "title": "Väliskomisjoni töövisiit Ameerika Ühendriikidesse 30. märtsil kuni 6. aprillil 2008 – visiidi ettevalmistamine. Ülevaade Eesti ja Ameerika Ühendriikide kahepoolsetest suhetest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8b856df1-2415-05ec-6626-fbe8ffac7e6a"
+    },
+    {
+      "order": 3,
+      "title": "Riigikogu ja Riigikogu Kantselei 2008. aasta välissuhtlemise eelarve – arutelu jätkamine.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "87bd1df7-a1cf-db77-e554-2679cf357ecd"
+    },
+    {
+      "order": 4,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "12347e4c-b681-5ced-9f7c-d1de5ac6dacf"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 20.03.2008",
+      "uuid": "2587e94b-9604-2a25-1e77-fcd77ec38175",
+      "files": [
+        "Väliskomisjon_istungi_protokoll_12_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "c4bc0da8-23e8-dc11-2e50-2d27ead345a9",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c4bc0da8-23e8-dc11-2e50-2d27ead345a9)",
+  "source": "https://api.riigikogu.ee/api/volumes/c4bc0da8-23e8-dc11-2e50-2d27ead345a9",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-03-01&endDate=2008-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
