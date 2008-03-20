@@ -1,0 +1,33 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-03-20T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Planeerimata",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bdd0e635-1cdb-0ff7-3eb1-5a83d7774609"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 20.03.2008",
+      "uuid": "901e4aa8-b346-1c84-e216-d421705e7380",
+      "files": [
+        "Õiguskomisjon_paevakord_20_03_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "50243fef-fbc6-a883-76a2-7a6966160443",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 50243fef-fbc6-a883-76a2-7a6966160443)",
+  "source": "https://api.riigikogu.ee/api/volumes/50243fef-fbc6-a883-76a2-7a6966160443",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-03-01&endDate=2008-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
