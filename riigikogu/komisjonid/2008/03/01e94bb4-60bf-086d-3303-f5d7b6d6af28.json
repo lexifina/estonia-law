@@ -1,0 +1,57 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-03-24T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töönädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "886a9aac-2a0e-5011-039a-7c235762dc7b"
+    },
+    {
+      "order": 2,
+      "title": "Äriseadustiku, mittetulundusühingute seaduse ja nendega seonduvate teiste seaduste muutmise seadus [205 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c0b9b707-72d9-0934-fe4c-0ed9bec93df1"
+    },
+    {
+      "order": 3,
+      "title": "Tsiviilkohtumenetluse seadustiku ja sellega seotud seaduste muutmise seadus [194 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1d7a0719-1d1f-ccb4-3420-39a8e520fa65"
+    },
+    {
+      "order": 4,
+      "title": "Kriminaalmenetluse seadustiku ja väärteomenetluse seadustiku muutmise seadus [218 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cb539816-e735-2da4-4593-4d3e3837e38b"
+    },
+    {
+      "order": 5,
+      "title": "Kriminaalmenetluse seadustiku ja kriminaalmenetluse seadustiku rakendamise seaduse muutmise seadus [219 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "978056fb-fcad-df65-c9af-62eb565038e5"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 24.03.2008",
+      "uuid": "e41ee56c-da70-95cd-e34c-a485daab8d9d",
+      "files": [
+        "iguskomisjon_istungi_protokoll_13_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "01e94bb4-60bf-086d-3303-f5d7b6d6af28",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 01e94bb4-60bf-086d-3303-f5d7b6d6af28)",
+  "source": "https://api.riigikogu.ee/api/volumes/01e94bb4-60bf-086d-3303-f5d7b6d6af28",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-03-01&endDate=2008-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
