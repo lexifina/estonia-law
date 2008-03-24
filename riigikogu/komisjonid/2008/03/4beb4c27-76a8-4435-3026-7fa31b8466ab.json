@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-03-24T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9756d30e-47c6-229a-cfda-afbfc9efb081"
+    },
+    {
+      "order": 2,
+      "title": "Tori hobuse kui ohustatud tõu säilitamise probleemid",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f0e3394b-fbe4-f806-a6c0-050efb5ee5e7"
+    },
+    {
+      "order": 3,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "52a1585e-cd93-7fb2-fbda-a9810ee8f9c1"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 24.03.2008",
+      "uuid": "02721ae5-103a-69ba-124c-b4e3218afba0",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_13_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "4beb4c27-76a8-4435-3026-7fa31b8466ab",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 4beb4c27-76a8-4435-3026-7fa31b8466ab)",
+  "source": "https://api.riigikogu.ee/api/volumes/4beb4c27-76a8-4435-3026-7fa31b8466ab",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-03-01&endDate=2008-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
