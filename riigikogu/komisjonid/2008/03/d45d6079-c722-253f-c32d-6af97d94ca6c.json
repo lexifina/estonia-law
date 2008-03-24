@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-03-24T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kutseseadus [213 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "58e13b21-d6f9-69a5-b036-c99335b14899"
+    },
+    {
+      "order": 2,
+      "title": "Huvikooli seaduse, koolieelse lasteasutuse seaduse, kutseõppeasutuse seaduse ning põhikooli- ja gümnaasiumiseaduse muutmise seadus [175 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "db3f9f52-98da-8367-2434-9a77ed1cace5"
+    },
+    {
+      "order": 3,
+      "title": "Koolieelse lasteasutuse seaduse, erakooliseaduse ning huvikooli seaduse muutmise seadus [165 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1516e225-8fb2-ea5e-82dd-bfa59f973caf"
+    },
+    {
+      "order": 4,
+      "title": "Info, kirjad",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "44392986-53f1-5b9c-8003-34bc8062dd3e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 24.03.2008",
+      "uuid": "2565381b-de47-07c3-b6a4-45c417d681f1",
+      "files": [
+        "Kultuurikomisjon_istungi_protokoll_13_2008.odt",
+        "Kultuurikomisjon_paevakord_24_03_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "d45d6079-c722-253f-c32d-6af97d94ca6c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d45d6079-c722-253f-c32d-6af97d94ca6c)",
+  "source": "https://api.riigikogu.ee/api/volumes/d45d6079-c722-253f-c32d-6af97d94ca6c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-03-01&endDate=2008-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
