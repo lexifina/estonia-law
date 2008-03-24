@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-03-24T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Õiguskomisjonile arvamuse andmine Vabariigi Valitsuse algatatud liiklusseaduse ja karistusseadustiku ning nendega seonduvate seaduste muutmise seaduse eelnõu -179 SE- kohta",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b72f7f70-511d-9324-0715-4a7eaa2382a0"
+    },
+    {
+      "order": 2,
+      "title": "Välismaalaste seaduse paragrahvi 10.28 muutmise seadus [173 SE III]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dc250254-3785-03e0-ec67-613f293c584e"
+    },
+    {
+      "order": 3,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2bd02b07-ba11-b6ad-0bfc-db187398f3df"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 24.03.2008",
+      "uuid": "06d63edb-9693-c060-9375-6671e83defb2",
+      "files": [
+        "Põhiseaduskomisjon_istungi_protokoll_13_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "9bc4bceb-bbe1-1d8d-b431-b1e1974a891a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9bc4bceb-bbe1-1d8d-b431-b1e1974a891a)",
+  "source": "https://api.riigikogu.ee/api/volumes/9bc4bceb-bbe1-1d8d-b431-b1e1974a891a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-03-01&endDate=2008-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
