@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-03-24T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Liiklusseaduse muutmise seadus [217 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5e98f4f3-2f31-d633-efff-fc6cc178b528"
+    },
+    {
+      "order": 2,
+      "title": "Surveseadme ohutuse seaduse, küttegaasi ohutuse seaduse, masina ohutuse seaduse, lifti ja köistee ohutuse seaduse ning elektriohutusseaduse muutmise seadus [220 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cc4dde60-60ee-f260-90dc-08569167b726"
+    },
+    {
+      "order": 3,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "95b44f48-2bfa-99b7-ea39-136ff08c894c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 24.03.2008",
+      "uuid": "a43d9765-f9e3-7d08-c4a1-cd609fef90d3",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_13_2008.odt",
+        "Majanduskomisjon_paevakord_24_03_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "d2023e06-afc5-33b1-5da6-b27a59995fa0",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d2023e06-afc5-33b1-5da6-b27a59995fa0)",
+  "source": "https://api.riigikogu.ee/api/volumes/d2023e06-afc5-33b1-5da6-b27a59995fa0",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-03-01&endDate=2008-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
