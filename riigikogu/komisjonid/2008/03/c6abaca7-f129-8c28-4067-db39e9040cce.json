@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-03-24T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Keskkonnakomisjoni töökava",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a88f65e3-2a73-67a9-1d9c-2f70ba31debb"
+    },
+    {
+      "order": 2,
+      "title": "Keskkonnatasude seaduse muutmise seadus [197 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "577321e1-26fa-d193-55f9-fc3851f71000"
+    },
+    {
+      "order": 3,
+      "title": "Jooksvad küsimusesd",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "be1e6420-f5c8-e89c-b834-d4c2e0c57582"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 24.03.2008",
+      "uuid": "ecda2da2-568a-fdcd-e37e-df7b05331421",
+      "files": [
+        "prot44 24.03.08.doc"
+      ]
+    }
+  ],
+  "uuid": "c6abaca7-f129-8c28-4067-db39e9040cce",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c6abaca7-f129-8c28-4067-db39e9040cce)",
+  "source": "https://api.riigikogu.ee/api/volumes/c6abaca7-f129-8c28-4067-db39e9040cce",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-03-01&endDate=2008-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
