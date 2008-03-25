@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-03-25T10:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ravikindlustuse seaduse § 63 muutmise seadus [196 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "af6048e7-e38a-97ae-a45e-e1ae6948e53c"
+    },
+    {
+      "order": 2,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "aca0cd29-fa43-c283-9431-774c6bdd69a5"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 25.03.2008",
+      "uuid": "a7d5d92f-7910-ce72-480b-2b06fa219451",
+      "files": [
+        "Sotsiaalkomisjon_istungi_protokoll_13_2008.odt",
+        "Sotsiaalkomisjon_paevakord_25_03_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "7573999d-b925-6dbe-ae4d-06aa04a98a40",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7573999d-b925-6dbe-ae4d-06aa04a98a40)",
+  "source": "https://api.riigikogu.ee/api/volumes/7573999d-b925-6dbe-ae4d-06aa04a98a40",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-03-01&endDate=2008-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
