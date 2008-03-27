@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-03-27T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 2.-4. aprillil 2008 toimuval NATO tippkohtumisel Bukarestis.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4a465221-db24-63f7-d7a4-27d7eeda62ba"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu ja Riigikogu Kantselei välissuhtlemise eelarve koostamise põhimõtted. ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "abac04e9-655d-5842-6522-b7ffa0d93aa1"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c9067baf-afbd-c79f-f710-ea871e0857ae"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 27.03.2008",
+      "uuid": "aff9d88d-f65b-f98a-4c84-8ffdb8bfcb63",
+      "files": [
+        "Väliskomisjon_istungi_protokoll_13_2008.odt",
+        "Väliskomisjon_paevakord_27_03_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "11743375-61b0-e13b-f487-692dcb21c0f5",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 11743375-61b0-e13b-f487-692dcb21c0f5)",
+  "source": "https://api.riigikogu.ee/api/volumes/11743375-61b0-e13b-f487-692dcb21c0f5",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-03-01&endDate=2008-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
