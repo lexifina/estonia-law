@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-03-28T10:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Euroopa Komisjoni asepresidendi Siim Kallasega.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b34e9842-c57d-7ba4-1805-f4087be3661a"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad 4.-5. aprillil toimuval  majandus- ja rahandusministrite nõukogu (ECOFIN) mitteametlikul kohtumisel. ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b6339f5f-5826-f0b8-8ff6-728a1da37b84"
+    },
+    {
+      "order": 3,
+      "title": "Seiskoha andmine: Euroopa nõukogu määruse eelnõu, millega luuakse ühenduse süsteem ebaseadusliku, teatamata ja reguleerimata kalapüügi vältimiseks, ärahoidmiseks ja lõpetamiseks (COM(2007)602. ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "19bc36a6-54b1-3d32-0c41-687d0bf5c785"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 28.03.2008",
+      "uuid": "d926ca8f-f825-7b1d-fe1f-8c6483f837c2",
+      "files": [
+        "Euroopa Liidu asjade komisjon_istungi_protokoll_13_2008.odt",
+        "Euroopa Liidu asjade komisjon_paevakord_28_03_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "934d9c3b-ca4e-f06c-9b76-411b90c01e6c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 934d9c3b-ca4e-f06c-9b76-411b90c01e6c)",
+  "source": "https://api.riigikogu.ee/api/volumes/934d9c3b-ca4e-f06c-9b76-411b90c01e6c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-03-01&endDate=2008-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
