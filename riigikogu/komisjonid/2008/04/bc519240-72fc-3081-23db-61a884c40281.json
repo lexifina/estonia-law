@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-04-07T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7e929353-bb1b-002b-c3cb-11391f02be44"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine Eesti Põllumajandus-Kaubanduskoja (EPKK) esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bd7a3579-8434-89b5-61ea-b1c4615cd2a1"
+    },
+    {
+      "order": 3,
+      "title": "MSI-lt tellitava uuringu lähteülesanne",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f054ef2c-1fa8-9cf9-1111-f2018253c2f2"
+    },
+    {
+      "order": 4,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6e67be62-579f-fc29-2444-ffc9ed412d85"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 07.04.2008",
+      "uuid": "7b1eb11e-ac45-87eb-d043-c33749e2a2ff",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_15_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "bc519240-72fc-3081-23db-61a884c40281",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid bc519240-72fc-3081-23db-61a884c40281)",
+  "source": "https://api.riigikogu.ee/api/volumes/bc519240-72fc-3081-23db-61a884c40281",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-04-01&endDate=2008-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
