@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-04-07T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töönädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8874a643-b2d4-5f36-1a09-9123cbea7999"
+    },
+    {
+      "order": 2,
+      "title": "Korrakaitseseadus [49 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "011db533-e517-eeb2-9066-b232a8be3f5e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 07.04.2008",
+      "uuid": "c84dfe18-ba2d-6124-91ea-91b64bcf5579",
+      "files": [
+        "Õiguskomisjon_istungi_protokoll_15_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "dcfecec6-362f-bd7d-f2eb-acaf9500039c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid dcfecec6-362f-bd7d-f2eb-acaf9500039c)",
+  "source": "https://api.riigikogu.ee/api/volumes/dcfecec6-362f-bd7d-f2eb-acaf9500039c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-04-01&endDate=2008-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
