@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-04-07T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti Vabariigi põhiseaduse muutmise seaduse eelnõu  -47 SE- kolmanda lugemise arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f3380d43-646d-b9be-d767-1b990f7e99c9"
+    },
+    {
+      "order": 2,
+      "title": "Teabe avalikustamine kohtueelses kriminaalmenetluses, arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d532509c-62c2-4077-f729-3d2198acb663"
+    },
+    {
+      "order": 3,
+      "title": "Riigikogu otsuse „Riigikogu otsuse ”Korruptsioonivastase seaduse kohaldamise komisjoni moodustamine” muutmine eelnõu -226 OE- esimese lugemise arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2b0d78ca-fb58-9d7b-c355-84bd3de4cf40"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 07.04.2008",
+      "uuid": "c6a92cf6-47d9-69e3-bbec-aa1f8f960657",
+      "files": [
+        "Põhiseaduskomisjon_istungi_protokoll_15_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "af62ef65-fb0f-4765-849b-036091f1a35b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid af62ef65-fb0f-4765-849b-036091f1a35b)",
+  "source": "https://api.riigikogu.ee/api/volumes/af62ef65-fb0f-4765-849b-036091f1a35b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-04-01&endDate=2008-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
