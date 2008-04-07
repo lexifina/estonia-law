@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-04-07T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kaevandamisseaduse muutmise seadus [211 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2693a6ce-81f7-01c8-18ee-d4094bcb96e6"
+    },
+    {
+      "order": 2,
+      "title": "Surveseadme ohutuse seaduse, küttegaasi ohutuse seaduse, masina ohutuse seaduse, lifti ja köistee ohutuse seaduse ning elektriohutusseaduse muutmise seadus [220 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b0a473d8-b5f6-dbc7-a7f3-3767d8a6278e"
+    },
+    {
+      "order": 3,
+      "title": "Euroopa Komisjoni Euroopa sadamapoliitikat käsitleva teatise arutelu ja arvamuse andmine ELAK-le",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7e5339f7-54d9-c671-cabc-0c6fe224b1d8"
+    },
+    {
+      "order": 4,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a6d5041d-5d42-089d-b23c-f4cc3bca1132"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 07.04.2008",
+      "uuid": "9d88a863-dd5d-4c4b-c976-2b784ad03ba2",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_15_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "d6cd4bdd-de9b-f6de-8afb-b3039cba1419",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d6cd4bdd-de9b-f6de-8afb-b3039cba1419)",
+  "source": "https://api.riigikogu.ee/api/volumes/d6cd4bdd-de9b-f6de-8afb-b3039cba1419",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-04-01&endDate=2008-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
