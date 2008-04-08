@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-04-08T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Võrdse kohtlemise seaduse eelnõu –67 SE–  teise lugemise jätkamise arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cd2f60bc-0b28-f86e-97ac-d9b4c6d6f1e5"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu liikme staatuse seaduse § 28 muutmise seaduse eelnõu -201 SE- esimese lugemise arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2df5c157-a4ec-39b4-67ef-fc30589a9c74"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 08.04.2008",
+      "uuid": "a21d5a87-e35e-c649-35d5-01ece78919ab",
+      "files": [
+        "Põhiseaduskomisjon_istungi_protokoll_15_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "509eedde-01ae-b8df-e08e-df64bf7d93fb",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 509eedde-01ae-b8df-e08e-df64bf7d93fb)",
+  "source": "https://api.riigikogu.ee/api/volumes/509eedde-01ae-b8df-e08e-df64bf7d93fb",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-04-01&endDate=2008-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
