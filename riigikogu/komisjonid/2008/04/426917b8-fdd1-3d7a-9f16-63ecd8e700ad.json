@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-04-08T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Euroopa Parlamendi ja nõukogu määruse (EÜ) nr 1082/2006 \"Euroopa territoriaalse koostöö rühmituse (ETKR) kohta\" rakendamise seadus [204 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "474ff0f9-0cb0-cacd-05c3-512089b6f521"
+    },
+    {
+      "order": 2,
+      "title": "Politseiseaduse ja sellega seonduvate seaduste muutmise seadus [222 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1fab25af-2ef9-11bf-de95-a2deb42d536c"
+    },
+    {
+      "order": 3,
+      "title": "Korrakaitseseadus [49 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "66754807-7103-f558-7f53-524eb77e8bd2"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 08.04.2008",
+      "uuid": "53bbf5b3-21cf-9a93-465c-02412bef003b",
+      "files": [
+        "iguskomisjon_istungi_protokoll_15_2008.odt",
+        "Õiguskomisjon_paevakord_08_04_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "426917b8-fdd1-3d7a-9f16-63ecd8e700ad",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 426917b8-fdd1-3d7a-9f16-63ecd8e700ad)",
+  "source": "https://api.riigikogu.ee/api/volumes/426917b8-fdd1-3d7a-9f16-63ecd8e700ad",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-04-01&endDate=2008-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
