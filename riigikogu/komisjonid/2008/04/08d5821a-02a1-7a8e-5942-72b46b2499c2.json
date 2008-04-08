@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-04-08T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kalapüügiseaduse muutmise seadus [184 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5a69ac42-013e-c0d9-5acf-63d7ff8d36c4"
+    },
+    {
+      "order": 2,
+      "title": "Looduskaitseseaduse muutmise seadus [212 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "88c36eb6-2edb-1ec3-044c-c59046b5a302"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 08.04.2008",
+      "uuid": "1de253dd-9395-4387-4bc5-7cd3fa423cdf",
+      "files": [
+        "prot46 08.04.08.doc"
+      ]
+    }
+  ],
+  "uuid": "08d5821a-02a1-7a8e-5942-72b46b2499c2",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 08d5821a-02a1-7a8e-5942-72b46b2499c2)",
+  "source": "https://api.riigikogu.ee/api/volumes/08d5821a-02a1-7a8e-5942-72b46b2499c2",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-04-01&endDate=2008-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
