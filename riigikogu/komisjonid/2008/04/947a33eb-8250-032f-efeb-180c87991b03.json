@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-04-08T11:45:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Tutvumine Patarei vanglaga. Arutelu kultuurikeskuse teemal",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a61ed02f-12af-bca4-15f9-01ea62a7bc38"
+    },
+    {
+      "order": 2,
+      "title": "Olulise tähtsusega riikliku küsimuse võimalik algatamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f7fdc756-ffdf-3c77-44fc-36cb077421fc"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 08.04.2008",
+      "uuid": "e684b91a-7544-564f-22c2-3a5e6a1e00f5",
+      "files": [
+        "Kultuurikomisjon_istungi_protokoll_15_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "947a33eb-8250-032f-efeb-180c87991b03",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 947a33eb-8250-032f-efeb-180c87991b03)",
+  "source": "https://api.riigikogu.ee/api/volumes/947a33eb-8250-032f-efeb-180c87991b03",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-04-01&endDate=2008-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
