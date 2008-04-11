@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-04-11T10:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade 2.-4. aprillil 2008 Bukarestis toimunud NATO tippkohtumisest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2dde18cf-a45f-e999-3dfb-4bc2c0e7a722"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b770d77f-e08a-31e4-5105-13a2970fa32c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 11.04.2008",
+      "uuid": "1d12b73d-f772-cdb7-bf84-c105569e6624",
+      "files": [
+        "Väliskomisjon_istungi_protokoll_15_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "406fbd19-5855-4458-1975-4ad496d94855",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 406fbd19-5855-4458-1975-4ad496d94855)",
+  "source": "https://api.riigikogu.ee/api/volumes/406fbd19-5855-4458-1975-4ad496d94855",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-04-01&endDate=2008-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
