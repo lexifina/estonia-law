@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-04-14T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Keskkonnakomisjoni töökava",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "74a0c62d-450f-a536-bc88-5bb923bdff26"
+    },
+    {
+      "order": 2,
+      "title": "Kalapüügiseaduse muutmise seadus [184 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "45b1ee3e-8d46-3236-cf0a-04957c586d1b"
+    },
+    {
+      "order": 3,
+      "title": "Pakendiseaduse ja pakendiaktsiisi seaduse muutmise seadus [195 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1e813958-8f01-1a68-a712-f5832235cdde"
+    },
+    {
+      "order": 4,
+      "title": "Jooksvad küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "84be8c94-bbdb-1188-05ae-a3fed0c69b62"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 14.04.2008",
+      "uuid": "fa16ea78-52d6-a425-7c93-7aaa22ec79ed",
+      "files": [
+        "prot47 14.04.08.doc",
+        "Keskkonnakomisjon_paevakord_14_04_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "9205816a-7e9c-5d80-5e7a-37734506baa2",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9205816a-7e9c-5d80-5e7a-37734506baa2)",
+  "source": "https://api.riigikogu.ee/api/volumes/9205816a-7e9c-5d80-5e7a-37734506baa2",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-04-01&endDate=2008-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
