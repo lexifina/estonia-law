@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-04-14T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Tuumakatastroofi piirkonda saadetud isiku seadus [206 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f831a98e-3dd0-90ae-d954-15acdbabf0bb"
+    },
+    {
+      "order": 2,
+      "title": "Riiklike peretoetuste seaduse muutmise seadus [208 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f4cc5505-e433-c298-6db6-e6acbb27e197"
+    },
+    {
+      "order": 3,
+      "title": "Tervishoiuteenuste korraldamise seaduse muutmise seadus [209 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b9d851ad-11a2-fd69-7992-a345c3de7372"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 14.04.2008",
+      "uuid": "4d4ffe6e-a2c0-b816-5fba-8817ab0b40ff",
+      "files": [
+        "Sotsiaalkomisjon_istungi_protokoll_16_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "c417c8ce-e3a6-c195-deb6-c237b5f21fe4",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c417c8ce-e3a6-c195-deb6-c237b5f21fe4)",
+  "source": "https://api.riigikogu.ee/api/volumes/c417c8ce-e3a6-c195-deb6-c237b5f21fe4",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-04-01&endDate=2008-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
