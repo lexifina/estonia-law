@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-04-14T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala päevkorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3b03de3f-a46f-ea27-11e3-961ac9784221"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad Euroopa Parlamendi ja nõukogu määruse, milles käsitletakse toidualase teabe esitamist tarbijatele, eelnõu kohta. Arvamuse andmine ELAKile",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0562157d-7c3a-191b-49a7-3e4864443fe8"
+    },
+    {
+      "order": 3,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cc0a401b-28a4-9fb2-5acd-5d65c76ec8cd"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 14.04.2008",
+      "uuid": "c79fa7fc-d589-5a45-f44f-6e9df2401a6d",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_16_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "6ace57e5-8ec1-3f74-3c8a-1d03a45fc8cb",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 6ace57e5-8ec1-3f74-3c8a-1d03a45fc8cb)",
+  "source": "https://api.riigikogu.ee/api/volumes/6ace57e5-8ec1-3f74-3c8a-1d03a45fc8cb",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-04-01&endDate=2008-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
