@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-04-17T12:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Noorsootöö seaduse ja huvikooli seaduse muutmise seadus [232 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "eaee20bb-26c4-9371-043e-a6532bf896a9"
+    },
+    {
+      "order": 2,
+      "title": "Ringhäälinguseaduse muutmise seadus [241 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "05c486b4-fad9-a41d-f0a6-52af8f8860d1"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 17.04.2008",
+      "uuid": "f5e9ab37-cbbe-9b05-4cee-67826f1aecfa",
+      "files": [
+        "Kultuurikomisjon_istungi_protokoll_16_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "84159736-742e-189d-042c-2cd1faf134bc",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 84159736-742e-189d-042c-2cd1faf134bc)",
+  "source": "https://api.riigikogu.ee/api/volumes/84159736-742e-189d-042c-2cd1faf134bc",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-04-01&endDate=2008-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
