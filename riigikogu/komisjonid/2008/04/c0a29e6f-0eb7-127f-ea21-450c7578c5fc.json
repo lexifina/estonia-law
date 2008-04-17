@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-04-17T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Elamuseaduse ja säästva arengu seaduse muutmise seadus [199 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c27968a2-6274-a013-d092-9852f4d24c14"
+    },
+    {
+      "order": 2,
+      "title": "Väljasõiduistung Toidu -ja Fermentatsioonitehnoloogia Arenduskeskusesse ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ac11130a-2c34-c842-3407-f697816a1c0d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 17.04.2008",
+      "uuid": "0574195f-5028-5105-c6bc-b928c2d813d4",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_16_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "c0a29e6f-0eb7-127f-ea21-450c7578c5fc",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c0a29e6f-0eb7-127f-ea21-450c7578c5fc)",
+  "source": "https://api.riigikogu.ee/api/volumes/c0a29e6f-0eb7-127f-ea21-450c7578c5fc",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-04-01&endDate=2008-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
