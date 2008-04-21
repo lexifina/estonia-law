@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-04-21T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikogu otsuse \"Eesti esindaja nimetamine Põhjamaade Investeerimispanga kontrollkomiteesse\" eelnõu algatamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "60168494-60e7-e29c-e03b-d95832030f37"
+    },
+    {
+      "order": 2,
+      "title": "Hoiu-laenuühistu seaduse ja kreedidiasutuste seaduse muutmise seadus [240 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "16e8d47c-4de4-2642-8fe5-e7e72f85af5d"
+    },
+    {
+      "order": 3,
+      "title": "Arvamuse andmine Eesti seisukohtade ja nõukogu direktiivi eelnõu kohta, mis käsitleb aksiisimaksu üldist korda, Euroopa Liidu asjade komisjonile",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f73216ef-7a81-d4f4-a18c-6f4bddc70796"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 21.04.2008",
+      "uuid": "4e1aa9e1-8e02-a65c-75a6-eab91c6ef84c",
+      "files": [
+        "Rahanduskomisjon_istungi_protokoll_17_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "7bf60868-069a-8874-a4fd-56562bb538ba",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7bf60868-069a-8874-a4fd-56562bb538ba)",
+  "source": "https://api.riigikogu.ee/api/volumes/7bf60868-069a-8874-a4fd-56562bb538ba",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-04-01&endDate=2008-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
