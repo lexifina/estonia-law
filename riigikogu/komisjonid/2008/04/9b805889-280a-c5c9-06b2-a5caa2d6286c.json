@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-04-21T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikohtu pöördumine arvamuse saamiseks riigihanke seaduse § 38 lõige 1p4 põhiseaduspärasuse kohta",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6d6b7da4-91b6-9ac6-7f82-968160c2e6ab"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Presidendi taotluse arutelu riigivara võõrandamiseks ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3da7b137-f614-a0cd-80fd-ef766dfb9de4"
+    },
+    {
+      "order": 3,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "27009197-3507-fd7c-60c2-52455c9ec22f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 21.04.2008",
+      "uuid": "98e2bee5-e56e-ce20-a167-ef554f3f3b8a",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_17_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "9b805889-280a-c5c9-06b2-a5caa2d6286c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9b805889-280a-c5c9-06b2-a5caa2d6286c)",
+  "source": "https://api.riigikogu.ee/api/volumes/9b805889-280a-c5c9-06b2-a5caa2d6286c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-04-01&endDate=2008-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
