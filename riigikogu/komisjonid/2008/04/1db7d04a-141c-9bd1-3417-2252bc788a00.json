@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-04-21T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Eesti Kunstiakadeemia rektori professor Signe Kiviga",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4a72d0b5-3066-aa35-b57a-4af3652c58f5"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine Eesti Projektbüroode Liidu esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2c58fc85-afe9-bf47-edc1-7c8b460514b3"
+    },
+    {
+      "order": 3,
+      "title": "Info, kirjad",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d008c205-69ae-bc98-410c-92bc08d61923"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 21.04.2008",
+      "uuid": "423e9641-fa22-748f-0a16-1803f2410d7c",
+      "files": [
+        "Kultuurikomisjon_istungi_protokoll_17_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "1db7d04a-141c-9bd1-3417-2252bc788a00",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 1db7d04a-141c-9bd1-3417-2252bc788a00)",
+  "source": "https://api.riigikogu.ee/api/volumes/1db7d04a-141c-9bd1-3417-2252bc788a00",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-04-01&endDate=2008-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
