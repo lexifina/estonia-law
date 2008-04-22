@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-04-22T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väliskomisjoni ja riigikaitsekomisjoni avalik ühisistung – NATO tippkohtumine Bukarestis 2.-4. aprillil 2008.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0edb0a51-6256-7f8f-060f-c34d13a69cc5"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8b714d2b-8e5f-3515-8e47-f3543c00fbcb"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 22.04.2008",
+      "uuid": "664d268c-4c31-7dfe-68d7-16230f8b1399",
+      "files": [
+        "Väliskomisjon_istungi_protokoll_17_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "e844234b-15d0-7045-5d98-a8b35ca4ead5",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e844234b-15d0-7045-5d98-a8b35ca4ead5)",
+  "source": "https://api.riigikogu.ee/api/volumes/e844234b-15d0-7045-5d98-a8b35ca4ead5",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-04-01&endDate=2008-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
