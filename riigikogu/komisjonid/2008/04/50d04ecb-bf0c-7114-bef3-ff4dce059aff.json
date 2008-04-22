@@ -1,0 +1,34 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-04-22T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Eesti Aiandusliidu esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5dfaf11b-4c90-9b1a-7d68-8e1a235e595e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 22.04.2008",
+      "uuid": "63d9c49b-8b3f-8791-9b73-1340dcb147f9",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_17_2008.odt",
+        "Maaelukomisjon_paevakord_22_04_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "50d04ecb-bf0c-7114-bef3-ff4dce059aff",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 50d04ecb-bf0c-7114-bef3-ff4dce059aff)",
+  "source": "https://api.riigikogu.ee/api/volumes/50d04ecb-bf0c-7114-bef3-ff4dce059aff",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-04-01&endDate=2008-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
