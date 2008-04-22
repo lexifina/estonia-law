@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-04-22T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kriminaalmenetluse seadustiku ja väärteomenetluse seadustiku muutmise seadus [238 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9822e348-3885-330e-6e1b-273b17a709ed"
+    },
+    {
+      "order": 2,
+      "title": "Karistusseadustiku ja kriminaalmenetluse seadustiku muutmise seadus [239 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dbe6e5bd-763c-b704-fd01-b3bed9a86e11"
+    },
+    {
+      "order": 3,
+      "title": "Arvamuse andmine ELAK-le",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "530c053a-4073-e92e-e4b7-939ef02a7932"
+    },
+    {
+      "order": 4,
+      "title": "Korrakaitseseadus [49 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "570856c0-c514-c77b-2002-4b83bf8c7f92"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 22.04.2008",
+      "uuid": "d195f64d-d046-f164-8631-c4dd1050cae4",
+      "files": [
+        "iguskomisjon_istungi_protokoll_17_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "0957fdd5-fd16-8485-fe45-42bf29f605f0",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0957fdd5-fd16-8485-fe45-42bf29f605f0)",
+  "source": "https://api.riigikogu.ee/api/volumes/0957fdd5-fd16-8485-fe45-42bf29f605f0",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-04-01&endDate=2008-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
