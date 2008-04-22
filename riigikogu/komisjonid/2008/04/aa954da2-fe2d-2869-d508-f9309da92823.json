@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-04-22T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikontrolli aruanne \"Riigi tegevus tööturult tõrjutute tagasitoomiseks tööturule",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a2878363-bc83-6712-782a-5d893d3367e8"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade Euroopa Komisjoni korraldatud 16.-17.aprillil Riias toimunud sotsiaalse tegelikkuse arutelust",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f5a4e8af-c31b-8272-6ea5-6e52bf81f008"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 22.04.2008",
+      "uuid": "c6b80ffa-98a0-2d43-58a3-e3d309957c06",
+      "files": [
+        "Sotsiaalkomisjon_istungi_protokoll_17_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "aa954da2-fe2d-2869-d508-f9309da92823",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid aa954da2-fe2d-2869-d508-f9309da92823)",
+  "source": "https://api.riigikogu.ee/api/volumes/aa954da2-fe2d-2869-d508-f9309da92823",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-04-01&endDate=2008-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
