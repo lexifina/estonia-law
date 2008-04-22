@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-04-22T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Jõgevamaa esindajatega (Jõgevamaa kuu raames)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ff9100de-d4d2-88e8-02db-e273da41b6d4"
+    },
+    {
+      "order": 2,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "86949664-0fea-71a3-98a8-d5f55af21c5b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 22.04.2008",
+      "uuid": "e25f9f4e-6421-b6a5-e3ed-9bb347e2d5a6",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_17_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "7cd870a5-9b09-1477-e189-a91b022eda53",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7cd870a5-9b09-1477-e189-a91b022eda53)",
+  "source": "https://api.riigikogu.ee/api/volumes/7cd870a5-9b09-1477-e189-a91b022eda53",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-04-01&endDate=2008-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
