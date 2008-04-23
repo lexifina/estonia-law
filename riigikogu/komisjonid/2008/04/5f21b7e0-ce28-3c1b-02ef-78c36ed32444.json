@@ -1,0 +1,33 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-04-23T00:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "12:00 – 13:00 Ruumis 262 avalik istung: Avalikust korrast Eestis ja politsei tegevusest: viimase aja suundumused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c69597cd-df70-1816-a1c8-495cfe67e0ae"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 23.04.2008",
+      "uuid": "23bcb3d1-0aae-33e6-e0bc-026fb5fd920b",
+      "files": [
+        "Õiguskomisjon_istungi_protokoll_17_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "5f21b7e0-ce28-3c1b-02ef-78c36ed32444",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 5f21b7e0-ce28-3c1b-02ef-78c36ed32444)",
+  "source": "https://api.riigikogu.ee/api/volumes/5f21b7e0-ce28-3c1b-02ef-78c36ed32444",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-04-01&endDate=2008-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
