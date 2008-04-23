@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-04-23T09:00:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikogu avalduse „Georgia suveräänsuse ja territoriaalse terviklikkuse toetuseks“ eelnõu (252 AE) ettevalmistamine esimeseks lugemiseks.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a9588336-10de-2795-f1cb-289c46234651"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e0cfef8a-fe59-65cb-7f68-38de4a866c8c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 23.04.2008",
+      "uuid": "bccf700a-c3d5-f1ea-08ad-d5f4f744fc5c",
+      "files": [
+        "Väliskomisjon_istungi_protokoll_17_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "3b1e87a1-227e-8811-d947-3552bf376c6d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3b1e87a1-227e-8811-d947-3552bf376c6d)",
+  "source": "https://api.riigikogu.ee/api/volumes/3b1e87a1-227e-8811-d947-3552bf376c6d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-04-01&endDate=2008-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
