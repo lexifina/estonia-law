@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-04-24T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Võrdse kohtlemise seaduse eelnõu –67 SE–  kolmanda lugemise arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1f197805-24f9-ad24-0cd2-d0b35350e5dc"
+    },
+    {
+      "order": 2,
+      "title": "Kohtute seaduse ja halduskoostöö seaduse muutmise seaduse eelnõu –190 SE–  kolmanda lugemise arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ba095ac3-0796-7f1a-358c-0d65993c014f"
+    },
+    {
+      "order": 3,
+      "title": "Lissaboni lepingu ratifitseerimise arutelu õigusekspertide osavõtul",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5ef6475b-334a-8b7f-c5cb-be6ad8a8a23e"
+    },
+    {
+      "order": 4,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7e7344a4-6e24-9591-587e-135a50e0d8a4"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 24.04.2008",
+      "uuid": "d31a364a-825f-7371-a735-97240c6cb6b9",
+      "files": [
+        "Põhiseaduskomisjon_istungi_protokoll_17_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "7b30c703-fbea-6dc2-f076-87ee4e5f3b28",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7b30c703-fbea-6dc2-f076-87ee4e5f3b28)",
+  "source": "https://api.riigikogu.ee/api/volumes/7b30c703-fbea-6dc2-f076-87ee4e5f3b28",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-04-01&endDate=2008-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
