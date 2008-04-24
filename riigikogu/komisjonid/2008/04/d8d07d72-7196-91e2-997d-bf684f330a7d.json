@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-04-24T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade olukorrast Kosovos. Ülevaade 29.02.-02.03.2008 toimunud Eesti-Kosovo parlamendirühma visiidist Kosovosse.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d86e0221-769b-ec95-2305-97aa765d521d"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade Euroopa Parlamendi algatatud Läänemere piirkonna strateegiast.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "981c2d8f-c734-007a-5043-cbdf8c78e6b4"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "073f580e-893b-7bcf-0ab0-fb9d183a6124"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 24.04.2008",
+      "uuid": "1a6f2831-65b7-01e9-390c-2914f9d4b058",
+      "files": [
+        "Väliskomisjon_istungi_protokoll_17_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "d8d07d72-7196-91e2-997d-bf684f330a7d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d8d07d72-7196-91e2-997d-bf684f330a7d)",
+  "source": "https://api.riigikogu.ee/api/volumes/d8d07d72-7196-91e2-997d-bf684f330a7d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-04-01&endDate=2008-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
