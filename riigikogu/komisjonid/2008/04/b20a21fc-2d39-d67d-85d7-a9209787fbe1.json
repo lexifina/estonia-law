@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-04-25T10:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väliskomisjoni ja ELAKi ühisistung - Eesti seisukohad 28.-29. aprillil 2008 toimuval Euroopa Liidu üldasjade ja välissuhete nõukogu istungil.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "eebaa6c2-e2c3-03e0-f82f-a2525ada4150"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "22f401ac-cff9-ad9d-925a-aa7bed603bcd"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 25.04.2008",
+      "uuid": "79840b49-5711-36f7-2099-e8f2887e1c74",
+      "files": [
+        "Väliskomisjon_istungi_protokoll_17_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "b20a21fc-2d39-d67d-85d7-a9209787fbe1",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b20a21fc-2d39-d67d-85d7-a9209787fbe1)",
+  "source": "https://api.riigikogu.ee/api/volumes/b20a21fc-2d39-d67d-85d7-a9209787fbe1",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-04-01&endDate=2008-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
