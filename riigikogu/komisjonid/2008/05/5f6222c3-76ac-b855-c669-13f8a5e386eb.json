@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-05-05T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Uuringu „Eesti transiit ja logistika“ II osa aruande ärakuulamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d13857aa-f88b-fd23-cb95-dc12efa8191f"
+    },
+    {
+      "order": 2,
+      "title": "Hasartmänguseadus [216 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0d1d0134-d953-d8c3-b837-01b383693216"
+    },
+    {
+      "order": 3,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "398df701-ff87-38b1-f0a6-d99857148a72"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 05.05.2008",
+      "uuid": "85138bae-007a-4f8f-efe0-c24b0f4a7421",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_19_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "5f6222c3-76ac-b855-c669-13f8a5e386eb",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 5f6222c3-76ac-b855-c669-13f8a5e386eb)",
+  "source": "https://api.riigikogu.ee/api/volumes/5f6222c3-76ac-b855-c669-13f8a5e386eb",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-05-01&endDate=2008-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
