@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-05-05T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ravikindlustuse seaduse ja Eesti Haigekassa seaduse muutmise seadus [246 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a39aa125-f241-89d0-4b19-908d68743101"
+    },
+    {
+      "order": 2,
+      "title": "Elundite ja kudede siirdamise seaduse, kunstliku viljastamise ja embrüokaitse seaduse ning nendega seonduvalt teiste seaduste muutmise seadus [214 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bbdedd2f-2e70-7907-c131-559b5cf9dfd5"
+    },
+    {
+      "order": 3,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d031d736-28fc-7cc1-d18d-22969558181e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 05.05.2008",
+      "uuid": "3f431ff4-9c0e-2684-67c8-e0cba96dcaae",
+      "files": [
+        "Sotsiaalkomisjon_paevakord_05_05_2008.odt",
+        "Sotsiaalkomisjon_istungi_protokoll_19_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "c1de6f87-085c-c4fa-fa1b-113103b6a6da",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c1de6f87-085c-c4fa-fa1b-113103b6a6da)",
+  "source": "https://api.riigikogu.ee/api/volumes/c1de6f87-085c-c4fa-fa1b-113103b6a6da",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-05-01&endDate=2008-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
