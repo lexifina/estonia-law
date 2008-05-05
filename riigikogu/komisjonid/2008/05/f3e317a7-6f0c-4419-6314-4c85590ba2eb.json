@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-05-05T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Keskkonnakomisjoni töökava",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7c1a01d5-f7df-df2c-8a46-3383a277907e"
+    },
+    {
+      "order": 2,
+      "title": "Riigikantselei 28.04.2008 kiri nr 1-4/02806 rikkumismenetlusest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "eeb30a73-82ef-aba6-4613-7ce8f811f1ec"
+    },
+    {
+      "order": 3,
+      "title": "Keskkonnaministeeriumi 28.04.2008 kiri nr 4-5/ 23276 keskkonnatasude seaduse muutmisest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d509dc03-f145-1bda-aaac-f09ecfa83b17"
+    },
+    {
+      "order": 4,
+      "title": "Jooksvad küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c738f54a-0eb1-a984-37d4-040fc3979742"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 05.05.2008",
+      "uuid": "9af3ad1f-cc4d-ee7b-3929-56f9a36262d2",
+      "files": [
+        "prot51 05.05.08.doc"
+      ]
+    }
+  ],
+  "uuid": "f3e317a7-6f0c-4419-6314-4c85590ba2eb",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f3e317a7-6f0c-4419-6314-4c85590ba2eb)",
+  "source": "https://api.riigikogu.ee/api/volumes/f3e317a7-6f0c-4419-6314-4c85590ba2eb",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-05-01&endDate=2008-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
