@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-05-05T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "64cadc08-c0b3-7c77-0733-6759e537f85c"
+    },
+    {
+      "order": 2,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1631528a-7dd7-8ad0-fb80-bb73eabd8193"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 05.05.2008",
+      "uuid": "4e64465e-a1c0-e2b9-ddd1-88523694f6b8",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_19_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "9ecd1262-7d97-81e2-c4b1-5a78d3461c98",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9ecd1262-7d97-81e2-c4b1-5a78d3461c98)",
+  "source": "https://api.riigikogu.ee/api/volumes/9ecd1262-7d97-81e2-c4b1-5a78d3461c98",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-05-01&endDate=2008-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
