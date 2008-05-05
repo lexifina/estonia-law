@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-05-05T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kutseseadus [213 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "96ac455c-0d3c-6d7e-35d6-69514c8109cb"
+    },
+    {
+      "order": 2,
+      "title": "Õppetoetuste ja õppelaenu seaduse muutmise seadus [223 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b26ca012-eea6-2100-6197-7230d3bc5a26"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 05.05.2008",
+      "uuid": "ff3ed979-7f10-b50e-ab37-191c30e11667",
+      "files": [
+        "Kultuurikomisjon_istungi_protokoll_19_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "ecbfcad6-877c-e9f8-eeaa-d89b83b2f9e0",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ecbfcad6-877c-e9f8-eeaa-d89b83b2f9e0)",
+  "source": "https://api.riigikogu.ee/api/volumes/ecbfcad6-877c-e9f8-eeaa-d89b83b2f9e0",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-05-01&endDate=2008-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
