@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-05-06T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ühisistung sotsiaalkomisjoniga: Ülevaade Töötukassa tegevusest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7fbc2d9b-b0f6-1cc4-db3c-8d33e3d6802c"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu otsus \"Jaan Sven Männiku Eesti Panga Nõukogu esimehe ametisse nimetamine\" [257 OE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cbb3a65b-12a8-f9a1-295c-9599eb7c9cb6"
+    },
+    {
+      "order": 3,
+      "title": "Hoiu-laenuühistu seaduse ja krediidiasutuste seaduse muutmise seadus [240 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f91cc674-1bb0-86eb-a854-d2e819dac9bd"
+    },
+    {
+      "order": 4,
+      "title": "Riigikogu otsuse \"Eesti esindaja nimetamine Põhjamaade Investeerimispanga kontrollkomiteesse\" eelnõu algatamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c18ea794-8fb6-473f-998c-862e4bdb42c2"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 06.05.2008",
+      "uuid": "a4d21cf6-1d9f-5018-686e-317caf6b680c",
+      "files": [
+        "Rahanduskomisjon_istungi_protokoll_19_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "bcde2171-22d6-c1e2-d03f-d675664c10bf",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid bcde2171-22d6-c1e2-d03f-d675664c10bf)",
+  "source": "https://api.riigikogu.ee/api/volumes/bcde2171-22d6-c1e2-d03f-d675664c10bf",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-05-01&endDate=2008-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
