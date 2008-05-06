@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-05-06T12:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Taimekaitseseaduse, halduskoostöö seaduse ja riigilõivuseaduse muutmise seaduse eelnõu (215 SE) ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e21f6230-6bdf-e0fe-c2a7-4d0dd27b68b6"
+    },
+    {
+      "order": 2,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9c75f68e-ec79-6b85-d9c5-628e23d17b0c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 06.05.2008",
+      "uuid": "fff799c2-9d74-cd69-5816-c47b331b5002",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_19_2008.odt",
+        "Maaelukomisjon_paevakord_06_05_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "7eb097a7-b9bb-b963-fb41-4c8a94262ef4",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7eb097a7-b9bb-b963-fb41-4c8a94262ef4)",
+  "source": "https://api.riigikogu.ee/api/volumes/7eb097a7-b9bb-b963-fb41-4c8a94262ef4",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-05-01&endDate=2008-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
