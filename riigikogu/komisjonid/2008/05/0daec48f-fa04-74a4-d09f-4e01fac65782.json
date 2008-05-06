@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-05-06T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Äriseadustiku, mittetulundusühingute seaduse ja nendega seonduvate teiste seaduste muutmise seadus [205 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "617e8b2c-22a1-d756-b8b1-7842fd7d2d57"
+    },
+    {
+      "order": 2,
+      "title": "Politseiseaduse ja sellega seonduvate seaduste muutmise seadus [222 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e0d0ab3e-b5e3-08cb-e1e7-26158e5743de"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 06.05.2008",
+      "uuid": "908e4f03-8b7b-7f96-0f6e-4e3d692accd1",
+      "files": [
+        "iguskomisjon_istungi_protokoll_19_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "0daec48f-fa04-74a4-d09f-4e01fac65782",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0daec48f-fa04-74a4-d09f-4e01fac65782)",
+  "source": "https://api.riigikogu.ee/api/volumes/0daec48f-fa04-74a4-d09f-4e01fac65782",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-05-01&endDate=2008-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
