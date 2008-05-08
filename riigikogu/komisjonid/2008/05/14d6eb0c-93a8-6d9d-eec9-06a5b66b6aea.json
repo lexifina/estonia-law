@@ -1,0 +1,34 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-05-08T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "kell 11.00 Tööhõive Valgamaal. Kohtumine Valga maakonna esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "112c9357-c1b9-4fce-8486-e30446c0ca23"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 08.05.2008",
+      "uuid": "3b1fcced-b9f2-aec2-4534-4d74fc5e505b",
+      "files": [
+        "Sotsiaalkomisjon_paevakord_08_05_2008.odt",
+        "Sotsiaalkomisjon_istungi_protokoll_19_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "14d6eb0c-93a8-6d9d-eec9-06a5b66b6aea",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 14d6eb0c-93a8-6d9d-eec9-06a5b66b6aea)",
+  "source": "https://api.riigikogu.ee/api/volumes/14d6eb0c-93a8-6d9d-eec9-06a5b66b6aea",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-05-01&endDate=2008-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
