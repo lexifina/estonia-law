@@ -1,0 +1,58 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-05-09T10:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väliskomisjoni 13. töönädala töökava kinnitamine.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f453758a-4e46-237f-77bc-5fe8b3720fa1"
+    },
+    {
+      "order": 2,
+      "title": "Väliskomisjoni töövisiidi ettevalmistamine Türgi Vabariiki (12.-15.05.2008)  - ülevaade olukorrast Türgis ja Eesti-Türgi suhetest. Kutsutud Tõnis Idarand.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "66108602-7887-a2a5-9176-ee1ed5b15d78"
+    },
+    {
+      "order": 3,
+      "title": "Riigikogu liikmete osalemine vaatlejatena 21. mail 2008 toimuvatel Gruusia üldvalimistel.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9210beea-af52-ff69-6097-55efa841227a"
+    },
+    {
+      "order": 4,
+      "title": "Informatsioon komisjoni liikmete tegevusest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "83723392-c4f5-6081-5e50-f0532f8aa1f6"
+    },
+    {
+      "order": 5,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0d6c169b-a898-bf10-2d4e-82c3efd59556"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 09.05.2008",
+      "uuid": "69860cbd-dd7c-4928-c4e2-11fe02a0b1ad",
+      "files": [
+        "Väliskomisjon_paevakord_09_05_2008.odt",
+        "Väliskomisjon_istungi_protokoll_19_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "8b17d051-e42f-9756-b192-2c83d38bae55",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8b17d051-e42f-9756-b192-2c83d38bae55)",
+  "source": "https://api.riigikogu.ee/api/volumes/8b17d051-e42f-9756-b192-2c83d38bae55",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-05-01&endDate=2008-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
