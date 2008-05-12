@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-05-12T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikogu otsuse \"Eesti esindaja nimetamine Põhjamaade Investeerimispanga kontrollkomiteesse\" eelnõu algatamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "85719851-6ac0-6690-9d69-e7db8c9c74b1"
+    },
+    {
+      "order": 2,
+      "title": "Käibemaksuseaduse § 15 muutmise seadus [224 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "54a6c363-907e-e533-41fa-29e28e17f69e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 12.05.2008",
+      "uuid": "8e890f3e-443f-002b-4bc9-bc7321c35b63",
+      "files": [
+        "Rahanduskomisjon_istungi_protokoll_20_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "5825b435-8887-f0e5-8015-478f38798c2b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 5825b435-8887-f0e5-8015-478f38798c2b)",
+  "source": "https://api.riigikogu.ee/api/volumes/5825b435-8887-f0e5-8015-478f38798c2b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-05-01&endDate=2008-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
