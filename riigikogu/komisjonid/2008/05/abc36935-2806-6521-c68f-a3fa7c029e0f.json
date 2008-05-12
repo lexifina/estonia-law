@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-05-12T15:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Keskkonnakomisjoni töökava",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5921e01d-d56d-2765-f836-d3f3e54c4107"
+    },
+    {
+      "order": 2,
+      "title": "Metsaseaduse muutmise seaduse eenõu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9950ab28-83ea-533f-1ed8-8decbe033de1"
+    },
+    {
+      "order": 3,
+      "title": "Jooksvad küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b8e5b9d4-c4c0-30ae-d1c0-d801f75ea66b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 12.05.2008",
+      "uuid": "f46a537e-bd70-025f-4831-09930432af91",
+      "files": [
+        "prot53 12.05.08.doc"
+      ]
+    }
+  ],
+  "uuid": "abc36935-2806-6521-c68f-a3fa7c029e0f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid abc36935-2806-6521-c68f-a3fa7c029e0f)",
+  "source": "https://api.riigikogu.ee/api/volumes/abc36935-2806-6521-c68f-a3fa7c029e0f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-05-01&endDate=2008-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
