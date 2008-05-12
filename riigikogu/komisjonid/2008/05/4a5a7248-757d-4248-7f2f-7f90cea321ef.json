@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-05-12T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töönädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2d9becb1-d87c-2043-9994-25956bf832e8"
+    },
+    {
+      "order": 2,
+      "title": "Perekonnaseadus [55 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "14ac15bb-7834-e427-2604-cb81b2e63f4e"
+    },
+    {
+      "order": 3,
+      "title": "Politseiseaduse ja sellega seonduvate seaduste muutmise seadus [222 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7d12dfcf-37c1-6969-a0cd-5cecf9f44b9b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 12.05.2008",
+      "uuid": "e793480d-4384-e4cb-f43c-d93b84cbdc7b",
+      "files": [
+        "iguskomisjon_istungi_protokoll_20_2008.odt",
+        "Õiguskomisjon_paevakord_12_05_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "4a5a7248-757d-4248-7f2f-7f90cea321ef",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 4a5a7248-757d-4248-7f2f-7f90cea321ef)",
+  "source": "https://api.riigikogu.ee/api/volumes/4a5a7248-757d-4248-7f2f-7f90cea321ef",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-05-01&endDate=2008-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
