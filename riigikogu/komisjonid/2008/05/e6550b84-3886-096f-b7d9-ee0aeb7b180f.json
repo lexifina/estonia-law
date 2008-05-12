@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-05-12T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "09db6ae0-f8a3-5126-dd3c-671de55ae143"
+    },
+    {
+      "order": 2,
+      "title": "Programmi ERARE käivitamisest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f0e50239-dbff-a212-6e75-0b8d67f4e01c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 12.05.2008",
+      "uuid": "289770f2-8548-be3f-d1e6-1d6d0871ab06",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_20_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "e6550b84-3886-096f-b7d9-ee0aeb7b180f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e6550b84-3886-096f-b7d9-ee0aeb7b180f)",
+  "source": "https://api.riigikogu.ee/api/volumes/e6550b84-3886-096f-b7d9-ee0aeb7b180f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-05-01&endDate=2008-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
