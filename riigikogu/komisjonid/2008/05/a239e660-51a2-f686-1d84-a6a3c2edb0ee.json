@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-05-12T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "696a3ac2-3207-fc1c-1c39-abcf8482b1f5"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu otsus \"Eesti kaitseväe kasutamine Eesti riigi rahvusvaheliste kohustuste täitmisel NATO reageerimisjõudude koosseisus\" [254 OE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e1b6db8d-ff61-6e4e-81da-3b0a3122efcc"
+    },
+    {
+      "order": 3,
+      "title": "Kaitseväe korralduse seadus [202 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "442d0954-c561-4cfe-fa7d-e32a933425c3"
+    },
+    {
+      "order": 4,
+      "title": "Kriminaalmenetluse seadustiku, rahuaja riigikaitse seaduse, sõjaaja riigikaitse seaduse ja Vabariigi Valitsuse seaduse muutmise seadus [203 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0bb88baa-e2a9-389e-4514-11b19d5eef53"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 12.05.2008",
+      "uuid": "7ac0db42-a952-8c15-df74-578b9200f435",
+      "files": [
+        "12.05.08.doc"
+      ]
+    }
+  ],
+  "uuid": "a239e660-51a2-f686-1d84-a6a3c2edb0ee",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a239e660-51a2-f686-1d84-a6a3c2edb0ee)",
+  "source": "https://api.riigikogu.ee/api/volumes/a239e660-51a2-f686-1d84-a6a3c2edb0ee",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-05-01&endDate=2008-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
