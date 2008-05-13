@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-05-13T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kaitseväe korralduse seadus [202 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "52a121b6-5612-594b-4fc5-403b2a264683"
+    },
+    {
+      "order": 2,
+      "title": "Kriminaalmenetluse seadustiku, rahuaja riigikaitse seaduse, sõjaaja riigikaitse seaduse ja Vabariigi Valitsuse seaduse muutmise seadus [203 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "494374da-d354-ab49-40d6-1a826589e731"
+    },
+    {
+      "order": 3,
+      "title": "Õiguskomisjoni 22.04.2008 kiri ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4a1d2536-be39-bcc9-7529-9d0a446815f3"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 13.05.2008",
+      "uuid": "73230911-8194-8265-a330-489e903fc63d",
+      "files": [
+        "13.05.08.doc"
+      ]
+    }
+  ],
+  "uuid": "72e8ac3c-fd04-1adb-8ff6-97280d180ce8",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 72e8ac3c-fd04-1adb-8ff6-97280d180ce8)",
+  "source": "https://api.riigikogu.ee/api/volumes/72e8ac3c-fd04-1adb-8ff6-97280d180ce8",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-05-01&endDate=2008-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
