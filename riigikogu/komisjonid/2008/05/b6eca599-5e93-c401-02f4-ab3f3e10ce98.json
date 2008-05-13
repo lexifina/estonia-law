@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-05-13T14:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väljasõiduistung Eesti Pangas kell 14.30 Eesti majanduse hetkeolukord ja prognoos",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1cddbe89-84b8-406f-c043-7244b81752f8"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu otsus \"Eesti esindaja nimetamine Põhjamaade Investeerimispanga kontrollkomiteesse\" [265 OE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f584c829-bdb0-9050-945b-92362430e67f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 13.05.2008",
+      "uuid": "f85e544b-cc53-f58f-d201-7a6d1ff6cc30",
+      "files": [
+        "Rahanduskomisjon_istungi_protokoll_20_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "b6eca599-5e93-c401-02f4-ab3f3e10ce98",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b6eca599-5e93-c401-02f4-ab3f3e10ce98)",
+  "source": "https://api.riigikogu.ee/api/volumes/b6eca599-5e93-c401-02f4-ab3f3e10ce98",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-05-01&endDate=2008-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
