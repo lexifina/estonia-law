@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-05-13T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ringhäälinguseaduse muutmise seadus [241 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8eec1a9b-5d0b-f29e-b6c1-ca07b2befa40"
+    },
+    {
+      "order": 2,
+      "title": "Kutsete süsteem kui liides tööturu ja haridussüsteemi vahel (Olav Aarna esitlus)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5fd0a0ee-b1c0-f0df-d570-8c5722858c84"
+    },
+    {
+      "order": 3,
+      "title": "Kutseseadus [213 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "602970b6-afac-9c3c-f329-5c75c8a44d6b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 13.05.2008",
+      "uuid": "712cb583-94f1-365f-5f98-b6f1d467fe13",
+      "files": [
+        "Kultuurikomisjon_istungi_protokoll_20_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "e3618921-3a6d-1dbc-7812-823176702dda",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e3618921-3a6d-1dbc-7812-823176702dda)",
+  "source": "https://api.riigikogu.ee/api/volumes/e3618921-3a6d-1dbc-7812-823176702dda",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-05-01&endDate=2008-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
