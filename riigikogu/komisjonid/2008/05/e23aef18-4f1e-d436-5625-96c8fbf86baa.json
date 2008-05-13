@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-05-13T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Karistusseadustiku muutmise seadus [225 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b703d19e-3669-77e5-2df6-2d566412bc2d"
+    },
+    {
+      "order": 2,
+      "title": "Eelnõudele muudatusettepanekute esitamise tähtaja pikendamised otsused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bbe11b29-f861-fb4c-fa3c-dc8215cace96"
+    },
+    {
+      "order": 3,
+      "title": "Korrakaitseseadus [49 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b585109d-2c1f-b01b-5f14-b1bd8463e190"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 13.05.2008",
+      "uuid": "5eabff22-47e8-8f4b-34ba-fa825455b12a",
+      "files": [
+        "Õiguskomisjon_istungi_protokoll_20_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "e23aef18-4f1e-d436-5625-96c8fbf86baa",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e23aef18-4f1e-d436-5625-96c8fbf86baa)",
+  "source": "https://api.riigikogu.ee/api/volumes/e23aef18-4f1e-d436-5625-96c8fbf86baa",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-05-01&endDate=2008-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
