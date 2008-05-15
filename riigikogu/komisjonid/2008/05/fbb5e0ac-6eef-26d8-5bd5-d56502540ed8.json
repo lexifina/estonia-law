@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-05-15T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väliskomisjoni 14. töönädala töökava kinnitamine.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "552f89b6-752d-7599-fa72-2da29e23a12a"
+    },
+    {
+      "order": 2,
+      "title": "Väliskomisjoni ja majanduskomisjoni ühisistung (L-241) – Eesti-Läti piiriülene koostöö. Kutsutud Kalev Härk Valgamaa maavanema ülesannetes, Valgamaa arengunõukogu vastavate valdkondade juhid ja Valga linna esindajad.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9b502e4e-15b9-50c6-c09f-3b6f99a0a948"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fcacb96a-cd9c-8eff-b404-70c15a50ce22"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 15.05.2008",
+      "uuid": "99217158-e2b1-155f-1d1a-8d5bd5a1dd32",
+      "files": [
+        "Väliskomisjon_istungi_protokoll_20_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "fbb5e0ac-6eef-26d8-5bd5-d56502540ed8",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid fbb5e0ac-6eef-26d8-5bd5-d56502540ed8)",
+  "source": "https://api.riigikogu.ee/api/volumes/fbb5e0ac-6eef-26d8-5bd5-d56502540ed8",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-05-01&endDate=2008-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
