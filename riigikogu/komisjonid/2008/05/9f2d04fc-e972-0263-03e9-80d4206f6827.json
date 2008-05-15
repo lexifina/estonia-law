@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-05-15T12:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "MAK muutmise  vajadusest ja võimalusest. ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ba95b905-b85e-113b-61d7-315c28334451"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade eurorahade kasutamisest põllumajandussektoris",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2cf2f736-3fc8-6d03-fa06-ae287d435bbe"
+    },
+    {
+      "order": 3,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5fc0eabf-bc82-b425-4dbc-4b6a3bdf3936"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 15.05.2008",
+      "uuid": "7fd45260-4890-bba9-663b-e8076d736433",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_20_2008.odt",
+        "Maaelukomisjon_paevakord_15_05_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "9f2d04fc-e972-0263-03e9-80d4206f6827",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9f2d04fc-e972-0263-03e9-80d4206f6827)",
+  "source": "https://api.riigikogu.ee/api/volumes/9f2d04fc-e972-0263-03e9-80d4206f6827",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-05-01&endDate=2008-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
