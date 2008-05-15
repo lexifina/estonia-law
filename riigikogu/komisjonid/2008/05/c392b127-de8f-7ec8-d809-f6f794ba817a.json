@@ -1,0 +1,34 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-05-15T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ühisistung väliskomisjoniga Valgamaa kuu raames",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "75d43cc6-4755-7c8c-de11-765eecae76ac"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 15.05.2008",
+      "uuid": "ac709aaa-666b-ba32-ec7f-bb878fa8f1ae",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_20_2008.odt",
+        "Majanduskomisjon_paevakord_15_05_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "c392b127-de8f-7ec8-d809-f6f794ba817a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c392b127-de8f-7ec8-d809-f6f794ba817a)",
+  "source": "https://api.riigikogu.ee/api/volumes/c392b127-de8f-7ec8-d809-f6f794ba817a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-05-01&endDate=2008-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
