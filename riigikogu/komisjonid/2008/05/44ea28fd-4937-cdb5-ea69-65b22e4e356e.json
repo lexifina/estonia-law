@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-05-15T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Rahanduskomisjoni kohtumine IMF esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4ffa014c-4338-d770-3afb-55d194912e20"
+    },
+    {
+      "order": 2,
+      "title": "Perioodi 2004-2006 struktuuritoetuse seaduse ja perioodi 2007-2013 struktuuritoetuse seaduse muutmise seadus [266 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fd911a00-684f-8528-e0f0-398993520414"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 15.05.2008",
+      "uuid": "3b26359e-03ac-dd45-26f6-be0dffb65d9e",
+      "files": [
+        "Rahanduskomisjon_istungi_protokoll_20_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "44ea28fd-4937-cdb5-ea69-65b22e4e356e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 44ea28fd-4937-cdb5-ea69-65b22e4e356e)",
+  "source": "https://api.riigikogu.ee/api/volumes/44ea28fd-4937-cdb5-ea69-65b22e4e356e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-05-01&endDate=2008-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
