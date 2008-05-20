@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-05-20T12:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine regionaalministri Siim-Valmar Kiisleriga",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9f1821d1-dfd9-fcb9-f7c8-00f5fcbc335e"
+    },
+    {
+      "order": 2,
+      "title": "Maaelu ja põllumajandusturu korraldamise seadus [275 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1ea72f06-e325-3f44-20bb-5f8fbcac3f32"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 20.05.2008",
+      "uuid": "d144a3e5-d788-36fe-b720-5c33bd43b09c",
+      "files": [
+        "Maaelukomisjon_paevakord_20_05_2008.odt",
+        "Maaelukomisjon_istungi_protokoll_21_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "ffd7c937-c82a-54cb-28a5-dd709b12d1c5",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ffd7c937-c82a-54cb-28a5-dd709b12d1c5)",
+  "source": "https://api.riigikogu.ee/api/volumes/ffd7c937-c82a-54cb-28a5-dd709b12d1c5",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-05-01&endDate=2008-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
