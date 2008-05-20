@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-05-20T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Algus kell 13.00 Ülevaade lisaeelarve ja riigieelarve tasakaalu kohta",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "37be6528-d52d-99a8-3681-bba9f24c3da3"
+    },
+    {
+      "order": 2,
+      "title": "Hoiu-laenuühistu seaduse ja krediidiasutuste seaduse muutmise seadus [240 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "717b5a7f-e4ef-c4b4-4591-3627dfbe5920"
+    },
+    {
+      "order": 3,
+      "title": "Riigi 2008. aasta lisaeelarve seadus [273 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0c77d29f-ebb4-fe73-cb88-332400633087"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 20.05.2008",
+      "uuid": "a79a5ccd-64dc-3cdc-ddcb-c751568cb2f9",
+      "files": [
+        "Rahanduskomisjon_istungi_protokoll_21_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "f4491cdb-a43e-0d29-b521-1e2aa3f140f3",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f4491cdb-a43e-0d29-b521-1e2aa3f140f3)",
+  "source": "https://api.riigikogu.ee/api/volumes/f4491cdb-a43e-0d29-b521-1e2aa3f140f3",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-05-01&endDate=2008-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
