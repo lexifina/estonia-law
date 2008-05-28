@@ -1,0 +1,33 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-05-28T09:30:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Rootsi Riigikaitse Nõukogu esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "eceac1c6-2598-c05b-9708-0e248e1f822f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 28.05.2008",
+      "uuid": "c2b8514e-2684-d8b0-0e79-470d82b923bd",
+      "files": [
+        "28.05.08.doc"
+      ]
+    }
+  ],
+  "uuid": "f0ffd3eb-bfaf-35b4-6862-925f39bfe929",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f0ffd3eb-bfaf-35b4-6862-925f39bfe929)",
+  "source": "https://api.riigikogu.ee/api/volumes/f0ffd3eb-bfaf-35b4-6862-925f39bfe929",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-05-01&endDate=2008-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
