@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-06-02T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "aa18a7bc-14f2-ccb8-b905-23aca0fdf743"
+    },
+    {
+      "order": 2,
+      "title": "Maaelu ja põllumajandusturu korraldamise seaduse eelnõu (275 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6f9c324b-7088-5639-2ec3-49637ca5f9f9"
+    },
+    {
+      "order": 3,
+      "title": "Vabariigi Valitsuse seisukohad Euroopa komisjoni teatise „Ühise kalanduspoliitika roll ökosüsteemil põhineva lähenemisviisi rakendamisel merenduse juhtimises”",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "46b31b4a-3f97-1a29-37e8-9f07877de526"
+    },
+    {
+      "order": 4,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fcc1237b-1559-617b-bdc8-df121b3c6b5c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 02.06.2008",
+      "uuid": "c7dbdf5e-3bf3-a88d-cac3-05bf41549bac",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_23_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "71f78769-fadc-df43-1660-23b6f52ab7b3",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 71f78769-fadc-df43-1660-23b6f52ab7b3)",
+  "source": "https://api.riigikogu.ee/api/volumes/71f78769-fadc-df43-1660-23b6f52ab7b3",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-06-01&endDate=2008-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
