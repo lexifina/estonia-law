@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-06-03T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väliskomisjoni ja riigikaitsekomisjoni väljasõiduistung Kaitsejõudude Peastaapi. Informatsioon Eesti kaitseväe üksuste osalemisest rahvusvahelistel missioonidel Iraagis, Afganistanis, Kosovos ning Bosnias ja Hertsegoviinas.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "37a0816f-b139-fe1c-759e-05903f649ccc"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2749d06d-22cc-5028-7ca8-e49789cab364"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 03.06.2008",
+      "uuid": "829592bc-e190-a5e0-9ece-c2d738e913ce",
+      "files": [
+        "Väliskomisjon_istungi_protokoll_23_2008.odt",
+        "Väliskomisjon_paevakord_03_06_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "2df079e1-8300-3552-b2eb-982ca8627333",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2df079e1-8300-3552-b2eb-982ca8627333)",
+  "source": "https://api.riigikogu.ee/api/volumes/2df079e1-8300-3552-b2eb-982ca8627333",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-06-01&endDate=2008-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
