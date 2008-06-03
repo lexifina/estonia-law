@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-06-03T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kriminaalmenetluse seadustiku ja väärteomenetluse seadustiku muutmise seadus [218 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6d147624-1677-77d8-073f-ca7f2bcb4f19"
+    },
+    {
+      "order": 2,
+      "title": "Kriminaalmenetluse seadustiku ja kriminaalmenetluse seadustiku rakendamise seaduse muutmise seadus [219 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "991ffbfe-0bbb-e209-6510-2385d52a6086"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 03.06.2008",
+      "uuid": "1baf9d0c-a7bb-29bd-00ac-3895747850c8",
+      "files": [
+        "Õiguskomisjon_istungi_protokoll_23_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "c44ac58b-539d-6e52-4e48-75c92aaf439f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c44ac58b-539d-6e52-4e48-75c92aaf439f)",
+  "source": "https://api.riigikogu.ee/api/volumes/c44ac58b-539d-6e52-4e48-75c92aaf439f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-06-01&endDate=2008-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
