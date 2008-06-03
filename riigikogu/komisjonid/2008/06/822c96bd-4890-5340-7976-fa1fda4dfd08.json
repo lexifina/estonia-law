@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-06-03T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väljasõiduistung: kohtumine Kaupmeeste Liiduga ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "89cfb638-b9b0-2f7d-45b4-ad6e98bbe1a8"
+    },
+    {
+      "order": 2,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "35d9ac31-ec69-a175-1170-62595ff4e965"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 03.06.2008",
+      "uuid": "fd44977c-227e-7863-da83-8ed237e9ef51",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_23_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "822c96bd-4890-5340-7976-fa1fda4dfd08",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 822c96bd-4890-5340-7976-fa1fda4dfd08)",
+  "source": "https://api.riigikogu.ee/api/volumes/822c96bd-4890-5340-7976-fa1fda4dfd08",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-06-01&endDate=2008-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
