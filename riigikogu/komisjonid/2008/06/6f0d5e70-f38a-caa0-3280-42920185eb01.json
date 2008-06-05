@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-06-05T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Lennundusseaduse ja riigilõivuseaduse muutmise seadus [245 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3d5ba371-cd8c-009d-3637-236b7ac2d299"
+    },
+    {
+      "order": 2,
+      "title": "Meresõiduohutuse seaduse ja riigilõivuseaduse muutmise seadus [274 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dd81cc08-4427-f640-050a-605fbc67e8cb"
+    },
+    {
+      "order": 3,
+      "title": "Euroopa Parlamendi ja nõukogu direktiiv, millega hõlbustatakse karistuste piiriülest täitmist liiklusohutuse valdkonnas, eelnõu arutelu ja arvamuse esitamine ELAK-le.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d8cce8ec-b358-1251-a3a8-47f68f0fb326"
+    },
+    {
+      "order": 4,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3b1eccda-2ffb-35d5-2978-e8d21abdfba1"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 05.06.2008",
+      "uuid": "526980f9-7d49-a73c-1e03-05de92e45dc0",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_23_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "6f0d5e70-f38a-caa0-3280-42920185eb01",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 6f0d5e70-f38a-caa0-3280-42920185eb01)",
+  "source": "https://api.riigikogu.ee/api/volumes/6f0d5e70-f38a-caa0-3280-42920185eb01",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-06-01&endDate=2008-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
