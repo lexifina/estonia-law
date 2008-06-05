@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-06-05T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Audiitortegevuse seaduse muutmise seadus [283 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7d228f35-c4f6-a8e8-aabe-363da190e659"
+    },
+    {
+      "order": 2,
+      "title": "Väärtpaberituru seaduse § 265¹ muutmise seadus [282 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "44c0bf3d-1979-6f9e-c913-4c18ea06726d"
+    },
+    {
+      "order": 3,
+      "title": "Riigi 2008. aasta lisaeelarve seadus [273 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dc53b517-2e15-ddb2-d167-6bae81467dc1"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 05.06.2008",
+      "uuid": "21dcb9dd-0b8c-76f9-c291-7cf4131f44c4",
+      "files": [
+        "Rahanduskomisjon_istungi_protokoll_23_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "27730209-417d-2f0f-a2b5-cd6c96c0fc83",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 27730209-417d-2f0f-a2b5-cd6c96c0fc83)",
+  "source": "https://api.riigikogu.ee/api/volumes/27730209-417d-2f0f-a2b5-cd6c96c0fc83",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-06-01&endDate=2008-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
