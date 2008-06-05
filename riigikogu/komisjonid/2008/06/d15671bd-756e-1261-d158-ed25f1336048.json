@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-06-05T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väljasõiduistung Eesti Maaülikoolis",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "964b91c6-8b3d-c1a5-633a-eac7cf83634e"
+    },
+    {
+      "order": 2,
+      "title": "AS Tartu Agro külastamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "89f49344-74ba-2f27-7e61-2228181897a1"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 05.06.2008",
+      "uuid": "3fa233e7-e2d8-e0cd-5ad3-3ad17473454c",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_23_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "d15671bd-756e-1261-d158-ed25f1336048",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d15671bd-756e-1261-d158-ed25f1336048)",
+  "source": "https://api.riigikogu.ee/api/volumes/d15671bd-756e-1261-d158-ed25f1336048",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-06-01&endDate=2008-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
