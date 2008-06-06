@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-06-06T10:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 9.-10. juunil  toimuval töö-, sotsiaalpoliitika, tervishoiu ja tarbijakaitse nõukogu (EPSCO) kohtumisel.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7f7c795a-7482-cded-7cd3-0113a54e14c3"
+    },
+    {
+      "order": 2,
+      "title": "Välisvahendite kasutamine Sotsiaalministeeriumi haldusalas. ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c9f3b6fb-7c38-8993-a335-ae6f255f3159"
+    },
+    {
+      "order": 3,
+      "title": "Seisukoha andmine: Euroopa Komisjoni teatis „Ühise kalanduspoliitika roll ökosüsteemil põhineva lähenemisviisi rakendamisel merenduse juhtimises” KOM(2008)187. ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1c3a5a96-6e9a-9e33-9f66-8e0495913a9f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 06.06.2008",
+      "uuid": "8f6bfb96-6de0-34e0-0bd8-6c0d8e82d0a5",
+      "files": [
+        "Euroopa Liidu asjade komisjon_paevakord_06_06_2008.odt",
+        "Euroopa Liidu asjade komisjon_istungi_protokoll_23_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "cbfcabd6-03d2-7c58-15ec-7a9deb67bd8f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid cbfcabd6-03d2-7c58-15ec-7a9deb67bd8f)",
+  "source": "https://api.riigikogu.ee/api/volumes/cbfcabd6-03d2-7c58-15ec-7a9deb67bd8f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-06-01&endDate=2008-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
