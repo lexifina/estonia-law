@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-06-09T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülikooliseaduse, erakooliseaduse ja rakenduskõrgkooli seaduse ning nendega seonduvate seaduste muutmise seadus [272 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3f14907c-6a53-aaad-c2a5-0dd402d6a494"
+    },
+    {
+      "order": 2,
+      "title": "Info, kirjad",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "00fbfc23-ec77-dde7-6702-31fd23eb93b6"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 09.06.2008",
+      "uuid": "5f422a0d-341f-f3c8-e9ec-b3c45c354898",
+      "files": [
+        "Kultuurikomisjon_istungi_protokoll_24_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "6087e919-8911-62af-2419-3b3a4b10470a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 6087e919-8911-62af-2419-3b3a4b10470a)",
+  "source": "https://api.riigikogu.ee/api/volumes/6087e919-8911-62af-2419-3b3a4b10470a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-06-01&endDate=2008-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
