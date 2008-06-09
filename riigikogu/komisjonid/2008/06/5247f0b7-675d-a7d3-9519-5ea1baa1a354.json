@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-06-09T11:05:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väliskomisjoni 17. töönädala töökava kinnitamine.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3470c33e-3c7b-c95c-a496-09d04cb737ef"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine Rootsi Euroopa Liidu asjade ministri Cecilia Malmström'iga - Rootsi eesistumine Euroopa Liidus 2009. aasta teisel poolaastal.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "46305984-e9e0-f015-362f-2bfafeb4eae5"
+    },
+    {
+      "order": 3,
+      "title": "Kohtumine Rahvusvaheliste Kaitseuuringute Keskuse töötajatega.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "746a15f4-17a2-3ae5-b504-8c3e017e4da1"
+    },
+    {
+      "order": 4,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d8f91f52-e4c9-1bd6-05b8-f3819403a056"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 09.06.2008",
+      "uuid": "ccc2ba92-1a52-b375-6bed-46d63df7a4ab",
+      "files": [
+        "Väliskomisjon_istungi_protokoll_24_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "5247f0b7-675d-a7d3-9519-5ea1baa1a354",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 5247f0b7-675d-a7d3-9519-5ea1baa1a354)",
+  "source": "https://api.riigikogu.ee/api/volumes/5247f0b7-675d-a7d3-9519-5ea1baa1a354",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-06-01&endDate=2008-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
