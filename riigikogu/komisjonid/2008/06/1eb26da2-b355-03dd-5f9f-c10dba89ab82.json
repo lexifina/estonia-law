@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-06-09T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigi 2008. aasta lisaeelarve seadus [273 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "08e0af86-e219-b3a0-5032-d45705d0dbac"
+    },
+    {
+      "order": 2,
+      "title": "Eesti Panga 2007. aasta aruanne. Osaleb Eesti Panga president Andres Lipstok",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9e6bbc0f-d293-3c04-41c9-464bd8d32745"
+    },
+    {
+      "order": 3,
+      "title": "Finantsinspektsiooni 2007. aasta aruanne. Osaleb Finantsinspektsiooni juhatuse esimees Raul Malmstein",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d76c718b-4490-6ac9-e27a-a871787bfb12"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 09.06.2008",
+      "uuid": "1a2454a7-7762-b3a4-04e0-44828cf1a87e",
+      "files": [
+        "Rahanduskomisjon_istungi_protokoll_24_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "1eb26da2-b355-03dd-5f9f-c10dba89ab82",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 1eb26da2-b355-03dd-5f9f-c10dba89ab82)",
+  "source": "https://api.riigikogu.ee/api/volumes/1eb26da2-b355-03dd-5f9f-c10dba89ab82",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-06-01&endDate=2008-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
