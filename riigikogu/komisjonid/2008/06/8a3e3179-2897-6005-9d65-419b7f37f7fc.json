@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-06-12T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väärtpaberituru seaduse § 265¹ muutmise seadus [282 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "39c48418-693a-8927-5d83-697841dbc488"
+    },
+    {
+      "order": 2,
+      "title": "Audiitortegevuse seaduse muutmise seadus [283 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a5d5d2b2-7e3a-c8c7-3af8-8cbe7d1469a1"
+    },
+    {
+      "order": 3,
+      "title": "Tulumaksuseaduse § 4 muutmise seadus [250 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "24097fc8-0b95-423b-a7cf-4f70588f553d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 12.06.2008",
+      "uuid": "c26d756b-1bea-5097-ac97-fb015b3c39f3",
+      "files": [
+        "Rahanduskomisjon_istungi_protokoll_24_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "8a3e3179-2897-6005-9d65-419b7f37f7fc",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8a3e3179-2897-6005-9d65-419b7f37f7fc)",
+  "source": "https://api.riigikogu.ee/api/volumes/8a3e3179-2897-6005-9d65-419b7f37f7fc",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-06-01&endDate=2008-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
