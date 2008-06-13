@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-06-13T10:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 16.-17. juunil 2008 toimuval Euroopa Liidu üldasjade ja välissuhete nõukogu istungil.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f0432aff-708e-3e9e-e8bc-4d68c9b5e323"
+    },
+    {
+      "order": 2,
+      "title": "Muu küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "75b84dd9-e3ec-6fd7-fb9d-231170f06455"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 13.06.2008",
+      "uuid": "69983de2-1ff6-4601-66d5-c5bc496f1b04",
+      "files": [
+        "Väliskomisjon_istungi_protokoll_24_2008.odt",
+        "Väliskomisjon_paevakord_13_06_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "3f28b025-3423-bdeb-ca53-b95276664f60",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3f28b025-3423-bdeb-ca53-b95276664f60)",
+  "source": "https://api.riigikogu.ee/api/volumes/3f28b025-3423-bdeb-ca53-b95276664f60",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-06-01&endDate=2008-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
