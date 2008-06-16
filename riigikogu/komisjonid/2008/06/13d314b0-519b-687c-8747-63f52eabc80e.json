@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-06-16T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ee38993a-35d1-94da-b926-44b683388029"
+    },
+    {
+      "order": 2,
+      "title": "MSI uuringu \"Erimärgistatud kütuse aktsiis\" tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ee082ab9-9d0c-fd7b-0d80-d42378d631bf"
+    },
+    {
+      "order": 3,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "62ecb281-413d-9e08-90cf-db91dd3271cd"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 16.06.2008",
+      "uuid": "18da2f08-27b7-b745-6d39-0801e2b62d93",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_25_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "13d314b0-519b-687c-8747-63f52eabc80e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 13d314b0-519b-687c-8747-63f52eabc80e)",
+  "source": "https://api.riigikogu.ee/api/volumes/13d314b0-519b-687c-8747-63f52eabc80e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-06-01&endDate=2008-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
