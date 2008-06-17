@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-06-17T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väljasõiduistung: tutvumine väikeettevõtlusega. ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a4d813dc-3e16-351c-697a-07f83d857ec3"
+    },
+    {
+      "order": 2,
+      "title": "Kokkuvõte majanduskomisjoni 2008. a I poolaasta tööst",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "be279e99-af16-b794-a191-03c6bbb921a0"
+    },
+    {
+      "order": 3,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0e1990ad-fa8f-a177-1c8c-0f76971453f7"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 17.06.2008",
+      "uuid": "6e4ba4e8-9884-07fe-9a43-c46144c8e185",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_25_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "f0b57ec9-4b59-830a-03ca-04b5d7b8e689",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f0b57ec9-4b59-830a-03ca-04b5d7b8e689)",
+  "source": "https://api.riigikogu.ee/api/volumes/f0b57ec9-4b59-830a-03ca-04b5d7b8e689",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-06-01&endDate=2008-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
