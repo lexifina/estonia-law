@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-06-19T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti majanduskasvu ja tööhõive kava 2008-2011 tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e949b8e3-03ba-3a85-a3e1-800914db2ed5"
+    },
+    {
+      "order": 2,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "346c77cd-0b72-1bd6-244f-7df37f4c4f3e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 19.06.2008",
+      "uuid": "11778879-c05e-bf0a-92aa-2d785d0f95ff",
+      "files": [
+        "19.06.doc"
+      ]
+    }
+  ],
+  "uuid": "13e98c6b-ccc0-fb45-4e18-167dbec7e9a1",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 13e98c6b-ccc0-fb45-4e18-167dbec7e9a1)",
+  "source": "https://api.riigikogu.ee/api/volumes/13e98c6b-ccc0-fb45-4e18-167dbec7e9a1",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-06-01&endDate=2008-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
