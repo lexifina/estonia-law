@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-06-20T10:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 23.-24. juunil toimuval põllumajanduse ja kalanduse nõukogu kohtumisel. ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "94047f87-19d9-cc31-25e5-bc5c0318dce3"
+    },
+    {
+      "order": 2,
+      "title": "“Eesti majanduskasvu ja tööhõive kava 2008–2011” eelnõu Lissaboni strateegia elluviimiseks. ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1fd2a778-5ea9-b007-165c-0201cad65a4a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 20.06.2008",
+      "uuid": "b97b6986-c8ae-cc36-38cf-ba0b01b4c7d1",
+      "files": [
+        "Euroopa Liidu asjade komisjon_istungi_protokoll_25_2008.odt",
+        "Euroopa Liidu asjade komisjon_paevakord_20_06_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "77bf5d19-f775-493a-8ae1-7860aea23947",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 77bf5d19-f775-493a-8ae1-7860aea23947)",
+  "source": "https://api.riigikogu.ee/api/volumes/77bf5d19-f775-493a-8ae1-7860aea23947",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-06-01&endDate=2008-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
