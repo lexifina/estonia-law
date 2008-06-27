@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-06-27T10:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade 19.-20. juunil toimunud Euroopa Ülemkogust (ühisistung väliskomisjoniga). ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "11c71c3a-98a9-eb06-5e6e-26ab8f690cf7"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad 3.-5. juulil toimuval mitteametlikul keskkonna ja energia nõukogu kohtumisel. ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f8cff30a-d703-281a-52f5-c4a00c814f15"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 27.06.2008",
+      "uuid": "39ccd12e-70f9-1e8d-2bf4-f322b24eaa52",
+      "files": [
+        "Euroopa Liidu asjade komisjon_istungi_protokoll_26_2008.odt",
+        "Euroopa Liidu asjade komisjon_paevakord_27_06_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "b741417d-75fb-ab9d-ff92-d69ea278d1d3",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b741417d-75fb-ab9d-ff92-d69ea278d1d3)",
+  "source": "https://api.riigikogu.ee/api/volumes/b741417d-75fb-ab9d-ff92-d69ea278d1d3",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-06-01&endDate=2008-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
