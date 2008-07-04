@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-07-04T10:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 7.-8. juulil toimuval mitteametlikul justiits- ja siseasjade nõukogu kohtumisel.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "587e22d2-874c-4b93-ac51-3d1e7c1e1f49"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad 8. juulil toimuval majandus- ja rahandusministrite nõukogu (ECOFIN) kohtumisel.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "037f0bae-ac57-15fa-7e83-e84724beb07d"
+    },
+    {
+      "order": 3,
+      "title": "Eesti seisukohad 10.-11. juulil toimuval mitteametlikul töö-, sotsiaalpoliitika, tervishoiu ja tarbijakaitse nõukogu (EPSCO) kohtumisel. ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5e756d90-ff19-c57c-a152-a662d41b2acc"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 04.07.2008",
+      "uuid": "ee1531dd-8e52-a6f5-cd79-97eeaa4f5dfc",
+      "files": [
+        "Euroopa Liidu asjade komisjon_istungi_protokoll_27_2008.odt",
+        "Euroopa Liidu asjade komisjon_paevakord_04_07_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "1b049559-826d-61f5-42ce-a7a7820b18d8",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 1b049559-826d-61f5-42ce-a7a7820b18d8)",
+  "source": "https://api.riigikogu.ee/api/volumes/1b049559-826d-61f5-42ce-a7a7820b18d8",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-07-01&endDate=2008-07-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
