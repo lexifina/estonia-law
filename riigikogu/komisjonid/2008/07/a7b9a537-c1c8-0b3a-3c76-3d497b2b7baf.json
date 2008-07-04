@@ -1,0 +1,33 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-07-04T00:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Arvamuse andmine ELAK-ile",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6b69cef6-9cd1-62ef-48a4-ed3cc829e20c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 04.07.2008",
+      "uuid": "5f273cbf-f140-a2fb-78ab-49d608409cb1",
+      "files": [
+        "iguskomisjon_istungi_protokoll_27_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "a7b9a537-c1c8-0b3a-3c76-3d497b2b7baf",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a7b9a537-c1c8-0b3a-3c76-3d497b2b7baf)",
+  "source": "https://api.riigikogu.ee/api/volumes/a7b9a537-c1c8-0b3a-3c76-3d497b2b7baf",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-07-01&endDate=2008-07-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
