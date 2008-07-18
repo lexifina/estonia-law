@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-07-18T10:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 18. juulil toimuval EL üldasjade ja välissuhete nõukogu erakorralisel istungil ja 22.-23. juulil 2008 toimuval EL üldasjade ja välissuhete nõukogu istungil.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "665e5955-cb6a-acb4-6680-12fb1d8bdc9d"
+    },
+    {
+      "order": 2,
+      "title": "Eesti eesmärgid Prantsusmaa EL Ministrite Nõukogu eesistumise perioodil. Kokkuvõte Eesti eesmärkide saavutamisest Sloveenia EL Ministrite Nõukodu eesistumise perioodil.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a8fbd5a5-43de-b5eb-eaca-b2825344197e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 18.07.2008",
+      "uuid": "5e873123-2643-8d13-570e-9dbfea2b0e77",
+      "files": [
+        "Väliskomisjon_paevakord_18_07_2008.odt",
+        "Väliskomisjon_istungi_protokoll_29_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "43b4b3ed-28e8-7f2f-a38b-483eb401012b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 43b4b3ed-28e8-7f2f-a38b-483eb401012b)",
+  "source": "https://api.riigikogu.ee/api/volumes/43b4b3ed-28e8-7f2f-a38b-483eb401012b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-07-01&endDate=2008-07-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
