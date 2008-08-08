@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-08-08T15:30:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade olukorrast Lõuna-Osseetias.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6d4eacf5-5645-b81f-65d4-d83e56a6cbc1"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fef81a3b-49e8-e608-cf9c-26517f8ba919"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 08.08.2008",
+      "uuid": "2cdb4083-c830-d247-6c40-edf92a4d30cd",
+      "files": [
+        "Väliskomisjon_istungi_protokoll_32_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "d67d7010-8081-76ed-bf8c-bb0a2ed1b087",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d67d7010-8081-76ed-bf8c-bb0a2ed1b087)",
+  "source": "https://api.riigikogu.ee/api/volumes/d67d7010-8081-76ed-bf8c-bb0a2ed1b087",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-08-01&endDate=2008-08-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
