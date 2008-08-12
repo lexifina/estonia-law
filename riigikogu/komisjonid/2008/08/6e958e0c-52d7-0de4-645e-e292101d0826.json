@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-08-12T12:00:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Informatsioon ja Eesti seisukohad Euroopa Liidu üldasjade ja välissuhete nõukogu (GAERC) erakorralisel istungil 13. augustil 2008.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c753a9f2-3013-f32b-9744-2b49eb379e21"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu avalduse “Venemaa sõjalisest agressioonist Georgia vastu” eelnõu (307 AE) ettevalmistamine esimeseks lugemiseks.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d36007c8-5154-cf38-349b-4b2b75881e94"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "be80e979-646e-26a2-b4ef-055e22c5b048"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 12.08.2008",
+      "uuid": "224513c2-30af-4e39-53fa-43d5058763a2",
+      "files": [
+        "Väliskomisjon_istungi_protokoll_33_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "6e958e0c-52d7-0de4-645e-e292101d0826",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 6e958e0c-52d7-0de4-645e-e292101d0826)",
+  "source": "https://api.riigikogu.ee/api/volumes/6e958e0c-52d7-0de4-645e-e292101d0826",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-08-01&endDate=2008-08-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
