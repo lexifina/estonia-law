@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-08-15T10:00:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ühisistung ELAKiga - Kokkuvõte 13. augustil 2008 toimunud Euroopa Liidu üldasjade ja välissuhete nõukogu (GAERC) erakorralisest istungist. ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "79bef984-7e70-42be-e485-f839e7986e62"
+    },
+    {
+      "order": 2,
+      "title": "Informatsioon komisjoni liikmete tegevusest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ecba9c6c-9408-a2ad-891f-4cef9878ae29"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "59f43b3e-f3eb-1aa8-5089-59d4b6b1c358"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 15.08.2008",
+      "uuid": "cdd53674-275c-52b3-a052-72e8f998b255",
+      "files": [
+        "Väliskomisjon_istungi_protokoll_33_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "de3adb8c-e0e2-0f2d-bf02-9a347d58b2f0",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid de3adb8c-e0e2-0f2d-bf02-9a347d58b2f0)",
+  "source": "https://api.riigikogu.ee/api/volumes/de3adb8c-e0e2-0f2d-bf02-9a347d58b2f0",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-08-01&endDate=2008-08-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
