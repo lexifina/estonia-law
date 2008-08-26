@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-08-26T10:00:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Olulise tähtsusega riikliku küsimuse \"Eesti majandusareng ning ettevõtluskeskkonna arendamine\"  algatamise arutelu.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "426c4d3e-156f-2ea1-386b-4fdcecffa4ef"
+    },
+    {
+      "order": 2,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "85a9c619-ad14-d480-299f-64939ad94774"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 26.08.2008",
+      "uuid": "ec12ca38-64d9-eb61-2911-c874b9b5bf91",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_35_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "c0c66667-17ee-d92d-33bf-5c24079b66c0",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c0c66667-17ee-d92d-33bf-5c24079b66c0)",
+  "source": "https://api.riigikogu.ee/api/volumes/c0c66667-17ee-d92d-33bf-5c24079b66c0",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-08-01&endDate=2008-08-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
