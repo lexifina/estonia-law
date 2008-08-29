@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-08-29T10:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kokkuvõte 19. augustil 2008 toimunud NATO välisministrite erakorralisest kohtumisest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b3716b27-fb88-6947-45d7-e373d36b81c0"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ef9421cf-55bc-c11c-79ac-8fd9fd1b891d"
+    },
+    {
+      "order": 3,
+      "title": "Ühisistung ELAKiga - Eesti seisukohad 1. septembril 2008 toimuval Euroopa Ülemkogu erakorralisel kohtumisel. Kutsutud peaminister Andrus Ansip.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "22aaab4f-edcd-c25e-f24d-a9b999a469ff"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 29.08.2008",
+      "uuid": "992f7947-023a-3597-c4b0-2c4760d150db",
+      "files": [
+        "Väliskomisjon_istungi_protokoll_35_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "41849ad9-ddce-a8d8-7c95-cf05a507833d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 41849ad9-ddce-a8d8-7c95-cf05a507833d)",
+  "source": "https://api.riigikogu.ee/api/volumes/41849ad9-ddce-a8d8-7c95-cf05a507833d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-08-01&endDate=2008-08-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
