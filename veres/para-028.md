@@ -1,3 +1,3 @@
 # § 28. Heade tootmistavade rakendamine
 
-(75) Verekeskused ja verekabinetid peavad viima vere käitlemise vastavusse käesoleva seaduse § 8 lõike 4 alusel sätestatud nõuetega hiljemalt 2006. aasta 1. jaanuariks.
+(76) Verekeskused ja verekabinetid peavad viima vere käitlemise vastavusse käesoleva seaduse § 8 lõike 4 alusel sätestatud nõuetega hiljemalt 2006. aasta 1. jaanuariks.

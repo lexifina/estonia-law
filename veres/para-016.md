@@ -1,6 +1,6 @@
 # § 16. Immunohematoloogiliste uuringute referentlabor
 
-(50) Immunohematoloogiliste uuringute referentlabor (edaspidi
+(51) Immunohematoloogiliste uuringute referentlabor (edaspidi
 
 *referentlabor*
 

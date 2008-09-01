@@ -2,7 +2,7 @@
 
 (1) Doonor on 18–65-aastane teovõimeline isik, kes teiste inimeste ravi otstarbel loovutab vere käitlejale oma verd tasuta.
 
-(2) Doonoril on võlaõigusseaduses (RT I 2001, 81, 487; 2002, 60, 374; 2003, 78, 523; 2004, 13, 86; 37, 255; 75, 522; 87, 593; 90, 616) sätestatud patsiendi õigused ja kohustused.
+(2) Doonoril on võlaõigusseaduses sätestatud patsiendi õigused ja kohustused.
 
 (3) Doonoril on õigus:
 
@@ -14,7 +14,7 @@
 
 4) saada teavet oma tervise seisundi, verele teostatud uuringute tulemuste ja loovutatud vere raviks kõlblikkuse kohta;
 
-5) puududa töölt vere loovutamise eesmärgil vastavalt töö- ja puhkeaja seaduse (RT I 2001, 17, 78; 102, 675; 2002, 56, 347; 61, 375; 99, 576; 2003, 23, 137; 2004, 86, 584) § -s 24 sätestatule;
+5) puududa töölt vere loovutamise eesmärgil vastavalt töö- ja puhkeaja seaduse §-s 24 sätestatule;
 
 6) isikuandmete salastatusele.
 
@@ -31,3 +31,5 @@
 (5) Isiku doonoriks sobivuse kriteeriumid, hindamise tingimused ja korra ning vere loovutamist välistavate või piiravate haiguste ja muude tegurite loetelu kehtestab sotsiaalminister määrusega.
 
 (6) Retsipient käesoleva seaduse tähenduses on isik, kellele tehakse vereülekanne. Retsipiendil on võlaõigusseaduses sätestatud patsiendi õigused ja kohustused.
+
+(7) Retsipient võib väljendada oma tahet vereülekande tegemise suhtes, kinnitades seda digitaalallkirjaga tervise infosüsteemi kaudu.

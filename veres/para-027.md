@@ -1,6 +1,6 @@
 # § 27. Euroopa Komisjoni teavitamine
 
-(74) Sotsiaalministeerium peab Euroopa Komisjoni teavitama:
+(75) Sotsiaalministeerium peab Euroopa Komisjoni teavitama:
 
 1) vabatahtlikku tasuta doonorlust edendavatest meetmetest iga kolme aasta järel käesoleva seaduse jõustumisest arvates;
 

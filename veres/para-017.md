@@ -1,6 +1,6 @@
 # § 17. Referentlabori ülesanded
 
-(51) Referentteenuse osutamisel täidab referentlabor järgmisi ülesandeid:
+(52) Referentteenuse osutamisel täidab referentlabor järgmisi ülesandeid:
 
 1) koordineerib, suunab ja kontrollib asjaomaste laborite diagnostikat;
 
