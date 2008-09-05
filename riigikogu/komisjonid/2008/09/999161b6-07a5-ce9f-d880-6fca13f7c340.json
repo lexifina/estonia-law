@@ -1,0 +1,34 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-09-05T10:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 8.-9.septembril toimuval mitteametlikul tervise nõukogu kohtumisel.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "90ef180d-6655-a085-65cc-78aadb1fd656"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 05.09.2008",
+      "uuid": "97df1160-6108-425a-0b4e-aa6fe11d89f3",
+      "files": [
+        "Euroopa Liidu asjade komisjon_istungi_protokoll_36_2008.odt",
+        "Euroopa Liidu asjade komisjon_paevakord_05_09_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "999161b6-07a5-ce9f-d880-6fca13f7c340",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 999161b6-07a5-ce9f-d880-6fca13f7c340)",
+  "source": "https://api.riigikogu.ee/api/volumes/999161b6-07a5-ce9f-d880-6fca13f7c340",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-09-01&endDate=2008-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
