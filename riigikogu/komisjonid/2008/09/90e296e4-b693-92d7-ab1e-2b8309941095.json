@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-09-08T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Alkoholi-, tubaka-, kütuse-, ja elektriaktsiisi seaduse, tubakaseaduse ning alkoholiseaduse muutmise seadus [294 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e1723e85-de31-3c26-a83d-37380d5f9f59"
+    },
+    {
+      "order": 2,
+      "title": "Rahvusvahelise Arenguassotsiatsiooni põhikirja heakskiitmise seadus [290 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b198cd59-369d-6e04-f157-e2b3dcf2a952"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 08.09.2008",
+      "uuid": "7027e715-bfcd-c04b-85cb-a4f5183de883",
+      "files": [
+        "Rahanduskomisjon_istungi_protokoll_37_2008.odt",
+        "Rahanduskomisjon_paevakord_08_09_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "90e296e4-b693-92d7-ab1e-2b8309941095",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 90e296e4-b693-92d7-ab1e-2b8309941095)",
+  "source": "https://api.riigikogu.ee/api/volumes/90e296e4-b693-92d7-ab1e-2b8309941095",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-09-01&endDate=2008-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
