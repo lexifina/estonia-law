@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-09-08T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Põhikooli- ja gümnaasiumiseaduse muutmise seadus [279 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4998130a-d5cb-31a2-4ff8-b3cbe723f9f2"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine haridus- ja teadusminister Tõnis Lukasega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6fee90dc-e6c7-57d8-6ced-e9f4635db384"
+    },
+    {
+      "order": 3,
+      "title": "Olulise tähtsusega riikliku küsimuse arutelu võimalik algatamine teemal \"Eesti hariduse tulevik, eesmärgid, kättesaadavus, alternatiivid, ohud\"",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "edc34c32-af60-c100-4218-29651e773490"
+    },
+    {
+      "order": 4,
+      "title": "Info, kirjad",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1d02b13b-22c2-eb88-93d7-f655015a4724"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 08.09.2008",
+      "uuid": "f0081191-70b3-2977-5964-d68f3a7a19b0",
+      "files": [
+        "Kultuurikomisjon_istungi_protokoll_37_2008.odt",
+        "Kultuurikomisjon_paevakord_08_09_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "6c3d28b8-0dcb-da64-f91a-05081911869f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 6c3d28b8-0dcb-da64-f91a-05081911869f)",
+  "source": "https://api.riigikogu.ee/api/volumes/6c3d28b8-0dcb-da64-f91a-05081911869f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-09-01&endDate=2008-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
