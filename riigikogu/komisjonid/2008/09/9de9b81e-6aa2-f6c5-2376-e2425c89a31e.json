@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-09-08T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Arengufondi tegevuskava ülevaade.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "72029e46-ca29-5b29-4630-98e5ba2edfa1"
+    },
+    {
+      "order": 2,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d52b1a39-6d8d-66d6-5a31-f6ab9e778f1f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 08.09.2008",
+      "uuid": "b48013d2-b3dc-2ef4-8dc4-1031668e8368",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_37_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "9de9b81e-6aa2-f6c5-2376-e2425c89a31e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9de9b81e-6aa2-f6c5-2376-e2425c89a31e)",
+  "source": "https://api.riigikogu.ee/api/volumes/9de9b81e-6aa2-f6c5-2376-e2425c89a31e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-09-01&endDate=2008-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
