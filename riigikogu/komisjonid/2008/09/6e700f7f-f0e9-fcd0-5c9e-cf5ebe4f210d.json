@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-09-08T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väliskomisjoni 1. töönädala töökava kinnitamine.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6b223722-b8d0-312f-73a6-85dbd54d0e84"
+    },
+    {
+      "order": 2,
+      "title": "Väliskomisjoni IV istungjärgu töökava arutamine.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7aecfe74-3ecc-e1ea-3c7d-b7f6576c1380"
+    },
+    {
+      "order": 3,
+      "title": "Informatsioon komisjoni liikmete tegevusest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "84c92700-0b06-c42c-9ee3-a8c669f673d9"
+    },
+    {
+      "order": 4,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3d095a0b-1578-7c12-f583-20178584ccdd"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 08.09.2008",
+      "uuid": "d999dc63-c231-39f1-d87e-5fe5d19cf2d4",
+      "files": [
+        "Väliskomisjon_istungi_protokoll_37_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "6e700f7f-f0e9-fcd0-5c9e-cf5ebe4f210d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 6e700f7f-f0e9-fcd0-5c9e-cf5ebe4f210d)",
+  "source": "https://api.riigikogu.ee/api/volumes/6e700f7f-f0e9-fcd0-5c9e-cf5ebe4f210d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-09-01&endDate=2008-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
