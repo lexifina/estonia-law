@@ -1,0 +1,34 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-09-09T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikontrolli kontrolliaruanne \"Riigi tegevus reformimata maaga\"",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e7b0144e-3f90-6818-1b4d-b3f3158e93b6"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 09.09.2008",
+      "uuid": "aaa83c01-bd7a-b716-7277-4813246e8436",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_37_2008.odt",
+        "Maaelukomisjon_paevakord_09_09_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "4ebcc542-fbe1-4d3e-fed8-d4fd2393b7e8",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 4ebcc542-fbe1-4d3e-fed8-d4fd2393b7e8)",
+  "source": "https://api.riigikogu.ee/api/volumes/4ebcc542-fbe1-4d3e-fed8-d4fd2393b7e8",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-09-01&endDate=2008-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
