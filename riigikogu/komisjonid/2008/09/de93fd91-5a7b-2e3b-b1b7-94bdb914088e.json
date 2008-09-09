@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-09-09T12:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Veeseaduse muutmise seadus [287 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "94ec44ba-6919-6af3-917f-c21344d9131f"
+    },
+    {
+      "order": 2,
+      "title": "Geneetiliselt muundatud mikroorganismide suletud keskkonnas kasutamise seaduse muutmise seadus [268 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7b1fab55-1215-35f4-eaa5-334e5e188584"
+    },
+    {
+      "order": 3,
+      "title": "Geneetiliselt muundatud organismide keskkonda viimise seaduse muutmise seadus [301 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f203a924-84e3-8e20-c9c1-8910d52a6ae0"
+    },
+    {
+      "order": 4,
+      "title": "Keskkonnatasude seaduse muutmise seadus [304 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f5e71a54-2f7d-71ac-717f-4ace2b922c6b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 09.09.2008",
+      "uuid": "3651b957-30a8-40b0-a60d-cd0039838e65",
+      "files": [
+        "prot67 09.09.08.doc"
+      ]
+    }
+  ],
+  "uuid": "de93fd91-5a7b-2e3b-b1b7-94bdb914088e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid de93fd91-5a7b-2e3b-b1b7-94bdb914088e)",
+  "source": "https://api.riigikogu.ee/api/volumes/de93fd91-5a7b-2e3b-b1b7-94bdb914088e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-09-01&endDate=2008-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
