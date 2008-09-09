@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-09-09T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": ". Eesti majanduskasvu ja tööhõive kava 2008-2011 tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "15f1a92b-20dc-ba02-bea7-2c691f398fa8"
+    },
+    {
+      "order": 2,
+      "title": "Autoveoseaduse, riigilõivuseaduse ja karistusregistri seaduse muutmise seadus [284 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9bacbf94-32de-85a6-5800-1cb0651973d7"
+    },
+    {
+      "order": 3,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f8816090-b9e9-c14f-114f-7cc680df1587"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 09.09.2008",
+      "uuid": "338707db-4471-b6c2-abda-805060f31966",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_37_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "b9ba1f74-5a3d-4cd1-9383-ea4d002ef879",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b9ba1f74-5a3d-4cd1-9383-ea4d002ef879)",
+  "source": "https://api.riigikogu.ee/api/volumes/b9ba1f74-5a3d-4cd1-9383-ea4d002ef879",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-09-01&endDate=2008-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
