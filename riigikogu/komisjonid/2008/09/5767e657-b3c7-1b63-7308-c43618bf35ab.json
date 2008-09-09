@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-09-09T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikogu kodu- ja töökorra seaduse muutmise seaduse eelnõu -235 SE- teise lugemise arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6853227d-d2d9-e933-2e78-0a403dd6244f"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu kodu- ja töökorra seaduse muutmise seaduse eelnõu -236 SE- teise lugemise arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "09d9ef87-728e-0bf3-36aa-69d91e1f8e59"
+    },
+    {
+      "order": 3,
+      "title": "Riigikogu kodu- ja töökorra seaduse muutmise seaduse eelnõu -293 SE- esimese lugemise arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6a4814a3-ff64-2451-519d-c773458a0b8a"
+    },
+    {
+      "order": 4,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "47c0305f-7774-a7c2-f853-ae576f6c9a89"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 09.09.2008",
+      "uuid": "9d39d910-c25c-a88c-ec97-9627ba171e12",
+      "files": [
+        "Põhiseaduskomisjon_istungi_protokoll_37_2008.odt",
+        "Põhiseaduskomisjon_paevakord_09_09_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "5767e657-b3c7-1b63-7308-c43618bf35ab",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 5767e657-b3c7-1b63-7308-c43618bf35ab)",
+  "source": "https://api.riigikogu.ee/api/volumes/5767e657-b3c7-1b63-7308-c43618bf35ab",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-09-01&endDate=2008-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
