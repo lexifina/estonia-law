@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-09-11T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikogu otsuse „Õiguskantsleri asetäitja-nõuniku ametisse nimetamine” eelnõu -308 OE- esimese lugemise arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0b9b7cff-e07e-cdd5-7fe6-75ff359b4c4b"
+    },
+    {
+      "order": 2,
+      "title": "Julgeolekuasutuste seaduse § 36 muutmise seaduse eelnõu -231 SE- esimese lugemise arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "51441b62-df47-8fc1-f830-b93751916c46"
+    },
+    {
+      "order": 3,
+      "title": "Istungil algatatud küsimused ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b79be44d-9ae0-21d8-9c23-98da595d4c25"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 11.09.2008",
+      "uuid": "d04d4128-8c47-7b0f-fa85-d634203d72d6",
+      "files": [
+        "Põhiseaduskomisjon_istungi_protokoll_37_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "b5ff6395-1dc8-7861-1be7-31866af57b55",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b5ff6395-1dc8-7861-1be7-31866af57b55)",
+  "source": "https://api.riigikogu.ee/api/volumes/b5ff6395-1dc8-7861-1be7-31866af57b55",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-09-01&endDate=2008-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
