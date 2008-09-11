@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-09-11T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Eesti Tööandjate Keskliidu esindajatega olulise tähtsusega riikliku küsimuse \"Eesti ettevõtluskeskkonna arendamine\" ettevalmistamise raames",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ac57e6ff-47aa-f125-4dbb-491cd0986f51"
+    },
+    {
+      "order": 2,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "552a7c56-d025-3a1d-1812-93d84454d45a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 11.09.2008",
+      "uuid": "629367c5-4a44-453a-cde4-6db3860b14d7",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_37_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "86d26814-cb02-c8bc-4b04-2e5de8ffd6d9",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 86d26814-cb02-c8bc-4b04-2e5de8ffd6d9)",
+  "source": "https://api.riigikogu.ee/api/volumes/86d26814-cb02-c8bc-4b04-2e5de8ffd6d9",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-09-01&endDate=2008-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
