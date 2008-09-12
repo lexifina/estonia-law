@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-09-12T10:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Informatsioon ja Eesti seisukohad 15.-16. septembril toimuval üldasjade ja välissuhete nõukogu (GAERC) kohtumisel.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c40b60b8-b7b9-8a35-f1c5-bf4299920ab1"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1b842c3b-9f64-dc8e-88fb-93bbc6a5cbff"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 12.09.2008",
+      "uuid": "0d38a378-fe71-3d49-10a6-9ada56f22619",
+      "files": [
+        "Väliskomisjon_istungi_protokoll_37_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "709267d3-d0f9-f4b1-efec-13a6dc10dead",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 709267d3-d0f9-f4b1-efec-13a6dc10dead)",
+  "source": "https://api.riigikogu.ee/api/volumes/709267d3-d0f9-f4b1-efec-13a6dc10dead",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-09-01&endDate=2008-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
