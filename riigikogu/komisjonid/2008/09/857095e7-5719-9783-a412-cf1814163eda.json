@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-09-12T10:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 15.-16. septembril toimuval üldasjade ja välissuhete nõukogu (GAERC) kohtumisel (ühisistung väliskomisjoniga).",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c244cd84-761f-a446-da50-14cdfb271033"
+    },
+    {
+      "order": 2,
+      "title": "Seisukoha andmine: Euroopa Parlamendi ja nõukogu määruse eelnõu \"Üldsuse juurdepääsu kohta Euroopa Parlamendi, nõukogu ja komisjoni dokumentidele\".",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "05abb092-552b-35ea-6dc4-ef19227f6011"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 12.09.2008",
+      "uuid": "1cbad7c5-8116-b839-5970-fb4111ceef8c",
+      "files": [
+        "Euroopa Liidu asjade komisjon_istungi_protokoll_37_2008.odt",
+        "Euroopa Liidu asjade komisjon_paevakord_12_09_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "857095e7-5719-9783-a412-cf1814163eda",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 857095e7-5719-9783-a412-cf1814163eda)",
+  "source": "https://api.riigikogu.ee/api/volumes/857095e7-5719-9783-a412-cf1814163eda",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-09-01&endDate=2008-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
