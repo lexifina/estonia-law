@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-09-15T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kaitseväeteenistuse seaduse, ravikindlustuse seaduse ja sotsiaalmaksuseaduse muutmise seadus [289 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "73824680-3431-2649-4a6b-3f53a4cad0b2"
+    },
+    {
+      "order": 2,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6e0771aa-18d3-06c0-cd39-3c5ab2cfafbb"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 15.09.2008",
+      "uuid": "5dd925fb-9e89-7c70-fed1-9c4082219e17",
+      "files": [
+        "15.09.08.doc"
+      ]
+    }
+  ],
+  "uuid": "83b78b17-61d1-7e77-2efb-56f55f48737d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 83b78b17-61d1-7e77-2efb-56f55f48737d)",
+  "source": "https://api.riigikogu.ee/api/volumes/83b78b17-61d1-7e77-2efb-56f55f48737d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-09-01&endDate=2008-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
