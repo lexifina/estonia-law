@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-09-15T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine kultuuriminister Laine Jänesega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c0b40546-abbd-19ea-8bee-a44f54793b57"
+    },
+    {
+      "order": 2,
+      "title": "Info, kirjad",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9ceb0dc3-84a9-539c-3d6c-527b83853112"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 15.09.2008",
+      "uuid": "99b48637-856a-eb25-2df0-c9ebcff5b9bd",
+      "files": [
+        "Kultuurikomisjon_paevakord_15_09_2008.odt",
+        "Kultuurikomisjon_istungi_protokoll_38_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "9ee23726-24b0-74f2-3f38-9443f1dcdcd6",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9ee23726-24b0-74f2-3f38-9443f1dcdcd6)",
+  "source": "https://api.riigikogu.ee/api/volumes/9ee23726-24b0-74f2-3f38-9443f1dcdcd6",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-09-01&endDate=2008-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
