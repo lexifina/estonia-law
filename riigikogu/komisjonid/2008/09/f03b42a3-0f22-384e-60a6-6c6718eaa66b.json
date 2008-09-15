@@ -1,0 +1,58 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-09-15T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töönädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "79503335-bfda-0f81-2be3-a1526a5f4466"
+    },
+    {
+      "order": 2,
+      "title": "Piirivalveteenistuse seaduse muutmise seadus [269 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1afa5285-3567-d94f-503c-76ae18b6c3bf"
+    },
+    {
+      "order": 3,
+      "title": "Jäätmeseaduse ja karistusseadustiku muutmise seadus [305 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "83b1f70d-aed7-fbce-a8f3-a6c388c160fb"
+    },
+    {
+      "order": 4,
+      "title": "Arvamus ELAK-le",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ef7e068b-72af-ce29-ab92-b269792ea502"
+    },
+    {
+      "order": 5,
+      "title": "Riigikogu Riigieelarve kontrollikomisjoni kiri",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6c3be3c0-b19f-6991-6829-7e07f3e14104"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 15.09.2008",
+      "uuid": "74c7991f-bc14-bbd9-7576-abb5093da110",
+      "files": [
+        "iguskomisjon_istungi_protokoll_38_2008.odt",
+        "iguskomisjon_paevakord_15_09_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "f03b42a3-0f22-384e-60a6-6c6718eaa66b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f03b42a3-0f22-384e-60a6-6c6718eaa66b)",
+  "source": "https://api.riigikogu.ee/api/volumes/f03b42a3-0f22-384e-60a6-6c6718eaa66b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-09-01&endDate=2008-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
