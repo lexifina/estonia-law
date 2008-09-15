@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-09-15T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Metsaseaduse ja sellega seonduvate seaduste muutmise seadus [327 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "94b7191c-1d70-e107-29b6-01288e228203"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu otsuse \"Riigikogu 4. detsembri 2002.a otsuse \"Üleriigilise jäätmekava heakskiitmine\" kehtetuks tunnistamine\" [314 OE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e6e38bc8-5064-1dea-8518-268d47ee4860"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 15.09.2008",
+      "uuid": "99227d45-dc4e-89c7-cc67-f55e7ac10100",
+      "files": [
+        "prot68 15.09.08.doc"
+      ]
+    }
+  ],
+  "uuid": "28d7f47e-a152-90ef-7a2a-0bb2e3cd5b73",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 28d7f47e-a152-90ef-7a2a-0bb2e3cd5b73)",
+  "source": "https://api.riigikogu.ee/api/volumes/28d7f47e-a152-90ef-7a2a-0bb2e3cd5b73",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-09-01&endDate=2008-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
