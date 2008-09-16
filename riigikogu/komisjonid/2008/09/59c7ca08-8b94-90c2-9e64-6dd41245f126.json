@@ -1,0 +1,33 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-09-16T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Eesti Põllumeeste Keskliidu esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "869f6520-4e89-f69e-523d-9709348aad39"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 16.09.2008",
+      "uuid": "b3b8d87f-0a11-2566-6cfa-bf1a380bdabf",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_38_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "59c7ca08-8b94-90c2-9e64-6dd41245f126",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 59c7ca08-8b94-90c2-9e64-6dd41245f126)",
+  "source": "https://api.riigikogu.ee/api/volumes/59c7ca08-8b94-90c2-9e64-6dd41245f126",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-09-01&endDate=2008-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
