@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-09-16T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikontrolli auditi \"Kõrghariduse riiklik koolitustellimus\" aruande arutelu koos Riigikontrolli esindajatega ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "50de5964-6653-b819-630b-f04de556a6d9"
+    },
+    {
+      "order": 2,
+      "title": "Õppetoetuste ja õppelaenu seaduse muutmise seadus [223 SE II-2]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0258d99b-e0f2-5e7d-2cd6-40355642252a"
+    },
+    {
+      "order": 3,
+      "title": "Olulise tähtsusega riikliku küsimuse arutelu ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "846d17be-383a-feb1-42fb-8bb6f3ce2083"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 16.09.2008",
+      "uuid": "6e31c4ad-6fb6-b323-dba9-74a98070452e",
+      "files": [
+        "Kultuurikomisjon_istungi_protokoll_38_2008.odt",
+        "Kultuurikomisjon_paevakord_16_09_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "663b2dec-9679-5e33-4eb5-1de0c61bc1d2",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 663b2dec-9679-5e33-4eb5-1de0c61bc1d2)",
+  "source": "https://api.riigikogu.ee/api/volumes/663b2dec-9679-5e33-4eb5-1de0c61bc1d2",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-09-01&endDate=2008-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
