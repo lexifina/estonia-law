@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-09-16T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kogumispensionide seaduse ja sellega seonduvate seaduste muutmise seadus [313 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "15530665-c025-bc88-8381-1055f4db07b9"
+    },
+    {
+      "order": 2,
+      "title": "Eesti Vabariigi valitsuse ja Aserbaidžaani Vabariigi valitsuse vahelise tulu- ja kapitalimaksudega topeltmaksustamise vältimise ning maksudest hoidumise tõkestamise lepingu ja selle juurde kuuluva protokolli ratifitseerimise seadus [291 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d77ad181-bb1f-490f-6515-abecc2b26797"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 16.09.2008",
+      "uuid": "fd984c77-8b88-e490-2c85-6ea1d7842085",
+      "files": [
+        "Rahanduskomisjon_istungi_protokoll_38_2008.odt",
+        "Rahanduskomisjon_paevakord_16_09_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "f14845f2-583c-b6b7-671c-db0969f3b423",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f14845f2-583c-b6b7-671c-db0969f3b423)",
+  "source": "https://api.riigikogu.ee/api/volumes/f14845f2-583c-b6b7-671c-db0969f3b423",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-09-01&endDate=2008-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
