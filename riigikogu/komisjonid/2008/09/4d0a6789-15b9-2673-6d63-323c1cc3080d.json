@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-09-18T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade Venemaa-Georgia konflikti järgsest olukorrast. ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2b98de01-ffe8-7401-d1ee-f45ad9a8e12b"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused. ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bf9fdf95-214d-71e5-acba-032a5af1aa94"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 18.09.2008",
+      "uuid": "567fc5e8-e9eb-36dc-f427-9fcb203f6dd0",
+      "files": [
+        "Väliskomisjon_istungi_protokoll_38_2008.odt",
+        "Väliskomisjon_paevakord_18_09_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "4d0a6789-15b9-2673-6d63-323c1cc3080d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 4d0a6789-15b9-2673-6d63-323c1cc3080d)",
+  "source": "https://api.riigikogu.ee/api/volumes/4d0a6789-15b9-2673-6d63-323c1cc3080d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-09-01&endDate=2008-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
