@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-09-18T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töölepingu seadus [299 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c7c9f141-d453-7b1d-5ef4-93b745be5f6d"
+    },
+    {
+      "order": 2,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7bafe1e5-2e5d-c9b9-2cbf-848b23b670f9"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 18.09.2008",
+      "uuid": "d6d4e5a9-eb5d-2543-f942-849df5c6f037",
+      "files": [
+        "iguskomisjon_istungi_protokoll_38_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "8e7b0ffe-7ef6-6a0c-6e80-d3ec3788ed20",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8e7b0ffe-7ef6-6a0c-6e80-d3ec3788ed20)",
+  "source": "https://api.riigikogu.ee/api/volumes/8e7b0ffe-7ef6-6a0c-6e80-d3ec3788ed20",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-09-01&endDate=2008-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
