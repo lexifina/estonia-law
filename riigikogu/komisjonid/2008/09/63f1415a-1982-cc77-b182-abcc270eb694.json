@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-09-18T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kavandatav Põllumajandusministeeriumi 2009. a eelarve",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "29330202-3907-dc52-d590-68e1fd330af1"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu otsus \"Ettepaneku tegemine Vabariigi Valitsusele\" [337 OE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "30d1fb93-f68a-225b-c2a6-bc2335f8d3e4"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 18.09.2008",
+      "uuid": "431e3d78-55f7-4576-9c7b-b0e60d9b99f4",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_38_2008.odt",
+        "Maaelukomisjon_paevakord_18_09_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "63f1415a-1982-cc77-b182-abcc270eb694",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 63f1415a-1982-cc77-b182-abcc270eb694)",
+  "source": "https://api.riigikogu.ee/api/volumes/63f1415a-1982-cc77-b182-abcc270eb694",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-09-01&endDate=2008-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
