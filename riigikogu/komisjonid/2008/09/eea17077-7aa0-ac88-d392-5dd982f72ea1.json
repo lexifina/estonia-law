@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-09-18T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Hasartmänguseadus [216 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3fa4f680-f046-8731-85b6-597bf6b52d8a"
+    },
+    {
+      "order": 2,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1880f31d-bce4-be3e-0a9b-f83b038d1ded"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 18.09.2008",
+      "uuid": "59ef3a0f-5a17-873a-6da9-26fcb8481b98",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_38_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "eea17077-7aa0-ac88-d392-5dd982f72ea1",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid eea17077-7aa0-ac88-d392-5dd982f72ea1)",
+  "source": "https://api.riigikogu.ee/api/volumes/eea17077-7aa0-ac88-d392-5dd982f72ea1",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-09-01&endDate=2008-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
