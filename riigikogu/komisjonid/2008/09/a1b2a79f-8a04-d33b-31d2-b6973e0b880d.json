@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-09-22T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töönädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5026fb26-4312-bcc8-882d-a59f22de313e"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine õiguskantsler Indrek Teder`ga ja tema asetäitja Nele Parrest´ga",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8afb4beb-9529-0721-e7d7-ecbe8fe618a0"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 22.09.2008",
+      "uuid": "92b7e609-d9d2-fbb7-21b1-0a2156c9f2ce",
+      "files": [
+        "iguskomisjon_istungi_protokoll_39_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "a1b2a79f-8a04-d33b-31d2-b6973e0b880d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a1b2a79f-8a04-d33b-31d2-b6973e0b880d)",
+  "source": "https://api.riigikogu.ee/api/volumes/a1b2a79f-8a04-d33b-31d2-b6973e0b880d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-09-01&endDate=2008-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
