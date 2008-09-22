@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-09-22T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Punase risti nimetuse ja embleemi seaduse ning karistusseadustiku muutmise seadus [309 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b26efae5-0e8e-5718-5e4d-3bc37a7897fc"
+    },
+    {
+      "order": 2,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "be110b3a-3698-5577-db93-b775187b94f9"
+    },
+    {
+      "order": 3,
+      "title": "Kell 13.00 Riigikaitsekomisjoni esimees Mati Raidma kohtub Iiri suursaadiku Thomas Bolsteriga",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "25f20473-d2cf-f1d8-f9b2-ebbff60b1ec4"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 22.09.2008",
+      "uuid": "e7554021-82c4-a939-1061-aba4242d6fe9",
+      "files": [
+        "22.09.08.doc"
+      ]
+    }
+  ],
+  "uuid": "b99a16b3-5063-bee2-aaf5-1553988b1b3b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b99a16b3-5063-bee2-aaf5-1553988b1b3b)",
+  "source": "https://api.riigikogu.ee/api/volumes/b99a16b3-5063-bee2-aaf5-1553988b1b3b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-09-01&endDate=2008-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
