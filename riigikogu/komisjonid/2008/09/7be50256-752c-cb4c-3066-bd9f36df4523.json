@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-09-22T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Andmekaitse Inspektsiooni peadirektori Urmas Kukega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d1fa3913-d028-f4f7-ade7-a7a3a85c671a"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine Õiguskantsleriga",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c6251ebe-a845-ba69-e9cd-4c41c159e0e3"
+    },
+    {
+      "order": 3,
+      "title": "Võrdse kohtlemise seadus [262 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c8361cdc-98b3-8e5f-9433-935d38540aa0"
+    },
+    {
+      "order": 4,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ad16443c-c151-222b-4d4c-8336c323fa8b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 22.09.2008",
+      "uuid": "636aff0a-0cab-a185-ecb2-2eb23360dbaa",
+      "files": [
+        "Põhiseaduskomisjon_istungi_protokoll_39_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "7be50256-752c-cb4c-3066-bd9f36df4523",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7be50256-752c-cb4c-3066-bd9f36df4523)",
+  "source": "https://api.riigikogu.ee/api/volumes/7be50256-752c-cb4c-3066-bd9f36df4523",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-09-01&endDate=2008-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
