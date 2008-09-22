@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-09-22T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Maksukorralduse seaduse ja sellega seotud teiste seaduste muutmise seadus [333 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "462a6924-787f-dc78-c947-85b141d7e41a"
+    },
+    {
+      "order": 2,
+      "title": "Rahvusvahelise Arenguassotsiatsiooni põhikirja heakskiitmise seadus [290 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "45d0b352-126b-a1e8-bbaa-0d72fb02b0c7"
+    },
+    {
+      "order": 3,
+      "title": "Info",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3f309d09-abbb-cd3d-1445-2cbaf371b94a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 22.09.2008",
+      "uuid": "f010c7f2-b6e8-da50-059d-392d86e1f8a0",
+      "files": [
+        "Rahanduskomisjon_istungi_protokoll_39_2008.odt",
+        "Rahanduskomisjon_paevakord_22_09_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "c458e372-b94e-5fd6-c505-6590cb5938ae",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c458e372-b94e-5fd6-c505-6590cb5938ae)",
+  "source": "https://api.riigikogu.ee/api/volumes/c458e372-b94e-5fd6-c505-6590cb5938ae",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-09-01&endDate=2008-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
