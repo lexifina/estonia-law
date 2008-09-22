@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-09-22T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7566dac8-8596-5dcb-994d-9a4f56dbee31"
+    },
+    {
+      "order": 2,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b4204e5f-33ef-0d10-a2d4-5f4f8de1797a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 22.09.2008",
+      "uuid": "5c0ae629-baef-0ac4-1240-e4122919a5bf",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_39_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "fcd93cef-b5a7-bca5-b098-04739df7d3b1",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid fcd93cef-b5a7-bca5-b098-04739df7d3b1)",
+  "source": "https://api.riigikogu.ee/api/volumes/fcd93cef-b5a7-bca5-b098-04739df7d3b1",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-09-01&endDate=2008-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
