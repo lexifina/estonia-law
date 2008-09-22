@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-09-22T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Keskkonnakomisjoni töökava",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9fa60c5f-ea86-fada-1cc6-1b7610801940"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse 29. mai 2008. a korraldusega nr 234 kinnitatud riigi jäätmekava 2008–2013 ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ebb86c40-aa9c-81b0-8dc3-2407a18b79e8"
+    },
+    {
+      "order": 3,
+      "title": " Riigikantselei 26.06.2008 kiri nr 1-4/08-04245 ja 21.08.2008 kiri nr 1-4/08-05175 rikkumismenetlustest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0d3c8310-d000-6dae-ebf0-0d0a9bfd0d4e"
+    },
+    {
+      "order": 4,
+      "title": " Jooksvad küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0c5ac584-c86f-92eb-c1f7-a44173d85088"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 22.09.2008",
+      "uuid": "2a111347-52e5-7bcb-ca59-e80fb06963a5",
+      "files": [
+        "prot70 22.09.08.doc"
+      ]
+    }
+  ],
+  "uuid": "27d328d2-021a-8d17-c897-de3ecd1afba1",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 27d328d2-021a-8d17-c897-de3ecd1afba1)",
+  "source": "https://api.riigikogu.ee/api/volumes/27d328d2-021a-8d17-c897-de3ecd1afba1",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-09-01&endDate=2008-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
