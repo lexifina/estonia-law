@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-09-23T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtute seaduse muutmise seadus [326 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "617cf0da-790a-3acf-1a40-e054d88a3189"
+    },
+    {
+      "order": 2,
+      "title": "Euroopa keeleõppe raamdokumendis määratletud keeleoskustasemete kasutuselevõtust tulenevalt välismaalaste seaduse ja teiste seaduste muutmise seadus [325 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "22e039c1-f117-da06-e283-5e39589f031e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 23.09.2008",
+      "uuid": "0aa62b64-121e-9043-34d8-82592049d91b",
+      "files": [
+        "Kultuurikomisjon_istungi_protokoll_39_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "2b9464b8-20ee-b52c-22cf-fb89a1c826cc",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2b9464b8-20ee-b52c-22cf-fb89a1c826cc)",
+  "source": "https://api.riigikogu.ee/api/volumes/2b9464b8-20ee-b52c-22cf-fb89a1c826cc",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-09-01&endDate=2008-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
