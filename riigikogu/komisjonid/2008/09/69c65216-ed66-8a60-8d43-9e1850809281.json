@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-09-23T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Karistusseadustiku muutmise seadus [322 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1d22c344-bec0-d9b5-7e72-4418ca9c6f80"
+    },
+    {
+      "order": 2,
+      "title": "Saneerimisseadus [334 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a698506a-e4a1-683e-8bed-ecefdc9c27d7"
+    },
+    {
+      "order": 3,
+      "title": "Äriseadustiku ja karistusseadustiku muutmise seadus ning sellega seonduvalt teiste seaduste muutmise seadus [332 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8bcc1db7-6c96-87d1-1145-8ec9a08d8fbf"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 23.09.2008",
+      "uuid": "07c90e56-36ac-f81d-ccd5-d354eda07811",
+      "files": [
+        "iguskomisjon_istungi_protokoll_39_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "69c65216-ed66-8a60-8d43-9e1850809281",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 69c65216-ed66-8a60-8d43-9e1850809281)",
+  "source": "https://api.riigikogu.ee/api/volumes/69c65216-ed66-8a60-8d43-9e1850809281",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-09-01&endDate=2008-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
