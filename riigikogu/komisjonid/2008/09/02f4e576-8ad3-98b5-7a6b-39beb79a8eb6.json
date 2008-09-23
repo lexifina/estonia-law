@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-09-23T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kaitseväeteenistuse seaduse muutmise seadus [312 SE I]. Kutsutud kaitseminister Jaak Aaviksoo",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1b6ccf48-5099-1b95-93ec-be29fce5ad42"
+    },
+    {
+      "order": 2,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "55905a92-6fb4-6f52-4533-2d195eb91eb3"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 23.09.2008",
+      "uuid": "a853dfa3-a10a-d4dc-edef-31ec73bdcf0c",
+      "files": [
+        "23.09.08.doc"
+      ]
+    }
+  ],
+  "uuid": "02f4e576-8ad3-98b5-7a6b-39beb79a8eb6",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 02f4e576-8ad3-98b5-7a6b-39beb79a8eb6)",
+  "source": "https://api.riigikogu.ee/api/volumes/02f4e576-8ad3-98b5-7a6b-39beb79a8eb6",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-09-01&endDate=2008-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
