@@ -1,0 +1,34 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-09-23T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Loomakaitseseaduse muutmise seaduse (328 SE) eelnõu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e1c24ff9-d284-e2dc-b71a-9163e733da03"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 23.09.2008",
+      "uuid": "29256179-f1cd-30cd-6b9b-cdbe9c908391",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_39_2008.odt",
+        "Maaelukomisjon_paevakord_23_09_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "4ad20960-72d0-83e9-2e33-c5ce11c9097f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 4ad20960-72d0-83e9-2e33-c5ce11c9097f)",
+  "source": "https://api.riigikogu.ee/api/volumes/4ad20960-72d0-83e9-2e33-c5ce11c9097f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-09-01&endDate=2008-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
