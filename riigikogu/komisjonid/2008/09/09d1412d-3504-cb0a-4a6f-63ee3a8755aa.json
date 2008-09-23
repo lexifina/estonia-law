@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-09-23T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Hiiumaa esindajatega Hiiumaa nädala raames.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "08b42b19-a350-4a94-4a52-c30cfcd5e9a2"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine Iirimaa Parlamendi kommunikatsiooni, energia ja loodusvarade komisjoni esindajatega.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fbb9da49-ce35-e9a4-7cf1-41fb71d999a2"
+    },
+    {
+      "order": 3,
+      "title": "Euroopa Parlamendi ja nõukogu direktiivi Euroopa töönõukogu asutamise või töötajate teavitamis- ja konsulteerimiskorra sisseseadmise kohta liikmesriigiülestes ettevõtetes või kontsernides eelnõu, arutelu.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fa106d5c-91f6-b913-5fcb-d06e04a810d3"
+    },
+    {
+      "order": 4,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dfa77e45-5f1f-8e9d-0a2e-c781b24da782"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 23.09.2008",
+      "uuid": "97d8e331-ead0-c9e9-bd74-394f7fcc4cfc",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_39_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "09d1412d-3504-cb0a-4a6f-63ee3a8755aa",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 09d1412d-3504-cb0a-4a6f-63ee3a8755aa)",
+  "source": "https://api.riigikogu.ee/api/volumes/09d1412d-3504-cb0a-4a6f-63ee3a8755aa",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-09-01&endDate=2008-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
