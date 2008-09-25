@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-09-25T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Meresõiduohutuse seaduse ja riigilõivuseaduse muutmise seadus [274 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dcdbac40-fce5-d85b-3bb0-f570dae568f4"
+    },
+    {
+      "order": 2,
+      "title": "Riigivara tasuta võõrandmine (2)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a2ca1fbb-55cc-1d27-32ac-1b4f1d5e4c3d"
+    },
+    {
+      "order": 3,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f7809c72-02c9-49d9-60e3-4153d22657d8"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 25.09.2008",
+      "uuid": "49958bb5-a069-5b26-6eeb-3fc5c5bcbab0",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_39_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "7ead6006-7d6e-039f-7d15-ef42bd28eaac",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7ead6006-7d6e-039f-7d15-ef42bd28eaac)",
+  "source": "https://api.riigikogu.ee/api/volumes/7ead6006-7d6e-039f-7d15-ef42bd28eaac",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-09-01&endDate=2008-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
