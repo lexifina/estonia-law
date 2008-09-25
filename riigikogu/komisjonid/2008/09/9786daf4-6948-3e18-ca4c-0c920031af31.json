@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-09-25T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti keskmise palgaga seotud ametipalkade maksmise ajutise korralduse seadus [296 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c6873f1b-46d4-f129-2132-7eababddfd39"
+    },
+    {
+      "order": 2,
+      "title": "Riigikohtule arvamuse andmine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d29eed35-924b-73bc-ceb2-1bd0fe7a03a3"
+    },
+    {
+      "order": 3,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "62fe41a8-5c39-4441-1c2a-9676a981f9a4"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 25.09.2008",
+      "uuid": "89fb7ac4-d2af-e2dc-d624-f275da706637",
+      "files": [
+        "Põhiseaduskomisjon_istungi_protokoll_39_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "9786daf4-6948-3e18-ca4c-0c920031af31",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9786daf4-6948-3e18-ca4c-0c920031af31)",
+  "source": "https://api.riigikogu.ee/api/volumes/9786daf4-6948-3e18-ca4c-0c920031af31",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-09-01&endDate=2008-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
