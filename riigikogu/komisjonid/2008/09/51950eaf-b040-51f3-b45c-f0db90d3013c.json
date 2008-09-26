@@ -1,0 +1,33 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-09-26T09:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade Herman Simmi vastu algatatud kriminaalasjast.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "02b8c823-d6fb-689b-4722-a2073ecd9809"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 26.09.2008",
+      "uuid": "2d06123a-ce26-65bd-4e05-27960e7131ee",
+      "files": [
+        "Väliskomisjon_istungi_protokoll_39_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "51950eaf-b040-51f3-b45c-f0db90d3013c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 51950eaf-b040-51f3-b45c-f0db90d3013c)",
+  "source": "https://api.riigikogu.ee/api/volumes/51950eaf-b040-51f3-b45c-f0db90d3013c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-09-01&endDate=2008-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
