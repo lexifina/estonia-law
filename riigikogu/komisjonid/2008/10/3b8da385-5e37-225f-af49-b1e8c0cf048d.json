@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-10-03T10:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 9.-10. oktoobril toimuval transpordi, telekommunikatsiooni ja energeetika nõukogu kohtumisel. ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b44b5567-898b-9b75-e717-a6b568b95fa3"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7dacab29-f8fb-e44e-2edb-c42a7428ccc2"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 03.10.2008",
+      "uuid": "89bf987d-a25e-5dc6-6f1f-ecdcea502857",
+      "files": [
+        "Euroopa Liidu asjade komisjon_paevakord_03_10_2008.odt",
+        "Euroopa Liidu asjade komisjon_istungi_protokoll_40_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "3b8da385-5e37-225f-af49-b1e8c0cf048d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3b8da385-5e37-225f-af49-b1e8c0cf048d)",
+  "source": "https://api.riigikogu.ee/api/volumes/3b8da385-5e37-225f-af49-b1e8c0cf048d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-10-01&endDate=2008-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
