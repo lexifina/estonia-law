@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-10-06T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "83e8b4b1-f24e-f6f6-4c2b-e7bcfe4641e9"
+    },
+    {
+      "order": 2,
+      "title": "Väetiseseaduse ja riigilõivuseaduse muutmise seaduse (310 SE) eelnõu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "06065e2a-b537-2d87-7a68-08e4ceef5791"
+    },
+    {
+      "order": 3,
+      "title": "Riigikogu otsuse \"Ettepaneku tegemine Vabariigi Valitsusele\" (337 OE) eelnõu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "456b0723-4436-0982-2bb8-1b6f1ca8042a"
+    },
+    {
+      "order": 4,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "da0706ce-354f-b6fd-c732-07ad9170bdd6"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 06.10.2008",
+      "uuid": "c912b41c-689a-c94e-b72e-b13ef1ac97d3",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_41_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "7e727d48-f78a-eb1e-71c4-cf3f86b79595",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7e727d48-f78a-eb1e-71c4-cf3f86b79595)",
+  "source": "https://api.riigikogu.ee/api/volumes/7e727d48-f78a-eb1e-71c4-cf3f86b79595",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-10-01&endDate=2008-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
