@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-10-06T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Keskkonnakomisjoni töökava",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "47e68ab5-17a8-9f9d-6c1c-2f448d611b33"
+    },
+    {
+      "order": 2,
+      "title": "Geneetiliselt muundatud mikroorganismide suletud keskkonnas kasutamise seaduse muutmise seadus [268 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "987e980a-c378-9f88-c3eb-56557b4919b7"
+    },
+    {
+      "order": 3,
+      "title": "Laevade kahjulike kattumisvastaste süsteemide kontrolli rahvusvahelise konventsiooniga ühinemise seadus [315 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e5ca46e0-6aa8-b664-c732-1dd93775d9fd"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 06.10.2008",
+      "uuid": "d33f267e-958f-eb17-54c9-42cc34e9eb6b",
+      "files": [
+        "prot73 06.10.08.doc"
+      ]
+    }
+  ],
+  "uuid": "d9cccdf7-4eef-c075-02d6-a85b85b2f928",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d9cccdf7-4eef-c075-02d6-a85b85b2f928)",
+  "source": "https://api.riigikogu.ee/api/volumes/d9cccdf7-4eef-c075-02d6-a85b85b2f928",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-10-01&endDate=2008-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
