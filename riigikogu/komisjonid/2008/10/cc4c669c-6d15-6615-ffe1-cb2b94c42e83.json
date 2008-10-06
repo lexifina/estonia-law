@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-10-06T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Võrdse kohtlemise seadus [262 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5c81d906-e04f-172d-00e3-003711e7a8bb"
+    },
+    {
+      "order": 2,
+      "title": "Riigikohtule arvamuse andmine ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "db85e7e4-6c1b-7aba-6cd3-01cd36c29a2a"
+    },
+    {
+      "order": 3,
+      "title": "Riigikohtule arvamuse andmine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f58bc35a-d233-be74-20c3-fc7f2b49e4af"
+    },
+    {
+      "order": 4,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "86d19fea-a0b7-8b18-bc17-c972d943139d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 06.10.2008",
+      "uuid": "9ac749dc-108a-02b3-1eb3-559e7b76512c",
+      "files": [
+        "Põhiseaduskomisjon_istungi_protokoll_41_2008.odt",
+        "Põhiseaduskomisjon_paevakord_06_10_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "cc4c669c-6d15-6615-ffe1-cb2b94c42e83",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid cc4c669c-6d15-6615-ffe1-cb2b94c42e83)",
+  "source": "https://api.riigikogu.ee/api/volumes/cc4c669c-6d15-6615-ffe1-cb2b94c42e83",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-10-01&endDate=2008-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
