@@ -1,0 +1,33 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-10-06T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Info",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b1f0d055-e5f1-c34f-cbf0-be78445afd65"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 06.10.2008",
+      "uuid": "876f7692-1ddb-c4f8-fff1-df61fd5b9933",
+      "files": [
+        "Kultuurikomisjon_istungi_protokoll_41_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "900ae600-993f-093a-3e8e-1d733ed850ed",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 900ae600-993f-093a-3e8e-1d733ed850ed)",
+  "source": "https://api.riigikogu.ee/api/volumes/900ae600-993f-093a-3e8e-1d733ed850ed",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-10-01&endDate=2008-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
