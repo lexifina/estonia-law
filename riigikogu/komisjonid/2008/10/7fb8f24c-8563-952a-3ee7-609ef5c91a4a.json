@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-10-06T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 7.oktoobril toimuval majandus- ja rahandusministrite nõukogu kohtumisel (ECOFIN).",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8872e101-ba06-4540-bda1-de5913667902"
+    },
+    {
+      "order": 2,
+      "title": "ELAK-i tellitud EL ministrite nõukogu töörühmade esindatuse uuringu esitlemine.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "026f679f-0e89-55b1-3d41-1ef018003e4d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 06.10.2008",
+      "uuid": "ddb7f4a3-5a05-a936-64e2-a32658de7f5d",
+      "files": [
+        "Euroopa Liidu asjade komisjon_paevakord_06_10_2008.odt",
+        "Euroopa Liidu asjade komisjon_istungi_protokoll_41_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "7fb8f24c-8563-952a-3ee7-609ef5c91a4a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7fb8f24c-8563-952a-3ee7-609ef5c91a4a)",
+  "source": "https://api.riigikogu.ee/api/volumes/7fb8f24c-8563-952a-3ee7-609ef5c91a4a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-10-01&endDate=2008-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
