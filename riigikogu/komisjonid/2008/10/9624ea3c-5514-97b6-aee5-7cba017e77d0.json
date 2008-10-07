@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-10-07T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine EVEA (Eesti väike- ja keskmiste ettevõtete assotsiatsioon) esindajatega olulise tähtsusega riikliku küsimuse \"Eesti ettevõtluskeskkonna arendamine\" ettevalmistamise raames.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "95ffc94b-45ab-70c8-05d8-fbd9e8413cac"
+    },
+    {
+      "order": 2,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "db3039a7-3880-e641-b70c-3973723c242c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 07.10.2008",
+      "uuid": "a918e909-d4ad-0d4d-2778-c2e58fe79b2d",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_41_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "9624ea3c-5514-97b6-aee5-7cba017e77d0",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9624ea3c-5514-97b6-aee5-7cba017e77d0)",
+  "source": "https://api.riigikogu.ee/api/volumes/9624ea3c-5514-97b6-aee5-7cba017e77d0",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-10-01&endDate=2008-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
