@@ -1,0 +1,33 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-10-09T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väljasõiduistung Läänemaal",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "454bb326-3292-637d-6aa4-44734d118628"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 09.10.2008",
+      "uuid": "c49ca4a6-147f-09f1-2b04-9a98906db4e2",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_41_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "81b7ec10-1e5f-ef6e-a0c7-bc9daa1fca96",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 81b7ec10-1e5f-ef6e-a0c7-bc9daa1fca96)",
+  "source": "https://api.riigikogu.ee/api/volumes/81b7ec10-1e5f-ef6e-a0c7-bc9daa1fca96",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-10-01&endDate=2008-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
