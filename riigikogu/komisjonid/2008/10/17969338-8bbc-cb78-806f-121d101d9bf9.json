@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-10-10T09:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Seisukoha andmine: Kliimaküsimuste ja taastuvenergia meetmepakett.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "31e89a48-b255-cb22-31f6-f9c5bf40a174"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad 13.-14. oktoobril toimuval üldasjade ja välissuhete nõukogu kohtumisel (ühisistung väliskomisjoniga).",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d02e7398-abfd-6731-60da-2bc773fda7f7"
+    },
+    {
+      "order": 3,
+      "title": "Eesti seisukohad 15.-16.oktoobril toimuval Euroopa Ülemkogu kohtumisel (ühisistung väliskomisjoniga).",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "19169695-08c0-f448-2b79-db72110344a6"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 10.10.2008",
+      "uuid": "ad47a364-223f-24a8-0a32-255c7a918efb",
+      "files": [
+        "Euroopa Liidu asjade komisjon_paevakord_10_10_2008.odt",
+        "Euroopa Liidu asjade komisjon_istungi_protokoll_41_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "17969338-8bbc-cb78-806f-121d101d9bf9",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 17969338-8bbc-cb78-806f-121d101d9bf9)",
+  "source": "https://api.riigikogu.ee/api/volumes/17969338-8bbc-cb78-806f-121d101d9bf9",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-10-01&endDate=2008-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
