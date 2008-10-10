@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-10-10T10:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Informatsioon ja Eesti seisukohad 13.-14. oktoobril 2008 toimuval Euroopa Liidu üldasjade ja välissuhete nõukogu (GAERC) istungil. ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "549c53a5-d8f1-fcad-d4b3-5a7730fef65a"
+    },
+    {
+      "order": 2,
+      "title": "Informatsioon ja Eesti seisukohad 15.-16.oktoobril 2008 toimuval Euroopa Ülemkogu kohtumisel. ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c8c60665-f3d6-c3ec-6929-447c6afc9324"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "364ce7d3-00ff-77a6-325f-54ce66e2a6ae"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 10.10.2008",
+      "uuid": "a1864e96-40d3-02a3-f61e-13b1242badb7",
+      "files": [
+        "Väliskomisjon_istungi_protokoll_41_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "314b7f3a-2f06-d03e-788d-d62f79999b60",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 314b7f3a-2f06-d03e-788d-d62f79999b60)",
+  "source": "https://api.riigikogu.ee/api/volumes/314b7f3a-2f06-d03e-788d-d62f79999b60",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-10-01&endDate=2008-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
