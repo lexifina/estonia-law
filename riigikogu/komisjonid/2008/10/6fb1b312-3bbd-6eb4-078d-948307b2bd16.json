@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-10-13T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töönädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "353fa4a7-f17a-57e6-47d3-604d84adb760"
+    },
+    {
+      "order": 2,
+      "title": "Politseiteenistuse seaduse muutmise seadus [351 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e53142dd-d4e8-8726-246a-85a2fef8c4a8"
+    },
+    {
+      "order": 3,
+      "title": "Kriminaalmenetluse seadustiku ja teiste seaduste muutmise seadus [286 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "07e09e12-7c13-6ae6-b8f9-24e0ccab300b"
+    },
+    {
+      "order": 4,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9da73086-dbed-987c-245e-9eb6d8fea3a3"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 13.10.2008",
+      "uuid": "6f1ab85f-95e4-9f3f-e4c1-26889f7f851a",
+      "files": [
+        "iguskomisjon_paevakord_13_10_2008.odt",
+        "iguskomisjon_istungi_protokoll_42_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "6fb1b312-3bbd-6eb4-078d-948307b2bd16",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 6fb1b312-3bbd-6eb4-078d-948307b2bd16)",
+  "source": "https://api.riigikogu.ee/api/volumes/6fb1b312-3bbd-6eb4-078d-948307b2bd16",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-10-01&endDate=2008-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
