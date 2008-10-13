@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-10-13T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kultuurikomisjoni 5. töönädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b6b87a6a-6d22-c66b-813e-bc85edae29be"
+    },
+    {
+      "order": 2,
+      "title": "2009.a. riigieelarve eelnõu. Kultuuriministeeriumi valitsemisala. Arutelu ministri osavõtul.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b6bdfa84-329b-596a-8fb5-d9b554cf6333"
+    },
+    {
+      "order": 3,
+      "title": "Info",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "521e63b6-8f69-097a-7a2f-b23b2e1947c4"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 13.10.2008",
+      "uuid": "3ccb530c-ebc6-b6da-e792-3e3a9aaa9c61",
+      "files": [
+        "Kultuurikomisjon_istungi_protokoll_42_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "904c552f-9286-3245-8596-e5c28e76aed5",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 904c552f-9286-3245-8596-e5c28e76aed5)",
+  "source": "https://api.riigikogu.ee/api/volumes/904c552f-9286-3245-8596-e5c28e76aed5",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-10-01&endDate=2008-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
