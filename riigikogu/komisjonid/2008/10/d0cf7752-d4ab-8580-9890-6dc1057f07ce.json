@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-10-13T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Eesti Panga esindajatega olulise tähtsusega riikliku küsimuse \"Eesti ettevõtluskeskkonna arendamine\" ettevalmistamise raames",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9355af07-2867-5678-0029-7c3e43e14acb"
+    },
+    {
+      "order": 2,
+      "title": "Elektrituruseaduse täiendamise seadus [311 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "38e46a7a-238a-06de-3dd3-c9e38cb6a45c"
+    },
+    {
+      "order": 3,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c5731058-7466-8955-6a87-6cc0b5fa44cd"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 13.10.2008",
+      "uuid": "0ddbba41-e3a0-6438-1e48-c90ddb68442f",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_42_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "d0cf7752-d4ab-8580-9890-6dc1057f07ce",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d0cf7752-d4ab-8580-9890-6dc1057f07ce)",
+  "source": "https://api.riigikogu.ee/api/volumes/d0cf7752-d4ab-8580-9890-6dc1057f07ce",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-10-01&endDate=2008-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
