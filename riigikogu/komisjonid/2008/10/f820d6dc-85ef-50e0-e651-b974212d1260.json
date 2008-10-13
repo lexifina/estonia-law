@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-10-13T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8e73c79d-670c-411b-ef88-7837c1b315f9"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu otsuse \"Ettepaneku tegemine Vabariigi Valitsusele\" eelnõu (337 OE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "69908058-d529-a635-e241-61d4ad2ed0f7"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 13.10.2008",
+      "uuid": "ae023ac7-8d1f-41a3-ff5d-0c56f8de27ca",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_42_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "f820d6dc-85ef-50e0-e651-b974212d1260",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f820d6dc-85ef-50e0-e651-b974212d1260)",
+  "source": "https://api.riigikogu.ee/api/volumes/f820d6dc-85ef-50e0-e651-b974212d1260",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-10-01&endDate=2008-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
