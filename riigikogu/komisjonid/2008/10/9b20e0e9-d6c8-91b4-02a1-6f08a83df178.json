@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-10-16T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti Haigekassa seaduse, töötuskindlustuse seaduse ja keskkonnatasude seaduse muutmise seadus [348 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "db679a2d-efb1-e3da-94c5-7b2137b4a9fd"
+    },
+    {
+      "order": 2,
+      "title": "Riikliku pensionikindlustuse seaduse ja riiklike peretoetuste seaduse muutmise seadus [267 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b3bd5d69-7872-3180-6bac-029113fd0589"
+    },
+    {
+      "order": 3,
+      "title": "Tööturuteenuste ja -toetuste seaduse ja sotsiaalhoolekande seaduse muutmise seadus [285 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c2cf01aa-518a-0e0e-512a-461b20bf0228"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 16.10.2008",
+      "uuid": "0fe5cb93-3321-6441-fff4-bbb166e8809f",
+      "files": [
+        "Sotsiaalkomisjon_istungi_protokoll_42_2008.odt",
+        "Sotsiaalkomisjon_paevakord_16_10_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "9b20e0e9-d6c8-91b4-02a1-6f08a83df178",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9b20e0e9-d6c8-91b4-02a1-6f08a83df178)",
+  "source": "https://api.riigikogu.ee/api/volumes/9b20e0e9-d6c8-91b4-02a1-6f08a83df178",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-10-01&endDate=2008-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
