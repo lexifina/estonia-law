@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-10-17T10:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 20.-21. oktoobril toimuval keskkonna nõukogu kohtumisel. ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "46eaf1e6-5242-b8ed-978e-0f6f463d106a"
+    },
+    {
+      "order": 2,
+      "title": "EL asjade komisjoni teavitusüritused maakondades.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fa754e0c-5394-3a54-5690-637c7774ae0c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 17.10.2008",
+      "uuid": "7de466cc-d247-7cc1-e351-7a491f96a3d6",
+      "files": [
+        "Euroopa Liidu asjade komisjon_istungi_protokoll_42_2008.odt",
+        "Euroopa Liidu asjade komisjon_paevakord_17_10_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "8f715159-2d97-8bfb-5a8d-07e0081ddb9b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8f715159-2d97-8bfb-5a8d-07e0081ddb9b)",
+  "source": "https://api.riigikogu.ee/api/volumes/8f715159-2d97-8bfb-5a8d-07e0081ddb9b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-10-01&endDate=2008-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
