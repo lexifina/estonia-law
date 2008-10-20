@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-10-20T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7d749135-fe0d-85e5-6c52-e21695e24b98"
+    },
+    {
+      "order": 2,
+      "title": "Väetiseseaduse ja riigilõivuseaduse muutmise seaduse eelnõu (310 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d13d84ab-89db-b77e-677c-e0011f596eb4"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 20.10.2008",
+      "uuid": "5e7533c3-e4e2-f08b-4f0a-618e2fa7849f",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_43_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "38496dc4-8bf8-0154-5c81-6dadf3efbb95",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 38496dc4-8bf8-0154-5c81-6dadf3efbb95)",
+  "source": "https://api.riigikogu.ee/api/volumes/38496dc4-8bf8-0154-5c81-6dadf3efbb95",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-10-01&endDate=2008-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
