@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-10-20T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Alkoholi-, tubaka-, kütuse-, ja elektriaktsiisi seaduse, tubakaseaduse ning alkoholiseaduse muutmise seadus [294 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "60072b59-7268-8284-603f-0ed0aa065b2d"
+    },
+    {
+      "order": 2,
+      "title": "Informatsioon",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "16983e44-1263-dcec-7c15-17344ae51dbe"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 20.10.2008",
+      "uuid": "3afe635d-b786-d79a-ba06-da20be0748aa",
+      "files": [
+        "Rahanduskomisjon_istungi_protokoll_43_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "96ed7b80-13e5-8932-c80c-8756e230ff5c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 96ed7b80-13e5-8932-c80c-8756e230ff5c)",
+  "source": "https://api.riigikogu.ee/api/volumes/96ed7b80-13e5-8932-c80c-8756e230ff5c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-10-01&endDate=2008-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
