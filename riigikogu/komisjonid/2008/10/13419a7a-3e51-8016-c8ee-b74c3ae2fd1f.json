@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-10-20T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kultuurikomisjoni 6.töönädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5f0fe978-d0c9-9fd0-1f03-947071c0a557"
+    },
+    {
+      "order": 2,
+      "title": "Põhikooli ja gümnaasiumi riiklikku õppekava puudutavad muudatused. ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ebda2f06-845f-b098-0b63-e2cdc93a1d86"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 20.10.2008",
+      "uuid": "09ab6c4b-4659-c799-ebc3-99ea7054a01b",
+      "files": [
+        "Kultuurikomisjon_istungi_protokoll_43_2008.odt",
+        "Kultuurikomisjon_paevakord_20_10_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "13419a7a-3e51-8016-c8ee-b74c3ae2fd1f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 13419a7a-3e51-8016-c8ee-b74c3ae2fd1f)",
+  "source": "https://api.riigikogu.ee/api/volumes/13419a7a-3e51-8016-c8ee-b74c3ae2fd1f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-10-01&endDate=2008-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
