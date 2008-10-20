@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-10-20T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Maapõueseaduse ja säästva arengu seaduse muutmise seadus [298 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "77a6c515-a4a0-88c4-8d98-6d3f0debe067"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu otsus \"\"Põlevkivi kasutamise riikliku arengukava 2008-2015\" kinnitamine\" [300 OE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f4a2aad2-cde3-5b78-5cc3-422bd8a22c53"
+    },
+    {
+      "order": 3,
+      "title": "Veeseaduse muutmise seadus [287 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3b499a02-0d1d-81e9-8b2f-7106b830e210"
+    },
+    {
+      "order": 4,
+      "title": "Metsaseaduse ja sellega seonduvate seaduste muutmise seadus [327 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5bb5f463-370b-8133-6bf8-bedc742118da"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 20.10.2008",
+      "uuid": "4c7b548d-64df-196f-c8e6-aa214c5763bb",
+      "files": [
+        "prot78 20.10.08.doc"
+      ]
+    }
+  ],
+  "uuid": "cb084ffd-236d-7f9f-9e36-9c28ba03d180",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid cb084ffd-236d-7f9f-9e36-9c28ba03d180)",
+  "source": "https://api.riigikogu.ee/api/volumes/cb084ffd-236d-7f9f-9e36-9c28ba03d180",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-10-01&endDate=2008-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
