@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-10-21T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "2009.aasta riigieelarve sotsiaalministeeriumi valitsemisala (ruumis 332)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "03b011cb-e7bc-0f73-51a8-1aa434459940"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad Euroopa Parlamendi ja nõukogu direktiivi \"Patsiendiõiguste kohaldamise kohta piiriüleses tervishoius\" eelnõu kohta",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b126a4ec-a828-4bce-0d3c-dc8708ca1e8b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 21.10.2008",
+      "uuid": "a41942b3-dfc3-31d4-33cd-7f23b8fdf6cc",
+      "files": [
+        "Sotsiaalkomisjon_istungi_protokoll_43_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "3a8121c6-3b8b-a46a-68e1-829a9d132855",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3a8121c6-3b8b-a46a-68e1-829a9d132855)",
+  "source": "https://api.riigikogu.ee/api/volumes/3a8121c6-3b8b-a46a-68e1-829a9d132855",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-10-01&endDate=2008-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
