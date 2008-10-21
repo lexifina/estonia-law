@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-10-21T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohaliku omavalitsuse üksuse finantsjuhtimise seadus [366 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "78f68ec2-1fcc-8781-c950-201195eb1d9f"
+    },
+    {
+      "order": 2,
+      "title": "2008. aasta riigieelarve seaduse muutmise seadus [372 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2c4fe226-72cd-686d-c93b-90fe52784d93"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 21.10.2008",
+      "uuid": "4c4033d9-714f-b909-e7af-329b36b499c9",
+      "files": [
+        "Rahanduskomisjon_istungi_protokoll_43_2008.odt",
+        "Rahanduskomisjon_paevakord_21_10_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "5974d0da-b7e5-e46a-9c4e-50a89c5496a1",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 5974d0da-b7e5-e46a-9c4e-50a89c5496a1)",
+  "source": "https://api.riigikogu.ee/api/volumes/5974d0da-b7e5-e46a-9c4e-50a89c5496a1",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-10-01&endDate=2008-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
