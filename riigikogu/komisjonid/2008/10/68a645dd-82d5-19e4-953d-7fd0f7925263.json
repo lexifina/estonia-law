@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-10-21T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Info ja kirjad",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3588ccbb-163b-b2e6-fdae-fe6eb7e7b696"
+    },
+    {
+      "order": 2,
+      "title": "Põhikooli- ja gümnaasiumiseaduse muutmise seadus [279 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "934c1ba2-560b-f765-e49a-b2acf437bd27"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 21.10.2008",
+      "uuid": "06acb857-719d-16f0-9592-f3e2c2165f2b",
+      "files": [
+        "Kultuurikomisjon_istungi_protokoll_43_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "68a645dd-82d5-19e4-953d-7fd0f7925263",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 68a645dd-82d5-19e4-953d-7fd0f7925263)",
+  "source": "https://api.riigikogu.ee/api/volumes/68a645dd-82d5-19e4-953d-7fd0f7925263",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-10-01&endDate=2008-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
