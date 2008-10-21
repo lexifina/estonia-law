@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-10-21T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väliskomisjoni kuulamised Eesti välismajanduspoliitika teemal.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "38e9f96e-59e3-5c72-ad32-004b5b6a0bae"
+    },
+    {
+      "order": 2,
+      "title": "Dokumendi „Eesti Vabariigi julgeolekupoliitika alused (2004)” ülevaatamine.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c1eeef39-74f3-fd65-e820-5efd336b561e"
+    },
+    {
+      "order": 3,
+      "title": "Informatsioon komisjoni liikmete tegevusest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9e876b9e-8a27-6287-236b-a18a98a27ab2"
+    },
+    {
+      "order": 4,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d09a40a3-8a6e-d6a1-762b-d81fd006bb2a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 21.10.2008",
+      "uuid": "6f6a9297-c1e2-6078-e51c-360d1ed86557",
+      "files": [
+        "Väliskomisjon_istungi_protokoll_43_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "2bc37d43-a35a-facd-2b0d-c86375bc0034",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2bc37d43-a35a-facd-2b0d-c86375bc0034)",
+  "source": "https://api.riigikogu.ee/api/volumes/2bc37d43-a35a-facd-2b0d-c86375bc0034",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-10-01&endDate=2008-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
