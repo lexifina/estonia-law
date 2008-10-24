@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-10-24T10:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 27.-28. oktoobril toimuval põllumajanduse ja kalanduse nõukogu kohtumisel. ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6d9d737b-8bea-8cb5-7c76-a50c64e05dc7"
+    },
+    {
+      "order": 2,
+      "title": "Seisukoha andmine: Euroopa Parlamendi ja Nõukogu direktiivi eelnõu „Patsiendiõiguste kohaldamise kohta piiriüleses tervishoius” [COM(2008) 414]. ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7bf35d40-a092-1f0f-ff57-df790cb17b91"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 24.10.2008",
+      "uuid": "bed48a9b-daf7-60ec-5e23-0be49471e477",
+      "files": [
+        "Euroopa Liidu asjade komisjon_istungi_protokoll_43_2008.odt",
+        "Euroopa Liidu asjade komisjon_paevakord_24_10_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "bbee5476-1f80-5616-7b3b-c35b89095794",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid bbee5476-1f80-5616-7b3b-c35b89095794)",
+  "source": "https://api.riigikogu.ee/api/volumes/bbee5476-1f80-5616-7b3b-c35b89095794",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-10-01&endDate=2008-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
