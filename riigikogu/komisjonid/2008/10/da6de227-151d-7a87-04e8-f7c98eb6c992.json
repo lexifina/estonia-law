@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-10-27T10:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade 15.-16. oktoobril toimunud Euroopa Ülemkogu kohtumisest. (ühisistung väliskomisjoniga).",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6c1a0be7-94e1-c182-00aa-91ebcea459bf"
+    },
+    {
+      "order": 2,
+      "title": "Läänemere strateegia hetkeseisu arutelu.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ccc15e96-efa5-1ec0-19c7-c0057735e62b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 27.10.2008",
+      "uuid": "8fd8b97b-d899-77f8-a09c-c3fe44461124",
+      "files": [
+        "Euroopa Liidu asjade komisjon_istungi_protokoll_44_2008.odt",
+        "Euroopa Liidu asjade komisjon_paevakord_27_10_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "da6de227-151d-7a87-04e8-f7c98eb6c992",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid da6de227-151d-7a87-04e8-f7c98eb6c992)",
+  "source": "https://api.riigikogu.ee/api/volumes/da6de227-151d-7a87-04e8-f7c98eb6c992",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-10-01&endDate=2008-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
