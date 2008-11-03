@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-11-03T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Hotellide- ja Restoranide Liiduga",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5a5600db-20e8-a66c-ed1c-d0a226358516"
+    },
+    {
+      "order": 2,
+      "title": "Euroopa Parlamendi ja nõukogu määruse, milles sätestatakse ehitustoodete ühtlustatud turustustingimused, eelnõu arutelu ja arvamuse esitamine ELAK-le",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "847b41fa-b6bf-d494-c0cb-8110ef2360dc"
+    },
+    {
+      "order": 3,
+      "title": "Ühistranspordiseaduse, avaliku teenistuse seaduse ja Vabariigi Valitsuse seaduse muutmise seadus [364 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7400a258-249f-4789-3600-a2b77e6ed7a3"
+    },
+    {
+      "order": 4,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "34366a3a-afbe-5a30-83d5-053c0b7f255c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 03.11.2008",
+      "uuid": "c7bad59f-3624-a389-2659-4bf322abec61",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_45_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "db825f38-2d34-da26-b659-4ca15bfbc68f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid db825f38-2d34-da26-b659-4ca15bfbc68f)",
+  "source": "https://api.riigikogu.ee/api/volumes/db825f38-2d34-da26-b659-4ca15bfbc68f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-11-01&endDate=2008-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
