@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-11-03T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Alkoholi-, tubaka-, kütuse- ja elektriaktsiisi seaduse, tubakaseaduse ning alkoholiseaduse muutmise seadus [294 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1f403e34-4646-54c7-fa70-81f487aae339"
+    },
+    {
+      "order": 2,
+      "title": "2009. aasta riigieelarve seadus [346 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8b2b6dc0-42ef-a7ee-dd9a-7c30dd306834"
+    },
+    {
+      "order": 3,
+      "title": "Riigikogu otsus \"Riigi 2007. aasta majandusaasta koondaruande kinnitamine\" [340 OE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ac6301cf-d1ce-514b-8f3e-04b91c62309a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 03.11.2008",
+      "uuid": "dcff4c5e-33cb-432f-7243-1b35e2a1a0cf",
+      "files": [
+        "Rahanduskomisjon_istungi_protokoll_45_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "8089b219-c7d6-dc46-d3ee-230b5ca9e49d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8089b219-c7d6-dc46-d3ee-230b5ca9e49d)",
+  "source": "https://api.riigikogu.ee/api/volumes/8089b219-c7d6-dc46-d3ee-230b5ca9e49d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-11-01&endDate=2008-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
