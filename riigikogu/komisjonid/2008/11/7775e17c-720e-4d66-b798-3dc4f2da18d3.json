@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-11-03T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kultuurikomisjoni 7.töönädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2b04fe98-a1f5-0383-e94d-102611113cda"
+    },
+    {
+      "order": 2,
+      "title": "Kultuuripärandi kaitse olukord",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a1b2e936-b106-a393-c1ef-85b462e2bcaf"
+    },
+    {
+      "order": 3,
+      "title": "Olulise tähtsusega riikliku küsimuse arutelu ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "66980d58-8b59-303d-3002-bf97e6100e2f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 03.11.2008",
+      "uuid": "8cafb4e2-6c4c-b7b1-e556-a6135cc638ba",
+      "files": [
+        "Kultuurikomisjon_istungi_protokoll_45_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "7775e17c-720e-4d66-b798-3dc4f2da18d3",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7775e17c-720e-4d66-b798-3dc4f2da18d3)",
+  "source": "https://api.riigikogu.ee/api/volumes/7775e17c-720e-4d66-b798-3dc4f2da18d3",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-11-01&endDate=2008-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
