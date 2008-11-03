@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-11-03T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 4. novembril toimuval majandus- ja rahandusministrite nõukogu kohtumisel (ECOFIN). ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "58f8518d-1724-c3e3-11c0-11358e6f3d11"
+    },
+    {
+      "order": 2,
+      "title": "Seisukoha andmine: Euroopa Parlamendi ja nõukogu määruse eelnõu, milles sätestatakse ehitustoodete ühtlustatud turustustingimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b0c25dd8-4cee-6b8c-8dba-f87b20ba7c77"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 03.11.2008",
+      "uuid": "70220c10-46b8-3d9c-85b3-1acb2bdc13ad",
+      "files": [
+        "Euroopa Liidu asjade komisjon_istungi_protokoll_45_2008.odt",
+        "Euroopa Liidu asjade komisjon_paevakord_03_11_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "c0a15f77-3f35-0207-f56f-bb7041319d0e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c0a15f77-3f35-0207-f56f-bb7041319d0e)",
+  "source": "https://api.riigikogu.ee/api/volumes/c0a15f77-3f35-0207-f56f-bb7041319d0e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-11-01&endDate=2008-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
