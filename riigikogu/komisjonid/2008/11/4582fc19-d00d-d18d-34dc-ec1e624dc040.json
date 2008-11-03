@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-11-03T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Euroopa Parlamendi valimise seaduse, kohaliku omavalitsuse volikogu valimise seaduse ja Riigikogu valimise seaduse muutmise seadus [338 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5adf731a-760a-0875-36b9-c219375c5375"
+    },
+    {
+      "order": 2,
+      "title": "Euroopa Parlamendi valimise seaduse muutmise seadus [341 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0168952c-167c-eca1-8a28-a73fe6ca3a6b"
+    },
+    {
+      "order": 3,
+      "title": "ELAK'le arvamuse andmine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "78197a3c-e185-ae2b-15f0-4e0518f8b33e"
+    },
+    {
+      "order": 4,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1f0592b0-9f05-389f-718c-11806dc012f8"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 03.11.2008",
+      "uuid": "fd985da9-9cf7-066b-7ad1-a139f544ccff",
+      "files": [
+        "Põhiseaduskomisjon_istungi_protokoll_45_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "4582fc19-d00d-d18d-34dc-ec1e624dc040",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 4582fc19-d00d-d18d-34dc-ec1e624dc040)",
+  "source": "https://api.riigikogu.ee/api/volumes/4582fc19-d00d-d18d-34dc-ec1e624dc040",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-11-01&endDate=2008-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
