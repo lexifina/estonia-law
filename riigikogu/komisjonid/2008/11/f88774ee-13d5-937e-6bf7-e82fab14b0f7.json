@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-11-03T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väliskomisjoni 7. töönädala töökava kinnitamine.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "df0509ff-7e05-1c11-e58c-8a21b9bd43b4"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade kaitseministeeriumi julgeolekuosakonna tööst.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "39609c62-7818-8a6e-6c28-613c77366ca2"
+    },
+    {
+      "order": 3,
+      "title": "Informatsioon komisjoni liikmete tegevusest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5d762f94-6213-e5db-605e-a500a4f1bf64"
+    },
+    {
+      "order": 4,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "46d0e31f-9934-9a7b-1870-ce9d3c3d3fdf"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 03.11.2008",
+      "uuid": "fee21f7c-b91b-9e38-70fd-bc981ed68e3c",
+      "files": [
+        "Väliskomisjon_paevakord_03_11_2008.odt",
+        "Väliskomisjon_istungi_protokoll_45_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "f88774ee-13d5-937e-6bf7-e82fab14b0f7",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f88774ee-13d5-937e-6bf7-e82fab14b0f7)",
+  "source": "https://api.riigikogu.ee/api/volumes/f88774ee-13d5-937e-6bf7-e82fab14b0f7",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-11-01&endDate=2008-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
