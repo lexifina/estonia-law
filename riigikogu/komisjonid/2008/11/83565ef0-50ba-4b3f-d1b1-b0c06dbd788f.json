@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-11-04T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Istungi algus 15 minutit pärast täiskogu töö lõppemist",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "84b3e0f6-a807-4f10-185f-060392c0c00e"
+    },
+    {
+      "order": 2,
+      "title": "Liiklusseaduse ja karistusseadustiku ning nendega seonduvate  seaduste muutmise seadus [179 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cd30bed1-9300-47b8-ef7a-241fde97ab23"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 04.11.2008",
+      "uuid": "f7a72a47-01ac-1cdb-8dfc-b6e90e48d36b",
+      "files": [
+        "iguskomisjon_paevakord_04_11_2008.odt",
+        "iguskomisjon_istungi_protokoll_45_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "83565ef0-50ba-4b3f-d1b1-b0c06dbd788f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 83565ef0-50ba-4b3f-d1b1-b0c06dbd788f)",
+  "source": "https://api.riigikogu.ee/api/volumes/83565ef0-50ba-4b3f-d1b1-b0c06dbd788f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-11-01&endDate=2008-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
