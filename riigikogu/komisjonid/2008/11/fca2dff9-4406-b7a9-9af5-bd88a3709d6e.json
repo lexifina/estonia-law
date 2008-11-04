@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-11-04T00:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Tulumaksuseaduse, käibemaksuseaduse ja riigilõivuseaduse muutmise seadus [347 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cf3ec0e3-4eae-a4f8-815e-74c3b38ef658"
+    },
+    {
+      "order": 2,
+      "title": "Tulumaksuseaduse § 4 muutmise seadus [302 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "635a3d9e-6003-0e99-6e9a-b8c54655828c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 04.11.2008",
+      "uuid": "63437e33-136f-2fc6-a768-cce3566ca9ec",
+      "files": [
+        "Rahanduskomisjon_istungi_protokoll_45_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "fca2dff9-4406-b7a9-9af5-bd88a3709d6e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid fca2dff9-4406-b7a9-9af5-bd88a3709d6e)",
+  "source": "https://api.riigikogu.ee/api/volumes/fca2dff9-4406-b7a9-9af5-bd88a3709d6e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-11-01&endDate=2008-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
