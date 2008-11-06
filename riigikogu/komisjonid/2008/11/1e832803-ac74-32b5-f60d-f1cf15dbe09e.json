@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-11-06T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Istungi algus 15. minutit pärast täsikogu töö lõppemist",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "14966899-226a-3224-1f1d-2d5e4e5dd026"
+    },
+    {
+      "order": 2,
+      "title": "Korrakaitseseadus [49 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "06ef0291-7ac4-e2f9-bf96-444e0ac899eb"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 06.11.2008",
+      "uuid": "a2e729ba-bd29-f4eb-003f-79fe8d1a4de2",
+      "files": [
+        "iguskomisjon_istungi_protokoll_45_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "1e832803-ac74-32b5-f60d-f1cf15dbe09e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 1e832803-ac74-32b5-f60d-f1cf15dbe09e)",
+  "source": "https://api.riigikogu.ee/api/volumes/1e832803-ac74-32b5-f60d-f1cf15dbe09e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-11-01&endDate=2008-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
