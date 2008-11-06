@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-11-06T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Välisministeeriumi valitsemisala 2009. aasta eelarve.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2d3add98-8d3f-30c9-0678-4da8fc4b5662"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade 3. novembril 2008 toimunud Euroopa Liidu üldasjade ja välissuhete nõukogu mitteametlikust  kohtumisest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a5037ac6-efd8-8199-61ce-de9bca62a43d"
+    },
+    {
+      "order": 3,
+      "title": "Informatsioon ja Eesti seisukohad 10.-11. novembril 2008 toimuval Euroopa Liidu üldasjade ja välissuhete nõukogu istungil, osalevad ka arengukoostöö- ja kaitseministrid.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "baaeed5d-b6c8-aff2-7c1c-31ce16cc70a7"
+    },
+    {
+      "order": 4,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ea753677-2b00-094b-db1b-cfc3d50c326c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 06.11.2008",
+      "uuid": "12e535c1-628d-118c-f5a4-965c31894e29",
+      "files": [
+        "Väliskomisjon_istungi_protokoll_45_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "e2e7fa43-9263-fe1f-3307-20045e1393e2",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e2e7fa43-9263-fe1f-3307-20045e1393e2)",
+  "source": "https://api.riigikogu.ee/api/volumes/e2e7fa43-9263-fe1f-3307-20045e1393e2",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-11-01&endDate=2008-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
