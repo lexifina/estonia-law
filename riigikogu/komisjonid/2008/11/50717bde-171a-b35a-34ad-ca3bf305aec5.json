@@ -1,0 +1,64 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-11-10T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töönädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "665d9d6d-87cb-f336-929f-e603dc1e8833"
+    },
+    {
+      "order": 2,
+      "title": "Äriseadustiku ja karistusseadustiku muutmise seadus ning sellega seonduvalt teiste seaduste muutmise seadus [332 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2d0713bd-d161-cca9-6a06-1bca2ce39feb"
+    },
+    {
+      "order": 3,
+      "title": "Karistusseadustiku muutmise seadus [322 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a106b982-17ae-8fee-4f2e-a4a5b4bdb483"
+    },
+    {
+      "order": 4,
+      "title": "Tsiviilkohtumenetluse seadustiku ja sellega seotud seaduste muutmise seadus [194 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "60902fe5-a50a-e458-fd20-cc0a8c1f2c7c"
+    },
+    {
+      "order": 5,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f0e1908c-579c-d586-1d30-f10de442a773"
+    },
+    {
+      "order": 6,
+      "title": "Kell 16:00 Riigiprokuratuuri külastamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "712c9285-db71-9b15-d1e1-64819fe26dc0"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 10.11.2008",
+      "uuid": "0c227132-37d7-d97d-001e-55e8a5d2d426",
+      "files": [
+        "iguskomisjon_paevakord_10_11_2008.odt",
+        "iguskomisjon_istungi_protokoll_46_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "50717bde-171a-b35a-34ad-ca3bf305aec5",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 50717bde-171a-b35a-34ad-ca3bf305aec5)",
+  "source": "https://api.riigikogu.ee/api/volumes/50717bde-171a-b35a-34ad-ca3bf305aec5",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-11-01&endDate=2008-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
