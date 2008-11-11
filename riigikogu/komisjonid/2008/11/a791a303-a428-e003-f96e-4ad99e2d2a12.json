@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-11-11T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Loomakaitseseaduse muutmise seaduse eelnõu  (328 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f86f226b-9aaf-b9e8-fde3-4b39c56ee612"
+    },
+    {
+      "order": 2,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9a77de11-f223-7161-9d6f-3ec1b403d936"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 11.11.2008",
+      "uuid": "be7c55be-b4f6-dfef-2f76-8fbbb7f1c2f5",
+      "files": [
+        "Maaelukomisjon_paevakord_11_11_2008.odt",
+        "Maaelukomisjon_istungi_protokoll_46_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "a791a303-a428-e003-f96e-4ad99e2d2a12",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a791a303-a428-e003-f96e-4ad99e2d2a12)",
+  "source": "https://api.riigikogu.ee/api/volumes/a791a303-a428-e003-f96e-4ad99e2d2a12",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-11-01&endDate=2008-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
