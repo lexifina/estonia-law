@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-11-11T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "2008. aasta riigieelarve seaduse muutmise seadus [372 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "23a32bf3-4463-d5e0-bfc3-f680ef0934c1"
+    },
+    {
+      "order": 2,
+      "title": "Tulumaksuseaduse muutmise seadus [352 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "450b6d76-d87f-6d6b-e92c-b881ba67e0ee"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 11.11.2008",
+      "uuid": "dd8303d8-f469-733f-f7f4-3e132601d1c5",
+      "files": [
+        "Rahanduskomisjon_paevakord_11_11_2008.odt",
+        "Rahanduskomisjon_istungi_protokoll_46_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "5c8c3767-77ff-d00b-1dfb-4130530b338f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 5c8c3767-77ff-d00b-1dfb-4130530b338f)",
+  "source": "https://api.riigikogu.ee/api/volumes/5c8c3767-77ff-d00b-1dfb-4130530b338f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-11-01&endDate=2008-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
