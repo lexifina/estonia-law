@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-11-11T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Arvamuse andmine ELAKile Euroopa Komisjoni teatise \"Rahvusvahelist teadus- ja tehnoloogiakoostööd käsitlev Euroopa strateegiline raamistik\" kohta. ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d030b3eb-1ac8-9dda-78a6-e78ed84d4758"
+    },
+    {
+      "order": 2,
+      "title": "\"Eesti hariduse kvaliteet ja kättesaadavus\" ettekande arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "367ad362-4a1d-deda-7f73-87954adf3433"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 11.11.2008",
+      "uuid": "16ce72e4-9343-5836-4ebc-60d1fa9d33a9",
+      "files": [
+        "Kultuurikomisjon_paevakord_11_11_2008.odt",
+        "Kultuurikomisjon_istungi_protokoll_46_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "c16169d7-0b8c-9047-a8a1-09a21af0c5e6",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c16169d7-0b8c-9047-a8a1-09a21af0c5e6)",
+  "source": "https://api.riigikogu.ee/api/volumes/c16169d7-0b8c-9047-a8a1-09a21af0c5e6",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-11-01&endDate=2008-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
