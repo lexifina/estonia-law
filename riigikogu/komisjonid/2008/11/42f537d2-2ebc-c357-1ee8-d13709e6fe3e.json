@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-11-11T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Õiguskomisjoni ja riigikaitsekomisjoni ühisistung - Kaitseliidu või kaitseväe kasutamine riikliku järelevalve teostamisel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d1f95a79-6ef5-55ff-ea46-b31d1bbd07d0"
+    },
+    {
+      "order": 2,
+      "title": "Korrakaitseseadus [49 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1029de06-e030-d48f-d831-38162662225a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 11.11.2008",
+      "uuid": "bcab64f5-707f-4770-f8b8-0268c33244ec",
+      "files": [
+        "iguskomisjon_istungi_protokoll_46_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "42f537d2-2ebc-c357-1ee8-d13709e6fe3e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 42f537d2-2ebc-c357-1ee8-d13709e6fe3e)",
+  "source": "https://api.riigikogu.ee/api/volumes/42f537d2-2ebc-c357-1ee8-d13709e6fe3e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-11-01&endDate=2008-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
