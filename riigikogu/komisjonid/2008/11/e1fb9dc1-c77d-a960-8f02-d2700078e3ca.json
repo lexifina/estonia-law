@@ -1,0 +1,33 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-11-13T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikaitsekomisjoni väljasõiduistung. Ämari Lennubaasi külastamine.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5ff3cc05-f7e1-13e1-0b60-9a1d11b4de89"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 13.11.2008",
+      "uuid": "4810df72-26a6-c22f-14dd-aba9dd4a19fa",
+      "files": [
+        "13.11.08.doc"
+      ]
+    }
+  ],
+  "uuid": "e1fb9dc1-c77d-a960-8f02-d2700078e3ca",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e1fb9dc1-c77d-a960-8f02-d2700078e3ca)",
+  "source": "https://api.riigikogu.ee/api/volumes/e1fb9dc1-c77d-a960-8f02-d2700078e3ca",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-11-01&endDate=2008-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
