@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-11-13T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Käibemaksuseaduse ja tulumaksuseaduse muutmise seadus [353 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2e88f796-461e-00b8-ee65-99eea6cc0b3f"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu otsuse „Audiitori nimetamine Riigikontrolli 2008. aasta tegevuse kontrollimiseks“ eelnõu algatamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7010b83b-4542-0cf1-a09e-ddf64254ca0e"
+    },
+    {
+      "order": 3,
+      "title": "Tulumaksuseaduse muutmise seadus [352 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "83c843f3-fb8c-687a-49b4-310662a6eb2b"
+    },
+    {
+      "order": 4,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9ce457d3-61be-2c83-d682-3fec016b34e7"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 13.11.2008",
+      "uuid": "8f08f165-a3e2-3f88-852c-f67f12e9ff36",
+      "files": [
+        "Rahanduskomisjon_paevakord_13_11_2008.odt",
+        "Rahanduskomisjon_istungi_protokoll_46_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "5bd41c18-75d6-e31f-b8c2-4af38052fe06",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 5bd41c18-75d6-e31f-b8c2-4af38052fe06)",
+  "source": "https://api.riigikogu.ee/api/volumes/5bd41c18-75d6-e31f-b8c2-4af38052fe06",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-11-01&endDate=2008-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
