@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-11-17T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Punase risti nimetuse ja embleemi seaduse ning karistusseadustiku muutmise seadus [309 SE III]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e51f23b6-d640-5d3a-7489-0178c08d7c61"
+    },
+    {
+      "order": 2,
+      "title": "Kaitseväeteenistuse seaduse muutmise seadus [312 SE III]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "07458218-89bc-d0fe-fcd7-28ddb43d3897"
+    },
+    {
+      "order": 3,
+      "title": "Korrakaitseseaduse (49 SE) eelnõu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dc32b49c-791d-4f8c-cbdd-7b35bd9cda45"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 17.11.2008",
+      "uuid": "6eb89bd9-7146-7430-f823-301479c0f0dd",
+      "files": [
+        "17.11.08.doc"
+      ]
+    }
+  ],
+  "uuid": "073f1c16-c615-9d23-ddc8-cbe736321273",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 073f1c16-c615-9d23-ddc8-cbe736321273)",
+  "source": "https://api.riigikogu.ee/api/volumes/073f1c16-c615-9d23-ddc8-cbe736321273",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-11-01&endDate=2008-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
