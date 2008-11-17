@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-11-17T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Digitaalallkirja seaduse ja haldusmenetluse seaduse muutmise seadus [320 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8c3f6d09-270d-fcf7-e3f1-72eeb91c008e"
+    },
+    {
+      "order": 2,
+      "title": "Euroopa Parlamendi valimise seaduse § 75¹ kehtetuks tunnistamise seadus [363 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6ba5c159-788e-e8ed-14d3-18816aea3e16"
+    },
+    {
+      "order": 3,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "96d3c793-bcb2-01db-9336-c59ff21c7a37"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 17.11.2008",
+      "uuid": "5b81ef54-d818-1905-daa8-c841d9a5a8dd",
+      "files": [
+        "Põhiseaduskomisjon_istungi_protokoll_47_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "70fa0c90-148e-c2ca-d11d-e262385bff97",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 70fa0c90-148e-c2ca-d11d-e262385bff97)",
+  "source": "https://api.riigikogu.ee/api/volumes/70fa0c90-148e-c2ca-d11d-e262385bff97",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-11-01&endDate=2008-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
