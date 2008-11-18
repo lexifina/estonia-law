@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-11-18T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Tsiviilkohtumenetluse seadustiku ja sellega seotud seaduste muutmise seadus [194 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5586cbe6-668f-7fa8-a47e-5039de787708"
+    },
+    {
+      "order": 2,
+      "title": "Töölepingu seadus [299 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b94e7f86-5a92-f126-5d83-4115eb6ca1a5"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 18.11.2008",
+      "uuid": "837d97df-5e59-a914-3b45-836894da3427",
+      "files": [
+        "iguskomisjon_paevakord_18_11_2008.odt",
+        "iguskomisjon_istungi_protokoll_47_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "18dcc51d-ca93-4f53-6ef8-76e39803f6da",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 18dcc51d-ca93-4f53-6ef8-76e39803f6da)",
+  "source": "https://api.riigikogu.ee/api/volumes/18dcc51d-ca93-4f53-6ef8-76e39803f6da",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-11-01&endDate=2008-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
