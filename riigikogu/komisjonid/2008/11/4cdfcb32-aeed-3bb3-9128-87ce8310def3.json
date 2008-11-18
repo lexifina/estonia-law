@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-11-18T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Euroopa Parlamendi valimise seaduse, kohaliku omavalitsuse volikogu valimise seaduse, rahvahääletuse seaduse ja Riigikogu valimise seaduse muutmise seadus [321 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "82c622a7-bc61-3d2e-5ff5-f688b024c1aa"
+    },
+    {
+      "order": 2,
+      "title": "Rahanduskomisjonile arvamuse andmine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "50dde7fd-ea6f-a0c2-0ad3-fd424b9708ad"
+    },
+    {
+      "order": 3,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b80080cb-6c10-780a-bdee-3c5718182c83"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 18.11.2008",
+      "uuid": "4c27b573-35de-6866-e93f-cd9133554f61",
+      "files": [
+        "Põhiseaduskomisjon_paevakord_18_11_2008.odt",
+        "Põhiseaduskomisjon_istungi_protokoll_47_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "4cdfcb32-aeed-3bb3-9128-87ce8310def3",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 4cdfcb32-aeed-3bb3-9128-87ce8310def3)",
+  "source": "https://api.riigikogu.ee/api/volumes/4cdfcb32-aeed-3bb3-9128-87ce8310def3",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-11-01&endDate=2008-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
