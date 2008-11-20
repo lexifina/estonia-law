@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-11-20T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikogu otsuse „Audiitori nimetamine Riigikontrolli 2008. aasta tegevuse kontrollimiseks“ eelnõu ettevalmistamine  lugemiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a6239b41-1c24-4e4f-e5b7-82066f5e485c"
+    },
+    {
+      "order": 2,
+      "title": "Maksukorralduse seaduse ja sellega seotud teiste seaduste muutmise seadus [333 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "21ffbecf-ea3d-5a97-76f4-1510a74eb37c"
+    },
+    {
+      "order": 3,
+      "title": "2008. aasta riigieelarve seaduse muutmise seadus [372 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "85477c75-0767-f4b7-f223-f95c49717ff3"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 20.11.2008",
+      "uuid": "89672c74-9c2b-5afc-fb12-1bc4a3b6884b",
+      "files": [
+        "Rahanduskomisjon_istungi_protokoll_47_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "53a29284-1f1a-e28e-4edd-29d8bc4c1491",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 53a29284-1f1a-e28e-4edd-29d8bc4c1491)",
+  "source": "https://api.riigikogu.ee/api/volumes/53a29284-1f1a-e28e-4edd-29d8bc4c1491",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-11-01&endDate=2008-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
