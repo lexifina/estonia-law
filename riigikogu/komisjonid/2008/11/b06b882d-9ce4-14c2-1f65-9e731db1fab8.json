@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-11-24T10:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 27.-28. novembril toimuval justiits- ja siseküsimuste nõukogu kohtumisel.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "25b8b90f-5523-0730-2394-78e64395f8a1"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad 28. novembril toimuval põllumajanduse ja kalanduse nõukogu kohtumisel. ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7f09b189-d0ad-f5bf-87b6-31b32cbb0af6"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 24.11.2008",
+      "uuid": "700993c6-6643-156b-dd4f-69e86ac9cc10",
+      "files": [
+        "Euroopa Liidu asjade komisjon_paevakord_24_11_2008.odt",
+        "Euroopa Liidu asjade komisjon_istungi_protokoll_48_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "b06b882d-9ce4-14c2-1f65-9e731db1fab8",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b06b882d-9ce4-14c2-1f65-9e731db1fab8)",
+  "source": "https://api.riigikogu.ee/api/volumes/b06b882d-9ce4-14c2-1f65-9e731db1fab8",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-11-01&endDate=2008-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
