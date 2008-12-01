@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-12-01T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töönädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "30071389-db74-7ee0-dc95-3405314aab67"
+    },
+    {
+      "order": 2,
+      "title": "Töölepingu seadus [299 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c325e29e-1a2f-1479-3a32-8242898cc7e6"
+    },
+    {
+      "order": 3,
+      "title": "Politseiteenistuse seaduse muutmise seadus [351 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "66f22375-648a-773b-42f2-94e106b7c651"
+    },
+    {
+      "order": 4,
+      "title": "Tsiviilkohtumenetluse seadustiku ja sellega seotud seaduste muutmise seadus [194 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "526eafd3-c02d-87a7-8972-fba190185ca7"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 01.12.2008",
+      "uuid": "dbcba6fa-0656-d4e9-bc14-4f15e560bba1",
+      "files": [
+        "iguskomisjon_istungi_protokoll_49_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "923dd49b-d854-2171-6837-437b14639077",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 923dd49b-d854-2171-6837-437b14639077)",
+  "source": "https://api.riigikogu.ee/api/volumes/923dd49b-d854-2171-6837-437b14639077",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-12-01&endDate=2008-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
