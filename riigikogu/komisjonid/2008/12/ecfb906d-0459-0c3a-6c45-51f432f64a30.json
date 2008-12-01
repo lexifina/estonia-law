@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-12-01T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "84b511d2-c8f5-5db7-847f-cec7f07177c5"
+    },
+    {
+      "order": 2,
+      "title": "Mahepõllumajanduse seaduse ja riigilõivuseaduse muutmise seaduse eelnõu (390 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c4f488ac-a1db-df13-c49f-a05f6c0c735d"
+    },
+    {
+      "order": 3,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "683fb509-ce86-b6cd-f01b-25b3c46877e1"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 01.12.2008",
+      "uuid": "eb68769e-f456-f0a4-1650-4017d6df62d6",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_49_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "ecfb906d-0459-0c3a-6c45-51f432f64a30",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ecfb906d-0459-0c3a-6c45-51f432f64a30)",
+  "source": "https://api.riigikogu.ee/api/volumes/ecfb906d-0459-0c3a-6c45-51f432f64a30",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-12-01&endDate=2008-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
