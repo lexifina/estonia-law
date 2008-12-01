@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-12-01T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikaitsekomisjoni 10. töönädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "23238d0c-61c7-dae0-b429-6093d86ef6fd"
+    },
+    {
+      "order": 2,
+      "title": "Kaitseväeteenistuse seaduse, ravikindlustuse seaduse ja sotsiaalmaksuseaduse muutmise seadus [289 SE III]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "36cb025d-367a-0929-7505-b62e486bdee2"
+    },
+    {
+      "order": 3,
+      "title": "Rahuaja riigikaitse seaduse muutmise seadus [339 SE III]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b3eb171c-925a-c990-4f2b-ecd783af194e"
+    },
+    {
+      "order": 4,
+      "title": "Kaitseväeteenistuse seaduse ja tervishoiuteenuste korraldamise seaduse muutmise seadus [324 SE III]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "eaf803a7-0722-fb15-a744-41ef66fc18ad"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 01.12.2008",
+      "uuid": "04cdf9b2-6b1a-0c04-e90a-6dff701eb77d",
+      "files": [
+        "01.12.08.doc"
+      ]
+    }
+  ],
+  "uuid": "f83ae053-3ba1-b9d9-061d-3ed83dbb7d33",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f83ae053-3ba1-b9d9-061d-3ed83dbb7d33)",
+  "source": "https://api.riigikogu.ee/api/volumes/f83ae053-3ba1-b9d9-061d-3ed83dbb7d33",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-12-01&endDate=2008-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
