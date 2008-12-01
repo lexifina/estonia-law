@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-12-01T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Maksukorralduse seaduse ja sellega seotud teiste seaduste muutmise seadus [333 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8f6294ce-a70f-814e-1e9a-a9c1f86e60e1"
+    },
+    {
+      "order": 2,
+      "title": "Käibemaksuseaduse ja tulumaksuseaduse muutmise seadus [353 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e9667ec0-2135-60e1-1fdd-53d2b32380fa"
+    },
+    {
+      "order": 3,
+      "title": "2008. aasta riigieelarve seaduse muutmise seadus [372 SE III]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7445f42f-4997-048e-860a-c9a449a7c4d6"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 01.12.2008",
+      "uuid": "16d0dcd1-bfdd-2fc7-019f-677fbc664d00",
+      "files": [
+        "Rahanduskomisjon_istungi_protokoll_49_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "12becdba-53c4-ef49-ab74-1b68ce245213",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 12becdba-53c4-ef49-ab74-1b68ce245213)",
+  "source": "https://api.riigikogu.ee/api/volumes/12becdba-53c4-ef49-ab74-1b68ce245213",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-12-01&endDate=2008-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
