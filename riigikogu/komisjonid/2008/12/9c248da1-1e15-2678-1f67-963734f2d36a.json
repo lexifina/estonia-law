@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-12-01T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 2. detsembril toimuval majandus- ja rahandusministrite nõukogu kohtumisel (ECOFIN). ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "487359bf-5923-06c7-c37f-096b1d6539a7"
+    },
+    {
+      "order": 2,
+      "title": "Eesti esindatus EL MN töörühmades. Ülevaade ministeeriumite vastustest ja kommentaaridest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "701fca82-0ffc-6b68-1270-0286cacebfe2"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 01.12.2008",
+      "uuid": "c3767e30-67f5-6130-9760-8800ab058f4c",
+      "files": [
+        "Euroopa Liidu asjade komisjon_paevakord_01_12_2008.odt",
+        "Euroopa Liidu asjade komisjon_istungi_protokoll_49_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "9c248da1-1e15-2678-1f67-963734f2d36a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9c248da1-1e15-2678-1f67-963734f2d36a)",
+  "source": "https://api.riigikogu.ee/api/volumes/9c248da1-1e15-2678-1f67-963734f2d36a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-12-01&endDate=2008-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
