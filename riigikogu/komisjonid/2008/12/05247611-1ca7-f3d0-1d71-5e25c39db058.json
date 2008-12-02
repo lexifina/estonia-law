@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-12-02T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Maaelu Edendamise Sihtasutuse (MES) esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "da230f7b-2464-d872-d2cd-f2fdc09a2420"
+    },
+    {
+      "order": 2,
+      "title": "Mahepõllumajanduse seaduse ja riigilõivuseaduse muutmise seadus [390 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "da0cd218-129f-4767-a870-8a4ca0fa694d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 02.12.2008",
+      "uuid": "6d417921-e285-6050-e346-a7c07178eff2",
+      "files": [
+        "Maaelukomisjon_paevakord_02_12_2008.odt",
+        "Maaelukomisjon_istungi_protokoll_49_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "05247611-1ca7-f3d0-1d71-5e25c39db058",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 05247611-1ca7-f3d0-1d71-5e25c39db058)",
+  "source": "https://api.riigikogu.ee/api/volumes/05247611-1ca7-f3d0-1d71-5e25c39db058",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-12-01&endDate=2008-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
