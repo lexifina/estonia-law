@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-12-02T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikaitsekomisjoni väljasõiduistung Kaitsejõudude Peastaapi. Riigikaitse planeerimine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a35c4912-67e8-0c4e-4c1f-c1a749dd3098"
+    },
+    {
+      "order": 2,
+      "title": "Informatsioon Vabariigi Valitsuse esitatud Riigikogu otsuse: \"Eesti kaitseväe kasutamise tähtaja pikendamine Eesti riigi rahvusvaheliste kohustuste täitmisel Iraagis\" eelnõu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "772580e0-5ddb-1e2b-5361-52377606a281"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 02.12.2008",
+      "uuid": "956a3926-fd51-aa54-6531-9a0c33aaca62",
+      "files": [
+        "02.12.08.doc"
+      ]
+    }
+  ],
+  "uuid": "14c189d0-d15e-75c9-9694-0f5dfd8155a2",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 14c189d0-d15e-75c9-9694-0f5dfd8155a2)",
+  "source": "https://api.riigikogu.ee/api/volumes/14c189d0-d15e-75c9-9694-0f5dfd8155a2",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-12-01&endDate=2008-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
