@@ -1,0 +1,33 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-12-02T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väliskomisjoni väljasõiduistung Fenno-Ugria Asutuses.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ea24698f-ad49-cc67-6345-2053b982d6d2"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 02.12.2008",
+      "uuid": "51fd102c-4c3c-cfa9-3e19-b8910472992c",
+      "files": [
+        "02.12.2008 (127).doc"
+      ]
+    }
+  ],
+  "uuid": "ea90b745-ed67-6e53-03e9-690a9c4a807d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ea90b745-ed67-6e53-03e9-690a9c4a807d)",
+  "source": "https://api.riigikogu.ee/api/volumes/ea90b745-ed67-6e53-03e9-690a9c4a807d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-12-01&endDate=2008-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
