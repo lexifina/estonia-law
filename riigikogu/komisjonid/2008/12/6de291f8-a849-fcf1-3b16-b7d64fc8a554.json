@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-12-02T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kemikaaliseaduse muutmise seadus [388 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8299cd61-2000-1416-7db0-bc4cc89fac9f"
+    },
+    {
+      "order": 2,
+      "title": "Veeseaduse muutmise algatamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a5af50a8-87e3-bb6d-b449-0ef6fdc758ca"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 02.12.2008",
+      "uuid": "851ba3e2-dd3f-1e04-2b5b-a2fa673e83f4",
+      "files": [
+        "prott86 02.12.08.doc"
+      ]
+    }
+  ],
+  "uuid": "6de291f8-a849-fcf1-3b16-b7d64fc8a554",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 6de291f8-a849-fcf1-3b16-b7d64fc8a554)",
+  "source": "https://api.riigikogu.ee/api/volumes/6de291f8-a849-fcf1-3b16-b7d64fc8a554",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-12-01&endDate=2008-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
