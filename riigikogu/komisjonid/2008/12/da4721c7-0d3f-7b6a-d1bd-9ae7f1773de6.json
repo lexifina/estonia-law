@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-12-04T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikaitsekomisjoni 10. töönädala päevakorra täiendamine ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "38e77a1b-f212-6a35-f660-7802657223ae"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu otsus \"Eesti kaitseväe kasutamise tähtaja pikendamine Eesti riigi rahvusvaheliste kohustuste täitmisel Iraagis\" [394 OE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5033f1f1-790e-c3e2-71d7-b85c029d38f6"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 04.12.2008",
+      "uuid": "380ff1ff-11c3-2402-e6cc-357753d283e2",
+      "files": [
+        "04.12.08.doc"
+      ]
+    }
+  ],
+  "uuid": "da4721c7-0d3f-7b6a-d1bd-9ae7f1773de6",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid da4721c7-0d3f-7b6a-d1bd-9ae7f1773de6)",
+  "source": "https://api.riigikogu.ee/api/volumes/da4721c7-0d3f-7b6a-d1bd-9ae7f1773de6",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-12-01&endDate=2008-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
