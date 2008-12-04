@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-12-04T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigi kõrgemate ametiisikute ametipalkade seadus [369 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5865dd01-0a11-b88b-61ef-d04c57067caa"
+    },
+    {
+      "order": 2,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ac6b6c2b-a708-a0d1-a94e-f486e2da9f6b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 04.12.2008",
+      "uuid": "a8547d95-1329-3edd-0973-9342a702039d",
+      "files": [
+        "Põhiseaduskomisjon_istungi_protokoll_49_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "c71961b1-fdb7-f679-6c79-e37de17722a7",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c71961b1-fdb7-f679-6c79-e37de17722a7)",
+  "source": "https://api.riigikogu.ee/api/volumes/c71961b1-fdb7-f679-6c79-e37de17722a7",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-12-01&endDate=2008-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
