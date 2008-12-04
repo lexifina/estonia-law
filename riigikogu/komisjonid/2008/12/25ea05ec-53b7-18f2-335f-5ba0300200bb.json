@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-12-04T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti Vabariigi ja Bulgaaria Vabariigi vahelise tulumaksudega topeltmaksustamise vältimise ning maksudest hoidumise tõkestamise lepingu ratifitseerimise seadus [385 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "65c53533-7bbf-653c-212f-542b2009ab3c"
+    },
+    {
+      "order": 2,
+      "title": "Eesti Panga ülevaade majanduse hetkeseisust ja prognoosidest. Osaleb Eesti Panga asepresident Märten Ross",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "63d1b952-7aec-6ea2-28e4-cf939bf68b64"
+    },
+    {
+      "order": 3,
+      "title": "2009. aasta riigieelarve seadus [346 SE III]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bbd53d13-f25b-cf11-95a8-6f119cbd92e5"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 04.12.2008",
+      "uuid": "4c74c572-c044-f8f9-915c-4a70c5f7f24b",
+      "files": [
+        "Rahanduskomisjon_istungi_protokoll_49_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "25ea05ec-53b7-18f2-335f-5ba0300200bb",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 25ea05ec-53b7-18f2-335f-5ba0300200bb)",
+  "source": "https://api.riigikogu.ee/api/volumes/25ea05ec-53b7-18f2-335f-5ba0300200bb",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-12-01&endDate=2008-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
