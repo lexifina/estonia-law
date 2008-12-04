@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-12-04T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikogu ja Riigikogu Kantselei välissuhtlemise 2009. aasta eelarve.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8a5f49b2-44c4-962a-bf27-0ce222bf8d7e"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d2566c98-45e8-8349-9842-3da4b127897d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 04.12.2008",
+      "uuid": "59d13bfc-90e6-7af7-773f-843172607443",
+      "files": [
+        "Väliskomisjon_istungi_protokoll_49_2008.odt",
+        "Väliskomisjon_paevakord_04_12_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "a8d250df-8e10-8c70-993f-f18d487cccaa",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a8d250df-8e10-8c70-993f-f18d487cccaa)",
+  "source": "https://api.riigikogu.ee/api/volumes/a8d250df-8e10-8c70-993f-f18d487cccaa",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-12-01&endDate=2008-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
