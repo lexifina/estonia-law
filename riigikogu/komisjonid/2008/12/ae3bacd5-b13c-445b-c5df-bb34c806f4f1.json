@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-12-04T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Sotsiaaltoetuste väljamaksmine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "47f8baa2-12fc-156a-caaf-b9486c971e00"
+    },
+    {
+      "order": 2,
+      "title": "Sotsiaalhoolekande seaduse, puuetega inimeste sotsiaaltoetuste seaduse ja nendega seonduvate seaduste muutmise seadus [370 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a4580650-d1e8-adc4-6bf2-78200d0ddb3a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 04.12.2008",
+      "uuid": "948cad6e-645c-6684-9a34-f6e550a1b3c7",
+      "files": [
+        "Sotsiaalkomisjon_istungi_protokoll_49_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "ae3bacd5-b13c-445b-c5df-bb34c806f4f1",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ae3bacd5-b13c-445b-c5df-bb34c806f4f1)",
+  "source": "https://api.riigikogu.ee/api/volumes/ae3bacd5-b13c-445b-c5df-bb34c806f4f1",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-12-01&endDate=2008-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
