@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-12-05T10:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Informatsioon ja Eesti seisukohad 8.-9. detsembril 2008 toimuval Euroopa Liidu üldasjade ja välissuhete nõukogu istungil.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "24c04869-a4e6-955a-c367-b0983bfe543a"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0c425fd8-3f74-41a6-db99-4548c7451ebf"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 05.12.2008",
+      "uuid": "7f7c03bd-a136-92ad-c65b-d8be476adb91",
+      "files": [
+        "Väliskomisjon_istungi_protokoll_49_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "12f537fb-f36a-ed3d-37a2-122a34484017",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 12f537fb-f36a-ed3d-37a2-122a34484017)",
+  "source": "https://api.riigikogu.ee/api/volumes/12f537fb-f36a-ed3d-37a2-122a34484017",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-12-01&endDate=2008-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
