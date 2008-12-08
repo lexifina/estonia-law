@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-12-08T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töönädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e35d0b99-95b5-77fc-28f5-7fe3bd52fc44"
+    },
+    {
+      "order": 2,
+      "title": "Perekonnaseisutoimingute seadus [68 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "252875a2-e312-4e9f-bde7-291d1ccfa616"
+    },
+    {
+      "order": 3,
+      "title": "Töölepingu seadus [299 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3811a659-24df-7493-3ed7-74e11f5e9dd8"
+    },
+    {
+      "order": 4,
+      "title": "Politseiteenistuse seaduse, kaitseväeteenistuse seaduse, piirivalveteenistuse seaduse, prokuratuuriseaduse, õiguskantsleri seaduse, Riigikontrolli seaduse, Eesti Vabariigi Ülemnõukogu XII koosseisu ning Riigikogu VII, VIII ja IX koosseisu liikmete pensioni seaduse ning Vabariigi Presidendi ametihüve seaduse muutmise seadus [375 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d2527163-2b71-4741-a29d-ef413ee10d19"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 08.12.2008",
+      "uuid": "123c4a77-9395-2579-d9eb-e7e66ba279ec",
+      "files": [
+        "iguskomisjon_istungi_protokoll_50_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "29a8fe48-0db5-25f6-af40-2c4570ddae21",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 29a8fe48-0db5-25f6-af40-2c4570ddae21)",
+  "source": "https://api.riigikogu.ee/api/volumes/29a8fe48-0db5-25f6-af40-2c4570ddae21",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-12-01&endDate=2008-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
