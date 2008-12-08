@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-12-08T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "2009. aasta riigieelarve seadus [346 SE III]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2c95368f-75ed-041b-d063-0be8d5d17240"
+    },
+    {
+      "order": 2,
+      "title": "Maksukorralduse seaduse, äriseadustiku ja nendega seonduvate teiste seaduste muutmise seadus [377 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ca157e4c-afff-a3c7-86d3-0d737d31dccf"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 08.12.2008",
+      "uuid": "921bd7fa-8438-1776-cce8-7275ad2c1dd3",
+      "files": [
+        "Rahanduskomisjon_istungi_protokoll_50_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "1f55daba-4c83-6bc9-0b24-ae77a92e6d24",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 1f55daba-4c83-6bc9-0b24-ae77a92e6d24)",
+  "source": "https://api.riigikogu.ee/api/volumes/1f55daba-4c83-6bc9-0b24-ae77a92e6d24",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-12-01&endDate=2008-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
