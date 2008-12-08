@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-12-08T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikaitsekomisjoni 11. töönädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fadb6a1c-47aa-2c8b-56b8-1417b5b05e75"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu otsus \"Eesti kaitseväe kasutamise tähtaja pikendamine Eesti riigi rahvusvaheliste kohustuste täitmisel rahvusvahelisel rahutagamismissioonil Bosnias ja Hertsegoviinas\" [386 OE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "11ec2a67-f9cc-0548-16cd-638cd9c9c549"
+    },
+    {
+      "order": 3,
+      "title": "Riigikogu otsus \"Eesti kaitseväe kasutamise tähtaja pikendamine Eesti riigi rahvusvaheliste kohustuste täitmisel rahvusvahelisel rahutagamismissioonil Kosovos\" [387 OE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "eb936490-877d-e566-9374-3bbf9bad3908"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 08.12.2008",
+      "uuid": "5013d8ae-d63e-c393-9f24-3ffc181c47c8",
+      "files": [
+        "08.12.08.doc"
+      ]
+    }
+  ],
+  "uuid": "0defc07f-7162-2f62-3c4d-aebd71558d63",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0defc07f-7162-2f62-3c4d-aebd71558d63)",
+  "source": "https://api.riigikogu.ee/api/volumes/0defc07f-7162-2f62-3c4d-aebd71558d63",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-12-01&endDate=2008-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
