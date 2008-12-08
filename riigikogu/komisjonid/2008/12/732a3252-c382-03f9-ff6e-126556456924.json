@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-12-08T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohaliku omavalitsuse volikogu valimise seaduse muutmise seadus [392 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0b9e5217-508a-962f-bfc0-626409388c46"
+    },
+    {
+      "order": 2,
+      "title": "Riigikohtule arvamuse andmine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cefcd968-9a15-21ed-efbd-03e87c0556f3"
+    },
+    {
+      "order": 3,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1d479bcb-5e0c-958c-6750-62d8438eca61"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 08.12.2008",
+      "uuid": "2911e154-0a89-e024-f186-267bd233b8e8",
+      "files": [
+        "Põhiseaduskomisjon_istungi_protokoll_50_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "732a3252-c382-03f9-ff6e-126556456924",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 732a3252-c382-03f9-ff6e-126556456924)",
+  "source": "https://api.riigikogu.ee/api/volumes/732a3252-c382-03f9-ff6e-126556456924",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-12-01&endDate=2008-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
