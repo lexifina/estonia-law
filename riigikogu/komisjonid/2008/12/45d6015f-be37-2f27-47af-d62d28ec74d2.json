@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-12-08T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c762a6a8-bcb7-5cc7-0811-9da7fc7f54c8"
+    },
+    {
+      "order": 2,
+      "title": "Riigieksamite korraldus ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c23aec1c-29a7-afda-ba67-a3359b1eabe6"
+    },
+    {
+      "order": 3,
+      "title": "Info ja kirjad",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9df33986-4446-5456-c023-ef63b4f954ad"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 08.12.2008",
+      "uuid": "52003c87-3e72-e708-b354-0c8c55c5b377",
+      "files": [
+        "Kultuurikomisjon_istungi_protokoll_50_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "45d6015f-be37-2f27-47af-d62d28ec74d2",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 45d6015f-be37-2f27-47af-d62d28ec74d2)",
+  "source": "https://api.riigikogu.ee/api/volumes/45d6015f-be37-2f27-47af-d62d28ec74d2",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-12-01&endDate=2008-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
