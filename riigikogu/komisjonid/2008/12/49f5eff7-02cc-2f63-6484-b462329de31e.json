@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-12-08T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f020fc9d-09cd-cb9f-28f3-0a490d15a372"
+    },
+    {
+      "order": 2,
+      "title": "Ühtse pindalatoetuse ja täiendavate otsemaksete tulevik",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3361712c-94be-c3cc-f471-c910119cd1ed"
+    },
+    {
+      "order": 3,
+      "title": "ÜPP rakendamise seaduse kavandatud muudatused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cd69fb23-47d4-3999-54f6-eaf7a6f9e3d4"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 08.12.2008",
+      "uuid": "0a8802b6-550f-e112-10e0-522fe2b780de",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_50_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "49f5eff7-02cc-2f63-6484-b462329de31e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 49f5eff7-02cc-2f63-6484-b462329de31e)",
+  "source": "https://api.riigikogu.ee/api/volumes/49f5eff7-02cc-2f63-6484-b462329de31e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-12-01&endDate=2008-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
