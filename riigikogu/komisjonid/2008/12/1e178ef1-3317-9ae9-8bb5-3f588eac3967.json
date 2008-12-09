@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-12-09T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud lennundusseaduse ja relvaseaduse muutmise seaduse eelnõu (316 SE) arutelu  2. lugemisele saatmiseks. ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4ea762aa-02f2-c651-8ebd-2bd6b1d809f1"
+    },
+    {
+      "order": 2,
+      "title": "Organisatsioonilised küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5c7de46f-49f4-717c-1cb9-10988d172790"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 09.12.2008",
+      "uuid": "b5496e7e-1c84-60f1-6d64-a99615a3792c",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_50_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "1e178ef1-3317-9ae9-8bb5-3f588eac3967",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 1e178ef1-3317-9ae9-8bb5-3f588eac3967)",
+  "source": "https://api.riigikogu.ee/api/volumes/1e178ef1-3317-9ae9-8bb5-3f588eac3967",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-12-01&endDate=2008-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
