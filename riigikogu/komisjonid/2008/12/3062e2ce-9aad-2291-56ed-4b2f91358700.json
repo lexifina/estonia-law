@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-12-09T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Sadamaseaduse eelnõu (393 SE) keskkonnaaspektidega tutvumine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "369d33dc-da26-7807-e367-e6032e2bce6f"
+    },
+    {
+      "order": 2,
+      "title": "Keskkonnaministeeriumi keskkonnateenistuse, Riikliku Looduskaitsekeskuse ja Kiirguskeskuse Keskkonna- ja Looduskaitseametiks ühendamisega seonduv Vabariigi Valitsuse seaduse ja teiste seaduste muutmise seadus [367 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6a5f9676-9a16-17cb-169f-b1fc33e37b48"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 09.12.2008",
+      "uuid": "b1386172-d231-563f-a54b-baadae30e972",
+      "files": [
+        "prot88 09.12.08.doc"
+      ]
+    }
+  ],
+  "uuid": "3062e2ce-9aad-2291-56ed-4b2f91358700",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3062e2ce-9aad-2291-56ed-4b2f91358700)",
+  "source": "https://api.riigikogu.ee/api/volumes/3062e2ce-9aad-2291-56ed-4b2f91358700",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-12-01&endDate=2008-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
