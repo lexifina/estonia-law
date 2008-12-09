@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-12-09T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Karistuspoliitika alaealiste ja alaealiste seksuaalse enesemääramise vastu toimepandud süütegude osas",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e0803214-94d4-f98b-320c-e09379a31688"
+    },
+    {
+      "order": 2,
+      "title": "Korrakaitseseadus [49 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "31aefbeb-4d70-83bc-08fd-2cef4141e6ba"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 09.12.2008",
+      "uuid": "e0d29358-3f81-54e3-1b03-71b2916063bf",
+      "files": [
+        "iguskomisjon_istungi_protokoll_50_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "b71dc310-1fa7-488f-fb79-c43ed87edff4",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b71dc310-1fa7-488f-fb79-c43ed87edff4)",
+  "source": "https://api.riigikogu.ee/api/volumes/b71dc310-1fa7-488f-fb79-c43ed87edff4",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-12-01&endDate=2008-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
