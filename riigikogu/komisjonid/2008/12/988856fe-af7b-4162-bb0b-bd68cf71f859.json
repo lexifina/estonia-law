@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-12-10T09:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Piiriületuskord Kagu-Eestis ja Narvas alates 19. jaanuarist 2009.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4e3b93fd-6e44-eda5-4b22-86cc1a0dbacf"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "48e55f43-c772-f583-3d15-98bff74a5b47"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 10.12.2008",
+      "uuid": "93b19f53-64c3-5eb8-4fb2-76d06d16b2a5",
+      "files": [
+        "Väliskomisjon_istungi_protokoll_50_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "988856fe-af7b-4162-bb0b-bd68cf71f859",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 988856fe-af7b-4162-bb0b-bd68cf71f859)",
+  "source": "https://api.riigikogu.ee/api/volumes/988856fe-af7b-4162-bb0b-bd68cf71f859",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-12-01&endDate=2008-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
