@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-12-11T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Majandus- ja kommunikatsiooniministeeriumi eestvõttel koostatud rahvusvahelistumise strateegia 2009-2014 – väliskomisjoni seisukoha kujundamine.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "baea0fe2-9aef-2c6b-8574-0a2b6af8744f"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu ja Riigikogu Kantselei välissuhtlemise 2009. aasta eelarve – arutelu jätkamine.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fbb8e11f-3864-c861-4103-e645844b1566"
+    },
+    {
+      "order": 3,
+      "title": "Eesti, Läti ja Leedu parlamentide väliskomisjonide kohtumine Läti Vabariigis Riias 13.-14. jaanuaril 2009 – väliskomisjoni delegatsiooni moodustamine.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dfdd0183-09bc-3386-8037-4af2249d281d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 11.12.2008",
+      "uuid": "cb5e89c8-0d39-bb18-31d0-9180161523b2",
+      "files": [
+        "Väliskomisjon_istungi_protokoll_50_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "b5da9f91-0eb8-2b4b-ff90-9fad3442db53",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b5da9f91-0eb8-2b4b-ff90-9fad3442db53)",
+  "source": "https://api.riigikogu.ee/api/volumes/b5da9f91-0eb8-2b4b-ff90-9fad3442db53",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-12-01&endDate=2008-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
