@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-12-15T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8e3f37b2-7bb5-ace8-8193-6408cc22b1c0"
+    },
+    {
+      "order": 2,
+      "title": "Olukorrast põllumajanduses",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a7bd9b3e-4054-dda4-9c30-1011b9f4739b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 15.12.2008",
+      "uuid": "14b1520b-e338-9feb-0d13-1e64640bd6e4",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_51_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "4aca1adf-bff7-6361-ba77-1552a383126d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 4aca1adf-bff7-6361-ba77-1552a383126d)",
+  "source": "https://api.riigikogu.ee/api/volumes/4aca1adf-bff7-6361-ba77-1552a383126d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-12-01&endDate=2008-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
