@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-12-15T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Keskkonnakomisjoni nädala töökava",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ff874c6f-6d84-7184-312d-9d7d43397049"
+    },
+    {
+      "order": 2,
+      "title": "Keskkonnaministeeriumi keskkonnateenistuse, Riikliku Looduskaitsekeskuse ja Kiirguskeskuse Keskkonna- ja Looduskaitseametiks ühendamisega seonduv Vabariigi Valitsuse seaduse ja teiste seaduste muutmise seadus [367 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "771617e1-560d-e573-8083-b306204c0aac"
+    },
+    {
+      "order": 3,
+      "title": "Jäätmeseaduse § 29 täiendamise seadus [383 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4dde6d34-6ca6-6563-c625-85190f33827b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 15.12.2008",
+      "uuid": "7f379c4c-187e-4fe6-b21e-5616d399f5d3",
+      "files": [
+        "prot89 15.12.08.doc"
+      ]
+    }
+  ],
+  "uuid": "c542e7b8-c028-054a-5d81-18a79f71c4cc",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c542e7b8-c028-054a-5d81-18a79f71c4cc)",
+  "source": "https://api.riigikogu.ee/api/volumes/c542e7b8-c028-054a-5d81-18a79f71c4cc",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-12-01&endDate=2008-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
