@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-12-15T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dbd5a3c7-d39f-6e81-4375-048d0f2e47b1"
+    },
+    {
+      "order": 2,
+      "title": "Arvamuse andmine ELAKile. Roheline raamat. Ränne ja liikuvus: EL haridussüsteemi ülesanded ja võimalused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8ce207b3-bc46-ff4f-28af-6fed64464bb9"
+    },
+    {
+      "order": 3,
+      "title": "Ülevaade IV istungjärgu tööst",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f745cd40-1e92-f121-02d7-58358619ef5d"
+    },
+    {
+      "order": 4,
+      "title": "Info ja kirjad",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c6d4ed15-da7a-eab0-c147-656fd9330d4a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 15.12.2008",
+      "uuid": "c36d25ab-3067-067b-148f-00d839e528c4",
+      "files": [
+        "Kultuurikomisjon_istungi_protokoll_51_2008.odt",
+        "Kultuurikomisjon_paevakord_15_12_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "f32a3ab5-cd91-0dc3-eb9d-2715ed5a9bbf",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f32a3ab5-cd91-0dc3-eb9d-2715ed5a9bbf)",
+  "source": "https://api.riigikogu.ee/api/volumes/f32a3ab5-cd91-0dc3-eb9d-2715ed5a9bbf",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-12-01&endDate=2008-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
