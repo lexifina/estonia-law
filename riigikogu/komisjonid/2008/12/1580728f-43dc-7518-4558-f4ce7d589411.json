@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-12-15T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Rahva ja eluruumide loenduse seaduse muutmise seadus [354 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "91eba630-b95d-73cb-632a-a386282de5f5"
+    },
+    {
+      "order": 2,
+      "title": "Kokkuvõtete tegemine  IV istungjärgu tööst",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d5aa9d35-3b3b-33e2-b719-f3629a9e25d3"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 15.12.2008",
+      "uuid": "7aff9099-f40b-616e-5aee-32a89ceba816",
+      "files": [
+        "Põhiseaduskomisjon_istungi_protokoll_51_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "1580728f-43dc-7518-4558-f4ce7d589411",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 1580728f-43dc-7518-4558-f4ce7d589411)",
+  "source": "https://api.riigikogu.ee/api/volumes/1580728f-43dc-7518-4558-f4ce7d589411",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-12-01&endDate=2008-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
