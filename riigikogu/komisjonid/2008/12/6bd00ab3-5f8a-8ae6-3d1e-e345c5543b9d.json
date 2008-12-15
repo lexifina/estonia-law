@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-12-15T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikaitsekomisjoni töönädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e0be7bb1-fa87-4e92-78d7-f1259c277aaa"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu otsus \"Eesti kaitseväe kasutamise tähtaja pikendamine Eesti riigi rahvusvaheliste kohustuste täitmisel Iraagis\" [394 OE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fe5e09ab-7555-6942-46be-13bfa78de851"
+    },
+    {
+      "order": 3,
+      "title": "Politseiteenistuse seaduse, kaitseväeteenistuse seaduse, piirivalveteenistuse seaduse, prokuratuuriseaduse, õiguskantsleri seaduse, Riigikontrolli seaduse, Eesti Vabariigi Ülemnõukogu XII koosseisu ning Riigikogu VII, VIII ja IX koosseisu liikmete pensioni seaduse ning Vabariigi Presidendi ametihüve seaduse muutmise seadus 375 SE",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7205436f-e6c4-43ef-e233-62069dbdbbdd"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 15.12.2008",
+      "uuid": "9daf77eb-d268-bff0-b668-2ac8310dfd93",
+      "files": [
+        "15.12.08.doc"
+      ]
+    }
+  ],
+  "uuid": "6bd00ab3-5f8a-8ae6-3d1e-e345c5543b9d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 6bd00ab3-5f8a-8ae6-3d1e-e345c5543b9d)",
+  "source": "https://api.riigikogu.ee/api/volumes/6bd00ab3-5f8a-8ae6-3d1e-e345c5543b9d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-12-01&endDate=2008-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
