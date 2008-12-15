@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-12-15T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ühistranspordiseaduse ja sellega seonduvalt teiste seaduste muutmise seadus [364 SE II-2]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fdf851c5-9939-7df5-50f9-944693270285"
+    },
+    {
+      "order": 2,
+      "title": "Riigivara tasuta võõrandamine HTM-lt Võru vallale",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9eee0294-999c-f887-e40d-cba7c3e48b87"
+    },
+    {
+      "order": 3,
+      "title": "Riigivara tasuta võõrandamine Haridus – ja Teadusministeeriumilt Helme vallale.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0a0aff53-8731-80b0-1bfe-b6a6979d9e23"
+    },
+    {
+      "order": 4,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b9107e7b-8a41-9c1e-f4f2-2d86ca6e7dfb"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 15.12.2008",
+      "uuid": "07683f1b-228d-5859-a1e2-efa42a11ccfe",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_51_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "e1210d63-3c0d-d754-2a3f-5f2ecb9d71ba",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e1210d63-3c0d-d754-2a3f-5f2ecb9d71ba)",
+  "source": "https://api.riigikogu.ee/api/volumes/e1210d63-3c0d-d754-2a3f-5f2ecb9d71ba",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-12-01&endDate=2008-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
