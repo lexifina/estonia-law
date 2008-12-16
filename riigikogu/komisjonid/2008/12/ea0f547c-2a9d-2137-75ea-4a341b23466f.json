@@ -1,0 +1,33 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-12-16T10:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kokkuvõte tööst 2008.aastal",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "690ecb77-2f06-5da5-0f89-d08410777824"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 16.12.2008",
+      "uuid": "38646a76-6173-071f-8170-3c265f934bbf",
+      "files": [
+        "Sotsiaalkomisjon_paevakord_16_12_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "ea0f547c-2a9d-2137-75ea-4a341b23466f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ea0f547c-2a9d-2137-75ea-4a341b23466f)",
+  "source": "https://api.riigikogu.ee/api/volumes/ea0f547c-2a9d-2137-75ea-4a341b23466f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-12-01&endDate=2008-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
