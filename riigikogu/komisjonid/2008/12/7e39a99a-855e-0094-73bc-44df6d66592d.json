@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-12-16T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ühistranspordiseaduse ja sellega seonduvalt teiste seaduste muutmise seadus [364 SE II-2]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ae56e02d-1b92-01a1-12e8-ae6b8f0dc766"
+    },
+    {
+      "order": 2,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1746d4bc-efb4-7a82-9c9b-63b56cec5b6f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 16.12.2008",
+      "uuid": "32d5c937-1b70-55e9-a379-da0fd7e91762",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_51_2008.odt"
+      ]
+    }
+  ],
+  "uuid": "7e39a99a-855e-0094-73bc-44df6d66592d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7e39a99a-855e-0094-73bc-44df6d66592d)",
+  "source": "https://api.riigikogu.ee/api/volumes/7e39a99a-855e-0094-73bc-44df6d66592d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-12-01&endDate=2008-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
