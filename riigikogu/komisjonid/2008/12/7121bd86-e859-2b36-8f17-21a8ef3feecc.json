@@ -1,0 +1,33 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung",
+  "sitting_time": "2008-12-16T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kokkuvõtte tegemine riigikaitsekomisjoni aastasest tööst",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1060c387-266d-3e24-98e6-ed71bfb2e441"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 16.12.2008",
+      "uuid": "269469b4-58a1-9138-69ab-d1afcd48cbf0",
+      "files": [
+        "16.12.08.doc"
+      ]
+    }
+  ],
+  "uuid": "7121bd86-e859-2b36-8f17-21a8ef3feecc",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7121bd86-e859-2b36-8f17-21a8ef3feecc)",
+  "source": "https://api.riigikogu.ee/api/volumes/7121bd86-e859-2b36-8f17-21a8ef3feecc",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2008-12-01&endDate=2008-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
