@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/12849727> (version in force from 2007-07-14)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/13092920> (version in force from 2008-12-17)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -48,7 +48,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/12849727> (version in force from
 | [§ 31¹](para-031b1.md) | Valimisliit |
 | [§ 32](para-032.md) | Üksikkandidaat |
 | [§ 33](para-033.md) | Kandideerimisdokumendid |
-| [§ 34](para-034.md) | Kandidaatide ringkonnanimekiri |
+| [§ 34](para-034.md) | Kandidaatide nimekiri |
 | [§ 35](para-035.md) | Kandidaatide registreerimiseks esitamine |
 | [§ 36](para-036.md) | Dokumentide vastuvõtmine ja tagastamine |
 | [§ 37](para-037.md) | Kandidaatide registreerimine |
@@ -75,7 +75,8 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/12849727> (version in force from
 | [§ 54¹](para-054b1.md) | Eelhääletamisel antud häälte lugemine |
 | [§ 54²](para-054b2.md) | Elektrooniliselt antud häälte lugemine |
 | [§ 55](para-055.md) | Hääletamistulemuste kindlakstegemine valla ja linna valimiskomisjonis |
-| [§ 56](para-056.md) | Valimistulemuste kindlakstegemine |
+| [§ 56](para-056.md) | Valimistulemuste kindlakstegemine ühe valimisringkonnaga kohaliku omavalitsuse üksuses |
+| [§ 56¹](para-056b1.md) | Valimistulemuste kindlakstegemine mitme valimisringkonnaga kohaliku omavalitsuse üksuses |
 | **9. peatükk VOLIKOGU TÄIENDAVATE VALIMISTE ERISUSED** | |
 | [§ 57](para-057.md) | Täiendavate valimiste erisused |
 | **9¹. peatükk UUE KOHALIKU OMAVALITSUSE ÜKSUSE VOLIKOGU VALIMISTE ERISUSED KORRALISTE VALIMISTE VAHELISEL PERIOODIL** | |

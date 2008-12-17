@@ -12,7 +12,9 @@
 
 (3) Mandaatide arv moodustatavates valimisringkondades ei või olla väiksem kui kolm.
 
-(4) Tallinnas moodustab volikogu valimisringkonnad linnaosade kaupa.
+(3¹) Käesoleva paragrahvi lõike 2 punktis 2 nimetatud juhul moodustatakse valimisringkonnad ühinevate kohaliku omavalitsuse üksuste kaupa.
+
+(4) Tallinnas moodustab volikogu valimisringkonnad linnaosade kaupa, lähtudes põhimõttest, et ühes linnaosas moodustatakse üks valimisringkond.
 
 (5) Volikogu otsuses valimisringkondade moodustamise kohta määratakse ringkondade numeratsioon, piirid ning mandaatide arv igas ringkonnas.
 

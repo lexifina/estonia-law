@@ -1,13 +1,19 @@
-# § 34. Kandidaatide ringkonnanimekiri
+# § 34. Kandidaatide nimekiri
 
-(1) Erakond ja valimisliit koostavad kandidaatide ringkonnanimekirja.
+(1) Erakond või valimisliit koostab:
 
-(2) Isik võib kandideerida ainult ühes valimisringkonnas.
+1) kandidaatide ringkonnanimekirjad;
 
-(3) Isik võib kandideerida ainult ühe erakonna või valimisliidu kandidaatide ringkonnanimekirjas. Kandidaatide nimekirjas ei või kandideerida üksikkandidaadina registreerimiseks esitatud isik.
+2) kandidaatide ülevallalise või -linnalise nimekirja, kui kohaliku omavalitsuse üksuses on moodustatud rohkem kui üks valimisringkond.
 
-(4) Erakond või valimisliit võib ühes valimisringkonnas registreerimiseks esitada ainult ühe kandidaatide ringkonnanimekirja.
+(2) Registreerimiseks esitatud kandidaat peab olema käesoleva paragrahvi lõikes 1 nimetatud mõlemas nimekirjas.
 
-(5) Kandidaatide järjestuse ringkonnanimekirjas määrab erakond või valimisliit.
+(3) Isik võib kandideerida ainult ühes valimisringkonnas.
 
-(6) Kandidaatide ringkonnanimekirjale kirjutavad alla erakonna või valimisliidu kõik volitatud esindajad.
+(4) Isik võib kandideerida ainult ühe erakonna või valimisliidu kandidaatide nimekirjas. Kandidaatide nimekirjas ei või kandideerida üksikkandidaadina registreerimiseks esitatud isik.
+
+(5) Erakond või valimisliit võib ühes valimisringkonnas registreerimiseks esitada ainult ühe kandidaatide nimekirja.
+
+(6) Kandidaatide järjestuse nimekirjas määrab erakond või valimisliit.
+
+(7) Kandidaatide ringkonnanimekirjale ja kandidaatide ülevallalisele või -linnalisele nimekirjale kirjutavad alla erakonna või valimisliidu kõik volitatud esindajad.

@@ -1,3 +1,3 @@
 # § 22. Jaoskonnakomisjoni pädevus
 
-(98) Jaoskonnakomisjoni ülesanne on korraldada hääletamine ja teha kindlaks hääletamistulemused valimisjaoskonnas ning täita muid käesolevast seadusest tulenevaid ülesandeid.
+(99) Jaoskonnakomisjoni ülesanne on korraldada hääletamine ja teha kindlaks hääletamistulemused valimisjaoskonnas ning täita muid käesolevast seadusest tulenevaid ülesandeid.
