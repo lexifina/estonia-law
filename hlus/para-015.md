@@ -1,6 +1,6 @@
 # § 15. Äriregistrisse kantavad andmed
 
-(23) Lisaks tulundusühistuseaduses sätestatud andmetele kantakse äriregistrisse hoiu-laenuühistu:
+(22) Lisaks tulundusühistuseaduses sätestatud andmetele kantakse äriregistrisse hoiu-laenuühistu:
 
 1) osakapitali suurus;
 

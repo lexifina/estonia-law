@@ -1,6 +1,6 @@
 # § 10. Hoiu-laenuühistu põhikiri
 
-(1) Hoiu-laenuühistu põhikirjas peab lisaks tulundusühistuseaduses (RT 1992, 36, 477; RT I 1998, 95, 1513; 1999, 10, 155) sätestatud andmetele olema märgitud:
+(1) Hoiu-laenuühistu põhikirjas peab lisaks tulundusühistuseaduses sätestatud andmetele olema märgitud:
 
 1) hoiu-laenuühistu tegevuspiirkond;
 
@@ -12,7 +12,7 @@
 
 5) reservkapitali ja muude reservide suurus ja moodustamise kord;
 
-6)-8) [Kehtetud]
+6)–8) [Kehtetud]
 
 9) muud käesolevas seaduses sätestatud kohustuslikud tingimused.
 

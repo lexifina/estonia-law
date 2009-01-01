@@ -12,7 +12,7 @@
 
 5) hoiu-laenuühistul on keelatud osaleda osanikuna täisühingus ja täisosanikuna usaldusühingus;
 
-6) hoiu-laenuühistu võib laene välja anda ainult käesoleva seaduse paragrahvis 28 ettenähtud korras;
+6) hoiu-laenuühistu võib laene välja anda ainult käesoleva seaduse §-s 28 ettenähtud korras;
 
 7) hoiu-laenuühistu kohustuste summa kokku ei või ületada kahekümnekordset omakapitali summat.
 

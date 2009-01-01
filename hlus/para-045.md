@@ -4,7 +4,7 @@
 
 1) üldkoosoleku otsuse alusel;
 
-2) kohtuotsusega;
+2) kohtumäärusega;
 
 3) kui hoiu-laenuühistusse on jäänud vähem kui 25 liiget ja liikmete arv ei ole kahe kuu jooksul suurenenud;
 

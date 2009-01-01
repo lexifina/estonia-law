@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/176884> (version in force from 2002-07-01)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/13108408> (version in force from 2009-01-01)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -15,6 +15,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/176884> (version in force from 2
 | [§ 6](para-006.md) | Hoiu-laenuühistu tehingud |
 | **2. peatükk HOIU-LAENUÜHISTU ASUTAMINE** | |
 | [§ 7](para-007.md) | Hoiu-laenuühistu asutamisleping |
+| [§ 8](para-008.md) | –9. |
 | [§ 10](para-010.md) | Hoiu-laenuühistu põhikiri |
 | [§ 11](para-011.md) | Sisseastumismaksu ja osamaksu tasumine |
 | [§ 12](para-012.md) | Enne äriregistrisse kandmist tehtud tehingud |
