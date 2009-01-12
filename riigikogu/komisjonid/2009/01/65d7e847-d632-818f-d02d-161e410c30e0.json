@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-01-12T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töönädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9f387347-acda-3a2a-e7bf-b0c5d28ebeba"
+    },
+    {
+      "order": 2,
+      "title": "Rahvusvahelistes äritehingutes välisriigi ametiisikute altkäemaksu andmise vastu võitlemise konventsiooni ratifitseerimise seadus [361 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "578e34e4-5ba1-497e-4105-61b097699247"
+    },
+    {
+      "order": 3,
+      "title": "Terrorismi ennetamise Euroopa Nõukogu konventsiooni ratifitseerimise seadus [403 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bd6a2a4a-e376-8928-7dbd-2e561dcf306c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 12.01.2009",
+      "uuid": "23f5d85e-0201-48f1-dcb6-9143af735180",
+      "files": [
+        "iguskomisjon_istungi_protokoll_03_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "65d7e847-d632-818f-d02d-161e410c30e0",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 65d7e847-d632-818f-d02d-161e410c30e0)",
+  "source": "https://api.riigikogu.ee/api/volumes/65d7e847-d632-818f-d02d-161e410c30e0",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-01-01&endDate=2009-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
