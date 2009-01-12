@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-01-12T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikogu otsus \"Riiklike tagatiste andmine energiasäästlikuks ehitamiseks ja renoveerimiseks\" [381 OE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "800c19d8-d108-479b-21be-546872c90d64"
+    },
+    {
+      "order": 2,
+      "title": "Raamatupidamise seaduse muutmise seadus [373 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3ab7e38d-372c-5947-bf28-94becf0bdb4a"
+    },
+    {
+      "order": 3,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "eaa94410-8abb-a459-9aa2-29138c53ad6c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 12.01.2009",
+      "uuid": "3f4b0f11-497c-4226-e218-e2862cf2c0bc",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_03_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "305e732b-e494-fcb9-cd1a-484b128401c9",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 305e732b-e494-fcb9-cd1a-484b128401c9)",
+  "source": "https://api.riigikogu.ee/api/volumes/305e732b-e494-fcb9-cd1a-484b128401c9",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-01-01&endDate=2009-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
