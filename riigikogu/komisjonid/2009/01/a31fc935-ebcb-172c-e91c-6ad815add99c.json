@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-01-12T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikaitsekomisjoni töönädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7a845bff-f7b9-bd0b-ec5c-63986acb5537"
+    },
+    {
+      "order": 2,
+      "title": "Doonorlus (sh koostöö kaitseväega)  ja  vere julgeolekuvaru. ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e82e4e62-9e22-7066-accc-6ff236b3d711"
+    },
+    {
+      "order": 3,
+      "title": "Eesti Eruohvitseride Kogu 10.12.2008 kiri nr 241",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "834d7085-fa2d-4b5c-5168-63d7aebf139d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 12.01.2009",
+      "uuid": "714bc78d-03d2-c5e5-ae5b-37d0ab53a26e",
+      "files": [
+        "12.01.09.doc"
+      ]
+    }
+  ],
+  "uuid": "a31fc935-ebcb-172c-e91c-6ad815add99c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a31fc935-ebcb-172c-e91c-6ad815add99c)",
+  "source": "https://api.riigikogu.ee/api/volumes/a31fc935-ebcb-172c-e91c-6ad815add99c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-01-01&endDate=2009-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
