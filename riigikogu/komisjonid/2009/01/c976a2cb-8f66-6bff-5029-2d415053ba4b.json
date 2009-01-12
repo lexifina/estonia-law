@@ -1,0 +1,57 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-01-12T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väliskomisjoni V istungjärgu 1. töönädala töökava kinnitamine.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b67a5af4-2fac-e615-dba1-09729b696040"
+    },
+    {
+      "order": 2,
+      "title": "Väliskomisjoni V istungjärgu töökava arutamine.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "32a79f69-f4a6-80a5-bb10-c5f3de816242"
+    },
+    {
+      "order": 3,
+      "title": "Välispoliitika arutelu olulise tähtsusega riikliku küsimusena Riigikogu täiskogul neljapäeval, 26. veebruaril 2009 – arutelu läbiviimise kord.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1375a9e7-523f-5df2-8010-e03fce5f3905"
+    },
+    {
+      "order": 4,
+      "title": "Informatsioon komisjoni liikmete tegevusest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f0fd005e-3e9e-0fdc-700c-2992eb3a94ae"
+    },
+    {
+      "order": 5,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ca7843f5-687c-4978-6244-9cab66b0c69a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 12.01.2009",
+      "uuid": "8153388b-7b50-306e-50ba-f31b1aca13dc",
+      "files": [
+        "Väliskomisjon_istungi_protokoll_03_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "c976a2cb-8f66-6bff-5029-2d415053ba4b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c976a2cb-8f66-6bff-5029-2d415053ba4b)",
+  "source": "https://api.riigikogu.ee/api/volumes/c976a2cb-8f66-6bff-5029-2d415053ba4b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-01-01&endDate=2009-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
