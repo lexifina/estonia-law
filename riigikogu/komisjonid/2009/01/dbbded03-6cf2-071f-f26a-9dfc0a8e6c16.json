@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-01-12T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "275208f9-3a3d-54f9-d39b-a990dc9d9567"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine kultuuriministriga",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8dd68731-82f0-43b3-8d70-6fabea4a7c11"
+    },
+    {
+      "order": 3,
+      "title": "Info ja kirjad",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b877a5c4-be8e-3d87-234e-991ca7a12cb2"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 12.01.2009",
+      "uuid": "3456e03f-ed82-7b79-02bd-211f07fa2005",
+      "files": [
+        "Kultuurikomisjon_paevakord_12_01_2009.odt",
+        "Kultuurikomisjon_istungi_protokoll_03_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "dbbded03-6cf2-071f-f26a-9dfc0a8e6c16",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid dbbded03-6cf2-071f-f26a-9dfc0a8e6c16)",
+  "source": "https://api.riigikogu.ee/api/volumes/dbbded03-6cf2-071f-f26a-9dfc0a8e6c16",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-01-01&endDate=2009-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
