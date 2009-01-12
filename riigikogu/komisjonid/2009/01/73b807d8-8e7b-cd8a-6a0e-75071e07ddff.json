@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-01-12T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikontrolör Mihkel Oviiri informatsioon;",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e0f4f2b5-73c4-1a0e-cfa4-678c95a2186e"
+    },
+    {
+      "order": 2,
+      "title": "Muu informatsioon",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "075ab44f-23d2-14fa-6d98-5de2ec37fc8d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 12.01.2009",
+      "uuid": "28263d1a-f6bc-7d35-a0be-d1e6b2703849",
+      "files": [
+        "protokoll 54 12 01 2009.doc",
+        "Riigieelarve kontrolli erikomisjon_paevakord_12_01_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "73b807d8-8e7b-cd8a-6a0e-75071e07ddff",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 73b807d8-8e7b-cd8a-6a0e-75071e07ddff)",
+  "source": "https://api.riigikogu.ee/api/volumes/73b807d8-8e7b-cd8a-6a0e-75071e07ddff",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-01-01&endDate=2009-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
