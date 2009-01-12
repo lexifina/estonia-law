@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-01-12T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigieelarve seaduse, riigi eraõiguslikes juriidilistes isikutes osalemise seaduse ning Riigikogu kodu- ja töökorra seaduse muutmise seadus [402 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "630bce7c-75b0-3a4e-f2f6-a12b01a358a9"
+    },
+    {
+      "order": 2,
+      "title": "Euroopa Parlamendi valimise seaduse § 75¹ kehtetuks tunnistamise seadus [363 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bbf44b83-a6c3-a425-a070-edbed3f58ab4"
+    },
+    {
+      "order": 3,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d1c3fed5-5f13-1e15-9237-2f604eb71948"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 12.01.2009",
+      "uuid": "49a8951a-0c8b-1856-3e57-c4b01c464c02",
+      "files": [
+        "Põhiseaduskomisjon_istungi_protokoll_03_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "0546a7a8-d40b-3aec-1fda-ac05fcfdaa6b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0546a7a8-d40b-3aec-1fda-ac05fcfdaa6b)",
+  "source": "https://api.riigikogu.ee/api/volumes/0546a7a8-d40b-3aec-1fda-ac05fcfdaa6b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-01-01&endDate=2009-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
