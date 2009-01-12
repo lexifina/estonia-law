@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-01-12T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Arvamuse andmine  Euroopa Parlamendi ja nõukogu määruse eelnõu „Välismaksete kohta ühenduses“ ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "624b7560-dbb3-1d78-6dfe-cb041bc21263"
+    },
+    {
+      "order": 2,
+      "title": "Tulumaksuseaduse ja kinnisasja sundvõõrandamise seaduse muutmise seadus [400 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "50080749-53f8-8326-c9e0-4b2a945b4fae"
+    },
+    {
+      "order": 3,
+      "title": "Investeerimisfondide seaduse, väärtpaberituru seaduse, äriseadustiku ja Eesti väärtpaberite keskregistri seaduse muutmise seadus [376 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1c5e1574-1f10-a901-0e40-c37d9e266fa7"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 12.01.2009",
+      "uuid": "fe6106d9-0bc6-4ae3-de19-daf9e7942134",
+      "files": [
+        "Rahanduskomisjon_istungi_protokoll_03_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "a7e338d6-1035-e48c-ff7b-cd308e3bd709",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a7e338d6-1035-e48c-ff7b-cd308e3bd709)",
+  "source": "https://api.riigikogu.ee/api/volumes/a7e338d6-1035-e48c-ff7b-cd308e3bd709",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-01-01&endDate=2009-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
