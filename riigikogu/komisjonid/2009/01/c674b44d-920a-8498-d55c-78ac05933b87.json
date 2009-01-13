@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-01-13T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Erimärgistatud kütuse aktsiis. Uuring",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "60a20a68-e986-c07a-6afe-9245cdbb126b"
+    },
+    {
+      "order": 2,
+      "title": "Püsiasustusega väikesaarte seaduse mõju ning teiste püsiasustusega saarte vajadused. Uuringu vahearuanne",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9492add6-cbe6-99d5-b810-fa558a22441c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 13.01.2009",
+      "uuid": "9908c759-d55d-09b8-e09d-cd321153c217",
+      "files": [
+        "Maaelukomisjon_paevakord_13_01_2009.odt",
+        "Maaelukomisjon_istungi_protokoll_03_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "c674b44d-920a-8498-d55c-78ac05933b87",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c674b44d-920a-8498-d55c-78ac05933b87)",
+  "source": "https://api.riigikogu.ee/api/volumes/c674b44d-920a-8498-d55c-78ac05933b87",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-01-01&endDate=2009-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
