@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-01-13T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohaliku omavalitsuse kohustused ja ülesanded eestkosteasutusena, nende täitmisega seotud probleemid",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "09efa566-37c5-e5b5-0a95-bd268607489e"
+    },
+    {
+      "order": 2,
+      "title": "Tööturuteenuste ja -toetuste seaduse ja sellega seonduvate seaduste muutmise seadus [399 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "68e70ae3-963b-c61f-659b-f2e8cc82eee3"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 13.01.2009",
+      "uuid": "a615578d-142b-b3d9-7cc3-9197028cbc61",
+      "files": [
+        "Sotsiaalkomisjon_istungi_protokoll_03_2009.odt",
+        "Sotsiaalkomisjon_paevakord_13_01_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "569d87cd-f465-186f-7b4b-731432287d2c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 569d87cd-f465-186f-7b4b-731432287d2c)",
+  "source": "https://api.riigikogu.ee/api/volumes/569d87cd-f465-186f-7b4b-731432287d2c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-01-01&endDate=2009-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
