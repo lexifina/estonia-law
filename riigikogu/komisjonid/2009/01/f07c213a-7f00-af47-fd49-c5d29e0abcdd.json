@@ -1,0 +1,33 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-01-15T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Istungi algus 12:30. Arutelu Õiguskantsleri kirja põhjal: KrMS § 378 lg-s 7 sätestatud 10 päevase tähtaja regulatsiooni paindlikumaks muutmine. ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5df64c82-ab82-e0b2-4dd9-66199c7e8d76"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 15.01.2009",
+      "uuid": "05b7fa67-3e0e-8a1e-a6e5-12f02f47245f",
+      "files": [
+        "iguskomisjon_istungi_protokoll_03_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "f07c213a-7f00-af47-fd49-c5d29e0abcdd",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f07c213a-7f00-af47-fd49-c5d29e0abcdd)",
+  "source": "https://api.riigikogu.ee/api/volumes/f07c213a-7f00-af47-fd49-c5d29e0abcdd",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-01-01&endDate=2009-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
