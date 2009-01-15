@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-01-15T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine välisministeeriumi kantsleri Marten Kokkiga.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4faf698a-fbc9-98a6-f8a8-4752d3606937"
+    },
+    {
+      "order": 2,
+      "title": "Ukraina-Venemaa gaasitüliga seoses kujunenud olukord.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9c7ead4a-de04-2331-e108-3aff31748086"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4f6ba2ad-18d8-e5d5-7489-940bb71d49f1"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 15.01.2009",
+      "uuid": "64e2361a-f286-f1c2-6082-ed5debb7ae05",
+      "files": [
+        "Väliskomisjon_istungi_protokoll_03_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "0c2c44a4-34e5-fd2b-04d5-0c3684122f6f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0c2c44a4-34e5-fd2b-04d5-0c3684122f6f)",
+  "source": "https://api.riigikogu.ee/api/volumes/0c2c44a4-34e5-fd2b-04d5-0c3684122f6f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-01-01&endDate=2009-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
