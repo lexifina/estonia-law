@@ -14,7 +14,7 @@
 
 - 4) käesoleva lõike punktides 1–3 nimetatud reklaami avalikustajad solidaarselt, kui nende tegevus rikub käesoleva seadusega reklaamile kehtestatud nõudeid või piiranguid ning nende eraldi vastutust ei ole võimalik tuvastada.
 
-(4) Käesoleva paragrahvi lõigetes 1 ja 2 sätestatud väärteole kohaldatakse karistusseadustiku (RT I 2001, 61, 364; 2002, 86, 504; 82, 480; 105, 612; 2003, 4, 22; 83, 557; 90, 601; 2004, 7, 40; 46, 329; 54, 387; 56, 401; 88, 600; 2005, 20, 126) üldosa ja väärteomenetluse seadustiku (RT I 2002, 50, 313; 110, 654; 2003, 26, 156; 83, 557; 88, 590; RT III 2004, 9, 96; RT I 2004, 46, 329; 54, 387 ja 390; 56, 403) sätteid.
+(4) Käesoleva paragrahvi lõigetes 1 ja 2 sätestatud väärteole kohaldatakse karistusseadustiku üldosa ja väärteomenetluse seadustiku sätteid.
 
 (5) Käesoleva paragrahvi lõigetes 1 ja 2 sätestatud väärteo kohtuväline menetleja on politseiprefektuur.
 

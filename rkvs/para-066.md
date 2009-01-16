@@ -20,7 +20,7 @@
 
 - 4) tulu erakonna varalt;
 
-- 5) laen või krediit erakonnaseaduse (RT I 1994, 40, 654; 1996, 37, 739; 42, 811; 1998, 59, 941; 1999, 27, 393; 2002, 21, 117; 29, 174; 42, 264; 57, 355; 102, 602; 2003, 4, 22; 90, 601) § 12
+- 5) laen või krediit erakonnaseaduse § 12
 
 - ¹
 

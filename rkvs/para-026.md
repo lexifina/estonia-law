@@ -6,7 +6,7 @@
 
 (3) Erakond osaleb Riigikogu valimistel oma nime all.
 
-(4) Erakond esitab kandidaatide registreerimiseks esitamisel Vabariigi Valimiskomisjonile kirjaliku teatise, milles on erakonna volitatud esindajate nimed, isikukoodid, aadressid ja sidevahendite numbrid. Teatisele kirjutab alla mittetulundusühingute seaduse (RT I 1996, 42, 811; 1998, 96, 1515; 1999, 10, 155; 23, 355; 67, 658; 2000, 55, 365; 88, 576; 2001, 56, 336; 93, 565) või erakonna põhikirja kohaselt erakonda esindama õigustatud isik. Kui erakonda ei ole käesoleva paragrahvi lõikes 2 märgitud nimekirjas, esitab erakond tõendi ka selle kohta, et ta on kantud mittetulundusühingute ja sihtasutuste registrisse.
+(4) Erakond esitab kandidaatide registreerimiseks esitamisel Vabariigi Valimiskomisjonile kirjaliku teatise, milles on erakonna volitatud esindajate nimed, isikukoodid, aadressid ja sidevahendite numbrid. Teatisele kirjutab alla mittetulundusühingute seaduse või erakonna põhikirja kohaselt erakonda esindama õigustatud isik. Kui erakonda ei ole käesoleva paragrahvi lõikes 2 märgitud nimekirjas, esitab erakond tõendi ka selle kohta, et ta on kantud mittetulundusühingute ja sihtasutuste registrisse.
 
 (5) Erakond võib volitada ennast esindama kuni kaks isikut.
 
