@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-01-19T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c5060022-386f-5947-b198-63e10eb80455"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine haridus- ja teadusministriga",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e91b1916-35e4-5ba8-86c8-735b59d7ffa1"
+    },
+    {
+      "order": 3,
+      "title": "Info ja kirjad",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "67c908a6-47b2-5ccb-ecce-5725a450f72e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 19.01.2009",
+      "uuid": "36c95a35-efb9-9026-02c3-7244c217c806",
+      "files": [
+        "Kultuurikomisjon_istungi_protokoll_04_2009.odt",
+        "Kultuurikomisjon_paevakord_19_01_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "cbc9ddad-c409-93e4-99f8-51925fe7ebf3",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid cbc9ddad-c409-93e4-99f8-51925fe7ebf3)",
+  "source": "https://api.riigikogu.ee/api/volumes/cbc9ddad-c409-93e4-99f8-51925fe7ebf3",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-01-01&endDate=2009-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
