@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-01-19T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töönädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a33ed313-963a-4fa8-b0a7-cf01cf1638a0"
+    },
+    {
+      "order": 2,
+      "title": "Arvamuse andmise ELAK-le",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a256c678-2920-d122-205a-c543ef44373c"
+    },
+    {
+      "order": 3,
+      "title": "Mittetulundusühingute seaduse, sihtasutuste seaduse, tulundusühistuseaduse ja äriseadustiku muutmise ning sellega seonduvalt teiste seaduste muutmise seadus [271 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e8804267-4145-0d6d-5414-829cf8204a2e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 19.01.2009",
+      "uuid": "48ba5d3b-d373-1475-70b8-cfd3b0bc16d8",
+      "files": [
+        "iguskomisjon_istungi_protokoll_04_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "d796c008-733c-9c25-b9d5-b5ae13b79253",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d796c008-733c-9c25-b9d5-b5ae13b79253)",
+  "source": "https://api.riigikogu.ee/api/volumes/d796c008-733c-9c25-b9d5-b5ae13b79253",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-01-01&endDate=2009-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
