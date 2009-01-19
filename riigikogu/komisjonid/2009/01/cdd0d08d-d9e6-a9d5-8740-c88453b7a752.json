@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-01-19T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Maareformi käigus kasutusvaldusesse antud maa omandamise seaduse eelnõu (380 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ee788a9c-aa90-24ce-ecb4-a3dd4c4755b8"
+    },
+    {
+      "order": 2,
+      "title": "Probleemid piima kokkuostuga",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ea84a2c4-7df4-a01f-406f-bbeb07501dd5"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 19.01.2009",
+      "uuid": "57e6216a-dd93-5db4-fe56-ed1d0d499a2f",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_04_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "cdd0d08d-d9e6-a9d5-8740-c88453b7a752",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid cdd0d08d-d9e6-a9d5-8740-c88453b7a752)",
+  "source": "https://api.riigikogu.ee/api/volumes/cdd0d08d-d9e6-a9d5-8740-c88453b7a752",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-01-01&endDate=2009-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
