@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-01-19T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade majanduse hetkeolukorrast; ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "14a69b5b-f0e4-d3c1-c9ca-5ed66d3d3246"
+    },
+    {
+      "order": 2,
+      "title": "Informatsioon.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bf7a061b-6efd-fc61-5b37-0cade5e17a8f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 19.01.2009",
+      "uuid": "350d283a-2dee-9b9e-b570-5938d9b5a912",
+      "files": [
+        "protokoll 55 19 01 2009.doc",
+        "Riigieelarve kontrolli erikomisjon_paevakord_19_01_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "b5dac6a5-6dd4-f507-e4b5-006d145caa61",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b5dac6a5-6dd4-f507-e4b5-006d145caa61)",
+  "source": "https://api.riigikogu.ee/api/volumes/b5dac6a5-6dd4-f507-e4b5-006d145caa61",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-01-01&endDate=2009-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
