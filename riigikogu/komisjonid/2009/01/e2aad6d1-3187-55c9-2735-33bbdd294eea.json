@@ -1,0 +1,34 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-01-20T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine regionaalministri Siim-Valmar Kiisleriga",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c08c0e83-2bde-d539-9797-5de6f0226a38"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 20.01.2009",
+      "uuid": "95c12f05-4dec-1673-c6bd-ab419f0f291c",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_04_2009.odt",
+        "Maaelukomisjon_paevakord_20_01_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "e2aad6d1-3187-55c9-2735-33bbdd294eea",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e2aad6d1-3187-55c9-2735-33bbdd294eea)",
+  "source": "https://api.riigikogu.ee/api/volumes/e2aad6d1-3187-55c9-2735-33bbdd294eea",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-01-01&endDate=2009-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
