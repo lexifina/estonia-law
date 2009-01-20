@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-01-20T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikogu otsus \"Ettepaneku tegemine Vabariigi Valitsusele Vene Föderatsiooniga kahepoolse lepingu sõlmimiseks kohaliku piiriliikluse korra kujundamiseks\" [397 OE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8d10dc6e-eadd-9625-d50e-fff49a6f4217"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade olukorrast Gazas.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f6f6eda7-aa62-11f0-6fc6-a4da0a9c42cd"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5c207c50-b1c9-36e0-e97d-098ad13d400b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 20.01.2009",
+      "uuid": "f71e086e-38f4-9ea6-44b8-3e7842a12d51",
+      "files": [
+        "Väliskomisjon_istungi_protokoll_04_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "ef7c175c-106e-a715-88db-b0b65c2e6276",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ef7c175c-106e-a715-88db-b0b65c2e6276)",
+  "source": "https://api.riigikogu.ee/api/volumes/ef7c175c-106e-a715-88db-b0b65c2e6276",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-01-01&endDate=2009-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
