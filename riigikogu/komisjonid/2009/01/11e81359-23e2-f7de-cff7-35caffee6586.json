@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-01-22T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väliskomisjoni töövisiit Georgiasse 1.-6. veebruar 2009 – visiidi ettevalmistamine. Ülevaade Georgia ja Eesti kahepoolsetest suhetest. ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9f0e2c6d-7086-32f5-841d-15c7fc8fe692"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b74d9836-e4bb-c025-6332-a82cde1481a7"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 22.01.2009",
+      "uuid": "5ffe01a8-5359-9b75-5c81-b00442bfbbbd",
+      "files": [
+        "Väliskomisjon_istungi_protokoll_04_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "11e81359-23e2-f7de-cff7-35caffee6586",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 11e81359-23e2-f7de-cff7-35caffee6586)",
+  "source": "https://api.riigikogu.ee/api/volumes/11e81359-23e2-f7de-cff7-35caffee6586",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-01-01&endDate=2009-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
