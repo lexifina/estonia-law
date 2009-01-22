@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-01-22T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigi kõrgemate ametiisikute ametipalkade seadus [369 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e1b9f010-2f43-bc37-0853-265f01e048ce"
+    },
+    {
+      "order": 2,
+      "title": "Riigikohtule arvamuse andmine ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0f72a5f5-c54f-3273-120b-8060d2bde57e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 22.01.2009",
+      "uuid": "a835cdf8-267d-ac19-f414-afd4ec1d3c5e",
+      "files": [
+        "Põhiseaduskomisjon_istungi_protokoll_04_2009.odt",
+        "Põhiseaduskomisjon_paevakord_22_01_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "5c8bf8eb-780e-580c-1b9b-cdb2eee9dc3e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 5c8bf8eb-780e-580c-1b9b-cdb2eee9dc3e)",
+  "source": "https://api.riigikogu.ee/api/volumes/5c8bf8eb-780e-580c-1b9b-cdb2eee9dc3e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-01-01&endDate=2009-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
