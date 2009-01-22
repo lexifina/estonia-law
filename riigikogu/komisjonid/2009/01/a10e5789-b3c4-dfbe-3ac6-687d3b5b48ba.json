@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-01-22T12:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ehitusseaduse muutmise seadus [389 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "05eed709-d6a8-de8f-1e4d-70b0226abcc7"
+    },
+    {
+      "order": 2,
+      "title": "MKM-i seisukoht AS-i Estonian Air arengu osas",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b85ca3b9-7b39-8d95-86ea-8025b4253aba"
+    },
+    {
+      "order": 3,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e98c2847-af50-0e2e-213a-a1ad59f58d41"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 22.01.2009",
+      "uuid": "104be862-87df-7a66-1454-794fff757649",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_04_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "a10e5789-b3c4-dfbe-3ac6-687d3b5b48ba",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a10e5789-b3c4-dfbe-3ac6-687d3b5b48ba)",
+  "source": "https://api.riigikogu.ee/api/volumes/a10e5789-b3c4-dfbe-3ac6-687d3b5b48ba",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-01-01&endDate=2009-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
