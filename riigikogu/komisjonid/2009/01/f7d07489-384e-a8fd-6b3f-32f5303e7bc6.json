@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-01-23T10:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ühisistung ELAKiga - Informatsioon ja Eesti seisukohad 26.-27. jaanuaril 2009 toimuval Euroopa Liidu üldasjade ja välissuhete nõukogu istungil.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "79da2f20-d4ae-2fc6-a744-6ee6903ad9f4"
+    },
+    {
+      "order": 2,
+      "title": "Ühisistung ELAKiga - Valitsuse eesmärgid Euroopa Liidus Tšehhi eesistumisperioodil.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c60d4a0c-0f06-220f-6a52-b67e2d23a5aa"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d7c11b6a-a92a-8a6a-b3e7-3af562b61e4f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 23.01.2009",
+      "uuid": "a84268f8-5f95-8682-44e7-29feb62c5cf7",
+      "files": [
+        "Väliskomisjon_istungi_protokoll_04_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "f7d07489-384e-a8fd-6b3f-32f5303e7bc6",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f7d07489-384e-a8fd-6b3f-32f5303e7bc6)",
+  "source": "https://api.riigikogu.ee/api/volumes/f7d07489-384e-a8fd-6b3f-32f5303e7bc6",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-01-01&endDate=2009-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
