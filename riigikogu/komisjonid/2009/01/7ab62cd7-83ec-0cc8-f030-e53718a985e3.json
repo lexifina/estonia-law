@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-01-26T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade stabiliseerimisreservi varade väärtuse ja koosseisu kohta seisuga 31.12.2008",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e180e7bb-4d77-7b1f-7739-00703d1dd0b0"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade välisvahendite kasutamisest seisuga 31.12. 2008",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8e7260af-c9a2-4946-22f1-e73345cfca40"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 26.01.2009",
+      "uuid": "915a254e-5809-daea-6059-f1f8d074536d",
+      "files": [
+        "Rahanduskomisjon_istungi_protokoll_05_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "7ab62cd7-83ec-0cc8-f030-e53718a985e3",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7ab62cd7-83ec-0cc8-f030-e53718a985e3)",
+  "source": "https://api.riigikogu.ee/api/volumes/7ab62cd7-83ec-0cc8-f030-e53718a985e3",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-01-01&endDate=2009-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
