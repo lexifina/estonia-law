@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-01-26T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töönädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "45d35be1-9428-e7dc-5b2d-23640e6917d6"
+    },
+    {
+      "order": 2,
+      "title": "Mittetulundusühingute seaduse, sihtasutuste seaduse, tulundusühistuseaduse ja äriseadustiku muutmise ning sellega seonduvalt teiste seaduste muutmise seadus [271 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6e137276-3996-b5e1-54c9-2cdd90a104ff"
+    },
+    {
+      "order": 3,
+      "title": "Politseiteenistuse seaduse, kaitseväeteenistuse seaduse, piirivalveteenistuse seaduse, prokuratuuriseaduse, õiguskantsleri seaduse, Riigikontrolli seaduse, Eesti Vabariigi Ülemnõukogu XII koosseisu ning Riigikogu VII, VIII ja IX koosseisu liikmete pensioni seaduse ning Vabariigi Presidendi ametihüve seaduse muutmise seadus [375 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1eecfeb9-4c33-abff-b79e-4ddb6d2d2063"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 26.01.2009",
+      "uuid": "4cfc2985-30bd-9c66-e237-1a9968ae520d",
+      "files": [
+        "iguskomisjon_istungi_protokoll_05_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "a7baedec-143e-dffd-5f32-c435b60c1f8a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a7baedec-143e-dffd-5f32-c435b60c1f8a)",
+  "source": "https://api.riigikogu.ee/api/volumes/a7baedec-143e-dffd-5f32-c435b60c1f8a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-01-01&endDate=2009-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
