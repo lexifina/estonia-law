@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-01-26T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väliskomisjoni V istungjärgu 3. töönädala töökava kinnitamine.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "437f39a8-0be0-a29e-179e-8ed4fa7ea27b"
+    },
+    {
+      "order": 2,
+      "title": "Euroopa Liidu arengukoostöö ministrite 29. ja 30. jaanuari 2009. a mitteametlik kohtumine.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "de596a5e-1be7-60a8-2400-4d97133c38e8"
+    },
+    {
+      "order": 3,
+      "title": "Informatsioon komisjoni liikmete tegevusest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "37e4b512-1416-5b77-012e-38d9fc962896"
+    },
+    {
+      "order": 4,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2ff78d48-4ae8-649e-6ddf-0ab20e193d86"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 26.01.2009",
+      "uuid": "a1b9b80e-691d-7056-697c-250b8b045e53",
+      "files": [
+        "Väliskomisjon_istungi_protokoll_05_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "e94cef78-93d2-ebd6-47b5-9c881edfa594",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e94cef78-93d2-ebd6-47b5-9c881edfa594)",
+  "source": "https://api.riigikogu.ee/api/volumes/e94cef78-93d2-ebd6-47b5-9c881edfa594",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-01-01&endDate=2009-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
