@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-01-26T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikontrolli auditi „Majandus- ja Kommunikatsiooniministeeriumi tegevus Ühtekuuluvusfondi projektide juhtimisel” jätkuarutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3b172a07-17c5-2e38-53b3-46af5e49f5e0"
+    },
+    {
+      "order": 2,
+      "title": "Informatsioon",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ebd2854a-241b-5bcc-4d98-2484da47dfa9"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 26.01.2009",
+      "uuid": "10fc547c-5af6-ccf6-539a-51f2926b51b0",
+      "files": [
+        "protokoll 56 26 01 2009.doc",
+        "Riigieelarve kontrolli erikomisjon_paevakord_26_01_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "7b6779ee-da0b-d2b1-1ebe-df01d600838f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7b6779ee-da0b-d2b1-1ebe-df01d600838f)",
+  "source": "https://api.riigikogu.ee/api/volumes/7b6779ee-da0b-d2b1-1ebe-df01d600838f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-01-01&endDate=2009-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
