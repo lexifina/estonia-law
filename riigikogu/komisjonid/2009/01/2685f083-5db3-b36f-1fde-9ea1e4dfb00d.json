@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-01-26T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Olukorrast tööturul",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9bdabbad-55ae-5324-83a0-864ace7ba6f6"
+    },
+    {
+      "order": 2,
+      "title": "Tööturuteenuste ja -toetuste seaduse ja sellega seonduvate seaduste muutmise seadus [399 SE III]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c38979fa-dd70-0c81-b2da-5de884f1e902"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 26.01.2009",
+      "uuid": "7d563e4a-d79f-e26f-2f3e-4f305eb7b9df",
+      "files": [
+        "Sotsiaalkomisjon_istungi_protokoll_05_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "2685f083-5db3-b36f-1fde-9ea1e4dfb00d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2685f083-5db3-b36f-1fde-9ea1e4dfb00d)",
+  "source": "https://api.riigikogu.ee/api/volumes/2685f083-5db3-b36f-1fde-9ea1e4dfb00d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-01-01&endDate=2009-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
