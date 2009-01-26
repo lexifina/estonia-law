@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-01-26T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "99c5e5b3-58d0-2ee8-1f1a-29c18bd102f1"
+    },
+    {
+      "order": 2,
+      "title": "Põllumajandusministeeriumi 2009. aasta tööplaanid",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f2ff0e55-c59e-8f05-09d8-53f849a21e91"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 26.01.2009",
+      "uuid": "fe041774-bfa3-e53c-e061-9c5dea4ba37e",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_05_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "446e6a04-e503-251b-925c-737f2067b648",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 446e6a04-e503-251b-925c-737f2067b648)",
+  "source": "https://api.riigikogu.ee/api/volumes/446e6a04-e503-251b-925c-737f2067b648",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-01-01&endDate=2009-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
