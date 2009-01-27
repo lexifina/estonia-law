@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-01-27T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigi kõrgemate ametiisikute ametipalkade seadus [369 SE-I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c32cddec-9b5b-c2f5-1c0c-2bfa77203c9a"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu kodu- ja töökorra seaduse muutmise seadus [293 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "872db68f-c769-0123-d0e0-60a7ca9e0886"
+    },
+    {
+      "order": 3,
+      "title": "Riigikogu kodu- ja töökorra seaduse muutmise seadus [368 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "54218a01-bd3f-8d2d-0a11-906c4ac395ee"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 27.01.2009",
+      "uuid": "9fe9693d-0c25-1901-7a4e-5e307356f1ba",
+      "files": [
+        "Põhiseaduskomisjon_istungi_protokoll_05_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "3c3d8d36-f9b9-b76b-1fad-5db004b9fe4f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3c3d8d36-f9b9-b76b-1fad-5db004b9fe4f)",
+  "source": "https://api.riigikogu.ee/api/volumes/3c3d8d36-f9b9-b76b-1fad-5db004b9fe4f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-01-01&endDate=2009-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
