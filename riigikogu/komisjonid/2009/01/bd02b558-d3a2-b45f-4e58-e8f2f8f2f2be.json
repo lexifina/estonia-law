@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-01-27T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Istungi algus 11:30",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a5ea6af0-3b4f-e8fc-e6bd-2070ec2d89ab"
+    },
+    {
+      "order": 2,
+      "title": "Perekonnaseadus [55 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5177b3d8-8896-d2c8-ea69-85678987b9f6"
+    },
+    {
+      "order": 3,
+      "title": "Tsiviilseadustiku üldosa seaduse ja võlaõigusseaduse muutmise seadus [365 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "969ed7d4-175c-dc5b-2710-8058891a8b25"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 27.01.2009",
+      "uuid": "73f9ef88-4656-1535-726d-faa515de2505",
+      "files": [
+        "iguskomisjon_istungi_protokoll_05_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "bd02b558-d3a2-b45f-4e58-e8f2f8f2f2be",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid bd02b558-d3a2-b45f-4e58-e8f2f8f2f2be)",
+  "source": "https://api.riigikogu.ee/api/volumes/bd02b558-d3a2-b45f-4e58-e8f2f8f2f2be",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-01-01&endDate=2009-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
