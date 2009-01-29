@@ -1,0 +1,33 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-01-29T12:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väljasõiduistung Arengufondi",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bb4dc83f-6546-77cd-4227-8fd62b36680a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 29.01.2009",
+      "uuid": "42d6b746-2dd2-53be-9fa1-db00a8709a95",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_05_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "fee5e6cd-91fa-2040-22e4-bb11416cadd4",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid fee5e6cd-91fa-2040-22e4-bb11416cadd4)",
+  "source": "https://api.riigikogu.ee/api/volumes/fee5e6cd-91fa-2040-22e4-bb11416cadd4",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-01-01&endDate=2009-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
