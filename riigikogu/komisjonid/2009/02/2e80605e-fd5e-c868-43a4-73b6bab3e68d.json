@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-02-09T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b0f3e717-ba44-f4ad-1b30-34e8ee2ebd97"
+    },
+    {
+      "order": 2,
+      "title": "Arutelu \"Erikool koolikohustuse täitmise tagamise meetmena\" L332",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f0a10172-4681-90ae-0594-880d77cfbfde"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 09.02.2009",
+      "uuid": "1509e631-ad4f-ed52-58ff-aff67b266b75",
+      "files": [
+        "Kultuurikomisjon_istungi_protokoll_07_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "2e80605e-fd5e-c868-43a4-73b6bab3e68d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2e80605e-fd5e-c868-43a4-73b6bab3e68d)",
+  "source": "https://api.riigikogu.ee/api/volumes/2e80605e-fd5e-c868-43a4-73b6bab3e68d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-02-01&endDate=2009-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
