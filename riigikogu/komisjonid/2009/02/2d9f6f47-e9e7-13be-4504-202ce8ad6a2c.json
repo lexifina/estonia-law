@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-02-09T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikontrolli auditi „Sisekontrollisüsteemide toimimine isikuandmete kaitsel riiklikes andmekogudes” arutelu ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0bbdf5e9-c8dc-0f73-cabd-cc76873bfed3"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli auditi „Eesti valmisolek terroriaktist tingitud hädaolukorraks” arutelu ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "58350dce-0974-b6dd-9f37-f61f38c91990"
+    },
+    {
+      "order": 3,
+      "title": "Informatsioon",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3ac000c0-01d4-f5bf-46fa-c93f178d1bf2"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 09.02.2009",
+      "uuid": "7f75341c-47fb-d956-f939-1abc940599c8",
+      "files": [
+        "Riigieelarve kontrolli erikomisjon_paevakord_09_02_2009.odt",
+        "protokoll 57 09 02 2009.doc"
+      ]
+    }
+  ],
+  "uuid": "2d9f6f47-e9e7-13be-4504-202ce8ad6a2c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2d9f6f47-e9e7-13be-4504-202ce8ad6a2c)",
+  "source": "https://api.riigikogu.ee/api/volumes/2d9f6f47-e9e7-13be-4504-202ce8ad6a2c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-02-01&endDate=2009-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
