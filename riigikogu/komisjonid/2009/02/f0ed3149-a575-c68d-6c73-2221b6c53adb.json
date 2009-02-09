@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-02-09T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töönädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f0b2d754-e273-3b84-658a-b9bcec064b0c"
+    },
+    {
+      "order": 2,
+      "title": "Tsiviilseadustiku üldosa seaduse ja võlaõigusseaduse muutmise seadus [365 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8cd6adfa-0d7f-f63c-fde7-ef3cad66e3e2"
+    },
+    {
+      "order": 3,
+      "title": "Tutvumine ettekandega turvalisuspoliitika põhisuundade elluviimisest ja korrakaitse olukorrast riigis ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "99d239d3-923e-b382-1dfd-325f4c05c347"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 09.02.2009",
+      "uuid": "e7b5d9e1-1aca-59e5-9547-c8b4dea489fd",
+      "files": [
+        "iguskomisjon_istungi_protokoll_07_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "f0ed3149-a575-c68d-6c73-2221b6c53adb",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f0ed3149-a575-c68d-6c73-2221b6c53adb)",
+  "source": "https://api.riigikogu.ee/api/volumes/f0ed3149-a575-c68d-6c73-2221b6c53adb",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-02-01&endDate=2009-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
