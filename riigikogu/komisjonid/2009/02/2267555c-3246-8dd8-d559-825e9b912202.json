@@ -1,0 +1,58 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-02-09T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikogu kodu- ja töökorra seaduse muutmise seadus [368 SE & 293 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c13b9f75-4497-0920-8907-83aed44ec87a"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu liikme staatuse seaduse muutmise seadus [417 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "06cf8520-da56-a8ff-65f2-7d3f45db1050"
+    },
+    {
+      "order": 3,
+      "title": "Riigikogu liikme staatuse seaduse muutmise seadus [419 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "494afc90-9c13-6634-a51a-d16c1ed36c13"
+    },
+    {
+      "order": 4,
+      "title": "Riigikogu liikme staatuse seaduse muutmise seadus [421 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e16a5bd1-eee1-162b-a60c-f20ca6c0e13c"
+    },
+    {
+      "order": 5,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2cab74d8-bae1-6975-e7f3-1822e10ed20a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 09.02.2009",
+      "uuid": "f65f9fb9-46cd-bf0e-51fc-9f11e58b4d6a",
+      "files": [
+        "Põhiseaduskomisjon_istungi_protokoll_07_2009.odt",
+        "Põhiseaduskomisjon_paevakord_09_02_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "2267555c-3246-8dd8-d559-825e9b912202",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2267555c-3246-8dd8-d559-825e9b912202)",
+  "source": "https://api.riigikogu.ee/api/volumes/2267555c-3246-8dd8-d559-825e9b912202",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-02-01&endDate=2009-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
