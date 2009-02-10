@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-02-10T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Olukorrast tööturul",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "41e6cbbd-f795-1d6d-6433-9048e221207a"
+    },
+    {
+      "order": 2,
+      "title": "Euroopa sotsiaalõiguste komitee järeldused parandatud ja täiendatud Euroopa sotsiaalharta kohta",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a5642d41-7182-8661-5de6-ac388a131ab3"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 10.02.2009",
+      "uuid": "a61b27df-d3ea-5efc-b932-9db61e4ad616",
+      "files": [
+        "Sotsiaalkomisjon_istungi_protokoll_07_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "95fe9275-823d-e726-3c62-8375a91562f6",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 95fe9275-823d-e726-3c62-8375a91562f6)",
+  "source": "https://api.riigikogu.ee/api/volumes/95fe9275-823d-e726-3c62-8375a91562f6",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-02-01&endDate=2009-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
