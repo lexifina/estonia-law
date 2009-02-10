@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-02-10T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Info ja kirjad",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3d155a43-a5cd-eaf1-9b7b-2faa24607c96"
+    },
+    {
+      "order": 2,
+      "title": "Põhikooli- ja gümnaasiumiseaduse muutmise seadus [420 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "90134a9d-651c-fc71-70ac-977a3cf02394"
+    },
+    {
+      "order": 3,
+      "title": "Põhikooli- ja gümnaasiumiseadus [412 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "58d8c859-2fa0-e986-0efe-46871ac3602f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 10.02.2009",
+      "uuid": "f31985cb-3d59-12b3-a739-cacb8fb38cb5",
+      "files": [
+        "Kultuurikomisjon_istungi_protokoll_07_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "664cfa8a-ff33-d864-58a5-9b112f5bd19f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 664cfa8a-ff33-d864-58a5-9b112f5bd19f)",
+  "source": "https://api.riigikogu.ee/api/volumes/664cfa8a-ff33-d864-58a5-9b112f5bd19f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-02-01&endDate=2009-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
