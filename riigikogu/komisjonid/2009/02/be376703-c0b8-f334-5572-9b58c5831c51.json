@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-02-12T09:00:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Soolise võrdõiguslikkuse seaduse, avaliku teenistuse seaduse ja Eesti Vabariigi töölepingu seaduse muutmise seadus [317 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d5031d9b-c826-7c97-78b5-343287ca474a"
+    },
+    {
+      "order": 2,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9c198229-8d55-7bdd-de4d-744e30073b81"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 12.02.2009",
+      "uuid": "8baf329a-a5e4-4186-f75c-0e6fc1db5c5c",
+      "files": [
+        "Põhiseaduskomisjon_istungi_protokoll_07_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "be376703-c0b8-f334-5572-9b58c5831c51",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid be376703-c0b8-f334-5572-9b58c5831c51)",
+  "source": "https://api.riigikogu.ee/api/volumes/be376703-c0b8-f334-5572-9b58c5831c51",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-02-01&endDate=2009-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
