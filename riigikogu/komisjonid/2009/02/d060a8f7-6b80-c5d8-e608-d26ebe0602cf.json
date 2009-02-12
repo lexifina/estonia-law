@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-02-12T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse seaduse ja teiste seaduste muutmise seaduse seoses Politsei- ja Piirivalveameti loomisega [344 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "254f161a-29ff-e192-e391-a3b2e9cdd5e5"
+    },
+    {
+      "order": 2,
+      "title": "Politsei ja piirivalve seadus [343 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "463a08da-ecff-e32c-209b-3aab9be45335"
+    },
+    {
+      "order": 3,
+      "title": "Karistusseadustiku ja maksukorralduse seaduse muutmise seadus [360 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c3ee2c98-63f5-ecef-99be-2dd14182b858"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 12.02.2009",
+      "uuid": "1e178d86-c8a6-6920-e280-77b745f64db7",
+      "files": [
+        "iguskomisjon_istungi_protokoll_07_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "d060a8f7-6b80-c5d8-e608-d26ebe0602cf",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d060a8f7-6b80-c5d8-e608-d26ebe0602cf)",
+  "source": "https://api.riigikogu.ee/api/volumes/d060a8f7-6b80-c5d8-e608-d26ebe0602cf",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-02-01&endDate=2009-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
