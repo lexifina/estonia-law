@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-02-16T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikontrolli auditi „Ehitushangete korraldus valdades ja linnades” arutelu ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9e18ad42-26f5-9fe4-84e3-636e7288e05e"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli auditi „Ülevaade valdade ja linnade üldplaneeringutest ja nende puudumise põhjustest” arutelu ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "70c7d01a-6944-f14d-46f0-197aa9be7ae6"
+    },
+    {
+      "order": 3,
+      "title": "Informatsioon",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a03c5908-276d-94fb-d38a-6fbd3ea3edb2"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 16.02.2009",
+      "uuid": "9282a258-99c4-ef6d-23cb-df8e428ffa46",
+      "files": [
+        "protokoll 58 16 02 2009.doc",
+        "Riigieelarve kontrolli erikomisjon_paevakord_16_02_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "02176a42-e534-0731-d38c-44ba7235b98c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 02176a42-e534-0731-d38c-44ba7235b98c)",
+  "source": "https://api.riigikogu.ee/api/volumes/02176a42-e534-0731-d38c-44ba7235b98c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-02-01&endDate=2009-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
