@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-02-16T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "de7a3a4c-74f1-ed39-66bf-567ed6140a48"
+    },
+    {
+      "order": 2,
+      "title": "Erimärgistatud kütuse aktsiis",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b92a6cce-dbe9-7543-d0d6-4fd284fd936f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 16.02.2009",
+      "uuid": "d6d51512-d035-114b-6e27-f1e114e44016",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_08_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "94adac58-fe53-c701-2aaf-22226ddda6e0",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 94adac58-fe53-c701-2aaf-22226ddda6e0)",
+  "source": "https://api.riigikogu.ee/api/volumes/94adac58-fe53-c701-2aaf-22226ddda6e0",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-02-01&endDate=2009-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
