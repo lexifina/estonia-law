@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-02-16T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töönädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a4615eed-2584-036b-c3ac-29e012fb273f"
+    },
+    {
+      "order": 2,
+      "title": "Tsiviilseadustiku üldosa seaduse ja võlaõigusseaduse muutmise seadus [365 SE II-2]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "372d4836-3c16-07f3-3235-3d3b1735014a"
+    },
+    {
+      "order": 3,
+      "title": "Tutvumine ettekandega kriminaalpoliitika arengusuundadest kuni 2010. 2008 aasta täitmise aruanne",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "856708ac-5ca1-2f29-a0a8-b77f1601bb83"
+    },
+    {
+      "order": 4,
+      "title": "Notariaadiseaduse ja sellega seonduvate seaduste muutmise seadus [411 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "80227005-2943-91fc-3bca-f6dacedc0946"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 16.02.2009",
+      "uuid": "1019baa4-00d1-c118-892a-0d306c48aaf2",
+      "files": [
+        "iguskomisjon_istungi_protokoll_08_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "664a1453-5524-937f-41f9-4d04057e3e90",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 664a1453-5524-937f-41f9-4d04057e3e90)",
+  "source": "https://api.riigikogu.ee/api/volumes/664a1453-5524-937f-41f9-4d04057e3e90",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-02-01&endDate=2009-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
