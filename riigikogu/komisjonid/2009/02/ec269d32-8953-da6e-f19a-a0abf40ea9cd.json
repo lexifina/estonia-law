@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-02-17T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Konsulaarseaduse eelnõu [378 SE II-1] ettevalmistamine teiseks lugemiseks.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4472a61f-12fd-bab9-a061-e92c75f4a141"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade Euroopa Nõgukogu Parlamentaarse Assamblee (ENPA) Eesti delegatsiooni tegevusest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b03c1323-3c38-140c-c7d6-c029b7e3680d"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "72c08d6d-0753-1099-58ee-6df74836b991"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 17.02.2009",
+      "uuid": "4c2543e1-8f62-4105-31d5-0fd5155893be",
+      "files": [
+        "17.02.09 (149) protokoll.doc"
+      ]
+    }
+  ],
+  "uuid": "ec269d32-8953-da6e-f19a-a0abf40ea9cd",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ec269d32-8953-da6e-f19a-a0abf40ea9cd)",
+  "source": "https://api.riigikogu.ee/api/volumes/ec269d32-8953-da6e-f19a-a0abf40ea9cd",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-02-01&endDate=2009-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
