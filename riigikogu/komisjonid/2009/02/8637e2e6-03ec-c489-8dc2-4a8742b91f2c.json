@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-02-17T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikontrolli auditi \"Riigi tegevus taimse toidu ohutuse tagamisel\" kontrolliaruanne",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f5af690c-949f-21c3-14d1-7614ba72ab2a"
+    },
+    {
+      "order": 2,
+      "title": "Püsiasustusega väikesaarte seaduse mõju ning teiste püsiasustusega saarte vajadused. Uuringu lõpparuanne",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "94543087-968b-ae81-c90e-7a59e089bc88"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 17.02.2009",
+      "uuid": "fce53a45-f471-21e5-98aa-d4cb961cc026",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_08_2009.odt",
+        "Maaelukomisjon_paevakord_17_02_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "8637e2e6-03ec-c489-8dc2-4a8742b91f2c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8637e2e6-03ec-c489-8dc2-4a8742b91f2c)",
+  "source": "https://api.riigikogu.ee/api/volumes/8637e2e6-03ec-c489-8dc2-4a8742b91f2c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-02-01&endDate=2009-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
