@@ -1,0 +1,33 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-02-17T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Olukorrast tööturul",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c6710861-0e51-3761-00de-2dbb5c1a41f7"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 17.02.2009",
+      "uuid": "4f6a6776-567d-b16a-d88b-afa9e66e76b7",
+      "files": [
+        "Sotsiaalkomisjon_istungi_protokoll_08_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "ed4ed0a9-0d56-bfc4-684c-2fad6c088d8c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ed4ed0a9-0d56-bfc4-684c-2fad6c088d8c)",
+  "source": "https://api.riigikogu.ee/api/volumes/ed4ed0a9-0d56-bfc4-684c-2fad6c088d8c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-02-01&endDate=2009-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
