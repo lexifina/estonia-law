@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-02-20T10:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väliskomisjoni ja ELAKi ühisistung - Eesti seisukohad 23.-24. veebruaril 2009 toimuval üldasjade ja välissuhete nõukogu istungil.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "20d2f300-37b7-43e5-41f1-c7da4c5be87b"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e4b1acea-ce08-14de-7137-4c20e9fa197f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 20.02.2009",
+      "uuid": "2c75a7e2-2280-65e1-fb48-ba9f77291def",
+      "files": [
+        "Väliskomisjon_istungi_protokoll_08_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "b80f55fe-7d0e-0fcc-d542-d46eeca069bb",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b80f55fe-7d0e-0fcc-d542-d46eeca069bb)",
+  "source": "https://api.riigikogu.ee/api/volumes/b80f55fe-7d0e-0fcc-d542-d46eeca069bb",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-02-01&endDate=2009-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
