@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-02-23T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7f812fdb-68f2-1e8c-d347-0dceecf60899"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse seisukohad Euroopa Komisjoni  rohelise raamatu „Territoriaalse mitmekesisuse muutmine Euroopa tugevaks küljeks” kohta. Arvamuse andmine ELAKile",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "346f95f4-3895-b2c7-b3ac-e4cae1bc85b7"
+    },
+    {
+      "order": 3,
+      "title": "Vabariigi Valitsuse seisukohad Euroopa Liidu nõukogu määruse „Loomade kaitse surmamisel“ eelnõu kohta. Arvamuse andmine ELAKile",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f184a87e-e212-b034-df3f-926f1a6dc20f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 23.02.2009",
+      "uuid": "fd111c1d-31bd-f5b3-f6dc-4e13adf67f28",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_09_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "39118908-5b24-6272-7fce-cdecf5e3418d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 39118908-5b24-6272-7fce-cdecf5e3418d)",
+  "source": "https://api.riigikogu.ee/api/volumes/39118908-5b24-6272-7fce-cdecf5e3418d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-02-01&endDate=2009-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
