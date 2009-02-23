@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-02-23T15:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikogu liikme staatuse seaduse muutmise seadus [421 SE & 417 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9025f9a8-8f29-fdb1-32f1-68caf1f98900"
+    },
+    {
+      "order": 2,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cf42beea-4c5e-d75b-087c-66ab1257798a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 23.02.2009",
+      "uuid": "339bf397-d2e5-738a-401f-f849a5a9dffd",
+      "files": [
+        "Põhiseaduskomisjon_istungi_protokoll_09_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "24684c65-d6cb-b08f-538c-516b5e1e05a2",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 24684c65-d6cb-b08f-538c-516b5e1e05a2)",
+  "source": "https://api.riigikogu.ee/api/volumes/24684c65-d6cb-b08f-538c-516b5e1e05a2",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-02-01&endDate=2009-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
