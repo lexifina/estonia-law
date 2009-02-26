@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-02-26T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Euroopa Komisjoni roheline raamat \"Territoriaalse mitmekesisuse muutmine Euroopa tugevaks küljeks” suhtes, menetlusse võtmine ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c2effc1a-75a3-4e52-ef26-811599367acf"
+    },
+    {
+      "order": 2,
+      "title": "Nõukogu määruse, millega luuakse ühenduse kontrollisüsteem ühise kalanduspoliitika eeskirjade järgimise tagamiseks, eelnõu  ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "867e406c-f4d6-ddf3-efbf-b950101a4be4"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 26.02.2009",
+      "uuid": "3e97187d-3063-ceef-689d-a55dc891e092",
+      "files": [
+        "prot101 26.02.09.doc"
+      ]
+    }
+  ],
+  "uuid": "e1bdcc16-06a6-4b7b-4cff-028895b3a39c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e1bdcc16-06a6-4b7b-4cff-028895b3a39c)",
+  "source": "https://api.riigikogu.ee/api/volumes/e1bdcc16-06a6-4b7b-4cff-028895b3a39c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-02-01&endDate=2009-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
