@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-02-26T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Eesti Pensionäride Ühenduste Liidu esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b4048017-af63-e855-29a2-9a41546b1187"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad Euroopa Komisjoni rohelise raamatu \" Territoriaalse mitmekesisuse muutmine Euroopa tugevaks küljeks\" suhtes",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "93bd983c-d663-da5e-9940-235a672bd9dc"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 26.02.2009",
+      "uuid": "e85f958b-00d5-2f6b-a42e-97fca528efcd",
+      "files": [
+        "Sotsiaalkomisjon_paevakord_26_02_2009.odt",
+        "Sotsiaalkomisjon_istungi_protokoll_09_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "0f90fb5c-879f-04b4-cd4d-cbfd366205c9",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0f90fb5c-879f-04b4-cd4d-cbfd366205c9)",
+  "source": "https://api.riigikogu.ee/api/volumes/0f90fb5c-879f-04b4-cd4d-cbfd366205c9",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-02-01&endDate=2009-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
