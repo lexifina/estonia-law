@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-03-06T00:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Briti Alamkoja kaitsekomisjoni delegatsiooniga",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a2f38f5a-9ad6-b6d6-93cd-62712d5280fe"
+    },
+    {
+      "order": 2,
+      "title": "Riigikaitsekomisjoni esimehe Mati Raidma lähetamine Prahas 05.04.-07.04.2009 toimuvale EL liikmesriikide parlamentide riigikaitsekomisjoni esimeeste konverentsile \"Euroopa julgeoleku tänased väljakutsed\" ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c849b696-12a8-78af-189f-0a3d80fb192b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 06.03.2009",
+      "uuid": "1b45eff9-298d-8d62-7e8a-552a90c88756",
+      "files": [
+        "06.03.09.doc"
+      ]
+    }
+  ],
+  "uuid": "f1bd30f5-41eb-6ae2-fe92-fae209eaebef",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f1bd30f5-41eb-6ae2-fe92-fae209eaebef)",
+  "source": "https://api.riigikogu.ee/api/volumes/f1bd30f5-41eb-6ae2-fe92-fae209eaebef",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-03-01&endDate=2009-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
