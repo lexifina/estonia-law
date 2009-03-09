@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-03-09T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "ELAK`le arvamuse andmine ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "da0969e7-47d1-5733-0ac2-2a4a84bd76a0"
+    },
+    {
+      "order": 2,
+      "title": "Väljakuulutamata jäetud soolise võrdõiguslikkuse seaduse, võrdse kohtlemise seaduse, Eesti Vabariigi töölepingu seaduse, kohaliku omavalitsuse korralduse seaduse ja kohaliku omavalitsuse volikogu valimise seaduse muutmise seaduse arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "27269e40-f801-ffac-7c12-ba04f2dcd9cf"
+    },
+    {
+      "order": 3,
+      "title": "Riigikohtule arvamuse andmine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "73360a38-d158-710d-cd55-3c81e4ee8fb8"
+    },
+    {
+      "order": 4,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "66ef7a39-4d5b-4d74-b6ec-ae16ffc48cf7"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 09.03.2009",
+      "uuid": "691c9867-a9e8-7cf0-4632-b3d82909f279",
+      "files": [
+        "Põhiseaduskomisjon_istungi_protokoll_11_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "d0fc00e0-955b-ff9c-5200-ea4d7a2e0c23",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d0fc00e0-955b-ff9c-5200-ea4d7a2e0c23)",
+  "source": "https://api.riigikogu.ee/api/volumes/d0fc00e0-955b-ff9c-5200-ea4d7a2e0c23",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-03-01&endDate=2009-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
