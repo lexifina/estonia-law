@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-03-09T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Liiklusseadusega seonduv arutelu: liiklusõppe kvaliteet, järelevalve, elektroonilise õpingukaardi arendus.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3e667d5a-c127-ddd1-d500-7b69e280f680"
+    },
+    {
+      "order": 2,
+      "title": "Kaubamärgiõiguse Singapuri lepingu ratifitseerimise seadus [409 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "874a5adc-904c-b273-bfdc-a5b55e73ba35"
+    },
+    {
+      "order": 3,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2abc1e95-11e5-761a-c1b1-943c99a64303"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 09.03.2009",
+      "uuid": "f3f1165f-7042-7ad6-0e40-2e6de0539303",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_11_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "80059161-5168-b971-c3d0-110a828e767e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 80059161-5168-b971-c3d0-110a828e767e)",
+  "source": "https://api.riigikogu.ee/api/volumes/80059161-5168-b971-c3d0-110a828e767e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-03-01&endDate=2009-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
