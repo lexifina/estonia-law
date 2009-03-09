@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-03-09T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "77b9f045-96ad-4756-059c-a612410de13f"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli auditi \"Riigi tegevus taimse toidu ohutuse tagamisel\" kontrolliaruanne ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7c5bc3d3-d053-c705-481b-ccc802de05a9"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 09.03.2009",
+      "uuid": "6e9a8b43-1a07-61c0-90a7-af06cd6d8111",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_11_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "7d0df742-5963-efd7-9ad7-2c96ca89f42c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7d0df742-5963-efd7-9ad7-2c96ca89f42c)",
+  "source": "https://api.riigikogu.ee/api/volumes/7d0df742-5963-efd7-9ad7-2c96ca89f42c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-03-01&endDate=2009-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
