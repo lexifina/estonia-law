@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-03-09T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Hasartmängumaksu seadus [433 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4288ef97-f7d6-0bb0-2551-1f86241347aa"
+    },
+    {
+      "order": 2,
+      "title": "Eesti Vabariigi ja Hollandi Kuningriigi vahelise tulu- ja kapitalimaksuga topeltmaksustamise vältimise ning maksudest hoidumise tõkestamise lepingu muutmise protokolli ratifitseerimise seadus [425 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3c35deac-920b-2fa2-8256-d6113fe35b38"
+    },
+    {
+      "order": 3,
+      "title": "Arvamus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a067464b-0f61-bb97-c509-a5d62b94420f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 09.03.2009",
+      "uuid": "e56252e0-0e75-4526-933a-3cc6da8dfe8b",
+      "files": [
+        "Rahanduskomisjon_istungi_protokoll_11_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "9ec74f1b-ebac-4874-f094-bdf0886ad847",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9ec74f1b-ebac-4874-f094-bdf0886ad847)",
+  "source": "https://api.riigikogu.ee/api/volumes/9ec74f1b-ebac-4874-f094-bdf0886ad847",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-03-01&endDate=2009-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
