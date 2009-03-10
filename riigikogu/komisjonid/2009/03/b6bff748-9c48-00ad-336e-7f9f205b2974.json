@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-03-10T12:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Elektroonilise side seaduse muutmise seadus [424 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d5fd173d-773b-5a59-42cd-6849343d64bd"
+    },
+    {
+      "order": 2,
+      "title": "Euroopa Komisjoni rohelise raamatu „Kollektiivse hüvitamise mehhanismid tarbija jaoks“ osas Vabariigi Valitsuse seisukohtade arutelu ning arvamuse esitamine ELAK-le. ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "adad3014-0e25-f7f2-1399-be8c14be80bc"
+    },
+    {
+      "order": 3,
+      "title": "Parlamentaarne kuulamine: metsatööstuse konkurentsivõime seoses metsaveokite tonnaažiga.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3d752573-43e5-c161-568a-95c25009768f"
+    },
+    {
+      "order": 4,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "baad18f9-7745-2f0f-cb7c-11512992aec7"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 10.03.2009",
+      "uuid": "62dfa103-5f1f-faa8-5786-d8606071d683",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_11_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "b6bff748-9c48-00ad-336e-7f9f205b2974",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b6bff748-9c48-00ad-336e-7f9f205b2974)",
+  "source": "https://api.riigikogu.ee/api/volumes/b6bff748-9c48-00ad-336e-7f9f205b2974",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-03-01&endDate=2009-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
