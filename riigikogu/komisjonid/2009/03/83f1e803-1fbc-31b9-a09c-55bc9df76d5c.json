@@ -1,0 +1,33 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-03-10T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Perekonnaseadus [55 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "67391a74-b86c-624e-146a-977e8545df9e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 10.03.2009",
+      "uuid": "5d9edb07-5c58-be7d-cb34-feeaa59803c9",
+      "files": [
+        "iguskomisjon_istungi_protokoll_11_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "83f1e803-1fbc-31b9-a09c-55bc9df76d5c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 83f1e803-1fbc-31b9-a09c-55bc9df76d5c)",
+  "source": "https://api.riigikogu.ee/api/volumes/83f1e803-1fbc-31b9-a09c-55bc9df76d5c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-03-01&endDate=2009-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
