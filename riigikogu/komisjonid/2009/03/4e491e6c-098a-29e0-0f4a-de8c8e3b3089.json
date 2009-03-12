@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-03-12T15:00:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Soolise võrdõiguslikkuse seaduse, võrdse kohtlemise seaduse,  Eesti vabariigi töölepingu seaduse, kohaliku omavalitsuse korralduse seaduse ja kohaliku omavalitsuse volikogu valimise seaduse muutmise seaduse -317 UA- arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c873e192-d56d-96b6-1bfe-1c0ed7c1b267"
+    },
+    {
+      "order": 2,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9a670a84-a425-1c9b-c787-f763b23e3627"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 12.03.2009",
+      "uuid": "3c43971f-9467-8a0b-37fe-13a1e799377f",
+      "files": [
+        "Põhiseaduskomisjon_istungi_protokoll_11_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "4e491e6c-098a-29e0-0f4a-de8c8e3b3089",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 4e491e6c-098a-29e0-0f4a-de8c8e3b3089)",
+  "source": "https://api.riigikogu.ee/api/volumes/4e491e6c-098a-29e0-0f4a-de8c8e3b3089",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-03-01&endDate=2009-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
