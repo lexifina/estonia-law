@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-03-12T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Parlamentaarne kuulamine: Energiamajanduse riikliku arengukava aastani 2020 ja Eesti elektrimajanduse arengukava aastani 2018 tutvustus.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d085e0e3-2042-c8ed-9668-b907cd2cd0f3"
+    },
+    {
+      "order": 2,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "605aa66c-6f71-94c1-1ee1-06a61cf24d36"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 12.03.2009",
+      "uuid": "7e369a83-7fd0-33b6-1b6e-e0877f13d890",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_11_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "981cd81e-f807-ba73-f70a-56e08b5ad258",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 981cd81e-f807-ba73-f70a-56e08b5ad258)",
+  "source": "https://api.riigikogu.ee/api/volumes/981cd81e-f807-ba73-f70a-56e08b5ad258",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-03-01&endDate=2009-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
