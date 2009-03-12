@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-03-12T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade Eesti-Valgevene suhetest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9a94d0f0-ebc2-de65-c0f3-9ae166431855"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "17a5a571-3c6d-94e0-57df-7a0e4bffaa37"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 12.03.2009",
+      "uuid": "d7600333-8391-6a16-8d50-2358adde81da",
+      "files": [
+        "Väliskomisjon_istungi_protokoll_11_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "a9290331-42a3-db7d-e0f6-61e7f33220e5",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a9290331-42a3-db7d-e0f6-61e7f33220e5)",
+  "source": "https://api.riigikogu.ee/api/volumes/a9290331-42a3-db7d-e0f6-61e7f33220e5",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-03-01&endDate=2009-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
