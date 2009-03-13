@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-03-13T10:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ühisistung ELAKiga - Eesti seisukohad 19.-20 märtsil 2009 toimuval Euroopa Ülemkogu kohtumisel.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "24badba4-91e3-9952-6a7d-fbe0aac5a1bb"
+    },
+    {
+      "order": 2,
+      "title": "Ühisistung ELAKiga - Eesti seisukohad 16.-17. märtsil 2009 toimuval Euroopa Liidu üldasjade ja välissuhete nõukogu istungil.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "27eed58e-0d95-2273-8130-0b9ad41cb68d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 13.03.2009",
+      "uuid": "978d92cc-34be-9fd2-434f-8a14b11e6708",
+      "files": [
+        "Väliskomisjon_istungi_protokoll_11_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "ddd1042c-2192-a404-407f-ea85669e0feb",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ddd1042c-2192-a404-407f-ea85669e0feb)",
+  "source": "https://api.riigikogu.ee/api/volumes/ddd1042c-2192-a404-407f-ea85669e0feb",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-03-01&endDate=2009-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
