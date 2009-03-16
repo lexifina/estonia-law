@@ -1,0 +1,57 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-03-16T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töönädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b4eb4990-4fd4-cfa7-987e-f6bde2111946"
+    },
+    {
+      "order": 2,
+      "title": "Perekonnaseisutoimingute seadus [68 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a3e753f9-2b76-d4d3-b5ff-c73c53caf15c"
+    },
+    {
+      "order": 3,
+      "title": "Perekonnaseadus [55 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0948e427-bdb7-9f48-656f-29e789dea0f9"
+    },
+    {
+      "order": 4,
+      "title": "Karistusseadustiku muutmise seadus [416 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4bbba217-911a-e0d8-2491-089995382a97"
+    },
+    {
+      "order": 5,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d91d2f87-b475-7dff-7a44-f938de6891f1"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 16.03.2009",
+      "uuid": "327ba460-5a78-e766-4d2b-ec37311c4dc1",
+      "files": [
+        "iguskomisjon_istungi_protokoll_12_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "e2698776-8485-845f-de3b-bcc2146dd805",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e2698776-8485-845f-de3b-bcc2146dd805)",
+  "source": "https://api.riigikogu.ee/api/volumes/e2698776-8485-845f-de3b-bcc2146dd805",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-03-01&endDate=2009-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
