@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-03-16T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väliskomisjoni V istungjärgu 8. töönädala töökava kinnitamine.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7e56a670-ffe0-d263-a76d-dfa529b9a74a"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade Eesti-Hiina suhetest. ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "37654910-6a01-35b1-f126-baee5cdd3a21"
+    },
+    {
+      "order": 3,
+      "title": "Informatsioon komisjoni liikmete tegevusest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c8adf06f-c894-e787-16df-22d8381f45cf"
+    },
+    {
+      "order": 4,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f4dccd13-dbba-e8b8-95fd-9b7bcc936e27"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 16.03.2009",
+      "uuid": "bd204b66-bc06-58ae-663c-ebcd2fa580c5",
+      "files": [
+        "16.03.09 (157) protokoll.doc",
+        "Väliskomisjon_paevakord_16_03_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "bed34a29-c5be-1852-42c8-e6754d4a4c97",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid bed34a29-c5be-1852-42c8-e6754d4a4c97)",
+  "source": "https://api.riigikogu.ee/api/volumes/bed34a29-c5be-1852-42c8-e6754d4a4c97",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-03-01&endDate=2009-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
