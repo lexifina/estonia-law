@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-03-16T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töötus ja sellega seonduvad sotsiaalprobleemid Pärnumaal. Kohtumine Pärnumaa Omavalituste Liidu esindajatega.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1b6f0392-6b84-3e30-cb68-01d69e07c315"
+    },
+    {
+      "order": 2,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c21e3273-69c7-3d5a-dbb7-2b085f46ba80"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 16.03.2009",
+      "uuid": "9cd53ff1-b91e-6538-cdaa-3b5125f2efef",
+      "files": [
+        "Sotsiaalkomisjon_istungi_protokoll_12_2009.odt",
+        "Sotsiaalkomisjon_paevakord_16_03_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "974c6351-d9f3-818e-e509-074b6a9d6ae0",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 974c6351-d9f3-818e-e509-074b6a9d6ae0)",
+  "source": "https://api.riigikogu.ee/api/volumes/974c6351-d9f3-818e-e509-074b6a9d6ae0",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-03-01&endDate=2009-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
