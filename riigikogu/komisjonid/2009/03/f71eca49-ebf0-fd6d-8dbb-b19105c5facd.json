@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-03-16T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Komisjoni töökava (16.03.09 – 22.03.09) kinnitamine ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "04d53d29-7a2d-5b8f-991c-801476741afc"
+    },
+    {
+      "order": 2,
+      "title": " Euroopa Komisjoni teatis „Euroopa Liidu strateegia väljatöötamine sissetungivate liikide suhtes“ ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ce6c8f77-1350-3bd1-1a26-19ac1b78a003"
+    },
+    {
+      "order": 3,
+      "title": "Keskkonnatasude seaduse ja kalapüügiseaduse muutmise seadus [441 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e1fd9054-8735-22b1-afb5-2a06cfcf2473"
+    },
+    {
+      "order": 4,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "86cd1308-03be-f5c0-4905-f1f84c25f8da"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 16.03.2009",
+      "uuid": "cb0551af-dac9-6725-7e2e-afe8da63cd57",
+      "files": [
+        "prot103.16.03.09.doc"
+      ]
+    }
+  ],
+  "uuid": "f71eca49-ebf0-fd6d-8dbb-b19105c5facd",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f71eca49-ebf0-fd6d-8dbb-b19105c5facd)",
+  "source": "https://api.riigikogu.ee/api/volumes/f71eca49-ebf0-fd6d-8dbb-b19105c5facd",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-03-01&endDate=2009-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
