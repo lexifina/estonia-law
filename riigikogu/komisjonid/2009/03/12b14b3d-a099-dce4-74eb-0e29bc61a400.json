@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-03-17T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ühisistung keskkonnakomisjoniga:  Euroopa Parlamendi ja nõukogu direktiivi eelnõu, rehvide kütusesäästlikkuse ja muude oluliste parameetrite märgistamise osas Vabariigi Valitsuse seisukohtade arutelu ning arvamuse esitamine ELAK-le.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ab97ad19-f809-2a55-407b-a9d7fd3abf53"
+    },
+    {
+      "order": 2,
+      "title": "Tallinna Tehnikaülikooli Geoloogia Instituudi ettekanne \"Eesti maapõue kasutamise võimalustest”",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e68728dd-746d-64fa-dd07-f4b03128bdb1"
+    },
+    {
+      "order": 3,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "52902596-56f7-059c-1304-36f17939ea01"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 17.03.2009",
+      "uuid": "51c6bb72-6561-99ae-38dd-2099e8b34905",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_12_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "12b14b3d-a099-dce4-74eb-0e29bc61a400",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 12b14b3d-a099-dce4-74eb-0e29bc61a400)",
+  "source": "https://api.riigikogu.ee/api/volumes/12b14b3d-a099-dce4-74eb-0e29bc61a400",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-03-01&endDate=2009-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
