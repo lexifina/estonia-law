@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-03-23T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väliskomisjoni V istungjärgu 9. töönädala töökava kinnitamine.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "81b19e97-d033-fa1a-0142-6b6ec7d7abaf"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad 27.-28. märtsil 2009 toimuval Euroopa Liidu mitteametlikul välisministrite kohtumisel. ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "66fa5935-ee4f-7813-2d9c-09dbaef17db4"
+    },
+    {
+      "order": 3,
+      "title": "Informatsioon komisjoni liikmete tegevusest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6c43373b-1653-b02a-89e4-9e92a8ec3080"
+    },
+    {
+      "order": 4,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e421140f-8919-12c2-3c8e-e95192f1485a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 23.03.2009",
+      "uuid": "171cfa09-2612-2066-54da-4e8005388107",
+      "files": [
+        "Väliskomisjon_paevakord_23_03_2009.odt",
+        "Väliskomisjon_istungi_protokoll_13_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "ec1801a3-5e31-0ce5-188f-a9a6848585bc",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ec1801a3-5e31-0ce5-188f-a9a6848585bc)",
+  "source": "https://api.riigikogu.ee/api/volumes/ec1801a3-5e31-0ce5-188f-a9a6848585bc",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-03-01&endDate=2009-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
