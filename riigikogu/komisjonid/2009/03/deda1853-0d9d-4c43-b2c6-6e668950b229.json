@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-03-23T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Tervishoiuteenuste korraldamise seaduse ja sellega seonduvalt teiste seaduste muutmise seadus [452 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b6900209-2cd4-73e3-46ae-ffdd084d76e6"
+    },
+    {
+      "order": 2,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0c5d3cf0-7a24-7d1c-16ef-f094c7890874"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 23.03.2009",
+      "uuid": "2745b68f-66b9-a97a-0507-a60e3504f3b5",
+      "files": [
+        "Sotsiaalkomisjon_istungi_protokoll_13_2009.odt",
+        "Sotsiaalkomisjon_paevakord_23_03_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "deda1853-0d9d-4c43-b2c6-6e668950b229",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid deda1853-0d9d-4c43-b2c6-6e668950b229)",
+  "source": "https://api.riigikogu.ee/api/volumes/deda1853-0d9d-4c43-b2c6-6e668950b229",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-03-01&endDate=2009-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
