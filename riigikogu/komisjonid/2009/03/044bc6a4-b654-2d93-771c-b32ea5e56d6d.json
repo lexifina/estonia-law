@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-03-23T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Õiguskantsleri ettepanekute, anda nõusolek Riigikogu liikmetelt Villu Reiljanilt ning Ester Tuiksoolt saadikupuutumatuse äravõtmiseks ja nende kohta süüdistusakti koostamiseks, arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "72ef5da6-8902-0bc2-2850-52ce44a7d1db"
+    },
+    {
+      "order": 2,
+      "title": "Isikut tõendavate dokumentide seaduse, konsulaarseaduse, karistusseadustiku ja riigilõivuseaduse muutmise seadus [395 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e5dfff8c-60cd-12b9-5f28-2eb6f214f1dd"
+    },
+    {
+      "order": 3,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "260d72fa-92fc-4942-3b75-54f797fa3f1a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 23.03.2009",
+      "uuid": "5f4ac7a0-6a17-773c-4298-1aa181b0a3ff",
+      "files": [
+        "Põhiseaduskomisjon_istungi_protokoll_13_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "044bc6a4-b654-2d93-771c-b32ea5e56d6d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 044bc6a4-b654-2d93-771c-b32ea5e56d6d)",
+  "source": "https://api.riigikogu.ee/api/volumes/044bc6a4-b654-2d93-771c-b32ea5e56d6d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-03-01&endDate=2009-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
