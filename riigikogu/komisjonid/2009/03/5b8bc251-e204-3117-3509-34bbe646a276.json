@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-03-23T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Komisjoni töökava (23.03.09 – 29.03.09) kinnitamine ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "07c721ae-be47-b046-d0e2-33948d9ccfad"
+    },
+    {
+      "order": 2,
+      "title": " Euroopa Parlamendi ja nõukogu määruse, milles sätestatakse puitu ja sellest saadud tooteid turule viivate ettevõtjate kohustused, eelnõu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "839ecf9c-bb4b-dcb3-5376-b2dc8d42509c"
+    },
+    {
+      "order": 3,
+      "title": " Biotsiidiseaduse eelnõu (446 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "821e1757-0a15-9a47-aaff-a65c250a9c62"
+    },
+    {
+      "order": 4,
+      "title": " Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b033e88f-a82a-3955-a7b4-e2714434cd45"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 23.03.2009",
+      "uuid": "c2705f8a-ec1b-a78d-6458-a615dc041232",
+      "files": [
+        "prot105 23.03.09.doc"
+      ]
+    }
+  ],
+  "uuid": "5b8bc251-e204-3117-3509-34bbe646a276",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 5b8bc251-e204-3117-3509-34bbe646a276)",
+  "source": "https://api.riigikogu.ee/api/volumes/5b8bc251-e204-3117-3509-34bbe646a276",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-03-01&endDate=2009-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
