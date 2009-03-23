@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-03-23T14:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Seisukoha andmine: EL Nõukogu otsuse eelnõu, mis käsitleb elutähtsate infrastruktuuridega seotud teabe vahetuse infosüsteemi loomist CIWIN (COM(2008)676).",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8084ac23-d87d-0e77-b1af-53bab8ed968e"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad 30.-31. märtsil toimuval transpordi, telekommunikatsiooni ja energeetika nõukogu kohtumisel.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6cf9b6ae-7397-1348-a5ac-6acd11623305"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 23.03.2009",
+      "uuid": "9e7cb83c-a574-1dae-c577-51f1e177b8c0",
+      "files": [
+        "Euroopa Liidu asjade komisjon_paevakord_23_03_2009.odt",
+        "Euroopa Liidu asjade komisjon_istungi_protokoll_13_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "648f8a14-2375-70fd-0fb5-ebcfb16a39cd",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 648f8a14-2375-70fd-0fb5-ebcfb16a39cd)",
+  "source": "https://api.riigikogu.ee/api/volumes/648f8a14-2375-70fd-0fb5-ebcfb16a39cd",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-03-01&endDate=2009-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
