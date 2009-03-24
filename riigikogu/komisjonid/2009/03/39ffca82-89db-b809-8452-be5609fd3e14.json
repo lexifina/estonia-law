@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-03-24T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Euroopa Parlamendi valimise seaduse muutmise seadus [428 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4fcfc4fd-2b20-9ef9-d049-d3c72e52f55a"
+    },
+    {
+      "order": 2,
+      "title": "Isikuandmete kaitse seaduse muutmise seadus [430 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fcfb8e33-0742-c68b-7675-688b4dc35ff6"
+    },
+    {
+      "order": 3,
+      "title": "Riigikohtule arvamuse andmine maksukorralduse seaduse § 105 lg 5 ning rahandusministri 19.12.2008. a määruse nr 51 § 11 lg 1 ja 2  põhiseadusele vastavuse kohta",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7267f860-a808-f8cd-2b32-5fd943b37b18"
+    },
+    {
+      "order": 4,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ff78d0e0-5bef-7a60-66d3-5cb435f730c3"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 24.03.2009",
+      "uuid": "b778746e-62df-c95a-32b7-a560b8fdd4a1",
+      "files": [
+        "Põhiseaduskomisjon_istungi_protokoll_13_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "39ffca82-89db-b809-8452-be5609fd3e14",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 39ffca82-89db-b809-8452-be5609fd3e14)",
+  "source": "https://api.riigikogu.ee/api/volumes/39ffca82-89db-b809-8452-be5609fd3e14",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-03-01&endDate=2009-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
