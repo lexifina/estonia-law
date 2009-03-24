@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-03-24T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Istung toimub ruumis 333",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dc4549c7-2ff1-234f-8019-96ea841657ac"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse seaduse ja teiste seaduste muutmise seaduse seoses Politsei- ja Piirivalveameti loomisega [344 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "209b65a3-5f04-7477-b5b4-67af1a7bddeb"
+    },
+    {
+      "order": 3,
+      "title": "Politsei ja piirivalve seadus [343 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "78b74601-5f49-b077-00b7-c0d26cc774aa"
+    },
+    {
+      "order": 4,
+      "title": "Karistusseadustiku § 52² muutmise seadus [418 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9a969ae3-4d40-46c7-21a4-9594bdcc4bb6"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 24.03.2009",
+      "uuid": "b185f174-3c97-ebf3-f075-0ff7f5eea6ac",
+      "files": [
+        "iguskomisjon_istungi_protokoll_13_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "66572730-88e9-b494-389d-1a0c40d436d2",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 66572730-88e9-b494-389d-1a0c40d436d2)",
+  "source": "https://api.riigikogu.ee/api/volumes/66572730-88e9-b494-389d-1a0c40d436d2",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-03-01&endDate=2009-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
