@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-03-26T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väliskomisjoni traditsiooniline välispoliitika ümarlaud. ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c4092019-3994-b36c-20dc-d723afe2f0d5"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d437c5d7-0261-581b-e362-8ffd0e20be37"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 26.03.2009",
+      "uuid": "ea9a08d3-ed59-057c-eb81-90e614f2a34f",
+      "files": [
+        "Väliskomisjon_istungi_protokoll_13_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "f6942765-fb5b-7ae1-3825-14f1551c6cbd",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f6942765-fb5b-7ae1-3825-14f1551c6cbd)",
+  "source": "https://api.riigikogu.ee/api/volumes/f6942765-fb5b-7ae1-3825-14f1551c6cbd",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-03-01&endDate=2009-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
