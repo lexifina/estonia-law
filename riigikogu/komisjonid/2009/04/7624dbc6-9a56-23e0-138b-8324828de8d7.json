@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-04-06T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töönädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e0277cf5-8648-8440-31f1-d784a61b2a2b"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse seaduse ja teiste seaduste muutmise seaduse seoses Politsei- ja Piirivalveameti loomisega [344 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "09462497-9974-a84a-5d3c-9f5230ee4f1f"
+    },
+    {
+      "order": 3,
+      "title": "Politsei ja piirivalve seadus [343 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "030a5838-2b4d-1701-030a-a0100af6c425"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 06.04.2009",
+      "uuid": "d872a4dc-c037-5faa-a669-1f119db6779a",
+      "files": [
+        "iguskomisjon_istungi_protokoll_15_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "7624dbc6-9a56-23e0-138b-8324828de8d7",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7624dbc6-9a56-23e0-138b-8324828de8d7)",
+  "source": "https://api.riigikogu.ee/api/volumes/7624dbc6-9a56-23e0-138b-8324828de8d7",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-04-01&endDate=2009-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
