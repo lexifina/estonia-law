@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-04-06T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti inimarengu aruanne 2008 arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dbbdb1c8-2d0b-d88a-59df-96b57dabe3cf"
+    },
+    {
+      "order": 2,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1c22ab38-ecfd-a770-6419-8fa9f0c48d2a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 06.04.2009",
+      "uuid": "87f410d0-dba9-b10d-d664-44e4de9c8cdf",
+      "files": [
+        "Põhiseaduskomisjon_istungi_protokoll_15_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "7ff7bbb8-bf6a-a1a9-979c-9dcbe7cb77c8",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7ff7bbb8-bf6a-a1a9-979c-9dcbe7cb77c8)",
+  "source": "https://api.riigikogu.ee/api/volumes/7ff7bbb8-bf6a-a1a9-979c-9dcbe7cb77c8",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-04-01&endDate=2009-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
