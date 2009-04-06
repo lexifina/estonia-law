@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-04-06T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väliskomisjoni V istungjärgu 10. töönädala töökava kinnitamine.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9373b1e1-5803-dd1d-bccc-7e6a20f2babd"
+    },
+    {
+      "order": 2,
+      "title": "Väliskomisjoni ja keskkonnakomisjoni ühisistung Vene-Saksa gaasitrassi „Nord Stream“ keskkonnamõjudest ja Eesti seisukoha kujundamisest keskkonnamõjude hinnangule Espoo konventsiooni raames.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "de0dc24d-549a-12b3-66ac-9ba9930d1466"
+    },
+    {
+      "order": 3,
+      "title": "Informatsioon komisjoni liikmete tegevusest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5e1fb6dd-7cb1-b473-02e4-614ab8e4051e"
+    },
+    {
+      "order": 4,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "949bc8f2-c9d0-45f1-3b3d-a77dad2ee1b6"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 06.04.2009",
+      "uuid": "fcff7670-56c9-a092-6632-e6862e84b11a",
+      "files": [
+        "Väliskomisjon_istungi_protokoll_15_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "27b879f1-769d-f9d4-a3ba-1f0bd0cc3053",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 27b879f1-769d-f9d4-a3ba-1f0bd0cc3053)",
+  "source": "https://api.riigikogu.ee/api/volumes/27b879f1-769d-f9d4-a3ba-1f0bd0cc3053",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-04-01&endDate=2009-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
