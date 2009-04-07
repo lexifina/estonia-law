@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-04-07T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade Eesti-Vene suhetest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "78a67bc0-46e1-5702-b3d4-52aba4882d35"
+    },
+    {
+      "order": 2,
+      "title": "Väliskomisjoni ja riigikaitsekomisjoni väljasõiduistung Kaitseväe Peastaapi. Informatsioon Eesti kaitseväe üksuste osalemisest rahvusvahelistel missioonidel, sh Iraagis, Afganistanis, Kosovos ning Bosnias ja Hertsegoviinas.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "66b9b52a-b80d-2741-7f5b-6559c33b94e1"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "12fe174e-cea7-c384-b8f6-633e5416046e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 07.04.2009",
+      "uuid": "472440fa-e9e0-352b-147e-d168247ede57",
+      "files": [
+        "Väliskomisjon_istungi_protokoll_15_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "2319b708-2011-bbf8-2c18-9aa5a55c0ae1",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2319b708-2011-bbf8-2c18-9aa5a55c0ae1)",
+  "source": "https://api.riigikogu.ee/api/volumes/2319b708-2011-bbf8-2c18-9aa5a55c0ae1",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-04-01&endDate=2009-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
