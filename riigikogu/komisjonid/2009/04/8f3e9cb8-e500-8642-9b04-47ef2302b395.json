@@ -1,0 +1,34 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-04-09T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": ". Ülevaade majanduse hetkeolukorrast. Kutsutud rahandusminister Ivari Padar ja Rahandusministeeriumi kantsler Tea Varrak",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "68dfd351-d0f4-08c6-2812-c65f8a34716e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 09.04.2009",
+      "uuid": "fc0b1e93-6440-90b9-e379-8472af557a4b",
+      "files": [
+        "protokoll 64 09 04 2009.doc",
+        "Riigieelarve kontrolli erikomisjon_paevakord_09_04_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "8f3e9cb8-e500-8642-9b04-47ef2302b395",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8f3e9cb8-e500-8642-9b04-47ef2302b395)",
+  "source": "https://api.riigikogu.ee/api/volumes/8f3e9cb8-e500-8642-9b04-47ef2302b395",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-04-01&endDate=2009-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
