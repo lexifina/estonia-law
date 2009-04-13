@@ -1,0 +1,57 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-04-13T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töönädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b6c1a006-b6ce-b4b3-048c-c8cfb937071d"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse seaduse ja teiste seaduste muutmise seaduse seoses Politsei- ja Piirivalveameti loomisega [344 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "25d544c9-1220-fc4c-3e57-8d575a280f78"
+    },
+    {
+      "order": 3,
+      "title": "Politsei ja piirivalve seadus [343 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "93838061-68a6-0aa8-77fa-60c459a25b37"
+    },
+    {
+      "order": 4,
+      "title": "Arvamus Riigikohtule",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c92bd1e6-b371-e81b-5925-20b92ed55533"
+    },
+    {
+      "order": 5,
+      "title": "Arvamus ELAK-le",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6d868c40-b0a5-88a6-b915-94337d650e09"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 13.04.2009",
+      "uuid": "982964c2-e5da-364d-3257-da1760ee2198",
+      "files": [
+        "iguskomisjon_istungi_protokoll_16_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "06c6183c-d3e1-bc7e-034f-2eee7c750161",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 06c6183c-d3e1-bc7e-034f-2eee7c750161)",
+  "source": "https://api.riigikogu.ee/api/volumes/06c6183c-d3e1-bc7e-034f-2eee7c750161",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-04-01&endDate=2009-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
