@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-04-13T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Komisjoni töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b74d1a61-fd54-ac08-e200-c0dff63e301c"
+    },
+    {
+      "order": 2,
+      "title": "Riigivaraseaduse täiendamise seadus [436 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a0256cf7-ccb6-3e1a-b09a-fef750dd9de5"
+    },
+    {
+      "order": 3,
+      "title": "Keskkonnatasude seaduse ja kalapüügiseaduse muutmise seadus [441 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ef1c329d-26dd-9c0b-d65e-d0efd422fb00"
+    },
+    {
+      "order": 4,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f1649dca-b1b0-e519-6e5c-83125ef45bda"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 13.04.2009",
+      "uuid": "f442fa5e-bd86-2215-093d-e329e2d7def0",
+      "files": [
+        "prot109 13.04.09.doc"
+      ]
+    }
+  ],
+  "uuid": "b5ac8a46-8ab7-9a2d-e30e-747bb81946c8",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b5ac8a46-8ab7-9a2d-e30e-747bb81946c8)",
+  "source": "https://api.riigikogu.ee/api/volumes/b5ac8a46-8ab7-9a2d-e30e-747bb81946c8",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-04-01&endDate=2009-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
