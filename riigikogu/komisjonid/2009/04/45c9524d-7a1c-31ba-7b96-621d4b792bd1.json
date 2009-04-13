@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-04-13T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f300b135-d3bc-9d46-a9dd-c4539a26c0b3"
+    },
+    {
+      "order": 2,
+      "title": "RK õigus- ja analüüsiosakonna uuringu \"Piima kokkuostu korraldamine EL riikides\" tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d1d3f085-2137-0244-d346-cda9faf2f34f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 13.04.2009",
+      "uuid": "96727cf1-fccc-89e8-1faa-8d8de81ddb4d",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_16_2009.odt",
+        "Maaelukomisjon_paevakord_13_04_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "45c9524d-7a1c-31ba-7b96-621d4b792bd1",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 45c9524d-7a1c-31ba-7b96-621d4b792bd1)",
+  "source": "https://api.riigikogu.ee/api/volumes/45c9524d-7a1c-31ba-7b96-621d4b792bd1",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-04-01&endDate=2009-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
