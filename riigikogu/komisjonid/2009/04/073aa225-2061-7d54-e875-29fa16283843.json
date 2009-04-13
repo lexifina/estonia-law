@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-04-13T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikogu kodu- ja töökorra seaduse muutmise seadus [453 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b2495158-fa36-89e6-7298-0bf606de8f60"
+    },
+    {
+      "order": 2,
+      "title": "ELAK'le arvamuse andmine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "07d3e4bd-a492-5d81-3565-1490324d7717"
+    },
+    {
+      "order": 3,
+      "title": "Euroopa Parlamendi valimise seaduse muutmise seadus [428 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a05dc725-8096-67e3-ef43-0811ca4af59a"
+    },
+    {
+      "order": 4,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a9d3f99d-4b8f-7b41-41bb-2ed06ad66cd1"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 13.04.2009",
+      "uuid": "2a0d8786-5ecb-16f8-3e99-8ca61b023cff",
+      "files": [
+        "Põhiseaduskomisjon_istungi_protokoll_16_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "073aa225-2061-7d54-e875-29fa16283843",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 073aa225-2061-7d54-e875-29fa16283843)",
+  "source": "https://api.riigikogu.ee/api/volumes/073aa225-2061-7d54-e875-29fa16283843",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-04-01&endDate=2009-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
