@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-04-14T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Parlamentaarne järelevalve: narkootiliste ja psühhotroopsete ainete seaduse kohaldamispraktika",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "83e4b354-922e-ef0b-386b-3eebbe0c3bb2"
+    },
+    {
+      "order": 2,
+      "title": "Notariaadiseaduse ja sellega seonduvate seaduste muutmise seadus [411 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2a61eab6-2012-a492-7241-6def04717810"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 14.04.2009",
+      "uuid": "0401f748-a6eb-8fa9-9fcf-15707aa3004a",
+      "files": [
+        "iguskomisjon_istungi_protokoll_16_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "9daf3a9d-6959-0ef3-2563-53392144807a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9daf3a9d-6959-0ef3-2563-53392144807a)",
+  "source": "https://api.riigikogu.ee/api/volumes/9daf3a9d-6959-0ef3-2563-53392144807a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-04-01&endDate=2009-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
