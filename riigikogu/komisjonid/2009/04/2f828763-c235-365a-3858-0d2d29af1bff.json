@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-04-14T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti prioriteedid Ühinenud Rahvaste Organisatsioonis.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2f69c047-cc24-2196-ef12-c4dd204ff994"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade Riigikogu ja Riigikogu Kantselei välissuhtlemise 2009. aasta eelarve hetkeseisust.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "55a60217-3583-d9dd-522f-834258289059"
+    },
+    {
+      "order": 3,
+      "title": "Informatsioon komisjoni liikmete tegevusest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0fafe5c3-9f48-0b4d-34b3-1329cc287a92"
+    },
+    {
+      "order": 4,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "83ddf8af-9b6a-54fd-df78-9ef7ab141296"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 14.04.2009",
+      "uuid": "b34299eb-15d5-990d-a87d-ad36f350a424",
+      "files": [
+        "14.04.09 (166) protokoll.doc"
+      ]
+    }
+  ],
+  "uuid": "2f828763-c235-365a-3858-0d2d29af1bff",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2f828763-c235-365a-3858-0d2d29af1bff)",
+  "source": "https://api.riigikogu.ee/api/volumes/2f828763-c235-365a-3858-0d2d29af1bff",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-04-01&endDate=2009-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
