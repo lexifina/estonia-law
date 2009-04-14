@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-04-14T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikaitsekomisjoni töönädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ce9ff4bb-ada8-f298-7d26-8871615f8c80"
+    },
+    {
+      "order": 2,
+      "title": "Hädaolukorra seaduse 447 SE I eelnõu ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4f60668c-aec2-69a4-8c37-3c04d113319a"
+    },
+    {
+      "order": 3,
+      "title": "Erakorralise seisukorra seaduse eelnõu ja kriminaalmenetluse seadustiku muutmise seaduse  448 SE I eelnõu ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "496ae438-3428-b043-8e40-e96c903cbbf4"
+    },
+    {
+      "order": 4,
+      "title": "Informatsioon Prahas toimunud EL liiklmesriikide parlamentide kaitsekomisjoni esimeeste konverentsist \"Euroopa julgeoleku tänased väljakutsed\" ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c6a7f6ff-8c4e-b923-bfd6-852e29f81716"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 14.04.2009",
+      "uuid": "e3546450-27eb-ccfe-2ae0-1612c408ffab",
+      "files": [
+        "14.04.09.doc"
+      ]
+    }
+  ],
+  "uuid": "6526a380-fe69-1b1e-3869-6dceb95192ad",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 6526a380-fe69-1b1e-3869-6dceb95192ad)",
+  "source": "https://api.riigikogu.ee/api/volumes/6526a380-fe69-1b1e-3869-6dceb95192ad",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-04-01&endDate=2009-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
