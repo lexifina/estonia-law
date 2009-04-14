@@ -1,0 +1,33 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-04-14T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Toidu käitlemine ja toiduohutus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "69cdc6cf-6dfb-4fea-87cb-76c7c48633b8"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 14.04.2009",
+      "uuid": "7d014f5c-fc44-957d-d38e-7272974b02e3",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_16_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "f56db43d-14a0-95ea-f99f-3e60109582e3",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f56db43d-14a0-95ea-f99f-3e60109582e3)",
+  "source": "https://api.riigikogu.ee/api/volumes/f56db43d-14a0-95ea-f99f-3e60109582e3",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-04-01&endDate=2009-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
