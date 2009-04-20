@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-04-20T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7b4d97cd-4b17-641d-34ee-5dba881961bb"
+    },
+    {
+      "order": 2,
+      "title": "Riiklike õppekavade ja riigieksamite sätted eelnõus 412SE - laiendatud arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "131f8fab-8352-3274-af03-daa1d527cae5"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 20.04.2009",
+      "uuid": "451e6e56-faa2-4e24-780a-79c625644c62",
+      "files": [
+        "Kultuurikomisjon_istungi_protokoll_17_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "85a2d53b-de0d-2741-1b2f-b5287e426de0",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 85a2d53b-de0d-2741-1b2f-b5287e426de0)",
+  "source": "https://api.riigikogu.ee/api/volumes/85a2d53b-de0d-2741-1b2f-b5287e426de0",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-04-01&endDate=2009-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
