@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-04-20T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töönädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "68f77fc4-da6c-e4f1-5ce7-1302274f4183"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse seaduse ja teiste seaduste muutmise seadus seoses Politsei- ja Piirivalveameti loomisega [344 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4cc08ea8-927e-4f9d-d278-ecef2b1a7b2f"
+    },
+    {
+      "order": 3,
+      "title": "Politsei ja piirivalve seadus [343 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1c89afcb-c599-2748-6045-0107f447abe5"
+    },
+    {
+      "order": 4,
+      "title": "Karistusseadustiku muutmise eelnõu algatamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a17e21a8-e382-7adf-2fa1-76088c5eb566"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 20.04.2009",
+      "uuid": "bf81df04-864c-d7ce-d07f-62592bf6feb8",
+      "files": [
+        "iguskomisjon_istungi_protokoll_17_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "81858b94-e24f-5a29-8fb4-b050ccb6ddfe",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 81858b94-e24f-5a29-8fb4-b050ccb6ddfe)",
+  "source": "https://api.riigikogu.ee/api/volumes/81858b94-e24f-5a29-8fb4-b050ccb6ddfe",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-04-01&endDate=2009-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
