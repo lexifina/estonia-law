@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-04-20T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti Panga ülevaade majanduse olukorrast ja kevadprognoosist.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c161a46b-fc49-f70c-6d3b-ce51a35f5f9a"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu otsus \"Euroopa Nõukogu Arengupanga ning Krediidi ja Ekspordi Garanteerimise Sihtasutuse KredEx vahelisele laenule riigigarantii andmise kohta\" [469 OE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a3388794-cd59-3910-5744-9607533bd3a1"
+    },
+    {
+      "order": 3,
+      "title": "Maamaksuseaduse muutmise seadus [459 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "11f017b8-b147-c541-3dd9-c7032585971e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 20.04.2009",
+      "uuid": "4fb441ea-3e22-d0e8-2820-6089dac87229",
+      "files": [
+        "Rahanduskomisjon_istungi_protokoll_17_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "606daeb3-ec62-3f97-3166-3bc26600d42e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 606daeb3-ec62-3f97-3166-3bc26600d42e)",
+  "source": "https://api.riigikogu.ee/api/volumes/606daeb3-ec62-3f97-3166-3bc26600d42e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-04-01&endDate=2009-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
