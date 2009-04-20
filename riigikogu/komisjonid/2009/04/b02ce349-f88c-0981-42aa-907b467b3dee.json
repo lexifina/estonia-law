@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-04-20T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Euroopa Parlamendi valimise seaduse muutmise seadus [428 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d38a3099-dd7e-5a61-a6d9-ed8014bb2d7d"
+    },
+    {
+      "order": 2,
+      "title": "ELAK-le arvamuse andmine Schengeni lepingu rakendamise konventsiooni muutmist käsitlevate Euroopa Liidu õigusaktide eelnõude kohta",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dd9357fa-c7d6-883d-9885-4a490f1edf47"
+    },
+    {
+      "order": 3,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1814058e-503c-4620-70ed-dea5fe903ce8"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 20.04.2009",
+      "uuid": "1b87a609-e3d3-09f3-ea89-5dc44cff0899",
+      "files": [
+        "Põhiseaduskomisjon_istungi_protokoll_17_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "b02ce349-f88c-0981-42aa-907b467b3dee",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b02ce349-f88c-0981-42aa-907b467b3dee)",
+  "source": "https://api.riigikogu.ee/api/volumes/b02ce349-f88c-0981-42aa-907b467b3dee",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-04-01&endDate=2009-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
