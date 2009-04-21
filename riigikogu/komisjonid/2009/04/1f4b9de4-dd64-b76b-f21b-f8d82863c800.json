@@ -1,0 +1,33 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-04-21T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väljasõiduistung Maa-ametis",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0440248a-4af6-e65a-535f-6516ea52a802"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 21.04.2009",
+      "uuid": "f1e1f5e2-0c68-5fa2-c6f9-142135a12174",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_17_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "1f4b9de4-dd64-b76b-f21b-f8d82863c800",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 1f4b9de4-dd64-b76b-f21b-f8d82863c800)",
+  "source": "https://api.riigikogu.ee/api/volumes/1f4b9de4-dd64-b76b-f21b-f8d82863c800",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-04-01&endDate=2009-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
