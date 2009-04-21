@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-04-21T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Õiguskantsler tutvustab oma seisukohti eelnõu 412 SE kohta",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "991d4d6f-825d-24c1-1612-abe1f7f7f96f"
+    },
+    {
+      "order": 2,
+      "title": "Arutelu koolitervishoiureformist, koolitervishoiu sätted eelnõus 412 SE",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "32dda559-6fa4-95cc-ba2d-91c1c479ddc1"
+    },
+    {
+      "order": 3,
+      "title": "Info ja kirjad",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4e664058-a024-77ec-e66c-00f93eb3b710"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 21.04.2009",
+      "uuid": "4885e1a8-4a95-6a81-6982-0db430d1562c",
+      "files": [
+        "Kultuurikomisjon_istungi_protokoll_17_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "cb3f672b-649a-92c1-73ab-2e7f58ca281c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid cb3f672b-649a-92c1-73ab-2e7f58ca281c)",
+  "source": "https://api.riigikogu.ee/api/volumes/cb3f672b-649a-92c1-73ab-2e7f58ca281c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-04-01&endDate=2009-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
