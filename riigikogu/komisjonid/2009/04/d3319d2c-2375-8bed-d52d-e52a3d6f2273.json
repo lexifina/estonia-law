@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-04-21T11:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Karistusseadustiku muutmise seadus [467 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "14366060-4cde-6c6b-3329-277c95783a77"
+    },
+    {
+      "order": 2,
+      "title": "Karistusseadustiku, kriminaalmenetluse seadustiku ja konkurentsiseaduse muutmise seadus [438 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "efe284f5-4d75-433f-fa1e-094989e9e702"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 21.04.2009",
+      "uuid": "a73e4e9a-ebf2-99d7-00b1-c6bd9e36695e",
+      "files": [
+        "iguskomisjon_istungi_protokoll_17_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "d3319d2c-2375-8bed-d52d-e52a3d6f2273",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d3319d2c-2375-8bed-d52d-e52a3d6f2273)",
+  "source": "https://api.riigikogu.ee/api/volumes/d3319d2c-2375-8bed-d52d-e52a3d6f2273",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-04-01&endDate=2009-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
