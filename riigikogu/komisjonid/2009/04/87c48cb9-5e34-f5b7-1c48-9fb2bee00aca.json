@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-04-24T09:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ühisistung ELAKiga - Eesti seisukohad 27.-28. aprillil 2009 toimuval üldasjade ja välissuhete nõukogu istungil.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "aac98efb-fe71-b5e1-ff4b-cefd241f6e70"
+    },
+    {
+      "order": 2,
+      "title": "Ühisistung ELAKiga -\tEesti esindatus Euroopa Liidus, arutelu jätkamine.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "60cb33f5-3145-e473-4748-a2d3464605ec"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "40b71b3a-eff1-1819-9d8f-70399b47a887"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 24.04.2009",
+      "uuid": "4de8933e-b2b0-9cfe-71f7-906744cfe2f6",
+      "files": [
+        "Väliskomisjon_istungi_protokoll_17_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "87c48cb9-5e34-f5b7-1c48-9fb2bee00aca",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 87c48cb9-5e34-f5b7-1c48-9fb2bee00aca)",
+  "source": "https://api.riigikogu.ee/api/volumes/87c48cb9-5e34-f5b7-1c48-9fb2bee00aca",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-04-01&endDate=2009-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
