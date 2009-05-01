@@ -16,7 +16,7 @@
 
 (4) Vabariigi Valimiskomisjon kehtestab oma määrusega:
 
-2) kandidaatide registreerimise avalduse vormi, kandidaatide ringkonnanimekirja vormi, kandidaatide ülevallalise või -linnalise nimekirja vormi, kandideerimisavalduse vormi ja kandidaadi ankeedi vormi;
+2) ;
 
 4) ;
 
