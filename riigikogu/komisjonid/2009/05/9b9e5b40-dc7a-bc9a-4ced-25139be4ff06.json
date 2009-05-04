@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-05-04T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "ELAK-le arvamuse andmine Schengeni acquis’ kohaldamise kontrollimise hindamismehhanisme käsitlevate Euroopa Liidu õigusaktide eelnõude kohta",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7f01e98b-b76b-2485-3fde-1340da9c63ed"
+    },
+    {
+      "order": 2,
+      "title": "Erakonnaseaduse muutmise seaduse eelnõu algatamise arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9ff0397b-1724-67f1-a2b9-f1729236a36b"
+    },
+    {
+      "order": 3,
+      "title": "Eesti inimarengu aruanne 2008 arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4ac54d62-9634-65a0-14f1-db87f268c5ad"
+    },
+    {
+      "order": 4,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ad345359-d501-2997-185d-b9baf81c2905"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 04.05.2009",
+      "uuid": "ea335b55-0446-ce37-8d30-db45dd33e1a9",
+      "files": [
+        "Põhiseaduskomisjon_istungi_protokoll_19_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "9b9e5b40-dc7a-bc9a-4ced-25139be4ff06",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9b9e5b40-dc7a-bc9a-4ced-25139be4ff06)",
+  "source": "https://api.riigikogu.ee/api/volumes/9b9e5b40-dc7a-bc9a-4ced-25139be4ff06",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-05-01&endDate=2009-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
