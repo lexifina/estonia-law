@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-05-04T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Komisjoni töökava (04.05.09 –10.05.09) kinnitamine ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e52b6506-904f-914e-51b0-30a52114a826"
+    },
+    {
+      "order": 2,
+      "title": "Biotsiidiseadus [446 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "86750ce2-d662-847a-5190-bb31175fcef1"
+    },
+    {
+      "order": 3,
+      "title": "Jahiseaduse ja halduskoostöö seaduse muutmise seadus [458 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b63b7d1f-a34b-f081-313d-3c0a500b3bdd"
+    },
+    {
+      "order": 4,
+      "title": "Organisatsioonilised küsimused ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "af2c60f0-8cc9-0e97-6d1b-7278548321c4"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 04.05.2009",
+      "uuid": "523c1ea2-752e-03bb-77fb-4506fefed5b2",
+      "files": [
+        "prot111 04.05.09.doc"
+      ]
+    }
+  ],
+  "uuid": "3c5ebc34-9948-6cee-f8eb-f9e89dfbb772",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3c5ebc34-9948-6cee-f8eb-f9e89dfbb772)",
+  "source": "https://api.riigikogu.ee/api/volumes/3c5ebc34-9948-6cee-f8eb-f9e89dfbb772",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-05-01&endDate=2009-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
