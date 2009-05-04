@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-05-04T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kogumispensionide seaduse ja sotsiaalmaksuseaduse muutmise seadus [476 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2ede3c06-b393-092a-caa9-587cba4ebd9b"
+    },
+    {
+      "order": 2,
+      "title": "2009. aasta riigieelarve seaduse § 3 muutmise seadus [449 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3da27adf-6f9c-49dd-b7b4-4c5c032db87e"
+    },
+    {
+      "order": 3,
+      "title": "Riigikogu otsus \"Euroopa Nõukogu Arengupanga ning Krediidi ja Ekspordi Garanteerimise Sihtasutuse KredEx vahelisele laenule riigigarantii andmise kohta\" [469 OE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f1c0ec2f-0ed0-20bf-f7ac-0033a9cb5325"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 04.05.2009",
+      "uuid": "b524f9fa-2baf-5373-3155-b1bf105134f3",
+      "files": [
+        "Rahanduskomisjon_istungi_protokoll_19_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "bc8fedb1-572c-416b-4f16-846097e4e740",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid bc8fedb1-572c-416b-4f16-846097e4e740)",
+  "source": "https://api.riigikogu.ee/api/volumes/bc8fedb1-572c-416b-4f16-846097e4e740",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-05-01&endDate=2009-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
