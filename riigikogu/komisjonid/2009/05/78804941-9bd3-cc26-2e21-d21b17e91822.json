@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-05-04T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikontrolli auditi „Kultuuripärandi digiteerimine, digitaalsena kättesaadavuse ja säilimise tagamine ” arutelu ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "108f075c-0c7a-c475-ebce-1011b2fe8425"
+    },
+    {
+      "order": 2,
+      "title": "Informatsioon",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8404325f-c2a6-bc25-24e7-43d7f6b1aeee"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 04.05.2009",
+      "uuid": "2ecac150-0f9f-a064-84d3-b2c63d91c04d",
+      "files": [
+        "Riigieelarve kontrolli erikomisjon_paevakord_04_05_2009.odt",
+        "protokoll 67 04 05 2009.doc"
+      ]
+    }
+  ],
+  "uuid": "78804941-9bd3-cc26-2e21-d21b17e91822",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 78804941-9bd3-cc26-2e21-d21b17e91822)",
+  "source": "https://api.riigikogu.ee/api/volumes/78804941-9bd3-cc26-2e21-d21b17e91822",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-05-01&endDate=2009-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
