@@ -1,0 +1,34 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-05-04T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Sotsiaalhoolekande seaduse muutmise seaduse eelnõu algatamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "16264a83-cc99-17eb-be4f-df4b1416f8f8"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 04.05.2009",
+      "uuid": "f069975a-0b81-c3b1-d902-539295ac94ef",
+      "files": [
+        "Sotsiaalkomisjon_istungi_protokoll_19_2009.odt",
+        "Sotsiaalkomisjon_paevakord_04_05_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "e7bd0c35-10a8-a94e-1323-c4c67faa5c2b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e7bd0c35-10a8-a94e-1323-c4c67faa5c2b)",
+  "source": "https://api.riigikogu.ee/api/volumes/e7bd0c35-10a8-a94e-1323-c4c67faa5c2b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-05-01&endDate=2009-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
