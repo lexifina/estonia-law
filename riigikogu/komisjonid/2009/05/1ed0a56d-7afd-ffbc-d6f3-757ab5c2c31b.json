@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-05-05T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Jahiseaduse ja halduskoostöö seaduse muutmise seadus [458 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7ba72624-6f93-2b75-6a74-76001ec09aeb"
+    },
+    {
+      "order": 2,
+      "title": "Maareformi seaduse § 23³ muutmise seadus [472 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bd3e0a23-e3a3-c064-bef3-38a0b72991de"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 05.05.2009",
+      "uuid": "dee31c89-42bc-c665-eaf6-3f7b1bf3855c",
+      "files": [
+        "prot112 05.05.09.doc"
+      ]
+    }
+  ],
+  "uuid": "1ed0a56d-7afd-ffbc-d6f3-757ab5c2c31b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 1ed0a56d-7afd-ffbc-d6f3-757ab5c2c31b)",
+  "source": "https://api.riigikogu.ee/api/volumes/1ed0a56d-7afd-ffbc-d6f3-757ab5c2c31b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-05-01&endDate=2009-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
