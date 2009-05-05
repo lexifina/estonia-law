@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-05-05T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Planeerimisseaduse muutmise ja sellest tulenevalt teiste seaduste muutmise seadus [410 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e1108e8d-a190-eeda-300d-ecf7ef6b3f6f"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu otsuse eelnõu algatamine Arengufondi  nõukogu liikme nimetamiseks (482 OE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "13327918-bfbb-66a0-259b-07bc5f3404cf"
+    },
+    {
+      "order": 3,
+      "title": "Riigivaraseaduse §-de 27 ja 34 muutmise seadus [329 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3a0957af-c394-25de-47b5-7bd83490dddd"
+    },
+    {
+      "order": 4,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0a5aac66-5721-82ec-5df7-d0f6754d603c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 05.05.2009",
+      "uuid": "c4adc514-901e-5841-6af5-9afbf3bad0dc",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_19_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "f3c6eac0-192c-ca17-13d3-924383e7e531",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f3c6eac0-192c-ca17-13d3-924383e7e531)",
+  "source": "https://api.riigikogu.ee/api/volumes/f3c6eac0-192c-ca17-13d3-924383e7e531",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-05-01&endDate=2009-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
