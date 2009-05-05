@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-05-05T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Olukord Eesti piimandusturul. Kohtumine töötlejate esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bc2513ae-55e7-711f-7a3d-9f7dec86f4a2"
+    },
+    {
+      "order": 2,
+      "title": "Riigivaraseaduse täiendamise seaduse eelnõu algatamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "44e16389-08bc-ca93-162b-ebae177aa75d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 05.05.2009",
+      "uuid": "544f90b4-3e73-fc98-3dab-44419e3ecff4",
+      "files": [
+        "Maaelukomisjon_paevakord_05_05_2009.odt",
+        "Maaelukomisjon_istungi_protokoll_19_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "47196f16-50d4-d9c2-1a35-23bd280ce223",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 47196f16-50d4-d9c2-1a35-23bd280ce223)",
+  "source": "https://api.riigikogu.ee/api/volumes/47196f16-50d4-d9c2-1a35-23bd280ce223",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-05-01&endDate=2009-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
