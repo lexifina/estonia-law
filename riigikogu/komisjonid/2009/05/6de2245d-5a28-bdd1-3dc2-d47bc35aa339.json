@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-05-05T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kandidaat Eesti Vabariigi erakorralise ja täievolilise suursaadiku ametikohale Kreeka Vabariigis, Küprose Vabariigis ja Albaania Vabariigis resideerimisega Ateenas.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c9071ac2-f2c9-d9e1-92e1-8cc3bef6a712"
+    },
+    {
+      "order": 2,
+      "title": "Kandidaat Eesti Vabariigi erakorralise ja täievolilise suursaadiku ametikohale Poola Vabariigis ja Rumeenias resideerimisega Varssavis.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b9cb424a-2eb1-a567-eadc-38571c8e253b"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a2a91015-29ac-734b-39f1-f30d086c7b1d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 05.05.2009",
+      "uuid": "36036772-6102-c128-5913-b57bbb3c8789",
+      "files": [
+        "Väliskomisjon_istungi_protokoll_19_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "6de2245d-5a28-bdd1-3dc2-d47bc35aa339",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 6de2245d-5a28-bdd1-3dc2-d47bc35aa339)",
+  "source": "https://api.riigikogu.ee/api/volumes/6de2245d-5a28-bdd1-3dc2-d47bc35aa339",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-05-01&endDate=2009-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
