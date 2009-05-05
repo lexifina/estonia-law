@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-05-05T12:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Karistusseadustiku, kriminaalmenetluse seadustiku ja vangistusseaduse muutmise seadus [382 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c0304ff5-daa0-7208-0b7e-b8236722c235"
+    },
+    {
+      "order": 2,
+      "title": "Eelnõu 466 SE arutelu algab kell 14:00",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d1f4738b-2527-9b16-2b5d-5a258cf9bfe1"
+    },
+    {
+      "order": 3,
+      "title": "Äriseadustiku ja teiste seaduste muutmise seadus [466 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "610bdd70-f416-e72e-7082-2290b1911ece"
+    },
+    {
+      "order": 4,
+      "title": "Asjaõigusseaduse, lennundusseaduse ja tsiviilkohtumenetluse seadustiku muutmise ning sellega seonduvalt teiste seaduste muutmise seadus [456 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e48c8027-8bf7-15b0-2a48-d17c388f74d2"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 05.05.2009",
+      "uuid": "9d0aa70f-5d75-1eef-9d50-b60dd1957d37",
+      "files": [
+        "iguskomisjon_istungi_protokoll_19_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "dc019df7-420f-5e01-7c2c-5ad7d945815c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid dc019df7-420f-5e01-7c2c-5ad7d945815c)",
+  "source": "https://api.riigikogu.ee/api/volumes/dc019df7-420f-5e01-7c2c-5ad7d945815c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-05-01&endDate=2009-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
