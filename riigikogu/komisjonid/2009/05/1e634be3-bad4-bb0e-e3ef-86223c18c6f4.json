@@ -1,0 +1,33 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-05-07T11:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Veeteemaline väljasõiduistung",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "59118d22-da6f-875e-719c-66ac56a5067a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 07.05.2009",
+      "uuid": "138a2f9b-02c9-47eb-675f-738e1aa905d0",
+      "files": [
+        "prot113 07.05.09.doc"
+      ]
+    }
+  ],
+  "uuid": "1e634be3-bad4-bb0e-e3ef-86223c18c6f4",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 1e634be3-bad4-bb0e-e3ef-86223c18c6f4)",
+  "source": "https://api.riigikogu.ee/api/volumes/1e634be3-bad4-bb0e-e3ef-86223c18c6f4",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-05-01&endDate=2009-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
