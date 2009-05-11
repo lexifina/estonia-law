@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-05-11T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "584535ce-396a-8640-799b-356bda923932"
+    },
+    {
+      "order": 2,
+      "title": "Riigivaraseaduse täiendamise seaduse eelnõu (481 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d1b2f3cf-98bf-3bef-9ff6-f1cfd9f40092"
+    },
+    {
+      "order": 3,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cef4af9b-70ce-c234-f6c1-6856bc01417a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 11.05.2009",
+      "uuid": "11f9a139-dcd1-a489-b4e7-2a6b1e01e14a",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_20_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "ebe88332-2009-02f4-fbeb-d40a91904016",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ebe88332-2009-02f4-fbeb-d40a91904016)",
+  "source": "https://api.riigikogu.ee/api/volumes/ebe88332-2009-02f4-fbeb-d40a91904016",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-05-01&endDate=2009-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
