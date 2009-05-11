@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-05-11T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Komisjoni töökava (11.05.09 –17.05.09) kinnitamine ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1d7af906-61e6-179e-5e6d-4e647b0c1d86"
+    },
+    {
+      "order": 2,
+      "title": " Koigi Vallavolikogu taotlus Riigikohtu põhiseaduslikkuse järelevalve kolleegiumile maapõueseaduse § 20 lg 3 teise lause ja § 43 lg 2 kehtetuks tunnistamiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0145efda-1ff5-80dd-4eab-b8dee534d8f2"
+    },
+    {
+      "order": 3,
+      "title": "Jahiseaduse ja halduskoostöö seaduse muutmise seadus [458 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d042c678-0978-105a-3c97-868af59945fb"
+    },
+    {
+      "order": 4,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e55906ba-24f5-7e43-b559-ee4e9a92146f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 11.05.2009",
+      "uuid": "59dcb960-745e-06de-82de-7119f5016faa",
+      "files": [
+        "prot114 11.05.09.doc"
+      ]
+    }
+  ],
+  "uuid": "62529456-20f2-1317-c3d6-48ae9bd4c774",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 62529456-20f2-1317-c3d6-48ae9bd4c774)",
+  "source": "https://api.riigikogu.ee/api/volumes/62529456-20f2-1317-c3d6-48ae9bd4c774",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-05-01&endDate=2009-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
