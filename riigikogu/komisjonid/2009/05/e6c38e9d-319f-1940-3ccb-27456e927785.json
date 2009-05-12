@@ -1,0 +1,33 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-05-12T12:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kiirgusseaduse muutmise seadus [485 SE I]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b602a35e-24b1-72d0-fc60-163566dd9a26"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 12.05.2009",
+      "uuid": "53fc2006-0736-982b-ef72-338f14164e77",
+      "files": [
+        "prot115 12.05.09.doc"
+      ]
+    }
+  ],
+  "uuid": "e6c38e9d-319f-1940-3ccb-27456e927785",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e6c38e9d-319f-1940-3ccb-27456e927785)",
+  "source": "https://api.riigikogu.ee/api/volumes/e6c38e9d-319f-1940-3ccb-27456e927785",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-05-01&endDate=2009-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
