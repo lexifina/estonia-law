@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-05-12T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Innovatsiooniteemaline arutelu Eesti Infotehnoloogia ja Telekommunikatsiooni Liidu esindajatega ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d4825335-dcdc-e137-4724-205f4f9b647f"
+    },
+    {
+      "order": 2,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "462545a6-957e-d1ea-70f8-f948c88ae384"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 12.05.2009",
+      "uuid": "6848f032-8aa5-187c-f3b6-4e341ec8ca76",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_20_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "ef8ed747-b73a-5f6a-e20b-8073287550c0",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ef8ed747-b73a-5f6a-e20b-8073287550c0)",
+  "source": "https://api.riigikogu.ee/api/volumes/ef8ed747-b73a-5f6a-e20b-8073287550c0",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-05-01&endDate=2009-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
