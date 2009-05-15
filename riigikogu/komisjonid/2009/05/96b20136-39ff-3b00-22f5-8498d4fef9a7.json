@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-05-15T10:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 18.-19. mail 2009 toimuval üldasjade ja välissuhete nõukogu istungil, kus osalevad ka arengukoostöö- ja kaitseministrid.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7ec40ff9-c38e-a16a-e997-ebb7dff5aeb1"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7177d6d1-54fd-f249-af21-ba8f883ae05b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 15.05.2009",
+      "uuid": "11d22421-741a-0f60-169c-0dc371af58c7",
+      "files": [
+        "Väliskomisjon_istungi_protokoll_20_2009.odt",
+        "Väliskomisjon_paevakord_15_05_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "96b20136-39ff-3b00-22f5-8498d4fef9a7",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 96b20136-39ff-3b00-22f5-8498d4fef9a7)",
+  "source": "https://api.riigikogu.ee/api/volumes/96b20136-39ff-3b00-22f5-8498d4fef9a7",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-05-01&endDate=2009-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
