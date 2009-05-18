@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-05-18T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Sotsiaalhoolekande seaduse täiendamise seaduse eelnõu algatamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "98d64ff4-2ca6-b734-c19c-b09816269b92"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud tervishoiuteenuste korraldamise seaduse ja sellega seonduvalt teiste seaduste muutmise seaduse eelnõu (452 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "071497eb-9dfb-476a-f70e-98b638beb09a"
+    },
+    {
+      "order": 3,
+      "title": "Asendusemaduse probleemid",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d999c9a4-14f8-f91b-743f-26b19090cfe1"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 18.05.2009",
+      "uuid": "ea96b586-836c-8a25-01ef-79d74915694b",
+      "files": [
+        "Sotsiaalkomisjon_istungi_protokoll_21_2009.odt",
+        "Sotsiaalkomisjon_paevakord_18_05_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "9c34f791-9ef9-b9f5-5e14-9b2cfddf09c7",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9c34f791-9ef9-b9f5-5e14-9b2cfddf09c7)",
+  "source": "https://api.riigikogu.ee/api/volumes/9c34f791-9ef9-b9f5-5e14-9b2cfddf09c7",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-05-01&endDate=2009-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
