@@ -1,0 +1,57 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-05-18T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töönädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "df92cc8e-ab52-edd1-1bb6-d9eee9309adf"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud perekonnaseaduse eelnõu (55 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cd30e1ae-d868-2de6-dec4-881797a65080"
+    },
+    {
+      "order": 3,
+      "title": "Vabariigi Valitsuse algatatud perekonnaseisutoimingute seaduse eelnõu (68 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "54835e2f-ea9f-e50b-b5d6-1772b4564b29"
+    },
+    {
+      "order": 4,
+      "title": "Vabariigi Valitsuse algatatud asjaõigusseaduse, lennundusseaduse ja tsiviilkohtumenetluse seadustiku muutmise ning sellega seonduvalt teiste seaduste muutmise seaduse eelnõu (456 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "246e5780-aa96-14dd-f115-e6f0c01a5e5e"
+    },
+    {
+      "order": 5,
+      "title": "Vabariigi Valitsuse algatatud karistusseadustiku, kriminaalmenetluse seadustiku ja vangistusseaduse muutmise seaduse eelnõu (382 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e15dd313-50a2-8335-d405-90a6e6402f69"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 18.05.2009",
+      "uuid": "fab36cf9-6a3e-36c9-fab4-fbe6637797ea",
+      "files": [
+        "iguskomisjon_istungi_protokoll_21_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "d32a30b0-b2b6-e6fd-aee2-ecf111a28029",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d32a30b0-b2b6-e6fd-aee2-ecf111a28029)",
+  "source": "https://api.riigikogu.ee/api/volumes/d32a30b0-b2b6-e6fd-aee2-ecf111a28029",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-05-01&endDate=2009-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
