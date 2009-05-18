@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-05-18T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikaitsekomisjoni töönädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e841511a-d319-373d-f88a-8621d87d0456"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine Eesti Eruohvitseride Kogu esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "61318a15-5a4d-5d63-d173-f46c237156e2"
+    },
+    {
+      "order": 3,
+      "title": "Kell 12.00 Riigikaitsekomisjoni väljasõiduistung. Suurõppus Kevadtorm külastamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ff0bbf37-2d58-7ba9-bbb6-a5c3bbf8a7a3"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 18.05.2009",
+      "uuid": "5971b923-97c6-c13f-0b04-01b5854cfadc",
+      "files": [
+        "18.05.09.doc"
+      ]
+    }
+  ],
+  "uuid": "1d4206f2-fa23-f48e-6e39-f59d40dd17b5",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 1d4206f2-fa23-f48e-6e39-f59d40dd17b5)",
+  "source": "https://api.riigikogu.ee/api/volumes/1d4206f2-fa23-f48e-6e39-f59d40dd17b5",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-05-01&endDate=2009-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
