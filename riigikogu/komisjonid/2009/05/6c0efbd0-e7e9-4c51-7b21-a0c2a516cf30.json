@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-05-18T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Komisjoni töökava (18.05.09 –24.05.09) kinnitamine ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6d5d3f5e-e084-b16a-3138-0618a1576977"
+    },
+    {
+      "order": 2,
+      "title": "Keskkonnakomisjoni algatatud jahiseaduse ja halduskoostöö seaduse muutmise seaduse eelnõu (458 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0c0bc002-1bf1-abed-8328-c53004472f73"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 18.05.2009",
+      "uuid": "1f8a06a3-3254-cd4e-72cb-8680a9dad25e",
+      "files": [
+        "prot117 18.05.09.doc"
+      ]
+    }
+  ],
+  "uuid": "6c0efbd0-e7e9-4c51-7b21-a0c2a516cf30",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 6c0efbd0-e7e9-4c51-7b21-a0c2a516cf30)",
+  "source": "https://api.riigikogu.ee/api/volumes/6c0efbd0-e7e9-4c51-7b21-a0c2a516cf30",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-05-01&endDate=2009-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
