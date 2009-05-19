@@ -1,0 +1,33 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-05-19T12:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Eesti keskkonnaorganisatsioonide esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "df3b4068-b5b8-efec-c9d6-2bfc15b16414"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 19.05.2009",
+      "uuid": "870efd75-872f-a8ac-89ab-0841585f40b1",
+      "files": [
+        "prot118 19.05.09.doc"
+      ]
+    }
+  ],
+  "uuid": "fc394d32-d86d-13e8-c484-890b374dc6ee",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid fc394d32-d86d-13e8-c484-890b374dc6ee)",
+  "source": "https://api.riigikogu.ee/api/volumes/fc394d32-d86d-13e8-c484-890b374dc6ee",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-05-01&endDate=2009-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
