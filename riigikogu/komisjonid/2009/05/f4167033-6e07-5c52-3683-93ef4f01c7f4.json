@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-05-19T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud vabariigi Valitsuse seaduse, avaliku teenistuse seaduse ning riigiteenistujate ametinimetuste ja palgaastmestiku seaduse muutmise seaduse eelnõu (483 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ad2422d6-8414-a101-c143-c3a343a9a216"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud avaliku teenistuse seaduse eelnõu (484 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1fed0b13-8407-ef55-07a9-ff9c4a363785"
+    },
+    {
+      "order": 3,
+      "title": "Vabariigi Valitsuse algatatud korruptsioonivastane seaduse eelnõu (494 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "61fb6688-5a9e-3fee-82fb-36d0f7bd4d9e"
+    },
+    {
+      "order": 4,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "722144d5-a27d-fd15-8ef8-d232b09f4dda"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 19.05.2009",
+      "uuid": "e45337ce-769d-189d-bd10-d9b183a5cb0e",
+      "files": [
+        "Põhiseaduskomisjon_istungi_protokoll_21_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "f4167033-6e07-5c52-3683-93ef4f01c7f4",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f4167033-6e07-5c52-3683-93ef4f01c7f4)",
+  "source": "https://api.riigikogu.ee/api/volumes/f4167033-6e07-5c52-3683-93ef4f01c7f4",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-05-01&endDate=2009-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
