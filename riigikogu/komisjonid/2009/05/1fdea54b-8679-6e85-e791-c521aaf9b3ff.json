@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-05-19T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Laskeväljaõppe ja -spordi arendamine. Ruum L241. Kutsutud kaitseminister, haridus- ja teadusminister,Kaitseliidu ülem ning Eesti Laskurliidu tegevdirektor",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "942d848e-2754-7bb7-514a-e0f86a6ecfd3"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse esitatud Riigikogu otsus \"Eesti kaitseväe kasutamine Afganistani presidendivalimiste julgestamisel\" (496 OE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "506da510-b613-a9ec-17ab-4c4f2b068d40"
+    },
+    {
+      "order": 3,
+      "title": "Vabariigi Valitsuse esitatud Riigikogu otsus \"Eesti Kaitseväe kasutamine Eesti riigi rahvusvaheliste kohustuste täitmisel NATO reageerimisjõudude 13. rotatsiooni koosseisus\" (495 OE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3cb4e0d8-7b63-95ee-f2ec-dd10027a6264"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 19.05.2009",
+      "uuid": "c65d4ce6-c3c1-a2cd-96db-f736860aaa67",
+      "files": [
+        "19.05.09.doc"
+      ]
+    }
+  ],
+  "uuid": "1fdea54b-8679-6e85-e791-c521aaf9b3ff",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 1fdea54b-8679-6e85-e791-c521aaf9b3ff)",
+  "source": "https://api.riigikogu.ee/api/volumes/1fdea54b-8679-6e85-e791-c521aaf9b3ff",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-05-01&endDate=2009-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
