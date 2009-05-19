@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-05-19T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väljasõiduistung Aravetel. Tutvumine Aravete Agro uue robotlüpsilaudaga ja kohtumine Eesti Põllumeeste Keskliidu esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b9777a47-72a7-cd2d-538a-2837e68de2a3"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud taimede paljundamise ja sordikaitse seaduse, riigilõivuseaduse ning taimekaitseseaduse muutmise seaduse eelnõu (500 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b7899b15-a49c-548e-4f26-03d4fd9851d3"
+    },
+    {
+      "order": 3,
+      "title": "Maaelukomisjoni algatatud riigivaraseaduse täiendamise seaduse eelnõu (481 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "da66db56-cb2c-74e4-40f7-674169f67bc5"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 19.05.2009",
+      "uuid": "dcc89d7c-2aa0-758d-7784-4546ea269bb2",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_21_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "ef12e7f7-f132-5d26-86bd-714a3b372ca8",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ef12e7f7-f132-5d26-86bd-714a3b372ca8)",
+  "source": "https://api.riigikogu.ee/api/volumes/ef12e7f7-f132-5d26-86bd-714a3b372ca8",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-05-01&endDate=2009-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
