@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-05-19T10:45:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud karistusseadustiku muutmise seaduse eelnõu (416 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "84ddea4b-357f-6195-6539-a80fd312380a"
+    },
+    {
+      "order": 2,
+      "title": "Arvamuse andmine põhiseaduskomisjonile",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9fb61191-4fda-2b61-78f3-b3de6fa573f0"
+    },
+    {
+      "order": 3,
+      "title": "Arvamuse andmine Riigikohtule",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d41298bf-0c03-f1f6-f219-576d1c5f967d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 19.05.2009",
+      "uuid": "2dd9067e-690c-eae4-b507-d836c19e4e2e",
+      "files": [
+        "iguskomisjon_istungi_protokoll_21_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "2fd95ddc-d4b2-c813-df77-19782589c707",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2fd95ddc-d4b2-c813-df77-19782589c707)",
+  "source": "https://api.riigikogu.ee/api/volumes/2fd95ddc-d4b2-c813-df77-19782589c707",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-05-01&endDate=2009-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
