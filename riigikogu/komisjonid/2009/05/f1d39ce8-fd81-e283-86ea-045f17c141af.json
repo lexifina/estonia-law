@@ -1,0 +1,57 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-05-21T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Arvamuse andmine Riigikohtule",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a17f742c-e342-209f-ef37-103f42a7a38c"
+    },
+    {
+      "order": 2,
+      "title": "Arvamuse andmine põhiseaduskomisjonile",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f3c8859a-c069-7f58-7e24-cbfa9119f5f6"
+    },
+    {
+      "order": 3,
+      "title": "Arvamuse andmine Juristide Liidu kirjale",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5903347b-5a01-b87b-ea0f-b1ae5aa8dfdf"
+    },
+    {
+      "order": 4,
+      "title": "Vabariigi Valitsuse algatatud kriminaalmenetluse seadustiku ja teiste seaduste muutmise seaduse eelnõu (286 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "43adb66f-a065-2496-93ff-c59d27e3fc2f"
+    },
+    {
+      "order": 5,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b970fbd3-8a2e-68cc-1031-a78d556032c8"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 21.05.2009",
+      "uuid": "5535725f-5b0c-60c3-eeed-22dfebdc1106",
+      "files": [
+        "iguskomisjon_istungi_protokoll_21_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "f1d39ce8-fd81-e283-86ea-045f17c141af",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f1d39ce8-fd81-e283-86ea-045f17c141af)",
+  "source": "https://api.riigikogu.ee/api/volumes/f1d39ce8-fd81-e283-86ea-045f17c141af",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-05-01&endDate=2009-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
