@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-05-27T11:00:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud riigi 2009. aasta teise lisaeelarve seaduse eelnõu (510 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4631d2ed-26f8-5cb6-8c7a-25d9b5009e9b"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud riigi 2009. aasta teise lisaeelarve seadusega seonduvalt teiste seaduste muutmise seaduse eelnõu (511 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "55d70ea1-c250-c5d0-09dd-fda40a04cab8"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 27.05.2009",
+      "uuid": "04220546-9ed1-e856-0016-0207683dfba0",
+      "files": [
+        "Rahanduskomisjon_istungi_protokoll_22_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "84856047-2353-c794-b8d2-7deab2ff6393",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 84856047-2353-c794-b8d2-7deab2ff6393)",
+  "source": "https://api.riigikogu.ee/api/volumes/84856047-2353-c794-b8d2-7deab2ff6393",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-05-01&endDate=2009-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
