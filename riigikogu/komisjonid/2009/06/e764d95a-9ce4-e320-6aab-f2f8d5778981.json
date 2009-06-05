@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-06-05T10:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 9. juunil toimuval majandus- ja rahandusministrite nõukogu (ECOFIN) kohtumisel. ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2c43cc5d-6973-1126-5c5e-d5510229c83d"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu Kantselei esindaja Euroopa Parlamendi juures 2009. aasta poolaasta töö kokkuvõte.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1cc09ca8-8b4f-fb08-174c-3fad4009211b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 05.06.2009",
+      "uuid": "1044ba70-b18d-dd7d-e4bc-119f0e7f3403",
+      "files": [
+        "Euroopa Liidu asjade komisjon_istungi_protokoll_23_2009.odt",
+        "Euroopa Liidu asjade komisjon_paevakord_05_06_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "e764d95a-9ce4-e320-6aab-f2f8d5778981",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e764d95a-9ce4-e320-6aab-f2f8d5778981)",
+  "source": "https://api.riigikogu.ee/api/volumes/e764d95a-9ce4-e320-6aab-f2f8d5778981",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-06-01&endDate=2009-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
