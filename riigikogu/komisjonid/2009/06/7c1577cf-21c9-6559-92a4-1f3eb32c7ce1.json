@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-06-08T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töönädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bf37779a-a527-2531-006a-8acfb6ec54a6"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud kohtutäituri seaduse eelnõu (462 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e8998e51-9c66-7fb0-a833-8b103704e0ff"
+    },
+    {
+      "order": 3,
+      "title": "Vabariigi Valitsuse algatatud karistusseadustiku, kriminaalmenetluse seadustiku ja vangistusseaduse muutmise seaduse eelnõu (382 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "823dbccc-9a40-7b9c-4558-66476f0b061a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 08.06.2009",
+      "uuid": "70fb84c2-9535-7914-ba42-1da8d24d8d57",
+      "files": [
+        "iguskomisjon_istungi_protokoll_24_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "7c1577cf-21c9-6559-92a4-1f3eb32c7ce1",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7c1577cf-21c9-6559-92a4-1f3eb32c7ce1)",
+  "source": "https://api.riigikogu.ee/api/volumes/7c1577cf-21c9-6559-92a4-1f3eb32c7ce1",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-06-01&endDate=2009-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
