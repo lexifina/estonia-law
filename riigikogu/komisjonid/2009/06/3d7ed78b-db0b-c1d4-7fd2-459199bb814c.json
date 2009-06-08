@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-06-08T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 11.-12. juunil toimuval transpordi, telekommunikatsiooni ja energeetika nõukogu kohtumisel. ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "75d7ff1b-0787-4aa0-12fa-29919cb7af27"
+    },
+    {
+      "order": 2,
+      "title": "Seisukoha andmine: Euroopa Parlamendi ja nõukogu määruse eelnõu, mis käsitleb bussireisijate õigusi ning millega muudetakse Euroopa Parlamendi ja nõukogu määrust (EÜ) nr 2006/2004 tarbijakaitseseaduse jõustamise eest vastutavate siseriiklike asutuste vahelise koostöö kohta (COM(2008)817).",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0ef7dddb-86e8-3c39-f92f-f5b49d805f07"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 08.06.2009",
+      "uuid": "a762c192-f536-85c6-8808-e2e7a6bc47f6",
+      "files": [
+        "Euroopa Liidu asjade komisjon_istungi_protokoll_24_2009.odt",
+        "Euroopa Liidu asjade komisjon_paevakord_08_06_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "3d7ed78b-db0b-c1d4-7fd2-459199bb814c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3d7ed78b-db0b-c1d4-7fd2-459199bb814c)",
+  "source": "https://api.riigikogu.ee/api/volumes/3d7ed78b-db0b-c1d4-7fd2-459199bb814c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-06-01&endDate=2009-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
