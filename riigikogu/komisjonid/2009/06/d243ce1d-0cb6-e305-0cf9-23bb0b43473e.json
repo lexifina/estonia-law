@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-06-08T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6a02e1aa-d31d-1da9-a8c3-dd6a67307f92"
+    },
+    {
+      "order": 2,
+      "title": "Konkurentsiseadus ja ühistegevus põllumajanduses",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1f64c5be-6e9d-d695-5d6f-5c96ad7c74b5"
+    },
+    {
+      "order": 3,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "12e3cc41-a5ac-fa0a-6338-bbec768f6efb"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 08.06.2009",
+      "uuid": "e2850ca5-54e8-72d2-ca09-a2a33b00b3f2",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_24_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "d243ce1d-0cb6-e305-0cf9-23bb0b43473e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d243ce1d-0cb6-e305-0cf9-23bb0b43473e)",
+  "source": "https://api.riigikogu.ee/api/volumes/d243ce1d-0cb6-e305-0cf9-23bb0b43473e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-06-01&endDate=2009-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
