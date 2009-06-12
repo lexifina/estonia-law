@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-06-12T09:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 15.-16. juunil toimuval üldasjade ja välissuhete nõukogu (GAERC) kohtumisel (ühisistung väliskomisjoniga). ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a71f919f-6901-836f-552b-7ac5713bb71a"
+    },
+    {
+      "order": 2,
+      "title": "Eesti positsioon Euroopa Komisjoni ja Vene Föderatsiooni vahelisteks läbirääkimisteks Euroopa naabrus- ja partnerlusinstrumendi 2007-2013 raames piiriülese koostöö rakenduskavade sõlmitava rahastamislepingu osas (ühisistung väliskomisjoniga).",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "890eb33a-8ac2-204a-9637-6f22dc22bdfc"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 12.06.2009",
+      "uuid": "c28d2b39-5809-bbfd-66a1-3de6d6922e46",
+      "files": [
+        "Euroopa Liidu asjade komisjon_paevakord_12_06_2009.odt",
+        "Euroopa Liidu asjade komisjon_istungi_protokoll_24_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "b8852a75-b774-06c0-64d0-d00e25a1b0a3",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b8852a75-b774-06c0-64d0-d00e25a1b0a3)",
+  "source": "https://api.riigikogu.ee/api/volumes/b8852a75-b774-06c0-64d0-d00e25a1b0a3",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-06-01&endDate=2009-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
