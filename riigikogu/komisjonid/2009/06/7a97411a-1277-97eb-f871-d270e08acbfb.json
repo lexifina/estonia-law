@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-06-15T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikaitsekomisjoni töönädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "539775b4-7a89-8fd1-f2e8-8f8bbf257cf9"
+    },
+    {
+      "order": 2,
+      "title": "Kaitsetööstuse arengud. Kutsutud  Kaitsetööstuse Liidu esindajaid ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "449d586f-22bd-d347-2fcd-6a2ec682ed39"
+    },
+    {
+      "order": 3,
+      "title": "Riigikaitsekomisjoni väliskülalised ja vastuvisiit",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ecfd5bcb-20e2-830a-1f4c-a7bc15d98ad0"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 15.06.2009",
+      "uuid": "e18d38da-6564-a55d-f241-1029539e6a49",
+      "files": [
+        "15.06.09.doc"
+      ]
+    }
+  ],
+  "uuid": "7a97411a-1277-97eb-f871-d270e08acbfb",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7a97411a-1277-97eb-f871-d270e08acbfb)",
+  "source": "https://api.riigikogu.ee/api/volumes/7a97411a-1277-97eb-f871-d270e08acbfb",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-06-01&endDate=2009-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
