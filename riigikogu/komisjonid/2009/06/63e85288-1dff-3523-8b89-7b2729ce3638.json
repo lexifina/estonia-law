@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-06-15T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Mandri ja saarte vahelise praamiühenduse arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "703dce6d-7f2e-8a8a-db45-1d1ae5525aa1"
+    },
+    {
+      "order": 2,
+      "title": "Euroopa Komisjoni teatise „Avamere tuuleenergia: meetmed, mida on vaja võtta energiapoliitika 2020. aasta ja edaspidiste eesmärkide saavutamiseks“ osas Eesti seisukohtade arutelu ja arvamuse andmine Euroopa Liidu asjade komisjonile.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "da813839-9b5d-c433-55db-92b292c86577"
+    },
+    {
+      "order": 3,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "682e6c91-3cc6-7369-e4bd-09138473fb33"
+    },
+    {
+      "order": 4,
+      "title": "Erakorraline komisjoni istung",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7cbf1dc6-2b2f-491a-fe4c-62b7a93a10b7"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 15.06.2009",
+      "uuid": "c9b0b349-a5b1-66a3-8479-d43d502e696f",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_25_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "63e85288-1dff-3523-8b89-7b2729ce3638",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 63e85288-1dff-3523-8b89-7b2729ce3638)",
+  "source": "https://api.riigikogu.ee/api/volumes/63e85288-1dff-3523-8b89-7b2729ce3638",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-06-01&endDate=2009-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
