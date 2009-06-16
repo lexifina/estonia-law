@@ -1,0 +1,57 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-06-16T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Põhiseaduskomisjoni algatatud eesti lipu seaduse muutmise seaduse eelnõu (529 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "675d8a0f-4947-f711-a5f7-d80f25c418e4"
+    },
+    {
+      "order": 2,
+      "title": "Riigikohtule arvamuse andmine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "60c63d03-ee79-8cab-d992-2407001a8648"
+    },
+    {
+      "order": 3,
+      "title": "Vabariigi Valitsuse algatatud avaliku teenistuse seaduse eelnõu (538 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "629c7587-d783-2891-c806-8fa73531ae86"
+    },
+    {
+      "order": 4,
+      "title": "Vabariigi Valitsuse algatatud korruptsioonivastane seaduse eelnõu (539 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4e21ba70-230a-e7d2-2129-4d3f7549b716"
+    },
+    {
+      "order": 5,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ad1ccea5-d175-bbbb-6c3b-34d18f5e2b89"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 16.06.2009",
+      "uuid": "da919c51-84a7-cc73-e6da-39f0e00e570f",
+      "files": [
+        "Põhiseaduskomisjon_istungi_protokoll_25_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "74d31e0c-32ca-6808-b92c-e2da3b780ce5",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 74d31e0c-32ca-6808-b92c-e2da3b780ce5)",
+  "source": "https://api.riigikogu.ee/api/volumes/74d31e0c-32ca-6808-b92c-e2da3b780ce5",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-06-01&endDate=2009-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
