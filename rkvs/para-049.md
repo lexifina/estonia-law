@@ -2,7 +2,7 @@
 
 (1) Välisriigis alaliselt elavate valijate ja seal ajutiselt viibivate valijate hääletamist välisriigis viivad läbi Eesti välisesindused.
 
-(2) Vabariigi Valitsus võib oma korraldusega määrata hääletamist läbi viima aukonsulaadi, mille aukonsul on Eesti kodanik. Sellisel juhul teeb käesolevas peatükis ettenähtud toiminguid aukonsulaat.
+(2) Vabariigi Valitsus võib oma korraldusega määrata hääletamist läbi viima aukonsuli juhitava konsulaarasutuse, mille aukonsul on Eesti kodanik. Sellisel juhul teeb käesolevas peatükis ettenähtud toiminguid aukonsuli juhitav konsulaarasutus.
 
 (3) Hääletamist korraldab välisesinduse juht või tema määratud ametnik. Käesoleva paragrahvi lõikes 2 ettenähtud juhul korraldab hääletamist aukonsul või tema määratud isik. Hääletamise korraldajaks peab olema isik, kellel on hääletamisõigus käesoleva seaduse § 4 lõigete 1 ja 2 kohaselt.
 
