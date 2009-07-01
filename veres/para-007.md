@@ -14,7 +14,7 @@
 
 4) saada teavet oma tervise seisundi, verele teostatud uuringute tulemuste ja loovutatud vere raviks kõlblikkuse kohta;
 
-5) puududa töölt vere loovutamise eesmärgil vastavalt töö- ja puhkeaja seaduse §-s 24 sätestatule;
+5) saada tööandjalt vaba aega vere loovutamiseks;
 
 6) isikuandmete salastatusele.
 
