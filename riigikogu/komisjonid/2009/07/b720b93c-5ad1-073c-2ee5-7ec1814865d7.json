@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-07-06T10:00:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Euroopa Komisjoni teatis „Abi parem suunamine ebasoodsate looduslike tingimustega piirkondade põllumajandustootjatele. Arvamuse andmine ELAK-le",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4e4bd9b4-57c6-e3b3-08dc-6aa2261723f0"
+    },
+    {
+      "order": 2,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "78937fe0-1da4-c9bd-2cd5-a3063cbc6228"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 06.07.2009",
+      "uuid": "22736a5b-29a2-f890-9f73-385976b36e0e",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_28_2009.odt",
+        "Maaelukomisjon_paevakord_06_07_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "b720b93c-5ad1-073c-2ee5-7ec1814865d7",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b720b93c-5ad1-073c-2ee5-7ec1814865d7)",
+  "source": "https://api.riigikogu.ee/api/volumes/b720b93c-5ad1-073c-2ee5-7ec1814865d7",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-07-01&endDate=2009-07-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
