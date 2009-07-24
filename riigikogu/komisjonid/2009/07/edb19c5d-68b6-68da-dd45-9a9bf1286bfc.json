@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-07-24T10:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ühisistung ELAKiga - Eesti seisukohad 27.-28. juulil toimuval Euroopa Liidu üldasjade ja välissuhete nõukogu (GAERC) kohtumisel.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f282e778-f2a8-6e52-ec8f-3bb8862fd325"
+    },
+    {
+      "order": 2,
+      "title": "Ühisistung ELAKiga - Valitsuse eesmärgid Euroopa Liidus Rootsi eesistumisperioodil ja ülevaade valitsuse eesmärkide täitmisest Euroopa Liidus Tšehhi eesistumisperioodil.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ef329e44-af43-b207-4fb8-2ee729c5b653"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c33f8b9c-49dc-0724-56cd-9f3b8948bf3f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 24.07.2009",
+      "uuid": "5f7b0745-f74b-9153-e6cf-19176ae75683",
+      "files": [
+        "Väliskomisjon_istungi_protokoll_30_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "edb19c5d-68b6-68da-dd45-9a9bf1286bfc",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid edb19c5d-68b6-68da-dd45-9a9bf1286bfc)",
+  "source": "https://api.riigikogu.ee/api/volumes/edb19c5d-68b6-68da-dd45-9a9bf1286bfc",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-07-01&endDate=2009-07-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
