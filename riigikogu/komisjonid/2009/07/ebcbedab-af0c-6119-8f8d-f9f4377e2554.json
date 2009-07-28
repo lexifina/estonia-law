@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-07-28T14:00:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Õiguskantsleri 23. juuli 2009 ettepanek nr 5 ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "38414423-da34-549e-db98-b83f45d2c315"
+    },
+    {
+      "order": 2,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c98381be-1939-558e-3e2d-7c0db7185d40"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 28.07.2009",
+      "uuid": "90d22462-8f7a-7ab6-09c9-7bf3bffb4b7c",
+      "files": [
+        "Riigikogu_KMettepanek.pdf",
+        "Rahanduskomisjon_istungi_protokoll_31_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "ebcbedab-af0c-6119-8f8d-f9f4377e2554",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ebcbedab-af0c-6119-8f8d-f9f4377e2554)",
+  "source": "https://api.riigikogu.ee/api/volumes/ebcbedab-af0c-6119-8f8d-f9f4377e2554",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-07-01&endDate=2009-07-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
