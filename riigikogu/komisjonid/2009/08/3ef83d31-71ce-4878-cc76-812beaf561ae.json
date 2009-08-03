@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-08-03T13:00:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade tööturu olukorrast pärast uue töölepingu seaduse jõustumist ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f153c51d-4719-4920-5173-5cc0d04c19f8"
+    },
+    {
+      "order": 2,
+      "title": "Eesti valmisolek uue gripiviiruse A/H1N1 (seagripp) puhanguks ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fe0512c4-523a-01e3-41ec-7d9fe0182f59"
+    },
+    {
+      "order": 3,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d09353e2-f3e6-0484-f9d4-acac42657c58"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 03.08.2009",
+      "uuid": "8b2fa6ea-2ad7-1f4f-c882-afad4d35c279",
+      "files": [
+        "Sotsiaalkomisjon_istungi_protokoll_32_2009.odt",
+        "Sotsiaalkomisjon_paevakord_03_08_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "3ef83d31-71ce-4878-cc76-812beaf561ae",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3ef83d31-71ce-4878-cc76-812beaf561ae)",
+  "source": "https://api.riigikogu.ee/api/volumes/3ef83d31-71ce-4878-cc76-812beaf561ae",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-08-01&endDate=2009-08-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
