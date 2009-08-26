@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-08-26T13:00:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade välisvahendite kasutamisest 2009. aastal",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ffaa3872-f50b-ed9f-e82a-185be392abc5"
+    },
+    {
+      "order": 2,
+      "title": "Eesti Reformierakonna fraktsiooni, Isamaa ja Res Publica Liidu fraktsiooni, Erakond Eestimaa Rohelised fraktsiooni algatatud riigi 2009. aasta teise lisaeelarve seadusega seonduvalt teiste seaduste muutmise seaduse rakendamise seaduse eelnõu (556 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "18ce964a-7f8f-53d2-1d84-a4c3310953fe"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 26.08.2009",
+      "uuid": "4bcceb9d-aad7-ca2a-c051-676e8b4c1f10",
+      "files": [
+        "Rahanduskomisjon_paevakord_26_08_2009.odt",
+        "oige Rahanduskomisjon_istungi_protokoll_35_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "d89b1919-56bb-f6e9-8aef-aee0fec4cb66",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d89b1919-56bb-f6e9-8aef-aee0fec4cb66)",
+  "source": "https://api.riigikogu.ee/api/volumes/d89b1919-56bb-f6e9-8aef-aee0fec4cb66",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-08-01&endDate=2009-08-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
