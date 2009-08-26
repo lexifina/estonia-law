@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-08-26T11:30:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Euroopa Parlamendi ja nõukogu direktiivi eelnõu lennundusjulgestustasude kohta, arutelu ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ea16cb47-62b1-5602-5630-2321a047946e"
+    },
+    {
+      "order": 2,
+      "title": "Õigusaktide eelnõude paketi, millega asutatakse amet Euroopa Liidu õiguse, vabaduse ja turvalisuse valdkonna suuremahuliste IT süsteemide operatiivjuhtimiseks, arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6727fede-bbd9-25f8-4af6-a0f311f798bd"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 26.08.2009",
+      "uuid": "9c091645-6932-5862-ed56-fe590229e60f",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_35_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "9669fd86-6b44-fce2-ea52-a22603fdefc8",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9669fd86-6b44-fce2-ea52-a22603fdefc8)",
+  "source": "https://api.riigikogu.ee/api/volumes/9669fd86-6b44-fce2-ea52-a22603fdefc8",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-08-01&endDate=2009-08-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
