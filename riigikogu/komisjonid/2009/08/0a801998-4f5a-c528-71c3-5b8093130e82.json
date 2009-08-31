@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-08-31T10:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ühisistung ELAKiga - Eesti seisukohad 4.-5. septembril toimuval Euroopa Liidu välisministrite mitteametlikul (Gymnich) kohtumisel.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "01e2f092-0b37-e6f0-e936-74999204b3f4"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "297f185e-42a2-cc7d-0ecf-aa45ec628ba4"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 31.08.2009",
+      "uuid": "78d743a7-1bea-5e0a-2093-8275644aa4f0",
+      "files": [
+        "Väliskomisjon_istungi_protokoll_36_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "0a801998-4f5a-c528-71c3-5b8093130e82",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0a801998-4f5a-c528-71c3-5b8093130e82)",
+  "source": "https://api.riigikogu.ee/api/volumes/0a801998-4f5a-c528-71c3-5b8093130e82",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-08-01&endDate=2009-08-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
