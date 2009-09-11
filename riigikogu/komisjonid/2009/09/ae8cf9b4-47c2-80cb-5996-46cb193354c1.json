@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-09-11T09:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ühisistung ELAKiga - Eesti seisukohad 14.-15. septembril toimuval Euroopa Liidu üldasjade ja välissuhete nõukogu (GAERC) istungil.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0357e2e0-e426-ad20-eba9-d60283bd1ac1"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1845965a-f580-ea47-2dd9-60b478437f2a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 11.09.2009",
+      "uuid": "5e6b1daf-1871-8f17-bd69-a2aafd352d77",
+      "files": [
+        "11.09.09 (185) protokoll.doc"
+      ]
+    }
+  ],
+  "uuid": "ae8cf9b4-47c2-80cb-5996-46cb193354c1",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ae8cf9b4-47c2-80cb-5996-46cb193354c1)",
+  "source": "https://api.riigikogu.ee/api/volumes/ae8cf9b4-47c2-80cb-5996-46cb193354c1",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-09-01&endDate=2009-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
