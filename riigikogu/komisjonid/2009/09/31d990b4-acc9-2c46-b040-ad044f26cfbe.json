@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-09-14T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud taimede paljundamise ja sordikaitse seaduse muutmise ning sellega seonduvalt teiste seaduste muutmise seaduse eelnõu (500 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "13659376-59d8-28fa-89c4-45c6c960b271"
+    },
+    {
+      "order": 2,
+      "title": "Sügisistungjärgu tööplaani arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "388d7465-89ed-6390-f11e-bacd18c093f3"
+    },
+    {
+      "order": 3,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2ff411b5-ad72-12fe-dd69-cc309fd6f72a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 14.09.2009",
+      "uuid": "071cfd24-5eac-e853-6c2d-bd703d9a7937",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_38_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "31d990b4-acc9-2c46-b040-ad044f26cfbe",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 31d990b4-acc9-2c46-b040-ad044f26cfbe)",
+  "source": "https://api.riigikogu.ee/api/volumes/31d990b4-acc9-2c46-b040-ad044f26cfbe",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-09-01&endDate=2009-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
