@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-09-14T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikaitsekomisjoni töönädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d7073894-3ea3-8725-71ca-a9fcfc51808a"
+    },
+    {
+      "order": 2,
+      "title": "Riigikaitsekomisjoni algatatud kaitseväeteenistuse seaduse § 197 muutmise seaduse eelnõu (545 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8f2ceec3-07e8-dea8-6c77-a90e5446ddb3"
+    },
+    {
+      "order": 3,
+      "title": "Eesti Eruohvitseride Kogu 31.08.2009 kiri nr 250 ja selle  04.09.2009 täpsustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c49ef0e1-f42c-7db3-cda1-8accd6685eba"
+    },
+    {
+      "order": 4,
+      "title": "Kaitseministri kutse riigikaitsekomisjoni esindajale osalemaks XXI Kõrgematel Riigikaitsekursustel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "38ffb156-ef27-5e97-ad1e-3a3610d3229b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 14.09.2009",
+      "uuid": "f04bf4fd-a7e6-9381-0917-252b63a7b957",
+      "files": [
+        "14.09.09.doc"
+      ]
+    }
+  ],
+  "uuid": "6cb1d3cc-be1e-faeb-366a-c443aeb18e57",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 6cb1d3cc-be1e-faeb-366a-c443aeb18e57)",
+  "source": "https://api.riigikogu.ee/api/volumes/6cb1d3cc-be1e-faeb-366a-c443aeb18e57",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-09-01&endDate=2009-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
