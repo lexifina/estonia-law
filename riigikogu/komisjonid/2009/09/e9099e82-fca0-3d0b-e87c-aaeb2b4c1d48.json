@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-09-14T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Keskkonnakomisjoni töökava (14.09.09 - 20.09.09) kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a87b1b8a-a79e-5fd3-a9be-d8f81951f32d"
+    },
+    {
+      "order": 2,
+      "title": "Erakond Eestimaa Rohelised fraktsiooni algatatud metsaseaduse § 23 muutmise seaduse eelnõu (527 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "35201256-0cd6-5594-80ce-8328d4421431"
+    },
+    {
+      "order": 3,
+      "title": "Erakond Eestimaa Rohelised fraktsiooni algatatud looduskaitseseaduse muutmise seaduse eelnõu (528 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c54f88a2-428e-9996-f9e2-960f1e6a4afb"
+    },
+    {
+      "order": 4,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "81b7033b-ac7e-40ab-26fb-4a13b7f263ed"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 14.09.2009",
+      "uuid": "b087df0c-b7e4-8dea-fc24-fc2fc2f53dd0",
+      "files": [
+        "prot127 14.09.09.doc"
+      ]
+    }
+  ],
+  "uuid": "e9099e82-fca0-3d0b-e87c-aaeb2b4c1d48",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e9099e82-fca0-3d0b-e87c-aaeb2b4c1d48)",
+  "source": "https://api.riigikogu.ee/api/volumes/e9099e82-fca0-3d0b-e87c-aaeb2b4c1d48",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-09-01&endDate=2009-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
