@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-09-14T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Presidendi otsusega nr 513 väljakuulutamata jäetud karistusseadustiku, avaliku teenistuse seaduse, välismaalaste seaduse, kodakondsuse seaduse, kohaliku omavalitsuse volikogu valimise seaduse ja kriminaalmenetluse seadustiku muutmise seaduse arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "497b64c1-3689-2518-0d4b-87e091d5a9af"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud vabariigi Valitsuse seaduse, avaliku teenistuse seaduse ning riigiteenistujate ametinimetuste ja palgaastmestiku seaduse muutmise seaduse eelnõu (483 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f37b0585-7989-4fae-67e1-9c091e35bb66"
+    },
+    {
+      "order": 3,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bda9fcfa-1fa6-80cc-4cbd-f7f146f4cf6b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 14.09.2009",
+      "uuid": "b618769a-9103-378a-c9c3-ae2bb085e972",
+      "files": [
+        "Põhiseaduskomisjon_istungi_protokoll_38_2009.odt",
+        "Põhiseaduskomisjon_paevakord_14_09_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "95cbc44e-7566-cf8d-48e0-cd8c7b6f93b0",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 95cbc44e-7566-cf8d-48e0-cd8c7b6f93b0)",
+  "source": "https://api.riigikogu.ee/api/volumes/95cbc44e-7566-cf8d-48e0-cd8c7b6f93b0",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-09-01&endDate=2009-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
