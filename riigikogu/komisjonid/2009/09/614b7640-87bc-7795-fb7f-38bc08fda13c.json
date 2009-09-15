@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-09-15T14:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikogu 2007. aasta 15. mai otsuse \"NATO Parlamentaarse Assamblee Eesti delegatsiooni moodustamine\" muutmise eelnõu algatamine.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cbb42b48-1e22-6412-bff9-de9c9210d56a"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade olukorrast Afganistanis. Eesti Afganistani-kontseptsioon. Eriesindaja staatus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4fe6bd7c-f99e-cbbe-55b1-6ec5546cfb63"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "86a0698f-8c75-f5dc-2119-07b7eed55512"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 15.09.2009",
+      "uuid": "3dda6645-8b6c-73ff-93eb-686cb073207a",
+      "files": [
+        "Väliskomisjon_istungi_protokoll_38_2009.odt",
+        "Väliskomisjon_paevakord_15_09_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "614b7640-87bc-7795-fb7f-38bc08fda13c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 614b7640-87bc-7795-fb7f-38bc08fda13c)",
+  "source": "https://api.riigikogu.ee/api/volumes/614b7640-87bc-7795-fb7f-38bc08fda13c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-09-01&endDate=2009-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
