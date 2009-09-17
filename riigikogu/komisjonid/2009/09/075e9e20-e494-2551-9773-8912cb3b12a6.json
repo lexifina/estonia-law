@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-09-17T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade Riigikogu ja Riigikogu Kantselei välislähetuste 2009. aasta eelarve hetkeseisust ja kavandatavatest visiitidest. ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "89bcbb1f-08b2-c995-ec57-f77db36f93f1"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0e5ed04a-8047-dd4d-5da4-2c465224e958"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 17.09.2009",
+      "uuid": "9d680c69-fe92-58d6-90f9-1f36f4dc9d23",
+      "files": [
+        "Väliskomisjon_istungi_protokoll_38_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "075e9e20-e494-2551-9773-8912cb3b12a6",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 075e9e20-e494-2551-9773-8912cb3b12a6)",
+  "source": "https://api.riigikogu.ee/api/volumes/075e9e20-e494-2551-9773-8912cb3b12a6",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-09-01&endDate=2009-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
