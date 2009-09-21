@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-09-21T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Sotsiaalkomisjoni algatatud sotsiaalhoolekande seaduse täiendamise seaduse eelnõu (505 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "00961a73-a13c-ad81-33cd-2f1ff2e4be05"
+    },
+    {
+      "order": 2,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f92ecd7d-4e90-531a-7488-ec1c45a10df2"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 21.09.2009",
+      "uuid": "3b79ad4e-58c2-bb77-68e7-84767a1e8d25",
+      "files": [
+        "Sotsiaalkomisjon_istungi_protokoll_39_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "0a278e7a-09b5-4dd6-be35-40790d099299",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0a278e7a-09b5-4dd6-be35-40790d099299)",
+  "source": "https://api.riigikogu.ee/api/volumes/0a278e7a-09b5-4dd6-be35-40790d099299",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-09-01&endDate=2009-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
