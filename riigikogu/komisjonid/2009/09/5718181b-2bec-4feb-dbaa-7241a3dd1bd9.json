@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-09-21T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "10a78351-6978-f71c-4ab8-0fae0a36dc74"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine põllumajandusministriga",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b6de2151-5245-fddf-0c74-084359bbd1ac"
+    },
+    {
+      "order": 3,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d3c13edc-f9d2-d9ed-d837-770ee7b1e321"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 21.09.2009",
+      "uuid": "d0ebbd55-a706-0ec7-971a-17b3530059cc",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_39_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "5718181b-2bec-4feb-dbaa-7241a3dd1bd9",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 5718181b-2bec-4feb-dbaa-7241a3dd1bd9)",
+  "source": "https://api.riigikogu.ee/api/volumes/5718181b-2bec-4feb-dbaa-7241a3dd1bd9",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-09-01&endDate=2009-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
