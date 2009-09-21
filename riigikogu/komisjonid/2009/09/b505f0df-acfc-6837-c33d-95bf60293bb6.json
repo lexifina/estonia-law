@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-09-21T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Keskkonnakomisjoni töökava (21.09.09 - 27.09.09) kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c43feaef-3775-f437-ebfe-d28e50a5ad73"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud riigivaraseaduse ja looduskaitseseaduse muutmise seaduse eelnõu (568 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "eaa242f7-c5f0-f440-832a-c00ea2ff1acb"
+    },
+    {
+      "order": 3,
+      "title": "Uue liikme nimetamine RMK nõukogusse",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "41e550a7-b365-60d5-cac9-449caf1db586"
+    },
+    {
+      "order": 4,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d0cc1beb-48b8-3279-a95d-882fd0c6839d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 21.09.2009",
+      "uuid": "48f12dcd-54ec-928f-50b4-5f7c3efb9fb8",
+      "files": [
+        "prot128 21.09.09.doc"
+      ]
+    }
+  ],
+  "uuid": "b505f0df-acfc-6837-c33d-95bf60293bb6",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b505f0df-acfc-6837-c33d-95bf60293bb6)",
+  "source": "https://api.riigikogu.ee/api/volumes/b505f0df-acfc-6837-c33d-95bf60293bb6",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-09-01&endDate=2009-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
