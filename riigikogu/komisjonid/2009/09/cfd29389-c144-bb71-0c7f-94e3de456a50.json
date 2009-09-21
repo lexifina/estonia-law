@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-09-21T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigi 2009. aasta tulude laekumise hetkeseis ja 2010. aasta majandusprognoosi teemaline arutelu. Kutsutud rahandusministeeriumi kantsler Tea Varrak.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d64f6884-bcd7-ebbb-c314-5c9b04aa4d15"
+    },
+    {
+      "order": 2,
+      "title": "Laekunud Riigikontrolli aruannetest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e7eb82b2-c237-4d08-9b5b-b0b60f2b935f"
+    },
+    {
+      "order": 3,
+      "title": "Muudatus komisjoni septembrikuu ajagraafikus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3abda902-4f5b-d46a-ec4a-87cf4605ddb0"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 21.09.2009",
+      "uuid": "4dd23549-b5b1-1887-6ad2-6404153886d3",
+      "files": [
+        "Riigieelarve kontrolli erikomisjon_paevakord_21_09_2009.odt",
+        "protokoll 75 21 09 2009.doc"
+      ]
+    }
+  ],
+  "uuid": "cfd29389-c144-bb71-0c7f-94e3de456a50",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid cfd29389-c144-bb71-0c7f-94e3de456a50)",
+  "source": "https://api.riigikogu.ee/api/volumes/cfd29389-c144-bb71-0c7f-94e3de456a50",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-09-01&endDate=2009-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
