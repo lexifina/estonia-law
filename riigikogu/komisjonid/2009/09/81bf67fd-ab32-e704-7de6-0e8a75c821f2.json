@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-09-22T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Informatsioon peaministri välissuhtlemisest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e189579a-a562-3ef5-b948-a5f1f86a1a8c"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade ENPA istungjärgust Strasbourgis 28. september-2. oktoober 2009.  ENPA Eesti delegatsiooni 2009.a eelarve.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "71ea8506-acc4-badc-e3e9-4e1ec5bad772"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9689d986-e423-c5ac-8523-01bfdd4d56c1"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 22.09.2009",
+      "uuid": "9bac8612-4a2c-a11a-79ed-8246bb8c8956",
+      "files": [
+        "Väliskomisjon_istungi_protokoll_39_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "81bf67fd-ab32-e704-7de6-0e8a75c821f2",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 81bf67fd-ab32-e704-7de6-0e8a75c821f2)",
+  "source": "https://api.riigikogu.ee/api/volumes/81bf67fd-ab32-e704-7de6-0e8a75c821f2",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-09-01&endDate=2009-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
