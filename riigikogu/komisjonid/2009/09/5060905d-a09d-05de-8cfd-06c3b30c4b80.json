@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-09-24T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti Panga taotluse arutelu vaidlustuse lahendamiseks vara omandi küsimuses.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "536e0d70-b3ec-2e12-69ca-2ed93307d8e8"
+    },
+    {
+      "order": 2,
+      "title": "Riigivara tasuta võõrandamine (4)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d963a1e6-5225-7eef-5107-34a0ea532c4d"
+    },
+    {
+      "order": 3,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "43ec42cc-bf29-883a-180b-e44f06124044"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 24.09.2009",
+      "uuid": "2a5bdd29-ee67-c1ad-78f0-0a72d3640813",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_39_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "5060905d-a09d-05de-8cfd-06c3b30c4b80",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 5060905d-a09d-05de-8cfd-06c3b30c4b80)",
+  "source": "https://api.riigikogu.ee/api/volumes/5060905d-a09d-05de-8cfd-06c3b30c4b80",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-09-01&endDate=2009-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
