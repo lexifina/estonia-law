@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-09-25T10:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 1. oktoobril toimuval mitteametlikul  justiits- ja siseministrite kohtumisel. ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f85160a9-ee2a-fc20-1832-9528b3e88f29"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "00a0f8d5-464a-3863-1075-4d7d8b7fb721"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 25.09.2009",
+      "uuid": "c86064b0-d7e2-5f24-5e41-4bfbcbd83f3c",
+      "files": [
+        "Euroopa Liidu asjade komisjon_istungi_protokoll_39_2009.odt",
+        "Euroopa Liidu asjade komisjon_paevakord_25_09_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "c3b44cb7-c5b4-7b1d-f253-6b7211e78816",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c3b44cb7-c5b4-7b1d-f253-6b7211e78816)",
+  "source": "https://api.riigikogu.ee/api/volumes/c3b44cb7-c5b4-7b1d-f253-6b7211e78816",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-09-01&endDate=2009-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
