@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-09-28T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8503b0d8-e7e6-5555-a836-659136e46ed4"
+    },
+    {
+      "order": 2,
+      "title": "Tegutsemine füüsilisest isikust ettevõtjana põllumajandussektoris",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "62e5beb0-dbd9-05ba-5e7d-0a4c565fff75"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 28.09.2009",
+      "uuid": "77dc6ce6-4835-d506-fe47-e8a56b1c043c",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_40_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "f52dd411-d738-162b-fcaa-d4ad993437d7",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f52dd411-d738-162b-fcaa-d4ad993437d7)",
+  "source": "https://api.riigikogu.ee/api/volumes/f52dd411-d738-162b-fcaa-d4ad993437d7",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-09-01&endDate=2009-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
