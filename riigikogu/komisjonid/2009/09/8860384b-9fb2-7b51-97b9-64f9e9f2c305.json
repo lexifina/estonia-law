@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-09-28T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikaitsekomisjoni töönädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f6ec8645-8e8c-9900-cf1e-7bb7b342dd82"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud kaitseväeteenistuse seaduse ja teiste seaduste muutmise seaduse eelnõu (535 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "22110fb3-1787-5fed-58f7-21ab25111528"
+    },
+    {
+      "order": 3,
+      "title": "Kaitseministeeriumi esindajate informatsioon ja ettepanek muuta mobilisatsiooniga seonduva kaitseväeteenistuse seaduse § 138",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f8d35795-70a6-8f0a-5e49-0eacc250aa79"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 28.09.2009",
+      "uuid": "72d5b537-605f-e024-b3df-acfb5b531df9",
+      "files": [
+        "28.09.09.doc"
+      ]
+    }
+  ],
+  "uuid": "8860384b-9fb2-7b51-97b9-64f9e9f2c305",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8860384b-9fb2-7b51-97b9-64f9e9f2c305)",
+  "source": "https://api.riigikogu.ee/api/volumes/8860384b-9fb2-7b51-97b9-64f9e9f2c305",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-09-01&endDate=2009-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
