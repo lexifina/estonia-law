@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-09-28T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töönädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b52ab04f-8c0f-a129-d92b-976c2495556c"
+    },
+    {
+      "order": 2,
+      "title": "karistusseadustiku, avaliku teenistuse seaduse, välismaalaste seaduse, kodakondsuse seaduse,  kohaliku omavalitsuse volikogu valimise seaduse ja kriminaalmenetluse seadustiku  muutmise seaduse eelnõu (416 UA)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "84d44b2b-4370-110a-37ed-0e65db6cb0c5"
+    },
+    {
+      "order": 3,
+      "title": "Kohtumine õiguskantsleriga",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0ce72039-c87c-1b4b-3534-1374e07d098b"
+    },
+    {
+      "order": 4,
+      "title": "Vabariigi Valitsuse algatatud äriseadustiku ja teiste seaduste muutmise seaduse eelnõu (466 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e0b58e3d-5aaa-ec69-2233-ac2e32451373"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 28.09.2009",
+      "uuid": "626ee069-d9bf-5e0d-9440-85f0db4541ef",
+      "files": [
+        "iguskomisjon_istungi_protokoll_40_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "398bfd8f-dd10-fb8d-de4b-98c15200883c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 398bfd8f-dd10-fb8d-de4b-98c15200883c)",
+  "source": "https://api.riigikogu.ee/api/volumes/398bfd8f-dd10-fb8d-de4b-98c15200883c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-09-01&endDate=2009-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
