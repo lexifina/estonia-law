@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-09-28T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud välismaalaste seaduse eelnõu (537 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "978303f8-3384-4d24-827f-12c74473d019"
+    },
+    {
+      "order": 2,
+      "title": "ELAK`le arvamuse andmine Euroopa Komisjoni teatise „Vabadusel, turvalisusel ja õigusel rajanev ala kodanike teenistuses” kohta",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bda55bc3-e0f5-d7c1-3bfa-fdd5e7fc781c"
+    },
+    {
+      "order": 3,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "69a4e18c-5b9f-d52b-7663-2f587b61620f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 28.09.2009",
+      "uuid": "60d0fcea-5e4a-3103-e84b-479d5a1e5a54",
+      "files": [
+        "Põhiseaduskomisjon_istungi_protokoll_40_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "12a84ed0-0bb3-eb77-fbd5-ce6ec5ea6d3a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 12a84ed0-0bb3-eb77-fbd5-ce6ec5ea6d3a)",
+  "source": "https://api.riigikogu.ee/api/volumes/12a84ed0-0bb3-eb77-fbd5-ce6ec5ea6d3a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-09-01&endDate=2009-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
