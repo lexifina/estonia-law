@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-09-28T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väliskomisjoni VI istungjärgu 3. töönädala töökava kinnitamine.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "025568c8-0e71-d368-432d-73bb3c2d28de"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade Eesti-Valgevene suhetest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9c549f9c-01c7-e052-ed97-66f98b718ec1"
+    },
+    {
+      "order": 3,
+      "title": "Informatsioon komisjoni liikmete tegevusest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "aeac3698-dc50-bb02-0302-ca52b3216c97"
+    },
+    {
+      "order": 4,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "60a4fded-c533-4da6-266d-7fcebe668f6b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 28.09.2009",
+      "uuid": "133544c0-415c-f3e1-1740-b21cb06102b9",
+      "files": [
+        "Väliskomisjon_istungi_protokoll_40_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "9927f20a-21de-0c02-368d-4fe5fe5e32d4",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9927f20a-21de-0c02-368d-4fe5fe5e32d4)",
+  "source": "https://api.riigikogu.ee/api/volumes/9927f20a-21de-0c02-368d-4fe5fe5e32d4",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-09-01&endDate=2009-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
