@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-09-29T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Õiguskantsleriga",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fad5c10c-bdea-f6d5-4ad0-d8173934ea33"
+    },
+    {
+      "order": 2,
+      "title": "e-hääletamise põhimõtete arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b03e748e-0467-e5b0-7ffe-46c0bcafafe7"
+    },
+    {
+      "order": 3,
+      "title": "Eesti Keskerakonna fraktsiooni algatatud riigikogu otsus \"Riigikogu uurimiskomisjoni moodustamine parvlaev Estonia uppumise põhjuste ja sellega seotud asjaolude väljaselgitamiseks rahvusvaheliseks parlamentaarseks koostööks\" (552 OE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6d8263a0-b326-af76-57df-e911c39be9cc"
+    },
+    {
+      "order": 4,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "86ff74ab-53be-1873-2402-b6c21de16db9"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 29.09.2009",
+      "uuid": "501132e4-2da6-d218-705a-5911c6739ac5",
+      "files": [
+        "Põhiseaduskomisjon_paevakord_29_09_2009.odt",
+        "Põhiseaduskomisjon_istungi_protokoll_40_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "c68adee8-256f-5dfa-9ab0-b2e19b807d5a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c68adee8-256f-5dfa-9ab0-b2e19b807d5a)",
+  "source": "https://api.riigikogu.ee/api/volumes/c68adee8-256f-5dfa-9ab0-b2e19b807d5a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-09-01&endDate=2009-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
