@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-09-29T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigivaraseaduse ja looduskaitseseaduse muutmise seaduse eelnõu (568 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fbaa63e1-5696-7c1e-c8d8-0ac0547275db"
+    },
+    {
+      "order": 2,
+      "title": "Väljasõiduistung Kadarbiku talus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e3bb2159-6b64-89ad-3065-ef7c9e2075c1"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 29.09.2009",
+      "uuid": "eaeb1878-4502-fc53-0219-cfd65355d478",
+      "files": [
+        "Maaelukomisjon_paevakord_29_09_2009.odt",
+        "Maaelukomisjon_istungi_protokoll_40_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "b9395263-0163-054b-b4aa-0504149baa7b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b9395263-0163-054b-b4aa-0504149baa7b)",
+  "source": "https://api.riigikogu.ee/api/volumes/b9395263-0163-054b-b4aa-0504149baa7b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-09-01&endDate=2009-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
