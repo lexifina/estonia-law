@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-09-29T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Informatsioon Sergei Markovi sissesõidukeelu tühistamisest Schengeni viisaruumi riikidesse.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3e590e3e-c272-d27a-78f7-d3dfffe3e5fb"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cfa70921-4d11-0db7-c4b2-39dd7bece3cb"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 29.09.2009",
+      "uuid": "8205939d-8729-1061-06e5-02873fa3c217",
+      "files": [
+        "Väliskomisjon_istungi_protokoll_40_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "7b74afaf-5ceb-cac9-a3e7-39e44edab116",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7b74afaf-5ceb-cac9-a3e7-39e44edab116)",
+  "source": "https://api.riigikogu.ee/api/volumes/7b74afaf-5ceb-cac9-a3e7-39e44edab116",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-09-01&endDate=2009-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
