@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-10-01T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade ÜRO 64. peaassamblee tööst. ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "14596e32-a6b3-2b14-67a2-aa9345e6f338"
+    },
+    {
+      "order": 2,
+      "title": "Informatsioon Sergei Markovi sissesõidukeelu tühistamisest Schengeni viisaruumi riikidesse.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "54a25501-7363-61e3-dac8-1ec0a46862cb"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1a8bbfed-8597-9bba-5eae-9fc0a1ba1e7d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 01.10.2009",
+      "uuid": "abc31b64-8a26-423d-1b60-44476dc957ae",
+      "files": [
+        "Väliskomisjon_istungi_protokoll_40_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "9a7c9a95-7c1d-46fd-b1aa-afcf3254b3aa",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9a7c9a95-7c1d-46fd-b1aa-afcf3254b3aa)",
+  "source": "https://api.riigikogu.ee/api/volumes/9a7c9a95-7c1d-46fd-b1aa-afcf3254b3aa",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-10-01&endDate=2009-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
