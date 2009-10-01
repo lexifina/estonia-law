@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-10-01T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Arvamused ELAK-le",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2ca1b499-0b90-9036-dc0e-821812e51e29"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud karistusseadustiku muutmise seaduse eelnõu (530 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8f7554b0-f8f3-625d-5be3-6c7f5a701eab"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 01.10.2009",
+      "uuid": "f692f735-3338-4306-b25c-d0ff356721fb",
+      "files": [
+        "iguskomisjon_istungi_protokoll_40_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "d1ade765-834a-c63c-5333-2e69e18a31ca",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d1ade765-834a-c63c-5333-2e69e18a31ca)",
+  "source": "https://api.riigikogu.ee/api/volumes/d1ade765-834a-c63c-5333-2e69e18a31ca",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-10-01&endDate=2009-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
