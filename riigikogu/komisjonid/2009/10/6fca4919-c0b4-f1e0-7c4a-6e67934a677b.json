@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-10-05T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 12. oktoobril toimuval töö, sotsiaalpoliitika, tervishoiu ja tarbijakaitse nõukogu (EPSCO) kohtumisel.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bafc13a3-8d68-a348-bbff-44f2da2cd5b0"
+    },
+    {
+      "order": 2,
+      "title": "Seisukoha andmine: Euroopa Komisjoni teatis “Transpordi jätkusuutlik tulevik“ (COM(2009)279).",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9ff33327-8d58-8457-d2b0-b9021af25c1e"
+    },
+    {
+      "order": 3,
+      "title": "Eesti seisukohad 9. oktoobril toimuval Euroopa Liidu transpordi, telekommunikatsiooni ja energeetika nõukogu (TTE) kohtumisel.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9fa1676e-38d6-3b07-8e55-558d74a67a8a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 05.10.2009",
+      "uuid": "66ec5243-3b1f-302a-c03e-5002db729260",
+      "files": [
+        "Euroopa Liidu asjade komisjon_istungi_protokoll_41_2009.odt",
+        "Euroopa Liidu asjade komisjon_paevakord_05_10_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "6fca4919-c0b4-f1e0-7c4a-6e67934a677b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 6fca4919-c0b4-f1e0-7c4a-6e67934a677b)",
+  "source": "https://api.riigikogu.ee/api/volumes/6fca4919-c0b4-f1e0-7c4a-6e67934a677b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-10-01&endDate=2009-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
