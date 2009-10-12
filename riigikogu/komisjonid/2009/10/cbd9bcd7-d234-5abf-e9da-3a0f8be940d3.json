@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-10-12T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud isikuandmete kaitse seaduse, avaliku teabe seaduse ja arhiiviseaduse muutmise seaduse eelnõu (564 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "09b5e724-72c0-e738-6f27-d4e977d85df0"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud ühinenud Rahvaste Organisatsiooni korruptsioonivastase konventsiooniga ühinemise seaduse eelnõu (566 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fee0a70a-3bf6-6051-c438-1cdd118ce238"
+    },
+    {
+      "order": 3,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fd510363-b7e4-2107-039f-a9d7936461e8"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 12.10.2009",
+      "uuid": "f59a3969-1bb6-51e8-5ee9-e5e11f3fd3fc",
+      "files": [
+        "Põhiseaduskomisjon_istungi_protokoll_42_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "cbd9bcd7-d234-5abf-e9da-3a0f8be940d3",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid cbd9bcd7-d234-5abf-e9da-3a0f8be940d3)",
+  "source": "https://api.riigikogu.ee/api/volumes/cbd9bcd7-d234-5abf-e9da-3a0f8be940d3",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-10-01&endDate=2009-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
