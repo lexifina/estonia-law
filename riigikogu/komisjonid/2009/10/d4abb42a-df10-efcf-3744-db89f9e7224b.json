@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-10-12T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Õiguskantsleri tegevusest sotsiaalsete põhiõiguste tagamisel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b2db7dd1-e3de-5139-53d8-aa23f037307c"
+    },
+    {
+      "order": 2,
+      "title": "Õiguslikud võimalused ja takistused ajutiste töökohtade loomiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b489c84d-a4b8-ecdb-cf43-0ef767812a4e"
+    },
+    {
+      "order": 3,
+      "title": "Kodaniku pöördumise arutelu töötuskindlustushüvitise maksmise küsimuses",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "128f1d5a-df09-8d0e-2e1e-65cc48ddb048"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 12.10.2009",
+      "uuid": "9fda23fd-6dbe-2e57-64de-4ac55c8f2452",
+      "files": [
+        "Sotsiaalkomisjon_paevakord_12_10_2009.odt",
+        "Sotsiaalkomisjon_istungi_protokoll_42_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "d4abb42a-df10-efcf-3744-db89f9e7224b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d4abb42a-df10-efcf-3744-db89f9e7224b)",
+  "source": "https://api.riigikogu.ee/api/volumes/d4abb42a-df10-efcf-3744-db89f9e7224b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-10-01&endDate=2009-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
