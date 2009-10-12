@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-10-12T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töönädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8c950639-d87f-8ac0-e963-9562dc5192e6"
+    },
+    {
+      "order": 2,
+      "title": "karistusseadustiku, avaliku teenistuse seaduse, välismaalaste seaduse, kodakondsuse seaduse,  kohaliku omavalitsuse volikogu valimise seaduse ja kriminaalmenetluse seadustiku  muutmise seaduse eelnõu (41)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "eadff3f5-6641-58d6-f1bb-b2f28d8e5bfe"
+    },
+    {
+      "order": 3,
+      "title": "Vabariigi Valitsuse algatatud politsei ja piirivalve seaduse rakendamise seaduse eelnõu (519 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d71411f2-91f7-19b0-7711-15e82558a0a8"
+    },
+    {
+      "order": 4,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9bb22737-b133-8e4d-b7b6-8e07e06a38a2"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 12.10.2009",
+      "uuid": "c848a830-6883-a3bf-4b62-34c5ddf6301c",
+      "files": [
+        "iguskomisjon_istungi_protokoll_42_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "a1e45445-db41-895e-e02e-cdeb885138de",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a1e45445-db41-895e-e02e-cdeb885138de)",
+  "source": "https://api.riigikogu.ee/api/volumes/a1e45445-db41-895e-e02e-cdeb885138de",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-10-01&endDate=2009-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
