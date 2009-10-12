@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-10-12T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Merendusnõukoja pöördumise arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "97cffba3-ace5-82f3-5747-d0c3da678b9a"
+    },
+    {
+      "order": 2,
+      "title": "Euroopa Komisjoni teatise „Valge Raamat. IKT standardimise ajakohastamine ELis – edasised sammud“ osas Eesti seisukohtade arutelu ja arvamuse andmine Euroopa Liidu asjade komisjonile.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "39cfa73f-61e6-016d-e9e7-3facfce5751d"
+    },
+    {
+      "order": 3,
+      "title": "Organisatsioonilised küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "47bc86ae-f42d-0b3e-85a0-f24bcb599355"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 12.10.2009",
+      "uuid": "477cad29-3e56-eb08-78bc-15e6156ab340",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_42_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "f3fbf2f1-a672-1726-d94f-870220ec9f40",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f3fbf2f1-a672-1726-d94f-870220ec9f40)",
+  "source": "https://api.riigikogu.ee/api/volumes/f3fbf2f1-a672-1726-d94f-870220ec9f40",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-10-01&endDate=2009-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
