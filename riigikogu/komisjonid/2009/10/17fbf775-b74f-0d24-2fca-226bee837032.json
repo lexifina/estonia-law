@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-10-12T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Keskkonnakomisjoni töökava (12.10.09 – 18.10.09) kinnitamine ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e04b9d71-5352-a66c-6c1b-325cc1db64a2"
+    },
+    {
+      "order": 2,
+      "title": " Euroopa Komisjoni teatis, milles esitatakse kliimamuutuste vastu võitlemise rahvusvahelise rahastamise suurendamise ettepanek",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b5f50dcd-2a03-811d-ee8d-5beec6747cbf"
+    },
+    {
+      "order": 3,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d7091a9e-c6a9-c057-86ef-3e433f64a060"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 12.10.2009",
+      "uuid": "97d41b4a-eb1e-144d-fea4-2756b92d135e",
+      "files": [
+        "prot131 12.10.09.doc"
+      ]
+    }
+  ],
+  "uuid": "17fbf775-b74f-0d24-2fca-226bee837032",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 17fbf775-b74f-0d24-2fca-226bee837032)",
+  "source": "https://api.riigikogu.ee/api/volumes/17fbf775-b74f-0d24-2fca-226bee837032",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-10-01&endDate=2009-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
