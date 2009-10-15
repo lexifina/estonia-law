@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-10-15T11:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud korrakaitseseaduse eelnõu (49 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "10b85ee8-6ab5-5a87-4b55-b226c50b5259"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud korrakaitseseaduse muutmise ja rakendamise seaduse eelnõu (570 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "159fb4c0-fe1f-f21b-b957-4a51d7be5af4"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 15.10.2009",
+      "uuid": "553f2cce-4ddd-d000-a1df-b57aaca31c44",
+      "files": [
+        "iguskomisjon_istungi_protokoll_42_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "ea8c631c-d24a-211c-b8a5-04945b178e97",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ea8c631c-d24a-211c-b8a5-04945b178e97)",
+  "source": "https://api.riigikogu.ee/api/volumes/ea8c631c-d24a-211c-b8a5-04945b178e97",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-10-01&endDate=2009-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
