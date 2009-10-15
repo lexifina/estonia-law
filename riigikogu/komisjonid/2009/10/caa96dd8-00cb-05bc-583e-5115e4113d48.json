@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-10-15T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Erakond Eestimaa Rohelised fraktsiooni algatatud looduskaitseseaduse muutmise seaduse eelnõu (528 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dca8f80f-ae17-6dcf-0156-4175a526e2dc"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu väliskomisjoni, keskkonnakomisjoni ja majanduskomisjoni ühisistung - Vene-Saksa gaasitrassi Nord Stream keskkonnamõjude hindamise aruanne. Komisjonide  arvamuse kujundamine täiendmaterjalide põhjal.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "78341177-aa26-cfe9-8799-656eb682dc6e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 15.10.2009",
+      "uuid": "4ebcb345-8cce-d491-6e4d-e89a858d3987",
+      "files": [
+        "prot133 15.10.09.doc"
+      ]
+    }
+  ],
+  "uuid": "caa96dd8-00cb-05bc-583e-5115e4113d48",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid caa96dd8-00cb-05bc-583e-5115e4113d48)",
+  "source": "https://api.riigikogu.ee/api/volumes/caa96dd8-00cb-05bc-583e-5115e4113d48",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-10-01&endDate=2009-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
