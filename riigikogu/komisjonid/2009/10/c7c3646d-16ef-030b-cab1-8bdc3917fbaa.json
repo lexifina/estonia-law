@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-10-19T12:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töönädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "530c2a20-e79a-89e4-86d4-9bdfac88d4cd"
+    },
+    {
+      "order": 2,
+      "title": "Õiguskomisjoni kirjavahetus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "77064718-2cd7-a8c6-f47c-2da335b9f522"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 19.10.2009",
+      "uuid": "cb6c0cd6-0677-d64b-3f54-ecee6b7aa06c",
+      "files": [
+        "iguskomisjon_istungi_protokoll_43_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "c7c3646d-16ef-030b-cab1-8bdc3917fbaa",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c7c3646d-16ef-030b-cab1-8bdc3917fbaa)",
+  "source": "https://api.riigikogu.ee/api/volumes/c7c3646d-16ef-030b-cab1-8bdc3917fbaa",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-10-01&endDate=2009-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
