@@ -1,0 +1,33 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-10-20T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikogu välis-, keskkonna- ja majanduskomisjonide ühisistung teemal „Vene-Saksa gaasitrassi Nord Stream keskkonnamõjude hindamise aruanne”. Komisjonide arvamuse kujundamine täiendmaterjalide põhjal. (Riigikogu konverentsisaalis)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bc0192fb-6184-2f1c-4174-148feb1d9585"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 20.10.2009",
+      "uuid": "6f19932a-e215-919c-ea10-1dba57444dcb",
+      "files": [
+        "prot135 20.10.09.doc"
+      ]
+    }
+  ],
+  "uuid": "8a4417e9-0fa2-015d-49fe-b1dcc1ad9f9a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8a4417e9-0fa2-015d-49fe-b1dcc1ad9f9a)",
+  "source": "https://api.riigikogu.ee/api/volumes/8a4417e9-0fa2-015d-49fe-b1dcc1ad9f9a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-10-01&endDate=2009-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
