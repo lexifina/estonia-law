@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-10-20T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikaitsekomisjoni algatatud kaitseväeteenistuse seaduse § 197 muutmise seaduse eelnõu (545 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "34e5fd01-3981-229d-7f94-b3ee25e53a30"
+    },
+    {
+      "order": 2,
+      "title": "Sõjaväelise juhtimise mereväe suuna õppekava. Eesti Mereakadeemia 02.10.2009 kiri nr 6-12/511",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "038ff7f9-1bdf-1a77-94b7-729fc6e83da2"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 20.10.2009",
+      "uuid": "dfc60f91-6dd2-5309-937e-ab669a312bc2",
+      "files": [
+        "20.10.09.doc"
+      ]
+    }
+  ],
+  "uuid": "3577cc45-af7f-a04f-ef49-bf17b0e5dfc7",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3577cc45-af7f-a04f-ef49-bf17b0e5dfc7)",
+  "source": "https://api.riigikogu.ee/api/volumes/3577cc45-af7f-a04f-ef49-bf17b0e5dfc7",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-10-01&endDate=2009-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
