@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-10-20T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Rahvastiku tervise arengukavast",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "52f96ccc-dc57-3942-5905-4b8f4a9c819d"
+    },
+    {
+      "order": 2,
+      "title": "Sotsiaaldemokraatliku Erakonna fraktsiooni algatatud vanemahüvitise seaduse § 3 muutmise seaduse eelnõu (525 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "21e5644e-276e-07aa-b36e-667fcfa5e177"
+    },
+    {
+      "order": 3,
+      "title": "Vabariigi Valitsuse algatatud puuetega inimeste sotsiaaltoetuste seaduse, riikliku pensionikindlustuse seaduse ja sotsiaalhoolekande seaduse muutmise seaduse eelnõu (567 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9bbb6062-32b3-4fa6-01df-37df75bcc0a2"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 20.10.2009",
+      "uuid": "3931d62d-c814-d095-4eb8-c70c909a2a3c",
+      "files": [
+        "Sotsiaalkomisjon_paevakord_20_10_2009.odt",
+        "Sotsiaalkomisjon_istungi_protokoll_43_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "774e8076-e486-788b-bb8b-1d663a5c6e5c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 774e8076-e486-788b-bb8b-1d663a5c6e5c)",
+  "source": "https://api.riigikogu.ee/api/volumes/774e8076-e486-788b-bb8b-1d663a5c6e5c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-10-01&endDate=2009-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
