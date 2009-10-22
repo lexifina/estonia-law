@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-10-22T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Õiguskomisjoni algatatud perekonnaseaduse eelnõu (543 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9ea17336-4c22-470b-3b3c-7da6277ce4d5"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud kriminaalmenetluse seadustiku ja teiste seaduste muutmise seaduse eelnõu (286 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7c7cd243-4ed9-f3ce-798b-0bea63f5280a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 22.10.2009",
+      "uuid": "bcaf916e-d808-aaa9-5dec-311143d173d4",
+      "files": [
+        "iguskomisjon_istungi_protokoll_43_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "26881084-ddc0-a0bb-3203-7006e6031b72",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 26881084-ddc0-a0bb-3203-7006e6031b72)",
+  "source": "https://api.riigikogu.ee/api/volumes/26881084-ddc0-a0bb-3203-7006e6031b72",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-10-01&endDate=2009-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
