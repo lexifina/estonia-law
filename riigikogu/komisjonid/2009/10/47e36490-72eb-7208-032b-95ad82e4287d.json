@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-10-22T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Välisministeeriumi valitsemisala 2010. aasta eelarve. ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "15e1d5f7-ff8c-df76-c300-a0d27e6a7b5d"
+    },
+    {
+      "order": 2,
+      "title": "Arutelu Eesti välispoliitikat puudutavatel teemadel.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8521054f-7131-8f6b-be07-1bece5cc4cdc"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "21b769cb-1aee-fef6-56b0-8a5febfa0469"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 22.10.2009",
+      "uuid": "67e985c7-eb42-55e9-abe0-bdc12051717a",
+      "files": [
+        "22.10.09 (200) protokoll.doc"
+      ]
+    }
+  ],
+  "uuid": "47e36490-72eb-7208-032b-95ad82e4287d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 47e36490-72eb-7208-032b-95ad82e4287d)",
+  "source": "https://api.riigikogu.ee/api/volumes/47e36490-72eb-7208-032b-95ad82e4287d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-10-01&endDate=2009-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
