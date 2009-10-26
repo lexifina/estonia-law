@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-10-26T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töönädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d1af86af-d2bf-78a7-a583-99a12ef7dbe2"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud politsei ja piirivalve seaduse rakendamise seaduse eelnõu (519 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1d60344e-84c6-641f-42e2-791e69ef1cf6"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 26.10.2009",
+      "uuid": "8a370d38-b40d-7b26-e94a-fb3b0cd1aa38",
+      "files": [
+        "iguskomisjon_istungi_protokoll_44_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "ad73be92-a7e1-990a-6138-3b3a048e66ef",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ad73be92-a7e1-990a-6138-3b3a048e66ef)",
+  "source": "https://api.riigikogu.ee/api/volumes/ad73be92-a7e1-990a-6138-3b3a048e66ef",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-10-01&endDate=2009-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
