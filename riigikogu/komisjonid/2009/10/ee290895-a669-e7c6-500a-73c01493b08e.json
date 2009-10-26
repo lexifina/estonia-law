@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-10-26T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud isikuandmete kaitse seaduse, avaliku teabe seaduse ja arhiiviseaduse muutmise seaduse eelnõu (564 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0048465a-8a68-cd58-f81b-9fecbdaf23f2"
+    },
+    {
+      "order": 2,
+      "title": "ELAK´le arvamuse andmine Euroopa Liidu ühise ümberasustamisprogrammi loomise kohta",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9f1cc08c-47b4-6dd5-229c-83c2602ad612"
+    },
+    {
+      "order": 3,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "78fba282-a05c-5455-eb82-228b5502e617"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 26.10.2009",
+      "uuid": "6549f27a-c758-5ce6-5b37-8c231a5b0ffe",
+      "files": [
+        "Põhiseaduskomisjon_istungi_protokoll_44_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "ee290895-a669-e7c6-500a-73c01493b08e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ee290895-a669-e7c6-500a-73c01493b08e)",
+  "source": "https://api.riigikogu.ee/api/volumes/ee290895-a669-e7c6-500a-73c01493b08e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-10-01&endDate=2009-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
