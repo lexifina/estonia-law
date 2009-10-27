@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-10-27T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud korrakaitseseaduse eelnõu (49 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "20050f47-d217-23f0-ed97-071f7fd075a5"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud lepitusseaduse eelnõu (487 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a52fa63b-10eb-d14c-f9ab-2090626785de"
+    },
+    {
+      "order": 3,
+      "title": "Arvamus Riigikohtule",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "89cbbf3a-75bd-b5cb-86e6-33555747d1d6"
+    },
+    {
+      "order": 4,
+      "title": "Arvamus liiklusseaduse eelnõu 475 SE kohta",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "29221a93-3d37-8154-7ee5-08f34c807422"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 27.10.2009",
+      "uuid": "1de71c04-d46c-e239-36d8-16632c0c7709",
+      "files": [
+        "iguskomisjon_istungi_protokoll_44_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "0caca385-c6f0-ca47-cd71-edba119e1a13",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0caca385-c6f0-ca47-cd71-edba119e1a13)",
+  "source": "https://api.riigikogu.ee/api/volumes/0caca385-c6f0-ca47-cd71-edba119e1a13",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-10-01&endDate=2009-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
