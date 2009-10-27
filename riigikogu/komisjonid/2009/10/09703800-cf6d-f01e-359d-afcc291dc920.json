@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-10-27T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti piimandusstrateegia",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3c7f2e13-ace3-b5c6-2849-d46417d4e6d3"
+    },
+    {
+      "order": 2,
+      "title": "Arengukava \"Eesti Toit\"",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "98f5f2f9-2e79-f885-77c2-e0a2e075c100"
+    },
+    {
+      "order": 3,
+      "title": "Vabariigi Valitsuse algatatud Euroopa Liidu ühise põllumajanduspoliitika rakendamise seaduse eelnõu (540 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7461e9a8-7cf3-fe6b-e8c5-97e61c2f9f19"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 27.10.2009",
+      "uuid": "5fe1c5e8-a456-c540-9b3c-50281442ee74",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_44_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "09703800-cf6d-f01e-359d-afcc291dc920",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 09703800-cf6d-f01e-359d-afcc291dc920)",
+  "source": "https://api.riigikogu.ee/api/volumes/09703800-cf6d-f01e-359d-afcc291dc920",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-10-01&endDate=2009-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
