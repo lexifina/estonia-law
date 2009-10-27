@@ -1,0 +1,33 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-10-27T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Eesti Lastekaitse Liidu esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3f2725a7-377a-5ed4-f38c-ddea567c66ce"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 27.10.2009",
+      "uuid": "19c05c4b-8e41-c857-b3d6-bd647df98252",
+      "files": [
+        "Sotsiaalkomisjon_istungi_protokoll_44_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "64f5d9b7-230e-d597-53be-89c9ff7c7575",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 64f5d9b7-230e-d597-53be-89c9ff7c7575)",
+  "source": "https://api.riigikogu.ee/api/volumes/64f5d9b7-230e-d597-53be-89c9ff7c7575",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-10-01&endDate=2009-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
