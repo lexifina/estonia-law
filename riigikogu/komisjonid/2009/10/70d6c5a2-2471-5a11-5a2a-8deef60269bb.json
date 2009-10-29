@@ -1,0 +1,33 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-10-29T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väljasõiduistung Põlva- ja Jõgevamaal",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ff659327-0a79-6d9a-9ae3-3d50117fafd7"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 29.10.2009",
+      "uuid": "d1c593e5-df68-0fa9-aad2-0a72fa9a100f",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_44_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "70d6c5a2-2471-5a11-5a2a-8deef60269bb",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 70d6c5a2-2471-5a11-5a2a-8deef60269bb)",
+  "source": "https://api.riigikogu.ee/api/volumes/70d6c5a2-2471-5a11-5a2a-8deef60269bb",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-10-01&endDate=2009-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
