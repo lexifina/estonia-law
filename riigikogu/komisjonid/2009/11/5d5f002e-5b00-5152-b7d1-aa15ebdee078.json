@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-11-09T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Majanduskomisjoni algatatud riigi eraõiguslikes juriidilistes isikutes osalemise seaduse muutmise seaduse eelnõu (591 SE) arutelu 2. lugemisele saatmiseks.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2959ebc5-5e60-d528-5f54-76bf03a128ca"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud alkoholiseaduse muutmise seaduse eelnõu (491 SE) seletuskirja ülevaatamine. ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "13bf9a2f-ac3c-5a74-c283-c9072008d492"
+    },
+    {
+      "order": 3,
+      "title": "Vabariigi Valitsuse algatatud lõhkematerjaliseaduse ja riigilõivuseaduse muutmise seaduse eelnõu (572 SE) muudetud seletuskirja ülevaatamine. ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5c96ff10-cda9-e7ab-cf4e-2e65996c81e8"
+    },
+    {
+      "order": 4,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cc8bdf02-5c32-1c31-2a78-7848562e066b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 09.11.2009",
+      "uuid": "c5135e0b-c736-567c-26e0-0bdc9ee7dd2e",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_46_2009.odt",
+        "Majanduskomisjon_paevakord_09_11_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "5d5f002e-5b00-5152-b7d1-aa15ebdee078",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 5d5f002e-5b00-5152-b7d1-aa15ebdee078)",
+  "source": "https://api.riigikogu.ee/api/volumes/5d5f002e-5b00-5152-b7d1-aa15ebdee078",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-11-01&endDate=2009-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
