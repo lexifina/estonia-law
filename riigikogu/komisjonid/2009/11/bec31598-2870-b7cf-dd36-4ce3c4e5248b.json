@@ -1,0 +1,33 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-11-10T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülikooliseaduse muutmise seaduse eelnõu algatamise otsustamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "71112b0f-5f8f-816d-9bf2-69587ff8da25"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 10.11.2009",
+      "uuid": "3fe7fe14-e744-afa4-3f06-6fb153674661",
+      "files": [
+        "Kultuurikomisjon_paevakord_10_11_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "bec31598-2870-b7cf-dd36-4ce3c4e5248b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid bec31598-2870-b7cf-dd36-4ce3c4e5248b)",
+  "source": "https://api.riigikogu.ee/api/volumes/bec31598-2870-b7cf-dd36-4ce3c4e5248b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-11-01&endDate=2009-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
