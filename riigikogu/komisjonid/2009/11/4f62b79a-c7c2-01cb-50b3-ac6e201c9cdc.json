@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-11-10T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud 2010. aasta riigieelarve seaduse eelnõu (587 SE). Osalevad kultuuriminister ja keskkonnaminister.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a6ca6c24-2c5c-5036-b4ec-e53835ab2811"
+    },
+    {
+      "order": 2,
+      "title": "Väljasõiduistung. Kohtumine Vabariigi Presidendiga",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8db291a7-37ad-c736-a6c4-f190e2d34a99"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 10.11.2009",
+      "uuid": "8283057d-9238-729a-622d-7bc536a82d9f",
+      "files": [
+        "Rahanduskomisjon_istungi_protokoll_46_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "4f62b79a-c7c2-01cb-50b3-ac6e201c9cdc",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 4f62b79a-c7c2-01cb-50b3-ac6e201c9cdc)",
+  "source": "https://api.riigikogu.ee/api/volumes/4f62b79a-c7c2-01cb-50b3-ac6e201c9cdc",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-11-01&endDate=2009-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
