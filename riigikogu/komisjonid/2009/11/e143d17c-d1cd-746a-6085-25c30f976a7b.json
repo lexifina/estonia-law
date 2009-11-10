@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-11-10T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud tsiviilkohtumenetluse seadustiku, kohtute seaduse ja riigi õigusabi seaduse muutmise seaduse eelnõu (583 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "40c4e8f7-3989-68d9-9156-542e6c0c6547"
+    },
+    {
+      "order": 2,
+      "title": "Õiguskomisjoni algatatud perekonnaseaduse eelnõu (543 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "28d82c2a-d957-03bb-05d4-090fd63d0c31"
+    },
+    {
+      "order": 3,
+      "title": "Õiguskomisjoni algatatud karistusseadustiku muutmise seaduse eelnõu (542 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b0171190-9e51-4b54-2363-329348774913"
+    },
+    {
+      "order": 4,
+      "title": "Vabariigi Valitsuse algatatud politsei ja piirivalve seaduse rakendamise seaduse eelnõu (519 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0736e738-e1c5-810b-d48d-cecaea8fe592"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 10.11.2009",
+      "uuid": "1aa1d699-5ffc-c5da-e9e2-641f946d46cb",
+      "files": [
+        "iguskomisjon_istungi_protokoll_46_2009.odt",
+        "iguskomisjon_paevakord_10_11_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "e143d17c-d1cd-746a-6085-25c30f976a7b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e143d17c-d1cd-746a-6085-25c30f976a7b)",
+  "source": "https://api.riigikogu.ee/api/volumes/e143d17c-d1cd-746a-6085-25c30f976a7b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-11-01&endDate=2009-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
