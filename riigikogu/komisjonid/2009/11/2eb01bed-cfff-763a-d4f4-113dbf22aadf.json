@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-11-12T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud veeseaduse ja sellega seonduvate seaduste muutmise seaduse eelnõu (581 SE) arutelu 1. lugemisele saatmiseks. ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cb8e8d90-fca9-2268-53e4-b6e92ed6dfb1"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud raudteeseaduse ja riigilõivuseaduse muutmise seaduse eelnõu (573 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "280bbbf7-1739-7a21-0643-e65ce44fe86f"
+    },
+    {
+      "order": 3,
+      "title": "Vabariigi Valitsuse algatatud audiitortegevuse seaduse eelnõu (488 SE) arutelu 1. lugemisele saatmiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c62964a6-3310-1b24-41f8-cf57bb273790"
+    },
+    {
+      "order": 4,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "18bda47f-8446-43d9-ed57-c99b11acb4b9"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 12.11.2009",
+      "uuid": "1066be6e-232c-10d9-bc9f-4ae9f56c3323",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_46_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "2eb01bed-cfff-763a-d4f4-113dbf22aadf",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2eb01bed-cfff-763a-d4f4-113dbf22aadf)",
+  "source": "https://api.riigikogu.ee/api/volumes/2eb01bed-cfff-763a-d4f4-113dbf22aadf",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-11-01&endDate=2009-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
