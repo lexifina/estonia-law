@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-11-12T12:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Digiretsepti käivitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a53f962b-6e63-7f57-0681-f58861bdce68"
+    },
+    {
+      "order": 2,
+      "title": "Valmisolek gripipandeemiaks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c0aa85e6-984f-2d08-4710-9e03732c2579"
+    },
+    {
+      "order": 3,
+      "title": "Logopeedide töö- ja puhkeaeg",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e3d414b3-8201-a00d-ac2a-31fcd7d45cff"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 12.11.2009",
+      "uuid": "15773949-19e8-87ab-f56e-d36053fdfd88",
+      "files": [
+        "Sotsiaalkomisjon_istungi_protokoll_46_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "c498b849-b693-744a-3e5f-ccf3f2587067",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c498b849-b693-744a-3e5f-ccf3f2587067)",
+  "source": "https://api.riigikogu.ee/api/volumes/c498b849-b693-744a-3e5f-ccf3f2587067",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-11-01&endDate=2009-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
