@@ -1,0 +1,33 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-11-12T10:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Arvamuse andmine liiklusseaduse eelnõule 475 SE",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "68119927-3c4f-ee23-474f-0fb4b23620ec"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 12.11.2009",
+      "uuid": "b8d62223-6409-aa7d-51a0-e504c9c32e28",
+      "files": [
+        "iguskomisjon_istungi_protokoll_46_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "7ff618e2-81d5-0cec-5850-727eed517f5f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7ff618e2-81d5-0cec-5850-727eed517f5f)",
+  "source": "https://api.riigikogu.ee/api/volumes/7ff618e2-81d5-0cec-5850-727eed517f5f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-11-01&endDate=2009-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
