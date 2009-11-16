@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-11-16T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Presidendi poolt väljakuulutamata jäetud kaitseväeteenistuse seaduse ja teiste seaduste muutmise seadus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cd6c673c-2bb5-66b6-17b0-a5ef4f4c2afe"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud välismaalaste seaduse eelnõu (537 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "302947bf-7539-e14f-b935-21a139a8bb4e"
+    },
+    {
+      "order": 3,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d5e3ce67-a0fb-cb63-d811-1eb278c01946"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 16.11.2009",
+      "uuid": "14a96695-5892-1da5-2e3c-bc46303f68dc",
+      "files": [
+        "Põhiseaduskomisjon_istungi_protokoll_47_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "462bf807-d647-3a9e-3ee3-96006f93f05b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 462bf807-d647-3a9e-3ee3-96006f93f05b)",
+  "source": "https://api.riigikogu.ee/api/volumes/462bf807-d647-3a9e-3ee3-96006f93f05b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-11-01&endDate=2009-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
