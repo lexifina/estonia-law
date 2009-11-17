@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-11-17T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Puuetega Inimeste Koja esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3ffc264d-9809-88b0-e6f9-d2a2c722288a"
+    },
+    {
+      "order": 2,
+      "title": "Eesti Keskerakonna fraktsiooni algatatud ravikindlustuse seaduse muutmise seaduse eelnõu (584 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d8f9400c-7661-85f4-9a5a-7957c51d945e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 17.11.2009",
+      "uuid": "e9c6c6cf-a221-8581-2115-84f63bc7053e",
+      "files": [
+        "Sotsiaalkomisjon_istungi_protokoll_47_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "c03715e3-069f-350d-a887-1a7080c7164c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c03715e3-069f-350d-a887-1a7080c7164c)",
+  "source": "https://api.riigikogu.ee/api/volumes/c03715e3-069f-350d-a887-1a7080c7164c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-11-01&endDate=2009-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
