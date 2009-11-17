@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-11-17T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud lennundusseaduse muutmise seaduse eelnõu (563 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "afe4577c-62cb-26fc-166c-c42f906e1585"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud elektrituruseaduse muutmise seaduse eelnõu (605 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0e0c0325-5096-b13b-2dca-336a24246a31"
+    },
+    {
+      "order": 3,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "399405e2-bca3-4e33-ec9d-55fd48d07114"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 17.11.2009",
+      "uuid": "e26d05b4-d167-3820-db08-b8559914991f",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_47_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "73f69a21-f75d-2d35-2b6a-417b1d6a49a7",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 73f69a21-f75d-2d35-2b6a-417b1d6a49a7)",
+  "source": "https://api.riigikogu.ee/api/volumes/73f69a21-f75d-2d35-2b6a-417b1d6a49a7",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-11-01&endDate=2009-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
