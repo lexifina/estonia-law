@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-11-19T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Istungi algus 15. minuti pärast täiskogu töö lõppemist",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d44797f2-026f-4977-4d43-dacef5d636ae"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud politsei ja piirivalve seaduse rakendamise seaduse eelnõu (519 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c16b7bc7-a65a-e019-2dd7-3d7a54ca0f7d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 19.11.2009",
+      "uuid": "a6ac016c-895b-17d8-2b08-c6a2494a2746",
+      "files": [
+        "iguskomisjon_istungi_protokoll_47_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "b3912976-9b87-f784-c2de-f1e6295d2b7c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b3912976-9b87-f784-c2de-f1e6295d2b7c)",
+  "source": "https://api.riigikogu.ee/api/volumes/b3912976-9b87-f784-c2de-f1e6295d2b7c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-11-01&endDate=2009-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
