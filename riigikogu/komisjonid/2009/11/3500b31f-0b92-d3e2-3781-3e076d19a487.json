@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-11-19T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud loomatauditõrje seaduse ja veterinaarkorralduse seaduse muutmise seaduse eelnõu (600 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3464f70c-6e7e-e89f-79dc-63be1cc8dc77"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud toiduseaduse ja riigilõivuseaduse muutmise seaduse eelnõu (608 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "71ed78c1-bd0a-fb48-5f60-9c4e17f4c0c5"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 19.11.2009",
+      "uuid": "63a8ba6f-0c4d-7e12-1b49-039f2702a7e9",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_47_2009.odt",
+        "Maaelukomisjon_paevakord_19_11_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "3500b31f-0b92-d3e2-3781-3e076d19a487",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3500b31f-0b92-d3e2-3781-3e076d19a487)",
+  "source": "https://api.riigikogu.ee/api/volumes/3500b31f-0b92-d3e2-3781-3e076d19a487",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-11-01&endDate=2009-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
