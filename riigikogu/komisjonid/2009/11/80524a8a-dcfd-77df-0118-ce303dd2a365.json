@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-11-23T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikaitsekomisjoni töönädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cc96d844-846a-9fad-37ba-4e06cfc00476"
+    },
+    {
+      "order": 2,
+      "title": "Kaitseväeteenistuse seaduse ja teiste seaduste muutmise seaduse eelnõu (535 UA)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3755fea7-d3a8-e21c-2765-ea282d3ed01d"
+    },
+    {
+      "order": 3,
+      "title": "Valev K. 16.11.2009 e-kiri",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9b7010c7-6e15-306a-ac33-5d60abe548ea"
+    },
+    {
+      "order": 4,
+      "title": "Informatsioon k.a 23. novembril jõustunud Riigikogu kodu- ja töökorra seaduse muudatustest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6cec74b6-59f4-cbba-0fb6-24d851d40ca2"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 23.11.2009",
+      "uuid": "615a75d1-9f22-773d-6cdd-f770c56ef661",
+      "files": [
+        "23.11.09.doc"
+      ]
+    }
+  ],
+  "uuid": "80524a8a-dcfd-77df-0118-ce303dd2a365",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 80524a8a-dcfd-77df-0118-ce303dd2a365)",
+  "source": "https://api.riigikogu.ee/api/volumes/80524a8a-dcfd-77df-0118-ce303dd2a365",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-11-01&endDate=2009-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
