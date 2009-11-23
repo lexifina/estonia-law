@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-11-23T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töönädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "14020253-b2fb-1a74-3239-f7d2e0557a4a"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud politsei ja piirivalve seaduse rakendamise seaduse eelnõu (519 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "60a2df22-014a-8ed6-99e1-11e06024f91f"
+    },
+    {
+      "order": 3,
+      "title": "Vabariigi Valitsuse algatatud nimeseaduse ja riigilõivuseaduse muutmise seaduse eelnõu (531 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2908e07c-4373-88b5-5f15-d29596b0c38b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 23.11.2009",
+      "uuid": "420162d2-da34-52a6-fa47-36ec612c26b3",
+      "files": [
+        "iguskomisjon_istungi_protokoll_48_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "fc1ff363-f234-4bf8-2045-bca639793259",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid fc1ff363-f234-4bf8-2045-bca639793259)",
+  "source": "https://api.riigikogu.ee/api/volumes/fc1ff363-f234-4bf8-2045-bca639793259",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-11-01&endDate=2009-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
