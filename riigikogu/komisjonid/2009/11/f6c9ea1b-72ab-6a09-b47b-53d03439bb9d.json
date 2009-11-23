@@ -1,0 +1,58 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-11-23T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4a0b44cb-b28d-3d4c-1965-618dcb6d3bdb"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade FAO tippkohtumise raames toimunud parlamentaarsest istungist ning maaelukomisjoni esindajate kohtumisest Itaalia toiduorganisatsioonide esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "88a5d275-5252-adb5-c5dc-d7e60962d31e"
+    },
+    {
+      "order": 3,
+      "title": "Vabariigi Valitsuse algatatud loomatauditõrje seaduse ja veterinaarkorralduse seaduse muutmise seaduse eelnõu (600 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "53c7f062-aebf-aa5a-0266-32661ec5371e"
+    },
+    {
+      "order": 4,
+      "title": "Vabariigi Valitsuse algatatud toiduseaduse ja riigilõivuseaduse muutmise seaduse eelnõu (608 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cd239d2e-a759-9537-e9ea-8b9dc26f6229"
+    },
+    {
+      "order": 5,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9211250d-6ea2-fbcd-2e43-192aa1c0c6a1"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 23.11.2009",
+      "uuid": "03cce15f-ea0c-8d84-663a-72a38e34718b",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_48_2009.odt",
+        "Maaelukomisjon_paevakord_23_11_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "f6c9ea1b-72ab-6a09-b47b-53d03439bb9d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f6c9ea1b-72ab-6a09-b47b-53d03439bb9d)",
+  "source": "https://api.riigikogu.ee/api/volumes/f6c9ea1b-72ab-6a09-b47b-53d03439bb9d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-11-01&endDate=2009-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
