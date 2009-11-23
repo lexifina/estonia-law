@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-11-23T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "\tElektribörsi käivitamisest ja toimimisest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a04e6a27-302e-efe7-47f9-2db733c79b8d"
+    },
+    {
+      "order": 2,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0fb58f0b-e1d1-f302-a133-8893479a5942"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 23.11.2009",
+      "uuid": "dd93733b-2bbd-29e1-f48d-b2411a1f0f00",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_48_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "e336e9ef-fe31-91f7-1923-a418cd9fea75",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e336e9ef-fe31-91f7-1923-a418cd9fea75)",
+  "source": "https://api.riigikogu.ee/api/volumes/e336e9ef-fe31-91f7-1923-a418cd9fea75",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-11-01&endDate=2009-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
