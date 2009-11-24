@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-11-24T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud eesti Teaduste Akadeemia seaduse muutmise seaduse eelnõu (588 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cd729174-9fb9-d656-a317-71d2a1b92d0f"
+    },
+    {
+      "order": 2,
+      "title": "412 SE ettekandja määramine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "581169a2-51f5-b150-db1e-1cb07b8f0700"
+    },
+    {
+      "order": 3,
+      "title": "Täiskasvanute koolituse seaduse muutmise seaduse eelnõu algatamise arutamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "da140a19-232c-a5cd-f174-72f3a093fa2e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 24.11.2009",
+      "uuid": "6bd3d77e-05c1-2e38-f1de-7f27471e87e1",
+      "files": [
+        "Kultuurikomisjon_istungi_protokoll_48_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "72fde0c1-2253-4622-476a-388c9b031996",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 72fde0c1-2253-4622-476a-388c9b031996)",
+  "source": "https://api.riigikogu.ee/api/volumes/72fde0c1-2253-4622-476a-388c9b031996",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-11-01&endDate=2009-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
