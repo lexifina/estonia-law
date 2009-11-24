@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-11-24T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Pandeemiline gripp. Kutsutud professor Matti Maimets.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f7ed4cc1-dbc2-0919-d97d-2a6f7e8810cb"
+    },
+    {
+      "order": 2,
+      "title": "Kaitseväeteenistuse seaduse ja teiste seaduste muutmise seaduse eelnõu (535 UA)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "39f6c95d-a855-bff7-9f20-9cba3a80373e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 24.11.2009",
+      "uuid": "0765452b-029f-7c23-a2a9-91476be05f98",
+      "files": [
+        "24.11.09.doc"
+      ]
+    }
+  ],
+  "uuid": "1ff330cb-9d41-1781-39ed-ec849b47b22a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 1ff330cb-9d41-1781-39ed-ec849b47b22a)",
+  "source": "https://api.riigikogu.ee/api/volumes/1ff330cb-9d41-1781-39ed-ec849b47b22a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-11-01&endDate=2009-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
