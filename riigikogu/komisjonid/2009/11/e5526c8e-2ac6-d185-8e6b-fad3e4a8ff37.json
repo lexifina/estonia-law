@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-11-24T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väliskomisjoni Hiina visiidi ettevalmistamine: ülevaade Eesti-Hiina suhetest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4f8ec4b6-5ede-3eb8-0327-7d47319fbdbe"
+    },
+    {
+      "order": 2,
+      "title": "Väliskomisjoni seisukoha kujundamine Balti Assamblee töö ümberkorraldamiseks.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6f10fcce-a233-f21d-866a-74a76d01aa23"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "50c49119-2d08-2663-45fe-e77ce7eb0cec"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 24.11.2009",
+      "uuid": "de010732-c5a8-0aa0-13c7-339cad552f04",
+      "files": [
+        "24.11.09 (211).doc"
+      ]
+    }
+  ],
+  "uuid": "e5526c8e-2ac6-d185-8e6b-fad3e4a8ff37",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e5526c8e-2ac6-d185-8e6b-fad3e4a8ff37)",
+  "source": "https://api.riigikogu.ee/api/volumes/e5526c8e-2ac6-d185-8e6b-fad3e4a8ff37",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-11-01&endDate=2009-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
