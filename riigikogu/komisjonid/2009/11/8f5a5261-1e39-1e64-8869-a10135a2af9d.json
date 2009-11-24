@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-11-24T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Sotsiaaldemokraatliku Erakonna fraktsiooni algatatud asjaõigusseaduse ja pankrotiseaduse muutmise seaduse eelnõu (593 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7b156bc7-9158-88c0-5052-c3f60114e8c8"
+    },
+    {
+      "order": 2,
+      "title": "Eesti Keskerakonna fraktsiooni algatatud asjaõigusseaduse ja võlaõigusseaduse muutmise seaduse eelnõu (578 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fd2170c6-91ee-ba23-d960-effd2c4cd1bf"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 24.11.2009",
+      "uuid": "48416167-254d-4c19-a005-c6078e99ef6c",
+      "files": [
+        "iguskomisjon_istungi_protokoll_48_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "8f5a5261-1e39-1e64-8869-a10135a2af9d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8f5a5261-1e39-1e64-8869-a10135a2af9d)",
+  "source": "https://api.riigikogu.ee/api/volumes/8f5a5261-1e39-1e64-8869-a10135a2af9d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-11-01&endDate=2009-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
