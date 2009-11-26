@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-11-26T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väliskomisjoni ja riigikaitsekomisjoni ühisistung: Eesti kaitseväe rahvusvaheliste missioonide tulevik.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "33e97236-dea8-f51c-1a4b-a98f89265cbb"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "16f768a9-99f1-0093-2d38-0bba48a981f8"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 26.11.2009",
+      "uuid": "f285b8cf-af79-e7a9-ddeb-b8835a2e4f73",
+      "files": [
+        "26.11.09 (212).doc"
+      ]
+    }
+  ],
+  "uuid": "b78b9a47-fae3-9984-93d6-b555f57b6e7a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b78b9a47-fae3-9984-93d6-b555f57b6e7a)",
+  "source": "https://api.riigikogu.ee/api/volumes/b78b9a47-fae3-9984-93d6-b555f57b6e7a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-11-01&endDate=2009-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
