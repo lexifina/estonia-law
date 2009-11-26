@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-11-26T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud toiduseaduse ja riigilõivuseaduse muutmise seaduse eelnõu (608 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5e87e5e9-4a45-b680-5d25-d4f477b7134d"
+    },
+    {
+      "order": 2,
+      "title": "Maareformi seaduse § 23³ muutmise seadus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3d0304a5-d8c3-e28a-37b3-38d5ddc75331"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 26.11.2009",
+      "uuid": "1456a752-cd05-a2bd-c7cd-fc5c014218c3",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_48_2009.odt",
+        "Maaelukomisjon_paevakord_26_11_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "e7e07809-5cd9-01cb-72d3-e910cff6f01b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e7e07809-5cd9-01cb-72d3-e910cff6f01b)",
+  "source": "https://api.riigikogu.ee/api/volumes/e7e07809-5cd9-01cb-72d3-e910cff6f01b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-11-01&endDate=2009-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
