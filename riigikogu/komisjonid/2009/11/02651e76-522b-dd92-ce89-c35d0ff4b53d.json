@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-11-26T12:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud lõhkematerjaliseaduse ja riigilõivuseaduse muutmise seaduse eelnõu (572 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fbdc0cd6-ce8e-b79c-0ceb-2a8a7a67fc90"
+    },
+    {
+      "order": 2,
+      "title": "Parlamentaarne kuulamine: Eesti ettevalmistused Expo 2010 osas.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8fb93cf9-21a4-26f2-4348-7de28b382a5c"
+    },
+    {
+      "order": 3,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f004a157-d887-d73e-2f20-311b4caf88a5"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 26.11.2009",
+      "uuid": "1526695d-7616-ea1e-9c5c-535f5cb40ecd",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_48_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "02651e76-522b-dd92-ce89-c35d0ff4b53d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 02651e76-522b-dd92-ce89-c35d0ff4b53d)",
+  "source": "https://api.riigikogu.ee/api/volumes/02651e76-522b-dd92-ce89-c35d0ff4b53d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-11-01&endDate=2009-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
