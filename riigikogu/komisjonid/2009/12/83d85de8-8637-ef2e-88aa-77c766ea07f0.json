@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-12-07T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töönädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2460ad97-7d60-87ea-115b-eba9f4bec939"
+    },
+    {
+      "order": 2,
+      "title": "Riigi Peaprokuröri kandidaadi suhtes seisukoha kujundamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "83ff6a6c-9228-5916-4780-a3a6a5d9e4ce"
+    },
+    {
+      "order": 3,
+      "title": "Vabariigi Valitsuse algatatud tsiviilkohtumenetluse seadustiku, kohtute seaduse ja riigi õigusabi seaduse muutmise seaduse eelnõu (583 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c508442b-622b-e795-1c9d-0e8f06b03afd"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 07.12.2009",
+      "uuid": "6776cdd0-05e6-b7f7-c142-40e3c5428dad",
+      "files": [
+        "iguskomisjon_istungi_protokoll_50_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "83d85de8-8637-ef2e-88aa-77c766ea07f0",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 83d85de8-8637-ef2e-88aa-77c766ea07f0)",
+  "source": "https://api.riigikogu.ee/api/volumes/83d85de8-8637-ef2e-88aa-77c766ea07f0",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-12-01&endDate=2009-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
