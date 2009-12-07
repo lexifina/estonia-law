@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-12-07T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud euroopa Liidu teenuste direktiivi rakendamise seaduse eelnõu (603 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a40bd602-4c45-0213-daec-051857f77909"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud ühistranspordiseaduse muutmise seaduse eelnõu (623 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e904a02d-8fe1-2d9f-1bbf-0d0665951350"
+    },
+    {
+      "order": 3,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "848a6ad6-5c92-0a2c-d299-75bb07744692"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 07.12.2009",
+      "uuid": "dd2ee6c0-87a4-4f83-7618-7c10a5f3fc29",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_50_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "588dd921-a628-55ab-d7e8-aa71d164e8ef",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 588dd921-a628-55ab-d7e8-aa71d164e8ef)",
+  "source": "https://api.riigikogu.ee/api/volumes/588dd921-a628-55ab-d7e8-aa71d164e8ef",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-12-01&endDate=2009-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
