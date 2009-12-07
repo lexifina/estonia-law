@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-12-07T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "eac3f3b9-0ae9-3ab6-14cb-aa913e1ab695"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud keeleseaduse ja kodakondsuse seaduse muutmise seaduse eelnõu (635 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7bb10228-800c-12fe-7a40-237bcc0e354a"
+    },
+    {
+      "order": 3,
+      "title": "Vabariigi Valitsuse algatatud põhikooli- ja gümnaasiumiseaduse eelnõu (412 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ad110db5-98e0-a41e-9bcb-3dfbd5317b0c"
+    },
+    {
+      "order": 4,
+      "title": "Info ja kirjad",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5d6e31a7-89ba-e3c6-8ad6-f3f0fae49fbf"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 07.12.2009",
+      "uuid": "d67f9056-54ad-c441-c093-cb376e98af16",
+      "files": [
+        "Kultuurikomisjon_istungi_protokoll_50_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "d51fec8c-f9a7-95be-3f06-7363d62a6afa",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d51fec8c-f9a7-95be-3f06-7363d62a6afa)",
+  "source": "https://api.riigikogu.ee/api/volumes/d51fec8c-f9a7-95be-3f06-7363d62a6afa",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-12-01&endDate=2009-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
