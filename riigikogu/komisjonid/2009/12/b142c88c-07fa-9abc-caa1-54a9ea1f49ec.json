@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-12-08T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "1.\tEuroopa Parlamendi ja nõukogu määruse „Maa seire Euroopa programmi (GMES) ja selle esialgsete toimingute ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4aa76174-42a7-a5c1-507d-0e11e567e92f"
+    },
+    {
+      "order": 2,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e899d8de-1b4e-d488-bb39-787e1b1cf498"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 08.12.2009",
+      "uuid": "6db91e23-c5c2-0836-d9f8-ef93175477d4",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_50_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "b142c88c-07fa-9abc-caa1-54a9ea1f49ec",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b142c88c-07fa-9abc-caa1-54a9ea1f49ec)",
+  "source": "https://api.riigikogu.ee/api/volumes/b142c88c-07fa-9abc-caa1-54a9ea1f49ec",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-12-01&endDate=2009-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
