@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-12-08T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud kriminaalmenetluse seadustiku ja teiste seaduste muutmise seaduse eelnõu (286 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d442c932-62b2-fc97-a2ef-ac110f5535f9"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud karistusseadustiku, kriminaalmenetluse seadustiku ja konkurentsiseaduse muutmise seaduse eelnõu (438 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e3abe840-77af-b02a-d4cf-cdc94ccea2d3"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 08.12.2009",
+      "uuid": "5b311389-efef-831f-287f-efc4e23a33f3",
+      "files": [
+        "iguskomisjon_istungi_protokoll_50_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "55d03e5a-f184-e787-c0a9-e604f2170425",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 55d03e5a-f184-e787-c0a9-e604f2170425)",
+  "source": "https://api.riigikogu.ee/api/volumes/55d03e5a-f184-e787-c0a9-e604f2170425",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-12-01&endDate=2009-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
