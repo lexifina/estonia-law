@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-12-10T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade 7.-18. detsembril 2009 Kopenhaagenis  toimuvast ÜRO kliimakonverentsist.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b7b4bd1a-8f97-b342-799a-645176f932c1"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d8200a58-7d97-1936-c140-c78c878d830c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 10.12.2009",
+      "uuid": "6f45ce49-185f-ff92-de94-ca7ec24b6813",
+      "files": [
+        "Väliskomisjon_istungi_protokoll_50_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "cc83d954-e827-7622-ed6f-b1568dadcdb9",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid cc83d954-e827-7622-ed6f-b1568dadcdb9)",
+  "source": "https://api.riigikogu.ee/api/volumes/cc83d954-e827-7622-ed6f-b1568dadcdb9",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-12-01&endDate=2009-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
