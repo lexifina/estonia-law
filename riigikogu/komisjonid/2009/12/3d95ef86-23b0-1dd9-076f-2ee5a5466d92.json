@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-12-14T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "86bb7b95-bc17-aa62-9b59-8fd5ce6f6949"
+    },
+    {
+      "order": 2,
+      "title": "Arvamuse andmine ELAKile Eesti seisukohtade kohta Euroopa Komisjoni ettepanekule \" Euroopa Parlamendi ja nõukogu otsus ühenduse osalemise kohta mitme liikmesriigi algatatud ühises Läänemere teadus- ja arendusprogrammis (BONUS- 169)\", arvamus ELAKile",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "814c0485-f18e-4714-08ce-f0f78d8d5c4e"
+    },
+    {
+      "order": 3,
+      "title": "Info ja kirjad",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bea5df51-4954-0e17-39ef-253269fd9d42"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 14.12.2009",
+      "uuid": "d9a25973-1ddd-4baf-bf24-f38b2efe81d1",
+      "files": [
+        "Kultuurikomisjon_istungi_protokoll_51_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "3d95ef86-23b0-1dd9-076f-2ee5a5466d92",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3d95ef86-23b0-1dd9-076f-2ee5a5466d92)",
+  "source": "https://api.riigikogu.ee/api/volumes/3d95ef86-23b0-1dd9-076f-2ee5a5466d92",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-12-01&endDate=2009-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
