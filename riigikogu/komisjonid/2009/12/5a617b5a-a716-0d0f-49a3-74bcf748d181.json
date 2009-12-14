@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-12-14T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töönädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2bec963c-b382-062c-3e4d-24e06e1c0dd0"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud karistusseadustiku muutmise seaduse eelnõu (640 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7984f411-5a1a-3a5a-1517-2dd483a79e3b"
+    },
+    {
+      "order": 3,
+      "title": "Vabariigi Valitsuse algatatud karistusseadustiku muutmise seaduse eelnõu (642 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "77c16e5f-1d59-219e-bfb3-6a143d6e8bbf"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 14.12.2009",
+      "uuid": "baabd3a7-9edf-d5b6-ad99-ec685fd50ecf",
+      "files": [
+        "iguskomisjon_istungi_protokoll_51_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "5a617b5a-a716-0d0f-49a3-74bcf748d181",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 5a617b5a-a716-0d0f-49a3-74bcf748d181)",
+  "source": "https://api.riigikogu.ee/api/volumes/5a617b5a-a716-0d0f-49a3-74bcf748d181",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-12-01&endDate=2009-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
