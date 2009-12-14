@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-12-14T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud elektrituruseaduse muutmise seaduse eelnõu (605 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fec0f6dd-fe9f-9ae1-3f22-258c7b134b33"
+    },
+    {
+      "order": 2,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "03e87ca3-1332-2ff2-773b-4aa8d076b14f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 14.12.2009",
+      "uuid": "0d31f1db-85c4-e82d-49f4-4ddb1269ff85",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_51_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "57ee7dcf-6d21-53bd-9d0d-43a6a0b02764",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 57ee7dcf-6d21-53bd-9d0d-43a6a0b02764)",
+  "source": "https://api.riigikogu.ee/api/volumes/57ee7dcf-6d21-53bd-9d0d-43a6a0b02764",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-12-01&endDate=2009-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
