@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-12-14T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a0a510d5-9032-bf86-036f-b3b768a02813"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse seisukohad Euroopa Komisjoni rohelise raamatu \"Ühise kalanduspoliitika reform\" kohta. Arvamuse andmine ELAKile",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "022f7ccd-67d0-b9e6-16e8-5ece750c0eb9"
+    },
+    {
+      "order": 3,
+      "title": "Euroopa Liidu ühise põllumajanduspoliitika rakendamise seaduse muutmise seaduse eelnõu algatamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d4676fbc-88ed-554e-b538-68be43a714e2"
+    },
+    {
+      "order": 4,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "29396aeb-87c2-6f15-4cf2-278096e84169"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 14.12.2009",
+      "uuid": "7ca6c46b-1618-8e10-d5a7-c40540e92adb",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_51_2009.odt",
+        "Maaelukomisjon_paevakord_14_12_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "bef310e0-49e2-dbef-c6b4-d970c4d205f1",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid bef310e0-49e2-dbef-c6b4-d970c4d205f1)",
+  "source": "https://api.riigikogu.ee/api/volumes/bef310e0-49e2-dbef-c6b4-d970c4d205f1",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-12-01&endDate=2009-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
