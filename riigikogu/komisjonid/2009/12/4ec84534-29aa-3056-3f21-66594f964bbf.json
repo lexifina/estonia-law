@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-12-15T14:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud karistusseadustiku, kriminaalmenetluse seadustiku ja konkurentsiseaduse muutmise seaduse eelnõu (438 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6bd9d9f8-b8db-d4d2-570c-0da4c26fb71c"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud kohtuekspertiisiseaduse, kriminaalmenetluse seadustiku, tsiviilkohtumenetluse seadustiku ja surma põhjuse tuvastamise seaduse muutmise seaduse eelnõu (606 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d1b31145-3cbe-a815-379b-28df9dfd92c2"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 15.12.2009",
+      "uuid": "a7b6330a-1008-7e32-b169-b80f0ba20c33",
+      "files": [
+        "iguskomisjon_istungi_protokoll_51_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "4ec84534-29aa-3056-3f21-66594f964bbf",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 4ec84534-29aa-3056-3f21-66594f964bbf)",
+  "source": "https://api.riigikogu.ee/api/volumes/4ec84534-29aa-3056-3f21-66594f964bbf",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-12-01&endDate=2009-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
