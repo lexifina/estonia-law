@@ -1,0 +1,33 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-12-15T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väljasõiduistung Maasikamäe talus Lääne-Virumaal",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "00037931-daa0-de4b-a741-8fb556db1a5b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 15.12.2009",
+      "uuid": "ba703104-950e-3e47-11c3-5b881dbb3e33",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_51_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "162ed53c-f4bc-f11d-77d3-6e2f22e76e92",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 162ed53c-f4bc-f11d-77d3-6e2f22e76e92)",
+  "source": "https://api.riigikogu.ee/api/volumes/162ed53c-f4bc-f11d-77d3-6e2f22e76e92",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-12-01&endDate=2009-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
