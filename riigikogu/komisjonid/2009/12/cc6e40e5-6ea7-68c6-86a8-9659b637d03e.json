@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2009-12-15T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väliskomisjoni, riigikaitsekomisjoni ja majanduskomisjoni ühisistung (Riigikogu konverentsisaalis) – Küberjulgeolekualased arengud, sh riigisisene ja rahvusvaheline küberjulgeolek.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "aaca3532-f2b5-df1d-76de-369bb78cf905"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "98ae54e5-b76d-d403-97c3-1791d4d4653a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 15.12.2009",
+      "uuid": "b0d3818d-97d1-9bff-b1a3-1b4f03f32673",
+      "files": [
+        "Väliskomisjon_istungi_protokoll_51_2009.odt"
+      ]
+    }
+  ],
+  "uuid": "cc6e40e5-6ea7-68c6-86a8-9659b637d03e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid cc6e40e5-6ea7-68c6-86a8-9659b637d03e)",
+  "source": "https://api.riigikogu.ee/api/volumes/cc6e40e5-6ea7-68c6-86a8-9659b637d03e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2009-12-01&endDate=2009-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
