@@ -1,6 +1,6 @@
 # § 11. Registreerimismenetlus ja registriandmed
 
-(1) Registreerimismenetlusele kohaldatakse majandustegevuse registri seadust (RT I 2004, 12, 79) käesolevast seadusest tulenevate erisustega.
+(1) Registreerimismenetlusele kohaldatakse majandustegevuse registri seadust käesolevast seadusest tulenevate erisustega.
 
 (2) Registrisse kantakse lisaks majandustegevuse registri seaduses sätestatule järgmised andmed:
 

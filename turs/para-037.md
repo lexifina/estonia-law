@@ -1,3 +1,3 @@
 # § 37. Seaduse jõustumine
 
-(119) Käesolev seadus jõustub 2001. aasta 1. märtsil.
+(124) Käesolev seadus jõustub 2001. aasta 1. märtsil.

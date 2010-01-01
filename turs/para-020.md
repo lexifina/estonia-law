@@ -14,7 +14,7 @@
 
 5) majutamise periood (kuudes, aasta ringi vms);
 
-6) kui tunnustamine toiduseaduse (RT I 1999, 30, 415; 58, 608; 2001, 93, 566; 2002, 61, 375; 63, 387; 102, 603; 2004, 27, 177; 34, 236) tähenduses on nõutud, siis tunnustamise otsuse number, otsuse tegemise kuupäev, otsuse teinud asutuse nimi ja käitlemisvaldkond;
+6) kui tunnustamine toiduseaduse tähenduses on nõutud, siis tunnustamise otsuse number, otsuse tegemise kuupäev, otsuse teinud asutuse nimi ja käitlemisvaldkond;
 
 7) andmed alkohoolsete jookide jaemüügi kohta, kui majutusettevõtte majutusruumis või vastuvõturuumis soovitakse müüa alkohoolseid jooke;
 

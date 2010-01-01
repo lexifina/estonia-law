@@ -8,6 +8,8 @@
 
 3) Tarbijakaitseamet;
 
-4) Tervisekaitseinspektsioon.
+4) Terviseamet.
 
 (2) Tarbijakaitseamet teostab kontrolli registri andmete õigsuse üle reisiettevõtjate osas ning valla- või linnavalitsused majutusettevõtete osas.
+
+(3) Käesoleva seaduse § 27 lõikes 3 nimetatud õiguse andja ülesannete täitmise üle teostab järelevalvet Majandus- ja Kommunikatsiooniministeerium.

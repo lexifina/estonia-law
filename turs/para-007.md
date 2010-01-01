@@ -10,4 +10,4 @@
 
 (2) Pakettreis on ka reisiteenuste kogum, mida osutatakse vähem kui 24 tunni jooksul, kuid mis sisaldab majutusteenust.
 
-(3) Pakettreisi kirjeldus või muud tarbijale edastatavad lepingutingimused peavad vastama võlaõigusseaduses (RT I 2001, 81, 487; 2002, 60, 374; 2003, 78, 523) sätestatule.
+(3) Pakettreisi kirjeldus või muud tarbijale edastatavad lepingutingimused peavad vastama võlaõigusseaduses sätestatule.

@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/898545> (version in force from 2005-11-01)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/13251037> (version in force from 2010-01-01)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -19,7 +19,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/898545> (version in force from 2
 | [§ 9](para-009.md) |  |
 | [§ 10](para-010.md) | Reisiettevõtja registreerimistaotlus |
 | [§ 11](para-011.md) | Registreerimismenetlus ja registriandmed |
-| [§ 12](para-012.md) | -14. |
+| [§ 12](para-012.md) | –14. |
 | [§ 15](para-015.md) | Tagatis |
 | [§ 16](para-016.md) | Giid, giid-tõlk ja reisisaatja |
 | **3. peatükk MAJUTUSETTEVÕTTED** | |
@@ -35,8 +35,8 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/898545> (version in force from 2
 | **4. peatükk TURISMIINFO** | |
 | [§ 25](para-025.md) | Turismiinfo |
 | [§ 26](para-026.md) | Turismiinfokeskus |
-| [§ 27](para-027.md) | Turismiinfokeskusele esitatavad kohustuslikud nõuded |
-| [§ 28](para-028.md) | Turismiinfokeskuse tunnistus |
+| [§ 27](para-027.md) | Turismiinfokeskusele esitatavad kohustuslikud nõuded ja nendele vastavuse hindamine |
+| [§ 28](para-028.md) |  |
 | [§ 29](para-029.md) | Turismiinfopunkt |
 | **5. peatükk JÄRELEVALVE** | |
 | [§ 30](para-030.md) | Järelevalve teostajad |
@@ -48,7 +48,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/898545> (version in force from 2
 | [§ 31³](para-031b3.md) | Majutusteenuse kasutaja registreerimise kohustuse ja külastajakaardi säilitamise nõude rikkumine |
 | [§ 31⁴](para-031b4.md) | Turismiinfokeskusele esitatud nõuete rikkumine |
 | [§ 31⁵](para-031b5.md) | Menetlus |
-| [§ 32](para-032.md) | -33. |
+| [§ 32](para-032.md) | –33. |
 | **6. peatükk LÕPPSÄTTED** | |
 | [§ 34](para-034.md) |  |
 | [§ 35](para-035.md) |  |

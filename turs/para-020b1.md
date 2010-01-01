@@ -1,6 +1,6 @@
 # § 20¹. Registreerimismenetlus ja registreerimisandmed
 
-(1) Registreerimismenetlusele kohaldatakse majandustegevuse registri seaduses sätestatut käesolevast peatükist tulenevate erisustega. Käesoleva seaduse § 20 lõike 2 punktis 7 nimetatud andmete osas kohaldatakse registreerimismenetlusele täiendavalt alkoholiseaduses (RT I 2002, 3, 7; 63, 387; 2003, 2, 17; 88, 591; 2004, 13, 86; 18, 131; 45, 317; 88, 600) ja kaubandustegevuse seaduses sätestatut.
+(1) Registreerimismenetlusele kohaldatakse majandustegevuse registri seaduses sätestatut käesolevast peatükist tulenevate erisustega. Käesoleva seaduse § 20 lõike 2 punktis 7 nimetatud andmete osas kohaldatakse registreerimismenetlusele täiendavalt alkoholiseaduses ja kaubandustegevuse seaduses sätestatut.
 
 (2) Kui majutusettevõte ei vasta ühelegi käesoleva seaduse § 18 lõikes 1 nimetatud liigile, võib majutusettevõtte registreerida muu liiki iseloomustava määratlusega või liiki määratlemata, kui majutusettevõte vastab majutusettevõttele kehtestatud üldnõuetele.
 

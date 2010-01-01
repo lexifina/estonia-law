@@ -1,6 +1,10 @@
 # § 2. Turismiteenus
 
-(1) Turismiteenust võivad pakkuda ja osutada ettevõtja, asutus, sihtasutus ja mittetulundusühing (edaspidi *ettevõtja*).
+(1) Turismiteenust võivad pakkuda ja osutada ettevõtja, asutus, sihtasutus ja mittetulundusühing (edaspidi
+
+*ettevõtja*
+
+).
 
 (2) Turismiteenus on:
 

@@ -10,6 +10,8 @@
 
 1²) reisiettevõtja tegevusala või tegevusalad vastavalt käesoleva seaduse §-le 6;
 
+2)–4)
+
 5) käesoleva seaduse §-s 15 sätestatud tagatise suurus ja kehtivuse aeg ning tagatise olemasolu tõendava dokumendi väljastanud ettevõtja nimi, registrikood, aadress ja muud kontaktandmed;
 
 6) registreerimistaotlusele alla kirjutanud isiku nimi, ametinimetus ja kontaktandmed.
