@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-01-11T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud elektrituruseaduse muutmise seaduse eelnõu (605 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "09db7a56-04ec-dbed-659d-e3640249b749"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud veeseaduse ja sellega seonduvate seaduste muutmise seaduse eelnõu (581 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1f7b90f9-36a2-f0e9-a4e0-c608d715680f"
+    },
+    {
+      "order": 3,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "78a884b1-f57d-0833-3c43-5888367384b0"
+    },
+    {
+      "order": 4,
+      "title": "Elektrituruseaduse muutmise seadus [605 SE II-1]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1b04a0b7-9f89-187e-2a37-631b5ba072c9"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 11.01.2010",
+      "uuid": "7ddeab35-08ed-a6e4-278d-9f23bdee7766",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_02_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "e58e42d6-3a24-460a-79a3-9a39d584e328",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e58e42d6-3a24-460a-79a3-9a39d584e328)",
+  "source": "https://api.riigikogu.ee/api/volumes/e58e42d6-3a24-460a-79a3-9a39d584e328",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-01-01&endDate=2010-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
