@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-01-11T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töönädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "83100b57-4661-f556-9ab3-39538869bc69"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud kohtuekspertiisiseaduse, kriminaalmenetluse seadustiku, tsiviilkohtumenetluse seadustiku ja surma põhjuse tuvastamise seaduse muutmise seaduse eelnõu (606 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "04475e6a-bcb1-bfb5-f301-f5b5cd520153"
+    },
+    {
+      "order": 3,
+      "title": "Vabariigi Valitsuse algatatud karistusseadustiku, kriminaalmenetluse seadustiku ja konkurentsiseaduse muutmise seaduse eelnõu (438 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0baea968-9975-abdd-8805-6ee818f700af"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 11.01.2010",
+      "uuid": "884387f3-b8c5-3ee5-153d-97b8d516d41e",
+      "files": [
+        "iguskomisjon_istungi_protokoll_02_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "43da185c-79a4-ef70-7902-e80890f9b129",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 43da185c-79a4-ef70-7902-e80890f9b129)",
+  "source": "https://api.riigikogu.ee/api/volumes/43da185c-79a4-ef70-7902-e80890f9b129",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-01-01&endDate=2010-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
