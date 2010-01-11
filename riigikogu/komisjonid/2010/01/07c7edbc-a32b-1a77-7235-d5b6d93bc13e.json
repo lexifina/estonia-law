@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-01-11T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f5f4b874-3801-205e-f36e-199cab741b76"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud keeleseaduse ja kodakondsuse seaduse muutmise seaduse eelnõu (635 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d46b49b8-5416-5b8e-5144-b4c3d404f8f3"
+    },
+    {
+      "order": 3,
+      "title": "Info ja kirjad",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "03bf7690-1136-8741-f8bd-96bffb215eb4"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 11.01.2010",
+      "uuid": "cf9c6d2f-e4b2-42d6-4f03-2a4c6256ef70",
+      "files": [
+        "Kultuurikomisjon_istungi_protokoll_02_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "07c7edbc-a32b-1a77-7235-d5b6d93bc13e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 07c7edbc-a32b-1a77-7235-d5b6d93bc13e)",
+  "source": "https://api.riigikogu.ee/api/volumes/07c7edbc-a32b-1a77-7235-d5b6d93bc13e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-01-01&endDate=2010-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
