@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-01-11T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Euroopa Liidu asjade komisjoni, rahanduskomisjoni ja riigieelarve kontrolli erikomisjoni avalik ühisistung: Euroopa Kontrollikoja aastaaruanne 2008. aasta eelarve täitmise kohta.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2b7bee23-3873-ed18-3f7a-8eef5eaa5001"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad 15.-16. jaanuaril 2009. a toimuval mitteametlikul Euroopa Liidu energeetika- ja keskkonnaministrite kohtumisel.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7ebbf930-9eca-999f-78a7-d69adbbebdc2"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 11.01.2010",
+      "uuid": "051988ac-53ff-4a34-1ef5-d74580780665",
+      "files": [
+        "Euroopa Liidu asjade komisjon_istungi_protokoll_02_2010.odt",
+        "Euroopa Liidu asjade komisjon_paevakord_11_01_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "5ef646c5-7d4d-9d6e-ad92-e84ed7aa868a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 5ef646c5-7d4d-9d6e-ad92-e84ed7aa868a)",
+  "source": "https://api.riigikogu.ee/api/volumes/5ef646c5-7d4d-9d6e-ad92-e84ed7aa868a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-01-01&endDate=2010-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
