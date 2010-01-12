@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-01-12T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Arutelu pärandkultuuri teemal",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6f77e1e1-93ea-6add-a4cf-df2be5d4b901"
+    },
+    {
+      "order": 2,
+      "title": "Arutelu raamatutega samaväärsete infokandjate käibemaksust",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "783ca600-fc1d-901c-6bef-09f8ca272b57"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 12.01.2010",
+      "uuid": "c6ef579f-c56c-c2f0-2377-c767f1a4451a",
+      "files": [
+        "Kultuurikomisjon_istungi_protokoll_02_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "fbc48e15-b4f8-839d-c7ee-32ac54bb09f3",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid fbc48e15-b4f8-839d-c7ee-32ac54bb09f3)",
+  "source": "https://api.riigikogu.ee/api/volumes/fbc48e15-b4f8-839d-c7ee-32ac54bb09f3",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-01-01&endDate=2010-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
