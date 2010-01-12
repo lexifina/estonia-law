@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-01-12T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine riigi julgeoleku volitatud esindaja (NSA) Ingvar Pärnamäega ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "af047d1f-8d3c-e460-7d16-8774e446588c"
+    },
+    {
+      "order": 2,
+      "title": "Riigikaitsekomisjoni ja väliskomisjoni väljasõiduistung Kaitseväe Peastaapi. Informatsioon Eesti kaitseväe üksuste osalemisest rahvusvahelistel missioonidel sh Afganistanis, Iraagis (NTM), Kosovos ning Bosnias ja Hertsegoviinas ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cd4a427c-e5e9-6732-0fc0-638c549c3e6d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 12.01.2010",
+      "uuid": "feb25ac7-d95a-da9c-d6dc-f1b18a401f74",
+      "files": [
+        "12.01.10.doc"
+      ]
+    }
+  ],
+  "uuid": "a10dee91-fa49-bba2-425c-ae4b2e305f2f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a10dee91-fa49-bba2-425c-ae4b2e305f2f)",
+  "source": "https://api.riigikogu.ee/api/volumes/a10dee91-fa49-bba2-425c-ae4b2e305f2f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-01-01&endDate=2010-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
