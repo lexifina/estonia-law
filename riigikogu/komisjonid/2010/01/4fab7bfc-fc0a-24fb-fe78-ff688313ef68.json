@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-01-12T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud kriminaalmenetluse seadustiku muutmise ja sellega seonduvalt teiste seaduste muutmise seaduse eelnõu (599 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "98403061-9ac5-7a7e-0f98-d112df720f35"
+    },
+    {
+      "order": 2,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "37e68e6a-c739-cc93-c78a-1f3d18260e7f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 12.01.2010",
+      "uuid": "ba953443-377a-1d90-35ab-6d8a90c5b99e",
+      "files": [
+        "iguskomisjon_istungi_protokoll_02_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "4fab7bfc-fc0a-24fb-fe78-ff688313ef68",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 4fab7bfc-fc0a-24fb-fe78-ff688313ef68)",
+  "source": "https://api.riigikogu.ee/api/volumes/4fab7bfc-fc0a-24fb-fe78-ff688313ef68",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-01-01&endDate=2010-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
