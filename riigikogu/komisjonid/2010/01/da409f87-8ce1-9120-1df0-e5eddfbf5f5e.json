@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-01-12T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Eesti Sotsiaaltöö Assotsiatsiooni esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "06a3deb8-57f5-73ea-d896-e01526dc3c49"
+    },
+    {
+      "order": 2,
+      "title": "Balti Assamblee pöördumine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6d39476e-e945-e144-08b2-18c05c49b879"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 12.01.2010",
+      "uuid": "cc0161c0-87a4-55cc-52c6-a67e2decbd48",
+      "files": [
+        "Sotsiaalkomisjon_istungi_protokoll_02_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "da409f87-8ce1-9120-1df0-e5eddfbf5f5e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid da409f87-8ce1-9120-1df0-e5eddfbf5f5e)",
+  "source": "https://api.riigikogu.ee/api/volumes/da409f87-8ce1-9120-1df0-e5eddfbf5f5e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-01-01&endDate=2010-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
