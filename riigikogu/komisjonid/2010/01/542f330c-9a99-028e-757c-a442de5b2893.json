@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-01-12T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud isikut tõendavate dokumentide seaduse muutmise seaduse eelnõu (609 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cee16a48-e256-d284-1d97-d9c5279e920b"
+    },
+    {
+      "order": 2,
+      "title": "Erakond Eestimaa Rohelised fraktsiooni algatatud pühade ja tähtpäevade seaduse muutmise seaduse eelnõu (582 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b805eb13-4cf5-ee09-3aa8-a2f71e1ebadf"
+    },
+    {
+      "order": 3,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "26bc97f4-4f0b-0543-4e70-fb82db7fd8b9"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 12.01.2010",
+      "uuid": "acf0a288-b023-4bb2-8430-119c290319f3",
+      "files": [
+        "Põhiseaduskomisjon_istungi_protokoll_02_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "542f330c-9a99-028e-757c-a442de5b2893",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 542f330c-9a99-028e-757c-a442de5b2893)",
+  "source": "https://api.riigikogu.ee/api/volumes/542f330c-9a99-028e-757c-a442de5b2893",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-01-01&endDate=2010-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
