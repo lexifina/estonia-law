@@ -1,0 +1,33 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-01-13T15:15:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud elektrituruseaduse muutmise seaduse eelnõu (605 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ebc856cf-0f99-845c-d2aa-08f08e3181a4"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 13.01.2010",
+      "uuid": "a7500d36-4033-a0d3-6684-e34403eb4adb",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_02_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "f651a9b0-191c-60df-74ea-d3c25114ea89",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f651a9b0-191c-60df-74ea-d3c25114ea89)",
+  "source": "https://api.riigikogu.ee/api/volumes/f651a9b0-191c-60df-74ea-d3c25114ea89",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-01-01&endDate=2010-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
