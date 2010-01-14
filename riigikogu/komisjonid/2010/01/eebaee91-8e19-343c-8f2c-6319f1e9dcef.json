@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-01-14T10:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud audiitortegevuse seaduse eelnõu (488 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "98d6e26f-a213-a2fa-d635-265e6589e328"
+    },
+    {
+      "order": 2,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f2437bd7-6055-335e-6a13-fdae153bbaf9"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 14.01.2010",
+      "uuid": "d19b3f24-b1f9-9210-e04e-34f4a4fb3b30",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_02_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "eebaee91-8e19-343c-8f2c-6319f1e9dcef",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid eebaee91-8e19-343c-8f2c-6319f1e9dcef)",
+  "source": "https://api.riigikogu.ee/api/volumes/eebaee91-8e19-343c-8f2c-6319f1e9dcef",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-01-01&endDate=2010-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
