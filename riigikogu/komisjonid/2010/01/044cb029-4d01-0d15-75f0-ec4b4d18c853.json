@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-01-18T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töönädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8e64f5b5-6491-c065-2c00-cd424a5e69ba"
+    },
+    {
+      "order": 2,
+      "title": "Arvamuse andmine ELAK-le",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7c8d658d-76b9-0d39-eff2-689362b6145f"
+    },
+    {
+      "order": 3,
+      "title": "Vabariigi Valitsuse algatatud päästeteenistuse seaduse muutmise seaduse eelnõu (618 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "51b48337-bb2e-aba2-09df-f9f1c1f42cb2"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 18.01.2010",
+      "uuid": "8bf12013-9425-ff20-c18c-814ef0534804",
+      "files": [
+        "iguskomisjon_istungi_protokoll_03_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "044cb029-4d01-0d15-75f0-ec4b4d18c853",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 044cb029-4d01-0d15-75f0-ec4b4d18c853)",
+  "source": "https://api.riigikogu.ee/api/volumes/044cb029-4d01-0d15-75f0-ec4b4d18c853",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-01-01&endDate=2010-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
