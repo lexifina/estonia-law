@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-01-18T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud tolliseaduse ja käibemaksuseaduse muutmise seaduse eelnõu (645 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a699641f-b7c0-3a10-520e-282811459d19"
+    },
+    {
+      "order": 2,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "775523c7-197f-c224-b772-bf434b5e9dca"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 18.01.2010",
+      "uuid": "9fcf3986-5d5f-4b21-930f-c4830f6bbaa8",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_03_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "aee627a7-d416-50be-49b7-105ce3d30baa",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid aee627a7-d416-50be-49b7-105ce3d30baa)",
+  "source": "https://api.riigikogu.ee/api/volumes/aee627a7-d416-50be-49b7-105ce3d30baa",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-01-01&endDate=2010-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
