@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-01-18T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud alkoholi-, tubaka-, kütuse- ja elektriaktsiisi seaduse muutmise seaduse eelnõu (625 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "47c4a59c-2367-1659-9b4f-aee7464b8470"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud finantsinspektsiooni seaduse, investeerimisfondide seaduse, kindlustustegevuse seaduse, krediidiasutuste seaduse ja väärtpaberituru seaduse muutmise seaduse eelnõu (626 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d323eb09-7127-c048-c230-1825dd39941e"
+    },
+    {
+      "order": 3,
+      "title": "Eesti Panga Nõukogu esimees algatatud riigikogu otsus \"Eesti Panga Nõukogu asendusliikme nimetamine\" (651 OE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9a129d0f-1aac-a318-5d11-330dd8584597"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 18.01.2010",
+      "uuid": "81ffdea1-91eb-1367-4986-b5b9d3a7c372",
+      "files": [
+        "Rahanduskomisjon_istungi_protokoll_03_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "f03b9614-dd3e-2512-099c-8fb25b5503df",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f03b9614-dd3e-2512-099c-8fb25b5503df)",
+  "source": "https://api.riigikogu.ee/api/volumes/f03b9614-dd3e-2512-099c-8fb25b5503df",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-01-01&endDate=2010-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
