@@ -1,0 +1,57 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-01-18T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "ELAK`le arvamuse andmine Euroopa Liidu kvalifikatsioonidirektiivi ja menetlusdirektiivi kohta",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5adabbd6-fd61-af8c-4bfa-f5f2f3c50842"
+    },
+    {
+      "order": 2,
+      "title": "Põhiseaduskomisjoni algatatud Euroopa Parlamendi valimise seaduse muutmise seaduse eelnõu (341 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "24071c0e-5bb7-4bab-06ba-5e57c1c05921"
+    },
+    {
+      "order": 3,
+      "title": "Isamaa ja Res Publica Liidu fraktsiooni, Eesti Reformierakonna fraktsiooni algatatud Euroopa Parlamendi valimise seaduse muutmise seaduse eelnõu (524 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f875da5b-1226-082c-09b8-6cb128e9bf12"
+    },
+    {
+      "order": 4,
+      "title": "Riigikogu kodu- ja töökorra seaduse eelnõu ettevalmistamise arutelu seonduvalt ELAK`i rolliga EL asjade menetlemisel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "af8e8d76-f4a9-d510-2953-b924b3e7a74e"
+    },
+    {
+      "order": 5,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ba0acbba-1e1b-9c2f-5742-57bce8629c69"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 18.01.2010",
+      "uuid": "eba02a0d-5801-dfe5-268f-b09ed6b9139d",
+      "files": [
+        "Põhiseaduskomisjon_istungi_protokoll_03_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "c778e66a-ba3a-bc9c-63a4-50408ef186e9",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c778e66a-ba3a-bc9c-63a4-50408ef186e9)",
+  "source": "https://api.riigikogu.ee/api/volumes/c778e66a-ba3a-bc9c-63a4-50408ef186e9",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-01-01&endDate=2010-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
