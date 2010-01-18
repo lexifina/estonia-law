@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-01-18T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 20.-22.2010. a jaanuaril toimuval mitteametlikul Euroopa Liidu justiits- ja siseküsimuste nõukogu kohtumisel.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2f95b07f-06d0-4380-f8b8-da50baafc6c7"
+    },
+    {
+      "order": 2,
+      "title": "Seisukoha andmine: Euroopa Komisjoni roheline raamat kriminaalasjades erinevates riikides tõendite kogumise ja selliste tõendite vastuvõetavuse kohta (COM(2009)624).",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "539c9d25-592b-269f-14b7-093971d2bf04"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 18.01.2010",
+      "uuid": "95715023-df93-d2a7-1402-84455509e568",
+      "files": [
+        "Euroopa Liidu asjade komisjon_istungi_protokoll_03_2010.odt",
+        "Euroopa Liidu asjade komisjon_paevakord_18_01_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "b51c2de3-3c72-7b64-9ea5-a210e4650a28",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b51c2de3-3c72-7b64-9ea5-a210e4650a28)",
+  "source": "https://api.riigikogu.ee/api/volumes/b51c2de3-3c72-7b64-9ea5-a210e4650a28",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-01-01&endDate=2010-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
