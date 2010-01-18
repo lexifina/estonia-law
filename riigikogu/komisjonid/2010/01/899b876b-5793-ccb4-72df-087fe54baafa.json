@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-01-18T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "79b49187-938a-2584-9ac2-380dfbd6d0a2"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine Eesti Noorteühenduste Liidu esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "06754ea9-0bc7-2b82-a462-751ed120764a"
+    },
+    {
+      "order": 3,
+      "title": "Vabariigi Valitsuse algatatud põhikooli- ja gümnaasiumiseaduse eelnõu (412 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "06d53636-d090-397d-629e-36824a5b3357"
+    },
+    {
+      "order": 4,
+      "title": "Info ja kirjad",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "75861392-5772-216e-99ff-9d83cecc7448"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 18.01.2010",
+      "uuid": "60793575-ee2b-1d82-7027-afcbe2948a3e",
+      "files": [
+        "Kultuurikomisjon_istungi_protokoll_03_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "899b876b-5793-ccb4-72df-087fe54baafa",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 899b876b-5793-ccb4-72df-087fe54baafa)",
+  "source": "https://api.riigikogu.ee/api/volumes/899b876b-5793-ccb4-72df-087fe54baafa",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-01-01&endDate=2010-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
