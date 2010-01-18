@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-01-18T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bd6bf329-da78-0e3d-df55-18ac073f3553"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade põllumajandustootjate majandusnäitajatest 2008",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c75a9576-5327-dafc-3a97-66a39f90d3e8"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 18.01.2010",
+      "uuid": "d787a7e1-0480-298f-7a0d-4c503b4aa049",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_03_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "df4e6114-ec5e-31c4-02c9-056f9c467050",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid df4e6114-ec5e-31c4-02c9-056f9c467050)",
+  "source": "https://api.riigikogu.ee/api/volumes/df4e6114-ec5e-31c4-02c9-056f9c467050",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-01-01&endDate=2010-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
