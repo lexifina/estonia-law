@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-01-19T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Arengufondi esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6616e907-b5ac-786f-fb75-854423988877"
+    },
+    {
+      "order": 2,
+      "title": "Eesti Keskerakonna fraktsiooni algatatud sotsiaalmaksuseaduse muutmise seaduse eelnõu (621 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0aaca3b3-e4b8-3b15-d172-80d46cac4c85"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 19.01.2010",
+      "uuid": "dc327e66-4d97-ab24-449e-1ed4bcaa8d31",
+      "files": [
+        "Rahanduskomisjon_istungi_protokoll_03_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "52db4328-c68a-dea8-2910-846e8fb3a075",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 52db4328-c68a-dea8-2910-846e8fb3a075)",
+  "source": "https://api.riigikogu.ee/api/volumes/52db4328-c68a-dea8-2910-846e8fb3a075",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-01-01&endDate=2010-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
