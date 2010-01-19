@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-01-19T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud isikuandmete kaitse seaduse, avaliku teabe seaduse ja arhiiviseaduse muutmise seaduse eelnõu (564 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "affbed5c-89cb-7cda-5575-f076294da1da"
+    },
+    {
+      "order": 2,
+      "title": "Sotsiaaldemokraatliku Erakonna fraktsiooni algatatud riigikogu otsus \"Riigikogu otsuse \"Riigikogu julgeolekuasutuste järelevalve komisjoni moodustamine\" muutmine\" (661 OE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5bd7e400-6312-74b7-0361-bc8c884d8897"
+    },
+    {
+      "order": 3,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ad6b0b59-d212-368f-894e-caabc5baf854"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 19.01.2010",
+      "uuid": "c0b149d2-0858-ce8b-d7c6-58a3e8ce2e8e",
+      "files": [
+        "Põhiseaduskomisjon_istungi_protokoll_03_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "b5b3d8f8-ab6b-0c65-22ad-3ff6f192ef81",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b5b3d8f8-ab6b-0c65-22ad-3ff6f192ef81)",
+  "source": "https://api.riigikogu.ee/api/volumes/b5b3d8f8-ab6b-0c65-22ad-3ff6f192ef81",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-01-01&endDate=2010-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
