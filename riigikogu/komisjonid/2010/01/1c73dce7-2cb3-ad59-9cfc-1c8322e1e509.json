@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-01-19T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Informatsioon 17. jaanuaril toimunud Ukraina presidendi valimistest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e19196e1-e46a-d63f-bb54-e0b589f18fa8"
+    },
+    {
+      "order": 2,
+      "title": "Venemaa ja Ukraina suhete mõju energiatarnete julgeolekule.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8b64c28c-6e2e-4260-20d2-c2eedefd7b92"
+    },
+    {
+      "order": 3,
+      "title": "Ülevaade Riigikogu ja Riigikogu Kantselei välissuhtlemise 2009. aasta eelarve täitmisest ja 2010. aasta eelarve arutelu.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f675cab8-028c-1ae1-3d6b-0ec3598a8a98"
+    },
+    {
+      "order": 4,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "81c944be-9f85-f061-f9ed-9c62a10bfcdb"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 19.01.2010",
+      "uuid": "90c02143-d032-9e62-8e1c-b60a7a208473",
+      "files": [
+        "19.01.10 (223) protokoll.doc"
+      ]
+    }
+  ],
+  "uuid": "1c73dce7-2cb3-ad59-9cfc-1c8322e1e509",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 1c73dce7-2cb3-ad59-9cfc-1c8322e1e509)",
+  "source": "https://api.riigikogu.ee/api/volumes/1c73dce7-2cb3-ad59-9cfc-1c8322e1e509",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-01-01&endDate=2010-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
