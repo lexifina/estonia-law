@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-01-19T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigivara tasuta võõrandamine (9)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "45d25505-5702-83f5-990d-9f4d85dee2e7"
+    },
+    {
+      "order": 2,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d5381527-96a2-030d-7e05-208cd82c495d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 19.01.2010",
+      "uuid": "12852f4e-f366-d566-409e-84160494e0d1",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_03_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "cbcd8d16-1bf7-c0df-e96a-a73ce52299b2",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid cbcd8d16-1bf7-c0df-e96a-a73ce52299b2)",
+  "source": "https://api.riigikogu.ee/api/volumes/cbcd8d16-1bf7-c0df-e96a-a73ce52299b2",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-01-01&endDate=2010-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
