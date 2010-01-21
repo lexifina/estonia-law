@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-01-21T10:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud kohaliku omavalitsuse üksuse finantsjuhtimise seaduse eelnõu (366 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bf3de3ad-3e08-fc4b-5eee-d56f5b368531"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud finantsinspektsiooni seaduse, investeerimisfondide seaduse, kindlustustegevuse seaduse, krediidiasutuste seaduse ja väärtpaberituru seaduse muutmise seaduse eelnõu (626 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2e872428-c3a5-054d-76d9-87255e3bd8c7"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 21.01.2010",
+      "uuid": "aab23554-ef22-78af-f281-000a6e018e01",
+      "files": [
+        "Rahanduskomisjon_istungi_protokoll_03_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "52e08438-7c5a-2538-4779-bca1452e05a4",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 52e08438-7c5a-2538-4779-bca1452e05a4)",
+  "source": "https://api.riigikogu.ee/api/volumes/52e08438-7c5a-2538-4779-bca1452e05a4",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-01-01&endDate=2010-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
