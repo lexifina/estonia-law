@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-01-22T09:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 25.-26. jaanuaril 2010 toimuval Euroopa Liidu üldasjade nõukogu ja välisasjade nõukogu istungil.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "294affc3-fe96-f522-b74d-cbc3e1426331"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b2918e83-8dbe-7fa8-ebd9-855926f5be65"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 22.01.2010",
+      "uuid": "f557626f-98ac-54b0-7822-cd5596891be9",
+      "files": [
+        "Väliskomisjon_istungi_protokoll_03_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "84d266df-3bb0-28b9-124d-14289d2200e2",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 84d266df-3bb0-28b9-124d-14289d2200e2)",
+  "source": "https://api.riigikogu.ee/api/volumes/84d266df-3bb0-28b9-124d-14289d2200e2",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-01-01&endDate=2010-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
