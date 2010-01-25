@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-01-25T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d55ac9e1-a3a9-1f64-f2ba-e41ee9ac6208"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine kultuuriministri Laine Jänesega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6f57bbae-557d-e0ae-9f89-6e23405d498c"
+    },
+    {
+      "order": 3,
+      "title": "Kohtumine SA Tallinn 2011 esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cd1d0fe7-02dd-c8bf-02cf-14072d50b6bd"
+    },
+    {
+      "order": 4,
+      "title": "Info ja kirjad",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7eb3088e-3efb-ec6c-a2d3-dbe215d9fb19"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 25.01.2010",
+      "uuid": "4264eef6-615a-fea2-c118-8b32a3e91c86",
+      "files": [
+        "Kultuurikomisjon_paevakord_25_01_2010.odt",
+        "Kultuurikomisjon_istungi_protokoll_04_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "c02b1e6a-823c-c3b9-b0f9-ad81eba6ae67",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c02b1e6a-823c-c3b9-b0f9-ad81eba6ae67)",
+  "source": "https://api.riigikogu.ee/api/volumes/c02b1e6a-823c-c3b9-b0f9-ad81eba6ae67",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-01-01&endDate=2010-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
