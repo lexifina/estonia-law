@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-01-25T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Keskkonnakomisjoni töökava (25.01.10 – 31.01.10) kinnitamine ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8eaf2e8a-65e2-cf7d-32e7-1a636d8d9efc"
+    },
+    {
+      "order": 2,
+      "title": "Erakond Eestimaa Rohelised fraktsiooni algatatud pakendiseaduse muutmise seaduse eelnõu (594 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bc2a5cd8-c231-a969-80f4-5cc1278cd77b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 25.01.2010",
+      "uuid": "40da49fc-1b21-e53f-91fe-d0056ee04b1a",
+      "files": [
+        "prot147 25.01.10.doc"
+      ]
+    }
+  ],
+  "uuid": "f9cc45ac-7666-c3ee-2a2e-c7a02fb975f6",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f9cc45ac-7666-c3ee-2a2e-c7a02fb975f6)",
+  "source": "https://api.riigikogu.ee/api/volumes/f9cc45ac-7666-c3ee-2a2e-c7a02fb975f6",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-01-01&endDate=2010-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
