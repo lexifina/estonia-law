@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-01-25T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väliskomisjoni VII istungjärgu 3. töönädala töökava kinnitamine.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9c138cd8-2377-2631-2cab-d2b5689e922f"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud eesti Vabariigi ja Tšehhi Vabariigi vahelise investeeringute soodustamise ja vastastikuse kaitse lepingu muutmise ja lõpetamise kokkuleppe ratifitseerimise seaduse eelnõu (660 SE) ettevalmistamine esimeseks lugemiseks.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "81cec6e9-a4fc-ff97-1c0b-2143bf60bb20"
+    },
+    {
+      "order": 3,
+      "title": "Informatsioon komisjoni liikmete tegevusest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ae5f6819-b4d9-2dde-b7e7-28da91ed7c0d"
+    },
+    {
+      "order": 4,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a5e979b0-6813-4588-8820-0ebfda7220f5"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 25.01.2010",
+      "uuid": "1f8da787-b834-a664-0e39-c04fc00e9a61",
+      "files": [
+        "Väliskomisjon_istungi_protokoll_04_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "786aac5c-2931-35e8-0a91-735ecf64dc8c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 786aac5c-2931-35e8-0a91-735ecf64dc8c)",
+  "source": "https://api.riigikogu.ee/api/volumes/786aac5c-2931-35e8-0a91-735ecf64dc8c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-01-01&endDate=2010-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
