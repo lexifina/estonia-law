@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-01-25T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c395a994-186a-3563-bdf0-0a92c5ad8540"
+    },
+    {
+      "order": 2,
+      "title": "Põllumajandusministri ülevaade ministeeriumi 2010.aasta tööplaanidest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ef116838-6f7f-e733-9610-ad651e2fae48"
+    },
+    {
+      "order": 3,
+      "title": "Maaelukomisjoni algatatud Euroopa Liidu ühise põllumajanduspoliitika rakendamise seaduse muutmise seaduse eelnõu (646 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fc76048f-20f6-3c2e-1760-58dbbd4502d0"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 25.01.2010",
+      "uuid": "d0d6aa1e-0470-645b-5f5f-934a1e4008b2",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_04_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "2931c202-c5a3-8760-476f-e665b19abc9c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2931c202-c5a3-8760-476f-e665b19abc9c)",
+  "source": "https://api.riigikogu.ee/api/volumes/2931c202-c5a3-8760-476f-e665b19abc9c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-01-01&endDate=2010-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
