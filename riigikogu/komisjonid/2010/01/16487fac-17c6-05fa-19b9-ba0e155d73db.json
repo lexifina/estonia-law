@@ -1,0 +1,58 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-01-25T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töönädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ff7f584f-bdfe-9d1d-4d9d-90f6ab65deae"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud tsiviilkohtumenetluse seadustiku ja asjaõigusseaduse muutmise seaduse eelnõu (657 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d7c5976d-730a-5567-522d-8c2d43217bc6"
+    },
+    {
+      "order": 3,
+      "title": "Liiklusseaduse ja väärteomenetluse seadustiku muutmise seaduse eelnõu algatamise küsimus ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b65ef98b-6dfa-381c-d9af-4b7d5f576f8f"
+    },
+    {
+      "order": 4,
+      "title": "Eesti Keskerakonna fraktsiooni algatatud asjaõigusseaduse ja võlaõigusseaduse muutmise seaduse eelnõu (578 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3c84984b-bb5c-692a-f51a-8949f37c8b17"
+    },
+    {
+      "order": 5,
+      "title": "Sotsiaaldemokraatliku Erakonna fraktsiooni algatatud asjaõigusseaduse ja pankrotiseaduse muutmise seaduse eelnõu (593 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5a1eaea3-58ca-ab4b-b75d-0e26ec4bb07e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 25.01.2010",
+      "uuid": "e906f1f8-9bba-d59c-66ff-7a2d2704f93e",
+      "files": [
+        "iguskomisjon_istungi_protokoll_04_2010.odt",
+        "iguskomisjon_paevakord_25_01_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "16487fac-17c6-05fa-19b9-ba0e155d73db",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 16487fac-17c6-05fa-19b9-ba0e155d73db)",
+  "source": "https://api.riigikogu.ee/api/volumes/16487fac-17c6-05fa-19b9-ba0e155d73db",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-01-01&endDate=2010-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
