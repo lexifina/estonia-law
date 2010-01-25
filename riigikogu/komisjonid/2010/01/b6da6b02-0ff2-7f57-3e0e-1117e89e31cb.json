@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-01-25T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud elektrituruseaduse muutmise seaduse eelnõu (605 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5871e60f-2557-1ec0-5d50-90c5de307a88"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud audiitortegevuse seaduse eelnõu (488 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "02b29765-64c8-d5f6-132c-ed24d1c8024e"
+    },
+    {
+      "order": 3,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6d906531-d6e4-f4f2-5eda-931cfc863121"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 25.01.2010",
+      "uuid": "43234f3c-1220-e0e7-9f64-7f4de6cf8c48",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_04_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "b6da6b02-0ff2-7f57-3e0e-1117e89e31cb",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b6da6b02-0ff2-7f57-3e0e-1117e89e31cb)",
+  "source": "https://api.riigikogu.ee/api/volumes/b6da6b02-0ff2-7f57-3e0e-1117e89e31cb",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-01-01&endDate=2010-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
