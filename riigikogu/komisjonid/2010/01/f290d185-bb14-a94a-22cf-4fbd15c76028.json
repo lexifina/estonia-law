@@ -1,0 +1,33 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-01-26T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Põllumajandus-Kaubanduskoja esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "695bde33-1de5-e93a-cf6a-7097b0699732"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 26.01.2010",
+      "uuid": "ab9b934a-435a-db32-5c21-6239f63ccea4",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_04_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "f290d185-bb14-a94a-22cf-4fbd15c76028",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f290d185-bb14-a94a-22cf-4fbd15c76028)",
+  "source": "https://api.riigikogu.ee/api/volumes/f290d185-bb14-a94a-22cf-4fbd15c76028",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-01-01&endDate=2010-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
