@@ -1,0 +1,33 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-01-26T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ühisistung väliskomisjoniga. Kokkuvõte Kopenhaageni kliimakohtumisest ja ülevaade kliimaküsimustega tegelevate üksuste tegevusest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "30174a03-ef2a-87ac-a208-ebab4f770c38"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 26.01.2010",
+      "uuid": "cc0430b6-6f60-a6a0-493d-69d69341e2a3",
+      "files": [
+        "prot148 26.01.10.doc"
+      ]
+    }
+  ],
+  "uuid": "2969d8a2-1ab5-2de4-b975-c297513d24dc",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2969d8a2-1ab5-2de4-b975-c297513d24dc)",
+  "source": "https://api.riigikogu.ee/api/volumes/2969d8a2-1ab5-2de4-b975-c297513d24dc",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-01-01&endDate=2010-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
