@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-01-26T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud karistusseadustiku muutmise seaduse eelnõu (640 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "39480f39-2650-f662-5299-5f7c5b47605b"
+    },
+    {
+      "order": 2,
+      "title": "Prügistamise temaatika",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c37d0ca4-0cb6-93a5-b552-dc5b4eb14624"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 26.01.2010",
+      "uuid": "f6a3ddb5-1dfd-51e0-88f8-e2e37a3b93f6",
+      "files": [
+        "iguskomisjon_istungi_protokoll_04_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "78d6d8c2-7025-600e-df25-f87e525bf826",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 78d6d8c2-7025-600e-df25-f87e525bf826)",
+  "source": "https://api.riigikogu.ee/api/volumes/78d6d8c2-7025-600e-df25-f87e525bf826",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-01-01&endDate=2010-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
