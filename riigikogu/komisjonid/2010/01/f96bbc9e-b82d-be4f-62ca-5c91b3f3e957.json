@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-01-26T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väliskomisjoni ja keskkonnakomisjoni ühisistung - kokkuvõte Kopenhaageni kliimakohtumisest ja ülevaade kliimaküsimustega tegelevate üksuste tegevusest. ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9a79ed79-d8e4-3925-8c79-47c7b877147e"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0f6303ce-4896-9efc-2d8e-3055a17558bc"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 26.01.2010",
+      "uuid": "40c26849-89ab-f62e-4659-2cb8d2c4d5f3",
+      "files": [
+        "Väliskomisjon_istungi_protokoll_04_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "f96bbc9e-b82d-be4f-62ca-5c91b3f3e957",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f96bbc9e-b82d-be4f-62ca-5c91b3f3e957)",
+  "source": "https://api.riigikogu.ee/api/volumes/f96bbc9e-b82d-be4f-62ca-5c91b3f3e957",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-01-01&endDate=2010-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
