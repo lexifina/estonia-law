@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-01-28T10:55:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud isikuandmete kaitse seaduse, avaliku teabe seaduse ja arhiiviseaduse muutmise seaduse eelnõu (564 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "57371a34-4ba3-dc5c-6b2b-ae3c14d1d02b"
+    },
+    {
+      "order": 2,
+      "title": "Riigikohtule arvamuse andmine Euroopa Parlamendi valimise seaduse, kohaliku omavalitsuse volikogu valimise seaduse ja Riigikogu valimise seaduse kohta ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "64b91527-9888-4e24-1b28-ac996b0b3fe6"
+    },
+    {
+      "order": 3,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "81e37888-9108-328c-cf4d-8290aff033fa"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 28.01.2010",
+      "uuid": "a738e7ca-b004-caab-a426-6bb4f12ecb42",
+      "files": [
+        "Põhiseaduskomisjon_istungi_protokoll_04_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "0b9e9671-1762-be6d-bd7c-10a690401bf6",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0b9e9671-1762-be6d-bd7c-10a690401bf6)",
+  "source": "https://api.riigikogu.ee/api/volumes/0b9e9671-1762-be6d-bd7c-10a690401bf6",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-01-01&endDate=2010-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
