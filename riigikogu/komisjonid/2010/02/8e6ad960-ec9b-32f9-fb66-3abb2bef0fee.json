@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-02-05T10:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väliskomisjoni ja ELAKi ühisistunEesti seisukohad 11. veebruaril toimuval Euroopa Ülemkogu mitteametlikul kohtumisel.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "75650002-7fe3-e984-421d-f2a488d2399e"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d0d19e75-5b52-a867-f681-5f512f1e9260"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 05.02.2010",
+      "uuid": "cba73d3b-1e36-6652-c454-bb52450874fe",
+      "files": [
+        "Väliskomisjon_istungi_protokoll_05_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "8e6ad960-ec9b-32f9-fb66-3abb2bef0fee",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8e6ad960-ec9b-32f9-fb66-3abb2bef0fee)",
+  "source": "https://api.riigikogu.ee/api/volumes/8e6ad960-ec9b-32f9-fb66-3abb2bef0fee",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-02-01&endDate=2010-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
