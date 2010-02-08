@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-02-08T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud riigihangete seaduse ja sellega seonduvate seaduste muutmise seaduse eelnõu (665 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7148af6a-3e41-1319-d370-fd4b4156af08"
+    },
+    {
+      "order": 2,
+      "title": "Kaliningradi oblastisse rajatava Balti tuumaelektrijaama keskkonnamõju hindamise aruande tutvustus.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "12727ed5-cca6-c44c-c432-dc3864fa9714"
+    },
+    {
+      "order": 3,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9ba06a07-3bd8-1a74-6314-a5d08d6d0a56"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 08.02.2010",
+      "uuid": "80754a30-fe9b-a5df-b255-b26bfed7f25d",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_06_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "84b6801b-ff43-5275-4b99-92057fed5325",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 84b6801b-ff43-5275-4b99-92057fed5325)",
+  "source": "https://api.riigikogu.ee/api/volumes/84b6801b-ff43-5275-4b99-92057fed5325",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-02-01&endDate=2010-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
