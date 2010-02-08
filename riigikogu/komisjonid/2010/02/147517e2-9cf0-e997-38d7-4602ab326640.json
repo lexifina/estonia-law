@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-02-08T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töönädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fef2559f-5665-4b7a-80f7-0744d3f256cc"
+    },
+    {
+      "order": 2,
+      "title": "Tutvumine kriminaalpoliitika aruandega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1e1c95ee-7f80-6a6c-8edb-c62b114e2bd4"
+    },
+    {
+      "order": 3,
+      "title": "Vabariigi Valitsuse algatatud karistusseadustiku muutmise seaduse eelnõu (642 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ddf1f65f-2eeb-975c-e4f8-462f8e65e91d"
+    },
+    {
+      "order": 4,
+      "title": "Õiguskomisjoni algatatud liiklusseaduse ja väärteomenetluse seadustiku muutmise seaduse eelnõu (673 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b5f73a25-4a2d-32a3-ad46-8feeeb780626"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 08.02.2010",
+      "uuid": "1b8e5002-5e0b-563e-67d7-8ee5e1aa1950",
+      "files": [
+        "iguskomisjon_istungi_protokoll_06_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "147517e2-9cf0-e997-38d7-4602ab326640",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 147517e2-9cf0-e997-38d7-4602ab326640)",
+  "source": "https://api.riigikogu.ee/api/volumes/147517e2-9cf0-e997-38d7-4602ab326640",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-02-01&endDate=2010-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
