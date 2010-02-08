@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-02-08T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade Riigi Kinnisvara AS-i tegevusformaadist ning struktuurimuudatuste tegemise vajadusest (RKAS analüüs); ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "969eee47-c8f1-b5a0-8694-e8dc6c73deae"
+    },
+    {
+      "order": 2,
+      "title": "Laekunud Riigikontrolli aruannetest; ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e5a2ec14-c0f2-d5b3-29c1-8ce09655ebef"
+    },
+    {
+      "order": 3,
+      "title": "Informatsioon.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e40b55d9-36ff-9b24-d7b0-41b832495af7"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 08.02.2010",
+      "uuid": "1923020b-1829-0b0e-3bab-c0baabd4ba78",
+      "files": [
+        "protokoll 91 08 02 2010.doc",
+        "Riigieelarve kontrolli erikomisjon_paevakord_08_02_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "4f848dbb-8358-2a6b-9961-a5e381b1f3e5",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 4f848dbb-8358-2a6b-9961-a5e381b1f3e5)",
+  "source": "https://api.riigikogu.ee/api/volumes/4f848dbb-8358-2a6b-9961-a5e381b1f3e5",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-02-01&endDate=2010-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
