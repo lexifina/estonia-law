@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-02-08T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Keskkonnakomisjoni töökava (08.02.10 – 14.02.10) kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "19d4c30d-67f1-9ad1-255b-864f77c4292c"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud läänemere piirkonna merekeskkonna kaitse konventsiooni muudatuste heakskiitmise seaduse eelnõu (670 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bc7322b3-4c1e-8895-5503-6623de6c239d"
+    },
+    {
+      "order": 3,
+      "title": "Euroopa Komisjoni kohtuasjad C-515/09 ja C-528/09 Eesti Vabariigi vastu (kaevandustööstuse jäätmete käitlemise direktiiv ja elektri- ja elektroonikaseadmete direktiiv)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e0cf75d3-2e65-e668-580f-b74c93b3cbab"
+    },
+    {
+      "order": 4,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1f0f0a3e-92c4-c162-b653-1efe5b83ecbb"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 08.02.2010",
+      "uuid": "11d7f546-7160-f2d4-75ac-e374eaf4465c",
+      "files": [
+        "prot150 08.02.10.doc"
+      ]
+    }
+  ],
+  "uuid": "c184561e-8568-7e28-64ad-5254d1930811",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c184561e-8568-7e28-64ad-5254d1930811)",
+  "source": "https://api.riigikogu.ee/api/volumes/c184561e-8568-7e28-64ad-5254d1930811",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-02-01&endDate=2010-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
