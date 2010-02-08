@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-02-08T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikaitsekomisjoni töönädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "13b67501-b27e-f781-b997-015fd5b63e93"
+    },
+    {
+      "order": 2,
+      "title": "Kaitseväe peainspektori ametikohast. Kutsutud kaitseväe esindaja",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bb87b302-f0da-35e5-1c8c-29f39596fb16"
+    },
+    {
+      "order": 3,
+      "title": "Informatsioon riigikaitsekomisjoni delegatsiooni Afganistani visiidist",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0c8b2d3d-71ac-266a-aff7-3017a1035ee0"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 08.02.2010",
+      "uuid": "9b07c6a4-c7a1-40b8-c5ca-2693af98042c",
+      "files": [
+        "08.02.10.doc"
+      ]
+    }
+  ],
+  "uuid": "3efb4aa3-60b0-343e-b4b2-2f4cfc91a5f9",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3efb4aa3-60b0-343e-b4b2-2f4cfc91a5f9)",
+  "source": "https://api.riigikogu.ee/api/volumes/3efb4aa3-60b0-343e-b4b2-2f4cfc91a5f9",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-02-01&endDate=2010-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
