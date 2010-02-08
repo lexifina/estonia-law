@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-02-08T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5f27e582-90a5-ac08-2e92-f9c070c2e1e0"
+    },
+    {
+      "order": 2,
+      "title": "Ebasoodsamate piirkondade määratlemine Euroopa Liidus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a2496efe-6b11-cb03-c38d-7e894c562455"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 08.02.2010",
+      "uuid": "5465a6b7-6b15-6786-70ea-4e8c126e9da7",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_06_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "c44ec31c-fb36-c911-1323-c6921de6ba1c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c44ec31c-fb36-c911-1323-c6921de6ba1c)",
+  "source": "https://api.riigikogu.ee/api/volumes/c44ec31c-fb36-c911-1323-c6921de6ba1c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-02-01&endDate=2010-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
