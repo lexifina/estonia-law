@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-02-08T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade stabiliseerimisreservi varade koosseisu ja väärtuse kohta        ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ac856bd5-c57f-c324-6527-a46e61e57cff"
+    },
+    {
+      "order": 2,
+      "title": "Eestimaa Rahvaliidu fraktsiooni, Sotsiaaldemokraatliku Erakonna fraktsiooni algatatud tulumaksuseaduse ja sotsiaalmaksuseaduse § 3 muutmise seaduse eelnõu (631 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c08526d4-948a-9fef-101a-3b631a765ca2"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 08.02.2010",
+      "uuid": "c5631fde-144b-37b5-d46d-376dbac85dd3",
+      "files": [
+        "Rahanduskomisjon_istungi_protokoll_06_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "9ccbd4cf-c60f-fd97-4d91-417b0e69fe8e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9ccbd4cf-c60f-fd97-4d91-417b0e69fe8e)",
+  "source": "https://api.riigikogu.ee/api/volumes/9ccbd4cf-c60f-fd97-4d91-417b0e69fe8e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-02-01&endDate=2010-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
