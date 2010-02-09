@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-02-09T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Välispoliitika arutelu olulise tähtsusega riikliku küsimusena Riigikogu täiskogul neljapäeval, 11. veebruaril 2010 – Vabariigi Valitsuse ettekanne. ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1ba5317b-670e-7474-674a-e89634057fac"
+    },
+    {
+      "order": 2,
+      "title": "Välispoliitika arutelu olulise tähtsusega riikliku küsimusena Riigikogu täiskogul neljapäeval, 11. veebruaril 2010 – väliskomisjoni ettekanne.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6b5e910b-3358-e477-9654-f4290bbd30a6"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "06d6922c-575e-96b1-bf39-1958933d7bc7"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 09.02.2010",
+      "uuid": "1c03c7ee-077f-da89-0c7b-a6065e806fb5",
+      "files": [
+        "Väliskomisjon_istungi_protokoll_06_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "3f041294-7966-44a5-1c75-7800042a3c51",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3f041294-7966-44a5-1c75-7800042a3c51)",
+  "source": "https://api.riigikogu.ee/api/volumes/3f041294-7966-44a5-1c75-7800042a3c51",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-02-01&endDate=2010-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
