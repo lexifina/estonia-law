@@ -1,0 +1,33 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-02-09T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väljasõiduistung Balti Karusnahk AS-s",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4c6aa084-fa27-6ac0-14ca-6910575dbb10"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 09.02.2010",
+      "uuid": "08875485-0116-b190-cf04-4099a0b27a84",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_06_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "2155d4e5-d118-1362-ef1a-35a162db2c54",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2155d4e5-d118-1362-ef1a-35a162db2c54)",
+  "source": "https://api.riigikogu.ee/api/volumes/2155d4e5-d118-1362-ef1a-35a162db2c54",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-02-01&endDate=2010-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
