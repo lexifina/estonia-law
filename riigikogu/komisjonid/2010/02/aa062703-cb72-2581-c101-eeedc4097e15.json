@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-02-09T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kaitseväe korralduse seaduse rakendamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "136405ee-37af-00c9-3d15-ebc8097b6b8f"
+    },
+    {
+      "order": 2,
+      "title": "Informatsioon Eesti kaitseväe üksuste osalemisest rahvusvahelistel missioonidel sh Afganistanis, Iraagis (NTM), Kosovos ning Bosnias ja Hertsegoviinas ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fb1ba9b4-6605-f6e2-ab1b-6d98207e5c8f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 09.02.2010",
+      "uuid": "7a2a2704-2ab2-a5f7-012a-452f64460a8f",
+      "files": [
+        "09.02.10.doc"
+      ]
+    }
+  ],
+  "uuid": "aa062703-cb72-2581-c101-eeedc4097e15",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid aa062703-cb72-2581-c101-eeedc4097e15)",
+  "source": "https://api.riigikogu.ee/api/volumes/aa062703-cb72-2581-c101-eeedc4097e15",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-02-01&endDate=2010-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
