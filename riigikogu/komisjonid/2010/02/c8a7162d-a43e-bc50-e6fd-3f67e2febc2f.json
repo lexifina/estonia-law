@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-02-11T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Majanduskomisjoni ja rahanduskomisjoni ühisistung: Kohtumine kodanikualgatuste Minu Eesti ja Tark Eesti esindajatega. ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fd5163dc-c6eb-4f86-96fb-a0226b39ffb0"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine Ida-Virumaa esindajatega.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ae35dfa5-b02c-3504-52bf-8abcc9d4e3b5"
+    },
+    {
+      "order": 3,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b3c3cfb8-0dba-4a58-92dd-c54eba00933b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 11.02.2010",
+      "uuid": "8e2c4a09-0f33-02be-4154-da5ef995abd2",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_06_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "c8a7162d-a43e-bc50-e6fd-3f67e2febc2f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c8a7162d-a43e-bc50-e6fd-3f67e2febc2f)",
+  "source": "https://api.riigikogu.ee/api/volumes/c8a7162d-a43e-bc50-e6fd-3f67e2febc2f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-02-01&endDate=2010-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
