@@ -1,0 +1,33 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-02-11T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kooli lõpueksamite arutelu.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dc39111f-b19a-d730-f8e5-1a67eed8733f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 11.02.2010",
+      "uuid": "aa59a752-4299-0910-25da-95db1e3350b6",
+      "files": [
+        "Kultuurikomisjon_istungi_protokoll_06_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "ff772287-3c9d-fee7-566c-f09c803d829d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ff772287-3c9d-fee7-566c-f09c803d829d)",
+  "source": "https://api.riigikogu.ee/api/volumes/ff772287-3c9d-fee7-566c-f09c803d829d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-02-01&endDate=2010-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
