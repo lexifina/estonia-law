@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-02-15T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Põhiseaduskomisjoni algatatud erakonnaseaduse muutmise seaduse eelnõu (516 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a82b8e45-7468-ffbc-641c-1dfb5c366cc8"
+    },
+    {
+      "order": 2,
+      "title": "Sotsiaaldemokraatliku Erakonna fraktsiooni algatatud riigikogu otsus \"Riigikogu otsuse \"Riigikogu julgeolekuasutuste järelevalve komisjoni moodustamine\" muutmine\" (661 OE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "50e768f4-12ac-03e2-a123-1b8bc1c8dfea"
+    },
+    {
+      "order": 3,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c0f26629-77a0-1f8b-ed6a-1b34e9ace666"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 15.02.2010",
+      "uuid": "4684bf8b-e788-88f9-05a9-4625cbcde4f5",
+      "files": [
+        "Põhiseaduskomisjon_istungi_protokoll_07_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "f9c407aa-172f-97dd-39d8-4acf666f90f8",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f9c407aa-172f-97dd-39d8-4acf666f90f8)",
+  "source": "https://api.riigikogu.ee/api/volumes/f9c407aa-172f-97dd-39d8-4acf666f90f8",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-02-01&endDate=2010-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
