@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-02-15T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töönädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e46e148b-89b4-d4d5-15d1-aa21ab904527"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud rahvusvahelise sanktsiooni seaduse eelnõu (632 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "704e2faf-c665-0532-74b0-4eaea29d884b"
+    },
+    {
+      "order": 3,
+      "title": "Turvalisuspoliitika ettekandega tutvumine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1fcce19e-d340-e270-9fc8-ac1408e28a57"
+    },
+    {
+      "order": 4,
+      "title": "Komisjoni kirjavahetus (Riigikogu julgeolekuasutuste järelevalve erikomisjoni kiri)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "464c59e3-ee31-c180-c9d9-12ec4c4cb263"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 15.02.2010",
+      "uuid": "855ac05b-0bea-3b32-9c0c-a52387122a18",
+      "files": [
+        "iguskomisjon_istungi_protokoll_07_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "e35175ef-f41e-9638-52c6-1f1bb413d49f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e35175ef-f41e-9638-52c6-1f1bb413d49f)",
+  "source": "https://api.riigikogu.ee/api/volumes/e35175ef-f41e-9638-52c6-1f1bb413d49f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-02-01&endDate=2010-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
