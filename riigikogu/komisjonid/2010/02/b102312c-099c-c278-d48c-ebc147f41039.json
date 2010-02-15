@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-02-15T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud ravimiseaduse ja ravikindlustuse seaduse muutmise seaduse eelnõu (643 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "726d6086-6bc9-e283-5ec9-751139863e61"
+    },
+    {
+      "order": 2,
+      "title": "Olulise tähtsusega riikliku küsimuse \"Tööpuuduse sotsiaalsed aspektid\" arutelu ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ebb35ee1-b56d-eba8-8f8d-9cffa97b4a1c"
+    },
+    {
+      "order": 3,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7ef89310-9861-96c1-af08-25debd7278aa"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 15.02.2010",
+      "uuid": "b993fe5b-ec89-7519-c8ef-0ae3076f19a7",
+      "files": [
+        "Sotsiaalkomisjon_istungi_protokoll_07_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "b102312c-099c-c278-d48c-ebc147f41039",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b102312c-099c-c278-d48c-ebc147f41039)",
+  "source": "https://api.riigikogu.ee/api/volumes/b102312c-099c-c278-d48c-ebc147f41039",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-02-01&endDate=2010-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
