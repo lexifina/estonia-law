@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-02-15T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9e8c20ef-1587-4fa7-5efd-b3b3b10e3cbe"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade Eesti Euroopa Kalandusfondi rakenduskava raames tehtust",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "de01b498-244b-d697-ea4e-b494d8bb85a5"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 15.02.2010",
+      "uuid": "686dc3f9-4464-a52c-f882-969aae00adc6",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_07_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "267170f5-c5c8-1b35-b79c-2ede147e9c28",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 267170f5-c5c8-1b35-b79c-2ede147e9c28)",
+  "source": "https://api.riigikogu.ee/api/volumes/267170f5-c5c8-1b35-b79c-2ede147e9c28",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-02-01&endDate=2010-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
