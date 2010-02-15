@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-02-15T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "039258b0-2a10-22fa-bed6-ded0038a8980"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine Eesti Rahvusringhäälingu esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2abe83a6-a7e9-09fc-4714-d58db8c765a2"
+    },
+    {
+      "order": 3,
+      "title": "Kohtumine Eesti Rahva Muuseumi esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d44ca091-20b2-078b-f30e-3db8cd0ae89c"
+    },
+    {
+      "order": 4,
+      "title": "Info",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d50ccf2b-22e7-7d0d-5dc3-f81a24704b18"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 15.02.2010",
+      "uuid": "c9867d54-c356-d8a9-e8ab-ae5f663753be",
+      "files": [
+        "Kultuurikomisjon_istungi_protokoll_07_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "7cc91ce8-38fd-e56f-0775-9be0a98d45d2",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7cc91ce8-38fd-e56f-0775-9be0a98d45d2)",
+  "source": "https://api.riigikogu.ee/api/volumes/7cc91ce8-38fd-e56f-0775-9be0a98d45d2",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-02-01&endDate=2010-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
