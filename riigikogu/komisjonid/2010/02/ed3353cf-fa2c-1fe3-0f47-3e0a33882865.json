@@ -1,0 +1,33 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-02-16T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Eesti Toiduliidu esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d8f7a9f8-59ea-651f-3868-719cebf031c6"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 16.02.2010",
+      "uuid": "5913def7-e709-a41b-8d9b-a97708d263f5",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_07_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "ed3353cf-fa2c-1fe3-0f47-3e0a33882865",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ed3353cf-fa2c-1fe3-0f47-3e0a33882865)",
+  "source": "https://api.riigikogu.ee/api/volumes/ed3353cf-fa2c-1fe3-0f47-3e0a33882865",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-02-01&endDate=2010-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
