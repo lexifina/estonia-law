@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-02-16T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud päästeseaduse eelnõu (514 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8297a924-5349-50b8-f07b-6e420cb9260a"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud tuleohutuse seaduse eelnõu (513 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fe73c9c7-3beb-6608-48db-ba3c02c8b1a4"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 16.02.2010",
+      "uuid": "b71270aa-da6b-9769-dd7b-f38dfd0d935a",
+      "files": [
+        "iguskomisjon_istungi_protokoll_07_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "f66dbb94-6f2a-2571-6aaa-7d9fb838d704",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f66dbb94-6f2a-2571-6aaa-7d9fb838d704)",
+  "source": "https://api.riigikogu.ee/api/volumes/f66dbb94-6f2a-2571-6aaa-7d9fb838d704",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-02-01&endDate=2010-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
