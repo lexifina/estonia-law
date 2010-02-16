@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-02-16T14:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Põhiseaduskomisjoni algatatud riigikogu liikme staatuse seaduse § 28 muutmise seaduse eelnõu (201 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "044096bd-d897-9023-3740-98c080e569d0"
+    },
+    {
+      "order": 2,
+      "title": "Eesti Keskerakonna fraktsiooni algatatud riigikogu liikme staatuse seaduse § 28 muutmise seaduse eelnõu (429 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5205b0ea-6843-f31a-92c4-6f8e97af9d8c"
+    },
+    {
+      "order": 3,
+      "title": "Riigikaitsekomisjonile arvamuse andmine kaitseväeteenistuse seaduse muutmise seaduse eelnõu -671 SE- kohta",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "340227f6-94be-c7c7-b0c4-5febb096e615"
+    },
+    {
+      "order": 4,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "55ce344a-8261-fba3-3050-fda40db33b82"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 16.02.2010",
+      "uuid": "6086f615-5cc6-a1e7-6908-8f0784f391f5",
+      "files": [
+        "Põhiseaduskomisjon_istungi_protokoll_07_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "8b82d4b3-55d6-26d4-107c-8d46690b1fd3",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8b82d4b3-55d6-26d4-107c-8d46690b1fd3)",
+  "source": "https://api.riigikogu.ee/api/volumes/8b82d4b3-55d6-26d4-107c-8d46690b1fd3",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-02-01&endDate=2010-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
