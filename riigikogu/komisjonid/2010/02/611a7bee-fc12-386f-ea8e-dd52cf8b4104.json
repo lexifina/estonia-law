@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-02-16T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väliskomisjoni Saksamaa visiidi ettevalmistamine: ülevaade Eesti-Saksa suhetest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b89f8166-009f-0768-f353-917126d280b9"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade eurotsooni hetkeseisust ja tulevikust. ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "27d89df2-9f6f-ead7-7c1b-033577870271"
+    },
+    {
+      "order": 3,
+      "title": "Ülevaade Euroopa Liidu ja Vahemeremaade Parlamentaarse Assamblee (EMPA) Eesti delegatsiooni tegevusest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f1641078-edf5-4d68-da12-1507deef8959"
+    },
+    {
+      "order": 4,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1467d9ae-7b40-a100-6279-7030c00c476c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 16.02.2010",
+      "uuid": "2eb3c9fe-8455-0832-2b5f-bcdd0ab6cd20",
+      "files": [
+        "Väliskomisjon_istungi_protokoll_07_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "611a7bee-fc12-386f-ea8e-dd52cf8b4104",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 611a7bee-fc12-386f-ea8e-dd52cf8b4104)",
+  "source": "https://api.riigikogu.ee/api/volumes/611a7bee-fc12-386f-ea8e-dd52cf8b4104",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-02-01&endDate=2010-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
