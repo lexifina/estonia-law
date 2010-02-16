@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-02-16T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Ida-Virumaa esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "87a702f5-28fa-bd84-43fb-ec1b080af544"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud põhikooli- ja gümnaasiumiseaduse eelnõu (412 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "81f90678-7b09-bad0-9d80-37057fa4a8be"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 16.02.2010",
+      "uuid": "5d7e49bf-8c67-aa24-f5b4-32b7a4894100",
+      "files": [
+        "Kultuurikomisjon_istungi_protokoll_07_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "e25c5707-a8c9-2b5f-ba5f-11d0a3136af8",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e25c5707-a8c9-2b5f-ba5f-11d0a3136af8)",
+  "source": "https://api.riigikogu.ee/api/volumes/e25c5707-a8c9-2b5f-ba5f-11d0a3136af8",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-02-01&endDate=2010-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
