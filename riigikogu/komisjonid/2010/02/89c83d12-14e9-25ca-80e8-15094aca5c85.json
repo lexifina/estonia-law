@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-02-18T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Isamaa ja Res Publica Liidu fraktsiooni, Eesti Reformierakonna fraktsiooni, Erakond Eestimaa Rohelised fraktsiooni algatatud monopolide ohjeldamise seaduse eelnõu (597 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "38fb5599-5fba-2e9c-9766-cbe32e499258"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine Maanteeameti esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "84667134-e85f-577f-c75b-8a364641e90d"
+    },
+    {
+      "order": 3,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "08d21359-2f9d-1659-f2d3-aa923243ad28"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 18.02.2010",
+      "uuid": "054c97ef-e441-6370-3977-058c231bdf62",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_07_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "89c83d12-14e9-25ca-80e8-15094aca5c85",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 89c83d12-14e9-25ca-80e8-15094aca5c85)",
+  "source": "https://api.riigikogu.ee/api/volumes/89c83d12-14e9-25ca-80e8-15094aca5c85",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-02-01&endDate=2010-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
