@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-02-22T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 25.-26. veebruaril 2010 toimuval justiits- ja siseküsimuste nõukogu istungil.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "68730f5a-9d5a-a830-b955-5c96c9044fb1"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu kodu- ja töökorra seaduse muutmise seaduse eelnõu algatamine tulenevalt Lissaboni lepingust ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "37fb6586-e9de-59c6-5f15-80c656c7def2"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6b69123f-dbc1-cd7f-be3e-d7aa6c2425f3"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 22.02.2010",
+      "uuid": "30a9db2d-c6a3-e333-4036-5f67675c6d4d",
+      "files": [
+        "Euroopa Liidu asjade komisjon_paevakord_22_02_2010.odt",
+        "ELAK_istungi_protokoll_22_02_2010_uus.odt"
+      ]
+    }
+  ],
+  "uuid": "fd4b0cc4-075a-2ebd-71b5-fc1cb1131b43",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid fd4b0cc4-075a-2ebd-71b5-fc1cb1131b43)",
+  "source": "https://api.riigikogu.ee/api/volumes/fd4b0cc4-075a-2ebd-71b5-fc1cb1131b43",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-02-01&endDate=2010-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
