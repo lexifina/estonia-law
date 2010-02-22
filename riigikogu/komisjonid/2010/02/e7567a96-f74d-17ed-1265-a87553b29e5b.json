@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-02-22T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7ea5433b-98fc-c8be-8795-f0a3c5d4c0b8"
+    },
+    {
+      "order": 2,
+      "title": "Arutelu teemal \"Noorsootöö strateegia 2006- 2013\"",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e066583b-b79c-1590-ffe0-1f3385544873"
+    },
+    {
+      "order": 3,
+      "title": "Vabariigi Valitsuse algatatud noorsootöö seaduse eelnõu (676 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "daa3d392-9261-7e2d-ca22-368cc80f0008"
+    },
+    {
+      "order": 4,
+      "title": "Info ja kirjad",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3b0085d5-d504-d78a-9117-f5ebd172e935"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 22.02.2010",
+      "uuid": "dc0d2e6d-b399-7de3-4fed-eea296a4bc88",
+      "files": [
+        "Kultuurikomisjon_istungi_protokoll_08_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "e7567a96-f74d-17ed-1265-a87553b29e5b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e7567a96-f74d-17ed-1265-a87553b29e5b)",
+  "source": "https://api.riigikogu.ee/api/volumes/e7567a96-f74d-17ed-1265-a87553b29e5b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-02-01&endDate=2010-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
