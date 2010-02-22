@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-02-22T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "efeebbab-9ae3-5fa7-aae5-0c94ebdadb28"
+    },
+    {
+      "order": 2,
+      "title": "Probleemid kaldaäärsete kinnistute piiride ja pindala määramisel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "22bfb6c3-9fa3-f588-6c40-83d383d30ee3"
+    },
+    {
+      "order": 3,
+      "title": "Maareformi seaduse kavandatavad muudatused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6644bfc1-fbbb-e775-152b-8c8d1fe4073c"
+    },
+    {
+      "order": 4,
+      "title": "Ülevaade maareformi hetkeseisust",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a79bd87f-53bf-ae57-8800-bca78204450b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 22.02.2010",
+      "uuid": "14784b6f-c5c1-80da-48db-dac6943f9f62",
+      "files": [
+        "Maaelukomisjon_paevakord_22_02_2010.odt",
+        "Maaelukomisjon_istungi_protokoll_08_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "9c800c81-dffb-602c-c322-16e5b4de5501",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9c800c81-dffb-602c-c322-16e5b4de5501)",
+  "source": "https://api.riigikogu.ee/api/volumes/9c800c81-dffb-602c-c322-16e5b4de5501",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-02-01&endDate=2010-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
