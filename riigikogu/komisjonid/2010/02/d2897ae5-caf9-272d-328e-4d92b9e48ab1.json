@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-02-25T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Põhiseaduskomisjoni algatatud erakonnaseaduse muutmise seaduse eelnõu (516 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "26ba720e-3e9a-2ae3-e5aa-dc47d3fe1cf0"
+    },
+    {
+      "order": 2,
+      "title": "Euroopa Nõukogu vähemusrahvuste kaitse raamkonventsiooni täitmise aruande projekti arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "01ffa0e8-d292-ed4d-1609-d7f78e868423"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 25.02.2010",
+      "uuid": "e644f6ae-2a50-6251-d857-79f18c38ba09",
+      "files": [
+        "Põhiseaduskomisjon_istungi_protokoll_08_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "d2897ae5-caf9-272d-328e-4d92b9e48ab1",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d2897ae5-caf9-272d-328e-4d92b9e48ab1)",
+  "source": "https://api.riigikogu.ee/api/volumes/d2897ae5-caf9-272d-328e-4d92b9e48ab1",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-02-01&endDate=2010-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
