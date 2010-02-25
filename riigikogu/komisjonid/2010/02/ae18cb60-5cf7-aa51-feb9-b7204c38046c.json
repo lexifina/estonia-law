@@ -1,0 +1,33 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-02-25T10:30:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7f977361-79fb-42cb-f25d-d38a5492db20"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 25.02.2010",
+      "uuid": "0dd6922c-ba5f-f1a1-cd69-7d47e15ea614",
+      "files": [
+        "Rahanduskomisjon_istungi_protokoll_08_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "ae18cb60-5cf7-aa51-feb9-b7204c38046c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ae18cb60-5cf7-aa51-feb9-b7204c38046c)",
+  "source": "https://api.riigikogu.ee/api/volumes/ae18cb60-5cf7-aa51-feb9-b7204c38046c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-02-01&endDate=2010-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
