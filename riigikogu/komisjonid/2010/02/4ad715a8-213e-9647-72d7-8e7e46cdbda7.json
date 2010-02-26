@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-02-26T10:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väliskomisjoni ja ELAKi ühisistung - Eesti seisukohad 5.-6. märtsil 2010 toimuval Euroopa Liidu välisministrite mitteametlikul kohtumisel.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bfbfbcd0-bb5f-28f1-a2c6-3e45d3ddccf0"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ade0aed3-23e3-f03a-4243-c8c5ef0354d9"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 26.02.2010",
+      "uuid": "a5d82dc7-c1c8-da57-5ed5-c02aa72cfa1c",
+      "files": [
+        "Väliskomisjon_istungi_protokoll_08_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "4ad715a8-213e-9647-72d7-8e7e46cdbda7",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 4ad715a8-213e-9647-72d7-8e7e46cdbda7)",
+  "source": "https://api.riigikogu.ee/api/volumes/4ad715a8-213e-9647-72d7-8e7e46cdbda7",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-02-01&endDate=2010-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
