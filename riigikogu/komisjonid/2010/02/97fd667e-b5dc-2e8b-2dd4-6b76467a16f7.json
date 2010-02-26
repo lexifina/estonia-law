@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-02-26T10:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 5.-6. märtsil 2010 toimuval Euroopa Liidu välisministrite mitteametlikul kohtumisel (Gymnich). ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a2e9c583-c08b-b75f-6ba0-5b9ac5ce6265"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad 1.-2. märtsil 2010 toimuval Euroopa Liidu konkurentsivõime- ja kasvu nõukogu istungil. ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ad7c22fe-7ff2-0d8a-25bd-7758a6db3e38"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 26.02.2010",
+      "uuid": "be6a7c6d-9a83-a3cc-ee8a-b276359d2e09",
+      "files": [
+        "Euroopa Liidu asjade komisjon_paevakord_26_02_2010.odt",
+        "ELAK_istungi_protokoll_26_02_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "97fd667e-b5dc-2e8b-2dd4-6b76467a16f7",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 97fd667e-b5dc-2e8b-2dd4-6b76467a16f7)",
+  "source": "https://api.riigikogu.ee/api/volumes/97fd667e-b5dc-2e8b-2dd4-6b76467a16f7",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-02-01&endDate=2010-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
