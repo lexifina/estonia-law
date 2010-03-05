@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-03-05T10:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 8. märtsil 2010 toimuval Euroopa Liidu töö-, sotsiaalpoliitika, tervishoiu ja tarbijakaitse nõukogu (EPSCO) kohtumisel. ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1deb2e87-68cc-d770-e415-b3804c43cbda"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine Euroopa Parlamendi liikme Indrek Tarandiga ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c30af32a-edd2-a567-eaa6-b56f250acaff"
+    },
+    {
+      "order": 3,
+      "title": "Kohtumine Euroopa Komisjoni transpordivoliniku Siim Kallasega ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0b300b6d-039d-8cf4-03dd-700f2feed4cf"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 05.03.2010",
+      "uuid": "5842ff57-b786-784b-1da7-f655cce7570c",
+      "files": [
+        "Euroopa Liidu asjade komisjon_istungi_protokoll_09_2010.odt",
+        "Euroopa Liidu asjade komisjon_paevakord_05_03_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "ec801be2-f269-07e5-de93-87d9cadb33a9",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ec801be2-f269-07e5-de93-87d9cadb33a9)",
+  "source": "https://api.riigikogu.ee/api/volumes/ec801be2-f269-07e5-de93-87d9cadb33a9",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-03-01&endDate=2010-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
