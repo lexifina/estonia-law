@@ -1,0 +1,33 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-03-08T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väljasõiduistung. Kohtumine Töötukassa esindajatega.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "78c37b37-9432-54ec-642a-1863620a1d44"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 08.03.2010",
+      "uuid": "90dcdc63-c485-21d0-df17-f01623e1efde",
+      "files": [
+        "Rahanduskomisjon_istungi_protokoll_10_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "a16ae410-9f67-ddb1-a904-ece65246a7e9",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a16ae410-9f67-ddb1-a904-ece65246a7e9)",
+  "source": "https://api.riigikogu.ee/api/volumes/a16ae410-9f67-ddb1-a904-ece65246a7e9",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-03-01&endDate=2010-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
