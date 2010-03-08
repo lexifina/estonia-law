@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-03-08T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikontrolli auditiaruande „Riigi infosüsteemide arendusprotsessi tulemuslikkus“ arutelu; ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "62625a2d-917a-fce7-ece0-8451d11b53a5"
+    },
+    {
+      "order": 2,
+      "title": "Laekunud Riigikontrolli aruandest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9e3ff043-08d2-2805-9b06-f686d61ff430"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 08.03.2010",
+      "uuid": "87744473-58f2-2168-60cd-4d64edb64ed7",
+      "files": [
+        "protokoll 94 08 03 2010 (2).doc",
+        "Riigieelarve kontrolli erikomisjon_paevakord_08_03_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "7da639fe-df8b-f510-602a-26abd1899232",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7da639fe-df8b-f510-602a-26abd1899232)",
+  "source": "https://api.riigikogu.ee/api/volumes/7da639fe-df8b-f510-602a-26abd1899232",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-03-01&endDate=2010-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
