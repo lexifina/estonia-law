@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-03-08T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e1fbf108-5fdd-639f-7dbc-de74b431a4d5"
+    },
+    {
+      "order": 2,
+      "title": "Ühisistung keskkonnakomisjoniga: Euroopa Komisjoni teatis valikuvõimalused ELi nägemuseks ja eesmärgiks bioloogilise mitmekesisuse valdkonnas pärast 2010. aastat. Arvamuse andmine ELAKile",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0a64ae89-ab5e-ffd3-97ab-72c5a6072898"
+    },
+    {
+      "order": 3,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4ac1f0db-71d4-5d09-4187-f85da237c752"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 08.03.2010",
+      "uuid": "63fc41f0-1286-a75c-d7f0-fcf3c65d3712",
+      "files": [
+        "Maaelukomisjon_paevakord_08_03_2010.odt",
+        "Maaelukomisjon_istungi_protokoll_10_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "34d1504b-7e38-b579-ce43-f90301cf2cef",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 34d1504b-7e38-b579-ce43-f90301cf2cef)",
+  "source": "https://api.riigikogu.ee/api/volumes/34d1504b-7e38-b579-ce43-f90301cf2cef",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-03-01&endDate=2010-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
