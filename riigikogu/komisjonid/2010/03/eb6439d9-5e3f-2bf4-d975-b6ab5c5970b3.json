@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-03-08T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": " Keskkonnakomisjoni töökava (08.03.10 – 14.03.10) kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "969a602f-c5e0-ae8a-39ef-a7b871db0c59"
+    },
+    {
+      "order": 2,
+      "title": "Ühisistung maaelukomisjoniga. Euroopa Komisjoni teatis „Valikuvõimalused ELi nägemuseks ja eesmärgiks bioloogilise mitmekesisuse valdkonnas pärast 2010. aastat“",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4e6d499c-92e4-0d2f-0e2f-78874914af58"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 08.03.2010",
+      "uuid": "da77bb20-53a1-d5be-8b76-9830ddc6d25c",
+      "files": [
+        "prot154 08.03.10.doc"
+      ]
+    }
+  ],
+  "uuid": "eb6439d9-5e3f-2bf4-d975-b6ab5c5970b3",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid eb6439d9-5e3f-2bf4-d975-b6ab5c5970b3)",
+  "source": "https://api.riigikogu.ee/api/volumes/eb6439d9-5e3f-2bf4-d975-b6ab5c5970b3",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-03-01&endDate=2010-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
