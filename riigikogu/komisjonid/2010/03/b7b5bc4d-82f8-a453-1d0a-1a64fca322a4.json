@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-03-09T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väljasõiduistung MKM-i",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "67eb0925-981c-501d-7da0-583e36b40424"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud turismiseaduse muutmise seaduse eelnõu (677 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9a78638b-3a49-604b-9086-74147f4d3bb6"
+    },
+    {
+      "order": 3,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "60e924d6-28fe-00fb-7a38-41a3ec98590b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 09.03.2010",
+      "uuid": "0757c354-72b8-9b13-151b-73c2378eb8b2",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_10_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "b7b5bc4d-82f8-a453-1d0a-1a64fca322a4",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b7b5bc4d-82f8-a453-1d0a-1a64fca322a4)",
+  "source": "https://api.riigikogu.ee/api/volumes/b7b5bc4d-82f8-a453-1d0a-1a64fca322a4",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-03-01&endDate=2010-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
