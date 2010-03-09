@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-03-09T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Põllumajanduse Registrite ja Informatsiooni Ameti peadirektor Jaan Kallasega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "98aa2684-3af2-ec03-068d-c057a20d463d"
+    },
+    {
+      "order": 2,
+      "title": "Maaelukomisjoni algatatud Euroopa Liidu ühise põllumajanduspoliitika rakendamise seaduse muutmise seaduse eelnõu (701 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cff69829-3750-e98f-d9d2-2f0c2531dbfe"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 09.03.2010",
+      "uuid": "f86a28a4-5907-d5a8-d719-3445e5b8f658",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_10_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "a6cd1145-f7a6-23dc-6c02-f15291f45d4b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a6cd1145-f7a6-23dc-6c02-f15291f45d4b)",
+  "source": "https://api.riigikogu.ee/api/volumes/a6cd1145-f7a6-23dc-6c02-f15291f45d4b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-03-01&endDate=2010-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
