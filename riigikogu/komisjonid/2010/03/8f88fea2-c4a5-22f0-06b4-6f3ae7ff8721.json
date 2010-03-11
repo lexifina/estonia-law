@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-03-11T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Arutelu poliitilistest ja majanduslikest arengutest Lätis. ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "997ab279-4e04-67fc-c05b-298d72bc793e"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d597f7e1-e3e8-a59a-3d1a-e169ea2989a3"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 11.03.2010",
+      "uuid": "ffdd30ec-d934-9af8-986a-9497f91d9728",
+      "files": [
+        "Väliskomisjon_istungi_protokoll_10_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "8f88fea2-c4a5-22f0-06b4-6f3ae7ff8721",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8f88fea2-c4a5-22f0-06b4-6f3ae7ff8721)",
+  "source": "https://api.riigikogu.ee/api/volumes/8f88fea2-c4a5-22f0-06b4-6f3ae7ff8721",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-03-01&endDate=2010-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
