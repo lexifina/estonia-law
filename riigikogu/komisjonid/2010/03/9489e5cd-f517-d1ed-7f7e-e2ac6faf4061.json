@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-03-11T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud liiklusseaduse eelnõu (475 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cff59b70-1b34-ea4d-e35f-c439fd1d1cc3"
+    },
+    {
+      "order": 2,
+      "title": "Euroopa Komisjoni teatise „Tuumaenergia ajakohastatud näidisprogramm seoses teise strateegilise energeetikaülevaatega“ osas Eesti seisukohtade arutelu ja arvamuse andmine Euroopa Liidu asjade komisjonile.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "91ef8bd7-95fd-5be6-0d02-03b3e76e8858"
+    },
+    {
+      "order": 3,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c77f75fb-e344-8207-a767-cf93c2a27bfb"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 11.03.2010",
+      "uuid": "a9022d12-ca46-86d5-0b17-0c3b5a0423f6",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_10_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "9489e5cd-f517-d1ed-7f7e-e2ac6faf4061",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9489e5cd-f517-d1ed-7f7e-e2ac6faf4061)",
+  "source": "https://api.riigikogu.ee/api/volumes/9489e5cd-f517-d1ed-7f7e-e2ac6faf4061",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-03-01&endDate=2010-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
