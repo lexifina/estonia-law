@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-03-12T10:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 16. märtsil 2010 toimuval Euroopa Liidu majandus- ja rahandusministrite nõukogu (ECOFIN) kohtumisel.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e04abbc1-880c-01fb-509d-578d804b980c"
+    },
+    {
+      "order": 2,
+      "title": "Seisukoha andmine: Komisjoni teatis \"Valikuvõimalused ELi nägemuseks ja eesmärgiks bioloogilise mitmekesisuse valdkonnas pärast 2010. aastat\" (COM(2010)4).",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "30a668b8-9a39-0cc3-f690-1c499d6049dd"
+    },
+    {
+      "order": 3,
+      "title": "Eesti seisukohad 15. märtsil 2010 toimival Euroopa Liidu keskkonnanõukogu kohtumisel.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a9b40fc4-470a-65cf-7575-a2eaedd97c4b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 12.03.2010",
+      "uuid": "b3cd3f61-4af6-599e-0d2f-9ae33b970bd2",
+      "files": [
+        "Euroopa Liidu asjade komisjon_istungi_protokoll_10_2010.odt",
+        "Euroopa Liidu asjade komisjon_paevakord_12_03_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "8c28a027-8877-3c0e-ef22-b11eef1f8ef3",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8c28a027-8877-3c0e-ef22-b11eef1f8ef3)",
+  "source": "https://api.riigikogu.ee/api/volumes/8c28a027-8877-3c0e-ef22-b11eef1f8ef3",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-03-01&endDate=2010-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
