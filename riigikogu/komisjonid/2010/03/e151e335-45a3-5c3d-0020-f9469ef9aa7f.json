@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-03-15T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": ". Keskkonnakomisjoni töökava (15.03.10 – 21.03.10) kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "be146dea-670d-1920-e46d-4c15424172b9"
+    },
+    {
+      "order": 2,
+      "title": "Veeseaduse ja kemikaaliseaduse muutmise seaduse eelnõu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7d5aef92-e7fd-fa3e-aa42-124b9441f082"
+    },
+    {
+      "order": 3,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dd4d7472-3b12-1364-3339-0e121d5ca673"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 15.03.2010",
+      "uuid": "ed144efa-affc-fa3e-63af-4970c19a82a3",
+      "files": [
+        "prot156 15.03.10.doc"
+      ]
+    }
+  ],
+  "uuid": "e151e335-45a3-5c3d-0020-f9469ef9aa7f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e151e335-45a3-5c3d-0020-f9469ef9aa7f)",
+  "source": "https://api.riigikogu.ee/api/volumes/e151e335-45a3-5c3d-0020-f9469ef9aa7f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-03-01&endDate=2010-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
