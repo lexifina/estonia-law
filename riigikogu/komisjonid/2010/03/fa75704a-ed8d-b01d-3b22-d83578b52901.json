@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-03-15T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud meresõiduohutuse seaduse ja sellega seonduvate seaduste muutmise seaduse eelnõu (653 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "22618823-8b5c-09f9-11d7-57ba374ed202"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud eesti Vabariigi ja Euroopa Kosmoseagentuuri vahelise Euroopa koostööriigi kokkuleppe ratifitseerimise seaduse eelnõu (699 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "22db9280-bfd0-b487-9318-2fb8a6c1fdfa"
+    },
+    {
+      "order": 3,
+      "title": "Eesti Keskerakonna fraktsiooni algatatud riigivaraseaduse muutmise seaduse eelnõu (664 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "af8a63a8-18cf-300e-2e2e-f23565922de1"
+    },
+    {
+      "order": 4,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f8007fd2-dc3f-8d40-ad60-340dbd102cdc"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 15.03.2010",
+      "uuid": "687b270c-b3cd-77c0-d4dd-c4f8b81563cb",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_11_2010.odt",
+        "Majanduskomisjon_paevakord_15_03_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "fa75704a-ed8d-b01d-3b22-d83578b52901",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid fa75704a-ed8d-b01d-3b22-d83578b52901)",
+  "source": "https://api.riigikogu.ee/api/volumes/fa75704a-ed8d-b01d-3b22-d83578b52901",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-03-01&endDate=2010-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
