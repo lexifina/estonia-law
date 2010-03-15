@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-03-15T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1d097ef7-8a6b-ecf3-46bf-96040a27424b"
+    },
+    {
+      "order": 2,
+      "title": "Maaelu arengu kava rakendamise hetkeseis",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "053478d5-6c89-784d-f0ba-b6b32d46d709"
+    },
+    {
+      "order": 3,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "52fc3591-6cd6-6e9e-0a0d-0717c17f7ebe"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 15.03.2010",
+      "uuid": "cc315723-9a9c-a92c-0de7-19fda5b7f9b5",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_11_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "e097e240-dc46-2add-e3a5-2cf95efd613e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e097e240-dc46-2add-e3a5-2cf95efd613e)",
+  "source": "https://api.riigikogu.ee/api/volumes/e097e240-dc46-2add-e3a5-2cf95efd613e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-03-01&endDate=2010-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
