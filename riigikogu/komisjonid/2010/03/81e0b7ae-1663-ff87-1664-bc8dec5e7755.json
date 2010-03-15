@@ -1,0 +1,33 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-03-15T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud kohaliku omavalitsuse üksuse finantsjuhtimise seaduse eelnõu (366 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1b8a4aa0-0710-fb55-54c5-ce26f67e378f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 15.03.2010",
+      "uuid": "6d210e97-8197-a641-d1af-b7ccb7f9e0df",
+      "files": [
+        "Rahanduskomisjon_istungi_protokoll_11_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "81e0b7ae-1663-ff87-1664-bc8dec5e7755",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 81e0b7ae-1663-ff87-1664-bc8dec5e7755)",
+  "source": "https://api.riigikogu.ee/api/volumes/81e0b7ae-1663-ff87-1664-bc8dec5e7755",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-03-01&endDate=2010-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
