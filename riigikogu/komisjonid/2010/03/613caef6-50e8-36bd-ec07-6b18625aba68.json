@@ -1,0 +1,64 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-03-15T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väliskomisjoni VII istungjärgu 8. töönädala töökava kinnitamine.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a3be0e3b-9629-4648-32db-3a51f0f1197d"
+    },
+    {
+      "order": 2,
+      "title": "Arutelu Riigikogu välissuhtlemise korraldusest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "59b43200-d7fa-168e-bff5-e92cb095a619"
+    },
+    {
+      "order": 3,
+      "title": "Ülevaade Balti Assamblee Eesti delegatsiooni tegevusest. ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "199967f7-fd89-a029-901f-d1d297f8fb71"
+    },
+    {
+      "order": 4,
+      "title": "Ülevaade Euroopa Nõgukogu Parlamentaarse Assamblee (ENPA) Eesti delegatsiooni tegevusest. ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b393885d-6128-d803-222b-4ef52620e2d7"
+    },
+    {
+      "order": 5,
+      "title": "    Informatsioon komisjoni liikmete tegevusest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f0a6e678-06d2-9311-1044-d3fd95a8572f"
+    },
+    {
+      "order": 6,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6405e670-ff66-15f1-42d1-f236989dfc35"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 15.03.2010",
+      "uuid": "a783bfb5-83e0-d860-969e-bfd758ea9dc1",
+      "files": [
+        "Väliskomisjon_istungi_protokoll_11_2010.odt",
+        "Väliskomisjon_paevakord_15_03_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "613caef6-50e8-36bd-ec07-6b18625aba68",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 613caef6-50e8-36bd-ec07-6b18625aba68)",
+  "source": "https://api.riigikogu.ee/api/volumes/613caef6-50e8-36bd-ec07-6b18625aba68",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-03-01&endDate=2010-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
