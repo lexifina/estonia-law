@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-03-16T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud Kaitseliidu seaduse muutmise seaduse eelnõu (658 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "57b49bf1-42eb-092d-73c0-1984f0cf9aea"
+    },
+    {
+      "order": 2,
+      "title": "Kaitseväe korralduse seaduse rakendamine ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "21c02142-b16b-1417-9fd7-0f155de6e247"
+    },
+    {
+      "order": 3,
+      "title": "Kolme Balti riigi riigikaitsekomisjonide ühisistung Riias 26.04.-27.04.2010",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "77e5e0a5-aad0-9d1f-9714-569d6473b6b3"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 16.03.2010",
+      "uuid": "390df652-0764-1a73-555f-31411722b37e",
+      "files": [
+        "16.03.10.doc"
+      ]
+    }
+  ],
+  "uuid": "1e9b5665-5fb6-8494-0b04-ff45b7cf835d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 1e9b5665-5fb6-8494-0b04-ff45b7cf835d)",
+  "source": "https://api.riigikogu.ee/api/volumes/1e9b5665-5fb6-8494-0b04-ff45b7cf835d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-03-01&endDate=2010-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
