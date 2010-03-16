@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-03-16T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Õiguskomisjoni algatatud liiklusseaduse ja väärteomenetluse seadustiku muutmise seaduse eelnõu (673 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "29d3e313-ab17-f7a5-5443-06a6d3a5e66b"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud kriminaalmenetluse seadustiku ja teiste seaduste muutmise seaduse eelnõu (286 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "25914d30-90e2-d460-b15e-07a58ffbc60c"
+    },
+    {
+      "order": 3,
+      "title": "Arvamused ELAK-le",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c829bba7-105d-c08b-ec7a-5e9b64062598"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 16.03.2010",
+      "uuid": "92b7ec8e-a0a2-0ff4-5550-1c17131b5c1b",
+      "files": [
+        "iguskomisjon_istungi_protokoll_11_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "c7d72f6c-7803-81b9-6d71-025bd89be30f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c7d72f6c-7803-81b9-6d71-025bd89be30f)",
+  "source": "https://api.riigikogu.ee/api/volumes/c7d72f6c-7803-81b9-6d71-025bd89be30f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-03-01&endDate=2010-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
