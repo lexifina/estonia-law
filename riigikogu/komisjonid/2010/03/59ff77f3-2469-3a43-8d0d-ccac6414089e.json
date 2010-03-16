@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-03-16T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Põhiseaduskomisjoni algatatud kohtute seaduse eelnõu (649 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bf39fc3e-6fc6-4995-ce26-d44ff7c6d270"
+    },
+    {
+      "order": 2,
+      "title": "Põhiseaduskomisjoni algatatud erakonnaseaduse muutmise seaduse eelnõu (516 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0677831f-09b2-3ad0-8097-5694771f13a0"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 16.03.2010",
+      "uuid": "9167cd2e-25d3-6cce-d6dc-c6a24d03cbfd",
+      "files": [
+        "Põhiseaduskomisjon_istungi_protokoll_11_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "59ff77f3-2469-3a43-8d0d-ccac6414089e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 59ff77f3-2469-3a43-8d0d-ccac6414089e)",
+  "source": "https://api.riigikogu.ee/api/volumes/59ff77f3-2469-3a43-8d0d-ccac6414089e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-03-01&endDate=2010-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
