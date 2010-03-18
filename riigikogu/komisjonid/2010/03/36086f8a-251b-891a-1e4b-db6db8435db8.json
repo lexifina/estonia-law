@@ -1,0 +1,33 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-03-18T10:40:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": " 475 SE, 664 SE ja 653 SE osas Riigikogu täiskogule lugemisele saatmise otsuste muutmine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bb399106-0eec-42fa-0c8d-3dc04563cee9"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 18.03.2010",
+      "uuid": "705cd9d6-266f-f94d-8157-4f72ae92f7f6",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_11_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "36086f8a-251b-891a-1e4b-db6db8435db8",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 36086f8a-251b-891a-1e4b-db6db8435db8)",
+  "source": "https://api.riigikogu.ee/api/volumes/36086f8a-251b-891a-1e4b-db6db8435db8",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-03-01&endDate=2010-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
