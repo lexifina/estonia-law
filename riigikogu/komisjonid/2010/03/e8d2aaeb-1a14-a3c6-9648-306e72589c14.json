@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-03-18T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 22. märtsil 2010 toimuval Euroopa Liidu välisasjade nõukogu istungil. ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "52d48a5d-f0bb-e015-a934-a2c6df384d0f"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a8fe5241-293e-d4b1-a0c9-e94e6ff1e726"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 18.03.2010",
+      "uuid": "71bda9d6-6141-5908-b076-c93de6214e8b",
+      "files": [
+        "Väliskomisjon_istungi_protokoll_11_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "e8d2aaeb-1a14-a3c6-9648-306e72589c14",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e8d2aaeb-1a14-a3c6-9648-306e72589c14)",
+  "source": "https://api.riigikogu.ee/api/volumes/e8d2aaeb-1a14-a3c6-9648-306e72589c14",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-03-01&endDate=2010-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
