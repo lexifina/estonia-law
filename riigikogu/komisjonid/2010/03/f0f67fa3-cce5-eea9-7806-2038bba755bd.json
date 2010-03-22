@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-03-22T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Konkurentsiameti ettekanne turuhälvetest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "feb9ccfa-3651-bc77-7fa2-c0e34088d705"
+    },
+    {
+      "order": 2,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "393fef46-0899-8cdc-e8dd-9f86e8c97a9b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 22.03.2010",
+      "uuid": "15852cec-4be8-59d0-7b9c-d2dad8dc6be6",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_12_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "f0f67fa3-cce5-eea9-7806-2038bba755bd",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f0f67fa3-cce5-eea9-7806-2038bba755bd)",
+  "source": "https://api.riigikogu.ee/api/volumes/f0f67fa3-cce5-eea9-7806-2038bba755bd",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-03-01&endDate=2010-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
