@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-03-22T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud euro kasutusele võtmise seaduse eelnõu (709 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0d280826-a7aa-5f0d-2b2b-822a3fab6d52"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu otsuse \"Eesti esindaja nimetamine Põhjamaade Investeerimispanga kontrollikomiteesse\" eelnõu algatamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c8fceb58-cf3c-876e-5c79-d6789aa158ef"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 22.03.2010",
+      "uuid": "6fc381cd-3e26-d13e-3bd8-23eb28bfd4e8",
+      "files": [
+        "Rahanduskomisjon_istungi_protokoll_12_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "e0003cf1-1bd9-3efc-b17f-43b574065860",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e0003cf1-1bd9-3efc-b17f-43b574065860)",
+  "source": "https://api.riigikogu.ee/api/volumes/e0003cf1-1bd9-3efc-b17f-43b574065860",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-03-01&endDate=2010-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
