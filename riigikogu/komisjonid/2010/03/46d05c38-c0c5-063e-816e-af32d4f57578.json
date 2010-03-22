@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-03-22T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabadussõja võidusamba teemaline arutelu;",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "16742339-5a63-f877-2512-b8f58f03bfb6"
+    },
+    {
+      "order": 2,
+      "title": "Informatsioon.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "675707d2-63b3-8458-de86-2a530ba5b474"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 22.03.2010",
+      "uuid": "8ec5e901-6f50-3036-a44b-f3b4981f3435",
+      "files": [
+        "protokoll 96 22 03 2010.doc"
+      ]
+    }
+  ],
+  "uuid": "46d05c38-c0c5-063e-816e-af32d4f57578",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 46d05c38-c0c5-063e-816e-af32d4f57578)",
+  "source": "https://api.riigikogu.ee/api/volumes/46d05c38-c0c5-063e-816e-af32d4f57578",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-03-01&endDate=2010-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
