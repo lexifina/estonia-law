@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-03-22T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "beae3d4a-53ac-64cf-1491-373028315530"
+    },
+    {
+      "order": 2,
+      "title": "Uued kvaliteedinõuded põllumassiivide registrile",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "336b8773-02a2-d04e-2a90-7a386cb0176d"
+    },
+    {
+      "order": 3,
+      "title": "Maaelukomisjoni algatatud riigivaraseaduse § 102 muutmise seaduse eelnõu (713 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "21b278a8-b7d0-8898-7f3e-4b9669bdeb96"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 22.03.2010",
+      "uuid": "fdcf9f03-43ab-c376-4063-fb54ce1b9013",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_12_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "2488cae1-ab3f-64f7-e3a1-b5c355c4ad47",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2488cae1-ab3f-64f7-e3a1-b5c355c4ad47)",
+  "source": "https://api.riigikogu.ee/api/volumes/2488cae1-ab3f-64f7-e3a1-b5c355c4ad47",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-03-01&endDate=2010-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
