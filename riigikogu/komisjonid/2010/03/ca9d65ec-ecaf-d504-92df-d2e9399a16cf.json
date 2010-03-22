@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-03-22T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töönädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "54c7e1ac-bf37-899b-95e6-b36b3f071c41"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud tuleohutuse seaduse eelnõu (513 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c5c87920-691a-c16b-4998-655c75752788"
+    },
+    {
+      "order": 3,
+      "title": "Vabariigi Valitsuse algatatud päästeseaduse eelnõu (514 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0b284e8f-28eb-0b9e-2b9c-61659ab4e2e8"
+    },
+    {
+      "order": 4,
+      "title": "Vabariigi Valitsuse algatatud abipolitseiniku seaduse eelnõu (633 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bc087d9e-c545-0933-d00d-1ffdea5e288e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 22.03.2010",
+      "uuid": "ca521b51-59f8-655f-1ac9-c38d674c6740",
+      "files": [
+        "iguskomisjon_istungi_protokoll_12_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "ca9d65ec-ecaf-d504-92df-d2e9399a16cf",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ca9d65ec-ecaf-d504-92df-d2e9399a16cf)",
+  "source": "https://api.riigikogu.ee/api/volumes/ca9d65ec-ecaf-d504-92df-d2e9399a16cf",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-03-01&endDate=2010-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
