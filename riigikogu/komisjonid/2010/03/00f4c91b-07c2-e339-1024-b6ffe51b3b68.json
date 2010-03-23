@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-03-23T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud vabariigi Valitsuse seaduse § 83¹ muutmise seaduse eelnõu (706 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "30734cff-5760-4d61-9d9c-e7ae99a8a15c"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud erakonnaseaduse ja sellega seonduvalt teiste seaduste muutmise seaduse eelnõu (655 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d587c8a3-b3bd-33ef-857f-e7d91ec8f0cd"
+    },
+    {
+      "order": 3,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8a73deb7-1de6-3393-a5bd-7f0aecba0b58"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 23.03.2010",
+      "uuid": "faf39b6c-a3ba-51a0-141c-c33b5fcc7683",
+      "files": [
+        "Põhiseaduskomisjon_istungi_protokoll_12_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "00f4c91b-07c2-e339-1024-b6ffe51b3b68",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 00f4c91b-07c2-e339-1024-b6ffe51b3b68)",
+  "source": "https://api.riigikogu.ee/api/volumes/00f4c91b-07c2-e339-1024-b6ffe51b3b68",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-03-01&endDate=2010-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
