@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-03-23T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud kohaliku omavalitsuse üksuse finantsjuhtimise seaduse eelnõu (366 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "274bf44e-a2a1-e1ed-15cc-4ebf4ba2daa5"
+    },
+    {
+      "order": 2,
+      "title": "Eesti Keskerakonna fraktsiooni algatatud alkoholi-, tubaka-, kütuse- ja elektriaktsiisi ning vedelkütuse erimärgistuse seaduse muutmise seaduse eelnõu (680 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cf3694f7-4f0e-c45d-f228-befc53f000c0"
+    },
+    {
+      "order": 3,
+      "title": "Eestimaa Rahvaliidu fraktsiooni algatatud vedelkütuse erimärgistamise seaduse § 1¹ muutmise seaduse eelnõu (681 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d694eb20-b3b1-f69e-6bdb-24c5f5ac1a86"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 23.03.2010",
+      "uuid": "51226ed6-6eb8-86c4-173a-01d4328719bb",
+      "files": [
+        "Rahanduskomisjon_istungi_protokoll_12_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "c3157f99-db3c-82b0-f8eb-3242af3afb1b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c3157f99-db3c-82b0-f8eb-3242af3afb1b)",
+  "source": "https://api.riigikogu.ee/api/volumes/c3157f99-db3c-82b0-f8eb-3242af3afb1b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-03-01&endDate=2010-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
