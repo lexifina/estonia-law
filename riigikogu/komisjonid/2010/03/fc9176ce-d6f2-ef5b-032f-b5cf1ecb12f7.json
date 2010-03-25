@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-03-25T12:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4dc3ceb7-a717-f971-2db5-40f98bde511d"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud riigilõivuseaduse eelnõu (721 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "910366a8-a7b1-a081-3458-a1f4d3795f7e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 25.03.2010",
+      "uuid": "cec8dfdd-6c86-a0ae-9910-cecb37ba0b6a",
+      "files": [
+        "Rahanduskomisjon_istungi_protokoll_12_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "fc9176ce-d6f2-ef5b-032f-b5cf1ecb12f7",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid fc9176ce-d6f2-ef5b-032f-b5cf1ecb12f7)",
+  "source": "https://api.riigikogu.ee/api/volumes/fc9176ce-d6f2-ef5b-032f-b5cf1ecb12f7",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-03-01&endDate=2010-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
