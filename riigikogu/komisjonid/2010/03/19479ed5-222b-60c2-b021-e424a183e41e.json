@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-03-26T10:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 29. märtsil 2010 toimuval Euroopa Liidu põllumajanduse ja kalanduse nõukogu kohtumisel.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "12abfc1f-95da-8c5b-22e9-2fcfe4b3ffd0"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad 30.-31. märtsil toimuval kultuuriministrite mitteametlikul kohtumisel.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "53eae470-c6ba-d0d3-a196-93212e384b78"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c2266248-4f69-3cc2-a711-4c1be237c0bb"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 26.03.2010",
+      "uuid": "2d823622-d77a-3254-98e3-421df6f23548",
+      "files": [
+        "Euroopa Liidu asjade komisjon_istungi_protokoll_12_2010.odt",
+        "Euroopa Liidu asjade komisjon_paevakord_26_03_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "19479ed5-222b-60c2-b021-e424a183e41e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 19479ed5-222b-60c2-b021-e424a183e41e)",
+  "source": "https://api.riigikogu.ee/api/volumes/19479ed5-222b-60c2-b021-e424a183e41e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-03-01&endDate=2010-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
