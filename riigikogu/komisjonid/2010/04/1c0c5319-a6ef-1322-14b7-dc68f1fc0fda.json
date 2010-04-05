@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-04-05T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "2010. aasta kevadise majandusprognoosi ülevaade;",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6e9ac80c-3fea-5c78-f4ea-8c010ea82d84"
+    },
+    {
+      "order": 2,
+      "title": "Informatsioon.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f8a72558-b796-a5ba-5826-4d0158d9e410"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 05.04.2010",
+      "uuid": "de41151e-704c-461c-b0a3-909e3060cd87",
+      "files": [
+        "protokoll 97 05 04 2010.doc"
+      ]
+    }
+  ],
+  "uuid": "1c0c5319-a6ef-1322-14b7-dc68f1fc0fda",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 1c0c5319-a6ef-1322-14b7-dc68f1fc0fda)",
+  "source": "https://api.riigikogu.ee/api/volumes/1c0c5319-a6ef-1322-14b7-dc68f1fc0fda",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-04-01&endDate=2010-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
