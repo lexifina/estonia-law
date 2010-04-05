@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-04-05T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud riigilõivuseaduse eelnõu (721 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "25b0b55e-49e4-90ca-ba54-bf5771b90f3e"
+    },
+    {
+      "order": 2,
+      "title": "Arvamuse andmine keskkonnakomisjonile Vabariigi Valitsuse algatatud pakendiaktsiisi seaduse ja pakendiseaduse muutmise seaduse eelnõu (707 SE) kohta.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "937508ce-4ccd-69fa-1fa3-0cdf9413b1d1"
+    },
+    {
+      "order": 3,
+      "title": "Eestimaa Rahvaliidu fraktsiooni algatatud riikliku matusetoetuse seaduse muutmise seaduse eelnõu (696 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "eb5afd1f-03e5-d8bf-810e-5165036861a8"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 05.04.2010",
+      "uuid": "e945e80c-f8b8-3efa-9c71-62dc32cb58d1",
+      "files": [
+        "Rahanduskomisjon_istungi_protokoll_14_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "3f777976-b558-6c35-c8b3-a180c3bc5dee",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3f777976-b558-6c35-c8b3-a180c3bc5dee)",
+  "source": "https://api.riigikogu.ee/api/volumes/3f777976-b558-6c35-c8b3-a180c3bc5dee",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-04-01&endDate=2010-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
