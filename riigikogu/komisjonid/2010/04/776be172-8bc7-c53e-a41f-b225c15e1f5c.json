@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-04-05T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "78d2b0fd-569c-ad00-3322-7bcaf8d20695"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud põhikooli- ja gümnaasiumiseaduse eelnõu (412 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "028aa8f6-64d7-0b7c-64c1-885c5920d551"
+    },
+    {
+      "order": 3,
+      "title": "Välismaalaste seaduse muutmise seaduse eelnõu algatamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "41b3764d-3c86-76f6-341d-7385c1fc7527"
+    },
+    {
+      "order": 4,
+      "title": "Info ja kirjad",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "69b39b30-98a7-9a2a-dbbc-f406c7d21078"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 05.04.2010",
+      "uuid": "f0403a80-cf56-5f7e-9445-f3d36d5d17a2",
+      "files": [
+        "Kultuurikomisjon_istungi_protokoll_14_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "776be172-8bc7-c53e-a41f-b225c15e1f5c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 776be172-8bc7-c53e-a41f-b225c15e1f5c)",
+  "source": "https://api.riigikogu.ee/api/volumes/776be172-8bc7-c53e-a41f-b225c15e1f5c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-04-01&endDate=2010-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
