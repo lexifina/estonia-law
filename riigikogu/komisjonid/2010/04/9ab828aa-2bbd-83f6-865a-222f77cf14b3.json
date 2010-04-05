@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-04-05T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud turismiseaduse muutmise seaduse eelnõu (677 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8ba9f196-bde3-2d04-3196-9fa124b9e0c5"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud eesti Vabariigi ja Euroopa Kosmoseagentuuri vahelise Euroopa koostööriigi kokkuleppe ratifitseerimise seaduse eelnõu (699 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cec8c796-7934-3283-975f-7a5202d29e2d"
+    },
+    {
+      "order": 3,
+      "title": "Vabariigi Valitsuse algatatud riigihangete seaduse ja sellega seonduvate seaduste muutmise seaduse eelnõu (665 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b3163553-4298-bfba-7ef1-9345db15e0c0"
+    },
+    {
+      "order": 4,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "13180301-4d30-da09-4e78-a6d1e4cf2482"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 05.04.2010",
+      "uuid": "1fd28068-c20d-4b46-a314-499a76b31be9",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_14_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "9ab828aa-2bbd-83f6-865a-222f77cf14b3",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9ab828aa-2bbd-83f6-865a-222f77cf14b3)",
+  "source": "https://api.riigikogu.ee/api/volumes/9ab828aa-2bbd-83f6-865a-222f77cf14b3",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-04-01&endDate=2010-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
