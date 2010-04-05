@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-04-05T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väliskomisjoni VII istungjärgu 10. töönädala töökava kinnitamine.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5b4becc6-c57e-f7c3-9261-f794cb640841"
+    },
+    {
+      "order": 2,
+      "title": "Eesti ettevalmistused k.a 1. maist kuni 31. oktoobrini Hiinas Šhangais toimuvaks maailmanäituseks World EXPO 2010.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "40087649-ae36-23f2-8336-d07bb1686e29"
+    },
+    {
+      "order": 3,
+      "title": "Informatsioon komisjoni liikmete tegevusest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5e05dda4-5d70-10f9-f201-e7f3f6583727"
+    },
+    {
+      "order": 4,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "99066469-2b53-928e-bec6-ea5f46f0fa2c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 05.04.2010",
+      "uuid": "64c425a0-e418-5d12-c33a-27f7426900a1",
+      "files": [
+        "05.04.10 (244) protokoll.doc",
+        "Väliskomisjon_paevakord_05_04_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "7c5e3b99-6020-3d19-91e9-201a4442463f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7c5e3b99-6020-3d19-91e9-201a4442463f)",
+  "source": "https://api.riigikogu.ee/api/volumes/7c5e3b99-6020-3d19-91e9-201a4442463f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-04-01&endDate=2010-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
