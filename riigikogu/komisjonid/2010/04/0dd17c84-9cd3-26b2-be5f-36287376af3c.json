@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-04-05T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "aa6fa820-a4b2-d043-6f7d-9ac158012ca9"
+    },
+    {
+      "order": 2,
+      "title": "Maaelukomisjoni algatatud riigivaraseaduse § 102 muutmise seaduse eelnõu (713 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e92fbd56-d4b0-79fb-60a9-428a6ecfe617"
+    },
+    {
+      "order": 3,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d0844a3b-b7d7-fd77-f4b2-12cfa538fefe"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 05.04.2010",
+      "uuid": "60776980-b894-0498-e9ef-b610b2bf4e5d",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_14_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "0dd17c84-9cd3-26b2-be5f-36287376af3c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0dd17c84-9cd3-26b2-be5f-36287376af3c)",
+  "source": "https://api.riigikogu.ee/api/volumes/0dd17c84-9cd3-26b2-be5f-36287376af3c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-04-01&endDate=2010-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
