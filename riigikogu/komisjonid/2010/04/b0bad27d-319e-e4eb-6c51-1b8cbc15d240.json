@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-04-06T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väliskomisjoni kohtumine Vabariigi Presidendiga Kadriorus.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cc300a4d-3e23-e8df-6a30-0c43b5e65832"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6a5ccc6f-1e11-c643-2d90-b5ddaa6ba27c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 06.04.2010",
+      "uuid": "2fb4c3a7-9eb0-7499-dbd5-ef4c1bbc14ac",
+      "files": [
+        "06.04.10 (245) protokoll.doc",
+        "Väliskomisjon_paevakord_06_04_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "b0bad27d-319e-e4eb-6c51-1b8cbc15d240",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b0bad27d-319e-e4eb-6c51-1b8cbc15d240)",
+  "source": "https://api.riigikogu.ee/api/volumes/b0bad27d-319e-e4eb-6c51-1b8cbc15d240",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-04-01&endDate=2010-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
