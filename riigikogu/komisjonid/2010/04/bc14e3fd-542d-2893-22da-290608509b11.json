@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-04-06T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud äriseadustiku ja teiste seaduste muutmise seaduse eelnõu (708 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e9af5bc1-7439-ab13-6a8f-f6d1e5a12737"
+    },
+    {
+      "order": 2,
+      "title": "Eestimaa Rahvaliidu fraktsiooni algatatud prokuratuuriseaduse muutmise seaduse eelnõu (683 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "70ff74b1-8942-1e93-f48a-c504c1ae30f7"
+    },
+    {
+      "order": 3,
+      "title": "Vabariigi Valitsuse algatatud tsiviilkohtumenetluse seadustiku ja asjaõigusseaduse muutmise seaduse eelnõu (657 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6f3b9f7a-b0c4-16d4-97d2-a50a37521f2b"
+    },
+    {
+      "order": 4,
+      "title": "Arvamus riigikaitsekomisjonile eelnõu 719 SE kohta",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5d6425da-5c50-6227-d589-72284d474540"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 06.04.2010",
+      "uuid": "e059d729-2b35-a143-0af3-eff2773057af",
+      "files": [
+        "iguskomisjon_istungi_protokoll_14_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "bc14e3fd-542d-2893-22da-290608509b11",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid bc14e3fd-542d-2893-22da-290608509b11)",
+  "source": "https://api.riigikogu.ee/api/volumes/bc14e3fd-542d-2893-22da-290608509b11",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-04-01&endDate=2010-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
