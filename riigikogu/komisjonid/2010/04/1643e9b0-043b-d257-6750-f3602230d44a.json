@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-04-09T10:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ühisistung rahanduskomisjoniga: Ülevaade EL eelarve reformist ja tulevane finantsperspektiiv.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b8cc64bb-1ff9-eb2a-ba53-1f66e379953d"
+    },
+    {
+      "order": 2,
+      "title": "Läänemere strateegia rahastamine järgmises finantsperspektiivis.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8dcb9b6f-b830-79cc-4259-91e84ae9ef74"
+    },
+    {
+      "order": 3,
+      "title": "Eurole üleminek, hetkeseis.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "eb85b54f-f2d2-ce0c-7d72-b983951f7cb6"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 09.04.2010",
+      "uuid": "d68443c0-bf43-5c28-16fd-4be41c2554ed",
+      "files": [
+        "Euroopa Liidu asjade komisjon_paevakord_09_04_2010.odt",
+        "Euroopa Liidu asjade komisjon_istungi_protokoll_14_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "1643e9b0-043b-d257-6750-f3602230d44a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 1643e9b0-043b-d257-6750-f3602230d44a)",
+  "source": "https://api.riigikogu.ee/api/volumes/1643e9b0-043b-d257-6750-f3602230d44a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-04-01&endDate=2010-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
