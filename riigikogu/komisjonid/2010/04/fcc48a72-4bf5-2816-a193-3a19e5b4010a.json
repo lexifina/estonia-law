@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-04-12T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töönädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f0394397-fe12-3731-a310-e9abfd23b31c"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud rahvusvahelise sanktsiooni seaduse eelnõu (632 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "38acc18f-6438-4aae-ef53-588e44228467"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 12.04.2010",
+      "uuid": "68e4af89-cdf3-b9a2-3f89-480fed511370",
+      "files": [
+        "iguskomisjon_istungi_protokoll_15_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "fcc48a72-4bf5-2816-a193-3a19e5b4010a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid fcc48a72-4bf5-2816-a193-3a19e5b4010a)",
+  "source": "https://api.riigikogu.ee/api/volumes/fcc48a72-4bf5-2816-a193-3a19e5b4010a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-04-01&endDate=2010-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
