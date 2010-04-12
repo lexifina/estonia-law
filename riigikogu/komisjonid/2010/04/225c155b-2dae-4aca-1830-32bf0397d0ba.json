@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-04-12T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Komisjoni töökava (12.04.10 – 18.04.10) kinnitamine ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a272ab71-ffb6-60b8-dee9-efe78e6d145f"
+    },
+    {
+      "order": 2,
+      "title": " Euroopa Parlamendi ja nõukogu direktiivi 2008/1/EÜ, 15.jaanuar 2008, saastuse kompleksse vältimise ja kontrolli kohta, ülevõtmisest Eesti õigusesse  ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4a7f1127-8160-3f7f-2102-3bb4123acd55"
+    },
+    {
+      "order": 3,
+      "title": "Organisatsioonilised küsimused (Euroopa Parlamendi kalanduse komisjoni kohtumine rahvusparlamentide esindajatega 01.06.2010 Brüsselis) ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a90bef2c-c3f4-d0c7-6e3d-ea4a9c8eb4cf"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 12.04.2010",
+      "uuid": "a169fe88-4265-7452-7737-fb48ff05a54b",
+      "files": [
+        "prot159 12.04.10.doc"
+      ]
+    }
+  ],
+  "uuid": "225c155b-2dae-4aca-1830-32bf0397d0ba",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 225c155b-2dae-4aca-1830-32bf0397d0ba)",
+  "source": "https://api.riigikogu.ee/api/volumes/225c155b-2dae-4aca-1830-32bf0397d0ba",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-04-01&endDate=2010-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
