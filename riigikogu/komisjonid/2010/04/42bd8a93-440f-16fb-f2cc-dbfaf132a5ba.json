@@ -1,0 +1,33 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-04-13T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ühisistung rahanduskomisjoniga.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3cd28ba7-f73e-b453-90ff-3b0900699808"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 13.04.2010",
+      "uuid": "0d5643f5-914e-0bf0-f42c-f2d43c15ec35",
+      "files": [
+        "protokoll 99 13 04 2010.doc"
+      ]
+    }
+  ],
+  "uuid": "42bd8a93-440f-16fb-f2cc-dbfaf132a5ba",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 42bd8a93-440f-16fb-f2cc-dbfaf132a5ba)",
+  "source": "https://api.riigikogu.ee/api/volumes/42bd8a93-440f-16fb-f2cc-dbfaf132a5ba",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-04-01&endDate=2010-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
