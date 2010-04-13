@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-04-13T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Perekonnaseisutoimingute seaduse rakendussätete muudatuse algatamise arutelu.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a6288ac2-18e4-ee1c-2464-a452c440fb61"
+    },
+    {
+      "order": 2,
+      "title": "Kiiruskaamerate rakenduspraktika.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9d053ad6-349c-acd6-2b6b-c9067655279f"
+    },
+    {
+      "order": 3,
+      "title": "Arvamus Riigikohtule KrMS §-de 251 - 256 ja § 318 lõike 3 punkt 3 vastavusest põhiseadusele",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "71c2ae1e-4e9a-5082-2b7b-d099a2364be4"
+    },
+    {
+      "order": 4,
+      "title": "Kohtute haldamise nõukoja asendusliikme nimetamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cec940f7-b73b-b47c-637f-00af90f80c69"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 13.04.2010",
+      "uuid": "452d4062-fb8a-84c1-5501-3950ca985f35",
+      "files": [
+        "iguskomisjon_istungi_protokoll_15_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "34da4fec-41d9-0e33-53a6-71ebea6d608d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 34da4fec-41d9-0e33-53a6-71ebea6d608d)",
+  "source": "https://api.riigikogu.ee/api/volumes/34da4fec-41d9-0e33-53a6-71ebea6d608d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-04-01&endDate=2010-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
