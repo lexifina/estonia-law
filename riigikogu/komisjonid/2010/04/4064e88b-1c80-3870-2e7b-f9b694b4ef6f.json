@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-04-13T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade majanduse olukorrast ja prognoosist. Osalevad Rahandusministeeriumi esindajad",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "355a6ae9-8940-3ca5-310a-15d5b49b70f9"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine Eesti Haiglate Liidu esindajatega eelnõu 366 SE ( KOFS) teemal",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a40d070f-d6c0-ec91-103e-9303aa0481d7"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 13.04.2010",
+      "uuid": "d36de193-8c9a-6ae2-b147-710feb07dfa5",
+      "files": [
+        "Rahanduskomisjon_istungi_protokoll_15_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "4064e88b-1c80-3870-2e7b-f9b694b4ef6f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 4064e88b-1c80-3870-2e7b-f9b694b4ef6f)",
+  "source": "https://api.riigikogu.ee/api/volumes/4064e88b-1c80-3870-2e7b-f9b694b4ef6f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-04-01&endDate=2010-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
