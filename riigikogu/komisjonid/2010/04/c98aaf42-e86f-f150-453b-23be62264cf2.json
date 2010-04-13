@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-04-13T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kultuuridiplomaatia: ülevaade välisministeeriumi ja kultuuriministeeriumi tegevusest. ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6a8ad3ee-8fd9-2328-05ac-1c6a91654d70"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade Parlamentidevahelise Liidu (IPU) Eesti delegatsiooni tegevusest. ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e655c627-ff46-e3d6-ad21-13c0f7b553f0"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "89a2443b-fb97-32e4-e154-de91cb38170a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 13.04.2010",
+      "uuid": "5a12ea01-a0f5-e479-24f4-a06d27307dec",
+      "files": [
+        "Väliskomisjon_istungi_protokoll_15_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "c98aaf42-e86f-f150-453b-23be62264cf2",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c98aaf42-e86f-f150-453b-23be62264cf2)",
+  "source": "https://api.riigikogu.ee/api/volumes/c98aaf42-e86f-f150-453b-23be62264cf2",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-04-01&endDate=2010-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
