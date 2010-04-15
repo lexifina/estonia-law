@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-04-15T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikohtu põhiseaduslikkuse järelevalve kolleegiumi pöördumine seonduvalt raudteeseaduse § 59 lõikega 6.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d9413b8c-4177-7d90-3ff5-a5728e240636"
+    },
+    {
+      "order": 2,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1f8343e8-1d20-c6f0-c01d-13c4d597e11f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 15.04.2010",
+      "uuid": "c6e30d8a-5dd2-eb24-2778-c4e9f6103c27",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_15_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "85754694-8650-3710-00a0-f450216a06de",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 85754694-8650-3710-00a0-f450216a06de)",
+  "source": "https://api.riigikogu.ee/api/volumes/85754694-8650-3710-00a0-f450216a06de",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-04-01&endDate=2010-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
