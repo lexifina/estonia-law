@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-04-15T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine põllumajandusministriga",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "69583252-392d-b913-47c7-3de790a32d09"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade EL põllumajandus- ja kalandusnõukogu 29.03.2010 istungist",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "65e8e1fe-7ded-012b-7966-5da6e27b2261"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 15.04.2010",
+      "uuid": "bb110a67-7954-e68b-3f64-1ddb83618101",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_15_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "44d12984-d3b9-9a7b-b6cf-092832e3f667",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 44d12984-d3b9-9a7b-b6cf-092832e3f667)",
+  "source": "https://api.riigikogu.ee/api/volumes/44d12984-d3b9-9a7b-b6cf-092832e3f667",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-04-01&endDate=2010-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
