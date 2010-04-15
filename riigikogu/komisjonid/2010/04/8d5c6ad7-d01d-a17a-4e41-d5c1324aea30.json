@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-04-15T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud päästeseaduse eelnõu (514 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a692e22d-7744-c09e-5fcd-c75dc5ff441b"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud tuleohutuse seaduse eelnõu (513 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b41192db-3043-0246-8dc3-238c3d485471"
+    },
+    {
+      "order": 3,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "afd73013-cc4d-3da1-e032-8977eec5956d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 15.04.2010",
+      "uuid": "78e9496f-b1ea-c6b3-524d-828e64c30e88",
+      "files": [
+        "iguskomisjon_istungi_protokoll_15_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "8d5c6ad7-d01d-a17a-4e41-d5c1324aea30",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8d5c6ad7-d01d-a17a-4e41-d5c1324aea30)",
+  "source": "https://api.riigikogu.ee/api/volumes/8d5c6ad7-d01d-a17a-4e41-d5c1324aea30",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-04-01&endDate=2010-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
