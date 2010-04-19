@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-04-19T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud omandireformiga seonduvate seaduste muutmise seaduse eelnõu (715 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d631c139-9449-4c41-3ec4-928c3116be27"
+    },
+    {
+      "order": 2,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bea81cd4-c570-bd4c-9d73-ba19e0a62b58"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 19.04.2010",
+      "uuid": "9417c6b4-2063-80e8-1ad9-6f61147fd461",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_16_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "565322d0-1aca-0131-c46f-d26d2cd94914",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 565322d0-1aca-0131-c46f-d26d2cd94914)",
+  "source": "https://api.riigikogu.ee/api/volumes/565322d0-1aca-0131-c46f-d26d2cd94914",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-04-01&endDate=2010-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
