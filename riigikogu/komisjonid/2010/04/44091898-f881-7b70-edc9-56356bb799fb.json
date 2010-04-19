@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-04-19T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "52df39de-0089-1208-c947-f6958d0cb66a"
+    },
+    {
+      "order": 2,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5eb73e21-5932-ee5e-3aa9-ac3d26253713"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 19.04.2010",
+      "uuid": "9b0bd769-de27-48dc-8161-7f3817b42ce8",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_16_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "44091898-f881-7b70-edc9-56356bb799fb",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 44091898-f881-7b70-edc9-56356bb799fb)",
+  "source": "https://api.riigikogu.ee/api/volumes/44091898-f881-7b70-edc9-56356bb799fb",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-04-01&endDate=2010-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
