@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-04-19T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikaitsekomisjoni töönädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e768d400-1f54-2c79-4f30-4d7053bb9a77"
+    },
+    {
+      "order": 2,
+      "title": "Kaitseväe Keskpolügooni ja teiste kaitseväe harjutusväljade arendamine ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9d3c2bd1-c0bb-c1a2-8c3e-b458e962c1d5"
+    },
+    {
+      "order": 3,
+      "title": "Vabariigi Valitsuse algatatud kaitseväeteenistuse seaduse muutmise seaduse eelnõu (698 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c4312b8b-7793-69c7-b158-5a0b5807dd5c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 19.04.2010",
+      "uuid": "a0db3ad8-4d5d-8132-8165-7a0c2c2fdd8f",
+      "files": [
+        "19.04.10.doc"
+      ]
+    }
+  ],
+  "uuid": "0aba617d-750d-3b47-a9df-54ae8e884de1",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0aba617d-750d-3b47-a9df-54ae8e884de1)",
+  "source": "https://api.riigikogu.ee/api/volumes/0aba617d-750d-3b47-a9df-54ae8e884de1",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-04-01&endDate=2010-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
