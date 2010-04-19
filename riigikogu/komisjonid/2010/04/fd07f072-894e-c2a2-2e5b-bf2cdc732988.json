@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-04-19T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Keskkonnakomisjoni töökava (19.04.10 – 25.04.10) kinnitamine ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2c92ac99-7722-ba80-9a22-231bd48b520a"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud välisõhu kaitse seaduse muutmise seaduse eelnõu (726 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "04d34e1f-7e81-289c-b8ef-f11a6b9f6c49"
+    },
+    {
+      "order": 3,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "51cd8bcd-ee8a-9f9b-6bd3-ddf0eeb0ce5f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 19.04.2010",
+      "uuid": "7c155f29-6920-0612-d1ff-22d7cca0e9eb",
+      "files": [
+        "prot160 19.04.10.doc"
+      ]
+    }
+  ],
+  "uuid": "fd07f072-894e-c2a2-2e5b-bf2cdc732988",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid fd07f072-894e-c2a2-2e5b-bf2cdc732988)",
+  "source": "https://api.riigikogu.ee/api/volumes/fd07f072-894e-c2a2-2e5b-bf2cdc732988",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-04-01&endDate=2010-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
