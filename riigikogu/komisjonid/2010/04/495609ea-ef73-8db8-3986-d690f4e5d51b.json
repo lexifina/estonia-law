@@ -1,0 +1,58 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-04-19T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töönädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2ef23677-4aaa-e7b7-b98d-c91f30cf39b0"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud äriseadustiku ja teiste seaduste muutmise seaduse eelnõu (708 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2421aed7-7e6a-da30-b70b-4e4641ef74f0"
+    },
+    {
+      "order": 3,
+      "title": "Vabariigi Valitsuse algatatud päästeseaduse eelnõu (514 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "33e19287-a17e-203a-17e2-293948f33e19"
+    },
+    {
+      "order": 4,
+      "title": "Vabariigi Valitsuse algatatud tuleohutuse seaduse eelnõu (513 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "70534a0f-addc-14f9-f0c4-239ab03ac822"
+    },
+    {
+      "order": 5,
+      "title": "Kohtumine Saksa delegatsiooniga  6. mai 2010.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a6b6f0cf-7efe-aefc-9185-903c182f81df"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 19.04.2010",
+      "uuid": "82609dd2-05b4-9311-25a7-835a9df95c30",
+      "files": [
+        "iguskomisjon_paevakord_19_04_2010.odt",
+        "iguskomisjon_istungi_protokoll_16_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "495609ea-ef73-8db8-3986-d690f4e5d51b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 495609ea-ef73-8db8-3986-d690f4e5d51b)",
+  "source": "https://api.riigikogu.ee/api/volumes/495609ea-ef73-8db8-3986-d690f4e5d51b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-04-01&endDate=2010-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
