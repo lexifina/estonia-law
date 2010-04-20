@@ -1,0 +1,33 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-04-20T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Liiklusseaduse eelnõu (475 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cafa26c3-c01e-d5af-6c06-f5d4c1b38b31"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 20.04.2010",
+      "uuid": "bd71827d-2969-f672-38c8-4ee719306659",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_16_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "1028701d-080c-f1d5-fc02-1d2dc6520a79",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 1028701d-080c-f1d5-fc02-1d2dc6520a79)",
+  "source": "https://api.riigikogu.ee/api/volumes/1028701d-080c-f1d5-fc02-1d2dc6520a79",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-04-01&endDate=2010-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
