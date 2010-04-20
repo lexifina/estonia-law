@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-04-20T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ameerika Ühendriikide sise- ja välispoliitika. ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dc6f65d0-77f7-7da7-b558-9a32051f39cb"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade ja arutelu Eesti-Hiina kahepoolsetest suhetest. ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9612ed06-d453-8c9b-34fe-3312b6c5c82f"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ad66cbd5-1d8e-5955-9c6f-5b68b8d59bc1"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 20.04.2010",
+      "uuid": "3207a75a-7fd7-ec46-64da-4286feeee594",
+      "files": [
+        "Väliskomisjon_istungi_protokoll_16_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "0556765d-257f-661d-fabc-32c4b198356e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0556765d-257f-661d-fabc-32c4b198356e)",
+  "source": "https://api.riigikogu.ee/api/volumes/0556765d-257f-661d-fabc-32c4b198356e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-04-01&endDate=2010-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
