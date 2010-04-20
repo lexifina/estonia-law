@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-04-20T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": " Parlamentaarne kuulamine teemal: Kuidas efektiivsemalt toetada tootearendust ja teadmistepõhiste ettevõtete arengut",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d3fe361c-316d-f8bd-04c9-f420cd8373be"
+    },
+    {
+      "order": 2,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2aa40927-91cd-1771-a2e8-338fd9f888f7"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 20.04.2010",
+      "uuid": "b448a319-fd21-d965-4ad1-af8e8e426ea3",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_16_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "aeaf06b9-657f-7547-0a72-ceb489438d1c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid aeaf06b9-657f-7547-0a72-ceb489438d1c)",
+  "source": "https://api.riigikogu.ee/api/volumes/aeaf06b9-657f-7547-0a72-ceb489438d1c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-04-01&endDate=2010-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
