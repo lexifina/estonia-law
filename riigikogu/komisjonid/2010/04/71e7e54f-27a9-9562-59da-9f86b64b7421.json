@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-04-22T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud elektroonilise side seaduse ja infoühiskonna teenuse seaduse muutmise seaduse eelnõu (727 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5dbcef7a-4e5d-5a6b-24ad-e823bc14d6b4"
+    },
+    {
+      "order": 2,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e54c7089-e290-e026-c53f-b2586143905c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 22.04.2010",
+      "uuid": "4dd4e3ef-7a98-70d2-377a-6d6f34ca1587",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_16_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "71e7e54f-27a9-9562-59da-9f86b64b7421",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 71e7e54f-27a9-9562-59da-9f86b64b7421)",
+  "source": "https://api.riigikogu.ee/api/volumes/71e7e54f-27a9-9562-59da-9f86b64b7421",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-04-01&endDate=2010-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
