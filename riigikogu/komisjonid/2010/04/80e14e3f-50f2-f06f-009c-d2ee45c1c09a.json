@@ -1,0 +1,33 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-04-22T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väljasõiduistung Eesti Maaülikoolis",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cd0fda38-fc86-8bcd-61f8-905d1de4f934"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 22.04.2010",
+      "uuid": "71a0bbe4-d540-34e1-f387-bc2a470bfe87",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_16_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "80e14e3f-50f2-f06f-009c-d2ee45c1c09a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 80e14e3f-50f2-f06f-009c-d2ee45c1c09a)",
+  "source": "https://api.riigikogu.ee/api/volumes/80e14e3f-50f2-f06f-009c-d2ee45c1c09a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-04-01&endDate=2010-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
