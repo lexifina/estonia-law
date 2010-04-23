@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-04-23T10:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 26.-27. aprillil 2010 toimuval Euroopa Liidu üldasjade nõukogu ja välisasjade nõukogu istungil, kus osalevad ka kaitseministrid.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d2bd532e-20ef-0757-72eb-806410be1d98"
+    },
+    {
+      "order": 2,
+      "title": "Läänemere strateegia rakendamine (ohutus ja julgeolek).",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5f786111-c1b5-3046-89f0-18d6a6227e5f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 23.04.2010",
+      "uuid": "f2eb15b8-ee4e-703a-c16a-52f44207fdce",
+      "files": [
+        "Euroopa Liidu asjade komisjon_paevakord_23_04_2010.odt",
+        "Euroopa Liidu asjade komisjon_istungi_protokoll_16_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "e4c85fda-203a-13a3-04ba-f1774a91653e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e4c85fda-203a-13a3-04ba-f1774a91653e)",
+  "source": "https://api.riigikogu.ee/api/volumes/e4c85fda-203a-13a3-04ba-f1774a91653e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-04-01&endDate=2010-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
