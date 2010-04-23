@@ -1,0 +1,33 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-04-23T00:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Avalik istung ruumis 262 kell 13:30-15:00. Teema: \"Uimastisõltuvus ja narkokuritegevus.\"",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5fd6e8bb-59f0-2fd6-fc40-147e05462897"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 23.04.2010",
+      "uuid": "59fc38c6-60c2-4ee8-4f4e-05019b7528be",
+      "files": [
+        "iguskomisjon_istungi_protokoll_16_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "1444af5e-63a8-022e-ba0d-138120a6cc8a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 1444af5e-63a8-022e-ba0d-138120a6cc8a)",
+  "source": "https://api.riigikogu.ee/api/volumes/1444af5e-63a8-022e-ba0d-138120a6cc8a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-04-01&endDate=2010-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
