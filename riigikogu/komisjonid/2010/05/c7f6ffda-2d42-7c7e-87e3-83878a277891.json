@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-05-03T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikaitsekomisjoni töönädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b50d2d13-a35a-5914-bbab-97937bc2ca67"
+    },
+    {
+      "order": 2,
+      "title": "Riigikaitsekomisjoni algatatud kaitseväeteenistuse seaduse muutmise seaduse eelnõu (671 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2d4d7507-158f-239c-81f3-8c6b25a9c3c3"
+    },
+    {
+      "order": 3,
+      "title": "Riigikaitsekomisjoni algatatud relvaseaduse muutmise seaduse eelnõu (719 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4574edad-57f9-99af-f0a8-017e1daf5f01"
+    },
+    {
+      "order": 4,
+      "title": "Informatsioon Riias 26.04-27.04.2010 toimunud kolme Balti riigi parlamentide riigikaitsekomisjonide ühisistungist ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7a16537b-92fb-8bc1-8a66-7f41a6e15eb5"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 03.05.2010",
+      "uuid": "1e56fb41-c82d-bf69-133d-c343fea17845",
+      "files": [
+        "03.05.10.doc"
+      ]
+    }
+  ],
+  "uuid": "c7f6ffda-2d42-7c7e-87e3-83878a277891",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c7f6ffda-2d42-7c7e-87e3-83878a277891)",
+  "source": "https://api.riigikogu.ee/api/volumes/c7f6ffda-2d42-7c7e-87e3-83878a277891",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-05-01&endDate=2010-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
