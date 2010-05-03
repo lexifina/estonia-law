@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-05-03T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Rahanduskomisjoni algatatud riigikogu otsus \"Eesti esindaja nimetamine Põhjamaade Investeerimispanga kontrollkomiteesse\" (735 OE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "958f3ee2-4bfb-6ce8-250c-4b446dd25b84"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud hoiu-laenuühistu seaduse ja krediidiasutuste seaduse muutmise seaduse eelnõu (240 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6d4d12dc-49b7-e106-4327-bff0c812e93e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 03.05.2010",
+      "uuid": "0cf1c77a-0476-374e-5109-07ffa7db0032",
+      "files": [
+        "Rahanduskomisjon_istungi_protokoll_18_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "eef2b098-8b01-f6b8-a9db-ef94929a5f9c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid eef2b098-8b01-f6b8-a9db-ef94929a5f9c)",
+  "source": "https://api.riigikogu.ee/api/volumes/eef2b098-8b01-f6b8-a9db-ef94929a5f9c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-05-01&endDate=2010-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
