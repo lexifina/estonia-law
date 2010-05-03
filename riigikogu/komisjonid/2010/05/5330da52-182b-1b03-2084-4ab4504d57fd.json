@@ -1,0 +1,57 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-05-03T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kultuurikomisjoni algatatud välismaalaste seaduse muutmise seaduse eelnõu (736 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "77f3d64c-c5d6-29b6-ec51-ba0ad68294a8"
+    },
+    {
+      "order": 2,
+      "title": "Põhiseaduskomisjoni algatatud erakonnaseaduse muutmise seaduse eelnõu (516 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "eb7078d5-91ab-fc6d-983f-917c89cd9aef"
+    },
+    {
+      "order": 3,
+      "title": "Eesti Noorteühenduste Liidu pöördumise arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c7f5e1dc-81f9-f101-3842-1ff548112369"
+    },
+    {
+      "order": 4,
+      "title": "Riigikogu esimehe kirja arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ac2ea4ff-c265-9049-26db-656bae902e45"
+    },
+    {
+      "order": 5,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e20907de-df45-8b3b-9aba-3b5f9bc05757"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 03.05.2010",
+      "uuid": "f0cf12e8-1645-3a6a-145f-afc8ae8a8136",
+      "files": [
+        "Põhiseaduskomisjon_istungi_protokoll_18_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "5330da52-182b-1b03-2084-4ab4504d57fd",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 5330da52-182b-1b03-2084-4ab4504d57fd)",
+  "source": "https://api.riigikogu.ee/api/volumes/5330da52-182b-1b03-2084-4ab4504d57fd",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-05-01&endDate=2010-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
