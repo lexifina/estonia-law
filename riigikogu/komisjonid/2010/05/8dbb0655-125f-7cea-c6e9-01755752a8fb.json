@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-05-03T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7e71b1ba-8606-f9fe-7c8f-3fe105e29a6d"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli aruanne kodanikuühendustele kultuuri-, spordi- ja noorsootöötoetuste andmine valla- ja linnaeelarvest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2f0f1f09-aa28-87fd-74fa-130b586634d4"
+    },
+    {
+      "order": 3,
+      "title": "Vabariigi Valitsuse algatatud noorsootöö seaduse eelnõu (676 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "98a7ad81-95e3-46dd-989e-cdbe6434cb1e"
+    },
+    {
+      "order": 4,
+      "title": "Info ja kirjad",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "081a48f8-1a76-7790-e799-7a6123085c26"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 03.05.2010",
+      "uuid": "8131131b-dd3d-bbd4-48bc-6636851da9a0",
+      "files": [
+        "Kultuurikomisjon_istungi_protokoll_18_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "8dbb0655-125f-7cea-c6e9-01755752a8fb",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8dbb0655-125f-7cea-c6e9-01755752a8fb)",
+  "source": "https://api.riigikogu.ee/api/volumes/8dbb0655-125f-7cea-c6e9-01755752a8fb",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-05-01&endDate=2010-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
