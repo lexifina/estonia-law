@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-05-03T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Keskkonnakomisjoni töökava (03.05.10 – 09.05.10) kinnitamine ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6c4c28f9-02a8-a2fd-5fab-c8790a211563"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud pakendiaktsiisi seaduse ja pakendiseaduse muutmise seaduse eelnõu (707 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9653dc08-cbb7-2b19-4240-238a4f16cb32"
+    },
+    {
+      "order": 3,
+      "title": "Keskkonnakomisjoni algatatud veeseaduse ja kemikaaliseaduse muutmise seaduse eelnõu (710 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e6347960-d254-0d03-ddb2-2dbb30888a7f"
+    },
+    {
+      "order": 4,
+      "title": "Organisatsioonilised küsimused ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3c52b9f7-b3f9-9a63-3788-66810f67006f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 03.05.2010",
+      "uuid": "a5cd757e-8d81-cd59-5ded-550ff5faf322",
+      "files": [
+        "prot161 03.05.10u.doc"
+      ]
+    }
+  ],
+  "uuid": "bc18fb8f-384b-52b9-477b-bbb8cabf4950",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid bc18fb8f-384b-52b9-477b-bbb8cabf4950)",
+  "source": "https://api.riigikogu.ee/api/volumes/bc18fb8f-384b-52b9-477b-bbb8cabf4950",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-05-01&endDate=2010-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
