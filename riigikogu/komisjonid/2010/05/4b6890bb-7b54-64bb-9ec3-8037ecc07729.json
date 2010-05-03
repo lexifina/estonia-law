@@ -1,0 +1,33 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-05-03T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väljasõiduistung Töötukassasse",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fb3d20d9-5832-a167-7b74-8353483ae586"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 03.05.2010",
+      "uuid": "d9f508ae-96b8-4f35-d9d2-ad2acf7572b8",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_18_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "4b6890bb-7b54-64bb-9ec3-8037ecc07729",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 4b6890bb-7b54-64bb-9ec3-8037ecc07729)",
+  "source": "https://api.riigikogu.ee/api/volumes/4b6890bb-7b54-64bb-9ec3-8037ecc07729",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-05-01&endDate=2010-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
