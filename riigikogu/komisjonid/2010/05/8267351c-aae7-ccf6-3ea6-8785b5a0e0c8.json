@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-05-04T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Õiguskomisjoni algatatud võlgade ümberkujundamise ja võlakaitse seaduse eelnõu (743 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9761f693-8c8c-ddb9-919b-192a0ed8fc61"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud päästeteenistuse seaduse muutmise seaduse eelnõu (618 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0de490e9-e33b-0ff6-d2b6-7846e4e2af58"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 04.05.2010",
+      "uuid": "707f1556-831c-93df-63a4-b46790dc1bd2",
+      "files": [
+        "iguskomisjon_istungi_protokoll_18_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "8267351c-aae7-ccf6-3ea6-8785b5a0e0c8",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8267351c-aae7-ccf6-3ea6-8785b5a0e0c8)",
+  "source": "https://api.riigikogu.ee/api/volumes/8267351c-aae7-ccf6-3ea6-8785b5a0e0c8",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-05-01&endDate=2010-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
