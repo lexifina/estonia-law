@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-05-04T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud riikliku statistika seaduse eelnõu ( 739 SE) töögrupi nõupidamine.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "074d88be-64c9-b7a9-17cd-86222a244f12"
+    },
+    {
+      "order": 2,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0f468d6a-4c67-035d-fed1-e7db0b71ff28"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 04.05.2010",
+      "uuid": "ec1557d3-6226-f674-a0e0-45298b044d9e",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_18_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "2823b7f4-5e27-f1da-069e-5fc8c600d19f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2823b7f4-5e27-f1da-069e-5fc8c600d19f)",
+  "source": "https://api.riigikogu.ee/api/volumes/2823b7f4-5e27-f1da-069e-5fc8c600d19f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-05-01&endDate=2010-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
