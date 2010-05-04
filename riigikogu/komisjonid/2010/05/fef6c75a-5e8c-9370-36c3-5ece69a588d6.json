@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-05-04T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse 3.05.2010 algatatud Riigipiiri seaduse ja halduskoostöö seaduse muutmise seaduse eelnõu tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cc305527-4ec2-5dbe-f843-2a7ba0cb9485"
+    },
+    {
+      "order": 2,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d2bbcc43-d06d-0018-2505-a87dd0415a7b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 04.05.2010",
+      "uuid": "03f44ed8-c1f5-13e3-1f2c-22ded3849513",
+      "files": [
+        "Põhiseaduskomisjon_istungi_protokoll_18_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "fef6c75a-5e8c-9370-36c3-5ece69a588d6",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid fef6c75a-5e8c-9370-36c3-5ece69a588d6)",
+  "source": "https://api.riigikogu.ee/api/volumes/fef6c75a-5e8c-9370-36c3-5ece69a588d6",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-05-01&endDate=2010-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
