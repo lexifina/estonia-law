@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-05-06T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud taimede paljundamise ja sordikaitse seaduse, maaelu ja põllumajandusturu korraldamise seaduse ning riigilõivuseaduse muutmise seaduse eelnõu (746 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "548fb901-af74-5cc8-b5ce-7c879a2f89dc"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud loomakaitseseaduse muutmise seaduse eelnõu (745 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7cc998f2-cb18-e388-72fe-3075c27f0a2b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 06.05.2010",
+      "uuid": "2d0619c5-4407-63a4-b1fc-5744984440ef",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_18_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "0b4bf25f-423b-829a-f8ce-01e358e2c7f5",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0b4bf25f-423b-829a-f8ce-01e358e2c7f5)",
+  "source": "https://api.riigikogu.ee/api/volumes/0b4bf25f-423b-829a-f8ce-01e358e2c7f5",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-05-01&endDate=2010-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
