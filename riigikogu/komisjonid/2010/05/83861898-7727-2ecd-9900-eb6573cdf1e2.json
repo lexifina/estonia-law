@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-05-06T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ühisistung. EL struktuurivahendite ja välisvahendite kasutamine 2010. aastal.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "142672e5-9497-1533-73c0-9322e4973c30"
+    },
+    {
+      "order": 2,
+      "title": "Rahanduskomisjoni algatatud tarbijakaitseseaduse muutmise seaduse eelnõu (754 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "74963d67-c865-8910-63fd-d0e59982b3a9"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 06.05.2010",
+      "uuid": "ae3720f4-3b3a-96b2-b140-7a6951a1f9ee",
+      "files": [
+        "Rahanduskomisjon_istungi_protokoll_18_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "83861898-7727-2ecd-9900-eb6573cdf1e2",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 83861898-7727-2ecd-9900-eb6573cdf1e2)",
+  "source": "https://api.riigikogu.ee/api/volumes/83861898-7727-2ecd-9900-eb6573cdf1e2",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-05-01&endDate=2010-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
