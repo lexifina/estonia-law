@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-05-07T10:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ühisistung väliskomisjoniga: Eesti seisukohad 10.-11. mail 2010 toimuval Euroopa Liidu üldasjade nõukogu ja välisasjade nõukogu (osalevad ka arengukoostööministrid) kohtumisel.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0dbab5e7-7396-78d8-2fa2-5037fb995884"
+    },
+    {
+      "order": 2,
+      "title": "Projekti Rail Baltica hetkeseis ja perspektiiv.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "560f930b-ab59-ed76-853d-7bd78d8e90e4"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cf02c269-905a-9ccd-b886-cb10b64746e4"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 07.05.2010",
+      "uuid": "6dbe1aaa-5c43-3a1f-b7b8-8099463dc257",
+      "files": [
+        "Euroopa Liidu asjade komisjon_istungi_protokoll_18_2010.odt",
+        "Euroopa Liidu asjade komisjon_paevakord_07_05_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "f62b2093-577d-7b1f-1fab-9fd12ffb4195",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f62b2093-577d-7b1f-1fab-9fd12ffb4195)",
+  "source": "https://api.riigikogu.ee/api/volumes/f62b2093-577d-7b1f-1fab-9fd12ffb4195",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-05-01&endDate=2010-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
