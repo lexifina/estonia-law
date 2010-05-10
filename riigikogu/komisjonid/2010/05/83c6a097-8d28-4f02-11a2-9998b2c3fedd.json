@@ -1,0 +1,63 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-05-10T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väliskomisjoni VII istungjärgu 14. töönädala töökava kinnitamine.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "196810ee-5a42-9663-9e8e-6bc061e783be"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine Euroopa Parlamendi väliskomisjoni liikme Tunne Kelamiga.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6bd26545-5a30-9b21-7fe4-c91d91d2734f"
+    },
+    {
+      "order": 3,
+      "title": "Riigikogu välissuhtlemise korraldus.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "df3fc517-0056-9c88-80e2-89ab3716dc7a"
+    },
+    {
+      "order": 4,
+      "title": "Arutelu Eesti Välispoliitika Instituudi tulevikust. ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c19dad3f-0b13-5057-b4eb-42bd1b39f78f"
+    },
+    {
+      "order": 5,
+      "title": "Informatsioon komisjoni liikmete tegevusest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0b3decfa-2638-cae1-4581-5f7d87ade4ac"
+    },
+    {
+      "order": 6,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1413fe66-73a3-94b6-1c98-90b0605700c8"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 10.05.2010",
+      "uuid": "8c80d186-3c56-5c5c-c455-dd0d7ce89ec7",
+      "files": [
+        "Väliskomisjon_istungi_protokoll_19_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "83c6a097-8d28-4f02-11a2-9998b2c3fedd",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 83c6a097-8d28-4f02-11a2-9998b2c3fedd)",
+  "source": "https://api.riigikogu.ee/api/volumes/83c6a097-8d28-4f02-11a2-9998b2c3fedd",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-05-01&endDate=2010-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
