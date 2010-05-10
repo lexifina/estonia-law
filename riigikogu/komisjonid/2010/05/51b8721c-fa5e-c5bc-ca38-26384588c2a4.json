@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-05-10T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "162d1863-c053-91eb-6a59-73ceac9b909b"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud põhikooli- ja gümnaasiumiseaduse eelnõu (412 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ca8d996a-e8cd-d430-aebd-e383cda6badc"
+    },
+    {
+      "order": 3,
+      "title": "Info ja kirjad",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6af13ae8-ca2b-0e65-2e68-62c5e7b2dcc9"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 10.05.2010",
+      "uuid": "5380a1c6-5750-4110-0604-d72cad1916bb",
+      "files": [
+        "Kultuurikomisjon_istungi_protokoll_19_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "51b8721c-fa5e-c5bc-ca38-26384588c2a4",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 51b8721c-fa5e-c5bc-ca38-26384588c2a4)",
+  "source": "https://api.riigikogu.ee/api/volumes/51b8721c-fa5e-c5bc-ca38-26384588c2a4",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-05-01&endDate=2010-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
