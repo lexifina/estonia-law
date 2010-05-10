@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-05-10T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Euroopa Komisjoni 2010 aasta töökava.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8f70956a-2389-b108-7aa5-d6345cdf531e"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad 10.-11. mail 2010 toimuval Euroopa Liidu haridus-, noorte- ja kultuurinõukogu istungil (hariduse ja noorte küsimused).",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f5737bd2-9fce-cd2b-9b5c-0d954b1f1960"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3a095bd8-6e2e-4fdd-4c30-74464fee6f5b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 10.05.2010",
+      "uuid": "f52432ea-fea2-1f41-5fe2-f53af92afb45",
+      "files": [
+        "Euroopa Liidu asjade komisjon_istungi_protokoll_19_2010.odt",
+        "Euroopa Liidu asjade komisjon_paevakord_10_05_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "a31e7038-b64a-3d93-840e-6e7c6ef076a3",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a31e7038-b64a-3d93-840e-6e7c6ef076a3)",
+  "source": "https://api.riigikogu.ee/api/volumes/a31e7038-b64a-3d93-840e-6e7c6ef076a3",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-05-01&endDate=2010-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
