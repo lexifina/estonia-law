@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-05-11T12:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud koolieelse lasteasutuse seaduse muutmise seaduse eelnõu (679 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "54ae82ec-578e-a00c-987a-03e63d15e177"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud noorsootöö seaduse eelnõu (676 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f7e5f5b2-63a7-8037-56fe-9d9dd7fa98ae"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 11.05.2010",
+      "uuid": "1d9ca222-b0bb-3045-d1d2-1c432686be60",
+      "files": [
+        "Kultuurikomisjon_istungi_protokoll_19_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "c19f6eec-2020-f9cf-38db-510352eba585",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c19f6eec-2020-f9cf-38db-510352eba585)",
+  "source": "https://api.riigikogu.ee/api/volumes/c19f6eec-2020-f9cf-38db-510352eba585",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-05-01&endDate=2010-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
