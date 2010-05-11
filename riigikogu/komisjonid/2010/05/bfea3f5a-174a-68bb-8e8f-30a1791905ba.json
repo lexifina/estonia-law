@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-05-11T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine OECD Tööhõive,töösuhete ja sotsiaalküsimuste komitee direktoraadi esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "44a529cc-d755-c0cc-2306-f9006db9a39a"
+    },
+    {
+      "order": 2,
+      "title": "Lastekaitse teemalise olulise tähtsusega riikliku küsimuse arutelu ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "093e85ec-40d7-b50f-461c-a35045d69be5"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 11.05.2010",
+      "uuid": "e441e35a-83cd-1685-d90e-de27e2b8ae4f",
+      "files": [
+        "Sotsiaalkomisjon_istungi_protokoll_19_2010.odt",
+        "Sotsiaalkomisjon_paevakord_11_05_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "bfea3f5a-174a-68bb-8e8f-30a1791905ba",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid bfea3f5a-174a-68bb-8e8f-30a1791905ba)",
+  "source": "https://api.riigikogu.ee/api/volumes/bfea3f5a-174a-68bb-8e8f-30a1791905ba",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-05-01&endDate=2010-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
