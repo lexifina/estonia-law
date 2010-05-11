@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-05-11T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud äriseadustiku muutmise seaduse eelnõu (733 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1cd8e4fb-60dc-aabf-2ee1-7d8c5f1d8394"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud kinnistusraamatuseaduse, pärimisseaduse ja sellega seonduvalt teiste seaduste muutmise seaduse eelnõu (725 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8b0a8b1b-53ff-b6dc-4055-a7fd9be1ba38"
+    },
+    {
+      "order": 3,
+      "title": "Vabariigi Valitsuse algatatud karistusseadustiku, kriminaalmenetluse seadustiku, psühhiaatrilise abi seaduse, karistusregistri seaduse, kriminaalhooldusseaduse ja tervishoiuteenuste korraldamise seaduse muutmise seaduse eelnõu (717 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "476f36fe-af1a-86eb-9f57-4d5fbc2588e7"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 11.05.2010",
+      "uuid": "40fc1bae-bbc9-60f8-5b7d-97e1f94df651",
+      "files": [
+        "iguskomisjon_istungi_protokoll_19_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "0a94e767-ad56-415e-cfc4-4adddcfd6333",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0a94e767-ad56-415e-cfc4-4adddcfd6333)",
+  "source": "https://api.riigikogu.ee/api/volumes/0a94e767-ad56-415e-cfc4-4adddcfd6333",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-05-01&endDate=2010-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
