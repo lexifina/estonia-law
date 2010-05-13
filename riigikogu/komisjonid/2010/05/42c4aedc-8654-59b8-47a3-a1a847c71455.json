@@ -1,0 +1,33 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-05-13T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Eesti Panga esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "00d23239-1c5b-2d11-99f6-8566b2d19f43"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 13.05.2010",
+      "uuid": "bfcd8a68-f431-cd42-420c-1e4898d129b4",
+      "files": [
+        "Rahanduskomisjon_istungi_protokoll_19_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "42c4aedc-8654-59b8-47a3-a1a847c71455",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 42c4aedc-8654-59b8-47a3-a1a847c71455)",
+  "source": "https://api.riigikogu.ee/api/volumes/42c4aedc-8654-59b8-47a3-a1a847c71455",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-05-01&endDate=2010-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
