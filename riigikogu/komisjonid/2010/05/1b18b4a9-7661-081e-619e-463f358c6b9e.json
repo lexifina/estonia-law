@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-05-13T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Õiguskomisjoni algatatud võlgade ümberkujundamise ja võlakaitse seaduse eelnõu (743 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "876b4684-3490-ce1e-1fd5-4637a806a73d"
+    },
+    {
+      "order": 2,
+      "title": "Arvamuse andmine ELAK-le",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d89e79c1-78fc-dfc3-8268-5e9b6a394bad"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 13.05.2010",
+      "uuid": "dc9451c7-eecc-9d87-39bf-00842af18717",
+      "files": [
+        "iguskomisjon_istungi_protokoll_19_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "1b18b4a9-7661-081e-619e-463f358c6b9e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 1b18b4a9-7661-081e-619e-463f358c6b9e)",
+  "source": "https://api.riigikogu.ee/api/volumes/1b18b4a9-7661-081e-619e-463f358c6b9e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-05-01&endDate=2010-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
