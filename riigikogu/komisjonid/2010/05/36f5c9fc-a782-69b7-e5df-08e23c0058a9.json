@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-05-13T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud spordiseaduse muutmise seaduse eelnõu (678 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "68747bee-557a-471b-86c7-62aef55d9424"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud põhikooli- ja gümnaasiumiseaduse eelnõu (412 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "460184c2-45ed-e8c9-9e8a-7dff7423082b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 13.05.2010",
+      "uuid": "d14a9499-a80d-2718-bcbe-39c34aeb61f1",
+      "files": [
+        "Kultuurikomisjon_istungi_protokoll_19_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "36f5c9fc-a782-69b7-e5df-08e23c0058a9",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 36f5c9fc-a782-69b7-e5df-08e23c0058a9)",
+  "source": "https://api.riigikogu.ee/api/volumes/36f5c9fc-a782-69b7-e5df-08e23c0058a9",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-05-01&endDate=2010-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
