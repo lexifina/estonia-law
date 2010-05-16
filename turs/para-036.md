@@ -21,3 +21,7 @@
 (10) Enne 2008. aasta 1. septembrit väljastatud turismiinfokeskuse tunnistus kehtib sellel märgitud tähtpäeva saabumiseni.
 
 (11) Enne 2008. aasta 1. septembrit väljastatud turismiinfokeskuse tunnistuse kehtetuks tunnistamisele kohaldatakse turismiinfokeskusena tegutsemise õiguse kehtetuks tunnistamise aluseid.
+
+(12) Enne 2010. aasta 1. juunit majandustegevuse registris registreeritud reisiettevõtjad, kes on andnud enda koostatud pakettreiside müügiks pakkumise ja müügi õiguse ka teisele reisiettevõtjale või teistele reisiettevõtjatele, on kohustatud tegevuse jätkamisel kandma majandustegevuse registrisse hiljemalt 2010. aasta 1. augustiks andmed nimetatud õiguse saanud reisiettevõtja või reisiettevõtjate kohta, sealhulgas nimi, registri registreeringu number, aadress ja muud kontaktandmed.
+
+(13) Enne 2010. aasta 1. juunit majandustegevuse registris registreeritud reisiettevõtjad, kes pakuvad müügiks ja müüvad teise reisiettevõtja koostatud pakettreise, on kohustatud tegevuse jätkamisel kandma majandustegevuse registrisse hiljemalt 2010. aasta 1. augustiks andmed pakettreisid koostanud reisiettevõtja või reisiettevõtjate kohta, sealhulgas nimi, registreeringu number, aadress ja muud kontaktandmed. Euroopa Majanduspiirkonna välise riigi või Euroopa Majanduspiirkonna teise lepinguriigi reisiettevõtja koostatud pakettreiside müügiks pakkumisel ja müügil asendatakse registri registreeringu number selle reisiettevõtja asukohariigi asjakohase identifitseerimistunnusega (registrikood ja vastava registri nimi).

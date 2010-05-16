@@ -1,6 +1,6 @@
 # § 8. Tegutsemine reisiettevõtjana
 
-(13) Ettevõtja tegevus reisiettevõtjana on lubatud majandustegevuse registri (edaspidi
+(17) Ettevõtja tegevus reisiettevõtjana on lubatud majandustegevuse registri (edaspidi
 
 *register*
 

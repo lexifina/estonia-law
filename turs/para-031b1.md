@@ -1,13 +1,21 @@
-# § 31¹. Tagatisega seonduvate nõuete rikkumine
+# § 31¹. Reisiettevõtjale kehtestatud nõuete rikkumine
 
-(1) Pakettreiside müügiks pakkumise või müügi eest ilma nõuetekohase tagatiseta -
+(1) Pakettreiside müügiks pakkumise või müügi eest ilma nõuetekohase tagatiseta –
 
-(98) karistatakse rahatrahviga kuni 200 trahviühikut.
+karistatakse rahatrahviga kuni 300 trahviühikut.
 
-(2) Pakettreiside müügi vormikohase aruande esitamata jätmise eest -
+(2) Pakettreiside müügi nõuetekohase aruande esitamata jätmise eest –
 
-(100) karistatakse rahatrahviga kuni 200 trahviühikut.
+karistatakse rahatrahviga kuni 200 trahviühikut.
 
-(3) Käesoleva paragrahvi lõikes 1 või 2 sätestatud teo eest, kui selle on toime pannud juriidiline isik, -
+(3) Registrile andmete esitamata jätmise eest –
 
-(102) karistatakse rahatrahviga kuni 40 000 krooni.
+karistatakse rahatrahviga kuni 200 trahviühikut.
+
+(4) Käesoleva paragrahvi lõikes 1 sätestatud teo eest, kui selle on toime pannud juriidiline isik, –
+
+karistatakse rahatrahviga kuni 100 000 krooni.
+
+(5) Käesoleva paragrahvi lõikes 2 või 3 sätestatud teo eest, kui selle on toime pannud juriidiline isik, –
+
+karistatakse rahatrahviga kuni 50 000 krooni.

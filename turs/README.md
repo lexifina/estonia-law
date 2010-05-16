@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/13251037> (version in force from 2010-01-01)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/13309183> (version in force from 2010-05-16)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -17,7 +17,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/13251037> (version in force from
 | [§ 7](para-007.md) | Pakettreis |
 | [§ 8](para-008.md) | Tegutsemine reisiettevõtjana |
 | [§ 9](para-009.md) |  |
-| [§ 10](para-010.md) | Reisiettevõtja registreerimistaotlus |
+| [§ 10](para-010.md) | Reisiettevõtja registreerimise taotlus |
 | [§ 11](para-011.md) | Registreerimismenetlus ja registriandmed |
 | [§ 12](para-012.md) | –14. |
 | [§ 15](para-015.md) | Tagatis |
@@ -43,7 +43,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/13251037> (version in force from
 | [§ 30¹](para-030b1.md) | Järelevalvet teostava ametiisiku õigused ja kohustused |
 | [§ 31](para-031.md) | Järelevalvet teostava ametiisiku ettekirjutus |
 | **5¹. peatükk VASTUTUS** | |
-| [§ 31¹](para-031b1.md) | Tagatisega seonduvate nõuete rikkumine |
+| [§ 31¹](para-031b1.md) | Reisiettevõtjale kehtestatud nõuete rikkumine |
 | [§ 31²](para-031b2.md) | Majutusettevõttele kehtestatud nõuete rikkumine |
 | [§ 31³](para-031b3.md) | Majutusteenuse kasutaja registreerimise kohustuse ja külastajakaardi säilitamise nõude rikkumine |
 | [§ 31⁴](para-031b4.md) | Turismiinfokeskusele esitatud nõuete rikkumine |

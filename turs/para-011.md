@@ -10,4 +10,6 @@
 
 3) reisiettevõtja tegevusala;
 
-4) käesoleva seaduse §-s 15 sätestatud tagatise suurus ja kehtivuse aeg ning tagatise olemasolu tõendava dokumendi väljastanud ettevõtja nimi, registrikood, aadress ja muud kontaktandmed.
+4) käesoleva seaduse §-s 15 sätestatud tagatise suurus ja kehtivuse aeg ning tagatise olemasolu tõendava dokumendi väljastanud ettevõtja nimi, registrikood, aadress ja muud kontaktandmed;
+
+5) käesoleva seaduse § 10 lõike 2 punktides 5 ja 6 sätestatud andmed.

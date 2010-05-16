@@ -2,7 +2,7 @@
 
 (1) Majutusettevõtte majutusteenuse kasutaja registreeritakse majutusettevõttes külastajakaardi alusel. Majutusteenuse kasutaja kinnitab esitatud andmete õigsust oma allkirjaga.
 
-(2) Kui majutusteenuse kasutaja on Eesti, Euroopa Liidu, Euroopa Majanduspiirkonna liikmesriigi või Šveitsi kodanik või Eestis elamisloa või elamisõiguse alusel elav välismaalane, kantakse külastajakaardile tema kohta vähemalt järgmised andmed:
+(2) Kui majutusteenuse kasutaja on Eesti, Euroopa Majanduspiirkonna teise lepinguriigi või Šveitsi kodanik või Eestis elamisloa või elamisõiguse alusel elav välismaalane, kantakse külastajakaardile tema kohta vähemalt järgmised andmed:
 
 1) nimi, sünniaeg, kodakondsus ja aadress;
 
