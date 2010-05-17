@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-05-17T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud karistusseadustiku, väärteomenetluse seadustiku, kriminaalmenetluse seadustiku, karistusregistri seaduse ning kriminaalhooldusseaduse muutmise seaduse eelnõu (562 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b59e54c4-213a-1fab-57a0-d9b708e32768"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud päästeteenistuse seaduse muutmise seaduse eelnõu (618 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "27b1cd3f-358e-e37a-2a6f-49ceec90aa8d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 17.05.2010",
+      "uuid": "d33dddda-ba51-afb6-2818-81377915bf45",
+      "files": [
+        "iguskomisjon_istungi_protokoll_20_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "28494db0-baa6-548e-2982-deb28ba8512d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 28494db0-baa6-548e-2982-deb28ba8512d)",
+  "source": "https://api.riigikogu.ee/api/volumes/28494db0-baa6-548e-2982-deb28ba8512d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-05-01&endDate=2010-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
