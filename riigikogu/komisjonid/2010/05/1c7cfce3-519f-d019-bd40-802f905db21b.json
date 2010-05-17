@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-05-17T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8ec3121f-0ddf-c64b-b915-cf0704f7b8f5"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud kunstiteoste tellimise seaduse eelnõu (756 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a875cf49-a6d8-1490-430f-da63ca1e5ede"
+    },
+    {
+      "order": 3,
+      "title": "Info Pealinna Rahvuspargi moodustamise ettepaneku kohta",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7a356a53-fc46-0845-b340-bd4d68c79e25"
+    },
+    {
+      "order": 4,
+      "title": "Info ja kirjad",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bce3c950-caec-f23a-a3be-33e2df0292ca"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 17.05.2010",
+      "uuid": "2d7b6169-790f-a4b6-e06a-89251b6330bf",
+      "files": [
+        "Kultuurikomisjon_istungi_protokoll_20_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "1c7cfce3-519f-d019-bd40-802f905db21b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 1c7cfce3-519f-d019-bd40-802f905db21b)",
+  "source": "https://api.riigikogu.ee/api/volumes/1c7cfce3-519f-d019-bd40-802f905db21b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-05-01&endDate=2010-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
