@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-05-17T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Rahanduskomisjoni algatatud tarbijakaitseseaduse muutmise seaduse eelnõu (754 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7c0a3c28-de9c-f1b7-03f7-a3d35f1033e2"
+    },
+    {
+      "order": 2,
+      "title": "Info",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ef813153-a224-32b8-6ef8-7daf519527d9"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 17.05.2010",
+      "uuid": "70aae02f-6192-82db-b99f-10b68bb57844",
+      "files": [
+        "Rahanduskomisjon_istungi_protokoll_20_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "a10dd7c3-eaf1-d551-d74e-ec93bf7a6b74",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a10dd7c3-eaf1-d551-d74e-ec93bf7a6b74)",
+  "source": "https://api.riigikogu.ee/api/volumes/a10dd7c3-eaf1-d551-d74e-ec93bf7a6b74",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-05-01&endDate=2010-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
