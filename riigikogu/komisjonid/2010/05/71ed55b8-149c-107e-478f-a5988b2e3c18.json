@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-05-17T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud liiklusseaduse eelnõu (475 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "34e4f262-58a7-f5be-76ff-87b418def2b6"
+    },
+    {
+      "order": 2,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "076d1806-37a4-050b-705d-fa43f1ae2610"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 17.05.2010",
+      "uuid": "6ed69eaa-cae8-3b8c-81c9-ff977f87ec30",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_20_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "71ed55b8-149c-107e-478f-a5988b2e3c18",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 71ed55b8-149c-107e-478f-a5988b2e3c18)",
+  "source": "https://api.riigikogu.ee/api/volumes/71ed55b8-149c-107e-478f-a5988b2e3c18",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-05-01&endDate=2010-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
