@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-05-17T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikontrolli auditiaruande „Riigihangete korraldamine valla ja linna asutatud ning osalusega äriühingutes, sihtasutustes ja mittetulundusühingutes” arutelu;",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a611f3c6-c2ef-e6b7-a638-d8ce32ebe7b9"
+    },
+    {
+      "order": 2,
+      "title": "Laekunud Riigikontrolli aruandest;",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7aa06ecd-1bc4-ec76-f6e6-348caa52de96"
+    },
+    {
+      "order": 3,
+      "title": "Informatsioon.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ce0f3eeb-322a-ce1c-b70f-29f6958d8681"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 17.05.2010",
+      "uuid": "3eff8ba1-2ba0-f935-d79a-d4845b2e71c1",
+      "files": [
+        "protokoll 103 17 05 2010.doc"
+      ]
+    }
+  ],
+  "uuid": "d20deb62-db38-53ca-0042-f5d67a6cf52c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d20deb62-db38-53ca-0042-f5d67a6cf52c)",
+  "source": "https://api.riigikogu.ee/api/volumes/d20deb62-db38-53ca-0042-f5d67a6cf52c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-05-01&endDate=2010-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
