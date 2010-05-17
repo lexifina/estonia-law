@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-05-17T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Euroopa Liidu inimõiguste poliitika Lissaboni lepingu rakendamise järgselt",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2c376cf6-a1ce-755a-624e-8877e261dc2a"
+    },
+    {
+      "order": 2,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a98a1ef3-1832-b1d5-1bb6-eba051b17bc4"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 17.05.2010",
+      "uuid": "cb4d06ca-9b4c-998f-b96f-b468619ec6f1",
+      "files": [
+        "Põhiseaduskomisjon_istungi_protokoll_20_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "99316dcf-7d02-55fc-a64f-3c007bdaee5e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 99316dcf-7d02-55fc-a64f-3c007bdaee5e)",
+  "source": "https://api.riigikogu.ee/api/volumes/99316dcf-7d02-55fc-a64f-3c007bdaee5e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-05-01&endDate=2010-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
