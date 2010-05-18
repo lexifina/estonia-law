@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-05-18T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Arvamuse andmine ELAK-le ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c593cd8a-ce36-92a4-5609-a9bf0a0c337f"
+    },
+    {
+      "order": 2,
+      "title": "Õiguskomisjoni kirjavahetus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "81bbb662-f665-b435-ea23-37b3139a993b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 18.05.2010",
+      "uuid": "fd0799d4-8f74-1ab7-d806-37508e5624b0",
+      "files": [
+        "iguskomisjon_istungi_protokoll_20_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "9b06b0aa-0083-2881-a41b-ce43da682052",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9b06b0aa-0083-2881-a41b-ce43da682052)",
+  "source": "https://api.riigikogu.ee/api/volumes/9b06b0aa-0083-2881-a41b-ce43da682052",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-05-01&endDate=2010-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
