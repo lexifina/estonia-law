@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-05-18T12:45:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud erakonnaseaduse ja sellega seonduvalt teiste seaduste muutmise seaduse eelnõu (655 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b1d53dad-75d0-5b21-a9c7-3fe33034bc40"
+    },
+    {
+      "order": 2,
+      "title": "Keskkonnakomisjonile arvamuse andmine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d28ad340-938f-3a6d-7246-dd5fc20e8e65"
+    },
+    {
+      "order": 3,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "40c32eb7-1daa-6fed-12f6-98799c0d9ea4"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 18.05.2010",
+      "uuid": "26107549-6275-3899-b7e6-9213f21875bc",
+      "files": [
+        "Põhiseaduskomisjon_istungi_protokoll_20_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "5b86117a-a87b-48bb-4c48-64438155af9e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 5b86117a-a87b-48bb-4c48-64438155af9e)",
+  "source": "https://api.riigikogu.ee/api/volumes/5b86117a-a87b-48bb-4c48-64438155af9e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-05-01&endDate=2010-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
