@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-05-18T12:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud riigipiiri seaduse ja halduskoostöö seaduse muutmise seaduse eelnõu (749 SE) arutelu. ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c296a61c-0765-c7e5-c68a-3f7208af0b70"
+    },
+    {
+      "order": 2,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fe8e8ee5-6c5d-9a47-c32e-e82b904e0ea5"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 18.05.2010",
+      "uuid": "1338ad92-dad2-8869-8b6b-442185d218ab",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_20_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "08bdb4a4-3130-8a19-844e-41e9005a882a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 08bdb4a4-3130-8a19-844e-41e9005a882a)",
+  "source": "https://api.riigikogu.ee/api/volumes/08bdb4a4-3130-8a19-844e-41e9005a882a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-05-01&endDate=2010-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
