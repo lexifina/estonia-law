@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-05-20T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud hoiu-laenuühistu seaduse ja krediidiasutuste seaduse muutmise seaduse eelnõu (240 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a334d403-ee54-d15f-f7bd-09fec5eca912"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud kohaliku omavalitsuse üksuse finantsjuhtimise seaduse eelnõu (366 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8a322142-baaa-8484-2b6e-bfa7207e3a5b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 20.05.2010",
+      "uuid": "e685c986-9372-5a9a-55a4-58b08d427615",
+      "files": [
+        "Rahanduskomisjon_istungi_protokoll_20_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "2611c2e4-63fb-16da-a833-9d6b19125852",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2611c2e4-63fb-16da-a833-9d6b19125852)",
+  "source": "https://api.riigikogu.ee/api/volumes/2611c2e4-63fb-16da-a833-9d6b19125852",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-05-01&endDate=2010-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
