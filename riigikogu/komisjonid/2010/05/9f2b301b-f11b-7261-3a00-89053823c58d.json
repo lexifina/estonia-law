@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-05-28T10:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 3.-4. juunil 2010 toimuval Euroopa Liidu justiits- ja siseküsimuste nõukogu istungil.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0ba7d0fe-3cc9-afbf-5faf-6287411f16fc"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad 31. mail 2010 toimuval Euroopa Liidu transpordi, telekommunikatsiooni ja energeetika nõukogu istungil.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1e15be37-f45c-f9d4-fc23-766b54a346eb"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 28.05.2010",
+      "uuid": "50cf8987-ced9-0174-8612-1ef775f13354",
+      "files": [
+        "Euroopa Liidu asjade komisjon_istungi_protokoll_21_2010.odt",
+        "Euroopa Liidu asjade komisjon_paevakord_28_05_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "9f2b301b-f11b-7261-3a00-89053823c58d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9f2b301b-f11b-7261-3a00-89053823c58d)",
+  "source": "https://api.riigikogu.ee/api/volumes/9f2b301b-f11b-7261-3a00-89053823c58d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-05-01&endDate=2010-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
