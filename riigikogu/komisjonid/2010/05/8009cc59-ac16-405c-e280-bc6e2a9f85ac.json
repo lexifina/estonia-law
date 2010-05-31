@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-05-31T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f881329c-8fe8-7d87-a2c7-dc2d8496aeaa"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud taimede paljundamise ja sordikaitse seaduse, maaelu ja põllumajandusturu korraldamise seaduse ning riigilõivuseaduse muutmise seaduse eelnõu (746 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1727b214-e7f0-09ef-a888-d40e9b7df4c2"
+    },
+    {
+      "order": 3,
+      "title": "Vabariigi Valitsuse algatatud loomakaitseseaduse muutmise seaduse eelnõu (745 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1ff1d874-fd1e-127d-e888-b0a70476bb89"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 31.05.2010",
+      "uuid": "054f237b-1e44-7f6c-4ad9-cb42279650fa",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_22_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "8009cc59-ac16-405c-e280-bc6e2a9f85ac",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8009cc59-ac16-405c-e280-bc6e2a9f85ac)",
+  "source": "https://api.riigikogu.ee/api/volumes/8009cc59-ac16-405c-e280-bc6e2a9f85ac",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-05-01&endDate=2010-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
