@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-05-31T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Keskkonnakomisjoni töökava (31.05.10 – 06.06.10) kinnitamine ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "acee8503-eb8a-d2f6-829b-2d3c9fc6d7ee"
+    },
+    {
+      "order": 2,
+      "title": "Keskkonnakomisjoni algatatud veeseaduse ja kemikaaliseaduse muutmise seaduse eelnõu (710 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2861035a-e79c-2ec3-e1ca-715c65e6abce"
+    },
+    {
+      "order": 3,
+      "title": "Vabariigi Valitsuse algatatud jäätmeseaduse ja maapõueseaduse muutmise seaduse eelnõu (700 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1cebc055-361b-ae1f-54f3-49aafb2fea57"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 31.05.2010",
+      "uuid": "25f972bf-cd20-a11b-8eea-6b27bc3da34a",
+      "files": [
+        "prot167 31.05.10.doc"
+      ]
+    }
+  ],
+  "uuid": "609ddd56-812f-1ca3-06ac-1626631c846a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 609ddd56-812f-1ca3-06ac-1626631c846a)",
+  "source": "https://api.riigikogu.ee/api/volumes/609ddd56-812f-1ca3-06ac-1626631c846a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-05-01&endDate=2010-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
