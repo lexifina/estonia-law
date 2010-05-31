@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-05-31T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kultuurikomisjoni algatatud välismaalaste seaduse muutmise seaduse eelnõu (736 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6d170c55-538a-1a7f-9d80-d0b2c04362f1"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu liige Kalev Kotkas, Riigikogu liige Aleksei Lotman, Riigikogu liige Tarmo Kõuts, Riigikogu liige Mark Soosaar, Riigikogu liige Imre Sooäär, Riigikogu liige Kalle Laanet, Riigikogu liige Karel Rüütli algatatud rahvastikuregistri seaduse muutmise seaduse eelnõu (737 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cf8d89e0-1b39-84e7-1e72-dff1f11c241d"
+    },
+    {
+      "order": 3,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "eaf82ce3-55da-24f2-2905-60b124d802bf"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 31.05.2010",
+      "uuid": "cffdbb7c-502c-9dd6-48b3-e45628d10b40",
+      "files": [
+        "Põhiseaduskomisjon_istungi_protokoll_22_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "97caa917-3eb1-bde7-c90e-29b6a3013354",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 97caa917-3eb1-bde7-c90e-29b6a3013354)",
+  "source": "https://api.riigikogu.ee/api/volumes/97caa917-3eb1-bde7-c90e-29b6a3013354",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-05-01&endDate=2010-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
