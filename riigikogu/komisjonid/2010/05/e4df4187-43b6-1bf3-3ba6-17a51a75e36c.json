@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-05-31T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud hoiu-laenuühistu seaduse ja krediidiasutuste seaduse muutmise seaduse eelnõu (240 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "599503ef-9b7e-e59a-d8b7-da497a66d108"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud tulumaksuseaduse muutmise seaduse eelnõu (180 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cfa66a62-c5ed-422d-809a-fc9593b1c3b1"
+    },
+    {
+      "order": 3,
+      "title": "Rahanduskomisjoni algatatud riigivaraseaduse muutmise seaduse eelnõu (772 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6b93019f-279f-50c5-c754-ad3058673a35"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 31.05.2010",
+      "uuid": "14e78576-4f30-8545-5d82-6591d0d67948",
+      "files": [
+        "Rahanduskomisjon_istungi_protokoll_22_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "e4df4187-43b6-1bf3-3ba6-17a51a75e36c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e4df4187-43b6-1bf3-3ba6-17a51a75e36c)",
+  "source": "https://api.riigikogu.ee/api/volumes/e4df4187-43b6-1bf3-3ba6-17a51a75e36c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-05-01&endDate=2010-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
