@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-05-31T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud liiklusseaduse eelnõu (475 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6a3906f0-f46a-7bc6-0817-96d797e46230"
+    },
+    {
+      "order": 2,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a360c678-62f3-ca70-1c6d-f90bd6493ded"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 31.05.2010",
+      "uuid": "fffd481a-8f80-bf5b-69a4-7d92b09a3c1f",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_22_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "c38f93ca-cf68-7d73-c2a9-2cd5b79758e7",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c38f93ca-cf68-7d73-c2a9-2cd5b79758e7)",
+  "source": "https://api.riigikogu.ee/api/volumes/c38f93ca-cf68-7d73-c2a9-2cd5b79758e7",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-05-01&endDate=2010-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
