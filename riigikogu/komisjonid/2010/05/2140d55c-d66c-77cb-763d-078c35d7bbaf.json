@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-05-31T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikontrolli auditiaruande „Riigi teenuste kättesaadavus maakondades“ arutelu;",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2e14c0d8-f0d4-619e-2b0b-d5b04a59adc3"
+    },
+    {
+      "order": 2,
+      "title": "Informatsioon;",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ea26f5d0-b32c-0a98-0fef-092dbb85830e"
+    },
+    {
+      "order": 3,
+      "title": "Laekunud Riigikontrolli aruannetest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "52b3e2ad-ea08-182b-40fe-a5062eaaefea"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 31.05.2010",
+      "uuid": "f6c3e886-31e7-3d35-b82b-bc3b51a1108e",
+      "files": [
+        "protokoll 104 31 05 2010.doc"
+      ]
+    }
+  ],
+  "uuid": "2140d55c-d66c-77cb-763d-078c35d7bbaf",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2140d55c-d66c-77cb-763d-078c35d7bbaf)",
+  "source": "https://api.riigikogu.ee/api/volumes/2140d55c-d66c-77cb-763d-078c35d7bbaf",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-05-01&endDate=2010-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
