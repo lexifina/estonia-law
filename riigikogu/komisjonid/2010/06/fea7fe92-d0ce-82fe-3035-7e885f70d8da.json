@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-06-01T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Erakond Eestimaa Rohelised fraktsiooni algatatud karistusseadustiku muutmise seaduse eelnõu (728 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "de8c972f-a7e7-f89f-6664-8b6ad2df29e2"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud halduskohtumenetluse seadustik (755 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "87e75bc1-0a26-304d-828f-ab425d8b74d5"
+    },
+    {
+      "order": 3,
+      "title": "Vabariigi Valitsuse algatatud karistusseadustiku, väärteomenetluse seadustiku, kriminaalmenetluse seadustiku, karistusregistri seaduse ning kriminaalhooldusseaduse muutmise seaduse eelnõu (562 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "70a0f3ed-9a29-6d43-9e74-13498aa959ec"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 01.06.2010",
+      "uuid": "a6885c89-00e7-2bbf-3fd9-33062f2ee764",
+      "files": [
+        "iguskomisjon_istungi_protokoll_22_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "fea7fe92-d0ce-82fe-3035-7e885f70d8da",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid fea7fe92-d0ce-82fe-3035-7e885f70d8da)",
+  "source": "https://api.riigikogu.ee/api/volumes/fea7fe92-d0ce-82fe-3035-7e885f70d8da",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-06-01&endDate=2010-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
