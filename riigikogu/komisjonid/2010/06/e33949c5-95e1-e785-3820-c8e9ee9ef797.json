@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-06-03T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud jäätmeseaduse ja maapõueseaduse muutmise seaduse eelnõu (700 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0d107243-b708-5397-d8dc-ea8156073e64"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud jahiseaduse ja välisõhu kaitse seaduse muutmise seaduse eelnõu (744 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a899b421-34b9-aa13-8a08-47f90a183751"
+    },
+    {
+      "order": 3,
+      "title": "Erakond Eestimaa Rohelised fraktsiooni algatatud looduskaitseseaduse § 24 muutmise seaduse eelnõu (752 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c0b01a79-c6a0-d5ad-8615-7cfe1031ad08"
+    },
+    {
+      "order": 4,
+      "title": "Vabariigi Valitsuse algatatud biotsiidiseaduse muutmise seaduse eelnõu (748 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "83fc837d-95ba-5a2d-795f-42b0cf984521"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 03.06.2010",
+      "uuid": "c3f5307f-fb64-bfa4-0980-214fa9926285",
+      "files": [
+        "prot169 03.06.10.doc"
+      ]
+    }
+  ],
+  "uuid": "e33949c5-95e1-e785-3820-c8e9ee9ef797",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e33949c5-95e1-e785-3820-c8e9ee9ef797)",
+  "source": "https://api.riigikogu.ee/api/volumes/e33949c5-95e1-e785-3820-c8e9ee9ef797",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-06-01&endDate=2010-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
