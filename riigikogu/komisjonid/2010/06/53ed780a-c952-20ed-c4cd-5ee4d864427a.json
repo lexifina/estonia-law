@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-06-04T10:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 11. juunil 2010 toimuval Euroopa Liidu keskkonnanõukogu istungil.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "02aee67a-195f-8db2-88d9-a04ba42d051e"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad 8. juunil 2010 toimuval Euroopa Liidu majandus- ja rahandusministrite nõukogu (ECOFIN) istungil.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "12003484-8ca2-27ec-ddc9-7bd79f496116"
+    },
+    {
+      "order": 3,
+      "title": "Eesti seisukohad 7.-8. juunil 2010 toimuval Euroopa Liidu tööhõive, sotsiaalpoliitika, tervise- ja tarbijakaitseküsimuste nõukogu (EPSCO) istungil.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f49848ba-5b54-38ec-a1a4-eafc5f9fdc6b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 04.06.2010",
+      "uuid": "f4809fc3-13a8-286a-0767-f981cce38517",
+      "files": [
+        "Euroopa Liidu asjade komisjon_paevakord_04_06_2010.odt",
+        "Euroopa Liidu asjade komisjon_istungi_protokoll_22_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "53ed780a-c952-20ed-c4cd-5ee4d864427a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 53ed780a-c952-20ed-c4cd-5ee4d864427a)",
+  "source": "https://api.riigikogu.ee/api/volumes/53ed780a-c952-20ed-c4cd-5ee4d864427a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-06-01&endDate=2010-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
