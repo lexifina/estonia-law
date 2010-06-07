@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-06-07T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud riigipiiri seaduse ja halduskoostöö seaduse muutmise seaduse eelnõu (749 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3f5e25b3-892d-bfa5-5005-c95110046e65"
+    },
+    {
+      "order": 2,
+      "title": "Eestimaa Rahvaliidu fraktsiooni algatatud riigikogu otsus \"Riigikogu otsuse \"Riigieelarve kontrolli komisjoni moodustamine\" muutmine\" (771 OE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1b4f5768-1e95-d741-35da-f1bbce01079f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 07.06.2010",
+      "uuid": "6ea1d7b3-5d8c-0b15-f4ec-dbb647fd905d",
+      "files": [
+        "Põhiseaduskomisjon_istungi_protokoll_23_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "739b6a9a-8b2d-e71f-316c-040258be6ac6",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 739b6a9a-8b2d-e71f-316c-040258be6ac6)",
+  "source": "https://api.riigikogu.ee/api/volumes/739b6a9a-8b2d-e71f-316c-040258be6ac6",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-06-01&endDate=2010-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
