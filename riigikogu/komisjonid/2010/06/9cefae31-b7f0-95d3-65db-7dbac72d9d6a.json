@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-06-07T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud inimgeeniuuringute seaduse muutmise seaduse eelnõu (741 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "326a3f2e-7c15-8ee4-f103-6f60d56c7162"
+    },
+    {
+      "order": 2,
+      "title": "Erakond Eestimaa Rohelised fraktsiooni algatatud riigikogu otsus \"Ettepaneku tegemine Vabariigi Valitsusele pensionireformiga seonduvate rahvatervist parandavate tegevuste käivitamiseks\" (720 OE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7a0a6f3e-36a8-94ea-1604-cd2b02f379c6"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 07.06.2010",
+      "uuid": "49c81cc1-b360-34be-c8ca-25c2e511db97",
+      "files": [
+        "Sotsiaalkomisjon_istungi_protokoll_23_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "9cefae31-b7f0-95d3-65db-7dbac72d9d6a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9cefae31-b7f0-95d3-65db-7dbac72d9d6a)",
+  "source": "https://api.riigikogu.ee/api/volumes/9cefae31-b7f0-95d3-65db-7dbac72d9d6a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-06-01&endDate=2010-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
