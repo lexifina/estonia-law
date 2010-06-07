@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-06-07T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f8de7377-08c8-e543-7070-46709f043f14"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud noorsootöö seaduse eelnõu (676 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d4295c9e-19ff-bd47-f17b-feaad62bf726"
+    },
+    {
+      "order": 3,
+      "title": "Info",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7ddc8de1-36a1-7f93-6ff8-ce31ff63235b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 07.06.2010",
+      "uuid": "4d15a2be-941d-efb6-ad55-a65416911d28",
+      "files": [
+        "Kultuurikomisjon_istungi_protokoll_23_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "087e2a99-7ad5-fb1d-6f29-7e3b2e72392a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 087e2a99-7ad5-fb1d-6f29-7e3b2e72392a)",
+  "source": "https://api.riigikogu.ee/api/volumes/087e2a99-7ad5-fb1d-6f29-7e3b2e72392a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-06-01&endDate=2010-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
