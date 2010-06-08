@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-06-08T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Erimärgistatud kütuse kasutamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3ccca73a-0d60-90ee-60e6-86cfe3d11530"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud söödaseaduse ja sellega seonduvate seaduste muutmise seaduse eelnõu (777 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d02eb64f-b934-a535-b67d-ec7f590ec538"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 08.06.2010",
+      "uuid": "1b02e4eb-77fa-2e3e-a631-e16db9adca2d",
+      "files": [
+        "Maaelukomisjon_paevakord_08_06_2010.odt",
+        "Maaelukomisjon_istungi_protokoll_23_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "4cd24a72-1373-85ee-e3ce-8996f4670c19",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 4cd24a72-1373-85ee-e3ce-8996f4670c19)",
+  "source": "https://api.riigikogu.ee/api/volumes/4cd24a72-1373-85ee-e3ce-8996f4670c19",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-06-01&endDate=2010-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
