@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-06-08T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud kinnistusraamatuseaduse, pärimisseaduse ja sellega seonduvalt teiste seaduste muutmise seaduse eelnõu (725 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "15a6684d-8024-b3ab-f536-3e48085c707f"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud kriminaalmenetluse seadustiku ja teiste seaduste muutmise seaduse eelnõu (286 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d58e06f0-5d63-e617-0126-536de524c48a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 08.06.2010",
+      "uuid": "9e338a6b-5044-834d-3c5d-b737250c79d3",
+      "files": [
+        "iguskomisjon_istungi_protokoll_23_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "b69e82a6-ff16-ecea-bbaa-34618f47c0e6",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b69e82a6-ff16-ecea-bbaa-34618f47c0e6)",
+  "source": "https://api.riigikogu.ee/api/volumes/b69e82a6-ff16-ecea-bbaa-34618f47c0e6",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-06-01&endDate=2010-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
