@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-06-08T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti Keskerakonna fraktsiooni algatatud tulumaksuseaduse § 5 muutmise seaduse eelnõu (734 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3c61000d-3d06-32e2-a23d-b4bb0da64973"
+    },
+    {
+      "order": 2,
+      "title": "Rahanduskomisjoni algatatud riigivaraseaduse muutmise seaduse eelnõu (772 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "082979e8-1120-686f-47ca-cc9d70915f88"
+    },
+    {
+      "order": 3,
+      "title": "Alkoholi-, tubaka- , kütuse- ja elektriaktsiisi seaduse ning tubakaseaduse muutmise seaduse eelnõu algatamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fccb11e5-9137-6357-2320-5194befbc427"
+    },
+    {
+      "order": 4,
+      "title": "Vabariigi Valitsuse algatatud kohaliku omavalitsuse üksuse finantsjuhtimise seaduse eelnõu (366 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e9cd0ee3-bbfd-86dc-58ca-3588b41c5656"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 08.06.2010",
+      "uuid": "8edf0e92-88fd-caf6-698d-3ad4da274d16",
+      "files": [
+        "Rahanduskomisjon_istungi_protokoll_23_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "4377d840-7564-b2f1-9d51-e5dcc1a72941",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 4377d840-7564-b2f1-9d51-e5dcc1a72941)",
+  "source": "https://api.riigikogu.ee/api/volumes/4377d840-7564-b2f1-9d51-e5dcc1a72941",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-06-01&endDate=2010-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
