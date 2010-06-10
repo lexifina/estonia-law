@@ -1,0 +1,33 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-06-10T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väljasõiduistung Prangli saarel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e2f0061b-fdd7-2a47-ed6d-625aa7f25bba"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 10.06.2010",
+      "uuid": "6c9ded4c-fea2-69b6-890c-df19d849c400",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_23_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "431c6d7c-2f18-a9cf-3c0e-c9de6a628534",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 431c6d7c-2f18-a9cf-3c0e-c9de6a628534)",
+  "source": "https://api.riigikogu.ee/api/volumes/431c6d7c-2f18-a9cf-3c0e-c9de6a628534",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-06-01&endDate=2010-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
