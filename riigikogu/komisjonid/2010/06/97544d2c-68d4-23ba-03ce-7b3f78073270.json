@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-06-14T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "76d4b87f-6e32-c990-509b-546256686716"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud kunstiteoste tellimise seaduse eelnõu (756 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d287a081-8137-59d6-04af-8c0c9bc4e5fc"
+    },
+    {
+      "order": 3,
+      "title": "Vabariigi Valitsuse algatatud noorsootöö seaduse eelnõu (676 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e89ed5e7-1033-763f-0b91-8a734fe8f50a"
+    },
+    {
+      "order": 4,
+      "title": "Info",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2f4df783-6b98-0f83-499a-f1abcf6b4762"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 14.06.2010",
+      "uuid": "422e28dc-0895-254a-6670-e392dbf62999",
+      "files": [
+        "Kultuurikomisjon_istungi_protokoll_24_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "97544d2c-68d4-23ba-03ce-7b3f78073270",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 97544d2c-68d4-23ba-03ce-7b3f78073270)",
+  "source": "https://api.riigikogu.ee/api/volumes/97544d2c-68d4-23ba-03ce-7b3f78073270",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-06-01&endDate=2010-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
