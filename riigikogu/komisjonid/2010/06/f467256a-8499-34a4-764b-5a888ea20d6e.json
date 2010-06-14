@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-06-14T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigihangete seaduse kontseptsiooni tutvustus Rahandusministeeriumi esindjate poolt",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4bd97263-5e59-4a7c-0d0a-20055b2d57f7"
+    },
+    {
+      "order": 2,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "10d339d5-c7cc-2611-aa3e-6fc876e5f739"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 14.06.2010",
+      "uuid": "a89cdb58-35a0-6b09-c729-88f3d6a10b36",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_24_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "f467256a-8499-34a4-764b-5a888ea20d6e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f467256a-8499-34a4-764b-5a888ea20d6e)",
+  "source": "https://api.riigikogu.ee/api/volumes/f467256a-8499-34a4-764b-5a888ea20d6e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-06-01&endDate=2010-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
