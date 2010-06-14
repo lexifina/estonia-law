@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-06-14T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6c1b4897-85f0-f3b7-24c7-8c201ca8505e"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud söödaseaduse ja sellega seonduvate seaduste muutmise seaduse eelnõu (777 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1f19bc2d-417c-98ce-e25a-90b5342c81ed"
+    },
+    {
+      "order": 3,
+      "title": "Info",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0c7c918d-7619-a306-24e9-42c40fccc708"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 14.06.2010",
+      "uuid": "e72f3fae-379e-b345-e717-fd2701c84087",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_24_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "0089c2c4-e09f-c40c-d3d0-8715b838de57",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0089c2c4-e09f-c40c-d3d0-8715b838de57)",
+  "source": "https://api.riigikogu.ee/api/volumes/0089c2c4-e09f-c40c-d3d0-8715b838de57",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-06-01&endDate=2010-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
