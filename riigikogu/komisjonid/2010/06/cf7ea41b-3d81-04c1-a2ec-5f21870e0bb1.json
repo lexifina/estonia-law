@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-06-15T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väljasõiduistung AS-i Tallinna Sadam",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d30d5e01-ea86-6e94-fe00-afbdc7ed8e4f"
+    },
+    {
+      "order": 2,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b441ebee-dd83-f37d-183f-6bfe1f83b23e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 15.06.2010",
+      "uuid": "65de2d06-e044-9f5d-2b8f-69a822806648",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_24_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "cf7ea41b-3d81-04c1-a2ec-5f21870e0bb1",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid cf7ea41b-3d81-04c1-a2ec-5f21870e0bb1)",
+  "source": "https://api.riigikogu.ee/api/volumes/cf7ea41b-3d81-04c1-a2ec-5f21870e0bb1",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-06-01&endDate=2010-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
