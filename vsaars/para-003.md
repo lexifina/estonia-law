@@ -1,6 +1,6 @@
 # § 3. Riigi ja kohalike omavalitsuste eesmärgid
 
-(3) Riigi ja kohalike omavalitsuste eesmärgid püsiasustusega väikesaarte haldamisel on:
+Riigi ja kohalike omavalitsuste eesmärgid püsiasustusega väikesaarte haldamisel on:
 
 1) püsiasustuse taastamine, säilitamine ja arengusuutlikkuse toetamine;
 
@@ -8,7 +8,7 @@
 
 3) püsielanikele töökohtade ja toimetulekuvõimaluste loomine ning ettevõtluse toetamine;
 
-4) esmatähtsate avalike teenuste (korrakaitse- ja päästeteenistused, joogivesi, post- ja elektronside, elektrivarustus, transpordiühendus, alus-, põhi- ja keskharidus, sotsiaalabi) kättesaadavuse tagamine;
+4) esmatähtsate avalike teenuste (politsei- ja päästeasutused, joogivesi, post- ja elektronside, elektrivarustus, transpordiühendus, alus-, põhi- ja keskharidus, sotsiaalabi) kättesaadavuse tagamine;
 
 5) saarte elulaadi omapära ja rahvakultuuri järjepidevuse säilitamine;
 

@@ -1,6 +1,6 @@
 # § 2. Seaduses kasutatavad mõisted
 
-(2) Käesolevas seaduses kasutatakse mõisteid järgmises tähenduses:
+Käesolevas seaduses kasutatakse mõisteid järgmises tähenduses:
 
 1) saarvald – püsiasustusega väikesaart või saarterühma tervikuna haldav vald;
 
