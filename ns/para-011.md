@@ -1,6 +1,6 @@
 # § 11. Perekonnanime taastamine abielu lahutamisel
 
-(1) Abielu lahutamisel taastatakse isiku avalduse alusel tema varem kantud perekonnanimi, muidu säilib isiku abielu ajal kantud perekonnanimi.
+(1) Abielu lahutamisel võib kohus või perekonnaseisuasutus taastada isiku avalduse alusel tema varem kantud perekonnanime, muidu säilib isiku abielu ajal kantud perekonnanimi.
 
 (2) Taastatav perekonnanimi võib olla:
 

@@ -13,3 +13,9 @@
 .
 
 (4) Kahtluse korral rahvusliku nimekuju õigsuses pöördub perekonnanime andev või kohaldav haldusorgan või kohus selgituste saamiseks nimeteadusliku usaldusasutuse poole või vastava riigi diplomaatilise esinduse poole.
+
+(5) Perekonnanimi ei tohi sisaldada numbreid ja mittesõnalisi tähiseid ega olla eraldi või koos eesnimega vastuolus heade kommetega.
+
+(6) Käesoleva paragrahvi lõikes 1 sätestatust võib teha erandi, kui isikul on oma kodakondsuse, peresuhete, rahvuskuuluvuse või usu tõttu isiklik seos muukeelse nimetraditsiooniga ja taotletav nimi on sellele vastav.
+
+(7) Käesolevas paragrahvis sätestatud nõuded ei laiene perekonnanime kohaldamisele.

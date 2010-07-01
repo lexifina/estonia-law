@@ -8,8 +8,10 @@
 
 3) ema perekonnanimi, kui isadus ei ole kindlaks tehtud.
 
-(2) Lapsele ei või perekonnanimeks anda vanemale abiellumisel antud kahest nimest koosnevat perekonnanime. Kui mõlema vanema perekonnanimi koosneb abiellumisel antud kahest nimest, antakse lapsele vanemate kokkuleppel ühe vanema perekonnanimi.
+(2) Lapsele ei või perekonnanimeks anda vanemale abiellumisel või perekonnanime muutmise korras antud kahest nimest koosnevat perekonnanime. Kui mõlema vanema perekonnanimi koosneb perekonnanime muutmise korras antud kahest nimest, antakse lapsele vanemate kokkuleppel ühe vanema perekonnanimi. Käesolevat lõiget ei kohaldata kahest nimest koosneva nime suhtes, mis on saadud § 8 lõike 1 punktis 3 sätestatud juhul.
 
-(3) Lapsele antakse eesnimi vanemate kokkuleppel või tema ainsa vanema ettepanekul. Kui lapse hooldusõigus kuulub ainult ühele vanematest, antakse lapsele eesnimi tema ettepanekul. Kui kokkulepet ei ole või ettepanekut ei tehta, otsustab eestkosteasutus, milline eesnimi lapsele antakse.
+(2¹) Kui lapse õel või vennal on kahest nimest koosnev perekonnanimi, mis ühtib vanema kahest nimest koosneva perekonnanimega, võib lapsele erandina anda vanema kahest nimest koosneva perekonnanime. Mitmikutele antakse sama perekonnanimi.
+
+(3) Lapsele antakse eesnimi vanemate kokkuleppel või tema ainsa vanema või eestkostja ettepanekul. Kui lapse hooldusõigus kuulub ainult ühele vanematest, antakse lapsele eesnimi tema ettepanekul. Kui kokkulepet ei ole või ettepanekut ei tehta, otsustab eestkosteasutus, milline eesnimi lapsele antakse.
 
 (4) Leidlapsele antakse eesnimi ja perekonnanimi eestkosteasutuse avalduse alusel.

@@ -8,4 +8,4 @@
 
 2) koosneda abielu eel viimati kantud perekonnanimest ja sellele järgnevast abikaasa perekonnanimest.
 
-(3) Käesoleva paragrahvi lõike 2 punkti 2 alusel antud uus perekonnanimi ei või koosneda enam kui kahest nimest ning selliselt antud perekonnanime võib kanda vaid üks abikaasadest.
+(3) Käesoleva paragrahvi lõike 2 punkti 2 alusel antud uus perekonnanimi ei või koosneda enam kui kahest sidekriipsuga seotud nimest ning selliselt antud perekonnanime võib kanda vaid üks abikaasadest.

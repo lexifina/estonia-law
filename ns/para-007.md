@@ -6,6 +6,8 @@
 
 2) kohaldamisel ühest või mitmest nimest.
 
+(1¹) Võõrkeelne eesnimi peab olema teises riigis kasutusel eesnimena.
+
 (2) Eesnimeks ei või anda nime, mis sisaldab numbreid või mittesõnalisi tähiseid või mis eraldi või koos perekonnanimega ei ole kooskõlas heade kommetega.
 
 (3) Eesnimeks ei või ilma mõjuva põhjuseta anda:
