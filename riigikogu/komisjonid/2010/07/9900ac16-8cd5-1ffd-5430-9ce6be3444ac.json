@@ -1,0 +1,33 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-07-01T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "008374aa-b953-64db-545f-dce30d9bf270"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 01.07.2010",
+      "uuid": "c53aa832-2375-2aef-8dc6-7d40336b17c6",
+      "files": [
+        "Kultuurikomisjon_istungi_protokoll_26_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "9900ac16-8cd5-1ffd-5430-9ce6be3444ac",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9900ac16-8cd5-1ffd-5430-9ce6be3444ac)",
+  "source": "https://api.riigikogu.ee/api/volumes/9900ac16-8cd5-1ffd-5430-9ce6be3444ac",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-07-01&endDate=2010-07-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
