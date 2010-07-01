@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/13108408> (version in force from 2009-01-01)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/13330637> (version in force from 2010-07-01)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -11,7 +11,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/13108408> (version in force from
 | [§ 2](para-002.md) | Seaduse kohaldamine |
 | [§ 3](para-003.md) | Hoiu-laenuühistu mõiste |
 | [§ 4](para-004.md) | Hoiu-laenuühistu ärinimi |
-| [§ 5](para-005.md) | Hoiu-laenuühistu tegevuspiirkond |
+| [§ 5](para-005.md) | Hoiu-laenuühistu liikmeskonna moodustamise põhimõtted |
 | [§ 6](para-006.md) | Hoiu-laenuühistu tehingud |
 | **2. peatükk HOIU-LAENUÜHISTU ASUTAMINE** | |
 | [§ 7](para-007.md) | Hoiu-laenuühistu asutamisleping |
@@ -19,7 +19,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/13108408> (version in force from
 | [§ 10](para-010.md) | Hoiu-laenuühistu põhikiri |
 | [§ 11](para-011.md) | Sisseastumismaksu ja osamaksu tasumine |
 | [§ 12](para-012.md) | Enne äriregistrisse kandmist tehtud tehingud |
-| [§ 13](para-013.md) | Hoiu-laenuühistu asutajate vastutus |
+| [§ 13](para-013.md) |  |
 | [§ 14](para-014.md) | Hoiu-laenuühistu äriregistrisse kandmise avaldus |
 | [§ 15](para-015.md) | Äriregistrisse kantavad andmed |
 | **3. peatükk HOIU-LAENUÜHISTU LIIKMED** | |
@@ -36,16 +36,16 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/13108408> (version in force from
 | [§ 25](para-025.md) | Hoiu-laenuühistu kasumi jaotamine |
 | [§ 26](para-026.md) | Hoiu-laenuühistu kahjumi katmine |
 | **5. peatükk HOIU-LAENUÜHISTU USALDUSVÄÄRSUSE TAGAMINE** | |
-| [§ 27](para-027.md) | Hoiu-laenuühistu usaldusväärsuse tagamise põhimeetmed |
+| [§ 27](para-027.md) | Hoiu-laenuühistu usaldusväärsuse tagamine |
 | [§ 28](para-028.md) | Nõuded laenudele |
 | [§ 29](para-029.md) | Laenukomitee moodustamine ja liikmed |
 | [§ 30](para-030.md) | Laenukomitee otsused |
-| [§ 31](para-031.md) | Nõuded riskide juhtimisele |
+| [§ 31](para-031.md) | Hoiu-laenuühistu sise-eeskirjad, protseduurireeglid ja riskide juhtimise nõuded |
 | **6. peatükk HOIU-LAENUÜHISTU JUHTIMINE** | |
 | [§ 32](para-032.md) | Hoiu-laenuühistu üldkoosoleku pädevus |
 | [§ 33](para-033.md) |  |
 | [§ 34](para-034.md) | Hoiu-laenuühistu juhatus |
-| [§ 35](para-035.md) | Hoiu-laenuühistu juhatuse esindusõigus |
+| [§ 35](para-035.md) |  |
 | [§ 36](para-036.md) | Hoiu-laenuühistu juhatuse ja nõukogu liikmetele esitatavad nõuded |
 | **7. peatükk HOIU-LAENUÜHISTU TEGEVUSE KONTROLLIMINE** | |
 | [§ 37](para-037.md) | Hoiu-laenuühistu revisjonikomisjon |

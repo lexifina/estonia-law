@@ -1,21 +1,23 @@
 # § 6. Hoiu-laenuühistu tehingud
 
-(1) Hoiu-laenuühistu teostab järgmisi tehingud ja toimingud:
+(1) Hoiu-laenuühistu peamine ja püsiv tegevus on oma liikmetega järgmiste tehingute tegemine:
 
-1) raha hoiustamiseks vastuvõtmine oma liikmetelt;
+1) hoiustamistehingud hoiuste ja muude tagasimakstavate rahaliste vahendite kaasamiseks;
 
-2) laenude andmine oma liikmetele;
+2) laenutehingud, sealhulgas tarbijakrediit, hüpoteeklaenud ja faktooring;
 
-3) ülekannete ja väljamaksete sooritamine hoiu-laenuühistus peetavatelt hoiukontodelt;
+3) liisingutehingud;
 
-4) hoiukontodele tulevate sissemaksete ja ülekannete vastuvõtmine;
+4) Euroopa Komisjoni ja Euroopa Liidu Majanduspiirkonna lepinguriigi (edaspidi *lepinguriik*) asutatud sihtasutuste, struktuurifondide, makseagentuuride või teiste sarnaste isikute poolt pakutavate tagatiste, garantiide, toetuste ja sihtotstarbeliste tagasimakstavate rahaliste vahendite kaasamine ja nende vahendamine;
 
-5) välissularaha ost ja müük;
+5) krediidiasutuse, finantseerimisasutuse või kindlustusandja poolt pakutavate tagatiste, garantiide ja muude tagasimakstavate rahaliste vahendite kaasamine ja nende vahendamine;
 
-6) vahendusteenuste osutamine laenuressursi vahendamisel institutsionaalsete investorite kaasamiseks;
+6) nõustamine majandustegevust puudutavates küsimustes;
 
-7) varakappide ja seifide üürimine;
+7) muud tehingud, mis on sisult sarnased käesoleva lõike punktides 1–6 loetletud finantsteenustega.
 
-8) klientide nõustamine majandustegevust puudutavates küsimustes.
+(2) Kindlaksmääramata isikute ringile võib hoiu-laenuühistu osutada:
 
-(2) Käesoleva paragrahvi lõikes 1 sätestatu ei välista ega piira hoiu-laenuühistu poolt tehtud muude tehingute ja toimingute kehtivust.
+1) valuutavahetusteenuseid;
+
+2) rahasiiret ning teisi makseteenuseid vastavalt makseasutuste ja e-raha asutuste seaduses sätestatule.

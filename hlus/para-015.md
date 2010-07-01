@@ -4,4 +4,4 @@
 
 1) osakapitali suurus;
 
-2) [Kehtetu]
+2) [kehtetu]

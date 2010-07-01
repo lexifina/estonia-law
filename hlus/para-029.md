@@ -8,6 +8,6 @@
 
 (4) Laenukomitee liige peab olema hoiu-laenuühistu liige.
 
-(5) Laenukomitee liikmeks ei või olla hoiu-laenuühistu juhatuse esimees (juhataja), nõukogu ega revisjonikomisjoni liige ega audiitor. Põhikirjas võib näha ette muid isikuid, kes ei või olla laenukomitee liikmeks.
+(5) Laenukomitee liikmeks ei või olla nõukogu ega revisjonikomisjoni liige ega audiitor. Põhikirjas võib ette näha muid lisanõudeid laenukomitee liikmetele.
 
-(6) Laenukomitee liikmed valivad endi hulgast esimehe, kes korraldab laenukomitee tegevust.
+(6) Laenukomitee liikmed valivad enda hulgast esimehe, kes korraldab laenukomitee tegevust. Laenukomitee esimeheks ei tohi olla hoiu-laenuühistu juhatuse esimees.
