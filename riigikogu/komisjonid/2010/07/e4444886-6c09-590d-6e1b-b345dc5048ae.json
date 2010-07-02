@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-07-02T10:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 5.-6.juulil 2010 toimuval mitteametlikul EL tervishoiuministrite kohtumisel.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "61af4b95-d746-9fc6-6124-879ee54146c7"
+    },
+    {
+      "order": 2,
+      "title": " Eesti seisukohad 8.-9.juulil 2010 toimuval mitteametlikul EL töö- ja sotsiaalvaldkonna ministrite kohtumisel.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bba05a4c-5c39-69f1-2949-3f811d03056b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 02.07.2010",
+      "uuid": "3e78d383-72b4-3baf-8eb7-906e622e6013",
+      "files": [
+        "Euroopa Liidu asjade komisjon_paevakord_02_07_2010.odt",
+        "Euroopa Liidu asjade komisjon_istungi_protokoll_26_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "e4444886-6c09-590d-6e1b-b345dc5048ae",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e4444886-6c09-590d-6e1b-b345dc5048ae)",
+  "source": "https://api.riigikogu.ee/api/volumes/e4444886-6c09-590d-6e1b-b345dc5048ae",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-07-01&endDate=2010-07-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
