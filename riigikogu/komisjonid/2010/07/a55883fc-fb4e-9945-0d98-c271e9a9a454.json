@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-07-29T14:00:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Presidendi poolt väljakuulutamata jäetud monopolidele hinnapiirangute kehtestamise seaduse arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5590d271-f9c0-a58d-e6c6-4bf8815ab290"
+    },
+    {
+      "order": 2,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9e9a2260-089c-891a-d1bd-a3127234785a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 29.07.2010",
+      "uuid": "9ccc4632-3f40-ad31-1f2c-1ab25f3be7c6",
+      "files": [
+        "Põhiseaduskomisjon_istungi_protokoll_30_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "a55883fc-fb4e-9945-0d98-c271e9a9a454",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a55883fc-fb4e-9945-0d98-c271e9a9a454)",
+  "source": "https://api.riigikogu.ee/api/volumes/a55883fc-fb4e-9945-0d98-c271e9a9a454",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-07-01&endDate=2010-07-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
