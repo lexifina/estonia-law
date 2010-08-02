@@ -1,0 +1,34 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-08-02T12:20:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Olukorrast ja muutustest tööturul",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b462ae97-25fb-a95b-56ed-5f0602d470b7"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 02.08.2010",
+      "uuid": "a901a8e7-dc3d-155d-1b39-fa31afc9dc59",
+      "files": [
+        "Sotsiaalkomisjon_paevakord_02_08_2010.odt",
+        "Sotsiaalkomisjon_istungi_protokoll_31_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "4d485a62-a25e-9cf9-4a43-0f439eb68870",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 4d485a62-a25e-9cf9-4a43-0f439eb68870)",
+  "source": "https://api.riigikogu.ee/api/volumes/4d485a62-a25e-9cf9-4a43-0f439eb68870",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-08-01&endDate=2010-08-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
