@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-08-02T13:00:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Valmisolek euro kasutuselevõtuks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "52646865-6603-6ff1-315a-733eaa2162aa"
+    },
+    {
+      "order": 2,
+      "title": "Euroopa Keskpangast ja Eesti muutuvast rollist euroalaga liitumise järel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "47f5e3de-c5fd-8970-a603-f682c270d232"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 02.08.2010",
+      "uuid": "7e4ab59f-9073-8bf6-e3c9-d0e73a1f0ea6",
+      "files": [
+        "Rahanduskomisjon_istungi_protokoll_31_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "b17e2da7-2c34-096c-b6c6-f41ed5a2e31e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b17e2da7-2c34-096c-b6c6-f41ed5a2e31e)",
+  "source": "https://api.riigikogu.ee/api/volumes/b17e2da7-2c34-096c-b6c6-f41ed5a2e31e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-08-01&endDate=2010-08-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
