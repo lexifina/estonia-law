@@ -1,0 +1,34 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-08-02T11:00:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud söödaseaduse ja sellega seonduvate seaduste muutmise seaduse eelnõu (777 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "676df8f8-56e0-7917-f664-4c991c6a4163"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 02.08.2010",
+      "uuid": "ecd194fb-72e0-9da3-7d4d-c3c4d3497b49",
+      "files": [
+        "Maaelukomisjon_paevakord_02_08_2010.odt",
+        "Maaelukomisjon_istungi_protokoll_31_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "f53341c6-9d1b-addc-7e35-f5816547f13f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f53341c6-9d1b-addc-7e35-f5816547f13f)",
+  "source": "https://api.riigikogu.ee/api/volumes/f53341c6-9d1b-addc-7e35-f5816547f13f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-08-01&endDate=2010-08-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
