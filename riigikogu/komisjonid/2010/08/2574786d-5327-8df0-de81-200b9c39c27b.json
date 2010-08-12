@@ -1,0 +1,33 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-08-12T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väljasõiduistung Saaremaale",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "89cf25f3-53bd-0b24-4bcc-d98b0f9f4db2"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 12.08.2010",
+      "uuid": "dfc8519c-ced2-2e52-6ac8-9483e77a9898",
+      "files": [
+        "prot174 12-14.08.2010.doc"
+      ]
+    }
+  ],
+  "uuid": "2574786d-5327-8df0-de81-200b9c39c27b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2574786d-5327-8df0-de81-200b9c39c27b)",
+  "source": "https://api.riigikogu.ee/api/volumes/2574786d-5327-8df0-de81-200b9c39c27b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-08-01&endDate=2010-08-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
