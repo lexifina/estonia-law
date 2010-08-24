@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-08-24T11:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikohtule arvamuse andmine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "40160707-fa53-33b4-e2d9-93af174893d2"
+    },
+    {
+      "order": 2,
+      "title": "Riigikohtule arvamuse andmine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a23ccb22-e537-5a67-f007-4b47b69fb476"
+    },
+    {
+      "order": 3,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bfb7e143-567c-e31c-a8fb-1dbe273c7459"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 24.08.2010",
+      "uuid": "83a55839-1728-fe41-58e9-f44d29a682b7",
+      "files": [
+        "Põhiseaduskomisjon_istungi_protokoll_34_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "2112f60a-5db5-c191-791e-03605bfa0042",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2112f60a-5db5-c191-791e-03605bfa0042)",
+  "source": "https://api.riigikogu.ee/api/volumes/2112f60a-5db5-c191-791e-03605bfa0042",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-08-01&endDate=2010-08-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
