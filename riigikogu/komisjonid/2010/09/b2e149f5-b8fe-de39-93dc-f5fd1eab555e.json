@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-09-03T14:00:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Parlamentaarne kuulamine: Riigikontrolli ettevõtlustoetuste audit  ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e70acea7-2bf0-a29e-f7d3-7ca1c2167f3f"
+    },
+    {
+      "order": 2,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "05fca8d9-742b-06bd-8b03-8ad29bc5b840"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 03.09.2010",
+      "uuid": "c31020a7-aaf2-4110-89d6-6757980bac87",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_35_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "b2e149f5-b8fe-de39-93dc-f5fd1eab555e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b2e149f5-b8fe-de39-93dc-f5fd1eab555e)",
+  "source": "https://api.riigikogu.ee/api/volumes/b2e149f5-b8fe-de39-93dc-f5fd1eab555e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-09-01&endDate=2010-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
