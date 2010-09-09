@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-09-09T15:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 10.-11. septembril 2010 toimuval Euroopa Liidu välisministrite mitteametlikul (Gymnich) kohtumisel.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5c5301c6-b581-6c03-141f-e4a91886c1fe"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad 13. septembril 2010 toimuval üldasjade nõukogu istungil.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9249d2f4-d01c-ec1e-b871-17403a0ec6b2"
+    },
+    {
+      "order": 3,
+      "title": "USA poolt kehtestatav sissesõiduloa maks.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b0fa8b1f-6712-0f67-1e5c-cd823473a770"
+    },
+    {
+      "order": 4,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1657297c-5b41-9bd6-a401-00025f67729b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 09.09.2010",
+      "uuid": "947fd3e1-2f39-bfd4-e42c-b296188886a5",
+      "files": [
+        "Väliskomisjon_istungi_protokoll_36_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "d0122f6d-71c8-44ff-9e62-5a1ebb4b06f1",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d0122f6d-71c8-44ff-9e62-5a1ebb4b06f1)",
+  "source": "https://api.riigikogu.ee/api/volumes/d0122f6d-71c8-44ff-9e62-5a1ebb4b06f1",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-09-01&endDate=2010-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
