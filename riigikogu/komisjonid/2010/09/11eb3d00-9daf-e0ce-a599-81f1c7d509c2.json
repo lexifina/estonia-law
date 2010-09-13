@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-09-13T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikaitsekomisjoni töönädala päevakorra kinnitamine ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dc37529e-eb78-0f8c-5382-3565acf37a25"
+    },
+    {
+      "order": 2,
+      "title": "Anne Jaama 15.08.2010 e-kiri",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f0f9e6d6-2e93-9171-ddf4-a2f254e5be0e"
+    },
+    {
+      "order": 3,
+      "title": "Välislähetused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5604fae0-bc3c-3334-2d31-9ccfc15ccfbc"
+    },
+    {
+      "order": 4,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dcb60923-315c-fa25-4fe2-15ec84125100"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 13.09.2010",
+      "uuid": "bb74bea1-0c55-8ba0-812d-3fe905029cf8",
+      "files": [
+        "13.09.10 avalik.doc"
+      ]
+    }
+  ],
+  "uuid": "11eb3d00-9daf-e0ce-a599-81f1c7d509c2",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 11eb3d00-9daf-e0ce-a599-81f1c7d509c2)",
+  "source": "https://api.riigikogu.ee/api/volumes/11eb3d00-9daf-e0ce-a599-81f1c7d509c2",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-09-01&endDate=2010-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
