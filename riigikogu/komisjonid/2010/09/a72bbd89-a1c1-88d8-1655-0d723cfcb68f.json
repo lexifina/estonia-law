@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-09-13T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud meditsiiniseadme seaduse muutmise seaduse eelnõu (791 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4e98ba2d-d30e-ca94-fb4b-734925669167"
+    },
+    {
+      "order": 2,
+      "title": "Raport pikapäevarühma ja kooli riikliku õppekava väliste või sellega seotud tegevuste korraldusest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c2ef5a11-dfd2-dc7e-69df-b5a6bb133468"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 13.09.2010",
+      "uuid": "a11c911a-6eb5-3d83-dba7-b0ced50beaa1",
+      "files": [
+        "Sotsiaalkomisjon_istungi_protokoll_37_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "a72bbd89-a1c1-88d8-1655-0d723cfcb68f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a72bbd89-a1c1-88d8-1655-0d723cfcb68f)",
+  "source": "https://api.riigikogu.ee/api/volumes/a72bbd89-a1c1-88d8-1655-0d723cfcb68f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-09-01&endDate=2010-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
