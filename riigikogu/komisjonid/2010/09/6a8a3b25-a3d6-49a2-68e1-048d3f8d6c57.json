@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-09-13T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f80b945b-7bf8-b6f8-c3d8-f0addb83d992"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud söödaseaduse ja sellega seonduvate seaduste muutmise seaduse eelnõu (777 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9ef1b890-2eff-3d35-d8f5-60aa687edc34"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 13.09.2010",
+      "uuid": "5e61a1c8-eed6-e25f-427a-248f1ce13be1",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_37_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "6a8a3b25-a3d6-49a2-68e1-048d3f8d6c57",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 6a8a3b25-a3d6-49a2-68e1-048d3f8d6c57)",
+  "source": "https://api.riigikogu.ee/api/volumes/6a8a3b25-a3d6-49a2-68e1-048d3f8d6c57",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-09-01&endDate=2010-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
