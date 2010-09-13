@@ -1,0 +1,33 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-09-13T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Majanduskomisjoni avaistung",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1dfbd80f-5c92-849c-e505-857975d6a1d5"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 13.09.2010",
+      "uuid": "f3917a78-4771-479a-e43c-d023f145ad05",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_37_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "2c6cbeb9-bdec-9be8-faf4-78754b8f3e22",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2c6cbeb9-bdec-9be8-faf4-78754b8f3e22)",
+  "source": "https://api.riigikogu.ee/api/volumes/2c6cbeb9-bdec-9be8-faf4-78754b8f3e22",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-09-01&endDate=2010-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
