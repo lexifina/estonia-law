@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-09-13T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5ec14e4b-0bfb-190c-5aef-0bfd4053ccf1"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine haridus- ja teadusministri Tõnis Lukasega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1c89c1f1-36a7-7bdc-ed49-b1f472d8cee8"
+    },
+    {
+      "order": 3,
+      "title": "Vabariigi Valitsuse algatatud ülikooliseaduse ja sellega seonduvate seaduste muutmise seaduse eelnõu (784 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ddf0135a-fca6-37a5-addb-1142543e208f"
+    },
+    {
+      "order": 4,
+      "title": "Info ja kirjad",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d8de5014-718e-4eff-8174-2a239967a106"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 13.09.2010",
+      "uuid": "8c124aaa-051d-57b8-3175-84bbbd0e86f7",
+      "files": [
+        "Kultuurikomisjon_istungi_protokoll_37_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "995bda09-2c26-7990-e3d6-17163ecb3cb2",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 995bda09-2c26-7990-e3d6-17163ecb3cb2)",
+  "source": "https://api.riigikogu.ee/api/volumes/995bda09-2c26-7990-e3d6-17163ecb3cb2",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-09-01&endDate=2010-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
