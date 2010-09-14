@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-09-14T10:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Raport pikapäevarühma ja kooli riikliku õppekava väliste või sellega seotud tegevuste korraldusest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cf9c536b-e497-87cc-331c-9980f1e96d17"
+    },
+    {
+      "order": 2,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "86b65926-2dcd-8222-4fbe-7d5c3c1137e8"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 14.09.2010",
+      "uuid": "9a6cacd8-c63a-018d-94e2-0c5004c7a1ca",
+      "files": [
+        "Kultuurikomisjon_istungi_protokoll_37_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "03119010-a6d2-2ec8-3713-85d4921042f7",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 03119010-a6d2-2ec8-3713-85d4921042f7)",
+  "source": "https://api.riigikogu.ee/api/volumes/03119010-a6d2-2ec8-3713-85d4921042f7",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-09-01&endDate=2010-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
