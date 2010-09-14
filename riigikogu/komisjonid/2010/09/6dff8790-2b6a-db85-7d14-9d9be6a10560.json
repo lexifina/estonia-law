@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-09-14T10:20:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud äriseadustiku muutmise seaduse eelnõu (733 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "799ebcff-7f9a-e806-888e-fbbc34d34420"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud võlaõigusseaduse ja teiste seaduste muutmise seaduse eelnõu (761 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2f6354d1-d172-9bc0-8ebf-4eaf63efc778"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 14.09.2010",
+      "uuid": "1a92bf18-46c7-32d3-693f-052cf924b5e1",
+      "files": [
+        "iguskomisjon_istungi_protokoll_37_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "6dff8790-2b6a-db85-7d14-9d9be6a10560",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 6dff8790-2b6a-db85-7d14-9d9be6a10560)",
+  "source": "https://api.riigikogu.ee/api/volumes/6dff8790-2b6a-db85-7d14-9d9be6a10560",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-09-01&endDate=2010-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
