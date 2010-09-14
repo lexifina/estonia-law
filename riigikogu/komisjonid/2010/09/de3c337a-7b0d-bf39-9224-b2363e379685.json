@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-09-14T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riiklikult tähtsa küsimuse arutelu ettevalmistamine riigi ja kohalike omavalitsuste partnerlusest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "af4d38f7-8ff6-f97e-da87-6aa155a8a354"
+    },
+    {
+      "order": 2,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e4b0e881-b24d-5483-653a-39430df0b07b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 14.09.2010",
+      "uuid": "1b7ca88b-8df0-e3eb-f909-095536cda501",
+      "files": [
+        "Põhiseaduskomisjon_istungi_protokoll_37_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "de3c337a-7b0d-bf39-9224-b2363e379685",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid de3c337a-7b0d-bf39-9224-b2363e379685)",
+  "source": "https://api.riigikogu.ee/api/volumes/de3c337a-7b0d-bf39-9224-b2363e379685",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-09-01&endDate=2010-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
