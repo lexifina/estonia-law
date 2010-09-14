@@ -1,0 +1,33 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-09-14T10:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Komisjoni sügisistungjärgu tööplaani arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "43a8156a-5db7-f9f7-34a4-b4e6355140fb"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 14.09.2010",
+      "uuid": "c2420d56-e535-4593-acc6-6ed246215a73",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_37_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "08926ce1-b4f0-d832-9042-1e1569f1d4d1",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 08926ce1-b4f0-d832-9042-1e1569f1d4d1)",
+  "source": "https://api.riigikogu.ee/api/volumes/08926ce1-b4f0-d832-9042-1e1569f1d4d1",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-09-01&endDate=2010-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
