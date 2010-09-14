@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-09-14T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti  Arengufondi tegevuse aruanne.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8916ba5b-1fcd-7e8d-13a2-2bea834ca9dc"
+    },
+    {
+      "order": 2,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2576bffa-2c97-01d6-16c7-5342b45dc16f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 14.09.2010",
+      "uuid": "4b833e5b-9997-45ab-61a2-09ef4726a6d6",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_37_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "d7363258-ee51-69c5-d5c4-aca7b240d3da",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d7363258-ee51-69c5-d5c4-aca7b240d3da)",
+  "source": "https://api.riigikogu.ee/api/volumes/d7363258-ee51-69c5-d5c4-aca7b240d3da",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-09-01&endDate=2010-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
