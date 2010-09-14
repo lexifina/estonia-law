@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-09-14T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Informatsioon Eesti kaitseväe üksuste osalemisest rahvusvahelistel missioonidel, sh Afganistanis, Iraagis (NTM), Kosovos ning Bosnias ja Hertsegoviinas.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bfa5dd75-d8ef-500c-bcaf-9e576a29c34e"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dedfecb9-461f-7d8c-3f74-27ec7e232c64"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 14.09.2010",
+      "uuid": "bc5b55fb-ad18-97b5-1b17-bf056e45190f",
+      "files": [
+        "14.09.10 (272) protokoll.doc"
+      ]
+    }
+  ],
+  "uuid": "a9468f56-5b0f-9bb6-64c5-ff17c6f9324a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a9468f56-5b0f-9bb6-64c5-ff17c6f9324a)",
+  "source": "https://api.riigikogu.ee/api/volumes/a9468f56-5b0f-9bb6-64c5-ff17c6f9324a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-09-01&endDate=2010-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
