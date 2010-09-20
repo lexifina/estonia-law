@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-09-20T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d1981207-c1f1-7b3c-6b3a-9484867acae0"
+    },
+    {
+      "order": 2,
+      "title": "Info ja kirjad",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e4d93bce-f009-01f4-64b9-d1a65928220b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 20.09.2010",
+      "uuid": "696c768d-9bd8-9921-324b-a8674ac47259",
+      "files": [
+        "Kultuurikomisjon_istungi_protokoll_38_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "3c1ef2c6-5a55-63aa-98ff-3d7ca02229fe",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3c1ef2c6-5a55-63aa-98ff-3d7ca02229fe)",
+  "source": "https://api.riigikogu.ee/api/volumes/3c1ef2c6-5a55-63aa-98ff-3d7ca02229fe",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-09-01&endDate=2010-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
