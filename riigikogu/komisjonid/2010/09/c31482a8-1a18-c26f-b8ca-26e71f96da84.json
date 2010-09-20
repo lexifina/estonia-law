@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-09-20T12:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikontrolli auditiaruande „Riigi ettevõtlustoetuste mõju Eesti majanduse konkurentsivõimele “ arutelu;",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9d5afe27-0123-7d89-1fbc-5c31bdfdfb99"
+    },
+    {
+      "order": 2,
+      "title": "Laekunud Riigikontrolli aruandest;",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dcb41f3a-c572-cbe9-052d-8f216511df93"
+    },
+    {
+      "order": 3,
+      "title": "Informatsioon.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "eda3f7d4-df44-3b27-b514-356406b2e960"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 20.09.2010",
+      "uuid": "0b95a64c-018e-cb8a-d7cd-35a619e8d478",
+      "files": [
+        "Riigieelarve kontrolli erikomisjon_paevakord_20_09_2010.odt",
+        "protokoll 107 20 09 2010.doc"
+      ]
+    }
+  ],
+  "uuid": "c31482a8-1a18-c26f-b8ca-26e71f96da84",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c31482a8-1a18-c26f-b8ca-26e71f96da84)",
+  "source": "https://api.riigikogu.ee/api/volumes/c31482a8-1a18-c26f-b8ca-26e71f96da84",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-09-01&endDate=2010-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
