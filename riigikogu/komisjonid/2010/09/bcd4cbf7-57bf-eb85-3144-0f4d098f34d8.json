@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-09-20T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikaitsekomisjoni töönädala päevakorra kinnitamine ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "508b5530-d5a1-02f4-64f8-45de4734d80a"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse esitatud Riigikogu otsuse \"Kaitseväe kasutamine Eesti riigi rahvusvaheliste kohustuste täitmisel Euroopa Liidu piraatlusevastase operatsiooni Atalanta ning NATO mereoperatsiooni Active Endeavour koosseisus\" eelnõu (815 OE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4ca3950c-3396-9e28-727c-c6389270e572"
+    },
+    {
+      "order": 3,
+      "title": "Vabariigi Valitsuse algatatud rahuaja riigikaitse seaduse ja kaitseväe korralduse seaduse muutmise seaduse eelnõu (805 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f5136d27-09f1-0904-d0e9-c420b20fc339"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 20.09.2010",
+      "uuid": "fc57efdb-bdeb-6a05-4cc1-a0b71976cb46",
+      "files": [
+        "20.09.10.doc"
+      ]
+    }
+  ],
+  "uuid": "bcd4cbf7-57bf-eb85-3144-0f4d098f34d8",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid bcd4cbf7-57bf-eb85-3144-0f4d098f34d8)",
+  "source": "https://api.riigikogu.ee/api/volumes/bcd4cbf7-57bf-eb85-3144-0f4d098f34d8",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-09-01&endDate=2010-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
