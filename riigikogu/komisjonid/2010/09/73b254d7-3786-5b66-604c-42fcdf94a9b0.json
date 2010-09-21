@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-09-21T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikogu liige Kalev Kotkas, Riigikogu liige Eiki Nestor algatatud avaliku teenistuse seaduse § 108 täiendamise seaduse eelnõu (765 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e1fc2207-a946-d3b6-323d-ca90b89cf8b4"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud riigisaladuse ja salastatud välisteabe seaduse ja teiste seaduste muutmise seaduse eelnõu (764 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0eb449b1-8626-cb1d-2a41-b5713026d1e7"
+    },
+    {
+      "order": 3,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4c4e155c-7f71-351d-0f6f-ac154a84473c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 21.09.2010",
+      "uuid": "0a8cbb76-7d93-f868-21f8-05096e82bf2e",
+      "files": [
+        "Põhiseaduskomisjon_istungi_protokoll_38_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "73b254d7-3786-5b66-604c-42fcdf94a9b0",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 73b254d7-3786-5b66-604c-42fcdf94a9b0)",
+  "source": "https://api.riigikogu.ee/api/volumes/73b254d7-3786-5b66-604c-42fcdf94a9b0",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-09-01&endDate=2010-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
