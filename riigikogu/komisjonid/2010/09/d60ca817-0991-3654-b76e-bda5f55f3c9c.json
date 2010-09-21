@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-09-21T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud raudteeseaduse muutmise seaduse eelnõu (800 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f783de58-fc5f-1f9f-ce1c-e2bbc0aaead6"
+    },
+    {
+      "order": 2,
+      "title": "Sotsiaaldemokraatliku Erakonna fraktsiooni algatatud vanemahüvitise seaduse muutmise seaduse eelnõu (769 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c6fc24b7-6556-ca86-5e52-145879ea70a9"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 21.09.2010",
+      "uuid": "480e6883-cad7-1c21-be72-358e2f5a6454",
+      "files": [
+        "Sotsiaalkomisjon_paevakord_21_09_2010.odt",
+        "Sotsiaalkomisjon_istungi_protokoll_38_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "d60ca817-0991-3654-b76e-bda5f55f3c9c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d60ca817-0991-3654-b76e-bda5f55f3c9c)",
+  "source": "https://api.riigikogu.ee/api/volumes/d60ca817-0991-3654-b76e-bda5f55f3c9c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-09-01&endDate=2010-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
