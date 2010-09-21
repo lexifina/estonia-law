@@ -1,0 +1,33 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-09-21T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikontrolli auditi „Riigimetsa majandamise jätkusuutlikkus“ kontrollaruanne",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "18fc0674-6715-5ec3-9aff-35eac8071c8b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 21.09.2010",
+      "uuid": "03cd554f-aabb-8968-4bf1-632ee64d9b89",
+      "files": [
+        "prot177 21.09.10.doc"
+      ]
+    }
+  ],
+  "uuid": "fa9009cc-3d97-7d64-6d45-1a998f4ddb2c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid fa9009cc-3d97-7d64-6d45-1a998f4ddb2c)",
+  "source": "https://api.riigikogu.ee/api/volumes/fa9009cc-3d97-7d64-6d45-1a998f4ddb2c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-09-01&endDate=2010-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
