@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-09-21T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud võlaõigusseaduse ja teiste seaduste muutmise seaduse eelnõu (761 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e8cb678c-277a-208d-40ed-356f312048f6"
+    },
+    {
+      "order": 2,
+      "title": "Õiguskantsleri ettepanek nr. 11. Avalikes huvides vajalike tehnovõrkude ja rajatiste talumiskohustuse ja talumiskohustuse eest makstava tasu põhiseaduspärasuse kohta.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a3e2a71d-d6ff-c985-9a45-f3c2a660efd2"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 21.09.2010",
+      "uuid": "5db255ad-bd69-8853-bc37-3c929d5532e7",
+      "files": [
+        "iguskomisjon_istungi_protokoll_38_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "9aaf67ef-9286-d91c-d9a4-af955779ab53",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9aaf67ef-9286-d91c-d9a4-af955779ab53)",
+  "source": "https://api.riigikogu.ee/api/volumes/9aaf67ef-9286-d91c-d9a4-af955779ab53",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-09-01&endDate=2010-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
