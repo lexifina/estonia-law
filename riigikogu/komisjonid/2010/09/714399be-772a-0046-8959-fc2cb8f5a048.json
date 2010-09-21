@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-09-21T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Läänemaa esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c34aeef4-70b6-43e0-6c98-f1d4f67b2929"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud 2010. aasta riigieelarve seaduse muutmise seaduse eelnõu (812 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e45c9113-a93c-5d0b-31db-9299b98b3615"
+    },
+    {
+      "order": 3,
+      "title": "Vabariigi Valitsuse algatatud maksukorralduse seaduse muutmise seaduse eelnõu (802 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7114bce9-43e1-3236-d5e8-482b01972e81"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 21.09.2010",
+      "uuid": "2b313a3f-7de5-a76c-a9b5-e9ee7ff8097e",
+      "files": [
+        "Rahanduskomisjon_istungi_protokoll_38_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "714399be-772a-0046-8959-fc2cb8f5a048",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 714399be-772a-0046-8959-fc2cb8f5a048)",
+  "source": "https://api.riigikogu.ee/api/volumes/714399be-772a-0046-8959-fc2cb8f5a048",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-09-01&endDate=2010-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
