@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-09-21T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "LEADER foorum Valges saalis",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6a3ea378-5cce-1a9f-d8fa-25207ac9ae8d"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsus, EUROOPA PARLAMENDI JA NÕUKOGU MÄÄRUS millega muudetakse direktiivi 2001/18/EÜ seoses liikmesriikidega võimalusega piirata või keelata oma territooriumil GMOde kasvatamist (2.1-11/2)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "040c2f7a-b9f1-73d2-82b1-379b31bacd04"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 21.09.2010",
+      "uuid": "68324179-f331-c48e-5e7a-b9c87687beee",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_38_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "db7fc2ea-04bb-8f35-a7c1-7be10a5ab50b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid db7fc2ea-04bb-8f35-a7c1-7be10a5ab50b)",
+  "source": "https://api.riigikogu.ee/api/volumes/db7fc2ea-04bb-8f35-a7c1-7be10a5ab50b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-09-01&endDate=2010-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
