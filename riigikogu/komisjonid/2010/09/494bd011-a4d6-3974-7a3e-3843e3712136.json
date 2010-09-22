@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-09-22T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Informatsioon",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fa1beb01-e000-6253-4720-0861738302e1"
+    },
+    {
+      "order": 2,
+      "title": "1 Laekunud Riigikontrolli aruannetest ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "83e32515-5498-4304-308f-710cd5b45848"
+    },
+    {
+      "order": 3,
+      "title": "2 Raporti koostamise arutelu ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3d3a5858-165d-c43f-1609-f25e705c016b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 22.09.2010",
+      "uuid": "86b329e4-cd0d-478e-abdc-990433ad1d39",
+      "files": [
+        "protokoll 108 22 09 2010.doc",
+        "Riigieelarve kontrolli erikomisjon_paevakord_22_09_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "494bd011-a4d6-3974-7a3e-3843e3712136",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 494bd011-a4d6-3974-7a3e-3843e3712136)",
+  "source": "https://api.riigikogu.ee/api/volumes/494bd011-a4d6-3974-7a3e-3843e3712136",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-09-01&endDate=2010-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
