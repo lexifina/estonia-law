@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-09-27T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Sotsiaaldemokraatliku Erakonna fraktsiooni algatatud planeerimisseaduse muutmise seaduse eelnõu (778 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "08720e6f-94aa-e2c1-f69a-2469e66db658"
+    },
+    {
+      "order": 2,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d0aabb86-611f-d9ee-bc90-796aadbf25f9"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 27.09.2010",
+      "uuid": "5d401529-3193-6f0c-0e91-ad46bb23f93c",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_39_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "e3fdd3b9-e7b7-9ec9-4ab7-4ed33d1acb38",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e3fdd3b9-e7b7-9ec9-4ab7-4ed33d1acb38)",
+  "source": "https://api.riigikogu.ee/api/volumes/e3fdd3b9-e7b7-9ec9-4ab7-4ed33d1acb38",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-09-01&endDate=2010-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
