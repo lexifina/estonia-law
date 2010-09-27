@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-09-27T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade Rahandusministeeriumi 2010. aasta suvisest majandusprognoosist ning ülevaade valmisolekust euro kasutusele võtmiseks;",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5fa3fb56-f8f6-8c45-529a-dbcf1f9613bc"
+    },
+    {
+      "order": 2,
+      "title": "Informatsioon.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f88ba0e2-f690-b032-dd52-7b94415ec88e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 27.09.2010",
+      "uuid": "7d0a8182-4cff-cbe6-1494-250dcdad6cea",
+      "files": [
+        "protokoll 109 27 09 2010.doc",
+        "Riigieelarve kontrolli erikomisjon_paevakord_27_09_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "c097a28b-e89b-cbc9-863f-c7a585cc1876",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c097a28b-e89b-cbc9-863f-c7a585cc1876)",
+  "source": "https://api.riigikogu.ee/api/volumes/c097a28b-e89b-cbc9-863f-c7a585cc1876",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-09-01&endDate=2010-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
