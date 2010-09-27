@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-09-27T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "db1bdbd7-cad8-be1c-121c-9bfdb7a157c4"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli aruanne \"Täiskasvanute täiendus- ja ümberõpe\"",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c7592859-247f-e117-a7f8-a3a3acbc3548"
+    },
+    {
+      "order": 3,
+      "title": "Info ja kirjad",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bd4a1b7f-eebb-f788-f766-5ed40880b215"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 27.09.2010",
+      "uuid": "4f03e71f-f31e-6c22-9e5e-58df3b6c68fa",
+      "files": [
+        "Kultuurikomisjon_istungi_protokoll_39_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "377e6879-f37b-95bc-7997-7dc27885e768",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 377e6879-f37b-95bc-7997-7dc27885e768)",
+  "source": "https://api.riigikogu.ee/api/volumes/377e6879-f37b-95bc-7997-7dc27885e768",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-09-01&endDate=2010-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
