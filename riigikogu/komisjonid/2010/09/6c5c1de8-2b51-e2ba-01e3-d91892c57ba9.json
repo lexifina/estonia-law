@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-09-28T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Arutelu poliitilistest ja majanduslikest arengutest Lätis. ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f1ac88a4-be60-925b-e37e-00a574e99498"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine Teabeameti peadirektori Tarmo Türksoniga.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c9a66d6e-547e-983e-198f-1d56bb7f3acc"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e00ff6a1-b44f-e116-29ab-fa7fad121a6f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 28.09.2010",
+      "uuid": "0189bf79-e019-8f4f-d183-3f23bbe1ab3c",
+      "files": [
+        "28.09.10 (276) protokoll.doc"
+      ]
+    }
+  ],
+  "uuid": "6c5c1de8-2b51-e2ba-01e3-d91892c57ba9",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 6c5c1de8-2b51-e2ba-01e3-d91892c57ba9)",
+  "source": "https://api.riigikogu.ee/api/volumes/6c5c1de8-2b51-e2ba-01e3-d91892c57ba9",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-09-01&endDate=2010-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
