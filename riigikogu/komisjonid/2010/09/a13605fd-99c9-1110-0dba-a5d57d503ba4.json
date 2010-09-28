@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-09-28T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud abipolitseiniku seaduse eelnõu (633 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a52685c2-fe10-8f6b-d345-27816498843d"
+    },
+    {
+      "order": 2,
+      "title": "Komisjoni aseesimehe Kalle Laaneti lähetamine Eesti õigusteadlaste päevadele",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "95301226-9f99-440e-be59-d9e540d3786c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 28.09.2010",
+      "uuid": "035325bd-61a5-110b-1003-7bb3e8dd2199",
+      "files": [
+        "iguskomisjon_istungi_protokoll_39_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "a13605fd-99c9-1110-0dba-a5d57d503ba4",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a13605fd-99c9-1110-0dba-a5d57d503ba4)",
+  "source": "https://api.riigikogu.ee/api/volumes/a13605fd-99c9-1110-0dba-a5d57d503ba4",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-09-01&endDate=2010-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
