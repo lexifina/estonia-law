@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-09-28T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Keskkonnaministeeriumi ülevaade õigusloome plaanist oktoober 2010 - märts 2011",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9810580b-3680-0ce7-b76b-03c5bc56eb38"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud kalapüügiseaduse muutmise seaduse eelnõu (724 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8115e36d-ce67-33af-a718-3f3224ca9f82"
+    },
+    {
+      "order": 3,
+      "title": "Vabariigi Valitsuse algatatud kalapüügiseaduse muutmise seaduse eelnõu (798 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c36986d0-faa2-5d5d-f678-c0949e900e75"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 28.09.2010",
+      "uuid": "c3e87bb3-92ef-bc07-c6e8-8006b26b13e3",
+      "files": [
+        "prot179 28.09.10.doc"
+      ]
+    }
+  ],
+  "uuid": "a1e654b9-62e9-7ca0-22da-7e487840e835",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a1e654b9-62e9-7ca0-22da-7e487840e835)",
+  "source": "https://api.riigikogu.ee/api/volumes/a1e654b9-62e9-7ca0-22da-7e487840e835",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-09-01&endDate=2010-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
