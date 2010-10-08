@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-10-08T10:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 11.-12.  oktoobril 2010 toimuval Euroopa Liidu konkurentsivõime nõukogu istungil.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8bc4ab56-6751-3a41-9421-36cf510ceb31"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad 15. oktoobril 2010 toimuval Euroopa Liidu transpordi, telekommunikatsiooni ja energeetika nõukogu istungil.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "410cd839-34cc-8105-a102-075f8e59f896"
+    },
+    {
+      "order": 3,
+      "title": "Seisukoha andmine: Euroopa Parlamendi ja nõukogu direktiivi eelnõu, milles käsitletakse õigust saada kriminaalmenetluses teavet (COM(2010)392).",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "86efbba1-68b5-5b55-0fa6-3133981fb0b9"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 08.10.2010",
+      "uuid": "3b62c74a-9dae-147b-8ae1-c3bf30362efd",
+      "files": [
+        "Euroopa Liidu asjade komisjon_istungi_protokoll_40_2010.odt",
+        "Euroopa Liidu asjade komisjon_paevakord_08_10_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "66be6f18-1d6e-3ece-1347-195c95e55459",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 66be6f18-1d6e-3ece-1347-195c95e55459)",
+  "source": "https://api.riigikogu.ee/api/volumes/66be6f18-1d6e-3ece-1347-195c95e55459",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-10-01&endDate=2010-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
