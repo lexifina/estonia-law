@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-10-11T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Keskkonnakomisjoni töökava (11.10.10 - 17.10.10) kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ba6583f2-2b02-479d-37c4-e2c15049056a"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud keskkonnatasude seaduse ja euro kasutusele võtmise seaduse muutmise seaduse eelnõu (809 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "99ae0655-14a8-12fe-76dc-da9ddf1e8927"
+    },
+    {
+      "order": 3,
+      "title": "Vabariigi Valitsuse algatatud keskkonnamõju hindamise ja keskkonnajuhtimissüsteemi seaduse muutmise seaduse eelnõu (750 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "891912e1-8e5b-6bbd-2e90-5faf2481aa04"
+    },
+    {
+      "order": 4,
+      "title": "Organisatsioonilised küsimused ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "55066aee-8732-a832-d645-aca4bd598989"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 11.10.2010",
+      "uuid": "481b29a8-feec-9341-79ae-5bfeb558fba8",
+      "files": [
+        "prot181 11.10.10.doc"
+      ]
+    }
+  ],
+  "uuid": "accb3488-5564-6f9e-8738-60cddab73b7b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid accb3488-5564-6f9e-8738-60cddab73b7b)",
+  "source": "https://api.riigikogu.ee/api/volumes/accb3488-5564-6f9e-8738-60cddab73b7b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-10-01&endDate=2010-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
