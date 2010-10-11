@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-10-11T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikontrolli auditiaruande „Täiskasvanute täiendus- ja ümberõpe” arutelu;",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "632d56f1-24b4-cc92-9dec-9f627c544e28"
+    },
+    {
+      "order": 2,
+      "title": "Informatsioon; ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "62b57c01-c8c1-5983-f1da-aa82e7add1ca"
+    },
+    {
+      "order": 3,
+      "title": "Laekunud Riigikontrolli aruandest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "13a30144-3f57-33b2-372e-0eb9af2a449c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 11.10.2010",
+      "uuid": "acf90cad-76a7-bdbd-2768-d8d5360ea373",
+      "files": [
+        "protokoll 110 11 10 2010.doc"
+      ]
+    }
+  ],
+  "uuid": "6f017978-9bb8-bc9f-78c4-2002df5cfed9",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 6f017978-9bb8-bc9f-78c4-2002df5cfed9)",
+  "source": "https://api.riigikogu.ee/api/volumes/6f017978-9bb8-bc9f-78c4-2002df5cfed9",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-10-01&endDate=2010-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
