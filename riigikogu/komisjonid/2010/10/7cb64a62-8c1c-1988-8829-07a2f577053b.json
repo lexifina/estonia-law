@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-10-11T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c6ae957e-8b47-b41e-ac1e-29f9e0c97704"
+    },
+    {
+      "order": 2,
+      "title": "Maatulundusmaa sihtotstarbega kinnisasja võõrandamine riigivaraseaduse kohaselt",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3d918a98-f4fd-b9cc-5b8c-40a65ce55f65"
+    },
+    {
+      "order": 3,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6129e55b-e3e2-cbc1-fb7d-77f69159544d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 11.10.2010",
+      "uuid": "a94db130-b64f-d0fe-1cd3-5a7fa217005b",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_41_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "7cb64a62-8c1c-1988-8829-07a2f577053b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7cb64a62-8c1c-1988-8829-07a2f577053b)",
+  "source": "https://api.riigikogu.ee/api/volumes/7cb64a62-8c1c-1988-8829-07a2f577053b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-10-01&endDate=2010-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
