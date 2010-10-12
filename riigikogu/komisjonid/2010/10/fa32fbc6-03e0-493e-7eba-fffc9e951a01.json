@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-10-12T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud konsulaarseaduse ja teiste seaduste muutmise seaduse eelnõu (824 SE) ettevalmistamine esimeseks lugemiseks.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "405a0a2c-f410-e2d5-4ee4-7f308dde09c9"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade arengutest Afganistanis.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0d9ceb24-abab-a1bc-1988-ca5457f5ed4b"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "61a5da55-5003-f137-5b7d-78b95557404f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 12.10.2010",
+      "uuid": "9db5ba3b-3442-8e50-618e-13f7335d1d53",
+      "files": [
+        "12.10.10 (278) protokoll.doc"
+      ]
+    }
+  ],
+  "uuid": "fa32fbc6-03e0-493e-7eba-fffc9e951a01",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid fa32fbc6-03e0-493e-7eba-fffc9e951a01)",
+  "source": "https://api.riigikogu.ee/api/volumes/fa32fbc6-03e0-493e-7eba-fffc9e951a01",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-10-01&endDate=2010-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
