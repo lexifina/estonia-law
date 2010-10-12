@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-10-12T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud tööturuteenuste ja -toetuste seaduse ning töötuskindlustuse seaduse muutmise seaduse eelnõu (823 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "73908545-6547-f7d4-4942-9b2abc892a17"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud 2011. aasta riigieelarve seaduse eelnõu (822 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a7077f44-1dbe-408b-6cf4-d8e80cdf104b"
+    },
+    {
+      "order": 3,
+      "title": "Riigikogu otsuse Tagatisfondi nõukogu liikmete nimetamine algatamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1a578d30-066e-4b4d-abdd-70f5b7e95ec9"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 12.10.2010",
+      "uuid": "010ea5af-9835-d6ed-d16d-798218ecba39",
+      "files": [
+        "Rahanduskomisjon_istungi_protokoll_41_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "717b193c-1579-a215-93c4-db327467a69c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 717b193c-1579-a215-93c4-db327467a69c)",
+  "source": "https://api.riigikogu.ee/api/volumes/717b193c-1579-a215-93c4-db327467a69c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-10-01&endDate=2010-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
