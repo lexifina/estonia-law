@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-10-14T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Rahanduskomisjoni algatatud alkoholi-, tubaka-, kütuse- ja elektriaktsiisi seaduse ning tubakaseaduse muutmise seaduse eelnõu (779 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6bc972bf-1851-8958-68d5-e7c945d983dc"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine Harju maakonna esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8b101347-b8b9-5495-3cbc-eeac3588ee71"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 14.10.2010",
+      "uuid": "3f6306fb-cc12-b9ba-b83c-959c371b9711",
+      "files": [
+        "Rahanduskomisjon_istungi_protokoll_41_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "4c0928a0-9a6a-d070-9253-abf6de7e80af",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 4c0928a0-9a6a-d070-9253-abf6de7e80af)",
+  "source": "https://api.riigikogu.ee/api/volumes/4c0928a0-9a6a-d070-9253-abf6de7e80af",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-10-01&endDate=2010-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
