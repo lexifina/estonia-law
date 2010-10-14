@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-10-14T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "2011.aasta riigieelarve seaduse eelnõu (Sotsiaalministeeriumi valitsemisala)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7ff2279b-928b-eb3b-9385-cd69c4fa8c51"
+    },
+    {
+      "order": 2,
+      "title": "Lähetus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "98eeacbb-02be-3d57-583b-ffd5b4c8c7c8"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 14.10.2010",
+      "uuid": "3e2253cf-31bf-4ac4-81e8-ac799ad75bf3",
+      "files": [
+        "Sotsiaalkomisjon_istungi_protokoll_41_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "528f649c-01ba-e3f1-890a-d9d30399c99a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 528f649c-01ba-e3f1-890a-d9d30399c99a)",
+  "source": "https://api.riigikogu.ee/api/volumes/528f649c-01ba-e3f1-890a-d9d30399c99a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-10-01&endDate=2010-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
