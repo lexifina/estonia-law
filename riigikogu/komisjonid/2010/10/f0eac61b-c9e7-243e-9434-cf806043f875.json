@@ -1,0 +1,33 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-10-14T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väljasõiduistung Saare maakonnas",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "99d72a69-2591-c478-500d-3399a6a8a471"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 14.10.2010",
+      "uuid": "6d0e79fa-d033-d1d5-b666-49fabd8b9a8b",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_41_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "f0eac61b-c9e7-243e-9434-cf806043f875",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f0eac61b-c9e7-243e-9434-cf806043f875)",
+  "source": "https://api.riigikogu.ee/api/volumes/f0eac61b-c9e7-243e-9434-cf806043f875",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-10-01&endDate=2010-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
