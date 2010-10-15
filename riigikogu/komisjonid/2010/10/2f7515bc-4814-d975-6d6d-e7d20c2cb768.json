@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-10-15T10:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 19. oktoobril 2010 toimuval Euroopa Liidu majandus- ja rahandusküsimuste nõukogu (ECOFIN) istungil.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8bde5900-f54a-329f-d4fe-ca079e918626"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad 21.-22. oktoobril 2010 toimuval Euroopa Liidu mitteametlikul spordiministrite kohtumisel.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3c716877-5e8d-6c7c-d2f4-046612c0c870"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 15.10.2010",
+      "uuid": "c14f22ef-f5c3-9077-2914-1607247fb83c",
+      "files": [
+        "Euroopa Liidu asjade komisjon_istungi_protokoll_41_2010.odt",
+        "Euroopa Liidu asjade komisjon_paevakord_15_10_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "2f7515bc-4814-d975-6d6d-e7d20c2cb768",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2f7515bc-4814-d975-6d6d-e7d20c2cb768)",
+  "source": "https://api.riigikogu.ee/api/volumes/2f7515bc-4814-d975-6d6d-e7d20c2cb768",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-10-01&endDate=2010-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
