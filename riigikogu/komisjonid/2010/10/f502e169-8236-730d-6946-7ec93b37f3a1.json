@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-10-18T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töönädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c8885e26-a907-3b6c-32af-00279d60af01"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud abipolitseiniku seaduse eelnõu (633 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b2d75b6c-f12c-431d-5564-fb9de23670b2"
+    },
+    {
+      "order": 3,
+      "title": "Sihtasutuste seaduse ja audiitortegevuse seaduse muutmise seaduse eelnõu algatamise otsustamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f5ed05a9-ab87-9ed9-0be2-4ae86a6e7570"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 18.10.2010",
+      "uuid": "112826ff-3b0b-380e-b0e4-d2a65417772c",
+      "files": [
+        "iguskomisjon_istungi_protokoll_42_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "f502e169-8236-730d-6946-7ec93b37f3a1",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f502e169-8236-730d-6946-7ec93b37f3a1)",
+  "source": "https://api.riigikogu.ee/api/volumes/f502e169-8236-730d-6946-7ec93b37f3a1",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-10-01&endDate=2010-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
