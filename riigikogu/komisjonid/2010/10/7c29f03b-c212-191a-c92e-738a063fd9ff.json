@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-10-18T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud meditsiiniseadme seaduse muutmise seaduse eelnõu (791 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c596ba30-03a7-c1f2-40a1-ed6daf6b77c8"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud raudteeseaduse muutmise seaduse eelnõu (800 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ed952386-ad30-421f-acfa-cd4e5cc6810e"
+    },
+    {
+      "order": 3,
+      "title": "Tööturuteenuste ja -toetuste seaduse ning töötuskindlustuse seaduse muutmise seaduse eelnõu (823 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e7f0a65e-6dcc-f861-edb5-c32dc7911413"
+    },
+    {
+      "order": 4,
+      "title": "Ülevaade olukorrast tööturul",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5299142e-4f53-9782-8024-b943132e2554"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 18.10.2010",
+      "uuid": "a4d03e00-6d77-03a1-2fed-894935671fae",
+      "files": [
+        "Sotsiaalkomisjon_istungi_protokoll_42_2010.odt",
+        "Sotsiaalkomisjon_paevakord_18_10_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "7c29f03b-c212-191a-c92e-738a063fd9ff",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7c29f03b-c212-191a-c92e-738a063fd9ff)",
+  "source": "https://api.riigikogu.ee/api/volumes/7c29f03b-c212-191a-c92e-738a063fd9ff",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-10-01&endDate=2010-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
