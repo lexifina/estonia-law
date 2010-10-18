@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-10-18T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "db7ad6b8-5c0b-843b-3d0d-9c10779c7c7f"
+    },
+    {
+      "order": 2,
+      "title": "2011.a. riigieelarve seaduse eelnõu. Haridus- ja Teadusministeeriumi osa",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ce7cf305-551d-14d0-8b4b-0187bf4bdf59"
+    },
+    {
+      "order": 3,
+      "title": "Kutseseaduse muutmise seaduse algatamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "03695d95-f1bb-e93b-d682-98cc0f6288dd"
+    },
+    {
+      "order": 4,
+      "title": "Info ja kirjad",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cf0f1332-78a7-44ac-da93-7391021f6195"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 18.10.2010",
+      "uuid": "a1e0b39d-cdaa-4944-b959-2c1e8e95f2c5",
+      "files": [
+        "Kultuurikomisjon_istungi_protokoll_42_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "27133a6d-c8d4-8267-56ff-2d1c6b73dff1",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 27133a6d-c8d4-8267-56ff-2d1c6b73dff1)",
+  "source": "https://api.riigikogu.ee/api/volumes/27133a6d-c8d4-8267-56ff-2d1c6b73dff1",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-10-01&endDate=2010-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
