@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-10-18T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b8f89f54-1b08-b993-2bd0-c1283f617aba"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade Eesti maaelu arengukava 2007-2013 meetmete rakendamisest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b608be82-ad17-7da3-c07a-b5c9760ce86c"
+    },
+    {
+      "order": 3,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "85d5e8a2-e0c4-3e24-4bfc-3b89da64c944"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 18.10.2010",
+      "uuid": "766af4a9-abfb-bfc9-5232-16ad05f93d4e",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_42_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "2d0dd27c-6453-443d-0040-f8cc2455996e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2d0dd27c-6453-443d-0040-f8cc2455996e)",
+  "source": "https://api.riigikogu.ee/api/volumes/2d0dd27c-6453-443d-0040-f8cc2455996e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-10-01&endDate=2010-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
