@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-10-18T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti Panga majanduskommentaar ja prognoos aastateks 2010-2012",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2ea2d80a-a14d-c6db-c7c1-4302ca233f9f"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud 2010. aasta riigieelarve seaduse muutmise seaduse eelnõu (812 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b05ead74-d0fa-7a3c-de67-5b915b2c8ec8"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 18.10.2010",
+      "uuid": "5c4d9474-8d13-124e-26d4-569984893cfa",
+      "files": [
+        "Rahanduskomisjon_istungi_protokoll_42_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "e40c85d2-f2c7-bfcb-b06b-0b50ed0841fe",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e40c85d2-f2c7-bfcb-b06b-0b50ed0841fe)",
+  "source": "https://api.riigikogu.ee/api/volumes/e40c85d2-f2c7-bfcb-b06b-0b50ed0841fe",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-10-01&endDate=2010-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
