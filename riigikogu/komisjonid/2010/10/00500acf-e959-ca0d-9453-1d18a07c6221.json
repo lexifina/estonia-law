@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-10-19T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Harju Omavalitsuste Liidu pöördumise arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c43af9fc-c51e-8b7e-cafa-946f33e1ef23"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud euroopa Liidu lepingu, Euroopa Liidu toimimise lepingu ja Euroopa Aatomienergiaühenduse asutamislepingu üleminekusätteid käsitleva protokolli muutmise protokolli ratifitseerimise seaduse eelnõu (807 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fa6bab73-9f6a-dcc6-bb50-19115d946d87"
+    },
+    {
+      "order": 3,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2b67db7f-d2e9-48f0-9a42-b55daf3d4f51"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 19.10.2010",
+      "uuid": "e847ca61-9aa5-df21-4240-81b38c3cdf1f",
+      "files": [
+        "Põhiseaduskomisjon_istungi_protokoll_42_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "00500acf-e959-ca0d-9453-1d18a07c6221",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 00500acf-e959-ca0d-9453-1d18a07c6221)",
+  "source": "https://api.riigikogu.ee/api/volumes/00500acf-e959-ca0d-9453-1d18a07c6221",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-10-01&endDate=2010-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
