@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-10-19T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud majandustegevuse seadustiku üldosa seaduse eelnõu (803 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1c93dd0a-1f59-f344-0ab3-5aa43f33c91c"
+    },
+    {
+      "order": 2,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cb9c5946-34d1-512e-3cb6-029d7e60ea90"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAJK 19.10.2010 nr 232",
+      "uuid": "aa1b4e41-29e7-4702-863d-87cd158f656b",
+      "files": [
+        "19  10  nr 232`.doc"
+      ]
+    }
+  ],
+  "uuid": "feed6c74-df6d-db4e-9cfa-c9a5c7d50c6f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid feed6c74-df6d-db4e-9cfa-c9a5c7d50c6f)",
+  "source": "https://api.riigikogu.ee/api/volumes/feed6c74-df6d-db4e-9cfa-c9a5c7d50c6f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-10-01&endDate=2010-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
