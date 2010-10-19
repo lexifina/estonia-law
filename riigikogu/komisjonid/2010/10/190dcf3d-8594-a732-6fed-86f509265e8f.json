@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-10-19T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigivaraseaduse muutmise seaduse eelnõu algatamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8ed20fdb-6c26-2376-c0f8-7926b9e46238"
+    },
+    {
+      "order": 2,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0a804c4b-3a36-5fb5-d1b4-85c7d9e03388"
+    },
+    {
+      "order": 3,
+      "title": "Eesti Põllumeeste Keskliit, Erimärgistatud kütuse aktsiis ja selle kompenseerimine (2.4-3/2096)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a859003a-f3eb-5838-0991-198c159a350d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 19.10.2010",
+      "uuid": "95534500-bd9e-8795-974d-616797827d58",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_42_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "190dcf3d-8594-a732-6fed-86f509265e8f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 190dcf3d-8594-a732-6fed-86f509265e8f)",
+  "source": "https://api.riigikogu.ee/api/volumes/190dcf3d-8594-a732-6fed-86f509265e8f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-10-01&endDate=2010-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
