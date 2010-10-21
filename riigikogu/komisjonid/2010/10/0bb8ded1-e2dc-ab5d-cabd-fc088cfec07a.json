@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-10-21T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud majandusliku Koostöö ja Arengu Organisatsiooniga ühinemiseks vajalike lepingute ratifitseerimise seaduse eelnõu (830 SE) ettevalmistamine esimeseks lugemiseks.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3b861683-ada4-ef09-64d5-5608c42b8082"
+    },
+    {
+      "order": 2,
+      "title": "Arutelu Eesti välispoliitikat puudutavatel teemadel.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a96ef6c6-9959-8bb3-4170-2d5c6beaf336"
+    },
+    {
+      "order": 3,
+      "title": "Fraktsioonide seisukohad Balti Assamblee eelarve osas (väliskomisjoni esimehe kiri 11.10.2010).",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d7b77221-49c7-0d84-7aad-bf6338e0090e"
+    },
+    {
+      "order": 4,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "433f4ab0-47c4-7c2f-90d5-8b1a97fd9b7d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 21.10.2010",
+      "uuid": "e03c75e7-0f60-135c-d857-50cb985ffa9d",
+      "files": [
+        "21.10.10 (280) protokoll.doc"
+      ]
+    }
+  ],
+  "uuid": "0bb8ded1-e2dc-ab5d-cabd-fc088cfec07a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0bb8ded1-e2dc-ab5d-cabd-fc088cfec07a)",
+  "source": "https://api.riigikogu.ee/api/volumes/0bb8ded1-e2dc-ab5d-cabd-fc088cfec07a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-10-01&endDate=2010-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
