@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-10-22T09:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Euroopa Komisjoni asepresidendi, transpordivoliniku Siim Kallasega.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5d665786-a260-695e-3a58-65d5bfb8ff96"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad 26. oktoobril 2010 toimuval Euroopa Liidu põllumajandus- ja kalandusnõukogu istungil.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8e9398d5-aac6-b3c5-ae85-383f8b9db370"
+    },
+    {
+      "order": 3,
+      "title": "Avalik ühisistung väliskomisjoniga: Eesti seisukohad 28.-29. oktoobril 2010  toimuval Euroopa Ülemkogu istungil.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4aa6d8d0-3570-4628-ae65-df28039f250e"
+    },
+    {
+      "order": 4,
+      "title": "Ühisistung väliskomisjoniga: Eesti seisukohad 25. oktoobril 2010 toimuval Euroopa Liidu üldasjade ja välisasjad nõukogu istungil.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "53abd429-424f-31d2-f821-391ce471d65b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 22.10.2010",
+      "uuid": "8a944408-95bc-d11d-e21d-78c0778a78ab",
+      "files": [
+        "Euroopa Liidu asjade komisjon_paevakord_22_10_2010.odt",
+        "Euroopa Liidu asjade komisjon_istungi_protokoll_42_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "85c67105-520f-f77a-30a6-cf04a1912553",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 85c67105-520f-f77a-30a6-cf04a1912553)",
+  "source": "https://api.riigikogu.ee/api/volumes/85c67105-520f-f77a-30a6-cf04a1912553",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-10-01&endDate=2010-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
