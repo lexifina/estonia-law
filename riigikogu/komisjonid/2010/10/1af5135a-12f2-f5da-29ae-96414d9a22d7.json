@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-10-25T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "df466519-1e7c-11c1-f3d3-2cc5a1ad1d61"
+    },
+    {
+      "order": 2,
+      "title": "Kultuurikomisjoni ja sotsiaalkomisjoni ühisistung \"Noored ja tööturg - probleemid ja lahendused\"",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "293513c6-fa5d-aabf-2c32-21355266d667"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 25.10.2010",
+      "uuid": "ce25e9fa-4e7c-230a-0f70-820b30517f35",
+      "files": [
+        "Kultuurikomisjon_istungi_protokoll_43_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "1af5135a-12f2-f5da-29ae-96414d9a22d7",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 1af5135a-12f2-f5da-29ae-96414d9a22d7)",
+  "source": "https://api.riigikogu.ee/api/volumes/1af5135a-12f2-f5da-29ae-96414d9a22d7",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-10-01&endDate=2010-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
