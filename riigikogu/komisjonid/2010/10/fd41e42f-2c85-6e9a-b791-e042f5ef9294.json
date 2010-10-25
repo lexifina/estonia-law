@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-10-25T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud ettevõtluse toetamise ja laenude riikliku tagamise seaduse muutmise seaduse eelnõu (811 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ff6a0d05-d347-6fc0-6a6b-e3851b41318f"
+    },
+    {
+      "order": 2,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0cc448c9-a55e-f3ae-5dc5-65b3d52f3a66"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 25.10.2010",
+      "uuid": "834c1238-7269-789b-e9c1-1441a7c5b037",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_43_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "fd41e42f-2c85-6e9a-b791-e042f5ef9294",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid fd41e42f-2c85-6e9a-b791-e042f5ef9294)",
+  "source": "https://api.riigikogu.ee/api/volumes/fd41e42f-2c85-6e9a-b791-e042f5ef9294",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-10-01&endDate=2010-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
