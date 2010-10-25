@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-10-25T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Keskkonnakomisjoni töökava (25.10.10 – 31.10.10) kinnitamine ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "04d2450d-b911-b0e9-af6e-453466a1f4ad"
+    },
+    {
+      "order": 2,
+      "title": "2011.a. riigieelarve seaduse eelnõu, Keskkonnaministeeriumi valitsemisala",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ed32e993-a7ee-de0b-2616-e6a9bbeda685"
+    },
+    {
+      "order": 3,
+      "title": "Organisatsioonilised küsimused (Olulise tähtsusega riikliku küsimuse arutelu algatamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "787a2617-94d8-7518-bcd5-deb13863fe24"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 25.10.2010",
+      "uuid": "cd7d1587-3696-d16b-fbbd-e2f9945372a3",
+      "files": [
+        "prot183 25.10.10.doc"
+      ]
+    }
+  ],
+  "uuid": "3b6a6b71-f9ba-f211-9a15-54d855648a2a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3b6a6b71-f9ba-f211-9a15-54d855648a2a)",
+  "source": "https://api.riigikogu.ee/api/volumes/3b6a6b71-f9ba-f211-9a15-54d855648a2a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-10-01&endDate=2010-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
