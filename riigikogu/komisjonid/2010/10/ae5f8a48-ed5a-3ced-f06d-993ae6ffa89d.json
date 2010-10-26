@@ -1,0 +1,33 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-10-26T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine MTÜ Reservkorpus esindajatega ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "89fa1c78-beb1-9a6d-f6cd-ace4044c355d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 26.10.2010",
+      "uuid": "0f2df6a5-157c-4eff-c899-0d935a4f6bf6",
+      "files": [
+        "26.10.10.doc"
+      ]
+    }
+  ],
+  "uuid": "ae5f8a48-ed5a-3ced-f06d-993ae6ffa89d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ae5f8a48-ed5a-3ced-f06d-993ae6ffa89d)",
+  "source": "https://api.riigikogu.ee/api/volumes/ae5f8a48-ed5a-3ced-f06d-993ae6ffa89d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-10-01&endDate=2010-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
