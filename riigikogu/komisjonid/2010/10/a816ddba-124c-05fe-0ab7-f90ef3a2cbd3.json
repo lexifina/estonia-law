@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-10-26T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Majandustegevuse seadustiku üldosa seaduse eelnõu (803 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "344c1dce-ef88-9b49-e5db-26df0eb00898"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine Liikumise Kodukant esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b331abfc-a12d-f135-7059-164d80b72432"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 26.10.2010",
+      "uuid": "ed924480-c7a9-926f-dc9e-5938d5f322e6",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_43_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "a816ddba-124c-05fe-0ab7-f90ef3a2cbd3",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a816ddba-124c-05fe-0ab7-f90ef3a2cbd3)",
+  "source": "https://api.riigikogu.ee/api/volumes/a816ddba-124c-05fe-0ab7-f90ef3a2cbd3",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-10-01&endDate=2010-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
