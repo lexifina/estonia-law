@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-10-28T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud rahvusvahelisel tsiviilmissioonil osalemise seaduse eelnõu (829 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5408620f-435d-e413-67ee-dbcb52b89a34"
+    },
+    {
+      "order": 2,
+      "title": "Välisministeeriumi töökorraldusest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3d9b3f04-cccc-c74d-a494-a869f88ed6ab"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f0b268ea-9463-4998-59bb-57337c844692"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 28.10.2010",
+      "uuid": "75e96844-5be9-4403-77a1-c20154172097",
+      "files": [
+        "28.10.10 (283) protokoll.doc"
+      ]
+    }
+  ],
+  "uuid": "4847667f-c487-0d13-53be-cea5af997a1d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 4847667f-c487-0d13-53be-cea5af997a1d)",
+  "source": "https://api.riigikogu.ee/api/volumes/4847667f-c487-0d13-53be-cea5af997a1d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-10-01&endDate=2010-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
