@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-10-28T00:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud kalapüügiseaduse muutmise seaduse eelnõu (798 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6d3f8888-f6e5-0166-288a-dbbb121abff9"
+    },
+    {
+      "order": 2,
+      "title": "Organisatsioonilised küsimused (OTRK arutelu algatamine/raporti koostamine; väljasõiduistung 18.-19.november)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ce7c1f4f-8322-4299-cf4c-180e1c0a6c20"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 28.10.2010",
+      "uuid": "0ca573b9-d5bd-d503-fd4e-3a801542962d",
+      "files": [
+        "prot184 28.10.10.doc"
+      ]
+    }
+  ],
+  "uuid": "fe60715a-6c12-3882-e0fe-57acd3889b05",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid fe60715a-6c12-3882-e0fe-57acd3889b05)",
+  "source": "https://api.riigikogu.ee/api/volumes/fe60715a-6c12-3882-e0fe-57acd3889b05",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-10-01&endDate=2010-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
