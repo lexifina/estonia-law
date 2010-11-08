@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-11-08T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti logistikaklastri tutvustus ja koostöövõimalused riigikogu majanduskomisjoniga.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "10717bbd-9cd9-9f0e-0c7d-b1452b060dba"
+    },
+    {
+      "order": 2,
+      "title": "Väliskomisjoni algatatud riigivaraseaduse täiendamise seaduse eelnõu (783 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "39ec60d5-4364-5624-97aa-e47d861f25bd"
+    },
+    {
+      "order": 3,
+      "title": "Hasartmänguseaduse § 111 muutmise seaduse eelnõu algatamise arutelu.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "92992ae7-fa49-b74f-de86-160342a827b4"
+    },
+    {
+      "order": 4,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "306e06bd-9e96-3604-82df-a0f86b7610df"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 08.11.2010",
+      "uuid": "1e4585a9-eb9e-2995-9234-56f3dcb17a6b",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_45_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "d1cd7d46-1f77-f9c0-81d2-2284c1052e99",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d1cd7d46-1f77-f9c0-81d2-2284c1052e99)",
+  "source": "https://api.riigikogu.ee/api/volumes/d1cd7d46-1f77-f9c0-81d2-2284c1052e99",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-11-01&endDate=2010-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
