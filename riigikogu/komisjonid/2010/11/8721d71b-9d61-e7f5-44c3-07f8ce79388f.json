@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-11-08T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Komisjoni töönädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1f2a1fc2-4d0a-70db-2e75-76d70eccd3fd"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud abipolitseiniku seaduse eelnõu (633 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f6c24cc8-af47-f5ce-5125-f02ab51f7b75"
+    },
+    {
+      "order": 3,
+      "title": "Vabariigi Valitsuse algatatud ringhäälinguseaduse, kriminaalmenetluse seadustiku, tsiviilkohtumenetluse seadustiku ja võlaõigusseaduse muutmise seaduse eelnõu (656 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "afee3b2c-3679-58d5-0f6c-0fde0fc23435"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 08.11.2010",
+      "uuid": "7d734c5d-1cde-1d68-318d-c4d62cca12c2",
+      "files": [
+        "iguskomisjon_istungi_protokoll_45_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "8721d71b-9d61-e7f5-44c3-07f8ce79388f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8721d71b-9d61-e7f5-44c3-07f8ce79388f)",
+  "source": "https://api.riigikogu.ee/api/volumes/8721d71b-9d61-e7f5-44c3-07f8ce79388f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-11-01&endDate=2010-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
