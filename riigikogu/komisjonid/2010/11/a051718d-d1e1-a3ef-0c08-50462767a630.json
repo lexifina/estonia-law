@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-11-08T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3f05f615-a460-d558-27cb-a9a5eb08bb2e"
+    },
+    {
+      "order": 2,
+      "title": "Maaelu arengu kava 2007-2013 vahearuanne",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "71f4793b-d448-0809-cf3e-12f43cb16679"
+    },
+    {
+      "order": 3,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "aa7177eb-7cbd-45bb-9dcb-13d9fc6cc915"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 08.11.2010",
+      "uuid": "04683bc9-8a9f-b105-2b0e-c616200859c3",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_45_2010.odt",
+        "Maaelukomisjon_paevakord_08_11_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "a051718d-d1e1-a3ef-0c08-50462767a630",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a051718d-d1e1-a3ef-0c08-50462767a630)",
+  "source": "https://api.riigikogu.ee/api/volumes/a051718d-d1e1-a3ef-0c08-50462767a630",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-11-01&endDate=2010-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
