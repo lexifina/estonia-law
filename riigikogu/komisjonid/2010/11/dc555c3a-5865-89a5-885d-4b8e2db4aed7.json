@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-11-08T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3e463094-194b-b7af-348b-8fc5d58fec3d"
+    },
+    {
+      "order": 2,
+      "title": "2011.aasta riigieelarve seaduse eelnõu. Kultuuriministeerium.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "38cb94cc-3f0b-c79e-aec3-824d7efd8f6f"
+    },
+    {
+      "order": 3,
+      "title": "Eesti Rahvusraamatukogu seaduse eelnõu algatamise otsustamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "405a3c30-844a-f2ba-eda7-5b88ed270151"
+    },
+    {
+      "order": 4,
+      "title": "Info ja kirjad",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c7d87f67-e0f9-6d63-257c-dcf43bdb46c8"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 08.11.2010",
+      "uuid": "f167fac1-299f-14dd-4186-e523e1f91a69",
+      "files": [
+        "Kultuurikomisjon_istungi_protokoll_45_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "dc555c3a-5865-89a5-885d-4b8e2db4aed7",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid dc555c3a-5865-89a5-885d-4b8e2db4aed7)",
+  "source": "https://api.riigikogu.ee/api/volumes/dc555c3a-5865-89a5-885d-4b8e2db4aed7",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-11-01&endDate=2010-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
