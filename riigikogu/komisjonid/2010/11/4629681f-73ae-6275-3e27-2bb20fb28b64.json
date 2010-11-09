@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-11-09T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud isikut tõendavate dokumentide seaduse ja teiste seaduste muutmise seaduse eelnõu (844 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "03ef082b-25dc-2a8a-0a16-5a807f573a46"
+    },
+    {
+      "order": 2,
+      "title": "MTÜ Lastekaitse Liidu pöördumise lasteõiguste ombudsmani loomisest, arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "af1aad18-ddeb-e412-c0cf-681503224103"
+    },
+    {
+      "order": 3,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fed32929-199e-9227-c4df-92ff864af4a7"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 09.11.2010",
+      "uuid": "f623d092-1894-0d21-5ce7-eabf616113c0",
+      "files": [
+        "Põhiseaduskomisjon_istungi_protokoll_45_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "4629681f-73ae-6275-3e27-2bb20fb28b64",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 4629681f-73ae-6275-3e27-2bb20fb28b64)",
+  "source": "https://api.riigikogu.ee/api/volumes/4629681f-73ae-6275-3e27-2bb20fb28b64",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-11-01&endDate=2010-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
