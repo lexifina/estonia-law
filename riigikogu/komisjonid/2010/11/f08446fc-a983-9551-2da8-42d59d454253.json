@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-11-09T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Õiguskomisjoni algatatud võlgade ümberkujundamise ja võlakaitse seaduse eelnõu (743 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0f852b27-8637-86c9-275f-e0ab93564c00"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud kriminaalmenetluse seadustiku ja teiste seaduste muutmise seaduse eelnõu (286 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7a10247c-82da-a1d0-f18f-85889a06de1a"
+    },
+    {
+      "order": 3,
+      "title": "Vabariigi Valitsuse algatatud abipolitseiniku seaduse eelnõu (633 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "82c5bd4f-8613-60c7-f61c-e377a69daad3"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 09.11.2010",
+      "uuid": "146ff81c-08cf-2ae8-069e-b224119e8509",
+      "files": [
+        "iguskomisjon_istungi_protokoll_45_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "f08446fc-a983-9551-2da8-42d59d454253",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f08446fc-a983-9551-2da8-42d59d454253)",
+  "source": "https://api.riigikogu.ee/api/volumes/f08446fc-a983-9551-2da8-42d59d454253",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-11-01&endDate=2010-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
