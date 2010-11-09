@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-11-09T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väliskomisjoni ja riigikaitsekomisjoni väljasõiduistung Kaitseväe Peastaapi. ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7974c8de-7a5c-7e6b-6585-5804966203fd"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "35855b3b-b10d-8612-f50b-12eba1b3dc01"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 09.11.2010",
+      "uuid": "88bb6390-1244-d85a-5a5f-551d2be42814",
+      "files": [
+        "09.11.10 (285) protokoll.doc"
+      ]
+    }
+  ],
+  "uuid": "93fcaab4-bcb6-3957-e748-c66283a37e6e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 93fcaab4-bcb6-3957-e748-c66283a37e6e)",
+  "source": "https://api.riigikogu.ee/api/volumes/93fcaab4-bcb6-3957-e748-c66283a37e6e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-11-01&endDate=2010-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
