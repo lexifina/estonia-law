@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-11-09T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud 2011. aasta riigieelarve seaduse eelnõu (822 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "eec02f6a-f260-6962-a49c-099104b300eb"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu liige Mai Treial, Riigikogu liige Ester Tuiksoo, Riigikogu liige Toomas Varek, Riigikogu liige Ain Seppik algatatud riikliku matusetoetuse seaduse ja käibemaksuseaduse § 15 muutmise seaduse eelnõu (786 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8d13b06c-4e58-073c-1f98-1c63f44a5889"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 09.11.2010",
+      "uuid": "1ca5fe52-be26-e9db-41f1-8a23a49d705d",
+      "files": [
+        "Rahanduskomisjon_istungi_protokoll_45_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "3743d30a-5efd-972d-341f-b78bc8ee1a6e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3743d30a-5efd-972d-341f-b78bc8ee1a6e)",
+  "source": "https://api.riigikogu.ee/api/volumes/3743d30a-5efd-972d-341f-b78bc8ee1a6e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-11-01&endDate=2010-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
