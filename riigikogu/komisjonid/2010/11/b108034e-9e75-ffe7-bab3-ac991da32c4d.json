@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-11-15T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud erakonnaseaduse ja sellega seonduvalt teiste seaduste muutmise seaduse eelnõu (655 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e390cb9c-9d75-cb51-3b4f-2ccaa75bdb88"
+    },
+    {
+      "order": 2,
+      "title": "Õiguskantsleri pöördumise välislepingute ratifitseerimisest arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8a0ea8ac-55dd-8f1f-9ac0-9d19a32ea0f1"
+    },
+    {
+      "order": 3,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "16b70881-270a-ca4b-e4b1-97e5c9efe5f6"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 15.11.2010",
+      "uuid": "de8bac95-a640-6db7-0f1c-ddcf8dc33e83",
+      "files": [
+        "Põhiseaduskomisjon_istungi_protokoll_46_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "b108034e-9e75-ffe7-bab3-ac991da32c4d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b108034e-9e75-ffe7-bab3-ac991da32c4d)",
+  "source": "https://api.riigikogu.ee/api/volumes/b108034e-9e75-ffe7-bab3-ac991da32c4d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-11-01&endDate=2010-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
