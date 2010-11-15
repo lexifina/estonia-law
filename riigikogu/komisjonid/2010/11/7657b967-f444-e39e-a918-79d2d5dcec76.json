@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-11-15T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Parlamentaarne kuulamine: MKM-i valikud CO2 kvootide müügist saadud vahendite kasutamisel (busside soetamine)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "80958e7f-d536-defb-7a14-5c14905c583a"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsus, Eesti seisukohad Euroopa Parlamendi ja Nõukogu direktiivi ning Euroopa Komisjoni teatise Euroopa ühtse raudteepiirkonna kohta (2.1-11/205)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bed933ee-c0d6-1b80-58b8-ac3e1a8ef3ce"
+    },
+    {
+      "order": 3,
+      "title": "Majanduskomisjoni algatatud hasartmänguseaduse § 111 muutmise seaduse eelnõu (857 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f244689f-a538-feba-cfbe-a3a0de527125"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 15.11.2010",
+      "uuid": "31485d86-b068-29ad-27e1-d80dcde8d908",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_46_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "7657b967-f444-e39e-a918-79d2d5dcec76",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7657b967-f444-e39e-a918-79d2d5dcec76)",
+  "source": "https://api.riigikogu.ee/api/volumes/7657b967-f444-e39e-a918-79d2d5dcec76",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-11-01&endDate=2010-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
