@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-11-15T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikontrolli auditiaruande „Kohalike teede hoiu korraldamine” arutelu;",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "83ee2c92-c26c-f39b-4b7e-9d9158de6b0f"
+    },
+    {
+      "order": 2,
+      "title": "Informatsioon.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7ee8fd89-b1c0-07ea-f319-6dd2e11f9080"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 15.11.2010",
+      "uuid": "75f2cf17-165c-4560-92a5-e3643344ad6a",
+      "files": [
+        "Riigieelarve kontrolli erikomisjon_paevakord_15_11_2010.odt",
+        "protokoll 114 15 11 2010.doc"
+      ]
+    }
+  ],
+  "uuid": "04878c28-7867-4b4e-c736-d7ad5bd36071",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 04878c28-7867-4b4e-c736-d7ad5bd36071)",
+  "source": "https://api.riigikogu.ee/api/volumes/04878c28-7867-4b4e-c736-d7ad5bd36071",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-11-01&endDate=2010-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
