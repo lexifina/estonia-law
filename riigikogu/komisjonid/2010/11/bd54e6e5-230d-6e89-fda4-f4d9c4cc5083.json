@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-11-15T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5bcd84ae-16bf-4a0d-b099-a9a5829ed99c"
+    },
+    {
+      "order": 2,
+      "title": "Eesti keele arengukava 2011- 2017",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6429def2-2bb0-b945-c5fe-cd49e7efa5b3"
+    },
+    {
+      "order": 3,
+      "title": "Vabariigi Valitsuse algatatud keeleseaduse eelnõu (808 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "de30c0ca-ea51-a760-b35e-3494b79b0561"
+    },
+    {
+      "order": 4,
+      "title": "Info ja kirjad",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "40305081-1f8a-2abd-fd8a-522806329127"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 15.11.2010",
+      "uuid": "416cb25d-4745-3173-768a-5c8a7af50639",
+      "files": [
+        "Kultuurikomisjon_istungi_protokoll_46_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "bd54e6e5-230d-6e89-fda4-f4d9c4cc5083",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid bd54e6e5-230d-6e89-fda4-f4d9c4cc5083)",
+  "source": "https://api.riigikogu.ee/api/volumes/bd54e6e5-230d-6e89-fda4-f4d9c4cc5083",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-11-01&endDate=2010-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
