@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-11-15T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikontrolli audit \"Riigi tegevus puuetega inimeste  ja töövõimetuspensionäride toetamisel\"",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "62b5b49a-1bc0-d537-ed4d-23cee6e15204"
+    },
+    {
+      "order": 2,
+      "title": "Euroopa Komisjoni roheline raamat \"Piisav, jätkusuutlik ja kindel Euroopa pensionisüsteem\"",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3b4a88c0-60d2-aa09-a732-76b0148dc680"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 15.11.2010",
+      "uuid": "8fe22e32-beab-01ca-f8eb-698687f870aa",
+      "files": [
+        "Sotsiaalkomisjon_istungi_protokoll_46_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "edb9b54e-b6f9-5376-6ae3-3cb9404904d6",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid edb9b54e-b6f9-5376-6ae3-3cb9404904d6)",
+  "source": "https://api.riigikogu.ee/api/volumes/edb9b54e-b6f9-5376-6ae3-3cb9404904d6",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-11-01&endDate=2010-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
