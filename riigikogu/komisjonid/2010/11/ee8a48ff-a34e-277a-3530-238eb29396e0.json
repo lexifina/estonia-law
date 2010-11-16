@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-11-16T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Maaelukomisjoni algatatud riigivaraseaduse § 66 täiendamise seaduse eelnõu (840 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c921e243-e14d-7af5-46e2-616999876800"
+    },
+    {
+      "order": 2,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a6ca98a8-c3ef-ebac-7f13-865d0e5f9f1d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 16.11.2010",
+      "uuid": "ef5cc6b0-eb09-83f3-caba-a58bba100ae3",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_46_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "ee8a48ff-a34e-277a-3530-238eb29396e0",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ee8a48ff-a34e-277a-3530-238eb29396e0)",
+  "source": "https://api.riigikogu.ee/api/volumes/ee8a48ff-a34e-277a-3530-238eb29396e0",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-11-01&endDate=2010-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
