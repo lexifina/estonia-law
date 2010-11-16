@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-11-16T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud tööturuteenuste ja -toetuste seaduse ning töötuskindlustuse seaduse muutmise seaduse eelnõu (823 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a2d06a7d-40aa-3e6f-9f94-20310f83648b"
+    },
+    {
+      "order": 2,
+      "title": "Arvamuse andmine põhiseaduskomisjonile Eesti kodanike kojutuleku seaduse eelnõu (821 SE) kohta",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0ad0a56f-e726-13ec-15d0-a3ada1b0e673"
+    },
+    {
+      "order": 3,
+      "title": "Riigikogu otsuse \"Audiitori nimetamine Riigikontrolli 2010. aasta tegevuse kontrollimiseks\" algatamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "79037abb-dc86-af87-e031-8240cbf39807"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 16.11.2010",
+      "uuid": "3972c91a-4da3-b633-f963-e560dd6d0960",
+      "files": [
+        "Rahanduskomisjon_istungi_protokoll_46_2010.odt",
+        "Rahanduskomisjon_paevakord_16_11_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "006550c3-b8f3-16ab-a279-a5df068d4148",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 006550c3-b8f3-16ab-a279-a5df068d4148)",
+  "source": "https://api.riigikogu.ee/api/volumes/006550c3-b8f3-16ab-a279-a5df068d4148",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-11-01&endDate=2010-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
