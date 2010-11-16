@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-11-16T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud isikut tõendavate dokumentide seaduse ja teiste seaduste muutmise seaduse eelnõu (844 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2273c9b2-4dbc-d947-7abb-c8e4d136e772"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud isikuandmete kaitse seaduse, avaliku teabe seaduse ja arhiiviseaduse muutmise seaduse eelnõu (564 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5acc7aaa-0770-fef4-bec8-1f79038e3ea2"
+    },
+    {
+      "order": 3,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ed46079d-080a-f1cc-ff59-6eee12ab6a25"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 16.11.2010",
+      "uuid": "9ebfb5d7-6955-1afb-e345-9e51b6a21e27",
+      "files": [
+        "Põhiseaduskomisjon_istungi_protokoll_46_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "bcedc72a-e3de-3bb6-8014-55aff6a35730",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid bcedc72a-e3de-3bb6-8014-55aff6a35730)",
+  "source": "https://api.riigikogu.ee/api/volumes/bcedc72a-e3de-3bb6-8014-55aff6a35730",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-11-01&endDate=2010-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
