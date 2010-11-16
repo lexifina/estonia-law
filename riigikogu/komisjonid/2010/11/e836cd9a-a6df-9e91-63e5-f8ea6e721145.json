@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-11-16T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kultuurikomisjoni algatatud kutseseaduse muutmise seaduse eelnõu (842 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8f414da2-05f4-a9a9-7ebc-34b60b670c7a"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud keeleseaduse eelnõu (808 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "93dec7bf-5d8c-5c75-feec-584ed0fabe9d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 16.11.2010",
+      "uuid": "6f744a6f-7a90-dcdf-9993-bf816e10a9b3",
+      "files": [
+        "Kultuurikomisjon_istungi_protokoll_46_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "e836cd9a-a6df-9e91-63e5-f8ea6e721145",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e836cd9a-a6df-9e91-63e5-f8ea6e721145)",
+  "source": "https://api.riigikogu.ee/api/volumes/e836cd9a-a6df-9e91-63e5-f8ea6e721145",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-11-01&endDate=2010-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
