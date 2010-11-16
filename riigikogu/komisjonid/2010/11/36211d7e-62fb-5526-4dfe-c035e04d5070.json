@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-11-16T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väljasõiduistung MKM-i",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8d934a84-bc78-383e-fa93-1b3c7e403c3b"
+    },
+    {
+      "order": 2,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b356401b-e9d2-1dfc-7af0-2d334fe5ccbe"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 16.11.2010",
+      "uuid": "0aac299a-4357-be68-f3e9-e00e0ccafd6d",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_46_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "36211d7e-62fb-5526-4dfe-c035e04d5070",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 36211d7e-62fb-5526-4dfe-c035e04d5070)",
+  "source": "https://api.riigikogu.ee/api/volumes/36211d7e-62fb-5526-4dfe-c035e04d5070",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-11-01&endDate=2010-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
