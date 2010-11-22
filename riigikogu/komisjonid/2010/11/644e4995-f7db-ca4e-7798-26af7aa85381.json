@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-11-22T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8c068d8e-79df-a33b-7cf6-4be908ae7354"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud arhiiviseaduse eelnõu (854 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b6f64952-5e3c-a765-8c77-46d69c579008"
+    },
+    {
+      "order": 3,
+      "title": "Vabariigi Valitsuse algatatud Tartu Ülikooli seaduse ja ülikooliseaduse muutmise seaduse eelnõu (858 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "af1474d6-1c70-723a-7f9b-475520671184"
+    },
+    {
+      "order": 4,
+      "title": "Info ja kirjad",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9c04adfb-c0b0-8527-bc75-78446b5734c9"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 22.11.2010",
+      "uuid": "e5324316-73b1-114f-4fec-6f06196441be",
+      "files": [
+        "Kultuurikomisjon_istungi_protokoll_47_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "644e4995-f7db-ca4e-7798-26af7aa85381",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 644e4995-f7db-ca4e-7798-26af7aa85381)",
+  "source": "https://api.riigikogu.ee/api/volumes/644e4995-f7db-ca4e-7798-26af7aa85381",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-11-01&endDate=2010-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
