@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-11-22T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Euroopa Liidu struktuurivahendite ja välisvahendite kasutamine 2010. aastal Keskkonnaministeeriumis;",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "87001231-5cb2-f886-5de5-d5a60beb87eb"
+    },
+    {
+      "order": 2,
+      "title": "Informatsioon.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bdbb6d5f-10d5-8cba-a540-18083c983a37"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 22.11.2010",
+      "uuid": "2aaafa4e-cdeb-e41d-1225-af89c9c4d142",
+      "files": [
+        "protokoll 115 22 11 2010.doc",
+        "Riigieelarve kontrolli erikomisjon_paevakord_22_11_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "2745a8c6-a29b-44b3-d3f2-8b197b3beb15",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2745a8c6-a29b-44b3-d3f2-8b197b3beb15)",
+  "source": "https://api.riigikogu.ee/api/volumes/2745a8c6-a29b-44b3-d3f2-8b197b3beb15",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-11-01&endDate=2010-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
