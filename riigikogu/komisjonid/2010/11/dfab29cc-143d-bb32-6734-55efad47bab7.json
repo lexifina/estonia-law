@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-11-22T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "436cebfe-d0c5-a29d-d591-c6d4396c9303"
+    },
+    {
+      "order": 2,
+      "title": "Maaelukomisjoni algatatud riigivaraseaduse § 66 täiendamise seaduse eelnõu (840 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6e1ae6ac-3cf7-b470-3ff3-cdbc3115b6d0"
+    },
+    {
+      "order": 3,
+      "title": "Eesti põhiseisukohad Euroopa Liidu eelarveraamistiku, ühise põllumajanduspoliitika ja ühtekuuluvuspoliitika kohta. Arvamuse andmine ELAKile",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "80fd3d9b-16a5-7fdc-05c2-e4111d090274"
+    },
+    {
+      "order": 4,
+      "title": "Eesti seisukohad Euroopa Parlamendi ja nõukogu määruse lõhkeainete lähteainete turustamise ja kasutamise kohta eelnõu suhtes. Arvamuse andmine ELAKile",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2569598a-5df7-d372-b0bd-0a24a7cc12ab"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 22.11.2010",
+      "uuid": "5295067f-b53b-86ce-45ea-921c039d48be",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_47_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "dfab29cc-143d-bb32-6734-55efad47bab7",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid dfab29cc-143d-bb32-6734-55efad47bab7)",
+  "source": "https://api.riigikogu.ee/api/volumes/dfab29cc-143d-bb32-6734-55efad47bab7",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-11-01&endDate=2010-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
