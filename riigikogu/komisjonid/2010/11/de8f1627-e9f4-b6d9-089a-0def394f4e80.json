@@ -1,0 +1,57 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-11-22T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töönädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fcefdc41-f0d3-6ac7-e5eb-3e98168d38b3"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud karistusseadustiku muutmise seaduse eelnõu (862 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8cd3fb73-9d47-dcbe-1297-60be7ed0aa0e"
+    },
+    {
+      "order": 3,
+      "title": "Erakond Eestimaa Rohelised fraktsiooni algatatud karistusseadustiku muutmise seaduse eelnõu (794 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "59511861-a7f0-deb6-6a0c-bf94c2dfcc3b"
+    },
+    {
+      "order": 4,
+      "title": "Vabariigi Valitsuse algatatud kriminaalmenetluse seadustiku ja teiste seaduste muutmise seaduse eelnõu (286 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f35365fe-fa29-c92f-995f-17564e5d3854"
+    },
+    {
+      "order": 5,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6784e590-745a-84d7-f6f0-603b151761ae"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 22.11.2010",
+      "uuid": "5d7bc2f2-9b4e-d4a8-8580-c399cb3bc570",
+      "files": [
+        "iguskomisjon_istungi_protokoll_47_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "de8f1627-e9f4-b6d9-089a-0def394f4e80",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid de8f1627-e9f4-b6d9-089a-0def394f4e80)",
+  "source": "https://api.riigikogu.ee/api/volumes/de8f1627-e9f4-b6d9-089a-0def394f4e80",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-11-01&endDate=2010-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
