@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-11-23T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Tööturuteenuste ja-toetuste seaduse ning töötuskindlustuse seaduse muudatuste arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ed31278a-289b-f0e8-5b68-9b408a7e2801"
+    },
+    {
+      "order": 2,
+      "title": "Lähetus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3472e474-a003-c5fa-b56c-5bb7d51af045"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 23.11.2010",
+      "uuid": "e181fe3c-cd1e-7fe2-f24e-bceead88aaee",
+      "files": [
+        "Sotsiaalkomisjon_istungi_protokoll_47_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "5e4a7fc0-f3c3-33ed-2ea4-c22d8740751a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 5e4a7fc0-f3c3-33ed-2ea4-c22d8740751a)",
+  "source": "https://api.riigikogu.ee/api/volumes/5e4a7fc0-f3c3-33ed-2ea4-c22d8740751a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-11-01&endDate=2010-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
