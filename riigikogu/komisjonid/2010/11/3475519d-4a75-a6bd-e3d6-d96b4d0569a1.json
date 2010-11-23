@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-11-23T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ühisistung keskkonnakomisjoniga: Metsanduse arengukava aastani 2020",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2848c7bf-6d07-9621-1da5-dbb027e78df7"
+    },
+    {
+      "order": 2,
+      "title": "Muudatusettepanek 2011.aasta riigieelarve seaduse eelnõule (822 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "381ae68b-576f-caa0-9e5a-d586033c1a87"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 23.11.2010",
+      "uuid": "6747a50c-0388-f2ca-fc65-37fcfa598124",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_47_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "3475519d-4a75-a6bd-e3d6-d96b4d0569a1",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3475519d-4a75-a6bd-e3d6-d96b4d0569a1)",
+  "source": "https://api.riigikogu.ee/api/volumes/3475519d-4a75-a6bd-e3d6-d96b4d0569a1",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-11-01&endDate=2010-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
