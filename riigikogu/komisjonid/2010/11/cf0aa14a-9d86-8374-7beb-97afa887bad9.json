@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-11-23T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade 19.-20. novembril 2010 Lissabonis toimunud NATO tippkohtumisest. ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "90efb723-334e-965b-0906-8844cf212b89"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "965f56d8-7e14-bb16-aeef-5b5fd782370e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 23.11.2010",
+      "uuid": "4afa9c7d-aebc-e3f9-11ed-6c61a6a106de",
+      "files": [
+        "23.11.10 (291) protokoll.doc"
+      ]
+    }
+  ],
+  "uuid": "cf0aa14a-9d86-8374-7beb-97afa887bad9",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid cf0aa14a-9d86-8374-7beb-97afa887bad9)",
+  "source": "https://api.riigikogu.ee/api/volumes/cf0aa14a-9d86-8374-7beb-97afa887bad9",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-11-01&endDate=2010-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
