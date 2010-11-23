@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-11-23T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud korrakaitseseaduse eelnõu (49 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d8011859-ce7b-7382-bc82-8fc335721da4"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud korrakaitseseaduse muutmise ja rakendamise seaduse eelnõu (570 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7bec014c-09f4-17c0-f3fe-d9492efa6979"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 23.11.2010",
+      "uuid": "98587f08-b4ea-f2eb-056c-d49b651fa36c",
+      "files": [
+        "iguskomisjon_istungi_protokoll_47_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "f4a5fcd5-3371-3808-ca47-5354c6f16267",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f4a5fcd5-3371-3808-ca47-5354c6f16267)",
+  "source": "https://api.riigikogu.ee/api/volumes/f4a5fcd5-3371-3808-ca47-5354c6f16267",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-11-01&endDate=2010-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
