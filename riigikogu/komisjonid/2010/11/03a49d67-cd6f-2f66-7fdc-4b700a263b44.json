@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-11-23T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti Keskerakonna fraktsiooni algatatud eesti kodanike kojutuleku seaduse eelnõu (821 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e33e59eb-75d8-d559-b69d-8416252eff51"
+    },
+    {
+      "order": 2,
+      "title": "Majanduskomisjonile arvamuse andmine riigivaraseaduse täiendamise seaduse eelnõu -783 SE- kohta",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bc6fb783-6957-70a1-1c47-f53ed3d2f8c2"
+    },
+    {
+      "order": 3,
+      "title": "Riigikohtule arvamuse andmine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f062b712-e91f-c8d7-fcf8-c05c6d8b3da8"
+    },
+    {
+      "order": 4,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "020a8f15-ecd9-27d8-baa3-f273966c9139"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 23.11.2010",
+      "uuid": "422bb1d9-824d-1f60-9d63-651def11643e",
+      "files": [
+        "Põhiseaduskomisjon_istungi_protokoll_47_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "03a49d67-cd6f-2f66-7fdc-4b700a263b44",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 03a49d67-cd6f-2f66-7fdc-4b700a263b44)",
+  "source": "https://api.riigikogu.ee/api/volumes/03a49d67-cd6f-2f66-7fdc-4b700a263b44",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-11-01&endDate=2010-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
