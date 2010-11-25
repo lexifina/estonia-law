@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-11-25T12:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Õiguskomisjoni algatatud sihtasutuste seaduse ja audiitortegevuse seaduse muutmise seaduse eelnõu (839 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e79793e6-ea7d-b78b-f71d-4a8b8d42a577"
+    },
+    {
+      "order": 2,
+      "title": "Arvamused Riigikohtule",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ed77e753-2b15-d6f7-104f-8b13b4ba0802"
+    },
+    {
+      "order": 3,
+      "title": "Arvamus ELAK-le",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9d2240fd-2582-7113-ecf6-8db6fe671224"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 25.11.2010",
+      "uuid": "2d9516d6-7788-1723-510b-d124afd4cd12",
+      "files": [
+        "iguskomisjon_istungi_protokoll_47_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "3f9ad4f4-896b-657f-454c-4c63e093ce05",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3f9ad4f4-896b-657f-454c-4c63e093ce05)",
+  "source": "https://api.riigikogu.ee/api/volumes/3f9ad4f4-896b-657f-454c-4c63e093ce05",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-11-01&endDate=2010-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
