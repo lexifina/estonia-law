@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-11-29T10:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 2.-3. detsembril 2010 toimuval Euroopa Liidu transpordi, telekommunikatsiooni ja energeetika nõukogu (TTE) istungil.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4da5bcf4-c4e3-4255-3c3c-5bbf29323f33"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad 2.-3. detsembril 2010 toimuval Euroopa Liidu justiits- ja siseküsimuste nõukogu istungil.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c1594217-bfd7-fb7f-1c38-755d961b90da"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 29.11.2010",
+      "uuid": "a49995d8-440d-210c-e722-452b9adf9087",
+      "files": [
+        "Euroopa_Liidu_asjade_komisjon_istungi_protokoll_48_2010.odt",
+        "Euroopa_Liidu_asjade_komisjon_paevakord_29_11_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "67f60fb8-3c58-810c-bb8e-7d552d373acc",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 67f60fb8-3c58-810c-bb8e-7d552d373acc)",
+  "source": "https://api.riigikogu.ee/api/volumes/67f60fb8-3c58-810c-bb8e-7d552d373acc",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-11-01&endDate=2010-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
