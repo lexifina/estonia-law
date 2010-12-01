@@ -1,0 +1,33 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-12-01T12:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0ab228b0-aac3-d3f0-2433-3479987950e2"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 01.12.2010",
+      "uuid": "2cd107ea-a8a1-a9bd-6ab1-6e166d9a05eb",
+      "files": [
+        "Kultuurikomisjon_istungi_protokoll_48_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "0734483f-52fc-b0be-00fc-a79f260e8f84",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0734483f-52fc-b0be-00fc-a79f260e8f84)",
+  "source": "https://api.riigikogu.ee/api/volumes/0734483f-52fc-b0be-00fc-a79f260e8f84",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-12-01&endDate=2010-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
