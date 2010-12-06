@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-12-06T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Parlamentaarne kuulamine: AS-i Estonian Air strateegiad.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cfaa9360-9eae-3bec-f960-f50cd900ea4d"
+    },
+    {
+      "order": 2,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d4550f5b-a666-cd04-50a1-7606fd23aa69"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 06.12.2010",
+      "uuid": "d960fa1d-4937-6da3-f5d8-4d9d2092abc7",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_49_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "65fff34f-2186-3ec3-f21d-2ecd0b9c2d2b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 65fff34f-2186-3ec3-f21d-2ecd0b9c2d2b)",
+  "source": "https://api.riigikogu.ee/api/volumes/65fff34f-2186-3ec3-f21d-2ecd0b9c2d2b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-12-01&endDate=2010-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
