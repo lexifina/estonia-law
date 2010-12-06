@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-12-06T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5f8ee775-8825-bb4c-de66-26b53422e93b"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud meediateenuste seaduse eelnõu (827 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f1fe2815-ff1d-151f-843b-5dbd1d776a7e"
+    },
+    {
+      "order": 3,
+      "title": "Info ja kirjad",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "389306f9-b518-8f4e-d03d-d8aea9a8f2a5"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 06.12.2010",
+      "uuid": "672abc3b-3863-b841-6565-dc071b8ee152",
+      "files": [
+        "Kultuurikomisjon_istungi_protokoll_49_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "6212b83f-c442-413d-0ff6-90ef42b465d6",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 6212b83f-c442-413d-0ff6-90ef42b465d6)",
+  "source": "https://api.riigikogu.ee/api/volumes/6212b83f-c442-413d-0ff6-90ef42b465d6",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-12-01&endDate=2010-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
