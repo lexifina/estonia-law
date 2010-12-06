@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-12-06T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud rahvastikuregistri seaduse ja sellega seonduvate seaduste muutmise seaduse eelnõu (876 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4951d0d4-21b5-365e-f9dd-86ca9eeb4433"
+    },
+    {
+      "order": 2,
+      "title": "Riigikohtule arvamuse andmine karistusseadustiku § 872 põhiseadusele vastavuse kohta",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2e09b961-5b0b-c94f-939a-49be9dcf0fd1"
+    },
+    {
+      "order": 3,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "032b6776-16b0-3e78-ad9a-7b4383d5a7cb"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 06.12.2010",
+      "uuid": "1b5bb5b8-004b-d3ec-74a5-05ee8df8b942",
+      "files": [
+        "Põhiseaduskomisjon_istungi_protokoll_49_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "2c0853be-2681-885a-a7ba-fdb9d590fc9f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2c0853be-2681-885a-a7ba-fdb9d590fc9f)",
+  "source": "https://api.riigikogu.ee/api/volumes/2c0853be-2681-885a-a7ba-fdb9d590fc9f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-12-01&endDate=2010-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
