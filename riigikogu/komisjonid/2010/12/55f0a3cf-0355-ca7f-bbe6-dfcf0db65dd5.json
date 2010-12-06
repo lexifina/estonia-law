@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-12-06T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "44e6762f-2ea5-1616-fdee-1096a9af351c"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad Euroopa Parlamendi ja nõukogu määruse, mis käsitleb toiduabi jaotamist liidu enim puudustkannatavatele isikutele, eelnõu kohta. Arvamuse andmine ELAKile",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9ee7222e-6949-1d98-45bb-6a5c9e2fc013"
+    },
+    {
+      "order": 3,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e0fb20eb-8645-b897-9737-050c9ecc704d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 06.12.2010",
+      "uuid": "3e5ce0b6-84c0-7729-3b4b-61157e16e204",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_49_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "55f0a3cf-0355-ca7f-bbe6-dfcf0db65dd5",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 55f0a3cf-0355-ca7f-bbe6-dfcf0db65dd5)",
+  "source": "https://api.riigikogu.ee/api/volumes/55f0a3cf-0355-ca7f-bbe6-dfcf0db65dd5",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-12-01&endDate=2010-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
