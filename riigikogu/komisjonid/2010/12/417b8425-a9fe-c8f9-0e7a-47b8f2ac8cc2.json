@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-12-07T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud kohaliku omavalitsuse korralduse seaduse muutmise seaduse eelnõu (835 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ce2f549e-5b8c-b868-70ef-0cd433788d6a"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud hädaolukorra seaduse ja sellega seonduvalt teiste seaduste muutmise seaduse eelnõu (871 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "181cb684-5859-c19c-832f-0d419fa3ee12"
+    },
+    {
+      "order": 3,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5be58eb5-782f-13b2-1efd-9d89d90fd73b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 07.12.2010",
+      "uuid": "f5b5f3d3-0f94-0ccc-d412-87598c94c4b7",
+      "files": [
+        "Põhiseaduskomisjon_istungi_protokoll_49_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "417b8425-a9fe-c8f9-0e7a-47b8f2ac8cc2",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 417b8425-a9fe-c8f9-0e7a-47b8f2ac8cc2)",
+  "source": "https://api.riigikogu.ee/api/volumes/417b8425-a9fe-c8f9-0e7a-47b8f2ac8cc2",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-12-01&endDate=2010-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
