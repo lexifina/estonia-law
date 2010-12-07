@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-12-07T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Maaelukomisjoni algatatud riigivaraseaduse § 66 täiendamise seaduse eelnõu (840 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b1dc6b6b-abbb-1c77-b603-439a95aeb244"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud toiduseaduse § 17 muutmise seaduse eelnõu (883 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4a2f873c-31e5-2883-d7e7-9c26a597c257"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 07.12.2010",
+      "uuid": "8cc90ea3-0ca9-daf0-1e21-3e35ccd0c564",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_49_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "b92ab575-64af-2893-20a9-2d6493e017cd",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b92ab575-64af-2893-20a9-2d6493e017cd)",
+  "source": "https://api.riigikogu.ee/api/volumes/b92ab575-64af-2893-20a9-2d6493e017cd",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-12-01&endDate=2010-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
