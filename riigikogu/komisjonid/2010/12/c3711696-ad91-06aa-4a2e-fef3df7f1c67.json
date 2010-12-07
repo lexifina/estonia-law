@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-12-07T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud karistusseadustiku, kriminaalmenetluse seadustiku, psühhiaatrilise abi seaduse, karistusregistri seaduse, kriminaalhooldusseaduse ja tervishoiuteenuste korraldamise seaduse muutmise seaduse eelnõu (717 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c9676366-5af3-c690-b844-d84b0e716e27"
+    },
+    {
+      "order": 2,
+      "title": "ENPA - Eureopean Newspaper Publishers` Association, Ringhäälinguseaduse seaduse eelnõust (2.11-3/2387)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6460de35-f8dc-c606-38db-354502dd954a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 07.12.2010",
+      "uuid": "c535f584-4a7b-4f30-a069-bc8c80d59d86",
+      "files": [
+        "iguskomisjon_istungi_protokoll_49_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "c3711696-ad91-06aa-4a2e-fef3df7f1c67",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c3711696-ad91-06aa-4a2e-fef3df7f1c67)",
+  "source": "https://api.riigikogu.ee/api/volumes/c3711696-ad91-06aa-4a2e-fef3df7f1c67",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-12-01&endDate=2010-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
