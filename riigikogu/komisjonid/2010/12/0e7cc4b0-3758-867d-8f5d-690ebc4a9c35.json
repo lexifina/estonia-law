@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-12-07T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 9. detsembril 2010 Brüsselis toimuval Euroopa Liidu välisasjade nõukogu arenguministrite istungil. ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "834a38fa-4254-b870-eff4-4a3c7bc5748f"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad 9. detsembril 2010 Brüsselis toimuval Euroopa Liidu välisasjade nõukogu kaitseministrite istungil.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e2cb2998-288f-a2a3-dd68-98e4d2b91012"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1475f579-877f-d44b-c88c-9db06e20f434"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 07.12.2010",
+      "uuid": "bc2b42f9-4f9a-562f-5658-3faa38012612",
+      "files": [
+        "07.12.10(293)protokoll.doc"
+      ]
+    }
+  ],
+  "uuid": "0e7cc4b0-3758-867d-8f5d-690ebc4a9c35",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0e7cc4b0-3758-867d-8f5d-690ebc4a9c35)",
+  "source": "https://api.riigikogu.ee/api/volumes/0e7cc4b0-3758-867d-8f5d-690ebc4a9c35",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-12-01&endDate=2010-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
