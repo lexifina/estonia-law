@@ -1,0 +1,33 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-12-09T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Arvamuse andmine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5f4ece64-f98c-4bc8-a08d-4b2a82714f3c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 09.12.2010",
+      "uuid": "74e3ce72-ace7-2424-48f0-beea24e3b104",
+      "files": [
+        "Rahanduskomisjon_istungi_protokoll_49_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "93999460-2c50-72cd-776b-e39581355d9a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 93999460-2c50-72cd-776b-e39581355d9a)",
+  "source": "https://api.riigikogu.ee/api/volumes/93999460-2c50-72cd-776b-e39581355d9a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-12-01&endDate=2010-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
