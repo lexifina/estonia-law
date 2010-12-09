@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-12-09T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Sotsiaaldemokraatliku Erakonna fraktsiooni algatatud riigikogu otsus \"Ettepaneku tegemine Vabariigi Valitsusele\" (875 OE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f0601fab-dc2c-5672-7d8f-f9ef1b04648c"
+    },
+    {
+      "order": 2,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9a8cd8ff-6a83-6eb0-f44a-0a05ec8b7be4"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 09.12.2010",
+      "uuid": "d066f9ab-2089-3cd1-87c6-f1c4a81fa553",
+      "files": [
+        "Põhiseaduskomisjon_istungi_protokoll_49_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "14261d4c-0459-97ae-0f0f-fa59826d10a4",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 14261d4c-0459-97ae-0f0f-fa59826d10a4)",
+  "source": "https://api.riigikogu.ee/api/volumes/14261d4c-0459-97ae-0f0f-fa59826d10a4",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-12-01&endDate=2010-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
