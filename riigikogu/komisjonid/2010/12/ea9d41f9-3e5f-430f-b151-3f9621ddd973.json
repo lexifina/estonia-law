@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-12-09T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vaimupuudega inimeste hambaravi",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f3e731b7-c6d8-3391-c007-eeca7bc51670"
+    },
+    {
+      "order": 2,
+      "title": "Sotsiaalkomisjoni algatatud kunstliku viljastamise ja embrüokaitse seaduse § 5 muutmise seaduse eelnõu (787 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0325f6e7-661a-1a27-8906-95de84ae6584"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 09.12.2010",
+      "uuid": "63019312-23a1-3555-49a9-66b870c37d43",
+      "files": [
+        "Sotsiaalkomisjon_istungi_protokoll_49_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "ea9d41f9-3e5f-430f-b151-3f9621ddd973",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ea9d41f9-3e5f-430f-b151-3f9621ddd973)",
+  "source": "https://api.riigikogu.ee/api/volumes/ea9d41f9-3e5f-430f-b151-3f9621ddd973",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-12-01&endDate=2010-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
