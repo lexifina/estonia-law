@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-12-09T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud kirikute ja koguduste seaduse muutmise seaduse eelnõu (884 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "60ca1be1-5bda-23ed-3d94-265a9e495cea"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud võlaõigusseaduse, sotsiaalmaksuseaduse ja mittetulundusühingute seaduse muutmise seaduse eelnõu (881 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "468a530f-b980-2b74-9970-af139214aed0"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 09.12.2010",
+      "uuid": "0fd5dda5-92b2-a098-eba2-bcab63d969ba",
+      "files": [
+        "iguskomisjon_istungi_protokoll_49_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "224a8390-55ab-95a8-3a80-f425760abbf1",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 224a8390-55ab-95a8-3a80-f425760abbf1)",
+  "source": "https://api.riigikogu.ee/api/volumes/224a8390-55ab-95a8-3a80-f425760abbf1",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-12-01&endDate=2010-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
