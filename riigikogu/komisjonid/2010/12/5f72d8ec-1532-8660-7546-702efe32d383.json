@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-12-13T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Keskkonnakomisjoni töökava (13.12.10 –19.12.10) kinnitamine ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0b2e2fd9-171b-fd5e-c30f-c2f6f8e9fbe1"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud keskkonnaseadustiku üldosa seaduse eelnõu (799 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8dc68e10-2271-fff0-9409-88e45e759ba1"
+    },
+    {
+      "order": 3,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "65a6c6a4-1ec4-5f4a-ba6b-b025f25111ba"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 13.12.2010",
+      "uuid": "0280f011-968c-1d77-8fd8-203dadbd803e",
+      "files": [
+        "prot192 13.12.10.doc"
+      ]
+    }
+  ],
+  "uuid": "5f72d8ec-1532-8660-7546-702efe32d383",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 5f72d8ec-1532-8660-7546-702efe32d383)",
+  "source": "https://api.riigikogu.ee/api/volumes/5f72d8ec-1532-8660-7546-702efe32d383",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-12-01&endDate=2010-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
