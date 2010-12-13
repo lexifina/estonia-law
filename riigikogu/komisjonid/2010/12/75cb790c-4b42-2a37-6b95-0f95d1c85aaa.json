@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-12-13T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikaitsekomisjoni töönädala päevakorra kinnitamine  ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "807d199f-e9a1-234c-274f-fdf0ec8d68fe"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse korralduse eelnõu \"Riigikaitse strateegia kehtestamine\"",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "11e1d02c-372f-e051-f191-1e705b26a056"
+    },
+    {
+      "order": 3,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4ed00ab6-b2da-2f04-48d5-b7cbe18af133"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 13.12.2010",
+      "uuid": "11f7ff0e-396e-c8ff-de4a-29cfccb66bd5",
+      "files": [
+        "13.12.10_249.doc"
+      ]
+    }
+  ],
+  "uuid": "75cb790c-4b42-2a37-6b95-0f95d1c85aaa",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 75cb790c-4b42-2a37-6b95-0f95d1c85aaa)",
+  "source": "https://api.riigikogu.ee/api/volumes/75cb790c-4b42-2a37-6b95-0f95d1c85aaa",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-12-01&endDate=2010-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
