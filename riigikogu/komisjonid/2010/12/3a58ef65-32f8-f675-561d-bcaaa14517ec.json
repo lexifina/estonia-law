@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-12-13T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Soolise võrdõiguslikkuse monitooringu arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "27c3e0e2-1ad1-e917-e039-9e297def999a"
+    },
+    {
+      "order": 2,
+      "title": "Kokkuvõtete tegemine VIII istungjärgu tegevusest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2e99f10e-7744-bac8-cffd-3ec9295987f3"
+    },
+    {
+      "order": 3,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1d056429-3169-1b52-e53d-4b7ed74391e0"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 13.12.2010",
+      "uuid": "6b36f367-94e0-32e1-2da0-3df091f321a0",
+      "files": [
+        "Põhiseaduskomisjon_istungi_protokoll_50_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "3a58ef65-32f8-f675-561d-bcaaa14517ec",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3a58ef65-32f8-f675-561d-bcaaa14517ec)",
+  "source": "https://api.riigikogu.ee/api/volumes/3a58ef65-32f8-f675-561d-bcaaa14517ec",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-12-01&endDate=2010-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
