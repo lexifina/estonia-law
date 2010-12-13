@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-12-13T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töönädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "60413a54-2b5f-f81b-07c0-6d54ce5128c8"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud karistusseadustiku, kriminaalmenetluse seadustiku, psühhiaatrilise abi seaduse, karistusregistri seaduse, kriminaalhooldusseaduse ja tervishoiuteenuste korraldamise seaduse muutmise seaduse eelnõu (717 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c3ccdb14-b438-f98b-cf94-bc5cf99db32c"
+    },
+    {
+      "order": 3,
+      "title": "Vabariigi Valitsuse algatatud korrakaitseseaduse eelnõu (49 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ee979b88-ab39-1015-af12-ab738601b625"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 13.12.2010",
+      "uuid": "caa5aab9-a336-1434-b874-0fbbfeb84647",
+      "files": [
+        "iguskomisjon_istungi_protokoll_50_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "510ef22a-ff05-64b3-63fe-0cf55f8e7502",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 510ef22a-ff05-64b3-63fe-0cf55f8e7502)",
+  "source": "https://api.riigikogu.ee/api/volumes/510ef22a-ff05-64b3-63fe-0cf55f8e7502",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-12-01&endDate=2010-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
