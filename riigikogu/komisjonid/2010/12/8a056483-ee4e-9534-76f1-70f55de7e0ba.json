@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-12-13T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Majanduskomisjoni algatatud liiklusseaduse ja sellega seonduvate seaduste muutmise seaduse eelnõu (874 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "456b0e10-1749-da7e-77e2-ffd3ff409304"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsus, Eesti seisukohad Euroopa Komisjoni teatise „Energeetika 2020: Konkurentsivõimelise, säästva ja turvalise energia strateegia“ ja Euroopa Komisjoni teatise „Energiainfrastruktuuride prioriteedid 2020. aastaks ja pärast seda“ kohta   (2.1-11/350)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bc1fe58a-6396-6eed-f72e-567a2ee3facd"
+    },
+    {
+      "order": 3,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "84f1722b-5a78-a87a-41e1-bc41d9fd4b77"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 13.12.2010",
+      "uuid": "10d28037-0ff3-915f-7aaa-d0b795970216",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_50_2010.odt",
+        "Majanduskomisjon_paevakord_13_12_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "8a056483-ee4e-9534-76f1-70f55de7e0ba",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8a056483-ee4e-9534-76f1-70f55de7e0ba)",
+  "source": "https://api.riigikogu.ee/api/volumes/8a056483-ee4e-9534-76f1-70f55de7e0ba",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-12-01&endDate=2010-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
