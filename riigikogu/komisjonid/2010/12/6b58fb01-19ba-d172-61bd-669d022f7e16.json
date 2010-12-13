@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-12-13T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c6acbcf6-64ce-3c18-8cdb-d5cc06e368de"
+    },
+    {
+      "order": 2,
+      "title": "Maaelukomisjoni algatatud riigivaraseaduse täiendamise seaduse eelnõu (840 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1e2f8662-933b-c0d8-e7bd-0bb8e539683b"
+    },
+    {
+      "order": 3,
+      "title": "Vabariigi Valitsuse algatatud toiduseaduse § 17 muutmise seaduse eelnõu (883 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f2da6221-b79b-f31e-5cb9-15fd5d0eb558"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 13.12.2010",
+      "uuid": "58ddd89e-5939-1324-4163-4d2ba979dce1",
+      "files": [
+        "Maaelukomisjon_paevakord_13_12_2010.odt",
+        "Maaelukomisjon_istungi_protokoll_50_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "6b58fb01-19ba-d172-61bd-669d022f7e16",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 6b58fb01-19ba-d172-61bd-669d022f7e16)",
+  "source": "https://api.riigikogu.ee/api/volumes/6b58fb01-19ba-d172-61bd-669d022f7e16",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-12-01&endDate=2010-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
