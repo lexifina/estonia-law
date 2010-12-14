@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-12-14T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "\"Eesti arengukoostöö ja humanitaarabi arengukava 2011-2015\" koostamine. ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7eaa119f-04b5-a511-d197-95769012b43f"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c483cfb9-a05e-7a74-156c-d30ce26e434c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 14.12.2010",
+      "uuid": "c935750c-1c23-902c-4a01-5f49e9c8bd37",
+      "files": [
+        "14.12.10 (297) protokoll.doc"
+      ]
+    }
+  ],
+  "uuid": "4d61d6d8-78a0-0090-8b38-b59f4f49e636",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 4d61d6d8-78a0-0090-8b38-b59f4f49e636)",
+  "source": "https://api.riigikogu.ee/api/volumes/4d61d6d8-78a0-0090-8b38-b59f4f49e636",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-12-01&endDate=2010-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
