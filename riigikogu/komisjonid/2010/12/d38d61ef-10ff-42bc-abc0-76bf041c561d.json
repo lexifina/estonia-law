@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-12-14T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Arutelu perekonnaseaduse rakendumisest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e1450268-490b-06f4-edd0-72fed2e4475e"
+    },
+    {
+      "order": 2,
+      "title": "narkootiliste ja psühhotroopsete ainete ning nende lähteainete seaduse muutmise seaduse eelnõu (886 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "432716c7-76ce-7063-e2f2-5b284542ddf4"
+    },
+    {
+      "order": 3,
+      "title": "Vabariigi Valitsuse algatatud kalmistuseaduse eelnõu (888 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "46f7029b-d1e5-0458-893b-e1b12b7f67f5"
+    },
+    {
+      "order": 4,
+      "title": "Vabariigi Valitsuse algatatud avaliku teabe seaduse ning politsei ja piirivalve seaduse muutmise seaduse eelnõu (891 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "15ed888e-ba7b-24be-4bfd-27de5bccb5a4"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 14.12.2010",
+      "uuid": "433606ee-4381-427f-3e49-a0808ae00552",
+      "files": [
+        "iguskomisjon_istungi_protokoll_50_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "d38d61ef-10ff-42bc-abc0-76bf041c561d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d38d61ef-10ff-42bc-abc0-76bf041c561d)",
+  "source": "https://api.riigikogu.ee/api/volumes/d38d61ef-10ff-42bc-abc0-76bf041c561d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-12-01&endDate=2010-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
