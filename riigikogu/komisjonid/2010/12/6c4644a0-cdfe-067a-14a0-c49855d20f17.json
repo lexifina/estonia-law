@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung",
+  "sitting_time": "2010-12-14T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud keeleseaduse eelnõu (808 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6eec6b8e-4dcb-2965-6523-47149b120b58"
+    },
+    {
+      "order": 2,
+      "title": "Istungjärgu kokkuvõte",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b9cfe955-a844-2211-1eba-2b9634458351"
+    },
+    {
+      "order": 3,
+      "title": "Vabariigi Valitsuse algatatud teadus- ja arendustegevuse korralduse seaduse muutmise seaduse eelnõu (864 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f29de2c3-b1be-7996-0908-b03b7358c766"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 14.12.2010",
+      "uuid": "cb46a2c8-9f59-1338-627d-8f263e109a06",
+      "files": [
+        "Kultuurikomisjon_istungi_protokoll_50_2010.odt"
+      ]
+    }
+  ],
+  "uuid": "6c4644a0-cdfe-067a-14a0-c49855d20f17",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 6c4644a0-cdfe-067a-14a0-c49855d20f17)",
+  "source": "https://api.riigikogu.ee/api/volumes/6c4644a0-cdfe-067a-14a0-c49855d20f17",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2010-12-01&endDate=2010-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
