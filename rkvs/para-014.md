@@ -26,6 +26,6 @@
 
 (6) Vabariigi Valimiskomisjoni asjaajamise ja tehnilise teenindamise tagab Riigikogu Kantselei.
 
-(7) Vabariigi Valimiskomisjon kehtestab oma töökorra .
+(7) Vabariigi Valimiskomisjon kehtestab oma töökorra.
 
 (8) Vabariigi Valimiskomisjon registreeritakse riigi- ja kohaliku omavalitsuse asutuste riiklikus registris.

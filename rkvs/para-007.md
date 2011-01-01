@@ -10,11 +10,7 @@
 
 - 4) käesoleva lõike punkti 3 alusel jaotamata jäänud mandaadid jaotatakse suurimate jääkide põhimõttel, lähtudes käesoleva lõike punktis 2 nimetatud tehete tulemusena saadud arvude murdosadest.
 
-(2) Valijate arv saadakse valimiste väljakuulutamise kuu esimese kuupäeva seisuga Eesti Rahvastikuregistri (edaspidi
-
-rahvastikuregister
-
-) andmete põhjal.
+(2) Valijate arv saadakse valimiste väljakuulutamise kuu esimese kuupäeva seisuga Eesti Rahvastikuregistri (edaspidi rahvastikuregister) andmete põhjal.
 
 (3) Regionaalminister esitab Vabariigi Valimiskomisjonile valijate arvu maakondade ja Tallinnas linnaosade kaupa kolme tööpäeva jooksul, arvates valimiste väljakuulutamisest.
 

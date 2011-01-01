@@ -18,25 +18,25 @@
 
 (4) Vabariigi Valimiskomisjon kehtestab oma määrusega:
 
-- 1) Vabariigi Valimiskomisjoni töökorra ;
+- 1) Vabariigi Valimiskomisjoni töökorra;
 
-- 2) kandidaatide registreerimiseks esitamise ja registreerimise korra ;
+- 2) kandidaatide registreerimiseks esitamise ja registreerimise korra;
 
-- 3) kandidaatide registreerimise avalduse vormi, kandidaatide ringkonnanimekirja vormi, kandidaatide üleriigilise nimekirja vormi, kandideerimisavalduse vormi ja kandidaadi ankeedi vormi ;
+- 3) kandidaatide registreerimise avalduse vormi, kandidaatide ringkonnanimekirja vormi, kandidaatide üleriigilise nimekirja vormi, kandideerimisavalduse vormi ja kandidaadi ankeedi vormi;
 
-- 4) valijate nimekirja vormi ;
+- 4) valijate nimekirja vormi;
 
-- 5) välisriigis hääletamise korra ;
+- 5) välisriigis hääletamise korra;
 
-- 6) hääletamise korraldamise ning hääletamis- ja valimistulemuste kindlakstegemise korra ;
+- 6) hääletamise korraldamise ning hääletamis- ja valimistulemuste kindlakstegemise korra;
 
-- 7) hääletamissedeli vormi ;
+- 7) hääletamissedeli vormi;
 
-- 8) hääletamis- ja valimistulemuste protokollide vormid ;
+- 8) hääletamis- ja valimistulemuste protokollide vormid;
 
-- 9) vaatleja staatuse ;
+- 9) vaatleja staatuse;
 
-- 10) valimiste korraldamiseks eraldatud raha kasutamise korra ;
+- 10) valimiste korraldamiseks eraldatud raha kasutamise korra.
 
 - 11) [Kehtetu]
 

@@ -2,11 +2,7 @@
 
 (1) Jaoskonnakomisjonil on kuni üheksa liiget.
 
-(2) Kohaliku omavalitsuse volikogu (edaspidi
-
-volikogu
-
-) nimetab oma otsusega valla- või linnasekretäri ettepanekul ning poliitilise tasakaalustatuse põhimõtet arvestades jaoskonnakomisjoni esimehe ja liikmed hiljemalt 20. päeval enne valimispäeva.
+(2) Kohaliku omavalitsuse volikogu (edaspidi volikogu) nimetab oma otsusega valla- või linnasekretäri ettepanekul ning poliitilise tasakaalustatuse põhimõtet arvestades jaoskonnakomisjoni esimehe ja liikmed hiljemalt 20. päeval enne valimispäeva.
 
 (3) Pooled jaoskonnakomisjoni liikmetest esitab valla- või linnasekretär ning ülejäänud liikmed esitavad valimistel osalevad erakonnad.
 

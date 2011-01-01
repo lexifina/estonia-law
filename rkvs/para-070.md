@@ -1,10 +1,6 @@
 # § 70. Jaoskonnakomisjoni toimingu peale kaebuse esitamise ja kaebuse läbivaatamise kord
 
-(1) Kui üksikisik, kandidaat või erakond (edaspidi
-
-huvitatud isik
-
-) leiab, et jaoskonnakomisjoni toiminguga rikutakse tema õigusi, võib ta esitada kaebuse maakonna valimiskomisjonile.
+(1) Kui üksikisik, kandidaat või erakond (edaspidi huvitatud isik) leiab, et jaoskonnakomisjoni toiminguga rikutakse tema õigusi, võib ta esitada kaebuse maakonna valimiskomisjonile.
 
 (2) Kaebus tuleb esitada maakonna valimiskomisjonile kolme päeva jooksul, arvates käesoleva paragrahvi lõikes 1 ettenähtud toimingu tegemisest.
 
