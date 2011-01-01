@@ -6,7 +6,7 @@
 
 - 2) vahendite liigi;
 
-- 3) vahendite väärtuse kroonides;
+- 3) vahendite väärtuse eurodes;
 
 - 4) vahendite eraldaja nime ja isiku- või registrikoodi.
 
@@ -20,11 +20,7 @@
 
 - 4) tulu erakonna varalt;
 
-- 5) laen või krediit erakonnaseaduse § 12
-
-- ¹
-
-- lõikes 4 sätestatud tingimustel.
+- 5) laen või krediit erakonnaseaduse § 12¹ lõikes 4 sätestatud tingimustel.
 
 (3) Üksikkandidaadile laekunud vahendite liigid on:
 

@@ -1,8 +1,12 @@
 # § 73². Poliitilisele välireklaamile kehtestatud piirangute rikkumine
 
-(1) Poliitilise välireklaami avalikustamisele kehtestatud piirangute rikkumise eest – karistatakse rahatrahviga kuni 300 trahviühikut.
+(1) Poliitilise välireklaami avalikustamisele kehtestatud piirangute rikkumise eest –
 
-(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 50 000 krooni.
+karistatakse rahatrahviga kuni 300 trahviühikut.
+
+(2) Sama teo eest, kui selle on toime pannud juriidiline isik, –
+
+karistatakse rahatrahviga kuni 3200 eurot.
 
 (3) Poliitilisele välireklaamile kehtestatud nõuete täitmata jätmise või kehtestatud piirangutest üleastumise eest vastutavad reklaami avalikustajatena käesolevas seaduses sätestatud korras:
 
