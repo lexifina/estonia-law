@@ -1,10 +1,6 @@
 # § 15. Riiklik vereteenistuse infosüsteem
 
-(1) Vere kvaliteetse käitlemise ja ravi kvaliteedi tagamise eesmärgil luuakse riiklik vereteenistuse infosüsteem (edaspidi
-
-*vereteenistuse infosüsteem*
-
-).
+(1) Vere kvaliteetse käitlemise ja ravi kvaliteedi tagamise eesmärgil luuakse riiklik vereteenistuse infosüsteem (edaspidi *vereteenistuse infosüsteem*).
 
 (2) Vereteenistuse infosüsteemile ja selle pidamisele kohaldatakse avaliku teabe seaduses ja isikuandmete kaitse seaduses sätestatut käesolevas seaduses sätestatud erisustega. Vereteenistuse infosüsteem koondab ühtseks tervikuks vere käitlemisega seonduvad protsessid, alamregistrid ning muud asjakohased dokumendid.
 

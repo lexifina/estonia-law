@@ -22,4 +22,4 @@
 
 (3) Ettekirjutus koostatakse kahes eksemplaris, millest üks jääb ettekirjutuse koostajale ja teine kohustatud subjektile, kes annab ettekirjutusega tutvumise kohta allkirja.
 
-(4) Ettekirjutuse täitmata jätmise korral võib Ravimiamet või Terviseamet kohaldada sunniraha asendustäitmise ja sunniraha seaduses sätestatud korras. Sunniraha ülemmäär on 25 000 krooni.
+(4) Ettekirjutuse täitmata jätmise korral võib Ravimiamet või Terviseamet kohaldada sunniraha asendustäitmise ja sunniraha seaduses sätestatud korras. Sunniraha ülemmäär on 1600 eurot.

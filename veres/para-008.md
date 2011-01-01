@@ -12,6 +12,8 @@
 
 (4) Verekeskused ja verekabinetid järgivad oma töös häid tootmistavasid.
 
-.
+kooskõlas Euroopa Liidus kehtivate heade tootmistavadega verekomponentide valmistamise eeskirja määrusega, milles sätestab verepreparaatide tootmisele, personalile, ruumidele ja seadmetele, dokumentatsioonile, vere kogumisele, uurimisele, verekomponentide valmistamisele, märgistamisele, säilitamisele ja väljastamisele, pretensioonide lahendamisele ja verekomponentide tagasikutsumisele esitatavad nõuded.
 
-(5) .
+(5) Verekomponentide kvaliteedi nõuded, verekomponentide kvaliteedi kontrollimise ja mikrobioloogiliste uuringute tingimused ja korra
+
+.

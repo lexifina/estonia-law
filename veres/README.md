@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/13227952> (version in force from 2010-01-01)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/13319847> (version in force from 2011-01-01)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -41,5 +41,6 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/13227952> (version in force from
 | **7. peatükk RAKENDUSSÄTTED** | |
 | [§ 27](para-027.md) | Euroopa Komisjoni teavitamine |
 | [§ 28](para-028.md) | Heade tootmistavade rakendamine |
-| [§ 29](para-029.md) | –32. |
+| [§ 29](para-029.md) |  |
+| [§ 32](para-032.md) |  |
 | [§ 33](para-033.md) | Seaduse jõustumine |
