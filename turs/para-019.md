@@ -6,4 +6,6 @@
 
 (3) Ööbimisvõimalusega kaasneva kauba või teenuse müügiks pakkumise ning müügi korral ei pea majutusteenust osutaval ettevõtjal olema eraldi vastavat registreeringut kaubandustegevuse seaduse tähenduses.
 
-(4) .
+(4) Nõuded majutusettevõttele
+
+.

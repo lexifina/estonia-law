@@ -14,15 +14,15 @@
 
 (3) Reisiettevõtja tagatis peab olema piisav käesoleva paragrahvi lõikes 1 nimetatud kohustuste täitmiseks. Lähtuvalt käesoleva seaduse §-s 6 sätestatud tegevusaladest peab tagatis olema § 6 lõike 1:
 
-1) punktis 2 nimetatud tegevusala puhul vähemalt 3 protsenti reisiettevõtja planeeritavast aastasest pakettreiside kogumüügist, kuid mitte vähem kui 20 000 krooni;
+1) punktis 2 nimetatud tegevusala puhul vähemalt 3 protsenti reisiettevõtja planeeritavast aastasest pakettreiside kogumüügist, kuid mitte vähem kui 1300 eurot;
 
-2) punktides 3 ja 5 nimetatud tegevusalade puhul vähemalt 7 protsenti reisiettevõtja planeeritavast aastasest pakettreiside kogumüügist, kuid mitte vähem kui 500 000 krooni;
+2) punktides 3 ja 5 nimetatud tegevusalade puhul vähemalt 7 protsenti reisiettevõtja planeeritavast aastasest pakettreiside kogumüügist, kuid mitte vähem kui 32 000 eurot;
 
-3) punktis 4 nimetatud tegevusala puhul vähemalt 7 protsenti reisiettevõtja planeeritavast aastasest pakettreiside kogumüügist, kuid mitte vähem kui 200 000 krooni;
+3) punktis 4 nimetatud tegevusala puhul vähemalt 7 protsenti reisiettevõtja planeeritavast aastasest pakettreiside kogumüügist, kuid mitte vähem kui 13 000 eurot;
 
-4) punktis 6 nimetatud tegevusala puhul vähemalt 3 protsenti reisiettevõtja planeeritavast aastasest pakettreiside kogumüügist, kuid mitte vähem kui 200 000 krooni;
+4) punktis 6 nimetatud tegevusala puhul vähemalt 3 protsenti reisiettevõtja planeeritavast aastasest pakettreiside kogumüügist, kuid mitte vähem kui 13 000 eurot;
 
-5) punktis 7 nimetatud tegevusala puhul vähemalt 1 protsent reisiettevõtja planeeritavast aastasest pakettreiside kogumüügist, kuid mitte vähem kui 200 000 krooni.
+5) punktis 7 nimetatud tegevusala puhul vähemalt 1 protsent reisiettevõtja planeeritavast aastasest pakettreiside kogumüügist, kuid mitte vähem kui 13 000 eurot.
 
 (4) Tagatist ei pea olema käesoleva seaduse § 6 lõike 1 punktis 1 nimetatud tegevusalal tegutsedes.
 
@@ -52,4 +52,4 @@
 
 1) ;
 
-2) .
+2) tagatise kasutamise korra.

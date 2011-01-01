@@ -4,21 +4,9 @@
 
 .
 
-(2) Turismiinfokeskuse vastavust kohustuslikele nõuetele kinnitab selle tähistus vastavalt käesoleva seaduse § 26 lõigetes 3 ja 3
+(2) Turismiinfokeskuse vastavust kohustuslikele nõuetele kinnitab selle tähistus vastavalt käesoleva seaduse § 26 lõigetes 3 ja 3¹ sätestatule.
 
-¹
-
-sätestatule.
-
-(3) Turismiinfokeskuse vastavust kohustuslikele nõuetele hindab, õiguse turismiinfokeskusena tegutseda ning turismiinfokeskust i-märgiga tähistada (edaspidi
-
-*turismiinfokeskusena tegutsemine*
-
-) annab ja võtab ära Ettevõtluse Arendamise Sihtasutus (edaspidi
-
-*õiguse andja*
-
-).
+(3) Turismiinfokeskuse vastavust kohustuslikele nõuetele hindab, õiguse turismiinfokeskusena tegutseda ning turismiinfokeskust i-märgiga tähistada (edaspidi *turismiinfokeskusena tegutsemine*) annab ja võtab ära Ettevõtluse Arendamise Sihtasutus (edaspidi *õiguse andja*).
 
 (4) Turismiinfokeskusena tegutsemise õigus antakse tasuta tähtajaliselt või tähtajatult.
 

@@ -1,3 +1,3 @@
 # § 35.
 
-[Käesolevast tekstist välja jäetud]
+[Käesolevast tekstist välja jäetud.]

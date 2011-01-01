@@ -10,4 +10,4 @@
 
 (2) Käesoleva seaduse § 30 lõikes 1 nimetatud järelevalvet teostavad asutused kannavad andmed majutusteenuse osutajale või reisiettevõtjale tehtud ettekirjutuse kohta registrisse vastavalt majandustegevuse registri seaduses sätestatule.
 
-(3) Käesoleva paragrahvi lõikes 1 sätestatud ettekirjutuse täitmata jätmise korral võib järelevalvet teostav ametiisik rakendada sunnivahendit asendustäitmise ja sunniraha seaduses sätestatud korras. Sunniraha ülemmäär on 10 000 krooni.
+(3) Käesoleva paragrahvi lõikes 1 sätestatud ettekirjutuse täitmata jätmise korral võib järelevalvet teostav ametiisik rakendada sunnivahendit asendustäitmise ja sunniraha seaduses sätestatud korras. Sunniraha ülemmäär on 640 eurot.

@@ -4,11 +4,7 @@
 
 (2) Vabariigi Valitsuse määratud isik avaldab veebilehel majutusettevõtete ja turismiinfokeskustega seonduvaid andmeid, samuti andmeid giidide ja giid-tõlkide kohta ning turismiinfokeskuste poolt edastatud turismiinfot.
 
-(3) Turismiinfokeskus tähistatakse märgiga, kus rohelisel põhjal asetseb valget värvi täht «i» (edaspidi
-
-*i-märk*
-
-).
+(3) Turismiinfokeskus tähistatakse märgiga, kus rohelisel põhjal asetseb valget värvi täht «i» (edaspidi *i-märk*).
 
 (3¹) Turismiinfokeskuse tähistamisel võib lisaks käesoleva paragrahvi lõikes 3 nimetatud tähistusele kasutada sõna «külastuskeskus» vastavalt käesoleva seaduse § 27 lõike 1 alusel kehtestatud nõuetele ja korrale.
 

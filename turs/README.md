@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/13309183> (version in force from 2010-05-16)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/13309741> (version in force from 2011-01-01)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -19,7 +19,8 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/13309183> (version in force from
 | [§ 9](para-009.md) |  |
 | [§ 10](para-010.md) | Reisiettevõtja registreerimise taotlus |
 | [§ 11](para-011.md) | Registreerimismenetlus ja registriandmed |
-| [§ 12](para-012.md) | –14. |
+| [§ 12](para-012.md) |  |
+| [§ 14](para-014.md) |  |
 | [§ 15](para-015.md) | Tagatis |
 | [§ 16](para-016.md) | Giid, giid-tõlk ja reisisaatja |
 | **3. peatükk MAJUTUSETTEVÕTTED** | |
@@ -48,7 +49,8 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/13309183> (version in force from
 | [§ 31³](para-031b3.md) | Majutusteenuse kasutaja registreerimise kohustuse ja külastajakaardi säilitamise nõude rikkumine |
 | [§ 31⁴](para-031b4.md) | Turismiinfokeskusele esitatud nõuete rikkumine |
 | [§ 31⁵](para-031b5.md) | Menetlus |
-| [§ 32](para-032.md) | –33. |
+| [§ 32](para-032.md) |  |
+| [§ 33](para-033.md) |  |
 | **6. peatükk LÕPPSÄTTED** | |
 | [§ 34](para-034.md) |  |
 | [§ 35](para-035.md) |  |
