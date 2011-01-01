@@ -4,7 +4,7 @@
 
 (2) Hääletamisõigus on välismaalasel, kes vastab käesoleva paragrahvi lõikes 1 nimetatud tingimustele ja kes:
 
-1) elab Eestis pikaajalise elaniku elamisloa või alalise elamisõiguse alusel;
+1) elab Eestis pikaajalise elaniku elamisloa või alalise elamisõiguse alusel.
 
 (3) Hääleõiguslik ei ole isik, kes on valimisõiguse osas teovõimetuks tunnistatud.
 

@@ -16,13 +16,25 @@
 
 (4) Vabariigi Valimiskomisjon kehtestab oma määrusega:
 
+1) ;
+
+1¹) ;
+
 2) ;
+
+3) ;
 
 4) ;
 
+5) ;
+
+6) ;
+
 7) ;
 
-9) ;
+8) ;
+
+9) .
 
 (5) Vabariigi Valimiskomisjoni pädevuses oleva üksikküsimuse lahendamiseks võtab Vabariigi Valimiskomisjon vastu otsuse. Otsusele kirjutab alla komisjoni esimees. Otsus jõustub allakirjutamisega.
 

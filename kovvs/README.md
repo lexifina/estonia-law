@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/13184484> (version in force from 2010-01-01)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/13325108> (version in force from 2011-01-01)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -103,5 +103,6 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/13184484> (version in force from
 | [§ 69](para-069.md) | Volikogu asendusliikmete registreerimine |
 | [§ 70](para-070.md) | Lisamandaatide registreerimine |
 | [§ 70¹](para-070b1.md) |  |
-| [§ 71](para-071.md) | –73. |
+| [§ 71](para-071.md) |  |
+| [§ 73](para-073.md) |  |
 | [§ 74](para-074.md) | Seaduse jõustumine |

@@ -1,6 +1,6 @@
 # § 65. Maakonna valimiskomisjoni otsuse või toimingu peale kaebuse esitamise ja kaebuse läbivaatamise kord
 
-(1) Kui huvitatud isik leiab, et maakonna valimiskomisjoni otsuse või toiminguga rikutakse tema õigusi, võib ta esitada kaebuse Vabariigi Valimiskomisjonile. Isik, kelle käesoleva seaduse § 64 lõikes 1 nimetatud kaebuse jättis maakonna valimiskomisjon rahuldamata, võib esitada kaebuse Vabariigi Valimiskomisjonile*.*
+(1) Kui huvitatud isik leiab, et maakonna valimiskomisjoni otsuse või toiminguga rikutakse tema õigusi, võib ta esitada kaebuse Vabariigi Valimiskomisjonile. Isik, kelle käesoleva seaduse § 64 lõikes 1 nimetatud kaebuse jättis maakonna valimiskomisjon rahuldamata, võib esitada kaebuse Vabariigi Valimiskomisjonile.
 
 (2) Kaebus esitatakse vaidlustatava otsuse või toimingu teinud või vaidlustatud toimingu peale esitatud kaebuse läbi vaadanud maakonna valimiskomisjonile käesoleva paragrahvi lõikes 1 ettenähtud otsuse või toimingu tegemisest alates kolme päeva jooksul. Maakonna valimiskomisjon edastab kaebuse omapoolse kirjaliku selgitusega viivitamata Vabariigi Valimiskomisjonile.
 

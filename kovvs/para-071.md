@@ -1,3 +1,3 @@
-# § 71–73.
+# § 71.
 
-[Käesolevast tekstist välja jäetud]
+–

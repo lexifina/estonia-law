@@ -6,7 +6,7 @@
 
 2) vahendite liigi;
 
-3) vahendite väärtuse kroonides;
+3) vahendite väärtuse eurodes;
 
 4) vahendite eraldaja nime ja isiku- või registrikoodi.
 

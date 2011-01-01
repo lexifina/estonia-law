@@ -10,7 +10,7 @@
 
 4) mille eest maksti;
 
-5) makse summa kroonides.
+5) makse summa eurodes.
 
 (2) Kulude liigid on:
 

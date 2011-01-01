@@ -20,4 +20,4 @@
 
 (5) Valla või linna valimiskomisjon registreerib nõuetekohaselt registreerimiseks esitatud valimisliidu kolme päeva jooksul pärast käesoleva paragrahvi lõikes 3 märgitud dokumentide saamist.
 
-(6) Valla või linna valimiskomisjon ei registreeri valimisliitu, kui selle registreerimiseks esitamise tähtaja jooksul ei ole esitatud käesoleva paragrahvi lõikes 3 märgitud dokumente või neis on puudusi või vigu või kui käesolevast seadusest tulenevalt ei ole valimisliidu moodustamine lubatud.
+(6) Valla või linna valimiskomisjon ei registreeri valimisliitu, kui selle registreerimiseks esitamise tähtaja jooksul ei ole esitatud käesoleva paragrahvi lõikes 3 märgitud dokumente või neis on puudusi või vigu või kui käesolevast seadusest tulenevalt ei ole valimisliidu moodustamine lubatud.

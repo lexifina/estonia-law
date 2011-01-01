@@ -1,6 +1,6 @@
 # § 8. Valimisringkondade moodustamine
 
-(1) Volikogu moodustab valla või linna territooriumil ühe valimisringkonna. Üle 300 000 elanikuga kohaliku omavalitsuse üksuses moodustab volikogu kaheksa valimisringkonda, välja arvatud käesoleva paragrahvi lõike 4¹ teises lauses nimetatud juhul.
+(1) Volikogu moodustab valla või linna territooriumil ühe valimisringkonna. Üle 300 000 elanikuga kohaliku omavalitsuse üksuses moodustab volikogu kaheksa valimisringkonda, välja arvatud käesoleva paragrahvi lõike 4¹ teises lauses nimetatud juhul.
 
 (2) Mitu valimisringkonda võib moodustada:
 
@@ -14,7 +14,7 @@
 
 (3) Mandaatide arv moodustatavates valimisringkondades ei või olla väiksem kui kolm.
 
-(3¹) Käesoleva paragrahvi lõike 2 punktis 2 nimetatud juhul moodustatakse valimisringkonnad ühinenud kohaliku omavalitsuse üksuste kaupa, lõike 2 punktis 2¹ nimetatud juhul moodustatakse valimisringkonnad ühinevate kohaliku omavalitsuse üksuste kaupa.
+(3¹) Käesoleva paragrahvi lõike 2 punktis 2 nimetatud juhul moodustatakse valimisringkonnad ühinenud kohaliku omavalitsuse üksuste kaupa, lõike 2 punktis 2¹ nimetatud juhul moodustatakse valimisringkonnad ühinevate kohaliku omavalitsuse üksuste kaupa.
 
 (4) Tallinnas moodustab volikogu valimisringkonnad linnaosade kaupa.
 

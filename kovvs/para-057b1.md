@@ -8,6 +8,6 @@
 
 (4) Valla või linna valimiskomisjon kehtestab oma otsusega kooskõlastatult Vabariigi Valimiskomisjoniga valimistoimingute tähtajad ning avalikustab need kolme päeva jooksul, arvates valimiste väljakuulutamise päevast.
 
-(5) Uue kohaliku omavalitsuse üksuse volikogu valimistel peab kandidaatide registreerimiseks esitamiseks ja registreerimiseks jääma kokku vähemalt 25 päeva.
+(5) Uue kohaliku omavalitsuse üksuse volikogu valimistel peab kandidaatide registreerimiseks esitamiseks ja registreerimiseks jääma kokku vähemalt 25 päeva.
 
 (6) Uue kohaliku omavalitsuse üksuse volikogu valimistel ei kohaldata käesoleva seaduse §-des 47, 48 ja 50 ettenähtut. Väljaspool elukohajärgset valimisjaoskonda valija asukohas toimuv eelhääletamine (§ 49) ja hääletamine kinnipidamiskohas (§ 51) korraldatakse ainult ühineva kohaliku omavalitsuse üksuse territooriumil. Valla- või linnavalitsus määrab jaoskonnakomisjoni, kes korraldab hääletamist valija asukohas või kinnipidamiskohas.
