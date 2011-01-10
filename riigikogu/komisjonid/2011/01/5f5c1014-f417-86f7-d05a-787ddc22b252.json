@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-01-10T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Sotsiaalkomisjoni algatatud tööturuteenuste ja -toetuste seaduse ning töötuskindlustuse seaduse muutmise seaduse eelnõu (879 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2827af55-bd25-a89f-ea2d-c8e0df677338"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud rahvatervise seaduse ja sellega seonduvate seaduste muutmise seaduse eelnõu (906 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f05cf490-3f13-de03-bd8d-247ec5507bdd"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 10.01.2011",
+      "uuid": "28e6ac2d-0d76-4d21-a1cc-1e18e409ebfc",
+      "files": [
+        "Sotsiaalkomisjon_istungi_protokoll_02_2011.odt",
+        "Sotsiaalkomisjon_paevakord_10_01_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "5f5c1014-f417-86f7-d05a-787ddc22b252",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 5f5c1014-f417-86f7-d05a-787ddc22b252)",
+  "source": "https://api.riigikogu.ee/api/volumes/5f5c1014-f417-86f7-d05a-787ddc22b252",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-01-01&endDate=2011-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
