@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-01-10T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "98c23499-4b69-d66d-52f7-7e0872a79750"
+    },
+    {
+      "order": 2,
+      "title": "Sotsiaaldemokraatliku Erakonna fraktsiooni, Riigikogu liige Karel Rüütli, Riigikogu liige Jaanus Marrandi, Riigikogu liige Jaan Õunapuu algatatud õppetoetuste ja õppelaenu seaduse muutmise seaduse eelnõu (865 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2d9ad2f7-1551-6c70-61cd-cec8122e3e8a"
+    },
+    {
+      "order": 3,
+      "title": "Vabariigi Valitsuse algatatud muinsuskaitseseaduse ja sellega seonduvalt teiste seaduste muutmise seaduse eelnõu (806 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ac5ce20b-ea20-d123-0f89-72d90a7314a0"
+    },
+    {
+      "order": 4,
+      "title": "Info ja kirjad",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "00c899b7-8e3d-7cdf-9202-69902cdbbb0a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 10.01.2011",
+      "uuid": "5465925b-d658-6457-88c7-fad8ef99ad5b",
+      "files": [
+        "Kultuurikomisjon_istungi_protokoll_02_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "f923db1f-9a50-273b-d892-3ec38a040980",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f923db1f-9a50-273b-d892-3ec38a040980)",
+  "source": "https://api.riigikogu.ee/api/volumes/f923db1f-9a50-273b-d892-3ec38a040980",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-01-01&endDate=2011-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
