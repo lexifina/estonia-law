@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-01-10T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5b75d56f-eb67-6256-b538-5e9a87158182"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud toiduseaduse § 17 muutmise seaduse eelnõu (883 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "04eedf9b-e8bd-acd3-3466-f6be475f5bf1"
+    },
+    {
+      "order": 3,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cf9c1b85-d1e9-27d1-a37f-0e4a497b4c0d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 10.01.2011",
+      "uuid": "a899327a-88ed-83f1-e911-06f7df2111d9",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_02_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "66bcd6e9-98bf-a637-da96-8ee07a537821",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 66bcd6e9-98bf-a637-da96-8ee07a537821)",
+  "source": "https://api.riigikogu.ee/api/volumes/66bcd6e9-98bf-a637-da96-8ee07a537821",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-01-01&endDate=2011-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
