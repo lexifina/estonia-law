@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-01-11T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud ravikindlustuse seaduse § 41 muutmise seaduse eelnõu (873 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2655173d-c6e5-85be-94f2-f9c0cb3d5d28"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud ravimiseaduse § 39 muutmise seaduse eelnõu (872 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fe74e985-7280-8d62-f800-745e76f760cc"
+    },
+    {
+      "order": 3,
+      "title": "Vabariigi Valitsuse algatatud sotsiaalhoolekande seaduse muutmise seaduse eelnõu (904 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b863015a-cdf8-99d6-3c4b-e7a919187ea0"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 11.01.2011",
+      "uuid": "9246c064-857b-84ed-127d-9a3b983b35f5",
+      "files": [
+        "Sotsiaalkomisjon_istungi_protokoll_02_2011.odt",
+        "Sotsiaalkomisjon_paevakord_11_01_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "3f36430e-6790-5d15-b717-ad9ffbc0bbd9",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3f36430e-6790-5d15-b717-ad9ffbc0bbd9)",
+  "source": "https://api.riigikogu.ee/api/volumes/3f36430e-6790-5d15-b717-ad9ffbc0bbd9",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-01-01&endDate=2011-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
