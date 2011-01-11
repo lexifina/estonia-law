@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-01-11T12:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Õiguskomisjoni algatatud halduskohtumenetluse seadustik (902 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "56892040-b2ed-a4ae-25ed-d3ccf49e93e3"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud võlaõigusseaduse, sotsiaalmaksuseaduse ja mittetulundusühingute seaduse muutmise seaduse eelnõu (881 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7ebf8375-54e7-b040-de88-08c873d97005"
+    },
+    {
+      "order": 3,
+      "title": "Arvamus Riigikohtule",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fdc3f923-be20-b173-285e-d99c5406ef93"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 11.01.2011",
+      "uuid": "69b77f1c-1ba7-336e-39a8-4d758a8d1978",
+      "files": [
+        "iguskomisjon_istungi_protokoll_02_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "72a8dc60-5232-7f15-47b1-2566879ee862",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 72a8dc60-5232-7f15-47b1-2566879ee862)",
+  "source": "https://api.riigikogu.ee/api/volumes/72a8dc60-5232-7f15-47b1-2566879ee862",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-01-01&endDate=2011-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
