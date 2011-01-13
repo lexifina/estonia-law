@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-01-13T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Välispoliitika arutelu olulise tähtsusega riikliku küsimusena Riigikogu täiskogul teisipäeval, 8. veebruaril 2011 – Vabariigi Valitsuse ettekande teesid. ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cffb8ca3-6374-5bf3-9a2f-c636b031ff94"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9d3df976-d6b5-9278-1ecd-5099b32c403d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 13.01.2011",
+      "uuid": "e286b380-b7b8-8a07-1957-46d8d541a636",
+      "files": [
+        "Väliskomisjon_paevakord_13_01_2011.odt",
+        "13.01.11 (300) protokoll.doc"
+      ]
+    }
+  ],
+  "uuid": "ad1537ea-5bae-1182-3ef5-82d9d8f432da",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ad1537ea-5bae-1182-3ef5-82d9d8f432da)",
+  "source": "https://api.riigikogu.ee/api/volumes/ad1537ea-5bae-1182-3ef5-82d9d8f432da",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-01-01&endDate=2011-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
