@@ -20,6 +20,8 @@
 
 5. peatükk PIIRATUD JUURDEPÄÄSUGA TEAVE
 
+5¹. peatükk ANDMEKOGUD
+
 6. peatükk JÄRELEVALVE
 
 6¹. peatükk VASTUTUS

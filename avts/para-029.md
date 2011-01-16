@@ -1,10 +1,10 @@
 # § 29. Teabe avalikustamise viisid
 
-(1) Käesoleva seaduse § 28 lõikes 1 loetletud teave tuleb avalikustada veebilehel.
+(1) Käesoleva seaduse § 28 lõikes 1 loetletud teave tuleb käesoleva seaduse §-s 31 nimetatud teabevaldajal avalikustada veebilehel, või lisatakse veebilehe link, mille kaudu on teave kättesaadav.
 
 (2) Lisaks veebilehele võib käesoleva seaduse § 28 lõikes 1 loetletud teabe avalikustada:
 
-1) ringhäälingus või trükiajakirjanduses;
+1) tele- või raadioprogrammis või trükiajakirjanduses;
 
 2) dokumendi väljapanekuga üldiseks tutvumiseks kohaliku omavalitsuse asutuses või rahvaraamatukogus;
 

@@ -2,6 +2,6 @@
 
 (1) Teabenõude täitmise kulud katab teabevaldaja, kui seadusega ei ole ette nähtud teisiti.
 
-(2) Paberkandjal koopiate valmistamise eest tasub teabenõudja kuni kolm krooni iga väljastatud lehekülje eest alates 21. leheküljest, kui seadusega ei ole teabe väljastamise eest riigilõivu ette nähtud.
+(2) Paberkandjal koopiate valmistamise ja väljatrükkide eest tasub teabenõudja kuni 0,19 eurot iga väljastatud lehekülje eest alates 21. leheküljest, kui seadusega ei ole teabe väljastamise eest riigilõivu ette nähtud.
 
 (3) Riigi- ja kohaliku omavalitsuse asutuse esitatud teabenõude täitmise kulud katab teabevaldaja.

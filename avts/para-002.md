@@ -6,16 +6,18 @@
 
 2) piiratud juurdepääsuga avaliku teabe ja sellele juurdepääsu võimaldamise korra teiste seadustega reguleerimata osas;
 
+2¹) andmekogude asutamise ja haldamise alused ning järelevalve andmekogude haldamise üle;
+
 3) teabele juurdepääsu korraldamise üle riikliku järelevalve teostamise korra.
 
 (2) Käesolevat seadust ei kohaldata:
 
-1) riigisaladuseks oleva teabe suhtes;
+1) riigisaladuseks või salastatud välisteabeks oleva teabe suhtes kuni teabe salastatuse kustumiseni;
 
-2) juurdepääsu võimaldamisel avalikele arhivaalidele arhiiviasutuste poolt arhiiviseaduses (RT I 1998, 36/37, 552; 1999, 16, 271) ja selle alusel sätestatud korras;
+2) juurdepääsu võimaldamisel avalikele arhivaalidele arhiiviasutuste poolt arhiiviseaduses ja selle alusel sätestatud korras, välja arvatud juurdepääsupiirangute kehtestamise osas;
 
 3) märgukirjale ja selgitustaotlusele vastamise seaduses sätestatud korras märgukirjadele ja selgitustaotlustele vastamisele, kui vastamine eeldab jäädvustatud teabe analüüsimist, sünteesimist või täiendava teabe kogumist ja dokumenteerimist;
 
 4) teabele juurdepääsupiirangute, juurdepääsu eritingimuste, korra ja viiside osas, juhul kui need on eriseaduses või välislepingus sätestatud teisiti.
 
-(3) Käesolevas seaduses ettenähtud haldusmenetlusele kohaldatakse haldusmenetluse seaduse (RT I 2001, 58, 354) sätteid, arvestades käesoleva seaduse erisusi.
+(3) Käesolevas seaduses ettenähtud haldusmenetlusele kohaldatakse haldusmenetluse seaduse sätteid, arvestades käesoleva seaduse erisusi.

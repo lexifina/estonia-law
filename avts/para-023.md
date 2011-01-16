@@ -26,4 +26,4 @@
 
 7) teabenõudja sideandmed puuduvad.
 
-(3) Teabevaldaja teeb käesoleva paragrahvi lõikes 1 või 2 sätestatud alusel teabenõude täitmisest keeldumise teabenõudjale teatavaks viie tööpäeva jooksul.
+(3) Teabevaldaja teeb teabenõude täitmisest keeldumise koos põhjendusega teabenõudjale teatavaks viie tööpäeva jooksul.

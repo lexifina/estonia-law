@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/12766090> (version in force from 2007-01-01)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/106012011026> (version in force from 2011-01-16)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -34,7 +34,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/12766090> (version in force from
 | [§ 21](para-021.md) | Teabenõude edastamine vastavalt kuuluvusele |
 | [§ 22](para-022.md) | Avalikustatud teabe juurde juhatamine |
 | [§ 23](para-023.md) | Teabenõude täitmisest keeldumine |
-| [§ 24](para-024.md) | Teabenõude täitmise ja sellest keeldumise registreerimine |
+| [§ 24](para-024.md) |  |
 | **3. jagu Teabenõude täitmise kulud** | |
 | [§ 25](para-025.md) | Teabenõude täitmise kulude katmine |
 | [§ 26](para-026.md) | Kulude katmisest vabastamine |
@@ -47,6 +47,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/12766090> (version in force from
 | **2. jagu Teabe avalikustamine üldkasutatavas andmesidevõrgus** | |
 | [§ 31](para-031.md) | Veebilehe pidamise kohustus |
 | [§ 32](para-032.md) | Riigi- ja kohaliku omavalitsuse asutuse veebilehe pidamise nõuded |
+| [§ 32¹](para-032b1.md) | Eesti teabevärav |
 | [§ 33](para-033.md) | Juurdepääs andmesidevõrgule |
 | **5. peatükk PIIRATUD JUURDEPÄÄSUGA TEAVE** | |
 | [§ 34](para-034.md) | Piiratud juurdepääsuga teave |
@@ -59,16 +60,28 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/12766090> (version in force from
 | [§ 41](para-041.md) | Teabe asutusesiseseks tunnistamise kord |
 | [§ 42](para-042.md) | Juurdepääsupiirangu kehtetuks tunnistamine |
 | [§ 43](para-043.md) | Asutusesisese teabe kaitse |
+| **5¹. peatükk ANDMEKOGUD** | |
+| [§ 43¹](para-043b1.md) | Andmekogu |
+| [§ 43²](para-043b2.md) | Riigi infosüsteem |
+| [§ 43³](para-043b3.md) | Andmekogu asutamine |
+| [§ 43⁴](para-043b4.md) | Andmekogu vastutav ja volitatud töötleja |
+| [§ 43⁵](para-043b5.md) | Andmekogu põhimäärus |
+| [§ 43⁶](para-043b6.md) | Põhiandmed ja andmete tähendus |
+| [§ 43⁷](para-043b7.md) | Andmekogu registreerimine |
+| [§ 43⁸](para-043b8.md) | Andmekogu avalikkus |
+| [§ 43⁹](para-043b9.md) | Riigi infosüsteemi kindlustavad süsteemid |
 | **6. peatükk JÄRELEVALVE** | |
 | [§ 44](para-044.md) | Järelevalve seaduse täitmise üle |
 | [§ 45](para-045.md) | Andmekaitse Inspektsiooni järelevalvepädevus |
 | [§ 46](para-046.md) | Vaide või kaebuse esitamine teabenõude täitmisest keeldumise või mittenõuetekohase täitmise peale |
-| [§ 47](para-047.md) | Vaide esitamine riikliku järelevalve menetluse algatamiseks |
-| [§ 48](para-048.md) | –49. |
+| [§ 47](para-047.md) |  |
+| [§ 48](para-048.md) |  |
+| [§ 49](para-049.md) |  |
 | [§ 50](para-050.md) | Andmekaitse Inspektsiooni õigused |
 | [§ 51](para-051.md) | Andmekaitse Inspektsiooni ettekirjutus |
 | [§ 52](para-052.md) | Andmekaitse Inspektsiooni ettekirjutuse täitmine |
 | [§ 53](para-053.md) | Andmekaitse Inspektsiooni taotlus teenistusliku järelevalve korraldamiseks |
+| [§ 53¹](para-053b1.md) | Järelevalve andmekogude haldamise üle |
 | [§ 54](para-054.md) | Andmekaitse Inspektsiooni ettekanne seaduse täitmisest |
 | **6¹. peatükk VASTUTUS** | |
 | [§ 54¹](para-054b1.md) | Avaliku teabe avalikustamise ja väljastamise nõuete rikkumine |
@@ -77,6 +90,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/12766090> (version in force from
 | [§ 56](para-056.md) | Veebilehe pidamise alustamine |
 | [§ 57](para-057.md) | Riigi ja kohaliku omavalitsuse andmekogudes peetavatele andmetele juurdepääsu korra kooskõlla viimine seadusega |
 | [§ 58](para-058.md) | Asjaajamiskorra kooskõlla viimine käesoleva seadusega |
+| [§ 58¹](para-058b1.md) | Seaduse 5¹. peatüki rakendamine |
 | [§ 59](para-059.md) |  |
 | [§ 68](para-068.md) |  |
 | [§ 69](para-069.md) | Seaduse jõustumine |

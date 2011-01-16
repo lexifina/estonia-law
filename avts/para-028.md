@@ -26,7 +26,7 @@
 
 12) andmed riigieelarve tulude laekumise kohta;
 
-13) ;
+13) andmed keskkonnaseisundi, keskkonnakahjustuste ja ohtlike keskkonnamõjude kohta;
 
 14) riikliku või teenistusliku järelevalve ettekirjutused või otsused nende jõustumisest alates;
 
@@ -36,7 +36,7 @@
 
 17) kontseptsioonide, arengukavade, programmide ja muude üldise tähtsusega projektide eelnõud enne pädevatele organitele heakskiitmiseks esitamist, samuti vastavad heakskiidetud või vastuvõetud dokumendid;
 
-18) andmed riigi- või kohaliku omavalitsuse asutuse tellitud uurimuste ja analüüside kohta;
+18) riigi- või kohaliku omavalitsuse asutuse tellitud uuringud ja analüüsid;
 
 19) andmed riigi- ja kohaliku omavalitsuse asutuste täitmata ametikohtade kohta;
 
@@ -60,7 +60,7 @@
 
 29) jõustunud kohtulahendid seadusest tulenevate piirangutega;
 
-30) riigi põhiregistrite ja riiklike registrite andmed seadusega ettenähtud ulatuses;
+30) andmekogudes sisalduvad andmed, millele ei ole kehtestatud juurdepääsupiirangut;
 
 31) asutuse dokumendiregistri;
 

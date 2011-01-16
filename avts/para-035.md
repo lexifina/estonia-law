@@ -2,32 +2,64 @@
 
 (1) Teabevaldaja on kohustatud tunnistama asutusesiseseks kasutamiseks mõeldud teabeks:
 
-1) kriminaal- või väärteomenetluses kogutud teabe kuni asja kohtusse esitamiseni, kuid mitte kauemaks kui aegumistähtaja lõpuni;
+1) kriminaal- või väärteomenetluses kogutud teabe, välja arvatud vastavalt väärteomenetluse seadustikus ja kriminaalmenetluse seadustikus sätestatud tingimustel avaldatava teabe;
 
 2) riikliku järelevalve menetluse käigus kogutud teabe kuni selle kohta tehtud otsuse jõustumiseni;
 
 3) teabe, mille avalikuks tulek kahjustaks riigi välissuhtlemist;
 
-4) teabe kaitsejõudude väeosade ja isikkoosseisu relvastuse ja paiknemise kohta, kui see teave ei ole riigisaladus;
+4) teabe kaitseväe relvastuse ja varustuse tabelite ning relvastuse ja varustuse hulga kohta, kui selline teave ei ole riigisaladus või salastatud välisteave;
 
-5) teabe, mille avalikuks tulek ohustaks muinsuskaitse all olevat objekti;
+5) kaitseväe valdusse sõjalise valmisoleku tõstmisel ja mobilisatsiooni korral üleantava riigivara kohta käiva teabe;
 
-6) teabe, mille avalikuks tulek ohustaks kaitseala või kaitsealuse liigi ning tema elupaiga või kasvukoha säilimist;
+5¹) teabe politsei tegevuse meetodite ja taktika kohta, kui selle avalikuks tulek võib raskendada süütegude avastamist või soodustada nende toimepanemist;
 
-7) teabe turvasüsteemide, turvaorganisatsiooni või turvameetmete kirjelduse kohta;
+6) teabe riigikaitselise sundkoormise kohta;
 
-8) teabe tehnoloogiliste lahenduste kohta, kui sellise teabe avalikuks tulek kahjustaks teabevaldaja huve või sellise teabe asutusesiseseks kasutamiseks tunnistamine on ette nähtud eraõigusliku isikuga sõlmitud lepingus;
+7) teabe, mille avalikuks tulek ohustaks muinsuskaitse all olevat objekti või muuseumikogusse kuuluvat museaali;
 
-9) seaduses sätestatud muu teabe;
+8) teabe, mille avalikuks tulek ohustaks kaitseala või kaitsealuse liigi ning tema elupaiga või kasvukoha säilimist;
 
-10) teabe, mis sisaldab eraelulisi või delikaatseid isikuandmeid;
+9) teabe turvasüsteemide, turvaorganisatsiooni või turvameetmete kirjelduse kohta;
 
-11) teabe, mis sisaldab isikuandmeid, kui see kahjustaks oluliselt andmesubjekti eraelu puutumatust.
+10) teabe tehnoloogiliste lahenduste kohta, kui sellise teabe avalikuks tulek kahjustaks teabevaldaja huve või sellise teabe asutusesiseseks kasutamiseks tunnistamine on ette nähtud eraõigusliku isikuga sõlmitud lepingus;
+
+11) teabe, mis sisaldab delikaatseid isikuandmeid;
+
+12) teabe, mis sisaldab isikuandmeid, kui sellisele teabele juurdepääsu võimaldamine kahjustaks oluliselt andmesubjekti eraelu puutumatust;
+
+13) teabe, mis sisaldab perekonnaelu üksikasju kirjeldavaid andmeid;
+
+14) teabe sotsiaalabi või sotsiaalteenuste osutamise taotlemise kohta;
+
+15) teabe, mis kirjeldab isiku vaimseid või füüsilisi kannatusi;
+
+16) isiku kohta seoses maksustamisega kogutud teabe, välja arvatud teabe maksuvõlgnevuste kohta;
+
+17) teabe, mille avalikustamine võib kahjustada ärisaladust;
+
+18) siseauditi aruanded enne nende kinnitamist asutuse juhi poolt;
+
+18¹) elutähtsa teenuse riskianalüüsi ja toimepidevuse plaani puudutav teave;
+
+19) seaduses sätestatud muu teabe.
+
+(1¹) Käesoleva paragrahvi lõike 1 punkti 11 alusel tunnistatakse asutusesiseseks kasutamiseks mõeldud teabeks teave, mis sisaldab:
+
+1) perekonnaelu üksikasju kirjeldavaid andmeid;
+
+2) sotsiaalabi või sotsiaalteenuste osutamise taotlemist kirjeldavaid andmeid;
+
+3) isiku vaimseid või füüsilisi kannatusi kirjeldavaid andmeid;
+
+4) isiku kohta seoses maksustamisega kogutud teavet, välja arvatud teave maksuvõlgnevuste kohta.
 
 (2) Riigi- või kohaliku omavalitsuse asutuse või avalik-õigusliku juriidilise isiku juht võib asutusesiseseks kasutamiseks mõeldud teabeks tunnistada:
 
 1) õigustloovate aktide eelnõud enne nende kooskõlastamiseks saatmist või vastuvõtmiseks esitamist;
 
-2) halduse üksikakti eelnõu ja selle juurde kuuluvad dokumendid enne akti vastuvõtmist või allakirjutamist;
+2) dokumendi kavand ja selle juurde kuuluvad dokumendid enne nende vastuvõtmist või allakirjutamist;
 
-3) põhjendatud juhtudel asutusesiseselt adresseeritud dokumendid, mida dokumendiregistris ei registreerita (arvamused, teated, memod, õiendid, nõuanded jm).
+3) põhjendatud juhtudel asutusesiseselt adresseeritud dokumendid, mida dokumendiregistris ei registreerita (arvamused, teated, memod, õiendid, nõuanded jm);
+
+4) tsiviilkohtumenetluses riigi kui menetlusosalise huvisid kahjustada võiva teabe kuni kohtulahendi tegemiseni.

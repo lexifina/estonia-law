@@ -6,4 +6,4 @@
 
 (3) Teabevaldaja on kohustatud viivitamata avalikustama teabe inimeste elu, tervist või vara või keskkonda ähvardava ohu kohta, valides selleks kiireima ja sobivaima viisi, et ohtu vältida ja võimalikke tagajärgi leevendada.
 
-(4) Riigi- ja kohaliku omavalitsuse asutused on kohustatud edastama ringhäälinguorganisatsioonidele või trükiajakirjandusele avalikustamiseks nende valduses oleva teabe sündmuste ja faktide kohta, mille puhul on eeldada avalikkuse huvi.
+(4) Riigi- ja kohaliku omavalitsuse asutused on kohustatud edastama meediateenuse osutajatele või trükiajakirjandusele avalikustamiseks nende valduses oleva teabe sündmuste ja faktide kohta, mille puhul on eeldada avalikkuse huvi.

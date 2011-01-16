@@ -1,6 +1,6 @@
 # § 40. Juurdepääsupiirangu tähtajad
 
-(1) Asutusesiseseks kasutamiseks mõeldud teabele kehtestatakse juurdepääsupiirang alates dokumendi koostamisest või saamisest ning kuni vajaduse möödumiseni, kuid mitte kauemaks kui viieks aastaks. Asutuse juht võib seda tähtaega pikendada kuni viie aasta võrra, kui juurdepääsupiirangu kehtestamise põhjus püsib.
+(1) Asutusesiseseks kasutamiseks mõeldud teabele kehtestatakse juurdepääsupiirang alates dokumendi koostamisest või saamisest ning kuni vajaduse möödumiseni või sündmuse saabumiseni, kuid mitte kauemaks kui viieks aastaks. Asutuse juht võib seda tähtaega pikendada kuni viie aasta võrra, kui juurdepääsupiirangu kehtestamise põhjus püsib.
 
 (2) Riiklikku ja teenistuslikku järelevalvet ning täitevvõimu üksikotsuste ettevalmistamist käsitlevate dokumentide suhtes kohaldatakse juurdepääsupiirangut kuni otsuse vastuvõtmiseni, kui ei ole muud alust teabele juurdepääsu piirata.
 
