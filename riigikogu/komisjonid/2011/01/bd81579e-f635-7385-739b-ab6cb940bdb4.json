@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-01-17T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kodusünnituse seadustamisest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5b4422d4-9f00-aac5-d991-0a8279c9d4f5"
+    },
+    {
+      "order": 2,
+      "title": "Vaimupuudega inimeste hambaravi probleemid",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "30443fbb-d111-8c68-abff-f172b0a624b5"
+    },
+    {
+      "order": 3,
+      "title": "Vabariigi Valitsuse algatatud ravikindlustuse seaduse § 41 muutmise seaduse eelnõu (873 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d5d87f31-704c-4905-4aa2-92b98d77a265"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 17.01.2011",
+      "uuid": "35d8c4af-a348-a65a-1385-6ec3990f7caf",
+      "files": [
+        "Sotsiaalkomisjon_istungi_protokoll_03_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "bd81579e-f635-7385-739b-ab6cb940bdb4",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid bd81579e-f635-7385-739b-ab6cb940bdb4)",
+  "source": "https://api.riigikogu.ee/api/volumes/bd81579e-f635-7385-739b-ab6cb940bdb4",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-01-01&endDate=2011-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
