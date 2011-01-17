@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-01-17T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9ad92ed9-2c02-5848-53bc-e237f8e7296f"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade põllumajandustootjate majandusnäitajatest 2009",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3cff0426-8de0-3aea-01ce-99db0d60cbdd"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 17.01.2011",
+      "uuid": "12756d13-759f-a78f-a2f5-c5b038c20efc",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_03_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "669aa8ab-7174-9513-2a0d-722e84ea1dfa",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 669aa8ab-7174-9513-2a0d-722e84ea1dfa)",
+  "source": "https://api.riigikogu.ee/api/volumes/669aa8ab-7174-9513-2a0d-722e84ea1dfa",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-01-01&endDate=2011-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
