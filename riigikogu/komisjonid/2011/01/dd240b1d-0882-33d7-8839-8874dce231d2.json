@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-01-18T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Arvamuse andmine Komisjoni teatisele Euroopa Parlamendile,nõukogule,Euroopa majandus- ja sotsiaalkomiteele ning regioonide Komiteele \"Ühtse turu akt\"",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "04f4dc42-4165-f2c6-5e03-775a45670e46"
+    },
+    {
+      "order": 2,
+      "title": "Olulise tähtsusega riikliku küsimuse Eesti tervishoiu probleemidest arutelu ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "71bea414-e63a-f9de-43cf-49517a05b66b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 18.01.2011",
+      "uuid": "25e3c591-9eb7-947b-1ee5-19f28c2993c1",
+      "files": [
+        "Sotsiaalkomisjon_istungi_protokoll_03_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "dd240b1d-0882-33d7-8839-8874dce231d2",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid dd240b1d-0882-33d7-8839-8874dce231d2)",
+  "source": "https://api.riigikogu.ee/api/volumes/dd240b1d-0882-33d7-8839-8874dce231d2",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-01-01&endDate=2011-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
