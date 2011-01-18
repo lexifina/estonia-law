@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-01-18T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kultuurikomisjoni algatatud eesti Rahvusraamatukogu seaduse eelnõu (863 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2c958088-7628-ecf9-96c1-d11f304a937e"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud keeleseaduse eelnõu (808 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d84d5049-dd77-b981-51d2-e7fca0b16cd2"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 18.01.2011",
+      "uuid": "8efc0ecf-db4c-6840-f166-26d86f09b450",
+      "files": [
+        "Kultuurikomisjon_istungi_protokoll_03_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "a55c2af2-7c85-70b7-beda-85ef611a9760",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a55c2af2-7c85-70b7-beda-85ef611a9760)",
+  "source": "https://api.riigikogu.ee/api/volumes/a55c2af2-7c85-70b7-beda-85ef611a9760",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-01-01&endDate=2011-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
