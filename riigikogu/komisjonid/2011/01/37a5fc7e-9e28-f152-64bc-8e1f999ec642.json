@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-01-18T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ühisistung keskkonnakomisjoniga. Riigikontrolli auditiaruande „Pakendijäätmete kogumise ja taaskasutamise tulemuslikkus“ arutelu;  ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c2438b07-b689-ea32-5445-7cadb8383a7b"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli auditiaruande „Järelevalve taimekaitsevahendite ja mineraalväetiste kasutamise üle“ arutelu.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cb1d0934-0e0d-d57a-15fa-10abfe465445"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 18.01.2011",
+      "uuid": "693de2cb-8435-4897-0901-630da9dda13d",
+      "files": [
+        "Riigieelarve kontrolli erikomisjon_paevakord_18_01_2011.odt",
+        "protokoll 119 18 01 2010.doc"
+      ]
+    }
+  ],
+  "uuid": "37a5fc7e-9e28-f152-64bc-8e1f999ec642",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 37a5fc7e-9e28-f152-64bc-8e1f999ec642)",
+  "source": "https://api.riigikogu.ee/api/volumes/37a5fc7e-9e28-f152-64bc-8e1f999ec642",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-01-01&endDate=2011-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
