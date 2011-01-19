@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-01-19T12:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Seisukoha andmine: Euroopa Komisjoni teatis \"Ühise põllumajanduspoliitika eesmärgid 2020 aastaks\" (COM(2010)672).",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9a053939-2aee-7141-ee26-87d25b687976"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad 24. jaanuaril 2011 toimuval Euroopa Liidu põllumajanduse ja kalanduse nõukogu istungil.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d0d41a3b-e455-2ece-487f-67a615a05346"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 19.01.2011",
+      "uuid": "12d3a456-957d-ee2d-2bf9-d053d58373b8",
+      "files": [
+        "Euroopa_Liidu_asjade_komisjon_istungi_protokoll_03_2011.odt",
+        "Euroopa Liidu asjade komisjon_paevakord_19_01_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "e4faa5fb-65b4-2faa-817c-a1f61c85570f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e4faa5fb-65b4-2faa-817c-a1f61c85570f)",
+  "source": "https://api.riigikogu.ee/api/volumes/e4faa5fb-65b4-2faa-817c-a1f61c85570f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-01-01&endDate=2011-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
