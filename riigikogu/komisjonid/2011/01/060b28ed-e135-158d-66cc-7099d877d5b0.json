@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-01-24T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Parlamentaarne kuulamine: OÜ Elering tutvustus Eesti elektrivarustuskindluse väljakutsetest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9231a680-b35f-9084-f72f-471f9ee3ffad"
+    },
+    {
+      "order": 2,
+      "title": "Sotsiaaldemokraatliku Erakonna fraktsiooni, Riigikogu liige Kalle Laanet, Riigikogu liige Aivar Riisalu, Riigikogu 2. aseesimees Jüri Ratas, Riigikogu liige Evelyn Sepp algatatud ühistranspordiseaduse § 24 täiendamise seaduse eelnõu (868 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "49d07e20-89a1-0061-1edf-3f5c626757f5"
+    },
+    {
+      "order": 3,
+      "title": "Organisatsioonilised küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0d52037f-786d-52a9-c1dc-ca1ae9d08748"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 24.01.2011",
+      "uuid": "e83fd652-5705-f5eb-857a-6a05ac00830f",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_04_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "060b28ed-e135-158d-66cc-7099d877d5b0",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 060b28ed-e135-158d-66cc-7099d877d5b0)",
+  "source": "https://api.riigikogu.ee/api/volumes/060b28ed-e135-158d-66cc-7099d877d5b0",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-01-01&endDate=2011-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
