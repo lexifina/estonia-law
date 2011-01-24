@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-01-24T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töönädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c0d7a62c-7281-8fcb-485c-131597b003de"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud elatisabi seaduse, riigi õigusabi seaduse ja tsiviilkohtumenetluse seadustiku muutmise seaduse eelnõu (917 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "28cf3cf5-e8ac-2512-f04a-e428e23c8a70"
+    },
+    {
+      "order": 3,
+      "title": "Võlgade ümberkujundamise ja võlakaitse seaduse rakendamisega seonduv",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bce69a41-68de-d822-cefb-eb1182781852"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 24.01.2011",
+      "uuid": "86f0ee36-8cf3-874e-d09d-5b9491d48e89",
+      "files": [
+        "iguskomisjon_istungi_protokoll_04_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "ccfa2c3c-7240-163e-ff3a-314aa6e1cc6e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ccfa2c3c-7240-163e-ff3a-314aa6e1cc6e)",
+  "source": "https://api.riigikogu.ee/api/volumes/ccfa2c3c-7240-163e-ff3a-314aa6e1cc6e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-01-01&endDate=2011-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
