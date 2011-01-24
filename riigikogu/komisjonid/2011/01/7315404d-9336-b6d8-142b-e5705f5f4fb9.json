@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-01-24T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Keskkonnakomisjoni töökava (24.01.11 –30.01.11) kinnitamine ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dda5797b-89c8-ce39-4e62-0f12d2a47646"
+    },
+    {
+      "order": 2,
+      "title": "SA Eestimaa Looduse Fondi kiri 10.12.2010 nr 3/468",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e4444d84-0ff1-3438-5a65-65b6b9c5e4c9"
+    },
+    {
+      "order": 3,
+      "title": "Sotsiaaldemokraatliku Erakonna fraktsiooni algatatud looduskaitseseaduse, ehitusseaduse ja kinnisasja sundvõõrandamise seaduse muutmise seaduse eelnõu (867 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b9df4b3b-9405-8bc8-80c8-e3266d3c9fdb"
+    },
+    {
+      "order": 4,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "57467f52-5b24-feae-f9f6-b3c3f629ae19"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 24.01.2011",
+      "uuid": "c5a82c68-8b3c-29bb-2d0b-792f6f27823f",
+      "files": [
+        "prot196 24.01.11.doc"
+      ]
+    }
+  ],
+  "uuid": "7315404d-9336-b6d8-142b-e5705f5f4fb9",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7315404d-9336-b6d8-142b-e5705f5f4fb9)",
+  "source": "https://api.riigikogu.ee/api/volumes/7315404d-9336-b6d8-142b-e5705f5f4fb9",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-01-01&endDate=2011-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
