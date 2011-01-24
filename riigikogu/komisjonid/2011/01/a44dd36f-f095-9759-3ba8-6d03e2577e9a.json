@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-01-24T10:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Leedu Parlamendi Revisjonikomisjoni liikmetega. ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3743d489-d37b-c342-dbf0-fe2b69133f10"
+    },
+    {
+      "order": 2,
+      "title": "Kell 13.30 komisjoni raporti „Väärteotrahvide laekumisest“ arutelu;",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "69fba9f0-e43d-3f8c-874c-59b8e761c870"
+    },
+    {
+      "order": 3,
+      "title": "Informatsioon.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f775acd4-6781-7f76-9326-39e962c56e61"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 24.01.2011",
+      "uuid": "65cae53f-cda6-e81c-28d9-a1ea9480f42d",
+      "files": [
+        "protokoll 120 24 01 2010.doc",
+        "Riigieelarve kontrolli erikomisjon_paevakord_24_01_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "a44dd36f-f095-9759-3ba8-6d03e2577e9a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a44dd36f-f095-9759-3ba8-6d03e2577e9a)",
+  "source": "https://api.riigikogu.ee/api/volumes/a44dd36f-f095-9759-3ba8-6d03e2577e9a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-01-01&endDate=2011-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
