@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-01-24T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4121931d-21cc-fdd8-3f23-2b14d334cb9f"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli aruanne \"Erikoolide ja alaealiste komisjonide järelaudit\"",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "496b7eaa-3be2-30e7-0068-eac859e0a928"
+    },
+    {
+      "order": 3,
+      "title": "Riigikontrolli aruanne \"Investeeringute jaotamine Kultuuriministeeriumis\"",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b1190f0a-0bdf-0720-44e8-9bfda6f0d4a7"
+    },
+    {
+      "order": 4,
+      "title": "Info ja kirjad",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a29069b9-4b52-e8f6-4d02-13cf36f888e8"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 24.01.2011",
+      "uuid": "ec6ba124-4d27-27e3-eddf-14639de4238d",
+      "files": [
+        "Kultuurikomisjon_istungi_protokoll_04_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "fdc9b99e-e5b4-aac4-80f7-cb7702878c1f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid fdc9b99e-e5b4-aac4-80f7-cb7702878c1f)",
+  "source": "https://api.riigikogu.ee/api/volumes/fdc9b99e-e5b4-aac4-80f7-cb7702878c1f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-01-01&endDate=2011-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
