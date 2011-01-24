@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-01-24T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Sotsiaalkomisjoni algatatud kunstliku viljastamise ja embrüokaitse seaduse § 5 muutmise seaduse eelnõu (787 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3d3357cf-7ed8-ac53-36ac-1e33d06db1c6"
+    },
+    {
+      "order": 2,
+      "title": "Euroopa Parlamendi finants-, majandus- ja sotsiaalkriisi erikomisjoni koostatud resolutsiooni (20.10.2010) arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1625effc-8d0b-5bee-30fe-e2434a206fd4"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 24.01.2011",
+      "uuid": "e05c747d-f6d2-2e6f-8f4a-319f376eec96",
+      "files": [
+        "Sotsiaalkomisjon_istungi_protokoll_04_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "e4cd8de5-7a6a-edc2-5295-0c4c7567c55b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e4cd8de5-7a6a-edc2-5295-0c4c7567c55b)",
+  "source": "https://api.riigikogu.ee/api/volumes/e4cd8de5-7a6a-edc2-5295-0c4c7567c55b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-01-01&endDate=2011-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
