@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-01-25T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud keskkonnaseadustiku üldosa seaduse eelnõu (799 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b2b73820-259e-d6c1-1f7a-fbafd9a68974"
+    },
+    {
+      "order": 2,
+      "title": "Erakond Eestimaa Rohelised fraktsiooni algatatud looduskaitseseaduse § 36 muutmise seaduse eelnõu (918 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7cf29b3a-ccac-6dbd-58a4-8c6830393f01"
+    },
+    {
+      "order": 3,
+      "title": "Erakond Eestimaa Rohelised fraktsiooni algatatud keskkonnatasude seaduse § 57 muutmise seaduse eelnõu (919 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "29263d61-03ae-d5c9-8409-5d468e921a13"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 25.01.2011",
+      "uuid": "8ece4121-c1bc-feef-267e-264c3f55a01f",
+      "files": [
+        "prot_197_25.01.11.doc"
+      ]
+    }
+  ],
+  "uuid": "c1f58d7c-f7c7-250d-3d12-2f7923d71c87",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c1f58d7c-f7c7-250d-3d12-2f7923d71c87)",
+  "source": "https://api.riigikogu.ee/api/volumes/c1f58d7c-f7c7-250d-3d12-2f7923d71c87",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-01-01&endDate=2011-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
