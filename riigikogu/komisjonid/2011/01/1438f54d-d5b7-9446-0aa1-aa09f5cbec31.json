@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-01-25T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud kalandusturu korraldamise seaduse muutmise seaduse eelnõu (924 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c7fb95f7-51b8-26c6-7ef9-89bc22a779dd"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud maaelu ja põllumajandusturu korraldamise seaduse muutmise seaduse eelnõu (921 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "763ac3ba-5d0e-89b7-df62-bb2943be2278"
+    },
+    {
+      "order": 3,
+      "title": "Vabariigi Valitsuse algatatud loomatauditõrje seaduse ja sellega seonduvate seaduste muutmise seaduse eelnõu (922 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3fb76384-d016-51c9-2592-66055444eb18"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 25.01.2011",
+      "uuid": "25d2a34f-ddcf-41ee-d638-9d2f782802da",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_04_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "1438f54d-d5b7-9446-0aa1-aa09f5cbec31",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 1438f54d-d5b7-9446-0aa1-aa09f5cbec31)",
+  "source": "https://api.riigikogu.ee/api/volumes/1438f54d-d5b7-9446-0aa1-aa09f5cbec31",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-01-01&endDate=2011-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
