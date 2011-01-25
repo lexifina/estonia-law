@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-01-25T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade Balti Assamblee Eesti delegatsiooni tegevusest. ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3e22d691-887a-5907-61c2-2b29d9942944"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu välissuhtlemise 2011. aasta eelarve. ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4b518f9e-de77-8aed-e837-f55b99d00d1e"
+    },
+    {
+      "order": 3,
+      "title": "Ülevaade OSCE Parlamentaarse Assamblee (OSCE PA) Eesti delegatsiooni tegevusest. ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ac442dde-ec93-8c06-af5b-b1c19d22b294"
+    },
+    {
+      "order": 4,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4815a482-0442-daa4-1253-7fee7fe8eb7e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 25.01.2011",
+      "uuid": "f949d5e8-bdb7-fb78-33c5-465acc08b8ca",
+      "files": [
+        "25.01.11 (304) protokoll.doc"
+      ]
+    }
+  ],
+  "uuid": "ac4f9726-6a53-c52e-0b06-7ac1815e94d4",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ac4f9726-6a53-c52e-0b06-7ac1815e94d4)",
+  "source": "https://api.riigikogu.ee/api/volumes/ac4f9726-6a53-c52e-0b06-7ac1815e94d4",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-01-01&endDate=2011-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
