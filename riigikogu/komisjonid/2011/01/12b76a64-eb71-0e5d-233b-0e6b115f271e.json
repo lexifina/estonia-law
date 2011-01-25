@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-01-25T14:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikaitsekomisjoni töönädala päevakorra kinnitamine  ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3a8e6e34-085a-226b-11aa-d1ea5342eace"
+    },
+    {
+      "order": 2,
+      "title": "Riigisisene mereseire. Kutsutud kaitseminister Jaak Aaviksoo ja siseminister Marko Pomerants",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a55eb6b3-9239-4508-9b7b-288f0d181d2f"
+    },
+    {
+      "order": 3,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f9799211-3096-d634-8c53-66c9c9dd2200"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 25.01.2011",
+      "uuid": "7edc6d59-2f46-8cca-07c9-9d33d925020d",
+      "files": [
+        "Riigikogu_riigikaitsekomisjoni_protokoll_254.doc"
+      ]
+    }
+  ],
+  "uuid": "12b76a64-eb71-0e5d-233b-0e6b115f271e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 12b76a64-eb71-0e5d-233b-0e6b115f271e)",
+  "source": "https://api.riigikogu.ee/api/volumes/12b76a64-eb71-0e5d-233b-0e6b115f271e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-01-01&endDate=2011-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
