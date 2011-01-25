@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-01-25T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Sotsiaalkomisjoni algatatud tööturuteenuste ja -toetuste seaduse ning töötuskindlustuse seaduse muutmise seaduse eelnõu (879 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fdf3a3a8-7057-b43f-627d-958a220136eb"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud sotsiaalhoolekande seaduse muutmise seaduse eelnõu (904 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3557ef3b-bb4a-ab2d-b639-c7153ab19683"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 25.01.2011",
+      "uuid": "9bbde4bf-7eea-492a-70b7-315e971179ec",
+      "files": [
+        "Sotsiaalkomisjon_istungi_protokoll_04_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "6e692f96-349a-2ffd-1b89-391dc5139d3b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 6e692f96-349a-2ffd-1b89-391dc5139d3b)",
+  "source": "https://api.riigikogu.ee/api/volumes/6e692f96-349a-2ffd-1b89-391dc5139d3b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-01-01&endDate=2011-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
