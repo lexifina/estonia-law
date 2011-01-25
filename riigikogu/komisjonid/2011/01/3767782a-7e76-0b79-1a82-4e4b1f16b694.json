@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-01-25T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud arhiiviseaduse eelnõu (854 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "41672f4d-dc82-e96c-ffe9-203882fd954e"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud kutseõppeasutuse seaduse ja erakooliseaduse muutmise seaduse eelnõu (887 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ea060528-9e32-8bd5-bf3a-034c0f7bc3ea"
+    },
+    {
+      "order": 3,
+      "title": "Vabariigi Valitsuse algatatud keeleseaduse eelnõu (808 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9b750eda-9482-6e13-6c1c-cad2cd031445"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 25.01.2011",
+      "uuid": "02517a06-839b-5f65-a022-dbefd5b6c218",
+      "files": [
+        "Kultuurikomisjon_istungi_protokoll_04_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "3767782a-7e76-0b79-1a82-4e4b1f16b694",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3767782a-7e76-0b79-1a82-4e4b1f16b694)",
+  "source": "https://api.riigikogu.ee/api/volumes/3767782a-7e76-0b79-1a82-4e4b1f16b694",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-01-01&endDate=2011-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
