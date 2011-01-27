@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-01-27T09:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade ELi eelarveraamistiku alastest läbirääkimistest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d9a56658-a674-58fb-0b85-1db8041652ab"
+    },
+    {
+      "order": 2,
+      "title": "Seisukoha andmine: Euroopa Komisjoni teatis „Majanduslikku, sotsiaalset ja territoriaalset ühtekuuluvust käsitleva viienda aruande järeldused: ühtekuuluvuspoliitika tulevik“ (COM(2010)642).",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "acf73cb8-d75d-15f8-1f51-7f3a74458642"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 27.01.2011",
+      "uuid": "056ccf60-e4de-1a89-530a-286068851c25",
+      "files": [
+        "Euroopa_Liidu_asjade_komisjon_istungi_protokoll_04_2011.odt",
+        "Euroopa Liidu asjade komisjon_paevakord_27_01_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "587ffe75-bd4d-015e-bca6-ed1e01d4fa87",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 587ffe75-bd4d-015e-bca6-ed1e01d4fa87)",
+  "source": "https://api.riigikogu.ee/api/volumes/587ffe75-bd4d-015e-bca6-ed1e01d4fa87",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-01-01&endDate=2011-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
