@@ -1,0 +1,33 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-01-27T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud korrakaitseseaduse eelnõu (49 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5f3fede5-1d5e-3126-1020-035d284305f3"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 27.01.2011",
+      "uuid": "e99bd30b-e21b-f1a3-f420-d08e48298582",
+      "files": [
+        "iguskomisjon_istungi_protokoll_04_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "45b5be8c-4826-e083-68ff-b5eab704d88c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 45b5be8c-4826-e083-68ff-b5eab704d88c)",
+  "source": "https://api.riigikogu.ee/api/volumes/45b5be8c-4826-e083-68ff-b5eab704d88c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-01-01&endDate=2011-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
