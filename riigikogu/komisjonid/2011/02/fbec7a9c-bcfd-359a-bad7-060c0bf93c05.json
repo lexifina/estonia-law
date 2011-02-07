@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-02-07T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "74950010-7cd3-9766-8c7c-e2bb299891ca"
+    },
+    {
+      "order": 2,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "efb6b5a7-1568-7aa3-9c56-e4249a5ef809"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 07.02.2011",
+      "uuid": "c5c313f4-6a02-a4e6-60d8-c50f784a681e",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_06_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "fbec7a9c-bcfd-359a-bad7-060c0bf93c05",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid fbec7a9c-bcfd-359a-bad7-060c0bf93c05)",
+  "source": "https://api.riigikogu.ee/api/volumes/fbec7a9c-bcfd-359a-bad7-060c0bf93c05",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-02-01&endDate=2011-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
