@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-02-07T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "58b80e4b-6478-5cd7-a239-c9b4bfb035c4"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud Tartu Ülikooli seaduse ja ülikooliseaduse muutmise seaduse eelnõu (858 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7d5ca997-dff4-3e92-2d0e-f0ccf2b230e2"
+    },
+    {
+      "order": 3,
+      "title": "Kultuurikomisjoni algatatud Eesti Rahvusraamatukogu seaduse eelnõu (863 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b260a152-c93b-7076-24b5-962877a87f8d"
+    },
+    {
+      "order": 4,
+      "title": "Info ja kirjad",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "47c217d8-da40-dfc9-17cb-935a469467b6"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 07.02.2011",
+      "uuid": "a527a4ac-d76b-37cb-b5e3-32098ceaa1dc",
+      "files": [
+        "Kultuurikomisjon_istungi_protokoll_06_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "9178a4e4-3b93-94e7-7324-3655e61ef411",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9178a4e4-3b93-94e7-7324-3655e61ef411)",
+  "source": "https://api.riigikogu.ee/api/volumes/9178a4e4-3b93-94e7-7324-3655e61ef411",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-02-01&endDate=2011-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
