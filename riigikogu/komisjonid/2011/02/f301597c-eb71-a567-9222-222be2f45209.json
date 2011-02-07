@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-02-07T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud elektroonilise side seaduse muutmise seaduse eelnõu (855 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "57633090-c18c-f5b5-4cc5-a63ecf587cf6"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsus, Eesti seisukohad Euroopa Komisjoni rohelise raamatu kohta, mis käsitleb e-riigihangete laiemat kasutuselevõttu Euroopa Liidus (2.1-11/454)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fa5474e8-07ee-bcda-56fb-6383a86c0be0"
+    },
+    {
+      "order": 3,
+      "title": "Vabariigi Valitsus, Eesti seisukohad Euroopa Liidu sisejulgeoleku toimimise teatise kohta (2.1-11/467)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5db550d4-141a-b339-f479-7095c908eec2"
+    },
+    {
+      "order": 4,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ce786483-1979-f67f-4978-8c024f3ea4b1"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 07.02.2011",
+      "uuid": "223296fb-01f2-1152-258d-d145dfdac489",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_06_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "f301597c-eb71-a567-9222-222be2f45209",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f301597c-eb71-a567-9222-222be2f45209)",
+  "source": "https://api.riigikogu.ee/api/volumes/f301597c-eb71-a567-9222-222be2f45209",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-02-01&endDate=2011-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
