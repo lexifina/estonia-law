@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-02-08T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud karistusseadustiku muutmise seaduse eelnõu (862 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5e1e1264-cf18-79cc-cc4b-04e7d9b04a89"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud elatisabi seaduse, riigi õigusabi seaduse ja tsiviilkohtumenetluse seadustiku muutmise seaduse eelnõu (917 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "41f69d7b-9ae8-ca4b-6a0d-ecb301b9e7d9"
+    },
+    {
+      "order": 3,
+      "title": "Vabariigi Valitsuse algatatud karistusregistri seaduse eelnõu (762 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1310de4c-4ec9-4f09-5cbf-4301962f6d38"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 08.02.2011",
+      "uuid": "b6dd8367-1dba-be90-2d90-8a8825abb244",
+      "files": [
+        "iguskomisjon_istungi_protokoll_06_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "03777e2d-4850-3d77-0498-e896bb934d15",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 03777e2d-4850-3d77-0498-e896bb934d15)",
+  "source": "https://api.riigikogu.ee/api/volumes/03777e2d-4850-3d77-0498-e896bb934d15",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-02-01&endDate=2011-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
