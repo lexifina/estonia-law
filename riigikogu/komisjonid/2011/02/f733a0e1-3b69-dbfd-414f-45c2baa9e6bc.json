@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-02-08T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud majandustegevuse seadustiku üldosa seaduse eelnõu (803 SE) arutelu 2. lugemise jätkamiseks.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4717a107-b793-bc26-a702-c3d48906a308"
+    },
+    {
+      "order": 2,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0ef6b2a3-1da4-f365-2027-6e4699d681d0"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 08.02.2011",
+      "uuid": "65792d9a-ed8f-6d6e-0448-b4f991f2d086",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_06_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "f733a0e1-3b69-dbfd-414f-45c2baa9e6bc",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f733a0e1-3b69-dbfd-414f-45c2baa9e6bc)",
+  "source": "https://api.riigikogu.ee/api/volumes/f733a0e1-3b69-dbfd-414f-45c2baa9e6bc",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-02-01&endDate=2011-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
