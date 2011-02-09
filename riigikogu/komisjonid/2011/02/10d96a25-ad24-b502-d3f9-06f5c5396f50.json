@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-02-09T12:00:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud arhiiviseaduse eelnõu (854 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7614633c-9386-d1ca-c004-8ee64213c4a7"
+    },
+    {
+      "order": 2,
+      "title": "Kultuurikomisjoni algatatud eesti Rahvusraamatukogu seaduse eelnõu (863 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "289ed28b-ff3f-68af-6a88-0f371a89fb7e"
+    },
+    {
+      "order": 3,
+      "title": "Vabariigi Valitsuse algatatud keeleseaduse eelnõu (808 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4e70f5fa-c10c-5906-bd09-4b94e1d21112"
+    },
+    {
+      "order": 4,
+      "title": "Vabariigi Valitsuse algatatud teadus- ja arendustegevuse korralduse seaduse muutmise seaduse eelnõu (864 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "061f8607-f3f1-e139-3a50-092f947e63e5"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 09.02.2011",
+      "uuid": "e59656c9-1f14-825e-51a6-ccb7ba9edff1",
+      "files": [
+        "Kultuurikomisjon_istungi_protokoll_06_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "10d96a25-ad24-b502-d3f9-06f5c5396f50",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 10d96a25-ad24-b502-d3f9-06f5c5396f50)",
+  "source": "https://api.riigikogu.ee/api/volumes/10d96a25-ad24-b502-d3f9-06f5c5396f50",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-02-01&endDate=2011-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
