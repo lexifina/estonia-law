@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung neljapäev, 13.12.2018 14:15",
+  "sitting_time": "2011-02-10T14:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Turvalisuspoliitika arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "06bfef87-9a6b-9739-2ea1-1544e76990fc"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud täitemenetluse seadustiku ja teiste seaduste muutmise seaduse eelnõu (763 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b73b9676-7f3d-e5a7-b3e9-64f5a4478b15"
+    },
+    {
+      "order": 3,
+      "title": "ELAK-i arvamused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "56466a2c-85b0-64de-ff7b-237fa3599ef2"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 10.02.2011",
+      "uuid": "c55ac8d1-6702-71d1-17d0-7d31b40c8342",
+      "files": [
+        "iguskomisjon_istungi_protokoll_06_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "9cb42c88-1acc-1ed7-c68f-aaa07289dae5",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9cb42c88-1acc-1ed7-c68f-aaa07289dae5)",
+  "source": "https://api.riigikogu.ee/api/volumes/9cb42c88-1acc-1ed7-c68f-aaa07289dae5",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-02-01&endDate=2011-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
