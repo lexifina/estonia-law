@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-02-10T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud loomatauditõrje seaduse ja sellega seonduvate seaduste muutmise seaduse eelnõu (922 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "85d197c9-486b-1a09-0328-9c0a174fa7bf"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud maaelu ja põllumajandusturu korraldamise seaduse muutmise seaduse eelnõu (921 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9c308544-14a5-281f-61cc-3e373cef6975"
+    },
+    {
+      "order": 3,
+      "title": "Vabariigi Valitsuse algatatud kalandusturu korraldamise seaduse muutmise seaduse eelnõu (924 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3efe9a9a-cc62-00a0-28bf-2a52d81b0f5e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 10.02.2011",
+      "uuid": "9b6f3f37-6a89-0c87-a8fa-37e1c6617372",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_06_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "01d9f66b-b418-ef18-8a7c-510b8243df61",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 01d9f66b-b418-ef18-8a7c-510b8243df61)",
+  "source": "https://api.riigikogu.ee/api/volumes/01d9f66b-b418-ef18-8a7c-510b8243df61",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-02-01&endDate=2011-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
