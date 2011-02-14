@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-02-14T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikohtule arvamuse andmine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d526a472-5999-5c6c-a8b3-bc9746ba923a"
+    },
+    {
+      "order": 2,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7541be5b-f810-f852-7f31-44c5f8e3e4b6"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 14.02.2011",
+      "uuid": "91892baa-c67a-a579-05af-6b0387f8eaa2",
+      "files": [
+        "Põhiseaduskomisjon_istungi_protokoll_07_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "97b5514b-98ad-51c1-b52a-1435c8c7f65e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 97b5514b-98ad-51c1-b52a-1435c8c7f65e)",
+  "source": "https://api.riigikogu.ee/api/volumes/97b5514b-98ad-51c1-b52a-1435c8c7f65e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-02-01&endDate=2011-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
