@@ -1,0 +1,57 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-02-14T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töönädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e5ff4241-fd40-8c4e-6493-ccda872fcd7f"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud avaliku teabe seaduse ning politsei ja piirivalve seaduse muutmise seaduse eelnõu (891 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a816dacd-e868-f6fe-e580-68fdb374e5cf"
+    },
+    {
+      "order": 3,
+      "title": "Vabariigi Valitsuse algatatud kriminaalmenetluse seadustiku ja teiste seaduste muutmise seaduse eelnõu (286 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "20804505-b841-63c4-f2f8-2bc0a96f650b"
+    },
+    {
+      "order": 4,
+      "title": "Vabariigi Valitsuse algatatud karistusregistri seaduse eelnõu (762 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "919ee135-068d-d940-234e-7fcec8a81515"
+    },
+    {
+      "order": 5,
+      "title": "Vabariigi Valitsuse algatatud täitemenetluse seadustiku ja teiste seaduste muutmise seaduse eelnõu (763 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b7138d4f-10d3-7f9c-954f-c5a97a1b53c0"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 14.02.2011",
+      "uuid": "4ac0aba5-61c6-faee-02dd-7e8693e2b0a6",
+      "files": [
+        "iguskomisjon_istungi_protokoll_07_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "209888bd-abc0-f0c8-cb6a-b6c91b2c0a64",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 209888bd-abc0-f0c8-cb6a-b6c91b2c0a64)",
+  "source": "https://api.riigikogu.ee/api/volumes/209888bd-abc0-f0c8-cb6a-b6c91b2c0a64",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-02-01&endDate=2011-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
