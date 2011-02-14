@@ -1,0 +1,34 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-02-14T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Olukorrast tööturul",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e5b92346-b422-0b1f-ebc3-e83e3f4dc274"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 14.02.2011",
+      "uuid": "5a0d4245-7ace-41de-051e-0d111606525a",
+      "files": [
+        "Sotsiaalkomisjon_istungi_protokoll_07_2011.odt",
+        "Sotsiaalkomisjon_paevakord_14_02_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "23daf2a6-7cc5-8505-081b-5e00470d3fa6",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 23daf2a6-7cc5-8505-081b-5e00470d3fa6)",
+  "source": "https://api.riigikogu.ee/api/volumes/23daf2a6-7cc5-8505-081b-5e00470d3fa6",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-02-01&endDate=2011-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
