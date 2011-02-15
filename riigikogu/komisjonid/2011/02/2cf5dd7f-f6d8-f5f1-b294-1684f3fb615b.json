@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-02-15T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Eesti Piimaliidu esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c6c04b12-cb81-5444-13b1-866e18fdb0a9"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad Euroopa Parlamendi ja nõukogu määruse eelnõu kohta, mis käsitleb lepingulisi suhteid piima- ja piimatootesektoris. Arvamuse andmine ELAKile",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ace881f9-d23a-8912-513f-451465dddb1b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 15.02.2011",
+      "uuid": "7c06782d-8683-9576-116f-176ede8e3ef1",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_07_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "2cf5dd7f-f6d8-f5f1-b294-1684f3fb615b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2cf5dd7f-f6d8-f5f1-b294-1684f3fb615b)",
+  "source": "https://api.riigikogu.ee/api/volumes/2cf5dd7f-f6d8-f5f1-b294-1684f3fb615b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-02-01&endDate=2011-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
