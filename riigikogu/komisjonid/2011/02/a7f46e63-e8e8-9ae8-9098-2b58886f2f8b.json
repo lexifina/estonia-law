@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-02-15T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kandidaat Eesti Vabariigi erakorralise ja täievolilise suursaadiku ametikohale Rootsi Kuningriiki.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "99bd3acc-cc75-b817-5318-836ff5ce1b45"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cd7d5d2d-aa31-e434-0069-d5393a3bd78e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 15.02.2011",
+      "uuid": "bec5b4d5-e069-d361-e80e-56d5de377b01",
+      "files": [
+        "15.02.2011 (310) protokoll.doc"
+      ]
+    }
+  ],
+  "uuid": "a7f46e63-e8e8-9ae8-9098-2b58886f2f8b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a7f46e63-e8e8-9ae8-9098-2b58886f2f8b)",
+  "source": "https://api.riigikogu.ee/api/volumes/a7f46e63-e8e8-9ae8-9098-2b58886f2f8b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-02-01&endDate=2011-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
