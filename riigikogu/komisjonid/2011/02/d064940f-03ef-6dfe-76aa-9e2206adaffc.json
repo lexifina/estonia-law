@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-02-15T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikaitsekomisjoni töönädala päevakorra kinnitamine  ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3ad95972-e4cc-37c2-4a41-8a5fab4ca882"
+    },
+    {
+      "order": 2,
+      "title": "Riigikaitsekomisjoni seisukoht Euroopa Liidu liikmesriikide parlamentide teabe ja kogemuste vahetamise kohta ühise välis- ja julgeolekupoliitika, sealhulgas ühise julgeoleku- ja kaitsepoliitika küsimustes",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "899861ae-26d4-8437-7bb5-09fa8a0e889e"
+    },
+    {
+      "order": 3,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c77ab3a7-4b07-94e6-bb12-80186321ba7b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 15.02.2011",
+      "uuid": "73064693-1ffb-9dc7-16f3-0e49c5745144",
+      "files": [
+        "15.02.11_258.doc"
+      ]
+    }
+  ],
+  "uuid": "d064940f-03ef-6dfe-76aa-9e2206adaffc",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d064940f-03ef-6dfe-76aa-9e2206adaffc)",
+  "source": "https://api.riigikogu.ee/api/volumes/d064940f-03ef-6dfe-76aa-9e2206adaffc",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-02-01&endDate=2011-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
