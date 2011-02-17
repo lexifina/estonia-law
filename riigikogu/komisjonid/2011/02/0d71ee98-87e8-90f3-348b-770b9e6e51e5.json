@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-02-17T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud vabariigi Valitsuse seaduse muutmise seadus seoses Riigi Infosüsteemide Arenduskeskuse ümberkorraldamisega Riigi Infosüsteemi Ametiks (916 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1f4d0c3d-7660-d86d-34af-f461988add8a"
+    },
+    {
+      "order": 2,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0259f426-94c5-8dad-b820-36d57af7beaf"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 17.02.2011",
+      "uuid": "8e7ad24f-7696-7d78-26fa-3b5e4b6593aa",
+      "files": [
+        "Põhiseaduskomisjon_istungi_protokoll_07_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "0d71ee98-87e8-90f3-348b-770b9e6e51e5",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0d71ee98-87e8-90f3-348b-770b9e6e51e5)",
+  "source": "https://api.riigikogu.ee/api/volumes/0d71ee98-87e8-90f3-348b-770b9e6e51e5",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-02-01&endDate=2011-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
