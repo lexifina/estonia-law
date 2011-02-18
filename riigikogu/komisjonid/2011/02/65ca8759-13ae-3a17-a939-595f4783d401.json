@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-02-18T10:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 21. veebruaril 2011 toimuval Euroopa Liidu üldasjade ja välisasjade (ÜN/VN) nõukogu istungitel. ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "faefcc13-bb84-b27c-1b8a-a956e546a3af"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "798438f7-3e75-4750-4391-2219d0a3f0d9"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 18.02.2011",
+      "uuid": "6c75599e-de34-c1ff-e179-a6c2d157c4ba",
+      "files": [
+        "18.02.2011 (311) protokoll.doc"
+      ]
+    }
+  ],
+  "uuid": "65ca8759-13ae-3a17-a939-595f4783d401",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 65ca8759-13ae-3a17-a939-595f4783d401)",
+  "source": "https://api.riigikogu.ee/api/volumes/65ca8759-13ae-3a17-a939-595f4783d401",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-02-01&endDate=2011-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
