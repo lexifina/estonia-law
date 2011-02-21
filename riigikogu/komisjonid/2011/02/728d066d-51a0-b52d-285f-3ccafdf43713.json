@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-02-21T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Keskkonnakomisjoni töökava (21.02.11 –27.02.11) kinnitamine ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e5597b5a-d7a2-57c1-dc01-6b8f8ba96a1f"
+    },
+    {
+      "order": 2,
+      "title": "Arvamuse esitamine LKS § 10 lg 1 põhiseaduspärasuse kohta ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6843ed7d-a1ea-6bbd-1fab-f15ac45a4a3a"
+    },
+    {
+      "order": 3,
+      "title": "Kokkuvõte keskkonnakomisjoni tegevusest Riigikogu 11. koosseisu jooksul",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d1a28d66-5688-a6fd-4337-6aec15fc6c88"
+    },
+    {
+      "order": 4,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6df91322-4b4a-dcd1-3a8c-6503756341b8"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 21.02.2011",
+      "uuid": "40108019-25fb-a7e3-6107-50ea2e0048a7",
+      "files": [
+        "prot202_21.02.11.doc"
+      ]
+    }
+  ],
+  "uuid": "728d066d-51a0-b52d-285f-3ccafdf43713",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 728d066d-51a0-b52d-285f-3ccafdf43713)",
+  "source": "https://api.riigikogu.ee/api/volumes/728d066d-51a0-b52d-285f-3ccafdf43713",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-02-01&endDate=2011-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
