@@ -1,0 +1,34 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-02-21T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Komisjoni tegevuse aruande kinnitamine.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1621dff0-114a-685c-881a-cb18fa2331c6"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 21.02.2011",
+      "uuid": "e62bd883-93b3-01ec-a597-c62d80b25dd9",
+      "files": [
+        "protokoll 123 22 02 2011.doc",
+        "Riigieelarve kontrolli erikomisjon_paevakord_21_02_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "4a929f84-edf5-3368-de15-cee25da372c0",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 4a929f84-edf5-3368-de15-cee25da372c0)",
+  "source": "https://api.riigikogu.ee/api/volumes/4a929f84-edf5-3368-de15-cee25da372c0",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-02-01&endDate=2011-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
