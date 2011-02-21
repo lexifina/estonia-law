@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-02-21T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 24.-25. veebruaril 2011 toimuval Euroopa Liidu  justiits- ja siseasjade nõukogu istungil.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f5ab0580-43da-c4e5-08cd-570ed5b8af14"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad 28. veebruaril 2011 toimuval Euroopa Liidu transpordi, telekommunikatsiooni ja energeetika nõukogu istungil.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "68634bd5-2e55-c6ca-9350-13f8199de29d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 21.02.2011",
+      "uuid": "8bebb622-6575-d804-3402-01aa5acfb0b3",
+      "files": [
+        "Euroopa_Liidu_asjade_komisjon_istungi_protokoll_08_2011.odt",
+        "Euroopa Liidu asjade komisjon_paevakord_21_02_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "865ac98d-096a-a600-7caa-f9079e1ea360",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 865ac98d-096a-a600-7caa-f9079e1ea360)",
+  "source": "https://api.riigikogu.ee/api/volumes/865ac98d-096a-a600-7caa-f9079e1ea360",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-02-01&endDate=2011-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
