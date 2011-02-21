@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-02-21T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kokkuvõte komisjoni tööst",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "137da92a-d8c5-41f4-4062-ab04d0998d87"
+    },
+    {
+      "order": 2,
+      "title": "Haapsalu lastekodu põlengust",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "76343edc-dd78-7fa2-c297-4ae174527cb0"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 21.02.2011",
+      "uuid": "7241d379-8c53-9b95-35af-ea9845f93d45",
+      "files": [
+        "Sotsiaalkomisjon_paevakord_21_02_2011.odt",
+        "Sotsiaalkomisjon_istungi_protokoll_08_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "0a30a2bd-f879-cf25-b26a-26cb6cc90d1a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0a30a2bd-f879-cf25-b26a-26cb6cc90d1a)",
+  "source": "https://api.riigikogu.ee/api/volumes/0a30a2bd-f879-cf25-b26a-26cb6cc90d1a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-02-01&endDate=2011-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
