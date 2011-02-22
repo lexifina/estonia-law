@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-02-22T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti Reformierakonna fraktsiooni, Isamaa ja Res Publica Liidu fraktsiooni, Erakond Eestimaa Rohelised fraktsiooni, Sotsiaaldemokraatliku Erakonna fraktsiooni, Eesti Keskerakonna fraktsiooni algatatud riigikogu otsus \"\"Õiguspoliitika arengusuunad aastani 2018\" heakskiitmine\" (92)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "07fa2945-2cf9-c732-7843-1bc1ba6e7d5b"
+    },
+    {
+      "order": 2,
+      "title": "Arvamus Riigikohtule",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f4cdc6e7-b949-6985-d6e6-993df43e89bd"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 22.02.2011",
+      "uuid": "afe65cf0-c577-86aa-edc7-e1be71dbc656",
+      "files": [
+        "iguskomisjon_istungi_protokoll_08_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "dff36c11-84de-d067-2b79-a9ddf5197b20",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid dff36c11-84de-d067-2b79-a9ddf5197b20)",
+  "source": "https://api.riigikogu.ee/api/volumes/dff36c11-84de-d067-2b79-a9ddf5197b20",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-02-01&endDate=2011-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
