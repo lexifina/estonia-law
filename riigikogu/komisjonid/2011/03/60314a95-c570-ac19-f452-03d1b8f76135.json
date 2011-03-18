@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-03-18T09:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ühisistung väliskomisjoniga: Eesti seisukohad 21. märtsil 2011 toimuval Euroopa Liidu üldasjade nõukogu ja välisasjade nõukogu istungitel.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c447420a-0dac-b423-0cf9-fcc1d6e1c787"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad 21. märtsil 2011 toimuval eurogrupi kohtumisel.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d8a03afb-26e3-9af2-bc4b-749d42448081"
+    },
+    {
+      "order": 3,
+      "title": "Eesti seisukohad 24.-26. märtsil 2011 toimuval Euroopa Liidu mitteametlikul keskkonnanõukogu kohtumisel.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a26db80d-cdf1-6f39-e55f-7edee8d43616"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 18.03.2011",
+      "uuid": "b6d3cd4a-1836-c9b8-da5b-36777a7bc224",
+      "files": [
+        "Euroopa_Liidu_asjade_komisjon_istungi_protokoll_11_2011.odt",
+        "Euroopa_Liidu_asjade_komisjon_paevakord_18_03_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "60314a95-c570-ac19-f452-03d1b8f76135",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 60314a95-c570-ac19-f452-03d1b8f76135)",
+  "source": "https://api.riigikogu.ee/api/volumes/60314a95-c570-ac19-f452-03d1b8f76135",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-03-01&endDate=2011-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
