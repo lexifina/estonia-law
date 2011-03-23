@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-03-23T10:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 24.-25. märtsil 2011 toimuval Euroopa Ülemkogu istungil. ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2a9a51b6-d240-3fa1-267f-7afec7bcee77"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3700059c-b76e-a570-261a-a345be100268"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 23.03.2011",
+      "uuid": "7403c75f-a166-a1c8-dc8a-fbd3cd10158b",
+      "files": [
+        "23.03.2011 (315) protokoll.doc"
+      ]
+    }
+  ],
+  "uuid": "e6f3b184-2c83-7517-1e41-442e5c557801",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e6f3b184-2c83-7517-1e41-442e5c557801)",
+  "source": "https://api.riigikogu.ee/api/volumes/e6f3b184-2c83-7517-1e41-442e5c557801",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-03-01&endDate=2011-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
