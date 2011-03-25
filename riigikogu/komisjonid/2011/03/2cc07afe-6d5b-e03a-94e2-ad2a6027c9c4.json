@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-03-25T11:00:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade arengutest seoses Eesti kodanike rööviga Liibanonis. ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a658a99b-2fc5-fe4e-e0ad-018cdd437b3a"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "33d91fab-70a4-0a6e-2d0e-21694b645201"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 25.03.2011",
+      "uuid": "702e5b85-dbe4-2571-a2a2-0d429cb37ce2",
+      "files": [
+        "25.03.2011 (316) protokoll.doc"
+      ]
+    }
+  ],
+  "uuid": "2cc07afe-6d5b-e03a-94e2-ad2a6027c9c4",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2cc07afe-6d5b-e03a-94e2-ad2a6027c9c4)",
+  "source": "https://api.riigikogu.ee/api/volumes/2cc07afe-6d5b-e03a-94e2-ad2a6027c9c4",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-03-01&endDate=2011-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
