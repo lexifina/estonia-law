@@ -1,6 +1,6 @@
 # § 26. Erakond
 
-(1) Riigikogu valimistel võib osaleda erakond, kes on kantud mittetulundusühingute ja sihtasutuste registrisse hiljemalt kandidaatide registreerimiseks esitamise viimasel päeval.
+(1) Riigikogu valimistel võib osaleda erakond, kes on kantud mittetulundusühingute ja sihtasutuste registrisse hiljemalt 90 päeva enne valimispäeva.
 
 (2) [Kehtetu]
 
