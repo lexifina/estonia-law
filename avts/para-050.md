@@ -8,7 +8,7 @@
 
 3) teha teabevaldajale ettekirjutusi seaduse täitmiseks;
 
-4) kehtetu;
+4) [kehtetu]
 
 5) teha teabevaldajale ettepanekuid teabele juurdepääsu paremaks korraldamiseks.
 

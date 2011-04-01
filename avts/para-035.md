@@ -14,6 +14,8 @@
 
 5¹) teabe politsei tegevuse meetodite ja taktika kohta, kui selle avalikuks tulek võib raskendada süütegude avastamist või soodustada nende toimepanemist;
 
+5²) teabe politsei relvastuse hulga kohta, kui selline teave ei ole riigisaladus või salastatud välisteave;
+
 6) teabe riigikaitselise sundkoormise kohta;
 
 7) teabe, mille avalikuks tulek ohustaks muinsuskaitse all olevat objekti või muuseumikogusse kuuluvat museaali;
