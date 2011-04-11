@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-04-11T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": " Komisjoni esimehe ja aseesimehe valimine.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6c4e84c4-b326-cfd7-8bad-7d1995321f2a"
+    },
+    {
+      "order": 2,
+      "title": "Komisjoni tööst.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "caebad74-456c-2729-b997-cb8a50990731"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1d613bc7-2905-9f65-ea47-e19d54dc74b1"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 11.04.2011",
+      "uuid": "da38580e-e952-6eb6-2564-01da10d83c4b",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_15_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "77e6e1f1-eeb8-17a7-2288-8b15f8600f3b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 77e6e1f1-eeb8-17a7-2288-8b15f8600f3b)",
+  "source": "https://api.riigikogu.ee/api/volumes/77e6e1f1-eeb8-17a7-2288-8b15f8600f3b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-04-01&endDate=2011-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
