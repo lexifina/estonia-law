@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-04-11T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Rahanduskomisjoni esimehe ja aseesimehe valimine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3db6e480-61a4-d225-d806-7ee84344b645"
+    },
+    {
+      "order": 2,
+      "title": "Info",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e6dd55a1-ab53-40f7-4fab-d626a1aed159"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 11.04.2011",
+      "uuid": "ff7073fa-d3a3-3d1d-1e8d-9dfa5e0dc295",
+      "files": [
+        "Rahanduskomisjon_istungi_protokoll_15_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "54833f63-b9f6-6a7f-b99b-c7143a200faf",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 54833f63-b9f6-6a7f-b99b-c7143a200faf)",
+  "source": "https://api.riigikogu.ee/api/volumes/54833f63-b9f6-6a7f-b99b-c7143a200faf",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-04-01&endDate=2011-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
