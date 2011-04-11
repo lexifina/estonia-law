@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-04-11T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikaitsekomisjoni esimehe ja aseesimehe valimine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "45c5bf50-48a5-6970-72ef-df1cf8a98563"
+    },
+    {
+      "order": 2,
+      "title": "Riigikaitsekomisjoni töönädala päevakorra kinnitamine ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d73bd250-a70f-9b7b-14a8-2d8a5ce8f0fe"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bd8fc4b7-aeea-f2c9-852b-ead944e258d7"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 11.04.2011",
+      "uuid": "805b3d29-d07a-bce4-eda2-58fba3cff445",
+      "files": [
+        "11.04.11_1.doc"
+      ]
+    }
+  ],
+  "uuid": "f9ed8fef-1b92-6b0c-d7db-801c8ba75324",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f9ed8fef-1b92-6b0c-d7db-801c8ba75324)",
+  "source": "https://api.riigikogu.ee/api/volumes/f9ed8fef-1b92-6b0c-d7db-801c8ba75324",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-04-01&endDate=2011-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
