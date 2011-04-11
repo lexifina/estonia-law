@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-04-11T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Põhiseaduskomisjoni esimehe ja aseesimehe valimine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "14dfe4d3-0ead-b60d-7946-bbad05398b80"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu erikomisjonide moodustamiseks Riigikogu otsuste eelnõude esitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "da95d566-25e4-fa3c-93e4-f50cb9e0690f"
+    },
+    {
+      "order": 3,
+      "title": "Komisjoni töö tutvustamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3dfb1726-e5d7-9563-f981-d2dc653a31a7"
+    },
+    {
+      "order": 4,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cbe4ed8b-5899-6c3b-8b22-db1a3ee4b777"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 11.04.2011",
+      "uuid": "e8a0cd68-c940-2f17-f818-bc3608714100",
+      "files": [
+        "Põhiseaduskomisjon_istungi_protokoll_15_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "b81de0bb-03f2-62f8-ed96-868e45c0f982",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b81de0bb-03f2-62f8-ed96-868e45c0f982)",
+  "source": "https://api.riigikogu.ee/api/volumes/b81de0bb-03f2-62f8-ed96-868e45c0f982",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-04-01&endDate=2011-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
