@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-04-11T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Õiguskomisjoni esimehe ja aseesimehe valimine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "818ba9f4-03ae-6ff7-89f9-74b89f66f7e4"
+    },
+    {
+      "order": 2,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "caddffd2-7387-2127-981d-846b5cfcd1c3"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 11.04.2011",
+      "uuid": "a5f67431-4222-c428-68ce-e780bb86cf77",
+      "files": [
+        "iguskomisjon_istungi_protokoll_15_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "40a70001-0a9e-391d-567e-7424cdced83b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 40a70001-0a9e-391d-567e-7424cdced83b)",
+  "source": "https://api.riigikogu.ee/api/volumes/40a70001-0a9e-391d-567e-7424cdced83b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-04-01&endDate=2011-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
