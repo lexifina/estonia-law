@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-04-12T10:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade Budapestis 31.03-01.04.2011 toimunud EP ja EL liikmesriikide rahvusparlamentide põllumajanduskomisjonide esimeeste kohtumisest ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f9a0b019-5053-21e9-f13e-e34be8e9915c"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade 07.04.2011 toimunud Eesti Põllumeeste Keskliidu suurkogul räägitust",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "684cbeed-2185-ce94-225b-18f24ee854e0"
+    },
+    {
+      "order": 3,
+      "title": "Maaelukomisjoni kevadistungjärgu tööplaan",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4fdcb37d-6aa7-e181-5fed-a7384352e7c5"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 12.04.2011",
+      "uuid": "6a893df7-5d9b-f3ae-e7a6-376da59dacb5",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_15_2011.odt",
+        "Maaelukomisjon_paevakord_12_04_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "1cf53cdf-95c2-8e28-2fbe-6337e7cf576e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 1cf53cdf-95c2-8e28-2fbe-6337e7cf576e)",
+  "source": "https://api.riigikogu.ee/api/volumes/1cf53cdf-95c2-8e28-2fbe-6337e7cf576e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-04-01&endDate=2011-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
