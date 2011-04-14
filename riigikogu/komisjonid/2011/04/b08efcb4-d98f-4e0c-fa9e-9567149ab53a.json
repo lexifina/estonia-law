@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-04-14T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "ELAK-le arvamuse andmine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "933775fe-7aad-e84d-8322-4851f5012ed2"
+    },
+    {
+      "order": 2,
+      "title": "Riigikohtule arvamuse andmine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6a1559ec-dbda-905c-7d42-d908de030d57"
+    },
+    {
+      "order": 3,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b0c9e01b-ddbd-1570-6ceb-4cd03ab13050"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 14.04.2011",
+      "uuid": "11bc5ec5-47e8-f5e1-922f-58615350f56f",
+      "files": [
+        "Põhiseaduskomisjon_istungi_protokoll_15_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "b08efcb4-d98f-4e0c-fa9e-9567149ab53a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b08efcb4-d98f-4e0c-fa9e-9567149ab53a)",
+  "source": "https://api.riigikogu.ee/api/volumes/b08efcb4-d98f-4e0c-fa9e-9567149ab53a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-04-01&endDate=2011-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
