@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-04-14T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade Eesti suhetest Kesk-Aasia riikidega ning viimastest arengutest regioonis. ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d31d39e9-3d59-506d-1d68-50aced053bb8"
+    },
+    {
+      "order": 2,
+      "title": "Arutelu Soome eelseisvatest parlamendivalimistest (17. aprill 2011). ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cf6806a4-0010-32d5-c4ad-4e234b32b1d3"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f7acb3ea-1ae5-1c2e-7137-b4e98ba46340"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 14.04.2011",
+      "uuid": "4965bae7-5e5e-d83d-ef4a-0723ce388da1",
+      "files": [
+        "14.04.2011 (3) protokoll.doc"
+      ]
+    }
+  ],
+  "uuid": "24f0528e-ae6c-9974-1829-29c2eddba28f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 24f0528e-ae6c-9974-1829-29c2eddba28f)",
+  "source": "https://api.riigikogu.ee/api/volumes/24f0528e-ae6c-9974-1829-29c2eddba28f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-04-01&endDate=2011-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
