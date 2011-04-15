@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-04-15T10:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade 11.-12. aprillil 2011 toimunud Euroopa Liidu justiits- ja siseküsimuste nõukogu istungist (siseküsimused).",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b0ebe111-d044-1b6f-2adb-ca437c055dea"
+    },
+    {
+      "order": 2,
+      "title": "Seisukoha andmine: Euroopa Komisjoni roheline raamat Euroopa Liidu riigihankepoliitika ajakohastamise ja Euroopa hanketuru tõhustamine kohta (COM (2011) 15).",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8b720adc-eae6-1a96-3dc8-9e11dd5b9cc0"
+    },
+    {
+      "order": 3,
+      "title": "Arvamuse küsimine põhiseaduskomisjonilt, õiguskomisjonilt ja siseministeeriumilt: Euroopa Komisjoni teatis Euroopa Parlamendile ja nõukogule, mis käsitleb menetlusi, millega Euroopa Parlament kontrollib koostöös liikmesriikide parlamentidega Europoli tegevust (COM(2010)776)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "71e0cecd-9f75-d35f-bf84-a550a6dbd315"
+    },
+    {
+      "order": 4,
+      "title": "Euroopa Liidu asjade komisjoni 2011 I poolaasta töökava.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "12566818-d1be-643f-14be-e0824038f1ce"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 15.04.2011",
+      "uuid": "6722cb1a-33f9-64bc-d2a5-81cfa4ea0edc",
+      "files": [
+        "Euroopa_Liidu_asjade_komisjon_istungi_protokoll_15_2011.odt",
+        "Euroopa_Liidu_asjade_komisjon_paevakord_15_04_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "2edc7a3c-7488-b27b-089c-7869a7137bee",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2edc7a3c-7488-b27b-089c-7869a7137bee)",
+  "source": "https://api.riigikogu.ee/api/volumes/2edc7a3c-7488-b27b-089c-7869a7137bee",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-04-01&endDate=2011-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
