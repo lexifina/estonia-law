@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-04-18T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädalakava arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e8b40661-fe2b-59ce-d872-3fa623f34fad"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "44b0470e-5a36-37bd-7db4-cb81ded449de"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 18.04.2011",
+      "uuid": "9e77ebb8-3325-a9b5-5f80-0d57e8d1dd25",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_16_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "73514e33-5dd5-9630-b227-0f024d1b5ae8",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 73514e33-5dd5-9630-b227-0f024d1b5ae8)",
+  "source": "https://api.riigikogu.ee/api/volumes/73514e33-5dd5-9630-b227-0f024d1b5ae8",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-04-01&endDate=2011-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
