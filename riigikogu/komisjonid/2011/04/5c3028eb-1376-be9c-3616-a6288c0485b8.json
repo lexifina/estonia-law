@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-04-18T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Keskkonnakomisjoni töökava (18.04.11 – 24.04.11) kinnitamine ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0bd016b8-9e3f-26a4-1287-fdf35275e194"
+    },
+    {
+      "order": 2,
+      "title": " Keskkonnaministri kuulamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f9c88bc6-8e35-f7e2-684a-7818a21165f1"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3ed347af-9715-bb40-7cbf-b98d530b4269"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 18.04.2011",
+      "uuid": "9cd8ce3e-06d3-3f03-8aad-ceff4ccc3072",
+      "files": [
+        "prot2 18.04.11.doc"
+      ]
+    }
+  ],
+  "uuid": "5c3028eb-1376-be9c-3616-a6288c0485b8",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 5c3028eb-1376-be9c-3616-a6288c0485b8)",
+  "source": "https://api.riigikogu.ee/api/volumes/5c3028eb-1376-be9c-3616-a6288c0485b8",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-04-01&endDate=2011-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
