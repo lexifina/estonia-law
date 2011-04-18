@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-04-18T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väliskomisjoni I istungjärgu 3. töönädala töökava kinnitamine.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f94d807b-3e16-dd61-25d1-c2742bdbae76"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade arengutest Hiinas ja Eesti-Hiina kahepoolsed suhted.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "48e3ddf7-c2ba-c69a-cefe-537e6a01bda9"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3d8a0e71-42cb-8400-38fb-7dea4e8f2bb7"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 18.04.2011",
+      "uuid": "f933f845-9445-77c7-49c7-4b6e2d1b61c6",
+      "files": [
+        "18.04.2011 (4) protokoll.doc"
+      ]
+    }
+  ],
+  "uuid": "b18f1289-47c0-097d-4cc8-3fc03a17d513",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b18f1289-47c0-097d-4cc8-3fc03a17d513)",
+  "source": "https://api.riigikogu.ee/api/volumes/b18f1289-47c0-097d-4cc8-3fc03a17d513",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-04-01&endDate=2011-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
