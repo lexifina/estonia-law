@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-04-18T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Komisjoni töö tutvustamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dc47d3c1-3170-23d4-0df3-e829f4d5c6bb"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade tööturu olukorrast",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "76b4abfe-82b7-d559-2a05-b352d3c08373"
+    },
+    {
+      "order": 3,
+      "title": "Sotsiaalministeeriumile arvamuse andmine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c035eec6-b82d-6fe5-fac0-f7d71b9c8231"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 18.04.2011",
+      "uuid": "a233ce52-fd8e-355a-acf1-fff6222669f9",
+      "files": [
+        "Sotsiaalkomisjon_istungi_protokoll_16_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "68caf336-2959-854c-eb72-61d609f3cbc2",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 68caf336-2959-854c-eb72-61d609f3cbc2)",
+  "source": "https://api.riigikogu.ee/api/volumes/68caf336-2959-854c-eb72-61d609f3cbc2",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-04-01&endDate=2011-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
