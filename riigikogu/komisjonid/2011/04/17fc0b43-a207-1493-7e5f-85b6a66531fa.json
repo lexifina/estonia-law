@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-04-18T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bed762dd-b22c-b447-c9d1-63ff87148dfc"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine Eesti Põllumajandus-Kaubanduskoja juhtidega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dad9084e-b3d2-244c-dd92-e822bbc79064"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 18.04.2011",
+      "uuid": "cb4436c3-c1ee-c588-8fb0-d3ed9139ef27",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_16_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "17fc0b43-a207-1493-7e5f-85b6a66531fa",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 17fc0b43-a207-1493-7e5f-85b6a66531fa)",
+  "source": "https://api.riigikogu.ee/api/volumes/17fc0b43-a207-1493-7e5f-85b6a66531fa",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-04-01&endDate=2011-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
