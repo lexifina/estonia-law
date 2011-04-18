@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-04-18T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud väärtpaberituru seaduse ja sellega seonduvalt teiste seaduste muutmise seaduse eelnõu (8 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cbbf9cf0-2f5c-8291-94a1-d533ed6e3cef"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade stabiliseerimisreservist seisuga 31.03.2011",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ea324853-42fb-6aff-07b3-45d6ac84dbe9"
+    },
+    {
+      "order": 3,
+      "title": "\"Hasartmängumaksust toetuste määramise nõukogu moodustamine\" eelnõu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "98b445bb-389b-a516-5691-1df86a93c7f1"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 18.04.2011",
+      "uuid": "b8c754dd-5ddc-fa42-0566-47f3b473fc04",
+      "files": [
+        "Rahanduskomisjon_istungi_protokoll_16_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "dbade1c1-382c-494e-2cb4-cb2076ce3a8f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid dbade1c1-382c-494e-2cb4-cb2076ce3a8f)",
+  "source": "https://api.riigikogu.ee/api/volumes/dbade1c1-382c-494e-2cb4-cb2076ce3a8f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-04-01&endDate=2011-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
