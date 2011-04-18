@@ -1,0 +1,57 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-04-18T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "ELAK-le arvamuse andmine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ffda736b-58d9-5095-0991-5d8ae7ed5ea6"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu otsuse „Riigieelarve kontrolli komisjoni moodustamine“ eelnõu esitamise otsustamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "73e72f29-bd15-164b-2746-59d555fa60a4"
+    },
+    {
+      "order": 3,
+      "title": "Riigikogu otsuse „Korruptsioonivastase seaduse kohaldamise komisjoni moodustamine“ eelnõu esitamise otsustamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1c582c32-8386-25d1-8ec4-dd7622d5c3ba"
+    },
+    {
+      "order": 4,
+      "title": "Riigikogu otsuse „Julgeolekuasutuste järelevalve komisjoni moodustamine“ eelnõu esitamise otsustamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b16da7ae-919b-7038-e361-d8e8991b9d62"
+    },
+    {
+      "order": 5,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "36001e94-509a-fe6a-78fc-8de5ad34ec59"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 18.04.2011",
+      "uuid": "e9027264-6792-aab0-02fb-29f0bb5f0c7d",
+      "files": [
+        "Põhiseaduskomisjon_istungi_protokoll_16_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "7b2c8cd3-084b-eefc-c46d-f8e06b2e6482",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7b2c8cd3-084b-eefc-c46d-f8e06b2e6482)",
+  "source": "https://api.riigikogu.ee/api/volumes/7b2c8cd3-084b-eefc-c46d-f8e06b2e6482",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-04-01&endDate=2011-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
