@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-04-19T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Pensionid ja tulumaks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "32109bac-da35-f997-f60b-dbd6fb4d9691"
+    },
+    {
+      "order": 2,
+      "title": "Teel tasakaalustatud ühiskonda. Naised ja mehed Eestis",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "50136d67-9a64-8046-2aac-dc864492d5eb"
+    },
+    {
+      "order": 3,
+      "title": "Välislähetus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d5c45adb-6e6c-c16b-ac10-1719a52e7aa6"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 19.04.2011",
+      "uuid": "4e14f30b-6e9d-c03d-7b80-d9d267d85c25",
+      "files": [
+        "Sotsiaalkomisjon_istungi_protokoll_16_2011.odt",
+        "Sotsiaalkomisjon_paevakord_19_04_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "f038d3fe-afb4-2216-9bfa-30516d8a77f7",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f038d3fe-afb4-2216-9bfa-30516d8a77f7)",
+  "source": "https://api.riigikogu.ee/api/volumes/f038d3fe-afb4-2216-9bfa-30516d8a77f7",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-04-01&endDate=2011-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
