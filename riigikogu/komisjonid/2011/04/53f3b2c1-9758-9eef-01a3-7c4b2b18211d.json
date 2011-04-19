@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-04-19T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väljasõiduistung AS-i Tallinna Lennujaam",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f27f48cb-8dfb-c382-a75d-dad40c735bfb"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5bb6e2c0-166a-209f-4811-191ece47ee7f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 19.04.2011",
+      "uuid": "80a0495a-f4c2-6282-7b2a-fb6f5dd33162",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_16_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "53f3b2c1-9758-9eef-01a3-7c4b2b18211d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 53f3b2c1-9758-9eef-01a3-7c4b2b18211d)",
+  "source": "https://api.riigikogu.ee/api/volumes/53f3b2c1-9758-9eef-01a3-7c4b2b18211d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-04-01&endDate=2011-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
