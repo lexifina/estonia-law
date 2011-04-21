@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-04-21T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Maanteeameti riigihangete tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1418519f-15c4-1737-9d3c-989ad8fd68b7"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2f915c68-a3cc-b93c-5918-5ad6ca21bc9e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 21.04.2011",
+      "uuid": "2b069b97-5eb8-e7a3-da22-58991a5b41a9",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_16_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "3cf0b9ab-9717-5aac-82ad-2cc6f64ad4e6",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3cf0b9ab-9717-5aac-82ad-2cc6f64ad4e6)",
+  "source": "https://api.riigikogu.ee/api/volumes/3cf0b9ab-9717-5aac-82ad-2cc6f64ad4e6",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-04-01&endDate=2011-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
