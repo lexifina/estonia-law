@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-05-02T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "deca5757-d544-d28e-3fb0-492596dee46d"
+    },
+    {
+      "order": 2,
+      "title": "Ettepaneku tegemine  Bioeetika Nõukogusse Riigikogu esindajate nimetamiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b608a18a-c23f-d759-94ab-cfb0800e5f99"
+    },
+    {
+      "order": 3,
+      "title": "Lähetus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c189ce36-5cbf-066e-2e35-9a31e77c54bc"
+    },
+    {
+      "order": 4,
+      "title": "Info",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5be685b6-3cb8-9c6c-da08-87b6fb61614c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 02.05.2011",
+      "uuid": "8861bb0e-bb7d-230b-8df1-8401af6d3573",
+      "files": [
+        "Sotsiaalkomisjon_istungi_protokoll_18_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "0b1ac318-1d72-b7de-f0fc-b7542f6ceeca",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0b1ac318-1d72-b7de-f0fc-b7542f6ceeca)",
+  "source": "https://api.riigikogu.ee/api/volumes/0b1ac318-1d72-b7de-f0fc-b7542f6ceeca",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-05-01&endDate=2011-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
