@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-05-02T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": " Riigikaitsekomisjoni töönädala päevakorra kinnitamine ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "34a241a8-c024-ecb9-acc4-8f80284fe05e"
+    },
+    {
+      "order": 2,
+      "title": "Rootsis asuva Euroopa Liidu Põhjala lahingugrupi peakorteri külastamine k.a 22-24.05.2011",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e4004257-e363-bee4-3bfa-b432289c201c"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0dc0a72d-7c3b-ad03-2ab5-4dd9c7b821e7"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 02.05.2011",
+      "uuid": "39589535-ec61-7a6e-78d3-c33c310f958b",
+      "files": [
+        "02.05.11_5.doc"
+      ]
+    }
+  ],
+  "uuid": "9ca7c4b9-2094-b896-0887-54472e1bb17c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9ca7c4b9-2094-b896-0887-54472e1bb17c)",
+  "source": "https://api.riigikogu.ee/api/volumes/9ca7c4b9-2094-b896-0887-54472e1bb17c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-05-01&endDate=2011-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
