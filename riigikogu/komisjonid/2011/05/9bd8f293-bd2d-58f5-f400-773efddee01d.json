@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-05-02T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1c81702b-30c7-a791-baee-13d1c25a3dd0"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine Eesti Põllumeeste Keskliidu esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5fb0a9e9-f09b-478f-1cfb-790bbd7fce2f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 02.05.2011",
+      "uuid": "4f4dc141-3a10-e50e-45b4-112b4dec29d4",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_18_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "9bd8f293-bd2d-58f5-f400-773efddee01d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9bd8f293-bd2d-58f5-f400-773efddee01d)",
+  "source": "https://api.riigikogu.ee/api/volumes/9bd8f293-bd2d-58f5-f400-773efddee01d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-05-01&endDate=2011-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
