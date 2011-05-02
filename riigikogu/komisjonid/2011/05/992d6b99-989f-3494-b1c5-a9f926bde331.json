@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-05-02T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Krediidi ja Ekspordi Garanteerimise Sihtasutuse KredEx esindajatega. Teema: Energiasääst, majade soojustamine ja kvoodiraha kasutamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "80c1e2cd-26bb-759d-048f-70d3a6830594"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine TTÜ esindajatega energiasäästu teemal",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f0a9a458-28c5-09db-d367-1b7adaa6a1ea"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "aa1cf210-87e5-f612-c0f8-d6e4f9c65517"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 02.05.2011",
+      "uuid": "2707a758-0db7-2a2d-13d7-6b8e49403081",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_18_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "992d6b99-989f-3494-b1c5-a9f926bde331",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 992d6b99-989f-3494-b1c5-a9f926bde331)",
+  "source": "https://api.riigikogu.ee/api/volumes/992d6b99-989f-3494-b1c5-a9f926bde331",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-05-01&endDate=2011-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
