@@ -1,0 +1,57 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-05-03T12:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väljasõiduistung RMK-sse",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "182c49e4-620b-99f2-cd59-2766ba8d8609"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu otsuse „Riigimetsa Majandamise Keskuse nõukogu liikmete nimetamine” eelnõu esitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f09ea63d-2063-54ac-f6d3-1b702373a51c"
+    },
+    {
+      "order": 3,
+      "title": "Riigikogu otsuse „Sihtasutuse Keskkonnainvesteeringute  Keskus nõukogu liikmete nimetamine” eelnõu esitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a65ee015-6c29-6ac2-020a-7996eb9044e5"
+    },
+    {
+      "order": 4,
+      "title": "„Eesti metsanduse arengukava aastani 2020ˮ tutvustamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c509754a-2d4c-bef7-83fa-19246e130a80"
+    },
+    {
+      "order": 5,
+      "title": "RMK kui riigimetsa majandaja tutvustamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f2d033e0-06b3-6e62-e5a6-b32e92b1c471"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 03.05.2011",
+      "uuid": "60132008-6ffc-6ba3-90c5-3bc1cb09e3ae",
+      "files": [
+        "prot4 03.05.2011.doc"
+      ]
+    }
+  ],
+  "uuid": "15ad4a10-2e7a-7fda-5775-e54e71b995be",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 15ad4a10-2e7a-7fda-5775-e54e71b995be)",
+  "source": "https://api.riigikogu.ee/api/volumes/15ad4a10-2e7a-7fda-5775-e54e71b995be",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-05-01&endDate=2011-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
