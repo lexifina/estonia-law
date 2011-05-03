@@ -1,0 +1,33 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-05-03T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väljasõidu istung - Eesti Kohtuekspertiisi Instituudi külastamine 14:15 - 16:15",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e41ea9f9-8e36-5418-4693-2101ffa36626"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 03.05.2011",
+      "uuid": "1acf9a5e-20ee-394f-b267-0d557799d218",
+      "files": [
+        "iguskomisjon_istungi_protokoll_18_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "c503a6bf-6bfc-1138-e69a-fe820162ea7f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c503a6bf-6bfc-1138-e69a-fe820162ea7f)",
+  "source": "https://api.riigikogu.ee/api/volumes/c503a6bf-6bfc-1138-e69a-fe820162ea7f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-05-01&endDate=2011-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
