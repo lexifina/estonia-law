@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-05-03T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine OÜ Energiasalv. Teema: Energiajulgeolek ja elektriga varustatus 2023.a",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "353d2b5b-a7a7-0714-4de3-bfb583a3121b"
+    },
+    {
+      "order": 2,
+      "title": "Majandus- ja Kommunikatsiooniministeeriumi ülevaade energiasäästu teemal.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "914221ca-8b0e-1b34-0200-a4784895035a"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c7984663-787a-c591-8250-32b1621a4fb6"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 03.05.2011",
+      "uuid": "04fa9252-3ab1-6826-760d-d023db89d17a",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_18_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "682dfeac-451b-f210-61dc-f51c1a6e9209",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 682dfeac-451b-f210-61dc-f51c1a6e9209)",
+  "source": "https://api.riigikogu.ee/api/volumes/682dfeac-451b-f210-61dc-f51c1a6e9209",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-05-01&endDate=2011-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
