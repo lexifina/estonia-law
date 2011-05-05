@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-05-05T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine AS Elering esindajatega Teema: Nutivõrk ehk tark elektrivõrk",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "275b85b0-c954-6063-d202-c948436be157"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine AS Eesti Energia esindajatega energiasäästu teemal",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "53e81ba6-41d5-d44a-c8b8-fc6f428dd09f"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a4180c19-fa77-e7a8-f438-306953d22f39"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 05.05.2011",
+      "uuid": "ddaa8699-69d9-3e8b-15d6-1dc2aa2d6c4e",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_18_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "463c418b-405f-84e0-9244-0c5ed3e27513",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 463c418b-405f-84e0-9244-0c5ed3e27513)",
+  "source": "https://api.riigikogu.ee/api/volumes/463c418b-405f-84e0-9244-0c5ed3e27513",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-05-01&endDate=2011-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
