@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-05-09T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Keskkonnakomisjoni töökava (09.05.11 – 15.05.11) kinnitamine ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "604fdbd5-7af1-86e4-3a03-2248ad40adae"
+    },
+    {
+      "order": 2,
+      "title": " ELAKi, keskkonnakomisjoni, majanduskomisjoni ja rahanduskomisjoni ühisistung teemal: „Eesti osalemisest EL Kohtu ja EFTA kohtu menetlustes ja Eesti vastu algatatud rikkumismenetlustest 2009-2010“",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5807c7f1-b2dd-e693-0970-3d64ecce4a56"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 09.05.2011",
+      "uuid": "d499cebc-b878-9db4-d985-5a9e2e585d49",
+      "files": [
+        "prot5 09.05.2011.doc"
+      ]
+    }
+  ],
+  "uuid": "3a830abd-e3a1-1727-cb0a-f422938c86ae",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3a830abd-e3a1-1727-cb0a-f422938c86ae)",
+  "source": "https://api.riigikogu.ee/api/volumes/3a830abd-e3a1-1727-cb0a-f422938c86ae",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-05-01&endDate=2011-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
