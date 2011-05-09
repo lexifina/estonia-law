@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-05-09T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cd0291ae-7733-55a1-0013-937523008176"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade kalandussektorist ja Euroopa Kalandusfondi meetmete rakendamisest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5e2f81cd-5308-ee4a-14d6-8053736bf2d9"
+    },
+    {
+      "order": 3,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "139df955-a247-d233-94f7-89b6f703d7c0"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 09.05.2011",
+      "uuid": "bef650ca-8995-538a-9239-b9ed3157810d",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_19_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "9dfb43ee-c663-b0c4-498f-0c591d9d09ef",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9dfb43ee-c663-b0c4-498f-0c591d9d09ef)",
+  "source": "https://api.riigikogu.ee/api/volumes/9dfb43ee-c663-b0c4-498f-0c591d9d09ef",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-05-01&endDate=2011-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
