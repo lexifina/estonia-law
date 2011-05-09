@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-05-09T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikogu otsuse \"Hasartmängumaksust toetuste määramise nõukogu moodustamine\" eelnõu algatamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f6c3ba27-2cb3-bcf8-70e5-fc001ea11bb8"
+    },
+    {
+      "order": 2,
+      "title": "Ühisistung ELAKga kell 13.30 Ülevaade Eesti osalemisest Euroopa Liidu Kohtu ja EFTA kohtu menetlustes ja Eesti vastu algatatud rikkumismenetlustest 2009-2010",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f47b9ab6-6607-983b-8919-768dd0910b62"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 09.05.2011",
+      "uuid": "a02de6da-d682-d1d8-b98e-8077f6a1bd4e",
+      "files": [
+        "Rahanduskomisjon_istungi_protokoll_19_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "d90d1139-fc5d-c2f1-a5ac-634b692e8bb3",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d90d1139-fc5d-c2f1-a5ac-634b692e8bb3)",
+  "source": "https://api.riigikogu.ee/api/volumes/d90d1139-fc5d-c2f1-a5ac-634b692e8bb3",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-05-01&endDate=2011-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
