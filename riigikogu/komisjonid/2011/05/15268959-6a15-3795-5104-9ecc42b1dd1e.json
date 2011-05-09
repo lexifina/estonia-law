@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-05-09T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "422925a1-fb7a-45aa-fbb6-351683605eba"
+    },
+    {
+      "order": 2,
+      "title": "Tervisevaldkonna tutvustus. Väljasõiduistung Põhja-Eesti Regionaalhaiglas",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "362f1bf9-f437-4c47-74de-1b8594a2637f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 09.05.2011",
+      "uuid": "a2970523-066a-3f7c-a04f-f97641a176da",
+      "files": [
+        "Sotsiaalkomisjon_istungi_protokoll_19_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "15268959-6a15-3795-5104-9ecc42b1dd1e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 15268959-6a15-3795-5104-9ecc42b1dd1e)",
+  "source": "https://api.riigikogu.ee/api/volumes/15268959-6a15-3795-5104-9ecc42b1dd1e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-05-01&endDate=2011-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
