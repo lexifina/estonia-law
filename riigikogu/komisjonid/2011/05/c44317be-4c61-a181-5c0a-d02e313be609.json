@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-05-09T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töönädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2a0b0e51-901f-4c74-ac75-68ba4e6bb7dd"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine siseminister Ken-Marti Vaheriga",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "eede064b-4779-29d4-70e0-998a21219611"
+    },
+    {
+      "order": 3,
+      "title": "Arvamus ELAK-le [KOM(2010)776]",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8b579023-0571-e42f-65a8-ae6f77b2fd56"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 09.05.2011",
+      "uuid": "ae102a4f-375a-a1e1-27ac-e12e979a4f6d",
+      "files": [
+        "õiguskomisjoni protokoll 9.05.odt",
+        "iguskomisjon_paevakord_09_05_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "c44317be-4c61-a181-5c0a-d02e313be609",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c44317be-4c61-a181-5c0a-d02e313be609)",
+  "source": "https://api.riigikogu.ee/api/volumes/c44317be-4c61-a181-5c0a-d02e313be609",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-05-01&endDate=2011-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
