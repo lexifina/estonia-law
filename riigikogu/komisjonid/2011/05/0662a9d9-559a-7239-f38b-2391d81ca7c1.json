@@ -1,0 +1,33 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-05-10T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikaitsekomisjoni väljasõiduistung Kaitseressursside Ametisse",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b2efa9c3-47ab-25d3-b7b5-b63515b3b93e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 10.05.2011",
+      "uuid": "23fc730a-1677-3658-5a18-cbbbd0d8c082",
+      "files": [
+        "10.05.11_10.doc"
+      ]
+    }
+  ],
+  "uuid": "0662a9d9-559a-7239-f38b-2391d81ca7c1",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0662a9d9-559a-7239-f38b-2391d81ca7c1)",
+  "source": "https://api.riigikogu.ee/api/volumes/0662a9d9-559a-7239-f38b-2391d81ca7c1",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-05-01&endDate=2011-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
