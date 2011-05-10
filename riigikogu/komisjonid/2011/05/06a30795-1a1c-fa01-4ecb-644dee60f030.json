@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-05-10T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Rahandusministeeriumi 2011. aasta kevadine majandusprognoos",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5bf0501f-23cd-4271-7749-f4f4b3ab1dc4"
+    },
+    {
+      "order": 2,
+      "title": "Ettepaneku tegemine Riigikogu esimehele Eesti-Läti piiriülese koostöö tõhustamise valitsuskomisjoni Riigikogu esindaja määramiseks ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2f786cd4-d412-658a-28ad-ee6f29343b68"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "883fbe1f-804e-eaba-4ab0-3fb23697101f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 10.05.2011",
+      "uuid": "c1e6aa6d-e002-fc88-0fbe-f1ad770ef8c0",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_19_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "06a30795-1a1c-fa01-4ecb-644dee60f030",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 06a30795-1a1c-fa01-4ecb-644dee60f030)",
+  "source": "https://api.riigikogu.ee/api/volumes/06a30795-1a1c-fa01-4ecb-644dee60f030",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-05-01&endDate=2011-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
