@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-05-10T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikontrolli aruanne \"Perearstiabi korraldus\"",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4920bfaa-58e8-4b59-ae3c-51ec39d9ce6c"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu otsuse \"Eesti Haigekassa nõukogu liikme nimetamine\" eelnõu algatamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "46c12af9-b807-aba8-04ea-3c7d6c4ccd54"
+    },
+    {
+      "order": 3,
+      "title": "Eakate poliitika komisjoni liikme määramine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0373f73e-0e48-07fe-72d8-4e9988258f60"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 10.05.2011",
+      "uuid": "edee4209-bd75-1980-9d8a-7fd036e4f2ff",
+      "files": [
+        "Sotsiaalkomisjon_istungi_protokoll_19_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "d2e9b32f-753f-9d39-ab71-1f4473daa32c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d2e9b32f-753f-9d39-ab71-1f4473daa32c)",
+  "source": "https://api.riigikogu.ee/api/volumes/d2e9b32f-753f-9d39-ab71-1f4473daa32c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-05-01&endDate=2011-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
