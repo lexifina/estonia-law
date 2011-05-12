@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-05-12T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine AS Eesti Energia esindajatega ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c8d4f6af-17d2-eec9-e200-7fbd5b3554b6"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a262185b-6ead-30f7-6d71-ded9b40ecb64"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 12.05.2011",
+      "uuid": "1a72e6c9-f658-46a5-adac-f14f65000e17",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_19_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "fe2ec3ae-38a8-f16c-870d-f07a628f70f6",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid fe2ec3ae-38a8-f16c-870d-f07a628f70f6)",
+  "source": "https://api.riigikogu.ee/api/volumes/fe2ec3ae-38a8-f16c-870d-f07a628f70f6",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-05-01&endDate=2011-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
