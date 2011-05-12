@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-05-12T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Rahvusvaheline terrorism. ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "92e60c16-229a-b940-f666-5501dee149c2"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad 13. mail 2011 toimuval Euroopa Liidu välisasjade nõukogu istungil (kaubandus).",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ba466011-9c99-a670-3dcc-5f7d9243d312"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e7bc0407-a79c-295a-ce49-92359babda0d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 12.05.2011",
+      "uuid": "86fee076-c328-19fa-b6ac-f7fa4e4575a2",
+      "files": [
+        "12.05.2011 (11) protokoll.doc"
+      ]
+    }
+  ],
+  "uuid": "733cddcf-2e8e-b8fc-de58-cd995f4a3011",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 733cddcf-2e8e-b8fc-de58-cd995f4a3011)",
+  "source": "https://api.riigikogu.ee/api/volumes/733cddcf-2e8e-b8fc-de58-cd995f4a3011",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-05-01&endDate=2011-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
