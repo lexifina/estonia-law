@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-05-16T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Komisjoni töönädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b5b06b20-5b5c-804a-0ef9-4fe8ee1a9b34"
+    },
+    {
+      "order": 2,
+      "title": "Arvamus ELAK-le Eesti seisukohad Euroopa Liidu Nõukogu määruse, mis reguleerib kohtualluvust, kohaldatavat õigust ning otsuste tunnustamist ja täitmist abieluvararežiime käsitlevates asjades, eelnõu suhtes ning määruse, mis reguleerib samu küsimusi registreeritud kooselust tulenevaid varalisi tagajärgi käsitlevates asjades, eelnõu suhtes.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a93228b9-949f-d198-d6f7-7b4ba25d417c"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "58c33394-8de2-7618-5c26-4dc1ae681dd7"
+    },
+    {
+      "order": 4,
+      "title": "13:00 – 14:30 Kaitsepolitseiameti külastamine koos Riigikogu julgeolekuasutuste järelevalve erikomisjoniga. ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "796f058c-36bf-838e-a523-e6d09b71c6af"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 16.05.2011",
+      "uuid": "b9e5e136-cc09-2fd0-d578-66ae91d3ebf2",
+      "files": [
+        "iguskomisjon_istungi_protokoll_20_2011_1.odt"
+      ]
+    }
+  ],
+  "uuid": "6e583baf-d197-a58e-e9e1-db92bd44196f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 6e583baf-d197-a58e-e9e1-db92bd44196f)",
+  "source": "https://api.riigikogu.ee/api/volumes/6e583baf-d197-a58e-e9e1-db92bd44196f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-05-01&endDate=2011-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
