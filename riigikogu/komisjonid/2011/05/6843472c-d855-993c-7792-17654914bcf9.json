@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-05-16T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade ELi eelarveraamistikust ja sellealastest läbirääkimistes.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8fee98f1-751f-2743-c3ad-b64624feb30b"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad 20. mail 2011 toimuval mitteametlikul  Euroopa Liidu ühtekuuluvuspoliitika ministrite kohtumisel. ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d8a93d30-9e75-4469-c76a-f8c67a7c9aa4"
+    },
+    {
+      "order": 3,
+      "title": "Eesti seisukohad 19. mail 2011 toimuval mitteametlikul Euroopa Liidu ruumilise planeerimise ja territoriaalarengu ministrite kohtumisel.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "40a905ac-6d43-c5f9-cbae-dfb094fd410d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 16.05.2011",
+      "uuid": "557cb4c8-d959-9425-d9d5-f9486c040a85",
+      "files": [
+        "Euroopa Liidu asjade komisjon_paevakord_16_05_2011.odt",
+        "Euroopa Liidu asjade komisjon_istungi_protokoll_20_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "6843472c-d855-993c-7792-17654914bcf9",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 6843472c-d855-993c-7792-17654914bcf9)",
+  "source": "https://api.riigikogu.ee/api/volumes/6843472c-d855-993c-7792-17654914bcf9",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-05-01&endDate=2011-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
