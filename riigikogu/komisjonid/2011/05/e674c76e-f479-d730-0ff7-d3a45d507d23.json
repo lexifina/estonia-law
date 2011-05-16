@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-05-16T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Keskkonnakomisjoni töökava (16.05.11 – 22.05.11) kinnitamine ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5b36441d-278c-6515-baa6-7e2a8db2a05e"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud 2006. aasta rahvusvahelise troopilise puidu lepingu ratifitseerimise seaduse eelnõu (26 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3e46806e-4e5b-8c59-0b67-f9863daae604"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bdc7d24c-4e0c-9b9b-39bb-bee37f353d8a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 16.05.2011",
+      "uuid": "387aad38-9f81-ca97-de19-7c4e1d6ba406",
+      "files": [
+        "prot7_16.05.2011.doc"
+      ]
+    }
+  ],
+  "uuid": "e674c76e-f479-d730-0ff7-d3a45d507d23",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e674c76e-f479-d730-0ff7-d3a45d507d23)",
+  "source": "https://api.riigikogu.ee/api/volumes/e674c76e-f479-d730-0ff7-d3a45d507d23",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-05-01&endDate=2011-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
