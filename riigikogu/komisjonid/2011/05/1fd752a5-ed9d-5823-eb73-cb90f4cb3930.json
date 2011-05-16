@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-05-16T12:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väliskomisjoni kohtumine Vabariigi Presidendiga Kadriorus.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3d2cac31-6c40-80c4-5a9f-d634df9fa6c5"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "127a6745-5c28-afdd-e5d9-f0791a98574c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 16.05.2011",
+      "uuid": "8a566400-a531-5ec5-0f75-2599509268bf",
+      "files": [
+        "16.05.2011 (12) protokoll.doc"
+      ]
+    }
+  ],
+  "uuid": "1fd752a5-ed9d-5823-eb73-cb90f4cb3930",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 1fd752a5-ed9d-5823-eb73-cb90f4cb3930)",
+  "source": "https://api.riigikogu.ee/api/volumes/1fd752a5-ed9d-5823-eb73-cb90f4cb3930",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-05-01&endDate=2011-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
