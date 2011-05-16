@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-05-16T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti Haigekassa nõukogu liikme nimetamise otsuse eelnõu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9825dc99-2015-6443-c769-ede79f3c847e"
+    },
+    {
+      "order": 2,
+      "title": "Haigekassa tegevuse tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "226443a5-5663-c2cb-54f4-d9596e4d5f5b"
+    },
+    {
+      "order": 3,
+      "title": "Eakate poliitika komisjoni liikme määramine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a67fac25-9ee2-3744-d87d-72e298087601"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 16.05.2011",
+      "uuid": "616358ed-a965-6245-434f-2966029fde60",
+      "files": [
+        "Sotsiaalkomisjon_istungi_protokoll_20_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "34a01b12-9561-2246-228b-cc13f3c43c80",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 34a01b12-9561-2246-228b-cc13f3c43c80)",
+  "source": "https://api.riigikogu.ee/api/volumes/34a01b12-9561-2246-228b-cc13f3c43c80",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-05-01&endDate=2011-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
