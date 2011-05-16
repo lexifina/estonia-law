@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-05-16T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "71d19e03-39b2-c34c-4a17-73607beab354"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade maaelu arengu aruande koostamisest. Maaelu arengu lähtealused ja mõõdikud",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0d74910b-3b19-57cc-cbac-e8266d79e6b8"
+    },
+    {
+      "order": 3,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "367aef79-a5ac-aa0a-00a8-6d1b7225c90a"
+    },
+    {
+      "order": 4,
+      "title": "Osalemine Riigikogu kohalike omavalitsuste ja regionaalpoliitika toetusrühma korraldataval ümarlaual",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "35f8aee6-b5e7-9d71-e4b4-044baa7c86d4"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 16.05.2011",
+      "uuid": "62b40837-32e1-203b-31cc-ac9c7c4940dc",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_20_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "41b2bd36-8cd7-f85f-5cf3-d8e8368c7c5f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 41b2bd36-8cd7-f85f-5cf3-d8e8368c7c5f)",
+  "source": "https://api.riigikogu.ee/api/volumes/41b2bd36-8cd7-f85f-5cf3-d8e8368c7c5f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-05-01&endDate=2011-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
