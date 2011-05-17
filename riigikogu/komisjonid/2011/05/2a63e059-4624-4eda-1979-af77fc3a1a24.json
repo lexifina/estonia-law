@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-05-17T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": " Riigikaitsekomisjoni töönädala päevakorra kinnitamine ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d7da44f7-7122-fde6-2ea0-fd1052a1465c"
+    },
+    {
+      "order": 2,
+      "title": "Rahvusvaheline terrorism",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5f0cc576-0502-3f42-998b-69d706fed643"
+    },
+    {
+      "order": 3,
+      "title": "Ülevaade Balti ja Põhjala riikide ning Poola parlamentide kaitsekomisjonide kohtumisest Vilniuses 15.-16.05.2011",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "924c70d6-ab01-2a34-df78-61cc3c988e59"
+    },
+    {
+      "order": 4,
+      "title": " Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "16a53449-79f7-c99b-6853-bb29354b00d9"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 17.05.2011",
+      "uuid": "0b27742a-621f-64d0-44db-b6312c188748",
+      "files": [
+        "17.05.11_11.doc"
+      ]
+    }
+  ],
+  "uuid": "2a63e059-4624-4eda-1979-af77fc3a1a24",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2a63e059-4624-4eda-1979-af77fc3a1a24)",
+  "source": "https://api.riigikogu.ee/api/volumes/2a63e059-4624-4eda-1979-af77fc3a1a24",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-05-01&endDate=2011-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
