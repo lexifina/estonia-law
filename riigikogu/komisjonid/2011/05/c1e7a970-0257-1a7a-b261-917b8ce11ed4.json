@@ -1,0 +1,34 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-05-17T11:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "11.30 Tallinna Vangla külastamine.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8d693a3e-da12-4ad8-2f6b-1ae7f2b23258"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 17.05.2011",
+      "uuid": "286bfc50-e86a-1540-9815-5e3de1174154",
+      "files": [
+        "oik 17.05.odt",
+        "iguskomisjon_paevakord_17_05_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "c1e7a970-0257-1a7a-b261-917b8ce11ed4",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c1e7a970-0257-1a7a-b261-917b8ce11ed4)",
+  "source": "https://api.riigikogu.ee/api/volumes/c1e7a970-0257-1a7a-b261-917b8ce11ed4",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-05-01&endDate=2011-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
