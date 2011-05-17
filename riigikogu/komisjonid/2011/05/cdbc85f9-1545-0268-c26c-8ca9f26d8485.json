@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-05-17T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade Eesti ja Georgia kahepoolsetest suhetest. ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d5ef0ec8-9d1f-eef4-16a9-b2a5861cf6bf"
+    },
+    {
+      "order": 2,
+      "title": "Eesti esindatus Lähis-Idas. ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d4edbe6f-bfda-a67d-d504-a6f2155a0948"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "88aa5fa0-bdda-e91f-3a17-8fbc14e5edb1"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 17.05.2011",
+      "uuid": "f8f9ecef-4359-cc87-0b7a-6c0864a3ead5",
+      "files": [
+        "17.05.2011 (13) protokoll.doc"
+      ]
+    }
+  ],
+  "uuid": "cdbc85f9-1545-0268-c26c-8ca9f26d8485",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid cdbc85f9-1545-0268-c26c-8ca9f26d8485)",
+  "source": "https://api.riigikogu.ee/api/volumes/cdbc85f9-1545-0268-c26c-8ca9f26d8485",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-05-01&endDate=2011-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
