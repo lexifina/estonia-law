@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-05-17T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud meresõiduohutuse seaduse, riigilõivuseaduse ja sadamaseaduse muutmise seaduse eelnõu (25 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "332e6cdf-154c-91ca-d5ba-24c7ea7e5bd1"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud raudteeseaduse muutmise seaduse eelnõu (27 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b2fec146-2358-25e7-e732-230c80f7fad8"
+    },
+    {
+      "order": 3,
+      "title": "Riigikogu otsuse „ Eesti Arengufondi nõukogu liikmete nimetamine“ eelnõu esitamise otsustamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a1b0dc64-ade6-19f3-4f38-fd8fb4e37865"
+    },
+    {
+      "order": 4,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c41e06b3-9eb0-6c29-530e-d3471b64e005"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 17.05.2011",
+      "uuid": "2a2c9c92-864c-d096-93ca-da0ef44533a2",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_20_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "debfd9f5-3e87-3f05-394f-a4d318732df2",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid debfd9f5-3e87-3f05-394f-a4d318732df2)",
+  "source": "https://api.riigikogu.ee/api/volumes/debfd9f5-3e87-3f05-394f-a4d318732df2",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-05-01&endDate=2011-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
