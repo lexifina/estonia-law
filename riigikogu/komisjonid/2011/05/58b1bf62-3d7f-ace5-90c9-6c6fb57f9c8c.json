@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-05-19T10:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti Keskerakonna fraktsiooni algatatud riigivaraseaduse muutmise seaduse eelnõu (3 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "46a402b1-8401-3e8d-8f4e-ed9f1e390129"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "868318b4-637a-8e3d-401c-b0db79f08355"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 19.05.2011",
+      "uuid": "88f9a496-2d66-2aa2-4a5e-5ac31ac8f20d",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_20_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "58b1bf62-3d7f-ace5-90c9-6c6fb57f9c8c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 58b1bf62-3d7f-ace5-90c9-6c6fb57f9c8c)",
+  "source": "https://api.riigikogu.ee/api/volumes/58b1bf62-3d7f-ace5-90c9-6c6fb57f9c8c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-05-01&endDate=2011-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
