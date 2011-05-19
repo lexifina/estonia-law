@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-05-19T10:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti Reformierakonna fraktsiooni, Isamaa ja Res Publica Liidu fraktsiooni algatatud koduomanike maamaksust vabastamise seaduse eelnõu (51 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "358f77a9-fc3a-72cf-c238-89cea731ad35"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud riigikogu otsus \"Euroopa Investeerimispanga ja sihtasutuse Põhja-Eesti Regionaalhaigla vahelisele laenule riigigarantii andmine\" (49)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "925329aa-9e2f-e087-0ecf-feef8da0facc"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 19.05.2011",
+      "uuid": "86ad843b-1330-c0c6-5492-b7dd1307ec2e",
+      "files": [
+        "Rahanduskomisjon_istungi_protokoll_20_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "783f2efe-8f9d-6761-fc59-a3553ef66f3e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 783f2efe-8f9d-6761-fc59-a3553ef66f3e)",
+  "source": "https://api.riigikogu.ee/api/volumes/783f2efe-8f9d-6761-fc59-a3553ef66f3e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-05-01&endDate=2011-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
