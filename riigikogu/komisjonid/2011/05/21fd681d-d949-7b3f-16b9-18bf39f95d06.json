@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-05-19T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 24. mail 2011 toimuval Euroopa Liidu välisasjade nõukogu istungil (kaitseministrid). ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5d4aa302-d250-3884-a6c8-3b22f010c2f8"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad 23.-24. mail 2011 toimuval Euroopa Liidu välisasjade nõukogu istungil, kus osalevad ka arengukoostööministrid.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "51823e9e-93ec-d37e-cc2a-a88ef3232ed1"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6a42e811-fe83-9221-9d10-6b7822fefdab"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 19.05.2011",
+      "uuid": "aba03224-20b6-e3e9-f653-e37a4107caa5",
+      "files": [
+        "19.05.2011 (14) protokoll.doc"
+      ]
+    }
+  ],
+  "uuid": "21fd681d-d949-7b3f-16b9-18bf39f95d06",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 21fd681d-d949-7b3f-16b9-18bf39f95d06)",
+  "source": "https://api.riigikogu.ee/api/volumes/21fd681d-d949-7b3f-16b9-18bf39f95d06",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-05-01&endDate=2011-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
