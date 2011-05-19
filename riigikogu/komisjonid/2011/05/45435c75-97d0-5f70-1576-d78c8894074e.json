@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-05-19T12:20:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kell 9.00 Riigikaitsekomisjoni ja väliskomisjoni liikmete kohtumine USA Suursaatkonna külalisteks olevate Georgia poliitikutega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "03cb521a-306b-7542-2095-90bf747af377"
+    },
+    {
+      "order": 2,
+      "title": " SA Eesti Välispoliitika Instituudi nõukogusse esindaja määramine ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2dba82cd-b656-32f8-7132-cafa8456d5b7"
+    },
+    {
+      "order": 3,
+      "title": "Riigikaitsekomisjoni väljasõiduistung Teabeameti külastamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f7b9e44a-6b73-155d-4506-d9018611fb37"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 19.05.2011",
+      "uuid": "411ef0a6-4515-bc0a-3f1f-8982b7085a5a",
+      "files": [
+        "19.05.11_12.doc"
+      ]
+    }
+  ],
+  "uuid": "45435c75-97d0-5f70-1576-d78c8894074e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 45435c75-97d0-5f70-1576-d78c8894074e)",
+  "source": "https://api.riigikogu.ee/api/volumes/45435c75-97d0-5f70-1576-d78c8894074e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-05-01&endDate=2011-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
