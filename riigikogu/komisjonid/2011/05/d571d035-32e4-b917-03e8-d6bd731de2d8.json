@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-05-20T10:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 23. mail 2011 toimuval Euroopa Liidu üldasjade ja välisasjade nõukogu istungil.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "540b56ec-d27a-0cda-0d7d-af1a9bb64d1d"
+    },
+    {
+      "order": 2,
+      "title": "Valitsuse suunised Eesti EL poliitika 2011-2015 kujundamiseks arutelu.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3ea140f9-2b9d-85bd-48f6-ef468310b16b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 20.05.2011",
+      "uuid": "a21d4358-89b5-053e-7210-7063d93b533e",
+      "files": [
+        "Euroopa_Liidu_asjade_komisjon_istungi_protokoll_20_2011.odt",
+        "Euroopa Liidu asjade komisjon_paevakord_20_05_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "d571d035-32e4-b917-03e8-d6bd731de2d8",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d571d035-32e4-b917-03e8-d6bd731de2d8)",
+  "source": "https://api.riigikogu.ee/api/volumes/d571d035-32e4-b917-03e8-d6bd731de2d8",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-05-01&endDate=2011-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
