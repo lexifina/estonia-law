@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung, 30.05.2011, kl 11.30",
+  "sitting_time": "2011-05-30T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töönädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "eb419182-d201-b48a-8390-ba569b675476"
+    },
+    {
+      "order": 2,
+      "title": "Eesti Keskerakonna fraktsiooni algatatud põhikooli- ja gümnaasiumiseaduse muutmise seaduse eelnõu (1 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3feefe53-c8c5-cc30-2ef6-eac685191555"
+    },
+    {
+      "order": 3,
+      "title": "Eesti Keskerakonna fraktsiooni algatatud koolieelsete lasteasutuste seaduse muutmise seaduse eelnõu (2 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6d07e7e0-8a80-1c0b-71a6-dcf4e6270c05"
+    },
+    {
+      "order": 4,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f3686cc3-dbe6-c55e-df63-1428aa949c03"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 30.05.2011",
+      "uuid": "20bd5201-7aef-8302-dd27-6e8e0c2b722f",
+      "files": [
+        "Kultuurikomisjon_istungi_protokoll_22_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "1f361e5e-520c-272a-8a1a-0ce31dad30b6",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 1f361e5e-520c-272a-8a1a-0ce31dad30b6)",
+  "source": "https://api.riigikogu.ee/api/volumes/1f361e5e-520c-272a-8a1a-0ce31dad30b6",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-05-01&endDate=2011-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
