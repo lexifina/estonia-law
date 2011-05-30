@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-05-30T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "47c50f6b-1df3-9e1f-130c-d964858e8818"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade Eesti metsandusest. Metsanduse arengukava 2011-2020",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "20d70dfb-6830-7d07-44fb-c5b35281aa25"
+    },
+    {
+      "order": 3,
+      "title": "Vedelkütuse erimärgistamise seaduse muutmise seaduse eelnõu (39 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "29d007d7-12d0-60b3-a08c-711a062c58f8"
+    },
+    {
+      "order": 4,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "daa4e7bd-6723-5d47-619e-56da8dba7a2a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 30.05.2011",
+      "uuid": "88278a66-392c-2af1-037b-1d154e2c575a",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_22_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "5e52680f-e4f9-eb5e-bd69-1b97e223032c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 5e52680f-e4f9-eb5e-bd69-1b97e223032c)",
+  "source": "https://api.riigikogu.ee/api/volumes/5e52680f-e4f9-eb5e-bd69-1b97e223032c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-05-01&endDate=2011-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
