@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-05-30T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädalakava kinnitamine.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6f906209-1388-f355-ff81-f93a8af79970"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud raudteeseaduse muutmise seaduse eelnõu (27 SE) ja seletuskirja muudetud tekstide arutelu.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6f710c1a-325e-1af3-ac9a-3a02cbbfa23b"
+    },
+    {
+      "order": 3,
+      "title": "Kohtumine Majandus- ja Kommunikatsiooniministeeriumi ning Eesti Interneti SA esindajatega. Teemal: \"Uue .ee tippdomeeni korraldusest\".",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4339944e-44bb-5d9e-0506-16b0a859adc8"
+    },
+    {
+      "order": 4,
+      "title": "Muud küsimused. 4.1 Riigikogu otsuse \"Eesti Arengufondi nõukogu liikmete nimetamine\" eelnõu (53 OE) täiskogule saatmise arutelu.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "49672f72-54c3-83a5-c222-16a7c2c26af1"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 30.05.2011",
+      "uuid": "25c119b5-2cac-1a25-4781-6c8c1ce124f9",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_22_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "fd6aa8ec-8ff4-59c0-7821-c6227e775639",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid fd6aa8ec-8ff4-59c0-7821-c6227e775639)",
+  "source": "https://api.riigikogu.ee/api/volumes/fd6aa8ec-8ff4-59c0-7821-c6227e775639",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-05-01&endDate=2011-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
