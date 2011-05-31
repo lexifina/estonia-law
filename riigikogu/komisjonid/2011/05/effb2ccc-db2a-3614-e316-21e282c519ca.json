@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-05-31T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Sotsiaalvaldkonna tutvustus. Väljasõiduistung Valkla Hooldekodusse.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "94b4b3a8-7937-ec1e-e95f-e2beed169c7c"
+    },
+    {
+      "order": 2,
+      "title": "Info",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c6520179-0233-f79b-dc15-551ffa0a4db1"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 31.05.2011",
+      "uuid": "b2be0784-2981-a63a-8919-1431c62e7330",
+      "files": [
+        "Sotsiaalkomisjon_istungi_protokoll_22_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "effb2ccc-db2a-3614-e316-21e282c519ca",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid effb2ccc-db2a-3614-e316-21e282c519ca)",
+  "source": "https://api.riigikogu.ee/api/volumes/effb2ccc-db2a-3614-e316-21e282c519ca",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-05-01&endDate=2011-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
