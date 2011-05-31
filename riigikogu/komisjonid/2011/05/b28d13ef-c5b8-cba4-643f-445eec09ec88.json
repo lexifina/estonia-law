@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-05-31T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väljasõiduistung Maa-ametis",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f41d69fd-c5fe-98fc-f44b-c40253036ff5"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud kinnisasja omandamise kitsendamise seaduse eelnõu (54 SE) esimesele lugemisele saatmine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "53685304-38ee-c77e-d7e5-a30ea86c20cb"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 31.05.2011",
+      "uuid": "c0de14aa-b0cc-fc7d-725b-21494260ece0",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_22_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "b28d13ef-c5b8-cba4-643f-445eec09ec88",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b28d13ef-c5b8-cba4-643f-445eec09ec88)",
+  "source": "https://api.riigikogu.ee/api/volumes/b28d13ef-c5b8-cba4-643f-445eec09ec88",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-05-01&endDate=2011-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
