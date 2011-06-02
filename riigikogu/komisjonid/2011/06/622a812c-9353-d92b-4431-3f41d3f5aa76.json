@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-06-02T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väljasõiduistung Eesti Maaülikoolis",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "12fb62e9-0314-9ce6-64fa-79fe89e3d602"
+    },
+    {
+      "order": 2,
+      "title": "Väljasõiduistung Põllumajanduse Registrite ja Informatsiooni Ametis",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4b9f9280-ec33-a35d-33de-c204c5524d6c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 02.06.2011",
+      "uuid": "6ade9ebe-415d-81b7-add9-17093f1d7a56",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_22_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "622a812c-9353-d92b-4431-3f41d3f5aa76",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 622a812c-9353-d92b-4431-3f41d3f5aa76)",
+  "source": "https://api.riigikogu.ee/api/volumes/622a812c-9353-d92b-4431-3f41d3f5aa76",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-06-01&endDate=2011-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
