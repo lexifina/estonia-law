@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-06-06T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädalakava kinnitamine.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "75459dd6-cc16-9f10-96cb-0555ab5c6f4c"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine Arengufondiga.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d18e7f5e-7700-a405-82a0-2f91d98024b5"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "84b5aa53-f17b-f4c9-58d7-d93a947de13a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 06.06.2011",
+      "uuid": "b9639b47-d312-89cc-d15f-aaddd61aed98",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_23_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "113b948b-736f-0eb8-3639-43b9b57bc238",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 113b948b-736f-0eb8-3639-43b9b57bc238)",
+  "source": "https://api.riigikogu.ee/api/volumes/113b948b-736f-0eb8-3639-43b9b57bc238",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-06-01&endDate=2011-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
