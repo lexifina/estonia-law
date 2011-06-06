@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-06-06T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Puuetega Inimeste Koja esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "63c632e7-d422-a3e7-4946-cfd76fabaed7"
+    },
+    {
+      "order": 2,
+      "title": "Sotsiaaldemokraatliku Erakonna fraktsiooni algatatud riiklike peretoetuste seaduse § 5 muutmise seaduse eelnõu (11 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4f9284b3-5c1d-7d4a-a521-c12a4d1a9aa5"
+    },
+    {
+      "order": 3,
+      "title": "Info",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "35703ec7-a937-b0f6-347c-1f71e4e41aa1"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 06.06.2011",
+      "uuid": "adcbe213-c52f-67b4-5d64-4cbaf8ce2e98",
+      "files": [
+        "Sotsiaalkomisjon_istungi_protokoll_23_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "9ef2ff9b-53e6-16ff-a9bd-f40ec56aec87",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9ef2ff9b-53e6-16ff-a9bd-f40ec56aec87)",
+  "source": "https://api.riigikogu.ee/api/volumes/9ef2ff9b-53e6-16ff-a9bd-f40ec56aec87",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-06-01&endDate=2011-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
