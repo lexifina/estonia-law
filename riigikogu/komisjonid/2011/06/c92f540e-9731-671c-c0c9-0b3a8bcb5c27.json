@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-06-06T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "19733793-e188-49f6-e1ef-622cec6e9f94"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine Märt Rask'iga",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "76f38eec-c29d-5507-6430-c82860632357"
+    },
+    {
+      "order": 3,
+      "title": "Vabariigi Valitsuse algatatud välismaalaste seaduse muutmise ja sellega seonduvalt teiste seaduste muutmise seaduse eelnõu (43 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "07e4f005-0cea-2e4c-6260-d14eb228eac9"
+    },
+    {
+      "order": 4,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7983ea41-b526-5741-b52d-a03fae84f64b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 06.06.2011",
+      "uuid": "b974df2e-c41d-5624-7f4e-3543fb92d926",
+      "files": [
+        "Põhiseaduskomisjon_istungi_protokoll_23_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "c92f540e-9731-671c-c0c9-0b3a8bcb5c27",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c92f540e-9731-671c-c0c9-0b3a8bcb5c27)",
+  "source": "https://api.riigikogu.ee/api/volumes/c92f540e-9731-671c-c0c9-0b3a8bcb5c27",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-06-01&endDate=2011-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
