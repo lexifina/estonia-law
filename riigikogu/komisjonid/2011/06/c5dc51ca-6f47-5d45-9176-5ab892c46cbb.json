@@ -1,0 +1,33 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-06-07T15:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kaitseministeeriumi korraldatav NATO-teemaline briifing",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "79d8b4a0-4aa2-4fcf-58e9-9723f37b0ddb"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 07.06.2011",
+      "uuid": "2aae238b-a28b-f35f-8aed-6cf85174fdd7",
+      "files": [
+        "07.06.11_16.doc"
+      ]
+    }
+  ],
+  "uuid": "c5dc51ca-6f47-5d45-9176-5ab892c46cbb",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c5dc51ca-6f47-5d45-9176-5ab892c46cbb)",
+  "source": "https://api.riigikogu.ee/api/volumes/c5dc51ca-6f47-5d45-9176-5ab892c46cbb",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-06-01&endDate=2011-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
