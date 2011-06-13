@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-06-13T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": " Riigikaitsekomisjoni töönädala päevakorra kinnitamine ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "50c461e9-fe01-6210-6dde-32a398d589b6"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse esitatud Riigikogu otsuse \"Kaitseväe kasutamine Eesti riigi rahvusvaheliste kohustuste täitmisel õhuturbemissioonil Islandil\" eelnõu (59 OE) ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3eaeacae-659c-db47-90a4-e30fa18a5500"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "843c7924-203e-47ab-4893-9ddd87109e0c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 13.06.2011",
+      "uuid": "cc7c27b2-4f2a-a7b4-28ac-7d38ff486f9f",
+      "files": [
+        "13.06.11_18.doc"
+      ]
+    }
+  ],
+  "uuid": "02271701-ab1a-99fc-a2b8-ccabefaaa611",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 02271701-ab1a-99fc-a2b8-ccabefaaa611)",
+  "source": "https://api.riigikogu.ee/api/volumes/02271701-ab1a-99fc-a2b8-ccabefaaa611",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-06-01&endDate=2011-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
