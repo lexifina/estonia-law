@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-06-13T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7608dd9f-b1c2-3db0-83b9-f19b2c7dc3dc"
+    },
+    {
+      "order": 2,
+      "title": "Väljasõiduistung Ettevõtluse Arendamise Sihtasutuses",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3318844e-fbd7-4705-41d0-b19bae67ad91"
+    },
+    {
+      "order": 3,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "684e406b-1c57-efd4-3fb9-2400c9533dc5"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 13.06.2011",
+      "uuid": "dca5e6cc-b607-50d3-9894-2f51a580b0b0",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_24_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "1179072f-09ae-d90e-0102-76ed18176c42",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 1179072f-09ae-d90e-0102-76ed18176c42)",
+  "source": "https://api.riigikogu.ee/api/volumes/1179072f-09ae-d90e-0102-76ed18176c42",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-06-01&endDate=2011-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
