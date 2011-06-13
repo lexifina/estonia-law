@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-06-13T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädalakava kinnitamine.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1e9b5aac-c0f8-ea13-5862-74c84f5b2437"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine AS-ga Elering. Teema: Eleringi varustuskindluse aruanne 2011",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9c32de11-8c6d-e840-03fc-10d325407b3c"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a34e04c2-0adb-5876-4cb9-0c1cc3acfaf1"
+    },
+    {
+      "order": 4,
+      "title": "Sotsiaaldemokraatliku Erakonna fraktsiooni algatatud teeseaduse §16 muutmise seaduse eelnõu (22 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "676eb22d-7e49-9fd9-a05c-a6cb537f6759"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 13.06.2011",
+      "uuid": "70bb5382-5463-8617-a32f-30ef98fddb64",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_24_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "058b6174-8e5d-f1e7-9ba0-b5186f500713",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 058b6174-8e5d-f1e7-9ba0-b5186f500713)",
+  "source": "https://api.riigikogu.ee/api/volumes/058b6174-8e5d-f1e7-9ba0-b5186f500713",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-06-01&endDate=2011-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
