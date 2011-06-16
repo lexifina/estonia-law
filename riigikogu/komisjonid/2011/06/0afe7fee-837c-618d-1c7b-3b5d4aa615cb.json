@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-06-16T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 21. juunil 2011 toimuval Euroopa Liidu  keskkonnanõukogu istungil.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ca202a73-46cc-4921-fb67-171636a36975"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad 28. juunil 2011 toimuval Euroopa Liidu põllumajanduse ja kalanduse nõukogu istungil (kalanduse teemad).",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "57a79d1f-eee0-164c-56c6-e84d0a78a539"
+    },
+    {
+      "order": 3,
+      "title": "Eesti seisukohad 20. juunil 2011 toimuval Euroopa Liidu üldasjade nõukogu ja välisasjade nõukogu istungitel.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bc50e418-9130-8875-1192-9dc4c3a49bc4"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 16.06.2011",
+      "uuid": "bf039a4b-1ac7-3887-fb28-e49ccb6a1451",
+      "files": [
+        "Euroopa Liidu asjade komisjon_paevakord_16_06_2011.odt",
+        "Euroopa_Liidu_asjade_komisjon_istungi_protokoll_24_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "0afe7fee-837c-618d-1c7b-3b5d4aa615cb",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0afe7fee-837c-618d-1c7b-3b5d4aa615cb)",
+  "source": "https://api.riigikogu.ee/api/volumes/0afe7fee-837c-618d-1c7b-3b5d4aa615cb",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-06-01&endDate=2011-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
