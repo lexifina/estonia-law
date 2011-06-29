@@ -1,0 +1,33 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-06-29T00:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Komisjoni esimees Tõnis Lukase välislähetus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0e23fbca-ad41-d2fd-714f-8113b1966bb6"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 29.06.2011",
+      "uuid": "4a01befc-673b-c0bb-68dc-8afb6b6fd60f",
+      "files": [
+        "prot 13 29.06.2011.doc"
+      ]
+    }
+  ],
+  "uuid": "40c38214-33b8-c7d0-8a36-a116f560f476",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 40c38214-33b8-c7d0-8a36-a116f560f476)",
+  "source": "https://api.riigikogu.ee/api/volumes/40c38214-33b8-c7d0-8a36-a116f560f476",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-06-01&endDate=2011-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
