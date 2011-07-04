@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung, 04.07.2011, kl 9.00",
+  "sitting_time": "2011-07-04T09:00:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7f458337-76b6-9a62-321c-854598a0803d"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine haridus- ja teadusminister Jaak Aaviksooga teemal - kõrgharidusreform",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2c08bfaa-232a-ba68-b106-b43c10b8eb46"
+    },
+    {
+      "order": 3,
+      "title": "Euroopa Parlamendi ja Nõukogu direktiiv orbteoste teatavate lubatud kasutusviiside kohta. Arvamuse andmine ELAKile Vabariigi Valitsuse seisukohtade kohta",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c379498f-ca32-3e40-34e9-737790763413"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 04.07.2011",
+      "uuid": "1b19384e-4b18-9491-5b17-524753300d65",
+      "files": [
+        "Kultuurikomisjon_paevakord_04_07_2011.odt",
+        "Kultuurikomisjon_istungi_protokoll_27_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "7c58f580-41a2-8a2a-352e-607ceb37e5c0",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7c58f580-41a2-8a2a-352e-607ceb37e5c0)",
+  "source": "https://api.riigikogu.ee/api/volumes/7c58f580-41a2-8a2a-352e-607ceb37e5c0",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-07-01&endDate=2011-07-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
