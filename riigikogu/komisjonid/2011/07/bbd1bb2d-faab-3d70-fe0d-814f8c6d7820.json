@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-07-08T10:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 11.-12. juulil 2011 toimuval eurogrupi kohtumisel ja Euroopa Liidu majanduse- ja rahandusküsimuste (ECOFIN) nõukogu istungil.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c0e97434-e92b-273c-0b80-0ed8a67b6a52"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad 10.-12. juulil 2011 toimuval Euroopa Liidu keskkonnaministrite mitteametlikul kohtumisel.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9216a4d4-da75-4ce7-a617-c4295e7eb975"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 08.07.2011",
+      "uuid": "447c09a9-3d7d-b5a7-ca37-f026ad911333",
+      "files": [
+        "Euroopa Liidu asjade komisjon_paevakord_08_07_2011.odt",
+        "Euroopa_Liidu_asjade_komisjon_istungi_protokoll_27_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "bbd1bb2d-faab-3d70-fe0d-814f8c6d7820",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid bbd1bb2d-faab-3d70-fe0d-814f8c6d7820)",
+  "source": "https://api.riigikogu.ee/api/volumes/bbd1bb2d-faab-3d70-fe0d-814f8c6d7820",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-07-01&endDate=2011-07-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
