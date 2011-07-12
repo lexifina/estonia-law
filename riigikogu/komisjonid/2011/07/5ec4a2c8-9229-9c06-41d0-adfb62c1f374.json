@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-07-12T10:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Parlamentaarne kuulamine  rakseveokite massipiirangute teemal",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7310c063-5845-0afa-3276-b5c8fa48e2c8"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d0443927-3d14-2cca-b938-4db7ca6413f8"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 12.07.2011",
+      "uuid": "b335a42d-2748-14f4-b583-4361bb13c139",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_28_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "5ec4a2c8-9229-9c06-41d0-adfb62c1f374",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 5ec4a2c8-9229-9c06-41d0-adfb62c1f374)",
+  "source": "https://api.riigikogu.ee/api/volumes/5ec4a2c8-9229-9c06-41d0-adfb62c1f374",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-07-01&endDate=2011-07-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
