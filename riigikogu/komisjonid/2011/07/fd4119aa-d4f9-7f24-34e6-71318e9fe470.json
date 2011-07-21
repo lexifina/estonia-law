@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-07-21T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsus, Eesti seisukohad Euroopa Komisjoni rohelise raamatu „Interneti hasartmängude kohta siseturul“ suhtes (2.1-11/925)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "94fd0868-d69a-811e-2f0e-42a27ff2f98f"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsus, Eesti seisukohad standardimist käsitleva Euroopa Parlamendi ja nõukogu määruse eelnõu suhtes (2.1-11/924)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "40a36537-15a9-ac97-727a-a0fd1efda01d"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d17388fa-bca7-ebfa-c177-012c2a3ff2bb"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 21.07.2011",
+      "uuid": "a358c148-5557-6f16-f8f2-0c338873d3c9",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_29_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "fd4119aa-d4f9-7f24-34e6-71318e9fe470",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid fd4119aa-d4f9-7f24-34e6-71318e9fe470)",
+  "source": "https://api.riigikogu.ee/api/volumes/fd4119aa-d4f9-7f24-34e6-71318e9fe470",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-07-01&endDate=2011-07-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
