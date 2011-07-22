@@ -14,7 +14,7 @@ Riigikogu:
 
 - 6) võtab vastu riigieelarve ja kinnitab selle täitmise aruande;
 
-- 7) nimetab Vabariigi Presidendi ettepanekul ametisse Riigikohtu esimehe, Eesti Panga nõukogu esimehe, riigikontrolöri, õiguskantsleri ja kaitseväe juhataja või ülemjuhataja;
+- 7) nimetab Vabariigi Presidendi ettepanekul ametisse Riigikohtu esimehe, Eesti Panga nõukogu esimehe, riigikontrolöri ja õiguskantsleri;
 
 - 8) nimetab Riigikohtu esimehe ettepanekul ametisse Riigikohtu liikmed;
 

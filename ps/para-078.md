@@ -22,13 +22,13 @@ Vabariigi President:
 
 - 10) nimetab ametisse ja vabastab ametist valitsuse liikmed vastavalt põhiseaduse §-dele 89, 90 ja 92;
 
-- 11) teeb Riigikogule ettepaneku Riigikohtu esimehe, Eesti Panga nõukogu esimehe, riigikontrolöri, õiguskantsleri ning kaitseväe juhataja või ülemjuhataja ametissenimetamiseks;
+- 11) teeb Riigikogule ettepaneku Riigikohtu esimehe, Eesti Panga nõukogu esimehe, riigikontrolöri ja õiguskantsleri ametissenimetamiseks;
 
 - 12) nimetab Eesti Panga nõukogu ettepanekul ametisse Eesti Panga presidendi;
 
 - 13) nimetab Riigikohtu ettepanekul kohtunikud;
 
-- 14) nimetab ja vabastab ametist Vabariigi Valitsuse ja kaitseväe juhataja ettepanekul kaitseväe juhtkonna;
+- 14) [Kehtetu]
 
 - 15) annab riiklikke autasusid, sõjaväelisi ja diplomaatilisi auastmeid;
 
@@ -36,7 +36,7 @@ Vabariigi President:
 
 - 17) teeb Riigikogule ettepanekud sõjaseisukorra, mobilisatsiooni ja demobilisatsiooni ning vastavalt põhiseaduse §-le 129 erakorralise seisukorra väljakuulutamiseks;
 
-- 18) kuulutab Eesti vastu suunatud agressiooni korral välja sõjaseisukorra ja mobilisatsiooni ning nimetab ametisse kaitseväe ülemjuhataja vastavalt põhiseaduse §-le 128;
+- 18) kuulutab Eesti vastu suunatud agressiooni korral välja sõjaseisukorra ja mobilisatsiooni vastavalt põhiseaduse §-le 128;
 
 - 19) vabastab süüdimõistetuid nende palvel armuandmise korras karistuse kandmisest või kergendab karistust;
 
