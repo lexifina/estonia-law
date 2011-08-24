@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-08-24T10:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikogu väliskomisjoni Aasia-strateegia kuulamised.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fc52d6b3-b9ee-dc07-cc28-7de345dc5d9d"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9eb2ab42-8fc7-d7fe-d6cc-c23887b0c2b3"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Väliskomisjoni istungi protokoll nr 22 (24.08.2011)",
+      "uuid": "a3b53ea3-68a3-452a-b82d-39ae7a3aae6f",
+      "files": [
+        "24.08.2011 (23) protokoll.doc"
+      ]
+    }
+  ],
+  "uuid": "1ae56238-2877-c6bb-3782-87195fe78b54",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 1ae56238-2877-c6bb-3782-87195fe78b54)",
+  "source": "https://api.riigikogu.ee/api/volumes/1ae56238-2877-c6bb-3782-87195fe78b54",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-08-01&endDate=2011-08-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
