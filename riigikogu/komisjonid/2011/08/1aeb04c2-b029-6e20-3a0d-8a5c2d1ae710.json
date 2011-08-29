@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-08-29T10:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud Euroopa Liidu ühise põllumajanduspoliitika rakendamise seaduse ja halduskoostöö seaduse muutmise seaduse eelnõu (72 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6a938942-9008-69e2-6449-8c1dd0c2093c"
+    },
+    {
+      "order": 2,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cb7c7508-ceb0-f434-7017-924bd8b7e8e4"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 29.08.2011",
+      "uuid": "b8985db6-0bb1-ef49-c41a-84ab367c71c3",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_35_2011.odt",
+        "Maaelukomisjon_paevakord_29_08_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "1aeb04c2-b029-6e20-3a0d-8a5c2d1ae710",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 1aeb04c2-b029-6e20-3a0d-8a5c2d1ae710)",
+  "source": "https://api.riigikogu.ee/api/volumes/1aeb04c2-b029-6e20-3a0d-8a5c2d1ae710",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-08-01&endDate=2011-08-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
