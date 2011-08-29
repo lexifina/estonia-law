@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-08-29T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Komisjoni esimehe ülevaade komisjoni esindamistest välislähetustel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0a30902d-afd4-91f7-2692-e1ad34d3409c"
+    },
+    {
+      "order": 2,
+      "title": "Majanduskomisjoni metsa- ja puidutööstusalase väljasõiduistungi arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ad9aa0be-e20d-cba8-fe51-8a436d4556a7"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5321c594-946e-8640-6480-436d0921b727"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 29.08.2011",
+      "uuid": "64a8b58f-86f2-48e6-7a79-46ec075a831a",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_35_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "2b00070c-7218-014d-573a-c11039e5579f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2b00070c-7218-014d-573a-c11039e5579f)",
+  "source": "https://api.riigikogu.ee/api/volumes/2b00070c-7218-014d-573a-c11039e5579f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-08-01&endDate=2011-08-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
