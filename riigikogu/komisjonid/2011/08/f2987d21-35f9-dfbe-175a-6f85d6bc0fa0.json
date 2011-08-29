@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-08-29T09:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 2.-3. septembril 2011 toimuval Euroopa Liidu välisministrite mitteametlikul (Gymnich) kohtumisel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "396cadb2-3b08-32fe-ae5a-4e23e92554fe"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8aa59081-e7e3-642d-0fe8-be51797699e1"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 29.08.2011",
+      "uuid": "e189cf53-b00a-5def-5536-14b28acf7634",
+      "files": [
+        "29.08.2011 (24) protokoll.doc"
+      ]
+    }
+  ],
+  "uuid": "f2987d21-35f9-dfbe-175a-6f85d6bc0fa0",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f2987d21-35f9-dfbe-175a-6f85d6bc0fa0)",
+  "source": "https://api.riigikogu.ee/api/volumes/f2987d21-35f9-dfbe-175a-6f85d6bc0fa0",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-08-01&endDate=2011-08-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
