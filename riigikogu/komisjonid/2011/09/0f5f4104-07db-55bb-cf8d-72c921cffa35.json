@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-09-02T10:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 5.-6. septembril 2011 toimuval mitteametlikul EL transpordiministrite kohtumisel.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "470cdebf-b022-82d6-0a3a-cdfebc5a0532"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad 9. septembril 2011 toimuval mitteametlikul Euroopa Liidu kultuuri ja audiovisuaalpoliitika küsimustega tegelevate ministrite kohtumisel. ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c34b3d9b-8645-80b5-cb80-65e0901b12b8"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 02.09.2011",
+      "uuid": "dd507c89-c5f7-2fbf-c159-cd6274cbaec4",
+      "files": [
+        "Euroopa_Liidu_asjade_komisjon_istungi_protokoll_35_2011.odt",
+        "Euroopa_Liidu_asjade_komisjon_paevakord_02_09_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "0f5f4104-07db-55bb-cf8d-72c921cffa35",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0f5f4104-07db-55bb-cf8d-72c921cffa35)",
+  "source": "https://api.riigikogu.ee/api/volumes/0f5f4104-07db-55bb-cf8d-72c921cffa35",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-09-01&endDate=2011-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
