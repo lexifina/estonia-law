@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-09-12T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väliskomisjoni II istungjärgu 1. töönädala töökava kinnitamine.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "259367bc-bae0-7b11-995d-d2a657395854"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade Eesti tegevusest ja prioriteetidest algaval ÜRO 66. Peaassambleel.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f8120325-8d37-4d43-7b03-0ad4944cccc9"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1d15e285-fe1b-f3c9-61ff-ccb01bf457bb"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 12.09.2011",
+      "uuid": "16e5adc8-305e-58e7-51c3-328e6713aaa3",
+      "files": [
+        "12.09.2011 (26) protokoll.doc"
+      ]
+    }
+  ],
+  "uuid": "51b9d2af-74b1-48d8-b70e-292510acbede",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 51b9d2af-74b1-48d8-b70e-292510acbede)",
+  "source": "https://api.riigikogu.ee/api/volumes/51b9d2af-74b1-48d8-b70e-292510acbede",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-09-01&endDate=2011-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
