@@ -1,0 +1,58 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-09-12T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töönädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b081d46a-679d-51c7-8611-4ce1748805e8"
+    },
+    {
+      "order": 2,
+      "title": "Isamaa ja Res Publica Liidu fraktsiooni, Eesti Reformierakonna fraktsiooni algatatud äriseadustiku ja sellega seonduvate teiste seaduste muutmise seaduse eelnõu (75 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cec39e06-3b8e-e5b0-a3dc-b9e2471ecb75"
+    },
+    {
+      "order": 3,
+      "title": "Arvamuse andmine ELAK-ile.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0838369a-2c9b-b66f-8cee-74376f37c58a"
+    },
+    {
+      "order": 4,
+      "title": "Arvamuse kujundamine keskkonnakomisjoni 18.07.11 kirjas toodud küsimuste suhtes.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "75cadc55-e793-9e00-49e8-21e0d83b9fbb"
+    },
+    {
+      "order": 5,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7b9b3e63-7b28-0220-9666-9f210906d4f6"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 12.09.2011",
+      "uuid": "dbe0895b-41fd-2af0-e68f-db7b37935490",
+      "files": [
+        "iguskomisjon_paevakord_12_09_2011.odt",
+        "iguskomisjon_istungi_protokoll_37_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "2fc18332-faa2-3346-bd64-f90b50f3da23",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2fc18332-faa2-3346-bd64-f90b50f3da23)",
+  "source": "https://api.riigikogu.ee/api/volumes/2fc18332-faa2-3346-bd64-f90b50f3da23",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-09-01&endDate=2011-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
