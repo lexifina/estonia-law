@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-09-12T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "2011. aasta suvise majandusprognoosi tutvustamine;",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "85f47590-905f-ddff-6e7d-10c5fbdd42ae"
+    },
+    {
+      "order": 2,
+      "title": "Laekunud Riigikontrolli aruannetest;",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e93cf430-d8bd-421d-d126-30dc6ce129f7"
+    },
+    {
+      "order": 3,
+      "title": "Informatsioon.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "46aa169c-34fd-cbeb-cfd4-743a4d06fec8"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 12.09.2011",
+      "uuid": "d1d237f3-556b-0bb1-26e4-4ec6fdecfb76",
+      "files": [
+        "protokoll 7 12 09 2011.doc",
+        "Riigieelarve kontrolli erikomisjon_paevakord_12_09_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "2da30b07-e511-575e-ef54-745add6fc137",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2da30b07-e511-575e-ef54-745add6fc137)",
+  "source": "https://api.riigikogu.ee/api/volumes/2da30b07-e511-575e-ef54-745add6fc137",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-09-01&endDate=2011-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
