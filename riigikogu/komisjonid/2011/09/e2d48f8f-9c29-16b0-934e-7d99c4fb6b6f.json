@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-09-12T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Keskkonnakomisjoni töökava (12.09.11 – 18.09.11) kinnitamine ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dd0e573a-4f6b-853e-f765-fd414ab8c0ca"
+    },
+    {
+      "order": 2,
+      "title": "Keskkonnaministri ülevaade Keskkonnaministeeriumi õigusloome plaanidest 2011.a II poolaastal",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "453036c5-4855-ddc9-124e-d518b2af3526"
+    },
+    {
+      "order": 3,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0aeb637a-5f33-50a2-a0eb-b5fd9689bbfe"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 12.09.2011",
+      "uuid": "71ef463d-c59c-dcab-0bb0-df5064cd742a",
+      "files": [
+        "prot15 12.09.2011.doc"
+      ]
+    }
+  ],
+  "uuid": "e2d48f8f-9c29-16b0-934e-7d99c4fb6b6f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e2d48f8f-9c29-16b0-934e-7d99c4fb6b6f)",
+  "source": "https://api.riigikogu.ee/api/volumes/e2d48f8f-9c29-16b0-934e-7d99c4fb6b6f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-09-01&endDate=2011-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
