@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-09-12T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädalakava kinnitamine.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "441b7e68-e100-e086-7ca7-b5175f4556ef"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud riigikontrolli seaduse ja audiitortegevuse seaduse muutmise seaduse eelnõu (58 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "95bf7173-8255-92cb-b63f-278d1de12c7f"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "96fef06d-b6ba-aade-7acb-85f49782b38c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 12.09.2011",
+      "uuid": "c990a15b-218c-4f41-7d95-4eeb35a23cd4",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_37_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "e3c7f0ed-eab7-0662-65ba-6f2be6df6e29",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e3c7f0ed-eab7-0662-65ba-6f2be6df6e29)",
+  "source": "https://api.riigikogu.ee/api/volumes/e3c7f0ed-eab7-0662-65ba-6f2be6df6e29",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-09-01&endDate=2011-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
