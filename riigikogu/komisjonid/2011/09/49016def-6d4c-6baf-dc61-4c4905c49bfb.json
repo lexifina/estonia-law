@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-09-13T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Avaliku teenistuse seaduse § 108 muutmise seaduse eelnõu -71 SE- esimese lugemise arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7825331d-9d33-cf0c-fc19-715232593f1d"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu otsus \"Ettepaneku tegemine Vabariigi Valitsusele \"-44 OE- esimese lugemise arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0ae13728-7042-5124-caa5-008b41e90a41"
+    },
+    {
+      "order": 3,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "93f24a04-947a-4dd0-4372-c893d35a6086"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 13.09.2011",
+      "uuid": "702e479c-30c6-a491-2146-70ac8b7d2b7a",
+      "files": [
+        "Põhiseaduskomisjon_istungi_protokoll_37_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "49016def-6d4c-6baf-dc61-4c4905c49bfb",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 49016def-6d4c-6baf-dc61-4c4905c49bfb)",
+  "source": "https://api.riigikogu.ee/api/volumes/49016def-6d4c-6baf-dc61-4c4905c49bfb",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-09-01&endDate=2011-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
