@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-09-13T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud Eesti Vabariigi ja Ukraina sotsiaalkindlustuslepingu ratifitseerimise seaduse eelnõu (64 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ff4aa9de-270d-449a-016f-c1155113e714"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud Eesti Vabariigi ja Venemaa Föderatsiooni pensionikindlustust käsitleva koostöölepingu ratifitseerimise seaduse eelnõu (85 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "828e459c-5ff0-ff1f-d33e-c7edc160bd55"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 13.09.2011",
+      "uuid": "3aeeb0e0-4252-4d99-c52b-9ffcfa8992fd",
+      "files": [
+        "Sotsiaalkomisjon_paevakord_13_09_2011.odt",
+        "Sotsiaalkomisjon_istungi_protokoll_37_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "4b4dda71-9ac3-d83b-8080-d7972686b6e5",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 4b4dda71-9ac3-d83b-8080-d7972686b6e5)",
+  "source": "https://api.riigikogu.ee/api/volumes/4b4dda71-9ac3-d83b-8080-d7972686b6e5",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-09-01&endDate=2011-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
