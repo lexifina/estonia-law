@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-09-13T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikogu majandus-, keskkonna- ja maaelukomisjoni väljasõiduistung metsa- ja puidutööstusettevõtetesse",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b92a7cdb-cd49-10e2-93ef-5918c1356773"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "084f889c-fdc0-b36d-3f58-8466c9d5af56"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 13.09.2011",
+      "uuid": "93f326fb-169c-c904-8acd-5b69b02296d2",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_37_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "7b174f55-9a4e-29b3-ea07-23a9a820ca46",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7b174f55-9a4e-29b3-ea07-23a9a820ca46)",
+  "source": "https://api.riigikogu.ee/api/volumes/7b174f55-9a4e-29b3-ea07-23a9a820ca46",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-09-01&endDate=2011-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
