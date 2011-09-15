@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-09-15T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti Arengufondi tegevuse aruanne.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3d4573a3-b4f2-6de2-6c4a-9d36c3326315"
+    },
+    {
+      "order": 2,
+      "title": "Eesti Arengufondilt laekunud taotluse algatada Riigikogu majanduskomisjonil Arengufondi seaduse muutmise seaduse eelnõu läbivaatamine ja arutelu. ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6992feea-9acc-9946-d7e3-a7743afee61b"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "12ba587f-967c-bba8-76b2-de5860f73ec7"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 15.09.2011",
+      "uuid": "c25d55b2-0d1c-ab99-b926-ccc0620cbb0a",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_37_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "cdd19be8-a8b2-79fc-77bf-f2769c40d514",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid cdd19be8-a8b2-79fc-77bf-f2769c40d514)",
+  "source": "https://api.riigikogu.ee/api/volumes/cdd19be8-a8b2-79fc-77bf-f2769c40d514",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-09-01&endDate=2011-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
