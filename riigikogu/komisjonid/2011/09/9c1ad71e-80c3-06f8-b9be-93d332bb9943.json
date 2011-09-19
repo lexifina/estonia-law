@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-09-19T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti Keskerakonna fraktsiooni algatatud pühade ja tähtpäevade seaduse § 2 muutmise seaduse eelnõu (52 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ff1e49d2-7c78-947f-b035-458976014f59"
+    },
+    {
+      "order": 2,
+      "title": "Riigikohtule arvamuse andmine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1f085a0b-8101-9b6f-0847-a64e6cd09d77"
+    },
+    {
+      "order": 3,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e8058cb5-6447-193a-979f-2611a5f96c4f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 19.09.2011",
+      "uuid": "0374768d-b540-5776-85a2-1249db1e30af",
+      "files": [
+        "Põhiseaduskomisjon_istungi_protokoll_38_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "9c1ad71e-80c3-06f8-b9be-93d332bb9943",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9c1ad71e-80c3-06f8-b9be-93d332bb9943)",
+  "source": "https://api.riigikogu.ee/api/volumes/9c1ad71e-80c3-06f8-b9be-93d332bb9943",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-09-01&endDate=2011-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
