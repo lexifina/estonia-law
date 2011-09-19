@@ -1,0 +1,57 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-09-19T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töönädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5f612f70-0ea0-bb87-59a8-0ab27ef77deb"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud vanema kohustuste kindlaksmääramise ja laste kaitse abinõude rakendamise pädevuse, kohaldatava õiguse, abinõude tunnustamise, rakendamise ja koostöö konventsiooniga ühinemise seaduse muutmise seaduse eelnõu (79 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e65e7188-0873-9756-d1ee-1e3b8847a86f"
+    },
+    {
+      "order": 3,
+      "title": "Riigikogu riieelarve kontrollikomisjoni kiri",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3d95c5ed-09f9-28df-c6a3-2e6ea77a7acf"
+    },
+    {
+      "order": 4,
+      "title": "Arvamuse andmine Riigikohtule",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4b76bf1c-09bf-13eb-6fc1-310dc311ee78"
+    },
+    {
+      "order": 5,
+      "title": "Arutelu: Maksude laekumine vs omandiõiguse riive",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "81221a8d-ed21-c232-eaf1-8117960221b0"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 19.09.2011",
+      "uuid": "d96fc693-3073-9cd6-e3b8-3e5d0cd0c4f9",
+      "files": [
+        "protokoll+19.09.odt"
+      ]
+    }
+  ],
+  "uuid": "15ff3f89-4f9d-b133-cffe-ff04085681c1",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 15ff3f89-4f9d-b133-cffe-ff04085681c1)",
+  "source": "https://api.riigikogu.ee/api/volumes/15ff3f89-4f9d-b133-cffe-ff04085681c1",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-09-01&endDate=2011-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
