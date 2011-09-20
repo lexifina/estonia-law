@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-09-20T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud riigikogu otsus \"Eesti Vabariigi osaluse suurendamine Euroopa Rekonstruktsiooni- ja Arengupangas\" (77)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "087228a1-26b5-b4ef-7520-a302c7748dde"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud riigikogu otsus \"Euroopa Finantsstabiilsuse Fondi raamlepingust ja selle muudatustest tulenevate kohustuste täitmise tagamine\" (90)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "47fc4bfe-8941-8022-2aab-abdd2b5d4d26"
+    },
+    {
+      "order": 3,
+      "title": "Ülevaade olukorrast kütuseturul seonduvalt vedelkütuse seaduse muudatustega.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a422c7a9-d2f9-2cbc-8587-f133763e33f6"
+    },
+    {
+      "order": 4,
+      "title": "Info",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d4eba202-38ee-b6ab-07c2-064eb9401cd4"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 20.09.2011",
+      "uuid": "5d94a26b-5f98-8c2f-1c9c-69b4973b0649",
+      "files": [
+        "Rahanduskomisjon_istungi_protokoll_38_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "a21a31cd-3b6f-1ed5-acd4-4093efcd0034",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a21a31cd-3b6f-1ed5-acd4-4093efcd0034)",
+  "source": "https://api.riigikogu.ee/api/volumes/a21a31cd-3b6f-1ed5-acd4-4093efcd0034",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-09-01&endDate=2011-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
