@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-09-20T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 26. septembril 2011 toimuval Euroopa Liidu välisasjade nõukogu istungil (kaubandus).",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "54ce4f44-dba5-5408-fcfc-8e54f06e097e"
+    },
+    {
+      "order": 2,
+      "title": "Maailma majanduse arengutrendid.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "091c3f7e-8897-d88b-dab9-91c1fd664983"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f529266f-3727-d6df-bbb0-9423528641ff"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Väliskomisjoni istungi protokoll nr 29 (20.09.2011)",
+      "uuid": "14493ed7-6d56-474a-ace9-a3fa49c71049",
+      "files": [
+        "20.09.2011 (29) protokoll.doc"
+      ]
+    }
+  ],
+  "uuid": "e062edd0-7cb1-9b1c-2df3-4be7c6f8adca",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e062edd0-7cb1-9b1c-2df3-4be7c6f8adca)",
+  "source": "https://api.riigikogu.ee/api/volumes/e062edd0-7cb1-9b1c-2df3-4be7c6f8adca",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-09-01&endDate=2011-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
