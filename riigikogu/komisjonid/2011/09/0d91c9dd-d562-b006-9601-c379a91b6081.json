@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-09-21T00:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Isamaa ja Res Publica Liidu fraktsiooni, Eesti Reformierakonna fraktsiooni algatatud äriseadustiku ja sellega seonduvate teiste seaduste muutmise seaduse eelnõu (75 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f8b09350-14dd-5372-9f62-292f022071fc"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine Soome Parlamendi administratiivkomisjoniga (Ruum L333 kell 16:35 - 17:15)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c18c2a4c-ff20-bf82-4b5f-6676e6602c00"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 21.09.2011",
+      "uuid": "d5fdfa54-9644-5c8a-4c26-73d654168604",
+      "files": [
+        "iguskomisjon_istungi_protokoll_38_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "0d91c9dd-d562-b006-9601-c379a91b6081",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0d91c9dd-d562-b006-9601-c379a91b6081)",
+  "source": "https://api.riigikogu.ee/api/volumes/0d91c9dd-d562-b006-9601-c379a91b6081",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-09-01&endDate=2011-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
