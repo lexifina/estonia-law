@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-09-22T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Võlakriisi võimalik mõju Eesti reaalmajandusele.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "842fe9a3-32f4-8e65-85b8-efe025898b29"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli 2011. a. tööplaani koostamiseks esitatud ettepanekute ülevaatamine.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c4ffbe76-4d4a-10f4-c6a1-605f9410c005"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3aa3f7c9-1224-1e1c-6d69-d7dc1722596b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 22.09.2011",
+      "uuid": "b83a5847-fcfd-c54e-3f32-5ece57b8fc91",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_38_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "e8d048ca-1da6-fb14-e8d2-0950a54e7d11",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e8d048ca-1da6-fb14-e8d2-0950a54e7d11)",
+  "source": "https://api.riigikogu.ee/api/volumes/e8d048ca-1da6-fb14-e8d2-0950a54e7d11",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-09-01&endDate=2011-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
