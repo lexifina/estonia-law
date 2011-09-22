@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-09-22T09:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud taimede paljundamise ja sordikaitse seaduse muutmise seaduse eelnõu (93 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "034b7267-bb5b-8fbf-7c3f-2ef2c354c51d"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud kinnisasja omandamise kitsendamise seaduse eelnõu (54 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "af941831-8c61-23ac-73ec-4423c7c08cf9"
+    },
+    {
+      "order": 3,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "564f8d6d-834c-d874-bf8b-c45bb5e67e59"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 22.09.2011",
+      "uuid": "3ecafc51-cda9-c271-e416-5975024242b6",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_38_2011.odt",
+        "Maaelukomisjon_paevakord_22_09_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "3f067b00-5c8f-0f16-0adc-fcc001b21672",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3f067b00-5c8f-0f16-0adc-fcc001b21672)",
+  "source": "https://api.riigikogu.ee/api/volumes/3f067b00-5c8f-0f16-0adc-fcc001b21672",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-09-01&endDate=2011-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
