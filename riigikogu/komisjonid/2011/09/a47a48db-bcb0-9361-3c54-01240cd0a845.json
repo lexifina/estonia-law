@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-09-26T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": " Riigikaitsekomisjoni töönädala päevakorra kinnitamine ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "267c9667-881e-2983-dddc-a164b866d42b"
+    },
+    {
+      "order": 2,
+      "title": "Kaitseministeeriumis ettevalmistamisel olevad riigikaitsealased seaduseelnõud",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3123da92-d3be-d6ab-ef41-8a9147506cc9"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8803e511-d372-9065-791e-f6a13d55a845"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 26.09.2011",
+      "uuid": "b09931c7-aa49-4a38-788e-b0caf21d5610",
+      "files": [
+        "26.09.11_26.doc"
+      ]
+    }
+  ],
+  "uuid": "a47a48db-bcb0-9361-3c54-01240cd0a845",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a47a48db-bcb0-9361-3c54-01240cd0a845)",
+  "source": "https://api.riigikogu.ee/api/volumes/a47a48db-bcb0-9361-3c54-01240cd0a845",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-09-01&endDate=2011-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
