@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-09-26T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väliskomisjoni II istungjärgu 3. töönädala töökava kinnitamine.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2ebde8dd-b3cb-9d43-9882-e176a3b2a029"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade Riigikogu ja Riigikogu Kantselei välissuhtlemise 2011. aasta eelarve täitmisest ja 2012. aasta eelarve kavandamisest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "84603982-6dd4-7879-545d-10f027aa80ff"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "30467e89-6045-0399-1f4d-a11b09c1dc9e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Väliskomisjoni istungi protokoll nr 31 (26.09.2011)",
+      "uuid": "f15c9bd4-fccf-49ab-b1cf-91697348400f",
+      "files": [
+        "26.09.2011 (31) protokoll.doc"
+      ]
+    }
+  ],
+  "uuid": "0c524075-d905-0f9a-7732-e6946f519b63",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0c524075-d905-0f9a-7732-e6946f519b63)",
+  "source": "https://api.riigikogu.ee/api/volumes/0c524075-d905-0f9a-7732-e6946f519b63",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-09-01&endDate=2011-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
