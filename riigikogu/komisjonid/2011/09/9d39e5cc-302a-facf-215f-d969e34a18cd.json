@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-09-26T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud rahvusvahelise Telekommunikatsiooni Liidu põhikirja ja konventsiooni 2010. aasta muutmise aktide ratifitseerimise seaduse eelnõu (60 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d3528ead-840b-7e32-4fd1-75c673ad8e8f"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsus, Eesti seisukohad Euroopa Parlamendi ja nõukogu direktiivi, milles käsitletakse energiatõhusust, eelnõu suhtes (2.1-11/1016)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d707b8f2-6738-df96-b871-ece799d7dc56"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "570e111b-e2af-7298-0b79-65915b881353"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 26.09.2011",
+      "uuid": "5744ab2d-2b36-7250-1742-a206d2029b62",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_39_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "9d39e5cc-302a-facf-215f-d969e34a18cd",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9d39e5cc-302a-facf-215f-d969e34a18cd)",
+  "source": "https://api.riigikogu.ee/api/volumes/9d39e5cc-302a-facf-215f-d969e34a18cd",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-09-01&endDate=2011-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
