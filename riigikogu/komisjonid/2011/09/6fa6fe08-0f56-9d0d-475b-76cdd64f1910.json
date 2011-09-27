@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-09-27T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti Keskerakonna fraktsiooni algatatud reklaamiseaduse muutmise seaduse eelnõu (50 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "93998412-687b-c1a0-89ae-cbfd40ab5794"
+    },
+    {
+      "order": 2,
+      "title": "Eesti Arengufondi seaduse muutmise seaduse eelnõu algatamine.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9c1f6bb1-3f1b-65a4-68b3-de9aa768a279"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e37fdca7-27fb-6369-2646-a5f405b2bdb8"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 27.09.2011",
+      "uuid": "b6bca3c3-3db6-8768-ee5f-a4474fe9149b",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_39_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "6fa6fe08-0f56-9d0d-475b-76cdd64f1910",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 6fa6fe08-0f56-9d0d-475b-76cdd64f1910)",
+  "source": "https://api.riigikogu.ee/api/volumes/6fa6fe08-0f56-9d0d-475b-76cdd64f1910",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-09-01&endDate=2011-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
