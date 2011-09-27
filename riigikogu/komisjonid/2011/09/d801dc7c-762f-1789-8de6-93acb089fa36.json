@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-09-27T14:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väliskomisjoni Aasia-strateegia kuulamised: väljasõiduistung Tallinna Lennujaama.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8539862c-e47b-d32a-8ee6-7d8c392a8bbf"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "09aaac46-2fdc-4132-83e9-bf7c1a48bcfc"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Väliskomisjoni istungi protokoll nr 32",
+      "uuid": "7c93ef95-a46b-46d2-a481-dc20747d04a9",
+      "files": [
+        "Väliskomisjoni_istungi_protokoll_nr_32.ddoc",
+        "27.09.2011 (32) protokoll.doc"
+      ]
+    }
+  ],
+  "uuid": "d801dc7c-762f-1789-8de6-93acb089fa36",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d801dc7c-762f-1789-8de6-93acb089fa36)",
+  "source": "https://api.riigikogu.ee/api/volumes/d801dc7c-762f-1789-8de6-93acb089fa36",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-09-01&endDate=2011-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
