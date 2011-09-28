@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-09-28T00:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud riigikogu otsus \"Euroopa Finantsstabiilsuse Fondi raamlepingust ja selle muudatustest tulenevate kohustuste täitmise tagamine\" (90)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2025ea21-7d4c-c4dd-7ca4-e87248b58273"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK Protokoll 25 28.09.2011 kell 12.15-13.00",
+      "uuid": "d5ba4475-1df9-429d-959d-c4c21545b7d3",
+      "files": [
+        "RAHK Protokoll 25 28.09.2011.pdf"
+      ]
+    },
+    {
+      "title": "Protokoll 28.09.2011",
+      "uuid": "eeedf68e-58fd-5fcf-d682-3d0df1a82b57",
+      "files": [
+        "Rahanduskomisjon_istungi_protokoll_39_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "ada76183-52dc-3f56-6906-1d6dc1e01c6d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ada76183-52dc-3f56-6906-1d6dc1e01c6d)",
+  "source": "https://api.riigikogu.ee/api/volumes/ada76183-52dc-3f56-6906-1d6dc1e01c6d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-09-01&endDate=2011-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
