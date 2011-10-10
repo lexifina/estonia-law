@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-10-10T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "63daa7ff-b109-cfaa-af15-91ca785853db"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud Euroopa Liidu ühise põllumajanduspoliitika rakendamise seaduse ja halduskoostöö seaduse muutmise seaduse eelnõu (72 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0a70c4fc-d470-2fa4-3f5d-bd6d9c4110fc"
+    },
+    {
+      "order": 3,
+      "title": "Vabariigi Valitsuse algatatud taimede paljundamise ja sordikaitse seaduse muutmise seaduse eelnõu (93 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "80200888-41e1-77f0-bdeb-2270f8343f2f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 10.10.2011",
+      "uuid": "7695340e-f074-58ca-8c87-bb0d19da386d",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_41_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "d6cc394e-d05c-b28d-8a9a-4a7aa6596117",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d6cc394e-d05c-b28d-8a9a-4a7aa6596117)",
+  "source": "https://api.riigikogu.ee/api/volumes/d6cc394e-d05c-b28d-8a9a-4a7aa6596117",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-10-01&endDate=2011-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
