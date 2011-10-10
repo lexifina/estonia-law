@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-10-10T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Keskkonnakomisjoni töökava (10.10.11 – 16.10.11) kinnitamine ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c27718ac-7dd3-9c33-196e-4dbb40cfd66c"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud jäätmeseaduse muutmise seaduse eelnõu (76 SE), muudatusettepanekute läbivaatamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "69dd8085-55fa-07db-fac9-3ba93946b0b5"
+    },
+    {
+      "order": 3,
+      "title": "Vabariigi Valitsuse algatatud kiirgusseaduse muutmise seaduse eelnõu (80 SE), muudatusettepanekute läbivaatamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a3301e7c-34a2-a5f5-fb26-910b8059497c"
+    },
+    {
+      "order": 4,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8953c915-14f3-9679-47ff-ecb02ed66294"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 10.10.2011",
+      "uuid": "62147d7a-7079-a3af-a859-ab8aca60863f",
+      "files": [
+        "prot20 10.10.2011.doc"
+      ]
+    }
+  ],
+  "uuid": "374fe045-b42e-eb55-57ec-8a3c66952642",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 374fe045-b42e-eb55-57ec-8a3c66952642)",
+  "source": "https://api.riigikogu.ee/api/volumes/374fe045-b42e-eb55-57ec-8a3c66952642",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-10-01&endDate=2011-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
