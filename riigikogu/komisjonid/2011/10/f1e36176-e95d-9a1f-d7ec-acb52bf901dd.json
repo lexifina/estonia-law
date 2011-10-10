@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-10-10T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädalakava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7cae1b71-2040-23b5-59ff-0da9fc9c3919"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsus, Eesti seisukohad nõukogu direktiivi, mis käsitleb energiatoodete ja elektrienergia maksustamise ühenduse raamistikku, eelnõu kohta (2.1-11/1061)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4ade670e-0e79-b86c-76ff-2ff1e3c33a8c"
+    },
+    {
+      "order": 3,
+      "title": "Vabariigi Valitsuse algatatud elektrituruseaduse ja majandustegevuse seadustiku üldosa seaduse muutmise seaduse eelnõu (83 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "575f4d6d-f9af-ea23-cafc-ae2cefb1131d"
+    },
+    {
+      "order": 4,
+      "title": "Muud  küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bd72eb00-bcb3-d1f8-56b2-079aa9e18de8"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 10.10.2011",
+      "uuid": "9c0ea4cb-e86f-470a-117f-73a2bfc9fdb3",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_41_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "f1e36176-e95d-9a1f-d7ec-acb52bf901dd",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f1e36176-e95d-9a1f-d7ec-acb52bf901dd)",
+  "source": "https://api.riigikogu.ee/api/volumes/f1e36176-e95d-9a1f-d7ec-acb52bf901dd",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-10-01&endDate=2011-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
