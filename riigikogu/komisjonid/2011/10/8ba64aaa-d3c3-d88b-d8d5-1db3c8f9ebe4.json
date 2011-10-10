@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-10-10T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikontrolli auditiaruande „Sotsiaalministeeriumi 2010. aasta raamatupidamise aastaaruande õigsus ja tehingute seaduslikkus“ arutelu;",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1473c149-9a2c-6f93-8c17-39e74276526e"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli auditiaruande „Keskkonnaministeeriumi 2010. aasta raamatupidamise aastaaruande õigsus ja tehingute seaduslikkus“ arutelu;",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ec64c345-45a5-a349-76c3-870b549bb809"
+    },
+    {
+      "order": 3,
+      "title": "Informatsioon.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "684d736e-3584-6382-1d73-3263066c0b17"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 10.10.2011",
+      "uuid": "7085d771-2076-553a-ef07-e81bc3e298cd",
+      "files": [
+        "protokoll 10 10 10 2011.doc",
+        "Riigieelarve kontrolli erikomisjon_paevakord_10_10_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "8ba64aaa-d3c3-d88b-d8d5-1db3c8f9ebe4",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8ba64aaa-d3c3-d88b-d8d5-1db3c8f9ebe4)",
+  "source": "https://api.riigikogu.ee/api/volumes/8ba64aaa-d3c3-d88b-d8d5-1db3c8f9ebe4",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-10-01&endDate=2011-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
