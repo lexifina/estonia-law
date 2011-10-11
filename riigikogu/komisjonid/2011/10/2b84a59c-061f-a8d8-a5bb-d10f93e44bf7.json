@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-10-11T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Eesti Kaubandus- Tööstuskoja esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f8b3acda-9253-74e2-d5da-27da379a3d5b"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "93918495-f203-fca5-5e42-cde9475557b4"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 11.10.2011",
+      "uuid": "220ab719-d93e-03a7-6d4f-e3b56c2634b2",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_41_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "2b84a59c-061f-a8d8-a5bb-d10f93e44bf7",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2b84a59c-061f-a8d8-a5bb-d10f93e44bf7)",
+  "source": "https://api.riigikogu.ee/api/volumes/2b84a59c-061f-a8d8-a5bb-d10f93e44bf7",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-10-01&endDate=2011-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
