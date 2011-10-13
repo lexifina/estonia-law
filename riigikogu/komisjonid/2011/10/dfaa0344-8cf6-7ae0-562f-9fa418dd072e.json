@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-10-13T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": ". Rahandusministeeriumi 2011. aasta majandusprognoos",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "89068131-f6d2-c315-7cd6-ba9bcd09d50a"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "85e4ceb9-d9b8-336c-db0c-a2fb0ecb62df"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 13.10.2011",
+      "uuid": "5b9e7575-4f08-a13e-ffe0-ec40eb5a6b23",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_41_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "dfaa0344-8cf6-7ae0-562f-9fa418dd072e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid dfaa0344-8cf6-7ae0-562f-9fa418dd072e)",
+  "source": "https://api.riigikogu.ee/api/volumes/dfaa0344-8cf6-7ae0-562f-9fa418dd072e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-10-01&endDate=2011-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
