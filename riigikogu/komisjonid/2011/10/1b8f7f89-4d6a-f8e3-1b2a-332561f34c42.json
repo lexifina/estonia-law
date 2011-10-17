@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-10-17T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0682da4d-0953-ea63-407a-cf58cefcd1aa"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud taimekaitseseaduse ja sellega seonduvalt teiste seaduste muutmise seaduse eelnõu (105 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3542407c-ba88-4005-bfba-9ba6dde78cae"
+    },
+    {
+      "order": 3,
+      "title": "Kohtumine vana-tori hobuste kasvataja Ute Wohlrab´iga",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b76cadf7-3b01-7786-0db7-ded519572efa"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 17.10.2011",
+      "uuid": "7a2be312-5017-af6e-f6e0-410a66527bf1",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_42_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "1b8f7f89-4d6a-f8e3-1b2a-332561f34c42",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 1b8f7f89-4d6a-f8e3-1b2a-332561f34c42)",
+  "source": "https://api.riigikogu.ee/api/volumes/1b8f7f89-4d6a-f8e3-1b2a-332561f34c42",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-10-01&endDate=2011-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
