@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-10-17T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "719e37f0-a7fb-8a81-f160-8e3100de9699"
+    },
+    {
+      "order": 2,
+      "title": "Stigmatsiooni näitajad HIV-positiivsetel inimestel Eestis. Uurimuse tutvustus ja kohtumine HIV-positiivsete võrgustiku esindajatega.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2b9ee65c-6612-0912-d745-3e9bba808208"
+    },
+    {
+      "order": 3,
+      "title": "2012.aasta riigieelarve Sotsiaalministeeriumi valitsemisala",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "caa45c0a-752f-6490-67e8-d1fa138fd0a8"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 17.10.2011",
+      "uuid": "7b7e8bc3-4b94-cc66-d619-55f538caa5e5",
+      "files": [
+        "Sotsiaalkomisjon_istungi_protokoll_42_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "c7351379-e7b6-e70e-fdd4-088a81a6f3ef",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c7351379-e7b6-e70e-fdd4-088a81a6f3ef)",
+  "source": "https://api.riigikogu.ee/api/volumes/c7351379-e7b6-e70e-fdd4-088a81a6f3ef",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-10-01&endDate=2011-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
