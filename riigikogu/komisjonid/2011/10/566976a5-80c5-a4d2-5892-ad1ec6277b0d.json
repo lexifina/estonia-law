@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-10-17T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": " Riigikaitsekomisjoni töönädala päevakorra kinnitamine ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4f243630-52c2-d62c-77cf-42137bf93771"
+    },
+    {
+      "order": 2,
+      "title": "Eesti Euroopa Liidu poliitika 2011-2015 eelnõu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "91c2cc1b-e8dd-3ad9-9f7b-40a3ef6be9be"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fa3b0460-272c-fd0b-87d6-d999d3ebd795"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 17.10.2011",
+      "uuid": "295d7e5b-aaa0-b0d4-61ba-7706af641e9a",
+      "files": [
+        "17.10.11_31.doc"
+      ]
+    }
+  ],
+  "uuid": "566976a5-80c5-a4d2-5892-ad1ec6277b0d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 566976a5-80c5-a4d2-5892-ad1ec6277b0d)",
+  "source": "https://api.riigikogu.ee/api/volumes/566976a5-80c5-a4d2-5892-ad1ec6277b0d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-10-01&endDate=2011-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
