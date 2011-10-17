@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-10-17T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töönädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "311c1c6c-de7f-6a05-493f-40a4dd4e7a5b"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud vanema kohustuste kindlaksmääramise ja laste kaitse abinõude rakendamise pädevuse, kohaldatava õiguse, abinõude tunnustamise, rakendamise ja koostöö konventsiooniga ühinemise seaduse muutmise seaduse eelnõu (79 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2f32feaf-36f1-55cd-d944-b98ed56faa70"
+    },
+    {
+      "order": 3,
+      "title": "Vabariigi Valitsus, Eesti seisukohad Euroopa Parlamendi ja nõukogu direktiivi, mis käsitleb õigust kaitsjale kriminaalmenetluses ja õigust teatada kinnipidamisest, eelnõu suhtes (2.1-11/1077)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5433f93b-c21e-dcba-fe96-9ec200ffdd55"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 17.10.2011",
+      "uuid": "1f32e563-e30b-81bf-cde0-bb9d5a03ceff",
+      "files": [
+        "iguskomisjon_istungi_protokoll_42_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "09922da3-360e-e32a-206a-498aa70e67b5",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 09922da3-360e-e32a-206a-498aa70e67b5)",
+  "source": "https://api.riigikogu.ee/api/volumes/09922da3-360e-e32a-206a-498aa70e67b5",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-10-01&endDate=2011-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
