@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-10-17T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädalakava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0de2eddc-9a6b-4185-29c9-d59ace6d6e2a"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud lennundusseaduse, meresõiduohutuse seaduse ja raudteeseaduse muutmise seaduse eelnõu (103 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2e30d227-2cd8-ba74-f949-d890999eb4aa"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "876ec917-c62e-2f22-b38d-121532be6fea"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 17.10.2011",
+      "uuid": "266cda89-08bc-0370-de4c-c8e1ead0f014",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_42_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "6e3633ea-08f4-c8f9-e277-942f82213ad4",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 6e3633ea-08f4-c8f9-e277-942f82213ad4)",
+  "source": "https://api.riigikogu.ee/api/volumes/6e3633ea-08f4-c8f9-e277-942f82213ad4",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-10-01&endDate=2011-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
