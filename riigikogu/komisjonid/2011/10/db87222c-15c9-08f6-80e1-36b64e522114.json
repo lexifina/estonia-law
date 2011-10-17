@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-10-17T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d521e1c8-d7fb-56db-0dd6-c526d0546d71"
+    },
+    {
+      "order": 2,
+      "title": "ELAK-le arvamuse andmine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cb5c872a-ca83-c0fe-69fc-3db6edf53ddf"
+    },
+    {
+      "order": 3,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a645b784-dbec-524e-55b7-f85947e76261"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 17.10.2011",
+      "uuid": "0bc7bd90-0253-418f-26cc-02df7ce7e39c",
+      "files": [
+        "Põhiseaduskomisjon_istungi_protokoll_42_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "db87222c-15c9-08f6-80e1-36b64e522114",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid db87222c-15c9-08f6-80e1-36b64e522114)",
+  "source": "https://api.riigikogu.ee/api/volumes/db87222c-15c9-08f6-80e1-36b64e522114",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-10-01&endDate=2011-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
