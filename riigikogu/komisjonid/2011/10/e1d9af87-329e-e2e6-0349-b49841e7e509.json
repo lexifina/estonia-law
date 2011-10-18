@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-10-18T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti Inimarengu Aruanne 2010/2011 (EIA). Inimarengu rajad: muutuste kaks aastakümmet",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "19eac94e-cc43-1bef-7a14-aed971dfae3a"
+    },
+    {
+      "order": 2,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "344aca2d-7d42-f00f-b9d0-34db91e29b81"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 18.10.2011",
+      "uuid": "e5129b1d-09cd-6c0b-2f7b-9d453152b11e",
+      "files": [
+        "Põhiseaduskomisjon_istungi_protokoll_42_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "e1d9af87-329e-e2e6-0349-b49841e7e509",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e1d9af87-329e-e2e6-0349-b49841e7e509)",
+  "source": "https://api.riigikogu.ee/api/volumes/e1d9af87-329e-e2e6-0349-b49841e7e509",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-10-01&endDate=2011-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
