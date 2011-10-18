@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-10-18T14:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väliskomisjoni Aasia-strateegia kuulamised: väljasõiduistung Estonian Airi.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d01be252-c562-66e7-099f-e6557bb25c32"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "26214982-7d35-65a6-ceed-d09aa299ea2f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 18.10.2011",
+      "uuid": "c7a861b6-0a36-bd33-537d-fafd62a3b044",
+      "files": [
+        "18.10.2011 (38) protokoll.doc"
+      ]
+    }
+  ],
+  "uuid": "90368fba-80b4-ae02-0907-2ce12f6516d5",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 90368fba-80b4-ae02-0907-2ce12f6516d5)",
+  "source": "https://api.riigikogu.ee/api/volumes/90368fba-80b4-ae02-0907-2ce12f6516d5",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-10-01&endDate=2011-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
