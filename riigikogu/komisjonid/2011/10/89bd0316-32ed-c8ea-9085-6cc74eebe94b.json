@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-10-24T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dd84fa31-6c1a-d8ca-42e9-f4cac4dae99f"
+    },
+    {
+      "order": 2,
+      "title": "Arvamuse andmine Euroopa Liidu asjade komisjonile \" Eesti Euroopa Liidu poliitika 2011-2015\" eelnõu kohta",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "556504f7-2c77-592b-d2f5-006f8bf45c14"
+    },
+    {
+      "order": 3,
+      "title": "Rahanduskomisjoni ettepaneku arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6e21d93c-24fb-6f88-18f0-522edf64d2d9"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 24.10.2011",
+      "uuid": "d4f16eba-a511-3590-7121-74aa4daa95b8",
+      "files": [
+        "Sotsiaalkomisjon_istungi_protokoll_43_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "89bd0316-32ed-c8ea-9085-6cc74eebe94b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 89bd0316-32ed-c8ea-9085-6cc74eebe94b)",
+  "source": "https://api.riigikogu.ee/api/volumes/89bd0316-32ed-c8ea-9085-6cc74eebe94b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-10-01&endDate=2011-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
