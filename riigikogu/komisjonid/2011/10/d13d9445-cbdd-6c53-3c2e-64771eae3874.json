@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-10-24T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e217e886-9dd3-fb20-3e46-c8c45d6f6bd4"
+    },
+    {
+      "order": 2,
+      "title": "2012. aasta riigieelarve Siseministeeriumi regionaalministri valitsemisala",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "86308b1f-f6fb-7d61-30c3-965a9ec47eca"
+    },
+    {
+      "order": 3,
+      "title": "Eesti Euroopa Liidu poliitika 2011-2015 eelnõu, põllumajanduspoliitika peatükk. Arvamuse andmine ELAK´ile",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "86ccb9f3-d84e-58ee-4cf2-18211a1f67b9"
+    },
+    {
+      "order": 4,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d9a98874-7411-487f-6f12-d0e6aad0195f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 24.10.2011",
+      "uuid": "c9b43874-c8fc-b7df-9440-af5c97682b10",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_43_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "d13d9445-cbdd-6c53-3c2e-64771eae3874",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d13d9445-cbdd-6c53-3c2e-64771eae3874)",
+  "source": "https://api.riigikogu.ee/api/volumes/d13d9445-cbdd-6c53-3c2e-64771eae3874",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-10-01&endDate=2011-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
