@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-10-25T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Seisukoha andmine: Eesti seisukohad ühise kalanduspoliitika reformipaketi kohta (COM(2011)425).",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "149e9dfd-932c-bb0b-cf78-46fd0c113ee2"
+    },
+    {
+      "order": 2,
+      "title": "Seisukoha andmine: Euroopa Parlamendi ja nõukogu määruse eelnõu, millega kehtestatakse Läänemere lõhevarude ja nende püügi mitmeaastane kava (COM(2011)470).",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bd6d4c5e-9b86-c0e6-910a-9cc8f61fd66d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 25.10.2011",
+      "uuid": "19a798b5-a80f-7447-5a31-e2def8abe76d",
+      "files": [
+        "Euroopa_Liidu_asjade_komisjon_istungi_protokoll_43_2011.odt",
+        "Euroopa Liidu asjade komisjon_paevakord_25_10_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "d031ee8e-72a4-dd23-94fa-839f973c069a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d031ee8e-72a4-dd23-94fa-839f973c069a)",
+  "source": "https://api.riigikogu.ee/api/volumes/d031ee8e-72a4-dd23-94fa-839f973c069a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-10-01&endDate=2011-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
