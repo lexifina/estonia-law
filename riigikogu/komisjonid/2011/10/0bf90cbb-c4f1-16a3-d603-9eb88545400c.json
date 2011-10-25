@@ -1,0 +1,33 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-10-25T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine MTÜ Eesti Omastehooldus esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2b0b2d78-d0a0-3ea7-bcbe-58f1cf73a64d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 25.10.2011",
+      "uuid": "e2804da8-5295-58d9-8f7c-5a83f8ff79ce",
+      "files": [
+        "Sotsiaalkomisjon_istungi_protokoll_43_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "0bf90cbb-c4f1-16a3-d603-9eb88545400c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0bf90cbb-c4f1-16a3-d603-9eb88545400c)",
+  "source": "https://api.riigikogu.ee/api/volumes/0bf90cbb-c4f1-16a3-d603-9eb88545400c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-10-01&endDate=2011-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
