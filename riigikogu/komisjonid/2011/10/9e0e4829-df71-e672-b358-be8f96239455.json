@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-10-27T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Majanduskomisjoni ja sotsiaalkomisjoni avalik ühisistung eakate tööhõive teemal",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e838a3f2-242c-15d7-b060-d7e10f0bce7c"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e022d5af-e0a6-2bfb-dafa-ba997fa9917d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 27.10.2011",
+      "uuid": "e0222d3b-bcdd-9352-ac09-6d79ed626309",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_43_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "9e0e4829-df71-e672-b358-be8f96239455",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9e0e4829-df71-e672-b358-be8f96239455)",
+  "source": "https://api.riigikogu.ee/api/volumes/9e0e4829-df71-e672-b358-be8f96239455",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-10-01&endDate=2011-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
