@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung 07.11.2011",
+  "sitting_time": "2011-11-07T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade EL struktuurivahendite kasutamisest ja kontrollisüsteemidest;",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a1cb8e07-cdb8-6958-d9b7-9d385fbc1f59"
+    },
+    {
+      "order": 2,
+      "title": "Informatsioon; ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "aa316882-05e2-434f-3421-2a848ea6c498"
+    },
+    {
+      "order": 3,
+      "title": "Laekunud Riigikontrolli aruannetest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b76a9fc5-be1a-b9cc-ff30-3d52b1a79517"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 07.11.2011",
+      "uuid": "765c6503-8b13-2d40-aa5b-b986fdb6de08",
+      "files": [
+        "protokoll 17 07 11 2011.doc",
+        "Riigieelarve kontrolli erikomisjon_paevakord_07_11_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "d2fdf06f-8d28-8136-977b-480f9f37bd16",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d2fdf06f-8d28-8136-977b-480f9f37bd16)",
+  "source": "https://api.riigikogu.ee/api/volumes/d2fdf06f-8d28-8136-977b-480f9f37bd16",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-11-01&endDate=2011-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
