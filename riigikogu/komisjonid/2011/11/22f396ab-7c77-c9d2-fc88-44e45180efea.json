@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-11-07T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Arutelu: Eesti Euroopa Liidu poliitika 2011-2015 ( küberpoliitika; energiapoliitika).",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fb8e557c-feb0-3ccd-b5fe-578c8e851cbb"
+    },
+    {
+      "order": 2,
+      "title": "Arvamuse andmine: Eesti Euroopa Liidu poliitika 2011-2015.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4610f56a-d22a-e1d4-d853-2de2692fd252"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 07.11.2011",
+      "uuid": "430a7a05-b605-c753-fbbc-b8f5274a03b9",
+      "files": [
+        "Euroopa_Liidu_asjade_komisjon_istungi_protokoll_45_2011.odt",
+        "Euroopa_Liidu_asjade_komisjon_paevakord_07_11_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "22f396ab-7c77-c9d2-fc88-44e45180efea",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 22f396ab-7c77-c9d2-fc88-44e45180efea)",
+  "source": "https://api.riigikogu.ee/api/volumes/22f396ab-7c77-c9d2-fc88-44e45180efea",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-11-01&endDate=2011-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
