@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-11-07T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fd5a0a33-1d44-225f-bd7a-9fc40e99bb28"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud taimekaitseseaduse ja sellega seonduvalt teiste seaduste muutmise seaduse eelnõu (105 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "37bb4ec3-08fd-f46c-dc37-5db0279dbea9"
+    },
+    {
+      "order": 3,
+      "title": "Ülevaade Eesti maaelu arengukava LEADER meetme rakendamisest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "90981879-6baa-7957-11a0-860c04142096"
+    },
+    {
+      "order": 4,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c73c9f02-4d69-0dce-f789-77db8a0983e8"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 07.11.2011",
+      "uuid": "829e73f3-83de-85ba-12c0-6ae85b1e7009",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_45_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "1960426f-4a21-6abf-f6c6-d92db27f5e4a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 1960426f-4a21-6abf-f6c6-d92db27f5e4a)",
+  "source": "https://api.riigikogu.ee/api/volumes/1960426f-4a21-6abf-f6c6-d92db27f5e4a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-11-01&endDate=2011-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
