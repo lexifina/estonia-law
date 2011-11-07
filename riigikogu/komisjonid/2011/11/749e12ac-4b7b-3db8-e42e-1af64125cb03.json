@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-11-07T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Keskkonnakomisjoni töökava (07.11.11 – 13.11.11) kinnitamine ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8461ee22-27dd-33ce-25ea-22299119ead4"
+    },
+    {
+      "order": 2,
+      "title": " Puidu roll kliimapoliitikas, puidu CO2 sidumisvõime ning puidust ehitamise keskkonnamõju",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f3af3278-6588-c9c4-c9d1-d932b0fc64b2"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d6e0f294-7eec-ffbe-7612-9e2c81c738b7"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 07.11.2011",
+      "uuid": "dfb5ae88-711a-3f06-16f5-18ecf26d0b9c",
+      "files": [
+        "prot24 07.11.2011.doc"
+      ]
+    }
+  ],
+  "uuid": "749e12ac-4b7b-3db8-e42e-1af64125cb03",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 749e12ac-4b7b-3db8-e42e-1af64125cb03)",
+  "source": "https://api.riigikogu.ee/api/volumes/749e12ac-4b7b-3db8-e42e-1af64125cb03",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-11-01&endDate=2011-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
