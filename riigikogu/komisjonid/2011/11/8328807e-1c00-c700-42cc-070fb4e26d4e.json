@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-11-07T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Rahanduskomisjoni ettepaneku arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5509477f-9cc6-0a70-2ce3-2dead0ab37ae"
+    },
+    {
+      "order": 2,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "414b024f-f3b3-ea9b-40b0-3e1299e52f76"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 07.11.2011",
+      "uuid": "7b659c9e-6a9c-fdd2-882c-69e5e9432994",
+      "files": [
+        "Sotsiaalkomisjon_istungi_protokoll_45_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "8328807e-1c00-c700-42cc-070fb4e26d4e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8328807e-1c00-c700-42cc-070fb4e26d4e)",
+  "source": "https://api.riigikogu.ee/api/volumes/8328807e-1c00-c700-42cc-070fb4e26d4e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-11-01&endDate=2011-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
