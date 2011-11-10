@@ -1,0 +1,33 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-11-10T12:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väljasõiduistung Finantsinspektsioonis ja Eesti Pangas",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e7b02fd8-3446-19e8-829e-5fb76f58c279"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 10.11.2011",
+      "uuid": "6d7cb3c5-2cd1-84d3-1ebc-803eab22b996",
+      "files": [
+        "Rahanduskomisjon_istungi_protokoll_45_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "4e981e6d-305f-ace2-6642-4d2356b58f26",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 4e981e6d-305f-ace2-6642-4d2356b58f26)",
+  "source": "https://api.riigikogu.ee/api/volumes/4e981e6d-305f-ace2-6642-4d2356b58f26",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-11-01&endDate=2011-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
