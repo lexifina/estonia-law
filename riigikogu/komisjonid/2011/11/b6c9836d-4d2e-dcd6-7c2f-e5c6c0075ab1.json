@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-11-11T10:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 14. novembril 2011 toimuval Euroopa Liidu välisasjade nõukogu istungil ja arenguministrite istungil.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d6447901-2ab7-9484-0867-98b8b1cd33eb"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade Eesti elamislubade taotlemisega seotud küsimustest. ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fcd27ed9-2cfd-02e8-8f81-1c1a4d868b65"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused. ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2effa57a-3980-454f-9c30-454ad4315b57"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 11.11.2011",
+      "uuid": "eb9cdb3e-05ba-2d47-c997-23a8f94c246c",
+      "files": [
+        "11.11.2011 (46) protokoll.doc"
+      ]
+    }
+  ],
+  "uuid": "b6c9836d-4d2e-dcd6-7c2f-e5c6c0075ab1",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b6c9836d-4d2e-dcd6-7c2f-e5c6c0075ab1)",
+  "source": "https://api.riigikogu.ee/api/volumes/b6c9836d-4d2e-dcd6-7c2f-e5c6c0075ab1",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-11-01&endDate=2011-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
