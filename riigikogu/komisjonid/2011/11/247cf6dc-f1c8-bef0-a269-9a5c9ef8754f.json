@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung 14.11.2011",
+  "sitting_time": "2011-11-14T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Koostöö kõrgeimate kontrolliasutuste ja parlamendikomisjonide vahel;",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "aaea8155-abc8-350f-09a1-1bc2268808f3"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade auditiettepanekute täitmisest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "548169ab-d8d5-f22c-57e1-4e6babce74e9"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 14.11.2011",
+      "uuid": "649aba15-8d97-2e38-01df-352cd492b32a",
+      "files": [
+        "protokoll 19 14 11 2011.doc",
+        "Riigieelarve kontrolli erikomisjon_paevakord_14_11_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "247cf6dc-f1c8-bef0-a269-9a5c9ef8754f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 247cf6dc-f1c8-bef0-a269-9a5c9ef8754f)",
+  "source": "https://api.riigikogu.ee/api/volumes/247cf6dc-f1c8-bef0-a269-9a5c9ef8754f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-11-01&endDate=2011-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
