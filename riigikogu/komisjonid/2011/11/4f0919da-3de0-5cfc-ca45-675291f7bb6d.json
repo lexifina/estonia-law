@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-11-14T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d3fa7691-fabb-af03-5927-5374e68a6815"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud taimekaitseseaduse ja sellega seonduvalt teiste seaduste muutmise seaduse eelnõu (105 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b219b878-ae64-dd7b-d699-40000f7c9250"
+    },
+    {
+      "order": 3,
+      "title": "Vana-tori hobuse aretusega seotud probleemid",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "280b5b62-34be-923c-f854-3a724ecc0887"
+    },
+    {
+      "order": 4,
+      "title": "Maaelu Arengu Aruanne",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4c6e1d38-572b-7232-a992-924d1637e3cf"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 14.11.2011",
+      "uuid": "42065f49-a3b4-e237-a6fd-3505fec27253",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_46_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "4f0919da-3de0-5cfc-ca45-675291f7bb6d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 4f0919da-3de0-5cfc-ca45-675291f7bb6d)",
+  "source": "https://api.riigikogu.ee/api/volumes/4f0919da-3de0-5cfc-ca45-675291f7bb6d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-11-01&endDate=2011-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
