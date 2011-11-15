@@ -1,0 +1,34 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-11-15T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Eesti Leivaliidu ja MTÜ Eesti Rukki Seltsi esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2e7573fd-ddb5-0b23-6e9f-9130ee8d5391"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 15.11.2011",
+      "uuid": "6464efb9-7735-d931-8b6b-ccd178d56c20",
+      "files": [
+        "Maaelukomisjon_paevakord_15_11_2011.odt",
+        "Maaelukomisjon_istungi_protokoll_46_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "5977f630-0608-fda5-3962-8936c6342029",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 5977f630-0608-fda5-3962-8936c6342029)",
+  "source": "https://api.riigikogu.ee/api/volumes/5977f630-0608-fda5-3962-8936c6342029",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-11-01&endDate=2011-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
