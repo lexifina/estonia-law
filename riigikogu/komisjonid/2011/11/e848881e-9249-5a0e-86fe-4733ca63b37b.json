@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-11-15T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väljasõiduistung Eesti Merendusnõukotta.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c3e60030-4ac2-e5c6-face-d963e27232d2"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e3776d7d-c5fa-d396-3808-8207a436861a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 15.11.2011",
+      "uuid": "00017eab-6c16-9807-2edc-93306b8ae5cd",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_46_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "e848881e-9249-5a0e-86fe-4733ca63b37b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e848881e-9249-5a0e-86fe-4733ca63b37b)",
+  "source": "https://api.riigikogu.ee/api/volumes/e848881e-9249-5a0e-86fe-4733ca63b37b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-11-01&endDate=2011-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
