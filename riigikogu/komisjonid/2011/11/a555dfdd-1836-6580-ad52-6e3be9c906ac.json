@@ -1,0 +1,33 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-11-15T12:45:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Jäätmeteemaline väljasõiduistung",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b504b4e9-79d4-0f4b-768e-1f773440be37"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 15.11.2011",
+      "uuid": "4a64ab4f-63e5-197e-258f-5be2e6fd6345",
+      "files": [
+        "prot27.15.11.2011.doc"
+      ]
+    }
+  ],
+  "uuid": "a555dfdd-1836-6580-ad52-6e3be9c906ac",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a555dfdd-1836-6580-ad52-6e3be9c906ac)",
+  "source": "https://api.riigikogu.ee/api/volumes/a555dfdd-1836-6580-ad52-6e3be9c906ac",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-11-01&endDate=2011-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
