@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung teisipäev, 15.11.2011",
+  "sitting_time": "2011-11-15T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väliskomisjoni II istungjärgu 8. töönädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0d79ea3f-ca14-47bd-9ddc-50a72d89c6c3"
+    },
+    {
+      "order": 2,
+      "title": "Väliskomisjoni kohtumine Vabariigi Presidendiga Kadriorus.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8eca8ef1-e2b2-4a50-a05b-d59a17204788"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9da39c78-d8bf-4913-8262-6d99e70b4ece"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Väliskomisjoni istungi protokoll nr 47",
+      "uuid": "d2d45b36-0d62-49ff-bba8-51444d53018a",
+      "files": [
+        "15.11.2011 (47) protokoll.doc"
+      ]
+    }
+  ],
+  "uuid": "8232ac8f-ec01-4c63-b783-c4f1a19a25d6",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8232ac8f-ec01-4c63-b783-c4f1a19a25d6)",
+  "source": "https://api.riigikogu.ee/api/volumes/8232ac8f-ec01-4c63-b783-c4f1a19a25d6",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-11-01&endDate=2011-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
