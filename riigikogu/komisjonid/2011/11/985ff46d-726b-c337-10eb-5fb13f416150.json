@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-11-17T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Parlamentaarne kuulamine teemal põlevkivi kui ressurss.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "89395289-6ae6-0889-716c-8e5e391460f4"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "271f9a42-7168-b924-47c4-3d4492c8d8b0"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 17.11.2011",
+      "uuid": "160a2856-2520-3a93-d1f1-bde7ac7f0e5e",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_46_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "985ff46d-726b-c337-10eb-5fb13f416150",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 985ff46d-726b-c337-10eb-5fb13f416150)",
+  "source": "https://api.riigikogu.ee/api/volumes/985ff46d-726b-c337-10eb-5fb13f416150",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-11-01&endDate=2011-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
