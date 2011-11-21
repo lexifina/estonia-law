@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-11-21T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Keskkonnakomisjoni töökava (21.11.11 – 27.11.11) kinnitamine ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "15a68520-9fe5-2e9a-9629-42c4498152ac"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsus, Eesti seisukohad Euroopa Liidu Nõukogu direktiivi ettepaneku suhtes, millega kehtestatakse põhilised ohutusnormid kaitseks ioniseeriva kiirgusega kokkupuutest tulenevate ohtude eest (2.1-11/1212)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "efa35e10-d835-3243-de4f-6ceb346b9006"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "45dcafb0-4ff2-8b01-de6c-4f08e73e2cab"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 21.11.2011",
+      "uuid": "07876020-32ff-16f9-c493-5b609018c0a1",
+      "files": [
+        "prot28.21.11.11.doc"
+      ]
+    }
+  ],
+  "uuid": "54f287ed-b4e9-bb54-0d7b-cf5a75b8c8a4",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 54f287ed-b4e9-bb54-0d7b-cf5a75b8c8a4)",
+  "source": "https://api.riigikogu.ee/api/volumes/54f287ed-b4e9-bb54-0d7b-cf5a75b8c8a4",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-11-01&endDate=2011-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
