@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-11-22T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Konkurentsiametiga: tegevuste ülevaade",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "22f2d273-e958-8e6d-8aee-082c1deb304a"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud kaubandusliku meresõidu seaduse ja meresõiduohutuse seaduse muutmise seaduse eelnõu (82 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "880ca1fe-a782-1fb2-1c02-e88397f5a781"
+    },
+    {
+      "order": 3,
+      "title": "Majanduskomisjoni algatatud eesti Arengufondi seaduse muutmise seaduse eelnõu (102 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "312ade3b-8e94-4d96-7a44-6778ccfbe06c"
+    },
+    {
+      "order": 4,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "96846c9e-1424-fb8c-9b2f-45b69278f1de"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 22.11.2011",
+      "uuid": "ce51cc6a-b5ff-5bb2-8f86-c7cfa334c7f8",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_47_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "5a33aede-030f-0bc6-e9e2-086fb5c4c75e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 5a33aede-030f-0bc6-e9e2-086fb5c4c75e)",
+  "source": "https://api.riigikogu.ee/api/volumes/5a33aede-030f-0bc6-e9e2-086fb5c4c75e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-11-01&endDate=2011-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
