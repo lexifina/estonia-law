@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-11-22T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kriminaalmenetluse seadustiku XIV ptk-s sätestatud Riigikogu liikmete ja teiste seaduses sätestatud kõrgemate riigiteenijate immuniteedimenetluse arutelu ning edasiste sammude kavandamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e817908b-1169-e86a-cb76-bf147603c5b4"
+    },
+    {
+      "order": 2,
+      "title": "Välisministeeriumile arvamuse andmine Euroopa Inimõiguste Kohtu reformi käigus tehtud konkreetsete ettepanekute kohta",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "114bda9e-4d6e-b89d-7b89-c6230535797f"
+    },
+    {
+      "order": 3,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6ca5b6d8-1bb7-3013-3158-0ac206df7725"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 22.11.2011",
+      "uuid": "26c0f110-3934-737c-ad62-a203ecdb4ff8",
+      "files": [
+        "Põhiseaduskomisjon_istungi_protokoll_47_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "c22c2d33-38a5-44e3-5988-e99f0b00674d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c22c2d33-38a5-44e3-5988-e99f0b00674d)",
+  "source": "https://api.riigikogu.ee/api/volumes/c22c2d33-38a5-44e3-5988-e99f0b00674d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-11-01&endDate=2011-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
