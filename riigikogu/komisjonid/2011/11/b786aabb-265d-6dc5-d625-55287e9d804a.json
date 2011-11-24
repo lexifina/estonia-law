@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-11-24T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud politsei ja piirivalve seaduse, päästeseaduse, päästeteenistuse seaduse ja teiste seaduste muutmise seadus tulenevalt asutuste ümberkorraldamisest (116 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bab3e966-d6d1-2af2-2f39-973dd5623440"
+    },
+    {
+      "order": 2,
+      "title": "Õiguskomisjoni algatatud kriminaalmenetluse seadustiku ja teiste seaduste muutmise seaduse muutmise seaduse eelnõu (123 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "37e47cac-2f24-15ae-6c76-9c1fcc0621bf"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 24.11.2011",
+      "uuid": "a78a50a0-fd33-17a5-f569-8bab00b92c09",
+      "files": [
+        "iguskomisjon_istungi_protokoll_47_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "b786aabb-265d-6dc5-d625-55287e9d804a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b786aabb-265d-6dc5-d625-55287e9d804a)",
+  "source": "https://api.riigikogu.ee/api/volumes/b786aabb-265d-6dc5-d625-55287e9d804a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-11-01&endDate=2011-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
