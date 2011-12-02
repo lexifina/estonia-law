@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-12-02T09:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 9. detsembril 2011 toimuval Euroopa Ülemkogu istungil.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2f9afe90-5acb-54cb-01ef-888268ab78cd"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad 5.-6. detsembril 2011 toimuval EL konkurentsivõime nõukogu istungil.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a011af1e-34bd-7a8d-647d-8c7973732bfe"
+    },
+    {
+      "order": 3,
+      "title": "Seisukoha andmine: EL Nõukogu direktiivi eelnõu, millega kehtestatakse põhilised ohutusnormid kaitseks ioniseeriva kiirgusega kokkupuutest tulenevate ohtude eest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "38e76676-17e3-5b59-55b2-911ef32d1223"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 02.12.2011",
+      "uuid": "68837aa4-d231-3f26-0bd0-62a51340718a",
+      "files": [
+        "Euroopa_Liidu_asjade_komisjon_istungi_protokoll_48_2011.odt",
+        "Euroopa_Liidu_asjade_komisjon_paevakord_02_12_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "8f73bc70-a4ae-5684-1425-93c1018c978a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8f73bc70-a4ae-5684-1425-93c1018c978a)",
+  "source": "https://api.riigikogu.ee/api/volumes/8f73bc70-a4ae-5684-1425-93c1018c978a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-12-01&endDate=2011-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
