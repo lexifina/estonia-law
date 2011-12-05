@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-12-05T12:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti Reformierakonna fraktsiooni, Isamaa ja Res Publica Liidu fraktsiooni algatatud tervishoiuteenuste korraldamise seaduse, tööturuteenuste ja -toetuste seaduse ning sotsiaalhoolekande seaduse muutmise seaduse eelnõu (128 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "214eae87-f035-4ba8-ff06-b880c2898dff"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud sotsiaalhoolekande seaduse muutmise seaduse eelnõu (124 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "06133377-e100-542a-b557-99432daa8f90"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 05.12.2011",
+      "uuid": "2810caff-0c08-e6b3-d3f1-82cf0ca8d2ac",
+      "files": [
+        "Sotsiaalkomisjon_istungi_protokoll_49_2011.odt",
+        "Sotsiaalkomisjon_paevakord_05_12_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "722178cc-3a6e-0ff7-e4b4-bc4234fa062b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 722178cc-3a6e-0ff7-e4b4-bc4234fa062b)",
+  "source": "https://api.riigikogu.ee/api/volumes/722178cc-3a6e-0ff7-e4b4-bc4234fa062b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-12-01&endDate=2011-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
