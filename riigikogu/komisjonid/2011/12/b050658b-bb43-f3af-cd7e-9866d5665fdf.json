@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-12-05T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Keskkonnakomisjoni töökava (05.12.11 – 11.12.11) kinnitamine ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c4f34c3a-4bc0-c409-3145-848f332bc76e"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade maareformi hetkeseisust",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2f2b8ba7-b6fa-1633-d81c-3084e85981be"
+    },
+    {
+      "order": 3,
+      "title": "Komisjoni liikmete Karel Rüütli, Rainer Vakra ja Annely Akkermanni ülevaated toimunud lähetustest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bbad934d-c045-bf9b-429f-c1a835fc5564"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 05.12.2011",
+      "uuid": "0c7c7b90-51c5-27e3-6744-b212ee8409eb",
+      "files": [
+        "prot30.05.12.2011.doc"
+      ]
+    }
+  ],
+  "uuid": "b050658b-bb43-f3af-cd7e-9866d5665fdf",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b050658b-bb43-f3af-cd7e-9866d5665fdf)",
+  "source": "https://api.riigikogu.ee/api/volumes/b050658b-bb43-f3af-cd7e-9866d5665fdf",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-12-01&endDate=2011-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
