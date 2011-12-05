@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-12-05T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "314ddbda-4ced-e55c-7c38-0a9fd0b10b30"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine Võrumaa omavalitsusjuhtide ja Maa-ameti esindajatega.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "72a25f6c-76ac-6e1d-aa3b-2ce1ba54f4da"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 05.12.2011",
+      "uuid": "f92bf08d-9703-201d-9867-398156ea63cf",
+      "files": [
+        "Maaelukomisjon_istungi_protokoll_49_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "959daac6-96b1-b690-752f-40cb1a8148f4",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 959daac6-96b1-b690-752f-40cb1a8148f4)",
+  "source": "https://api.riigikogu.ee/api/volumes/959daac6-96b1-b690-752f-40cb1a8148f4",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-12-01&endDate=2011-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
