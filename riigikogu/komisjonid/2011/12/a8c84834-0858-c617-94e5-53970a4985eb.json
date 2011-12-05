@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-12-05T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töönädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7bd49165-1000-7b1c-0a8d-fbe41f6693a0"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud politsei ja piirivalve seaduse, päästeseaduse, päästeteenistuse seaduse ja teiste seaduste muutmise seadus tulenevalt asutuste ümberkorraldamisest (116 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "102efa7e-a2f5-e9f4-4243-ce3dc2a5ab01"
+    },
+    {
+      "order": 3,
+      "title": "Vabariigi Valitsuse algatatud riigikogu otsus \"Riikliku VEB Fondi sertifikaatidega tagatud nõuete hüvitamine\" (13)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2b7ad1bc-bf39-0978-7b5e-476c102dd3bf"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 05.12.2011",
+      "uuid": "8020c1d6-5107-e3d8-70b2-19b5dbcbbbbc",
+      "files": [
+        "iguskomisjon_istungi_protokoll_49_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "a8c84834-0858-c617-94e5-53970a4985eb",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a8c84834-0858-c617-94e5-53970a4985eb)",
+  "source": "https://api.riigikogu.ee/api/volumes/a8c84834-0858-c617-94e5-53970a4985eb",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-12-01&endDate=2011-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
