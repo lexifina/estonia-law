@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-12-05T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädalakava kinnitamine.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ed626ef0-9e4f-7286-9c29-ecef66fa819d"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud lennundusseaduse, meresõiduohutuse seaduse ja raudteeseaduse muutmise seaduse eelnõu (103 SE) normitehniliselt ja keeleliselt korrastatud teksti läbivaatamine ja 3. lugemisele saatmine.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "870ae413-9a57-e0dc-1abf-6f0c281142a5"
+    },
+    {
+      "order": 3,
+      "title": "Eesti Merenduspoliitika 2011 - 2020 ülevaade.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "94f7ee11-08a8-73e3-e9b6-25a0b1b99132"
+    },
+    {
+      "order": 4,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a3961d85-082e-494f-365e-c87c560ff3f8"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 05.12.2011",
+      "uuid": "857dbfe7-67ac-688a-a894-70603fe836fe",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_49_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "7915c2ef-188c-e4c5-2743-d80629266763",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7915c2ef-188c-e4c5-2743-d80629266763)",
+  "source": "https://api.riigikogu.ee/api/volumes/7915c2ef-188c-e4c5-2743-d80629266763",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-12-01&endDate=2011-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
