@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-12-06T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud 2012. aasta riigieelarve seaduse eelnõu (99 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ee3d9fa9-912f-1857-8a0a-fa35aceeb4f6"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud rahvusvahelise Valuutafondi liikmeks olekuga seotud õigusaktide muutmise seaduse eelnõu (132 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e1859670-426b-82b5-160c-3ca162fafeb3"
+    },
+    {
+      "order": 3,
+      "title": "Vabariigi Valitsuse algatatud riigikogu otsus \"Nõusoleku andmine Eesti Vabariigi kvoodi suurendamiseks Rahvusvahelises Valuutafondis\" (13)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "77b258c6-ff34-f438-cc28-39a3a79cb6af"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 06.12.2011",
+      "uuid": "7251e2b4-4c24-2e86-8ce3-9aba42dbe949",
+      "files": [
+        "Rahanduskomisjon_istungi_protokoll_49_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "d2098ba2-d131-23d3-42d0-6e65960b6e93",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d2098ba2-d131-23d3-42d0-6e65960b6e93)",
+  "source": "https://api.riigikogu.ee/api/volumes/d2098ba2-d131-23d3-42d0-6e65960b6e93",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-12-01&endDate=2011-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
