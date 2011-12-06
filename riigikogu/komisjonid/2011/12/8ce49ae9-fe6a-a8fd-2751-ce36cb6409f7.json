@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-12-06T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud ühistranspordiseaduse ja riigilõivuseaduse muutmise seaduse eelnõu (115 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bd48be7e-8c9a-8faa-bcf3-0a53d2853fd9"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine EAS-iga.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9a089258-67ac-a278-b589-4dd6f45a2dc3"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5b7f9029-d122-d422-958f-6e6d8970b7ba"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 06.12.2011",
+      "uuid": "2b264f81-8a5d-71f8-a7ae-d7336325b683",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_49_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "8ce49ae9-fe6a-a8fd-2751-ce36cb6409f7",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8ce49ae9-fe6a-a8fd-2751-ce36cb6409f7)",
+  "source": "https://api.riigikogu.ee/api/volumes/8ce49ae9-fe6a-a8fd-2751-ce36cb6409f7",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-12-01&endDate=2011-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
