@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung neljapäev, 08.12.2011, 14:00",
+  "sitting_time": "2011-12-08T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Avalik diplomaatia ja Eesti esindatus maailmas.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e882db8b-e024-4006-8f13-b44ab22aa03a"
+    },
+    {
+      "order": 2,
+      "title": "Arutelu 4. detsembril 2011 toimunud Vene Riigiduuma valimistest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cae6b796-316f-4e8d-9550-385a350d8a65"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e617a149-4e39-4232-af5e-03809bdbb9f4"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Väliskomisjoni istungi protokoll nr 54 8.12.2011",
+      "uuid": "a39d4a42-893f-4892-b75c-3e3da2d52ba3",
+      "files": [
+        "8.12.2011 (54) protokoll.doc"
+      ]
+    }
+  ],
+  "uuid": "f7466193-412e-49d5-8404-6801457f281c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f7466193-412e-49d5-8404-6801457f281c)",
+  "source": "https://api.riigikogu.ee/api/volumes/f7466193-412e-49d5-8404-6801457f281c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-12-01&endDate=2011-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
