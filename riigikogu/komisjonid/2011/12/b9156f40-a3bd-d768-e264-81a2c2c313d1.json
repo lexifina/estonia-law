@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-12-12T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud karistusseadustiku ja sellega seonduvate seaduste muutmise seaduse eelnõu (140 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "335a6df1-d3fc-feab-9e20-652d73c1aa77"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsus, Eesti seisukohad Euroopa Parlamendi ja nõukogu Euroopa ühise müügiõiguse määruse eelnõu kohta (2.1-11/1310)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d2f60812-1142-66ba-37ca-7cf287c2fb4f"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0d7a9a35-c53b-0cd0-e4b0-25eaa54ea694"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 12.12.2011",
+      "uuid": "42cb3e0a-30d4-53c4-3e40-a6a81cfc986d",
+      "files": [
+        "OIK protokoll 12 12 2011õige.ddoc"
+      ]
+    }
+  ],
+  "uuid": "b9156f40-a3bd-d768-e264-81a2c2c313d1",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b9156f40-a3bd-d768-e264-81a2c2c313d1)",
+  "source": "https://api.riigikogu.ee/api/volumes/b9156f40-a3bd-d768-e264-81a2c2c313d1",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-12-01&endDate=2011-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
