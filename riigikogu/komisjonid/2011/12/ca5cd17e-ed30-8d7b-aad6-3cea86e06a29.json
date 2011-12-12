@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung 12.12.2011, kl 11.00",
+  "sitting_time": "2011-12-12T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töönädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dac2e280-5dde-ae6d-6c03-b27ca49b88de"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud ülikooliseaduse, rakenduskõrgkooli seaduse ja teiste seaduste muutmise seaduse eelnõu (89 SE) - muudatusettepanekute arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b7f7c2ec-525f-feac-bf52-f79f7df29008"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "be7f4dd8-e994-9525-970f-1d0b77c43cbf"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 12.12.2011",
+      "uuid": "05aade60-8f69-60ed-86d0-44859b53237d",
+      "files": [
+        "Kultuurikomisjon_istungi_protokoll_50_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "ca5cd17e-ed30-8d7b-aad6-3cea86e06a29",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ca5cd17e-ed30-8d7b-aad6-3cea86e06a29)",
+  "source": "https://api.riigikogu.ee/api/volumes/ca5cd17e-ed30-8d7b-aad6-3cea86e06a29",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-12-01&endDate=2011-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
