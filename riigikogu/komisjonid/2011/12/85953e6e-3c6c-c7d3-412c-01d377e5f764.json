@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-12-12T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad Euroopa Komisjoni teatise \"Euroopa ühtse taristu kasvupakett\" kohta ning Euroopa Parlamendi ja nõukogu määruse, millega asutatakse Euroopa Ühendamise Rahastu, eelnõu kohta ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1967882b-1f3a-d4a1-fc33-7c114d5a9420"
+    },
+    {
+      "order": 2,
+      "title": "Arvamuse andmine õiguskomisjonile Riigikogu otsuse  \"Riikliku VEB Fondi sertifikaatidega tagatud nõuete hüvitamine\" eelnõu (130 OE) kohta",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "181ad4ce-14ef-0e90-19fd-408c3a188e5b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 12.12.2011",
+      "uuid": "9f3530fb-856e-3336-3cb0-5a399af34785",
+      "files": [
+        "Rahanduskomisjon_istungi_protokoll_50_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "85953e6e-3c6c-c7d3-412c-01d377e5f764",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 85953e6e-3c6c-c7d3-412c-01d377e5f764)",
+  "source": "https://api.riigikogu.ee/api/volumes/85953e6e-3c6c-c7d3-412c-01d377e5f764",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-12-01&endDate=2011-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
