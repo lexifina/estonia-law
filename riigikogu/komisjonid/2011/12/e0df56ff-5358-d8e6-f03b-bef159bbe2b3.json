@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-12-12T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4127b84d-810b-3bcd-8793-bd453d6d881a"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine Eesti Toiduainetööstuse Liidu esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "38e8b1a5-bfc6-e8b6-f968-e7b0c70c6e73"
+    },
+    {
+      "order": 3,
+      "title": "OTRK \"Maaelu arengu aruanne\" täiskogu arutelu ettevalmistamine.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f765bbdd-6ec2-2eda-7954-b03c53db3554"
+    },
+    {
+      "order": 4,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7a735943-2da4-0f83-5f9d-092bc7244a4e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 12.12.2011",
+      "uuid": "8e81f79e-9e61-40ab-a016-3e09cf4e211b",
+      "files": [
+        "Maaelukomisjon_paevakord_12_12_2011.odt",
+        "Maaelukomisjon_istungi_protokoll_50_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "e0df56ff-5358-d8e6-f03b-bef159bbe2b3",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e0df56ff-5358-d8e6-f03b-bef159bbe2b3)",
+  "source": "https://api.riigikogu.ee/api/volumes/e0df56ff-5358-d8e6-f03b-bef159bbe2b3",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-12-01&endDate=2011-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
