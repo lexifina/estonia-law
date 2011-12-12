@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung 12.12.2011 kell 13:30",
+  "sitting_time": "2011-12-12T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikontrolli auditiaruande „Autode hankimine valdades ja linnades ning nende osalusega ühingutes“ arutelu;",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8b661c3c-9df5-a657-8cd1-8f6614c4c340"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli auditiaruande „Pärnu linnavõimu tegevus finantsseisu halvenemisel ning nõuete ja kohustuste menetlemisel aastatel 2008 kuni 2010“ arutelu;",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "36e61184-70ef-b02a-1189-8c9212a49fbe"
+    },
+    {
+      "order": 3,
+      "title": "Komisjoni töökorralduse ettepanek.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "184622de-03bb-dd60-a054-e7676f0afd78"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "fc267996-422f-4528-9b8d-feb6c06f9dbe",
+      "files": [
+        "Riigieelarve_kontrolli_erikomisjon_istungi_protokoll_22_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "dc0e2a45-3382-becc-1826-107cc290f540",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid dc0e2a45-3382-becc-1826-107cc290f540)",
+  "source": "https://api.riigikogu.ee/api/volumes/dc0e2a45-3382-becc-1826-107cc290f540",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-12-01&endDate=2011-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
