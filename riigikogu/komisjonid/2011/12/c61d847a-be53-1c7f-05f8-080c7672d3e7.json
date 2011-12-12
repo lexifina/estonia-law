@@ -1,0 +1,34 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-12-12T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kokkuvõte komisjoni tööst",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3a800e78-9dbf-86a6-7b33-f22edcbc2ba1"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 12.12.2011",
+      "uuid": "3990867a-e100-4a70-d6c9-055fc8ce23e0",
+      "files": [
+        "Sotsiaalkomisjon_paevakord_12_12_2011.odt",
+        "Sotsiaalkomisjon_istungi_protokoll_50_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "c61d847a-be53-1c7f-05f8-080c7672d3e7",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c61d847a-be53-1c7f-05f8-080c7672d3e7)",
+  "source": "https://api.riigikogu.ee/api/volumes/c61d847a-be53-1c7f-05f8-080c7672d3e7",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-12-01&endDate=2011-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
