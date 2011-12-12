@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-12-12T11:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Keskkonnakomisjoni töökava (12.12.11 – 18.12.11) kinnitamine ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dc81aafc-834b-5010-e1b1-ea162e5e9cd2"
+    },
+    {
+      "order": 2,
+      "title": " Keskkonnaministri kuulamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "53fca3c1-fa95-1b09-3fb8-eac3c7bedb6f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 12.12.2011",
+      "uuid": "38c2be3b-d92b-5f43-4d33-59b89e1aa90b",
+      "files": [
+        "prot31_12.12.2011.doc",
+        "Keskkonnakomisjon_paevakord_12_12_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "756778ce-dae3-a58e-4ee2-5429577a4eb5",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 756778ce-dae3-a58e-4ee2-5429577a4eb5)",
+  "source": "https://api.riigikogu.ee/api/volumes/756778ce-dae3-a58e-4ee2-5429577a4eb5",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-12-01&endDate=2011-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
