@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-12-12T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7e354331-d9ea-c8fa-0b53-84c4c84f8cdc"
+    },
+    {
+      "order": 2,
+      "title": "Kehtiva välismaalaste seaduse elamislubade andmise regulatsiooni ning kavandatavate muudatuste eelarutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7603e5a8-1eb1-13a2-2f3e-be3eaca537fa"
+    },
+    {
+      "order": 3,
+      "title": "Riigikogu kodu- ja töökorra seaduse muutmise seaduse eelnõu, mis puudutab Riigikogu turvalisuse tagamise regulatsiooni täpsustamist, eelarutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fd81740c-7320-3a50-da3b-dc9e82d6c588"
+    },
+    {
+      "order": 4,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6bfe96c0-9137-1443-1b89-bb44e6319dc3"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 12.12.2011",
+      "uuid": "d64bbdc0-c975-720f-b8e6-32f176b22695",
+      "files": [
+        "Põhiseaduskomisjon_istungi_protokoll_50_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "12f9c4cd-e4af-9a10-2694-7ef11212572e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 12f9c4cd-e4af-9a10-2694-7ef11212572e)",
+  "source": "https://api.riigikogu.ee/api/volumes/12f9c4cd-e4af-9a10-2694-7ef11212572e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-12-01&endDate=2011-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
