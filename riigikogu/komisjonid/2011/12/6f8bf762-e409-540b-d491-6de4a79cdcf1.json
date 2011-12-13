@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-12-13T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Põhiseaduskomisjoni moodustatud elektroonilise hääletamise arendamise töögrupi töö kokkuvõtte kuulamine ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5005aa43-fee3-a757-9f6a-6cb793895aa4"
+    },
+    {
+      "order": 2,
+      "title": "Õiguskomisjonile arvamuse andmine Riigikogu otsuse „Riikliku VEB Fondi sertifikaatidega tagatud nõuete hüvitamine“ eelnõu 130 OE kohta",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "859f733b-1ed6-f6f9-c423-dbb54519211b"
+    },
+    {
+      "order": 3,
+      "title": "Seaduse eelnõude menetlemisest Riigikogus (nn kobareelnõud)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c9ba2e31-80d2-5b8c-452a-31118a166ae8"
+    },
+    {
+      "order": 4,
+      "title": "Istungjärgu kokkuvõtete tegemine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b472327d-c009-c8d0-b6d7-21b7c7443dc0"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 13.12.2011",
+      "uuid": "e603f19c-b0fa-ec97-d42b-de734a1efac7",
+      "files": [
+        "Põhiseaduskomisjon_istungi_protokoll_50_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "6f8bf762-e409-540b-d491-6de4a79cdcf1",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 6f8bf762-e409-540b-d491-6de4a79cdcf1)",
+  "source": "https://api.riigikogu.ee/api/volumes/6f8bf762-e409-540b-d491-6de4a79cdcf1",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-12-01&endDate=2011-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
