@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-12-13T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Majanduskomisjoni tegevuste aasta kokkuvõte.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f9a56471-2685-76d2-a6f5-853435b4644a"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "03965f98-f26e-1b61-f624-9ec8d730419b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 13.12.2011",
+      "uuid": "b795045f-798d-c604-c471-8208ec735c6a",
+      "files": [
+        "Majanduskomisjon_istungi_protokoll_50_2011.odt"
+      ]
+    }
+  ],
+  "uuid": "0c313d7f-efac-8f7e-1366-a44bb8ba0eb1",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0c313d7f-efac-8f7e-1366-a44bb8ba0eb1)",
+  "source": "https://api.riigikogu.ee/api/volumes/0c313d7f-efac-8f7e-1366-a44bb8ba0eb1",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-12-01&endDate=2011-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
