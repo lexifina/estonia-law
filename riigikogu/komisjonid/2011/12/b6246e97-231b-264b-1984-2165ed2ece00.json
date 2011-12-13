@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung",
+  "sitting_time": "2011-12-13T14:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikaitsekomisjoni väljasõiduistung Kaitseministeeriumisse",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3d575e39-d7d7-dd69-9b83-a20f76d766e0"
+    },
+    {
+      "order": 2,
+      "title": "Riigikaitsekomisjoni seisukoht Kaitseväe Peastaabi ülema kandidaadi suhtes",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "831db480-a78e-8f68-f37b-c53e4920eac0"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 13.12.2011",
+      "uuid": "29c6996d-e6a6-42b2-b3c7-a801e6f205bc",
+      "files": [
+        "13.12.11_45.doc"
+      ]
+    }
+  ],
+  "uuid": "b6246e97-231b-264b-1984-2165ed2ece00",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b6246e97-231b-264b-1984-2165ed2ece00)",
+  "source": "https://api.riigikogu.ee/api/volumes/b6246e97-231b-264b-1984-2165ed2ece00",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2011-12-01&endDate=2011-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
