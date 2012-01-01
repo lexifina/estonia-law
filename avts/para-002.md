@@ -14,7 +14,7 @@
 
 1) riigisaladuseks või salastatud välisteabeks oleva teabe suhtes kuni teabe salastatuse kustumiseni;
 
-2) juurdepääsu võimaldamisel avalikele arhivaalidele arhiiviasutuste poolt arhiiviseaduses ja selle alusel sätestatud korras, välja arvatud juurdepääsupiirangute kehtestamise osas;
+2) juurdepääsu võimaldamisel arhivaalidele Rahvusarhiivis ja kohaliku omavalitsuse arhiivis arhiiviseaduses ja selle alusel sätestatud korras, välja arvatud juurdepääsupiirangute kehtestamise osas;
 
 3) märgukirjale ja selgitustaotlusele vastamise seaduses sätestatud korras märgukirjadele ja selgitustaotlustele vastamisele, kui vastamine eeldab jäädvustatud teabe analüüsimist, sünteesimist või täiendava teabe kogumist ja dokumenteerimist;
 
