@@ -20,4 +20,4 @@
 
 (7) Valijate nimekirja koostaja kirjutab valijate nimekirjale alla hiljemalt seitsmendal päeval enne valimispäeva ning jaoskonnakomisjoni esimees valimispäeval pärast hääletamise lõppemist. Elektrooniliselt hääletanud valijate nimekirjale kirjutab pärast hääletamise lõppemist alla Vabariigi Valimiskomisjoni esimees.
 
-(8) Valijate nimekirju säilitatakse alaliselt arhiivis.
+(8) Valijate nimekirju säilitatakse püsivalt Rahvusarhiivis.
