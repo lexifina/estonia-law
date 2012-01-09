@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung esmaspäev, 9.01.2012 11:00",
+  "sitting_time": "2012-01-09T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "83a5a3df-c2d4-4fd1-8c01-59b0fd9fb964"
+    },
+    {
+      "order": 2,
+      "title": "Töölepingu seaduse ja sellega seonduvalt teiste seaduste muutmise seadus (129 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6638f738-aa30-4c63-839e-6b2c927d31f4"
+    },
+    {
+      "order": 3,
+      "title": "Riiklike peretoetuste seaduse muutmise seadus (127 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "377cb01e-548d-499e-8c5e-c4d38b141761"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "c504ca78-6999-4079-b1bf-3f219e85c9c2",
+      "files": [
+        "protocol.rtf"
+      ]
+    }
+  ],
+  "uuid": "23482429-da06-4d50-b772-1321397adb75",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 23482429-da06-4d50-b772-1321397adb75)",
+  "source": "https://api.riigikogu.ee/api/volumes/23482429-da06-4d50-b772-1321397adb75",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-01-01&endDate=2012-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
