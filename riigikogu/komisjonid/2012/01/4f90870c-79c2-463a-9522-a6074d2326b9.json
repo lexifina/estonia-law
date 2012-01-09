@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung esmaspäev, 9.01.2012",
+  "sitting_time": "2012-01-09T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "eff59241-3101-4e3f-97f1-95710bc7dc31"
+    },
+    {
+      "order": 2,
+      "title": "2.1-11/1354 - Eesti seisukohad Euroopa Parlamendi ja nõukogu määruse üleeuroopalise transpordivõrgu arendamist käsitlevate liidu suuniste kohta eelnõu suhtes",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d7da1122-11e5-4e4d-91a9-d9e5dcb9ced5"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7a6197b8-6042-4f28-b297-bd8ff16058fb"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "2af07760-9898-4af7-9ce5-2edfac8a49d0",
+      "files": [
+        "9.01.2012  protokoll nr 55.doc"
+      ]
+    }
+  ],
+  "uuid": "4f90870c-79c2-463a-9522-a6074d2326b9",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 4f90870c-79c2-463a-9522-a6074d2326b9)",
+  "source": "https://api.riigikogu.ee/api/volumes/4f90870c-79c2-463a-9522-a6074d2326b9",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-01-01&endDate=2012-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
