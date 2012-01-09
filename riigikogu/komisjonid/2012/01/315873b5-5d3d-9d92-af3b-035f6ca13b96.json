@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung, esmaspäev 09.01.2012 kell 11:00",
+  "sitting_time": "2012-01-09T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väliskomisjoni III istungjärgu 1. töönädala töökava kinnitamine.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2ec56521-8ac2-7aba-8dc1-374f04ab93a3"
+    },
+    {
+      "order": 2,
+      "title": "Ühisistung keskkonnakomisjoniga. Ülevaade 28.11-9.12.2011 Lõuna-Aafrikas Durbanis toimunud kliimaläbirääkimiste tulemustest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1c110e08-7d3e-2c45-577b-ade2d53fcfb1"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "12dee2f5-dc10-7945-828a-bd1cea506a1b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "48b1cec4-57b1-4a24-84ca-81a6b4c1b3bf",
+      "files": [
+        "09.01.2011 (57) protokoll.doc"
+      ]
+    }
+  ],
+  "uuid": "315873b5-5d3d-9d92-af3b-035f6ca13b96",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 315873b5-5d3d-9d92-af3b-035f6ca13b96)",
+  "source": "https://api.riigikogu.ee/api/volumes/315873b5-5d3d-9d92-af3b-035f6ca13b96",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-01-01&endDate=2012-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
