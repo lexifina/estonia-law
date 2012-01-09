@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 9.01.2012 11:00",
+  "sitting_time": "2012-01-09T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1a90756d-234c-42a8-bedd-c485efb4d7ce"
+    },
+    {
+      "order": 2,
+      "title": "OTRK Maaelu arengu aruanne",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6e41c7b2-b32d-495a-8bde-89d25c1b26cd"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "8ce58a65-e80c-403d-9a2f-e329d8ea7cd8",
+      "files": [
+        "037 protokoll 09.01.2012.doc"
+      ]
+    }
+  ],
+  "uuid": "b12af0cd-7c4f-4c73-8a12-6e0c1fdd5f86",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b12af0cd-7c4f-4c73-8a12-6e0c1fdd5f86)",
+  "source": "https://api.riigikogu.ee/api/volumes/b12af0cd-7c4f-4c73-8a12-6e0c1fdd5f86",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-01-01&endDate=2012-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
