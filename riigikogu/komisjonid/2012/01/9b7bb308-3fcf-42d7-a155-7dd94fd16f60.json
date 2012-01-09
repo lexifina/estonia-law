@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 9.01.2012 14:00",
+  "sitting_time": "2012-01-09T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade Riigikontrolli 2012. aasta tööplaani kohta;",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "61b09e2f-2790-4bd1-a5e0-351458461fd1"
+    },
+    {
+      "order": 2,
+      "title": "Inormatsioon;",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "19a07225-80d3-460d-913d-00f8d1be9afa"
+    },
+    {
+      "order": 3,
+      "title": "Komisjoni töökorraldus.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e9217c97-1c3f-4afc-8815-f109cd9fb8c0"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "2938d482-cc87-4b5e-bc90-4108f9d9848a",
+      "files": [
+        "Riigieelarve kontrolli komisjoni protokoll 24_09_01_2012.rtf"
+      ]
+    }
+  ],
+  "uuid": "9b7bb308-3fcf-42d7-a155-7dd94fd16f60",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9b7bb308-3fcf-42d7-a155-7dd94fd16f60)",
+  "source": "https://api.riigikogu.ee/api/volumes/9b7bb308-3fcf-42d7-a155-7dd94fd16f60",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-01-01&endDate=2012-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
