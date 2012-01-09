@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung 09.01.2012 kell 11:00",
+  "sitting_time": "2012-01-09T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töönädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "36e4939f-892a-441d-9555-91ea73591c47"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ee4b2c20-e9ad-4ab8-be60-ef35abf84c85"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Kultuurikomisjoni protokoll nr 39",
+      "uuid": "61565dd7-f9a6-4e81-b9d8-4bc97c65d7d8",
+      "files": [
+        "prot 39.doc"
+      ]
+    }
+  ],
+  "uuid": "9586e841-edf9-a0be-7774-b2adbcedd4c4",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9586e841-edf9-a0be-7774-b2adbcedd4c4)",
+  "source": "https://api.riigikogu.ee/api/volumes/9586e841-edf9-a0be-7774-b2adbcedd4c4",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-01-01&endDate=2012-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
