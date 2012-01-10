@@ -1,0 +1,33 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 10.01.2012 14:00",
+  "sitting_time": "2012-01-10T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kinnisasja omandamise kitsendamise seadus (108 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dbaaee59-e129-47d3-a975-695e9d3c373c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "db2e17c6-33b8-4ded-bf34-234519bf9913",
+      "files": [
+        "038 protokoll 10.01.2012.doc"
+      ]
+    }
+  ],
+  "uuid": "3fa5036d-d552-499c-9ad3-8e3b00f574b0",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3fa5036d-d552-499c-9ad3-8e3b00f574b0)",
+  "source": "https://api.riigikogu.ee/api/volumes/3fa5036d-d552-499c-9ad3-8e3b00f574b0",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-01-01&endDate=2012-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
