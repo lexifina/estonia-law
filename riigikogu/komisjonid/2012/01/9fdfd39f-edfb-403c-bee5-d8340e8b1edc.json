@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung teisipäev, 10.01.2012 14:00",
+  "sitting_time": "2012-01-10T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigihangete seaduse muutmise seaduse eelnõu (113 SE I) arutelu 2. lugemisele saatmiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a3f9d42e-78fa-4392-af07-b0bb2568817d"
+    },
+    {
+      "order": 2,
+      "title": "Maakondliku bussiliikluse korralduse kavandatavad muudatused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d2ce6d55-93f4-44f3-983a-067bdcaaf939"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "436844e7-dd7e-4516-8865-0bbcd76c9ff1"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "382c4630-422a-4c34-89f1-10d9d27b33dc",
+      "files": [
+        "10.01.2012 protokoll nr 56.doc"
+      ]
+    }
+  ],
+  "uuid": "9fdfd39f-edfb-403c-bee5-d8340e8b1edc",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9fdfd39f-edfb-403c-bee5-d8340e8b1edc)",
+  "source": "https://api.riigikogu.ee/api/volumes/9fdfd39f-edfb-403c-bee5-d8340e8b1edc",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-01-01&endDate=2012-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
