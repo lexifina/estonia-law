@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung, esmaspäev 16.01.2012 kell 11:00",
+  "sitting_time": "2012-01-16T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väliskomisjoni III istungjärgu 2. töönädala töökava kinnitamine.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "675c847b-3b22-4052-aa8c-1f3ca169b9b0"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu väliskomisjoni Aasia-strateegia kuulamised: Ülevaade majandus- ja kommunikatsiooniministeeriumi Aasia programmi planeeritud tegevustest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "12cf84be-8ded-4892-97c5-16fad3694674"
+    },
+    {
+      "order": 3,
+      "title": "Väliskomisjoni III istungjärgu töökava arutamine.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "de940706-99be-44d1-b18f-0a37cd850986"
+    },
+    {
+      "order": 4,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "22eefd8c-670f-4c72-b236-da1ef6d4043c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Väliskomisjoni istungi protokoll nr 59 16.01.2012",
+      "uuid": "b4027153-1589-41e1-a698-6bbea8196135",
+      "files": [
+        "16.01.2012 (59) protokoll.doc"
+      ]
+    }
+  ],
+  "uuid": "8d20a84f-44bc-fa40-0ca3-b19682c1869b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8d20a84f-44bc-fa40-0ca3-b19682c1869b)",
+  "source": "https://api.riigikogu.ee/api/volumes/8d20a84f-44bc-fa40-0ca3-b19682c1869b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-01-01&endDate=2012-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
