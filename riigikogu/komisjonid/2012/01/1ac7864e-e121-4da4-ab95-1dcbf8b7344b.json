@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung teisipäev, 17.01.2012 14:30",
+  "sitting_time": "2012-01-17T14:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Pöyry raporti „Eesti gaasituru liberaliseerimine“ tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "093c0f11-7dae-48b1-8b1a-0c7ed9eb330d"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "39847151-98a7-4426-981a-e129a3d4ab0c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "203c9d13-8537-4163-a03a-23a6ac47eda6",
+      "files": [
+        "17.01.2012 nr 58.doc"
+      ]
+    }
+  ],
+  "uuid": "1ac7864e-e121-4da4-ab95-1dcbf8b7344b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 1ac7864e-e121-4da4-ab95-1dcbf8b7344b)",
+  "source": "https://api.riigikogu.ee/api/volumes/1ac7864e-e121-4da4-ab95-1dcbf8b7344b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-01-01&endDate=2012-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
