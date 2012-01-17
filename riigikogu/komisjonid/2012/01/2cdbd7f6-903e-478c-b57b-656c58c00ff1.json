@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung teisipäev, 17.01.2012 14:00",
+  "sitting_time": "2012-01-17T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Elektroonilise hääletamise töögrupi ettepanekute, mis puudutavad auditeerimist ja verifitseerimist, arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d861fa49-54b6-42bd-ae5d-83925862f892"
+    },
+    {
+      "order": 2,
+      "title": "Õiguskantsleri seaduse muutmise seaduse eelnõu algatamise arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "021d3f49-636a-4644-8b14-82ec3c241556"
+    },
+    {
+      "order": 3,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9e7d6bdd-d010-4d2d-8dbd-527bf6b601a4"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Põhiseaduskomisjoni itsungi protokoll nr 42",
+      "uuid": "58114878-ff74-456e-9c34-d9008a82d192",
+      "files": [
+        "protocol.rtf"
+      ]
+    }
+  ],
+  "uuid": "2cdbd7f6-903e-478c-b57b-656c58c00ff1",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2cdbd7f6-903e-478c-b57b-656c58c00ff1)",
+  "source": "https://api.riigikogu.ee/api/volumes/2cdbd7f6-903e-478c-b57b-656c58c00ff1",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-01-01&endDate=2012-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
