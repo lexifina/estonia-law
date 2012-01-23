@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung esmaspäev, 23.01.2012 11:00",
+  "sitting_time": "2012-01-23T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töönädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2d1ed7ca-778f-4914-9e87-a9a09d595dec"
+    },
+    {
+      "order": 2,
+      "title": "Ülikooliseaduse, rakenduskõrgkooli seaduse ja teiste seaduste muutmise seadus (89 SE II) - teise lugemise tekst, seletuskiri  ja muudatusettepanekute tabel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f3b4edef-2f67-492e-9d08-79cbdb373064"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e8be6963-6897-48fa-a4cf-18acdc9ad254"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll nr 45",
+      "uuid": "ffdb4948-c34d-4399-9279-40a1cc32ff88",
+      "files": [
+        "prot 45.doc"
+      ]
+    }
+  ],
+  "uuid": "f3566a81-39d1-406b-aba0-afc63f6c3d50",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f3566a81-39d1-406b-aba0-afc63f6c3d50)",
+  "source": "https://api.riigikogu.ee/api/volumes/f3566a81-39d1-406b-aba0-afc63f6c3d50",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-01-01&endDate=2012-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
