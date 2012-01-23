@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 23.01.2012 11:00",
+  "sitting_time": "2012-01-23T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0aa47de8-5ba7-4a2e-95b3-1987657f6404"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine Eesti Hobusekasvatajate Seltsi esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "75850cb8-3b72-4129-b636-d48be533c8e5"
+    },
+    {
+      "order": 3,
+      "title": "Kinnisasja omandamise kitsendamise seadus (108 SE II)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "008f5349-66e5-430f-948e-a15b1c34df35"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "48f46481-1f72-486a-80e6-be6db021e95b",
+      "files": [
+        "041 protokoll 23.01.2012.rtf"
+      ]
+    }
+  ],
+  "uuid": "a2ecc90d-c1f4-4cf3-90ba-b2fb5f0e8190",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a2ecc90d-c1f4-4cf3-90ba-b2fb5f0e8190)",
+  "source": "https://api.riigikogu.ee/api/volumes/a2ecc90d-c1f4-4cf3-90ba-b2fb5f0e8190",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-01-01&endDate=2012-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
