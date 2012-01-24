@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung teisipäev, 24.01.2012 14:30",
+  "sitting_time": "2012-01-24T14:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9540936d-2156-4329-9451-6ec9855331d6"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine AS Eesti Raudtee ning Majandus- ja Kommunikatsiooniministeeriumi esindajatega.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e0b783b1-f731-45cf-8fef-7b9b97f14ce9"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "298eada3-be91-4a78-979a-40b7669a9dfb"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "377eadb1-06c4-46e0-b125-f6be0688fe5b",
+      "files": [
+        "24.01.2012 nr 59.doc"
+      ]
+    }
+  ],
+  "uuid": "8ea8c436-8d5e-4520-9ef0-2b41cd4753ce",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8ea8c436-8d5e-4520-9ef0-2b41cd4753ce)",
+  "source": "https://api.riigikogu.ee/api/volumes/8ea8c436-8d5e-4520-9ef0-2b41cd4753ce",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-01-01&endDate=2012-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
