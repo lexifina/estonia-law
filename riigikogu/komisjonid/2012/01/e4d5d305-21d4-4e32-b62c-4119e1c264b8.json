@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung neljapäev 26.01.2012 13:00",
+  "sitting_time": "2012-01-26T13:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Olukorra pingestumine Pärsia lahel seoses Iraani tegevusega.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5f5997c1-e0be-4807-b5ab-263bb9cce8b0"
+    },
+    {
+      "order": 2,
+      "title": "Eesti ettevõtjate ettepanekud ekspordi arendamiseks.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ee5f397f-7418-4fbf-9588-bcb370e5ed5b"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d4b9fdc1-f317-4b28-88fb-d5efa5a66912"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Väliskomisjoni istungi protokoll nr 63",
+      "uuid": "a9464c76-cfed-4a70-b0e6-3e52ff03fc61",
+      "files": [
+        "26.01.2012 (63) protokoll.doc"
+      ]
+    }
+  ],
+  "uuid": "e4d5d305-21d4-4e32-b62c-4119e1c264b8",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e4d5d305-21d4-4e32-b62c-4119e1c264b8)",
+  "source": "https://api.riigikogu.ee/api/volumes/e4d5d305-21d4-4e32-b62c-4119e1c264b8",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-01-01&endDate=2012-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
