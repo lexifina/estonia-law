@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung esmaspäev, 6.02.2012 11:00",
+  "sitting_time": "2012-02-06T11:06:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7a71490f-b89f-4541-a2c0-375155c561b6"
+    },
+    {
+      "order": 2,
+      "title": "Arvamuse andmine õiguskomisjonile kollektiivlepingu seaduse muutmise seaduse eelnõu (153 SE) kohta",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "23165fb0-13d6-4ed8-a92e-ff70f72cbc62"
+    },
+    {
+      "order": 3,
+      "title": "Psühhiaatrilise abi seaduse muutmise seadus (86 SE III)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "69786dc5-165a-4003-828b-ebecd10d3e05"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "ecc5182f-fb0b-438b-bd52-6e341f227d2d",
+      "files": [
+        "protocol.rtf"
+      ]
+    }
+  ],
+  "uuid": "3256f8a7-d52f-4daa-a84c-b014a4304a60",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3256f8a7-d52f-4daa-a84c-b014a4304a60)",
+  "source": "https://api.riigikogu.ee/api/volumes/3256f8a7-d52f-4daa-a84c-b014a4304a60",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-02-01&endDate=2012-02-29",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
