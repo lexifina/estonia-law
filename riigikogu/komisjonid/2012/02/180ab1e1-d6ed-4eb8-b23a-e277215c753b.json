@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Õiguskomisjoni istung 06.02.2012",
+  "sitting_time": "2012-02-06T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töönädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "df09aeee-a773-48ca-8513-bae4c1b7b912"
+    },
+    {
+      "order": 2,
+      "title": "Karistusseadustiku ja sellega seonduvate seaduste muutmise seadus (140 SE II)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "379c93ae-c375-44d2-a716-47dfe95facf6"
+    },
+    {
+      "order": 3,
+      "title": "Riigikogu otsus \"Riikliku VEB Fondi sertifikaatidega tagatud nõuete hüvitamine\" (130 OE II)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d08dc29f-5600-4e30-9cff-d267dffd3caf"
+    },
+    {
+      "order": 4,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6f615718-6547-44fd-9954-c8a84560bc08"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "protokoll",
+      "uuid": "31e9ecee-d054-465e-9770-cb96f8241665",
+      "files": [
+        "protokoll 06.02.2012.docx.rtf"
+      ]
+    }
+  ],
+  "uuid": "180ab1e1-d6ed-4eb8-b23a-e277215c753b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 180ab1e1-d6ed-4eb8-b23a-e277215c753b)",
+  "source": "https://api.riigikogu.ee/api/volumes/180ab1e1-d6ed-4eb8-b23a-e277215c753b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-02-01&endDate=2012-02-29",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
