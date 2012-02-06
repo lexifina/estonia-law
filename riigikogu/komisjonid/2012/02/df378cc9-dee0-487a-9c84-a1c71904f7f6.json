@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 6.02.2012",
+  "sitting_time": "2012-02-06T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3a91e033-2df6-4a89-b159-b6804b83fcc2"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli auditiaruande „Euroopa Liidu toetuste kasutamine valdade ja linnade sotsiaalse taristu arendamisel“ arutelu;",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "06f77b25-f95a-4418-b5d8-f9d735b4a799"
+    },
+    {
+      "order": 3,
+      "title": "Informatsioon.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "94e6508f-e4b7-484a-b04c-14c3b6fa79aa"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "cb5631d1-ef5c-4883-9077-db56ac3b9755",
+      "files": [
+        "protokoll 29 06 02 12.rtf"
+      ]
+    }
+  ],
+  "uuid": "df378cc9-dee0-487a-9c84-a1c71904f7f6",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid df378cc9-dee0-487a-9c84-a1c71904f7f6)",
+  "source": "https://api.riigikogu.ee/api/volumes/df378cc9-dee0-487a-9c84-a1c71904f7f6",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-02-01&endDate=2012-02-29",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
