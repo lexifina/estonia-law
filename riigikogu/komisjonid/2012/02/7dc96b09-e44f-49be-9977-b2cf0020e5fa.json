@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung teisipäev, 7.02.2012 14:00",
+  "sitting_time": "2012-02-07T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väljasõiduistung AS-i Tallinna Sadam: Muuga sadama külastus.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ccbf53d1-a7e5-4bba-aff3-27a7e69eb909"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7c7e177c-0d81-4c1e-a8e9-557b3256e332"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "829930cd-fd0f-4573-af2c-8f10cbf92521",
+      "files": [
+        "protocol-1.doc"
+      ]
+    }
+  ],
+  "uuid": "7dc96b09-e44f-49be-9977-b2cf0020e5fa",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7dc96b09-e44f-49be-9977-b2cf0020e5fa)",
+  "source": "https://api.riigikogu.ee/api/volumes/7dc96b09-e44f-49be-9977-b2cf0020e5fa",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-02-01&endDate=2012-02-29",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
