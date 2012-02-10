@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung reede, 10.02.2012 10:00",
+  "sitting_time": "2012-02-10T10:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Euroopa Liidu asjade komisjoni, rahanduskomisjoni ja majanduskomisjoni avalik ühisistung. Teema: Euroala tuleviku arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0dcde8fa-569c-418c-a947-312e55503d7a"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "74bb5307-3a4b-423d-82d6-350bba24893b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "5e32dc14-22df-43b3-b93c-0c6173e45da7",
+      "files": [
+        "protocol-2.doc"
+      ]
+    }
+  ],
+  "uuid": "5c276915-9873-42f0-8af6-442716376ec7",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 5c276915-9873-42f0-8af6-442716376ec7)",
+  "source": "https://api.riigikogu.ee/api/volumes/5c276915-9873-42f0-8af6-442716376ec7",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-02-01&endDate=2012-02-29",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
