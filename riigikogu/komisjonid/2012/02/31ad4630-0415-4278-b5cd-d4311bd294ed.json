@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung esmaspäev, 13.02.2012 kell 11:00",
+  "sitting_time": "2012-02-13T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7885ea49-f994-42f1-9ecf-c2380212c2e7"
+    },
+    {
+      "order": 2,
+      "title": "Uue töövõimetuskindlustuse süsteemi tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "be3355c2-c134-4f61-bcc8-1706de4ed251"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3df29662-0d88-4aca-acfa-1072ae96ad3a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "65ecd719-320b-4724-a121-60a465c683ea",
+      "files": [
+        "protocol.rtf"
+      ]
+    }
+  ],
+  "uuid": "31ad4630-0415-4278-b5cd-d4311bd294ed",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 31ad4630-0415-4278-b5cd-d4311bd294ed)",
+  "source": "https://api.riigikogu.ee/api/volumes/31ad4630-0415-4278-b5cd-d4311bd294ed",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-02-01&endDate=2012-02-29",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
