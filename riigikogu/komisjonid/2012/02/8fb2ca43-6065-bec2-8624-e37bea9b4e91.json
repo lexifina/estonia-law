@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung 13.02.2012",
+  "sitting_time": "2012-02-13T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikaitsekomisjoni nädala töökava",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "01fd6879-6062-f1fa-b826-4a3d3d2c00ca"
+    },
+    {
+      "order": 2,
+      "title": "Venemaa riigikaitse reformimine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "80c1d249-9b42-4b0e-bd35-a904e7ac2f2d"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1dae9b7a-339d-41dc-86f0-ec4c95a570fe"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "b4d76c01-5144-43c4-9de8-a7bf5f83fd13",
+      "files": [
+        "13.02.12_57.rtf"
+      ]
+    }
+  ],
+  "uuid": "8fb2ca43-6065-bec2-8624-e37bea9b4e91",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8fb2ca43-6065-bec2-8624-e37bea9b4e91)",
+  "source": "https://api.riigikogu.ee/api/volumes/8fb2ca43-6065-bec2-8624-e37bea9b4e91",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-02-01&endDate=2012-02-29",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
