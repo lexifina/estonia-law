@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung esmaspäev, 13.02.2012 11:00",
+  "sitting_time": "2012-02-13T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töönädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d87dbbc9-567a-4989-8d16-d3b5bb213f4d"
+    },
+    {
+      "order": 2,
+      "title": "Justiitsministri kuulamine  \"Kriminaalpoliitika arengusuunad aastani 2018\" 2011. aasta täitmise aruanne.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c596e4cb-e28b-4e72-ad25-147248b5f789"
+    },
+    {
+      "order": 3,
+      "title": "Kollektiivlepingu seaduse muutmise seadus (153 SE II)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1e10c780-48e5-4cea-8711-ff7b006dae4d"
+    },
+    {
+      "order": 4,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "56ddc74e-78ab-4bcd-a5f3-657d9e22004b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "protokoll",
+      "uuid": "181e20b5-d1fb-43a4-8269-dace47910f94",
+      "files": [
+        "protokoll 13.02.2012.odt"
+      ]
+    }
+  ],
+  "uuid": "bea4f075-3b78-4081-881c-9508cc7b8834",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid bea4f075-3b78-4081-881c-9508cc7b8834)",
+  "source": "https://api.riigikogu.ee/api/volumes/bea4f075-3b78-4081-881c-9508cc7b8834",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-02-01&endDate=2012-02-29",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
