@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung esmaspäev, 13.02.2012 11:00",
+  "sitting_time": "2012-02-13T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala (13.02.12-19.02.12) töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4f192463-703c-4ec6-a96d-443f62eeb4bf"
+    },
+    {
+      "order": 2,
+      "title": "20 aastat jätkusuutliku arengu mõtestamist ja lahenduste otsinguid, K. Petersoni säästva arengu teemalise ettekande kuulamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f5af62eb-b0dd-4aeb-9708-70687579f079"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "73d90d4e-dfff-4a12-8bb7-f81c7e8cc75b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "09931118-598a-47c9-9457-526ec93d6309",
+      "files": [
+        "prot38 13.02.12.doc"
+      ]
+    }
+  ],
+  "uuid": "3d5906fd-8efb-4c43-a444-708c53e737cd",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3d5906fd-8efb-4c43-a444-708c53e737cd)",
+  "source": "https://api.riigikogu.ee/api/volumes/3d5906fd-8efb-4c43-a444-708c53e737cd",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-02-01&endDate=2012-02-29",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
