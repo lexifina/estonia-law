@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung 14.02.2012 kell 14",
+  "sitting_time": "2012-02-14T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kaitseväeteenistuse seaduse eelnõu (172 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "07389853-fc04-4bb8-9160-b37b1ddc84e4"
+    },
+    {
+      "order": 2,
+      "title": "Kaitseväeteenistuse seaduse rakendamise seaduse eelnõu (173 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3c5fd123-f424-41d2-90f0-dd4f3c80f07e"
+    },
+    {
+      "order": 3,
+      "title": "Kaitseväeteenistuse seadusega seotud Riigikogu koosseisu häälteenamusega vastuvõetud seaduste muutmise seaduse eelnõu (174 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e30476fb-45f6-4e07-a03d-5ed56d7cb036"
+    },
+    {
+      "order": 4,
+      "title": "Riigikaitsekomisjoni visiit Afganistani 26.01.- 04.02.2012",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "30db64e0-e359-4643-9971-565785a19be3"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "e7336f72-0f5f-4a21-aefb-d69f804b111d",
+      "files": [
+        "14.02.12_58.rtf"
+      ]
+    }
+  ],
+  "uuid": "064e0c14-794a-44a8-8cdb-9f0013a8521f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 064e0c14-794a-44a8-8cdb-9f0013a8521f)",
+  "source": "https://api.riigikogu.ee/api/volumes/064e0c14-794a-44a8-8cdb-9f0013a8521f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-02-01&endDate=2012-02-29",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
