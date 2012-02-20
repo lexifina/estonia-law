@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung esmaspäev, 20.02.2012 11:00",
+  "sitting_time": "2012-02-20T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala ( 20.02.12-26.02.12) töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dfbec642-c873-49b7-a3ce-464a2f2adbb1"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade RMK ja SA KIK nõukogu tegevusest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d3ed4a05-ed62-4bad-9e32-112e68d59a2d"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6742fb39-36a5-45f5-b36e-f241cf8f7131"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "43be5317-3ea6-4f28-b956-4c531294e91f",
+      "files": [
+        "prot39 20.02.12.doc"
+      ]
+    }
+  ],
+  "uuid": "0ea76045-bf07-4791-89cc-2ec918974096",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0ea76045-bf07-4791-89cc-2ec918974096)",
+  "source": "https://api.riigikogu.ee/api/volumes/0ea76045-bf07-4791-89cc-2ec918974096",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-02-01&endDate=2012-02-29",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
