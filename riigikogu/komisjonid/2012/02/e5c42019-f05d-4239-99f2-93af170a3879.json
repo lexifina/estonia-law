@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 20.02.2012 13:30",
+  "sitting_time": "2012-02-20T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine;",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1b5e274a-5b60-40dc-b7a4-4961ba1e39c4"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli auditiaruande „Vabadussõja võidusamba rajamise korraldus“ arutelu;",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0a98e563-9d4c-4498-b3aa-d1f2b2bc75c0"
+    },
+    {
+      "order": 3,
+      "title": "Informatsioon.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0cb5205c-d0e6-4d74-8527-9b551b13679a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Riigikontrolli auditiaruande „Vabadussõja võidusamba rajamise korraldus“ arutelu",
+      "uuid": "40429f58-e7f0-4433-a4f3-c311cdbdd032",
+      "files": [
+        "protokoll 33 20 02 12.rtf"
+      ]
+    }
+  ],
+  "uuid": "e5c42019-f05d-4239-99f2-93af170a3879",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e5c42019-f05d-4239-99f2-93af170a3879)",
+  "source": "https://api.riigikogu.ee/api/volumes/e5c42019-f05d-4239-99f2-93af170a3879",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-02-01&endDate=2012-02-29",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
