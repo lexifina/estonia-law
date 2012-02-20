@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung esmaspäev, 20.02.2012 11:00",
+  "sitting_time": "2012-02-20T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "146881e0-d172-4b4a-ad0b-983be4157e19"
+    },
+    {
+      "order": 2,
+      "title": "Parlamentaarne kuulamine: Võltsimisvastase kaubanduslepingu (ACTA) autoriõiguslikud aspektid",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d99b887b-c457-4ba1-8c30-2b0daf496829"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "40a3f1d0-e4e5-4414-aa74-3cd99689e7ed"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Kultuurikomisjoni protokoll nr 49",
+      "uuid": "ded8c613-fa05-47ad-bf76-c620c25c1862",
+      "files": [
+        "prot 49.doc"
+      ]
+    }
+  ],
+  "uuid": "426b0418-162b-497a-9aa6-46cb401f00af",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 426b0418-162b-497a-9aa6-46cb401f00af)",
+  "source": "https://api.riigikogu.ee/api/volumes/426b0418-162b-497a-9aa6-46cb401f00af",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-02-01&endDate=2012-02-29",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
