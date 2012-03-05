@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung esmaspäev, 5.03.2012 11:00",
+  "sitting_time": "2012-03-05T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "360b82d0-9493-4f22-bef1-c5714e8e9a10"
+    },
+    {
+      "order": 2,
+      "title": "Käibemaksuseaduse ja vedelkütuse seaduse muutmise seadus (146 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6fea8d55-7bdd-4ab9-ba71-024ea4bc49bd"
+    },
+    {
+      "order": 3,
+      "title": "Investeerimisfondide seaduse muutmise ja sellega seonduvalt teiste seaduste muutmise seadus (152 SE III)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "937c67f0-6b21-4d45-839b-c78520524c00"
+    },
+    {
+      "order": 4,
+      "title": "Info",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "30faae4d-f23d-4dcf-8c48-6b7d6e71b8bd"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "20120bb2-0255-49fb-8e46-fff78ca6d417",
+      "files": [
+        "RAHKprot58.odt"
+      ]
+    }
+  ],
+  "uuid": "7090f136-11d7-492d-915f-2dbdcc9299cc",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7090f136-11d7-492d-915f-2dbdcc9299cc)",
+  "source": "https://api.riigikogu.ee/api/volumes/7090f136-11d7-492d-915f-2dbdcc9299cc",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-03-01&endDate=2012-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
