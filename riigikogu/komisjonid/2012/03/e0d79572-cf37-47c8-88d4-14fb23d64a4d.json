@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung esmaspäev, 5.03.2012",
+  "sitting_time": "2012-03-05T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d6cc3b8b-ed70-4b3a-9f0d-b41aa9a38da5"
+    },
+    {
+      "order": 2,
+      "title": "Karistusseadustiku ja sellega seonduvate seaduste muutmise seadus (140 SE II)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a59b7c1b-b8ba-4422-b898-6e5a4ea684d3"
+    },
+    {
+      "order": 3,
+      "title": "Kollektiivlepingu seaduse muutmise seadus (153 SE III)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1dcb0811-4c2c-4b4e-b281-ab31bcd5fa55"
+    },
+    {
+      "order": 4,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a93f8494-64f8-4398-972a-992c27ef4874"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "protokoll",
+      "uuid": "81b95031-62ea-41cb-9f3a-574cddd2b21b",
+      "files": [
+        "oik protokoll 05.03.2012.odt"
+      ]
+    }
+  ],
+  "uuid": "e0d79572-cf37-47c8-88d4-14fb23d64a4d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e0d79572-cf37-47c8-88d4-14fb23d64a4d)",
+  "source": "https://api.riigikogu.ee/api/volumes/e0d79572-cf37-47c8-88d4-14fb23d64a4d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-03-01&endDate=2012-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
