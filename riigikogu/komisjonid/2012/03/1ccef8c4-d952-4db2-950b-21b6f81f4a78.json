@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung teisipäev, 6.03.2012",
+  "sitting_time": "2012-03-06T00:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Hasartmänguseaduse muutmise ja sellega seonduvalt teiste seaduste muutmise seadus (88 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c1fb5203-929b-4849-b3e2-100a99994cc1"
+    },
+    {
+      "order": 2,
+      "title": "Transpordi arengukava rakendusplaani 2012-2013 tutvustus.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1b3d1417-7ecb-4285-a856-d595b0b9e32c"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e4560d20-9496-4f50-9dd4-3a6b367894df"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAJK protokoll 6.03",
+      "uuid": "f49cc407-4dec-44ad-9d62-e31472f23e7c",
+      "files": [
+        "6.03 nr 70.doc"
+      ]
+    }
+  ],
+  "uuid": "1ccef8c4-d952-4db2-950b-21b6f81f4a78",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 1ccef8c4-d952-4db2-950b-21b6f81f4a78)",
+  "source": "https://api.riigikogu.ee/api/volumes/1ccef8c4-d952-4db2-950b-21b6f81f4a78",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-03-01&endDate=2012-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
