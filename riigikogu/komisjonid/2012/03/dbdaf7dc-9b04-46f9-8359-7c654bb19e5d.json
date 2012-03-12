@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung 12.03.2012 kell 11",
+  "sitting_time": "2012-03-12T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "64357c2d-2b4b-4339-be38-8e26f9e16f20"
+    },
+    {
+      "order": 2,
+      "title": "Kaitseliidu seaduse eelnõu (190 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f013d033-6ae2-4761-b6b3-47a89aaa2db4"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "39c62350-3db5-47af-824f-a27007e0a243"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "49ed46db-92aa-485c-9818-8f451b49d1cf",
+      "files": [
+        "12.03.12_63.rtf"
+      ]
+    }
+  ],
+  "uuid": "dbdaf7dc-9b04-46f9-8359-7c654bb19e5d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid dbdaf7dc-9b04-46f9-8359-7c654bb19e5d)",
+  "source": "https://api.riigikogu.ee/api/volumes/dbdaf7dc-9b04-46f9-8359-7c654bb19e5d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-03-01&endDate=2012-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
