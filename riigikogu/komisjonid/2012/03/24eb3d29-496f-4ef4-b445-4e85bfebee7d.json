@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung esmaspäev, 12.03.2012 kell 11:00",
+  "sitting_time": "2012-03-12T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala (12.03.12-18.03.12) töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "eacf5240-cfe4-4461-a1ec-14ddb4b80d63"
+    },
+    {
+      "order": 2,
+      "title": "Nord Stream gaasijuhtme paigaldamise mõjudest Läänemeres, ettekannete kuulamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b904ae72-7bc9-4bd8-91aa-53c4aaea7b10"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "20465593-34c5-4ce1-9e0a-b59b0f9405eb",
+      "files": [
+        "prot42 12.03.12.doc"
+      ]
+    }
+  ],
+  "uuid": "24eb3d29-496f-4ef4-b445-4e85bfebee7d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 24eb3d29-496f-4ef4-b445-4e85bfebee7d)",
+  "source": "https://api.riigikogu.ee/api/volumes/24eb3d29-496f-4ef4-b445-4e85bfebee7d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-03-01&endDate=2012-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
