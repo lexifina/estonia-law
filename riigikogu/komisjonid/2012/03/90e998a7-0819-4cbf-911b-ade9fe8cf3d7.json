@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 12.03.2012 11:00",
+  "sitting_time": "2012-03-12T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8c987750-b39e-458f-914b-23175cff8e01"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine MTÜ Eesti Maaturism esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0e150061-ecce-45a0-b146-096ca37f6286"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "035018f1-4618-4a68-b37f-f33c7d5d43aa",
+      "files": [
+        "051 protokoll 12.03.2012.rtf"
+      ]
+    }
+  ],
+  "uuid": "90e998a7-0819-4cbf-911b-ade9fe8cf3d7",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 90e998a7-0819-4cbf-911b-ade9fe8cf3d7)",
+  "source": "https://api.riigikogu.ee/api/volumes/90e998a7-0819-4cbf-911b-ade9fe8cf3d7",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-03-01&endDate=2012-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
