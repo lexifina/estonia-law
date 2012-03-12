@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung esmaspäev, 12.03.2012 11:00",
+  "sitting_time": "2012-03-12T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0af65024-d556-4a72-9223-7995a612d5b2"
+    },
+    {
+      "order": 2,
+      "title": "Parlamentaarne kuulamine – Eesti Rahvusringhäälingu 2011. aasta tegevusaruanne ja arengukava",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9d20dff1-6f90-42b7-a082-29b7c9ca2e0f"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f7e1ceab-0c6b-4d60-a3df-822bbe8c7625"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Kultuurikomisjoni protokoll nr 54",
+      "uuid": "f6d7961a-9d93-4b5d-8785-5a4b3143bd08",
+      "files": [
+        "prot 54.doc"
+      ]
+    }
+  ],
+  "uuid": "986b42af-9aba-42fb-a284-b28393ff00c8",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 986b42af-9aba-42fb-a284-b28393ff00c8)",
+  "source": "https://api.riigikogu.ee/api/volumes/986b42af-9aba-42fb-a284-b28393ff00c8",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-03-01&endDate=2012-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
