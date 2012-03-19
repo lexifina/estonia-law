@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung esmaspäev, 19.03.2012 11:00",
+  "sitting_time": "2012-03-19T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9cb15fe8-5e71-480f-8ae0-cb5876b3cee6"
+    },
+    {
+      "order": 2,
+      "title": "Parlamentaarne kuulamine - Riigikontrolli audit „Riigi tegevus teadus- ja arendustegevuse võtmevaldkondade edendamisel“",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3a93a95c-7f4e-4637-b047-897bcd0d68ee"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "35f403d3-1b06-410d-923c-ace61ad14dea"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Kultuurikomisjoni protokoll nr 55",
+      "uuid": "e70f8bd0-dd1b-411f-bb2b-65945fdf056a",
+      "files": [
+        "prot 55.doc"
+      ]
+    }
+  ],
+  "uuid": "be4fc3f1-6b10-4473-9fde-a7c10d97c6ad",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid be4fc3f1-6b10-4473-9fde-a7c10d97c6ad)",
+  "source": "https://api.riigikogu.ee/api/volumes/be4fc3f1-6b10-4473-9fde-a7c10d97c6ad",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-03-01&endDate=2012-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
