@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung teisipäev, 6.03.2012 14:00 peab olema 19.03",
+  "sitting_time": "2012-03-19T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f8c76084-337a-44b7-86c1-f02809496c95"
+    },
+    {
+      "order": 2,
+      "title": "Eesti metsanduse arengukava aastani 2020, täitmise vahearuande kuulamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2655b782-43c9-48ad-a657-a66ee5ef6657"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "b76ad471-4cf6-4eb5-9218-af214365b5b2",
+      "files": [
+        "prot44 19.03.12.doc"
+      ]
+    }
+  ],
+  "uuid": "d83f1e0e-d20e-49db-814a-2349d8e7deb3",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d83f1e0e-d20e-49db-814a-2349d8e7deb3)",
+  "source": "https://api.riigikogu.ee/api/volumes/d83f1e0e-d20e-49db-814a-2349d8e7deb3",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-03-01&endDate=2012-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
