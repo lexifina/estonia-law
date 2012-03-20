@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Majanduskomisjoni ja õiguskomisjoni ühisistung teisipäev, 20.03.2012",
+  "sitting_time": "2012-03-20T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ühisistung õiguskomisjoniga kiirlaenude teemal.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fcbc6db5-784d-4341-a486-a191ee1eeefa"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2d2b1ff2-5766-435f-b5d1-a22aadc13a83"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "f603a4b6-250f-4f0c-beab-4b896eb3e505",
+      "files": [
+        "20.03 nr 75.doc"
+      ]
+    }
+  ],
+  "uuid": "297fe40c-6d21-4ed3-8f7d-56098d5164ca",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 297fe40c-6d21-4ed3-8f7d-56098d5164ca)",
+  "source": "https://api.riigikogu.ee/api/volumes/297fe40c-6d21-4ed3-8f7d-56098d5164ca",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-03-01&endDate=2012-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
