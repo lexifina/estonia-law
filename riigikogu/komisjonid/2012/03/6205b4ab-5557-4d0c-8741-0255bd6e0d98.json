@@ -1,0 +1,33 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 20.03.2012 14:00",
+  "sitting_time": "2012-03-20T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti metsanduse olukorrast",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "26e91ca6-0ab6-40ba-97ce-a1d7438b80c5"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "51a130b7-cac7-4958-9d53-d9c7f776fa9b",
+      "files": [
+        "054 protokoll 20.03.2012.rtf"
+      ]
+    }
+  ],
+  "uuid": "6205b4ab-5557-4d0c-8741-0255bd6e0d98",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 6205b4ab-5557-4d0c-8741-0255bd6e0d98)",
+  "source": "https://api.riigikogu.ee/api/volumes/6205b4ab-5557-4d0c-8741-0255bd6e0d98",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-03-01&endDate=2012-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
