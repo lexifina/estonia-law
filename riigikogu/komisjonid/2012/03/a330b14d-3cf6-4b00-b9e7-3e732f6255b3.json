@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung teisipäev, 20.03.2012 14:00",
+  "sitting_time": "2012-03-20T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kaitseväeteenistuse seaduse eelnõu (172 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "18ae5983-77f9-4faf-8480-e1c713cd03c4"
+    },
+    {
+      "order": 2,
+      "title": "Kaitseväeteenistuse seaduse rakendamise seaduse eelnõu (173 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cc35cf15-2871-4f14-b4d6-1dc8ea4f7202"
+    },
+    {
+      "order": 3,
+      "title": "Kaitseväeteenistuse seadusega seotud Riigikogu koosseisu häälteenamusega vastuvõetud seaduste muutmise seaduse eelnõu (174 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5649ad26-1d5a-4b26-b395-c59eb0498bd8"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "9c4a4682-7e08-49c4-80db-125835cf8905",
+      "files": [
+        "20.03.12_66.rtf"
+      ]
+    }
+  ],
+  "uuid": "a330b14d-3cf6-4b00-b9e7-3e732f6255b3",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a330b14d-3cf6-4b00-b9e7-3e732f6255b3)",
+  "source": "https://api.riigikogu.ee/api/volumes/a330b14d-3cf6-4b00-b9e7-3e732f6255b3",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-03-01&endDate=2012-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
