@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 02.04.2012 14:00",
+  "sitting_time": "2012-04-02T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "05210052-e8b1-4640-9be0-47fd30e0ebc4"
+    },
+    {
+      "order": 2,
+      "title": "Keskkonnatasude seaduse muutmise seadus (187 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "54f4481d-e115-486e-b0ab-b58eba886e08"
+    },
+    {
+      "order": 3,
+      "title": "Eesti, Läti ja Leedu sõsarkomisjonide kohtumise ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2b6ed288-328b-43e4-9e27-027358628ba9"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "2a63ae74-7278-45d6-933d-d1c5d6173aa5",
+      "files": [
+        "055 protokoll 02.04.2012.rtf"
+      ]
+    }
+  ],
+  "uuid": "680a4b9c-2574-40b1-bfb1-883125166cf2",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 680a4b9c-2574-40b1-bfb1-883125166cf2)",
+  "source": "https://api.riigikogu.ee/api/volumes/680a4b9c-2574-40b1-bfb1-883125166cf2",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-04-01&endDate=2012-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
