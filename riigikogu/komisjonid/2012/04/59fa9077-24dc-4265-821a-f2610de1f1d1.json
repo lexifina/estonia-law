@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 2.04.2012 13:30",
+  "sitting_time": "2012-04-02T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine;",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "15a9248b-411a-428a-8f02-11ba92902744"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli auditiaruande „Riigi tegevus teadus- ja arendustegevuse võtmevaldkondade edendamisel“ arutelu.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a03357b7-5915-4e44-8ef2-334f4c34018d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Riigikontrolli auditiaruande „Riigi tegevus teadus- ja arendustegevuse võtmevaldkondade edendamisel“ arutelu",
+      "uuid": "8c8af2c8-09c8-480f-8897-14c67c109a72",
+      "files": [
+        "protokoll 40 02 04 2012.rtf"
+      ]
+    }
+  ],
+  "uuid": "59fa9077-24dc-4265-821a-f2610de1f1d1",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 59fa9077-24dc-4265-821a-f2610de1f1d1)",
+  "source": "https://api.riigikogu.ee/api/volumes/59fa9077-24dc-4265-821a-f2610de1f1d1",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-04-01&endDate=2012-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
