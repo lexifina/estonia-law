@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung 09.04.2012 kell 11",
+  "sitting_time": "2012-04-09T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0dcdfc16-ff91-0c69-828e-f39ea88c9b1a"
+    },
+    {
+      "order": 2,
+      "title": "Kaitseväeteenistuse seaduse eelnõu (172 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "266d6089-8439-412c-9695-0578e4810622"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "07239221-cc0a-4caf-93d4-20763a6eba1d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "1ee30803-935a-4314-bd89-24c9ec55ebb5",
+      "files": [
+        "09.04.12_70.rtf"
+      ]
+    }
+  ],
+  "uuid": "cb8a5cd6-f343-e956-814c-825813cdc136",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid cb8a5cd6-f343-e956-814c-825813cdc136)",
+  "source": "https://api.riigikogu.ee/api/volumes/cb8a5cd6-f343-e956-814c-825813cdc136",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-04-01&endDate=2012-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
