@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 9.04.2012 13:00",
+  "sitting_time": "2012-04-09T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine;",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "143fb6a1-5534-49e3-a0e4-06b816531394"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade Rahandusministeeriumi 2012. aasta kevadisest majandusprognoosist.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3aa5a539-5471-4f3e-8999-2fe7faa89970"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Ülevaade Rahandusministeeriumi 2012. aasta kevadisest majandusprognoosist",
+      "uuid": "77a54a42-4a2a-4615-8e99-ea416f3afb15",
+      "files": [
+        "protokoll 42 09 04 2012.rtf"
+      ]
+    }
+  ],
+  "uuid": "6a1cef84-dac3-4783-8910-5e2e085cda22",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 6a1cef84-dac3-4783-8910-5e2e085cda22)",
+  "source": "https://api.riigikogu.ee/api/volumes/6a1cef84-dac3-4783-8910-5e2e085cda22",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-04-01&endDate=2012-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
