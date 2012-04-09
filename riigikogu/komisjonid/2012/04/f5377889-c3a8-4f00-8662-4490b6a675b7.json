@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 9.04.2012 11:00",
+  "sitting_time": "2012-04-09T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "758099c0-6c47-4672-8da5-0b88b5503f12"
+    },
+    {
+      "order": 2,
+      "title": "Ühisistung Riigikogu keskkonnakomisjoniga. Riigikontrolli kontrolliaruanne \"Peipsi järve seisundi parandamise meetmete tulemuslikkus\"",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "53b28183-eea6-4f28-9c3d-047cbed1cedd"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "dbee1973-8c9e-4e06-b753-94bc5d539391",
+      "files": [
+        "057 protokoll 09.04.2012.rtf"
+      ]
+    }
+  ],
+  "uuid": "f5377889-c3a8-4f00-8662-4490b6a675b7",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f5377889-c3a8-4f00-8662-4490b6a675b7)",
+  "source": "https://api.riigikogu.ee/api/volumes/f5377889-c3a8-4f00-8662-4490b6a675b7",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-04-01&endDate=2012-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
