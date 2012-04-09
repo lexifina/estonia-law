@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung esmaspäev, 9.04.2012 11:00",
+  "sitting_time": "2012-04-09T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "02c9e26b-0783-4cc8-9cbd-c74f602cde00"
+    },
+    {
+      "order": 2,
+      "title": "Olulise tähtsusega riikliku küsimuse ettevalmistamine- Euroopa Komisjoni tellimusel läbiviidud uuringu tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "49a24945-12f6-4420-9eb5-69de7381d3e0"
+    },
+    {
+      "order": 3,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7023a9c9-4b40-4f4a-9600-842987171621"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "5ff3efa1-0a8e-4274-9c66-409921d5738b",
+      "files": [
+        "protocol.rtf"
+      ]
+    }
+  ],
+  "uuid": "c4017a9e-d8b3-45b0-95f5-cd8abe9284ca",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c4017a9e-d8b3-45b0-95f5-cd8abe9284ca)",
+  "source": "https://api.riigikogu.ee/api/volumes/c4017a9e-d8b3-45b0-95f5-cd8abe9284ca",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-04-01&endDate=2012-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
