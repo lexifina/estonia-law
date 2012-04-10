@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung teisipäev, 10.04.2012 14:00",
+  "sitting_time": "2012-04-10T14:03:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Erakonnaseaduse muutmise seaduse eelnõu algatamise arutelu (ERJK liikmetele tasu määramine)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7fbbe665-7111-4cdf-8caf-b5cc1aaf9345"
+    },
+    {
+      "order": 2,
+      "title": "Avaliku teenistuse seadus (193 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e929efe7-62b8-4497-a3c7-7c0a539ec19c"
+    },
+    {
+      "order": 3,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d8007b67-8089-4dfa-83ab-d6bbcf785fd1"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "protokoll",
+      "uuid": "e7b689ee-6bd6-4f12-bfd7-fa9a4dec46a7",
+      "files": [
+        "2012.04.10.doc"
+      ]
+    }
+  ],
+  "uuid": "e60baa85-2a07-4c55-8737-466e6b47d6ad",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e60baa85-2a07-4c55-8737-466e6b47d6ad)",
+  "source": "https://api.riigikogu.ee/api/volumes/e60baa85-2a07-4c55-8737-466e6b47d6ad",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-04-01&endDate=2012-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
