@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung teisipäev, 10.04.2012 13:00",
+  "sitting_time": "2012-04-10T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Arutelu rahanduskomisjonile laekunud maamaksuteemaliste pöördumiste põhjal",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3b11dd50-c712-4b87-86f8-1029497ff8d2"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade  Euroopa Stabiilsusmehhanismi, EFSF-i  ja  Kreeka programmiga seonduvatest arengutest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7abdcb21-1621-4039-8e8b-8d5a07b157fe"
+    },
+    {
+      "order": 3,
+      "title": "Info",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "81027ec8-01a5-4068-8029-591f2f26647e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "d84b20c8-83f1-4dc3-8112-5ddd4d9b2c2c",
+      "files": [
+        "prot64_RAHK.odt"
+      ]
+    }
+  ],
+  "uuid": "77cdf401-f17e-4ce1-9ba4-007a91a60548",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 77cdf401-f17e-4ce1-9ba4-007a91a60548)",
+  "source": "https://api.riigikogu.ee/api/volumes/77cdf401-f17e-4ce1-9ba4-007a91a60548",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-04-01&endDate=2012-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
