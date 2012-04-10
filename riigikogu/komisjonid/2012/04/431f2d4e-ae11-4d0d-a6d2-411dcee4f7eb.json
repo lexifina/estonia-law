@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung teisipäev, 10.04.2012",
+  "sitting_time": "2012-04-10T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtutäituri seaduse § 41 rakendusprobleemid",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5e965bbc-2393-4e5b-9445-d5142631906d"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad Euroopa Liidu Nõukogu määruse Euroopa sihtasutuse (FE) põhikirja kohta eelnõu suhtes.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f448e98c-1fb0-4885-9ca4-0d4e85854ff3"
+    },
+    {
+      "order": 3,
+      "title": "Politsei ja piirivalve seaduse ning meresõidusohutuse seaduse muutmise seadus (158 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "731e2034-b87f-4965-9f5c-b6d37fc31b66"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "protokoll",
+      "uuid": "7a6e62dc-b586-4ef6-a504-8b65ef888a57",
+      "files": [
+        "2012-04-10.odt"
+      ]
+    }
+  ],
+  "uuid": "431f2d4e-ae11-4d0d-a6d2-411dcee4f7eb",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 431f2d4e-ae11-4d0d-a6d2-411dcee4f7eb)",
+  "source": "https://api.riigikogu.ee/api/volumes/431f2d4e-ae11-4d0d-a6d2-411dcee4f7eb",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-04-01&endDate=2012-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
