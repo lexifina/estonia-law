@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung neljapäev, 12.04.2012 13:00",
+  "sitting_time": "2012-04-12T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 18.-19. aprillil 2012 toimuval NATO välisministrite ja kaitseministrite kohtumisel.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "da9618c7-7465-4e7e-a034-32f7dfca9762"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade Riigikogu ja Riigikogu Kantselei välissuhtlemise 2012. aasta eelarve täitmisest ja 2013. aasta eelarve kavandamisest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bfbbda9e-3f20-4e2e-8429-0e612de90b10"
+    },
+    {
+      "order": 4,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0f969044-8b90-43ce-b6f2-cdf0abd04727"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "62cbc2ee-8699-4f8c-8ca7-a617ca857e6f",
+      "files": [
+        "Protokol_20150707.pdf"
+      ]
+    }
+  ],
+  "uuid": "494c95eb-f71c-49d2-b078-277cdee4e048",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 494c95eb-f71c-49d2-b078-277cdee4e048)",
+  "source": "https://api.riigikogu.ee/api/volumes/494c95eb-f71c-49d2-b078-277cdee4e048",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-04-01&endDate=2012-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
