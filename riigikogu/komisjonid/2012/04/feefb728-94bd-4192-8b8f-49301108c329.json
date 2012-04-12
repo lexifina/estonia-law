@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung neljapäev, 12.04.2012",
+  "sitting_time": "2012-04-12T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Raamatupidamise seaduse ja äriseadustiku muutmise seadus (147 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "50c6b511-1763-476c-906a-1a9f674a3fa1"
+    },
+    {
+      "order": 2,
+      "title": "Elektrituruseaduse muutmise ja sellega seonduvalt teiste seaduste muutmise seadus (139 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "11174dad-a3e3-44db-b541-ebe3e5847b47"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "25498112-7548-4099-b525-16e91cf0ab34"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAJK 12.04.2012 nr 81",
+      "uuid": "3713b9f3-4847-4b79-bf1d-8cf84ba1fa2c",
+      "files": [
+        "12.04  protokoll nr 81.doc"
+      ]
+    }
+  ],
+  "uuid": "feefb728-94bd-4192-8b8f-49301108c329",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid feefb728-94bd-4192-8b8f-49301108c329)",
+  "source": "https://api.riigikogu.ee/api/volumes/feefb728-94bd-4192-8b8f-49301108c329",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-04-01&endDate=2012-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
