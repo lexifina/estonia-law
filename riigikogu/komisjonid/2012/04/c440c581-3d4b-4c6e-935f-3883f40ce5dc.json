@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung neljapäev, 12.04.2012 09:00",
+  "sitting_time": "2012-04-12T09:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikontrolli uue auditiaruande tutvustamine;",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fcbf288d-ebcc-4a71-a960-fbbb73cf6766"
+    },
+    {
+      "order": 2,
+      "title": "Informatsioon.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2346a2ac-ad05-4af9-b37e-285e043b20f3"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Riigikontrolli uue auditiaruande tutvustamine",
+      "uuid": "db145c2c-aaff-4aa0-8466-9bd127ccda56",
+      "files": [
+        "protokoll 43 12 04 2012.rtf"
+      ]
+    }
+  ],
+  "uuid": "c440c581-3d4b-4c6e-935f-3883f40ce5dc",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c440c581-3d4b-4c6e-935f-3883f40ce5dc)",
+  "source": "https://api.riigikogu.ee/api/volumes/c440c581-3d4b-4c6e-935f-3883f40ce5dc",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-04-01&endDate=2012-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
