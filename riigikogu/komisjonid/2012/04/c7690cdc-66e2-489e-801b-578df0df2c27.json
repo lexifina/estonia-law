@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 16.04.2012 13:30",
+  "sitting_time": "2012-04-16T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine;",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c9dbb4da-ad9c-4881-ae1a-d65de7610240"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli auditiaruande „Avaliku erasektori koostöö kohalikes omavalitsustes“ arutelu.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "61cacae3-a141-49a8-b97f-90b4d0f32ae9"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Riigikontrolli auditiaruande „Avaliku erasektori koostöö kohalikes omavalitsustes“ arutelu",
+      "uuid": "79164d93-f6c7-4493-901e-34d7393f370a",
+      "files": [
+        "protokoll 44 16 04 2012.rtf"
+      ]
+    }
+  ],
+  "uuid": "c7690cdc-66e2-489e-801b-578df0df2c27",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c7690cdc-66e2-489e-801b-578df0df2c27)",
+  "source": "https://api.riigikogu.ee/api/volumes/c7690cdc-66e2-489e-801b-578df0df2c27",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-04-01&endDate=2012-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
