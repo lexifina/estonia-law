@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung esmaspäev, 16.04.2012 11:00",
+  "sitting_time": "2012-04-16T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väliskomisjoni III istungjärgu 12. töönädala töökava kinnitamine.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f6e01582-167d-43fb-8880-5c0346ca1f1c"
+    },
+    {
+      "order": 2,
+      "title": "Väliskomisjoni Aasia strateegia raporti esimene lugemine, komisjoni liikmete arvamused ja muudatusettepanekud. Raportöör Marko Mihkelson.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6f66ec23-be8f-4811-9061-bd40d46ed529"
+    },
+    {
+      "order": 3,
+      "title": "Eesti seisukohad 23. aprillil 2012 toimuval Euroopa Liidu välisasjade nõukogu istungil.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9efd659c-ff80-447f-b2fa-880396e9507a"
+    },
+    {
+      "order": 4,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6877d8a6-3cc6-447b-bc01-37e9944e82d4"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "f93e6adf-b5e1-44ad-ae0a-fa35559094a8",
+      "files": [
+        "Protokol_20140611.pdf"
+      ]
+    }
+  ],
+  "uuid": "a81453cf-c77c-48fb-9c18-06641205323e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a81453cf-c77c-48fb-9c18-06641205323e)",
+  "source": "https://api.riigikogu.ee/api/volumes/a81453cf-c77c-48fb-9c18-06641205323e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-04-01&endDate=2012-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
