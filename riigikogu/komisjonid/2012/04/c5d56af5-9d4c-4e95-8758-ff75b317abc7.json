@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung neljapäev, 19.04.2012",
+  "sitting_time": "2012-04-19T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kriminaalmenetluse seadustiku muutmise ja sellega seonduvalt teiste seaduste muutmise seadus (175 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b6c0705e-b0e3-454e-927c-cd28ed6128e5"
+    },
+    {
+      "order": 2,
+      "title": "Arvamused Riigikohtule",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "050b0aea-98a7-4492-8798-7716af042374"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "protokoll",
+      "uuid": "c27fcc3b-86bd-42c2-8a7c-1888ad506225",
+      "files": [
+        "2012-04-19.odt"
+      ]
+    }
+  ],
+  "uuid": "c5d56af5-9d4c-4e95-8758-ff75b317abc7",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c5d56af5-9d4c-4e95-8758-ff75b317abc7)",
+  "source": "https://api.riigikogu.ee/api/volumes/c5d56af5-9d4c-4e95-8758-ff75b317abc7",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-04-01&endDate=2012-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
