@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung neljapäev, 3.05.2012 14:00",
+  "sitting_time": "2012-05-03T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "927334bc-8c7f-41cc-9320-d7a89adcef79"
+    },
+    {
+      "order": 2,
+      "title": "Ühisistung Riigikogu keskkonnakomisjoniga. Kohtumine Euroopa Komisjoni merendus- ja kalandusvolinik Maria Damanakiga Euroopa Liidu ühise kalanduspoliitika reformi teemal.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "282d72a2-c1c7-47fe-bc53-c6a53940f3f3"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "78b6ee42-7bb8-48c9-8519-335db90b3065",
+      "files": [
+        "061 protokoll 03.05.2012.rtf"
+      ]
+    }
+  ],
+  "uuid": "e0323d38-d585-4f18-868b-bf81408bc53d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e0323d38-d585-4f18-868b-bf81408bc53d)",
+  "source": "https://api.riigikogu.ee/api/volumes/e0323d38-d585-4f18-868b-bf81408bc53d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-05-01&endDate=2012-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
