@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung neljapäev, 3.05.2012 09:50",
+  "sitting_time": "2012-05-03T09:50:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väärtpaberituru seaduse muutmise seadus (220 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ca78eec2-b15d-4ef1-a7b2-f1a6340e6fde"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu otsus Eesti esindaja nimetamine Põhjamaade Investeerimispanga kontrollkomiteesse (226 OE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "86c33130-1143-404c-957b-3d54da2040ce"
+    },
+    {
+      "order": 3,
+      "title": "Tulumaksuseaduse § 48 muutmise seadus (184 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d1d164a6-c024-4332-835b-f38c3cc5bc1e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK Protokoll 68 03.05.2012",
+      "uuid": "b67d7ad1-6502-4e67-a1cf-3050efc2086b",
+      "files": [
+        "RAHK Protokoll 68 03.05.2012.pdf"
+      ]
+    }
+  ],
+  "uuid": "b8aea151-a13c-4ee9-a78f-29c56c09f9b6",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b8aea151-a13c-4ee9-a78f-29c56c09f9b6)",
+  "source": "https://api.riigikogu.ee/api/volumes/b8aea151-a13c-4ee9-a78f-29c56c09f9b6",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-05-01&endDate=2012-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
