@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung neljapäev, 3.05.2012 09:00",
+  "sitting_time": "2012-05-03T09:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väliskomisjoni III istungjärgu 13. töönädala töökava kinnitamine.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "899f782f-72c0-4390-891f-74500a1d29ba"
+    },
+    {
+      "order": 2,
+      "title": "Väliskomisjoni Aasia strateegia raporti teine lugemine, komisjoni liikmete arvamused ja muudatusettepanekud. Raportöör Marko Mihkelson.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f9ca644e-82f9-415f-8b42-00c56d7c2e51"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2767979f-710b-4a3f-a396-19a807f83b60"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "a6ad70b8-63fe-4f1d-9380-644f6dc05ca6",
+      "files": [
+        "Protokol_20150706.pdf"
+      ]
+    }
+  ],
+  "uuid": "3935bf19-2e67-4f76-a4bd-46b4fc360df7",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3935bf19-2e67-4f76-a4bd-46b4fc360df7)",
+  "source": "https://api.riigikogu.ee/api/volumes/3935bf19-2e67-4f76-a4bd-46b4fc360df7",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-05-01&endDate=2012-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
