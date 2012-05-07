@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung esmaspäev, 7.05.2012 11:00",
+  "sitting_time": "2012-05-07T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "023bea8c-bd80-4df7-8b86-e5e5653d8c81"
+    },
+    {
+      "order": 2,
+      "title": "Sotsiaalmaksuseaduse ja sellega seonduvalt teiste seaduste muutmise seadus (222 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "744103d4-2371-446a-bbad-4c6a80441f4a"
+    },
+    {
+      "order": 3,
+      "title": "Tervishoiuteenuste korraldamise seaduse ja majandustegevuse seadustiku üldosa seaduse muutmise seadus (188 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e39fba88-3f80-46a3-aaa7-6ee0a0882738"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "2f6b75d4-7d6d-4a75-a339-4aa7ab7499f6",
+      "files": [
+        "protocol.rtf"
+      ]
+    }
+  ],
+  "uuid": "942408ec-0c72-4c3c-82bb-2ea706ebd553",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 942408ec-0c72-4c3c-82bb-2ea706ebd553)",
+  "source": "https://api.riigikogu.ee/api/volumes/942408ec-0c72-4c3c-82bb-2ea706ebd553",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-05-01&endDate=2012-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
