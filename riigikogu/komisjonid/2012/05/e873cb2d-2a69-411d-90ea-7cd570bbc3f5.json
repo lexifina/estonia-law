@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 7.05.2012 11:00",
+  "sitting_time": "2012-05-07T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dbb988cd-7ce2-4955-83be-923d3eef8a82"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine Euroopa Parlamendi liikme Ivari Padariga ÜPP tuleviku teemadel.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8d9cddb3-c3b9-4fda-926c-2b1c51962332"
+    },
+    {
+      "order": 3,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "92bfafa0-44f1-4f4d-8e36-1f6875657e20"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "bbdd29b4-8ab6-4deb-b729-bac4791efca7",
+      "files": [
+        "062 protokoll 07.05.2012.rtf"
+      ]
+    }
+  ],
+  "uuid": "e873cb2d-2a69-411d-90ea-7cd570bbc3f5",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e873cb2d-2a69-411d-90ea-7cd570bbc3f5)",
+  "source": "https://api.riigikogu.ee/api/volumes/e873cb2d-2a69-411d-90ea-7cd570bbc3f5",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-05-01&endDate=2012-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
