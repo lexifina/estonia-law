@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung teisipäev, 8.05.2012 14:00",
+  "sitting_time": "2012-05-08T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väärtpaberituru seaduse muutmise seadus (220 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4c7e1fd9-6fcc-4ec3-b53b-8579a2049ccd"
+    },
+    {
+      "order": 2,
+      "title": "ELAK-le arvamuse andmine Eesti seisukohtade suhtes väärtpaberiarvelduste ja  väärtpaberite keskdepositooriumite määruse  eelnõu kohta",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4df86e42-be1b-4bdb-962b-9fdb5ec7d0bc"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK Protokoll 70 08.05.2012",
+      "uuid": "3ddaba33-2f80-45dd-ae51-664a44454eea",
+      "files": [
+        "RAHK Protokoll 70 08.05.2012.pdf"
+      ]
+    }
+  ],
+  "uuid": "5bdae15e-1a21-453c-b49e-3be1d46ffaa4",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 5bdae15e-1a21-453c-b49e-3be1d46ffaa4)",
+  "source": "https://api.riigikogu.ee/api/volumes/5bdae15e-1a21-453c-b49e-3be1d46ffaa4",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-05-01&endDate=2012-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
