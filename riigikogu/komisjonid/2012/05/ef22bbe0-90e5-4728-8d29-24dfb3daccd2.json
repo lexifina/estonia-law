@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung teisipäev, 8.05.2012",
+  "sitting_time": "2012-05-08T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kriminaalmenetluse seadustiku muutmise ja sellega seonduvalt teiste seaduste muutmise seadus (175 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8b95b523-1ffd-453c-bc56-2d5b01cf6659"
+    },
+    {
+      "order": 2,
+      "title": "Riigilõivuseaduse muutmise ja sellega seonduvalt teiste seaduste muutmise seadus (206 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "059de6a6-b50e-4c3c-b55d-b63f438c68ac"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "protokoll",
+      "uuid": "2222b543-0049-4162-b9be-465fb4db84fd",
+      "files": [
+        "oik protokoll 2012-08-05.odt"
+      ]
+    }
+  ],
+  "uuid": "ef22bbe0-90e5-4728-8d29-24dfb3daccd2",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ef22bbe0-90e5-4728-8d29-24dfb3daccd2)",
+  "source": "https://api.riigikogu.ee/api/volumes/ef22bbe0-90e5-4728-8d29-24dfb3daccd2",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-05-01&endDate=2012-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
