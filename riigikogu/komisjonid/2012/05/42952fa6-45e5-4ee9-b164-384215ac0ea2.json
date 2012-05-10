@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung neljapäev, 10.05.2012 09:00",
+  "sitting_time": "2012-05-10T09:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikontrolli auditiaruande tutvustus.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fecb563b-f943-4e38-bf28-483ad7f1b540"
+    },
+    {
+      "order": 2,
+      "title": "Informatsioon",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0bc44874-11ad-4edf-bd4c-5375b5c49df9"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Riigikontrolli auditiaruande „Maakondlike omavalitsusliitude tegevus ja sisekontrollisüsteemi toimimine“ tutvustus",
+      "uuid": "6d09e331-ef5a-4215-b63b-cd3d9a8b4ea6",
+      "files": [
+        "protokoll 48 10 05 2012.rtf"
+      ]
+    }
+  ],
+  "uuid": "42952fa6-45e5-4ee9-b164-384215ac0ea2",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 42952fa6-45e5-4ee9-b164-384215ac0ea2)",
+  "source": "https://api.riigikogu.ee/api/volumes/42952fa6-45e5-4ee9-b164-384215ac0ea2",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-05-01&endDate=2012-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
