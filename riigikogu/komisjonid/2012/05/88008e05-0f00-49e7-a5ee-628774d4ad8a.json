@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung neljapäev, 10.05.2012 13:00",
+  "sitting_time": "2012-05-10T12:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töötuskindlustuse seaduse muutmise arutelu lähtuvalt õiguskantsleri ettepanekust",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "52dd37c2-ce6c-491a-bf93-d0b65978dcc8"
+    },
+    {
+      "order": 2,
+      "title": "Ravikindlustuse seaduse muutmise seadus (229 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ccd25f6b-ded8-487f-90fc-028af5b13c7d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "cc678a8d-37f7-49b4-a0ab-f1f2d88305fa",
+      "files": [
+        "protocol.rtf"
+      ]
+    }
+  ],
+  "uuid": "88008e05-0f00-49e7-a5ee-628774d4ad8a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 88008e05-0f00-49e7-a5ee-628774d4ad8a)",
+  "source": "https://api.riigikogu.ee/api/volumes/88008e05-0f00-49e7-a5ee-628774d4ad8a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-05-01&endDate=2012-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
