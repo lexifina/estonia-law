@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung esmaspäev, 14.05.2012 11:00",
+  "sitting_time": "2012-05-14T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3b14eced-32ea-4648-b31f-605f5f082462"
+    },
+    {
+      "order": 2,
+      "title": "Välisõhu kaitse seaduses kavandatavad muudatused, KM esindajate kuulamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dbf0e318-44a3-4670-8a28-ec340fa3e359"
+    },
+    {
+      "order": 3,
+      "title": "Raporti „Raskeveokite täismassipiirangute mõju metsanduse arengule ja keskkonnaseisundileˮ lähteülesande tutvustamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "18d38edb-15bb-44bb-897f-9043c80bcf54"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Riigikogu keskkonnakomisjoni istungi protokoll nr 52",
+      "uuid": "6ff5dc86-c63b-40b0-831c-612e7e894b20",
+      "files": [
+        "prot52 14.05.12.doc"
+      ]
+    }
+  ],
+  "uuid": "5518c17b-5fc6-4960-bbb4-aaa3333dcf6d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 5518c17b-5fc6-4960-bbb4-aaa3333dcf6d)",
+  "source": "https://api.riigikogu.ee/api/volumes/5518c17b-5fc6-4960-bbb4-aaa3333dcf6d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-05-01&endDate=2012-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
