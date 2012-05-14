@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung esmaspäev, 14.05.2012 11:00",
+  "sitting_time": "2012-05-14T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0faed14f-d3e1-4f32-b63c-74165d7dba81"
+    },
+    {
+      "order": 2,
+      "title": "Tulumaksuseaduse muutmise ja täiendamise seadus (208 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3ed3e499-c9ab-46d9-839c-691965bca921"
+    },
+    {
+      "order": 3,
+      "title": "Rahanduskomisjoni välisvisiidi  Läti Vabariiki ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "77160f16-6234-4096-9000-9cd9967a35bb"
+    },
+    {
+      "order": 4,
+      "title": "Info",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "847c337a-9ac8-4c6c-8260-d2ae72a15f21"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "b161082b-70cd-49fe-ab9c-39632094b9be",
+      "files": [
+        "prot71_RAHK.odt"
+      ]
+    }
+  ],
+  "uuid": "c6d71d58-5606-4260-9e6e-103c161f45a2",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c6d71d58-5606-4260-9e6e-103c161f45a2)",
+  "source": "https://api.riigikogu.ee/api/volumes/c6d71d58-5606-4260-9e6e-103c161f45a2",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-05-01&endDate=2012-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
