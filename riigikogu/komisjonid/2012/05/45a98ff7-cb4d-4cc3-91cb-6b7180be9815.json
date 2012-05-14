@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 14.05.2012 11:10",
+  "sitting_time": "2012-05-14T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2505c2c0-e38c-4919-b512-e1918466567d"
+    },
+    {
+      "order": 2,
+      "title": "Uuringu \"Maapiirkonna ettevõtluse arenguvajadused ja -takistused\" vahearuanne",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1ed25566-2351-41d7-9468-a65a271a1f39"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "fe5b41fb-f483-477b-a888-85bbd447614e",
+      "files": [
+        "064 protokoll 14.05.2012.rtf"
+      ]
+    }
+  ],
+  "uuid": "45a98ff7-cb4d-4cc3-91cb-6b7180be9815",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 45a98ff7-cb4d-4cc3-91cb-6b7180be9815)",
+  "source": "https://api.riigikogu.ee/api/volumes/45a98ff7-cb4d-4cc3-91cb-6b7180be9815",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-05-01&endDate=2012-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
