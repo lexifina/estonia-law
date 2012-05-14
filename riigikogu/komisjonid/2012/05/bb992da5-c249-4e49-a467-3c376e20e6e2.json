@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung esmaspäev, 14.05.2012 11:00",
+  "sitting_time": "2012-05-14T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "239abe18-f252-41c5-bef8-ca15c3c8ecaf"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine Riigikogu aseesimehe Laine Randjärvega – Vastutustundlike Naiste konverentsi hariduse töötoa ettepanekud",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "25a207dd-6df9-4b35-9004-c1e90b1e7bd4"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b1cf915b-f361-4807-a003-d65705ed1238"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Kultuurikomisjoni istungi protokoll nr 65",
+      "uuid": "94697a70-0d2f-498e-b1e3-21ea857e680d",
+      "files": [
+        "prot 65.doc"
+      ]
+    }
+  ],
+  "uuid": "bb992da5-c249-4e49-a467-3c376e20e6e2",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid bb992da5-c249-4e49-a467-3c376e20e6e2)",
+  "source": "https://api.riigikogu.ee/api/volumes/bb992da5-c249-4e49-a467-3c376e20e6e2",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-05-01&endDate=2012-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
