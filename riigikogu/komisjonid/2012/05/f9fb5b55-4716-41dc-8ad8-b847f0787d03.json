@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung teisipäev, 15.05.2012 14:00",
+  "sitting_time": "2012-05-15T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikogu otsus \"Nõusoleku andmine Eesti Vabariigi kvoodi suurendamiseks Rahvusvahelises Valuutafondis\" (230 OE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0d31ef5f-2b3e-40cf-bdb0-6343b644a75b"
+    },
+    {
+      "order": 2,
+      "title": "Info",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e3d667d8-fd5b-4698-9af1-ce283175b73b"
+    },
+    {
+      "order": 3,
+      "title": "Rahvusvahelise Valuutafondi põhikirja muudatuste heakskiitmise seadus (231 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dd346e90-2c89-4780-afae-4d89639ce99f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "84974296-a5bb-4ed9-99c5-d7b03b8199b9",
+      "files": [
+        "prot72_RAHK.odt"
+      ]
+    }
+  ],
+  "uuid": "f9fb5b55-4716-41dc-8ad8-b847f0787d03",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f9fb5b55-4716-41dc-8ad8-b847f0787d03)",
+  "source": "https://api.riigikogu.ee/api/volumes/f9fb5b55-4716-41dc-8ad8-b847f0787d03",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-05-01&endDate=2012-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
