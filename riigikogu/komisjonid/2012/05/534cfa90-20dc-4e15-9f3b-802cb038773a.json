@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 28.05.2012 11:00",
+  "sitting_time": "2012-05-28T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7cfe106b-54e1-4149-9bc5-c425bc60832d"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine põllumajandusministriga",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f107501c-2d45-4255-b7ad-892597168a9f"
+    },
+    {
+      "order": 3,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2b7b03e0-c7e1-46c8-8da5-4f82f86dfdb2"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "f7a4a7eb-573d-4bc5-b1d0-3bc540df1286",
+      "files": [
+        "066 protokoll 28.05.2012.rtf"
+      ]
+    }
+  ],
+  "uuid": "534cfa90-20dc-4e15-9f3b-802cb038773a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 534cfa90-20dc-4e15-9f3b-802cb038773a)",
+  "source": "https://api.riigikogu.ee/api/volumes/534cfa90-20dc-4e15-9f3b-802cb038773a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-05-01&endDate=2012-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
