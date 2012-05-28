@@ -1,0 +1,57 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung esmaspäev, 28.05.2012 11:15",
+  "sitting_time": "2012-05-28T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f8ee35cd-55dd-45a8-b0ea-6e3a5c55dc61"
+    },
+    {
+      "order": 2,
+      "title": "Erakonnaseaduse muutmise seadus (144 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "78fd9f18-20f8-43e5-bf9e-c7a12c60bb3f"
+    },
+    {
+      "order": 3,
+      "title": "Erakonnaseaduse täiendamise seadus (216 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f7b72abc-bb08-45b0-8d6e-98fe8ad25165"
+    },
+    {
+      "order": 4,
+      "title": "Riigikohtule arvamuse andmine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "119df20f-8f2f-4d02-b97e-8979ae16ed54"
+    },
+    {
+      "order": 5,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e0d227d9-b0d2-44a0-882f-3e31c278fe27"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "ef0601b9-e1c5-4ce7-9807-d8a66b81cb02",
+      "files": [
+        "prot.12.05.17 (lühike, valmis).doc"
+      ]
+    }
+  ],
+  "uuid": "144e8be3-5098-444e-8825-ebe4c320cfed",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 144e8be3-5098-444e-8825-ebe4c320cfed)",
+  "source": "https://api.riigikogu.ee/api/volumes/144e8be3-5098-444e-8825-ebe4c320cfed",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-05-01&endDate=2012-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
