@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung teisipäev, 29.05.2012 13:00",
+  "sitting_time": "2012-05-29T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Tervishoiuteenuste korraldamise seaduse § 50² muutmise seadus (198 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fd195bf2-f0d4-4ad1-b8a8-311ea7048784"
+    },
+    {
+      "order": 2,
+      "title": "Ravimiseaduse muutmise seadus (224 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7ada83b5-fb12-4f16-8197-47a489fe51d3"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "7f2ddf05-e8aa-4d8a-8fba-070b1ae0d27e",
+      "files": [
+        "protocol.rtf"
+      ]
+    }
+  ],
+  "uuid": "1cefd255-0dd0-4d57-b07c-b4e37d1780ce",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 1cefd255-0dd0-4d57-b07c-b4e37d1780ce)",
+  "source": "https://api.riigikogu.ee/api/volumes/1cefd255-0dd0-4d57-b07c-b4e37d1780ce",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-05-01&endDate=2012-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
