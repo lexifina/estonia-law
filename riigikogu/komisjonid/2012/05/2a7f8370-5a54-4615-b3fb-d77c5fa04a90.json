@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung neljapäev, 31.05.2012",
+  "sitting_time": "2012-05-31T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kodanikuühenduste hinnang Eesti arengukoostööle aastatel 2006-2010.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "04af8e40-3f45-4406-b003-a9a5749347a2"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu liikmete välislähetuste rahastamise korra täiendamisest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4ac993fd-cf17-4054-af06-8b2fd3cfc3e6"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3d6372c0-7cf6-40e8-8361-4c8481b1c7f8"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "2de32372-f14a-4ba4-97c2-d3107521e08a",
+      "files": [
+        "Protokol_20150706.pdf"
+      ]
+    }
+  ],
+  "uuid": "2a7f8370-5a54-4615-b3fb-d77c5fa04a90",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2a7f8370-5a54-4615-b3fb-d77c5fa04a90)",
+  "source": "https://api.riigikogu.ee/api/volumes/2a7f8370-5a54-4615-b3fb-d77c5fa04a90",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-05-01&endDate=2012-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
