@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 4.06.2012 11:00",
+  "sitting_time": "2012-06-04T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2ff90e72-8190-4f48-bbcd-c0449cd47e24"
+    },
+    {
+      "order": 2,
+      "title": "Leader meede järgmisel EL finantsperioodil",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c7222d0a-ffe8-4c68-8dc6-1b4993aa9ad1"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "305459f4-8715-4ae9-87de-4bf92a30f494",
+      "files": [
+        "069 protokoll 04.06.2012.rtf"
+      ]
+    }
+  ],
+  "uuid": "a12001dd-484f-4d5f-8e2a-17c1dff3df9a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a12001dd-484f-4d5f-8e2a-17c1dff3df9a)",
+  "source": "https://api.riigikogu.ee/api/volumes/a12001dd-484f-4d5f-8e2a-17c1dff3df9a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-06-01&endDate=2012-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
