@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung teisipäev, 05.06.2012 13:00",
+  "sitting_time": "2012-06-05T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ravikindlustuse seaduse ja puuetega inimeste sotsiaaltoetuste seaduse muutmise seadus (229 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fffe3a71-49f0-4bc8-9dfd-164030e5153a"
+    },
+    {
+      "order": 2,
+      "title": "Sotsiaalmaksuseaduse ja sellega seonduvalt teiste seaduste muutmise seadus (222 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "69b784e2-42d5-4884-bb6e-8e3d0422bd9e"
+    },
+    {
+      "order": 3,
+      "title": "Töötuskindlustuse seaduse muutmise arutelu lähtuvalt õiguskantsleri ettepanekust",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3bc3e397-401c-48f7-9800-76841abe864e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "7aa9f243-4e32-40ea-bef2-f78e00caf71a",
+      "files": [
+        "protocol.rtf"
+      ]
+    }
+  ],
+  "uuid": "f627cb04-87df-4651-9006-d34884fc395c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f627cb04-87df-4651-9006-d34884fc395c)",
+  "source": "https://api.riigikogu.ee/api/volumes/f627cb04-87df-4651-9006-d34884fc395c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-06-01&endDate=2012-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
