@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung teisipäev, 5.06.2012 14:00",
+  "sitting_time": "2012-06-05T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade muudatustest riigieelarve koostamise põhimõtetes ja  seaduspildis.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fa560d41-309b-4df2-8bca-55efede117f3"
+    },
+    {
+      "order": 2,
+      "title": "Maksukorralduse seaduse ja teiste seaduste muutmise seadus (241 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "306ee23c-77ee-45d3-8ece-54ddc92a137c"
+    },
+    {
+      "order": 3,
+      "title": "Info",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "45c0af85-80bf-4e1e-8f5b-4a77ddc87553"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK prot 05.06.2012 nr 76",
+      "uuid": "4b16ad0a-219e-437d-b76b-ca539ba6b18c",
+      "files": [
+        "RAHKprot76.odt"
+      ]
+    }
+  ],
+  "uuid": "7d6f71b5-d64c-44d6-b284-24be4d67c02c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7d6f71b5-d64c-44d6-b284-24be4d67c02c)",
+  "source": "https://api.riigikogu.ee/api/volumes/7d6f71b5-d64c-44d6-b284-24be4d67c02c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-06-01&endDate=2012-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
