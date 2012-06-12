@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung teisipäev, 12.06.2012 13:00",
+  "sitting_time": "2012-06-12T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ravikindlustuse seaduse ja puuetega inimeste sotsiaaltoetuste seaduse muutmise seadus (229 SE II)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c23f9919-97e1-4219-8fe0-4d4d04e02d58"
+    },
+    {
+      "order": 2,
+      "title": "Praxise analüüs \"HIV mõju majandusele\"",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "41540535-5c4a-439d-a6c0-f8bd65fc06af"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "d38d7af4-0fc8-4a70-afee-10349b159b89",
+      "files": [
+        "protocol.rtf"
+      ]
+    }
+  ],
+  "uuid": "8dc84c93-e987-421d-8c6c-9643aa110f6a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8dc84c93-e987-421d-8c6c-9643aa110f6a)",
+  "source": "https://api.riigikogu.ee/api/volumes/8dc84c93-e987-421d-8c6c-9643aa110f6a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-06-01&endDate=2012-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
