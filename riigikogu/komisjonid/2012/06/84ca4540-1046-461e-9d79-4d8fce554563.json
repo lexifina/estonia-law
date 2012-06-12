@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung teisipäev, 12.06.2012 14:00",
+  "sitting_time": "2012-06-12T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Parlamentaarne kuulamine - muuseumiseaduses kavandatavad muudatused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f4802ce7-f4a7-4487-b853-ee7e5eb9fe66"
+    },
+    {
+      "order": 2,
+      "title": "Istungjärgu kokkuvõte",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b578f9d1-4189-4611-9931-2f5b8b626a67"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Kultuurikomisjoni protokoll nr 73",
+      "uuid": "cee4eb95-941d-4522-8cb7-ddc35d86560b",
+      "files": [
+        "prot 73.doc"
+      ]
+    }
+  ],
+  "uuid": "84ca4540-1046-461e-9d79-4d8fce554563",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 84ca4540-1046-461e-9d79-4d8fce554563)",
+  "source": "https://api.riigikogu.ee/api/volumes/84ca4540-1046-461e-9d79-4d8fce554563",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-06-01&endDate=2012-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
