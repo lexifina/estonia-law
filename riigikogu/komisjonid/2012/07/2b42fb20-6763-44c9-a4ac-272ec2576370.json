@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung esmaspäev, 16.07.2012 14:00",
+  "sitting_time": "2012-07-16T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikohtu otsus ESM põhiseaduspärasuse kohta.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "29855bf7-9995-4880-ba6e-53296d14b4cd"
+    },
+    {
+      "order": 2,
+      "title": "ESM ja EFSF, sisevaade.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "97fadbfa-fd71-4e70-b930-9dd7a4530ac2"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 16.07.2012",
+      "uuid": "1a3881e0-9bd4-46c7-adc8-50dc0bc72ba5",
+      "files": [
+        "16.07.2012.rtf"
+      ]
+    }
+  ],
+  "uuid": "2b42fb20-6763-44c9-a4ac-272ec2576370",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2b42fb20-6763-44c9-a4ac-272ec2576370)",
+  "source": "https://api.riigikogu.ee/api/volumes/2b42fb20-6763-44c9-a4ac-272ec2576370",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-07-01&endDate=2012-07-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
