@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung esmaspäev, 10.09.2012 11:00",
+  "sitting_time": "2012-09-10T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f478ee7c-9732-40d0-bf2c-2b19e138ea42"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade majanduse olukorrast ja Rahandusministeeriumi 2012. aasta suvisest majandusprognoosist",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "889cff75-5eb9-4ed7-bc56-63412d8869f3"
+    },
+    {
+      "order": 3,
+      "title": "Info",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2f6f821c-50d8-4953-af2b-4eb32a2ea6fb"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "4be9d1d9-f374-41a2-91d3-864ac9f39427",
+      "files": [
+        "RAHK protokoll 10. september 2012.doc"
+      ]
+    }
+  ],
+  "uuid": "723dd1ac-09db-4512-a7b9-96b4714a994f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 723dd1ac-09db-4512-a7b9-96b4714a994f)",
+  "source": "https://api.riigikogu.ee/api/volumes/723dd1ac-09db-4512-a7b9-96b4714a994f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-09-01&endDate=2012-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
