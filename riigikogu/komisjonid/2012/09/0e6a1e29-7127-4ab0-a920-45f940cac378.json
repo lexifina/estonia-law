@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 10.09.2012 13:30",
+  "sitting_time": "2012-09-10T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine;",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "29c1373f-f439-4374-96f3-d6008c3ae2d5"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade Rahandusministeeriumi 2012. aasta suvisest majandusprognoosist",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "84711882-03db-4d94-8203-db8b11d591c9"
+    },
+    {
+      "order": 3,
+      "title": "Informatsioon",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "aa34be7b-d153-4920-a5ae-c6517f3e2c05"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Ülevaade Rahandusministeeriumi 2012. aasta suvisest majandusprognoosist",
+      "uuid": "e6fe6010-30b2-4339-ac7c-51ad3f1f888b",
+      "files": [
+        "protokoll 54 10 09 2012.rtf"
+      ]
+    }
+  ],
+  "uuid": "0e6a1e29-7127-4ab0-a920-45f940cac378",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0e6a1e29-7127-4ab0-a920-45f940cac378)",
+  "source": "https://api.riigikogu.ee/api/volumes/0e6a1e29-7127-4ab0-a920-45f940cac378",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-09-01&endDate=2012-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
