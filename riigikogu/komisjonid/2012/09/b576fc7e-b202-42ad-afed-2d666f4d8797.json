@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 10.09.2012 11:00",
+  "sitting_time": "2012-09-10T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5a7084f1-fecd-4c52-8ca0-702fa7edbac7"
+    },
+    {
+      "order": 2,
+      "title": "Rahvusvahelise Põllumajanduse Arengu Fondi asutamislepingu ratifitseerimise seaduse eelnõu (262 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "07a918e2-f994-4cab-911c-de715efd7b1f"
+    },
+    {
+      "order": 3,
+      "title": "Komisjoni sügisistungjärgu tööplaan",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2250989c-158e-434b-9fe2-12dbe8a1fd4b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "5e35fbc2-9aa9-49f2-a70e-18753aab69dd",
+      "files": [
+        "071 protokoll 10.09.2012.rtf"
+      ]
+    }
+  ],
+  "uuid": "b576fc7e-b202-42ad-afed-2d666f4d8797",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b576fc7e-b202-42ad-afed-2d666f4d8797)",
+  "source": "https://api.riigikogu.ee/api/volumes/b576fc7e-b202-42ad-afed-2d666f4d8797",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-09-01&endDate=2012-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
