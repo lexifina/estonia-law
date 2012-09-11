@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung teisipäev, 11.09.2012 13:00",
+  "sitting_time": "2012-09-11T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Rahandusministeeriumi 2012 aasta suvine majandusprognoos. Lühiülevaade.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e1a2b89e-ee12-423f-af6c-45d93e0e2df0"
+    },
+    {
+      "order": 2,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7777a442-28e7-4a2e-b6a9-e8fa9ca7550f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "e8e1314c-e5db-4612-990e-6ce0208866be",
+      "files": [
+        "protocol.rtf"
+      ]
+    }
+  ],
+  "uuid": "a8850fc7-8d04-4422-b4ed-707d77ed3c89",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a8850fc7-8d04-4422-b4ed-707d77ed3c89)",
+  "source": "https://api.riigikogu.ee/api/volumes/a8850fc7-8d04-4422-b4ed-707d77ed3c89",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-09-01&endDate=2012-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
