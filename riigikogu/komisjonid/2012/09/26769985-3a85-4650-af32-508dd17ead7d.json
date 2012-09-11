@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung teisipäev, 11.09.2012 10:15",
+  "sitting_time": "2012-09-11T10:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Majandus- ja rahaliidu stabiilsuse, koordineerimise ja juhtimise lepingu ratifitseerimise seaduse eelnõu (249 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ba514410-db7f-43a6-8a1e-002de6ca56ec"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu otsus \"Riigi 2011. aasta majandusaasta koondaruande kinnitamine\" (265 OE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0d6df9ec-3669-4288-a945-b3c65fd5bf0f"
+    },
+    {
+      "order": 3,
+      "title": "Info",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1ea441db-f0e3-47ad-8608-dd64e3b53c56"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "ded454d8-710f-4baf-85a1-11aac03708bb",
+      "files": [
+        "RAHK protokoll 11. september 2012.doc"
+      ]
+    }
+  ],
+  "uuid": "26769985-3a85-4650-af32-508dd17ead7d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 26769985-3a85-4650-af32-508dd17ead7d)",
+  "source": "https://api.riigikogu.ee/api/volumes/26769985-3a85-4650-af32-508dd17ead7d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-09-01&endDate=2012-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
