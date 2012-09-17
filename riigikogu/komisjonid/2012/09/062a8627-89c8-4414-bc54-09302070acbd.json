@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 17.09.2012",
+  "sitting_time": "2012-09-17T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine;",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5fca6025-cc9c-4f2b-8e31-d154dd2c6419"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli auditiaruande „Kõrgkoolide tulemuslepingute täitmine“ tutvustamine ning arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9506a4a7-aa1b-4ddd-8512-18bb60a0a56c"
+    },
+    {
+      "order": 3,
+      "title": "Informatsioon",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "14a5b12d-7c3b-4ea0-9eab-aeafe60cd4a4"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Riigikontrolli auditiaruande „Kõrgkoolide tulemuslepingute täitmine“ arutelu",
+      "uuid": "140451dc-5497-4b9a-b9b6-25a0119c3075",
+      "files": [
+        "protokoll 56 17 09 12.rtf"
+      ]
+    }
+  ],
+  "uuid": "062a8627-89c8-4414-bc54-09302070acbd",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 062a8627-89c8-4414-bc54-09302070acbd)",
+  "source": "https://api.riigikogu.ee/api/volumes/062a8627-89c8-4414-bc54-09302070acbd",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-09-01&endDate=2012-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
