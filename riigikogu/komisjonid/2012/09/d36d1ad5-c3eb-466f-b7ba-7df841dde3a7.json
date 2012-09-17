@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung esmaspäev, 17.09.2012 11:30",
+  "sitting_time": "2012-09-17T11:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala (17.09.12 - 23.09.12) töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9ea28758-90bf-42d7-8259-bcde607e728f"
+    },
+    {
+      "order": 2,
+      "title": "Keskkonnaministri kuulamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c695eaa0-2df4-4475-9a44-f34c1a7ef43f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Riigikogu keskkonnakomisjoni istungi protokoll nr 62",
+      "uuid": "f4e8eed8-f9b4-4a12-a8c2-bff41732fe6c",
+      "files": [
+        "prot62 10.09.12.doc"
+      ]
+    }
+  ],
+  "uuid": "d36d1ad5-c3eb-466f-b7ba-7df841dde3a7",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d36d1ad5-c3eb-466f-b7ba-7df841dde3a7)",
+  "source": "https://api.riigikogu.ee/api/volumes/d36d1ad5-c3eb-466f-b7ba-7df841dde3a7",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-09-01&endDate=2012-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
