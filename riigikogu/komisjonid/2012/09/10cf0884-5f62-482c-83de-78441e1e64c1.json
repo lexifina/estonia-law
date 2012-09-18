@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung teisipäev, 18.09.2012 13:15",
+  "sitting_time": "2012-09-18T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Planeerimisseaduse muutmise seaduse eelnõu (247 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "432a6883-3947-44ef-8028-060d9984be68"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7b686964-1476-4a78-849b-94ff21199d92"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "dad591a5-c503-4025-b6c5-78587b8988b4",
+      "files": [
+        "protocol.rtf"
+      ]
+    }
+  ],
+  "uuid": "10cf0884-5f62-482c-83de-78441e1e64c1",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 10cf0884-5f62-482c-83de-78441e1e64c1)",
+  "source": "https://api.riigikogu.ee/api/volumes/10cf0884-5f62-482c-83de-78441e1e64c1",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-09-01&endDate=2012-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
