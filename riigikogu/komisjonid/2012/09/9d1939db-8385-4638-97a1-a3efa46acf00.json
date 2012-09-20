@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung neljapäev, 20.09.2012 13:00",
+  "sitting_time": "2012-09-20T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigieelarve seadusepilt ja eelarvestamise põhimõtete arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "933a40d5-8d23-4354-9453-23ff24eb1eeb"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli auditiaruande „Teehooldetööd ja järelevalve nende üle“ kordusarutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d4467804-12db-470f-9fa8-31d4193d70e2"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "1.Riigieelarve seadusepilt ja eelarvestamise põhimõtete arutelu \n2.Riigikontrolli auditiaruande „Teehooldetööd ja järelevalve nende üle“ kordusarutelu",
+      "uuid": "70422b99-a766-4754-bff2-2ff4554a9d94",
+      "files": [
+        "protokoll 58 20 09 2012.rtf"
+      ]
+    }
+  ],
+  "uuid": "9d1939db-8385-4638-97a1-a3efa46acf00",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9d1939db-8385-4638-97a1-a3efa46acf00)",
+  "source": "https://api.riigikogu.ee/api/volumes/9d1939db-8385-4638-97a1-a3efa46acf00",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-09-01&endDate=2012-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
