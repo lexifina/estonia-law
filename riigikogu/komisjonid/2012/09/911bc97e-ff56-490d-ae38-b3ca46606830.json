@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung neljapäev, 20.09.2012 09:00",
+  "sitting_time": "2012-09-20T09:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade Eesti-Vene suhete hetkeseisust.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e65df1fc-b1fe-4f37-9566-3a912b91201e"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7e8c7773-513d-4f04-b0a2-fe6015beb226"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Väliskomisjoni istungi protokoll nr 106",
+      "uuid": "239a8c6e-7638-429e-95fb-392a8399bd92",
+      "files": [
+        "20.09.2012 (106) protokoll.doc"
+      ]
+    }
+  ],
+  "uuid": "911bc97e-ff56-490d-ae38-b3ca46606830",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 911bc97e-ff56-490d-ae38-b3ca46606830)",
+  "source": "https://api.riigikogu.ee/api/volumes/911bc97e-ff56-490d-ae38-b3ca46606830",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-09-01&endDate=2012-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
