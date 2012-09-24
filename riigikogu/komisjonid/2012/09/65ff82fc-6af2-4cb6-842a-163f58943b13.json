@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 24.09.2012 11:00",
+  "sitting_time": "2012-09-24T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b46352af-16ad-474b-979e-d9f5bb487259"
+    },
+    {
+      "order": 2,
+      "title": "Olukord aianduses",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5d0b0a3f-ff20-4f6c-a4a7-4d20a68080ea"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "28aead1c-80ef-479e-8ac5-8debf6a49736",
+      "files": [
+        "075 protokoll 24.09.2012.rtf"
+      ]
+    }
+  ],
+  "uuid": "65ff82fc-6af2-4cb6-842a-163f58943b13",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 65ff82fc-6af2-4cb6-842a-163f58943b13)",
+  "source": "https://api.riigikogu.ee/api/volumes/65ff82fc-6af2-4cb6-842a-163f58943b13",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-09-01&endDate=2012-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
