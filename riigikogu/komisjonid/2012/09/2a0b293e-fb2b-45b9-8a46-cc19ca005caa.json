@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung esmaspäev, 24.09.2012 13:00",
+  "sitting_time": "2012-09-24T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d1c0798b-45ec-4339-8140-a9bb77e0b97c"
+    },
+    {
+      "order": 2,
+      "title": "Avalik ühisistung väliskomisjoniga: Euroopa Liidu tulevik.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "03c0aeeb-ff7a-41f4-bdb8-96fcaf8a2f27"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ELAK protokoll 24.09.2012",
+      "uuid": "7acc8d83-62b1-437c-b970-9cca9178959c",
+      "files": [
+        "24.09.2012.doc"
+      ]
+    }
+  ],
+  "uuid": "2a0b293e-fb2b-45b9-8a46-cc19ca005caa",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2a0b293e-fb2b-45b9-8a46-cc19ca005caa)",
+  "source": "https://api.riigikogu.ee/api/volumes/2a0b293e-fb2b-45b9-8a46-cc19ca005caa",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-09-01&endDate=2012-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
