@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung esmaspäev, 24.09.2012 11:00",
+  "sitting_time": "2012-09-24T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "11830b71-22b4-404f-abb4-84190c25fdfe"
+    },
+    {
+      "order": 2,
+      "title": "Riikliku matusetoetuse seaduse muutmise seaduse eelnõu (235 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fe689c41-8ae6-4c23-b025-c65cc0d02031"
+    },
+    {
+      "order": 3,
+      "title": "Narkootiliste ja psühhotroopsete ainete ning nende lähteainete seaduse muutmise seaduse eelnõu (259 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "94769e04-2f31-4bcc-9bc9-ec93c99f2c50"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "d29df96c-3992-4084-88b5-560f3bf3ad63",
+      "files": [
+        "protocol.rtf 86.rtf"
+      ]
+    }
+  ],
+  "uuid": "b7f671b3-ae21-454d-9c1c-d69aa9ffb570",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b7f671b3-ae21-454d-9c1c-d69aa9ffb570)",
+  "source": "https://api.riigikogu.ee/api/volumes/b7f671b3-ae21-454d-9c1c-d69aa9ffb570",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-09-01&endDate=2012-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
