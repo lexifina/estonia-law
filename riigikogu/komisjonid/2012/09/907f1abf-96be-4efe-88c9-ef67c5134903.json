@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung esmaspäev, 24.09.2012",
+  "sitting_time": "2012-09-24T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2d99dc43-da74-4b38-8c6e-a5cc04ff3304"
+    },
+    {
+      "order": 2,
+      "title": "Advokatuuriseaduse ja sellega seonduvalt teiste seaduste muutmise seaduse eelnõu (273 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c722ab68-1e87-490b-a531-2732876dce60"
+    },
+    {
+      "order": 3,
+      "title": "Justiitsministri ülevaade õiguspoliitika arengusuundadest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b0763800-c2ed-4cba-9e02-777d2827fca0"
+    },
+    {
+      "order": 4,
+      "title": "Karistusseadustiku muutmise seaduse eelnõu (250 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7bd41676-08ae-4008-82f4-300a38d84f2e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "protokoll",
+      "uuid": "fc8f3432-f990-434c-b81f-84f4968959b6",
+      "files": [
+        "protokoll.ddoc",
+        "oik protokoll 2012-09-24.odt"
+      ]
+    }
+  ],
+  "uuid": "907f1abf-96be-4efe-88c9-ef67c5134903",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 907f1abf-96be-4efe-88c9-ef67c5134903)",
+  "source": "https://api.riigikogu.ee/api/volumes/907f1abf-96be-4efe-88c9-ef67c5134903",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-09-01&endDate=2012-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
