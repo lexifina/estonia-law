@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung  24.09.2012 nr 64",
+  "sitting_time": "2012-09-24T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala (24.09.12-30.09.12) töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "929c68aa-31b8-47db-91c1-110e8ab01001"
+    },
+    {
+      "order": 2,
+      "title": "Keskkonnatasude seaduse muutmise seaduse eelnõu (234 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "79376c95-2749-4f90-a69e-95ff485246d7"
+    },
+    {
+      "order": 3,
+      "title": "Väljasõiduistungi korraldamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "95cc3773-a189-4105-94cd-5253e3408559"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Keskkonnakomisjoni istungi protokoll nr 64",
+      "uuid": "88891da1-1413-46b3-bf82-891d6e18bfb1",
+      "files": [
+        "prot64 24.09.12.doc"
+      ]
+    }
+  ],
+  "uuid": "b8650f84-43b6-498f-b09a-69bfa7bb7efa",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b8650f84-43b6-498f-b09a-69bfa7bb7efa)",
+  "source": "https://api.riigikogu.ee/api/volumes/b8650f84-43b6-498f-b09a-69bfa7bb7efa",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-09-01&endDate=2012-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
