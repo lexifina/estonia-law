@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung esmaspäev, 24.09.2012 kell 11.00",
+  "sitting_time": "2012-09-24T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1e13ff2d-9897-4536-8e4f-faaef8810135"
+    },
+    {
+      "order": 2,
+      "title": "Kaitseväe Keskpolügooni ja harjutusväljade arendamine. Kutsutud Kaitseministeeriumi ja Kaitseväe esindajad",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7e485873-adfc-4468-b319-035de2249956"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6abaf251-3e1a-48a0-b34b-ed41a0bf3edd"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "b896a715-a25b-41ef-8b9e-5d4526b18030",
+      "files": [
+        "24.09.12_97.rtf"
+      ]
+    }
+  ],
+  "uuid": "a53936bb-a277-444f-a99a-1688b376bbe8",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a53936bb-a277-444f-a99a-1688b376bbe8)",
+  "source": "https://api.riigikogu.ee/api/volumes/a53936bb-a277-444f-a99a-1688b376bbe8",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-09-01&endDate=2012-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
