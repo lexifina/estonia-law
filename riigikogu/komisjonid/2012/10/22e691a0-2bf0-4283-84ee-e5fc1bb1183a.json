@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung esmaspäev, 8.10.2012 11:00",
+  "sitting_time": "2012-10-08T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "72edcb64-f79a-476d-91e1-78e6c69bfae9"
+    },
+    {
+      "order": 2,
+      "title": "Parlamentaarne kuulamine – harjutuskoolid",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "96a98d36-3a42-4c6e-b640-e20a98ea9a71"
+    },
+    {
+      "order": 3,
+      "title": "Põhikooli- ja gümnaasiumiseaduse § 82 muutmise seaduse eelnõu (240 SE) – arutelu, täiskogu päevakorda ettepaneku tegemise ja I lugemise lõpetamise otsustamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c3754bd0-39e8-4210-8d25-cc3b9b34dfb7"
+    },
+    {
+      "order": 4,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7c3f4544-a58b-4c8f-af24-052c1f339ad9"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Kultuurikomisjoni protokoll",
+      "uuid": "5e1acff6-0a01-4abb-b96e-30567d735c82",
+      "files": [
+        "prot 82.rtf"
+      ]
+    }
+  ],
+  "uuid": "22e691a0-2bf0-4283-84ee-e5fc1bb1183a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 22e691a0-2bf0-4283-84ee-e5fc1bb1183a)",
+  "source": "https://api.riigikogu.ee/api/volumes/22e691a0-2bf0-4283-84ee-e5fc1bb1183a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-10-01&endDate=2012-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
