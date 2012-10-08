@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung esmaspäev, 8.10.2012 11:15",
+  "sitting_time": "2012-10-08T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e222fda3-fe28-4a8e-89f7-61553bc9508b"
+    },
+    {
+      "order": 3,
+      "title": "Erakonnaseaduse plaanitavate muudatuste, mis seonduvad vajadusega korrastada erakonna rahastamise aruandluse tehnilist poolt, arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e851996b-84f8-4aa9-86c2-e3e945fab52e"
+    },
+    {
+      "order": 4,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cb15247a-de0d-4ef7-aa4b-a9c2455828da"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "PSK protokoll",
+      "uuid": "fc95e691-f7d9-403b-a01a-9ba8a4e929ce",
+      "files": [
+        "2012.10.08.doc"
+      ]
+    }
+  ],
+  "uuid": "84a47bdb-f296-4d85-826b-a94814908f7e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 84a47bdb-f296-4d85-826b-a94814908f7e)",
+  "source": "https://api.riigikogu.ee/api/volumes/84a47bdb-f296-4d85-826b-a94814908f7e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-10-01&endDate=2012-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
