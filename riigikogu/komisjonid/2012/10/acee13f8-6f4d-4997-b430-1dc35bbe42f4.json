@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 15.10.2012 11:00",
+  "sitting_time": "2012-10-15T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6924eb79-b7bf-460f-b81c-2b2e41f7c74a"
+    },
+    {
+      "order": 2,
+      "title": "2013.a riigieelarve Põllumajandusministeeriumi valitsemisala",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "02096556-9bfd-438d-bca5-6a4eb58fa782"
+    },
+    {
+      "order": 3,
+      "title": "Maaelu arengukava 2014-2020 väljatöötamise käik",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "02d9b0ac-12c7-444f-b7b7-78ef1837ad11"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "3ff5861c-6939-4209-87dc-47cecd78ea01",
+      "files": [
+        "078 protokoll 15.10.2012.rtf"
+      ]
+    }
+  ],
+  "uuid": "acee13f8-6f4d-4997-b430-1dc35bbe42f4",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid acee13f8-6f4d-4997-b430-1dc35bbe42f4)",
+  "source": "https://api.riigikogu.ee/api/volumes/acee13f8-6f4d-4997-b430-1dc35bbe42f4",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-10-01&endDate=2012-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
