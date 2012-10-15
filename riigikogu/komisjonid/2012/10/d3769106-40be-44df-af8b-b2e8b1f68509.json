@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 15.10.2012 13:30",
+  "sitting_time": "2012-10-15T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine;",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1eefea78-789f-47a1-9f6d-4c1341e17bdc"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli auditiaruande „Narva linna hoonestusõiguse seadmise lepingute täitmine“ arutelu;",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c9348fd5-4230-4288-be1b-de648799a055"
+    },
+    {
+      "order": 3,
+      "title": "Informatsioon.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "66acafb5-410b-4bf7-a6a6-822c3379e1b6"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Riigikontrolli auditiaruande „Narva linna hoonestusõiguse seadmise lepingute täitmine“ arutelu",
+      "uuid": "90c38514-6348-48a6-9c68-55e1d9c04889",
+      "files": [
+        "protokoll 64 15 10 2012 .rtf"
+      ]
+    }
+  ],
+  "uuid": "d3769106-40be-44df-af8b-b2e8b1f68509",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d3769106-40be-44df-af8b-b2e8b1f68509)",
+  "source": "https://api.riigikogu.ee/api/volumes/d3769106-40be-44df-af8b-b2e8b1f68509",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-10-01&endDate=2012-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
