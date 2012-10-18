@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung neljapäev, 18.10.2012 14:00",
+  "sitting_time": "2012-10-18T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Alkoholi-, tubaka-, kütuse- ja elektriaktsiisi seaduse muutmise seaduse eelnõu (280 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c241f40d-7d48-40b3-a72f-8e0bbc569df8"
+    },
+    {
+      "order": 2,
+      "title": "Tulumaksuseaduse muutmise seaduse eelnõu (275 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ea5923c0-e1b5-4366-afef-1f189671cee6"
+    },
+    {
+      "order": 3,
+      "title": "2013. aasta riigieelarve seaduse eelnõu (278 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b3c0e49e-7ea5-480c-b0f6-b1410860056e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "3e1c3e54-7784-4107-a188-69ad45f455a2",
+      "files": [
+        "RAHK prot95 18.10.2012.docx"
+      ]
+    }
+  ],
+  "uuid": "129d0845-9680-4f4f-841e-2fb8237f0dd5",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 129d0845-9680-4f4f-841e-2fb8237f0dd5)",
+  "source": "https://api.riigikogu.ee/api/volumes/129d0845-9680-4f4f-841e-2fb8237f0dd5",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-10-01&endDate=2012-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
