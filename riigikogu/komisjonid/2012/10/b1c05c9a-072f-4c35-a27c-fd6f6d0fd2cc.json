@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 22.10.2012 13:30",
+  "sitting_time": "2012-10-22T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine;",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "92b7f533-28f5-488f-b226-ffc06a84b3e5"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli ülevaate „Elektritootmise võimalikud valikud“ arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e8ee72a1-da3c-4ceb-a106-a1da75249533"
+    },
+    {
+      "order": 3,
+      "title": "Informatsioon.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e6894a87-97bf-45f4-987d-451eea451b0d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Riigikontrolli ülevaate „Elektritootmise võimalikud valikud“ arutelu",
+      "uuid": "d0a5ef37-fa4f-4699-bd8c-2fe2cbb766da",
+      "files": [
+        "protokoll 66 22 10 2012 .rtf"
+      ]
+    }
+  ],
+  "uuid": "b1c05c9a-072f-4c35-a27c-fd6f6d0fd2cc",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b1c05c9a-072f-4c35-a27c-fd6f6d0fd2cc)",
+  "source": "https://api.riigikogu.ee/api/volumes/b1c05c9a-072f-4c35-a27c-fd6f6d0fd2cc",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-10-01&endDate=2012-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
