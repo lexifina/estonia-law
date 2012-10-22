@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung esmaspäev, 22.10.2012 11:00",
+  "sitting_time": "2012-10-22T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5d66ef62-0132-47ab-94df-b0229a5613e2"
+    },
+    {
+      "order": 2,
+      "title": "Riikliku pensionikindlustuse seaduse muutmise ja sellega seonduvalt teiste seaduste muutmise seaduse eelnõu (248 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "76c5173b-98d1-4089-b74e-d8a322e3b8d9"
+    },
+    {
+      "order": 3,
+      "title": "Ravimiseaduse muutmise seaduse eelnõu (257 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3f530aee-048f-4623-b166-479e1371e4e2"
+    },
+    {
+      "order": 4,
+      "title": "Riigikogu otsus \"Ettepaneku tegemine Vabariigi Valitsusele\" (260 OE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fca15c83-0c4f-430e-b321-27ffd5b517d0"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "d92f9e28-b93a-4b83-8309-9c76df9fe6ff",
+      "files": [
+        "protocol.rtf"
+      ]
+    }
+  ],
+  "uuid": "24933aa6-0dfa-4cde-b4d8-5ec15ed054c5",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 24933aa6-0dfa-4cde-b4d8-5ec15ed054c5)",
+  "source": "https://api.riigikogu.ee/api/volumes/24933aa6-0dfa-4cde-b4d8-5ec15ed054c5",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-10-01&endDate=2012-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
