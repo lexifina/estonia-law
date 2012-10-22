@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 22.10.2012 11:00",
+  "sitting_time": "2012-10-22T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9777cffd-35c1-42e3-92ea-6549bafa4e51"
+    },
+    {
+      "order": 2,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4d1befd3-97a8-41b7-9d46-1daf91f4b93b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "43d06531-8a49-470b-b1e4-59cbfe6b3cf8",
+      "files": [
+        "080 protokoll 22.10.2012.rtf"
+      ]
+    }
+  ],
+  "uuid": "c822d767-d382-4c46-8dcc-b6f572eddfe3",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c822d767-d382-4c46-8dcc-b6f572eddfe3)",
+  "source": "https://api.riigikogu.ee/api/volumes/c822d767-d382-4c46-8dcc-b6f572eddfe3",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-10-01&endDate=2012-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
