@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung esmaspäev, 22.10.2012 11:00",
+  "sitting_time": "2012-10-22T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fe975b17-1813-4306-803a-c589ecb41025"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine SA KredEx esindajatega.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d4c6bfb7-deec-44b4-a085-6da4edc1573c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "1a3af89e-8792-4f8e-b521-0db58e86193c",
+      "files": [
+        "protocol.rtf"
+      ]
+    }
+  ],
+  "uuid": "ad4522cf-f29f-4072-ad68-3d5f777c8d94",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ad4522cf-f29f-4072-ad68-3d5f777c8d94)",
+  "source": "https://api.riigikogu.ee/api/volumes/ad4522cf-f29f-4072-ad68-3d5f777c8d94",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-10-01&endDate=2012-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
