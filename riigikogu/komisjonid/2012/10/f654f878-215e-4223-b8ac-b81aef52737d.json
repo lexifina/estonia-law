@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung esmaspäev, 22.10.2012",
+  "sitting_time": "2012-10-22T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a01301b9-5d90-4f2d-903b-1f6634a35dd3"
+    },
+    {
+      "order": 2,
+      "title": "Vangistusseaduse, kriminaalhooldusseaduse ja karistusseadustiku muutmise seaduse eelnõu (264 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "54613047-188d-4d11-ac08-614017490acb"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "31fffbff-4177-49ef-9698-9fe2237d8d85"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "protokoll",
+      "uuid": "acae01db-fe8f-4751-b70b-8513932a10a7",
+      "files": [
+        "protokoll.ddoc",
+        "protokoll 2012-10-22.odt"
+      ]
+    }
+  ],
+  "uuid": "f654f878-215e-4223-b8ac-b81aef52737d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f654f878-215e-4223-b8ac-b81aef52737d)",
+  "source": "https://api.riigikogu.ee/api/volumes/f654f878-215e-4223-b8ac-b81aef52737d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-10-01&endDate=2012-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
