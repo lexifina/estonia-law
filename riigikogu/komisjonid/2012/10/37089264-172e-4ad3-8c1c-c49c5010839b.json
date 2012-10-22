@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung esmaspäev, 22.10.2012 11:00",
+  "sitting_time": "2012-10-22T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5fff3cd9-080d-40b6-b823-fc3561622932"
+    },
+    {
+      "order": 2,
+      "title": "Eesti Kaitsetööstuse Liidu tegevusest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6dbc723c-a55d-4fc1-a31c-c092bf981809"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3fabe743-9f20-4c90-a093-92f085f42e3e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "8088b8ed-d4b6-478c-b2af-9ba6486aae39",
+      "files": [
+        "22.10.12_103.rtf"
+      ]
+    }
+  ],
+  "uuid": "37089264-172e-4ad3-8c1c-c49c5010839b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 37089264-172e-4ad3-8c1c-c49c5010839b)",
+  "source": "https://api.riigikogu.ee/api/volumes/37089264-172e-4ad3-8c1c-c49c5010839b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-10-01&endDate=2012-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
