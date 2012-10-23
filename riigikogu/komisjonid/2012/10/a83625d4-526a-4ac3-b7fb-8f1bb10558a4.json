@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung teisipäev, 23.10.2012 14:00",
+  "sitting_time": "2012-10-23T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väljasõiduistung. Kohtumine Eesti Panga esindajatega.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3f92c1bd-e194-420d-aae2-6e91f5fe045b"
+    },
+    {
+      "order": 2,
+      "title": "Info",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "994a2f64-6c3d-44f4-8270-417dfa351fa3"
+    },
+    {
+      "order": 3,
+      "title": "2012. aasta riigieelarve seaduse muutmise seaduse eelnõu (298 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a7b3ef68-f53e-4654-a4b8-9b36dfb3c9dc"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "554fd16e-590f-4790-a352-cde2b563d8ef",
+      "files": [
+        "RAHK prot 97 23.10.2012.doc"
+      ]
+    }
+  ],
+  "uuid": "a83625d4-526a-4ac3-b7fb-8f1bb10558a4",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a83625d4-526a-4ac3-b7fb-8f1bb10558a4)",
+  "source": "https://api.riigikogu.ee/api/volumes/a83625d4-526a-4ac3-b7fb-8f1bb10558a4",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-10-01&endDate=2012-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
