@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 23.10.2012 14:00",
+  "sitting_time": "2012-10-23T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigi 2013. a riigieelarve Siseministeeriumi regionaalministri valitsemisala",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "650b47c0-9083-48ab-9e6b-a01717ee0661"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine mahetootjatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ebda2477-0d7e-4e1d-bcbd-a5729d5d9ba3"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "f690d6e8-c305-4ca5-9f60-1f90c4b87c51",
+      "files": [
+        "081 protokoll 23.10.2012.rtf"
+      ]
+    }
+  ],
+  "uuid": "39b4f2db-ba66-4926-b3f0-600285dba547",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 39b4f2db-ba66-4926-b3f0-600285dba547)",
+  "source": "https://api.riigikogu.ee/api/volumes/39b4f2db-ba66-4926-b3f0-600285dba547",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-10-01&endDate=2012-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
