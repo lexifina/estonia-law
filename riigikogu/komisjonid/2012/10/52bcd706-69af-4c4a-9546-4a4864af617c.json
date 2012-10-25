@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung neljapäev, 25.10.2012 14:00",
+  "sitting_time": "2012-10-25T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väljasõiduistung Majandus- ja Kommunikatsiooniministeeriumisse.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bb0359d6-2e2b-47df-8558-1919c4688072"
+    },
+    {
+      "order": 2,
+      "title": "Meresõiduohutuse seaduse muutmise seaduse eelnõu (283 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5365982a-72e9-45a8-88a2-0fd85c4bd0b2"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "73dc03c6-e34e-4985-96b6-f6b7816fbe72"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAJK 25.10.2012 nr 113",
+      "uuid": "7b211add-ee75-42cc-a9a4-06f23e6b9663",
+      "files": [
+        "25.10 nr 113.doc"
+      ]
+    }
+  ],
+  "uuid": "52bcd706-69af-4c4a-9546-4a4864af617c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 52bcd706-69af-4c4a-9546-4a4864af617c)",
+  "source": "https://api.riigikogu.ee/api/volumes/52bcd706-69af-4c4a-9546-4a4864af617c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-10-01&endDate=2012-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
