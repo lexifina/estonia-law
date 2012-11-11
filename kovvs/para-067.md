@@ -4,4 +4,4 @@
 
 (1¹) Kordushääletamist ei korraldata, kui Vabariigi Valimiskomisjon on tunnistanud elektroonilise hääletamise tulemused kehtetuks ja kutsunud elektrooniliselt hääletanud valijaid hääletama valimispäeval käesoleva seaduse §-s 45 või 52 sätestatud korras.
 
-(2) Kordushääletamisel käesoleva seaduse §-des 46–51 ettenähtut ei kohaldata.
+(2) Kordushääletamisel käesoleva seaduse §-des 46–51 ja 7¹. peatükis ettenähtut ei kohaldata.

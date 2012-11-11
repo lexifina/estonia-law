@@ -22,4 +22,4 @@
 
 (6) Valla või linna valimiskomisjon registreerib varem registreerimata jäetud isiku pärast käesoleva paragrahvi lõikes 1 nimetatud tähtaega, kui ta leiab, et isik vastab käesoleva seaduse § 5 lõigetes 5 ja 6 ettenähtud nõuetele, või kui maakonna valimiskomisjoni, Vabariigi Valimiskomisjoni või Riigikohtu otsusega on tunnistatud kehtetuks otsus, millega kandidaat jäeti registreerimata.
 
-(7) Registreerimisotsust võib tühistada ja registreerimata jäetud isikut registreerida hiljemalt eelhääletamise algusele eelneval päeval.
+(7) Registreerimisotsust võib tühistada ja registreerimata jäetud isikut registreerida hiljemalt 13. päeval enne valimispäeva.

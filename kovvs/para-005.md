@@ -1,6 +1,6 @@
 # § 5. Hääletamis- ja kandideerimisõigus
 
-(1) Hääletamisõigus on Eesti kodanikul ja Euroopa Liidu kodanikul, kes on valimispäevaks saanud 18-aastaseks ja kelle püsiv elukoht, see on elukoht, mille aadressiandmed on kantud Eesti rahvastikuregistrisse (edaspidi *rahvastikuregister*), asub vastavas vallas või linnas.
+(1) Hääletamisõigus on Eesti kodanikul ja Euroopa Liidu kodanikul, kes on valimispäevaks saanud 18-aastaseks ja kelle püsiv elukoht, see on elukoht, mille aadressiandmed on kantud Eesti rahvastikuregistrisse (edaspidi *rahvastikuregister*), asub vastavas vallas või linnas.
 
 (2) Hääletamisõigus on välismaalasel, kes vastab käesoleva paragrahvi lõikes 1 nimetatud tingimustele ja kes:
 

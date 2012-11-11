@@ -6,4 +6,4 @@
 
 (3) Kui 15. päeval enne valimispäeva on mõnes valimisringkonnas kandidaate registreerimiseks esitatud niisama palju või vähem, kui on selles ringkonnas mandaate, võtab valla või linna valimiskomisjon vastu otsuse valimiste kuni ühe kuu võrra edasilükkamise kohta selles vallas või linnas. Sellisel juhul koostab ja avalikustab valla või linna valimiskomisjon samaaegselt ka valimiste korraldamise ajakava.
 
-(4) Valimiste edasilükkamise korral käesoleva seaduse §-des 46–51 ettenähtut ei kohaldata.
+(4) Valimiste edasilükkamise korral käesoleva seaduse §-des 46–51 ja 7¹. peatükis ettenähtut ei kohaldata.

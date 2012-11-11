@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/121032011014> (version in force from 2012-01-01)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/101112012006> (version in force from 2012-11-11)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -32,6 +32,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/121032011014> (version in force 
 | [§ 18](para-018.md) | Maakonna valimiskomisjoni pädevus |
 | [§ 19](para-019.md) | Valla ja linna valimiskomisjoni moodustamine |
 | [§ 20](para-020.md) | Valla ja linna valimiskomisjoni pädevus |
+| [§ 20¹](para-020b1.md) | Elektroonilise hääletamise komisjoni pädevus |
 | [§ 21](para-021.md) | Jaoskonnakomisjoni moodustamine |
 | [§ 22](para-022.md) | Jaoskonnakomisjoni pädevus |
 | [§ 23](para-023.md) | Toimingud uue kohaliku omavalitsuse üksuse volikogu valimise korral |
@@ -70,6 +71,8 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/121032011014> (version in force 
 | [§ 52](para-052.md) | Kodus hääletamine |
 | [§ 53](para-053.md) | Eelhääletamise ajal väljaspool elukohajärgset valimisjaoskonda antud häälte arvestamine |
 | [§ 53¹](para-053b1.md) | Elektrooniliselt antud häälte arvestamine |
+| **7¹. peatükk ELEKTROONILINE HÄÄLETAMINE** | |
+| [§ 53²](para-053b2.md) | Elektroonilise hääletamise korraldamine |
 | **8. peatükk HÄÄLETAMIS- JA VALIMISTULEMUSTE KINDLAKSTEGEMINE** | |
 | [§ 54](para-054.md) | Hääletamistulemuste kindlakstegemine jaoskonnakomisjonis |
 | [§ 54¹](para-054b1.md) | Eelhääletamisel antud häälte lugemine |
@@ -91,7 +94,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/121032011014> (version in force 
 | [§ 62](para-062.md) | Kaebuse mõiste |
 | [§ 63](para-063.md) | Nõuded kaebusele |
 | [§ 64](para-064.md) | Jaoskonnakomisjoni toimingu ja valla või linna valimiskomisjoni otsuse või toimingu peale kaebuse esitamise ja kaebuse läbivaatamise kord |
-| [§ 65](para-065.md) | Maakonna valimiskomisjoni otsuse või toimingu peale kaebuse esitamise ja kaebuse läbivaatamise kord |
+| [§ 65](para-065.md) | Maakonna valimiskomisjoni otsuse või toimingu või elektroonilise hääletamise komisjoni toimingu peale kaebuse esitamise ja kaebuse läbivaatamise kord |
 | [§ 66](para-066.md) | Valimiskomisjoni otsuse või toimingu peale kaebuse esitamine |
 | [§ 67](para-067.md) | Hääletamistulemuste kehtetuks tunnistamine |
 | **11¹. peatükk VASTUTUS** | |
@@ -103,6 +106,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/121032011014> (version in force 
 | [§ 69](para-069.md) | Volikogu asendusliikmete registreerimine |
 | [§ 70](para-070.md) | Lisamandaatide registreerimine |
 | [§ 70¹](para-070b1.md) |  |
+| [§ 70²](para-070b2.md) | Hääletamissedelite ja valimisdokumentide säilitamine |
 | [§ 71](para-071.md) |  |
 | [§ 73](para-073.md) |  |
 | [§ 74](para-074.md) | Seaduse jõustumine |

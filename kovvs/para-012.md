@@ -8,6 +8,8 @@
 
 3) valla ja linna valimiskomisjonid;
 
-4) jaoskonnakomisjonid.
+4) jaoskonnakomisjonid;
+
+5) elektroonilise hääletamise komisjon.
 
 (2) Tallinnas ja Tartus täidavad maakonna valimiskomisjoni ülesandeid linna valimiskomisjonid.

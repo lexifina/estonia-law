@@ -17,3 +17,5 @@
 (8) Kui Vabariigi Valimiskomisjoni põhiliige ei saa komisjoni koosolekust osa võtta, asendab teda asendusliige, kellel on kõik põhiliikme õigused ja kohustused, välja arvatud esimehe või aseesimehe õigused ja kohustused.
 
 (9) Valimiskomisjoni liikme või asendusliikme või komisjoni abistava isiku tööleping või teenistussuhe peatatakse valimiste korraldamise ajaks valimiskomisjoni ettepaneku alusel.
+
+(10) Vabariigi Valimiskomisjoni, maakonna valimiskomisjoni ja elektroonilise hääletamise komisjoni liikmete tasustamine korraldatakse Riigikogu valimise seaduse § 12 lõigetes 10–12 sätestatut järgides.
