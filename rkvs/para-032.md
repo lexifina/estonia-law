@@ -22,4 +22,4 @@
 
 (6) Vabariigi Valimiskomisjon registreerib varem registreerimata jäetud isiku pärast käesoleva paragrahvi lõikes 1 nimetatud tähtaega, kui ta leiab, et isik vastab käesoleva seaduse § 4 lõigetes 4–6 ning § 29 lõikes 5 ettenähtud nõuetele või kui Riigikohtu otsusega on tühistatud Vabariigi Valimiskomisjoni otsus, millega kandidaat jäeti registreerimata.
 
-(7) Registreerimisotsuse võib tühistada ja registreerimata jäetud isiku registreerida hiljemalt eelhääletamise algusele eelneval päeval.
+(7) Registreerimisotsuse võib tühistada ja registreerimata jäetud isiku registreerida hiljemalt 13. päeval enne valimispäeva.

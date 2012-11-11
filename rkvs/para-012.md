@@ -17,3 +17,9 @@
 (8) Kui Vabariigi Valimiskomisjoni liige ei saa komisjoni koosolekust osa võtta, asendab teda asendusliige, kellel on kõik komisjoniliikme õigused ja kohustused, välja arvatud esimehe või aseesimehe õigused ja kohustused.
 
 (9) Valimiskomisjoni liikme või asendusliikme või komisjoni abistava isiku tööleping või teenistussuhe peatatakse valimiste korraldamise ajaks valimiskomisjoni ettepaneku alusel.
+
+(10) Vabariigi Valimiskomisjoni liige saab tasu komisjoni koosolekust osavõtmise ja komisjoni muude ülesannete täitmise eest. Vabariigi Valimiskomisjoni liikme tunnitasu suurus on 25-kordne Vabariigi Valitsuse kehtestatud tunni töötasu alammäär. Töötasu maksmise kord sätestatakse Vabariigi Valimiskomisjoni töökorras.
+
+(11) Maakonna valimiskomisjoni liikmele makstakse tasu riigieelarves valimiste korraldamiseks ettenähtud eraldistest. Eraldise jaotamise ning töötasu maksmise kord sätestatakse Vabariigi Valimiskomisjoni määrusega.
+
+(12) Elektroonilise hääletamise komisjoni liikme tunnitasu suurus on kuni 20-kordne Vabariigi Valitsuse kehtestatud tunni töötasu alammäär. Töötasu maksmise kord sätestatakse Vabariigi Valimiskomisjoni määrusega.

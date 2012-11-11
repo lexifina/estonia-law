@@ -10,4 +10,4 @@
 
 (5) Alaliselt välisriigis elavate valijate hääletamistulemuste kindlakstegemise kohta koostatakse vormikohane protokoll. Protokollile kirjutab alla komisjoni esimees. Protokolli märgitakse selle koostamise kuupäev ja kellaaeg.
 
-(6) Alaliselt välisriigis elavate valijate hääletamistulemused tehakse kindlaks avalikult, arvestades käesoleva seaduse § 58 lõikes 6 ettenähtud piiranguid.
+(6) Alaliselt välisriigis elavate hääletajate hääletamistulemused tehakse kindlaks avalikult. Häälte lugemise juures viibiv isik peab täitma maakonna valimiskomisjoni liikme suulisi korraldusi. Häälte lugemise juures viibiv isik ei või häälte lugemise ruumi kaasa võtta sidevahendeid ega lahkuda sealt enne kella 20.00.

@@ -10,7 +10,7 @@
 
 (5) Kodus hääletanute hääletamissedelite välisküljele pannakse jaoskonnakomisjoni pitsati jäljend ning sedelid pannakse hääletamisruumis hääletanute hääletamissedelite hulka.
 
-(6) Väljaspool elukohajärgset valimisjaoskonda hääletanute hääletamissedelite välisküljele pannakse jaoskonnakomisjoni pitsati jäljend ning need sedelid pannakse koos eelhääletanute hääletamissedelitega pärast § 58 lõikes 4 nimetatud kokkuvõtte koostamist valimispäeval hääletanute sedelite hulka.
+(6) Väljaspool elukohajärgset jaoskonda hääletanute hääletamissedelite välisküljele pannakse jaoskonnakomisjoni pitsati jäljend ning need sedelid pannakse koos eelhääletanute hääletamissedelitega valimispäeval hääletanute sedelite hulka.
 
 (7) Jaoskonnakomisjon teeb kindlaks hääletamiskastides olnud sedelite arvu, sealhulgas kehtetute sedelite arvu, ning kandidaatidele ja erakondadele antud häälte arvu ning kannab need vormikohasesse protokolli.
 

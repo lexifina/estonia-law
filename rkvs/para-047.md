@@ -1,6 +1,6 @@
 # § 47. Välisriigis elava valija hääletamine Eestis
 
-(1) Välisriigis elav valija, kes on kantud alaliselt välisriigis elavate valijate nimekirja ja kes ei ole hääletanud 8. peatükis ettenähtud korras, võib hääletada eelhääletamise ajal käesoleva seaduse § 41 lõike 2 esimeses lauses ettenähtud korras määratud mis tahes valimisjaoskonnas.
+(1) Välisriigis elav valija, kes on kantud alaliselt välisriigis elavate valijate nimekirja ja kes ei ole hääletanud käesoleva seaduse 8. peatükis ettenähtud korras, võib hääletada eelhääletamise ajal käesoleva seaduse § 41 lõike 2 esimeses lauses või lõikes 3 ettenähtud korras määratud mis tahes valimisjaoskonnas.
 
 (2) Hääletamissedeli saamiseks esitab valija jaoskonnakomisjonile isikut tõendava dokumendi ning ta kantakse väljaspool elukohajärgset jaoskonda hääletavate valijate nimekirja.
 
