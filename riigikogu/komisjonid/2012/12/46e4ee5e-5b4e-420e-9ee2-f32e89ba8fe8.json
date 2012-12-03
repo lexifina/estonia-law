@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 3.12.2012 13:30",
+  "sitting_time": "2012-12-03T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3942bf3b-43be-435a-807d-f43e3f5d98dc"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli auditiaruande „Maamaksu arvestamisega seotud probleemid“ arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fa324130-14d9-45a1-827e-fd8957c0b5d5"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Riigikontrolli auditiaruande „Maamaksu arvestamisega seotud probleemid“ arutelu",
+      "uuid": "9d55d2f6-8b84-47a9-b9e1-71a2f4df3fb0",
+      "files": [
+        "protokoll 76 03 12 2012 .rtf"
+      ]
+    }
+  ],
+  "uuid": "46e4ee5e-5b4e-420e-9ee2-f32e89ba8fe8",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 46e4ee5e-5b4e-420e-9ee2-f32e89ba8fe8)",
+  "source": "https://api.riigikogu.ee/api/volumes/46e4ee5e-5b4e-420e-9ee2-f32e89ba8fe8",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-12-01&endDate=2012-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
