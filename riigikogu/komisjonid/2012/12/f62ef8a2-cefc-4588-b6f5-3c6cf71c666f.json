@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung teisipäev, 4.12.2012 14:00",
+  "sitting_time": "2012-12-04T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Elektrituruseaduse muutmise seaduse eelnõu (318 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f9e02aed-ca00-43c3-94ce-c81ee152af64"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "db800877-8296-4602-a0c9-17857f48abbb"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAJK protokoll 122",
+      "uuid": "6571b8e9-1317-4ebb-905e-b5a555d73bb7",
+      "files": [
+        "protocol.rtf"
+      ]
+    }
+  ],
+  "uuid": "f62ef8a2-cefc-4588-b6f5-3c6cf71c666f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f62ef8a2-cefc-4588-b6f5-3c6cf71c666f)",
+  "source": "https://api.riigikogu.ee/api/volumes/f62ef8a2-cefc-4588-b6f5-3c6cf71c666f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-12-01&endDate=2012-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
