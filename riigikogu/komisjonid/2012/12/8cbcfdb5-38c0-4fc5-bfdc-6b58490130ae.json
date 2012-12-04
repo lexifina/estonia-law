@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung teisipäev, 4.12.2012 14:00",
+  "sitting_time": "2012-12-04T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Eesti Linnade Liidu ja Eesti Maaomavalitsuste Liidu esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0a156c71-3b4a-4ce0-a752-b8ff6b9917b8"
+    },
+    {
+      "order": 2,
+      "title": "Kohaliku omavalitsuse üksuse finantsjuhtimise seaduse ja kohaliku omavalitsuse korralduse seaduse muutmise seaduse eelnõu (311 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f6a2e939-0bd1-4011-91d9-35b70dd52acd"
+    },
+    {
+      "order": 3,
+      "title": "2013. aasta riigieelarve seaduse eelnõu (278 SE II)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9b3aa309-8573-4e04-902a-8df1597a34e0"
+    },
+    {
+      "order": 4,
+      "title": "2012. aasta riigieelarve seaduse muutmise seaduse eelnõu (298 SE III)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "87d16098-1f8e-4af0-88e8-ae92b7009b11"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "b77ea176-481c-4986-a1eb-234611c235be",
+      "files": [
+        "RAHK prot108_04.12.2012.doc"
+      ]
+    }
+  ],
+  "uuid": "8cbcfdb5-38c0-4fc5-bfdc-6b58490130ae",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8cbcfdb5-38c0-4fc5-bfdc-6b58490130ae)",
+  "source": "https://api.riigikogu.ee/api/volumes/8cbcfdb5-38c0-4fc5-bfdc-6b58490130ae",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-12-01&endDate=2012-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
