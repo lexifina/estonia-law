@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung teisipäev, 4.12.2012 08:50",
+  "sitting_time": "2012-12-04T08:50:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Täitemenetluse seadustiku ja kohtutäituri seaduse muutmise seaduse eelnõu (309 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7cc980e5-ae14-47c3-822e-4f9c45bd0d1a"
+    },
+    {
+      "order": 2,
+      "title": "Politsei ja piirivalve seaduse muutmise seaduse eelnõu (326 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fd16d3fd-5943-40cd-8835-6aba0f8e7e75"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "e081831e-9fb1-4bc8-a80d-3ea8ce56ad1f",
+      "files": [
+        "protocol(108).rtf",
+        "Protokoll.ddoc"
+      ]
+    }
+  ],
+  "uuid": "ac537c6f-8685-4db6-a763-640cee7b91af",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ac537c6f-8685-4db6-a763-640cee7b91af)",
+  "source": "https://api.riigikogu.ee/api/volumes/ac537c6f-8685-4db6-a763-640cee7b91af",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-12-01&endDate=2012-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
