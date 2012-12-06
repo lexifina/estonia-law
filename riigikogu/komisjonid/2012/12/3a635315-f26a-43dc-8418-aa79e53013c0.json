@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung neljapäev, 6.12.2012 14:00",
+  "sitting_time": "2012-12-06T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "2013. aasta riigieelarve seaduse eelnõu (278 SE II)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dcf5fe33-d247-4729-a794-8c828adfea6c"
+    },
+    {
+      "order": 2,
+      "title": "Käibemaksuseaduse muutmise seaduse eelnõu (292 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1184fb26-1ab0-46b3-9f62-051b7ded4286"
+    },
+    {
+      "order": 3,
+      "title": "Riigikogu otsus \"Ettepaneku tegemine Vabariigi Valitsusele\" (290 OE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7adcf0d5-7742-45dd-a520-c0b243595858"
+    },
+    {
+      "order": 4,
+      "title": "Maamaksuseaduse ja tulumaksuseaduse muutmise seaduse eelnõu (299 SE II)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "155afb44-2045-40e1-abc0-0af3a1873aae"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "db5198ef-8b00-4623-b715-c0f8a8829d61",
+      "files": [
+        "RAHK prot109_06.12.2012.doc"
+      ]
+    }
+  ],
+  "uuid": "3a635315-f26a-43dc-8418-aa79e53013c0",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3a635315-f26a-43dc-8418-aa79e53013c0)",
+  "source": "https://api.riigikogu.ee/api/volumes/3a635315-f26a-43dc-8418-aa79e53013c0",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-12-01&endDate=2012-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
