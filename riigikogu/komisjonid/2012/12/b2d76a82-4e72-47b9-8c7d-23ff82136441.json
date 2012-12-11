@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung teisipäev, 11.12.2012 14:00",
+  "sitting_time": "2012-12-11T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "93d9cbdd-7cc1-44d4-bed2-1ea86b54e702"
+    },
+    {
+      "order": 2,
+      "title": "Riigikohtule arvamuse andmine riigilõivuseaduse sätete kohta (2 erinevat lahendit)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "08b8f894-00f2-4a23-a901-32f4720e65a0"
+    },
+    {
+      "order": 3,
+      "title": "Põhiseaduskomisjoni kui juhtivkomisjoni menetluses olevate eelnõude ülevaatamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7e68483b-c8bb-4878-b8fb-e8e09189abb3"
+    },
+    {
+      "order": 4,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "71ce4d79-f6f9-4bb2-9eb3-dc3b7109db97"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "11.12.2012 protokoll",
+      "uuid": "82653757-d174-4c2c-8fe9-77ec45a9c311",
+      "files": [
+        "11.12.2012_protokoll.ddoc",
+        "2012.12.11.doc"
+      ]
+    }
+  ],
+  "uuid": "b2d76a82-4e72-47b9-8c7d-23ff82136441",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b2d76a82-4e72-47b9-8c7d-23ff82136441)",
+  "source": "https://api.riigikogu.ee/api/volumes/b2d76a82-4e72-47b9-8c7d-23ff82136441",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-12-01&endDate=2012-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
