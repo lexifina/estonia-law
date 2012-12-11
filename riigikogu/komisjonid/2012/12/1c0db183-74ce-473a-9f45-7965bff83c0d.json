@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung teisipäev, 11.12.2012 14:00",
+  "sitting_time": "2012-12-11T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Arengufondi nõukogu liikme nimetamine ja otsuse eelnõu esitamine.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "15e2441f-d636-4b9f-892a-285bdfd4ddfb"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine EAS-i juhtkonnaga.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b725d936-f7b2-4f6d-88b5-057c22fadb88"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "c1ed982d-9b45-4f09-87cc-81166a6d6db4",
+      "files": [
+        "protocol.rtf"
+      ]
+    }
+  ],
+  "uuid": "1c0db183-74ce-473a-9f45-7965bff83c0d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 1c0db183-74ce-473a-9f45-7965bff83c0d)",
+  "source": "https://api.riigikogu.ee/api/volumes/1c0db183-74ce-473a-9f45-7965bff83c0d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-12-01&endDate=2012-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
