@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung teisipäev, 11.12.2012 14:00",
+  "sitting_time": "2012-12-11T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Looduskaitseseaduse muutmise seaduse eelnõu (287 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "516a8b9f-3692-4b73-92a8-d2e4e7cf1e09"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu keskkonnakomisjoni raporti „Raskeveokite täismassipiirangute mõju metsanduse arengule ja keskkonnaseisundileˮ, arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "17c558b3-3d41-442f-983a-e20cdd5b4c3b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Keskkonnakomisjoni protokoll nr 80",
+      "uuid": "91609d34-f3fb-466f-ba8f-f1ae50491c03",
+      "files": [
+        "prot80 11.12.12.doc"
+      ]
+    }
+  ],
+  "uuid": "b500b481-3244-4a2d-bc25-3013916a872f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b500b481-3244-4a2d-bc25-3013916a872f)",
+  "source": "https://api.riigikogu.ee/api/volumes/b500b481-3244-4a2d-bc25-3013916a872f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-12-01&endDate=2012-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
