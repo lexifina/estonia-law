@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung teisipäev, 11.12.2012",
+  "sitting_time": "2012-12-11T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Tervise infosüsteemi rakendamisest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f28e47a0-8f88-4c7e-920a-d0f616c3932e"
+    },
+    {
+      "order": 2,
+      "title": "Ravikindlustuse seaduse muutmise seaduse eelnõu (325 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3cdd9a96-7e06-47b8-9571-69acb10e7f32"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "4a1454f7-071d-4a2c-a82a-e6d5b64524cc",
+      "files": [
+        "protocol.rtf"
+      ]
+    }
+  ],
+  "uuid": "7a0c0fc8-c120-4a1b-b3aa-8b93b7d14759",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7a0c0fc8-c120-4a1b-b3aa-8b93b7d14759)",
+  "source": "https://api.riigikogu.ee/api/volumes/7a0c0fc8-c120-4a1b-b3aa-8b93b7d14759",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-12-01&endDate=2012-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
