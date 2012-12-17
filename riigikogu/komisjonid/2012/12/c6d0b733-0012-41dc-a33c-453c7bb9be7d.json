@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung esmaspäev, 17.12.2012 11:10",
+  "sitting_time": "2012-12-17T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "20ec2c41-1ee3-4451-a948-a71ccb5d4f1c"
+    },
+    {
+      "order": 2,
+      "title": "1-2/12-517/5 - Eesti seisukohad Euroopa Parlamendi ja Nõukogu direktiivi, mis käsitleb biokütuste tootmisega seotud maakasutuse muutumist, eelnõu kohta",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c20cbba8-9704-4b2d-b2a0-d228fc8434e0"
+    },
+    {
+      "order": 3,
+      "title": "Elektrituruseaduse muutmise seaduse eelnõu (318 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f0ee97ef-1132-4ac2-8deb-c264b8908858"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "e20c11ae-c817-4a3a-bf2a-3b429cade33a",
+      "files": [
+        "protocol.rtf"
+      ]
+    }
+  ],
+  "uuid": "c6d0b733-0012-41dc-a33c-453c7bb9be7d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c6d0b733-0012-41dc-a33c-453c7bb9be7d)",
+  "source": "https://api.riigikogu.ee/api/volumes/c6d0b733-0012-41dc-a33c-453c7bb9be7d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-12-01&endDate=2012-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
