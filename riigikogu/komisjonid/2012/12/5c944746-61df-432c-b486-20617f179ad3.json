@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung esmaspäev, 17.12.2012",
+  "sitting_time": "2012-12-17T11:05:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b880cce3-5865-4584-828c-647b46cad891"
+    },
+    {
+      "order": 2,
+      "title": "Politsei ja piirivalve seaduse muutmise seaduse eelnõu (326 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1bbe3f5b-f24e-47bf-8c91-449bf0b0f969"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d7fba06c-cfd5-4871-a92b-3b3c804f579e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "0a11cf74-472c-426b-a33c-7cdc3d0275d7",
+      "files": [
+        "protocol.rtf"
+      ]
+    }
+  ],
+  "uuid": "5c944746-61df-432c-b486-20617f179ad3",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 5c944746-61df-432c-b486-20617f179ad3)",
+  "source": "https://api.riigikogu.ee/api/volumes/5c944746-61df-432c-b486-20617f179ad3",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-12-01&endDate=2012-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
