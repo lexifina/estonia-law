@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung esmaspäev, 17.12.2012 11:00",
+  "sitting_time": "2012-12-17T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala (17.12.12 - 23.12.12) töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "337330a7-5549-44cc-bdb1-c8e7ad843ca1"
+    },
+    {
+      "order": 2,
+      "title": "Jahiseaduse muutmise seaduse eelnõu (328 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4d1aa6bf-878c-45f2-9617-16968988e555"
+    },
+    {
+      "order": 3,
+      "title": "Looduskaitseseaduse ja riigivaraseaduse muutmise seaduse eelnõu (289 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "78970d01-baf7-463e-9bc3-e28abda25b5d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Keskkonnakomisjoni istungi protokoll nr 81",
+      "uuid": "764d6e7f-5ccf-4b0e-8eb9-c49857199f37",
+      "files": [
+        "prot81 17.12.12.doc"
+      ]
+    }
+  ],
+  "uuid": "94d7514f-3cd5-4503-a03d-62aed054b3e9",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 94d7514f-3cd5-4503-a03d-62aed054b3e9)",
+  "source": "https://api.riigikogu.ee/api/volumes/94d7514f-3cd5-4503-a03d-62aed054b3e9",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2012-12-01&endDate=2012-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
