@@ -1,6 +1,6 @@
 # § 32¹. Eesti teabevärav
 
-(1) Eesti teabevärav on veebileht, mille kaudu on kättesaadav avalikkusele suunatud teabevaldajate tegevusvaldkonda ja üldkasutatavaid teenuseid puudutav teave ning mille kaudu võimaldatakse juurdepääs elektroonilistele üldkasutatavatele teenustele.
+(1) Eesti teabevärav on veebileht, mille kaudu on kättesaadav teabevaldajate tegevusvaldkonda ja üldkasutatavaid teenuseid puudutav avalikkusele suunatud teave ning mille kaudu võimaldatakse juurdepääs elektroonilisele üldkasutatavale teenusele ja taaskasutatavale teabele.
 
 (2) Eesti teabevärava haldamise ja arendamise tagab Majandus- ja Kommunikatsiooniministeerium.
 
@@ -8,4 +8,4 @@
 
 (4) Teabevaldaja tagab ennast puudutava teabe aktuaalsuse ja ülevaatlikkuse Eesti teabeväravas ning teabe edastamise.
 
-(5) Eesti teabevärava haldamise, teabe kättesaadavaks tegemise, arendamise ning kasutamise nõuded ja korra.
+(5) Eesti teabevärava haldamise, teabe kättesaadavaks tegemise, arendamise, kasutamise ning andmekogu teabeväravaga liidestamise nõuded ja korra.

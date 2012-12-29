@@ -64,6 +64,8 @@
 
 31) asutuse dokumendiregistri;
 
+31¹) isikuandmete töötlemise eesmärk, ulatus ja viis, kolmandatele isikutele, sealhulgas teisele asutusele, isikuandmete edastamise ja avalikkusele kättesaadavaks tegemise ning isiku poolt enda andmetega tutvumise õigus ja kord;
+
 32) muu teabe ja dokumendid, mille avalikustamise kohustus on sätestatud välislepingus, seaduses või selle alusel vastuvõetud õigusaktis või mida teabevaldaja peab vajalikuks avalikustada.
 
 (2) Teabe avalikustamise korral peab olema märgitud, kes, millal ja millise toiminguga (kehtestamine, kinnitamine, registreerimine või muu ametlik toiming) on avalikustatava teabe dokumenteerinud ning kellelt saab avalikustatud teabe kohta selgitusi.

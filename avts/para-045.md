@@ -17,3 +17,5 @@
 5) teabevaldaja täidab teabe avalikustamise kohustust;
 
 6) teabevaldaja täidab veebilehe pidamise kohustust seaduses sätestatud korras.
+
+(4) Andmekaitse Inspektsioon võib anda soovituslikke juhiseid käesoleva seaduse rakendamiseks.

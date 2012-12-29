@@ -7,3 +7,5 @@
 2) teabe avalikustamisega.
 
 (2) Teabe avalikustamine on teabevaldaja poolt seadusega sätestatud korras teabele juurdepääsu võimaldamine, ilma et selleks peaks teabenõuet esitama.
+
+(3) Teabele juurdepääs hõlmab ka õigust seda teavet taaskasutada.

@@ -11,3 +11,7 @@
 3) ametlikus väljaandes;
 
 4) muul seadusega või selle alusel vastuvõetud õigusaktiga ettenähtud viisil.
+
+(3) Käesoleva seaduse § 28 lõikes 1 nimetatud teave peab olema avalikustatud ajakohasena ning viisil ja vormis, mis võimaldab teabe allalaadimist masinloetaval kujul. Kui teabe masinloetavale kujule viimine ei ole võimalik või see nõuab ebaproportsionaalseid pingutusi, tagab teabevaldaja teabe allalaadimise selle algkujul või mis tahes muus formaadis;
+
+(4) Käesoleva seaduse § 28 lõike 1 punktis 30 kirjeldatud teave peab olema avalikustatud masinloetaval kujul ning olema tervikliku andmekogumina allalaaditav teabevärava kaudu.

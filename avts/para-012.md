@@ -28,6 +28,4 @@
 
 (4¹) Dokumendiregistris registreeritud ja asutuse dokumendihaldussüsteemis sisalduvatele elektroonilistele dokumentidele, millele ei ole juurdepääsupiirangut kehtestatud, tagatakse juurdepääs dokumendiregistri kaudu, välja arvatud dokumentidele, mis avaldatakse Riigi Teatajas.
 
-(4²) Dokumendiregistris ei avalikustata isikuandmeid sisaldavaid dokumente, kui avaldamise kohustus ei tulene seadusest.
-
 (5) Dokumendiregistri pidaja peab võimaldama juurdepääsu dokumendiregistrile, looma dokumentide leidmise hõlbustamiseks sisujuhi ja kasutusjuhendi ning tagama dokumentide leidmise käesoleva paragrahvi lõikes 3 toodud andmete alusel infotehnoloogilise otsingusüsteemi abil ületekstiotsinguga.

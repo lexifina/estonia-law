@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/122032011010> (version in force from 2012-01-01)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/119122012004> (version in force from 2012-12-29)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -10,6 +10,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/122032011010> (version in force 
 | [§ 1](para-001.md) | Seaduse eesmärk |
 | [§ 2](para-002.md) | Seaduse reguleerimisala |
 | [§ 3](para-003.md) | Avalik teave |
+| [§ 3¹](para-003b1.md) | Avaliku teabe taaskasutamine |
 | [§ 4](para-004.md) | Avalikule teabele juurdepääsu võimaldamise põhimõtted |
 | [§ 5](para-005.md) | Teabevaldaja |
 | [§ 6](para-006.md) | Teabenõue |
@@ -91,6 +92,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/122032011010> (version in force 
 | [§ 57](para-057.md) | Riigi ja kohaliku omavalitsuse andmekogudes peetavatele andmetele juurdepääsu korra kooskõlla viimine seadusega |
 | [§ 58](para-058.md) | Asjaajamiskorra kooskõlla viimine käesoleva seadusega |
 | [§ 58¹](para-058b1.md) | Seaduse 5¹. peatüki rakendamine |
+| [§ 58²](para-058b2.md) | Avaliku teabe taaskasutamist reguleerivate sätete rakendamine |
 | [§ 59](para-059.md) |  |
 | [§ 68](para-068.md) |  |
 | [§ 69](para-069.md) | Seaduse jõustumine |

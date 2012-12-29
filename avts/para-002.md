@@ -2,7 +2,7 @@
 
 (1) Käesolev seadus sätestab:
 
-1) avalikule teabele juurdepääsu tingimused, korra ja viisid ning juurdepääsu võimaldamisest keeldumise alused;
+1) avalikule teabele juurdepääsu ja selle taaskasutamise tingimused, korra ja viisid ning teabele juurdepääsu võimaldamisest keeldumise alused;
 
 2) piiratud juurdepääsuga avaliku teabe ja sellele juurdepääsu võimaldamise korra teiste seadustega reguleerimata osas;
 

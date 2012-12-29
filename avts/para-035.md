@@ -46,16 +46,6 @@
 
 19) seaduses sätestatud muu teabe.
 
-(1¹) Käesoleva paragrahvi lõike 1 punkti 11 alusel tunnistatakse asutusesiseseks kasutamiseks mõeldud teabeks teave, mis sisaldab:
-
-1) perekonnaelu üksikasju kirjeldavaid andmeid;
-
-2) sotsiaalabi või sotsiaalteenuste osutamise taotlemist kirjeldavaid andmeid;
-
-3) isiku vaimseid või füüsilisi kannatusi kirjeldavaid andmeid;
-
-4) isiku kohta seoses maksustamisega kogutud teavet, välja arvatud teave maksuvõlgnevuste kohta.
-
 (2) Riigi- või kohaliku omavalitsuse asutuse või avalik-õigusliku juriidilise isiku juht võib asutusesiseseks kasutamiseks mõeldud teabeks tunnistada:
 
 1) õigustloovate aktide eelnõud enne nende kooskõlastamiseks saatmist või vastuvõtmiseks esitamist;
