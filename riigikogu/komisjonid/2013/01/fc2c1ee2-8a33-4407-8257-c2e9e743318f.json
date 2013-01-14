@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung esmaspäev, 14.01.2013 11:00",
+  "sitting_time": "2013-01-14T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1514f3f4-b92c-4d4b-b73e-b959c1db37c9"
+    },
+    {
+      "order": 2,
+      "title": "Tulumaksuseaduse muutmise seaduse eelnõu (275 SE II)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4924d9b5-fb5c-419b-bad8-c09e941c7709"
+    },
+    {
+      "order": 3,
+      "title": "Eesti Vabariigi valitsuse ja Türkmenistani valitsuse vahelise tulumaksudega topeltmaksustamise vältimise ning maksudest hoidumise tõkestamise lepingu ratifitseerimise seaduse eelnõu (341 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fb222f26-ebbb-4672-9f81-df3959b9271f"
+    },
+    {
+      "order": 4,
+      "title": "Käibemaksuseaduse muutmise seaduse eelnõu (292 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bde2507b-c870-49c1-b853-2b834eae14e7"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "65351354-9b6b-4f81-934c-d08e63e934e6",
+      "files": [
+        "RAHKprot112_14.01.2013.doc"
+      ]
+    }
+  ],
+  "uuid": "fc2c1ee2-8a33-4407-8257-c2e9e743318f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid fc2c1ee2-8a33-4407-8257-c2e9e743318f)",
+  "source": "https://api.riigikogu.ee/api/volumes/fc2c1ee2-8a33-4407-8257-c2e9e743318f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2013-01-01&endDate=2013-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
