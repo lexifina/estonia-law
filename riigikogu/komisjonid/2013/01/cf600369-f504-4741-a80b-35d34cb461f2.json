@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 14.01.2013 11:00",
+  "sitting_time": "2013-01-14T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "25012dde-7af2-4774-90da-e48ffab44a0d"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli auditiaruande „Maakondlike omavalitsusliitude tegevus ja sisekontrollisüsteemi toimimine“",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6187a90e-1b7e-4569-9e0b-b12178c4f84b"
+    },
+    {
+      "order": 3,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5b6e2b12-5a6a-430d-838f-34811bbbcb8e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "62cb8195-9bdb-4343-870d-8014983f69f8",
+      "files": [
+        "092 protokoll 14.01.2013.rtf"
+      ]
+    }
+  ],
+  "uuid": "cf600369-f504-4741-a80b-35d34cb461f2",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid cf600369-f504-4741-a80b-35d34cb461f2)",
+  "source": "https://api.riigikogu.ee/api/volumes/cf600369-f504-4741-a80b-35d34cb461f2",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2013-01-01&endDate=2013-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
