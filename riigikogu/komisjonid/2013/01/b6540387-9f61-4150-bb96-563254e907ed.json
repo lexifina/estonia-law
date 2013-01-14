@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung esmaspäev, 14.01.2013 11:00",
+  "sitting_time": "2013-01-14T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c5263dd0-7060-4012-9aaf-fa1cfbd57d60"
+    },
+    {
+      "order": 2,
+      "title": "Kaitseväe kaplaniteenistus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f1275973-e921-4cde-925c-d7fcabd83c99"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e587c870-7763-40e6-8a05-f7fa8e1ae431"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "a9063830-044b-4962-80dd-c1c1a24b4ce0",
+      "files": [
+        "14.01.13_121.pdf"
+      ]
+    }
+  ],
+  "uuid": "b6540387-9f61-4150-bb96-563254e907ed",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b6540387-9f61-4150-bb96-563254e907ed)",
+  "source": "https://api.riigikogu.ee/api/volumes/b6540387-9f61-4150-bb96-563254e907ed",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2013-01-01&endDate=2013-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
