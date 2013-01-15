@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 15.01.2013 14:00",
+  "sitting_time": "2013-01-15T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud maareformi seaduse muutmise ja sellest tulenevalt teiste seaduste muutmise seaduse eelnõu (335 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5d78b869-ff77-4e2d-bbdc-36401ec8581c"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud toiduseaduse muutmise seaduse eelnõu (322 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a5478e14-a27c-448f-b849-2de8310db300"
+    },
+    {
+      "order": 3,
+      "title": "Vabariigi Valitsuse algatatud Euroopa Liidu ühise põllumajanduspoliitika rakendamise seaduse muutmise seaduse eelnõu (348 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "efae2d1d-b1d7-4fa4-abee-a1b5a6c17c62"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "6edede66-17e8-4c01-9872-154338f251ce",
+      "files": [
+        "093 protokoll 15.01.2013.rtf"
+      ]
+    }
+  ],
+  "uuid": "4c5c0420-02b0-482e-ab96-34e3ad06092f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 4c5c0420-02b0-482e-ab96-34e3ad06092f)",
+  "source": "https://api.riigikogu.ee/api/volumes/4c5c0420-02b0-482e-ab96-34e3ad06092f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2013-01-01&endDate=2013-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
