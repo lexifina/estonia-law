@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung esmaspäev, 21.01.2013",
+  "sitting_time": "2013-01-21T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "39a6f802-5679-49f6-bd24-b575f496167e"
+    },
+    {
+      "order": 2,
+      "title": "Georgia parlamendi delegatsiooni vastuvõtmisest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f5ed5767-ab59-439b-b8ff-f9dd87f66125"
+    },
+    {
+      "order": 3,
+      "title": "Olulise tähtsusega riikliku küsimuse arutelu ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b2243d73-e387-49ca-a559-db4b66e50491"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "7e4c4718-0ed8-48d4-8327-643fed73ddc9",
+      "files": [
+        "protocol.rtf"
+      ]
+    }
+  ],
+  "uuid": "490a6b85-8c3f-4919-99a0-96c3648bbb03",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 490a6b85-8c3f-4919-99a0-96c3648bbb03)",
+  "source": "https://api.riigikogu.ee/api/volumes/490a6b85-8c3f-4919-99a0-96c3648bbb03",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2013-01-01&endDate=2013-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
