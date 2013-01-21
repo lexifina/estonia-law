@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung esmaspäev, 21.01.2013 11:00",
+  "sitting_time": "2013-01-21T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c6c2cd73-1ad4-40fc-b897-89b521773f47"
+    },
+    {
+      "order": 2,
+      "title": "Kaitseväelaste palgakorraldus. Kutsutud kaitseminister Urmas Reinsalu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "28607b7f-023c-4f50-8f94-868ff05b70bf"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e0356647-72e5-466c-8618-22802fddae64"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "4862f3bf-b9e7-4d09-8709-720bb6dd503f",
+      "files": [
+        "21.01.13_123.pdf"
+      ]
+    }
+  ],
+  "uuid": "18f6a5b3-dadf-4b99-8e05-e60d41e6a0fc",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 18f6a5b3-dadf-4b99-8e05-e60d41e6a0fc)",
+  "source": "https://api.riigikogu.ee/api/volumes/18f6a5b3-dadf-4b99-8e05-e60d41e6a0fc",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2013-01-01&endDate=2013-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
