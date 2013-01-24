@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung neljapäev, 24.01.2013 13:00",
+  "sitting_time": "2013-01-24T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade Eesti ja Hiina kahepoolsetest suhetest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e28ca7e4-2115-4360-afc7-0433f0b5c9d2"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "41693fa2-9090-4db6-8197-f0acf80dee10"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Väliskomisjoni istungi protokoll nr 140",
+      "uuid": "dc9712e2-f02a-426e-8da0-3b92b26de242",
+      "files": [
+        "24.01.2013 (140) protokoll.doc"
+      ]
+    }
+  ],
+  "uuid": "6bcaeeb1-e523-43a2-8857-b8ed0366feb9",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 6bcaeeb1-e523-43a2-8857-b8ed0366feb9)",
+  "source": "https://api.riigikogu.ee/api/volumes/6bcaeeb1-e523-43a2-8857-b8ed0366feb9",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2013-01-01&endDate=2013-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
