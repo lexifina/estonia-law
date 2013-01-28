@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung esmaspäev, 28.01.2013 11:00",
+  "sitting_time": "2013-01-28T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6c0d69ab-82d4-4603-942b-70d5c2e35849"
+    },
+    {
+      "order": 2,
+      "title": "Narkootiliste ja psühhotroopsete ainete ning nende lähteainete seaduse muutmise seaduse eelnõu (259 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ced5edcf-4e41-4c62-8ce0-56bcd1ef9168"
+    },
+    {
+      "order": 3,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "936a4dc6-d9f8-4642-bdb4-43208992ebb7"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "ef69aed4-fef1-493d-8c3a-ca2bf9d28293",
+      "files": [
+        "protocol.rtf"
+      ]
+    }
+  ],
+  "uuid": "dcae1b35-7555-4b61-8e14-7d5d4fbce019",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid dcae1b35-7555-4b61-8e14-7d5d4fbce019)",
+  "source": "https://api.riigikogu.ee/api/volumes/dcae1b35-7555-4b61-8e14-7d5d4fbce019",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2013-01-01&endDate=2013-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
