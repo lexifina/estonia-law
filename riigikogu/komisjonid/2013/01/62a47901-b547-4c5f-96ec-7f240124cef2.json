@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung esmaspäev, 28.01.2013 11:00",
+  "sitting_time": "2013-01-28T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "aec0b1b9-3662-4f0f-ae83-50acc1e32141"
+    },
+    {
+      "order": 2,
+      "title": "Kaitseliidu seaduse eelnõu (190 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3d0a0878-e36a-4e25-9aab-b18e8ea4bbd6"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9d32e6fc-a1fc-4bd5-8e7f-4791f5300bee"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "16f532af-26a2-466a-b7fe-06ba2803c197",
+      "files": [
+        "28.01.13_126.pdf"
+      ]
+    }
+  ],
+  "uuid": "62a47901-b547-4c5f-96ec-7f240124cef2",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 62a47901-b547-4c5f-96ec-7f240124cef2)",
+  "source": "https://api.riigikogu.ee/api/volumes/62a47901-b547-4c5f-96ec-7f240124cef2",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2013-01-01&endDate=2013-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
