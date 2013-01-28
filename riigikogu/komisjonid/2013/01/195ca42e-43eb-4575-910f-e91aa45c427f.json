@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 28.01.2013 13:30",
+  "sitting_time": "2013-01-28T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d0aec17c-82cb-40b2-ac21-78e64ee2b96a"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine riigikontrolöri kandidaadiga",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "742cb4a4-0a01-4e81-884f-ee6a9ee737a2"
+    },
+    {
+      "order": 3,
+      "title": "Informatsioon",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d622f092-3cda-4c46-94af-b12135331c9f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Kohtumine riigikontrolöri kandidaadiga",
+      "uuid": "8921d233-12da-4c42-9d1c-95f775ab00b4",
+      "files": [
+        "protokoll 83 28 01 2013 .rtf"
+      ]
+    }
+  ],
+  "uuid": "195ca42e-43eb-4575-910f-e91aa45c427f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 195ca42e-43eb-4575-910f-e91aa45c427f)",
+  "source": "https://api.riigikogu.ee/api/volumes/195ca42e-43eb-4575-910f-e91aa45c427f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2013-01-01&endDate=2013-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
