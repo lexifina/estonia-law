@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung teisipäev, 29.01.2013 13:00",
+  "sitting_time": "2013-01-29T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kemikaaliseaduse muutmise seaduse eelnõu (350 SE), tutvustamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "64443670-58f8-4de7-a03e-41f499f91865"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu otsuse „Riigimetsa Majandamise Keskuse nõukogu liikme nimetamineˮ eelnõu esitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "353a99a4-1b7c-4f4c-8e23-5ce13a53a36c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Keskkonnakomisjoni istungi protokoll nr 88",
+      "uuid": "77b8fd93-1c7a-4028-9095-9b2ed34d4b35",
+      "files": [
+        "prot88 29.01.13.doc"
+      ]
+    }
+  ],
+  "uuid": "789d5eeb-ea25-4e00-ba6b-ceb45c8b34ab",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 789d5eeb-ea25-4e00-ba6b-ceb45c8b34ab)",
+  "source": "https://api.riigikogu.ee/api/volumes/789d5eeb-ea25-4e00-ba6b-ceb45c8b34ab",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2013-01-01&endDate=2013-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
