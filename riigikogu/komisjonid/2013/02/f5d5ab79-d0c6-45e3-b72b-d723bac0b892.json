@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni erakorraline istung esmaspäev, 4.02.2013 14:00",
+  "sitting_time": "2013-02-04T14:00:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a401856d-ec0b-44ee-a762-2526604effbd"
+    },
+    {
+      "order": 2,
+      "title": "Jahiseadus (351 SE I) jahindusega seotud sihtrühmade esindajate kuulamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0500e2f0-97e8-42d5-b5df-b88056484425"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Keskkonnakomisjoni istungi protokoll nr 90",
+      "uuid": "93d11a9c-defd-4b6b-9996-a247ddaad076",
+      "files": [
+        "prot90 04.02.13.doc"
+      ]
+    }
+  ],
+  "uuid": "f5d5ab79-d0c6-45e3-b72b-d723bac0b892",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f5d5ab79-d0c6-45e3-b72b-d723bac0b892)",
+  "source": "https://api.riigikogu.ee/api/volumes/f5d5ab79-d0c6-45e3-b72b-d723bac0b892",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2013-02-01&endDate=2013-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
