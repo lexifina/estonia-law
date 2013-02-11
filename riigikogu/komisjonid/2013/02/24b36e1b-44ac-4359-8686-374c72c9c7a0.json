@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung esmaspäev, 11.02.2013 11:00",
+  "sitting_time": "2013-02-11T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c6884bbe-a526-4aa2-a340-85dc0e9ea3c1"
+    },
+    {
+      "order": 2,
+      "title": "Parlamentaarne kuulamine. Alkoholipoliitika roheline raamat.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "aab8dbf3-9852-4683-a0fe-b717ce896dbb"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "0bfc5a6d-e7b1-4917-9f35-aa61afcd34bb",
+      "files": [
+        "RAHKprot115 11.02.2013.doc"
+      ]
+    }
+  ],
+  "uuid": "24b36e1b-44ac-4359-8686-374c72c9c7a0",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 24b36e1b-44ac-4359-8686-374c72c9c7a0)",
+  "source": "https://api.riigikogu.ee/api/volumes/24b36e1b-44ac-4359-8686-374c72c9c7a0",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2013-02-01&endDate=2013-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
