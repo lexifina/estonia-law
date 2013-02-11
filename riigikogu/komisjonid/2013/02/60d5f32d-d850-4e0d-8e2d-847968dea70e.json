@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung esmaspäev, 11.02.2013 11:00",
+  "sitting_time": "2013-02-11T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "24425675-cbba-4c2f-9972-df250e88f013"
+    },
+    {
+      "order": 2,
+      "title": "Parlamentaarne kuulamine. Alkoholipoliitika roheline raamat.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "56e6f256-f36a-4c37-98b3-09603ad7e862"
+    },
+    {
+      "order": 3,
+      "title": "Narkootiliste ja psühhotroopsete ainete ning nende lähteainete seaduse  muutmise seaduse eelnõu (259 SE II)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8a8027c3-35ae-4bb6-8a3e-0e9f0312feda"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "90a37dff-0062-4941-906b-580a72c7ea77",
+      "files": [
+        "11.02.2013 prot.114.rtf"
+      ]
+    }
+  ],
+  "uuid": "60d5f32d-d850-4e0d-8e2d-847968dea70e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 60d5f32d-d850-4e0d-8e2d-847968dea70e)",
+  "source": "https://api.riigikogu.ee/api/volumes/60d5f32d-d850-4e0d-8e2d-847968dea70e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2013-02-01&endDate=2013-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
