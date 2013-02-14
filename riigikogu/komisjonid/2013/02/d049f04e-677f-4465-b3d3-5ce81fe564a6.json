@@ -1,0 +1,33 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung neljapäev, 14.02.2013 30 min. peale täiskogu lõppu",
+  "sitting_time": "2013-02-14T12:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Jahiseadus (351 SE I), muudatusettepanekute läbivaatamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "06b5b190-4816-42d4-9b1c-d237c0380cb6"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Keskkonnakomisjoni istungi protokoll nr 93",
+      "uuid": "55b56883-a1b4-477c-9bc9-1ac2b78e6a82",
+      "files": [
+        "prot93 14.02.13.doc"
+      ]
+    }
+  ],
+  "uuid": "d049f04e-677f-4465-b3d3-5ce81fe564a6",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d049f04e-677f-4465-b3d3-5ce81fe564a6)",
+  "source": "https://api.riigikogu.ee/api/volumes/d049f04e-677f-4465-b3d3-5ce81fe564a6",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2013-02-01&endDate=2013-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
