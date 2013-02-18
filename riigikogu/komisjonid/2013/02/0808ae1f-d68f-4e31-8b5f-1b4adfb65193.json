@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 18.02.2013 11:00",
+  "sitting_time": "2013-02-18T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5f2ac767-db26-435c-8573-6b9941181cb1"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud kohanimeseaduse ja kinnistusraamatuseaduse muutmise seaduse eelnõu (362 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "941897ba-f522-44ee-873c-8d2d95ad8dbc"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "95a32906-e8b7-4df9-a331-b9d63479cc5b",
+      "files": [
+        "100 protokoll 18.02.2013.rtf"
+      ]
+    }
+  ],
+  "uuid": "0808ae1f-d68f-4e31-8b5f-1b4adfb65193",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0808ae1f-d68f-4e31-8b5f-1b4adfb65193)",
+  "source": "https://api.riigikogu.ee/api/volumes/0808ae1f-d68f-4e31-8b5f-1b4adfb65193",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2013-02-01&endDate=2013-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
