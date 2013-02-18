@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung esmaspäev, 18.02.2013 11:10",
+  "sitting_time": "2013-02-18T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cfe6002f-dbf5-4870-b1fc-2e224ea58ffe"
+    },
+    {
+      "order": 2,
+      "title": "Kindlustustegevuse seaduse ja sellega seonduvalt teiste seaduste muutmise seaduse eelnõu (349 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9eb2a151-568a-4cd6-9f02-d320e911c18a"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9438f4f3-8de4-47cb-bffd-b63e9546f021"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAJK protokoll 18.02.2013 nr 139",
+      "uuid": "6156d8e8-7369-479d-b76d-9f0322b2af8d",
+      "files": [
+        "18.02.2013 nr 139.pdf"
+      ]
+    }
+  ],
+  "uuid": "65700a16-3916-4173-8041-f59306c17dac",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 65700a16-3916-4173-8041-f59306c17dac)",
+  "source": "https://api.riigikogu.ee/api/volumes/65700a16-3916-4173-8041-f59306c17dac",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2013-02-01&endDate=2013-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
