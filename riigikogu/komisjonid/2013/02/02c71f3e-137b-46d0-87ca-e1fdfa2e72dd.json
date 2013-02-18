@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung esmaspäev, 18.02.2013 11:00",
+  "sitting_time": "2013-02-18T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "90bef3ec-c091-4509-89e8-312e2704ab97"
+    },
+    {
+      "order": 2,
+      "title": "Alkoholi-, tubaka-, kütuse- ja elektriaktsiisi seaduse muutmise seaduse eelnõu (339 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f1bac335-f31f-416e-b7a3-0ce9c673e5d5"
+    },
+    {
+      "order": 3,
+      "title": "Info",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "311bd89f-f36f-4713-ae3c-170a67ed328b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "f119763f-03dd-47ac-bba8-63eda9ebb9d8",
+      "files": [
+        "RAHKprot117, 18.02.2013.doc"
+      ]
+    }
+  ],
+  "uuid": "02c71f3e-137b-46d0-87ca-e1fdfa2e72dd",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 02c71f3e-137b-46d0-87ca-e1fdfa2e72dd)",
+  "source": "https://api.riigikogu.ee/api/volumes/02c71f3e-137b-46d0-87ca-e1fdfa2e72dd",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2013-02-01&endDate=2013-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
