@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung esmaspäev, 18.02.2013 11:00",
+  "sitting_time": "2013-02-18T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1fe989b7-f466-4c60-a720-e2c05a776ac5"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli kontrolliaruande\" Laste hoolekande korraldus valdades ja linnades\" arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2ea7d15a-3cdf-4a17-92ba-670635280a11"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "08d89a2c-77c0-4768-8127-fb9eafd4217b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "73664b60-86cb-4e6c-8769-11d9117a14c7",
+      "files": [
+        "protocol.rtf"
+      ]
+    }
+  ],
+  "uuid": "19aa5f14-8e26-477a-b8bc-36a414994653",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 19aa5f14-8e26-477a-b8bc-36a414994653)",
+  "source": "https://api.riigikogu.ee/api/volumes/19aa5f14-8e26-477a-b8bc-36a414994653",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2013-02-01&endDate=2013-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
