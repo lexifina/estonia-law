@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 25.02.2013 11:00",
+  "sitting_time": "2013-02-25T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "75baeb2a-c839-422d-acaf-d52b68491dea"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud maareformi seaduse muutmise ja sellest tulenevalt teiste seaduste muutmise seaduse eelnõu (335 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "881d5803-0138-4c2f-8968-fc3f96f432e8"
+    },
+    {
+      "order": 3,
+      "title": "Vabariigi Valitsuse algatatud Eesti territooriumi haldusjaotuse seaduse muutmise ja sellega seonduvalt teiste seaduste muutmise seaduse eelnõu (352 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2956ba47-30f8-444b-9297-284b7a97bf80"
+    },
+    {
+      "order": 4,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a2e29399-13e4-438b-9ca1-22436c40b21e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "0bb69cf9-9ffd-4a46-99e1-f81d96f63984",
+      "files": [
+        "102 protokoll 25.02.2013.rtf"
+      ]
+    }
+  ],
+  "uuid": "8ff943e6-3fa4-4fed-b41b-143ac9bdfe90",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8ff943e6-3fa4-4fed-b41b-143ac9bdfe90)",
+  "source": "https://api.riigikogu.ee/api/volumes/8ff943e6-3fa4-4fed-b41b-143ac9bdfe90",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2013-02-01&endDate=2013-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
