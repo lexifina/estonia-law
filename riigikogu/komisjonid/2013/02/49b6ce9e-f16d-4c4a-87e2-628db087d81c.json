@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung esmaspäev, 25.02.2013 11:00",
+  "sitting_time": "2013-02-25T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala (25.02.13 - 03.03.13) töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "02d03fbc-5b21-49af-9324-3c34eac52170"
+    },
+    {
+      "order": 2,
+      "title": "Looduskaitseseaduse ja riigivaraseaduse muutmise seaduse eelnõu (289 SE I), muudatusettepanekute läbivaatamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a520f2f2-59dd-4ce9-ba26-18e0bdaae76f"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1ac52346-3d64-4203-b8e0-ea58a7353c1e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Keskkonnakomisjoni istungi protokoll nr 96",
+      "uuid": "eaf0b2d3-036f-4757-9c86-5c51a9f20f8f",
+      "files": [
+        "prot96 25.02.13.doc"
+      ]
+    }
+  ],
+  "uuid": "49b6ce9e-f16d-4c4a-87e2-628db087d81c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 49b6ce9e-f16d-4c4a-87e2-628db087d81c)",
+  "source": "https://api.riigikogu.ee/api/volumes/49b6ce9e-f16d-4c4a-87e2-628db087d81c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2013-02-01&endDate=2013-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
