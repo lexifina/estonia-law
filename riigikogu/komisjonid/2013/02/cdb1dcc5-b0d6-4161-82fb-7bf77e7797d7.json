@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung esmaspäev, 25.02.2013",
+  "sitting_time": "2013-02-25T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5f3772ce-5dfb-434d-8d15-8203d785e1cb"
+    },
+    {
+      "order": 2,
+      "title": "Ohvriabi seaduse muutmise ja sellega seonduvalt teiste seaduste muutmise seaduse eelnõu (379 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cceb01d9-1c9a-4580-842b-d81766594b0d"
+    },
+    {
+      "order": 3,
+      "title": "Kriminaalpoliitika arengusuundade 2012. a. täitmise aruande arutelu.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8d7fa44a-7c50-4333-a429-f6e00223124a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "protokoll",
+      "uuid": "ee64ef38-deb6-4fb0-8e0c-4ed57a5a1af6",
+      "files": [
+        "protokoll.ddoc",
+        "protocol.odt"
+      ]
+    }
+  ],
+  "uuid": "cdb1dcc5-b0d6-4161-82fb-7bf77e7797d7",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid cdb1dcc5-b0d6-4161-82fb-7bf77e7797d7)",
+  "source": "https://api.riigikogu.ee/api/volumes/cdb1dcc5-b0d6-4161-82fb-7bf77e7797d7",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2013-02-01&endDate=2013-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
