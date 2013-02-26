@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung teisipäev, 26.02.2013 14:00",
+  "sitting_time": "2013-02-26T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kaitseliidu seaduse eelnõu (190 SE II)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ed73af18-176f-4c29-8cea-63b265cacc9c"
+    },
+    {
+      "order": 2,
+      "title": "3-8/13-2 Kutse osalemiseks XXVIII Kõrgematel Riigikaitsekursustel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "95617ff6-3f6e-4ac2-b6e7-60cb7788a9ca"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7a6b2b03-612d-4fda-a818-63d1f63b3888"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "a190bef8-91a8-4aa1-adb4-e0b110f060f2",
+      "files": [
+        "26.02.13_136.pdf"
+      ]
+    }
+  ],
+  "uuid": "47c1b12d-6405-47f8-add1-48edbfdb2375",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 47c1b12d-6405-47f8-add1-48edbfdb2375)",
+  "source": "https://api.riigikogu.ee/api/volumes/47c1b12d-6405-47f8-add1-48edbfdb2375",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2013-02-01&endDate=2013-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
