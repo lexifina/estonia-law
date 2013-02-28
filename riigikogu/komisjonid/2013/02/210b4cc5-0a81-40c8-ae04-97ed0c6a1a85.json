@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung neljapäev, 28.02.2013 14:00",
+  "sitting_time": "2013-02-28T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "10ee4d23-aaa3-4cce-a779-421eff91734c"
+    },
+    {
+      "order": 2,
+      "title": "Rahandusministeeriumi ülevaade kassareservist, stabiliseerimisreservist  ja riigi rahavoo prognoosist.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5cf48510-8085-4c04-bb19-249aff2d5510"
+    },
+    {
+      "order": 3,
+      "title": "Info",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f7efcae0-f52f-4f8c-96c6-9f89db913c54"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "3f0eb536-ed0a-4c64-9207-a080c46ad616",
+      "files": [
+        "RAHKprot120 28.02.2013.doc"
+      ]
+    }
+  ],
+  "uuid": "210b4cc5-0a81-40c8-ae04-97ed0c6a1a85",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 210b4cc5-0a81-40c8-ae04-97ed0c6a1a85)",
+  "source": "https://api.riigikogu.ee/api/volumes/210b4cc5-0a81-40c8-ae04-97ed0c6a1a85",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2013-02-01&endDate=2013-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
