@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung teisipäev, 12.03.2013 13:00",
+  "sitting_time": "2013-03-12T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Informatsioon Eesti-Vene piirilepingute konsultatsioonide hetkeseisust.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "89aa9287-778c-4d3b-89a2-14b52a7df424"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade arengutest Venemaal ja Eesti-Vene kahepoolsetest suhetest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "801dd530-4fb7-45ab-8d68-b01410a81fa9"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3183a356-fa39-4d13-8a45-fe2ce9677104"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Väliskomisjoni istungi protokoll nr 154",
+      "uuid": "ae186878-e85f-4d7e-8dff-cad5defcf1ea",
+      "files": [
+        "12.03.2013 ( 154) protokoll.doc"
+      ]
+    }
+  ],
+  "uuid": "7877645c-f2b4-436c-bbf8-ea0fabc3abab",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7877645c-f2b4-436c-bbf8-ea0fabc3abab)",
+  "source": "https://api.riigikogu.ee/api/volumes/7877645c-f2b4-436c-bbf8-ea0fabc3abab",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2013-03-01&endDate=2013-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
