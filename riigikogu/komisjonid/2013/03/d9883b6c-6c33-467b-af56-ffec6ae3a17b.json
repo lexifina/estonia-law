@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung esmaspäev, 18.03.2013 11:00",
+  "sitting_time": "2013-03-18T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "578ef917-ecb7-4968-b457-c6692c918274"
+    },
+    {
+      "order": 2,
+      "title": "Tulumaksuseaduse muutmise seaduse eelnõu (359 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "053f92ea-3b11-4a8b-a20f-25765a302c13"
+    },
+    {
+      "order": 3,
+      "title": "Tulumaksuseaduse muutmise seaduse eelnõu (367 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2c343b43-e007-4de3-86da-e7b5325a535e"
+    },
+    {
+      "order": 4,
+      "title": "Info",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6e9e0bcc-9f11-4baf-af49-a19f9f3e95c0"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "4aa75fb0-739e-400f-b35a-b45d16f340aa",
+      "files": [
+        "prot_123_RAHK.doc"
+      ]
+    }
+  ],
+  "uuid": "d9883b6c-6c33-467b-af56-ffec6ae3a17b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d9883b6c-6c33-467b-af56-ffec6ae3a17b)",
+  "source": "https://api.riigikogu.ee/api/volumes/d9883b6c-6c33-467b-af56-ffec6ae3a17b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2013-03-01&endDate=2013-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
