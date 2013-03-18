@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung esmaspäev, 18.03.2013 11:00",
+  "sitting_time": "2013-03-18T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala (18.03.13 - 24.03.13) töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4a6afdf9-9e48-4ee9-a1da-a4247161f2c5"
+    },
+    {
+      "order": 2,
+      "title": "Veeseaduse muutmise seaduse eelnõu (391 SE), esimesele lugemisele saatmine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cfc75e8a-fe73-4618-aff7-eb5321809425"
+    },
+    {
+      "order": 3,
+      "title": "3.1. Väljasõiduistungi planeerimine Pihkvasse",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dc6f3e3d-bd95-4b09-a64e-0d06cdf0d3e8"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Keskkonnakomisjoni istungi protokoll nr 101",
+      "uuid": "05df8a25-b442-425d-bd1e-95c68f047f93",
+      "files": [
+        "prot101  18.03.13.doc"
+      ]
+    }
+  ],
+  "uuid": "f46d2014-8ff5-4633-8fdf-219bc0655b3c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f46d2014-8ff5-4633-8fdf-219bc0655b3c)",
+  "source": "https://api.riigikogu.ee/api/volumes/f46d2014-8ff5-4633-8fdf-219bc0655b3c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2013-03-01&endDate=2013-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
