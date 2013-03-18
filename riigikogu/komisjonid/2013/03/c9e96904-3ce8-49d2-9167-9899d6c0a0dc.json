@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 18.03.2013 13:30",
+  "sitting_time": "2013-03-18T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine;",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9dfc9e94-0138-446c-9d14-375b64cbf8bc"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli auditiaruande „Põhivara arvestuse korraldus valdades ja linnades“ arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "efba00a8-11aa-40b3-90c0-592c9d749aad"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Riigikontrolli auditiaruande „Põhivara arvestuse korraldus valdades ja linnades“ tutvustus",
+      "uuid": "297e06f0-a2a9-45d1-9b9f-cb8aec3bd19c",
+      "files": [
+        "protokoll 93 18 03 2013 .rtf",
+        "Riigikontrolli slaidid 18.03.13.ppt"
+      ]
+    }
+  ],
+  "uuid": "c9e96904-3ce8-49d2-9167-9899d6c0a0dc",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c9e96904-3ce8-49d2-9167-9899d6c0a0dc)",
+  "source": "https://api.riigikogu.ee/api/volumes/c9e96904-3ce8-49d2-9167-9899d6c0a0dc",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2013-03-01&endDate=2013-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
