@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung neljapäev, 21.03.2013",
+  "sitting_time": "2013-03-21T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ohvriabi seaduse muutmise ja sellega seonduvalt teiste seaduste muutmise seaduse eelnõu (379 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a07c7d17-662c-40be-b914-5299b3e8ec9b"
+    },
+    {
+      "order": 2,
+      "title": "Kutse organiseeritud kuritegevuse vastu võitlemise seminarile 18-19 aprillil Vilniuses.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0431f3ab-f29f-4030-bb36-aec64fd939e3"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "protokoll",
+      "uuid": "f612cd89-8779-434b-aded-49c10f1a0fae",
+      "files": [
+        "protokoll.ddoc",
+        "Protokoll 21.03.2013.odt"
+      ]
+    }
+  ],
+  "uuid": "a2cb0910-c8c6-44ec-94fd-5e057b42684e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a2cb0910-c8c6-44ec-94fd-5e057b42684e)",
+  "source": "https://api.riigikogu.ee/api/volumes/a2cb0910-c8c6-44ec-94fd-5e057b42684e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2013-03-01&endDate=2013-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
