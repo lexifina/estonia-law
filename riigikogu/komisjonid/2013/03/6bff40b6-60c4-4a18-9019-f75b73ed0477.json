@@ -1,0 +1,33 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung neljapäev, 21.03.2013 13:00",
+  "sitting_time": "2013-03-21T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Armeenia parlamendi rahanduskomisjoni esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e96432a4-be56-4eb4-b17b-35105c30db56"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "bc5b43c2-19c8-49fd-bf42-d0d4e89087e5",
+      "files": [
+        "RAHKprot125.doc"
+      ]
+    }
+  ],
+  "uuid": "6bff40b6-60c4-4a18-9019-f75b73ed0477",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 6bff40b6-60c4-4a18-9019-f75b73ed0477)",
+  "source": "https://api.riigikogu.ee/api/volumes/6bff40b6-60c4-4a18-9019-f75b73ed0477",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2013-03-01&endDate=2013-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
