@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung esmaspäev, 25.03.2013 11:00",
+  "sitting_time": "2013-03-25T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "72925e74-ff3b-4f16-b5d2-d61a3a91d629"
+    },
+    {
+      "order": 2,
+      "title": "Laskeväljaõppe ja –spordi arendamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "671757ed-7833-4b15-b3a1-8c210731fcb3"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "748398bf-561d-440f-9f97-099d19ad7645"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "dd3989a0-9e00-4d8e-91c9-9118b55c12bb",
+      "files": [
+        "25.03.13_141.pdf"
+      ]
+    }
+  ],
+  "uuid": "66d8bbe6-0d63-4cfc-9f80-cfc045b53549",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 66d8bbe6-0d63-4cfc-9f80-cfc045b53549)",
+  "source": "https://api.riigikogu.ee/api/volumes/66d8bbe6-0d63-4cfc-9f80-cfc045b53549",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2013-03-01&endDate=2013-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
