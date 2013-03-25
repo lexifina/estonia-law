@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung esmaspäev, 25.03.2013",
+  "sitting_time": "2013-03-25T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ec13ccd7-619d-4ec2-995e-ab5477f87b00"
+    },
+    {
+      "order": 2,
+      "title": "Võlaõigusseaduse ja reklaamiseaduse muutmise seaduse eelnõu (347 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "71b09fdc-6fd7-4b6f-91a4-65c262a4d936"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "25.03.2013",
+      "uuid": "70b9b3ca-1a3a-4d55-9234-5c41219f3a62",
+      "files": [
+        "protocol(193).rtf",
+        "25.03.2013.ddoc"
+      ]
+    }
+  ],
+  "uuid": "bbb08381-c3f4-4c57-8a17-d82b4d832360",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid bbb08381-c3f4-4c57-8a17-d82b4d832360)",
+  "source": "https://api.riigikogu.ee/api/volumes/bbb08381-c3f4-4c57-8a17-d82b4d832360",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2013-03-01&endDate=2013-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
