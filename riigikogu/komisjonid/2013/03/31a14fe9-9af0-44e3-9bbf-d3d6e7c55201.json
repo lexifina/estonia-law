@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung teisipäev, 26.03.2013 14:00",
+  "sitting_time": "2013-03-26T12:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Rahandusministeeriumi ülevaade  Kreeka ja Küprose majandusolukorra ning abiprogrammide kohta",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8156d993-5dc2-4206-b9a0-3f694665c158"
+    },
+    {
+      "order": 2,
+      "title": "Info",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bd00453f-3abe-4636-bcc5-cf027b264665"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "7d3e47dc-1183-46f7-9993-9656c4e2be64",
+      "files": [
+        "127prot_RAHK.doc"
+      ]
+    }
+  ],
+  "uuid": "31a14fe9-9af0-44e3-9bbf-d3d6e7c55201",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 31a14fe9-9af0-44e3-9bbf-d3d6e7c55201)",
+  "source": "https://api.riigikogu.ee/api/volumes/31a14fe9-9af0-44e3-9bbf-d3d6e7c55201",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2013-03-01&endDate=2013-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
