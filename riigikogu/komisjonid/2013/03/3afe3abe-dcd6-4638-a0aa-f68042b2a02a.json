@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung neljapäev, 28.03.2013 00:50",
+  "sitting_time": "2013-03-28T09:50:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Investeerimisfondide seaduse muutmise seaduse eelnõu (408 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9b80fe91-c4e3-495d-8f39-037196a642ce"
+    },
+    {
+      "order": 2,
+      "title": "Info",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0c33885f-fe5c-404e-b0f7-597b4ef675c9"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "01d91f2f-076a-4572-8212-a3ed64897546",
+      "files": [
+        "128_RAHKprot.doc"
+      ]
+    }
+  ],
+  "uuid": "3afe3abe-dcd6-4638-a0aa-f68042b2a02a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3afe3abe-dcd6-4638-a0aa-f68042b2a02a)",
+  "source": "https://api.riigikogu.ee/api/volumes/3afe3abe-dcd6-4638-a0aa-f68042b2a02a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2013-03-01&endDate=2013-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
