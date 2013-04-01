@@ -10,4 +10,4 @@
 
 (5) Kandideerimisõigust ei ole isikul, kes on valimisõiguse osas teovõimetuks tunnistatud.
 
-(6) Riigikogu liikmeks ei või kandideerida kaadrikaitseväelane ega isik, kes on kohtu poolt süüdi mõistetud kuriteos ja kannab vanglakaristust.
+(6) Riigikogu liikmeks ei või kandideerida tegevväelane ega isik, kes on kohtu poolt süüdi mõistetud kuriteos ja kannab vanglakaristust.
