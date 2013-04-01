@@ -50,7 +50,7 @@
 
 24) andmed riigi- ja kohaliku omavalitsuse asutuste juhtide vastuvõtuaegade kohta;
 
-25) riigi- ja kohaliku omavalitsuse asutuses kehtivad palgamäärad ja -juhendid, lisatasu maksmise ning erisoodustuste andmise korra;
+25) riigi ja kohaliku omavalitsuse üksuse ametiasutuste ametnike palga ja teenistusülesannetega seonduva muu tulu ning ametiasutuse palgajuhendi avaliku teenistuse seaduses sätestatud korras;
 
 26) andmed kaubaturul valitsevas seisundis olevate, eri- või ainuõigust või loomulikku monopoli omavate äriühingute hinnakujunduse kohta;
 
