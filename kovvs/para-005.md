@@ -12,4 +12,4 @@
 
 (5) Kandideerimisõigus on igal hääleõiguslikul Eesti kodanikul ja Euroopa Liidu kodanikul, kelle püsiv elukoht asub hiljemalt valimisaasta 1. augustil vastavas vallas või linnas.
 
-(6) Volikogu liikmeks ei või kandideerida kaadrikaitseväelane ega isik, kes on kohtu poolt süüdi mõistetud kuriteos ja kannab vanglakaristust.
+(6) Volikogu liikmeks ei või kandideerida tegevväelane ega isik, kes on kohtu poolt süüdi mõistetud kuriteos ja kannab vanglakaristust.
