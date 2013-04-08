@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 8.04.2013 11:00",
+  "sitting_time": "2013-04-08T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2b041a0d-5ddf-41a0-ad66-03395522eee9"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade omavalitsusreformist",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "076f3e98-e919-4654-aa3e-4c42c052b105"
+    },
+    {
+      "order": 3,
+      "title": "Eesti, Läti ja Leedu parlamentide maaelukomisjonide kohtumine Riias 12.-13. aprillil 2013",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f4c79fde-b57c-499d-9037-d35e0785518d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "171b63e5-6d98-4e0a-be31-8ecc93db112d",
+      "files": [
+        "109 protokoll 08.04.2013.rtf"
+      ]
+    }
+  ],
+  "uuid": "644c5ea4-c2ff-4839-97f1-f8d44d81c2a2",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 644c5ea4-c2ff-4839-97f1-f8d44d81c2a2)",
+  "source": "https://api.riigikogu.ee/api/volumes/644c5ea4-c2ff-4839-97f1-f8d44d81c2a2",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2013-04-01&endDate=2013-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
