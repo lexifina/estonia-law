@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung esmaspäev, 8.04.2013 11:00",
+  "sitting_time": "2013-04-08T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f1807e47-cd4b-410b-9a2c-7a7f272ff535"
+    },
+    {
+      "order": 2,
+      "title": "Riigikaitsekomisjoni väljasõiduistung NATO küberkaitsekoostöö keskusesse",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "512d19d9-293f-4743-9fa9-6339d8d3eb32"
+    },
+    {
+      "order": 3,
+      "title": "Riigikaitsekomisjoni väljasõiduistungid Lõuna- Eestisse  11.-12.04.2013",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "af656023-f1d0-47b9-88d4-641208c0dee7"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "153da593-0e8c-4835-a64c-890d8818a7ce",
+      "files": [
+        "08.04.13_142.pdf"
+      ]
+    }
+  ],
+  "uuid": "5369fcd9-4f1d-44c5-a005-c40e578801a9",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 5369fcd9-4f1d-44c5-a005-c40e578801a9)",
+  "source": "https://api.riigikogu.ee/api/volumes/5369fcd9-4f1d-44c5-a005-c40e578801a9",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2013-04-01&endDate=2013-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
