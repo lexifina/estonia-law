@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung teisipäev, 9.04.2013 14:00",
+  "sitting_time": "2013-04-09T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Keskkonnaseire ümberkorraldamine Keskkonnaministeeriumi haldusalas, ülevaate kuulamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6f0ba897-3a6b-40db-8e96-7f6ecd1863f8"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f83ef660-9852-4d72-81ae-74aef22ec2f0"
+    },
+    {
+      "order": 2,
+      "title": "Jahiseadus (351 SE I), arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4e10894d-a77e-4ba5-9992-ff2ddd2cfca1"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Keskkonnakomisjoni istungi protokoll nr 104",
+      "uuid": "9045f783-319c-4a08-b1de-48c0b85b7b83",
+      "files": [
+        "prot104  09.04.13.doc"
+      ]
+    }
+  ],
+  "uuid": "2a7a0dec-d75d-46a2-8743-c4d0402d93e0",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2a7a0dec-d75d-46a2-8743-c4d0402d93e0)",
+  "source": "https://api.riigikogu.ee/api/volumes/2a7a0dec-d75d-46a2-8743-c4d0402d93e0",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2013-04-01&endDate=2013-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
