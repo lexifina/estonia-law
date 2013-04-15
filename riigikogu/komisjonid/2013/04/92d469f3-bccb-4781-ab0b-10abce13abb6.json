@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung esmaspäev, 15.04.2013 11:00",
+  "sitting_time": "2013-04-15T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "59bcae88-2636-462f-ac6c-fe8d552216cf"
+    },
+    {
+      "order": 2,
+      "title": "Euroopa Parlamendi ja nõukogu direktiivi 2011/24/EL patsiendiõiguste kohaldamise kohta piiriüleses tervishoius ülevõtmine Eesti siseriiklikusse õigusesse",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8e7f78a1-ae8a-4aad-b6c9-d999b5df6e06"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b31886e3-fe96-4955-aedc-9a35ef223031"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "d296eefe-b656-48aa-9e6b-bf7bff7053d0",
+      "files": [
+        "protocol.rtf"
+      ]
+    }
+  ],
+  "uuid": "92d469f3-bccb-4781-ab0b-10abce13abb6",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 92d469f3-bccb-4781-ab0b-10abce13abb6)",
+  "source": "https://api.riigikogu.ee/api/volumes/92d469f3-bccb-4781-ab0b-10abce13abb6",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2013-04-01&endDate=2013-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
