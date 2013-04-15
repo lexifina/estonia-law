@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 15.04.2013 13:30",
+  "sitting_time": "2013-04-15T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine;",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "92849e2d-3770-4321-a71f-e68f08e23f47"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade riigi kinnisvarapoliitikast;",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "02eea755-1a7f-4b4e-995e-27e4857de37d"
+    },
+    {
+      "order": 3,
+      "title": "Informatsioon.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f1cc5fad-7620-4c82-8bfe-60fa9727d266"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Ülevaade riigi kinnisvarapoliitikast",
+      "uuid": "a71424cc-1a3d-4bad-a72b-5a325d948f1e",
+      "files": [
+        "Rahandusministeeriumi slaidid 15.04.2013.ppt",
+        "Riigi Kinnisvara AS slaidid 15.04.2013.ppt",
+        "protokoll 98 15 04 2013 .rtf"
+      ]
+    }
+  ],
+  "uuid": "3055050d-ced5-4993-8256-0e1299538dfe",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3055050d-ced5-4993-8256-0e1299538dfe)",
+  "source": "https://api.riigikogu.ee/api/volumes/3055050d-ced5-4993-8256-0e1299538dfe",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2013-04-01&endDate=2013-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
