@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung esmaspäev, 15.04.2013 11:00",
+  "sitting_time": "2013-04-15T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b2483025-dc51-49a2-9556-edc6d58ddba5"
+    },
+    {
+      "order": 2,
+      "title": "Jahiseadus (351 SE I), muudatusettepanekute läbivaatamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9fcc4d6f-307e-4297-8b5c-d5cfaef33e33"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dec2e131-93dd-46ae-9070-56240473ee0a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Keskkonnakomisjoni istungi protokoll nr 105",
+      "uuid": "704ce841-6e65-4fd3-a3ed-a83dce96b808",
+      "files": [
+        "prot105  15.04.13.doc"
+      ]
+    }
+  ],
+  "uuid": "515b8062-b322-43a6-a476-0c3c6903661f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 515b8062-b322-43a6-a476-0c3c6903661f)",
+  "source": "https://api.riigikogu.ee/api/volumes/515b8062-b322-43a6-a476-0c3c6903661f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2013-04-01&endDate=2013-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
