@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Korruptsioonivastane erikomisjon",
+  "committee_uuid": "e4f2977a-e8c3-4fa0-8f3d-9df9acd6377f",
+  "title": "Komisjoni istung esmaspäev, 22.04.2013",
+  "sitting_time": "2013-04-22T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Majanduslike huvide deklaratsioonide laekumise vahekokkuvõtte läbivaatamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "93233155-7af6-47da-a13d-4d801ad2f374"
+    },
+    {
+      "order": 2,
+      "title": "Laekunud informatsioonid",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "586130e3-7985-455d-ad52-89aa8e037de1"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll nr 3",
+      "uuid": "011869f0-d228-4680-a3de-e2bef102cff8",
+      "files": [
+        "2013-04-22 nr 3.rtf"
+      ]
+    }
+  ],
+  "uuid": "2fd4c4ce-e0e8-4742-808b-06b9278ef47b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2fd4c4ce-e0e8-4742-808b-06b9278ef47b)",
+  "source": "https://api.riigikogu.ee/api/volumes/2fd4c4ce-e0e8-4742-808b-06b9278ef47b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2013-04-01&endDate=2013-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
