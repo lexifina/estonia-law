@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung teisipäev, 23.04.2013 14:00",
+  "sitting_time": "2013-04-23T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väliskomisjoni avalik istung: ülevaade Eesti arengukoostöö ja humanitaarabi tegevustest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3e986d00-f5c0-4822-8e0c-ea0bd53f9bbf"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "24232914-0865-403b-aa07-5e292bd9d148"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "2918bd88-7349-4ae3-9834-8c0a6adf42e8",
+      "files": [
+        "23.04.2013 (163) protokoll.doc"
+      ]
+    }
+  ],
+  "uuid": "5122440e-92c3-4314-a473-0fc4cd216181",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 5122440e-92c3-4314-a473-0fc4cd216181)",
+  "source": "https://api.riigikogu.ee/api/volumes/5122440e-92c3-4314-a473-0fc4cd216181",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2013-04-01&endDate=2013-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
