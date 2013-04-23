@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung teisipäev, 23.04.2013 14:00",
+  "sitting_time": "2013-04-23T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Osalusdemokraatia arendamine poliitika kujundamisel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ed29d6f4-f908-4bc5-bede-bcf50e280012"
+    },
+    {
+      "order": 2,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c70692e0-ab55-47bb-ad11-e1b3a9ed79e4"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "23.04.2013 PSK protokoll",
+      "uuid": "481093cc-2df7-4b9c-80da-2607f042dbaa",
+      "files": [
+        "2013.04.23.doc",
+        "23.04.2013_PSK_protokoll.ddoc"
+      ]
+    }
+  ],
+  "uuid": "fa6e8041-6b0e-4941-bcb0-0248a22a8b55",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid fa6e8041-6b0e-4941-bcb0-0248a22a8b55)",
+  "source": "https://api.riigikogu.ee/api/volumes/fa6e8041-6b0e-4941-bcb0-0248a22a8b55",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2013-04-01&endDate=2013-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
