@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung esmaspäev, 6.05.2013 11:00",
+  "sitting_time": "2013-05-06T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5db65e8c-9430-4834-a65b-666ec4f67d74"
+    },
+    {
+      "order": 2,
+      "title": "Uuest lastekaitse seadusest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f5f2e16e-db26-4918-b320-3b2637ae7e5e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "2a658c25-7fca-4296-bd8b-a80399e2780e",
+      "files": [
+        "protocol (2).rtf132.rtf"
+      ]
+    }
+  ],
+  "uuid": "2fc3151a-f640-47db-ae7d-12604d89efa0",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2fc3151a-f640-47db-ae7d-12604d89efa0)",
+  "source": "https://api.riigikogu.ee/api/volumes/2fc3151a-f640-47db-ae7d-12604d89efa0",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2013-05-01&endDate=2013-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
