@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 6.05.2013 13:00",
+  "sitting_time": "2013-05-06T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine;",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "597ca7ca-4cad-44c7-89dc-905157f55dfe"
+    },
+    {
+      "order": 2,
+      "title": "Hariduse projektipõhine rahastamine välisvahenditest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fb580392-7f57-46d3-8abb-d5048fd3f95c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Hariduse projektipõhine rahastamine",
+      "uuid": "0b337f20-eb2d-4dd4-bd00-c6cd6e29649d",
+      "files": [
+        "protokoll 101 06 05 2013 .rtf"
+      ]
+    }
+  ],
+  "uuid": "250d9468-7079-42a5-a29f-aed70a67de55",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 250d9468-7079-42a5-a29f-aed70a67de55)",
+  "source": "https://api.riigikogu.ee/api/volumes/250d9468-7079-42a5-a29f-aed70a67de55",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2013-05-01&endDate=2013-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
