@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung esmaspäev, 6.05.2013 11:00",
+  "sitting_time": "2013-05-06T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ec6e668f-d528-4f74-a9ae-a3f7827ff4ff"
+    },
+    {
+      "order": 2,
+      "title": "Meediateenuste seaduse ja sellega seonduvate seaduste muutmise seaduse eelnõu (336 SE I) - muudatusettepanekute arutelu, menetlusotsuste tegemine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bae861f1-4259-4182-9e96-a84969a964b8"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0106c4eb-1774-40cf-986b-ada7f8633288"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Kultuurikomisjoni protokoll nr 133",
+      "uuid": "f9eec463-06c7-4083-a31c-78377fd1fa06",
+      "files": [
+        "prot 133.rtf"
+      ]
+    }
+  ],
+  "uuid": "ab12ed94-b61d-4c7e-9de9-9a0768caf1a6",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ab12ed94-b61d-4c7e-9de9-9a0768caf1a6)",
+  "source": "https://api.riigikogu.ee/api/volumes/ab12ed94-b61d-4c7e-9de9-9a0768caf1a6",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2013-05-01&endDate=2013-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
