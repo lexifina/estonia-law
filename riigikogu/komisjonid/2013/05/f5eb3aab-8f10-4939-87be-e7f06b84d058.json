@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung teisipäev, 7.05.2013 14:00",
+  "sitting_time": "2013-05-07T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Maksukorralduse seaduse ja teiste seaduste muutmise seaduse eelnõu (414 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6f322871-d739-4138-b45c-402f0fdb2556"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine Eesti Maksumaksjate Liidu esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2181de39-2a85-46fc-b1e8-5f4e16cd3313"
+    },
+    {
+      "order": 3,
+      "title": "Info",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "949e14dc-c277-41d6-bca5-f17f2828c043"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "a3920650-9a61-4c10-940d-fb9719242d46",
+      "files": [
+        "prot138RAHK.doc"
+      ]
+    }
+  ],
+  "uuid": "f5eb3aab-8f10-4939-87be-e7f06b84d058",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f5eb3aab-8f10-4939-87be-e7f06b84d058)",
+  "source": "https://api.riigikogu.ee/api/volumes/f5eb3aab-8f10-4939-87be-e7f06b84d058",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2013-05-01&endDate=2013-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
