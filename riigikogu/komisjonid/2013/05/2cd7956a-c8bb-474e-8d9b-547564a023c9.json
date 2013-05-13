@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung esmaspäev, 13.05.2013 11:00",
+  "sitting_time": "2013-05-13T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0eda3159-6430-4056-8ea2-bdccec5a08d7"
+    },
+    {
+      "order": 2,
+      "title": "Finantsinspektsiooni seaduse ja investeerimisfondide seaduse muutmise ning sellega seonduvalt teiste seaduste muutmise seaduse eelnõu (430 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f3729c22-2cb2-40fc-a8d7-4b0b142a430d"
+    },
+    {
+      "order": 3,
+      "title": "Kohtumine Konkurentsiameti esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "66166474-9af6-44f4-aa41-471a850a7c03"
+    },
+    {
+      "order": 4,
+      "title": "Info",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b796e523-97f1-4140-8a00-8b56700d40c0"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "5b757d99-418e-4ba5-870c-d32b132e2d23",
+      "files": [
+        "prot139RAHK.doc"
+      ]
+    }
+  ],
+  "uuid": "2cd7956a-c8bb-474e-8d9b-547564a023c9",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2cd7956a-c8bb-474e-8d9b-547564a023c9)",
+  "source": "https://api.riigikogu.ee/api/volumes/2cd7956a-c8bb-474e-8d9b-547564a023c9",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2013-05-01&endDate=2013-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
