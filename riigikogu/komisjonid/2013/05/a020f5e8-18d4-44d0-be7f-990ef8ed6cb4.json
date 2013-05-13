@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung esmaspäev, 13.05.2013 11:00",
+  "sitting_time": "2013-05-13T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "10e7926c-e69e-4f04-bc98-558c40bcebb6"
+    },
+    {
+      "order": 2,
+      "title": "Euroopa Liidu struktuurivahendid 2014-2020",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1a97f898-eb4d-4d23-9b26-3d3b8e693565"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "45900132-63d2-40e3-8d6d-03298ab997d8",
+      "files": [
+        "protocol.rtf"
+      ]
+    }
+  ],
+  "uuid": "a020f5e8-18d4-44d0-be7f-990ef8ed6cb4",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a020f5e8-18d4-44d0-be7f-990ef8ed6cb4)",
+  "source": "https://api.riigikogu.ee/api/volumes/a020f5e8-18d4-44d0-be7f-990ef8ed6cb4",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2013-05-01&endDate=2013-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
