@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung esmaspäev, 13.05.2013 11:00",
+  "sitting_time": "2013-05-13T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7c809c16-e944-4ec4-8f57-eb7ad0413995"
+    },
+    {
+      "order": 2,
+      "title": "Eesti sõjamuuseumitest ja kogudest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c371aa9f-8dbe-43ef-b9bf-519fc4073c11"
+    },
+    {
+      "order": 3,
+      "title": "Eesti Vabariigi ning NATO Euroopa vägede kõrgema peakorteri ja NATO arenduse kõrgema ülemjuhataja peakorteri vahelise Pariisi protokolli lisakokkuleppe ratifitseerimisega seonduvalt seaduste muutmise seaduse eelnõu (385 SE III)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "39b79d00-6e6e-4ca2-8efe-c1a8f091a19f"
+    },
+    {
+      "order": 4,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "79bd297c-c17e-4257-8517-6ecc2adeaf50"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "bf6cc6b4-b14c-43b4-9337-15502508c963",
+      "files": [
+        "13.05.13_151.pdf"
+      ]
+    }
+  ],
+  "uuid": "824c68fd-0a53-43e1-a14b-c245bb4f8b13",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 824c68fd-0a53-43e1-a14b-c245bb4f8b13)",
+  "source": "https://api.riigikogu.ee/api/volumes/824c68fd-0a53-43e1-a14b-c245bb4f8b13",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2013-05-01&endDate=2013-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
