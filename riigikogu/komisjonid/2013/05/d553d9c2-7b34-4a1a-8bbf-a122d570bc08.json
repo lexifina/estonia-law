@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 13.05.2013 11:00",
+  "sitting_time": "2013-05-13T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a7e98294-fa28-4569-a019-8e2caa6eb092"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine mesinike katusorganisatsioonide esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "134579f8-ea40-41fc-bfa1-7269b4468159"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "53489f21-8180-4b67-a217-051b25ea38d8",
+      "files": [
+        "117 protokoll 13.05.2013.rtf"
+      ]
+    }
+  ],
+  "uuid": "d553d9c2-7b34-4a1a-8bbf-a122d570bc08",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d553d9c2-7b34-4a1a-8bbf-a122d570bc08)",
+  "source": "https://api.riigikogu.ee/api/volumes/d553d9c2-7b34-4a1a-8bbf-a122d570bc08",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2013-05-01&endDate=2013-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
