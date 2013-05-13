@@ -1,0 +1,42 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 13.05.2013 13:30",
+  "sitting_time": "2013-05-13T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine;",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "295e231a-81d4-4b3f-afc8-6b7fa0aada86"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade põllumajanduse ja maaelu projektipõhisest rahastamisest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d00db64a-3670-4ffd-8527-4f3dcc580f09"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Ülevaade põllumajanduse ja maaelu projektipõhisest rahastamisest.",
+      "uuid": "49dfce01-3108-4166-af80-1f4f163d3c03",
+      "files": [
+        "MAK ja EKF toetused seisuga 30 04 2013.ppt",
+        "2013 05 13 Riigikogu.ppt",
+        "protokoll 103 13 05 2013 .rtf",
+        "MAK 2007-2013 ja 2014-2020_13 05 2013.ppt"
+      ]
+    }
+  ],
+  "uuid": "f1d43095-f88c-49b1-b7c3-f38dcb638f92",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f1d43095-f88c-49b1-b7c3-f38dcb638f92)",
+  "source": "https://api.riigikogu.ee/api/volumes/f1d43095-f88c-49b1-b7c3-f38dcb638f92",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2013-05-01&endDate=2013-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
