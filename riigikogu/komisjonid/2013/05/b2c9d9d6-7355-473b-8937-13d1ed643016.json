@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 14.05.2013 14:00",
+  "sitting_time": "2013-05-14T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud söödaseaduse muutmise seaduse eelnõu (431 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e1fa2f09-0246-445d-b580-b3b9a784d53c"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud Euroopa Liidu ühise põllumajanduspoliitika rakendamise seaduse muutmise seaduse eelnõu (432 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f40131b0-ae75-42c9-9ca9-39865cdd5217"
+    },
+    {
+      "order": 3,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e78873a9-295f-4724-ab14-6ff57e3264b1"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "a6a0d7f3-f4c4-4488-9fb0-bd5078b0d744",
+      "files": [
+        "118 protokoll 14.05.2013.rtf"
+      ]
+    }
+  ],
+  "uuid": "b2c9d9d6-7355-473b-8937-13d1ed643016",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b2c9d9d6-7355-473b-8937-13d1ed643016)",
+  "source": "https://api.riigikogu.ee/api/volumes/b2c9d9d6-7355-473b-8937-13d1ed643016",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2013-05-01&endDate=2013-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
