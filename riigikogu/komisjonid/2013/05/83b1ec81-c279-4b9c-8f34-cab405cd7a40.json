@@ -1,0 +1,33 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung teisipäev, 14.05.2013 14:00",
+  "sitting_time": "2013-05-14T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Taastusravi korraldus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c34773c7-176d-44fe-9391-14db14ad28c6"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "8c8f46f4-ff98-4754-8fbf-2250f2a391f3",
+      "files": [
+        "protocol.rtf"
+      ]
+    }
+  ],
+  "uuid": "83b1ec81-c279-4b9c-8f34-cab405cd7a40",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 83b1ec81-c279-4b9c-8f34-cab405cd7a40)",
+  "source": "https://api.riigikogu.ee/api/volumes/83b1ec81-c279-4b9c-8f34-cab405cd7a40",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2013-05-01&endDate=2013-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
