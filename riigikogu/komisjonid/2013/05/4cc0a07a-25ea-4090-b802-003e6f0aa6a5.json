@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung teisipäev, 14.05.2013 12:30",
+  "sitting_time": "2013-05-14T12:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väliskomisjoni V istungjärgu 14. töönädala töökava kinnitamine.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e2bcea3d-dc09-4cbb-93ea-0b70f04844f1"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade Eesti ja Vene välisministeeriumi vahelisest konsultatsioonikohtumisest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9462355c-e1b9-4fef-b57d-0fd71154774d"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "df29f700-3275-4f1a-954e-6e9f8d447c5d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Väliskomisjoni istungi protokoll nr 167",
+      "uuid": "2c881400-e639-4c4e-b46d-9c9efc3f3ccb",
+      "files": [
+        "14.05.2013 (167) protokoll.doc"
+      ]
+    }
+  ],
+  "uuid": "4cc0a07a-25ea-4090-b802-003e6f0aa6a5",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 4cc0a07a-25ea-4090-b802-003e6f0aa6a5)",
+  "source": "https://api.riigikogu.ee/api/volumes/4cc0a07a-25ea-4090-b802-003e6f0aa6a5",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2013-05-01&endDate=2013-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
