@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung teisipäev, 14.05.2013 14:00",
+  "sitting_time": "2013-05-14T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti Panga ülevaade majanduse olukorrast ja finantsstabiilsusest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9eea93dc-4118-47e4-95c8-9ffecfd426f1"
+    },
+    {
+      "order": 2,
+      "title": "Maamaksuseaduse muutmise seaduse eelnõu (406 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1ddc89cd-34ec-4b24-95fe-5871b17f32c3"
+    },
+    {
+      "order": 3,
+      "title": "Info",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8e30e3c4-772d-4b89-b002-7fc890f00170"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "6261b15c-7ca3-467c-9982-b5533c0312d3",
+      "files": [
+        "prot_140_RAHK.doc"
+      ]
+    }
+  ],
+  "uuid": "51c59b31-d051-4640-94f7-08da1df1ce58",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 51c59b31-d051-4640-94f7-08da1df1ce58)",
+  "source": "https://api.riigikogu.ee/api/volumes/51c59b31-d051-4640-94f7-08da1df1ce58",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2013-05-01&endDate=2013-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
