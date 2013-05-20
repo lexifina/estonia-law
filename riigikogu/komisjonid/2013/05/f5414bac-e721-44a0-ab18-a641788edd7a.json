@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 20.05.2013 11:00",
+  "sitting_time": "2013-05-20T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2281ea51-0e9e-49fb-a12f-eed6abfc4de4"
+    },
+    {
+      "order": 2,
+      "title": "Euroopa Liidu järgmise finantsperioodi (2014-2020) maaelu arengu kava ja otsetoetused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "17e6de09-a8b4-4a4f-a854-8036b5b097e7"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "70e517ea-f56b-40af-848d-224129d47857",
+      "files": [
+        "120 protokoll.20.05.2013.rtf"
+      ]
+    }
+  ],
+  "uuid": "f5414bac-e721-44a0-ab18-a641788edd7a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f5414bac-e721-44a0-ab18-a641788edd7a)",
+  "source": "https://api.riigikogu.ee/api/volumes/f5414bac-e721-44a0-ab18-a641788edd7a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2013-05-01&endDate=2013-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
