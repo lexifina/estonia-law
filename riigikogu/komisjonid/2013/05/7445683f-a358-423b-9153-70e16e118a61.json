@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung esmaspäev, 20.05.2013",
+  "sitting_time": "2013-05-20T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "12fbabd1-156d-4d5f-909b-4f5b57ac11bc"
+    },
+    {
+      "order": 2,
+      "title": "Paldiski omavalitsuse korraldamise seaduse muutmise seaduse eelnõu (382 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "229ec233-4574-42a7-9b88-5f7abf2af22e"
+    },
+    {
+      "order": 3,
+      "title": "Väärteomenetluse seadustiku muutmise seaduse eelnõu (375 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "259ae89d-11ff-418c-9481-ecbcacb87d19"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "protokoll",
+      "uuid": "44040aa8-9af4-491c-b043-82cfb9689714",
+      "files": [
+        "protokoll.ddoc",
+        "protokoll 20.05.2013.odt"
+      ]
+    }
+  ],
+  "uuid": "7445683f-a358-423b-9153-70e16e118a61",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7445683f-a358-423b-9153-70e16e118a61)",
+  "source": "https://api.riigikogu.ee/api/volumes/7445683f-a358-423b-9153-70e16e118a61",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2013-05-01&endDate=2013-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
