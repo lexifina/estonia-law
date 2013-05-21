@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung teisipäev, 21.05.2013 11:00",
+  "sitting_time": "2013-05-21T12:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Eesti Ametiühingute Keskliidu esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6f9e267a-089c-4685-8e6a-6b799c78cb6d"
+    },
+    {
+      "order": 2,
+      "title": "Tulumaksuseaduse muutmise seaduse eelnõu (422 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "31ca9770-b08a-4eec-acef-c1e13628db60"
+    },
+    {
+      "order": 3,
+      "title": "Info",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "080661fc-8cee-44ef-b2ff-e87928505d01"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "438c7128-4f6a-4eb9-bc4b-bd1a5ec620e4",
+      "files": [
+        "RAHKprot142.docx"
+      ]
+    }
+  ],
+  "uuid": "7b60a06b-896c-4323-ae53-373691a15648",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7b60a06b-896c-4323-ae53-373691a15648)",
+  "source": "https://api.riigikogu.ee/api/volumes/7b60a06b-896c-4323-ae53-373691a15648",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2013-05-01&endDate=2013-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
