@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung teisipäev, 21.05.2013 12:15",
+  "sitting_time": "2013-05-21T12:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väliskomisjoni V istungjärgu 15. töönädala töökava kinnitamine.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7a08806b-d6d7-4fb9-900b-ce886abe8e98"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine Eesti Vabariigi õiguskantsleri esindajaga.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c5c4ace6-2fed-4ceb-b026-4c185c98c47b"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2b5dfa86-03ba-42d9-8bc3-b82213a8500a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Väliskomisjoni isrungi protokoll nr 169",
+      "uuid": "78c1637f-314c-4a23-a4fc-c620a9da536b",
+      "files": [
+        "21.05.2013 (169) protokoll.doc"
+      ]
+    }
+  ],
+  "uuid": "069ae3b4-f3b1-4e0c-aeab-bb926d1d535a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 069ae3b4-f3b1-4e0c-aeab-bb926d1d535a)",
+  "source": "https://api.riigikogu.ee/api/volumes/069ae3b4-f3b1-4e0c-aeab-bb926d1d535a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2013-05-01&endDate=2013-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
