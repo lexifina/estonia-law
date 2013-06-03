@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung esmaspäev, 3.06.2013 11:00",
+  "sitting_time": "2013-06-03T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a4299b4e-de49-450a-8741-dc537d07631a"
+    },
+    {
+      "order": 2,
+      "title": "Raporti \" Kvaliteetse ja jätkusuutliku apteegiteenuse kättesaadavuse tagamisest lähtuvalt õiguskantsleri ettepanekust nr 20 üldapteegi tegevusloa väljaandmise ja muutmise piirangu kohta \" arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "23ee9d9d-4602-4694-995d-8cd5b2abd655"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "1d1def1a-ea76-44b0-bab1-b15bcbc62f11",
+      "files": [
+        "protocol.rtf"
+      ]
+    }
+  ],
+  "uuid": "014ad91d-10fe-4b1d-ac31-bfc1906acdbf",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 014ad91d-10fe-4b1d-ac31-bfc1906acdbf)",
+  "source": "https://api.riigikogu.ee/api/volumes/014ad91d-10fe-4b1d-ac31-bfc1906acdbf",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2013-06-01&endDate=2013-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
