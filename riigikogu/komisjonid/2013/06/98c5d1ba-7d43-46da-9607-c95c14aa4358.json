@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 10.06.2013",
+  "sitting_time": "2013-06-10T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "82b0f887-d9a5-4b6a-8ac2-62184b10687d"
+    },
+    {
+      "order": 2,
+      "title": "Toidu-uuringu lähteülesande põhimõtete ja teemade arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e7aa184b-c089-4a96-af3c-2b62de76b13e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "ab196368-9c20-47bf-bfff-db5d017be6bb",
+      "files": [
+        "123 protokoll 10.06.2013.rtf"
+      ]
+    }
+  ],
+  "uuid": "98c5d1ba-7d43-46da-9607-c95c14aa4358",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 98c5d1ba-7d43-46da-9607-c95c14aa4358)",
+  "source": "https://api.riigikogu.ee/api/volumes/98c5d1ba-7d43-46da-9607-c95c14aa4358",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2013-06-01&endDate=2013-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
