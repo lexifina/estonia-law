@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 10.06.2013 13:00",
+  "sitting_time": "2013-06-10T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine;",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7d70d3ed-217f-405f-95aa-d3a914bffe91"
+    },
+    {
+      "order": 2,
+      "title": "Raporti projektile „Kohalike teede hoiu korraldamine“ informatsiooni kogumine.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9f7c662f-84ad-4776-b5ae-75ee158af9f7"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Raporti projektile „Kohalike teede hoiu korraldamine“ informatsiooni kogumine",
+      "uuid": "fd993a48-a489-4fe9-a261-b8d10228ebcd",
+      "files": [
+        "EMOL  Seaduslik alus teehoiu rahastamiseks 10.06.2013).docx",
+        "protokoll 107 10 06 2013 .rtf"
+      ]
+    }
+  ],
+  "uuid": "11132bd4-1b85-403b-8d62-c965ec778d6c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 11132bd4-1b85-403b-8d62-c965ec778d6c)",
+  "source": "https://api.riigikogu.ee/api/volumes/11132bd4-1b85-403b-8d62-c965ec778d6c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2013-06-01&endDate=2013-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
