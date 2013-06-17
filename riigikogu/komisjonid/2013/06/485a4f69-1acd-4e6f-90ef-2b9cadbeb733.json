@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung esmaspäev, 17.06.2013 12:00",
+  "sitting_time": "2013-06-17T12:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "20bd4dbd-a77c-4a53-afef-2e8ad0038f04"
+    },
+    {
+      "order": 2,
+      "title": "Muuseumiseadus (374 SE III) - kolmanda lugemise teksti ülevaatamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d1549436-d5a9-476e-b8ba-27427f342485"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "eb51784d-5294-4c1f-9dcb-b279139ed5a8"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Kultuurikomisjoni protokoll nr 150",
+      "uuid": "36ef6bfe-1e1f-4ca4-bb81-96c5175e8f79",
+      "files": [
+        "prot 150.rtf"
+      ]
+    }
+  ],
+  "uuid": "485a4f69-1acd-4e6f-90ef-2b9cadbeb733",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 485a4f69-1acd-4e6f-90ef-2b9cadbeb733)",
+  "source": "https://api.riigikogu.ee/api/volumes/485a4f69-1acd-4e6f-90ef-2b9cadbeb733",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2013-06-01&endDate=2013-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
