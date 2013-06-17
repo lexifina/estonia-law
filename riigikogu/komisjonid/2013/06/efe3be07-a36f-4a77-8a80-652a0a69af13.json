@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung esmaspäev, 17.06.2013 11:00",
+  "sitting_time": "2013-06-17T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a36a2048-4be1-4fd7-bdda-e2a0ebfe6fb5"
+    },
+    {
+      "order": 2,
+      "title": "Töövõime skeemi reformist",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2ca7a20d-a0d0-47e8-8a19-71cd1cfe2ade"
+    },
+    {
+      "order": 3,
+      "title": "Riigikogu otsus \"Ettepaneku tegemine Vabariigi Valitsusele\" (428 OE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3603b373-2303-4bd0-ba92-83aa822626a8"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "a8462da3-3b95-41b0-aa16-2dd59481e0d3",
+      "files": [
+        "prot.143.doc"
+      ]
+    }
+  ],
+  "uuid": "efe3be07-a36f-4a77-8a80-652a0a69af13",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid efe3be07-a36f-4a77-8a80-652a0a69af13)",
+  "source": "https://api.riigikogu.ee/api/volumes/efe3be07-a36f-4a77-8a80-652a0a69af13",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2013-06-01&endDate=2013-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
