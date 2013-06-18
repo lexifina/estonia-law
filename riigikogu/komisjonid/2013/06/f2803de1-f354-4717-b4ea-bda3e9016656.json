@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung teisipäev, 18.06.2013 14:00",
+  "sitting_time": "2013-06-18T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigi peaprokuröri ülevaade prokuratuurile pandud ülesannete täitmise kohta 2012. aastal",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "eb8d96e6-794d-49bc-b3f8-1783da0dbbd4"
+    },
+    {
+      "order": 2,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5971a56b-7a97-4f32-b210-d105f0be4de0"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "18.06.2013 protokoll",
+      "uuid": "d39329e4-d699-4156-abd9-1d58f00e2ae2",
+      "files": [
+        "2013.06.18.doc",
+        "18.06.2013_protokoll.ddoc"
+      ]
+    }
+  ],
+  "uuid": "f2803de1-f354-4717-b4ea-bda3e9016656",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f2803de1-f354-4717-b4ea-bda3e9016656)",
+  "source": "https://api.riigikogu.ee/api/volumes/f2803de1-f354-4717-b4ea-bda3e9016656",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2013-06-01&endDate=2013-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
