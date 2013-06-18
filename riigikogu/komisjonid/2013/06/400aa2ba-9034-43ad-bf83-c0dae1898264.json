@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 18.06.2013 13:00",
+  "sitting_time": "2013-06-18T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5927d50b-e3d8-410b-bc38-97da7f931aa0"
+    },
+    {
+      "order": 2,
+      "title": "Esindajate nimetamine regionaalministri poolt moodustatavatesse omavalitsuskorralduse tõhustamise töörühmadesse",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fb996874-6885-48be-8b4f-76e21dc335fc"
+    },
+    {
+      "order": 3,
+      "title": "Kokkuvõtete tegemine komisjoni tööst kevadistungjärgul",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "59f95cd9-2666-42f2-9b1b-c9cb8fe43ef9"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "42a6f5ff-6d1d-48bc-a65a-184a7c68de16",
+      "files": [
+        "125 protokoll 18.06.2013.rtf"
+      ]
+    }
+  ],
+  "uuid": "400aa2ba-9034-43ad-bf83-c0dae1898264",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 400aa2ba-9034-43ad-bf83-c0dae1898264)",
+  "source": "https://api.riigikogu.ee/api/volumes/400aa2ba-9034-43ad-bf83-c0dae1898264",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2013-06-01&endDate=2013-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
