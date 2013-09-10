@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 10.09.2013 14:00",
+  "sitting_time": "2013-09-10T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Eesti Lihaveisekasvatajate Seltsi esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "79ccea15-53ad-4ccf-ac7d-56bce4a698ec"
+    },
+    {
+      "order": 2,
+      "title": "OTRK Eesti maaelu arengukava 2014-2020 täiskogu arutelule ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b103bfb8-a411-44c1-ad18-3a5ec6b4bee2"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "5551920b-292e-4764-9e7e-c442c329da07",
+      "files": [
+        "Protokoll.ddoc",
+        "127 protokoll 10.09.2013.rtf"
+      ]
+    }
+  ],
+  "uuid": "df8686f4-e7a5-4c3a-a5cf-592b7ca84193",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid df8686f4-e7a5-4c3a-a5cf-592b7ca84193)",
+  "source": "https://api.riigikogu.ee/api/volumes/df8686f4-e7a5-4c3a-a5cf-592b7ca84193",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2013-09-01&endDate=2013-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
