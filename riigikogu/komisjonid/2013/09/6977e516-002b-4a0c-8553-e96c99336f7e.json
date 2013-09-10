@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung teisipäev, 10.09.2013 14:00",
+  "sitting_time": "2013-09-10T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Tulumaksuseaduse § 5 muutmise seaduse eelnõu (438 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9d56ffdd-fb35-458a-a4c3-d294b37ea337"
+    },
+    {
+      "order": 2,
+      "title": "Sotsiaalmaksuseaduse § 7 muutmise seaduse eelnõu (446 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "25d8cf76-fdc8-4d23-b955-0a946f22ce53"
+    },
+    {
+      "order": 3,
+      "title": "Info",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "93f05dbf-26a3-410e-817d-62443edc7801"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "c05c100a-ed29-4e79-ad01-efb0263c4634",
+      "files": [
+        "RAHK prot 148,10.09.2013.doc"
+      ]
+    }
+  ],
+  "uuid": "6977e516-002b-4a0c-8553-e96c99336f7e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 6977e516-002b-4a0c-8553-e96c99336f7e)",
+  "source": "https://api.riigikogu.ee/api/volumes/6977e516-002b-4a0c-8553-e96c99336f7e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2013-09-01&endDate=2013-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
