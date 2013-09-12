@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung neljapäev, 12.09.2013 08:30",
+  "sitting_time": "2013-09-12T08:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigieelarve seaduse eelnõu arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "58366f82-21e4-4bd7-9be5-a214be48f04c"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli uue kontrolliaruande tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "866c2bec-88a3-4068-b1da-65a347662023"
+    },
+    {
+      "order": 3,
+      "title": "Informatsioon.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b76aa9fb-2501-4e53-913c-ce82514b02e3"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Riigikontrolli uue kontrolliaruande „Riigi osalusega äriühingute majandamise korraldus“ tutvustus",
+      "uuid": "39be0197-8e3d-4cca-8a1a-0a7b43e4c578",
+      "files": [
+        "protokoll 112 12 09 2013 .rtf"
+      ]
+    }
+  ],
+  "uuid": "3ac2a92b-5ec1-41f1-8eb5-c578a6c92a0e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3ac2a92b-5ec1-41f1-8eb5-c578a6c92a0e)",
+  "source": "https://api.riigikogu.ee/api/volumes/3ac2a92b-5ec1-41f1-8eb5-c578a6c92a0e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2013-09-01&endDate=2013-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
