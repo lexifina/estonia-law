@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung neljapäev, 12.09.2013 13:00",
+  "sitting_time": "2013-09-12T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade arengutest Euroopa Liidu idapartnerluse riikides.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9d95f11f-ea14-4d87-bc52-fb4ca673f32f"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade 28. august-1. september 2013 toimunud Vabariigi Presidendi USA visiidist.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "eb9dbb60-0c3e-46ff-afb3-5115d63670aa"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c798926a-3132-4e96-9d82-4db95b8e28db"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Väliskomisjoni istungi protokoll nr 181",
+      "uuid": "e425c07d-8ad0-4a14-86cf-83a03afd4131",
+      "files": [
+        "12.09.2013 (181) protokoll.doc"
+      ]
+    }
+  ],
+  "uuid": "f004f8de-3697-45b7-b3d8-a2643454c78e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f004f8de-3697-45b7-b3d8-a2643454c78e)",
+  "source": "https://api.riigikogu.ee/api/volumes/f004f8de-3697-45b7-b3d8-a2643454c78e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2013-09-01&endDate=2013-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
