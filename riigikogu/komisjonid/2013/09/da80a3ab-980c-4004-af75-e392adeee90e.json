@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung teisipäev, 17.09.2013 14:00",
+  "sitting_time": "2013-09-17T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Eesti Õliühingu esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e96175f8-b8ee-4d32-a46c-75afce934bad"
+    },
+    {
+      "order": 2,
+      "title": "Info",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a812311b-9782-43a0-85a1-7c77c9438d2d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "10d9da31-592b-413f-9e45-ce4037c873e0",
+      "files": [
+        "Protokoll.ddoc",
+        "RAHK_prot_150.docx"
+      ]
+    }
+  ],
+  "uuid": "da80a3ab-980c-4004-af75-e392adeee90e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid da80a3ab-980c-4004-af75-e392adeee90e)",
+  "source": "https://api.riigikogu.ee/api/volumes/da80a3ab-980c-4004-af75-e392adeee90e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2013-09-01&endDate=2013-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
