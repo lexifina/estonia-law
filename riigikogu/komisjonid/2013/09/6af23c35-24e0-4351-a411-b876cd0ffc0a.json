@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung teisipäev, 17.09.2013 14:00",
+  "sitting_time": "2013-09-17T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti Inimarengu Aruanne 2012/2013 arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fc64960e-3f1a-42ca-802e-b141e9f7ebe5"
+    },
+    {
+      "order": 2,
+      "title": "Põhiseaduskomisjoni käesoleva istungjärgu töö planeerimine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4e1c30db-9f4e-4013-ac0b-d516500c84a3"
+    },
+    {
+      "order": 3,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9d5906e3-3f73-4962-ba89-1b2f72cece83"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Põhiseaduskomisjoni 17.09.2013 protokoll",
+      "uuid": "f6824a08-bf20-414a-8e2d-1dd08bb40822",
+      "files": [
+        "2013.09.17.doc",
+        "17.09.2013_protokoll.ddoc"
+      ]
+    }
+  ],
+  "uuid": "6af23c35-24e0-4351-a411-b876cd0ffc0a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 6af23c35-24e0-4351-a411-b876cd0ffc0a)",
+  "source": "https://api.riigikogu.ee/api/volumes/6af23c35-24e0-4351-a411-b876cd0ffc0a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2013-09-01&endDate=2013-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
