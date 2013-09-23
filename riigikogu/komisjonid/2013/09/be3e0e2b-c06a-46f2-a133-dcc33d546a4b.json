@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung esmaspäev, 23.09.2013 11:30",
+  "sitting_time": "2013-09-23T11:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "22544103-c398-48d2-9758-83966f5d3f48"
+    },
+    {
+      "order": 2,
+      "title": "1-2/13-327/2 - Eesti seisukohad nõukogu direktiivi, millega \nmuudetakse direktiivi 2011/16/EL seoses \nkohustusliku automaatse teabevahetusega \nmaksustamise valdkonnas, eelnõu kohta COM(2013) 348",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a531c94e-c7a1-4045-a1f0-79b9c4d2f544"
+    },
+    {
+      "order": 3,
+      "title": "Ettepanekud Riigikontrolli  2014. aasta tööplaani  koostamiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5538ce59-9db3-47db-8954-96b4b417ef96"
+    },
+    {
+      "order": 4,
+      "title": "Info",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "46c75624-c8cf-4f0d-b1a6-8b5e1a8d95d3"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "ce54db26-e49e-4202-877a-2e7c55dbd98c",
+      "files": [
+        "Protokoll.ddoc",
+        "RAHK_prot_151.docx"
+      ]
+    }
+  ],
+  "uuid": "be3e0e2b-c06a-46f2-a133-dcc33d546a4b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid be3e0e2b-c06a-46f2-a133-dcc33d546a4b)",
+  "source": "https://api.riigikogu.ee/api/volumes/be3e0e2b-c06a-46f2-a133-dcc33d546a4b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2013-09-01&endDate=2013-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
