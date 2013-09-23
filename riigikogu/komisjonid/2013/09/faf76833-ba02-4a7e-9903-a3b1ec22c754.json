@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung esmaspäev, 23.09.2013 11:00",
+  "sitting_time": "2013-09-23T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "00c4d0f2-65e2-4aab-a2e0-573c182860ba"
+    },
+    {
+      "order": 2,
+      "title": "Ettepanekud riigieelarve kontrolli komisjonile",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9bb0655d-7157-42d6-be0e-77ade57be880"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "545907e2-0602-421f-8b97-105dea09b114"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "4cbd4c4c-28d3-4a28-82e1-887351401cc4",
+      "files": [
+        "protocol.rtf"
+      ]
+    }
+  ],
+  "uuid": "faf76833-ba02-4a7e-9903-a3b1ec22c754",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid faf76833-ba02-4a7e-9903-a3b1ec22c754)",
+  "source": "https://api.riigikogu.ee/api/volumes/faf76833-ba02-4a7e-9903-a3b1ec22c754",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2013-09-01&endDate=2013-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
