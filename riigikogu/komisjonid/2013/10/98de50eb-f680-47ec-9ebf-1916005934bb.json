@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung esmaspäev, 7.10.2013 11:00",
+  "sitting_time": "2013-10-07T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d188a473-6fcd-4f74-b07c-01ed19857f21"
+    },
+    {
+      "order": 2,
+      "title": "Arutelu teemal: mäendusega seotud probleemid",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2a4d109f-f175-4532-a089-cb7493d6a351"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll nr 122",
+      "uuid": "c2024010-d540-4303-90bf-7e1d4f909752",
+      "files": [
+        "prot122 07.10.13.doc",
+        "Protokoll_nr_122.ddoc"
+      ]
+    }
+  ],
+  "uuid": "98de50eb-f680-47ec-9ebf-1916005934bb",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 98de50eb-f680-47ec-9ebf-1916005934bb)",
+  "source": "https://api.riigikogu.ee/api/volumes/98de50eb-f680-47ec-9ebf-1916005934bb",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2013-10-01&endDate=2013-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
