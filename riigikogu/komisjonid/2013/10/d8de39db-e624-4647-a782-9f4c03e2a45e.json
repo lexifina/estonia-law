@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung teisipäev, 22.10.2013",
+  "sitting_time": "2013-10-22T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e6c576ac-9642-4b91-b6da-ca3567392115"
+    },
+    {
+      "order": 2,
+      "title": "Õppetoetuste ja õppelaenu seaduse § 22 rakendamise arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c746325e-cf63-4b52-82dd-118fda8f2701"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "27bac6d1-60cd-40bb-a20a-e3133b990d85"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "d5577ccc-21a6-4c98-861c-c4a76d0bb7c5",
+      "files": [
+        "protocol.rtf"
+      ]
+    }
+  ],
+  "uuid": "d8de39db-e624-4647-a782-9f4c03e2a45e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d8de39db-e624-4647-a782-9f4c03e2a45e)",
+  "source": "https://api.riigikogu.ee/api/volumes/d8de39db-e624-4647-a782-9f4c03e2a45e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2013-10-01&endDate=2013-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
