@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung teisipäev, 22.10.2013 14:00",
+  "sitting_time": "2013-10-22T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väliskomisjoni VI istungjärgu 4. töönädala töökava kinnitamine.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c488e332-577a-4c63-bf4b-37b4ba97045a"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade Saksamaa Liitvabariigi üldvalimiste tulemustest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0be1902f-4975-4ede-91de-c0cb1c845fb2"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1b22f5ce-517c-494c-a9ff-1a112758e96a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Väliskomisjoni istungi protokoll nr 189",
+      "uuid": "ac1d5062-4edd-457b-b8c3-aee92dccde5d",
+      "files": [
+        "22.10.2013 (189) protokoll.doc"
+      ]
+    }
+  ],
+  "uuid": "3422d793-cea3-4d2f-9ec3-00b777738758",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3422d793-cea3-4d2f-9ec3-00b777738758)",
+  "source": "https://api.riigikogu.ee/api/volumes/3422d793-cea3-4d2f-9ec3-00b777738758",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2013-10-01&endDate=2013-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
