@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung esmaspäev, 4.11.2013 11:00",
+  "sitting_time": "2013-11-04T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "49ce7b4e-ae8e-4562-85ca-89ca8a1b2cca"
+    },
+    {
+      "order": 2,
+      "title": "Kaitseliidu seaduse § 25 muutmise seaduse eelnõu (458 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bcde9d77-76de-4623-8931-45d564b2abec"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b9a484e8-2f00-4330-9eb2-f4d4573818e1"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "b74a8aea-bf1e-4d03-9b43-6b3d4575d64a",
+      "files": [
+        "04.11.13_178.pdf"
+      ]
+    }
+  ],
+  "uuid": "ea98415f-58c1-4766-bf45-1b055bebfefd",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ea98415f-58c1-4766-bf45-1b055bebfefd)",
+  "source": "https://api.riigikogu.ee/api/volumes/ea98415f-58c1-4766-bf45-1b055bebfefd",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2013-11-01&endDate=2013-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
