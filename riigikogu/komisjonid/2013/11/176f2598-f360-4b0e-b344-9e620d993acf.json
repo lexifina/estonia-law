@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung teisipäev, 5.11.2013 14:00",
+  "sitting_time": "2013-11-05T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigieelarve seaduse eelnõu (513 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "acfb5b74-1b94-48d8-9cd4-a4354d906302"
+    },
+    {
+      "order": 2,
+      "title": "2013. aasta riigieelarve seaduse muutmise seaduse eelnõu (514 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "997162b6-1c1d-4331-8f18-96e64967813c"
+    },
+    {
+      "order": 3,
+      "title": "2014. aasta riigieelarve seaduse eelnõu (490 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5f1f93fd-86c0-4fea-b8f5-d12ad1f8e6d4"
+    },
+    {
+      "order": 4,
+      "title": "Info",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8952c510-8748-4a87-8a0e-41fd26443f4e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "1ae05796-125b-42e9-b444-52c7d06d55f0",
+      "files": [
+        "Protokoll.ddoc",
+        "RAHK_prot_160_5.november_2013.doc"
+      ]
+    }
+  ],
+  "uuid": "176f2598-f360-4b0e-b344-9e620d993acf",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 176f2598-f360-4b0e-b344-9e620d993acf)",
+  "source": "https://api.riigikogu.ee/api/volumes/176f2598-f360-4b0e-b344-9e620d993acf",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2013-11-01&endDate=2013-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
