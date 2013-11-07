@@ -1,0 +1,34 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung neljapäev, 7.11.2013 14:00",
+  "sitting_time": "2013-11-07T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "1. Parlamentaarne kuulamine. Arutelu teema: Vabariigi Valitsuse algatatud tulumaksuseaduse muutmise seaduse eelnõu (492 SE) ja käibemaksuseaduse muutmise seaduse eelnõu (493 SE).",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "629736d7-56cb-4903-b4e5-941c71dd3bc6"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "50bde7b0-16b7-4058-b9a8-ab2f855ded8b",
+      "files": [
+        "Protokoll.ddoc",
+        "RAHK_prot_161.docx"
+      ]
+    }
+  ],
+  "uuid": "c94eb7ef-f57f-4f68-8ed9-370cd312e22a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c94eb7ef-f57f-4f68-8ed9-370cd312e22a)",
+  "source": "https://api.riigikogu.ee/api/volumes/c94eb7ef-f57f-4f68-8ed9-370cd312e22a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2013-11-01&endDate=2013-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
