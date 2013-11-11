@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 11.11.2013 11:00",
+  "sitting_time": "2013-11-11T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bfb82181-4572-4859-9b43-955f4c91a2f6"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli kontrolliaruanne \"Euroopa Kalandusfondi toetused kalalaevastiku kohandamisel ja taristu arendamisel\"",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c617d914-ed53-4f65-a520-5c174c2e1e75"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "ea04acde-e07c-4079-96f8-801e146466dd",
+      "files": [
+        "136 protokoll 11.11.2013.rtf",
+        "Protokoll.ddoc"
+      ]
+    }
+  ],
+  "uuid": "f096a235-d8ae-4421-9e04-6f493ac8c64e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f096a235-d8ae-4421-9e04-6f493ac8c64e)",
+  "source": "https://api.riigikogu.ee/api/volumes/f096a235-d8ae-4421-9e04-6f493ac8c64e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2013-11-01&endDate=2013-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
