@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 11.11.2013 13:00",
+  "sitting_time": "2013-11-11T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine;",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9ac46c32-4e41-4070-9413-3356bd5e1af7"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli kontrolliaruande „Euroopa Kalandusfondi toetused kalalaevastiku kohandamisel ja taristu arendamisel“ arutelu;",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "597417ae-5c55-4969-b109-b65412277182"
+    },
+    {
+      "order": 3,
+      "title": "Raporti „Kohalike teede hoiu korraldamine“ arutelu (kinnine istung).",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8836ef22-d151-4f29-bf2c-00f8468b1172"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Riigikontrolli kontrolliaruande „Euroopa Kalandusfondi toetused kalalaevastiku kohandamisel ja taristu arendamisel“ arutelu",
+      "uuid": "4d62521e-f655-421b-b73a-e2b20728e0f3",
+      "files": [
+        "protokoll 121 11 11 2013 .rtf",
+        "Riigikontrolli slaidid 11 11 2013.ppt"
+      ]
+    }
+  ],
+  "uuid": "afaf5434-bcd3-4e1b-8459-8860c7023619",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid afaf5434-bcd3-4e1b-8459-8860c7023619)",
+  "source": "https://api.riigikogu.ee/api/volumes/afaf5434-bcd3-4e1b-8459-8860c7023619",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2013-11-01&endDate=2013-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
