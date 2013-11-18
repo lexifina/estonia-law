@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung esmaspäev, 18.11.2013 12:00",
+  "sitting_time": "2013-11-18T12:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b80735ba-1cc7-4b68-a8ba-53673b21982b"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine Euroopa Soolise Võrdõiguslikkuse Instituudi esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4c28de59-3ed1-4e38-b3dc-038472ed2aa8"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0345b10b-d775-4914-8564-a1e5cfabbf2d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "29ffdf1d-6c70-4454-a093-906116233b68",
+      "files": [
+        "protocol.rtf"
+      ]
+    }
+  ],
+  "uuid": "5f094e28-145e-49d4-a087-bac87d241a6f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 5f094e28-145e-49d4-a087-bac87d241a6f)",
+  "source": "https://api.riigikogu.ee/api/volumes/5f094e28-145e-49d4-a087-bac87d241a6f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2013-11-01&endDate=2013-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
