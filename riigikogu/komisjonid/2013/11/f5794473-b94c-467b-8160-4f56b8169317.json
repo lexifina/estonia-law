@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung teisipäev, 19.11.2013 00:00",
+  "sitting_time": "2013-11-19T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigieelarve seaduse eelnõu (513 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f51421c6-43c7-400d-9c91-2f496cc1ce98"
+    },
+    {
+      "order": 2,
+      "title": "2014. aasta riigieelarve seaduse eelnõu (490 SE II)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a35d4cda-d406-47c6-8e5a-182503384c5e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "1dd9cfd6-3b4b-4297-9937-989b401f2e84",
+      "files": [
+        "Protokoll.ddoc",
+        "166_prot.docx"
+      ]
+    }
+  ],
+  "uuid": "f5794473-b94c-467b-8160-4f56b8169317",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f5794473-b94c-467b-8160-4f56b8169317)",
+  "source": "https://api.riigikogu.ee/api/volumes/f5794473-b94c-467b-8160-4f56b8169317",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2013-11-01&endDate=2013-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
