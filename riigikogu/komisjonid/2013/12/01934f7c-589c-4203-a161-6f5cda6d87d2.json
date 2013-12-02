@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 2.12.2013 11:00",
+  "sitting_time": "2013-12-02T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "12ca7587-982f-44e0-800b-c19350bbd64f"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine Võrumaa omavalitsusjuhtidega MAK 2014-2020 teemadel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1a8bdd6b-8feb-4d78-9c4c-0e2a1b93fb96"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "d5276c23-20f2-4e48-adad-4d6aae73523e",
+      "files": [
+        "Protokoll.ddoc",
+        "139 protokoll 02.12.2013.rtf"
+      ]
+    }
+  ],
+  "uuid": "01934f7c-589c-4203-a161-6f5cda6d87d2",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 01934f7c-589c-4203-a161-6f5cda6d87d2)",
+  "source": "https://api.riigikogu.ee/api/volumes/01934f7c-589c-4203-a161-6f5cda6d87d2",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2013-12-01&endDate=2013-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
