@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung teisipäev, 3.12.2013 14:00",
+  "sitting_time": "2013-12-03T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade Eesti tegevusest soome-ugri hõimurahvaste toetamisel.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ae489ed3-c436-4f74-9da6-062e5bed390c"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5b5b4fdb-0e91-4709-b2ea-aed83e976387"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Väliskomisjoni istungi protokoll nr 200",
+      "uuid": "4a28fc3a-91a3-4002-b96e-ff2a6ce8160b",
+      "files": [
+        "03.12.2013 (200) protokoll.doc"
+      ]
+    }
+  ],
+  "uuid": "d602a4e0-e80d-458e-8f05-1dd225c3db15",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d602a4e0-e80d-458e-8f05-1dd225c3db15)",
+  "source": "https://api.riigikogu.ee/api/volumes/d602a4e0-e80d-458e-8f05-1dd225c3db15",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2013-12-01&endDate=2013-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
