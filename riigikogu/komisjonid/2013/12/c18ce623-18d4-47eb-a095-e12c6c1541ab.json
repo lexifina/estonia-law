@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 9.12.2013 13:00",
+  "sitting_time": "2013-12-09T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine;",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "540c0b7d-ff66-4858-bb7c-07ed528836a8"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli kontrolliaruande „Tartu linnaga seotud ühingute rahastamine linnaeelarves“ arutelu.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a17de2ac-6664-45f2-a662-4a899f6fdee1"
+    },
+    {
+      "order": 3,
+      "title": "Riigikontrolli kontrolliaruande \"Infosüsteemide pidamine ja arendamine Keskkonnaministeeriumi valitsemisalas\" arutelu.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e6572b79-86fe-4cd3-8b69-23942616099c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Riigikontrolli kontrolliaruande „Tartu linnaga seotud ühingute rahastamine linnaeelarves“ arutelu",
+      "uuid": "80817af6-69f7-424c-b3b8-5e9ff32c4a3b",
+      "files": [
+        "Riigikontrolli slaidid 09.12.12 Tartu.ppt",
+        "protokoll 128 09 12 2013 .rtf",
+        "Riigikontrolli slaidid 09.12.13 KEM.ppt"
+      ]
+    }
+  ],
+  "uuid": "c18ce623-18d4-47eb-a095-e12c6c1541ab",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c18ce623-18d4-47eb-a095-e12c6c1541ab)",
+  "source": "https://api.riigikogu.ee/api/volumes/c18ce623-18d4-47eb-a095-e12c6c1541ab",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2013-12-01&endDate=2013-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
