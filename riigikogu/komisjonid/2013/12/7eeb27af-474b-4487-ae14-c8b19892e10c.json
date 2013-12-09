@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 9.12.2013 11:00",
+  "sitting_time": "2013-12-09T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3dc572f4-896c-4bec-b503-2f8b2c315221"
+    },
+    {
+      "order": 2,
+      "title": "Eesti regionaalarengu strateegia 2020 eelnõu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "379ce582-a71b-47df-882f-2cc037f57554"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "bb00032a-f451-461b-8b35-2ef6c452a4f8",
+      "files": [
+        "142 protokoll 09.12.2013.rtf",
+        "Protokoll.ddoc"
+      ]
+    }
+  ],
+  "uuid": "7eeb27af-474b-4487-ae14-c8b19892e10c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7eeb27af-474b-4487-ae14-c8b19892e10c)",
+  "source": "https://api.riigikogu.ee/api/volumes/7eeb27af-474b-4487-ae14-c8b19892e10c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2013-12-01&endDate=2013-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
