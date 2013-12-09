@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung esmaspäev, 9.12.2013 11:00",
+  "sitting_time": "2013-12-09T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava (09.12.13-15.12.13) kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1ad64794-c2fb-47bf-831d-a670d1b3d362"
+    },
+    {
+      "order": 2,
+      "title": "2-7/13-250 Kontrolliaruande \"Riigi toetusel arendatud veetaristu jätkusuutlikkus ja mõju \nkeskkonnaeesmärkide saavutamisele\" esitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "df6fca3a-5629-475f-bab8-67ec28344ade"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "protokoll nr 133",
+      "uuid": "217edce3-847a-40ea-ae92-b068ec4aacdf",
+      "files": [
+        "prot133 09.12.13.doc",
+        "protokoll_nr_133.ddoc"
+      ]
+    }
+  ],
+  "uuid": "33d7d170-de8b-45d1-8b71-2b8373056a08",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 33d7d170-de8b-45d1-8b71-2b8373056a08)",
+  "source": "https://api.riigikogu.ee/api/volumes/33d7d170-de8b-45d1-8b71-2b8373056a08",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2013-12-01&endDate=2013-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
