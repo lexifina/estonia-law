@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung esmaspäev, 9.12.2013 11:00",
+  "sitting_time": "2013-12-09T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d785afed-23d1-4cb1-9db7-58fcf65e63c3"
+    },
+    {
+      "order": 2,
+      "title": "Erihoolekande strateegia arengusuunad",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e8bb1406-cf81-4434-a440-aff3e9a22ecc"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "2ae7333f-397a-477a-866e-efc7a20eef4b",
+      "files": [
+        "protocol.rtf"
+      ]
+    }
+  ],
+  "uuid": "fc0c5cdb-6b01-40da-b6e3-d00b3efd8234",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid fc0c5cdb-6b01-40da-b6e3-d00b3efd8234)",
+  "source": "https://api.riigikogu.ee/api/volumes/fc0c5cdb-6b01-40da-b6e3-d00b3efd8234",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2013-12-01&endDate=2013-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
