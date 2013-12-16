@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung esmaspäev, 16.12.2013",
+  "sitting_time": "2013-12-16T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3f497237-1d10-4e2b-b762-b4cc2ba2a582"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad Euroopa Komisjoni korraldatud Euroopa õigusel rajaneva ala tuleviku teemalise avaliku konsultatsiooni kohta.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1a88046c-81fe-44e2-ae2c-28c4ed26bfab"
+    },
+    {
+      "order": 3,
+      "title": "Korteriomandi- ja korteriühistuseadus (462 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b100e307-9173-4d0f-8cad-8cdd2d927bd3"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "eb8eef3f-2ac2-4876-a579-c8b8b9a9cb94",
+      "files": [
+        "Protokoll.ddoc",
+        "protokoll 16.12.2013.odt"
+      ]
+    }
+  ],
+  "uuid": "d5b51d76-ad5c-49b0-a526-5862a0cbf133",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d5b51d76-ad5c-49b0-a526-5862a0cbf133)",
+  "source": "https://api.riigikogu.ee/api/volumes/d5b51d76-ad5c-49b0-a526-5862a0cbf133",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2013-12-01&endDate=2013-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
