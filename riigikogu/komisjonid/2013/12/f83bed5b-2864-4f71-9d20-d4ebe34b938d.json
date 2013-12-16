@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung esmaspäev, 16.12.2013",
+  "sitting_time": "2013-12-16T00:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava (16.12.13-22.12.13) kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ddce4708-6696-4577-b580-7737599b5562"
+    },
+    {
+      "order": 2,
+      "title": "Väljasõiduistung Riigimetsa Majandamise Keskusesse, ülevaade tegevusest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c4242a75-5ead-47e3-88e6-7bfdafe2e7f1"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "protokoll nr 136",
+      "uuid": "bd537ee4-dde5-4cb9-ad6c-0db27ac85c87",
+      "files": [
+        "prot136 16.12.13.doc",
+        "protokoll_nr_136.ddoc"
+      ]
+    }
+  ],
+  "uuid": "f83bed5b-2864-4f71-9d20-d4ebe34b938d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f83bed5b-2864-4f71-9d20-d4ebe34b938d)",
+  "source": "https://api.riigikogu.ee/api/volumes/f83bed5b-2864-4f71-9d20-d4ebe34b938d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2013-12-01&endDate=2013-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
