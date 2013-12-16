@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 16.12.2013 13:30",
+  "sitting_time": "2013-12-16T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine;",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a788f385-f1ae-44df-8958-9285fcbf5d76"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli kontrolliaruande „Riigi põhimaanteede renoveerimine“ arutelu.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1363a795-7f92-4bf5-82bf-c97efeeac494"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Riigikontrolli kontrolliaruande „Riigi põhimaanteede renoveerimine“ arutelu",
+      "uuid": "cccd4b3d-aa5a-4ac5-bbbc-bf26a12464a1",
+      "files": [
+        "Riigikontrolli slaidid 16.12.2013.ppt",
+        "protokoll 130 16 12 2013 .rtf",
+        "Maanteeameti slaidid 16.12.13.ppt"
+      ]
+    }
+  ],
+  "uuid": "9eaa7775-e8e8-4cf2-b1bf-4e347969a278",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9eaa7775-e8e8-4cf2-b1bf-4e347969a278)",
+  "source": "https://api.riigikogu.ee/api/volumes/9eaa7775-e8e8-4cf2-b1bf-4e347969a278",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2013-12-01&endDate=2013-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
