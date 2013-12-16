@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung esmaspäev, 16.12.2013 11:00",
+  "sitting_time": "2013-12-16T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fecff419-d720-434b-b171-2356f443a372"
+    },
+    {
+      "order": 2,
+      "title": "Riigieelarve seaduse § 32 muutmise seaduse eelnõu (547 SE II)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7e90e5a0-b49e-489a-96fc-77c47ee9ee4c"
+    },
+    {
+      "order": 3,
+      "title": "Maksukorralduse seaduse ja sellega seonduvalt teiste seaduste muutmise seaduse eelnõu (507 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d5fcdd62-e7f4-4f16-be2e-b2868eb81335"
+    },
+    {
+      "order": 4,
+      "title": "Info",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ddf593a2-3dc3-4fd5-8937-0305179036c5"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "93e126dc-c226-4b62-a786-52895568515f",
+      "files": [
+        "Protokoll.ddoc"
+      ]
+    }
+  ],
+  "uuid": "aa6b59ac-593e-43f2-aa84-8b55d63fe623",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid aa6b59ac-593e-43f2-aa84-8b55d63fe623)",
+  "source": "https://api.riigikogu.ee/api/volumes/aa6b59ac-593e-43f2-aa84-8b55d63fe623",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2013-12-01&endDate=2013-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
