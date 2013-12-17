@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung teisipäev, 17.12.2013 13:00",
+  "sitting_time": "2013-12-17T13:45:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Järelevalve narkootiliste ja psühhotroopsete ravimite väljakirjutamise üle ning sellega seotud rikkumiste menetlemine. Parlamentaarne kuulamine.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cb472d9d-f23c-463f-892d-8e37a15c7492"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "930bc6d6-b164-498d-9ae7-63895d87de53"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "9a783185-dc08-44b8-ad5a-4f996f42db84",
+      "files": [
+        "protocol.rtf"
+      ]
+    }
+  ],
+  "uuid": "ef9ae137-9806-427a-89a2-98854e66c0bc",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ef9ae137-9806-427a-89a2-98854e66c0bc)",
+  "source": "https://api.riigikogu.ee/api/volumes/ef9ae137-9806-427a-89a2-98854e66c0bc",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2013-12-01&endDate=2013-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
