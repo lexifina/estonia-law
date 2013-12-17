@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 17.12.2013 14:00",
+  "sitting_time": "2013-12-17T14:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "87654468-a60d-40e9-b9b1-4cc4fb98c596"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud maareformi seaduse ja teiste seaduste muutmise seaduse eelnõu (516 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "45180ba4-5fed-48a5-8a6a-1e58b7613df7"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "4effd01b-c152-4f73-a1dd-be4504a01811",
+      "files": [
+        "Protokoll.ddoc",
+        "145 protokoll 17.12.2013.rtf"
+      ]
+    }
+  ],
+  "uuid": "10b638a7-7c80-4d64-bba4-4c2fc0622796",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 10b638a7-7c80-4d64-bba4-4c2fc0622796)",
+  "source": "https://api.riigikogu.ee/api/volumes/10b638a7-7c80-4d64-bba4-4c2fc0622796",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2013-12-01&endDate=2013-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
