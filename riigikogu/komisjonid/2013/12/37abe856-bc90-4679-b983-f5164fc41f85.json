@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung teisipäev, 17.12.2013 14:00",
+  "sitting_time": "2013-12-17T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigieelarve seaduse eelnõu (513 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1f313993-4ad2-4120-b999-c76b171a4bc2"
+    },
+    {
+      "order": 2,
+      "title": "Info",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c532c3a5-47ba-4350-8290-6313524cace0"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "f3162070-f4bc-43e6-b5ee-0209b4f5a86b",
+      "files": [
+        "prot_174_RAHK.docx"
+      ]
+    }
+  ],
+  "uuid": "37abe856-bc90-4679-b983-f5164fc41f85",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 37abe856-bc90-4679-b983-f5164fc41f85)",
+  "source": "https://api.riigikogu.ee/api/volumes/37abe856-bc90-4679-b983-f5164fc41f85",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2013-12-01&endDate=2013-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
