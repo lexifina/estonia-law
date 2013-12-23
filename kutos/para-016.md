@@ -1,0 +1,13 @@
+# § 16. Direktori ametikoha täitmine
+
+(1) Kooli direktori vaba ametikoha täitmiseks korraldatakse avalik konkurss.
+
+(2) Riigikooli direktori vaba ametikoha täitmiseks korraldatava konkursi läbiviimise korra
+
+määrusega.
+
+(3) Munitsipaalkooli direktori vaba ametikoha täitmiseks korraldatava konkursi korra kehtestab valla- või linnavalitsus.
+
+(4) Riigikooli direktoriga sõlmib töölepingu, muudab seda ja ütleb selle üles haridus- ja teadusminister või tema volitatud esindaja.
+
+(5) Munitsipaalkooli direktoriga sõlmib töölepingu, muudab seda ja ütleb selle üles vallavanem või linnapea või tema volitatud esindaja.

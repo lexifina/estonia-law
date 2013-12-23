@@ -1,0 +1,39 @@
+# § 43. Õpilase kohustused ja õigused
+
+(1) Õpilasel on kohustus:
+
+1) osaleda õppetöös, täites õppekava ja õppeülesandeid;
+
+2) täita seaduste, kooli põhimääruse, sisekorraeeskirja, õppekorralduseeskirja ja muude õigusaktidega kehtestatud kohustusi ning kanda vastutust nende rikkumise korral.
+
+(2) Õpilasel on õigus:
+
+1) kasutada kõiki kooli loodud võimalusi hariduse omandamiseks;
+
+2) valida valikmooduleid kooli õppekavas sätestatud korras;
+
+3) osaleda õpilasesinduse valimisel ning kandideerida õpilasesindusse;
+
+4) kasutada õppekavavälises tegevuses tasuta oma kooli ruume, raamatukogu, õppe-, spordi-, tehnilisi ja muid vahendeid kooli kehtestatud tingimustel ja korras;
+
+5) saada õpilaspilet;
+
+6) saada toetusi ja õppelaenu õppetoetuste ja õppelaenu seadusega sätestatud tingimustel ja korras;
+
+7) saada toetust koolilõuna kulude katmiseks käesoleva seadusega sätestatud tingimustel ja korras;
+
+8) sõidukulu hüvitamisele ühistranspordiseaduses sätestatud tingimustel ja korras;
+
+9) saada akadeemilist puhkust õppekorralduseeskirjas sätestatud korras tervislikel põhjustel kuni kaks aastat, aja- või asendusteenistuse täitmiseks kuni üks aasta ning lapse hooldamiseks kuni lapse kolmeaastaseks saamiseni;
+
+10) saada õppimise toetamiseks tasuta tugiteenuseid;
+
+11) pöörduda tervislikel põhjustel õppetöö ajal tervishoiuteenuse osutaja poole;
+
+12) kasutada teisi seaduse, kooli põhimääruse ja muude õigusaktidega kehtestatud õigusi.
+
+(3) Statsionaarses õppevormis õppivale õpilasele osutatakse koolitervishoiuteenust põhikooli- ja gümnaasiumiseaduse § 43 alusel.
+
+(4) Õpilasel, kes õpib meresõiduohutuse seadusega reguleeritud laevapere liikme koolituse aluseks oleval esmaõppe õppekaval, on õigus riigieelarvest rahastatavale toitlustusele ja vormiriietusele. Nimetatud õpilasele ei laiene käesoleva seaduse §-s 48 sätestatud koolilõuna toetus.
+
+(5) Õpilasel, kes õpib statsionaarses õppevormis pääste- või politseierialade kutseõppe õppekaval, on õigus riigieelarvest rahastatavale toitlustusele ja majutusele kooli kehtestatud tingimustel ja korras.
