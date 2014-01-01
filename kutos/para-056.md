@@ -1,8 +1,6 @@
 # § 56. Kooli juhtimisega seotud üleminek
 
-(1) Kooli põhimäärus viiakse käesoleva seaduse nõuetega kooskõlla 2014. aasta 1. jaanuariks. Käesoleva seaduse jõustumisel
-
-kehtivad kuni seadusega kooskõlla viimiseni, kuid kõige kauem 2014. aasta 1. jaanuarini.
+(1) Kooli põhimäärus viiakse käesoleva seaduse nõuetega kooskõlla 2014. aasta 1. jaanuariks. Käesoleva seaduse jõustumisel kehtivad põhimäärused kehtivad kuni seadusega kooskõlla viimiseni, kuid kõige kauem 2014. aasta 1. jaanuarini.
 
 (2) Enne käesoleva seaduse jõustumist kinnitatud koolide arengukavad kehtivad oma tähtaja lõpuni.
 
