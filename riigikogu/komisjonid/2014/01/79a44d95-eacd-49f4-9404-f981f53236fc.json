@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 13.01.2014 13:00",
+  "sitting_time": "2014-01-13T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine;",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "42407f70-9c53-457e-874f-17b9ad222076"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade Riigikontrolli 2014. aasta tööplaanist. Kutsutud Riigikontrolli esindajad;",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2ba9e7b1-61d0-46ed-82be-1ea669021cf7"
+    },
+    {
+      "order": 3,
+      "title": "Riigikontrolli kontrolliaruande „Järelaudit investeeringute kavandamise kohta valdades ja linnades“ arutelu;",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3043837c-76f3-4b77-a204-538838e10b9b"
+    },
+    {
+      "order": 4,
+      "title": "Informatsioon.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a7d46129-fba2-42d3-8995-22df61cf23fb"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Riigikontrolli kontrolliaruande „Järelaudit investeeringute kavandamise kohta valdades ja linnades“ arutelu",
+      "uuid": "590bf0c6-22f2-491e-b119-fd7c365e2e0e",
+      "files": [
+        "protokoll 131 13 01 2014 .pdf",
+        "Riigikontrolli slaidid 13.01.14.pdf"
+      ]
+    }
+  ],
+  "uuid": "79a44d95-eacd-49f4-9404-f981f53236fc",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 79a44d95-eacd-49f4-9404-f981f53236fc)",
+  "source": "https://api.riigikogu.ee/api/volumes/79a44d95-eacd-49f4-9404-f981f53236fc",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-01-01&endDate=2014-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
