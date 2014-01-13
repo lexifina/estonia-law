@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 13.01.2014 11:00",
+  "sitting_time": "2014-01-13T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1cf0dc52-c3a1-4660-8425-81c9a973e6b5"
+    },
+    {
+      "order": 2,
+      "title": "Sotsiaaldemokraatliku Erakonna fraktsiooni algatatud Riigikogu otsus \"Ettepaneku tegemine Vabariigi Valitsusele\" (544 OE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4bb21a37-aa01-4512-954c-cdff14b5e69b"
+    },
+    {
+      "order": 3,
+      "title": "Kevadistungjärgu tööplaanid",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "01f123c6-5ddb-4e54-989a-1c643650625f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "2eb9daab-7675-4967-9b50-25c266eb26b4",
+      "files": [
+        "Protokol_20140121.pdf"
+      ]
+    }
+  ],
+  "uuid": "eb223b15-5b07-49fd-980a-8bb231c0f311",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid eb223b15-5b07-49fd-980a-8bb231c0f311)",
+  "source": "https://api.riigikogu.ee/api/volumes/eb223b15-5b07-49fd-980a-8bb231c0f311",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-01-01&endDate=2014-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
