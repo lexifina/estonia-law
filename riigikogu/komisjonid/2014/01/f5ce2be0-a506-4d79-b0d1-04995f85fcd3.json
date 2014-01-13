@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung esmaspäev, 13.01.2014 11:00",
+  "sitting_time": "2014-01-13T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väliskomisjoni VII istungjärgu 1. töönädala töökava kinnitamine.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5899d7b5-b6af-4dad-9270-82accc3851aa"
+    },
+    {
+      "order": 2,
+      "title": "Väliskomisjoni VII istungjärgu töökava arutelu.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f727cd65-a7b1-474f-a4ed-60d53d372302"
+    },
+    {
+      "order": 3,
+      "title": "Informatsioon Vabariigi Presidendi välissuhtlemisest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ef47c886-646a-40b7-8e1e-5a9fa77e5250"
+    },
+    {
+      "order": 4,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ecae9e27-1c36-4de4-bd2b-b582199c07e8"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "c31f3530-309d-4af1-8e9e-6849408e69d5",
+      "files": [
+        "Protokoll.ddoc",
+        "Protokol_20140114.pdf"
+      ]
+    }
+  ],
+  "uuid": "f5ce2be0-a506-4d79-b0d1-04995f85fcd3",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f5ce2be0-a506-4d79-b0d1-04995f85fcd3)",
+  "source": "https://api.riigikogu.ee/api/volumes/f5ce2be0-a506-4d79-b0d1-04995f85fcd3",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-01-01&endDate=2014-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
