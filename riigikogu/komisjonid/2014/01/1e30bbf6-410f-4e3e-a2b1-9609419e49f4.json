@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung neljapäev, 16.01.2014 14:00",
+  "sitting_time": "2014-01-16T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 20. jaanuaril 2014 toimuval Euroopa Liidu välisasjade nõukogu istungil.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b2e56ce9-08e3-4142-bda9-98e4c68ef89c"
+    },
+    {
+      "order": 2,
+      "title": "Informatsioon peaministri välissuhtlemisest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a305671a-fe8b-4c24-8913-05530af31688"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d877acdb-c1f0-4e07-8a66-0ec143228ca5"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "c622dbc8-bb73-40d3-915d-e6cbc49c1c00",
+      "files": [
+        "Protokoll.ddoc",
+        "Protokol_20140116.pdf"
+      ]
+    }
+  ],
+  "uuid": "1e30bbf6-410f-4e3e-a2b1-9609419e49f4",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 1e30bbf6-410f-4e3e-a2b1-9609419e49f4)",
+  "source": "https://api.riigikogu.ee/api/volumes/1e30bbf6-410f-4e3e-a2b1-9609419e49f4",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-01-01&endDate=2014-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
