@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 20.01.2014 11:00 L332",
+  "sitting_time": "2014-01-20T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "165ef827-8096-4aa0-9483-7941af674719"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade EL struktuurivahendite kasutamisest aastatel 2014-2020",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f50b44eb-baad-475f-a737-44c2d98173b4"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "399549ef-082f-44db-915d-497fa6057833",
+      "files": [
+        "Protokol_20140127.pdf",
+        "Protokoll.ddoc"
+      ]
+    }
+  ],
+  "uuid": "836f4770-5b3a-4436-97d0-290953609cca",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 836f4770-5b3a-4436-97d0-290953609cca)",
+  "source": "https://api.riigikogu.ee/api/volumes/836f4770-5b3a-4436-97d0-290953609cca",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-01-01&endDate=2014-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
