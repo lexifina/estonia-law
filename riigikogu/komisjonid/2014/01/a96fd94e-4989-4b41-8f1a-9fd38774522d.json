@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung esmaspäev, 20.01.2014 11:00",
+  "sitting_time": "2014-01-20T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4f975d30-de61-4757-bd71-333e38d5ce7a"
+    },
+    {
+      "order": 2,
+      "title": "2-7/14-2 Esindaja määramine Kaitsetööstusnõukogusse",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "eb5e1beb-d123-4adf-8d77-d2242f7afa7a"
+    },
+    {
+      "order": 3,
+      "title": "Kaitseväe korralduse seaduse muutmise ja sellega seonduvalt teiste seaduste muutmise seaduse eelnõu (487 SE II)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7362dd96-e924-4905-a572-de28c508fd87"
+    },
+    {
+      "order": 4,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5121958c-acb9-4c77-8b95-cac7e769243b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "1f866f63-c93b-40ac-8087-5793bce20b6d",
+      "files": [
+        "Protokoll.ddoc",
+        "Protokol_20140121.pdf"
+      ]
+    }
+  ],
+  "uuid": "a96fd94e-4989-4b41-8f1a-9fd38774522d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a96fd94e-4989-4b41-8f1a-9fd38774522d)",
+  "source": "https://api.riigikogu.ee/api/volumes/a96fd94e-4989-4b41-8f1a-9fd38774522d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-01-01&endDate=2014-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
