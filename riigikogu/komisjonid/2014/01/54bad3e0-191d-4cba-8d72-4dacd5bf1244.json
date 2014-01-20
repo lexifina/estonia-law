@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung esmaspäev, 20.01.2014",
+  "sitting_time": "2014-01-20T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7be7fe90-d6f5-4b7e-b717-7e70bb48a57a"
+    },
+    {
+      "order": 2,
+      "title": "Parlamentaarne kuulamine - ülevaade Eesti Teadusagentuuri tegevusest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ac9bbc4e-2dcf-404b-871c-a7e49595c953"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9fa7ff9a-35ac-4fe3-9b43-871b1d771986"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "c4c86946-6693-43e3-b72b-a509edb2bccc",
+      "files": [
+        "Protokoll.ddoc",
+        "Protokol_20140121.pdf"
+      ]
+    }
+  ],
+  "uuid": "54bad3e0-191d-4cba-8d72-4dacd5bf1244",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 54bad3e0-191d-4cba-8d72-4dacd5bf1244)",
+  "source": "https://api.riigikogu.ee/api/volumes/54bad3e0-191d-4cba-8d72-4dacd5bf1244",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-01-01&endDate=2014-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
