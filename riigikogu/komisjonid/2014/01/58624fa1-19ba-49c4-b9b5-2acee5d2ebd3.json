@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Korruptsioonivastane erikomisjon",
+  "committee_uuid": "e4f2977a-e8c3-4fa0-8f3d-9df9acd6377f",
+  "title": "Komisjoni istung esmaspäev, 20.01.2014 13:30",
+  "sitting_time": "2014-01-20T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Hinnangu kujundamise jätkamine komisjonis algatatud avaliku vahendi võimaliku korruptiivse kasutamise arutamise kohta",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "13aa165a-1925-4966-a8fb-d45f8821a664"
+    },
+    {
+      "order": 2,
+      "title": "Kohapeal algatatud küsimuste arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "099127a9-0f94-49fa-9647-232cdf78025e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Korruptsioonivastase erikomisjoni istungi protokoll nr 21",
+      "uuid": "db487cd9-9dc9-4543-ab7b-0ca4b24304e3",
+      "files": [
+        "2014_01_20 nr 21. (Hinnangu kujundamise jätkamine).pdf",
+        "2014_01_20 nr 21. (Hinnangu kujundamise jätkamine).ddoc"
+      ]
+    }
+  ],
+  "uuid": "58624fa1-19ba-49c4-b9b5-2acee5d2ebd3",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 58624fa1-19ba-49c4-b9b5-2acee5d2ebd3)",
+  "source": "https://api.riigikogu.ee/api/volumes/58624fa1-19ba-49c4-b9b5-2acee5d2ebd3",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-01-01&endDate=2014-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
