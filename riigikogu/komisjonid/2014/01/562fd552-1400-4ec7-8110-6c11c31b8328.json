@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung esmaspäev, 20.01.2014 11:00",
+  "sitting_time": "2014-01-20T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6a430587-81f1-4333-8de3-45b4ceb598ea"
+    },
+    {
+      "order": 2,
+      "title": "Tulumaksuseaduse ja sotsiaalmaksuseaduse § 3 muutmise seaduse eelnõu (533 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1f6b8d64-50af-46d6-9cdd-5befa488268c"
+    },
+    {
+      "order": 3,
+      "title": "Riigieelarve seaduse eelnõu (513 SE II)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "31b8e403-deb9-4ac6-8f77-e8122be615ba"
+    },
+    {
+      "order": 4,
+      "title": "Info",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9e3edb18-3235-41ff-92ba-0d8294318a52"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "26741341-3126-4ba4-99c7-da14f3b04775",
+      "files": [
+        "Protokol_20140123.pdf",
+        "Protokoll.ddoc"
+      ]
+    }
+  ],
+  "uuid": "562fd552-1400-4ec7-8110-6c11c31b8328",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 562fd552-1400-4ec7-8110-6c11c31b8328)",
+  "source": "https://api.riigikogu.ee/api/volumes/562fd552-1400-4ec7-8110-6c11c31b8328",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-01-01&endDate=2014-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
