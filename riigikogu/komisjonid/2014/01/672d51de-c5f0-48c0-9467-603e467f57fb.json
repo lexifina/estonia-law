@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung teisipäev, 21.01.2014 14:00",
+  "sitting_time": "2014-01-21T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Euroopa Liidu Ülemkogu (detsember 2013) debriif",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9e46f694-ff10-488b-88f3-f446eebb7a3a"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse korralduse eelnõu esitamine arvamuse avaldamiseks (1-6/14-1)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "780c3762-807e-455a-9f3e-e1f4b1e64688"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "9439f626-fdec-4eca-a280-cef6e3d38f98",
+      "files": [
+        "Protokol_20140122.pdf"
+      ]
+    }
+  ],
+  "uuid": "672d51de-c5f0-48c0-9467-603e467f57fb",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 672d51de-c5f0-48c0-9467-603e467f57fb)",
+  "source": "https://api.riigikogu.ee/api/volumes/672d51de-c5f0-48c0-9467-603e467f57fb",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-01-01&endDate=2014-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
