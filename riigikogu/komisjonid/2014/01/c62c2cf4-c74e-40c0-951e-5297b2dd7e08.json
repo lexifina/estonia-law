@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung teisipäev, 21.01.2014 14:00",
+  "sitting_time": "2014-01-21T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Maksukorralduse seaduse muutmise seaduse eelnõu (575 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ffff81b5-f6d7-4031-b480-82b74dc5a2b6"
+    },
+    {
+      "order": 2,
+      "title": "Krediidiasutuste seaduse ja sellega seonduvalt teiste seaduste muutmise seaduse eelnõu (559 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "56de1309-6731-47d9-b762-b551ea3e4fea"
+    },
+    {
+      "order": 3,
+      "title": "Maamaksuseaduse muutmise seaduse eelnõu (558 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1b1b318d-31a1-42cc-98b1-41e935dbc68d"
+    },
+    {
+      "order": 4,
+      "title": "Info",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d3f9a375-1d8d-4c2d-9f21-2b664dde5219"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "3835d1dc-1bd4-47af-a128-6568f800808d",
+      "files": [
+        "Protokol_20140127.pdf",
+        "Protokoll.ddoc"
+      ]
+    }
+  ],
+  "uuid": "c62c2cf4-c74e-40c0-951e-5297b2dd7e08",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c62c2cf4-c74e-40c0-951e-5297b2dd7e08)",
+  "source": "https://api.riigikogu.ee/api/volumes/c62c2cf4-c74e-40c0-951e-5297b2dd7e08",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-01-01&endDate=2014-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
