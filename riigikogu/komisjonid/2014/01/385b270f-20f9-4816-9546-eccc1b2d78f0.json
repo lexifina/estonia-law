@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung teisipäev, 21.01.2014",
+  "sitting_time": "2014-01-21T11:56:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Pakendiseaduse muutmise seaduse eelnõu (568 SE), tutvustamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5f9eb4e1-1e8e-4d82-9ac1-503277be0236"
+    },
+    {
+      "order": 2,
+      "title": "Ettepanek: \nEUROOPA PARLAMENDI JA NÕUKOGU DIREKTIIV, \nmillega muudetakse direktiivi 94/62/EÜ (pakendite ja pakendijäätmete kohta), et \nvähendada õhukeste plastkandekottide tarbimist COM(2013) 761 (1-2/13-599/1)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "86ea090f-0948-42b0-9ee7-b21ae267a2bb"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "daa0fda4-3279-4f0f-8d54-b4f22df1660c",
+      "files": [
+        "Protokol_20140123.ddoc",
+        "Protokoll.ddoc"
+      ]
+    }
+  ],
+  "uuid": "385b270f-20f9-4816-9546-eccc1b2d78f0",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 385b270f-20f9-4816-9546-eccc1b2d78f0)",
+  "source": "https://api.riigikogu.ee/api/volumes/385b270f-20f9-4816-9546-eccc1b2d78f0",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-01-01&endDate=2014-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
