@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 21.01.2014 14:00",
+  "sitting_time": "2014-01-21T14:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Toiduhügieen ja selle järelevalve toidu käitlemisel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c844dc04-b6d9-41a9-be74-abcb2ca9e36c"
+    },
+    {
+      "order": 2,
+      "title": "Piima- ja kalatoodete sisseveokeeld Venemaale",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e5da2b4c-0ef9-4364-b336-95cdf8e9aff6"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "8eaedeb1-4a95-4d9b-9a5d-6778d21ebdc6",
+      "files": [
+        "Protokol_20140127.pdf",
+        "Protokoll.ddoc"
+      ]
+    }
+  ],
+  "uuid": "c130c44e-c961-46b4-8356-1bd6da24b2d0",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c130c44e-c961-46b4-8356-1bd6da24b2d0)",
+  "source": "https://api.riigikogu.ee/api/volumes/c130c44e-c961-46b4-8356-1bd6da24b2d0",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-01-01&endDate=2014-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
