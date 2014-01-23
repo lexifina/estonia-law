@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung neljapäev, 23.01.2014 13:00",
+  "sitting_time": "2014-01-23T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Euroopa Liidu idapartnerluse edasised arengud.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "66a2d305-6284-492b-98a7-abdf3236742e"
+    },
+    {
+      "order": 2,
+      "title": "Välispoliitika arutelu olulise tähtsusega riikliku küsimusena Riigikogu täiskogul neljapäeval, 27. veebruaril 2014 – Vabariigi Valitsuse ettekande teesid.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "401bb32d-ce28-4b9d-a357-53a8c100e089"
+    },
+    {
+      "order": 3,
+      "title": "Arutelu Eesti välispoliitikat puudutavatel teemadel.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "68d9b826-7991-4115-a07e-e4d76c84f9c0"
+    },
+    {
+      "order": 4,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1b39f496-2a20-4fa9-a4bc-67aa655b4117"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "47d1308e-ff20-4e69-8b24-0660bebffa42",
+      "files": [
+        "Protokoll.ddoc",
+        "Protokol_20140123.pdf"
+      ]
+    }
+  ],
+  "uuid": "c71a349d-50db-423a-8a2c-1f585ac4da4a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c71a349d-50db-423a-8a2c-1f585ac4da4a)",
+  "source": "https://api.riigikogu.ee/api/volumes/c71a349d-50db-423a-8a2c-1f585ac4da4a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-01-01&endDate=2014-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
