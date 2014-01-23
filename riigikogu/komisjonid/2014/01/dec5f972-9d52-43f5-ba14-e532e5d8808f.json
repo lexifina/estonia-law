@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Korruptsioonivastane erikomisjon",
+  "committee_uuid": "e4f2977a-e8c3-4fa0-8f3d-9df9acd6377f",
+  "title": "Komisjoni istung neljapäev, 23.01.2014 16:00",
+  "sitting_time": "2014-01-23T16:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Hinnangu andmine Tallinna ja Tartu kohaliku omavalitsuse juhtide poolt avaliku vahendi võimaliku korruptiivse kasutamise kohta",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "02890e46-49de-4db1-9b07-862598cfbbc9"
+    },
+    {
+      "order": 2,
+      "title": "Kohapeal algatatud küsimuste arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "481a7ad3-b007-4794-886a-6319bb02cc97"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Korruptsioonivastase erikomisjoni istungi protokoll nr 22",
+      "uuid": "e57a0640-637d-45d8-bc81-0188e9925bf6",
+      "files": [
+        "2014_01_23 nr 22.doc (Hinnangu andmine).pdf",
+        "2014_01_23 nr 22.doc (Hinnangu andmine).ddoc",
+        "Kor_kom_hinnang.pdf"
+      ]
+    }
+  ],
+  "uuid": "dec5f972-9d52-43f5-ba14-e532e5d8808f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid dec5f972-9d52-43f5-ba14-e532e5d8808f)",
+  "source": "https://api.riigikogu.ee/api/volumes/dec5f972-9d52-43f5-ba14-e532e5d8808f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-01-01&endDate=2014-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
