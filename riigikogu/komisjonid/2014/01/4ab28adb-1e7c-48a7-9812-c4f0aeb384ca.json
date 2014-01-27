@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 27.01.2014 11:00",
+  "sitting_time": "2014-01-27T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "85a690b8-ff47-4c72-a487-6fa8fb3ca1b9"
+    },
+    {
+      "order": 2,
+      "title": "Eesti maaelu arengukava 2014-2020",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a160feab-0498-468e-970f-21f334a4e246"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "8112395d-6647-40dd-aa0c-9a4b6e78080a",
+      "files": [
+        "Protokol_20140128.pdf",
+        "Protokoll.ddoc"
+      ]
+    }
+  ],
+  "uuid": "4ab28adb-1e7c-48a7-9812-c4f0aeb384ca",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 4ab28adb-1e7c-48a7-9812-c4f0aeb384ca)",
+  "source": "https://api.riigikogu.ee/api/volumes/4ab28adb-1e7c-48a7-9812-c4f0aeb384ca",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-01-01&endDate=2014-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
