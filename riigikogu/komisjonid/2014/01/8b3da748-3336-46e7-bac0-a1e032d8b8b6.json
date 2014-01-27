@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung esmaspäev, 27.01.2014 11:00",
+  "sitting_time": "2014-01-27T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c06817b2-e2e0-4fbb-a0f7-d04c4eca8c25"
+    },
+    {
+      "order": 2,
+      "title": "Käibemaksuseaduse muutmise seaduse eelnõu (506 SE III)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "97a1241a-14bc-41fe-9002-58b71e8f3705"
+    },
+    {
+      "order": 3,
+      "title": "Ministeeriumide ülevaade tarbijakrediidi valdkonnas kiirlaenudega kaasnevate probleemide lahendamisest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5279de25-419d-4d40-83eb-3bbb455e08a2"
+    },
+    {
+      "order": 4,
+      "title": "Info",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "feaf3191-9e2f-4d35-b409-6589af5e4204"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "7353305d-446f-48a2-bfcb-6997b3dfd7f5",
+      "files": [
+        "Protokol_20140131.pdf",
+        "Protokoll.ddoc"
+      ]
+    }
+  ],
+  "uuid": "8b3da748-3336-46e7-bac0-a1e032d8b8b6",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8b3da748-3336-46e7-bac0-a1e032d8b8b6)",
+  "source": "https://api.riigikogu.ee/api/volumes/8b3da748-3336-46e7-bac0-a1e032d8b8b6",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-01-01&endDate=2014-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
