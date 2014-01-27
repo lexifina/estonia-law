@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung esmaspäev, 27.01.2014, kl 11.00",
+  "sitting_time": "2014-01-27T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "75e82f11-c1d6-488b-a501-cac5544eae75"
+    },
+    {
+      "order": 2,
+      "title": "Arvamuse andmine Riigikogu rahanduskomisjonile riigieelarve seaduse eelnõu 513 SE kohta",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "895845c4-77e4-4f38-b251-8b60bbe81eaf"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3d837041-355f-4e3f-a9cf-aca3f98724b6"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "5ceda172-32ef-4e90-8b0d-d074b5572c84",
+      "files": [
+        "Protokoll.ddoc",
+        "Protokol_20140129.pdf"
+      ]
+    }
+  ],
+  "uuid": "18a60105-88be-4302-a8f2-534b092a8030",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 18a60105-88be-4302-a8f2-534b092a8030)",
+  "source": "https://api.riigikogu.ee/api/volumes/18a60105-88be-4302-a8f2-534b092a8030",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-01-01&endDate=2014-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
