@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Korruptsioonivastane erikomisjon",
+  "committee_uuid": "e4f2977a-e8c3-4fa0-8f3d-9df9acd6377f",
+  "title": "Komisjoni istung esmaspäev, 27.01.2014 13:30",
+  "sitting_time": "2014-01-27T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Erikomisjoni edasisest tegevusest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ef01315c-fb49-491f-9f6d-5a60ce9723ee"
+    },
+    {
+      "order": 2,
+      "title": "Laekunud informatsioonid ja kohapeal algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "acc06462-3552-408c-911c-96c523598d66"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "c2be5d6f-907d-4971-9114-979222ef26d9",
+      "files": [
+        "2014_01_27 nr 23.doc  .pdf",
+        "2014_01_27 nr 23.doc  .ddoc"
+      ]
+    }
+  ],
+  "uuid": "8c27d09e-6143-4f3d-b379-ecf297466f78",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8c27d09e-6143-4f3d-b379-ecf297466f78)",
+  "source": "https://api.riigikogu.ee/api/volumes/8c27d09e-6143-4f3d-b379-ecf297466f78",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-01-01&endDate=2014-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
