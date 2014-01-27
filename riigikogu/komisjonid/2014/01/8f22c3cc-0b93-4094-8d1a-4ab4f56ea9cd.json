@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung esmaspäev, 27.01.2014 11:00",
+  "sitting_time": "2014-01-27T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "eeac35b6-b062-4dd6-9c18-39d5dd22a4d9"
+    },
+    {
+      "order": 2,
+      "title": "Nahahooldusvahendite, koensüümide ja vitamiinide hüvitamisest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "52c06878-eb1b-42fd-84b5-f6ca695ca142"
+    },
+    {
+      "order": 3,
+      "title": "Riiklike peretoetuste seaduse muutmise seaduse eelnõu (542 SE) ettevalmistamine esimeseks lugemiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ea023d22-d28f-4cce-b304-34c7174eec69"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "2e38f914-73d2-48b1-b8b3-966c2175d7e0",
+      "files": [
+        "Protokol_20140203.pdf"
+      ]
+    }
+  ],
+  "uuid": "8f22c3cc-0b93-4094-8d1a-4ab4f56ea9cd",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8f22c3cc-0b93-4094-8d1a-4ab4f56ea9cd)",
+  "source": "https://api.riigikogu.ee/api/volumes/8f22c3cc-0b93-4094-8d1a-4ab4f56ea9cd",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-01-01&endDate=2014-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
