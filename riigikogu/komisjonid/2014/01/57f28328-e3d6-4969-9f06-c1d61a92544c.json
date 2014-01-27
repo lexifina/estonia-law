@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung esmaspäev, 27.01.2014 11:00",
+  "sitting_time": "2014-01-27T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "43d72bfb-98f4-41b3-9117-8c69a3e5faa5"
+    },
+    {
+      "order": 2,
+      "title": "Kaitseväe korralduse seaduse muutmise ja sellega seonduvalt teiste seaduste muutmise seaduse eelnõu (487 SE III)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1f1bc7c4-f930-4dac-ac55-ec710d84038e"
+    },
+    {
+      "order": 3,
+      "title": "Kaitseliidu seaduse, kaitseväeteenistuse seaduse ja kaitseväeteenistuse seaduse rakendamise seaduse muutmise seaduse eelnõu (579 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1cd3d5ed-8a89-41b3-a453-2a14f17c6357"
+    },
+    {
+      "order": 4,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "67f9cace-f0f4-4f78-8268-7256e37c6337"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "65a281cb-bda6-4eea-a62d-bec58e804625",
+      "files": [
+        "Protokol_20140127.pdf"
+      ]
+    }
+  ],
+  "uuid": "57f28328-e3d6-4969-9f06-c1d61a92544c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 57f28328-e3d6-4969-9f06-c1d61a92544c)",
+  "source": "https://api.riigikogu.ee/api/volumes/57f28328-e3d6-4969-9f06-c1d61a92544c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-01-01&endDate=2014-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
