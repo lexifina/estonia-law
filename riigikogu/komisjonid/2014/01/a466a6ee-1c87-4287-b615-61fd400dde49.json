@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung teisipäev, 28.01.2014 14:00",
+  "sitting_time": "2014-01-28T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kaitseliidu seaduse muutmise seaduse eelnõu (458 SE II)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d8f76289-1e14-4e80-8d4a-a69f50ca5979"
+    },
+    {
+      "order": 2,
+      "title": "Olukorrast Ukrainas",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c00e0084-92ec-4de3-a9cc-bbf6cdfad79c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "8f45c90a-0332-409e-962c-51041c924d11",
+      "files": [
+        "Protokol_20140129.pdf",
+        "Noorteorganisatsioon kui tervik (4).pdf"
+      ]
+    }
+  ],
+  "uuid": "a466a6ee-1c87-4287-b615-61fd400dde49",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a466a6ee-1c87-4287-b615-61fd400dde49)",
+  "source": "https://api.riigikogu.ee/api/volumes/a466a6ee-1c87-4287-b615-61fd400dde49",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-01-01&endDate=2014-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
