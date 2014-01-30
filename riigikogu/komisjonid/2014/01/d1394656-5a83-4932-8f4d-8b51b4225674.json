@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung neljapäev, 30.01.2014 14:00",
+  "sitting_time": "2014-01-30T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigieelarve seaduse eelnõu (513 SE II)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "37537e6c-b024-4ac1-ac26-3727f0e4d41c"
+    },
+    {
+      "order": 2,
+      "title": "Info",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b537d7dd-d563-4db7-a19f-2cbc3b7cfc0b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "cbb3f413-6103-4dfb-803e-860eb3aafdb7",
+      "files": [
+        "prot181.doc",
+        "Protokoll.ddoc"
+      ]
+    }
+  ],
+  "uuid": "d1394656-5a83-4932-8f4d-8b51b4225674",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d1394656-5a83-4932-8f4d-8b51b4225674)",
+  "source": "https://api.riigikogu.ee/api/volumes/d1394656-5a83-4932-8f4d-8b51b4225674",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-01-01&endDate=2014-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
