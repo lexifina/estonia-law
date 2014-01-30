@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung neljapäev, 30.01.2014 14:00",
+  "sitting_time": "2014-01-30T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Maagaasiseaduse muutmise seaduse eelnõu (556 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "25609dff-cdfb-4789-8202-18615b0780fb"
+    },
+    {
+      "order": 2,
+      "title": "Majandus- ja Kommunikatsiooniministeeriumi ülevaade LNG terminali projekti arengutest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "79a978c4-a350-4b1a-bed7-6e0058d4b9fa"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f304ffe0-fd13-4f9a-85f1-67a5b8f23fbd"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAJK protokoll 30.01.2014 nr 203",
+      "uuid": "5aa0837c-216e-4872-9bb5-90cff2a4db4a",
+      "files": [
+        "MAJK_protokoll_30.01.2014_nr_20140218.pdf"
+      ]
+    }
+  ],
+  "uuid": "1f5d7bef-a3c3-4188-8a6a-97dcf30db66c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 1f5d7bef-a3c3-4188-8a6a-97dcf30db66c)",
+  "source": "https://api.riigikogu.ee/api/volumes/1f5d7bef-a3c3-4188-8a6a-97dcf30db66c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-01-01&endDate=2014-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
