@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 10.02.2014 11:00",
+  "sitting_time": "2014-02-10T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d22e3e8f-78d0-4aa5-ab79-d2dcc0c9a2ed"
+    },
+    {
+      "order": 2,
+      "title": "Omavalitsuskorralduse reformi seaduse eelnõu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "00241b10-4077-48ea-9261-4e84a7bf5023"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "464396b2-6864-4ccb-aff2-922216badcd5",
+      "files": [
+        "Protokoll.ddoc",
+        "Protokol_20140211.pdf"
+      ]
+    }
+  ],
+  "uuid": "5c9a2033-e247-40e8-afba-f0e1d9ac239a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 5c9a2033-e247-40e8-afba-f0e1d9ac239a)",
+  "source": "https://api.riigikogu.ee/api/volumes/5c9a2033-e247-40e8-afba-f0e1d9ac239a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-02-01&endDate=2014-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
