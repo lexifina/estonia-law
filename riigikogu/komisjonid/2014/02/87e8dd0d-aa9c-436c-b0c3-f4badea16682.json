@@ -1,0 +1,58 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung esmaspäev, 10.02.2014 11:00",
+  "sitting_time": "2014-02-10T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "30902021-07a5-4aa5-ab3d-61b929864d3b"
+    },
+    {
+      "order": 2,
+      "title": "Korteriomandi- ja korteriühistuseadus (462 SE II)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "164f8fa1-1978-4267-8a94-4a8f1d1d324d"
+    },
+    {
+      "order": 3,
+      "title": "Korrakaitseseaduse muutmise ja rakendamise seaduse eelnõu (424 SE II)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7079d558-b197-45fb-b303-6716cfaa4419"
+    },
+    {
+      "order": 4,
+      "title": "Eesti seisukohad menetlusõiguste paketi kohta.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3c8c358f-97e6-4d64-b727-24cb723f2632"
+    },
+    {
+      "order": 5,
+      "title": "Eesti seisukohad Euroopa Parlamendi ja nõukogu määruse, millega muudetakse Euroopa väiksemate kohtuvaidluste menetluse määrust, eelnõu kohta.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2285b6fc-9e0e-4db2-942e-cf7308884f45"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "feb6a748-8fa9-4ab6-bf02-932624502d6a",
+      "files": [
+        "Protokol_20140210.pdf",
+        "Protokoll.ddoc"
+      ]
+    }
+  ],
+  "uuid": "87e8dd0d-aa9c-436c-b0c3-f4badea16682",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 87e8dd0d-aa9c-436c-b0c3-f4badea16682)",
+  "source": "https://api.riigikogu.ee/api/volumes/87e8dd0d-aa9c-436c-b0c3-f4badea16682",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-02-01&endDate=2014-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
