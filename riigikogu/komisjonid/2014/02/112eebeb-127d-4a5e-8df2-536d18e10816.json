@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 10.02.2014 13:00",
+  "sitting_time": "2014-02-10T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine;",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e6ff7be0-ba0a-4e7b-a34b-c795ab0a856b"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli kontrolliaruande „Riigi tegevus e-tervise rakendamisel“ arutelu.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b06bd909-3899-4fb3-90d7-4e36ba3d0d53"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Riigikontrolli kontrolliaruande „Riigi tegevus e-tervise rakendamisel“ arutelu",
+      "uuid": "5e6b7354-9211-4f8b-bfff-58d0ffbb5db7",
+      "files": [
+        "protokoll 138 10 02 2014.pdf",
+        "Riigikontrolli slaidid 10 02 2014.pdf"
+      ]
+    }
+  ],
+  "uuid": "112eebeb-127d-4a5e-8df2-536d18e10816",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 112eebeb-127d-4a5e-8df2-536d18e10816)",
+  "source": "https://api.riigikogu.ee/api/volumes/112eebeb-127d-4a5e-8df2-536d18e10816",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-02-01&endDate=2014-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
