@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung esmaspäev, 10.02.2014 11:00",
+  "sitting_time": "2014-02-10T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väliskomisjoni VII istungjärgu 4. töönädala töökava kinnitamine.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1799ed5b-bf67-459a-94c6-6c99ee8a3974"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade 23. – 31. jaanuaril 2014 Šveitsis toimunud Süüria rahukõnelustest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "27d99ac5-e9c0-4436-8007-acd08d1097c9"
+    },
+    {
+      "order": 3,
+      "title": "Riigikogu otsus \"Riigikogu otsuse ˮEuroopa Nõukogu Parlamentaarse Assamblee Eesti delegatsiooni moodustamineˮ muutmine\" (587 OE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "343f172e-ebe8-48ed-a828-06cecd75f25d"
+    },
+    {
+      "order": 4,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b1c27905-a0ea-414b-8cf3-d05280b68e01"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "726701be-de87-4fdc-8eec-a052d61c2e80",
+      "files": [
+        "Protokol_20140210.pdf",
+        "Protokoll.ddoc"
+      ]
+    }
+  ],
+  "uuid": "ecb7a6aa-a7b7-423c-9042-0be5817116d7",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ecb7a6aa-a7b7-423c-9042-0be5817116d7)",
+  "source": "https://api.riigikogu.ee/api/volumes/ecb7a6aa-a7b7-423c-9042-0be5817116d7",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-02-01&endDate=2014-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
