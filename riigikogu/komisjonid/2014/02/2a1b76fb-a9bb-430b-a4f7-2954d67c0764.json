@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung esmaspäev, 10.02.2014 11:00",
+  "sitting_time": "2014-02-10T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b50390e4-4105-46e4-aedc-5b47314795fc"
+    },
+    {
+      "order": 2,
+      "title": "Pakendijäätmete kogumine ja taaskasutamine, arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7c9ad206-cc65-4c52-8ff5-49842e01e384"
+    },
+    {
+      "order": 3,
+      "title": "Pakendiseaduse muutmise seaduse eelnõu (568 SE), teisele lugemisele saatmine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e012bf1a-268a-44a6-82cf-2c129724d7ce"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "10.02.2014. a keskkonnakomisjoni protokoll",
+      "uuid": "a42718bf-0d90-4ecf-96ec-80cd053a1fce",
+      "files": [
+        "10.02.2014._a_keskkonnakomisjoni_protokoll.ddoc",
+        "10.02.2014._a_keskkonnakomisjoni_20140211.pdf"
+      ]
+    }
+  ],
+  "uuid": "2a1b76fb-a9bb-430b-a4f7-2954d67c0764",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2a1b76fb-a9bb-430b-a4f7-2954d67c0764)",
+  "source": "https://api.riigikogu.ee/api/volumes/2a1b76fb-a9bb-430b-a4f7-2954d67c0764",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-02-01&endDate=2014-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
