@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung teisipäev, 11.02.2014 14:00",
+  "sitting_time": "2014-02-11T14:02:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Reklaamiseaduse § 22 muutmise seaduse eelnõu (584 SE) arutelu 1. lugemisele saatmiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9623702b-e8c3-42f2-859c-1c7cdf4aeef6"
+    },
+    {
+      "order": 2,
+      "title": "Vastutustundliku ettevõtluse edendamine Eestis",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "545bf2e6-b92e-45ec-ac86-7fee3f3e426a"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3a0d81a2-94c5-4f94-907c-13fe8e4172e4"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAJK protokoll 11.02.2014 nr 205",
+      "uuid": "9898b3fd-392e-4f8b-b2e2-dc0a0fa2c2cd",
+      "files": [
+        "MAJK_protokoll_11.02.2014_nr_20140218.pdf"
+      ]
+    }
+  ],
+  "uuid": "9e003ea7-d744-441c-bd23-617e342710e8",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9e003ea7-d744-441c-bd23-617e342710e8)",
+  "source": "https://api.riigikogu.ee/api/volumes/9e003ea7-d744-441c-bd23-617e342710e8",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-02-01&endDate=2014-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
