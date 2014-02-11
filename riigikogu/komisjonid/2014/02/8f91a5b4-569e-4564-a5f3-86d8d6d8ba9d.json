@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung teisipäev, 11.02.2014 14:00",
+  "sitting_time": "2014-02-11T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigieelarve seaduse eelnõu (513 SE II)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "42fe9c55-46b1-4d45-9404-2d3b2a86170d"
+    },
+    {
+      "order": 2,
+      "title": "Tulumaksuseaduse § 4 muutmise seaduse eelnõu (548 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "414468ac-ce9e-453d-b857-e4eb0c33f345"
+    },
+    {
+      "order": 3,
+      "title": "Käibemaksuseaduse ja raamatupidamise seaduse muutmise seaduse eelnõu (493 SE UA)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "09047094-40a1-44c5-b653-fa06a881be61"
+    },
+    {
+      "order": 4,
+      "title": "Info",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0bc45fd6-2dc3-4c40-be87-1eeef601fde5"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "6c6583dc-6017-4058-8a1c-f47d84dd7422",
+      "files": [
+        "Protokoll.ddoc",
+        "183_prot.doc"
+      ]
+    }
+  ],
+  "uuid": "8f91a5b4-569e-4564-a5f3-86d8d6d8ba9d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8f91a5b4-569e-4564-a5f3-86d8d6d8ba9d)",
+  "source": "https://api.riigikogu.ee/api/volumes/8f91a5b4-569e-4564-a5f3-86d8d6d8ba9d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-02-01&endDate=2014-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
