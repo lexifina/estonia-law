@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung neljapäev, 13.02.2014 9:00",
+  "sitting_time": "2014-02-13T09:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade Riigikontrolli tööplaani tekkimisest,",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "59356ce4-7e0f-42ac-ba0d-4e4d5bba94f4"
+    },
+    {
+      "order": 2,
+      "title": "Informatsioon.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c003fee2-5aff-4732-a19d-1e433788fad8"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Ülevaade Riigikontrolli tööplaani tekkimisest",
+      "uuid": "130ad63d-9d98-4b80-b9f3-747dd2254280",
+      "files": [
+        "protokoll 139 13 02 2014 .pdf"
+      ]
+    }
+  ],
+  "uuid": "364df843-25bd-406b-b789-a948a8a9bc7f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 364df843-25bd-406b-b789-a948a8a9bc7f)",
+  "source": "https://api.riigikogu.ee/api/volumes/364df843-25bd-406b-b789-a948a8a9bc7f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-02-01&endDate=2014-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
