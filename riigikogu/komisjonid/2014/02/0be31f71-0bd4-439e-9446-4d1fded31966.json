@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung esmaspäev, 17.02.2014 11:00",
+  "sitting_time": "2014-02-17T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a48881f5-8d1a-4792-ad34-96227ab766da"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu otsuse \"Kaitseväe kasutamine Eesti riigi rahvusvaheliste kohustuste täitmisel Euroopa Liidu rahutagamismissioonil Kesk-Aafrika Vabariigis\" eelnõu (583 OE II)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1cbcae57-d08d-458e-9473-2acffbaa72e4"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "624fa0ce-c031-499a-94a6-d83f58e704c6"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "e56a97f3-6cb2-47a6-949f-f1bddebd0382",
+      "files": [
+        "Protokol_20140217.pdf"
+      ]
+    }
+  ],
+  "uuid": "0be31f71-0bd4-439e-9446-4d1fded31966",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0be31f71-0bd4-439e-9446-4d1fded31966)",
+  "source": "https://api.riigikogu.ee/api/volumes/0be31f71-0bd4-439e-9446-4d1fded31966",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-02-01&endDate=2014-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
