@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 17.02.2014 13:30",
+  "sitting_time": "2014-02-17T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine;",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dda75bd7-d308-4676-bd1d-b5239debfaca"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli kontrolliaruande „Kiire elanike arvu kasvuga valdade tegevus ebaseaduslike uusehitistega (järelaudit)“ arutelu.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ef24a2b2-8224-46fc-bf62-257e1b0cf065"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Riigikontrolli kontrolliaruande „Kiire elanike arvu kasvuga valdade tegevus ebaseaduslike uusehitistega (järelaudit)“ arutelu",
+      "uuid": "6fc93228-68e2-4dd4-9475-9d6f2ecf0f5f",
+      "files": [
+        "Riigikontrolli slaidid 17.02.14.pdf",
+        "protokoll 140 17 02 2014 .pdf"
+      ]
+    }
+  ],
+  "uuid": "726c9d03-b859-4a8d-aab3-2634b2cd109f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 726c9d03-b859-4a8d-aab3-2634b2cd109f)",
+  "source": "https://api.riigikogu.ee/api/volumes/726c9d03-b859-4a8d-aab3-2634b2cd109f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-02-01&endDate=2014-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
