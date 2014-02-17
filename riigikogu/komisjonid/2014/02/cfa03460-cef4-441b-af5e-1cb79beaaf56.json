@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung esmaspäev, 17.02.2014",
+  "sitting_time": "2014-02-17T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b65aa226-2abb-4fc4-ad47-8396a9c53f56"
+    },
+    {
+      "order": 2,
+      "title": "Meretöö seaduse eelnõu (552 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ad443811-5495-490c-8f78-cd26b6ffd321"
+    },
+    {
+      "order": 3,
+      "title": "Äriseadustiku muutmise ja sellega seonduvalt teiste seaduste muutmise seaduse eelnõu (549 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "81ce6b3c-2020-4222-8dc2-601f034f3cca"
+    },
+    {
+      "order": 4,
+      "title": "„Eesti seisukohad Euroopa Parlamendi ja nõukogu direktiivi ettepaneku suhtes, milles käsitletakse avalikustamata oskusteabe ja äriteabe (ärisaladuste) ebaseadusliku omandamise, kasutamise ja avalikustamise vastast kaitset” juurde",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b79716b0-ea2f-4c61-b9b0-84db3f3ddd37"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "9687b96a-7010-4dbd-9a9c-658147e01d7a",
+      "files": [
+        "Protokoll.ddoc",
+        "Protokol_20140217.pdf"
+      ]
+    }
+  ],
+  "uuid": "cfa03460-cef4-441b-af5e-1cb79beaaf56",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid cfa03460-cef4-441b-af5e-1cb79beaaf56)",
+  "source": "https://api.riigikogu.ee/api/volumes/cfa03460-cef4-441b-af5e-1cb79beaaf56",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-02-01&endDate=2014-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
