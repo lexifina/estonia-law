@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung teisipäev, 18.02.2014 14:00",
+  "sitting_time": "2014-02-18T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Veteranipoliitika",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0e47789c-159a-440f-a263-db23d6d0a9d7"
+    },
+    {
+      "order": 2,
+      "title": "Eesti lipu seaduse § 6 muutmise seaduse eelnõu algatamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5864936e-335e-4592-9f82-b14dc6866050"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "24b7b0f6-06f4-46d1-a7c0-ce150032bf24",
+      "files": [
+        "Protokol_20140219.pdf"
+      ]
+    }
+  ],
+  "uuid": "a9aeb2b2-67df-4a0b-a9da-836832eac3cf",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a9aeb2b2-67df-4a0b-a9da-836832eac3cf)",
+  "source": "https://api.riigikogu.ee/api/volumes/a9aeb2b2-67df-4a0b-a9da-836832eac3cf",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-02-01&endDate=2014-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
