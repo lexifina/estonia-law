@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung kolmapäev, 19.02.2014 09:00",
+  "sitting_time": "2014-02-19T09:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Informatsioon Eesti Vabariigi ja Vene Föderatsiooni vahelistest piirilepingutest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2e85c3a0-5f0d-4e5b-9f74-22239cc5188a"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade Eesti-Vene kahepoolsetest suhetest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "36f671d0-bd07-479e-9bdd-3db8df602f8a"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "07d6ded3-3854-4ee9-9e00-c61d92e2d9bb"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "1287e6fc-7691-4ed8-8e18-9cf8f48bbab6",
+      "files": [
+        "Protokoll.ddoc",
+        "Protokoll.ddoc",
+        "Protokol_20140221.pdf"
+      ]
+    }
+  ],
+  "uuid": "8c147674-b806-4f91-ad53-940a590bb910",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8c147674-b806-4f91-ad53-940a590bb910)",
+  "source": "https://api.riigikogu.ee/api/volumes/8c147674-b806-4f91-ad53-940a590bb910",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-02-01&endDate=2014-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
