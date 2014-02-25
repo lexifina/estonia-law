@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung teisipäev, 25.02.2014 14:00",
+  "sitting_time": "2014-02-25T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "03ab3755-fa3f-418f-adae-7d161df1c1ed"
+    },
+    {
+      "order": 2,
+      "title": "Spordivaldkonnas makstavad stipendiumid - arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "320ddf26-076b-48c4-8d2f-83f8a8a867b8"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "30ac50f5-347e-42b3-bf8f-bcc2fc8bc0b7",
+      "files": [
+        "Protokol_20140305.pdf",
+        "Protokoll.ddoc"
+      ]
+    }
+  ],
+  "uuid": "4febffb9-9c95-47d9-ad88-db5d7b4b32c9",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 4febffb9-9c95-47d9-ad88-db5d7b4b32c9)",
+  "source": "https://api.riigikogu.ee/api/volumes/4febffb9-9c95-47d9-ad88-db5d7b4b32c9",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-02-01&endDate=2014-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
