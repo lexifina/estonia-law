@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 25.02.2014 14:00",
+  "sitting_time": "2014-02-25T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "445fae8b-ec5f-470f-84f2-58642dcaeb41"
+    },
+    {
+      "order": 2,
+      "title": "Piirangud sealihaga kauplemisel seoses sigade Aafrika katkuga",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5dd16c5e-bd4c-49b9-b56b-c0025c565383"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "1a26848c-c708-4089-8d80-f5aa955c0c4f",
+      "files": [
+        "Protokoll.ddoc",
+        "Protokol_20140307.pdf"
+      ]
+    }
+  ],
+  "uuid": "be0da0dc-d658-44cc-aab1-09cb51b6b0ca",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid be0da0dc-d658-44cc-aab1-09cb51b6b0ca)",
+  "source": "https://api.riigikogu.ee/api/volumes/be0da0dc-d658-44cc-aab1-09cb51b6b0ca",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-02-01&endDate=2014-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
