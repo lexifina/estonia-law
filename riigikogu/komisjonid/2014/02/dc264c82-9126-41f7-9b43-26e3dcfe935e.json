@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung neljapäev, 27.02.2014 08:30",
+  "sitting_time": "2014-02-27T08:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine;",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "626ea909-1947-4380-a15a-e0b222e80220"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli uue kontrolliaruande tutvustus.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a3e3f3b9-7400-4e66-be62-4c46e0839239"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Riigikontrolli kontrolliaruande „Riigi pensionisüsteemi jätkusuutlikkus“ tutvustus",
+      "uuid": "156b83a6-7e8d-46d5-ab7e-614330d7dce6",
+      "files": [
+        "protokoll 141 27 02 2014 .pdf"
+      ]
+    }
+  ],
+  "uuid": "dc264c82-9126-41f7-9b43-26e3dcfe935e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid dc264c82-9126-41f7-9b43-26e3dcfe935e)",
+  "source": "https://api.riigikogu.ee/api/volumes/dc264c82-9126-41f7-9b43-26e3dcfe935e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-02-01&endDate=2014-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
