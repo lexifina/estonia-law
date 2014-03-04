@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung teisipäev, 4.03.2014 10:00",
+  "sitting_time": "2014-03-04T10:00:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Olukorrast Ukrainas.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fad02c20-4d9f-40c0-b7c8-5ecf2e58ab3a"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu avalduse eelnõu Ukraina suveräänsuse ja territoriaalse terviklikkuse toetuseks arutelu.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "411380dc-2f71-44bf-baf1-1fda81952600"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "faa04cbe-468f-40bd-bd79-7e77ff1d3d1a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "790604d2-6ef3-4bc0-8f7b-1e4958b97377",
+      "files": [
+        "04032014_volitus.pdf",
+        "Protokol_20140305.pdf",
+        "Protokoll.ddoc"
+      ]
+    }
+  ],
+  "uuid": "8aae5e63-6bbf-4c6c-b4b3-6d13ebda6f85",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8aae5e63-6bbf-4c6c-b4b3-6d13ebda6f85)",
+  "source": "https://api.riigikogu.ee/api/volumes/8aae5e63-6bbf-4c6c-b4b3-6d13ebda6f85",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-03-01&endDate=2014-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
