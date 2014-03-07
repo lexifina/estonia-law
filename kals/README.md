@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/120032013001> (version in force from 2013-04-01)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/106032014004> (version in force from 2014-03-07)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -109,6 +109,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/120032013001> (version in force 
 | [§ 89](para-089.md) | Menetlus |
 | **13. peatükk Rakendussätted** | |
 | [§ 90](para-090.md) | Kaitseliidu liikmesuse jätkumine |
+| [§ 90¹](para-090b1.md) | Kaitseliidu liikmesuse taastamine |
 | [§ 91](para-091.md) | Relvaeksami sooritamise võrdsustamine Kaitseliidu relva käitlemise ja kasutamise koolitusega |
 | [§ 92](para-092.md) | Relva kandmise õigust tõendava dokumendi asendamine Kaitseliidu relvaloaga |
 | [§ 93](para-093.md) | Tervisetõendi esitamine |
@@ -120,13 +121,8 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/120032013001> (version in force 
 | [§ 99](para-099.md) | Kollegiaalsete organite valitud liikmete volituste kehtivus |
 | [§ 100](para-100.md) | Rakendusaktide kehtivus |
 | **14. peatükk Muudatused seadustes** | |
-| [§ 101](para-101.md) | Kaitseväe korralduse seaduse muutmine |
-| [§ 102](para-102.md) | Karistusregistri seaduse muutmine |
-| [§ 103](para-103.md) | Kollektiivse töötüli lahendamise seaduse muutmine |
-| [§ 104](para-104.md) | Metsaseaduse muutmine |
-| [§ 105](para-105.md) | Rahuaja riigikaitse seaduse muutmine |
-| [§ 106](para-106.md) | Relvaseaduse muutmine |
-| [§ 107](para-107.md) | Tulumaksuseaduse muutmine |
+| [§ 101](para-101.md) |  |
+| [§ 107](para-107.md) |  |
 | **15. peatükk Kehtetuks tunnistamine ja jõustumine** | |
 | [§ 108](para-108.md) | Kaitseliidu seaduse kehtetuks tunnistamine |
 | [§ 109](para-109.md) | Seaduse jõustumine |

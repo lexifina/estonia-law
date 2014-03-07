@@ -1,6 +1,6 @@
 # § 25. Noorliige
 
-(1) Noorliikmeks võib olla 7–18-aastane Eesti kodanik.
+(1) Noorliikmeks võivad olla 7–18-aastased Eesti kodanikud ja samaealised Eestis alaliselt elavad teised füüsilised isikud. Noorliige, kes ei ole Eesti kodanik, võib kuuluda vaid noorteorganisatsiooni koosseisu.
 
 (2) Noorliikmeks saada sooviv 17-aastane või noorem isik peab liikmeks saamise taotlemisel esitama oma vanema või eestkostja kirjaliku nõusoleku liikmeks astumise kohta.
 
