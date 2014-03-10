@@ -1,0 +1,53 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung esmaspäev, 10.03.2014 11:00",
+  "sitting_time": "2014-03-10T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c23130b9-f84c-4ab2-85d4-44fb743a1ddf"
+    },
+    {
+      "order": 2,
+      "title": "Rahandusministeeriumi ülevaade  2014. aastal ettevalmistatavatest eelnõudest ja olulistest teemadest. Osaleb kantsler Veiko Tali.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "32573bea-b318-4eb5-bf00-b91957d79d12"
+    },
+    {
+      "order": 3,
+      "title": "Maksukorralduse seaduse muutmise seaduse eelnõu (575 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ab41f380-eeba-4e42-a553-5ccf0f8ff0d7"
+    },
+    {
+      "order": 4,
+      "title": "Info",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5cf076f6-8190-45e8-bc3f-dabf0722d72c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "b3b66817-f962-4e24-b9f0-e309484e6491",
+      "files": [
+        "Protokoll.ddoc",
+        "Protokoll.ddoc",
+        "Protokol_20140314.pdf"
+      ]
+    }
+  ],
+  "uuid": "a8b5b103-d61b-4067-92fe-18b2d72a5002",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a8b5b103-d61b-4067-92fe-18b2d72a5002)",
+  "source": "https://api.riigikogu.ee/api/volumes/a8b5b103-d61b-4067-92fe-18b2d72a5002",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-03-01&endDate=2014-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
