@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 10.03.2014 11.00",
+  "sitting_time": "2014-03-10T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2c2cd393-daf5-45dc-867c-4fa43580b9c6"
+    },
+    {
+      "order": 2,
+      "title": "Vesiviljeluse olukord ja EL toetused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7dfe8bc8-6c39-44a2-a337-f4237abbd0c1"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "e9cf8a4c-4d08-473b-a3da-f6966f0dd381",
+      "files": [
+        "Protokol_20140312.pdf",
+        "Protokoll.ddoc"
+      ]
+    }
+  ],
+  "uuid": "dcdedce4-c40c-4f0c-ae75-6b2e9f8ecae9",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid dcdedce4-c40c-4f0c-ae75-6b2e9f8ecae9)",
+  "source": "https://api.riigikogu.ee/api/volumes/dcdedce4-c40c-4f0c-ae75-6b2e9f8ecae9",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-03-01&endDate=2014-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
