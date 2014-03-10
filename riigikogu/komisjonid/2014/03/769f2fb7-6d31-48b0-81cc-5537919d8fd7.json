@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 10.03.2014 13:00",
+  "sitting_time": "2014-03-10T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine;",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "75509e2a-7dd7-407b-8e58-70872167b1b3"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli kontrolliaruande „Riigi pensionisüsteemi jätkusuutlikkus“ arutelu.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4cf9f84f-4ee5-4484-b5b7-f6ed68230b74"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Riigikontrolli kontrolliaruande „Riigi pensionisüsteemi jätkusuutlikkus“ arutelu",
+      "uuid": "45790013-0e81-44d7-a24f-615f32ecf299",
+      "files": [
+        "protokoll 142 10 03 2014 .pdf",
+        "Riigikontrolli slaidid 10 03 14 Pensionisüsteem.ppt"
+      ]
+    }
+  ],
+  "uuid": "769f2fb7-6d31-48b0-81cc-5537919d8fd7",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 769f2fb7-6d31-48b0-81cc-5537919d8fd7)",
+  "source": "https://api.riigikogu.ee/api/volumes/769f2fb7-6d31-48b0-81cc-5537919d8fd7",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-03-01&endDate=2014-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
