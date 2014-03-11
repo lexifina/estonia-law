@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung teisipäev, 11.03.2014 14:00",
+  "sitting_time": "2014-03-11T14:02:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti majandusatašeede võimekus ja paiknemine.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e59e3c13-0c81-4a95-9475-e8379e2fb71e"
+    },
+    {
+      "order": 2,
+      "title": "Sotsiaaldemokraatliku Erakonna fraktsiooni algatatud teeseaduse § 22² täiendamise seaduse eelnõu (591 SE) juhtivkomisjoni ettekandja määramine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ce3fbbb5-1c26-4630-bc5f-601c8692bd40"
+    },
+    {
+      "order": 3,
+      "title": "Eesti Keskerakonna fraktsiooni algatatud reklaamiseaduse muutmise seaduse eelnõu (592 SE) juhtivkomisjoni ettekandja määramine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ac1016b4-aab0-4618-b317-bb7259f2efb7"
+    },
+    {
+      "order": 4,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3eee21a1-62fc-4e91-a173-a1edcd371be0"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "012387f8-d925-4a61-9962-e00417724644",
+      "files": [
+        "Protokol_20140313.pdf"
+      ]
+    }
+  ],
+  "uuid": "9ce7b6b5-187d-4009-a71c-91ec540f1e7d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9ce7b6b5-187d-4009-a71c-91ec540f1e7d)",
+  "source": "https://api.riigikogu.ee/api/volumes/9ce7b6b5-187d-4009-a71c-91ec540f1e7d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-03-01&endDate=2014-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
