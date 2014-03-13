@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung neljapäev, 13.03.2014 14:00",
+  "sitting_time": "2014-03-13T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Tulumaksuseaduse § 48 muutmise seaduse eelnõu (184 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e1b6ac07-596f-4c7f-8150-10f5933a27f9"
+    },
+    {
+      "order": 2,
+      "title": "Tulumaksuseaduse muutmise ja täiendamise seaduse eelnõu (242 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8a5ddafb-cb09-43cd-92f8-ad3c12102ece"
+    },
+    {
+      "order": 3,
+      "title": "Info",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5a76b8c1-4e9b-4ef1-8a34-28ba01e2c3f7"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "5f5109cb-fe28-4611-b456-eb42cd18469c",
+      "files": [
+        "Protokol_20140319.pdf",
+        "Protokoll.ddoc",
+        "Protokoll.ddoc"
+      ]
+    }
+  ],
+  "uuid": "57c08081-7f61-4b98-8ea2-c24653e7ea97",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 57c08081-7f61-4b98-8ea2-c24653e7ea97)",
+  "source": "https://api.riigikogu.ee/api/volumes/57c08081-7f61-4b98-8ea2-c24653e7ea97",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-03-01&endDate=2014-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
