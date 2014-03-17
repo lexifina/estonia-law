@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 17.03.2014 11:00",
+  "sitting_time": "2014-03-17T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dc61644f-f55d-42ea-9dd8-5c38ee4b9e95"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade piimasektori olukorrast ja Eesti piimanduse strateegia 2012-2020 rakendamisest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2ef41be9-3655-4c46-b070-77e80059be4f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "43a40b19-d245-46dd-b539-95be03745abd",
+      "files": [
+        "Protokoll.ddoc",
+        "Protokol_20140317.pdf"
+      ]
+    }
+  ],
+  "uuid": "a9f00b1e-0586-4ec2-b540-dbe9f102ce2e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a9f00b1e-0586-4ec2-b540-dbe9f102ce2e)",
+  "source": "https://api.riigikogu.ee/api/volumes/a9f00b1e-0586-4ec2-b540-dbe9f102ce2e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-03-01&endDate=2014-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
