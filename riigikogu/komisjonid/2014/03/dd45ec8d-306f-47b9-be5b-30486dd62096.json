@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung esmaspäev, 17.03.2014 11:00",
+  "sitting_time": "2014-03-17T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "277d6060-c979-4bda-9323-94ffccf85464"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu otsuse \"Hasartmängumaksust toetuste määramise nõukogu liikme nimetamine\"\neelnõu algatamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "58df183f-5399-4aae-af38-368561e531b7"
+    },
+    {
+      "order": 3,
+      "title": "Info",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3dbd1910-df3f-4e92-b1e8-67fda66fab53"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "6fe5ec15-78db-4a6a-a94a-e5649c0472c5",
+      "files": [
+        "Protokoll.ddoc",
+        "Protokol_20140318.pdf"
+      ]
+    }
+  ],
+  "uuid": "dd45ec8d-306f-47b9-be5b-30486dd62096",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid dd45ec8d-306f-47b9-be5b-30486dd62096)",
+  "source": "https://api.riigikogu.ee/api/volumes/dd45ec8d-306f-47b9-be5b-30486dd62096",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-03-01&endDate=2014-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
