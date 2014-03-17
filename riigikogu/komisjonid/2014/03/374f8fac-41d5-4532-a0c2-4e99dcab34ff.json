@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung esmaspäev, 17.03.2014 11:15",
+  "sitting_time": "2014-03-17T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e8631671-1eb3-4d79-be44-a01f9939680e"
+    },
+    {
+      "order": 2,
+      "title": "Õiguskantsleri seaduse täiendamise seaduse eelnõu projekti sissejuhatav arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ea9c6a70-1e52-48cf-b944-de081f993514"
+    },
+    {
+      "order": 3,
+      "title": "Euroopa Komisjoni teatisel põhinev arutelu terrorismi ja vägivaldse äärmusluseni viivast radikaliseerumisest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a964f6ad-9e04-4fab-885a-8bc41fe9ed25"
+    },
+    {
+      "order": 4,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "356ac72c-dbae-4c3a-b454-eddbd63417e7"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "PSK 17.03.2014 protokoll",
+      "uuid": "d35937ab-6544-4860-a36b-9f32fb40f740",
+      "files": [
+        "2014.03.17.pdf",
+        "PSK_17.03.2014_protokoll.ddoc"
+      ]
+    }
+  ],
+  "uuid": "374f8fac-41d5-4532-a0c2-4e99dcab34ff",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 374f8fac-41d5-4532-a0c2-4e99dcab34ff)",
+  "source": "https://api.riigikogu.ee/api/volumes/374f8fac-41d5-4532-a0c2-4e99dcab34ff",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-03-01&endDate=2014-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
