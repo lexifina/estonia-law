@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung teisipäev, 18.03.2014 14:00",
+  "sitting_time": "2014-03-18T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "92da9ab9-48eb-4ee1-b677-82333aced9c4"
+    },
+    {
+      "order": 2,
+      "title": "Noorte sisenemine tööturule ja ettevõtlikkus. Noortevaldkonna arengukava 2014 - 2020",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "76caad45-c5e7-4076-8db2-73d751b393bd"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "0ba310b6-add3-4ac8-8670-d59bc562b50a",
+      "files": [
+        "Protokol_20140325.pdf"
+      ]
+    }
+  ],
+  "uuid": "8224ca96-99ba-4b5d-a2a8-b75770bc3249",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8224ca96-99ba-4b5d-a2a8-b75770bc3249)",
+  "source": "https://api.riigikogu.ee/api/volumes/8224ca96-99ba-4b5d-a2a8-b75770bc3249",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-03-01&endDate=2014-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
