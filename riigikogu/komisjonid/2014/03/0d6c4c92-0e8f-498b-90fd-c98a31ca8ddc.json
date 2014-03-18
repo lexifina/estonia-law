@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung teisipäev, 18.03.2014 14:00",
+  "sitting_time": "2014-03-18T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabatahtlikkuse edendamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4dd10fe6-809a-4c2a-a395-b1ada968432b"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c8c403aa-c77d-43d6-a33f-8ca93127966d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "6deb10c1-0cfd-49fc-a824-40fc349a01af",
+      "files": [
+        "Protokol_20140318.pdf"
+      ]
+    }
+  ],
+  "uuid": "0d6c4c92-0e8f-498b-90fd-c98a31ca8ddc",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0d6c4c92-0e8f-498b-90fd-c98a31ca8ddc)",
+  "source": "https://api.riigikogu.ee/api/volumes/0d6c4c92-0e8f-498b-90fd-c98a31ca8ddc",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-03-01&endDate=2014-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
