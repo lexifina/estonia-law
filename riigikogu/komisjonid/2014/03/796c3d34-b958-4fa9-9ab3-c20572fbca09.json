@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung neljapäev, 20.03.2014 14:00",
+  "sitting_time": "2014-03-20T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Informatsioon arengutest Ukrainas.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ef007f9b-8ff3-444d-832f-6e8ccb5278f0"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dc58aa60-346d-46cc-829b-49da234b3299"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "ef9c8340-fed0-4728-ad05-c8fcb2c85eb0",
+      "files": [
+        "Protokoll.ddoc",
+        "Protokol_20140320.pdf"
+      ]
+    }
+  ],
+  "uuid": "796c3d34-b958-4fa9-9ab3-c20572fbca09",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 796c3d34-b958-4fa9-9ab3-c20572fbca09)",
+  "source": "https://api.riigikogu.ee/api/volumes/796c3d34-b958-4fa9-9ab3-c20572fbca09",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-03-01&endDate=2014-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
