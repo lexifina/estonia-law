@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/106032014004> (version in force from 2014-03-07)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/113032014030> (version in force from 2014-03-23)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -99,6 +99,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/106032014004> (version in force 
 | **10. peatükk Rahastamine ja kontroll** | |
 | [§ 82](para-082.md) | Kaitseliidu tulud |
 | [§ 83](para-083.md) | Eelarve |
+| [§ 83¹](para-083b1.md) | Kaitseliidu finantsplaan |
 | [§ 84](para-084.md) | Revisjon, sisekontroll ja aruandlus |
 | **11. peatükk Järelevalve** | |
 | [§ 85](para-085.md) | Järelevalve teostamine |

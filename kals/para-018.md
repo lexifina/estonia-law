@@ -8,7 +8,7 @@
 
 2) valib keskjuhatuse, keskrevisjonikomisjoni ja vanematekogu liikmed;
 
-3) kinnitab riigieelarvest sihtotstarbelise rahastamise taotluse ja eelarve;
+3) kinnitab finantsplaani, riigieelarvest sihtotstarbelise rahastamise taotluse ja eelarve;
 
 4) kinnitab Kaitseliidu majandusaasta aruande;
 

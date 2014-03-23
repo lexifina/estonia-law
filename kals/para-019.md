@@ -4,7 +4,7 @@
 
 (2) Keskjuhatus:
 
-1) esitab keskkogule kinnitamiseks riigieelarvelise sihtotstarbelise rahastamise taotluse, eelarve ja majandusaasta aruande;
+1) esitab keskkogule kinnitamiseks finantsplaani, riigieelarvelise sihtotstarbelise rahastamise taotluse, eelarve ja majandusaasta aruande;
 
 2) korraldab eelarvevahendite kasutamist;
 

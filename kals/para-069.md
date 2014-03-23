@@ -26,4 +26,4 @@ määrusega.
 
 7) valvelepingu muutmise tingimused.
 
-(6) Valve korraldamise tasu ja selle kasutamise tingimused määratakse kindlaks riigivara valitseja ja Kaitseliidu vahel sõlmitavas riigieelarvelise eraldise kasutamise lepingus.
+(6) Valve korraldamise tasu ja selle kasutamise tingimused määratakse kindlaks riigivara valitseja ja Kaitseliidu vahel sõlmitavas lepingus.
