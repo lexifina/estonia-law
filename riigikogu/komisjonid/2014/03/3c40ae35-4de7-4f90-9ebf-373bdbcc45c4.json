@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 24.03.2014 11:00",
+  "sitting_time": "2014-03-24T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "763b3781-000a-4520-932c-fd703a0b2110"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad Euroopa Parlamendi ja \nnõukogu määruse, millega muudetakse \nmäärust (EL) nr 1308/2013 ning määrust \n(EL) nr 1306/2013 haridusasutustes puu- ja \nköögivilja, banaanide ning piima jaotamise \ntoetuskava osas, eelnõu kohta. Arvamuse andmine ELAKile.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9d2a27e4-1825-452a-b36c-5be1f1efbc6a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "e8a606e0-b6b6-4bd1-88d2-fdd6081877cb",
+      "files": [
+        "Protokoll.ddoc",
+        "Protokol_20140325.pdf"
+      ]
+    }
+  ],
+  "uuid": "3c40ae35-4de7-4f90-9ebf-373bdbcc45c4",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3c40ae35-4de7-4f90-9ebf-373bdbcc45c4)",
+  "source": "https://api.riigikogu.ee/api/volumes/3c40ae35-4de7-4f90-9ebf-373bdbcc45c4",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-03-01&endDate=2014-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
