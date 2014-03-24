@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 24.03.2014 13:00",
+  "sitting_time": "2014-03-24T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine;",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f63699eb-3b0e-4e11-addd-ddcb7e6669a4"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli kontrolliaruande „Riigi tegevus põlevkivi kasutamise suunamisel“ arutelu.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "64e1435d-1fd5-4569-9659-4674f6aa9328"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Riigikontrolli kontrolliaruande „Riigi tegevus põlevkivi kasutamise suunamisel“\narutelu",
+      "uuid": "15adf30b-fc13-45e2-b040-4aba4bfc4711",
+      "files": [
+        "Riigikontrolli slaidid 24 03 2014.ppt",
+        "protokoll 145 24 03 2014 .pdf"
+      ]
+    }
+  ],
+  "uuid": "cebadc35-764d-45ea-a887-6d829c428c76",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid cebadc35-764d-45ea-a887-6d829c428c76)",
+  "source": "https://api.riigikogu.ee/api/volumes/cebadc35-764d-45ea-a887-6d829c428c76",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-03-01&endDate=2014-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
