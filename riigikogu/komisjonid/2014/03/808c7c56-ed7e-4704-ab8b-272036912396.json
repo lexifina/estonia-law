@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung esmaspäev, 24.03.2014 11:00",
+  "sitting_time": "2014-03-24T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cf6d26de-75b6-4a59-a046-e12ad226c40f"
+    },
+    {
+      "order": 2,
+      "title": "Kaitseliidu seaduse, kaitseväeteenistuse seaduse ja teiste seaduste muutmise seaduse eelnõu (579 SE II)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d3c94a2c-8aae-4a86-9ef0-2b4dbabdcb91"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "739449a0-474b-4092-868a-91e3199bd954"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "6b30866d-0bdb-4c6a-b4a1-d71793e0129b",
+      "files": [
+        "Protokol_20140324.pdf"
+      ]
+    }
+  ],
+  "uuid": "808c7c56-ed7e-4704-ab8b-272036912396",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 808c7c56-ed7e-4704-ab8b-272036912396)",
+  "source": "https://api.riigikogu.ee/api/volumes/808c7c56-ed7e-4704-ab8b-272036912396",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-03-01&endDate=2014-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
