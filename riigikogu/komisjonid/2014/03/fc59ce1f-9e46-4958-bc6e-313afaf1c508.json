@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung teisipäev, 25.03.2014 14:00",
+  "sitting_time": "2014-03-25T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Finantsinspektsiooni esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "35192337-fa74-4b4d-a742-ff6a71723724"
+    },
+    {
+      "order": 2,
+      "title": "Info",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0b27ecdc-2ad5-42f1-ab14-f6e47af775ff"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "6dcf3690-a9f5-4694-a350-1520a68968fa",
+      "files": [
+        "Protokol_20140328.pdf",
+        "Protokoll.ddoc"
+      ]
+    }
+  ],
+  "uuid": "fc59ce1f-9e46-4958-bc6e-313afaf1c508",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid fc59ce1f-9e46-4958-bc6e-313afaf1c508)",
+  "source": "https://api.riigikogu.ee/api/volumes/fc59ce1f-9e46-4958-bc6e-313afaf1c508",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-03-01&endDate=2014-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
