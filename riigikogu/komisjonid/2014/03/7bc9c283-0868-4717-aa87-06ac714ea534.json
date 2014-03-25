@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung teisipäev, 25.03.2014 14:00",
+  "sitting_time": "2014-03-25T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikaitsekomisjoni 24.-26.04.14 Tšehhi Vabariigi visiidi delegatsiooni koosseisu muutmine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9108a70f-77f1-4fe5-91c4-6cb9bb101ab6"
+    },
+    {
+      "order": 2,
+      "title": "Olukorrast Ukrainas",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4261470b-2c4c-414f-bc05-0742ea382581"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "802bf82c-807f-4e2e-b3a1-dbf2243d22d0",
+      "files": [
+        "Protokol_20140325.pdf"
+      ]
+    }
+  ],
+  "uuid": "7bc9c283-0868-4717-aa87-06ac714ea534",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7bc9c283-0868-4717-aa87-06ac714ea534)",
+  "source": "https://api.riigikogu.ee/api/volumes/7bc9c283-0868-4717-aa87-06ac714ea534",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-03-01&endDate=2014-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
