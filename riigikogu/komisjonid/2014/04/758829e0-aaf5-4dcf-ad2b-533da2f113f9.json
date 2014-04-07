@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 7.04.2014 13:30",
+  "sitting_time": "2014-04-07T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine;",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "82ea07bf-8b2f-45a1-ac5e-f2871464159e"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade Euroopa Liidu finantsraamistikust 2014 – 2020;",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c5ed3eee-ef44-47f9-ba73-42d463df9364"
+    },
+    {
+      "order": 3,
+      "title": "Ülevaade Rahandusministeeriumi 2014. aasta kevadisest majandusprognoosist.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2f52fb0d-ba55-40c8-b77e-423c3595a537"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Ülevaade Euroopa Liidu finantsraamistikust 2014 – 2020 ning \nülevaade Rahandusministeeriumi 2014. aasta kevadisest majandusprognoosist",
+      "uuid": "3a205e68-afba-4fea-a133-0c4020f367a1",
+      "files": [
+        "protokoll 147 07 04 2014 .pdf",
+        "EL 2014-2020 riigieelarve komisjonis 7 04 2014.ppt",
+        "RAM kevadprognoos komisjonis 07.04.14.ppt"
+      ]
+    }
+  ],
+  "uuid": "758829e0-aaf5-4dcf-ad2b-533da2f113f9",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 758829e0-aaf5-4dcf-ad2b-533da2f113f9)",
+  "source": "https://api.riigikogu.ee/api/volumes/758829e0-aaf5-4dcf-ad2b-533da2f113f9",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-04-01&endDate=2014-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
