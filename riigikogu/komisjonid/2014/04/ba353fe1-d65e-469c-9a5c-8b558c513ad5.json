@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung teisipäev, 8.04.2014 14:00",
+  "sitting_time": "2014-04-08T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Seto Kongressi ja Setomaa Valdade Liidu esindajatega.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "79f011ca-1763-469b-bafa-1698da97bcf3"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "aadb2571-d798-4080-9395-cdbca1809109"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "29603e7c-6ac8-4dc9-b5c3-e655dbb22cf7",
+      "files": [
+        "Protokol_20140408.pdf",
+        "Protokoll.ddoc"
+      ]
+    }
+  ],
+  "uuid": "ba353fe1-d65e-469c-9a5c-8b558c513ad5",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ba353fe1-d65e-469c-9a5c-8b558c513ad5)",
+  "source": "https://api.riigikogu.ee/api/volumes/ba353fe1-d65e-469c-9a5c-8b558c513ad5",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-04-01&endDate=2014-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
