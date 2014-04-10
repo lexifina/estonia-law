@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung neljapäev, 10.04.2014 14:00",
+  "sitting_time": "2014-04-10T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Perioodi 2014–2020 struktuuritoetuse seaduse eelnõu (622 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "743b472d-313a-45be-9c13-679508832d64"
+    },
+    {
+      "order": 2,
+      "title": "Käibemaksuseaduse muutmise seaduse eelnõu (626 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0e3ad6f4-d0b9-4816-9ee0-35ace1b89913"
+    },
+    {
+      "order": 3,
+      "title": "Info",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c9830d6b-a453-4e77-aacf-7ee4cf09fcc7"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "8fd3025b-5e07-4370-acc2-c5c463886fe6",
+      "files": [
+        "Protokol_20140411.pdf",
+        "Protokoll.ddoc"
+      ]
+    }
+  ],
+  "uuid": "2dfe0d10-71fe-42cd-83f4-7e08cc307398",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2dfe0d10-71fe-42cd-83f4-7e08cc307398)",
+  "source": "https://api.riigikogu.ee/api/volumes/2dfe0d10-71fe-42cd-83f4-7e08cc307398",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-04-01&endDate=2014-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
