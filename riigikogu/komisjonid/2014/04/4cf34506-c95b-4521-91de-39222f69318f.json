@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung esmaspäev, 14.04.2014 11:00",
+  "sitting_time": "2014-04-14T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b9d9aef0-34a7-4ace-829b-061255774cef"
+    },
+    {
+      "order": 2,
+      "title": "Krediidiasutuste seaduse muutmise ja sellega seonduvalt teiste seaduste muutmise seaduse eelnõu (559 SE III)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "96f922bb-e4c9-4bf8-9ea0-5826f85cda60"
+    },
+    {
+      "order": 3,
+      "title": "Rahandusministeeriumi ülevaade 2014. aasta kevadisest majandusprognoosist ja riigi eelarvestrateegiast.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ddebb6cb-9e39-453e-bd57-4b41f10d7930"
+    },
+    {
+      "order": 4,
+      "title": "Info",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "06e136d2-352b-4efd-a174-731437b8635c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "afb0003c-5222-4eed-89c1-c97622c32177",
+      "files": [
+        "Protokol_20140415.pdf",
+        "Protokoll.ddoc"
+      ]
+    }
+  ],
+  "uuid": "4cf34506-c95b-4521-91de-39222f69318f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 4cf34506-c95b-4521-91de-39222f69318f)",
+  "source": "https://api.riigikogu.ee/api/volumes/4cf34506-c95b-4521-91de-39222f69318f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-04-01&endDate=2014-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
