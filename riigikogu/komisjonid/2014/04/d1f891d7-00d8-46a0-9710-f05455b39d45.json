@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung esmaspäev, 14.04.2014 11:00",
+  "sitting_time": "2014-04-14T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "965b6438-13b6-43ea-a8a3-ca43d54b5a69"
+    },
+    {
+      "order": 2,
+      "title": "Kollektiivlepingu ja kollektiivse töötüli lahendamise seaduse eelnõu (623 SE) ettevalmistamine esimeseks lugemiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "de84360e-a2e2-42ac-87f3-685fc0f84b64"
+    },
+    {
+      "order": 3,
+      "title": "Narkootiliste ja psühhotroopsete ainete ning nende lähteainete seaduse muutmise seaduse eelnõu (567 SE) ettevalmistamine kolmandaks lugemiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "724e7e72-bfe5-4a0d-bebc-ecabe656f041"
+    },
+    {
+      "order": 4,
+      "title": "Sotsiaalkomisjoni esindajate määramine Eesti Bioeetika Nõukogusse",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6c52a7be-399f-4427-bb76-837000d4ce42"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "ead3e1d0-6d08-4e6f-9363-54e1223d0aa8",
+      "files": [
+        "Protokol_20140417.pdf"
+      ]
+    }
+  ],
+  "uuid": "d1f891d7-00d8-46a0-9710-f05455b39d45",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d1f891d7-00d8-46a0-9710-f05455b39d45)",
+  "source": "https://api.riigikogu.ee/api/volumes/d1f891d7-00d8-46a0-9710-f05455b39d45",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-04-01&endDate=2014-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
