@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung esmaspäev, 14.04.2014 11:00",
+  "sitting_time": "2014-04-14T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "895c3dc7-5902-4b18-ba2f-51d29c3defc2"
+    },
+    {
+      "order": 2,
+      "title": "Kaitseväe erioperatsioonide üksuse külastamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a5fea6a3-8b5e-477b-9bd5-c0f50a8b9328"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d364a2f8-7dfe-48d2-aaee-6eafafb9c1d7"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "ef4341ed-57cc-4974-981f-475cbfbc7bc3",
+      "files": [
+        "Protokol_20140414.pdf"
+      ]
+    }
+  ],
+  "uuid": "2700d98d-6255-44b3-855d-e6f0fc8281ba",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2700d98d-6255-44b3-855d-e6f0fc8281ba)",
+  "source": "https://api.riigikogu.ee/api/volumes/2700d98d-6255-44b3-855d-e6f0fc8281ba",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-04-01&endDate=2014-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
