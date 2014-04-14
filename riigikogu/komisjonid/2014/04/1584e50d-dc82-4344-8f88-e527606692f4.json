@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 14.04.2014 11:00",
+  "sitting_time": "2014-04-14T11:00:00",
+  "sitting_type": "UHISISTUNG",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3f49d033-d794-41d8-8f38-2c09b1751020"
+    },
+    {
+      "order": 2,
+      "title": "Ühisistung väliskomisjoniga. Venemaa ja Ukraina poliitilise olukorra mõjust Eesti majandusele",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "eefa544b-b8fa-4488-9aa7-cfad20d27112"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "9150df03-de5b-498e-b6b5-36b91fd0e378",
+      "files": [
+        "Protokol_20140416.pdf",
+        "Protokoll.ddoc"
+      ]
+    }
+  ],
+  "uuid": "1584e50d-dc82-4344-8f88-e527606692f4",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 1584e50d-dc82-4344-8f88-e527606692f4)",
+  "source": "https://api.riigikogu.ee/api/volumes/1584e50d-dc82-4344-8f88-e527606692f4",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-04-01&endDate=2014-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
