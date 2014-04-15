@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung teisipäev, 15.04.2014 14:00",
+  "sitting_time": "2014-04-15T12:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Informatsioon arengutest Ukrainas.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bdff45b1-f1c4-4db9-b4b5-f33d1d816fb0"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu väliskomisjoni Põhjala ja Läänemere regiooni julgeolekukeskkonna kuulamised: väljasõiduistung Tallinna Merevalvekeskusesse.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e5a207bd-cf26-4a87-b67f-7981ba1df037"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "85a60c58-7966-49ba-9514-1af490ee57a0"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "fb098dae-24dd-4c13-84a8-7649aef47ecc",
+      "files": [
+        "Protokol_20140422.pdf",
+        "Protokoll.ddoc"
+      ]
+    }
+  ],
+  "uuid": "b0b399eb-4196-465d-ab10-598ad97c4643",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b0b399eb-4196-465d-ab10-598ad97c4643)",
+  "source": "https://api.riigikogu.ee/api/volumes/b0b399eb-4196-465d-ab10-598ad97c4643",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-04-01&endDate=2014-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
