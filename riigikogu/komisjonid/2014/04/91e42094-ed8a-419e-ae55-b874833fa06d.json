@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 21.04.2014 13:30",
+  "sitting_time": "2014-04-21T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine;",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a2e2f7b6-81a7-4723-a074-4db3a00406cc"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli kontrolliaruande „Riigi tegevus põlevkivi kasutamise suunamisel“ kordusarutelu.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5eec7a80-035a-4cb8-945f-7755ea72c35f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Riigikontrolli kontrolliaruande „Riigi tegevus põlevkivi kasutamise suunamisel“ kordusarutelu.",
+      "uuid": "b2019b05-91f3-45f3-98d8-bcc5ef9b26e2",
+      "files": [
+        "Keskkonnaministeeriumi Põlevkivi ja turba kaevandamine 21.04.14.pdf",
+        "protokoll 151 21 04 2014 .pdf"
+      ]
+    }
+  ],
+  "uuid": "91e42094-ed8a-419e-ae55-b874833fa06d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 91e42094-ed8a-419e-ae55-b874833fa06d)",
+  "source": "https://api.riigikogu.ee/api/volumes/91e42094-ed8a-419e-ae55-b874833fa06d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-04-01&endDate=2014-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
