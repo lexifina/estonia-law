@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 21.04.2014 11:00",
+  "sitting_time": "2014-04-21T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a3c4d1f9-db36-48d0-97c2-452dfba81c35"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud Euroopa Liidu ühise põllumajanduspoliitika rakendamise seaduse muutmise seaduse eelnõu (628 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "222af2a6-4694-4d55-8659-f1f2bde38407"
+    },
+    {
+      "order": 3,
+      "title": "Vabariigi Valitsuse algatatud toiduseaduse muutmise seaduse eelnõu (642 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "034cfcc6-4ac8-482b-9aa0-fbb42bb927fb"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "61a636b2-5281-4b75-88e6-3b9dc80bd457",
+      "files": [
+        "Protokol_20140422.pdf",
+        "Protokoll.ddoc"
+      ]
+    }
+  ],
+  "uuid": "a239bcbb-11c9-4958-a431-b1531ea9f962",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a239bcbb-11c9-4958-a431-b1531ea9f962)",
+  "source": "https://api.riigikogu.ee/api/volumes/a239bcbb-11c9-4958-a431-b1531ea9f962",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-04-01&endDate=2014-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
