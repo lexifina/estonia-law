@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung esmaspäev, 21.04.2014  kell 11:00 avalik istung konverentsisaalis",
+  "sitting_time": "2014-04-21T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ebbebfca-f18a-498b-8062-d460541332bd"
+    },
+    {
+      "order": 2,
+      "title": "Töösuhted: alaealistele ei tohi keegi liiga teha. Parlamentaarne kuulamine.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "eaca1662-790b-4785-9837-d92b8502185c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "017668c6-40bc-4a49-bf2f-906265b8210d",
+      "files": [
+        "Protokol_20140423.pdf"
+      ]
+    }
+  ],
+  "uuid": "be843242-a0f9-4055-a118-8e4eb016a4f5",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid be843242-a0f9-4055-a118-8e4eb016a4f5)",
+  "source": "https://api.riigikogu.ee/api/volumes/be843242-a0f9-4055-a118-8e4eb016a4f5",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-04-01&endDate=2014-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
