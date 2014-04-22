@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung teisipäev, 22.04.2014 14:00",
+  "sitting_time": "2014-04-22T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikogu fraktsioonide ettepanekud Riigikogu otsusega moodustatud delegatsioonide koosseisude muutmiseks.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a3318b33-e78b-4605-aab5-e8d93412e61a"
+    },
+    {
+      "order": 2,
+      "title": "Väliskomisjoni kohtumine Vabariigi Presidendiga Kadriorus.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "80e54381-31fb-47cf-9bfa-0eb26713a5a4"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "d59d4a85-b2d9-4c12-9180-c591eb45ac40",
+      "files": [
+        "22042014_volitus.pdf",
+        "Protokol_20140423.pdf",
+        "Protokoll.ddoc"
+      ]
+    }
+  ],
+  "uuid": "445336cf-78ba-4337-bdb4-6d6eb1204739",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 445336cf-78ba-4337-bdb4-6d6eb1204739)",
+  "source": "https://api.riigikogu.ee/api/volumes/445336cf-78ba-4337-bdb4-6d6eb1204739",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-04-01&endDate=2014-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
