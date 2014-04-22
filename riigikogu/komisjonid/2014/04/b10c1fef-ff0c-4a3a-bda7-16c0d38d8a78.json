@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung teisipäev, 22.04.2014",
+  "sitting_time": "2014-04-22T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Küberjulgeoleku strateegia",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cadf3fb2-c6db-48d4-b523-e5fb6b834344"
+    },
+    {
+      "order": 2,
+      "title": "Veteranipäeva tähistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cdf75399-9f71-4660-a97f-cbe935992ea1"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "d0c47c3e-81d9-4bfb-9005-de66cced7792",
+      "files": [
+        "Protokol_20140423.pdf"
+      ]
+    }
+  ],
+  "uuid": "b10c1fef-ff0c-4a3a-bda7-16c0d38d8a78",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b10c1fef-ff0c-4a3a-bda7-16c0d38d8a78)",
+  "source": "https://api.riigikogu.ee/api/volumes/b10c1fef-ff0c-4a3a-bda7-16c0d38d8a78",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-04-01&endDate=2014-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
