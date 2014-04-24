@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung neljapäev, 24.04.2014 14:00",
+  "sitting_time": "2014-04-24T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Maamaksuseaduse muutmise seaduse eelnõu (558 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3371fc19-db05-4fa5-80ad-e7937b659acb"
+    },
+    {
+      "order": 2,
+      "title": "Parlamentaarne kuulamine. Kohtumine omavalitsusliitude esindajatega. Arutelu vabariigi valitsuse algatatud  perioodi 2014–2020 struktuuritoetuste seaduse eelnõu (622 SE) raames",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "75e47aa8-0fd8-4a1e-9c9c-aafce245d5a9"
+    },
+    {
+      "order": 3,
+      "title": "Info",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4aee82ec-5130-43a5-935c-8492c21cbc2c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "13615d15-a6a8-4e83-9397-c8b85a60a6dd",
+      "files": [
+        "Protokoll.ddoc",
+        "Protokol_20140425.pdf"
+      ]
+    }
+  ],
+  "uuid": "c9cd529b-39e6-4324-b302-9f42cec6d826",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c9cd529b-39e6-4324-b302-9f42cec6d826)",
+  "source": "https://api.riigikogu.ee/api/volumes/c9cd529b-39e6-4324-b302-9f42cec6d826",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-04-01&endDate=2014-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
