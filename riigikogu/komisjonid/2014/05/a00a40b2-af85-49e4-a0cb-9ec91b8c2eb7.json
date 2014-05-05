@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni avalik istung esmaspäev, 5.05.2014 11:10",
+  "sitting_time": "2014-05-05T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a0458d00-094d-45f4-b1d3-9818e25ba5a5"
+    },
+    {
+      "order": 2,
+      "title": "Planeerimisseaduse eelnõule (571 SE) esitatud ettepanekute ja arvamuste arutelu.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "38e3e97f-667d-4a86-b341-8d7fed55acd9"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3d8505d4-cc99-4f50-bb2d-264492007d76"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "8fa8948f-4329-491f-a951-cc2f2094683e",
+      "files": [
+        "Protokol_20140522.pdf"
+      ]
+    }
+  ],
+  "uuid": "a00a40b2-af85-49e4-a0cb-9ec91b8c2eb7",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a00a40b2-af85-49e4-a0cb-9ec91b8c2eb7)",
+  "source": "https://api.riigikogu.ee/api/volumes/a00a40b2-af85-49e4-a0cb-9ec91b8c2eb7",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-05-01&endDate=2014-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
