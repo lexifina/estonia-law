@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 5.05.2014 13:00-14:29",
+  "sitting_time": "2014-05-05T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine;",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7cb29bba-232b-4e4d-85c6-fe01c6db24ea"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli kontrolliaruande „Riigi asutatud sihtasutustele toetuste andmine ja nende sihipärane kasutamine“ arutelu;",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6b40c462-34aa-427a-9168-ee6c81349672"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Riigikontrolli kontrolliaruande „Riigi asutatud sihtasutustele toetuste andmine ja nende sihipärane kasutamine“ arutelu",
+      "uuid": "bd50a995-660e-4512-84c1-f442a946e0e5",
+      "files": [
+        "Riigikontrolli slaidid 05.05.2014.ppt",
+        "protokoll 153 5 05 2014 .pdf"
+      ]
+    }
+  ],
+  "uuid": "671f7b39-cc88-4c36-bb14-b7c6b857d18c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 671f7b39-cc88-4c36-bb14-b7c6b857d18c)",
+  "source": "https://api.riigikogu.ee/api/volumes/671f7b39-cc88-4c36-bb14-b7c6b857d18c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-05-01&endDate=2014-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
