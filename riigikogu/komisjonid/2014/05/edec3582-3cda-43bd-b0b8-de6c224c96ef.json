@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Korruptsioonivastane erikomisjon",
+  "committee_uuid": "e4f2977a-e8c3-4fa0-8f3d-9df9acd6377f",
+  "title": "Komisjoni istung esmaspäev, 5.05.2014",
+  "sitting_time": "2014-05-05T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Erikomisjoni esimehe ja aseesimehe erakorraline valimine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "20a01d7c-fc39-4a20-b5db-090ecc436d76"
+    },
+    {
+      "order": 2,
+      "title": "Kohapeal algatatud küsimuste arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0a77170a-fb11-4d77-8561-c318f1768bc4"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Korruptsioonivastase erikomisjoni protokoll nr 29",
+      "uuid": "2621e890-fc5a-4604-aa90-fa9d67e6b5db",
+      "files": [
+        "KVSK protokoll nr 29.pdf"
+      ]
+    }
+  ],
+  "uuid": "edec3582-3cda-43bd-b0b8-de6c224c96ef",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid edec3582-3cda-43bd-b0b8-de6c224c96ef)",
+  "source": "https://api.riigikogu.ee/api/volumes/edec3582-3cda-43bd-b0b8-de6c224c96ef",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-05-01&endDate=2014-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
