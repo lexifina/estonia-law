@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung esmaspäev, 5.05.2014 kell 11.00 ruumis 333",
+  "sitting_time": "2014-05-05T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "87384ff8-dc5c-45a4-bdfd-8b079ae61498"
+    },
+    {
+      "order": 2,
+      "title": "Ravimiseaduse, riigilõivuseaduse ja tervishoiuteenuste korraldamise seaduse muutmise seaduse eelnõu (615 SE) ettevalmistamine teiseks lugemiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "63cb22f3-95f0-4540-8f26-9aab551d4b25"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "0c6420a3-1be6-47c9-8bef-c34f6ec7a1b6",
+      "files": [
+        "Protokol_20140507.pdf"
+      ]
+    }
+  ],
+  "uuid": "15a60621-f998-4b3f-9565-de1d4f1fa821",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 15a60621-f998-4b3f-9565-de1d4f1fa821)",
+  "source": "https://api.riigikogu.ee/api/volumes/15a60621-f998-4b3f-9565-de1d4f1fa821",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-05-01&endDate=2014-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
