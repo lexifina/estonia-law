@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 12.05.2014 13:00",
+  "sitting_time": "2014-05-12T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine;",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d4a65dff-6a9e-4546-a680-36406368e51f"
+    },
+    {
+      "order": 2,
+      "title": "Sotsiaalkomisjoniga ühisistung hoolekande teemal.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7f6eeda6-d250-45f6-8463-b40620266cb0"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Riigikontrolli kontrolliaruande „Eakate hoolekande korraldus omavalitsuse hooldekodudes“ arutelu",
+      "uuid": "e3e0fbdc-75d1-47f2-95e3-a1e86bde4dad",
+      "files": [
+        "protokoll 155 12 05 2014 .pdf",
+        "Riigikontrolli slaidid 12.05.14 Eakate hoolekanne.ppt"
+      ]
+    }
+  ],
+  "uuid": "7fb4df3f-2b93-4f94-841f-17013b44b7fe",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7fb4df3f-2b93-4f94-841f-17013b44b7fe)",
+  "source": "https://api.riigikogu.ee/api/volumes/7fb4df3f-2b93-4f94-841f-17013b44b7fe",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-05-01&endDate=2014-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
