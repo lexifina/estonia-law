@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 12.05.2014 11:00",
+  "sitting_time": "2014-05-12T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a8c79865-e668-40aa-81a7-f241608727c0"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud veterinaarkorralduse seaduse muutmise ja sellega seonduvalt teiste seaduste muutmise seaduse eelnõu (621 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d1237517-e1a8-4969-92e3-d8a5536dd7a3"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "08950082-8548-430c-9ccc-990c668140f0",
+      "files": [
+        "168 protokoll 12.05.2014.allkiri.pdf"
+      ]
+    }
+  ],
+  "uuid": "064effad-a49f-414c-a23f-7d5564adffb8",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 064effad-a49f-414c-a23f-7d5564adffb8)",
+  "source": "https://api.riigikogu.ee/api/volumes/064effad-a49f-414c-a23f-7d5564adffb8",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-05-01&endDate=2014-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
