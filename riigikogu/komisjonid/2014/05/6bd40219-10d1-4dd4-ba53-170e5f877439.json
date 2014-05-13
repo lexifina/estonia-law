@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung teisipäev, 13.05.2014 13:00",
+  "sitting_time": "2014-05-13T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine National War College delegatsiooniga",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "812df6d1-f5bd-4e77-8e78-58e48e08af53"
+    },
+    {
+      "order": 2,
+      "title": "Eesti osalemine rahvusvahelistel tsiviilmissioonidel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fba02162-462e-42bb-88f1-6f873a28ac60"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "553e1494-5744-46d7-b29d-2ff5c41ee5d2",
+      "files": [
+        "Protokol_20140514.pdf"
+      ]
+    }
+  ],
+  "uuid": "6bd40219-10d1-4dd4-ba53-170e5f877439",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 6bd40219-10d1-4dd4-ba53-170e5f877439)",
+  "source": "https://api.riigikogu.ee/api/volumes/6bd40219-10d1-4dd4-ba53-170e5f877439",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-05-01&endDate=2014-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
