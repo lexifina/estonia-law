@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung teisipäev, 13.05.2014 14:00",
+  "sitting_time": "2014-05-13T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Töötukassa esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "213ff93f-f69d-4b9b-b174-903f49c770b0"
+    },
+    {
+      "order": 2,
+      "title": "Perioodi 2014–2020 struktuuritoetuse seaduse eelnõu (622 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3660c910-26e6-490b-b415-c357f37cabe3"
+    },
+    {
+      "order": 3,
+      "title": "Maamaksuseaduse muutmise seaduse eelnõu (558 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "60b21e22-efb8-4f3a-892a-758bc7404412"
+    },
+    {
+      "order": 4,
+      "title": "Info",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "27d96d64-2ffa-4728-aaab-5735b98dd04e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "f0dfa5a7-5a93-4185-acbc-c47bb040ef7c",
+      "files": [
+        "Protokol_20140516.pdf"
+      ]
+    }
+  ],
+  "uuid": "a3ed8496-af4e-4226-8774-65f369001335",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a3ed8496-af4e-4226-8774-65f369001335)",
+  "source": "https://api.riigikogu.ee/api/volumes/a3ed8496-af4e-4226-8774-65f369001335",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-05-01&endDate=2014-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
