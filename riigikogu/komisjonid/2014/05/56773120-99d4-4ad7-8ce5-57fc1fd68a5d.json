@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung neljapäev, 15.05.2014",
+  "sitting_time": "2014-05-15T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Teeseaduse § 16 muutmise seaduse eelnõu (618 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bcf182c7-f149-4730-b80a-dfa550ec1d30"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e53bb5c9-ec9b-4013-932b-c1779c2b0e02"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "14707880-2fe3-4b21-a6d9-3b7d2431515e",
+      "files": [
+        "Protokol_20140602.pdf",
+        "Protokoll.ddoc"
+      ]
+    }
+  ],
+  "uuid": "56773120-99d4-4ad7-8ce5-57fc1fd68a5d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 56773120-99d4-4ad7-8ce5-57fc1fd68a5d)",
+  "source": "https://api.riigikogu.ee/api/volumes/56773120-99d4-4ad7-8ce5-57fc1fd68a5d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-05-01&endDate=2014-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
