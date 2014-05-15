@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung neljapäev, 15.05.2014, 15 minutit peale täiskogu istungi lõppu",
+  "sitting_time": "2014-05-15T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Keskkonnaseadustiku üldosa seaduse rakendamise seaduse eelnõu (668 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a4a1214a-e1a7-43a9-9e34-40bf1a4154fa"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu otsus \"Riigimetsa Majandamise Keskuse nõukogu liikmete tagasikutsumine ja uute liikmete nimetamine\" (670 OE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c618dc8f-631e-4f22-93e6-d1e4641b79f8"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Keskkonnakomisjoni 15.05.2014. a istungi protokoll",
+      "uuid": "1e51d615-1844-4f15-a902-9b6239f52f1a",
+      "files": [
+        "Keskkonnakomisjoni_15.05.2014._a_istungi_protokoll.ddoc",
+        "Keskkonnakomisjoni_15.05.2014._a_20140515.pdf"
+      ]
+    }
+  ],
+  "uuid": "d8bc8166-8fa9-4364-89bc-18b762093632",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d8bc8166-8fa9-4364-89bc-18b762093632)",
+  "source": "https://api.riigikogu.ee/api/volumes/d8bc8166-8fa9-4364-89bc-18b762093632",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-05-01&endDate=2014-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
