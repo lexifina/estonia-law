@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung neljapäev, 15.05.2014 14:00",
+  "sitting_time": "2014-05-15T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikogu otsus \"Eesti esindaja nimetamine Põhjamaade Investeerimispanga kontrollkomiteesse\" (671 OE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "699d5f75-52d1-42fe-9c2a-aa20bacd845f"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine Pangaliidu esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cd329859-4c2b-4c19-ac2e-5e7a82ed1a7f"
+    },
+    {
+      "order": 3,
+      "title": "Info",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "40e35247-f435-43da-a882-290ef796f30a"
+    },
+    {
+      "order": 4,
+      "title": "Rahanduskomisjoni algatatud Riigikogu otsuse  Eesti esindaja nimetamine Põhjamaade Investeerimispanga kontrollkomiteesse eelnõu.  Esimene lugemine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dbfd8431-b1be-4e53-bd19-f3063a585c01"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "451a2e6d-03cd-45ad-b132-e84a39f3a334",
+      "files": [
+        "Protokoll 206;15.05.2014.pdf"
+      ]
+    }
+  ],
+  "uuid": "e996ef49-831b-4da1-a201-d241bf9d3a0b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e996ef49-831b-4da1-a201-d241bf9d3a0b)",
+  "source": "https://api.riigikogu.ee/api/volumes/e996ef49-831b-4da1-a201-d241bf9d3a0b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-05-01&endDate=2014-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
