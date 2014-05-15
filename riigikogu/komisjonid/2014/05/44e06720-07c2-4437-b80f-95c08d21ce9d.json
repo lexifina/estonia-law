@@ -1,0 +1,35 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung neljapäev, 15.05.2014 12:00",
+  "sitting_time": "2014-05-15T12:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "15 mai kell 12.00 kuni reede, 16. mai 17.00 väljasõiduistung",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8fd3afa5-1495-41ab-b948-24d5cae0e276"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "15.-16. mai komisjoni väljasõiduistung",
+      "uuid": "820bc3f5-83fa-4e86-82bf-59f80570a3dd",
+      "files": [
+        "Sindi paisu mõjud-Tauno Jürgenstein.pdf",
+        "Hiite teabepaev_Koondslaidid.pdf",
+        "protokoll 156 15.-16. 05 2014 .pdf"
+      ]
+    }
+  ],
+  "uuid": "44e06720-07c2-4437-b80f-95c08d21ce9d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 44e06720-07c2-4437-b80f-95c08d21ce9d)",
+  "source": "https://api.riigikogu.ee/api/volumes/44e06720-07c2-4437-b80f-95c08d21ce9d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-05-01&endDate=2014-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
