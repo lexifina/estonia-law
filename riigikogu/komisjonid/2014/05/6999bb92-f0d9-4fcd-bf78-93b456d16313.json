@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 19.05.2014 11:00",
+  "sitting_time": "2014-05-19T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ac354cbc-8485-4799-9d34-739acf877207"
+    },
+    {
+      "order": 2,
+      "title": "Isamaa ja Res Publica Liidu fraktsiooni algatatud omavalitsuskorralduse reformi seaduse eelnõu (647 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "98b7aff6-00c2-4140-98fb-8e3a47554f12"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "27f07ab3-8075-4ff1-888c-ca92d4a62386",
+      "files": [
+        "Protokol_20140520.pdf",
+        "Protokoll.ddoc"
+      ]
+    }
+  ],
+  "uuid": "6999bb92-f0d9-4fcd-bf78-93b456d16313",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 6999bb92-f0d9-4fcd-bf78-93b456d16313)",
+  "source": "https://api.riigikogu.ee/api/volumes/6999bb92-f0d9-4fcd-bf78-93b456d16313",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-05-01&endDate=2014-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
