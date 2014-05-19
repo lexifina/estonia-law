@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung esmaspäev, 19.05.2014 08.00",
+  "sitting_time": "2014-05-19T08:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7db3360f-ef56-4346-ac07-317fad553bcc"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1ea77927-c651-465c-8cf1-27d7d3557db6"
+    },
+    {
+      "order": 3,
+      "title": "Kaitseväe suurõppuse \"Kevadtorm 2014\" külastamine (Helme)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5c95fbff-726a-4c12-a473-8c5f4ec03909"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "ad6787c9-1c82-4c2d-9604-5417d0090b21",
+      "files": [
+        "Protokol_20140520.pdf"
+      ]
+    }
+  ],
+  "uuid": "5ae541ca-b8dc-4554-874b-eb52d905595d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 5ae541ca-b8dc-4554-874b-eb52d905595d)",
+  "source": "https://api.riigikogu.ee/api/volumes/5ae541ca-b8dc-4554-874b-eb52d905595d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-05-01&endDate=2014-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
