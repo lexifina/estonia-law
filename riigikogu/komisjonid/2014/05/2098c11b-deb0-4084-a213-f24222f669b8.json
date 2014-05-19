@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung esmaspäev, 19.05.2014 11:00",
+  "sitting_time": "2014-05-19T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8657f931-22f3-4e0a-a650-71dfe722c4b1"
+    },
+    {
+      "order": 2,
+      "title": "Karistusseadustiku ja sellega seonduvalt teiste seaduste muutmise seaduse eelnõu (554 SE II)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7f91ad30-ba4c-405d-bf37-aadba552b2e4"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "79c1a9ca-500a-4172-9970-a0a10be64a7c",
+      "files": [
+        "Protokoll.ddoc",
+        "Protokol_20140519.pdf",
+        "Protokol_20140519.pdf"
+      ]
+    }
+  ],
+  "uuid": "2098c11b-deb0-4084-a213-f24222f669b8",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2098c11b-deb0-4084-a213-f24222f669b8)",
+  "source": "https://api.riigikogu.ee/api/volumes/2098c11b-deb0-4084-a213-f24222f669b8",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-05-01&endDate=2014-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
