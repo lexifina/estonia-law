@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung teisipäev, 20.05.2014 14:00",
+  "sitting_time": "2014-05-20T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Olukorrast Ukrainas",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a5ee9bf4-1a38-48d1-980b-0394128facdb"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu põhiseaduskomisjoni algatatud Riigikogu kodu- ja töökorra seaduse muutmise seaduse eelnõu (651 SE II)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6167de59-1610-4264-9b8d-a6b01a87127a"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2068bfde-2b43-4163-a923-086b5e9974a8"
+    },
+    {
+      "order": 4,
+      "title": "Karistusseadustiku ja sellega seonduvalt teiste seaduste muutmise seaduse eelnõu (554 SE II)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c7c47bf7-b6e1-4613-b909-341f1d20dc28"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "c68cbd1f-6938-4b1b-8150-86f51c6668b5",
+      "files": [
+        "Protokol_20140522.pdf"
+      ]
+    }
+  ],
+  "uuid": "ea925e1c-736e-4c88-967a-db9bd8424e54",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ea925e1c-736e-4c88-967a-db9bd8424e54)",
+  "source": "https://api.riigikogu.ee/api/volumes/ea925e1c-736e-4c88-967a-db9bd8424e54",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-05-01&endDate=2014-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
