@@ -4,4 +4,4 @@
 
 .
 
-(2) Enne riigi infosüsteemi kuuluva andmekogu registreerimist kontrollib ja kooskõlastab vastavat pädevust omav majandus- ja kommunikatsiooniministri volitatud teenistuja või ministeeriumi valitsemisalasse kuuluva asutuse töötaja andmekogu tehnilise vastavuse ning kogutavate andmete koosseisu ja allikate vastavuse seaduse või selle alusel antud õigusaktiga kehtestatud nõuetele.
+(2) Enne riigi infosüsteemi kuuluva andmekogu registreerimist kontrollib ja kooskõlastab vastavat pädevust omav Riigi Infosüsteemi Ameti ametnik või töötaja andmekogu tehnilise vastavuse ning kogutavate andmete koosseisu ja allikate vastavuse seaduse või selle alusel antud õigusaktiga kehtestatud nõuetele.
