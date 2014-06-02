@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung esmaspäev, 2.06.2014 11:00",
+  "sitting_time": "2014-06-02T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e9658f55-3faf-4b06-acf1-635949977348"
+    },
+    {
+      "order": 2,
+      "title": "Sotsiaalsest ettevõtlusest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dbf54b3f-6a09-4195-b625-495f911fd036"
+    },
+    {
+      "order": 3,
+      "title": "Ravimiseaduse § 20 täiendamise seaduse eelnõu (400 SE) ettevalmistamine teiseks ja kolmandaks lugemiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e3485296-b664-479e-97e2-8fcd05c15d7e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "6359aa58-27ba-4b87-a587-8ba27a533bcf",
+      "files": [
+        "Protokol_20140602.pdf",
+        "Protokol_20140619.pdf"
+      ]
+    }
+  ],
+  "uuid": "55faa414-5c60-451f-9410-19931997faf8",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 55faa414-5c60-451f-9410-19931997faf8)",
+  "source": "https://api.riigikogu.ee/api/volumes/55faa414-5c60-451f-9410-19931997faf8",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-06-01&endDate=2014-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
