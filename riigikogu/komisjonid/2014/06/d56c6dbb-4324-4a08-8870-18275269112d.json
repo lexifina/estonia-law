@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 2.06.2014 11:00",
+  "sitting_time": "2014-06-02T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3ed60c22-f3dd-4225-a6b1-c1eea19876df"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud loomade ja loomsete saadustega kauplemise ning nende impordi ja ekspordi veterinaarjärelevalve seaduse ning sellega seonduvalt teiste seaduste muutmise seaduse eelnõu (655 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "127ab510-044f-4bce-a690-0d1c5cdfdc5f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "cce48af1-2e48-440b-98d1-b2b4ed1e5f08",
+      "files": [
+        "Protokol_20140604.pdf",
+        "Protokoll.ddoc"
+      ]
+    }
+  ],
+  "uuid": "d56c6dbb-4324-4a08-8870-18275269112d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d56c6dbb-4324-4a08-8870-18275269112d)",
+  "source": "https://api.riigikogu.ee/api/volumes/d56c6dbb-4324-4a08-8870-18275269112d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-06-01&endDate=2014-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
