@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung teisipäev, 3.06.2014 13:00",
+  "sitting_time": "2014-06-03T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti Vabariigi ja Hiina Rahvavabariigi kahepoolsetest suhetest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "66d344eb-e7e8-46d7-958e-c9c3fc8de5a4"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "404ed403-e1e0-4b3f-b03d-06484a502f3e"
+    },
+    {
+      "order": 3,
+      "title": "Informatsioon arengutest Ukrainas.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "529c565c-9eb7-4d98-9c90-e8dda7ea0757"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "7c3dc853-ca31-4351-b689-0f0b4db16cd4",
+      "files": [
+        "Protokoll.ddoc",
+        "Protokol_20140604.pdf"
+      ]
+    }
+  ],
+  "uuid": "70ba871e-15d5-48dd-a7fb-08ee3ce9169e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 70ba871e-15d5-48dd-a7fb-08ee3ce9169e)",
+  "source": "https://api.riigikogu.ee/api/volumes/70ba871e-15d5-48dd-a7fb-08ee3ce9169e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-06-01&endDate=2014-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
