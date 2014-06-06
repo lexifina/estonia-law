@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung reede, 6.06.2014 10:00",
+  "sitting_time": "2014-06-06T10:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Arutelu Euroopa Komisjoni volinikukandidaadiga.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f9a50f03-2b3b-4dc9-87f7-98205723f344"
+    },
+    {
+      "order": 2,
+      "title": "Euroopa Komisjoni poolt esitatud riigipõhiste soovituste ülevaade.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "164b51e3-e581-4258-9613-34317ebfa7c0"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "c1343b87-df09-4fb7-8cb3-cecba2b93d8a",
+      "files": [
+        "Protokol_20140609.pdf"
+      ]
+    }
+  ],
+  "uuid": "32b87094-9a3a-4e12-a13f-14a603a500fd",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 32b87094-9a3a-4e12-a13f-14a603a500fd)",
+  "source": "https://api.riigikogu.ee/api/volumes/32b87094-9a3a-4e12-a13f-14a603a500fd",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-06-01&endDate=2014-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
