@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 9.06.2014 13:00",
+  "sitting_time": "2014-06-09T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine;",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "124d5345-aec6-48f7-8671-68bf1b2bfb44"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli kontrolliaruande „Riigi tegevus e-tervise rakendamisel“ kordusarutelu;",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "23926777-4666-4bf8-bf69-b46f0c7bfebf"
+    },
+    {
+      "order": 3,
+      "title": "Informatsioon.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3f503988-2236-48b0-9ffb-97d57665185b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Riigikontrolli kontrolliaruande „Riigi tegevus e-tervise rakendamisel“ kordusarutelu",
+      "uuid": "efb10482-f7fb-4533-8d80-c6d0c5977d7e",
+      "files": [
+        "protokoll 160 09 06 2014 .pdf",
+        "SOM slaidid e-tervis kordusarutelu 09 06 2014.ppt"
+      ]
+    }
+  ],
+  "uuid": "83a15367-25b4-4551-be5d-d1ec8c21f4ac",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 83a15367-25b4-4551-be5d-d1ec8c21f4ac)",
+  "source": "https://api.riigikogu.ee/api/volumes/83a15367-25b4-4551-be5d-d1ec8c21f4ac",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-06-01&endDate=2014-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
