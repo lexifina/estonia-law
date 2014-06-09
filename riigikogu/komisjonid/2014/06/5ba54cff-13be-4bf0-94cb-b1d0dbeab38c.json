@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung esmaspäev, 9.06.2014 11:00",
+  "sitting_time": "2014-06-09T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "34e1b7fa-e33a-4240-bcec-d13ebc83975e"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine Eesti Kaitsetööstuse Liidu esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4b4ad7cd-f5a5-4335-9e52-ad0ee4b76456"
+    },
+    {
+      "order": 3,
+      "title": "Strateegilise kauba komisjoni  2013. aasta töö aruanne",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f53fdddb-b30b-4add-91a6-1666ca9cc82d"
+    },
+    {
+      "order": 4,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ec0c98d0-2c45-4fa6-9cc4-efb4650598f2"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "bf68d17b-91e4-4d55-99af-8a20135778ca",
+      "files": [
+        "Protokol_20140609.pdf"
+      ]
+    }
+  ],
+  "uuid": "5ba54cff-13be-4bf0-94cb-b1d0dbeab38c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 5ba54cff-13be-4bf0-94cb-b1d0dbeab38c)",
+  "source": "https://api.riigikogu.ee/api/volumes/5ba54cff-13be-4bf0-94cb-b1d0dbeab38c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-06-01&endDate=2014-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
