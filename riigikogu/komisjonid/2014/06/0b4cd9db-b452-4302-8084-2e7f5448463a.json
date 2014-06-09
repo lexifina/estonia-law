@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung esmaspäev, 9.06.2014 11:10",
+  "sitting_time": "2014-06-09T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "63d37732-266b-4e20-b6ca-c94f79e3c68f"
+    },
+    {
+      "order": 2,
+      "title": "Avalik istung ehitusseadustiku (555 SE) eelnõule esitatud ettepanekute teemal.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "05f0d6c7-100c-43c6-bafc-700e40af7ba3"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "93a2fcbe-dbb2-4581-83fa-64083a322fb1"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "8d8c343d-f629-40be-a225-fea958cbef20",
+      "files": [
+        "Protokol_20140611.pdf"
+      ]
+    }
+  ],
+  "uuid": "0b4cd9db-b452-4302-8084-2e7f5448463a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0b4cd9db-b452-4302-8084-2e7f5448463a)",
+  "source": "https://api.riigikogu.ee/api/volumes/0b4cd9db-b452-4302-8084-2e7f5448463a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-06-01&endDate=2014-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
