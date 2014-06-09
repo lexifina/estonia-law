@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 9.06.2014 11:00",
+  "sitting_time": "2014-06-09T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e690404d-46e6-47ab-a96d-195f220d9ff6"
+    },
+    {
+      "order": 2,
+      "title": "Piirkondlikud regionaalarengu programmid",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f5bdce8b-d86e-4f39-b250-155b27673b88"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "18af5642-a969-448a-874e-4f72cd72094a",
+      "files": [
+        "Protokoll.ddoc",
+        "Protokol_20140611.pdf"
+      ]
+    }
+  ],
+  "uuid": "25af93ca-8d06-4f8f-a18c-ebce569ded1f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 25af93ca-8d06-4f8f-a18c-ebce569ded1f)",
+  "source": "https://api.riigikogu.ee/api/volumes/25af93ca-8d06-4f8f-a18c-ebce569ded1f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-06-01&endDate=2014-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
