@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung kolmapäev, 11.06.2014 10:00",
+  "sitting_time": "2014-06-11T10:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ühisistung Briti Parlamendi Alamkoja kaitsekomisjoniga",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7bf4e5d9-ea45-4acb-9b3f-7b7226c84c99"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu otsuse \"Riigikogu otsuse „Kaitseväe kasutamise tähtaja pikendamine Eesti riigi rahvusvaheliste kohustuste täitmisel konfliktijärgsel rahutagamismissioonil Liibanonis, Iisraelis, Egiptuses ja Süürias\" muutmine\" eelnõu (690 OE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0d371cd3-8bb0-4c3e-a91e-9690faa09054"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "ffaf12e3-5b39-4b39-9479-7be3834d84ca",
+      "files": [
+        "Protokol_20140611.pdf"
+      ]
+    }
+  ],
+  "uuid": "fc7b7c27-056c-44b9-8089-04fe3022e1ca",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid fc7b7c27-056c-44b9-8089-04fe3022e1ca)",
+  "source": "https://api.riigikogu.ee/api/volumes/fc7b7c27-056c-44b9-8089-04fe3022e1ca",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-06-01&endDate=2014-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
