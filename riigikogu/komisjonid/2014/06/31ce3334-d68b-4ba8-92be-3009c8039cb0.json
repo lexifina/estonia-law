@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 16.06.2014 13:00",
+  "sitting_time": "2014-06-16T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine;",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "80bc3ac1-4848-4e83-a888-2699a558c879"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli kontrolliaruande „Riiklik VEB Fond“ arutelu;",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c41a6af0-3d3c-4727-92d3-291cbb6a5f91"
+    },
+    {
+      "order": 3,
+      "title": "„Riigikogu riigieelarve kontrolli erikomisjoni tegevuse aruanne (juuli 2013 – juuni 2014)“ kinnitamine;",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f82e5cf6-7629-4c68-a379-b8802697f371"
+    },
+    {
+      "order": 4,
+      "title": "Informatsioon.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "49294f95-73e8-4897-8ca0-b61317511643"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Riigikontrolli kontrolliaruande „Riiklik VEB Fond“ arutelu",
+      "uuid": "64371c76-bf52-47f5-8adf-c95c0ff4356e",
+      "files": [
+        "Riigikontrolli slaidid Veb Fond 16.06.14.pptx",
+        "protokoll 162 16 06 2014 .pdf"
+      ]
+    }
+  ],
+  "uuid": "31ce3334-d68b-4ba8-92be-3009c8039cb0",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 31ce3334-d68b-4ba8-92be-3009c8039cb0)",
+  "source": "https://api.riigikogu.ee/api/volumes/31ce3334-d68b-4ba8-92be-3009c8039cb0",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-06-01&endDate=2014-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
