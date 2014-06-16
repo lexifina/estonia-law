@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung esmaspäev, 16.06.2014 13:30",
+  "sitting_time": "2014-06-16T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Komisjoni esimehe ja aseesimehe erakorralised valimised.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "90fc7088-4b7d-4429-a62b-82e6e7975b03"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad 19.-20. juunil 2014 toimuval EL tööhõive, sotsiaalpoliitika, tervise- ja tarbijakaitsenõukogu (EPSCO) istungil.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "57b24b08-d38a-4008-aea8-0bfb2c4a89ac"
+    },
+    {
+      "order": 3,
+      "title": "Eesti seisukohad 24. juunil 2014 toimuval EL üldasjade nõukogu istungil.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "54df2573-f14d-4b2d-b302-75dc379ee98a"
+    },
+    {
+      "order": 4,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3052c94b-7693-4ce8-b600-e6dd2c61ad20"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "46ce71a2-05f4-4b37-a7ab-704641e29898",
+      "files": [
+        "Protokol_20140618.pdf"
+      ]
+    }
+  ],
+  "uuid": "09b6a227-0883-4e6e-8fce-d47d67c700d9",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 09b6a227-0883-4e6e-8fce-d47d67c700d9)",
+  "source": "https://api.riigikogu.ee/api/volumes/09b6a227-0883-4e6e-8fce-d47d67c700d9",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-06-01&endDate=2014-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
