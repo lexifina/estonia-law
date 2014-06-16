@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung esmaspäev, 16.06.2014 11:00 avalik istung  konverentsisaalis",
+  "sitting_time": "2014-06-16T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4d5ae77a-1b26-4660-8cc4-9bcef30a597e"
+    },
+    {
+      "order": 2,
+      "title": "Riiklike peretoetuste seaduse ja teiste seaduste muutmise seaduse eelnõu (669 SE) ettevalmistamine kolmandaks  lugemiseks (menetlusdokumendid)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6da55260-ba03-4d6e-a4c1-a06b535b51f8"
+    },
+    {
+      "order": 3,
+      "title": "Töövõimereformist (678 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ab5843a8-17e1-482e-b789-1c9489c804c3"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "be6eb6f4-a704-4cc1-bce5-047f14abb08c",
+      "files": [
+        "Protokol_20140625.pdf"
+      ]
+    }
+  ],
+  "uuid": "a42aa424-2f99-4500-9656-dc03447c263e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a42aa424-2f99-4500-9656-dc03447c263e)",
+  "source": "https://api.riigikogu.ee/api/volumes/a42aa424-2f99-4500-9656-dc03447c263e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-06-01&endDate=2014-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
