@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung esmaspäev, 16.06.2014 11:00",
+  "sitting_time": "2014-06-16T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "58772045-f6cc-460c-99db-be17d1611cc6"
+    },
+    {
+      "order": 2,
+      "title": "Rahu-  ja sõjaaja riigikaitse seadust ühendava eelnõu ettevalmistusest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "62b6719e-8b1d-4442-b207-8a9c6441a80b"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f322f268-e76f-4a44-9a45-14b7e1aeb540"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "0212a79a-ef5e-4f18-98a4-074a7c246946",
+      "files": [
+        "Protokol_20140616.pdf"
+      ]
+    }
+  ],
+  "uuid": "9ffcf6ea-3315-4f19-9046-f13e80eb82f9",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9ffcf6ea-3315-4f19-9046-f13e80eb82f9)",
+  "source": "https://api.riigikogu.ee/api/volumes/9ffcf6ea-3315-4f19-9046-f13e80eb82f9",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-06-01&endDate=2014-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
