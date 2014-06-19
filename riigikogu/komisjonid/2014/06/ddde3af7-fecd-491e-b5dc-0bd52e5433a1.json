@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung neljapäev, 19.06.2014 14:00",
+  "sitting_time": "2014-06-19T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Alkoholi-, tubaka-, kütuse- ja elektriaktsiisi seaduse ning vedelkütuse erimärgistamise seaduse muutmise seaduse eelnõu (682 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b418bb2d-f77d-42c1-8701-30bf06dc9d83"
+    },
+    {
+      "order": 2,
+      "title": "Info",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "345db28d-a45b-4937-9c94-97cc4174f371"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "3b30fb7e-fc72-4804-a468-89f785050614",
+      "files": [
+        "prot217.pdf"
+      ]
+    }
+  ],
+  "uuid": "ddde3af7-fecd-491e-b5dc-0bd52e5433a1",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ddde3af7-fecd-491e-b5dc-0bd52e5433a1)",
+  "source": "https://api.riigikogu.ee/api/volumes/ddde3af7-fecd-491e-b5dc-0bd52e5433a1",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-06-01&endDate=2014-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
