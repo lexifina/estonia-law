@@ -12,6 +12,6 @@
 
 (2) Valijate arv saadakse valimiste väljakuulutamise kuu esimese kuupäeva seisuga Eesti Rahvastikuregistri (edaspidi rahvastikuregister) andmete põhjal.
 
-(3) Regionaalminister esitab Vabariigi Valimiskomisjonile valijate arvu maakondade ja Tallinnas linnaosade kaupa kolme tööpäeva jooksul, arvates valimiste väljakuulutamisest.
+(3) Valdkonna eest vastutav minister esitab Vabariigi Valimiskomisjonile valijate arvu maakondade ja Tallinnas linnaosade kaupa kolme tööpäeva jooksul, arvates valimiste väljakuulutamisest.
 
 (4) Vabariigi Valimiskomisjon avalikustab käesoleva paragrahvi lõikes 1 nimetatud otsuse viivitamata.
