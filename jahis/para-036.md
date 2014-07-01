@@ -1,0 +1,25 @@
+# § 36. Jahitunnistus
+
+(1) Jahitunnistus on dokument, mis tõendab füüsilise isiku oskust jahti pidada.
+
+(2) Jahitunnistuse tohib anda vähemalt 16-aastasele isikule, kes on läbi teinud jahindusalase koolituse ning edukalt sooritanud jahiteooriaeksami.
+
+(3) Kui jahitunnistuse taotleja ei soovi jahipidamisel kasutada jahitulirelva, tehakse jahitunnistusele vastav märge ja ta ei pea sooritama laskekatset.
+
+(4) Jahitunnistus kehtib kümme aastat.
+
+(5) Jahitunnistust ei anta isikule, kellelt on karistusena ära võetud jahipidamise õigus ja kelle karistusandmeid ei ole karistusregistrist kustutatud või kes ei vasta käesoleva paragrahvi lõikes 2 sätestatud nõuetele.
+
+(6) Välisriigis antud kehtiva jahitunnistuse alusel antakse selle saanud isikule tema soovil, ilma et ta jahindusalase koolituse läbiks ning jahiteooriaeksami sooritaks, jahitunnistus kehtivusajaga kuni üks aasta kümne päeva jooksul pärast taotluse esitamist ja käesoleva paragrahvi lõikes 10 sätestatud riigilõivu või tasu tasumist.
+
+(7) Jahitunnistuse kehtivusaja pikendamise, andmete muutmise, jahitunnistuse kaotamise, kasutamiskõlbmatuks muutumise ja jahitunnistuse kehtivuse peatamise korral pikendatakse jahitunnistuse kehtivusaega või antakse uus jahitunnistus või taastatakse jahitunnistuse kehtivus kümne päeva jooksul pärast taotluse esitamist ja käesoleva paragrahvi lõikes 10 nimetatud riigilõivu või tasu tasumist.
+
+(8) Jahitunnistuse annab ja jahitunnistuste üle peab arvestust, samuti korraldab jahiteooriaeksami ja laskekatse läbiviimist Keskkonnaamet või käesoleva seaduse § 10 lõike 1 alusel Keskkonnaministeeriumiga halduslepingu sõlminud isik (edaspidi koos *tunnistuse andja*).
+
+(9) Jahitunnistuse vormi, jahiteooriaeksami ja laskekatse sooritamise ning jahitunnistuse taotlemise ja andmise korra, samuti jahindusalasele koolitusele ja koolitajale esitatavad nõuded ning koolitamise korra
+
+määrusega.
+
+(10) Jahitunnistuse saamise, kehtivusaja pikendamise, vahetamise ja kehtivuse taastamise taotluse läbivaatamise, samuti jahiteooriaeksami ja laskekatse vastuvõtmise eest tasutakse riigilõivu riigilõivuseaduses sätestatud määrade järgi, või kui haldusülesande täitmine on halduslepinguga üle antud, siis halduslepingus sätestatud tasu.
+
+(11) Käesoleva paragrahvi lõikes 10 nimetatud tasu peab olema kulupõhine, selge ja lähtuma võrdse kohtlemise põhimõttest ning kujundatud selliselt, et see kataks asjaomase teenusega seotud põhjendatud kulutused. Tasu suurus sätestatakse käesoleva seaduse § 10 lõike 1 alusel sõlmitud halduslepinguga ning see ei tohi ületada teenusele kehtestatud riigilõivu määra.
