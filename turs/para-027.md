@@ -1,27 +1,21 @@
-# § 27. Turismiinfokeskusele esitatavad kohustuslikud nõuded ja nendele vastavuse hindamine
+# § 27. Turismiinfokeskusele esitatavad nõuded
 
-(1) Turismiinfokeskusele, sealhulgas edastatavale turismiinfole ja selle kättesaadavusele, samuti turismiinfokeskuse tähistamisele esitatavad kohustuslikud nõuded ja nendele vastavuse hindamise
+(1) Turismiinfokeskusele, sealhulgas edastatavale turismiinfole ja selle kättesaadavusele, samuti turismiinfokeskuse tähistamisele esitatavad kohustuslikud nõuded
 
 .
 
-(2) Turismiinfokeskuse vastavust kohustuslikele nõuetele kinnitab selle tähistus vastavalt käesoleva seaduse § 26 lõigetes 3 ja 3¹ sätestatule.
+(2) Turismiinfokeskuse vastavust kohustuslikele nõuetele kinnitab selle tähistus vastavalt käesoleva seaduse § 26 lõigetes 3 ja 4 sätestatule.
 
-(3) Turismiinfokeskuse vastavust kohustuslikele nõuetele hindab, õiguse turismiinfokeskusena tegutseda ning turismiinfokeskust i-märgiga tähistada (edaspidi *turismiinfokeskusena tegutsemine*) annab ja võtab ära Ettevõtluse Arendamise Sihtasutus (edaspidi *õiguse andja*).
+(3) Isikul on kohustus esitada enne turismiinfokeskuses tegevuse alustamist EAS-le teade, milles peavad sisalduma vähemalt järgmised andmed:
 
-(4) Turismiinfokeskusena tegutsemise õigus antakse tasuta tähtajaliselt või tähtajatult.
+1) turismiinfokeskuse nimi, asukoha aadress ja muud kontaktandmed;
 
-(5) Õiguse andja kannab majandustegevuse registrisse viie tööpäeva jooksul turismiinfokeskusena tegutsemise õiguse andmisest arvates lisaks majandustegevuse registri seaduses sätestatule järgmised andmed:
+2) turismiinfokeskuses tegevuse alustamise kuupäev, kui see erineb teate esitamise kuupäevast;
 
-1) turismiinfokeskuse nimi ja asukoha aadress;
+3) turismiinfokeskuses tegevuse lõpetamise kuupäev, kui tegevus on kavandatud teatud ajaks;
 
-2) turismiinfokeskusena tegutsemise õiguse andmise aeg;
+4) osutatavad teenused ja müüdavad kaubad vastavalt käesoleva seaduse § 26 lõikes 5 sätestatule;
 
-3) turismiinfokeskusena tegutsemise aeg;
+5) isiku nimi, registrikood ja kontaktandmed.
 
-4) osutatavad teenused ja müüdavad kaubad vastavalt käesoleva seaduse § 26 lõikes 4 sätestatule.
-
-(6) Käesoleva paragrahvi lõikes 5 nimetatud andmete muutumisel peab õiguse andja tagama andmete vastavusse viimise majandustegevuse registris viie tööpäeva jooksul.
-
-(7) Õiguse andja tunnistab kehtetuks turismiinfokeskusena tegutsemise õiguse, kui turismiinfokeskus ei vasta enam kohustuslikele nõuetele.
-
-(8) Õiguse andja kustutab turismiinfokeskuse registrikande majandustegevuse registrist kahe tööpäeva jooksul selle turismiinfokeskusena tegutsemise õiguse kehtetuks tunnistamisest arvates.
+(4) Isikul on kohustus käesoleva paragrahvi lõikes 3 nimetatud andmete muutumisest või tegevuse lõpetamisest teatada EAS-le viivitamata, kuid mitte hiljem kui viie tööpäeva jooksul.

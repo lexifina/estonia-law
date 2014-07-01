@@ -1,6 +1,6 @@
 # § 36. Üleminekusätted
 
-(1) Ettevõtja, kellele on enne käesoleva seaduse jõustumist majandus- ja kommunikatsiooniministri poolt turismialaseks ettevõtluseks väljastatud tegevuslitsents, mille kehtivuse tähtaeg lõpeb pärast 2001. aasta 1. märtsi, võib pakkuda ja osutada reisiteenuseid tegevuslitsentsil märgitud tähtpäeva saabumiseni, kuid mitte kauem kui 2001. aasta 1. juulini.
+(1) Ettevõtja, kellele on enne käesoleva seaduse jõustumist valdkonna eest vastutava ministri poolt turismialaseks ettevõtluseks väljastatud tegevuslitsents, mille kehtivuse tähtaeg lõpeb pärast 2001. aasta 1. märtsi, võib pakkuda ja osutada reisiteenuseid tegevuslitsentsil märgitud tähtpäeva saabumiseni, kuid mitte kauem kui 2001. aasta 1. juulini.
 
 (2) Enne käesoleva seaduse jõustumist kehtinud õigusakte järgides väljastatud majutusettevõtte tunnistus kehtib sellel märgitud tähtpäeva saabumiseni, kuid mitte kauem kui 2002. aasta 1. jaanuarini.
 
@@ -16,7 +16,7 @@
 
 (8) Enne 2005. aasta 1. novembrit väljastatud järgutunnistus kehtib tunnistusele märgitud tähtpäevani või sellele märgitud andmete muutumiseni.
 
-(9) Kuni 2005. aasta 1. novembrini kehtinud käesoleva seaduse § 21 lõike 2 alusel kehtestatud õigusakt kehtib kuni selle kehtetuks tunnistamiseni, kuid mitte kauem kui 2006. aasta 1. maini. Käesoleva lõike alusel majandus- ja kommunikatsiooniministri väljastatud järgutunnistus kehtib tunnistusele märgitud tähtpäevani või sellele märgitud andmete muutumiseni.
+(9) Kuni 2005. aasta 1. novembrini kehtinud käesoleva seaduse § 21 lõike 2 alusel kehtestatud õigusakt kehtib kuni selle kehtetuks tunnistamiseni, kuid mitte kauem kui 2006. aasta 1. maini. Käesoleva lõike alusel valdkonna eest vastutava ministri väljastatud järgutunnistus kehtib tunnistusele märgitud tähtpäevani või sellele märgitud andmete muutumiseni.
 
 (10) Enne 2008. aasta 1. septembrit väljastatud turismiinfokeskuse tunnistus kehtib sellel märgitud tähtpäeva saabumiseni.
 
@@ -25,3 +25,5 @@
 (12) Enne 2010. aasta 1. juunit majandustegevuse registris registreeritud reisiettevõtjad, kes on andnud enda koostatud pakettreiside müügiks pakkumise ja müügi õiguse ka teisele reisiettevõtjale või teistele reisiettevõtjatele, on kohustatud tegevuse jätkamisel kandma majandustegevuse registrisse hiljemalt 2010. aasta 1. augustiks andmed nimetatud õiguse saanud reisiettevõtja või reisiettevõtjate kohta, sealhulgas nimi, registri registreeringu number, aadress ja muud kontaktandmed.
 
 (13) Enne 2010. aasta 1. juunit majandustegevuse registris registreeritud reisiettevõtjad, kes pakuvad müügiks ja müüvad teise reisiettevõtja koostatud pakettreise, on kohustatud tegevuse jätkamisel kandma majandustegevuse registrisse hiljemalt 2010. aasta 1. augustiks andmed pakettreisid koostanud reisiettevõtja või reisiettevõtjate kohta, sealhulgas nimi, registreeringu number, aadress ja muud kontaktandmed. Euroopa Majanduspiirkonna välise riigi või Euroopa Majanduspiirkonna teise lepinguriigi reisiettevõtja koostatud pakettreiside müügiks pakkumisel ja müügil asendatakse registri registreeringu number selle reisiettevõtja asukohariigi asjakohase identifitseerimistunnusega (registrikood ja vastava registri nimi).
+
+(14) Käesoleva seaduse § 8 lõiget 3 kohaldatakse alates 2016. aasta 1. juulist.

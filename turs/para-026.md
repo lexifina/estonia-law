@@ -1,14 +1,14 @@
 # § 26. Turismiinfokeskus
 
-(1) Turismiinfokeskus kogub ja korrastab erapooletut ja pädevat informatsiooni turismiteenuse ja selle osutamise ning huviväärsuste kohta enda asukoha järgse maakonna haldusterritooriumil ja edastab selle turismiinfost huvitatud isikutele ja teistele turismiinfokeskustele ning Vabariigi Valitsuse määratud isikule.
+(1) Turismiinfokeskus kogub ja korrastab erapooletut ja pädevat informatsiooni turismiteenuse ja selle osutamise ning huviväärsuste kohta enda asukohajärgse maakonna haldusterritooriumil ja edastab selle turismiinfost huvitatud isikutele ja teistele turismiinfokeskustele ning Ettevõtluse Arendamise Sihtasutusele (edaspidi *EAS*).
 
-(2) Vabariigi Valitsuse määratud isik avaldab veebilehel majutusettevõtete ja turismiinfokeskustega seonduvaid andmeid, samuti andmeid giidide ja giid-tõlkide kohta ning turismiinfokeskuste poolt edastatud turismiinfot.
+(2) EAS avaldab oma veebilehel majutusettevõtete ja turismiinfokeskustega seonduvaid andmeid, samuti andmeid giidide ja giid-tõlkide kohta ning turismiinfokeskuste poolt edastatud turismiinfot.
 
-(3) Turismiinfokeskus tähistatakse märgiga, kus rohelisel põhjal asetseb valget värvi täht «i» (edaspidi *i-märk*).
+(3) Turismiinfokeskus tähistatakse märgiga, kus rohelisel põhjal asetseb valget värvi täht «i» (edaspidi *i-märk*).
 
-(3¹) Turismiinfokeskuse tähistamisel võib lisaks käesoleva paragrahvi lõikes 3 nimetatud tähistusele kasutada sõna «külastuskeskus» vastavalt käesoleva seaduse § 27 lõike 1 alusel kehtestatud nõuetele ja korrale.
+(4) Turismiinfokeskuse tähistamisel võib lisaks käesoleva paragrahvi lõikes 3 nimetatud tähistusele kasutada sõna «külastuskeskus» vastavalt käesoleva seaduse § 27 lõike 1 alusel kehtestatud nõuetele.
 
-(4) Turismiinfokeskus võib tasu eest osutada järgmisi teenuseid või müüa järgmisi kaupu:
+(5) Turismiinfokeskus võib tasu eest osutada järgmisi teenuseid või müüa järgmisi kaupu:
 
 1) majutuse broneerimine;
 
@@ -29,5 +29,3 @@
 9) suveniiride ja fototarvete müük;
 
 10) ürituste piletite müük.
-
-(5) , kellele turismiinfokeskus edastab enda poolt kogutud ja korrastatud erapooletut ja pädevat informatsiooni turismiteenuse ja selle osutamise ning huviväärsuste kohta enda asukoha järgse maakonna haldusterritooriumil.

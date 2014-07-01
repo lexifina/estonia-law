@@ -8,7 +8,7 @@ karistatakse rahatrahviga kuni 300 trahviühikut.
 
 karistatakse rahatrahviga kuni 200 trahviühikut.
 
-(3) Registrile andmete esitamata jätmise eest –
+(3) Teatamiskohustuse täitmata jätmise või registrile andmete muutumisest teatamata jätmise eest –
 
 karistatakse rahatrahviga kuni 200 trahviühikut.
 

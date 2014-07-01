@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/113032014069> (version in force from 2014-03-23)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/129062014087> (version in force from 2014-07-01)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -15,7 +15,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/113032014069> (version in force 
 | [§ 5](para-005.md) | Reisiettevõtja |
 | [§ 6](para-006.md) | Reisiettevõtja tegevusalade liigitus |
 | [§ 7](para-007.md) | Pakettreis |
-| [§ 8](para-008.md) | Tegutsemine reisiettevõtjana |
+| [§ 8](para-008.md) | Reisiettevõtja teatamiskohustus |
 | [§ 9](para-009.md) |  |
 | [§ 10](para-010.md) | Reisiettevõtja registreerimise taotlus |
 | [§ 11](para-011.md) | Registreerimismenetlus ja registriandmed |
@@ -27,7 +27,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/113032014069> (version in force 
 | [§ 17](para-017.md) | Majutusettevõte |
 | [§ 18](para-018.md) | Majutusettevõtete liigid |
 | [§ 19](para-019.md) | Majutusteenuse osutamine |
-| [§ 20](para-020.md) | Majutusettevõtte registreerimise taotlus |
+| [§ 20](para-020.md) | Majutusteenuse osutaja teatamiskohustus |
 | [§ 20¹](para-020b1.md) | Registreerimismenetlus ja registreerimisandmed |
 | [§ 21](para-021.md) | Majutusettevõtte järk |
 | [§ 22](para-022.md) |  |
@@ -36,12 +36,13 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/113032014069> (version in force 
 | **4. peatükk TURISMIINFO** | |
 | [§ 25](para-025.md) | Turismiinfo |
 | [§ 26](para-026.md) | Turismiinfokeskus |
-| [§ 27](para-027.md) | Turismiinfokeskusele esitatavad kohustuslikud nõuded ja nendele vastavuse hindamine |
+| [§ 27](para-027.md) | Turismiinfokeskusele esitatavad nõuded |
 | [§ 28](para-028.md) |  |
 | [§ 29](para-029.md) | Turismiinfopunkt |
-| **5. peatükk JÄRELEVALVE** | |
-| [§ 30](para-030.md) | Järelevalve teostajad |
-| [§ 30¹](para-030b1.md) | Järelevalvet teostava ametiisiku õigused ja kohustused |
+| **5. peatükk RIIKLIK JÄRELEVALVE** | |
+| [§ 30](para-030.md) | Riiklik järelevalve |
+| [§ 30¹](para-030b1.md) | Riikliku järelevalve erimeetmed |
+| [§ 30²](para-030b2.md) | Riikliku järelevalve erisused |
 | [§ 31](para-031.md) | Järelevalvet teostava ametiisiku ettekirjutus |
 | **5¹. peatükk VASTUTUS** | |
 | [§ 31¹](para-031b1.md) | Reisiettevõtjale kehtestatud nõuete rikkumine |

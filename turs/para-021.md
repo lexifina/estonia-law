@@ -4,7 +4,7 @@
 
 (2) Järgu võib vastavat liiki majutusettevõttele anda ja ära võtta neid majutusettevõtteid ühendav või nende kvaliteedialast tegevust arendav eraõiguslik juriidiline isik, kes koostab järkude andmise ja äravõtmise aluseks olevad nõuded (edaspidi *järgunõuded*) ning järkude andmise ja äravõtmise korra.
 
-(3) Õiguse tegutseda järgu andja ja äravõtjana (edaspidi *järgu andja*) annab majandus- ja kommunikatsiooniminister. Õigus tegutseda järgu andjana antakse iga majutusettevõtte liigi osas vaid ühele isikule.
+(3) Õiguse tegutseda järgu andja ja äravõtjana (edaspidi *järgu andja*) annab valdkonna eest vastutav minister. Õigus tegutseda järgu andjana antakse iga majutusettevõtte liigi osas vaid ühele isikule.
 
 (4) järgu andjana tegutsemise õiguse andmise korra ja tingimused ning nõuded järgu andjana tegutsemisele.
 

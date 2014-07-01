@@ -8,7 +8,7 @@
 
 4. peatükk TURISMIINFO
 
-5. peatükk JÄRELEVALVE
+5. peatükk RIIKLIK JÄRELEVALVE
 
 5¹. peatükk VASTUTUS
 

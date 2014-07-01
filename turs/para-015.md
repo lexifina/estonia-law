@@ -48,7 +48,7 @@
 
 3) korraldab käesoleva paragrahvi lõikest 1 tulenevate nõuete täitmise ja määrab tagatisest väljamaksete tegemise tähtaja.
 
-(11) Majandus- ja kommunikatsiooniminister võib kehtestada määrusega:
+(11) Valdkonna eest vastutav minister võib kehtestada määrusega:
 
 1) ;
 
