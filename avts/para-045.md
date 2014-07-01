@@ -1,6 +1,6 @@
 # § 45. Andmekaitse Inspektsiooni järelevalvepädevus
 
-(1) Andmekaitse Inspektsioon teostab teabevaldajate üle riiklikku järelevalvet nende poolt teabenõuete täitmisel ja teabe avalikustamisel.
+(1) Andmekaitse Inspektsioon teostab teabevaldajate üle riiklikku ja haldusjärelevalvet nende poolt teabenõuete täitmisel ja teabe avalikustamisel.
 
 (2) Andmekaitse Inspektsioon võib järelevalvemenetluse algatada vaide alusel või oma algatusel.
 

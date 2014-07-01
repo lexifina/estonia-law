@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/121052014023> (version in force from 2014-05-31)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/121052014024> (version in force from 2014-07-01)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -78,11 +78,11 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/121052014023> (version in force 
 | [§ 47](para-047.md) |  |
 | [§ 48](para-048.md) |  |
 | [§ 49](para-049.md) |  |
-| [§ 50](para-050.md) | Andmekaitse Inspektsiooni õigused |
+| [§ 50](para-050.md) | Riikliku järelevalve teostamine |
 | [§ 51](para-051.md) | Andmekaitse Inspektsiooni ettekirjutus |
 | [§ 52](para-052.md) | Andmekaitse Inspektsiooni ettekirjutuse täitmine |
 | [§ 53](para-053.md) | Andmekaitse Inspektsiooni taotlus teenistusliku järelevalve korraldamiseks |
-| [§ 53¹](para-053b1.md) | Järelevalve andmekogude haldamise üle |
+| [§ 53¹](para-053b1.md) | Riigi Infosüsteemi Ameti järelevalve |
 | [§ 54](para-054.md) | Andmekaitse Inspektsiooni ettekanne seaduse täitmisest |
 | **6¹. peatükk VASTUTUS** | |
 | [§ 54¹](para-054b1.md) | Avaliku teabe avalikustamise ja väljastamise nõuete rikkumine |

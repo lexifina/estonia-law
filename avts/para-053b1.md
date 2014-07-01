@@ -1,5 +1,5 @@
-# § 53¹. Järelevalve andmekogude haldamise üle
+# § 53¹. Riigi Infosüsteemi Ameti järelevalve
 
-(1) Järelevalvet andmekogu kasutuselevõtmise ja andmekogu haldamise vastavuse üle seadusele, teistele õigusaktidele ja tehnilistele nõuetele teostab ning andmete töötlemisel tekkivaid vaidlusi lahendab Majandus- ja Kommunikatsiooniministeerium või majandus- ja kommunikatsiooniministri volitatud ministeeriumi valitsemisalasse kuuluv asutus.
+(1) Riigi Infosüsteemi Amet teostab haldus- ja riiklikku järelevalvet andmekogu asutamise, kasutuselevõtmise ja andmekogu pidamise ning infosüsteemi infosüsteemide andmevahetuskihiga liidestamise vastavuse üle käesoleva seaduse ja selle alusel kehtestatud õigusaktidega sätestatud nõuetele.
 
-(2) Käesoleva seaduse ja selle alusel antud õigusaktide täitmise tagamiseks on järelevalve teostajal õigus teha andmekogu vastutavale ja volitatud töötlejale ettekirjutusi. Ettekirjutus peab sisaldama kohustust viia andmekogu pidamine või selle kasutuselevõtmine kooskõlla käesoleva seaduse ja selle alusel antud õigusaktidega.
+(2) Käesoleva paragrahvi lõikes 1 nimetatud riikliku järelevalve teostamisel võib Riigi Infosüsteemi Amet kohaldada korrakaitseseaduse §-des 30, 31, 49, 50, 51 ja 52 sätestatud riikliku järelevalve erimeetmeid korrakaitseseaduses sätestatud alusel ja korras.

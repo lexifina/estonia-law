@@ -1,9 +1,7 @@
 # § 44. Järelevalve seaduse täitmise üle
 
-Käesoleva seaduse täitmise üle teostavad oma pädevuse piires järelevalvet:
+Käesoleva seaduse ja selle alusel kehtestatud õigusaktide täitmise üle teostavad järelevalvet:
 
-1) Andmekaitse Inspektsioon käesolevas seaduses sätestatud korras;
+1) Andmekaitse Inspektsioon;
 
-2) kõrgemalseisev organ või asutus teenistusliku järelevalve korras;
-
-3) Majandus- ja Kommunikatsiooniministeerium käesolevas seaduses sätestatud korras.
+2) Riigi Infosüsteemi Amet.
