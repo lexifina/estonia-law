@@ -2,11 +2,11 @@
 
 (1) Riiklikku koolitustellimust võib esitada Haridus- ja Teadusministeerium või muu ministeerium kutseõpet andvatele õppeasutustele, mis moodustavad riikliku koolitustellimuse alusel kutseõppe läbiviimiseks koolituskohad.
 
-(2) Haridus- ja Teadusministeeriumi või muu ministeeriumi esitatava riikliku koolitustellimuse
+(2) Haridus- ja Teadusministeeriumi või muu ministeeriumi esitatava riikliku koolitustellimuse kinnitab
 
-. Kui riikliku koolitustellimuse esitab riigikoolile muu ministeerium, kooskõlastatakse see enne kinnitamist haridus- ja teadusministriga.
+. Kui riikliku koolitustellimuse esitab riigikoolile muu ministeerium, kooskõlastatakse see enne kinnitamist valdkonna eest vastutava ministriga.
 
-(3) Riikliku koolitustellimuse koostamise ja esitamise korra
+(3) Riikliku koolitustellimuse koostamise ja esitamise korra kehtestab
 
 määrusega.
 

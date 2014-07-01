@@ -6,7 +6,7 @@
 
 (3) Käesoleva seaduse §-s 3 sätestatud kooli kohustuste ja ülesannete täitmise rahastamisel riigieelarvest rakendatakse rahastamispõhimõtteid, mis sisaldavad muu hulgas komponente õppekasvatustöö läbiviimise, kutseõppe kättesaadavuse ja kooli tulemusrahastamise kohta.
 
-(4) Käesoleva paragrahvi lõikes 3 nimetatud rahastamispõhimõtted, komponendid, nende rakendamise tingimused ja korra ning nende kohaldamise munitsipaal- ja erakoolile
+(4) Käesoleva paragrahvi lõikes 3 nimetatud rahastamispõhimõtted, komponendid, nende rakendamise tingimused ja korra ning nende kohaldamise munitsipaal- ja erakoolile kehtestab
 
 määrusega.
 

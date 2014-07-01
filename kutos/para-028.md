@@ -12,7 +12,7 @@
 
 (6) Töökohapõhise õppevormi puhul on praktika osakaal vähemalt kaks kolmandikku õppekava mahust.
 
-(7) Töökohapõhise õppe rakendamise korra
+(7) Töökohapõhise õppe rakendamise korra kehtestab
 
 määrusega.
 

@@ -1,6 +1,6 @@
 # § 22. Kutseharidusstandard
 
-Kutseharidusstandardi
+Kutseharidusstandardi kehtestab
 
 määrusega, kinnitades selles järgmised ühtsed nõuded kutseõppele:
 

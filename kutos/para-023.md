@@ -10,12 +10,12 @@
 
 (3) Tasemeõpe toimub teisel kuni viiendal kvalifikatsioonitasemel.
 
-(4) Õppekava paigutumise kvalifikatsioonitasemele määrab õppekava aluseks oleva kutsestandardi paiknemine Eesti kvalifikatsiooniraamistikus. Kutseõppe aluseks olevad kutsestandardid asetsevad teisel kuni viiendal kvalifikatsioonitasemel. Kutsestandardi puudumisel või vaidlusalustel juhtudel kinnitab õppekava kvalifikatsioonitaseme haridus- ja teadusminister, sõjaväeliste õppekavade puhul kaitseminister ja sisekaitseliste õppekavade puhul siseminister või vastavalt nende volitatud isikud.
+(4) Õppekava paigutumise kvalifikatsioonitasemele määrab õppekava aluseks oleva kutsestandardi paiknemine Eesti kvalifikatsiooniraamistikus. Kutseõppe aluseks olevad kutsestandardid asetsevad teisel kuni viiendal kvalifikatsioonitasemel. Kutsestandardi puudumisel või vaidlusalustel juhtudel kinnitab õppekava kvalifikatsioonitaseme valdkonna eest vastutav minister, sõjaväeliste õppekavade puhul valdkonna eest vastutav minister ja sisekaitseliste õppekavade puhul valdkonna eest vastutav minister või vastavalt nende volitatud isikud.
 
 (5) Kui õpilane läbib täielikult õppekava, mis vastab neljandale kvalifikatsioonitasemele, mille nominaalkestus on vähemalt kolm aastat ja õppemaht 180 Eesti kutsehariduse arvestuspunkti ning mis sisaldab võtmepädevuste õpet kutseharidusstandardis sätestatud mahus, omandab ta koos kutse- ja erialase pädevusega keskhariduse ehk kutsekeskhariduse.
 
 (6) Täiendusõppe suhtes kohaldatakse täiskasvanute koolituse seaduse tööalast koolitust reguleerivaid sätteid.
 
-(7) Täiendusõppe korraldamise tingimused ja korra
+(7) Täiendusõppe korraldamise tingimused ja korra kehtestab
 
 määrusega.

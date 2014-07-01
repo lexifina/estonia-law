@@ -4,7 +4,7 @@
 
 (2) Kutsekeskhariduse omandanud isikul on võimalus jätkata üldharidusõpinguid kuni ühe õppeaasta ulatuses kutseõppeasutuses või gümnaasiumis.
 
-(3) Käesoleva paragrahvi lõikes 2 nimetatud üldharidusõpingute tingimused ja korra
+(3) Käesoleva paragrahvi lõikes 2 nimetatud üldharidusõpingute tingimused ja korra kehtestab
 
 määrusega.
 

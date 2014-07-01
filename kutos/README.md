@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/122122013002> (version in force from 2014-01-01)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/114032014063> (version in force from 2014-07-01)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -67,11 +67,11 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/122122013002> (version in force 
 | [§ 49](para-049.md) | Kooli ümberkorraldamine ja tegevuse lõpetamine |
 | [§ 50](para-050.md) | Kooli pidamise üleandmine |
 | [§ 51](para-051.md) | Kutseõppeasutuse ja üldhariduskooli tegutsemine ühe asutusena |
-| **11. peatükk Riiklik järelevalve** | |
-| [§ 52](para-052.md) | Riikliku järelevalve teostamine |
-| [§ 53](para-053.md) | Riiklikku järelevalvet teostava ametiisiku ülesanded |
-| [§ 54](para-054.md) | Riiklikku järelevalvet teostava ametiisiku õigused |
-| [§ 55](para-055.md) | Riikliku järelevalve tulemused |
+| **11. peatükk Haldusjärelevalve** | |
+| [§ 52](para-052.md) | Haldusjärelevalve teostamine |
+| [§ 53](para-053.md) | Haldusjärelevalvet teostava ametiisiku ülesanded |
+| [§ 54](para-054.md) | Haldusjärelevalvet teostava ametiisiku õigused |
+| [§ 55](para-055.md) | Haldusjärelevalve tulemused |
 | **12. peatükk Rakendussätted** | |
 | [§ 56](para-056.md) | Kooli juhtimisega seotud üleminek |
 | [§ 57](para-057.md) | Eesti õppekeelele üleminek |

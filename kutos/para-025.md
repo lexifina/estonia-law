@@ -8,7 +8,7 @@
 
 (4) Õpingute alustamise nõuded, mis on seotud asjaomase kutse-, eri- või ametiala või kvalifikatsioonitasemega, kehtestatakse kutseharidusstandardis ja vastavas riiklikus õppekavas, selle puudumisel vastavas kooli õppekavas.
 
-(5) Õpilaste kooli vastuvõtu korra
+(5) Õpilaste kooli vastuvõtu korra kehtestab
 
 määrusega.
 
@@ -16,6 +16,6 @@ määrusega.
 
 (7) Kooli vastuvõetud õpilasele väljastatakse õpilaspilet.
 
-(8) Nõuded õpilaspiletile ja selle väljaandmise korra
+(8) Nõuded õpilaspiletile ja selle väljaandmise korra kehtestab
 
 määrusega.

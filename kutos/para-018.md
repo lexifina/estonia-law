@@ -20,6 +20,6 @@
 
 (4) Nõunike kogu esindajal on õigus osa võtta kooli nõukogu istungitest.
 
-(5) Nõunike kogu moodustamise ja tegutsemise korra
+(5) Nõunike kogu moodustamise ja tegutsemise korra kehtestab
 
 määrusega.

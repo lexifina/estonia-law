@@ -12,7 +12,7 @@
 
 4) kool eraldatakse teisest koolist, selle tulemusel asutatakse uus kool ja säilib esialgne kool.
 
-(3) Kooli ümberkorraldamise ja tegevuse lõpetamise otsusest tuleb teavitada asukohajärgset maavanemat, kooli ja õpilasi kirjalikku taasesitamist võimaldavas vormis hiljemalt kuus kuud enne uue õppeaasta algust. Kui kool ei kuulu Haridus- ja Teadusministeeriumi valitsemisalasse, teavitatakse selle ümberkorraldamisest või tegevuse lõpetamisest haridus- ja teadusministrit hiljemalt kuus kuud enne õppeaasta algust.
+(3) Kooli ümberkorraldamise ja tegevuse lõpetamise otsusest tuleb teavitada asukohajärgset maavanemat, kooli ja õpilasi kirjalikku taasesitamist võimaldavas vormis hiljemalt kuus kuud enne uue õppeaasta algust. Kui kool ei kuulu Haridus- ja Teadusministeeriumi valitsemisalasse, teavitatakse selle ümberkorraldamisest või tegevuse lõpetamisest valdkonna eest vastutavat ministrit hiljemalt kuus kuud enne õppeaasta algust.
 
 (4) Kool korraldatakse ümber või kooli tegevus lõpetatakse ajavahemikus 1. juulist sama aasta 31. augustini.
 

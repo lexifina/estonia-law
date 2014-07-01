@@ -4,7 +4,7 @@
 
 (2) Kooli pidamise üleandmisele kohaldatakse võlaõigusseaduses ettevõtte ülemineku kohta sätestatut käesolevast seadusest tulenevate erisustega.
 
-(3) Samal ajal kooli pidamise üleandmise taotlusega taotletakse üleantava kooli õppekavarühmade õppe läbiviimise õiguse üleandmist koos kooli muu mittemateriaalse varaga. Taotluse õppekavarühma õppe läbiviimise õiguse üleandmiseks esitab haridus- ja teadusministrile vald või linn, millele riigikool või munitsipaalkool üle antakse.
+(3) Samal ajal kooli pidamise üleandmise taotlusega taotletakse üleantava kooli õppekavarühmade õppe läbiviimise õiguse üleandmist koos kooli muu mittemateriaalse varaga. Taotluse õppekavarühma õppe läbiviimise õiguse üleandmiseks esitab valdkonna eest vastutavale ministrile vald või linn, millele riigikool või munitsipaalkool üle antakse.
 
 (4) Kooli pidamise üleandmine riigile või teisele vallale või linnale määratakse kindlaks kohaliku omavalitsuse üksuse ning Haridus- ja Teadusministeeriumi või kohaliku omavalitsuse üksuste vahel sõlmitava halduslepinguga. Halduslepingus lepitakse kokku:
 

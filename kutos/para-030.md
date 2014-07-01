@@ -6,7 +6,7 @@
 
 (3) Kooli, õpilase või tema seadusliku esindaja ja praktikat läbiviiva isiku või asutuse vahelised suhted praktika korraldamisel reguleeritakse enne praktika algust sõlmitava lepinguga, milles lepitakse kokku praktika toimumise täpsemas korralduses ning praktikalepingu poolte õigustes ja kohustustes.
 
-(4) Praktika korraldamise ning läbiviimise tingimused ja korra
+(4) Praktika korraldamise ning läbiviimise tingimused ja korra kehtestab
 
 määrusega.
 

@@ -1,8 +1,8 @@
 # § 12. Õppe läbiviimise õiguse andmine ja sellest keeldumine
 
-(1) Haridus- ja teadusminister otsustab õppe läbiviimise õiguse andmise käesoleva seaduse § 9 või 10 alusel esitatud dokumentide ja käesoleva seaduse §-s 11 sätestatud ekspertiisi ning vajaduse korral lisatõendite alusel.
+(1) Valdkonna eest vastutav minister otsustab õppe läbiviimise õiguse andmise käesoleva seaduse § 9 või 10 alusel esitatud dokumentide ja käesoleva seaduse §-s 11 sätestatud ekspertiisi ning vajaduse korral lisatõendite alusel.
 
-(2) Haridus- ja teadusminister ei anna õppe läbiviimise õigust, kui esineb vähemalt üks järgmistest asjaoludest:
+(2) Valdkonna eest vastutav minister ei anna õppe läbiviimise õigust, kui esineb vähemalt üks järgmistest asjaoludest:
 
 1) taotleja poolt käesoleva seaduse §-s 9 või 10 sätestatu alusel esitatud dokumendid ei vasta õigusaktidega kehtestatud nõuetele;
 

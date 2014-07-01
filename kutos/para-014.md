@@ -1,6 +1,6 @@
 # § 14. Õppe läbiviimise õiguse kehtetuks tunnistamine ning õppe läbiviimise õiguse kehtetuks tunnistamise ja pikendamisest keeldumise tagajärjed
 
-(1) Haridus- ja teadusministril on õigus tunnistada õppe läbiviimise õigus kehtetuks, kui esineb vähemalt üks järgmistest asjaoludest:
+(1) Valdkonna eest vastutaval ministril on õigus tunnistada õppe läbiviimise õigus kehtetuks, kui esineb vähemalt üks järgmistest asjaoludest:
 
 1) ilmneb, et kooli tegevus on vastuolus seaduse või selle alusel antud õigusaktiga;
 

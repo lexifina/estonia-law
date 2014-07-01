@@ -4,12 +4,12 @@
 
 (2) Koolilõuna toetuse eraldamisel lähtutakse käesoleva paragrahvi lõikes 1 nimetatud õpilaste arvust, arvestuslikust koolilõuna maksumusest ühe õpilase kohta ning õppepäevade arvust õppeaastas.
 
-(3) Koolilõuna arvestusliku maksumuse ühe õpilase kohta ning koolilõuna toetuse jaotamise korra
+(3) Koolilõuna arvestusliku maksumuse ühe õpilase kohta ning koolilõuna toetuse jaotamise korra kehtestab
 
 määrusega.
 
 (4) Koolilõuna toetuse kasutamise tingimused ja korra kehtestab kooli pidaja.
 
-(5) Riigikooli koolilõuna toetuse kasutamise tingimused ja korra
+(5) Riigikooli koolilõuna toetuse kasutamise tingimused ja korra kehtestab
 
 määrusega.

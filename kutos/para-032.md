@@ -12,7 +12,7 @@
 
 (6) Käesoleva paragrahvi lõikes 4 nimetatud kool väljastab õpilasele kooli lõpetamisel põhikooli või gümnaasiumi lõputunnistuse, milles on kutseõppe läbimist tõendav kanne, või kutseõppeasutuse lõputunnistuse või mõlemad.
 
-(7) Erivajadusega isikute koolis õppimise tingimused ja korra
+(7) Erivajadusega isikute koolis õppimise tingimused ja korra kehtestab
 
 määrusega.
 

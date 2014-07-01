@@ -1,5 +1,5 @@
-# § 52. Riikliku järelevalve teostamine
+# § 52. Haldusjärelevalve teostamine
 
-(1) Riiklikku järelevalvet õppekasvatusala üle teostab Haridus- ja Teadusministeerium või haridus- ja teadusministri ülesandel kooli asukohajärgne maavanem (edaspidi *järelevalveasutus*).
+(1) Haldusjärelevalvet õppekasvatusala üle teostab Haridus- ja Teadusministeerium või valdkonna eest vastutava ministri ülesandel kooli asukohajärgne maavanem (edaspidi *järelevalveasutus*).
 
-(2) Järelevalveasutus määrab riiklikku järelevalvet teostavad ametiisikud, kaasates vajaduse korral eksperte.
+(2) Järelevalveasutus määrab haldusjärelevalvet teostavad ametiisikud, kaasates vajaduse korral eksperte.

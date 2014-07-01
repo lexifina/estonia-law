@@ -1,6 +1,6 @@
 # § 8. Õppe läbiviimise õigus
 
-(1) Õppe läbiviimise õigus on haridus- ja teadusministri käskkirjaga koolile antud tähtajaline õigus viia läbi tasemeõpet asjaomases õppekavarühmas.
+(1) Õppe läbiviimise õigus on valdkonna eest vastutava ministri käskkirjaga koolile antud tähtajaline õigus viia läbi tasemeõpet asjaomases õppekavarühmas.
 
 (2) Õppe läbiviimise õigus antakse uue kooli asutamisel või õppe läbiviimise õigust omavas koolis tasemeõppe avamisel uues õppekavarühmas.
 

@@ -6,7 +6,7 @@
 
 1) on omandanud kõrghariduse või lõpetanud kõrghariduse tasemel toimunud õpetajakoolituse ning asub 18 kuu jooksul pärast selle lõpetamist esimest korda tööle õpetajana, välja arvatud Tallinnas või Tartus asuvas koolis. Õpetaja lähtetoetust võib nelja kuu jooksul pärast kõrghariduse tasemel toimunud õpetajakoolituse lõpetamist taotleda ka isik, kes asus esimest korda õpetajana tööle õpetajakoolituse või sellele vahetult eelnenud kõrghariduse esimese astme õppe käigus tingimusel, et kõrghariduse esimese astme õppe lõpetamise ja õpetajakoolituse alustamise vahele ei jää rohkem kui üks aasta. Õpetaja lähtetoetust võib nelja kuu jooksul pärast kõrghariduse tasemel toimunud õpetajakoolituse lõpetamist taotleda ka isik, kes enne nimetatud õpetajakoolituse alustamist töötas koolis õpetajana. Kõrghariduse tasemel toimuva õpetajakoolituse lõpetamise aastal rasedus- ja sünnituspuhkusel viibiva isiku, ajateenistusse kutsutud kaitseväekohustuslase või välisriigis pedagoogilisel praktikal oleva isiku õigus taotleda lähtetoetust pikeneb vastavalt rasedus- ja sünnituspuhkuse ning lapsehoolduspuhkuse aja, aja- või asendusteenistuses viibimise aja või pedagoogilise praktika kestuse võrra;
 
-2) töötab vähemalt 0,5 ametikohaga õpetajana, kusjuures 0,5 ametikoha arvestamisel loetakse selle alla ka samaaegne töötamine üldhariduskooli I–III kooliastme või gümnaasiumiastme õpetajana, välja arvatud Tallinnas või Tartus asuvas üldhariduskoolis;
+2) töötab vähemalt 0,5 ametikohaga õpetajana, kusjuures 0,5 ametikoha arvestamisel loetakse selle alla ka samaaegne töötamine üldhariduskooli I–III kooliastme või gümnaasiumiastme õpetajana, välja arvatud Tallinnas või Tartus asuvas üldhariduskoolis;
 
 3) vastab ametikohale esitatavatele kvalifikatsiooninõuetele;
 

@@ -1,6 +1,6 @@
-# § 53. Riiklikku järelevalvet teostava ametiisiku ülesanded
+# § 53. Haldusjärelevalvet teostava ametiisiku ülesanded
 
-Riiklikku järelevalvet teostav ametiisik:
+Haldusjärelevalvet teostav ametiisik:
 
 1) kontrollib õppekasvatusala reguleerivatest õigusaktidest tulenevate nõuete täitmist;
 

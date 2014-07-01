@@ -20,6 +20,6 @@
 
 10. peatükk Kooli ümberkorraldamine, pidamise erisused ja üleandmine ning tegevuse lõpetamine
 
-11. peatükk Riiklik järelevalve
+11. peatükk Haldusjärelevalve
 
 12. peatükk Rakendussätted

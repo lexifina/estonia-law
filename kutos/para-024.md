@@ -4,11 +4,11 @@
 
 (2) Tasemeõppe õppekavad jagunevad riiklikeks õppekavadeks ja kooli õppekavadeks.
 
-(3) Riiklikud õppekavad
+(3) Riiklikud õppekavad kehtestab
 
-määrusega, kusjuures haridus- ja teadusminister võib eraldi määrusega kehtestada kõikide riiklike õppekavade ühise osa.
+määrusega, kusjuures valdkonna eest vastutav minister võib eraldi määrusega kehtestada kõikide riiklike õppekavade ühise osa.
 
-(4) Tasemeõppe läbiviimise aluseks on kooli õppekavad, mis registreeritakse hariduse infosüsteemis. Registreerimise käigus kontrollitakse õppekavade vastavust õigusaktides asjaomasele õppekavale kehtestatud nõuetele. Õppekava, mis ei vasta nõuetele, jäetakse haridus- ja teadusministri või tema volitatud isiku otsusega registreerimata. Otsus toimetatakse õppekava registreerimiseks esitanud koolile või kooli pidajale kätte tema soovi kohaselt kas posti teel või elektrooniliselt.
+(4) Tasemeõppe läbiviimise aluseks on kooli õppekavad, mis registreeritakse hariduse infosüsteemis. Registreerimise käigus kontrollitakse õppekavade vastavust õigusaktides asjaomasele õppekavale kehtestatud nõuetele. Õppekava, mis ei vasta nõuetele, jäetakse valdkonna eest vastutava ministri või tema volitatud isiku otsusega registreerimata. Otsus toimetatakse õppekava registreerimiseks esitanud koolile või kooli pidajale kätte tema soovi kohaselt kas posti teel või elektrooniliselt.
 
 (5) Kooli õppekavad jagunevad esmaõppe ja jätkuõppe õppekavadeks:
 
@@ -16,7 +16,7 @@ määrusega, kusjuures haridus- ja teadusminister võib eraldi määrusega kehte
 
 2) jätkuõppe õppekava alusel toimub kutseõpe, mille puhul õppima asumise eeldus on eelnevale või samale kvalifikatsioonitasemele vastava kutse või vastavate kompetentside ja haridustaseme olemasolu.
 
-(6) Kutsekeskhariduse õppekava koostatakse kutseharidusstandardi ja vastava riikliku õppekava alusel. Kui vastav riiklik õppekava puudub, taotleb kool enne õppekava avamist haridus- ja teadusministrilt või tema volitatud isikult selleks loa. Loa andmisel hinnatakse käesoleva paragrahvi lõikes 7 nimetatud nõuete täitmist.
+(6) Kutsekeskhariduse õppekava koostatakse kutseharidusstandardi ja vastava riikliku õppekava alusel. Kui vastav riiklik õppekava puudub, taotleb kool enne õppekava avamist valdkonna eest vastutavalt ministrilt või tema volitatud isikult selleks loa. Loa andmisel hinnatakse käesoleva paragrahvi lõikes 7 nimetatud nõuete täitmist.
 
 (7) Jätkuõppe õppekava ja esmaõppe õppekava, millel puudub asjaomane riiklik õppekava, koostatakse kutseharidusstandardi ja asjaomase kutsestandardi alusel. Kui asjaomane kutsestandard puudub, peab kool taotlema õppekavale heakskiidu sotsiaalpartneritelt.
 
