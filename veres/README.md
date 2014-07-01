@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/13319847> (version in force from 2011-01-01)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/115032014088> (version in force from 2014-07-01)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -29,9 +29,10 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/13319847> (version in force from
 | [§ 18](para-018.md) | Referentteenuse osutamise korraldamine |
 | **4. peatükk VERE KÄITLEMISE RAHASTAMINE** | |
 | [§ 19](para-019.md) | Vere käitlemise rahastamine |
-| **5. peatükk RIIKLIK JÄRELEVALVE** | |
-| [§ 20](para-020.md) | Vere käitlemise üle riikliku järelevalve teostajad |
-| [§ 21](para-021.md) | Riiklikku järelevalvet teostava ametiisiku õigused ja kohustused |
+| **5. peatükk RIIKLIK JA HALDUSJÄRELEVALVE** | |
+| [§ 20](para-020.md) | Vere käitlemise üle riikliku ja haldusjärelevalve teostajad |
+| [§ 20¹](para-020b1.md) | Riikliku järelevalve erimeetmed |
+| [§ 21](para-021.md) | Haldusjärelevalvet teostava ametiisiku õigused ja kohustused |
 | [§ 22](para-022.md) | Ettekirjutus |
 | [§ 23](para-023.md) | Ettekirjutuse vaidlustamine |
 | **6. peatükk VASTUTUS** | |

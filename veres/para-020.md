@@ -1,4 +1,4 @@
-# § 20. Vere käitlemise üle riikliku järelevalve teostajad
+# § 20. Vere käitlemise üle riikliku ja haldusjärelevalve teostajad
 
 (1) Järelevalvet vere käitlemise üle teostavad Ravimiamet ja Terviseamet.
 

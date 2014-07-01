@@ -1,6 +1,6 @@
-# § 21. Riiklikku järelevalvet teostava ametiisiku õigused ja kohustused
+# § 21. Haldusjärelevalvet teostava ametiisiku õigused ja kohustused
 
-(1) Järelevalvet teostaval ametiisikul on oma ülesannete täitmiseks õigus:
+(1) Haldusjärelevalvet teostaval ametiisikul on oma ülesannete täitmiseks õigus:
 
 1) siseneda kontrollitava isiku juuresolekul tema tegevuskohta, seejuures vajadusel ka ette teatamata;
 
@@ -16,6 +16,6 @@
 
 7) teha oma pädevuse piires ettekirjutusi käesolevas seaduses ja selle alusel kehtestatud õigusaktides sätestatud nõuete rikkumise lõpetamiseks ja rikkumisega tekitatud tagajärgede kõrvaldamiseks või muude toimingute tegemiseks.
 
-(2) Riiklikku järelevalvet käesolevas seaduses ja selle alusel kehtestatud õigusaktides sätestatud nõuete täitmise üle teostatakse vähemalt kord kahe aasta jooksul.
+(2) Haldusjärelevalvet käesolevas seaduses ja selle alusel kehtestatud õigusaktides sätestatud nõuete täitmise üle teostatakse vähemalt kord kahe aasta jooksul.
 
-(3) Järelevalvet teostav ametiisik esitab enne tööülesande täitmisele asumist ametitõendi.
+(3) Haldusjärelevalvet teostav ametiisik esitab enne tööülesande täitmisele asumist ametitõendi.
