@@ -16,7 +16,7 @@
 
 (5) Lepingu sõlminud tegevliiget võib kohustada Kaitseliidu tegevliikmeks olema kuni viis aastat. Lepingus võib ette näha täiendavaid tingimusi Kaitseliidu tegevuses osalemiseks.
 
-(6) Sõjaväeliseks väljaõppeks vajaliku ressursimahuka koolituse kulu arvestamise, kandmise ja hüvitamise ning Kaitseliidu liikmeks olemise kohustuse määramise korra
+(6) Sõjaväeliseks väljaõppeks vajaliku ressursimahuka koolituse kulu arvestamise, kandmise ja hüvitamise ning Kaitseliidu liikmeks olemise kohustuse määramise korra kehtestab
 
 määrusega.
 

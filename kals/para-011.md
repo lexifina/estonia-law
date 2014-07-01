@@ -2,7 +2,7 @@
 
 (1) Kaitseliitu juhib Kaitseliidu ülem, kes allub vahetult Kaitseväe juhatajale.
 
-(2) Kaitseliidu ülema nimetab ametikohale ja vabastab ametikohalt Vabariigi Valitsus kaitseministri ja Kaitseväe juhataja ühisel ettepanekul, kuulates ära vanematekogu arvamuse.
+(2) Kaitseliidu ülema nimetab ametikohale ja vabastab ametikohalt Vabariigi Valitsus valdkonna eest vastutava ministri ja Kaitseväe juhataja ühisel ettepanekul, kuulates ära vanematekogu arvamuse.
 
 (3) Kaitseliidu ülema ametikohale nimetamisel on nõutav tegevväelase eelnev kirjalik nõusolek.
 

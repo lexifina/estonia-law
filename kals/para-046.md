@@ -14,6 +14,6 @@
 
 (4) Tegevliikme relv kantakse Kaitseväe ja Kaitseliidu relvaregistrisse viie päeva jooksul soetamisest arvates. Tegevliikme relv ei ole sõjaväerelv relvaseaduse tähenduses.
 
-(5) Tegevliikme relva soetamiseks loa andmise tingimused ja vormi
+(5) Tegevliikme relva soetamiseks loa andmise tingimused ja vormi kehtestab
 
 määrusega.

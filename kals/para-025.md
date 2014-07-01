@@ -14,7 +14,7 @@
 
 4) kes liikmeks astumisel teadvalt esitas valeandmeid.
 
-(4) Noorliikme tervisenõuded
+(4) Noorliikme tervisenõuded kehtestab
 
 määrusega.
 

@@ -8,6 +8,6 @@
 
 (4) Kaitseliidu toetajaliikme terviseseisund peab vastama toetajaliikme tervisenõuetele.
 
-(5) Toetajaliikme tervisenõuded
+(5) Toetajaliikme tervisenõuded kehtestab
 
 määrusega.

@@ -2,30 +2,32 @@
 
 (1) Riigikontroll teostab Kaitseliidule eraldatud avaliku sektori vahendite kasutamise seaduslikkuse ja tulemuslikkuse üle majanduskontrolli Riigikontrolli seaduses sätestatud korras.
 
-(2) Käesolevas seaduses ja selle alusel antud õigusaktides sätestatud nõuete täitmise õiguspärasuse üle teostab riiklikku järelevalvet Kaitseministeerium.
+(2) Käesolevas seaduses ja selle alusel antud õigusaktides sätestatud nõuete täitmise õiguspärasuse üle teostab haldusjärelevalvet Kaitseministeerium.
 
-(3) Käesoleva seaduse alusel Kaitseväe juhataja kehtestatud nõuete täitmise üle teostab riiklikku järelevalvet Kaitsevägi.
+(3) Käesoleva seaduse alusel Kaitseväe juhataja kehtestatud nõuete täitmise üle teostab haldusjärelevalvet Kaitsevägi.
 
-(4) Riikliku järelevalve teostajal on õigus:
+(4) Haldusjärelevalve teostajal on õigus:
 
-1) nõuda Kaitseliidult selgitust ja dokumentide esitamist;
+1) nõuda järelevalvatavalt seletusi ja dokumentide esitamist;
 
-2) teha ettekirjutus akti ja toimingu puuduste kõrvaldamiseks;
+2) kontrollida meeleliselt või tehnilise vahendi abil Kaitseliidu esindaja juuresolekul järelevalvatava valduses olevat vallasasja, sealhulgas avada uksi ja kõrvaldada muid takistusi;
 
-3) peatada toimingu sooritamine ja akti kehtivus;
+3) võtta järelevalvatava valduses olev vallasasi hoiule ning vajaduse korral hoiule võetud vallasasi müüa või hävitada;
 
-4) tunnistada akt kehtetuks.
+4) siseneda Kaitseliidu esindaja juuresolekul järelevalvatava territooriumile, piiratud või tähistatud kinnisasjale, ehitisse või ruumi, sealhulgas avada uksi, väravaid ja kõrvaldada muid takistusi;
 
-(5) Riikliku järelevalve käigus tehtud ettekirjutuses peavad sisalduma:
+5) jäädvustada olukord, võtta proove ja näidiseid, samuti teostada mõõtmisi või ekspertiisi;
 
-1) rikkumise kirjeldus;
+6) peatada toimingu sooritamine või akti kehtivus;
 
-2) ettekirjutuse tegemise alused koos viitega vastavale õigusakti sättele;
+7) tunnistada akt kehtetuks.
 
-3) ettekirjutuse tegemise kuupäev;
+(7) Haldusjärelevalve teostaja teavitab järelevalvatavat võimaluse korral eelnevalt järelevalve läbiviimise ajast ja viisist.
 
-4) ettekirjutuse täitmise tähtaeg;
+(8) Kaitseliidul on õigus kontrollida haldusjärelevalvet teostava isiku isikusamasust ja haldusjärelevalve teostamise õiguse olemasolu. Riigisaladusega kaitstud teabe või salastatud välisteabe korral on Kaitseliidul õigus lisaks eespool toodule nõuda vastava taseme riigisaladuse loa või salastatud välisteabele juurdepääsusertifikaadi esitamist.
 
-5) riiklikku järelevalvet teostanud ametiisikute nimed, ametikohad ja allkirjad.
+(9) Kaitseliidu liikme valduses oleva Kaitseliidu relva, Kaitseliidu vara ja Kaitseliidu kasutada antud riigivara üle järelevalve teostamisel Kaitseliidu liikme elu- või asukohas kohaldatakse korrakaitseseaduse 3. peatükis sätestatud riikliku järelevalve meetmeid.
 
-(6) Riikliku järelevalve käigus tehtud ettekirjutuse täitmata jätmise korral on kaitseministril ja Kaitseväe juhatajal õigus kohustada Kaitseliidu ülemat määratud tähtaja jooksul viima Kaitseliidu tegevus õigusaktidega kooskõlla või teeb seda kaitseminister või Kaitseväe juhataja oma käskkirjaga. Riikliku järelevalve käigus antud kaitseministri või Kaitseväe juhataja käskkiri on Kaitseliidule ja Kaitseliidu liikmele täitmiseks kohustuslik.
+(10) Haldusjärelevalve tulemus esitatakse enne lõpliku otsuse tegemist arvamuse andmiseks Kaitseliidu ülemale.
+
+(11) Haldusjärelevalve käigus rikkumise tuvastamisel on valdkonna eest vastutaval ministril või Kaitseväe juhatajal õigus kohustada Kaitseliidu ülemat viima määratud tähtaja jooksul Kaitseliidu tegevus õigusaktidega kooskõlla. Haldusjärelevalve käigus Kaitseliidu ülemale pandud kohustus on Kaitseliidule ja Kaitseliidu liikmele täitmiseks kohustuslik.

@@ -10,6 +10,6 @@
 
 4) liikmemaksu tasumise ja revisjoni määramise kord.
 
-(2) Kaitseliidu kodukorra
+(2) Kaitseliidu kodukorra kehtestab
 
 määrusega.

@@ -4,7 +4,7 @@
 
 (2) Kaitseliit võib anda teise isiku kasutusse ainult sellist vara, mida ta peab oma ülesannete täitmiseks vajalikuks, kuid mida parajasti ei ole võimalik või otstarbekohane sellel eesmärgil kasutada. Kaitseliidu vara teise isiku kasutusse andmise korra kehtestab keskjuhatus.
 
-(3) Kaitseliit omandab kinnisvara ning pandib ja võõrandab temale kuuluvat kinnisvara Kaitseliidu keskkogu otsusel ja kaitseministri loal.
+(3) Kaitseliit omandab kinnisvara ning pandib ja võõrandab temale kuuluvat kinnisvara Kaitseliidu keskkogu otsusel ja valdkonna eest vastutava ministri loal.
 
 (4) Oma vara kasutada andmisel ja võõrandamisel järgib Kaitseliit riigivara seaduse 3. ja 4. peatükis sätestatut.
 

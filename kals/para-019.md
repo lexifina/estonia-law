@@ -12,7 +12,7 @@
 
 4) korraldab keskkogu tööd;
 
-5) esitab Kaitseliidu arengukava kaitseministrile arvamuse andmiseks enne selle keskkogule kinnitamiseks esitamist;
+5) esitab Kaitseliidu arengukava valdkonna eest vastutavale ministrile arvamuse andmiseks enne selle keskkogule kinnitamiseks esitamist;
 
 6) annab arvamuse käesoleva seaduse ja kodukorra muutmise ettepanekute kohta, mille on koostanud teised isikud;
 
@@ -52,7 +52,7 @@
 
 (11) Keskkogu volitatud isik sõlmib valitud keskjuhatuse liikmega käsunduslepingu, kus määratakse poolte õigused, kohustused ja kulude hüvitamine.
 
-(12) Keskjuhatuse valitud liikmega sõlmitava käsunduslepinguga ettenähtud poolte õiguste ja kohustuste ulatuse ning hüvitatavate kulude loetelu ja piirmäära
+(12) Keskjuhatuse valitud liikmega sõlmitava käsunduslepinguga ettenähtud poolte õiguste ja kohustuste ulatuse ning hüvitatavate kulude loetelu ja piirmäära kehtestab
 
 määrusega.
 

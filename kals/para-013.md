@@ -20,7 +20,7 @@
 
 9) vastutab Kaitseliidu tegevust korraldavate õigusaktide täitmise eest;
 
-10) vastutab eelarvevahendite sihipärase kasutamise eest ja annab sellest aru kaitseministrile;
+10) vastutab eelarvevahendite sihipärase kasutamise eest ja annab sellest aru valdkonna eest vastutavale ministrile;
 
 11) kehtestab maleva, peastaabi, küberkaitseüksuse ja kooli põhimäärused;
 
@@ -28,7 +28,7 @@
 
 13) vastutab tegevväelaste kaitseväelise distsipliini eest Kaitseliidus;
 
-14) esitab Kaitseliidu palgalise koosseisu kaitseministrile kinnitamiseks;
+14) esitab Kaitseliidu palgalise koosseisu valdkonna eest vastutavale ministrile kinnitamiseks;
 
 15) kehtestab struktuuriüksuste töökohtade ja rahuaja ametikohtade loetelu;
 
@@ -46,4 +46,4 @@
 
 (5) Kaitseliidu ülem annab Kaitseliidu töö korraldamiseks käskkirju.
 
-(6) Kaitseliidu ülema palga määrab kaitseminister, lähtudes kaitseväeteenistuse seadusest.
+(6) Kaitseliidu ülema palga määrab valdkonna eest vastutav minister, lähtudes kaitseväeteenistuse seadusest.

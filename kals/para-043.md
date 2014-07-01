@@ -14,7 +14,7 @@
 
 (3) Kaitseliidu relvaluba ei või väljastada tegevliikmele, kellele ei anta relvaseaduse kohaselt tsiviilkäibes oleva relva soetamisluba ja relvaluba.
 
-(4) Kaitseliidu relvaloa andmise ja väljastamise korra ning relvaloa vormi
+(4) Kaitseliidu relvaloa andmise ja väljastamise korra ning relvaloa vormi kehtestab
 
 määrusega.
 
@@ -24,7 +24,7 @@ määrusega.
 
 (7) Tegevliikmele, kellel on Kaitseliidu relvaluba, võib Kaitseliidu ülem või malevapealik anda õiguse hoida oma elukohas Kaitseliidu relva ja laskemoona.
 
-(8) Tegevliikme elukohas Kaitseliidu relva ja laskemoona hoidmise tingimused ning hoiule andmise korra
+(8) Tegevliikme elukohas Kaitseliidu relva ja laskemoona hoidmise tingimused ning hoiule andmise korra kehtestab
 
 määrusega.
 

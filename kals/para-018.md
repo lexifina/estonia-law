@@ -12,9 +12,9 @@
 
 4) kinnitab Kaitseliidu majandusaasta aruande;
 
-5) kinnitab arengukava ja esitab selle kaitseministrile teadmiseks;
+5) kinnitab arengukava ja esitab selle valdkonna eest vastutavale ministrile teadmiseks;
 
-6) otsustab kinnisvara omandamise, võõrandamise ja pantimise ning kaitseministrile selle kohta ettepaneku tegemise;
+6) otsustab kinnisvara omandamise, võõrandamise ja pantimise ning valdkonna eest vastutavale ministrile selle kohta ettepaneku tegemise;
 
 7) teeb ettepaneku käesoleva seaduse ja kodukorra muutmise algatamiseks;
 

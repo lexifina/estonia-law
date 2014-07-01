@@ -22,8 +22,8 @@
 
 (6) 18-aastasel ja vanemal Kaitseliidu liikmel on õigus nimetada käesoleva paragrahvi lõikes 5 sätestatud hüvitisest kuni 50 protsenti saav füüsiline isik või isikud.
 
-(7) Kaitseliidu liikme poolt hüvitise saamiseks õigustatud isikute nimetamise korra
+(7) Kaitseliidu liikme poolt hüvitise saamiseks õigustatud isikute nimetamise korra kehtestab
 
 määrusega.
 
-(8) Pärast käesoleva paragrahvi alusel hüvitise maksmist tekib riigil süüdioleva isiku suhtes nõudeõigus hüvitisena makstud summa ulatuses. Nõudeasjas esindab riiki kaitseminister või tema volitatud isik.
+(8) Pärast käesoleva paragrahvi alusel hüvitise maksmist tekib riigil süüdioleva isiku suhtes nõudeõigus hüvitisena makstud summa ulatuses. Nõudeasjas esindab riiki valdkonna eest vastutav minister või tema volitatud isik.

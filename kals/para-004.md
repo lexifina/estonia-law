@@ -30,9 +30,9 @@
 
 5) Kaitseväe korraldatavale õppekogunemisele;
 
-6) politseitegevusele politsei ja piirivalve seaduses sätestatud korras.
+6) politseitegevusele korrakaitseseaduses sätestatud korras.
 
-(3) Kaitseliidu kaasamise tingimused ja korra küberturvalisuse tagamisel
+(3) Kaitseliidu kaasamise tingimused ja korra küberturvalisuse tagamisel kehtestab
 
 määrusega.
 

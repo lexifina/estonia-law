@@ -6,7 +6,7 @@
 
 (3) Naiskodukaitse vormiriietuse kirjelduse ja kandmise korra kehtestab kodukorras määratud Naiskodukaitse juhtorgan.
 
-(4) Kaitseminister võib Kaitseliidu tegevliikmele kaitseväeteenistuse seaduse § 13 lõike 5 alusel kehtestatava määrusega anda õiguse kanda teenistuskohustuse täitmisel kaitseväelase vormiriietust, kui sellele on kantud Kaitseliidu sümbolid ja eraldusmärgid.
+(4) Valdkonna eest vastutav minister võib Kaitseliidu tegevliikmele kaitseväeteenistuse seaduse § 13 lõike 5 alusel kehtestatava määrusega anda õiguse kanda teenistuskohustuse täitmisel kaitseväelase vormiriietust, kui sellele on kantud Kaitseliidu sümbolid ja eraldusmärgid.
 
 (5) Kaitseliidu tegevliige peab kandma kaitseväelase vormiriietuse juures talle antud sõjaväelise auastme eraldusmärke.
 

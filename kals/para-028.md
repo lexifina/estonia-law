@@ -10,6 +10,6 @@
 
 (5) Tervisekontrolli korraldab ja tervisetõendi väljastab perearst, kaasates vajaduse korral eriarste.
 
-(6) Tervisetõendil esitatavate andmete loetelu
+(6) Tervisetõendil esitatavate andmete loetelu kehtestab
 
 määrusega.

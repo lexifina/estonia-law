@@ -14,13 +14,13 @@
 
 5) teleskoopnui.
 
-(3) Kaitseliidu enesekaitsevahendite loetelu ja nõuded nendele
+(3) Kaitseliidu enesekaitsevahendite loetelu ja nõuded nendele kehtestab
 
 määrusega.
 
 (4) Kaitseliidu erivahendit ja enesekaitsevahendit võib tegevliige hoida oma elukohas, kui see on vajalik teenistuskohustuse täitmiseks.
 
-(5) Kaitseliidu erivahendi ja enesekaitsevahendi hoiule andmise tingimused ning korra
+(5) Kaitseliidu erivahendi ja enesekaitsevahendi hoiule andmise tingimused ning korra kehtestab
 
 määrusega.
 

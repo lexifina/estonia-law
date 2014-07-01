@@ -4,7 +4,7 @@
 
 (2) Teenistus- ja tsiviilrelvade riiklikusse registrisse kantud tulirelva käitlemisele ja kandmisele teenistuskohustuse täitmisel kohaldatakse käesoleva seaduse § 42 lõikes 1, lõike 3 punktis 1 ja lõikes 8 sätestatud Kaitseliidu relva kasutamise nõudeid.
 
-(3) Teenistuskohustuse täitmisel teenistus- ja tsiviilrelvade riiklikusse registrisse kantud tulirelva kasutamise tingimused ja korra
+(3) Teenistuskohustuse täitmisel teenistus- ja tsiviilrelvade riiklikusse registrisse kantud tulirelva kasutamise tingimused ja korra kehtestab
 
 määrusega.
 

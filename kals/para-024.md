@@ -12,7 +12,7 @@
 
 4) kellelt on jõustunud kohtuotsusega ära võetud õigus töötada avalikus teenistuses;
 
-5) kellel on piirang noortega töötamiseks noorsootöö seaduse tähenduses;
+5) kellel on lastega töötamise piirang Eesti Vabariigi lastekaitse seaduse tähenduses;
 
 6) kes on osalenud Eesti kodanike jälitamises või represseerimises nende poliitiliste veendumuste, Eestile lojaalsuse, klassikuuluvuse või Eesti riigi- või kaitseteenistuses olemise tõttu;
 
@@ -30,6 +30,6 @@
 
 4) on põhjendatud alus arvata, et isiku käitumine või eluviis võib ohustada tema enda ja teiste isikute turvalisust.
 
-(4) Tegevliikme tervisenõuded
+(4) Tegevliikme tervisenõuded kehtestab
 
 määrusega.

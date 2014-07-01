@@ -2,7 +2,7 @@
 
 (1) Valvur kannab töökohustusi täites Kaitseliidult saadud vormiriietust, käesidet ja embleemi.
 
-(2) Kaitseliidu valvuri käesideme ja embleemi kirjelduse ning kandmise korra
+(2) Kaitseliidu valvuri käesideme ja embleemi kirjelduse ning kandmise korra kehtestab
 
 määrusega.
 

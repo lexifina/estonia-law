@@ -20,7 +20,7 @@
 
 (8) Tegevliikmele, kes ei ole läbi teinud Kaitseliidu relva käitlemise ja kasutamise koolitust, võib Kaitseliidu relva anda kasutada vaid lasketiirus kasutamiseks pärast relva kasutamise nõuetega tutvumist.
 
-(9) Kaitseliidu relva, mida ei loeta sõjaväerelvaks relvaseaduse tähenduses, käitlemise ja kasutamise nõuded
+(9) Kaitseliidu relva, mida ei loeta sõjaväerelvaks relvaseaduse tähenduses, käitlemise ja kasutamise nõuded kehtestab
 
 määrusega.
 

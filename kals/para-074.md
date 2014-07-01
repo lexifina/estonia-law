@@ -18,4 +18,4 @@
 
 (7) Hüvitise maksmine ei vabasta Kaitseliitu muudest seadusega sätestatud kohustustest valvuri püsiva töövõimetuse hüvitamisel.
 
-(8) Pärast käesoleva paragrahvi alusel hüvitise maksmist Kaitseliidule riigieelarvest eraldatud rahaliste vahendite arvelt tekib riigil süüdioleva isiku suhtes nõudeõigus hüvitisena makstud summa ulatuses. Nõudeasjas esindab riiki kaitseminister või tema volitatud isik.
+(8) Pärast käesoleva paragrahvi alusel hüvitise maksmist Kaitseliidule riigieelarvest eraldatud rahaliste vahendite arvelt tekib riigil süüdioleva isiku suhtes nõudeõigus hüvitisena makstud summa ulatuses. Nõudeasjas esindab riiki valdkonna eest vastutav minister või tema volitatud isik.

@@ -8,6 +8,6 @@
 
 (4) Kaitseliidu tegevliikmele koostatud raviplaanis määratud ravikulu hüvitab piirmäära ulatuses Kaitseliit riigieelarvest eraldatud rahaliste vahendite arvelt.
 
-(5) Kaitseliidu tegevliikmele ravikulu hüvitamise tingimused, ulatuse, piirmäära ja korra
+(5) Kaitseliidu tegevliikmele ravikulu hüvitamise tingimused, ulatuse, piirmäära ja korra kehtestab
 
 määrusega.

@@ -2,7 +2,7 @@
 
 (1) Kaitseliidu liikmele võib piirmäära ulatuses maksta hüvitist teenistuskohustuse täitmisel tehtud kulu eest.
 
-(2) Kaitseliidu liikmele käesoleva paragrahvi lõikes 1 sätestatud hüvitise maksmise tingimused, ulatuse, piirmäära ja korra
+(2) Kaitseliidu liikmele käesoleva paragrahvi lõikes 1 sätestatud hüvitise maksmise tingimused, ulatuse, piirmäära ja korra kehtestab
 
 määrusega.
 
