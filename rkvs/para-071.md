@@ -6,7 +6,7 @@
 
 (3) Kaebus elektroonilise hääletamise komisjoni toimingu peale esitatakse Vabariigi Valimiskomisjonile käesoleva paragrahvi lõikes 1 ettenähtud toimingu tegemisest alates kolme päeva jooksul.
 
-(4) Vabariigi Valimiskomisjon peab kaebuse läbi vaatama ja selle suhtes otsuse tegema kolme tööpäeva jooksul kaebuse laekumisest arvates. Vabariigi Valimiskomisjon edastab otsuse kaebuse esitajale viivitamata.
+(4) Vabariigi Valimiskomisjon peab kaebuse läbi vaatama ja selle suhtes otsuse tegema viie tööpäeva jooksul kaebuse laekumisest arvates. Vabariigi Valimiskomisjon edastab otsuse kaebuse esitajale viivitamata.
 
 (5) Kaebus vaadatakse läbi avalikult. Vabariigi Valimiskomisjon teatab kaebuse esitajale kaebuse läbivaatamise aja ja koha.
 

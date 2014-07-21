@@ -2,7 +2,7 @@
 
 (1) Valimiskomisjoni töövorm on koosolek, mille kutsub kokku komisjoni esimees või tema äraolekul aseesimees, nende mõlema äraolekul valimiskomisjoni noorim liige.
 
-(2) Valimiskomisjon on otsustusvõimeline, kui selle koosolekust võtab osa vähemalt pool komisjoni koosseisust, sealhulgas esimees või aseesimees.
+(2) Valimiskomisjon on otsustusvõimeline, kui selle koosolekust võtab osa vähemalt pool komisjoni koosseisust. Valimiskomisjoni koosolekut juhatab komisjoni esimees või tema äraolekul aseesimees. Nende mõlema äraolekul juhatab komisjoni koosolekut kuni uue aseesimehe valimiseni komisjoni noorim liige.
 
 (3) Valimiskomisjoni koosolek protokollitakse.
 

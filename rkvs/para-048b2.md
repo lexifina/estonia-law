@@ -6,4 +6,4 @@
 
 (3) Valija hääletab ise. Käesolevas seaduses ettenähtud tingimustel on valijal võimalik elektrooniliselt antud häält muuta.
 
-(4) Elektroonilise hääletamise komisjon korraldab elektroonilise hääletamise süsteemi testimise ja süsteemi ning elektroonilise hääletamise komisjoni toimingute auditeerimise. Testimise ja auditeerimise ning elektroonilise hääletamise komisjoni toimingute vaatlemise korra kehtestab Vabariigi Valimiskomisjon käesoleva seaduse § 15 lõike 4 punktis 2 sätestatud määruses.
+(4) Elektroonilise hääletamise komisjon korraldab elektroonilise hääletamise süsteemi testimise. Vabariigi Valimiskomisjon korraldab elektroonilise hääletamise süsteemi ning elektroonilise hääletamise komisjoni toimingute auditeerimise. Testimise ja auditeerimise ning elektroonilise hääletamise komisjoni toimingute vaatlemise korra kehtestab Vabariigi Valimiskomisjon käesoleva seaduse § 15 lõike 4 punktis 2 sätestatud määruses.

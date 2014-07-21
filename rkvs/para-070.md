@@ -4,7 +4,7 @@
 
 (2) Kaebus tuleb esitada maakonna valimiskomisjonile kolme päeva jooksul, arvates käesoleva paragrahvi lõikes 1 ettenähtud toimingu tegemisest.
 
-(3) Maakonna valimiskomisjon peab kaebuse läbi vaatama ja selle kohta otsuse tegema kolme tööpäeva jooksul, arvates kaebuse laekumisest. Maakonna valimiskomisjon edastab otsuse kaebuse esitajale viivitamata.
+(3) Maakonna valimiskomisjon peab kaebuse läbi vaatama ja selle kohta otsuse tegema viie tööpäeva jooksul, arvates kaebuse laekumisest. Maakonna valimiskomisjon edastab otsuse kaebuse esitajale viivitamata.
 
 (4) Kaebus vaadatakse läbi avalikult. Maakonna valimiskomisjon teatab kaebuse esitajale kaebuse läbivaatamise aja ja koha.
 

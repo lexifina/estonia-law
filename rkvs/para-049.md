@@ -16,24 +16,28 @@
 
 - 4) selle valimisringkonna number, mille kandidaatide koondnimekiri valijale saadetakse.
 
-(5) Kui välisriigis alaliselt elava või seal ajutiselt viibiva valija aadress on teada, saadab välisesindus talle valijakaardi kirja teel või elektronpostiga hiljemalt 85. päeval enne valimispäeva.
+(5) Välisriigis alaliselt elavale valijale ja rahvastikuregistri andmete alusel ajutiselt välisriigis viibivale valijale saadetakse elektrooniline valijakaart hiljemalt 60. päeval enne valimispäeva. Valijakaardi tellimiseks esitab valija taotluse käesoleva seaduse § 21 lõikes 2¹ sätestatud korras.
 
 (6) Valijakaardile kantakse:
 
 - 1) valija ees- ja perekonnanimi;
 
-- 2) valija sünniaeg;
+- 2) valija sünniaasta;
 
-- 3) valija aadress;
+- 3) valija elukoha aadress;
 
-- 4) välisesinduse aadress;
+- 4) valimisringkonna number ja kirjeldus vastavalt käesoleva seaduse §-le 6;
 
-- 5) kirja teel hääletamise taotluse esitamise, kirja teel hääletamise ja välisesinduses hääletamise kord;
+- 5) välisesinduse aadress;
 
-- 6) kirja teel hääletamise taotluse välisesindusele laekumise tähtpäev;
+- 6) kirja teel hääletamise taotluse esitamise, kirja teel hääletamise ja välisesinduses hääletamise kord;
 
-- 7) kirja teel saadetava hääletamissedeli välisesindusele laekumise tähtpäev;
+- 7) kirja teel hääletamise taotluse välisesindusele laekumise tähtpäev;
 
-- 8) välisesinduses hääletamise aeg;
+- 8) kirja teel saadetava hääletamissedeli välisesindusele laekumise tähtpäev;
 
-- 9) elektroonilise hääletamise aeg.
+- 9) välisesinduses hääletamise aeg;
+
+- 10) elektroonilise hääletamise aeg;
+
+- 11) muu teave hääletamise kohta.

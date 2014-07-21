@@ -6,7 +6,7 @@
 
 (3) Pooled jaoskonnakomisjoni liikmetest esitab valla- või linnasekretär ning ülejäänud liikmed esitavad valimistel osalevad erakonnad.
 
-(4) Valimistel osalev erakond võib esitada ühe jaoskonnakomisjoni liikmekandidaadi valla- või linnasekretärile hiljemalt 45. päeval enne valimispäeva.
+(4) Valimistel osalev erakond võib esitada ühe jaoskonnakomisjoni liikmekandidaadi valla- või linnasekretärile hiljemalt 40. päeval enne valimispäeva.
 
 (5) Jaoskonnakomisjoni liikmeks nimetamiseks peab olema isiku nõusolek.
 

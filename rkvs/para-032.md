@@ -8,7 +8,9 @@
 
 - 1) kõik erakonna poolt registreerimiseks esitatud kandidaadid, kui puuduvad käesoleva seaduse § 30 lõike 3 punktides 1, 2, 3 või 4 nimetatud dokumendid, neis on vigu või need ei ole vormikohased;
 
-- 2) kandidaadi, kelle dokumente või andmeid on puudu, kelle dokumentides on vigu või kelle dokumendid ei ole vormikohased.
+- 2) kandidaadi, kelle dokumente või andmeid on puudu, kelle dokumentides on vigu või kelle dokumendid ei ole vormikohased;
+
+- 3) kandidaadi, kes ei vasta käesoleva seaduse § 4 lõigetes 4–6 ning § 29 lõikes 5 ettenähtud nõuetele.
 
 (4) Kandidaadi registreerimata jätmise kohta võtab Vabariigi Valimiskomisjon vastu põhistatud otsuse.
 

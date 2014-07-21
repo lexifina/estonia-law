@@ -34,7 +34,7 @@
 
 - 1) kandidaatide registreerimiseks esitamise ja registreerimise korra;
 
-- 2) kandidaatide registreerimise avalduse vormi, kandidaatide ringkonnanimekirja vormi, kandidaatide üleriigilise nimekirja vormi, kandideerimisavalduse vormi ja kandidaadi ankeedi vormi;
+- 2) kandidaatide registreerimise avalduse vormi, kandidaatide ringkonnanimekirja vormi, kandidaatide üleriigilise nimekirja vormi ja kandideerimisavalduse vormi;
 
 - 3) välisriigis hääletamise korra;
 

@@ -1,6 +1,6 @@
 # § 57. Hääletamistulemuste kindlakstegemine jaoskonnakomisjonis
 
-(1) Jaoskonnakomisjon avab valimispäeval kasutatud hääletamiskastid pärast hääletamise lõppemist. Avamise juures peab olema üle poole jaoskonnakomisjoni koosseisust.
+(1) Jaoskonnakomisjon avab hääletamiskastid pärast hääletamise lõppemist. Avamise juures peab olema üle poole jaoskonnakomisjoni koosseisust.
 
 (2) Enne hääletamiskastide avamist peab jaoskonnakomisjon üle lugema ja kustutama kõik valijatele välja andmata jäänud, samuti valijate tagastatud rikutud hääletamissedelid. Hääletamissedelid kustutatakse sedeli nurga äralõikamisega.
 

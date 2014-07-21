@@ -7,3 +7,5 @@
 (3) Vabariigi Valimiskomisjon otsustab eelarve kulude jaotuse, lähtudes riigieelarves määratud eraldiste suurusest.
 
 (4) Valijate arvestusega (5. peatükk) seotud kulud kaetakse riigieelarvest Siseministeeriumi eelarves selleks ettenähtud rahast.
+
+(5) Välisriigis hääletamise korraldamisega seotud kulud kaetakse riigieelarvest Välisministeeriumi eelarves selleks ettenähtud rahast.

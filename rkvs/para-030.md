@@ -14,7 +14,7 @@
 
 - 4) kautsjoni tasumist tõendava maksekorralduse koopia;
 
-- 5) iga kandidaadi kandideerimisdokumendid (§ 28 lg 1).
+- 5) iga kandidaadi kandideerimisavalduse.
 
 (4) Üksikkandidaat esitab Vabariigi Valimiskomisjonile:
 
@@ -22,6 +22,6 @@
 
 - 2) kautsjoni tasumist tõendava maksekorralduse koopia;
 
-- 3) kandideerimisdokumendid (§ 28 lg 1).
+- 3) kandideerimisavalduse.
 
 (5) Erakond või üksikkandidaat kannab enne kandidaatide registreerimiseks esitamist Vabariigi Valimiskomisjoni arvele kautsjonina summa, mille suurus on valimiste väljakuulutamise aastal Vabariigi Valitsuse kehtestatud kuupalga alammäär iga registreerimiseks esitatud isiku kohta.
