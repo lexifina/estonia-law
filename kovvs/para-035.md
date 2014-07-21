@@ -12,10 +12,10 @@
 
 2¹) kandidaatide ülevallalise või -linnalise nimekirja mitme valimisringkonnaga kohaliku omavalitsuse üksuses;
 
-3) iga kandidaadi kandideerimisdokumendid (§ 33 lõige 1).
+3) iga kandidaadi kandideerimisavalduse.
 
 (4) Üksikkandidaat esitab valla või linna valimiskomisjonile:
 
 1) kandidaadi registreerimise avalduse;
 
-2) kandideerimisdokumendid (§ 33 lõige 1).
+2) kandideerimisavalduse.

@@ -1,3 +1,3 @@
-# § 53¹. Elektrooniliselt antud häälte arvestamine
+# § 53¹.
 
 

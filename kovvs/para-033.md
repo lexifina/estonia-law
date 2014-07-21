@@ -1,22 +1,14 @@
-# § 33. Kandideerimisdokumendid
+# § 33. Kandideerimisavaldus
 
-(1) Kandideerimisdokumendid on:
-
-1) kandideerimisavaldus;
-
-2) kandidaadi ankeet.
-
-(2) Kandideerimisavalduses isik:
+(1) Kandideerimisavalduses isik:
 
 1) väljendab oma soovi kandideerida erakonna või valimisliidu nimekirjas või üksikkandidaadina;
 
-[15.07.2002. a Riigikohtu põhiseaduslikkuse järelevalve kolleegiumi kohtuotsus nr 3-4-1-7-02 tunnistab lõike 2 p 1 vastuolus olevaks põhiseaduse §-dega 11, 12 ja § 156 lg-ga 1,
+2) kinnitab, et ta vastab käesolevas seaduses volikogu liikmekandidaadile esitatud nõuetele;
 
-- jõust. 15.07.2002]
+3) esitab käesoleva paragrahvi lõigetes 2–3 sätestatud andmed.
 
-2) kinnitab, et ta vastab käesolevas seaduses volikogu liikmekandidaadile esitatud nõuetele.
-
-(3) Kandidaadi ankeedis tuleb esitada järgmised andmed:
+(2) Kandidaat esitab kandideerimisavalduses järgmised andmed:
 
 1) ees- ja perekonnanimi;
 
@@ -26,24 +18,18 @@
 
 4) elukoha aadress;
 
-5) sidevahendite numbrid.
+5) sidevahendite numbrid;
 
-(3¹) Euroopa Liidu kodanik esitab kandidaadi ankeedis täiendavalt kodakondsuse andmed.
+6) kontaktandmed;
 
-(4) Kandidaadi ankeedis võib esitada järgmised andmed:
+7) andmed hariduse kohta;
 
-1) sünnikoht;
+8) töökoht ja amet.
 
-2) haridus ja eriala ning õppeasutuse nimetus ja lõpetamise aeg;
+(3) Euroopa Liidu kodanik esitab kandideerimisavalduses täiendavalt kodakondsuse andmed.
 
-3) teaduskraad;
+(4) Vabariigi Valimiskomisjon avaldab käesoleva paragrahvi lõike 2 punktides 1, 3, 6, 7 ja 8 ning lõikes 3 sätestatud andmed Vabariigi Valimiskomisjoni veebilehel.
 
-4) töökoht;
+(5) Kandidaat kasutab kandideerimisel oma nimena üksnes ees- ja perekonnanime.
 
-5) amet.
-
-(5) Valla või linna valimiskomisjon ei avalda kandidaadi isikukoodi, elukoha aadressi ega sidevahendite numbreid.
-
-(6) Kandidaat kasutab kandideerimisel oma nimena üksnes ees- ja perekonnanime.
-
-(7) Kandideerimisavaldus ja kandidaadi ankeet allkirjastatakse kandidaadi poolt.
+(6) Kandidaat allkirjastab kandideerimisavalduse.

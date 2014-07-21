@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/101112012007> (version in force from 2013-04-01)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/111072014008> (version in force from 2014-07-21)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -48,7 +48,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/101112012007> (version in force 
 | [§ 31](para-031.md) | Erakond |
 | [§ 31¹](para-031b1.md) | Valimisliit |
 | [§ 32](para-032.md) | Üksikkandidaat |
-| [§ 33](para-033.md) | Kandideerimisdokumendid |
+| [§ 33](para-033.md) | Kandideerimisavaldus |
 | [§ 34](para-034.md) | Kandidaatide nimekiri |
 | [§ 35](para-035.md) | Kandidaatide registreerimiseks esitamine |
 | [§ 36](para-036.md) | Dokumentide vastuvõtmine ja tagastamine |
@@ -66,16 +66,16 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/101112012007> (version in force 
 | [§ 47](para-047.md) | Väljaspool elukohajärgset valimisjaoskonda toimuva eelhääletamise erisused |
 | [§ 48](para-048.md) | Väljaspool elukohajärgset valimisjaoskonda toimuv eelhääletamine hääletamisruumis |
 | [§ 49](para-049.md) | Väljaspool elukohajärgset valimisjaoskonda valija asukohas toimuv eelhääletamine |
-| [§ 50](para-050.md) | Elektrooniline hääletamine |
-| [§ 51](para-051.md) | Hääletamine kinnipidamiskohas |
+| [§ 50](para-050.md) |  |
+| [§ 51](para-051.md) | Hääletamine kinnipidamiskohas, haiglas ja ööpäevases hoolekandeasutuses |
 | [§ 52](para-052.md) | Kodus hääletamine |
 | [§ 53](para-053.md) | Eelhääletamise ajal väljaspool elukohajärgset valimisjaoskonda antud häälte arvestamine |
-| [§ 53¹](para-053b1.md) | Elektrooniliselt antud häälte arvestamine |
+| [§ 53¹](para-053b1.md) |  |
 | **7¹. peatükk ELEKTROONILINE HÄÄLETAMINE** | |
 | [§ 53²](para-053b2.md) | Elektroonilise hääletamise korraldamine |
 | **8. peatükk HÄÄLETAMIS- JA VALIMISTULEMUSTE KINDLAKSTEGEMINE** | |
 | [§ 54](para-054.md) | Hääletamistulemuste kindlakstegemine jaoskonnakomisjonis |
-| [§ 54¹](para-054b1.md) | Eelhääletamisel antud häälte lugemine |
+| [§ 54¹](para-054b1.md) |  |
 | [§ 54²](para-054b2.md) | Elektrooniliselt antud häälte lugemine |
 | [§ 55](para-055.md) | Hääletamistulemuste kindlakstegemine valla ja linna valimiskomisjonis |
 | [§ 56](para-056.md) | Valimistulemuste kindlakstegemine ühe valimisringkonnaga kohaliku omavalitsuse üksuses |
@@ -86,10 +86,8 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/101112012007> (version in force 
 | [§ 57¹](para-057b1.md) | Korraliste valimiste vahelisel perioodil toimuva uue kohaliku omavalitsuse üksuse volikogu valimiste erisused |
 | **10. peatükk VALIMISTE KULUD** | |
 | [§ 58](para-058.md) | Valimiste korraldamise kulud |
-| [§ 59](para-059.md) | Erakonna, valimisliidu ja üksikkandidaadi valimiskampaania rahastamise aruanne |
-| [§ 59¹](para-059b1.md) | Valimisliidu rahalised vahendid |
-| [§ 60](para-060.md) | Valimiskampaaniaks kasutatud vahendid |
-| [§ 61](para-061.md) | Valimiskampaania kulud |
+| [§ 59](para-059.md) |  |
+| [§ 61](para-061.md) |  |
 | **11. peatükk KAEBUSED** | |
 | [§ 62](para-062.md) | Kaebuse mõiste |
 | [§ 63](para-063.md) | Nõuded kaebusele |

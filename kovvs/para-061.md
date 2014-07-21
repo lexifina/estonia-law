@@ -1,3 +1,3 @@
-# § 61. Valimiskampaania kulud
+# § 61.
 
 

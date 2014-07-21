@@ -1,3 +1,3 @@
-# § 54¹. Eelhääletamisel antud häälte lugemine
+# § 54¹.
 
 

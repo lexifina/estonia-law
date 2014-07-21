@@ -1,3 +1,3 @@
-# § 50. Elektrooniline hääletamine
+# § 50.
 
 
