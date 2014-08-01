@@ -8,7 +8,7 @@
 
 3) majandus- ja sotsiaalprognoose;
 
-4) teateid keskkonnaseisundi kohta;
+4) teateid keskkonnaseisundi ja heidete kohta;
 
 5) teabevaldaja töö või tööedukuse aruandeid ning andmeid ülesannete täitmise kvaliteedi ja juhtimisvigade kohta;
 
