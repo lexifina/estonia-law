@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung esmaspäev, 4.08.2014 15:00",
+  "sitting_time": "2014-08-04T15:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "92e85334-7834-49c6-a7ad-f76078588afd"
+    },
+    {
+      "order": 2,
+      "title": "Riigikohtule arvamuse andmine üldapteegi tegevusloa väljaandmise ja muutmise piirangute kohta (õiguskantsleri taotlus nr 14)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "78396435-a9ff-47ce-a111-0709d34523d8"
+    },
+    {
+      "order": 3,
+      "title": "Ülevaade põhiseaduskomisjoni tööst Riigikogu XII koosseisu VII istungjärgul",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3cd7a3f4-2d8f-4e6b-adbe-115db3d32aeb"
+    },
+    {
+      "order": 4,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "befa965c-4fd1-4c92-ad8f-b537df0d8df7"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Põhiseaduskomisjoni protokoll 04.08.2014",
+      "uuid": "b975b1e1-aa43-4cc1-b238-d6354c98fe0a",
+      "files": [
+        "Põhiseaduskomisjoni_protokoll_04.08.2014.ddoc",
+        "2014.08.04.pdf"
+      ]
+    }
+  ],
+  "uuid": "139b39c8-d889-43ac-ae02-e6e8796b1288",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 139b39c8-d889-43ac-ae02-e6e8796b1288)",
+  "source": "https://api.riigikogu.ee/api/volumes/139b39c8-d889-43ac-ae02-e6e8796b1288",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-08-01&endDate=2014-08-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
