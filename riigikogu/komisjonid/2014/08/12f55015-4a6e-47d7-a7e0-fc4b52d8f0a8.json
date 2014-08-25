@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung esmaspäev, 25.08.2014 11:00",
+  "sitting_time": "2014-08-25T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ecff208f-8f89-49ee-80d7-fe8049046b9a"
+    },
+    {
+      "order": 2,
+      "title": "Töövõimetoetuse seaduse eelnõu (678 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "16e16962-f0ce-4f44-8a55-98525d88f56d"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3010005d-6e60-4a56-b339-e882cea6d537"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "55d161c2-98b7-4afc-8ccb-e94e8cd0f728",
+      "files": [
+        "Protokol_20140929.pdf"
+      ]
+    }
+  ],
+  "uuid": "12f55015-4a6e-47d7-a7e0-fc4b52d8f0a8",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 12f55015-4a6e-47d7-a7e0-fc4b52d8f0a8)",
+  "source": "https://api.riigikogu.ee/api/volumes/12f55015-4a6e-47d7-a7e0-fc4b52d8f0a8",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-08-01&endDate=2014-08-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
