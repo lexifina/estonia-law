@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung teisipäev, 26.08.2014 09:00",
+  "sitting_time": "2014-08-26T09:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 28.-29. augustil 2014 toimuval mitteametlikul EL üldasjade nõukogu (Euroopa asjade ministrid) kohtumisel ja Eesti seisukohad 29.-30. augustil 2014 toimuval mitteametlikul EL välisasjade nõukogu (Gymnich) kohtumisel.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d26cdd8a-6705-421c-9fe8-50e8e736902e"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade 15. augustil 2014 toimunud erakorralisest EL välisasjade nõukogu istungist.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "79b89170-340b-45b7-9f89-9d372c08aa19"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "12bee07c-f2d0-44c0-b83b-cc0584f0dd38",
+      "files": [
+        "Protokol_20140826.pdf"
+      ]
+    }
+  ],
+  "uuid": "2623f293-4d72-4279-a226-c01d5c0fce77",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2623f293-4d72-4279-a226-c01d5c0fce77)",
+  "source": "https://api.riigikogu.ee/api/volumes/2623f293-4d72-4279-a226-c01d5c0fce77",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-08-01&endDate=2014-08-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
