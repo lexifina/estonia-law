@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 8.09.2014 11:00",
+  "sitting_time": "2014-09-08T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ab17163e-cfdc-4ca0-938f-c73065f13eeb"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud toiduseaduse muutmise seaduse eelnõu (642 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b8442b3a-d8e5-4ecb-a712-3dba3e337692"
+    },
+    {
+      "order": 3,
+      "title": "EL rahvusparlamentide põllumajanduse, tööstusarengu ja väikeettevõtluse komisjonide esimeeste kohtumine 26.-27. oktoober 2014, Rooma (3-8/14-48/3)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "723b5340-1e54-463d-a737-e3c812b88f0d"
+    },
+    {
+      "order": 4,
+      "title": "Sügisistungjärgu tööplaanid",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ce366350-30c0-47ae-96d6-e5a2d802a2ef"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "aa4e24ac-621e-46b9-98c6-766969100075",
+      "files": [
+        "Protokoll.ddoc",
+        "Protokol_20140909.pdf"
+      ]
+    }
+  ],
+  "uuid": "6bcc87a0-269b-4e45-bde6-718a79b735db",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 6bcc87a0-269b-4e45-bde6-718a79b735db)",
+  "source": "https://api.riigikogu.ee/api/volumes/6bcc87a0-269b-4e45-bde6-718a79b735db",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-09-01&endDate=2014-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
