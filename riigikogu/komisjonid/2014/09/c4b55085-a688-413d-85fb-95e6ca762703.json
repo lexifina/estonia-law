@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 8.09.2014 13:30",
+  "sitting_time": "2014-09-08T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine;",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3a3945c9-2dc1-48bc-a79d-6888d7fdeb3e"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade Rahandusministeeriumi 2014. aasta suvisest majandusprognoosist;",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f445888e-691d-4618-b811-dd8174a24551"
+    },
+    {
+      "order": 3,
+      "title": "Informatsioon.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1f91c1d7-0d48-48e9-a502-8868f21eb502"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Ülevaade Rahandusministeeriumi 2014. aasta suvisest majandusprognoosist",
+      "uuid": "280d6319-a6b0-40b1-ba3d-30b196868870",
+      "files": [
+        "protokoll 163 08 09 2014.pdf",
+        "RAM suvine prognoos komisjonis 08.09.14.ppt"
+      ]
+    }
+  ],
+  "uuid": "c4b55085-a688-413d-85fb-95e6ca762703",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c4b55085-a688-413d-85fb-95e6ca762703)",
+  "source": "https://api.riigikogu.ee/api/volumes/c4b55085-a688-413d-85fb-95e6ca762703",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-09-01&endDate=2014-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
