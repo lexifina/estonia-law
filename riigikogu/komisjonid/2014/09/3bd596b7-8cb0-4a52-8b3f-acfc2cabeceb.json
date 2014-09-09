@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung teisipäev, 9.09.2014 13:00",
+  "sitting_time": "2014-09-09T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Koolieelse lasteasutuse seaduse muutmise seaduse eelnõu (641 SE I) - muudatusettepanekute arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "522ba2e8-6538-410f-a3d6-fd46765496b0"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu otsus \"Ettepaneku tegemine Vabariigi Valitsusele\" (664 OE) - arutelu, komisjonipoolse esindaja määramine, I lugemise menetlusotsused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f2661c13-321e-4e62-97af-d78f84a899e2"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "cfac170c-3b07-489f-b773-5ed1b8d4de54",
+      "files": [
+        "Protokol_20140911.pdf"
+      ]
+    }
+  ],
+  "uuid": "3bd596b7-8cb0-4a52-8b3f-acfc2cabeceb",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3bd596b7-8cb0-4a52-8b3f-acfc2cabeceb)",
+  "source": "https://api.riigikogu.ee/api/volumes/3bd596b7-8cb0-4a52-8b3f-acfc2cabeceb",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-09-01&endDate=2014-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
