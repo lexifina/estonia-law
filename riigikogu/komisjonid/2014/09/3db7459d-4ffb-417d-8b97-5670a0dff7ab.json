@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung teisipäev, 9.09.2014 13:15",
+  "sitting_time": "2014-09-09T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väliskomisjoni VIII istungjärgu 1. töönädala töökava kinnitamine.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9001e115-2146-42c1-89b7-5f55fd8c19ed"
+    },
+    {
+      "order": 2,
+      "title": "Väliskomisjoni 2014. a. sügisistungjärgu kava arutelu.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c75d8162-7b5f-4ce7-91a2-df7f13480bec"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2614892d-21cd-446a-bb75-40ea587e3edd"
+    },
+    {
+      "order": 4,
+      "title": "Väliskomisjoni ja riigikaitsekomisjoni väljasõiduistung Kaitseväe Peastaapi. Informatsioon Eesti kaitseväe üksuste osalemisest rahvusvahelistel missioonidel.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "595740f3-0c10-4b69-b5e3-b7d96960cab3"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "110729cc-bf9c-4882-9eb2-c0bd99aedf8f",
+      "files": [
+        "Protokoll.ddoc",
+        "Protokol_20140910.pdf"
+      ]
+    }
+  ],
+  "uuid": "3db7459d-4ffb-417d-8b97-5670a0dff7ab",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3db7459d-4ffb-417d-8b97-5670a0dff7ab)",
+  "source": "https://api.riigikogu.ee/api/volumes/3db7459d-4ffb-417d-8b97-5670a0dff7ab",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-09-01&endDate=2014-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
