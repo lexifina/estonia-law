@@ -1,0 +1,33 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung neljapäev, 11.09.2014 13:00",
+  "sitting_time": "2014-09-11T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kooseluseadus (650 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b1ce141b-383e-4908-820d-2023dd73deed"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "2bc8d9a3-80c7-4f7c-8002-b637bd9a0829",
+      "files": [
+        "protokoll.pdf"
+      ]
+    }
+  ],
+  "uuid": "0d30a7c4-46bd-4f23-b00f-e2de78004fa5",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0d30a7c4-46bd-4f23-b00f-e2de78004fa5)",
+  "source": "https://api.riigikogu.ee/api/volumes/0d30a7c4-46bd-4f23-b00f-e2de78004fa5",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-09-01&endDate=2014-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
