@@ -1,0 +1,53 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung esmaspäev, 15.09.2014 11:00",
+  "sitting_time": "2014-09-15T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "557d5bbb-88d2-49af-8ec8-9c9f90004a75"
+    },
+    {
+      "order": 2,
+      "title": "Eesti mälestamiskultuuri ja pehme kaitse teemaline arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "21413124-cbc9-48b5-8ebc-a3226540aee1"
+    },
+    {
+      "order": 3,
+      "title": "Riigikaitsekomisjoni algatatav erakorralise seisukorra seaduse,  hädaolukorra seaduse ja Kaitseväe korralduse seaduse muutmise seaduse eelnõu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1057e593-eac2-45ef-a925-c999935a2523"
+    },
+    {
+      "order": 4,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b67745ff-1177-43af-9eb5-91059a09723f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "8719b3c9-3b84-449d-9cf1-a29cdcfa9271",
+      "files": [
+        "Protokol_20140916.pdf",
+        "Seletuskiri ESS,, KVTS ja KKS muutmise seaduse eelnõu juurde docx.pdf",
+        "Erakorralise seisukorra seaduse hädaolukorra seaduse muutmine ja kaitseväe korralduse seaduse muutmise seadus.pdf"
+      ]
+    }
+  ],
+  "uuid": "154cc29a-b87a-4759-8bf7-99d064d34f8c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 154cc29a-b87a-4759-8bf7-99d064d34f8c)",
+  "source": "https://api.riigikogu.ee/api/volumes/154cc29a-b87a-4759-8bf7-99d064d34f8c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-09-01&endDate=2014-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
