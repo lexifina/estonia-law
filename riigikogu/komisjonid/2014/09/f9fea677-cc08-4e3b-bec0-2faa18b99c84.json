@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 15.09.2014 13:30",
+  "sitting_time": "2014-09-15T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine;",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8519e44d-60f7-4422-9db6-304e9c760047"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli auditiaruande „Riigi 2013. aasta majandusaasta koondaruande õigsus ja tehingute seaduslikkus“ tutvustus ning arutelu;",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3dd39cb2-6b7f-4e2a-8c6a-3b35a389f759"
+    },
+    {
+      "order": 3,
+      "title": "Informatsioon.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b999bf7c-6c17-4a1f-a8fd-1b43d1e4b7ae"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Riigikontrolli auditiaruande „Riigi 2013. aasta majandusaasta koondaruande õigsus \nja tehingute seaduslikkus“ tutvustus ning arutelu",
+      "uuid": "e8d91d10-48e9-4c5f-a79a-dda63bb6af8a",
+      "files": [
+        "Riigikontrolli slaidid 15.09.14.pptx",
+        "protokoll 164 15 09 2014.pdf"
+      ]
+    }
+  ],
+  "uuid": "f9fea677-cc08-4e3b-bec0-2faa18b99c84",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f9fea677-cc08-4e3b-bec0-2faa18b99c84)",
+  "source": "https://api.riigikogu.ee/api/volumes/f9fea677-cc08-4e3b-bec0-2faa18b99c84",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-09-01&endDate=2014-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
