@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung teisipäev, 16.09.2014 14:00",
+  "sitting_time": "2014-09-16T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti tegevusest algaval ÜRO 69. Peaassambleel.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "afe70a6b-1500-475c-ad84-990b25d7a7af"
+    },
+    {
+      "order": 2,
+      "title": "Informatsioon arengutest Süürias ja Iraagis.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d0b5604d-96f4-484b-bf96-2aadd926da50"
+    },
+    {
+      "order": 3,
+      "title": "Informatsioon arengutest Ukrainas.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4bf0b046-9435-4586-abf6-24844aef7c06"
+    },
+    {
+      "order": 4,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5050685b-68c9-4970-94f6-09d04bac77b7"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "d97aeacc-354b-49a3-b784-f69dccc7d79a",
+      "files": [
+        "Protokol_20140918.pdf",
+        "Protokoll.ddoc"
+      ]
+    }
+  ],
+  "uuid": "c061bb88-e18d-4615-80f0-90d716ed49b6",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c061bb88-e18d-4615-80f0-90d716ed49b6)",
+  "source": "https://api.riigikogu.ee/api/volumes/c061bb88-e18d-4615-80f0-90d716ed49b6",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-09-01&endDate=2014-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
