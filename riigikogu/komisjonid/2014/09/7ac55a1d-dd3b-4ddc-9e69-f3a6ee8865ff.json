@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung teisipäev, 16.09.2014 14:00",
+  "sitting_time": "2014-09-16T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ühisistung rahanduskomisjoniga:  Olukorrast raudteesektoris",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5d446ffd-8f9f-4c48-859e-b7299a411220"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "541a5219-bf32-4365-befc-c263a6a68949"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "1f8e1365-aa50-4a23-91b2-61634025b455",
+      "files": [
+        "Protokol_20140917.pdf"
+      ]
+    }
+  ],
+  "uuid": "7ac55a1d-dd3b-4ddc-9e69-f3a6ee8865ff",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7ac55a1d-dd3b-4ddc-9e69-f3a6ee8865ff)",
+  "source": "https://api.riigikogu.ee/api/volumes/7ac55a1d-dd3b-4ddc-9e69-f3a6ee8865ff",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-09-01&endDate=2014-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
