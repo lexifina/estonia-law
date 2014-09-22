@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung esmaspäev, 22.09.2014 11:00",
+  "sitting_time": "2014-09-22T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "52750fd2-82cd-4827-bef4-9250e13fd8eb"
+    },
+    {
+      "order": 2,
+      "title": "Päästeseaduse muutmise seaduse eelnõu (676 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "91a3f45d-fe97-455c-9170-aff2fdb0997c"
+    },
+    {
+      "order": 3,
+      "title": "Laeva lipuõiguse ja laevaregistrite seaduse, kinnistusraamatuseaduse ja abieluvararegistri seaduse muutmise seaduse eelnõu (708 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "abc55276-47d3-4ce5-8b9a-18c3da168316"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "c2399c31-e7e2-447b-a8a9-eaa6c7ee1b43",
+      "files": [
+        "Protokoll.ddoc",
+        "Protokol_20140922.pdf"
+      ]
+    }
+  ],
+  "uuid": "2f2d3cb4-1025-475f-9826-9bebf8329ff4",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2f2d3cb4-1025-475f-9826-9bebf8329ff4)",
+  "source": "https://api.riigikogu.ee/api/volumes/2f2d3cb4-1025-475f-9826-9bebf8329ff4",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-09-01&endDate=2014-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
