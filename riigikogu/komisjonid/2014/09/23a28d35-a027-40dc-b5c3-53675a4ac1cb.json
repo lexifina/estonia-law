@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung esmaspäev, 22.09.2014 11:00",
+  "sitting_time": "2014-09-22T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0a98b77b-1b17-4a97-9a99-03d258b4ed0a"
+    },
+    {
+      "order": 2,
+      "title": "Riigikaitsekomisjoni väljasõiduistung Kaitseressursside Ametisse. Aja- ja reservteenistus, mobilisatsioon ning riigikaitselised sundkoormised",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d7ff8a8e-3601-41df-959f-22a87e7f4372"
+    },
+    {
+      "order": 3,
+      "title": "Riigikaitsekomisjoni delegatsiooni vastuvisiit Soome, sh töökohtumine Soome Eduskunta kaitsekomisjoniga k.a 23. - 24. oktoobril",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6ee6959f-337d-48c0-89ad-c832826ee35f"
+    },
+    {
+      "order": 4,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7de47e78-519b-45b8-b7ac-6675772114ed"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "e68b7520-861c-4b40-910d-3960302cce3a",
+      "files": [
+        "Protokol_20140922.pdf"
+      ]
+    }
+  ],
+  "uuid": "23a28d35-a027-40dc-b5c3-53675a4ac1cb",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 23a28d35-a027-40dc-b5c3-53675a4ac1cb)",
+  "source": "https://api.riigikogu.ee/api/volumes/23a28d35-a027-40dc-b5c3-53675a4ac1cb",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-09-01&endDate=2014-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
