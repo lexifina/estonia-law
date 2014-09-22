@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Korruptsioonivastane erikomisjon",
+  "committee_uuid": "e4f2977a-e8c3-4fa0-8f3d-9df9acd6377f",
+  "title": "Komisjoni istung esmaspäev, 22.09.2014 13:30",
+  "sitting_time": "2014-09-22T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikontrolli 2015. aasta tööplaani koostamiseks ettepanekute tegemine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dc58320b-9c69-4d36-976d-20b3f9481543"
+    },
+    {
+      "order": 2,
+      "title": "GRECO soovitustest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e36800bf-924a-44d4-867f-c8cf6d2121de"
+    },
+    {
+      "order": 3,
+      "title": "Jooksvad küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "740ef975-431d-4b70-8cf9-f03b1f6566bc"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Korruptsioonivastase erikomisjoni istungi protokoll nr 36",
+      "uuid": "9e47a60d-4fc5-4583-b7d1-72d0a20148bc",
+      "files": [
+        "2014_09_22 nr 36.pdf"
+      ]
+    }
+  ],
+  "uuid": "f5094f45-a0fd-4eb7-8548-3a218542badc",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f5094f45-a0fd-4eb7-8548-3a218542badc)",
+  "source": "https://api.riigikogu.ee/api/volumes/f5094f45-a0fd-4eb7-8548-3a218542badc",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-09-01&endDate=2014-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
