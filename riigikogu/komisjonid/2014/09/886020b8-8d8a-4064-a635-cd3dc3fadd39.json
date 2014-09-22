@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung esmaspäev, 22.09.2014 11:00 avalik istung konverentsisaalis",
+  "sitting_time": "2014-09-22T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "777b20fe-5959-45b3-bdff-2380ff9d8467"
+    },
+    {
+      "order": 2,
+      "title": "Lastekaitseseadus (677 SEI) eelnõust",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4d6c8a09-c374-4422-8c22-492b17b55847"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "8d2e8fcd-7fe3-440b-aee8-39c84b0972d7",
+      "files": [
+        "Protokol_20141017.pdf"
+      ]
+    }
+  ],
+  "uuid": "886020b8-8d8a-4064-a635-cd3dc3fadd39",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 886020b8-8d8a-4064-a635-cd3dc3fadd39)",
+  "source": "https://api.riigikogu.ee/api/volumes/886020b8-8d8a-4064-a635-cd3dc3fadd39",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-09-01&endDate=2014-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
