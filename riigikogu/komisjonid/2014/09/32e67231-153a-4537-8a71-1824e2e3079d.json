@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 22.09.2014 13:00",
+  "sitting_time": "2014-09-22T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine;",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f8d5aa34-d3a5-478b-ba43-bdc4ca6fc177"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli auditiaruande „Kaitseministeeriumi 2013. aasta raamatupidamise aastaaruande õigsus ja tehingute seaduslikkus“ arutelu;",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c768c932-7b38-4829-b91b-d8da96326958"
+    },
+    {
+      "order": 3,
+      "title": "Informatsioon.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bc6defc2-3e38-4f2d-abb5-2bb357d88956"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Riigikontrolli auditiaruande „Kaitseministeeriumi 2013. aasta raamatupidamise \naastaaruande õigsus ja tehingute seaduslikkus“ arutelu",
+      "uuid": "16473666-db0c-45a3-ac3f-2b949f071ee4",
+      "files": [
+        "KAM slaidid 22.09.2014.ppt",
+        "protokoll 165 22 09 2014.pdf"
+      ]
+    }
+  ],
+  "uuid": "32e67231-153a-4537-8a71-1824e2e3079d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 32e67231-153a-4537-8a71-1824e2e3079d)",
+  "source": "https://api.riigikogu.ee/api/volumes/32e67231-153a-4537-8a71-1824e2e3079d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-09-01&endDate=2014-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
