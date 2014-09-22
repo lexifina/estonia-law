@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung esmaspäev, 22.09.2014 11:00",
+  "sitting_time": "2014-09-22T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c5a621a3-49e0-4c71-beb0-c611922568af"
+    },
+    {
+      "order": 2,
+      "title": "Vedelkütuse seaduse ja välisõhu kaitse seaduse muutmise seaduse eelnõu (675 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "54f8ca7b-608e-486b-85f0-66a7ea1c21c0"
+    },
+    {
+      "order": 3,
+      "title": "Konkurentsiseaduse muutmise ja sellega seonduvalt teiste seaduste muutmise seaduse eelnõu (712 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "77db8097-b7b5-4965-a409-2bf77cfc5e3a"
+    },
+    {
+      "order": 4,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "61c52f79-9236-41a1-a5a3-d714abeb41c2"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "52a4d4c0-5943-47d8-aaea-eef48fbc8ceb",
+      "files": [
+        "Protokol_20140923.pdf"
+      ]
+    }
+  ],
+  "uuid": "47ff5de6-88a1-4775-8d89-9c314084f1ab",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 47ff5de6-88a1-4775-8d89-9c314084f1ab)",
+  "source": "https://api.riigikogu.ee/api/volumes/47ff5de6-88a1-4775-8d89-9c314084f1ab",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-09-01&endDate=2014-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
