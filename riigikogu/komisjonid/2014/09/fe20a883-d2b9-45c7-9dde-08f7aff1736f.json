@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung teisipäev, 23.09.2014 14:00",
+  "sitting_time": "2014-09-23T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Rahandusministeeriumi ülevaade EL rahanduse olukorrast",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f4e7c832-e535-43c2-81e6-f839eff8fd98"
+    },
+    {
+      "order": 2,
+      "title": "Info",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6296bd38-b58e-4c7f-a2c0-9ebc2b55fd91"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "95d3114c-12a5-448b-a105-7515762902ff",
+      "files": [
+        "RAHK_prot_225.pdf"
+      ]
+    }
+  ],
+  "uuid": "fe20a883-d2b9-45c7-9dde-08f7aff1736f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid fe20a883-d2b9-45c7-9dde-08f7aff1736f)",
+  "source": "https://api.riigikogu.ee/api/volumes/fe20a883-d2b9-45c7-9dde-08f7aff1736f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-09-01&endDate=2014-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
