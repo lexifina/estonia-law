@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/121062014051> (version in force from 2014-07-01)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/121062014052> (version in force from 2014-10-01)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -118,6 +118,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/121062014051> (version in force 
 | [§ 95](para-095.md) | Varasema distsiplinaarkaristuse kehtivus |
 | [§ 96](para-096.md) | Varasema distsiplinaarsüüteo eest karistuse määramine |
 | [§ 97](para-097.md) | Toetuse maksmine Kaitseliidu liikme mittesüülise invaliidistumise ja hukkumise korral |
+| [§ 97¹](para-097b1.md) | Hüvitise maksmine Kaitseliidu liikme vigastada saamise korral |
 | [§ 98](para-098.md) | Kaitseliidu vara asendamine ja võõrandamine |
 | [§ 99](para-099.md) | Kollegiaalsete organite valitud liikmete volituste kehtivus |
 | [§ 100](para-100.md) | Rakendusaktide kehtivus |
