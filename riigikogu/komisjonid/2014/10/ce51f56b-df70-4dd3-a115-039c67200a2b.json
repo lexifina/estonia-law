@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 6.10.2014 13:30",
+  "sitting_time": "2014-10-06T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine;",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f9197361-f507-40f5-84ce-0a17a30baa9a"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli auditiaruande „Riigi põhimaanteede renoveerimine“ kordusarutelu;",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c8997ac0-ba10-48d2-ac9a-a4e273dcf71f"
+    },
+    {
+      "order": 3,
+      "title": "Informatsioon.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a597c34c-5e59-4c0a-85f7-2063585fd310"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Riigikontrolli auditiaruande „Riigi põhimaanteede renoveerimine“ kordusarutelu",
+      "uuid": "063403b0-9d88-439f-89fc-bcf13df05af3",
+      "files": [
+        "protokoll 166 06 10 2014.pdf",
+        "Maanteeameti slaidid 06.10.14 Riigi põhimaanteede renoveerimine.pptx",
+        "Riigikontrolli slaidid 06.10.14 Maanteede renoveerimine.pptx"
+      ]
+    }
+  ],
+  "uuid": "ce51f56b-df70-4dd3-a115-039c67200a2b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ce51f56b-df70-4dd3-a115-039c67200a2b)",
+  "source": "https://api.riigikogu.ee/api/volumes/ce51f56b-df70-4dd3-a115-039c67200a2b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-10-01&endDate=2014-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
