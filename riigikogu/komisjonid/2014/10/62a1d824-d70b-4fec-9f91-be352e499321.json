@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 7.10.2014 14:00",
+  "sitting_time": "2014-10-07T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c59599f9-3931-4bb5-8df4-9a0fc0276e7d"
+    },
+    {
+      "order": 2,
+      "title": "Euroopa merendus- ja kalandusfondi rakendamine perioodil 2014-2020",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7f28fdac-411a-4132-a636-37fb0f136079"
+    },
+    {
+      "order": 3,
+      "title": "Leader meede perioodil 2014-2020",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "20b01f5b-555e-47e1-9c5a-32a30279e3cb"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "ecaaec8f-cd30-4563-808f-df65021c86bd",
+      "files": [
+        "Protokoll.ddoc",
+        "Protokol_20141008.pdf"
+      ]
+    }
+  ],
+  "uuid": "62a1d824-d70b-4fec-9f91-be352e499321",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 62a1d824-d70b-4fec-9f91-be352e499321)",
+  "source": "https://api.riigikogu.ee/api/volumes/62a1d824-d70b-4fec-9f91-be352e499321",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-10-01&endDate=2014-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
