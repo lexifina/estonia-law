@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung teisipäev, 7.10.2014 14:00",
+  "sitting_time": "2014-10-07T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "2015. aasta riigieelarve seaduse eelnõu (730 SE). Osaleb kaitseminister Sven Mikser",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f257d723-44a9-455b-9dfe-5907a8684602"
+    },
+    {
+      "order": 2,
+      "title": "2015. aasta riigieelarve seaduse eelnõu (730 SE). Osaleb siseminister Hanno Pevkur",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9d73beab-cd8d-4749-a9dc-21043cb34396"
+    },
+    {
+      "order": 3,
+      "title": "Info",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d488dc6e-6120-4c43-af1e-43b180f8f066"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "32f1b836-3aa1-44f6-a8ad-2d1c88663b31",
+      "files": [
+        "Protokoll.ddoc",
+        "Protokol_20141009.pdf"
+      ]
+    }
+  ],
+  "uuid": "033bbae7-7130-4123-b5ad-d6fbbec21f6b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 033bbae7-7130-4123-b5ad-d6fbbec21f6b)",
+  "source": "https://api.riigikogu.ee/api/volumes/033bbae7-7130-4123-b5ad-d6fbbec21f6b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-10-01&endDate=2014-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
