@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 13.10.2014 11:00",
+  "sitting_time": "2014-10-13T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e4aa9254-3112-4c55-8fa3-bf3fe1742ab8"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud alkoholiseaduse muutmise seaduse eelnõu (723 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c61e2111-bd67-4d4b-8781-d96cf635323f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "13b9dd83-1565-4064-a1f7-ca45d42a88d9",
+      "files": [
+        "Protokol_20141013.pdf",
+        "Protokoll.ddoc"
+      ]
+    }
+  ],
+  "uuid": "ec6095fd-a69b-4a7b-855e-e125850c45b6",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ec6095fd-a69b-4a7b-855e-e125850c45b6)",
+  "source": "https://api.riigikogu.ee/api/volumes/ec6095fd-a69b-4a7b-855e-e125850c45b6",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-10-01&endDate=2014-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
