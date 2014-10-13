@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung esmaspäev, 13.10.2014 11:00",
+  "sitting_time": "2014-10-13T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a9bd5c67-87f6-44c9-9990-7d83b2aef096"
+    },
+    {
+      "order": 2,
+      "title": "Julgeolekuolukord regioonis",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8631019e-1891-4628-a346-c809c3e558ec"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1f971fa5-b4eb-43cd-9b67-91c8051a71e4"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "502e445d-575f-4f33-87cb-9e3874a3c3fd",
+      "files": [
+        "Protokol_20141013.pdf"
+      ]
+    }
+  ],
+  "uuid": "402e097d-f9f3-4531-a6a1-717f2ee8fd87",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 402e097d-f9f3-4531-a6a1-717f2ee8fd87)",
+  "source": "https://api.riigikogu.ee/api/volumes/402e097d-f9f3-4531-a6a1-717f2ee8fd87",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-10-01&endDate=2014-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
