@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung esmaspäev, 13.10.2014 11:00",
+  "sitting_time": "2014-10-13T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väliskomisjoni VIII istungjärgu 5. töönädala töökava kinnitamine.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e413fab9-4244-4511-9ecd-2a20853c193d"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade 4. oktoobril 2014 toimunud Läti parlamendivalimistest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "70977789-5964-4cee-b0e3-91966a7569ac"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d4018658-7f8d-46ed-9810-33b755527a07"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "56dacc97-0ca8-4791-b270-8d696bea68be",
+      "files": [
+        "Protokol_20141013.pdf",
+        "Protokoll.ddoc"
+      ]
+    }
+  ],
+  "uuid": "839c9bde-285c-477d-af34-388cbc5f86de",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 839c9bde-285c-477d-af34-388cbc5f86de)",
+  "source": "https://api.riigikogu.ee/api/volumes/839c9bde-285c-477d-af34-388cbc5f86de",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-10-01&endDate=2014-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
