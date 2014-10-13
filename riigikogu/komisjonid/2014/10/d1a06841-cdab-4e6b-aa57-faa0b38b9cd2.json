@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung esmaspäev, 13.10.2014 11:00",
+  "sitting_time": "2014-10-13T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b5c363a3-43f5-4c42-9b7a-d3d55fc93d26"
+    },
+    {
+      "order": 2,
+      "title": "2015. aasta riigieelarve seaduse eelnõu (730 SE I) Osaleb sotsiaalkaitseminister Helmen Kütt.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2d5abe4f-172c-4be2-9d41-b13a6b4ff57b"
+    },
+    {
+      "order": 3,
+      "title": "Riigikogu otsus \"Euroopa stabiilsusmehhanismi pankade otserekapitaliseerimise vahendi loomiseks volituste andmine\" (734 OE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a251448f-8871-436f-b9a6-9784b0994dfd"
+    },
+    {
+      "order": 4,
+      "title": "Info",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f17c9280-9069-4f40-b70c-8abebda123ad"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "8de29fa2-4c2d-4a2d-8896-23aa2d8c64c6",
+      "files": [
+        "Protokol_20141017.pdf",
+        "Protokoll.ddoc"
+      ]
+    }
+  ],
+  "uuid": "d1a06841-cdab-4e6b-aa57-faa0b38b9cd2",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d1a06841-cdab-4e6b-aa57-faa0b38b9cd2)",
+  "source": "https://api.riigikogu.ee/api/volumes/d1a06841-cdab-4e6b-aa57-faa0b38b9cd2",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-10-01&endDate=2014-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
