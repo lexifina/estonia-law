@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung teisipäev, 14.10.2014 14:00",
+  "sitting_time": "2014-10-14T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade Eesti ja Ungari kahepoolsetest suhetest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "73e6949e-41ba-46ce-ba0f-7555a3e7b948"
+    },
+    {
+      "order": 2,
+      "title": "Julgeolekupoliitika arutelu olulise tähtsusega riikliku küsimusena Riigikogu täiskogul 16. oktoobril 2014 - väliskomisjoni ettekanne.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "585ec6c2-7927-40cb-a74f-526c5c1640ef"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "20596976-eeba-4b4c-a24c-274f2193ce47"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "2216a7f5-7d15-4fe4-8d4b-ee2e7c1e9c25",
+      "files": [
+        "Protokoll.ddoc",
+        "Protokol_20141014.pdf"
+      ]
+    }
+  ],
+  "uuid": "a64b4128-1a02-44eb-9d0c-19ed294f99cb",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a64b4128-1a02-44eb-9d0c-19ed294f99cb)",
+  "source": "https://api.riigikogu.ee/api/volumes/a64b4128-1a02-44eb-9d0c-19ed294f99cb",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-10-01&endDate=2014-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
