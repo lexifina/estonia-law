@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung teisipäev, 14.10.2014 13:00",
+  "sitting_time": "2014-10-14T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väljasõiduistung EAS-i ja  IT Showroomi tutvustus.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2f2966b2-c6f5-4676-9111-eb49d0aca1f5"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7e029eef-f421-4855-8d83-265868ed689e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "d7e8b9ab-5bd2-4013-a2c8-e8554c3dba4a",
+      "files": [
+        "Protokol_20141016.pdf"
+      ]
+    }
+  ],
+  "uuid": "4bdb2ed7-469e-487f-81cd-22af9d2838bb",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 4bdb2ed7-469e-487f-81cd-22af9d2838bb)",
+  "source": "https://api.riigikogu.ee/api/volumes/4bdb2ed7-469e-487f-81cd-22af9d2838bb",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-10-01&endDate=2014-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
