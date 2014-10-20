@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung esmaspäev, 20.10.2014 11:00",
+  "sitting_time": "2014-10-20T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "541b8da2-1fd8-4e2d-affd-9b6330c1a6eb"
+    },
+    {
+      "order": 2,
+      "title": "Relvaseaduse muutmise ja sellega seonduvalt teiste seaduste muutmise seaduse eelnõu (736 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9721a4b1-f171-48d5-835f-887034eef7e4"
+    },
+    {
+      "order": 3,
+      "title": "Abipolitseiniku seaduse ja liiklusseaduse muutmise seaduse eelnõu (724 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d9f02576-4f9b-4613-9a66-f1a5a1df2790"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "6c0ccc0f-b306-44fe-aaaa-862790959205",
+      "files": [
+        "Protokoll.ddoc",
+        "Protokol_20141020.pdf"
+      ]
+    }
+  ],
+  "uuid": "40649cce-015a-403b-831c-2f96a8f0e773",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 40649cce-015a-403b-831c-2f96a8f0e773)",
+  "source": "https://api.riigikogu.ee/api/volumes/40649cce-015a-403b-831c-2f96a8f0e773",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-10-01&endDate=2014-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
