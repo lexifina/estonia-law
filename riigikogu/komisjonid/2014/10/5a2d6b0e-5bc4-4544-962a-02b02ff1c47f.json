@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 20.10.2014 11:00",
+  "sitting_time": "2014-10-20T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "929082ad-bf29-4b6a-9968-b68b01f832e0"
+    },
+    {
+      "order": 2,
+      "title": "Eesti Keskerakonna fraktsiooni poolt algatatud kinnisasja omandamise kitsendamise seaduse muutmise seaduse eelnõu (694 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ebd65b3f-44f7-4c32-95fd-8579db49c522"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "fe54ed19-06dd-4c40-bde8-3973570527b1",
+      "files": [
+        "Protokoll.ddoc",
+        "Protokol_20141021.pdf"
+      ]
+    }
+  ],
+  "uuid": "5a2d6b0e-5bc4-4544-962a-02b02ff1c47f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 5a2d6b0e-5bc4-4544-962a-02b02ff1c47f)",
+  "source": "https://api.riigikogu.ee/api/volumes/5a2d6b0e-5bc4-4544-962a-02b02ff1c47f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-10-01&endDate=2014-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
