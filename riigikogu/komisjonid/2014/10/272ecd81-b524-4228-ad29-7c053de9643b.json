@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung esmaspäev, 20.10.2014 11:10",
+  "sitting_time": "2014-10-20T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "69d433d5-2260-4b37-ba36-8f060983a1ff"
+    },
+    {
+      "order": 2,
+      "title": "Apteegiteenuse kättesaadavuse tagamisest maapiirkondades",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6f8cdb94-a329-4d1f-984f-0c7af15e69b5"
+    },
+    {
+      "order": 3,
+      "title": "Lastekaitseseaduse (677 SE)   eelnõu ettevalmistamiseks teiseks lugemiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3d1e7e1e-0a76-4023-a2a5-5abe04577027"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "c537733f-3cb9-42e0-8ba1-7fbddcc637f2",
+      "files": [
+        "Protokol_20141111.pdf"
+      ]
+    }
+  ],
+  "uuid": "272ecd81-b524-4228-ad29-7c053de9643b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 272ecd81-b524-4228-ad29-7c053de9643b)",
+  "source": "https://api.riigikogu.ee/api/volumes/272ecd81-b524-4228-ad29-7c053de9643b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-10-01&endDate=2014-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
