@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung esmaspäev, 20.10.2014 08:30",
+  "sitting_time": "2014-10-20T08:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 23.-24. oktoobril 2014 toimuval Euroopa Ülemkogu istungil ja euroala tippkohtumisel.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6dd45d17-c0f6-46d2-8721-072e57ca37c5"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a9ee6a40-5a0e-4c00-a79a-d19452368b34"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "ac0b6e92-daaa-4af1-b8e7-77b97ed6dce5",
+      "files": [
+        "Protokol_20141020.pdf"
+      ]
+    }
+  ],
+  "uuid": "5265bdc6-08e8-4d6c-a3e7-5379ddc39dd9",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 5265bdc6-08e8-4d6c-a3e7-5379ddc39dd9)",
+  "source": "https://api.riigikogu.ee/api/volumes/5265bdc6-08e8-4d6c-a3e7-5379ddc39dd9",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-10-01&endDate=2014-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
