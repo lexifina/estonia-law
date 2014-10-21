@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung teisipäev, 21.10.2014 14:00",
+  "sitting_time": "2014-10-21T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6f5eed6b-62c9-4038-84b3-ed6f82b5e9a8"
+    },
+    {
+      "order": 2,
+      "title": "Erakorralise seisukorra seaduse, hädaolukorra seaduse ja Kaitseväe korralduse seaduse muutmise seaduse eelnõu (719 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1a7a2be8-02e0-40db-8f24-d6866819f7a8"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6dc2ed10-bd18-45a6-a108-c02441a35edf"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "d9d8d8b7-b09b-4e13-b5a8-3982ab64f88c",
+      "files": [
+        "Protokol_20141021.pdf"
+      ]
+    }
+  ],
+  "uuid": "bff1b235-99e9-4e48-b949-7b68ab37fc48",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid bff1b235-99e9-4e48-b949-7b68ab37fc48)",
+  "source": "https://api.riigikogu.ee/api/volumes/bff1b235-99e9-4e48-b949-7b68ab37fc48",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-10-01&endDate=2014-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
