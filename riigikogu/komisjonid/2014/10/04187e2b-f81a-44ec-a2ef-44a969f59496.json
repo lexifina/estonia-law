@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung neljapäev, 23.10.2014 13:00",
+  "sitting_time": "2014-10-23T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Informatsioon arengutest Ukrainas.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0d523bec-f097-4e44-86ca-f66e136b9fc4"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "89b9b02b-9f9b-4395-9940-d33820ac2980"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "75cc2b62-0f8a-4dd3-a11c-6b69e7992db0",
+      "files": [
+        "Protokoll.ddoc",
+        "Protokol_20141023.pdf"
+      ]
+    }
+  ],
+  "uuid": "04187e2b-f81a-44ec-a2ef-44a969f59496",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 04187e2b-f81a-44ec-a2ef-44a969f59496)",
+  "source": "https://api.riigikogu.ee/api/volumes/04187e2b-f81a-44ec-a2ef-44a969f59496",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-10-01&endDate=2014-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
