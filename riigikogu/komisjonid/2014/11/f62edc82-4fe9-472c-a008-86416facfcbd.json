@@ -1,0 +1,42 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 3.11.2014 11:00",
+  "sitting_time": "2014-11-03T11:00:00",
+  "sitting_type": "UHISISTUNG",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine;",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d543da94-4071-4725-aa34-b4cb28d7ed53"
+    },
+    {
+      "order": 2,
+      "title": "Arutelu teemal: põlevkivisektori arengusuunad ja keskkonnatasud.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "533b1388-b17e-493c-95de-4f704334bc02"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Arutelu teemal: põlevkivisektori arengusuunad ja keskkonnatasud",
+      "uuid": "2b3c77b1-7896-4cea-9da0-48c0263d3285",
+      "files": [
+        "Praxis slaidid 03.11.14 03.11.14 põlevkivi.pdf",
+        "Keskkonnamin. slaidid 03.11.14 põlevkivi.pdf",
+        "Riigikontrolli salidid 03.11.14 põlevkivi.pdf",
+        "protokoll 170 03 11 2014.pdf"
+      ]
+    }
+  ],
+  "uuid": "f62edc82-4fe9-472c-a008-86416facfcbd",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f62edc82-4fe9-472c-a008-86416facfcbd)",
+  "source": "https://api.riigikogu.ee/api/volumes/f62edc82-4fe9-472c-a008-86416facfcbd",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-11-01&endDate=2014-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
