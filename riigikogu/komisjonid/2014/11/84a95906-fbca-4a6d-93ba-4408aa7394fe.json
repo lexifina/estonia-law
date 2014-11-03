@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung esmaspäev, 3.11.2014 11:30",
+  "sitting_time": "2014-11-03T11:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c142bb5a-d4a9-432f-acbb-44d288e269e0"
+    },
+    {
+      "order": 2,
+      "title": "2015. aasta riigieelarve seaduse  eelnõu (730 SE)  Kaitseministeeriumi valitsemisala",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "60643341-6938-4a99-9bc2-9323256159ea"
+    },
+    {
+      "order": 3,
+      "title": "Kaitseväeteenistuse seaduse, kaitseväeteenistuse seaduse rakendamise seaduse ja tervishoiuteenuste korraldamise seaduse muutmise seaduse eelnõu (721 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "01d08036-b2d8-4c5b-9c7e-55600f8a1e59"
+    },
+    {
+      "order": 4,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6e678262-1e16-4e5e-9437-49e8f946cf74"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "86dd8e88-2636-44be-8edc-3a418b6aeccf",
+      "files": [
+        "Protokol_20141103.pdf"
+      ]
+    }
+  ],
+  "uuid": "84a95906-fbca-4a6d-93ba-4408aa7394fe",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 84a95906-fbca-4a6d-93ba-4408aa7394fe)",
+  "source": "https://api.riigikogu.ee/api/volumes/84a95906-fbca-4a6d-93ba-4408aa7394fe",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-11-01&endDate=2014-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
