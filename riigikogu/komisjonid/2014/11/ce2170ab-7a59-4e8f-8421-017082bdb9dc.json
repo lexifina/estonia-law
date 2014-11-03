@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung esmaspäev, 3.11.2014 13:00",
+  "sitting_time": "2014-11-03T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 10.-11. novembril 2014 toimuval EL põllumajanduse ja kalanduse nõukogu istungil.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "137b8216-5907-40fe-bf8c-b7257f3fdd1a"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad 6. novembril 2014 toimuval EL eurorühma kohtumisel ja 7. novembril 2014 toimuval EL majandus- ja rahandusküsimuste nõukogu (ECOFIN) istungil.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fc8c6488-eaac-4c9e-9fff-83f0386ab67e"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused: EL asjade komisjoni ettekanne 4. novembril toimuval arutelul.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a3272ee5-7876-4e30-8baa-b3506faf387b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "5cd34219-b882-459f-8035-52cefbb9aabd",
+      "files": [
+        "Protokol_20141105.pdf"
+      ]
+    }
+  ],
+  "uuid": "ce2170ab-7a59-4e8f-8421-017082bdb9dc",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ce2170ab-7a59-4e8f-8421-017082bdb9dc)",
+  "source": "https://api.riigikogu.ee/api/volumes/ce2170ab-7a59-4e8f-8421-017082bdb9dc",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-11-01&endDate=2014-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
