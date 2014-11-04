@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 4.11.2014 14:00",
+  "sitting_time": "2014-11-04T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud kalandusturu korraldamise seaduse eelnõu (744 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "026779cf-90d1-48a2-a88f-1715f078bb04"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud Euroopa Liidu ühise põllumajanduspoliitika rakendamise seaduse eelnõu (745 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2e6ce2d2-8b83-46c3-b5d9-a87ec6e7ef01"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "1e3fb51e-e795-4b18-b7cc-5b3cb4d543b3",
+      "files": [
+        "Protokol_20141110.pdf",
+        "Protokoll.ddoc"
+      ]
+    }
+  ],
+  "uuid": "3b6d1dc4-a676-4843-a008-95d6ee87c773",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3b6d1dc4-a676-4843-a008-95d6ee87c773)",
+  "source": "https://api.riigikogu.ee/api/volumes/3b6d1dc4-a676-4843-a008-95d6ee87c773",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-11-01&endDate=2014-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
