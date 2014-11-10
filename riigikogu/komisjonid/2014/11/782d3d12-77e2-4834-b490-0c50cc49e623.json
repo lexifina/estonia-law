@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung esmaspäev, 10.11.2014 11:00",
+  "sitting_time": "2014-11-10T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "96e2300d-26af-4e22-9627-62cb379b300b"
+    },
+    {
+      "order": 2,
+      "title": "Kohtutäituri seaduse ja täitemenetluse seadustiku muutmise seaduse eelnõu (750 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5f71fa3f-cd3b-4812-9a06-9cff971993b2"
+    },
+    {
+      "order": 3,
+      "title": "Tsiviilkohtumenetluse seadustiku muutmise ja sellega seonduvalt teiste seaduste muutmise seaduse eelnõu (718 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2603f666-891b-4db8-bd64-0c288ffe7529"
+    },
+    {
+      "order": 4,
+      "title": "Päästeseaduse muutmise seaduse eelnõu (676 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e07c00af-7b55-4e2d-987f-8a77bddb230b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "4c791763-c602-40de-bd1a-3e2b60e9ab7c",
+      "files": [
+        "Protokol_20141111.pdf",
+        "Protokoll.ddoc"
+      ]
+    }
+  ],
+  "uuid": "782d3d12-77e2-4834-b490-0c50cc49e623",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 782d3d12-77e2-4834-b490-0c50cc49e623)",
+  "source": "https://api.riigikogu.ee/api/volumes/782d3d12-77e2-4834-b490-0c50cc49e623",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-11-01&endDate=2014-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
