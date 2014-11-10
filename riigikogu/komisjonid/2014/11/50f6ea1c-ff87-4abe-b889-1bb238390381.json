@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung esmaspäev, 10.11.2014 11:00",
+  "sitting_time": "2014-11-10T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "61f4ef23-0cd9-4666-af8a-d442b4f7e179"
+    },
+    {
+      "order": 2,
+      "title": "Rahandusministeeriumi ülevaade Euroopa Komisjoni sügisprognoosist",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d7b3ef63-d2f1-40e5-995c-4cc359d9e66b"
+    },
+    {
+      "order": 3,
+      "title": "2015. aasta riigieelarve seaduse eelnõu (730 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "975ecbf0-818d-4eee-abf1-8d76d8156737"
+    },
+    {
+      "order": 4,
+      "title": "Info",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0897779c-265d-4c3b-91c9-61b827d8695b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "8d6e5652-6659-4518-b449-6de38f27810b",
+      "files": [
+        "prot233_10.11.2014.pdf"
+      ]
+    }
+  ],
+  "uuid": "50f6ea1c-ff87-4abe-b889-1bb238390381",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 50f6ea1c-ff87-4abe-b889-1bb238390381)",
+  "source": "https://api.riigikogu.ee/api/volumes/50f6ea1c-ff87-4abe-b889-1bb238390381",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-11-01&endDate=2014-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
