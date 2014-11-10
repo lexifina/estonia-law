@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung esmaspäev, 10.11.2014 11:00",
+  "sitting_time": "2014-11-10T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "44b01bc8-5f70-4da0-9467-09b3e5e20904"
+    },
+    {
+      "order": 2,
+      "title": "Kaitseväeteenistuse seaduse, kaitseväeteenistuse seaduse rakendamise seaduse ja tervishoiuteenuste korraldamise seaduse muutmise seaduse eelnõu (721 SE II)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "28211b1d-1891-4d3d-93f6-61addc1eece3"
+    },
+    {
+      "order": 3,
+      "title": "Kaitseministeeriumi valitsemisala teadus- ja arenduspoliitika aastateks 2014- 2022",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a8e4c85b-04fb-4440-ad88-8ea8f5505dc1"
+    },
+    {
+      "order": 4,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dd598393-b3c2-4b93-8078-50ad925775e6"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "ef0980e9-2199-4b7b-9ba7-ad5604c623e3",
+      "files": [
+        "Protokol_20141110.pdf"
+      ]
+    }
+  ],
+  "uuid": "9715879f-fce7-4906-9fa1-330312f4dd05",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9715879f-fce7-4906-9fa1-330312f4dd05)",
+  "source": "https://api.riigikogu.ee/api/volumes/9715879f-fce7-4906-9fa1-330312f4dd05",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-11-01&endDate=2014-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
