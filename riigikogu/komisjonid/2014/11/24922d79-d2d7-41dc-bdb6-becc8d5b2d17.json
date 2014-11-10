@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 10.11.2014 13:30",
+  "sitting_time": "2014-11-10T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine;",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6a187995-1e8b-4e82-be85-9c53d5ebb9a8"
+    },
+    {
+      "order": 2,
+      "title": "Euroopa Kontrollikoja 2013. aasta aruande tutvustus ning arutelu.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7e78cef8-952e-49b6-bad0-e22efe8c323d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Euroopa Kontrollikoja 2013. aasta aruande tutvustus ning arutelu",
+      "uuid": "15653588-b109-4ce4-9ec8-69d4add5fbe3",
+      "files": [
+        "K.Kaljulaid slaidid 10.11.14.ppt",
+        "protokoll 173 10 11 2014.pdf"
+      ]
+    }
+  ],
+  "uuid": "24922d79-d2d7-41dc-bdb6-becc8d5b2d17",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 24922d79-d2d7-41dc-bdb6-becc8d5b2d17)",
+  "source": "https://api.riigikogu.ee/api/volumes/24922d79-d2d7-41dc-bdb6-becc8d5b2d17",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-11-01&endDate=2014-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
