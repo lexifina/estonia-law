@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 10.11.2014 11:00",
+  "sitting_time": "2014-11-10T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "74ec3898-10ee-44cd-8f6c-06cafa8be387"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud Euroopa Liidu ühise põllumajanduspoliitika rakendamise seaduse eelnõu (745 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "53dfc3f7-b0ec-4942-a9cd-27bd29f364f1"
+    },
+    {
+      "order": 3,
+      "title": "Vabariigi Valitsuse algatatud kalandusturu korraldamise seaduse eelnõu (744 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0b73ec34-b5b6-4765-84a1-94fae4d49243"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "ff9e6d35-860e-466b-b5c2-20e4a1750668",
+      "files": [
+        "Protokol_20141111.pdf",
+        "Protokoll.ddoc"
+      ]
+    }
+  ],
+  "uuid": "c317d1e2-fa2b-4809-b56e-0e3296e00560",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c317d1e2-fa2b-4809-b56e-0e3296e00560)",
+  "source": "https://api.riigikogu.ee/api/volumes/c317d1e2-fa2b-4809-b56e-0e3296e00560",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-11-01&endDate=2014-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
