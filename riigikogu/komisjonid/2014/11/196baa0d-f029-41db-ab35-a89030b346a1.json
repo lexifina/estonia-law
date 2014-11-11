@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung teisipäev, 11.11.2014 14:00",
+  "sitting_time": "2014-11-11T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti Arengufondi poolt koostatava Eesti biometaani programmi (EBP) vaheraporti tutvustus.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "50c02ff1-c914-48f2-b92f-87a7beb5abb2"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c4491771-1fbb-4538-bac8-43bf92ba8e32"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "9f87de38-7769-4f0f-b696-83b3b72b2ac5",
+      "files": [
+        "Protokol_20141120.pdf"
+      ]
+    }
+  ],
+  "uuid": "196baa0d-f029-41db-ab35-a89030b346a1",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 196baa0d-f029-41db-ab35-a89030b346a1)",
+  "source": "https://api.riigikogu.ee/api/volumes/196baa0d-f029-41db-ab35-a89030b346a1",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-11-01&endDate=2014-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
