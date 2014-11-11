@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung teisipäev, 11.11.2014 14:00",
+  "sitting_time": "2014-11-11T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kutseseaduse muutmise seaduse eelnõu (743 SE I) - arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9cb56823-faad-48e0-9d9d-713d81b27c29"
+    },
+    {
+      "order": 2,
+      "title": "Kunstiteoste tellimise seaduse muutmise seaduse eelnõu (735 SE I) - muudatusettepanekute hääletamine, II lugemise menetlusotsused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "97387884-0d6d-42f3-b804-96c1a822fcd1"
+    },
+    {
+      "order": 3,
+      "title": "Lähetus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b7840724-7279-459d-99e8-c3cf3b3e557d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "bf47837a-32da-4b79-9ac0-e3c3400347cc",
+      "files": [
+        "Protokoll.ddoc",
+        "Protokol_20141118.pdf"
+      ]
+    }
+  ],
+  "uuid": "397341ba-3bd2-42e3-b2f8-f09acc4cc859",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 397341ba-3bd2-42e3-b2f8-f09acc4cc859)",
+  "source": "https://api.riigikogu.ee/api/volumes/397341ba-3bd2-42e3-b2f8-f09acc4cc859",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-11-01&endDate=2014-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
