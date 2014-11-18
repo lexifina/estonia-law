@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 18.11.2014 14:00",
+  "sitting_time": "2014-11-18T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "94295731-0f51-4dfe-89c1-47b3b4c08c8c"
+    },
+    {
+      "order": 2,
+      "title": "Eesti Arengufondi poolt koostatava Eesti biometaani programmi (EBP) vaheraporti tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5089c452-8c41-4ae4-be6b-42dde127f438"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "bb058d10-e249-4318-9434-1091ec5cd5e3",
+      "files": [
+        "Protokoll.ddoc",
+        "Protokol_20141120.pdf"
+      ]
+    }
+  ],
+  "uuid": "746e9e42-6822-4667-8ba9-dea66577fc93",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 746e9e42-6822-4667-8ba9-dea66577fc93)",
+  "source": "https://api.riigikogu.ee/api/volumes/746e9e42-6822-4667-8ba9-dea66577fc93",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-11-01&endDate=2014-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
