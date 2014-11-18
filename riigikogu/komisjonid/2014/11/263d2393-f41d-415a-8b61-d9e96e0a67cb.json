@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung teisipäev, 18.11.2014 14:00",
+  "sitting_time": "2014-11-18T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väljasõiduistung AS-i ABB",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6bd30f6b-dc81-47e3-a8ea-3db7d4757322"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7d5b238f-5077-4e42-bcd7-a572225d46ee"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "07baf479-18f7-4131-bf6c-ab1a56111dad",
+      "files": [
+        "Protokol_20141124.pdf"
+      ]
+    }
+  ],
+  "uuid": "263d2393-f41d-415a-8b61-d9e96e0a67cb",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 263d2393-f41d-415a-8b61-d9e96e0a67cb)",
+  "source": "https://api.riigikogu.ee/api/volumes/263d2393-f41d-415a-8b61-d9e96e0a67cb",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-11-01&endDate=2014-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
