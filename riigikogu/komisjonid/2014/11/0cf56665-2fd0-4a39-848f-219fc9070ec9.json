@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung teisipäev, 18.11.2014 14:00",
+  "sitting_time": "2014-11-18T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Päästeseaduse muutmise seaduse eelnõu (676 SE II)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0b9cb484-7349-4f14-8b8a-d75dce2369b2"
+    },
+    {
+      "order": 2,
+      "title": "Tsiviilkohtumenetluse seadustiku, võlaõigusseaduse ja tsiviilseadustiku üldosa seaduse muutmise seaduse eelnõu (713 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c2b322dd-2606-444c-a4f3-22ddf99d9a47"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "af196de5-f100-4899-96d4-a7485ecead19",
+      "files": [
+        "Protokoll.ddoc",
+        "Protokol_20141119.pdf"
+      ]
+    }
+  ],
+  "uuid": "0cf56665-2fd0-4a39-848f-219fc9070ec9",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0cf56665-2fd0-4a39-848f-219fc9070ec9)",
+  "source": "https://api.riigikogu.ee/api/volumes/0cf56665-2fd0-4a39-848f-219fc9070ec9",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-11-01&endDate=2014-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
