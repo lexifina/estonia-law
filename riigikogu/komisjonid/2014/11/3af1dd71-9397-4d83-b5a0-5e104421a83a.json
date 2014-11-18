@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung teisipäev, 18.11.2014 14:00",
+  "sitting_time": "2014-11-18T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väliskomisjoni tellitud uuringu „Eesti Aasia-suunaline võimekus avalikus sektoris ja ettevõtete ootused” esitlus.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e3d5c8bb-5b9e-42f0-a984-f5093d70907a"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "661599c9-deb2-4185-8e6e-e90e9b8f96e2"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "6ea2ad49-2f80-420b-80b9-17ab01ba5845",
+      "files": [
+        "Protokoll.ddoc",
+        "Protokol_20141118.pdf"
+      ]
+    }
+  ],
+  "uuid": "3af1dd71-9397-4d83-b5a0-5e104421a83a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3af1dd71-9397-4d83-b5a0-5e104421a83a)",
+  "source": "https://api.riigikogu.ee/api/volumes/3af1dd71-9397-4d83-b5a0-5e104421a83a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-11-01&endDate=2014-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
