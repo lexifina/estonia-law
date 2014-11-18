@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung teisipäev, 18.11.2014 11:00",
+  "sitting_time": "2014-11-18T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Finantsinspektsiooni esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "edfbcfc6-c10c-485e-9bd6-ba079a3229e9"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu otsus \"Riigi 2013. aasta majandusaasta koondaruande kinnitamine\" (715 OE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "91d131c1-2584-4172-9f84-9592eceb82bb"
+    },
+    {
+      "order": 3,
+      "title": "2014. aasta riigieelarve seaduse muutmise seaduse eelnõu (746 SE II)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fbfae6b3-0050-47b1-a083-a8c7683790cd"
+    },
+    {
+      "order": 4,
+      "title": "Info",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "74228150-2fa0-4807-aded-7caf9c02d722"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "f270554a-32bc-4290-9baa-2b54b77bfd9c",
+      "files": [
+        "RAHK Protokoll 238 18.11.2014 .pdf"
+      ]
+    }
+  ],
+  "uuid": "5884b63c-6f6a-445c-9e84-b3b6a1b8ad6f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 5884b63c-6f6a-445c-9e84-b3b6a1b8ad6f)",
+  "source": "https://api.riigikogu.ee/api/volumes/5884b63c-6f6a-445c-9e84-b3b6a1b8ad6f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-11-01&endDate=2014-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
