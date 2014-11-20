@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung neljapäev, 20.11.2014 13:00",
+  "sitting_time": "2014-11-20T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ehitusseadustik (555 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "08d0c1b3-96b9-4b62-9442-9a7508344940"
+    },
+    {
+      "order": 2,
+      "title": "Reklaamiseaduse muutmise seaduse eelnõu (780 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4cb5171a-2743-467c-a246-25380d6edf71"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d6d4efe7-67c1-4fbb-adbb-c200fbcaad5b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAJK 20.11.2014 nr 252",
+      "uuid": "d213130c-ab8c-4bea-a6c4-15e1ae86905e",
+      "files": [
+        "MAJK 20.11.2014 NR 252.docx"
+      ]
+    }
+  ],
+  "uuid": "ca7e12cc-f691-4df5-86fa-e069a6f2766a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ca7e12cc-f691-4df5-86fa-e069a6f2766a)",
+  "source": "https://api.riigikogu.ee/api/volumes/ca7e12cc-f691-4df5-86fa-e069a6f2766a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-11-01&endDate=2014-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
