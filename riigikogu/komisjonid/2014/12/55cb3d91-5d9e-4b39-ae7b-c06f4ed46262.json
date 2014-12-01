@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 1.12.2014 11:00",
+  "sitting_time": "2014-12-01T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ee40360a-40fb-4bbd-8fbc-74d0201984ee"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine Võrumaa omavalitsusjuhtidega. Kohalike omavalitsuste toetamine 2014-2020 finantsperioodil",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e03a0836-a2da-4c10-8204-27c8dde882cc"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "08b27044-2294-4536-87ae-f931317d4677",
+      "files": [
+        "Protokoll.ddoc",
+        "Protokol_20141203.pdf"
+      ]
+    }
+  ],
+  "uuid": "55cb3d91-5d9e-4b39-ae7b-c06f4ed46262",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 55cb3d91-5d9e-4b39-ae7b-c06f4ed46262)",
+  "source": "https://api.riigikogu.ee/api/volumes/55cb3d91-5d9e-4b39-ae7b-c06f4ed46262",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-12-01&endDate=2014-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
