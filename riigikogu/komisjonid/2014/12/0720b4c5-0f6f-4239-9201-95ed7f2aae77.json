@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung esmaspäev, 01.12.2014",
+  "sitting_time": "2014-12-01T11:05:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala (01.12-07.12.2014. a) töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4a1e4cd0-e98c-4465-b788-4f6a70425808"
+    },
+    {
+      "order": 2,
+      "title": "Keskkonnatasude seaduse muutmise seaduse eelnõu (778 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ae131996-9bcd-4782-a00a-9b5f1050c3fa"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Keskkonnakomisjoni 01.12.2014. a protokoll",
+      "uuid": "42200a49-c3ff-4f59-94e7-de6c8f1ad86e",
+      "files": [
+        "Keskkonnakomisjoni_01.12.2014_protokoll.ddoc",
+        "Keskkonnakomisjoni_01.12.2014_20141204.pdf"
+      ]
+    }
+  ],
+  "uuid": "0720b4c5-0f6f-4239-9201-95ed7f2aae77",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0720b4c5-0f6f-4239-9201-95ed7f2aae77)",
+  "source": "https://api.riigikogu.ee/api/volumes/0720b4c5-0f6f-4239-9201-95ed7f2aae77",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-12-01&endDate=2014-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
