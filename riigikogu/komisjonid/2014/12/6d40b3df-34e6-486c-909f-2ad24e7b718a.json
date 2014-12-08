@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 8.12.2014 11:00",
+  "sitting_time": "2014-12-08T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "095a4fe2-7dab-48f9-b5ad-c031da1bf314"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud alkoholiseaduse muutmise seaduse eelnõu (723 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1f032510-d7da-4642-9277-08c73a9fae65"
+    },
+    {
+      "order": 3,
+      "title": "Riigikogu liikmete Etti Kagarov´i ja Jaak Allik´u algatatud kinnisasja omandamise kitsendamise seaduse § 10 muutmise seaduse eelnõu (749 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5231983c-f006-4dfe-b388-3106e977bd44"
+    },
+    {
+      "order": 4,
+      "title": "Eesti Keskerakonna fraktsiooni algatatud kinnisasja omandamise kitsendamise seaduse muutmise seaduse eelnõu (769 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e842c0ab-aa4d-44c2-92a0-0b0a477aa344"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "f4b5a82a-2669-4775-804a-4beca911d273",
+      "files": [
+        "Protokol_20141210.pdf",
+        "Protokoll.ddoc"
+      ]
+    }
+  ],
+  "uuid": "6d40b3df-34e6-486c-909f-2ad24e7b718a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 6d40b3df-34e6-486c-909f-2ad24e7b718a)",
+  "source": "https://api.riigikogu.ee/api/volumes/6d40b3df-34e6-486c-909f-2ad24e7b718a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-12-01&endDate=2014-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
