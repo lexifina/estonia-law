@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung teisipäev, 9.12.2014 14:00",
+  "sitting_time": "2014-12-09T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Rahvatervise seaduse muutmise seaduse eelnõu (756 SE I) ettevalmistamine teiseks lugemiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dc681899-d3ba-436e-afb2-7dff2b337cea"
+    },
+    {
+      "order": 2,
+      "title": "Tubakaseaduse ja sellega seonduvate seaduste muutmise seaduse eelnõu (753 SE ). Pöördumiste arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "45d13ec5-a1fc-438b-917e-2d53dbaf98e5"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "be4a5400-0f3c-43c4-a2be-07fefc0256c9",
+      "files": [
+        "Protokol_20150113.pdf",
+        "Protokol_20141210.pdf"
+      ]
+    }
+  ],
+  "uuid": "5aa5a722-7bfb-4317-858e-2db55addb8f9",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 5aa5a722-7bfb-4317-858e-2db55addb8f9)",
+  "source": "https://api.riigikogu.ee/api/volumes/5aa5a722-7bfb-4317-858e-2db55addb8f9",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-12-01&endDate=2014-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
