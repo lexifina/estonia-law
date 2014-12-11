@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung neljapäev, 11.12.2014 13:00",
+  "sitting_time": "2014-12-11T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 12. detsembril 2014 toimuval Euroopa Liidu välisasjade nõukogu (arenguministrid) istungil.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0d50c1af-cee4-4d82-9679-6821be8bb079"
+    },
+    {
+      "order": 2,
+      "title": "Välispoliitika arutelu olulise tähtsusega riikliku küsimusena Riigikogu täiskogul 12. veebruaril 2015 – arutelu korralduslikud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5d9e4959-f5f8-47a5-a184-1231611c69a4"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a88e0e04-6f22-4e45-b6df-99a69ace4dc8"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "7fb90f9e-dca0-414f-9999-53b3e9b44fdd",
+      "files": [
+        "Protokoll.ddoc",
+        "Protokol_20141211 (1).pdf"
+      ]
+    }
+  ],
+  "uuid": "cd909f59-5311-4eb0-af42-30d83f3318fe",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid cd909f59-5311-4eb0-af42-30d83f3318fe)",
+  "source": "https://api.riigikogu.ee/api/volumes/cd909f59-5311-4eb0-af42-30d83f3318fe",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-12-01&endDate=2014-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
