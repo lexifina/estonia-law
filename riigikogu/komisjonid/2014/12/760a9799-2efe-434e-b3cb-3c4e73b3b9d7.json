@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung neljapäev, 11.12.2014",
+  "sitting_time": "2014-12-11T12:40:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikogu liikmete Etti Kagarov´i ja Jaak Allik´u algatatud kinnisasja omandamise kitsendamise seaduse § 10 muutmise seaduse eelnõu (749 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "53a9f65a-0b79-4160-802d-10dd1c59390a"
+    },
+    {
+      "order": 2,
+      "title": "Eesti Keskerakonna fraktsiooni algatatud kinnisasja omandamise kitsendamise seaduse muutmise seaduse eelnõu (769 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "99773f97-44a4-43f7-b1aa-70becbaa6968"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "8e02488c-90fc-4957-9f90-b019ac13f126",
+      "files": [
+        "Protokoll.ddoc",
+        "Protokol_20141212.pdf"
+      ]
+    }
+  ],
+  "uuid": "760a9799-2efe-434e-b3cb-3c4e73b3b9d7",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 760a9799-2efe-434e-b3cb-3c4e73b3b9d7)",
+  "source": "https://api.riigikogu.ee/api/volumes/760a9799-2efe-434e-b3cb-3c4e73b3b9d7",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-12-01&endDate=2014-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
