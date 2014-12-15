@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 15.12.2014 11:00",
+  "sitting_time": "2014-12-15T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "17404b77-6825-405c-b202-01a3813a37e7"
+    },
+    {
+      "order": 2,
+      "title": "Aastakokkuvõtete tegemine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bfb8a92f-e848-46a0-b560-59af34a75c5e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "388aa129-9f6c-45f1-b473-e1120c37fad5",
+      "files": [
+        "Protokoll.ddoc",
+        "ÜLEVAADE 2014 aasta komisjonile.pdf",
+        "Protokol_20141215.pdf"
+      ]
+    }
+  ],
+  "uuid": "a3e35415-9b49-4421-b317-1304eb3a8bb6",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a3e35415-9b49-4421-b317-1304eb3a8bb6)",
+  "source": "https://api.riigikogu.ee/api/volumes/a3e35415-9b49-4421-b317-1304eb3a8bb6",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-12-01&endDate=2014-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
