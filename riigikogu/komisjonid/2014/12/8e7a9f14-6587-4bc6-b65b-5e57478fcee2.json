@@ -1,0 +1,53 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung esmaspäev, 15.12.2014 11:10",
+  "sitting_time": "2014-12-15T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c8fa2e83-9dc6-4847-8476-7ef14f246742"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad Euroopa Komisjoni teatise\n„Euroopa gaasisüsteemi valmisolek\nvõimalike tarnete katkemiste osas idast\nsügisel ja talvel 2014/2015“ kohta COM(2014) 654 (1-2/14-676/7)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "020a014f-6548-4944-a004-b8018bc42531"
+    },
+    {
+      "order": 3,
+      "title": "Majanduskomisjoni sügisistungjärgu  ja aasta kokkuvõtted.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4f16ea09-fa7c-4c10-ac82-3b37011f1614"
+    },
+    {
+      "order": 4,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6b5be5c6-25de-466c-b545-b890a6013a19"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "74753c49-a890-46fa-a2bb-903058f3c410",
+      "files": [
+        "Protokol_20141229.pdf",
+        "Protokol_20150106.pdf",
+        "Protokol_20150106 (1).pdf"
+      ]
+    }
+  ],
+  "uuid": "8e7a9f14-6587-4bc6-b65b-5e57478fcee2",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8e7a9f14-6587-4bc6-b65b-5e57478fcee2)",
+  "source": "https://api.riigikogu.ee/api/volumes/8e7a9f14-6587-4bc6-b65b-5e57478fcee2",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-12-01&endDate=2014-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
