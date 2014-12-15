@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung esmaspäev, 15.12.2014 13:30",
+  "sitting_time": "2014-12-15T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Moldova valimiste ülevaade.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "99d19ab6-0efe-4856-8557-700470a10831"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad 18.-19. detsembril 2014 toimuval Euroopa Ülemkogu istungil.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4b80d9aa-63f3-49e6-8f03-72d2a1927cbd"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "256977e1-cb62-477e-8236-78aa5794885f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "417af546-68a2-4420-95d5-c29b126db61b",
+      "files": [
+        "Protokol_20141216.pdf"
+      ]
+    }
+  ],
+  "uuid": "3fdac3af-4bd7-4798-8d0f-f15f0ba0b3ac",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3fdac3af-4bd7-4798-8d0f-f15f0ba0b3ac)",
+  "source": "https://api.riigikogu.ee/api/volumes/3fdac3af-4bd7-4798-8d0f-f15f0ba0b3ac",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-12-01&endDate=2014-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
