@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung teisipäev, 16.12.2014 14:00",
+  "sitting_time": "2014-12-16T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Maailma majanduse arengutrendid.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "06959190-1283-48cc-93a3-c3ef42960d59"
+    },
+    {
+      "order": 2,
+      "title": "Väliskomisjoni töövisiidi Ungarisse ettevalmistamine.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "23c10cbb-b5c4-4ae7-91a1-02b44f3c8db0"
+    },
+    {
+      "order": 3,
+      "title": "Informatsioon arengutest Ukrainas.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "adacc0f2-16ae-4534-ae53-5f5bed9bc602"
+    },
+    {
+      "order": 4,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9b564546-ff2c-4c9a-a0b1-3648e62ab550"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "b4703e4e-f84f-4096-9b64-8f3fd42c1191",
+      "files": [
+        "Protokol_20141218.pdf",
+        "Protokoll.ddoc"
+      ]
+    }
+  ],
+  "uuid": "3c5091bf-acc6-4a96-a889-090e876cb78c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3c5091bf-acc6-4a96-a889-090e876cb78c)",
+  "source": "https://api.riigikogu.ee/api/volumes/3c5091bf-acc6-4a96-a889-090e876cb78c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2014-12-01&endDate=2014-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
