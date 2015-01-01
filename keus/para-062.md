@@ -19,7 +19,3 @@
 (3) Keskkonnaloa kehtetuks tunnistamisel ei ole haldusmenetluse seaduse § 67 lõike 4 punkt 2 kohaldatav.
 
 (4) Keskkonnaluba tunnistatakse kehtetuks ilma avatud menetluseta, kui loa kehtivuse korral esineb keskkonnaoht või oluline keskkonnahäiring või kui haldusorgan ei pea vajalikuks avatud menetluse läbiviimist keskkonnaloa kehtetuks tunnistamisega kaasnevate väheoluliste mõjude tõttu.
-
-[
-
-– 5. peatükk jõustub 01.01.2015]
