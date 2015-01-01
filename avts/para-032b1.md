@@ -8,4 +8,4 @@
 
 (4) Teabevaldaja tagab ennast puudutava teabe aktuaalsuse ja ülevaatlikkuse Eesti teabeväravas ning teabe edastamise.
 
-(5) Eesti teabevärava haldamise, teabe kättesaadavaks tegemise, arendamise, kasutamise ning andmekogu teabeväravaga liidestamise nõuded ja korra.
+(5) võib määrusega kehtestada Eesti teabevärava haldamise, teabe kättesaadavaks tegemise, arendamise, kasutamise ning andmekogu teabeväravaga liidestamise nõuded ja korra.

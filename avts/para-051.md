@@ -1,6 +1,6 @@
 # § 51. Andmekaitse Inspektsiooni ettekirjutus
 
-Andmekaitse Inspektsioon võib teha teabevaldajale ettekirjutuse seadusliku olukorra taastamiseks, kui ta leiab, et teabevaldaja:
+(1) Andmekaitse Inspektsioon võib teha teabevaldajale ettekirjutuse seadusliku olukorra taastamiseks, kui ta leiab, et teabevaldaja:
 
 1) on ebaseaduslikult keeldunud teabenõude täitmisest;
 
@@ -19,3 +19,5 @@ Andmekaitse Inspektsioon võib teha teabevaldajale ettekirjutuse seadusliku oluk
 8) on jätnud seaduses sätestatud juurdepääsupiirangu kehtestamata;
 
 9) on väljastanud käesoleva seaduse alusel kehtestatud juurdepääsupiirangutega teavet.
+
+(3) Käesoleva paragrahvi lõikes 1 nimetatud ettekirjutuse täitmata jätmisel võib Andmekaitse Inspektsioon rakendada sunniraha asendustäitmise ja sunniraha seaduses sätestatud korras. Sunniraha ülemmäär on 9600 eurot.
