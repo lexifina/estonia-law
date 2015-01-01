@@ -28,9 +28,9 @@
 
 4) kinnitada oma allkirjaga tema poolt esitatud andmete õigsust.
 
-(5) Isiku doonoriks sobivuse kriteeriumid, hindamise tingimused ja korra ning vere loovutamist välistavate või piiravate haiguste ja muude tegurite loetelu
+(5) Isiku doonoriks sobivuse kriteeriumid, hindamise tingimused ja korra ning vere loovutamist välistavate või piiravate haiguste ja muude tegurite loetelu kehtestab
 
-.
+määrusega.
 
 (6) Retsipient käesoleva seaduse tähenduses on isik, kellele tehakse vereülekanne. Retsipiendil on võlaõigusseaduses sätestatud patsiendi õigused ja kohustused.
 

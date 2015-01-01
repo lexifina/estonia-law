@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/115032014088> (version in force from 2014-07-01)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/112072014154> (version in force from 2015-01-01)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -36,9 +36,8 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/115032014088> (version in force 
 | [§ 22](para-022.md) | Ettekirjutus |
 | [§ 23](para-023.md) | Ettekirjutuse vaidlustamine |
 | **6. peatükk VASTUTUS** | |
-| [§ 24](para-024.md) | Valeandmete tahtlik sisestamine vereteenistuse infosüsteemi |
-| [§ 25](para-025.md) | Riikliku järelevalve teostamise takistamine |
-| [§ 26](para-026.md) | Menetlus |
+| [§ 24](para-024.md) |  |
+| [§ 26](para-026.md) |  |
 | **7. peatükk RAKENDUSSÄTTED** | |
 | [§ 27](para-027.md) | Euroopa Komisjoni teavitamine |
 | [§ 28](para-028.md) | Heade tootmistavade rakendamine |

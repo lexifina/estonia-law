@@ -8,6 +8,6 @@
 
 (4) Ravimiamet koostab igal aastal talle edastatud info alusel koondaruande vere käitlemise ohtlike kõrvalekallete ning raskete kõrvaltoimete kohta ja edastab selle Sotsiaalministeeriumile, verekeskustele ja asjassepuutuvatele tervishoiuteenuse osutajatele.
 
-(5) Verevalvsuse ning verekomponentide tagasikutsumise tingimused ja korra
+(5) Verevalvsuse ning verekomponentide tagasikutsumise tingimused ja korra kehtestab
 
-.
+määrusega.

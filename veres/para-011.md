@@ -2,6 +2,6 @@
 
 (1) Patsiendi raviks sobivad doonoriverepreparaadid määratakse kindlaks patsiendi vere ja doonori vere immunohematoloogiliste uuringutega.
 
-(2) Immunohematoloogiliste uuringute tegemise tingimused ja korra
+(2) Immunohematoloogiliste uuringute tegemise tingimused ja korra kehtestab
 
-.
+määrusega.

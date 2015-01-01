@@ -1,5 +1,3 @@
-# § 24. Valeandmete tahtlik sisestamine vereteenistuse infosüsteemi
+# § 24.
 
-Juriidilise isiku poolt vereteenistuse infosüsteemi valeandmete tahtliku sisestamise eest –
-
-karistatakse rahatrahviga kuni 770 eurot.
+–
