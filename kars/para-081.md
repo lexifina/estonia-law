@@ -1,0 +1,39 @@
+# § 81. Süüteo aegumine
+
+(1) Kedagi ei tohi kuriteos süüdi mõista ega karistada, kui kuriteo lõpuleviimisest kuni selle kohta tehtud kohtuotsuse jõustumiseni on möödunud:
+
+1) kümme aastat esimese astme kuriteo korral;
+
+2) viis aastat teise astme kuriteo korral.
+
+(2) Agressioonikuritegu, genotsiidikuritegu, inimsusevastane kuritegu, sõjakuritegu ja kuritegu, mille eest on ette nähtud eluaegne vangistus, ei aegu.
+
+(3) Väärtegu on aegunud, kui selle lõpuleviimisest kuni selle kohta tehtud otsuse jõustumiseni on möödunud kaks aastat, kui seadus ei näe selle eest ette kolmeaastast aegumistähtaega.
+
+(4) Jätkuva süüteo korral arvutatakse aegumise tähtaega viimase teo lõpuleviimisest. Vältava süüteo korral arvutatakse aegumise tähtaega vältava teo lõppemisest.
+
+(5) Kuriteo aegumine katkeb kriminaalmenetluses järgmiste menetlustoimingute tegemisega:
+
+1) kahtlustatavale või süüdistatavale tõkendi kohaldamisega või tema vara või rahapesu objektiks oleva vara arestimisega;
+
+2) süüdistatava kohtu alla andmisega;
+
+3) kohtuliku arutamise edasilükkamisega süüdistatava ilmumata jäämise korral;
+
+4) kohtulikul arutamisel süüdistatava ülekuulamisega;
+
+5) kohtulikul arutamisel ekspertiisi või täiendavate tõendite kogumise määramisega.
+
+(6) Kui kuriteo aegumine on katkenud, algab aegumine uuesti käesoleva paragrahvi lõikes 5 sätestatud menetlustoimingu tegemisest. Isikut ei tohi kuriteos siiski süüdi mõista ega karistada, kui selle lõpuleviimisest kuni selle kohta tehtud kohtuotsuse jõustumiseni on möödunud käesoleva paragrahvi lõikes 1 sätestatust viie aasta võrra pikem aeg.
+
+(6¹) Kuriteo aegumise peatumise erisused seoses Riigikogu liikme immuniteediga on sätestatud Riigikogu liikme staatuse seaduse §-s 18¹.
+
+(7) Süüteo aegumine peatub:
+
+1) kahtlustatava, süüdistatava või menetlusaluse isiku kõrvalehoidumisel kohtueelsest menetlusest, kohtuvälisest menetlusest või kohtust kuni isiku kinnipidamiseni või tema ilmumiseni menetleja juurde;
+
+2) väärteo tunnustega teo kohta kriminaalmenetluse alustamisel kuni kriminaalmenetluse lõpetamiseni;
+
+3) seksuaalse enesemääramise vastase kuriteo korral noorema kui kaheksateistaastase isiku suhtes kuni kannatanu kaheksateistaastaseks saamiseni, kui kriminaalmenetluse ajend ei ilmnenud enne tema poolt nimetatud vanuse saavutamist.
+
+(8) Käesoleva paragrahvi lõike 7 punktides 1 ja 2 sätestatud juhtudel ei uuene aegumine, kui kuriteo lõpuleviimisest on möödunud viisteist aastat. Väärteo aegumine ei uuene, kui väärteo lõpuleviimisest on möödunud kolm aastat. Kui väärteo aegumistähtaeg on kolm aastat, ei uuene aegumine, kui väärteo lõpuleviimisest on möödunud neli aastat.

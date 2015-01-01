@@ -1,0 +1,13 @@
+# § 145. Suguühe või muu sugulise iseloomuga tegu lapseealisega
+
+(1) Täisealise isiku poolt noorema kui neljateistaastase isikuga suguühtesse astumise või muu sugulise iseloomuga teo toimepanemise eest –
+
+karistatakse kuni viieaastase vangistusega.
+
+(2) Sama teo eest, kui see on toime pandud isiku poolt, kes on varem toime pannud käesolevas jaos sätestatud kuriteo, –
+
+karistatakse kahe- kuni kaheksa-aastase vangistusega.
+
+(3) Sama teo eest, kui selle on toime pannud juriidiline isik, –
+
+karistatakse rahalise karistusega.

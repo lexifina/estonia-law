@@ -1,0 +1,27 @@
+# § 398. Siseteabe väärkasutamine
+
+(1) Siseteabe väärkasutamise eest –
+
+karistatakse rahatrahviga kuni 300 trahviühikut.
+
+(2) Sama teo eest:
+
+1) kui sellega on saadud olulises ulatuses varalist kasu, välditud olulise kahju tekkimist või finantsinstrumendi väärtuse olulist langust;
+
+2) kui see on toime pandud või on siseteabele juurdepääs saadud, kasutades ära ametiseisundit emitendis, väärtpaberituru kutselises osalises või selle konsolideerimisgrupis, samuti investeerimissoovituse koostajana või levitajana või
+
+3) grupi poolt, kui sellega on kahjustatud oluliselt väärtpaberituru usaldusväärsust, –
+
+karistatakse rahalise karistuse või kuni kolmeaastase vangistusega.
+
+(3) Käesoleva paragrahvi lõikes 1 sätestatud teo eest, kui selle on toime pannud juriidiline isik, –
+
+karistatakse rahatrahviga kuni 400 000 eurot.
+
+(4) Käesoleva paragrahvi lõikes 2 sätestatud teo eest, kui selle on toime pannud juriidiline isik, –
+
+karistatakse rahalise karistusega.
+
+(5) Kohus kohaldab käesolevas paragrahvis sätestatud kuriteo eest kuriteoga saadud vara laiendatud konfiskeerimist vastavalt käesoleva seadustiku §-s 83² sätestatule.
+
+(6) Käesoleva paragrahvi lõigetes 1 ja 3 sätestatud väärtegude aegumistähtaeg on kolm aastat.

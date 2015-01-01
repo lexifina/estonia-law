@@ -1,0 +1,25 @@
+# § 209. Kelmus
+
+(1) Teisele isikule varalise kahju tekitamise eest tegelikest asjaoludest teadvalt ebaõige ettekujutuse loomise teel varalise kasu saamise eesmärgil –
+
+karistatakse rahalise karistuse või kuni kolmeaastase vangistusega.
+
+(2) Sama teo eest, kui see on toime pandud:
+
+1) isiku poolt, kes on varem toime pannud varguse, röövimise, omastamise, süüteo toimepanemise tulemusena saadud vara omandamise, hoidmise või turustamise, asja tahtliku rikkumise või hävitamise, kelmuse või väljapressimise;
+
+2) ametiisiku poolt;
+
+3) suures ulatuses;
+
+4) grupi poolt või
+
+5) avalikkuse poole pöördudes, –
+
+karistatakse ühe- kuni viieaastase vangistusega.
+
+(3) Käesoleva paragrahvi lõikes 1 või 2 sätestatud teo eest, kui selle on toime pannud juriidiline isik, –
+
+karistatakse rahalise karistusega.
+
+(4) Kohus kohaldab käesoleva paragrahvi lõike 2 punktides 2 ja 3 sätestatud kuriteo eest kuriteoga saadud vara laiendatud konfiskeerimist vastavalt käesoleva seadustiku §-s 83² sätestatule.

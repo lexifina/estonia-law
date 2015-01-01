@@ -1,0 +1,25 @@
+# § 398¹. Turumanipulatsioon
+
+(1) Turumanipulatsiooni eest –
+
+karistatakse rahatrahviga kuni 300 trahviühikut.
+
+(2) Sama teo eest, kui see on toime pandud:
+
+1) emitendi või selle konsolideerimisgrupi juhi või tema lähedase või töötaja, väärtpaberituru kutselise osalise või selle konsolideerimisgrupi töötaja, investeerimissoovituse koostaja või levitaja poolt, kui see tõi kaasa olulise kasu, või
+
+2) grupi poolt, –
+
+karistatakse rahalise karistuse või kuni kolmeaastase vangistusega.
+
+(3) Käesoleva paragrahvi lõikes 1 sätestatud teo eest, kui selle on toime pannud juriidiline isik, –
+
+karistatakse rahatrahviga kuni 400 000 eurot.
+
+(4) Käesoleva paragrahvi lõikes 2 sätestatud teo eest, kui selle on toime pannud juriidiline isik, –
+
+karistatakse rahalise karistusega.
+
+(5) Kohus kohaldab käesolevas paragrahvis sätestatud kuriteo eest kuriteoga saadud vara laiendatud konfiskeerimist vastavalt käesoleva seadustiku §-s 83² sätestatule.
+
+(6) Käesoleva paragrahvi lõigetes 1 ja 3 sätestatud väärtegude aegumistähtaeg on kolm aastat.

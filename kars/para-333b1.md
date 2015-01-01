@@ -1,0 +1,11 @@
+# § 333¹. Raha võltsimine
+
+(1) Raha võltsimise eest kasutamise eesmärgil –
+
+karistatakse rahalise karistuse või kuni kaheksa-aastase vangistusega.
+
+(2) Käesoleva paragrahvi lõikes 1 sätestatud teo eest, kui selle on toime pannud juriidiline isik, –
+
+karistatakse rahalise karistusega.
+
+(3) Käesolevat paragrahvi kohaldatakse sõltumata sellest, kas võltsimise objektiks on käibele lastud või käibele laskmata raha, kui see on mõeldud ringluseks ning on seadusliku maksevahendina kasutatav vääring.
