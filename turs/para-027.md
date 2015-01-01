@@ -1,6 +1,6 @@
 # § 27. Turismiinfokeskusele esitatavad nõuded
 
-(1) Turismiinfokeskusele, sealhulgas edastatavale turismiinfole ja selle kättesaadavusele, samuti turismiinfokeskuse tähistamisele esitatavad kohustuslikud nõuded
+(1) Turismiinfokeskusele, sealhulgas edastatavale turismiinfole ja selle kättesaadavusele, samuti turismiinfokeskuse tähistamisele esitatavad kohustuslikud nõuded kehtestab
 
 .
 

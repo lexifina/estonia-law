@@ -6,7 +6,7 @@
 
 (3) Õiguse tegutseda järgu andja ja äravõtjana (edaspidi *järgu andja*) annab valdkonna eest vastutav minister. Õigus tegutseda järgu andjana antakse iga majutusettevõtte liigi osas vaid ühele isikule.
 
-(4) järgu andjana tegutsemise õiguse andmise korra ja tingimused ning nõuded järgu andjana tegutsemisele.
+(4) kehtestab järgu andjana tegutsemise õiguse andmise korra ja tingimused ning nõuded järgu andjana tegutsemisele.
 
 (5) Järgu omandamine on ettevõtjale vabatahtlik.
 
