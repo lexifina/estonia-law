@@ -30,6 +30,6 @@
 
 (8) Jahipiirkonna kasutusõiguse loale lisatakse jahipiirkonna piirikirjeldus ja kaart.
 
-(9) Jahipiirkonna kasutusõiguse loa vormi
+(9) Jahipiirkonna kasutusõiguse loa vormi kehtestab
 
 määrusega.

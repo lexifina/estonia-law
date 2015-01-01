@@ -6,7 +6,7 @@
 
 (3) Maaomanik või tema nõusolekul muu isik esitab jahipiirkonna kasutajale ulukikahjustuste ennetamise teatise, milles näitab ära kaitset vajava põllumajanduskultuuri, okaspuu-uuenduse või okaspuupuistu asukoha ning vara kaitseks rakendatud või planeeritavad kaitseabinõud.
 
-(4) Põllumajanduskultuuridele ning metsamaal kasvavatele okaspuudele uluksõraliste tekitatud kahju hindamise alused ja metoodika, nõuded hindamisaktile, kahju hüvitamise täpsustatud ulatuse ja hüvitamise korra ning hüvitatavate okaspuude nimekirja
+(4) Põllumajanduskultuuridele ning metsamaal kasvavatele okaspuudele uluksõraliste tekitatud kahju hindamise alused ja metoodika, nõuded hindamisaktile, kahju hüvitamise täpsustatud ulatuse ja hüvitamise korra ning hüvitatavate okaspuude nimekirja kehtestab
 
 määrusega.
 

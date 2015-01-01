@@ -1,6 +1,6 @@
 # § 48. Keskkonnale tekitatud kahju
 
-Uluki ebaseadusliku hukkamise ning uluki elupaiga hävitamise ja kahjustamisega keskkonnale tekitatud kahju arvestamise alused ja kahjumäärad uluki liikide kaupa
+Uluki ebaseadusliku hukkamise ning uluki elupaiga hävitamise ja kahjustamisega keskkonnale tekitatud kahju arvestamise alused ja kahjumäärad uluki liikide kaupa kehtestab
 
 määrusega, arvestades, et:
 

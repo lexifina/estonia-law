@@ -20,6 +20,6 @@
 
 8) hallhüljes.
 
-(3) Väikeulukite loetelu sätestatakse jahieeskirjas, mille
+(3) Väikeulukite loetelu sätestatakse jahieeskirjas, mille kehtestab
 
 määrusega.

@@ -42,6 +42,6 @@
 
 (12) Jahiluba annab jahipidamise õiguse ainult loale kantud isikule, välja arvatud käesoleva seaduse §-s 31 sätestatud ühisjahi puhul.
 
-(13) Jahiloa vormi
+(13) Jahiloa vormi kehtestab
 
 määrusega.

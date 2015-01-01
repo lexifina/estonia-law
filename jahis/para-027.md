@@ -6,6 +6,6 @@
 
 (3) Jahivibu on lubatud kasutada väikeulukitele jahipidamisel.
 
-(4) Jahivibu kasutamise täpsustatud nõuded
+(4) Jahivibu kasutamise täpsustatud nõuded kehtestab
 
 jahieeskirjas.

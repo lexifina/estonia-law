@@ -16,7 +16,7 @@
 
 (8) Jahitunnistuse annab ja jahitunnistuste üle peab arvestust, samuti korraldab jahiteooriaeksami ja laskekatse läbiviimist Keskkonnaamet või käesoleva seaduse § 10 lõike 1 alusel Keskkonnaministeeriumiga halduslepingu sõlminud isik (edaspidi koos *tunnistuse andja*).
 
-(9) Jahitunnistuse vormi, jahiteooriaeksami ja laskekatse sooritamise ning jahitunnistuse taotlemise ja andmise korra, samuti jahindusalasele koolitusele ja koolitajale esitatavad nõuded ning koolitamise korra
+(9) Jahitunnistuse vormi, jahiteooriaeksami ja laskekatse sooritamise ning jahitunnistuse taotlemise ja andmise korra, samuti jahindusalasele koolitusele ja koolitajale esitatavad nõuded ning koolitamise korra kehtestab
 
 määrusega.
 

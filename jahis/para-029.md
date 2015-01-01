@@ -2,13 +2,13 @@
 
 (1) Jahipidamisel tohib kasutada jahikoera, kellel on jahikoerapass või muu jahikoera tõugu tõendav dokument ning kes on kiibistatud või tätoveeringuga märgistatud. Jahikoeraga jahipidamisel peab kaasas olema jahikoerapass või muu jahikoera tõugu tõendav dokument.
 
-(2) Jahipidamisel kasutada lubatud koeratõugude nimekirja
+(2) Jahipidamisel kasutada lubatud koeratõugude nimekirja kehtestab
 
 jahieeskirjas.
 
 (3) Jahikoerapassi annab ja antud jahikoerapasside arvestust peab Keskkonnaamet või käesoleva seaduse § 10 lõike 1 alusel Keskkonnaministeeriumiga halduslepingu sõlminud isik.
 
-(4) Jahikoerapassi taotlemise ja andmise korra ning passi vormi
+(4) Jahikoerapassi taotlemise ja andmise korra ning passi vormi kehtestab
 
 määrusega.
 

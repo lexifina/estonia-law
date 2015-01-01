@@ -34,7 +34,7 @@
 
 7) uluki püüdmine.
 
-(3) Lubatud jahipidamisvahendi ja -viisi ning jahiaja uluki liikide kaupa
+(3) Lubatud jahipidamisvahendi ja -viisi ning jahiaja uluki liikide kaupa kehtestab
 
 jahieeskirjas.
 

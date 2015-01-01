@@ -12,7 +12,7 @@
 
 (2) Käesoleva paragrahvi lõike 1 punktides 3 ja 4 loetletud aladel on ulukite lisasöötmine keelatud
 
-(3) Käesoleva paragrahvi lõikes 1 nimetatud juhul tekkinud kahju hüvitamise korra
+(3) Käesoleva paragrahvi lõikes 1 nimetatud juhul tekkinud kahju hüvitamise korra kehtestab
 
 määrusega.
 
