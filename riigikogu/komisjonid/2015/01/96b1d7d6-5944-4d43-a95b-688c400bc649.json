@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung esmaspäev, 12.01.2015 11:00",
+  "sitting_time": "2015-01-12T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "78ffdbe1-4c22-418e-bff2-56314536aaf5"
+    },
+    {
+      "order": 2,
+      "title": "Riigikaitseseaduse eelnõu (772 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e7648a0b-6f9f-4bec-b7ab-903063c7f3ff"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "630ea99a-8f52-41a8-849f-b6d250aa77b7"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "51ddf1cc-3b52-45e6-b02b-ce131f223123",
+      "files": [
+        "Protokol_20150112.pdf"
+      ]
+    }
+  ],
+  "uuid": "96b1d7d6-5944-4d43-a95b-688c400bc649",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 96b1d7d6-5944-4d43-a95b-688c400bc649)",
+  "source": "https://api.riigikogu.ee/api/volumes/96b1d7d6-5944-4d43-a95b-688c400bc649",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-01-01&endDate=2015-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
