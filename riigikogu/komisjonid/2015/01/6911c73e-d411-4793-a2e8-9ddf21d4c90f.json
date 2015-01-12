@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung esmaspäev, 12.01.2015 11:00   ruumis 333",
+  "sitting_time": "2015-01-12T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "34eec943-dee0-4070-a478-c8c633f969bd"
+    },
+    {
+      "order": 2,
+      "title": "Rakkude, kudede ja elundite hankimise, käitlemise ja siirdamise seaduse eelnõu (757 SE) ettevalmistamine teiseks lugemiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bdc6d851-cea3-49ab-814f-1cae951d3ccc"
+    },
+    {
+      "order": 3,
+      "title": "Ravimiseaduse muutmise seaduse eelnõu (782 SE) ettevalmistamine teiseks lugemiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "335e9734-082f-415e-bc6e-98eb43ebe4da"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "2ffb23d5-da17-4d2c-807b-08858ea786f8",
+      "files": [
+        "Protokol_20150123.pdf"
+      ]
+    }
+  ],
+  "uuid": "6911c73e-d411-4793-a2e8-9ddf21d4c90f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 6911c73e-d411-4793-a2e8-9ddf21d4c90f)",
+  "source": "https://api.riigikogu.ee/api/volumes/6911c73e-d411-4793-a2e8-9ddf21d4c90f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-01-01&endDate=2015-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
