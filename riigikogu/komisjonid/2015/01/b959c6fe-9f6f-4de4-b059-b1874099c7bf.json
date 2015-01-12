@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung esmaspäev, 12.01.2015 11:00",
+  "sitting_time": "2015-01-12T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fd9a560a-413c-4dbd-a766-960b10afb464"
+    },
+    {
+      "order": 2,
+      "title": "Politsei ja piirivalve seaduse ning päästeteenistuse seaduse muutmise ning sellega seonduvalt teiste seaduste muutmise seaduse eelnõu (810 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "231849f7-3671-4a42-ba72-62684ab86092"
+    },
+    {
+      "order": 3,
+      "title": "Kriminaalmenetluse seadustiku rakendamise seaduse muutmise seaduse eelnõu (776 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fd51efd0-86c4-40bd-81ec-abc2c61c8d86"
+    },
+    {
+      "order": 4,
+      "title": "Vangistusseaduse ja kriminaalhooldusseaduse muutmise seaduse eelnõu (804 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "889de004-edb8-40c2-932b-8505ca4991e2"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "ff10863e-42d4-47e1-9443-5d13c7a0caa3",
+      "files": [
+        "Protokoll.bdoc",
+        "Protokol_20150113.pdf"
+      ]
+    }
+  ],
+  "uuid": "b959c6fe-9f6f-4de4-b059-b1874099c7bf",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b959c6fe-9f6f-4de4-b059-b1874099c7bf)",
+  "source": "https://api.riigikogu.ee/api/volumes/b959c6fe-9f6f-4de4-b059-b1874099c7bf",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-01-01&endDate=2015-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
