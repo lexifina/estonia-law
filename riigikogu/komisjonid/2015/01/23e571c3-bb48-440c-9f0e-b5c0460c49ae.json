@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 13.01.2015 14:00",
+  "sitting_time": "2015-01-13T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eestimaa mesinike pöördumine mesinduse ja looduse kaitseks.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5801b297-1fd2-459e-b0cd-89d8b99e941b"
+    },
+    {
+      "order": 2,
+      "title": "Maaparandusseaduse muutmise seaduse eelnõu (830 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cf80c4ca-2fa2-495a-aee7-57c8d6966c01"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "57016d2c-8cd4-48ae-b6cb-adf62e8a54da",
+      "files": [
+        "Protokol_20150115.pdf",
+        "Protokoll.bdoc"
+      ]
+    }
+  ],
+  "uuid": "23e571c3-bb48-440c-9f0e-b5c0460c49ae",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 23e571c3-bb48-440c-9f0e-b5c0460c49ae)",
+  "source": "https://api.riigikogu.ee/api/volumes/23e571c3-bb48-440c-9f0e-b5c0460c49ae",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-01-01&endDate=2015-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
