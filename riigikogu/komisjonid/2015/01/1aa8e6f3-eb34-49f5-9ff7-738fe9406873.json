@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung neljapäev, 15.01.2015 9:00",
+  "sitting_time": "2015-01-15T09:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väliskomisjoni IX istungjärgu 1. töönädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f05c1955-5c50-45a5-8a76-6eee35d6ee6e"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad 19. jaanuaril 2015 toimuval Euroopa Liidu välisasjade nõukogu istungil.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4caa86e3-ae8c-4e93-9b45-5109a1930c1d"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "22633803-8ff8-4bbb-8db7-cf18549582fe"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "eb2bc48d-20cc-4fbb-8220-c60fce9660b8",
+      "files": [
+        "Protokoll.bdoc",
+        "Protokol_20150115.pdf"
+      ]
+    }
+  ],
+  "uuid": "1aa8e6f3-eb34-49f5-9ff7-738fe9406873",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 1aa8e6f3-eb34-49f5-9ff7-738fe9406873)",
+  "source": "https://api.riigikogu.ee/api/volumes/1aa8e6f3-eb34-49f5-9ff7-738fe9406873",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-01-01&endDate=2015-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
