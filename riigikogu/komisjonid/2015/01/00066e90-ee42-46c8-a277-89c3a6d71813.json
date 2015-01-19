@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 19.01.2015 13:00",
+  "sitting_time": "2015-01-19T13:00:00",
+  "sitting_type": "UHISISTUNG",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7a32bf97-aff8-49f3-9b5d-b61964dbda7b"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli aruande \"Reklaami- ja kommunikatsiooniraha kasutamine valdades ja linnades\" arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d660cf38-23e3-462d-9f94-45c8c1f1b8ec"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "4648a276-e6b7-4f4e-b4c2-69584dde5bcb",
+      "files": [
+        "PROTOKOLLI 180.pdf",
+        "KOVide teavituskulud slaidid 19 01 2015.pptx"
+      ]
+    }
+  ],
+  "uuid": "00066e90-ee42-46c8-a277-89c3a6d71813",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 00066e90-ee42-46c8-a277-89c3a6d71813)",
+  "source": "https://api.riigikogu.ee/api/volumes/00066e90-ee42-46c8-a277-89c3a6d71813",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-01-01&endDate=2015-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
