@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Korruptsioonivastane erikomisjon",
+  "committee_uuid": "e4f2977a-e8c3-4fa0-8f3d-9df9acd6377f",
+  "title": "Komisjoni istung esmaspäev, 19.01.2015",
+  "sitting_time": "2015-01-19T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikontrolli aruande \"Reklaami- ja kommunikatsiooniraha kasutamine valdades ja linnades\" arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1c9f8585-27c6-47d0-a02d-5361dd7f2c3c"
+    },
+    {
+      "order": 2,
+      "title": "Komisjoni teadaandest ja laekunud informatsioonid",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "92a15975-6387-4b7b-a8be-61fc7b7627df"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Komisjoni istungi protokoll nr 47",
+      "uuid": "f2ab634f-ada0-4c9d-b09a-c97668d7ed56",
+      "files": [
+        "KOVide teavituskulud slaidid 19 01 2015.pptx",
+        "Lisa nr 3 protokolli nr 47 juurde - KVEK pöördumine erakondade poole.pdf",
+        "2015-01-19 protokoll nr 47.pdf"
+      ]
+    }
+  ],
+  "uuid": "08056a8e-7651-412c-b7d0-2513f1db8642",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 08056a8e-7651-412c-b7d0-2513f1db8642)",
+  "source": "https://api.riigikogu.ee/api/volumes/08056a8e-7651-412c-b7d0-2513f1db8642",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-01-01&endDate=2015-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
