@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung esmaspäev, 19.01.2015 11:00",
+  "sitting_time": "2015-01-19T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väliskomisjoni IX istungjärgu 2. töönädala töökava kinnitamine.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0b8665e6-8563-4a70-80a1-c49dc7a64d26"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade Eesti tegevusest soome-ugri hõimurahvaste toetamisel.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "878c340c-43f9-4cf1-ba83-452630a6e21c"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2690004a-dfa5-451c-9482-1262936af1e0"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "c4f876ed-ca9b-4009-bb15-5a827c9c9e6f",
+      "files": [
+        "Protokoll.bdoc",
+        "Protokol_20150121 (1).pdf"
+      ]
+    }
+  ],
+  "uuid": "3794298d-5d8f-4575-abd8-f16aa4ece55e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3794298d-5d8f-4575-abd8-f16aa4ece55e)",
+  "source": "https://api.riigikogu.ee/api/volumes/3794298d-5d8f-4575-abd8-f16aa4ece55e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-01-01&endDate=2015-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
