@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung teisipäev, 20.01.2015 14:00",
+  "sitting_time": "2015-01-20T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vedelkütuse erimärgistamise seaduse muutmise seaduse eelnõu algatamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f0a6cae3-a55f-4290-be74-ea439e7a2aff"
+    },
+    {
+      "order": 2,
+      "title": "Arutelu teemal Eesti Kaubandus -Tööstuskoja esitatud\nkollektiivne pöördumine riigieelarve seaduse ja maksukorralduse seaduse muutmiseks.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e52466bb-999a-4366-a483-0c90d707758d"
+    },
+    {
+      "order": 3,
+      "title": "Info",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ba70f6e1-1802-436c-8c63-4a97491334e3"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "7c7a3701-af75-482c-8a12-e8695e6db1da",
+      "files": [
+        "RAHK Protokoll 249 20.01.2015.pdf"
+      ]
+    }
+  ],
+  "uuid": "295a38f2-7569-493b-bb56-425415d01ea2",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 295a38f2-7569-493b-bb56-425415d01ea2)",
+  "source": "https://api.riigikogu.ee/api/volumes/295a38f2-7569-493b-bb56-425415d01ea2",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-01-01&endDate=2015-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
