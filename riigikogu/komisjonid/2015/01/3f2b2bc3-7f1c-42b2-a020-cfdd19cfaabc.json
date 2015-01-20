@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung teisipäev, 20.01.2015 14:00",
+  "sitting_time": "2015-01-20T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade Prantsusmaa sise- ja välispoliitikast ning Eesti ja Prantsusmaa kahepoolsetest suhetest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "055e621a-7b21-4950-aabb-8e802df17a56"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade Balti Assamblee Eesti delegatsiooni tegevusest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d88bd386-4c8c-4622-bb20-043374ae1f47"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0185da62-c771-48cf-a8fd-e70eb6ac68af"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "95870d99-56ec-4afc-b14f-f66f99d1d7cd",
+      "files": [
+        "Protokol_20150127.pdf",
+        "Protokoll.bdoc"
+      ]
+    }
+  ],
+  "uuid": "3f2b2bc3-7f1c-42b2-a020-cfdd19cfaabc",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3f2b2bc3-7f1c-42b2-a020-cfdd19cfaabc)",
+  "source": "https://api.riigikogu.ee/api/volumes/3f2b2bc3-7f1c-42b2-a020-cfdd19cfaabc",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-01-01&endDate=2015-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
