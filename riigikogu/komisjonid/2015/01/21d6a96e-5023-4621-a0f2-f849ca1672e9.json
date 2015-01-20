@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung teisipäev, 20.01.2015 13:00",
+  "sitting_time": "2015-01-20T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Raseduse katkestamise ja steriliseerimise seaduse muutmise seaduse eelnõu (731 SE ) ettevalmistamine teiseks lugemiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2b04e21c-18e1-4d68-a996-44808f92fdbd"
+    },
+    {
+      "order": 2,
+      "title": "Rakkude, kudede ja elundite hankimise, käitlemise ja siirdamise seaduse eelnõu (757 SE) ettevalmistamine  teiseks lugemiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "58903621-9d5b-4bb1-807e-66b830803f3c"
+    },
+    {
+      "order": 3,
+      "title": "Riigikogu otsus \"Ettepaneku tegemine Vabariigi Valitsusele\" (773 OE). Ettevalmistamine esimeseks lugemiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e9d7f43a-75af-4a3f-ab64-025fa12df936"
+    },
+    {
+      "order": 4,
+      "title": "Lesepensioni seaduse eelnõu (813 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "727ff07c-b462-4375-b874-afddfa54c7d0"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "c1a206da-a83e-471b-8c26-43a055e38bae",
+      "files": [
+        "Protokol_20150123.pdf"
+      ]
+    }
+  ],
+  "uuid": "21d6a96e-5023-4621-a0f2-f849ca1672e9",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 21d6a96e-5023-4621-a0f2-f849ca1672e9)",
+  "source": "https://api.riigikogu.ee/api/volumes/21d6a96e-5023-4621-a0f2-f849ca1672e9",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-01-01&endDate=2015-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
