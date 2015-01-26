@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung esmaspäev, 26.01.2015 11:15",
+  "sitting_time": "2015-01-26T11:17:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ebcf4330-088a-4d5c-bffb-5e7a3da7b3c5"
+    },
+    {
+      "order": 2,
+      "title": "Kodanikuühiskonna arengukava 2015-2020 arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f301c394-fbf3-4f25-a5bd-941da3839b45"
+    },
+    {
+      "order": 3,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "86e92609-d329-4b00-9580-0f338c2a6694"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "PSK 26.01.2015 protokoll",
+      "uuid": "1d5a8eae-4eaa-48df-943b-ae4b2d00c77b",
+      "files": [
+        "2015.01.26.pdf"
+      ]
+    }
+  ],
+  "uuid": "5ddf282c-0278-4099-baa3-52ac36a76ccf",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 5ddf282c-0278-4099-baa3-52ac36a76ccf)",
+  "source": "https://api.riigikogu.ee/api/volumes/5ddf282c-0278-4099-baa3-52ac36a76ccf",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-01-01&endDate=2015-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
