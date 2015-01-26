@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 26.01.2015 11:00",
+  "sitting_time": "2015-01-26T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "85766542-12d0-4491-92dc-b7b4a7393f4d"
+    },
+    {
+      "order": 2,
+      "title": "Kollektiivne pöördumine - Karusloomakasvanduste keelustamine Eestis",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "22db41ec-75bf-4447-84af-6272d4900610"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "427f647c-cd34-4b1e-9f63-a9f02536b661",
+      "files": [
+        "Protokol_20150127.pdf",
+        "Protokoll.bdoc"
+      ]
+    }
+  ],
+  "uuid": "4deff21b-265b-416b-9bbf-f329ceb1ba54",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 4deff21b-265b-416b-9bbf-f329ceb1ba54)",
+  "source": "https://api.riigikogu.ee/api/volumes/4deff21b-265b-416b-9bbf-f329ceb1ba54",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-01-01&endDate=2015-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
