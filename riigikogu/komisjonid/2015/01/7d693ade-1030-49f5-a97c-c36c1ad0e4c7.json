@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung esmaspäev, 26.01.2015 11:00",
+  "sitting_time": "2015-01-26T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a9780cbb-a31c-48c4-ad0e-121daab9c345"
+    },
+    {
+      "order": 2,
+      "title": "Avalik istung \"Üksikvanemate olukorrast ja  vajadustest Eestis\" Konverentsisaalis",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "22f7cfee-4f67-41d2-bf69-1b5d581cad1f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "046476a0-d825-4a98-acc6-978df8aa8154",
+      "files": [
+        "Protokol_20150206.pdf"
+      ]
+    }
+  ],
+  "uuid": "7d693ade-1030-49f5-a97c-c36c1ad0e4c7",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7d693ade-1030-49f5-a97c-c36c1ad0e4c7)",
+  "source": "https://api.riigikogu.ee/api/volumes/7d693ade-1030-49f5-a97c-c36c1ad0e4c7",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-01-01&endDate=2015-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
