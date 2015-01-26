@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung esmaspäev, 26.01.2015 11:00",
+  "sitting_time": "2015-01-26T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "97f63313-4d34-44b6-8832-6d1941b568cf"
+    },
+    {
+      "order": 2,
+      "title": "Arutelu teemal Eesti Kaubandus -Tööstuskoja esitatud\nkollektiivne pöördumine riigieelarve seaduse ja maksukorralduse seaduse muutmiseks.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2118d814-955f-43cf-8893-173fb43e0017"
+    },
+    {
+      "order": 3,
+      "title": "Info",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6684b067-a971-457e-b82f-9194f70a3b1e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "d858433b-1cfd-4ef7-8a28-59a6da550096",
+      "files": [
+        "RAHK Protokoll 251 26.01.2015.pdf"
+      ]
+    }
+  ],
+  "uuid": "816acc8b-6fcd-4788-82f2-179b38565b62",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 816acc8b-6fcd-4788-82f2-179b38565b62)",
+  "source": "https://api.riigikogu.ee/api/volumes/816acc8b-6fcd-4788-82f2-179b38565b62",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-01-01&endDate=2015-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
