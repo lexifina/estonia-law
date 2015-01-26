@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung esmaspäev, 26.01.2015 11:00",
+  "sitting_time": "2015-01-26T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1f696fb7-c40d-42a8-8adb-ec65f603ee31"
+    },
+    {
+      "order": 2,
+      "title": "Riigikaitseseaduse eelnõu (772 SE II)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f69048a9-4d81-46d9-a98f-c9bd261117f0"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "640d8586-a0e3-48a5-a9eb-a51922749903"
+    },
+    {
+      "order": 4,
+      "title": "Ühisistung väliskomisjoniga. Eesti seisukohad 5. veebruaril 2015 toimuval NATO kaitseministrite kohtumisel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d7a9ff1e-68f3-40c0-9426-3e8937d9057d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "38c073eb-67f9-4368-97ce-6d320ccc95a1",
+      "files": [
+        "Protokol_20150126.pdf"
+      ]
+    }
+  ],
+  "uuid": "5a9f0c3b-e2e3-48a9-bf50-1c1da138f71b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 5a9f0c3b-e2e3-48a9-bf50-1c1da138f71b)",
+  "source": "https://api.riigikogu.ee/api/volumes/5a9f0c3b-e2e3-48a9-bf50-1c1da138f71b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-01-01&endDate=2015-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
