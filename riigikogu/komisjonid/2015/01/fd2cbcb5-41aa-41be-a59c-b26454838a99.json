@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung teisipäev, 27.01.2015 14:00",
+  "sitting_time": "2015-01-27T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade kiirlaenumeetmete paketist.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b30e3819-6b7c-4163-a32d-bdf3de86a183"
+    },
+    {
+      "order": 2,
+      "title": "Finantskriisi ennetamise ja lahendamise seaduse eelnõu (821 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1fbd34a8-c142-473f-8af2-8b42d4febc70"
+    },
+    {
+      "order": 3,
+      "title": "Eesti Kaubandus-Tööstuskoja  kollektiivse pöördumise arutelu jätkamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "539315a4-7c65-478f-a48e-c90ae435fe49"
+    },
+    {
+      "order": 4,
+      "title": "Info",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6f71cb11-e62f-421e-b181-d79ba01c4134"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "fcc6397a-0926-4ada-8279-a75773a3ddd3",
+      "files": [
+        "RAHK Protokoll 252 27.01.2015.pdf"
+      ]
+    }
+  ],
+  "uuid": "fd2cbcb5-41aa-41be-a59c-b26454838a99",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid fd2cbcb5-41aa-41be-a59c-b26454838a99)",
+  "source": "https://api.riigikogu.ee/api/volumes/fd2cbcb5-41aa-41be-a59c-b26454838a99",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-01-01&endDate=2015-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
