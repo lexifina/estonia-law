@@ -1,0 +1,57 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung esmaspäev, 9.02.2015 11:00",
+  "sitting_time": "2015-02-09T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "237497ed-6302-4d45-98db-2d9a480b1c97"
+    },
+    {
+      "order": 2,
+      "title": "Riigikaitseseaduse eelnõu (772 SE III)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fdc28efe-6e5d-4d85-8d35-cb4eaabd8ada"
+    },
+    {
+      "order": 3,
+      "title": "Eesti Vabariigi valitsuse, Läti Vabariigi valitsuse ja Leedu Vabariigi valitsuse vahelise lepingu Balti Mereväedivisjoni loomise kohta denonsseerimise seaduse eelnõu (834 SE II)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "438f6398-6f68-4358-9f40-fdf3fb742dfc"
+    },
+    {
+      "order": 4,
+      "title": "Riigikogu otsuse \"Kaitseväe kasutamine Eesti riigi rahvusvaheliste kohustuste täitmisel ÜRO rahuvalvemissioonil Liibanonis\"  eelnõu (840 OE II)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e36aa5df-2ec6-453d-a3ba-e29c70e08d83"
+    },
+    {
+      "order": 5,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fb675929-07bb-428b-9990-ec526b98f209"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "5aebd201-93ba-4f5d-b16d-5f31cf82c6d8",
+      "files": [
+        "Protokol_20150209.pdf"
+      ]
+    }
+  ],
+  "uuid": "55a8ba69-a67a-417a-8c84-1b70568e9ead",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 55a8ba69-a67a-417a-8c84-1b70568e9ead)",
+  "source": "https://api.riigikogu.ee/api/volumes/55a8ba69-a67a-417a-8c84-1b70568e9ead",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-02-01&endDate=2015-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
