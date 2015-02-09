@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung esmaspäev, 9.02.2015 11:00",
+  "sitting_time": "2015-02-09T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2e449b6e-34b8-46f6-ba29-d33cb23cdd8b"
+    },
+    {
+      "order": 2,
+      "title": "Täitemenetluse seadustiku muutmise ning sellega seonduvalt teiste seaduste muutmise seaduse eelnõu (803 SE II)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fdcb6002-9964-4b02-a064-30a0eafa244e"
+    },
+    {
+      "order": 3,
+      "title": "Nimeseaduse muutmise seaduse eelnõu (831 SE II)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6bdda55f-3596-4f8c-8cfd-eb15cfdbbca3"
+    },
+    {
+      "order": 4,
+      "title": "Politsei ja piirivalve seaduse ning päästeteenistuse seaduse muutmise ning sellega seonduvalt teiste seaduste muutmise seaduse eelnõu (810 SE II)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f698e454-f0f1-474a-854d-b563616e225c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "5b451644-36ee-40d8-b287-7b6c30062a22",
+      "files": [
+        "Protokol_20150209.pdf",
+        "Protokoll.bdoc"
+      ]
+    }
+  ],
+  "uuid": "205ce655-eacb-4624-b0ef-7ca5d3ec5aaf",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 205ce655-eacb-4624-b0ef-7ca5d3ec5aaf)",
+  "source": "https://api.riigikogu.ee/api/volumes/205ce655-eacb-4624-b0ef-7ca5d3ec5aaf",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-02-01&endDate=2015-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
