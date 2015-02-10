@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung teisipäev, 10.02.2015 13:00",
+  "sitting_time": "2015-02-10T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kriminaalmenetluse seadustiku ja teiste seaduste muutmise seaduse eelnõu (770 SE II)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b7e244b0-c545-4f20-8dd0-3682abf701d4"
+    },
+    {
+      "order": 2,
+      "title": "Vägivalla ennetamise strateegia 2015-2020.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cba5ee6f-c4ed-40c0-b09a-333276760b30"
+    },
+    {
+      "order": 3,
+      "title": "Siseturvalisuse arengukava 2015 – 2020.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "30bc410b-af4d-4101-8f52-3c20b96e4b77"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "dd090214-4288-485d-b8ff-ac99deb44f52",
+      "files": [
+        "Protokol_20150212.pdf",
+        "Protokoll.bdoc",
+        "Lisa 1 - 770 SE ME - 10.02.15_.doc.docx"
+      ]
+    }
+  ],
+  "uuid": "22b60d3d-429c-4225-ba6c-d0670c33309e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 22b60d3d-429c-4225-ba6c-d0670c33309e)",
+  "source": "https://api.riigikogu.ee/api/volumes/22b60d3d-429c-4225-ba6c-d0670c33309e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-02-01&endDate=2015-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
