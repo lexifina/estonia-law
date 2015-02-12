@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung neljapäev, 12.02.2015 14:00",
+  "sitting_time": "2015-02-12T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Finantskriisi ennetamise ja lahendamise seaduse eelnõu (821 SE II)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "caaf6458-bf20-4497-9e0a-b19ea750f052"
+    },
+    {
+      "order": 2,
+      "title": "Krediidiandjate ja –vahendajate seaduse eelnõu (795 SE II)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d3059fc3-179f-4109-ba72-813e61e5030c"
+    },
+    {
+      "order": 3,
+      "title": "Maksukorralduse seaduse täiendamise seaduse eelnõu (843 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b2be324e-75c9-46ce-83aa-3827d2dda54c"
+    },
+    {
+      "order": 4,
+      "title": "Info",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cbd79db2-6d6b-4b14-a0f6-6b120513f4f5"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "89a47b49-2568-4231-bcdb-f6b6d4cc8a35",
+      "files": [
+        "RAHK Protokoll 258 12.02.2015.pdf"
+      ]
+    }
+  ],
+  "uuid": "1f5f2cda-3f32-4a50-a486-adc349a84b1b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 1f5f2cda-3f32-4a50-a486-adc349a84b1b)",
+  "source": "https://api.riigikogu.ee/api/volumes/1f5f2cda-3f32-4a50-a486-adc349a84b1b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-02-01&endDate=2015-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
