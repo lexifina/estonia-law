@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung teisipäev, 17.02.2015 13:30",
+  "sitting_time": "2015-02-17T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ühisistung Euroopa Liidu asjade komisjoniga. Ülevaade 12.-13. veebruaril 2015 toimunud Euroopa Liidu riigi- ja valitsusjuhtide mitteametlikust kohtumisest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1a99d5b8-a2b7-4847-9399-08c2c53e9b7e"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "60f50fa4-790b-4c3c-845a-a43d3a397a89"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "8302fbc3-4604-4856-a3c4-efdb8696ffc1",
+      "files": [
+        "Protokoll.bdoc",
+        "Protokol_20150219.pdf"
+      ]
+    }
+  ],
+  "uuid": "86ed2b88-7821-41cf-945f-058e134e081c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 86ed2b88-7821-41cf-945f-058e134e081c)",
+  "source": "https://api.riigikogu.ee/api/volumes/86ed2b88-7821-41cf-945f-058e134e081c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-02-01&endDate=2015-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
