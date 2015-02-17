@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung teisipäev, 17.02.2015",
+  "sitting_time": "2015-02-17T10:50:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c0ded288-44f2-4c31-ab12-64a47d47c01b"
+    },
+    {
+      "order": 2,
+      "title": "Kokkuvõte XII Riigikogu sotsiaalkomisjoni tööst",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ee61d7f7-e567-4b8f-b6f6-cb79aab18fe1"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "26246a1f-12a9-4b5a-ac80-4911f5e2a950"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "2c627d53-169b-4900-9231-769359055938",
+      "files": [
+        "Protokol_20150217.pdf"
+      ]
+    }
+  ],
+  "uuid": "43c48df6-aaef-4d75-85d6-58a7edbf3dbd",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 43c48df6-aaef-4d75-85d6-58a7edbf3dbd)",
+  "source": "https://api.riigikogu.ee/api/volumes/43c48df6-aaef-4d75-85d6-58a7edbf3dbd",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-02-01&endDate=2015-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
