@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung teisipäev, 3.03.2015 10:00",
+  "sitting_time": "2015-03-03T10:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 6.-7. märtsil 2015 Riias toimuval Euroopa Liidu välisministrite mitteametlikul kohtumisel (Gymnich).",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "81ee75ba-daa5-4368-b7de-89c04761e210"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d75ae5a9-3beb-4aec-88ee-dc372acf2b3f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "d9ba5a9f-f852-4827-96e0-5ae3739bff73",
+      "files": [
+        "Protokol_20150312.pdf",
+        "Protokoll.bdoc"
+      ]
+    }
+  ],
+  "uuid": "f2ed315b-8317-404d-b987-4101a0e3da47",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f2ed315b-8317-404d-b987-4101a0e3da47)",
+  "source": "https://api.riigikogu.ee/api/volumes/f2ed315b-8317-404d-b987-4101a0e3da47",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-03-01&endDate=2015-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
