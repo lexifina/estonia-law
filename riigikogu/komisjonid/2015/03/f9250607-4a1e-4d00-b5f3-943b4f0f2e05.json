@@ -1,0 +1,42 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung reede, 13.03.2015 10:00",
+  "sitting_time": "2015-03-13T10:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ühisistung Euroopa Liidu asjade komisjoniga. Eesti seisukohad 16. märtsil 2015 toimuval Euroopa Liidu välisasjade nõukogu ja 17. märtsil 2015 toimuval Euroopa Liidu üldasjade nõukogu istungil.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4a17e80f-e0f6-4a3f-8602-97f3bd105d54"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f54c8a28-4be0-47ee-987c-f7fb818920fb"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "2074c46d-8c56-49ea-a731-b9487cf30b1a",
+      "files": [
+        "Protokoll.bdoc",
+        "Protokol_20150317.pdf",
+        "17 03 2015 ÜN.docx",
+        "16 03 2015 VN eelinfo.doc"
+      ]
+    }
+  ],
+  "uuid": "f9250607-4a1e-4d00-b5f3-943b4f0f2e05",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f9250607-4a1e-4d00-b5f3-943b4f0f2e05)",
+  "source": "https://api.riigikogu.ee/api/volumes/f9250607-4a1e-4d00-b5f3-943b4f0f2e05",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-03-01&endDate=2015-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
