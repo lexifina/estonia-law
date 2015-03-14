@@ -4,6 +4,8 @@
 
 (2) Luba viibida võõral maatükil, välja arvatud õuemaal, eeldatakse olevat, kui omanik ei ole maatükki piiranud või tähistanud viisil, millest ilmneb tahe piirata võõraste viibimist maatükil, või kui tahe piirata viibimist ei ilmne muudest asjaoludest.
 
+(2¹) Käesoleva paragrahvi lõikes 2 nimetatud loa olemasolu ei eeldata mootor- või maastikusõidukiga võõral maatükil viibimise puhul.
+
 (3) Võõral maatükil viibides tuleb järgida seaduses sätestatud piiranguid ja maatüki omaniku õiguspäraseid nõudeid ning võimalikult suures ulatuses vähendada keskkonnahäiringute teket.
 
 (4) Võõral maatükil viibides tuleb arvestada maatüki omaniku huve, eelkõige vältida omandi kahjustamist ja kodurahu häirimist.

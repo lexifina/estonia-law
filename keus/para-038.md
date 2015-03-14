@@ -15,3 +15,5 @@
 (7) Kohaliku omavalitsuse üksus peab planeeringutega tagama avaliku juurdepääsu kallasrajale.
 
 (8) Purre, sild või muu veekogus või selle kohal asuv ehitis ei ole kallasraja osa ning sellist ehitist võib kasutada üksnes omaniku loal. Kasutamise luba eeldatakse olevat, kui omanik ei ole ehitist piiranud või tähistanud viisil, millest ilmneb tahe piirata ehitise kasutamist võõraste poolt, või kui tahe piirata kasutamist ei ilmne muudest asjaoludest. Omanik peab lubama ehitise kasutamist, kui see on vajalik kallasrada mööda liikumiseks.
+
+(9) Kui isik on tõkestanud kallasraja vastuolus käesolevas paragrahvis sätestatuga, ei teki tal vastavalt haldusmenetluse seadusele õiguspärast ootust tõkestamise õiguspärasuse kohta.

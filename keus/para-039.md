@@ -7,3 +7,5 @@
 (3) Kallasraja sulgemine otsustatakse üldplaneeringuga.
 
 (4) Kallasraja sulgemise korral peab suletud kallasraja tähistama ja võimaldama suletud kallasrajast möödapääsu.
+
+(5) Kui isik on sulgenud kallasraja vastuolus käesolevas paragrahvis sätestatuga, ei teki tal vastavalt haldusmenetluse seadusele õiguspärast ootust sulgemise õiguspärasuse kohta.

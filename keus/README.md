@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/130122014023> (version in force from 2015-01-01)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/104032015009> (version in force from 2015-03-14)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -80,5 +80,15 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/130122014023> (version in force 
 | [§ 60](para-060.md) | Keskkonnaloas loa omaja andmete muutmine |
 | [§ 61](para-061.md) | Keskkonnaloa kehtivuse peatamine |
 | [§ 62](para-062.md) | Keskkonnaloa kehtetuks tunnistamine |
+| **5¹. peatükk Riiklik järelevalve** | |
+| [§ 62¹](para-062b1.md) | Riikliku järelevalve teostaja |
+| [§ 62²](para-062b2.md) | Riikliku järelevalve erimeetmed |
+| [§ 62³](para-062b3.md) | Riikliku järelevalve erisused |
+| [§ 62⁴](para-062b4.md) | Vahetu sunni kasutamine |
+| [§ 62⁵](para-062b5.md) | Sunniraha määr |
+| **5². peatükk Vastutus** | |
+| [§ 62⁶](para-062b6.md) | Kallasraja ebaseaduslik sulgemine ja tõkestamine |
+| [§ 62⁷](para-062b7.md) | Menetlus |
+| [§ 62⁸](para-062b8.md) | Trahvi laekumine |
 | **6. peatükk Rakendussätted** | |
 | [§ 63](para-063.md) | Seaduse jõustumine |

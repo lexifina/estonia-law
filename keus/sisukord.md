@@ -22,4 +22,8 @@
 
 5. peatükk Loamenetlus
 
+5¹. peatükk Riiklik järelevalve
+
+5². peatükk Vastutus
+
 6. peatükk Rakendussätted
