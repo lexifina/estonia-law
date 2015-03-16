@@ -1,6 +1,6 @@
 # § 25. Isikunimekomisjon
 
-(1) Valdkonna eest vastutav minister moodustab ministeeriumi valitsemisalasse seitsme kuni üheksa liikmega nõuandva isikunimekomisjoni ja
+(1) Valdkonna eest vastutav minister moodustab ministeeriumi valitsemisalasse seitsme kuni üheksa liikmega nõuandva isikunimekomisjoni ja kehtestab
 
 .
 
@@ -10,7 +10,7 @@
 
 1) annab valdkonna eest vastutavale ministrile soovitusi isikunime andmise või kohaldamise vaidlustamise korral;
 
-2) annab valdkonna eest vastutavale ministrile soovitusi isikunime andmise või kohaldamise kohta esitatud küsimustele vastamiseks ja probleemide lahendamiseks;
+2) annab valdkonna eest vastutavale ministrile või tema volitatud isikule soovitusi isikunime andmise või kohaldamise kohta esitatud küsimustele vastamiseks ja probleemide lahendamiseks;
 
 3) teeb valdkonna eest vastutavale ministrile ettepanekuid isikunime andmist ja kohaldamist käsitlevate õigusaktide muutmise algatamiseks;
 

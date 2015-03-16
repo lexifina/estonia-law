@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/13261875> (version in force from 2010-07-01)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/106032015032> (version in force from 2015-03-16)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -43,6 +43,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/13261875> (version in force from
 | [§ 25](para-025.md) | Isikunimekomisjon |
 | [§ 26](para-026.md) | Nimeteaduslik usaldusasutus |
 | **5. peatükk SEADUSE RAKENDAMINE** | |
-| [§ 27](para-027.md) | –30. |
+| [§ 27](para-027.md) |  |
+| [§ 30](para-030.md) |  |
 | [§ 31](para-031.md) | Kasutusel oleva isikunime kehtivus |
 | [§ 32](para-032.md) | Seaduse jõustumine |

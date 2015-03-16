@@ -22,27 +22,23 @@
 
 9) isiku tegevusala.
 
-(3) Uue perekonnanime andmisel järgitakse käesoleva seaduse §-s 17
-
-¹
-
-ja eesnime andmisel §-s 19 sätestatut.
+(3) Uue perekonnanime andmisel järgitakse käesoleva seaduse §-s 17¹ ja eesnime andmisel §-s 19 sätestatut.
 
 (4) Käesoleva paragrahvi alusel antakse isikule uus eesnimi, perekonnanimi või isikunimi üldjuhul üks kord. Isikule antakse uus eesnimi, perekonnanimi või isikunimi rohkem kui üks kord vaid mõjuval põhjusel.
 
 (5) Isikul on õigus loobuda käesoleva paragrahvi alusel antud eesnimest, perekonnanimest või isikunimest ning taotleda endise eesnime, perekonnanime või isikunime taastamist.
 
-(6) Käesoleva seaduse § 17¹ lõikes 1 sätestatud alustel uue perekonnanime andmise või endise isikunime taastamise ning § 19 lõike 1 punktides 4–8 sätestatud alustel uue eesnime andmise otsustab valdkonna eest vastutav minister või tema poolt volitatud isik haldusaktiga. Käesoleva seaduse § 17¹ lõikes 2 sätestatud alustel uue perekonnanime andmise ning § 19 lõike 1 punktides 1–3 ja 9 sätestatud alustel uue eesnime andmise otsustab valdkonna eest vastutav minister.
+(6) Käesoleva seaduse § 17¹ lõigetes 1 ja 2 sätestatud alustel uue perekonnanime andmise või endise isikunime taastamise ning § 19 lõikes 1 sätestatud alustel uue eesnime andmise otsustab valdkonna eest vastutav minister või tema volitatud isik haldusaktiga.
 
 (7) Valdkonna eest vastutava ministri või tema volitatud isiku poolt haldusaktiga uue eesnime, perekonnanime või isikunime andmise või eesnime, perekonnanime või isikunime taastamise otsustamise eest tasutakse riigilõiv.
 
-(8) Käesoleva paragrahvi lõikes 1 nimetatud avalduses esitatavate andmete täpsustatud loetelu
+(8) Käesoleva paragrahvi lõikes 1 nimetatud avalduses esitatavate andmete täpsustatud loetelu kehtestab
 
-.
+määrusega.
 
-(9) Isikule uue eesnime, perekonnanime või isikunime andmise korra ja avalduse vormi
+(9) Isikule uue eesnime, perekonnanime või isikunime andmise korra ja avalduse vormi kehtestab
 
-.
+määrusega.
 
 (10) Käesoleva paragrahvi lõike 2 punktides 6–9 nimetatud andmeid kogutakse statistilistel eesmärkidel ning avaldajale teatatakse, et nende esitamine on vabatahtlik.
 

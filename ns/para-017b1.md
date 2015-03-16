@@ -52,6 +52,6 @@
 
 (4) Käesoleva paragrahvi lõikes 3 sätestatust võib teha erandi, kui perekonnanime muutjal on oma kodakondsuse, peresuhete, rahvuskuuluvuse või usu tõttu isiklik seos muukeelse nimetraditsiooniga ja taotletav nimi on sellele vastav.
 
-(5) Liiga laialdase kasutusega perekonnanimi käesoleva seaduse mõistes on perekonnanimi, mida rahvastikuregistri andmetel kannab 500 või rohkem isikut. Liiga laialdase kasutusega perekonnanimede loetelu
+(5) Liiga laialdase kasutusega perekonnanimi käesoleva seaduse mõistes on perekonnanimi, mida rahvastikuregistri andmetel kannab 500 või rohkem isikut. Liiga laialdase kasutusega perekonnanimede loetelu kehtestab
 
-ja seda loetelu uuendatakse iga kolme aasta järel.
+määrusega ja seda loetelu uuendatakse iga kolme aasta järel.

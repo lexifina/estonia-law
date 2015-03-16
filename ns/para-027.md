@@ -1,3 +1,3 @@
-# § 27–30.
+# § 27.
 
-[Käesolevast tekstist välja jäetud]
+–

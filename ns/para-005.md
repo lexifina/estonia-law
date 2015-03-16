@@ -14,4 +14,4 @@
 
 (5) Seadusega sätestatud juhtudel võib eesnime või perekonnanime esitada lühendatud kujul.
 
-(6) isikunime andmisel ja kohaldamisel kasutatavate eesti-ladina tähtede ja sümbolite loetelu ning võõrkeelsete isikunimede ümberkirjutusreeglid.
+(6) kehtestab määrusega isikunime andmisel ja kohaldamisel kasutatavate eesti-ladina tähtede ja sümbolite loetelu ning võõrkeelsete isikunimede ümberkirjutusreeglid.
