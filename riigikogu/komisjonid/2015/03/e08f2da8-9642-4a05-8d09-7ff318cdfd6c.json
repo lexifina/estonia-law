@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung esmaspäev, 16.03.2015 13:30",
+  "sitting_time": "2015-03-16T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ühisistung väliskomisjoniga. Eesti seisukohad 19.-20. märtsil 2015 toimuval Euroopa Ülemkogu istungil.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9be051c0-07cf-4eed-a812-7b2dfde46435"
+    },
+    {
+      "order": 2,
+      "title": "Seisukoha andmine: Euroopa Parlamendi ja nõukogu direktiivi 2003/88/EÜ läbivaatamist käsitlev avalik konsultatsioonidokument.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "17dc0fdb-b404-4340-a1e7-af5a461ac0bb"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "3c3ccec4-6d63-406f-9f8d-68dbbcdede71",
+      "files": [
+        "Protokol_20150316.pdf"
+      ]
+    }
+  ],
+  "uuid": "e08f2da8-9642-4a05-8d09-7ff318cdfd6c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e08f2da8-9642-4a05-8d09-7ff318cdfd6c)",
+  "source": "https://api.riigikogu.ee/api/volumes/e08f2da8-9642-4a05-8d09-7ff318cdfd6c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-03-01&endDate=2015-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
