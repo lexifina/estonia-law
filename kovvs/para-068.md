@@ -6,7 +6,7 @@
 
 (3) Valimistulemused loetakse väljakuulutatuks ja volikogu liikme volitused algavad valla või linna valimiskomisjoni käesoleva paragrahvi lõikes 1 või 2 märgitud otsuse avalikustamisele järgneval päeval.
 
-(3¹) Valituks osutunud kandidaat, kes valimistulemuste väljakuulutamise ajal on volikogu liikme ametiga ühitamatus ametis, peab viie tööpäeva jooksul valimistulemuste väljakuulutamise päevast arvates teavitama valla või linna valimiskomisjoni, kas ta soovib osaleda kohaliku omavalitsuse üksuse volikogu töös või jätkata oma senises ametis ja mandaadist loobuda.
+(3¹) Valituks osutunud kandidaat, kes valimistulemuste väljakuulutamise ajal on volikogu liikme ametiga ühitamatus ametis, peab kolme tööpäeva jooksul valimistulemuste väljakuulutamise päevast arvates teavitama valla või linna valimiskomisjoni, kas ta soovib osaleda kohaliku omavalitsuse üksuse volikogu töös või jätkata oma senises ametis ja mandaadist loobuda.
 
 (4) Täiendavatel valimistel või uue kohaliku omavalitsuse üksuse volikogu valimistel käesoleva seaduse § 4 lõikes 2 sätestatud juhul valitud volikogu liikmete volitused lõpevad samaaegselt käesoleva seaduse §-s 2 ettenähtud ajal valitud volikogu liikmete volitustega.
 

@@ -4,7 +4,7 @@
 
 (2) Valla ja linna valimiskomisjoni liikmed nimetatakse hiljemalt 90. päeval enne valimispäeva.
 
-(3) Valla ja linna valimiskomisjoni esimees on valla- või linnasekretär. Valla ja linna valimiskomisjoni liikmed nimetab oma otsusega volikogu valla- või linnasekretäri ettepanekul. Volikogu nimetab valla- või linnasekretäri ettepanekul ka kuni kaks asendusliiget, kes komisjoni volituste ajal volikogu määratud järjekorras asuvad nende komisjoniliikmete asemele, kelle volitused on peatunud või lõppenud.
+(3) Valla ja linna valimiskomisjoni esimees on valla- või linnasekretär. Kui valla- või linnasekretäri äraoleku ajaks on kohaliku omavalitsuse korralduse seaduse § 55 lõike 5 alusel määratud asendaja, täidab valla või linna valimiskomisjoni esimehe ülesandeid valla- või linnasekretäri asendaja. Valla ja linna valimiskomisjoni liikmed nimetab oma otsusega volikogu valla- või linnasekretäri ettepanekul. Volikogu nimetab valla- või linnasekretäri ettepanekul ka kuni kaks asendusliiget, kes komisjoni volituste ajal volikogu määratud järjekorras asuvad nende komisjoniliikmete asemele, kelle volitused on peatunud või lõppenud.
 
 (4) Valla ja linna valimiskomisjoni aseesimehe valib komisjon oma liikmete hulgast.
 
