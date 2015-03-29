@@ -13,5 +13,3 @@
 4) kui moodustatakse laenukomitee, selle liikmete nimed;
 
 5) revisjonikomisjoni liikmete nimed.
-
-(3) –(4) [Kehtetud]
