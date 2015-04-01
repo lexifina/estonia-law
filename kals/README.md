@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/121062014052> (version in force from 2014-10-01)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/104032015026> (version in force from 2015-04-01)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -56,7 +56,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/121062014052> (version in force 
 | [§ 43](para-043.md) | Kaitseliidu relva kandmise luba |
 | [§ 44](para-044.md) | Kaitseliidu relvaloa kehtivuse peatamine |
 | [§ 45](para-045.md) | Kaitseliidu relvaloa kehtetuks tunnistamine |
-| [§ 46](para-046.md) | Tegevliikme relva soetamine |
+| [§ 46](para-046.md) | Tegevliikme relva ja laskemoona soetamine |
 | [§ 47](para-047.md) | Tegevliikme relva käitlemine ja kasutamine |
 | [§ 48](para-048.md) | Tegevliikme relva võõrandamine |
 | [§ 49](para-049.md) | Tegevliikme relva käitlemise õiguse lõppemine |

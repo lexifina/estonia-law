@@ -12,4 +12,4 @@ määrusega.
 
 (5) Kaitseliit ei vastuta tegevliikmele kuuluva tsiviilkäibes lubatud relva kasutamise tagajärjel väljaspool Kaitseliidu teenistuskohustuse täitmist tekkinud kahju eest.
 
-(6) Käesolevat paragrahvi ei kohaldata jahirelvale.
+(6) Käesolevat paragrahvi ei kohaldata jahitulirelvale.
