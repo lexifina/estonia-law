@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung esmaspäev, 13.04.2015 11:00",
+  "sitting_time": "2015-04-13T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Majanduskomisjoni esimehe ja aseesimehe valimine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a8ca0e03-1b3d-4f7b-8f88-8511f0e7cb7f"
+    },
+    {
+      "order": 2,
+      "title": "Nädalakava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9e6573f9-cc94-421b-a96b-fb6fe270d736"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6137fed1-3206-452e-b26f-bb0dd7d3e5a0"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "6680bfb0-9818-4ecf-8b92-1db04d1ec558",
+      "files": [
+        "Protokol_20150429.pdf"
+      ]
+    }
+  ],
+  "uuid": "82536c2e-0981-4165-8f7d-43c1c68f2c03",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 82536c2e-0981-4165-8f7d-43c1c68f2c03)",
+  "source": "https://api.riigikogu.ee/api/volumes/82536c2e-0981-4165-8f7d-43c1c68f2c03",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-04-01&endDate=2015-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
