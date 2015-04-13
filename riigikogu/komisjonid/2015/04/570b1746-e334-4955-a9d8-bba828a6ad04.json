@@ -1,0 +1,53 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung esmaspäev, 13.04.2015 11:00",
+  "sitting_time": "2015-04-13T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väliskomisjoni esimehe ja aseesimehe valimine.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6cee8b7d-c480-47a9-add6-36ad39ba35c9"
+    },
+    {
+      "order": 2,
+      "title": "Väliskomisjoni I istungjärgu 3. töönädala töökava kinnitamine.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "08719f4c-7abc-4856-8ef4-2ce2ceb8a317"
+    },
+    {
+      "order": 3,
+      "title": "Väliskomisjoni töö ja töökorralduse tutvustamine.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6b4b17b1-0ba3-4ae9-8aa6-3e8ad1aaefe8"
+    },
+    {
+      "order": 4,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "80817838-c00d-4fc3-8fe5-6ec869da81fc"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "98abefb8-40e3-4a07-8631-11d8c75173aa",
+      "files": [
+        "13042015_volitus.pdf",
+        "Protokoll.bdoc",
+        "Protokol_20150414.pdf"
+      ]
+    }
+  ],
+  "uuid": "570b1746-e334-4955-a9d8-bba828a6ad04",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 570b1746-e334-4955-a9d8-bba828a6ad04)",
+  "source": "https://api.riigikogu.ee/api/volumes/570b1746-e334-4955-a9d8-bba828a6ad04",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-04-01&endDate=2015-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
