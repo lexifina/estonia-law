@@ -1,0 +1,34 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 13.04.2015 11:00",
+  "sitting_time": "2015-04-13T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Maaelukomisjoni esimehe ja aseesimehe valimine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "eb70399c-fb62-49f3-847f-4350440463c9"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "c517b9c3-252a-401c-8b4e-7fb394a7eadc",
+      "files": [
+        "Protokoll.bdoc",
+        "Protokol_20150413.pdf"
+      ]
+    }
+  ],
+  "uuid": "9080cfc6-cf0c-431f-bc89-9e1878aee89f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9080cfc6-cf0c-431f-bc89-9e1878aee89f)",
+  "source": "https://api.riigikogu.ee/api/volumes/9080cfc6-cf0c-431f-bc89-9e1878aee89f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-04-01&endDate=2015-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
