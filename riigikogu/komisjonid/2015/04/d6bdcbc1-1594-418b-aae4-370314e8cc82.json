@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung esmaspäev, 13.04.2015 11:00",
+  "sitting_time": "2015-04-13T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Komisjoni esimehe ja aseesimehe valimine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1dd24eae-2eff-43bd-8db4-c540b992448a"
+    },
+    {
+      "order": 2,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1e1adc50-bf0b-45b7-b31c-3ae6235cd3dc"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "PSK 13.04.2015 protokoll",
+      "uuid": "dd4adf50-456b-4a4b-9a2c-92e285a7d536",
+      "files": [
+        "2015.04.13.pdf"
+      ]
+    }
+  ],
+  "uuid": "d6bdcbc1-1594-418b-aae4-370314e8cc82",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d6bdcbc1-1594-418b-aae4-370314e8cc82)",
+  "source": "https://api.riigikogu.ee/api/volumes/d6bdcbc1-1594-418b-aae4-370314e8cc82",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-04-01&endDate=2015-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
