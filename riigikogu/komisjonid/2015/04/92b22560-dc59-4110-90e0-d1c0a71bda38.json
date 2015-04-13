@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung esmaspäev, 13.04.2015 11:00",
+  "sitting_time": "2015-04-13T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikaitsekomisjoni esimehe ja aseesimehe valimine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "94d549c7-8b4e-4329-b2ea-e30a3ac9b9fc"
+    },
+    {
+      "order": 2,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "15e9ab9b-1336-4cf7-8285-63f8fc82476b"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b37921ab-f727-4626-b9fb-f2c6d232e1b2"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "9d45d75b-2c1e-4cd4-956e-d43d912122cc",
+      "files": [
+        "Protokol_20150414.pdf"
+      ]
+    }
+  ],
+  "uuid": "92b22560-dc59-4110-90e0-d1c0a71bda38",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 92b22560-dc59-4110-90e0-d1c0a71bda38)",
+  "source": "https://api.riigikogu.ee/api/volumes/92b22560-dc59-4110-90e0-d1c0a71bda38",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-04-01&endDate=2015-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
