@@ -1,0 +1,33 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung esmaspäev, 13.04.2015 11:00",
+  "sitting_time": "2015-04-13T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Õiguskomisjoni esimehe ja aseesimehe valimine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "61c5d735-500d-413c-9e42-8c3458344b35"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "661b91d5-822c-40e7-86d9-4beb6b032ef5",
+      "files": [
+        "ÕIGK 13.04.15 protokoll.pdf"
+      ]
+    }
+  ],
+  "uuid": "dfc53de0-32b6-4f4e-b543-d09de07db62b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid dfc53de0-32b6-4f4e-b543-d09de07db62b)",
+  "source": "https://api.riigikogu.ee/api/volumes/dfc53de0-32b6-4f4e-b543-d09de07db62b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-04-01&endDate=2015-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
