@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung esmaspäev, 13.04.2015 11:00",
+  "sitting_time": "2015-04-13T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Rahanduskomisjoni esimehe ja aseesimehe valimine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ebea513f-f36c-4377-8536-88d2f5f54525"
+    },
+    {
+      "order": 2,
+      "title": "Päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "96edb79e-bf9d-4f1a-b308-26b1676baf54"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK Protokoll 1 13.04.2015",
+      "uuid": "afcd79b9-3787-43be-8e64-1cf1dd4f00ef",
+      "files": [
+        "RAHK Protokoll 1 13.04.2015.pdf"
+      ]
+    }
+  ],
+  "uuid": "db0e3c11-f889-411c-82bd-1fa308739938",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid db0e3c11-f889-411c-82bd-1fa308739938)",
+  "source": "https://api.riigikogu.ee/api/volumes/db0e3c11-f889-411c-82bd-1fa308739938",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-04-01&endDate=2015-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
