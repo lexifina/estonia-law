@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 14.04.2015",
+  "sitting_time": "2015-04-14T10:18:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b1f87c93-7ee7-4508-82cf-b0e4838d79ed"
+    },
+    {
+      "order": 2,
+      "title": "Maaelukomisjoni töökorraldus ja töökava",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "179d9286-bffd-4c70-a20e-433a165b4ad6"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "f0d8f475-aec4-4d22-9b1f-160c9ce3be32",
+      "files": [
+        "Protokoll.bdoc",
+        "Protokol_20150414.pdf"
+      ]
+    }
+  ],
+  "uuid": "a0c89fad-11d8-41bc-b0a4-1780e9e2c3fa",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a0c89fad-11d8-41bc-b0a4-1780e9e2c3fa)",
+  "source": "https://api.riigikogu.ee/api/volumes/a0c89fad-11d8-41bc-b0a4-1780e9e2c3fa",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-04-01&endDate=2015-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
