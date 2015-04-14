@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung teisipäev, 14.04.2015 (15 minutit pärast täiskogu istungi lõppu)",
+  "sitting_time": "2015-04-14T10:24:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8dea24bc-e2ad-4432-a38c-2246e85f1f8a"
+    },
+    {
+      "order": 2,
+      "title": "Komisjoni töö tutvustamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7a1faf04-289e-4c65-a526-bf597bdc5f9e"
+    },
+    {
+      "order": 3,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "974ba283-ba1b-47ad-b3a1-ce795ac0c737"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "PSK 14.04.2015 protokoll",
+      "uuid": "83dfaa50-c41b-4174-ae5d-7c1e26c6220d",
+      "files": [
+        "PSK_14.04.2015_protokoll.bdoc",
+        "2015.04.14.pdf"
+      ]
+    }
+  ],
+  "uuid": "00a468cf-f84e-478c-ada6-548a16fa73ee",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 00a468cf-f84e-478c-ada6-548a16fa73ee)",
+  "source": "https://api.riigikogu.ee/api/volumes/00a468cf-f84e-478c-ada6-548a16fa73ee",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-04-01&endDate=2015-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
