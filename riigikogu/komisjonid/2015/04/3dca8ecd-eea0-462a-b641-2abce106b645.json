@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung teisipäev, 14.04.2015 10:15",
+  "sitting_time": "2015-04-14T10:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Majanduskomisjoni töö ja töökorraldus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b9d9591c-98e0-4b23-b36c-bd548a420b49"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fa7e2805-5b6b-44d9-bfcf-b2efb9262957"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "6c803971-93ea-497f-baec-9c9bd08490f4",
+      "files": [
+        "Protokol_20150429.pdf",
+        "Protokoll.bdoc"
+      ]
+    }
+  ],
+  "uuid": "3dca8ecd-eea0-462a-b641-2abce106b645",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3dca8ecd-eea0-462a-b641-2abce106b645)",
+  "source": "https://api.riigikogu.ee/api/volumes/3dca8ecd-eea0-462a-b641-2abce106b645",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-04-01&endDate=2015-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
