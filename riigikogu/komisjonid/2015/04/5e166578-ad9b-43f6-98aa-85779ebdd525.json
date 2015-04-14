@@ -1,0 +1,48 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung teisipäev, 14.04.2015 14:00",
+  "sitting_time": "2015-04-14T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade Rahandusministeeriumi 2015. aasta kevadisest majandusprognoosist",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "08e23b4b-e4f1-40d9-8ab3-ecec3c7687d9"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade rahanduskomisjoni tööst",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "721be7ba-ea36-40f7-b254-f5b3b5225af4"
+    },
+    {
+      "order": 3,
+      "title": "Info",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fbfaa9d5-3204-41d8-b9bc-024b74701376"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "cfd8ebf1-4b30-41ab-be02-98f33afad49c",
+      "files": [
+        "Volikiri 14.04.2015.pdf",
+        "RAHK protokoll 2 14 04 15.pdf",
+        "RAM kevadine majandusprognoos RAHK 14 04 2015.pptx",
+        "Protokoll.bdoc"
+      ]
+    }
+  ],
+  "uuid": "5e166578-ad9b-43f6-98aa-85779ebdd525",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 5e166578-ad9b-43f6-98aa-85779ebdd525)",
+  "source": "https://api.riigikogu.ee/api/volumes/5e166578-ad9b-43f6-98aa-85779ebdd525",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-04-01&endDate=2015-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
