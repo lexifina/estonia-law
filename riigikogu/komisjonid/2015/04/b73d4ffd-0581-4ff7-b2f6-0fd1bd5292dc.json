@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 27.04.2015 11:00",
+  "sitting_time": "2015-04-27T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b33efea8-03d3-4773-a1c5-94f7e7260f05"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine maaeluminister Urmas Kruusega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e4928e39-41fa-4fa0-ad05-41457293be45"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "c4a15e18-6d35-45d8-8a53-6e3e98807411",
+      "files": [
+        "Prot 3 MAK prioriteedidMaaelukomisjon27.04.2015.pptx",
+        "Protokoll.bdoc",
+        "Protokol_20150428.pdf"
+      ]
+    }
+  ],
+  "uuid": "b73d4ffd-0581-4ff7-b2f6-0fd1bd5292dc",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b73d4ffd-0581-4ff7-b2f6-0fd1bd5292dc)",
+  "source": "https://api.riigikogu.ee/api/volumes/b73d4ffd-0581-4ff7-b2f6-0fd1bd5292dc",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-04-01&endDate=2015-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
