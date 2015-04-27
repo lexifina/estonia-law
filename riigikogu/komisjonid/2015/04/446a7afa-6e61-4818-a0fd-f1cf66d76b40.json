@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung esmaspäev, 27.04.2015 11:00",
+  "sitting_time": "2015-04-27T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5d5ce388-beb5-4609-aa75-c73e54e4b471"
+    },
+    {
+      "order": 2,
+      "title": "Riigikaitse lai käsitlus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dd856529-b0ec-40e3-a731-06bf84e45ec0"
+    },
+    {
+      "order": 3,
+      "title": "Riigikaitsekomisjoni kevadistungjärgu töökava",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7d7aacaf-67a1-402c-933c-5bbe6b8ac69a"
+    },
+    {
+      "order": 4,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "38e760b2-7c5d-49d2-b356-a8b8481c6be5"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "7fa2517f-7334-4672-8b0d-ff28d5ab77b5",
+      "files": [
+        "Protokol_20150428.pdf"
+      ]
+    }
+  ],
+  "uuid": "446a7afa-6e61-4818-a0fd-f1cf66d76b40",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 446a7afa-6e61-4818-a0fd-f1cf66d76b40)",
+  "source": "https://api.riigikogu.ee/api/volumes/446a7afa-6e61-4818-a0fd-f1cf66d76b40",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-04-01&endDate=2015-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
