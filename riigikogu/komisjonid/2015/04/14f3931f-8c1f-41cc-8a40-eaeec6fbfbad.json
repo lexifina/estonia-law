@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung esmaspäev, 27.04.2015 11:00",
+  "sitting_time": "2015-04-27T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "16f6adeb-4ae8-45b4-8d20-df88c42883f5"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine Maksu- ja Tolliameti esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e8ef4d3f-2791-4716-b853-cb2e2329a6c8"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "57113ccf-8567-4bd0-b5fb-fb7245763b91",
+      "files": [
+        "RAHK protokoll 3 27 04 15.pdf",
+        "MTA slaidid 27.04.2015.ppt"
+      ]
+    }
+  ],
+  "uuid": "14f3931f-8c1f-41cc-8a40-eaeec6fbfbad",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 14f3931f-8c1f-41cc-8a40-eaeec6fbfbad)",
+  "source": "https://api.riigikogu.ee/api/volumes/14f3931f-8c1f-41cc-8a40-eaeec6fbfbad",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-04-01&endDate=2015-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
