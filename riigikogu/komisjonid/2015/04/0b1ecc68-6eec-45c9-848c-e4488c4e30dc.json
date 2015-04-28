@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung teisipäev, 28.04.2015 11:30",
+  "sitting_time": "2015-04-28T11:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "087e2071-d447-41f2-aad3-d162c5774314"
+    },
+    {
+      "order": 2,
+      "title": "Poliitilised arengud Venemaal",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f0504646-a5f9-401b-80af-6cb045256e02"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "c586d655-f837-4afc-bc68-5e9e7323e859",
+      "files": [
+        "Protokol_20150428.pdf"
+      ]
+    }
+  ],
+  "uuid": "0b1ecc68-6eec-45c9-848c-e4488c4e30dc",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0b1ecc68-6eec-45c9-848c-e4488c4e30dc)",
+  "source": "https://api.riigikogu.ee/api/volumes/0b1ecc68-6eec-45c9-848c-e4488c4e30dc",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-04-01&endDate=2015-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
