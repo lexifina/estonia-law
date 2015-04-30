@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung neljapäev, 30.04.2015 14:00",
+  "sitting_time": "2015-04-30T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Eesti Panga juhatusega. Ülevaade Eesti ja euroala  majanduse olukorrast ning finantsturu arengutest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c045615d-0fd6-434a-bfa7-4e863503ecc5"
+    },
+    {
+      "order": 2,
+      "title": "Info",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bd4c03f7-70e7-4828-9c62-f26d3fd1cb32"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "e812cd45-040a-466e-92a6-0c5dc26cfca4",
+      "files": [
+        "Protokoll.bdoc",
+        "RAHK protokoll 5 30 04 15.pdf",
+        "Eesti Pank 30.04.2015.pdf"
+      ]
+    }
+  ],
+  "uuid": "663874c7-4408-477f-b7c3-df65182c16bf",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 663874c7-4408-477f-b7c3-df65182c16bf)",
+  "source": "https://api.riigikogu.ee/api/volumes/663874c7-4408-477f-b7c3-df65182c16bf",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-04-01&endDate=2015-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
