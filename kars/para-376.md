@@ -1,6 +1,6 @@
 # § 376. Tubakatoodete käitlemise korra rikkumine
 
-(1) Maksumärgiga märgistamata või nõuetele mittevastavas müügipakendis tubakatoodetega kauplemise, nende hoidmise, ladustamise või edasitoimetamise eest suures koguses –
+(1) Maksumärgiga märgistamata või nõuetele mittevastavas müügipakendis või keelatud tubakatoodetega kauplemise, nende hoidmise, ladustamise või edasitoimetamise eest suures koguses –
 
 karistatakse rahalise karistuse või kuni viieaastase vangistusega.
 
