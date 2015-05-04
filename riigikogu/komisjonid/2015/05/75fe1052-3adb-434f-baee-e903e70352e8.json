@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung esmaspäev, 4.05.2015 11:10",
+  "sitting_time": "2015-05-04T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fff02ec4-160c-4967-90ec-d32f58a0f5b5"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine Eesti Arengufondi juhtidega.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9a6b6dfb-8e85-4196-9607-beb204321b27"
+    },
+    {
+      "order": 3,
+      "title": "Eesti Metsaseltsi kutse Otsustajate Metsakoolil osalemiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d8bde9cc-8c18-45ff-ace7-cdeb909bc3b9"
+    },
+    {
+      "order": 4,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "70cab676-9a9b-4aa2-b55e-bb174d48142f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "88b6be78-33ec-4cbd-9a7f-eeee40190a1d",
+      "files": [
+        "Protokol_20150527.pdf",
+        "Protokoll.bdoc"
+      ]
+    }
+  ],
+  "uuid": "75fe1052-3adb-434f-baee-e903e70352e8",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 75fe1052-3adb-434f-baee-e903e70352e8)",
+  "source": "https://api.riigikogu.ee/api/volumes/75fe1052-3adb-434f-baee-e903e70352e8",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-05-01&endDate=2015-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
