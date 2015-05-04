@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung esmaspäev, 4.05.2015 13:00",
+  "sitting_time": "2015-05-04T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 7. mail 2015 toimuval välisasjade nõukogu istungil (kaubandus).",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "da10bb51-f2d3-4496-b049-7228405409b2"
+    },
+    {
+      "order": 2,
+      "title": "Peaministri ülevaade aruteludest 23. aprillil toimunud erakorralisel EL Ülemkogul.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e152fdb4-31be-4564-8a84-d6350918520f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "8887174e-cda6-4603-ae13-67a96203b40e",
+      "files": [
+        "Protokoll 3_4.05.2015.pdf"
+      ]
+    }
+  ],
+  "uuid": "c76811b5-f62e-4267-8864-c5c5f70a5b81",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c76811b5-f62e-4267-8864-c5c5f70a5b81)",
+  "source": "https://api.riigikogu.ee/api/volumes/c76811b5-f62e-4267-8864-c5c5f70a5b81",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-05-01&endDate=2015-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
