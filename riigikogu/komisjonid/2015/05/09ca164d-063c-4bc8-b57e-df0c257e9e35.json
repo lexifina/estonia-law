@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 4.05.2015 11:00",
+  "sitting_time": "2015-05-04T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2963f615-724b-4c0f-92f9-f53c7045edaa"
+    },
+    {
+      "order": 2,
+      "title": "Regionaalarengu programmid, meetmed ja toetused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c618d1e3-e6d5-4bb6-81fc-69d754255292"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "2b827c7e-b068-4fcd-ab94-846d98f8cef7",
+      "files": [
+        "Protokoll.bdoc",
+        "Protokol_20150507.pdf",
+        "005 proto lisa reg.meetmed.ppt"
+      ]
+    }
+  ],
+  "uuid": "09ca164d-063c-4bc8-b57e-df0c257e9e35",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 09ca164d-063c-4bc8-b57e-df0c257e9e35)",
+  "source": "https://api.riigikogu.ee/api/volumes/09ca164d-063c-4bc8-b57e-df0c257e9e35",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-05-01&endDate=2015-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
