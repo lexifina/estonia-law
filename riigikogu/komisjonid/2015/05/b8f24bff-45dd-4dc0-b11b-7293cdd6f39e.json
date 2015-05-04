@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung esmaspäev, 4.05.2015 11:00",
+  "sitting_time": "2015-05-04T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2181e85c-a73d-4334-a462-fd655e4bdc88"
+    },
+    {
+      "order": 2,
+      "title": "Kindlustustegevuse seaduse eelnõu (8 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "73be0fef-e6ee-4c22-97f5-f57cd3351946"
+    },
+    {
+      "order": 3,
+      "title": "Rahandusministeeriumi ülevaade ettevalmistatavatest eelnõudest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8eed9b33-1189-4a98-94b1-4ba2afba754a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "7ef545a1-426a-4e5d-b767-7a8b6887386b",
+      "files": [
+        "Protokoll.bdoc",
+        "RAM esitlus komisjonis 4.05.2015.ppt",
+        "RAHK protokoll 6 04 05 15.pdf"
+      ]
+    }
+  ],
+  "uuid": "b8f24bff-45dd-4dc0-b11b-7293cdd6f39e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b8f24bff-45dd-4dc0-b11b-7293cdd6f39e)",
+  "source": "https://api.riigikogu.ee/api/volumes/b8f24bff-45dd-4dc0-b11b-7293cdd6f39e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-05-01&endDate=2015-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
