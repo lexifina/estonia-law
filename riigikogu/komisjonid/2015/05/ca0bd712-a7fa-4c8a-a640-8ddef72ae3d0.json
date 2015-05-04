@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung esmaspäev, 4.05.2015 11:00",
+  "sitting_time": "2015-05-04T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "982a06b4-74bf-493c-a7fa-9600a6ce6c94"
+    },
+    {
+      "order": 2,
+      "title": "Kaitseliit",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6be6b7cc-d50e-481f-8f51-9667d2f9b760"
+    },
+    {
+      "order": 3,
+      "title": "Riigikaitsekomisjoni esimehe Marko Mihkelsoni lähetamine Helsingisse",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "243cc710-6b65-4407-958f-764a8258798f"
+    },
+    {
+      "order": 4,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "80308e65-9fa7-460c-bd03-ba3b1c23c925"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "83cda1de-9327-4f1b-96aa-ee080376397a",
+      "files": [
+        "Protokol_20150504.pdf"
+      ]
+    }
+  ],
+  "uuid": "ca0bd712-a7fa-4c8a-a640-8ddef72ae3d0",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ca0bd712-a7fa-4c8a-a640-8ddef72ae3d0)",
+  "source": "https://api.riigikogu.ee/api/volumes/ca0bd712-a7fa-4c8a-a640-8ddef72ae3d0",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-05-01&endDate=2015-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
