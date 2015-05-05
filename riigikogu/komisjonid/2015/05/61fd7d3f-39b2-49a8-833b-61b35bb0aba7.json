@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung teisipäev, 5.05.2015 14:00",
+  "sitting_time": "2015-05-05T14:02:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti Erametsaliidu üldkoosoleku avalik pöördumine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ea817961-6fc0-4818-9025-5dbde85d3e59"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade Rail Baltic arengutest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d047ecc1-5b41-4cb3-a2fb-9e48d20210d8"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "34d8edb0-0d5e-40c5-b36f-aa1aaf129844"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "8a89727f-8213-4690-ade7-e04a5633b21b",
+      "files": [
+        "Protokoll.bdoc",
+        "Protokol_20150527.pdf"
+      ]
+    }
+  ],
+  "uuid": "61fd7d3f-39b2-49a8-833b-61b35bb0aba7",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 61fd7d3f-39b2-49a8-833b-61b35bb0aba7)",
+  "source": "https://api.riigikogu.ee/api/volumes/61fd7d3f-39b2-49a8-833b-61b35bb0aba7",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-05-01&endDate=2015-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
