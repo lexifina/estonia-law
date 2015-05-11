@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 11.05.2015 13:30",
+  "sitting_time": "2015-05-11T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigieelarve kontrolli erikomisjoni esimehe ja aseesimehe valimine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bfbf0cd0-13ba-4443-abfd-9bc632736c9b"
+    },
+    {
+      "order": 2,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9c4b3602-b194-423e-a651-5c0b9a43c7e7"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e3248491-905c-4281-b1b8-5e8c1a216415"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "6d3c88eb-0878-47b7-b135-414cf25f552e",
+      "files": [
+        "protokoll nr 1. 11.05.2015.pdf"
+      ]
+    }
+  ],
+  "uuid": "4bc8c5f9-ce5c-46d2-8af1-c8ec302a981f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 4bc8c5f9-ce5c-46d2-8af1-c8ec302a981f)",
+  "source": "https://api.riigikogu.ee/api/volumes/4bc8c5f9-ce5c-46d2-8af1-c8ec302a981f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-05-01&endDate=2015-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
