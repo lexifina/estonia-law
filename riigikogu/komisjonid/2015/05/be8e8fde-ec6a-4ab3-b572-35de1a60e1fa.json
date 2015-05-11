@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung esmaspäev, 11.05.2015 11:00",
+  "sitting_time": "2015-05-11T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "37f893b1-d0e0-441f-82d5-5d9ae5d1eee8"
+    },
+    {
+      "order": 2,
+      "title": "Riigikaitsekomisjoni esindaja määramine Kaitsetööstusnõukogusse",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b46dafb8-ce58-4063-aa41-35906edb1bc4"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "97d5af0e-b90b-4a78-8c5d-e64a9387c578"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "752a07e4-b47b-4f7f-a42d-402b79697c54",
+      "files": [
+        "Protokol_20150513.pdf"
+      ]
+    }
+  ],
+  "uuid": "be8e8fde-ec6a-4ab3-b572-35de1a60e1fa",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid be8e8fde-ec6a-4ab3-b572-35de1a60e1fa)",
+  "source": "https://api.riigikogu.ee/api/volumes/be8e8fde-ec6a-4ab3-b572-35de1a60e1fa",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-05-01&endDate=2015-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
