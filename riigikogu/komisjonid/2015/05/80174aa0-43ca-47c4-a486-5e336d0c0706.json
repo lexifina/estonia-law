@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung esmaspäev, 11.05.2015 11:00",
+  "sitting_time": "2015-05-11T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bdd9732d-9549-4957-b791-20a62a41463f"
+    },
+    {
+      "order": 2,
+      "title": "Siseministeeriumi õigusloome plaanidega tutvumine.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "423297f8-eff0-469b-94e5-132e8698110c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "eda9ec07-b859-4f32-b282-19f15e75605b",
+      "files": [
+        "ÕIGK  11.05.15 protokoll.pdf"
+      ]
+    }
+  ],
+  "uuid": "80174aa0-43ca-47c4-a486-5e336d0c0706",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 80174aa0-43ca-47c4-a486-5e336d0c0706)",
+  "source": "https://api.riigikogu.ee/api/volumes/80174aa0-43ca-47c4-a486-5e336d0c0706",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-05-01&endDate=2015-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
