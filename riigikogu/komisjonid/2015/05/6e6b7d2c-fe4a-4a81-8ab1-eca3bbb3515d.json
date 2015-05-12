@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung teisipäev, 12.05.2015 14:00",
+  "sitting_time": "2015-05-12T14:02:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Tarbijakaitseameti tegevus. Algatatava tarbijakaitseseaduse eelnõu tutvustus.\nKutsutud:\tTarbijakaitseameti peadirektor Andres Sooniste ja MKM-i siseturuosakonna juhataja Tea Danilov",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c7fee93e-21d8-4384-b38d-5337dd8c4dbf"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "548f5195-80af-4695-93e7-7ccb3caeb4cf"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAJK Protokoll nr 8 12.05.2015",
+      "uuid": "31842cd8-aa62-4a83-92bf-93fa4b404d82",
+      "files": [
+        "MAJK_Protokoll_nr_8_12.05.2015.bdoc",
+        "MAJK_Protokoll_nr_8_20150603.pdf"
+      ]
+    }
+  ],
+  "uuid": "6e6b7d2c-fe4a-4a81-8ab1-eca3bbb3515d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 6e6b7d2c-fe4a-4a81-8ab1-eca3bbb3515d)",
+  "source": "https://api.riigikogu.ee/api/volumes/6e6b7d2c-fe4a-4a81-8ab1-eca3bbb3515d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-05-01&endDate=2015-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
