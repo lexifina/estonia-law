@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung teisipäev, 12.05.2015 11:00",
+  "sitting_time": "2015-05-12T12:05:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Terviseameti tööst",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9050be7e-6e12-4ae3-ba63-8dc06460d62a"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a56f2bfc-bd17-4263-9991-5968f7565684"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Sotsiaalkomisjoni protokoll 12.05.2015",
+      "uuid": "74d30655-7dc7-4c0c-aaa6-247c2bd26d20",
+      "files": [
+        "Sotsiaalkomisjoni_protokoll_12.05.2015.bdoc",
+        "Protokoll 12.05.2015.pdf"
+      ]
+    }
+  ],
+  "uuid": "8e6208e0-1379-497b-a799-2098393d8d7b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8e6208e0-1379-497b-a799-2098393d8d7b)",
+  "source": "https://api.riigikogu.ee/api/volumes/8e6208e0-1379-497b-a799-2098393d8d7b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-05-01&endDate=2015-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
