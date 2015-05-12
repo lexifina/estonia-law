@@ -1,0 +1,35 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 12.05.2015 14:00",
+  "sitting_time": "2015-05-12T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Eesti Piimaliidu esindajaga",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "87f66940-ddae-49bf-a072-1b2534382bf5"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "a789a94f-4edd-46b9-b3c8-6714ea1a20b6",
+      "files": [
+        "008 protokoll lisa Eesti piimandus 2015.ppt",
+        "Protokol_20150514.pdf",
+        "Protokoll.bdoc"
+      ]
+    }
+  ],
+  "uuid": "f3cc5c2d-388a-420c-abc2-a776482684c5",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f3cc5c2d-388a-420c-abc2-a776482684c5)",
+  "source": "https://api.riigikogu.ee/api/volumes/f3cc5c2d-388a-420c-abc2-a776482684c5",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-05-01&endDate=2015-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
