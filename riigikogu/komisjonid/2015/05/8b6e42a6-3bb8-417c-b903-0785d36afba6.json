@@ -1,0 +1,57 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung neljapäev, 14.05.2015 13:00",
+  "sitting_time": "2015-05-14T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Tänase istungi päevakorra täiendamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dce8036b-af05-46a4-8c5f-65bc13fa2f78"
+    },
+    {
+      "order": 2,
+      "title": "Riigikaitsekomisjoni esindaja määramine Kaitsetööstusnõukogusse",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f7e41588-a1dd-49a0-a823-40d5ad6e2128"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cdf1668c-25e0-4535-a233-52a5b0c15b74"
+    },
+    {
+      "order": 4,
+      "title": "Eesti Reservohvitseride Kogu tegevusest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "caa1562b-a0e6-42b0-abbe-330aa1951ce3"
+    },
+    {
+      "order": 5,
+      "title": "Eesti-Ukraina kaitsekoostöö",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ef56d965-a5e0-42e2-93cd-755445828f65"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "f786586d-5f31-4267-98f6-410cf610c819",
+      "files": [
+        "Protokol_20150518.pdf"
+      ]
+    }
+  ],
+  "uuid": "8b6e42a6-3bb8-417c-b903-0785d36afba6",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8b6e42a6-3bb8-417c-b903-0785d36afba6)",
+  "source": "https://api.riigikogu.ee/api/volumes/8b6e42a6-3bb8-417c-b903-0785d36afba6",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-05-01&endDate=2015-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
