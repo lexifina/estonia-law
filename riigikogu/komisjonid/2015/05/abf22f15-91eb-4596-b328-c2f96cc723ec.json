@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung esmaspäev, 25.05.2015 11:00",
+  "sitting_time": "2015-05-25T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "605d821f-6e98-4810-a9ec-7bce658cc213"
+    },
+    {
+      "order": 2,
+      "title": "Eesti Keskerakonna  kollektiivne pöördumine „1000 eurot miinimumpalgaks“",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "aacb501b-67b1-4492-a46a-3919c6cb3c24"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Sotsiaalkomisjoni 25.05.2015 protokoll",
+      "uuid": "6aa803db-3994-42e2-899e-7b8b23430ae4",
+      "files": [
+        "Sotsiaalkomisjoni_25.05.2015_protokoll.bdoc",
+        "Protokoll 25.05.2015.pdf"
+      ]
+    }
+  ],
+  "uuid": "abf22f15-91eb-4596-b328-c2f96cc723ec",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid abf22f15-91eb-4596-b328-c2f96cc723ec)",
+  "source": "https://api.riigikogu.ee/api/volumes/abf22f15-91eb-4596-b328-c2f96cc723ec",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-05-01&endDate=2015-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
