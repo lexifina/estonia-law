@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung esmaspäev, 25.05.2015 11:10",
+  "sitting_time": "2015-05-25T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4c77390d-92fd-449b-879f-74c705fe1aea"
+    },
+    {
+      "order": 2,
+      "title": "Kultuuriministri ülevaade „Kultuuripoliitika põhialused aastani 2020“ elluviimisest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d2efb259-d9d9-4308-9690-0f73935b5f38"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5a945c64-82e4-4665-8fb4-b615719b19a2"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "72543a50-0b49-4e2c-9f60-3da87c3757f2",
+      "files": [
+        "Protokoll.bdoc",
+        "Prot nr 9 - 25.05.pdf"
+      ]
+    }
+  ],
+  "uuid": "c26b462f-abb9-408f-a17d-1c1e887480b2",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c26b462f-abb9-408f-a17d-1c1e887480b2)",
+  "source": "https://api.riigikogu.ee/api/volumes/c26b462f-abb9-408f-a17d-1c1e887480b2",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-05-01&endDate=2015-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
