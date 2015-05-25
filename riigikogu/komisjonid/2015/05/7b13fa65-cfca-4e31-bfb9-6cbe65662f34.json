@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 25.05.2015 13:30",
+  "sitting_time": "2015-05-25T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "055d4679-a7d9-4730-9099-60a39bc4747e"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade Riigikontrolli tegevusest ning Riigikontrolli 2015. aasta tööplaanist",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a49df3d9-8f13-400d-bbf9-42c985a17321"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dc737ba2-b61b-451a-a96e-d828596122f4"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "protokoll",
+      "uuid": "bbcdb4ac-502e-4bad-a580-57c1df29fa1a",
+      "files": [
+        "Protokoll nr 2. 25.05.2015.pdf"
+      ]
+    }
+  ],
+  "uuid": "7b13fa65-cfca-4e31-bfb9-6cbe65662f34",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7b13fa65-cfca-4e31-bfb9-6cbe65662f34)",
+  "source": "https://api.riigikogu.ee/api/volumes/7b13fa65-cfca-4e31-bfb9-6cbe65662f34",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-05-01&endDate=2015-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
