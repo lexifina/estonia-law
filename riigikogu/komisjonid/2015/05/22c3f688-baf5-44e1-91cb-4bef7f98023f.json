@@ -1,0 +1,58 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung esmaspäev, 25.05.2015 11:00",
+  "sitting_time": "2015-05-25T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ee97b72f-161e-432c-a435-1be960db7602"
+    },
+    {
+      "order": 2,
+      "title": "Investeerimisfondide seaduse muutmise seaduse eelnõu (15 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d22e170e-4ce1-4f41-ab75-ceab65254ba4"
+    },
+    {
+      "order": 3,
+      "title": "Eesti Panga 2014. aasta aruanne",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8af3b2db-aa75-4462-a14b-2d9eb631ba39"
+    },
+    {
+      "order": 4,
+      "title": "Finantsinspektsiooni 2014. aasta aruanne",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "297d5a36-23b9-4da8-90ba-a3027b495a82"
+    },
+    {
+      "order": 5,
+      "title": "Kindlustustegevuse seaduse eelnõu (8 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2bcfa04c-6f22-48c0-a316-4c8714a7d894"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "5bd40900-7a9d-4fd3-8a6a-b43cefdd5eb6",
+      "files": [
+        "FI slaidid RAHK 25.05.2015.ppt",
+        "RAHK protokoll 9 25 05 15.pdf"
+      ]
+    }
+  ],
+  "uuid": "22c3f688-baf5-44e1-91cb-4bef7f98023f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 22c3f688-baf5-44e1-91cb-4bef7f98023f)",
+  "source": "https://api.riigikogu.ee/api/volumes/22c3f688-baf5-44e1-91cb-4bef7f98023f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-05-01&endDate=2015-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
