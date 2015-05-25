@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 25.05.2015 11:00",
+  "sitting_time": "2015-05-25T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "973029c9-80bd-44a4-916d-edec61907e3f"
+    },
+    {
+      "order": 2,
+      "title": "Põllumajanduse Registrite ja Informatsiooni Ameti (PRIA) tegevusest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "337f8563-1b41-4c2d-8645-f56d76419c83"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "6cf9f3e1-dffa-4bca-b515-3a1082fe066c",
+      "files": [
+        "Protokoll.bdoc",
+        "Protokol_20150526.pdf",
+        "008 protokoll lisa Eesti piimandus 2015.ppt"
+      ]
+    }
+  ],
+  "uuid": "6b31e7c2-8d77-4be9-ad29-07dcf45be1d3",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 6b31e7c2-8d77-4be9-ad29-07dcf45be1d3)",
+  "source": "https://api.riigikogu.ee/api/volumes/6b31e7c2-8d77-4be9-ad29-07dcf45be1d3",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-05-01&endDate=2015-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
