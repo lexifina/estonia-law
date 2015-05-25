@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung esmaspäev, 25.05.2015 11:00",
+  "sitting_time": "2015-05-25T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5ab79261-a1d1-439d-99dc-201ef3ed63b7"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade k.a 18. mail toimunud Euroopa Liidu kaitseministrite kohtumisest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7b71ef0b-a698-4698-b6f6-3fa1ab6451d0"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a3e5f79e-7f3d-44c4-948a-1b67e66c5515"
+    },
+    {
+      "order": 4,
+      "title": "Kell 13:40 väljasõit Ämari lennubaasi",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9ce87b25-b417-487a-a95e-a98e8d8530eb"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "5fe93946-de68-429c-af82-9e3a40a06698",
+      "files": [
+        "Protokol_20150528.pdf"
+      ]
+    }
+  ],
+  "uuid": "98015513-32d9-4ecc-9ca3-18462d4648ee",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 98015513-32d9-4ecc-9ca3-18462d4648ee)",
+  "source": "https://api.riigikogu.ee/api/volumes/98015513-32d9-4ecc-9ca3-18462d4648ee",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-05-01&endDate=2015-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
