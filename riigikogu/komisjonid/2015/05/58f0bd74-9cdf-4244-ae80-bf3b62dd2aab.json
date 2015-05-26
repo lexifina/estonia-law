@@ -1,0 +1,44 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung teisipäev, 26.05.2015 13:00",
+  "sitting_time": "2015-05-26T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kindlustustegevuse seaduse eelnõu (8 SE )",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7de65609-7fc7-4a96-94e5-c4026f948512"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine Eesti Pangaliidu esindajatega (alates 14.00 SEB Pank, Tornimäe 2)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3e3a9012-b38c-4ae9-b5b9-3ecfa45e5f29"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "e5a84a45-35fc-41bc-a47a-f558dcef20b1",
+      "files": [
+        "Volikiri 26.05.2015.pdf",
+        "Pangaliit kaardimaksed 26.05.2015.pdf",
+        "Pangaliit kapitaliturg 26.05.2015.pdf",
+        "Pangaliit HTO 26.05.2015  1.pdf",
+        "Pangaliit laenuturg 26.05.2015.pdf",
+        "RAHK protokoll 10 26 05 15.pdf"
+      ]
+    }
+  ],
+  "uuid": "58f0bd74-9cdf-4244-ae80-bf3b62dd2aab",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 58f0bd74-9cdf-4244-ae80-bf3b62dd2aab)",
+  "source": "https://api.riigikogu.ee/api/volumes/58f0bd74-9cdf-4244-ae80-bf3b62dd2aab",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-05-01&endDate=2015-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
