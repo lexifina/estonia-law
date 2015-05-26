@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 26.05.2015 14:00",
+  "sitting_time": "2015-05-26T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti Euroopa Liidu poliitika 2015-2019 kalanduse valdkond",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4f1cc612-904c-47fb-bc38-c17e18887db9"
+    },
+    {
+      "order": 2,
+      "title": "Eesti Euroopa Liidu poliitika 2015-2019 toiduohutuse, veterinaaria ja taimetervise valdkond",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7666f349-3196-475c-8ce1-5ab105b38cbe"
+    },
+    {
+      "order": 3,
+      "title": "Eesti Euroopa Liidu poliitika 2015-2019 põllumajanduse ja maaelu valdkond",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0ae8441c-f012-4b21-8334-73d03ae755b5"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "39f443bf-377c-4231-8e09-163153e37190",
+      "files": [
+        "Protokoll.bdoc",
+        "Protokol_20150528.pdf"
+      ]
+    }
+  ],
+  "uuid": "0e50447f-36bb-4e82-8630-1b98dc981706",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0e50447f-36bb-4e82-8630-1b98dc981706)",
+  "source": "https://api.riigikogu.ee/api/volumes/0e50447f-36bb-4e82-8630-1b98dc981706",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-05-01&endDate=2015-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
