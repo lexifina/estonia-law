@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung kolmapäev, 27.05.2015 09:30",
+  "sitting_time": "2015-05-27T09:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikontrolli auditiaruande „Riigi tegevus põlevkivi kaevandamis- ja töötlemisjäätmete käitlemise korraldamisel“ tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c99c6f9c-6b00-4ce0-90c8-1e3cd2cecd00"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dee331d9-83ac-46fa-b943-64d34ba41100"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "77bdad5e-0f26-497e-b5bd-2997a6b8c369",
+      "files": [
+        "Protokoll nr 3. 27.05.2015.pdf"
+      ]
+    }
+  ],
+  "uuid": "e47f2ec6-db4d-479a-924a-e6ed7778713c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e47f2ec6-db4d-479a-924a-e6ed7778713c)",
+  "source": "https://api.riigikogu.ee/api/volumes/e47f2ec6-db4d-479a-924a-e6ed7778713c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-05-01&endDate=2015-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
