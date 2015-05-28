@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung neljapäev, 28.05.2015 12:00",
+  "sitting_time": "2015-05-28T12:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Sotsiaalmaksuseaduse, tulumaksuseaduse ja teiste seaduste muutmise seaduse eelnõu (41 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d5d69198-d3a4-4be8-8a79-2f126ee3c45f"
+    },
+    {
+      "order": 2,
+      "title": "Tulumaksuseaduse § 48 täiendamise seaduse eelnõu (2 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "be41d7be-0baa-4697-80f3-2d58b6433d18"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "08670a57-2192-4f80-9af0-0956fd4bf042",
+      "files": [
+        "RAHK protokoll 11 28 05 15.pdf",
+        "RAM slaidid 28.05.2015.pdf",
+        "Protokoll.bdoc"
+      ]
+    }
+  ],
+  "uuid": "ef75e921-32ba-48f1-9e8c-a2be4058b5de",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ef75e921-32ba-48f1-9e8c-a2be4058b5de)",
+  "source": "https://api.riigikogu.ee/api/volumes/ef75e921-32ba-48f1-9e8c-a2be4058b5de",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-05-01&endDate=2015-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
