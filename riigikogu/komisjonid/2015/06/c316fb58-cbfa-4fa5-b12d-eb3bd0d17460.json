@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 1.06.2015 13:00",
+  "sitting_time": "2015-06-01T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ff525b2f-fd56-4d96-a5aa-b9e46a1b5315"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli auditiaruande „Riigi tegevus põlevkivi kaevandamis- ja töötlemisjäätmete käitlemise korraldamisel“ arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cc8cdc4a-f8ba-4b41-9f4c-479fec8c5ae8"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "649bd546-f38b-4abe-8227-8510ffee2477"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "protokoll",
+      "uuid": "29508225-5450-4791-8b47-b3b00666fcb5",
+      "files": [
+        "Protokoll nr 4. 01.06.2015.pdf"
+      ]
+    }
+  ],
+  "uuid": "c316fb58-cbfa-4fa5-b12d-eb3bd0d17460",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c316fb58-cbfa-4fa5-b12d-eb3bd0d17460)",
+  "source": "https://api.riigikogu.ee/api/volumes/c316fb58-cbfa-4fa5-b12d-eb3bd0d17460",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-06-01&endDate=2015-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
