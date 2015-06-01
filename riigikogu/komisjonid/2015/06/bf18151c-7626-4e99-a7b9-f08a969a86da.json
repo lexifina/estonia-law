@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung esmaspäev, 1.06.2015 11:00",
+  "sitting_time": "2015-06-01T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f466ea49-f091-47db-983e-ce53607dbf0f"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade Eesti EL poliitika kavandamisest, seisukohad rahandus- ja eelarvepoliitika osas",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a765ae76-198d-4606-87a9-1549e6bcf16a"
+    },
+    {
+      "order": 3,
+      "title": "Info",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6cf02f8e-0da2-4e64-9a63-4cb19e4a1694"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "6cc49e57-279b-4473-89e3-e83b6cb638a9",
+      "files": [
+        "Protokoll.bdoc",
+        "RAHK protokoll 12 01 06 15.pdf",
+        "RAM slaidid 1 06 2015 rahanduspoliitika.pdf"
+      ]
+    }
+  ],
+  "uuid": "bf18151c-7626-4e99-a7b9-f08a969a86da",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid bf18151c-7626-4e99-a7b9-f08a969a86da)",
+  "source": "https://api.riigikogu.ee/api/volumes/bf18151c-7626-4e99-a7b9-f08a969a86da",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-06-01&endDate=2015-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
