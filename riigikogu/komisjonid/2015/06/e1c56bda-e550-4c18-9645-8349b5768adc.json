@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung esmaspäev, 1.06.2015 11:00",
+  "sitting_time": "2015-06-01T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c668ecfb-469c-4550-ac86-48f084a2ec14"
+    },
+    {
+      "order": 2,
+      "title": "Psühholoogiline kaitse",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c9a18a01-0efa-4cdf-9ba9-40fe35e31abf"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a7a5dfa0-dfd0-4f93-b8a1-e637011ab615"
+    },
+    {
+      "order": 4,
+      "title": "Kell 14:45-15.30 kohtuvad riigikaitsekomisjoni liikmed BALTDEFCOL õppuritega (vanemohvitseride kursus ja kõrgem juhtimiskursus)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "620b9029-bd57-4e23-9735-f12d324b50fc"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "bdbbc039-4dd9-4907-a93b-1c1c9938887f",
+      "files": [
+        "Protokol_20150601.pdf"
+      ]
+    }
+  ],
+  "uuid": "e1c56bda-e550-4c18-9645-8349b5768adc",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e1c56bda-e550-4c18-9645-8349b5768adc)",
+  "source": "https://api.riigikogu.ee/api/volumes/e1c56bda-e550-4c18-9645-8349b5768adc",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-06-01&endDate=2015-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
