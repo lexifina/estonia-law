@@ -1,0 +1,42 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung teisipäev, 2.06.2015 14:00",
+  "sitting_time": "2015-06-02T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine eelarvenõukogu esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bd7c99d8-d671-499f-8a0a-0435b80649ee"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade perioodi 2014-2020 struktuurivahendite olulisematest rahastamisprioriteetidest ja rakendamisest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "07b87635-2a74-4e8b-9b23-4906e40317a7"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "664327df-cb00-4e75-be8a-58ecc102baad",
+      "files": [
+        "RAM slaidid 02.06.2015 struktfondid.pptx",
+        "RAHK protokoll 13 02 06 15.pdf",
+        "EELARVE NÕUKOGU slaidid 02.06.15.pptx",
+        "Protokoll.bdoc"
+      ]
+    }
+  ],
+  "uuid": "cf21a3f3-b22b-4e03-8019-e2dfd10c5d28",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid cf21a3f3-b22b-4e03-8019-e2dfd10c5d28)",
+  "source": "https://api.riigikogu.ee/api/volumes/cf21a3f3-b22b-4e03-8019-e2dfd10c5d28",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-06-01&endDate=2015-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
