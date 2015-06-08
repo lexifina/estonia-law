@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 8.06.2015 11:00",
+  "sitting_time": "2015-06-08T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5bbe4df0-0100-4fb3-a4ba-afe401a9579f"
+    },
+    {
+      "order": 2,
+      "title": "Olukorrast Eesti piimanduses",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9887ed35-eb98-45dd-af55-de3ed6c27053"
+    },
+    {
+      "order": 3,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "523b8384-5d13-49ee-a071-d53e5819ec2a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "dda3dd2a-0988-49da-b0e3-b9015ec6f40e",
+      "files": [
+        "Protokoll.bdoc",
+        "Protokol_20150610.pdf",
+        "013 protokolli lisa, EPK küsitlus.docx"
+      ]
+    }
+  ],
+  "uuid": "38357127-34eb-44b9-b012-a13922f0aa31",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 38357127-34eb-44b9-b012-a13922f0aa31)",
+  "source": "https://api.riigikogu.ee/api/volumes/38357127-34eb-44b9-b012-a13922f0aa31",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-06-01&endDate=2015-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
