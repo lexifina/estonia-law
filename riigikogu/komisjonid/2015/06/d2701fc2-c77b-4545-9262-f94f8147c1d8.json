@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung esmaspäev, 8.06.2015 11:10, ruum L241",
+  "sitting_time": "2015-06-08T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0eb5b10a-eb05-4180-bfca-f72a28240ff7"
+    },
+    {
+      "order": 2,
+      "title": "Arutelu kiusamisvaba haridustee teemal",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "596d95f0-20a3-4aa3-956b-d1c733f64bb7"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "997faf6d-a912-499c-a83a-fc2f33dd0c64"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "aec10aa0-6cb2-4473-a424-a58f24d61fe7",
+      "files": [
+        "Protokol_20150616.pdf",
+        "Protokoll.bdoc"
+      ]
+    }
+  ],
+  "uuid": "d2701fc2-c77b-4545-9262-f94f8147c1d8",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d2701fc2-c77b-4545-9262-f94f8147c1d8)",
+  "source": "https://api.riigikogu.ee/api/volumes/d2701fc2-c77b-4545-9262-f94f8147c1d8",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-06-01&endDate=2015-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
