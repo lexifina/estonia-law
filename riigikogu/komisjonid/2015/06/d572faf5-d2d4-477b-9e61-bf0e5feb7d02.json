@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung teisipäev, 9.06.2015 14:00",
+  "sitting_time": "2015-06-09T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kindlustustegevuse seaduse eelnõu (8 SE III)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "80e78d79-15dd-45bf-9f4e-58dcaa0c30f4"
+    },
+    {
+      "order": 2,
+      "title": "Sotsiaalmaksuseaduse, tulumaksuseaduse ja teiste seaduste muutmise seaduse eelnõu (41 SE II)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5c1036a0-23a4-4889-b5db-f01ee3b184e1"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "b7afa72c-6391-49e3-a57e-68bb49e57d9f",
+      "files": [
+        "Volikir 9.06.2015.pdf",
+        "Protokoll.bdoc",
+        "RAHK protokoll 16 09 06 15.pdf"
+      ]
+    }
+  ],
+  "uuid": "d572faf5-d2d4-477b-9e61-bf0e5feb7d02",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d572faf5-d2d4-477b-9e61-bf0e5feb7d02)",
+  "source": "https://api.riigikogu.ee/api/volumes/d572faf5-d2d4-477b-9e61-bf0e5feb7d02",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-06-01&endDate=2015-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
