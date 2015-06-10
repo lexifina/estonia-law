@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung kolmapäev, 10.06.2015 10:00",
+  "sitting_time": "2015-06-10T10:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töövisiidil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e467f86b-8f02-4745-8a4b-83e86959892b"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli kontrolliaruande „Ohtlike ja radioaktiivsete jäätmete käitlemine“ tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f67de1a6-3745-4136-9675-6928e0eebadc"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "24fb0ca5-dcd3-4c6f-a799-d81b6327a3a5"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "protokoll",
+      "uuid": "b3bdc8e9-7504-4dbf-9230-5a43c7642667",
+      "files": [
+        "Protokoll nr 7. 10.06.2015.pdf"
+      ]
+    }
+  ],
+  "uuid": "7379aed7-5f71-4f02-ae76-3b223833b226",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7379aed7-5f71-4f02-ae76-3b223833b226)",
+  "source": "https://api.riigikogu.ee/api/volumes/7379aed7-5f71-4f02-ae76-3b223833b226",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-06-01&endDate=2015-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
