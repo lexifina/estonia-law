@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung neljapäev, 11.06.2015 14:00",
+  "sitting_time": "2015-06-11T10:30:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Investeerimisfondide seaduse muutmise seaduse eelnõu (15 SE II)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "319998d6-f185-44ed-8449-feeccafcf122"
+    },
+    {
+      "order": 2,
+      "title": "Info",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "82225567-ffcd-43ab-a94e-aaf6cd7390da"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "baf432f2-a5ba-4f5e-aa6b-f3ad5ee0d973",
+      "files": [
+        "Protokoll.bdoc",
+        "RAHK protokoll 17 11 06 15.pdf"
+      ]
+    }
+  ],
+  "uuid": "e07e8ab5-3f3e-4e5e-9ce9-db761d5e541f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e07e8ab5-3f3e-4e5e-9ce9-db761d5e541f)",
+  "source": "https://api.riigikogu.ee/api/volumes/e07e8ab5-3f3e-4e5e-9ce9-db761d5e541f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-06-01&endDate=2015-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
