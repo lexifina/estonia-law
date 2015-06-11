@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung neljapäev, 11.06.2015 14:00",
+  "sitting_time": "2015-06-11T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ühisistung põhiseadus-, kultuuri-, sotsiaal- ,välis- ja  õiguskomisjoniga. Euroopa rände tegevuskava COM (2015) 240",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "15ae751b-7734-4505-b8f3-96a0ca104b67"
+    },
+    {
+      "order": 2,
+      "title": "Ühisistung välis-, põhiseadus- ja õiguskomisjoniga. Euroopa julgeoleku tegevuskava COM (2015) 185",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1e89edb8-fc12-400d-97ba-f7993bd122e6"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "cb6ca709-ad2f-49b3-b8a7-6faaefe7f66f",
+      "files": [
+        "Riigikaitsekomisjoni arvamus Euroopa julgeoleku tegevuskava.doc",
+        "Protokol_20150612.pdf"
+      ]
+    }
+  ],
+  "uuid": "0ad079ea-a811-4994-b714-59d3509c1944",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0ad079ea-a811-4994-b714-59d3509c1944)",
+  "source": "https://api.riigikogu.ee/api/volumes/0ad079ea-a811-4994-b714-59d3509c1944",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-06-01&endDate=2015-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
