@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung esmaspäev, 22.06.2015 13:00",
+  "sitting_time": "2015-06-22T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ühisistung Euroopa Liidu asjade komisjoni ja riigikaitsekomisjoniga: Eesti seisukohad 25.-26. juunil 2015 toimuval Euroopa Ülemkogul.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "73802d12-5c9e-4215-94cd-b0dcf5e10abb"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4ef2c190-b0ce-46cb-829f-1ea58e11b4c6"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "554b0b8f-14c3-4f4c-b5ea-9b015b9822b6",
+      "files": [
+        "Protokoll.bdoc",
+        "Protokol_20150717.pdf"
+      ]
+    }
+  ],
+  "uuid": "bd921b3b-1e64-449f-9cae-b0a2493bb8d1",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid bd921b3b-1e64-449f-9cae-b0a2493bb8d1)",
+  "source": "https://api.riigikogu.ee/api/volumes/bd921b3b-1e64-449f-9cae-b0a2493bb8d1",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-06-01&endDate=2015-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
