@@ -46,6 +46,6 @@
 
 (4) Kui käesolevas seaduses või muudes õigusaktides sätestatud keskkonna kvaliteedinormatiividega on ette nähtud rangemad nõuded kui need, mida on võimalik täita parimat võimalikku tehnikat kasutades, pannakse käitajale kompleksloaga kohustus rakendada lisaabinõusid, mis tagavad normatiivide täitmise.
 
-(5) Kompleksloa sisu täpsustavad nõuded ja kompleksloa vormi
+(5) Kompleksloa sisu täpsustavad nõuded ja kompleksloa vormi kehtestab
 
 määrusega.

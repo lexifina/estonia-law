@@ -12,6 +12,6 @@
 
 (3) Käitaja esitab lahustite kasutuskava loa andjale koos loataotlusega. Lahustite kasutuskava uuendamise sageduse määrab loa andja käitajale loa eritingimusena.
 
-(4) Nõuded lahustite kasutuskava koostamiseks ja rakendamiseks
+(4) Nõuded lahustite kasutuskava koostamiseks ja rakendamiseks kehtestab
 
 määrusega.

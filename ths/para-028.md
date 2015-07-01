@@ -10,6 +10,6 @@
 
 (5) Kompleksloa taotleja peab enne taotluse esitamist tasuma riigilõivu.
 
-(6) Kompleksloa taotluse ja selle lisade vormid
+(6) Kompleksloa taotluse ja selle lisade vormid kehtestab
 
 määrusega.

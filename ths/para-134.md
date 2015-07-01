@@ -20,6 +20,6 @@
 
 (3) Keskkonnaamet kontrollib 14 päeva jooksul saadud andmete põhjal kavandatud tegevuseks loa nõutavust. Loakohustuse puudumisel registreerib Keskkonnaamet kümne päeva jooksul kontrolli teostamisest käitaja tegevuse registreerimiskohustusega käitajate nimistus ning saadab käitajale registreerimistõendi käitaja tegevuse registreerimise kohta.
 
-(4) Orgaanilisi lahusteid kasutava käitise registreerimise teate vormi ja registreerimistõendi vormi
+(4) Orgaanilisi lahusteid kasutava käitise registreerimise teate vormi ja registreerimistõendi vormi kehtestab
 
 määrusega.

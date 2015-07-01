@@ -34,6 +34,6 @@
 
 15) käesoleva lõike punktides 1–14 nimetatud tegevusvaldkondades tegutsevatest käitistest pärineva heitvee iseseisvalt käitatav puhastamine, välja arvatud heitvee puhastamine ühiskanalisatsiooni reoveepuhastites.
 
-(3) Alltegevusvaldkondade loetelu käesoleva paragrahvi lõikes 2 nimetatud tegevusvaldkondade raames ning künnisvõimsused, mille korral on käitise tegevuse jaoks nõutav kompleksluba,
+(3) Alltegevusvaldkondade loetelu käesoleva paragrahvi lõikes 2 nimetatud tegevusvaldkondade raames ning künnisvõimsused, mille korral on käitise tegevuse jaoks nõutav kompleksluba, kehtestab
 
 määrusega.

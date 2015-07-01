@@ -4,7 +4,7 @@
 
 (2) Väävliärastuse astme nõudeid rakendatakse juhul, kui käitaja esitab loa andjale tehnilise põhjenduse selle kohta, miks ei ole võimalik järgida käesoleva seaduse § 73 alusel suurte põletusseadmete jaoks kehtestatud vääveldioksiidi heite piirväärtust.
 
-(3) Väävliärastuse astme nõuded
+(3) Väävliärastuse astme nõuded kehtestab
 
 määrusega.
 

@@ -4,7 +4,7 @@
 
 (2) Käesoleva paragrahvi lõiget 1 ei kohaldata tehaste jäätmete etteandmist välistavate automaatsüsteemide suhtes kehtestatud nõuetele, välja arvatud osas, mis puudutab automaatsüsteemi tööga seotud temperatuure.
 
-(3) täpsustatud nõuded erandite kohaldamisele jäätmepõletus- ning koospõletustehaste käitamisnõuete osas.
+(3) võib määrusega kehtestada täpsustatud nõuded erandite kohaldamisele jäätmepõletus- ning koospõletustehaste käitamisnõuete osas.
 
 (4) Jäätmepõletustehase käitaja tagab, et jäätmete põletamisel käesoleva paragrahvi lõike 1 alusel määratud nõuete korral jääkide kogus ega orgaaniliste saasteainete sisaldus jääkides ei suurene, võrreldes jäätmete põletamisega käesoleva seaduse § 91 lõigetes 1 ja 2 sätestatud nõuete ja sama paragrahvi lõike 3 alusel kehtestatud käitamisnõuete järgimisel.
 

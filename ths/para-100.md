@@ -1,10 +1,10 @@
 # § 100. Väljuvates gaasides sisalduvate saasteainete heite piirväärtused
 
-(1) Jäätmepõletus- ja koospõletustehastest väljuvates gaasides sisalduvate saasteainete heite piirväärtused
+(1) Jäätmepõletus- ja koospõletustehastest väljuvates gaasides sisalduvate saasteainete heite piirväärtused kehtestab
 
 määrusega.
 
-(2) Jäätmepõletus- ja koospõletustehastest väljuvates gaasides sisalduvate dioksiinide ja furaanide samaväärsuskordajad
+(2) Jäätmepõletus- ja koospõletustehastest väljuvates gaasides sisalduvate dioksiinide ja furaanide samaväärsuskordajad kehtestab
 
 määrusega.
 

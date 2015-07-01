@@ -1,6 +1,6 @@
 # § 137. Heite piirväärtused
 
-(1) Lahustite kasutamisel välisõhku eralduvate lenduvate orgaaniliste ühendite heite piirväärtused
+(1) Lahustite kasutamisel välisõhku eralduvate lenduvate orgaaniliste ühendite heite piirväärtused kehtestab
 
 määrusega.
 

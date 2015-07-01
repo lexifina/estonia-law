@@ -6,8 +6,8 @@
 
 (3) Lenduvate orgaaniliste ühendite heitkoguste vähendamise kavast tulenevad nõuded ja rakendamise tähtaja määrab loa andja käitajale loa eritingimusena.
 
-(4) Lenduvate orgaaniliste ühendite heitkoguste vähendamise kava koostamise nõuded pinnakattevahendi, laki, liimi või trükivärviga katmise tegevusalaga tegutseva käitaja jaoks
+(4) Lenduvate orgaaniliste ühendite heitkoguste vähendamise kava koostamise nõuded pinnakattevahendi, laki, liimi või trükivärviga katmise tegevusalaga tegutseva käitaja jaoks kehtestab
 
 määrusega.
 
-(5) lenduvate orgaaniliste ühendite heitkoguste vähendamise kava koostamise nõuded ka käesoleva paragrahvi lõikes 4 nimetamata tegevusalal tegutseva käitaja jaoks.
+(5) võib määrusega kehtestada lenduvate orgaaniliste ühendite heitkoguste vähendamise kava koostamise nõuded ka käesoleva paragrahvi lõikes 4 nimetamata tegevusalal tegutseva käitaja jaoks.

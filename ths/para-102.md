@@ -4,11 +4,11 @@
 
 (2) Kui väljuvate gaaside puhastamisel tekkivat reovett käideldakse jäätmepõletus- või koospõletustehasest väljas üksnes seda laadi reovee käitlemiseks mõeldud reoveepuhastusseadmetes, kohaldatakse käesoleva paragrahvi lõike 3 alusel kehtestatud heite piirväärtusi kohas, kus heitvesi väljub reoveepuhastusseadmetest suublasse.
 
-(3) Jäätmepõletus- ja koospõletustehastest väljuvate gaaside puhastamisel tekkiva reovee käitlemise tulemusena tekkiva heitvee saasteainete heite piirväärtused
+(3) Jäätmepõletus- ja koospõletustehastest väljuvate gaaside puhastamisel tekkiva reovee käitlemise tulemusena tekkiva heitvee saasteainete heite piirväärtused kehtestab
 
 määrusega.
 
-(4) Jäätmepõletus- ja koospõletustehastest väljuvate gaaside puhastamisel tekkiva reovee käitlemise tulemusena tekkivas heitvees sisalduvate dioksiinide ja furaanide samaväärsuskordajad
+(4) Jäätmepõletus- ja koospõletustehastest väljuvate gaaside puhastamisel tekkiva reovee käitlemise tulemusena tekkivas heitvees sisalduvate dioksiinide ja furaanide samaväärsuskordajad kehtestab
 
 määrusega.
 

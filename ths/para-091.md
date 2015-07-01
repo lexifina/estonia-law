@@ -4,6 +4,6 @@
 
 (2) Jäätmete põletamisel või koospõletamisel tekkiv soojus kasutatakse ära võimalikult suures ulatuses.
 
-(3) Täpsemad nõuded jäätmepõletus- ja koospõletustehase käitamisele
+(3) Täpsemad nõuded jäätmepõletus- ja koospõletustehase käitamisele kehtestab
 
 määrusega.

@@ -2,7 +2,7 @@
 
 (1) Käesoleva seaduse § 41 lõike 2 punktis 11 nimetatud heiteseire nõuded määratakse kohalduvates PVT-järeldustes sisalduvate omaseiret puudutavate tingimuste alusel.
 
-(2) käesoleva seaduse § 41 lõike 2 punktis 11 nimetatud pinnase ja põhjavee saastatuse seire täpsustatud nõuded.
+(2) võib määrusega kehtestada käesoleva seaduse § 41 lõike 2 punktis 11 nimetatud pinnase ja põhjavee saastatuse seire täpsustatud nõuded.
 
 (3) Põhjavee saastatuse korrapärane omaseire toimub vähemalt kord viie aasta jooksul.
 
