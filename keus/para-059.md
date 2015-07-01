@@ -12,8 +12,6 @@
 
 1) ilmneb, et luba oli selle andmise ajal õigusvastane;
 
-2) jõustunud kohtuotsusega on tühistatud kohtuotsus, millel luba põhines;
-
 3) käesoleva seaduse § 53 lõike 1 punktides 5–11 nimetatud tingimuse aluseks olnud õigusnorm on kaotanud kehtivuse;
 
 4) muutub loa omaja keskkonnaloa alusel toimuv tegevus, kasutatav tehnoloogia või muutuvad seadmed.
