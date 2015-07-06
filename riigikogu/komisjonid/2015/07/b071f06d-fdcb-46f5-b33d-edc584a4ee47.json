@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung esmaspäev, 6.07.2015 13:00",
+  "sitting_time": "2015-07-06T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 9.-10. juulil 2015 toimuval mitteametlikul justiits- ja siseküsimuste nõukogu istungil.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c9dd7916-3d4a-48bc-a55b-67aef22c71ec"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad 6.-7. juulil 2015 toimuval mitteametlikul spordiministrite kohtumisel.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1d7c5664-3848-4200-a7cd-3fd7b7e0c674"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "bc00e5ef-b09f-45e8-aacd-2276ee3fe3b3",
+      "files": [
+        "Protokoll 14_6.07.2015.pdf"
+      ]
+    }
+  ],
+  "uuid": "b071f06d-fdcb-46f5-b33d-edc584a4ee47",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b071f06d-fdcb-46f5-b33d-edc584a4ee47)",
+  "source": "https://api.riigikogu.ee/api/volumes/b071f06d-fdcb-46f5-b33d-edc584a4ee47",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-07-01&endDate=2015-07-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
