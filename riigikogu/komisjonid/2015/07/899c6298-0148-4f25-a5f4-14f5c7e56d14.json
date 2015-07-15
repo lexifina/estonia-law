@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung kolmapäev, 15.07.2015 10:00",
+  "sitting_time": "2015-07-15T10:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 20. juulil 2015 toimuval Euroopa Liidu välisasjade nõukogu istungil.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ee3518d4-004c-450f-9e5a-a2ba4b092eff"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "af4dba88-d1e9-48ff-b0b0-a75425cfd09e"
+    },
+    {
+      "order": 3,
+      "title": "Informatsioon julgeolekuolukorra arengutest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "14e531ab-062b-49f8-8fe4-4fa050de368d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "1549a919-50c0-46bc-8d45-97e4b2eadd6b",
+      "files": [
+        "15072015_volitus.pdf",
+        "Protokoll (1).bdoc",
+        "Protokol_20150831.pdf"
+      ]
+    }
+  ],
+  "uuid": "899c6298-0148-4f25-a5f4-14f5c7e56d14",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 899c6298-0148-4f25-a5f4-14f5c7e56d14)",
+  "source": "https://api.riigikogu.ee/api/volumes/899c6298-0148-4f25-a5f4-14f5c7e56d14",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-07-01&endDate=2015-07-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
