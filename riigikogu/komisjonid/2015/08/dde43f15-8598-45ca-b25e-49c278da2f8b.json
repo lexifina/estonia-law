@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung esmaspäev, 17.08.2015 13:30",
+  "sitting_time": "2015-08-17T13:30:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ühisistung rahanduskomisjoniga: ülevaade Kreeka abiprogrammist",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b31ee0ec-343f-4cf8-ac61-259fdd57cbfa"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "781b531b-79cc-4a47-bf48-80ae912927a7"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "95747eb1-da52-48d7-988c-1975b4d58e54",
+      "files": [
+        "Protokoll 17_17.08.2015.pdf"
+      ]
+    }
+  ],
+  "uuid": "dde43f15-8598-45ca-b25e-49c278da2f8b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid dde43f15-8598-45ca-b25e-49c278da2f8b)",
+  "source": "https://api.riigikogu.ee/api/volumes/dde43f15-8598-45ca-b25e-49c278da2f8b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-08-01&endDate=2015-08-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
