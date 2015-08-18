@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 18.08.2015 09:30",
+  "sitting_time": "2015-08-18T09:30:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Erakorralise istungi päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "48d5452f-af00-460b-82a6-fd444c73f70f"
+    },
+    {
+      "order": 2,
+      "title": "Sigade Aafrika katkuga seonduv",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "02934276-d84f-4b00-9ad6-09e4d60fd021"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "f540f6a6-64ed-416c-b426-971c47baa80a",
+      "files": [
+        "Protokoll.bdoc",
+        "Protokol_20150914.pdf"
+      ]
+    }
+  ],
+  "uuid": "b76068d1-1123-4109-875d-3bbac580ebea",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b76068d1-1123-4109-875d-3bbac580ebea)",
+  "source": "https://api.riigikogu.ee/api/volumes/b76068d1-1123-4109-875d-3bbac580ebea",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-08-01&endDate=2015-08-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
