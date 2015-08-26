@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung kolmapäev, 26.08.2015 10:00",
+  "sitting_time": "2015-08-26T10:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "NATO Balti õhuturbeoperatsioon",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "33203dbd-12f3-4da8-8b01-c4ce102de757"
+    },
+    {
+      "order": 2,
+      "title": "Informatsioon julgeolekuolukorra arengutest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "694f9a2f-93c2-4ed1-99b4-1e1fa4ec3025"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "809fe839-432c-4570-81b3-a039ec4e133f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "c715aab0-100d-4881-bf89-4e06ec607489",
+      "files": [
+        "Protokol_20150827.pdf"
+      ]
+    }
+  ],
+  "uuid": "872e2eb5-b73c-4d47-bfb6-00527e37a274",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 872e2eb5-b73c-4d47-bfb6-00527e37a274)",
+  "source": "https://api.riigikogu.ee/api/volumes/872e2eb5-b73c-4d47-bfb6-00527e37a274",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-08-01&endDate=2015-08-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
