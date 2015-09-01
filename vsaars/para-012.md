@@ -2,4 +2,4 @@
 
 Riigieelarvest eraldatakse saarvaldade ja saarelise osaga valdade eelarvetesse täiendavad vahendid
 
-korras.
+kehtestatud korras.

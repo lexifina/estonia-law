@@ -22,12 +22,12 @@
 
 9) muude põhimäärusega talle pandud ülesannete täitmine.
 
-(3) Komisjoni kuulub hääleõigusega valdkonna eest vastutav minister, Siseministeeriumi, Keskkonnaministeeriumi, Rahandusministeeriumi ning Majandus- ja Kommunikatsiooniministeeriumi esindaja, kaks maavanemate esindajat, üks iga väikesaarte nimekirja kantud saare esindaja, üks saarte elanike huve esindavate ühingute esindaja ja kolm väikesaarte esindajate kutsutud Riigikogu liiget. Komisjoni koosseisu kinnitab Vabariigi Valitsus.
+(3) Komisjoni kuulub hääleõigusega valdkonna eest vastutav minister, kaks Rahandusministeeriumi esindajat, üks Keskkonnaministeeriumi ning üks Majandus- ja Kommunikatsiooniministeeriumi esindaja, kaks maavanemate esindajat, üks iga väikesaarte nimekirja kantud saare esindaja, üks saarte elanike huve esindavate ühingute esindaja ja kaks väikesaarte esindajate kutsutud Riigikogu liiget. Komisjoni koosseisu kinnitab Vabariigi Valitsus.
 
-(4) Komisjoni esimees on regionaalpoliitika eest vastutav minister. Komisjon valib oma liikmete hulgast aseesimehe, kes asendab esimeest tema äraolekul. Komisjoni tehnilise teenindamise tagab Siseministeerium.
+(4) Komisjoni esimees on regionaalpoliitika eest vastutav minister. Komisjon valib oma liikmete hulgast aseesimehe, kes asendab esimeest tema äraolekul. Komisjoni tehnilise teenindamise tagab Rahandusministeerium.
 
 (5) Komisjon on otsustusvõimeline, kui kohal on vähemalt pool komisjoni koosseisust. Komisjon esitab oma ettepanekud ja seisukohad Vabariigi Valitsusele komisjoni esimehe kaudu.
 
-(6) Komisjon tegutseb põhimääruse alusel, mille
+(6) Komisjon tegutseb põhimääruse alusel, mille kinnitab
 
 .
