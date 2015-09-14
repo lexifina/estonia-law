@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung esmaspäev, 14.09.2015 11:00",
+  "sitting_time": "2015-09-14T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "35f1d00d-15f1-4b2b-aafd-016581de35c1"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade EL-i kaitseministrite mitteametlikust Luksemburgi kohtumisest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "890263f0-4c0c-47bf-bb57-66b630f08ccc"
+    },
+    {
+      "order": 3,
+      "title": "Riigikaitsekomisjoni sügisistungjärgu töökava",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d2873098-a501-4358-b0e9-a3a89e50c694"
+    },
+    {
+      "order": 4,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cd5cff99-abaf-494e-8a0f-7c34b67a40d3"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "7a5eb2cc-bbe9-48da-8dcb-b5ee7ced9527",
+      "files": [
+        "Protokol_20150914.pdf",
+        "Protokoll.bdoc"
+      ]
+    }
+  ],
+  "uuid": "119910ac-dfc7-46d8-9321-6302e3b577db",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 119910ac-dfc7-46d8-9321-6302e3b577db)",
+  "source": "https://api.riigikogu.ee/api/volumes/119910ac-dfc7-46d8-9321-6302e3b577db",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-09-01&endDate=2015-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
