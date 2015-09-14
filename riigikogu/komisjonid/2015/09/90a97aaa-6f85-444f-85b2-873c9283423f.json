@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 14.09.2015 13:30",
+  "sitting_time": "2015-09-14T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Komisjoni esimehe ja aseesimehe erakorralised valimised",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "51c96e81-93a8-4a0a-b12e-4727a5ac5bf5"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4e0a1047-865b-472b-849d-29455420cc8b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "protokoll",
+      "uuid": "e72f7285-097b-4520-9c11-71c4eea0b066",
+      "files": [
+        "Protokoll nr 9. 14.09.2015.pdf"
+      ]
+    }
+  ],
+  "uuid": "90a97aaa-6f85-444f-85b2-873c9283423f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 90a97aaa-6f85-444f-85b2-873c9283423f)",
+  "source": "https://api.riigikogu.ee/api/volumes/90a97aaa-6f85-444f-85b2-873c9283423f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-09-01&endDate=2015-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
