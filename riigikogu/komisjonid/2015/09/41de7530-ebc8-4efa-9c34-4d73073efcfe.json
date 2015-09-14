@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung esmaspäev, 14.09.2015 13:30",
+  "sitting_time": "2015-09-14T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 15. septembril 2015 toimuval mitteametlikul põllumajanduse ja kalanduse nõukogu kohtumisel.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "902afc11-bc78-477d-86f2-516a6ecc3581"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad Euroopa Liidu keskkonnanõukogu 18. septembri 2015. a istungil",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7dfed7e4-a57c-4e59-866b-af77dec23c9b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "8e388b79-0484-434d-b0bb-7e39e45bf8f4",
+      "files": [
+        "Protokoll 20_14.09.2015.pdf"
+      ]
+    }
+  ],
+  "uuid": "41de7530-ebc8-4efa-9c34-4d73073efcfe",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 41de7530-ebc8-4efa-9c34-4d73073efcfe)",
+  "source": "https://api.riigikogu.ee/api/volumes/41de7530-ebc8-4efa-9c34-4d73073efcfe",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-09-01&endDate=2015-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
