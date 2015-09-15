@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 15.09.2015 14:00",
+  "sitting_time": "2015-09-15T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti Keskerakonna fraktsiooni algatatud kinnisasja omandamise kitsendamise seaduse täiendamise seaduse eelnõu (7 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "494aa3d4-a9e6-4fb4-a731-13702a806b24"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b50be29a-eb90-4c04-a073-efa4b0ef78cf"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "a7081b4c-1b65-49da-a2e7-e3c882624b80",
+      "files": [
+        "Protokol_20150917.pdf",
+        "Protokoll.bdoc",
+        "SIM KAOKS_analuus_1.pdf"
+      ]
+    }
+  ],
+  "uuid": "ee3fa87d-c514-4408-9de4-2a22e08384ee",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ee3fa87d-c514-4408-9de4-2a22e08384ee)",
+  "source": "https://api.riigikogu.ee/api/volumes/ee3fa87d-c514-4408-9de4-2a22e08384ee",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-09-01&endDate=2015-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
