@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung esmaspäev, 21.09.2015 11:00",
+  "sitting_time": "2015-09-21T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "72dfb0e7-3fce-46bb-9bd4-b961b20cd6ab"
+    },
+    {
+      "order": 2,
+      "title": "Korteriühistu vaidluste lahendamise seaduse eelnõu (54 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "931832e5-29e7-4e6d-b406-f64647010b73"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bfd0c60b-ef8e-49d8-96e1-149c314d5995"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "cf5e8e11-2a8e-43f1-88a2-462b8bd46ed4",
+      "files": [
+        "ÕIGK 21.09.15 protokoll.pdf"
+      ]
+    }
+  ],
+  "uuid": "0120b219-87a3-452b-b86d-ffe4379ea90a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0120b219-87a3-452b-b86d-ffe4379ea90a)",
+  "source": "https://api.riigikogu.ee/api/volumes/0120b219-87a3-452b-b86d-ffe4379ea90a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-09-01&endDate=2015-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
