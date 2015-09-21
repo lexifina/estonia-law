@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Maaelukomisjoni istung esmaspäev, 21.09.2015 11:00",
+  "sitting_time": "2015-09-21T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6a15ca3b-ede7-4729-aab6-7b44d155c7f8"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine maaeluminister Urmas Kruusega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1e5fdcfc-ae15-4b99-9eb5-42c93785ad9e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "4943e627-b6bb-4adb-b4cb-09c7cd75a7e8",
+      "files": [
+        "Protokol_20150923.pdf",
+        "Protokoll.bdoc"
+      ]
+    }
+  ],
+  "uuid": "16bce6b1-0c1f-483d-86de-691ac2bb2213",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 16bce6b1-0c1f-483d-86de-691ac2bb2213)",
+  "source": "https://api.riigikogu.ee/api/volumes/16bce6b1-0c1f-483d-86de-691ac2bb2213",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-09-01&endDate=2015-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
