@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 21.09.2015 13:00",
+  "sitting_time": "2015-09-21T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "378b531a-8545-478b-9c9d-14b47531c475"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli auditiaruande „Üldhariduskoolide finantseerimine lastevanemate rahast“ arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b99e8457-ce69-43f6-bf62-c1549456b84c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "53fef578-1d58-4e9d-97d3-3e9f836c8bce",
+      "files": [
+        "Protokoll nr 10. 17.09.2015.pdf"
+      ]
+    }
+  ],
+  "uuid": "b93cce56-6da8-4977-a5a7-4d2136fd0baa",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b93cce56-6da8-4977-a5a7-4d2136fd0baa)",
+  "source": "https://api.riigikogu.ee/api/volumes/b93cce56-6da8-4977-a5a7-4d2136fd0baa",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-09-01&endDate=2015-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
