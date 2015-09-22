@@ -1,0 +1,42 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 22.09.2015 14:00",
+  "sitting_time": "2015-09-22T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Viljapuude haiguste seire, analüüs ja tõrjeabinõude rakendamine (kiri 2-7/15-154)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "acafaff5-7d85-402d-8eea-9db65ff3591c"
+    },
+    {
+      "order": 2,
+      "title": "Ettepanekud Riigikontrolli auditite läbiviimiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ddd0acd8-638e-414c-ac61-1a90491d5b47"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "e55e860d-b526-41a2-b421-61f7629862a3",
+      "files": [
+        "Protokoll.bdoc",
+        "Protokol_20150923.pdf",
+        "020 protokoll lisa 1 Põllumajandusamet.ppt",
+        "020 protokoll lisa 2 Pmuuringute Keskus 2015.ppt"
+      ]
+    }
+  ],
+  "uuid": "2d30f8a8-e840-47ed-a0d1-efbafe5371af",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2d30f8a8-e840-47ed-a0d1-efbafe5371af)",
+  "source": "https://api.riigikogu.ee/api/volumes/2d30f8a8-e840-47ed-a0d1-efbafe5371af",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-09-01&endDate=2015-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
