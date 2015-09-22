@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung teisipäev, 22.09.2015 13:00",
+  "sitting_time": "2015-09-22T13:05:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti Juristide Liidu pöördumine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bc262dc7-8e19-40bc-a6a8-655ee489951f"
+    },
+    {
+      "order": 2,
+      "title": "Riigi õigusabi seaduse muutmise seaduse eelnõu (14 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8eb31874-925d-46f8-9c26-6bd6453e18d3"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "fc8900b7-cce5-431b-9124-ad32ba3b8599",
+      "files": [
+        "ÕIGK 22.09.15 protokoll.pdf"
+      ]
+    }
+  ],
+  "uuid": "a4a10edc-1dee-45be-85f1-745b12fcd376",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a4a10edc-1dee-45be-85f1-745b12fcd376)",
+  "source": "https://api.riigikogu.ee/api/volumes/a4a10edc-1dee-45be-85f1-745b12fcd376",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-09-01&endDate=2015-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
