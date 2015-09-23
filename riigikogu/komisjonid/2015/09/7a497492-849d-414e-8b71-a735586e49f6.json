@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung kolmapäev, 23.09.2015 10:00",
+  "sitting_time": "2015-09-23T10:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Algatatud teemade arutelu ning edasise tegevuse otsustamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "256a41e0-a001-40d8-9183-b17ff06c13f7"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9da1e525-ffba-42af-9e5d-3ffd6553cd29"
+    },
+    {
+      "order": 3,
+      "title": "Riigikontrolli auditiaruande „Üldhariduskoolide finantseerimine lastevanemate rahast“ otsuse eelnõu arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5f3b426f-51c8-47db-b1e8-466c66b67b7d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "f6c0deaf-1335-45fb-83ec-463b6fd5298b",
+      "files": [
+        "Protokoll nr 11. 23.09.2015.pdf"
+      ]
+    }
+  ],
+  "uuid": "7a497492-849d-414e-8b71-a735586e49f6",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7a497492-849d-414e-8b71-a735586e49f6)",
+  "source": "https://api.riigikogu.ee/api/volumes/7a497492-849d-414e-8b71-a735586e49f6",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-09-01&endDate=2015-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
