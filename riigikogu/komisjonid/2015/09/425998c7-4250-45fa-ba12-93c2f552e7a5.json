@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 28.09.2015 11:00",
+  "sitting_time": "2015-09-28T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "22e9be5e-232c-4171-b212-5b867bf2b364"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade Leader meetme rakendamisest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bd1b5b77-552c-41be-b506-0f87c2a18e85"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "704098db-6b5f-476c-874d-60e125d5f90d",
+      "files": [
+        "Protokoll (1).bdoc",
+        "021 protokolli lisa Eesti Leader Liit 28_09_15.pptx",
+        "Protokol_20150928.pdf"
+      ]
+    }
+  ],
+  "uuid": "425998c7-4250-45fa-ba12-93c2f552e7a5",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 425998c7-4250-45fa-ba12-93c2f552e7a5)",
+  "source": "https://api.riigikogu.ee/api/volumes/425998c7-4250-45fa-ba12-93c2f552e7a5",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-09-01&endDate=2015-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
