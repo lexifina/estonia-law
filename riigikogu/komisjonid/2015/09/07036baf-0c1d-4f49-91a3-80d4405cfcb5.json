@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung esmaspäev, 28.09.2015 11:00",
+  "sitting_time": "2015-09-28T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "497a9997-1c2d-4264-88d1-ff746fad1c3b"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine Finantsinspektsiooni esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3689a9ed-c437-453f-8c24-551097291567"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "8d340bcd-a353-4190-8742-1b727a2fb8ab",
+      "files": [
+        "Protokoll.bdoc",
+        "RAHK protokoll 21 28 09 15.pdf"
+      ]
+    }
+  ],
+  "uuid": "07036baf-0c1d-4f49-91a3-80d4405cfcb5",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 07036baf-0c1d-4f49-91a3-80d4405cfcb5)",
+  "source": "https://api.riigikogu.ee/api/volumes/07036baf-0c1d-4f49-91a3-80d4405cfcb5",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-09-01&endDate=2015-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
