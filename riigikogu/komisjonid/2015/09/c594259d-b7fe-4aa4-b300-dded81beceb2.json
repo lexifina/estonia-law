@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 28.09.2015",
+  "sitting_time": "2015-09-28T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "11bccb7a-50d0-404e-b748-373731db6440"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli ülevaate „Ülevaade riigi rändepoliitika valikutest“ arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ffbfb595-cffe-43a1-94aa-56058501aa7b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "991b2eff-57fb-44fb-9412-8bac4b273f6e",
+      "files": [
+        "Protokoll nr 12. 28.09.2015.pdf"
+      ]
+    }
+  ],
+  "uuid": "c594259d-b7fe-4aa4-b300-dded81beceb2",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c594259d-b7fe-4aa4-b300-dded81beceb2)",
+  "source": "https://api.riigikogu.ee/api/volumes/c594259d-b7fe-4aa4-b300-dded81beceb2",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-09-01&endDate=2015-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
