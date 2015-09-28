@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung esmaspäev, 28.09.2015 11:00",
+  "sitting_time": "2015-09-28T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4fefa816-b4c5-4d1a-9ab3-9a864263610e"
+    },
+    {
+      "order": 2,
+      "title": "Informatsioon julgeolekuolukorra arengutest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6b710ec1-b92d-42e4-a998-c99820ff9869"
+    },
+    {
+      "order": 3,
+      "title": "Informatsioon komisjoni liikmete tegevusest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c961571a-2315-46d9-bc41-ebcafa165389"
+    },
+    {
+      "order": 4,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "159bf8d3-8e1a-434f-b972-31fd3fce0c18"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "8e8c0688-b1bf-4c7e-9238-4c92904a8e7a",
+      "files": [
+        "Protokoll.bdoc",
+        "Protokol_20151204.pdf"
+      ]
+    }
+  ],
+  "uuid": "d330eefa-989a-4039-839d-6385d4e48149",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d330eefa-989a-4039-839d-6385d4e48149)",
+  "source": "https://api.riigikogu.ee/api/volumes/d330eefa-989a-4039-839d-6385d4e48149",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-09-01&endDate=2015-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
