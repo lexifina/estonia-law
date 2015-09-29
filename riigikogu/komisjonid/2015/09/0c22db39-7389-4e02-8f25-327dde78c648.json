@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung teisipäev, 29.09.2015 14:30",
+  "sitting_time": "2015-09-29T14:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väljasõiduistung Arengufondi",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b034258c-6fbc-403b-af59-42b741725a53"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "67dc6051-8e77-4bd6-8e14-4051a859c564"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "84e39483-1e27-4aac-a1bf-9bbaba913699",
+      "files": [
+        "Arenguseire_29_09_2015 (1).pdf",
+        "2909_majanduskomisjon.pdf"
+      ]
+    }
+  ],
+  "uuid": "0c22db39-7389-4e02-8f25-327dde78c648",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0c22db39-7389-4e02-8f25-327dde78c648)",
+  "source": "https://api.riigikogu.ee/api/volumes/0c22db39-7389-4e02-8f25-327dde78c648",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-09-01&endDate=2015-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
