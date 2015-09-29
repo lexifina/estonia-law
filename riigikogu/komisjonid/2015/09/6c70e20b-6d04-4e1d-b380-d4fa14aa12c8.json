@@ -1,0 +1,49 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung teisipäev, 29.09.2015 14:00",
+  "sitting_time": "2015-09-29T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikogu otsus \"Riigi 2014. aasta majandusaasta koondaruande kinnitamine\" (85 OE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bc69d599-a826-4c3c-848c-65be2bcc0b55"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu otsus \"Ettepaneku tegemine Vabariigi Valitsusele\" (47 OE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "edd45913-da05-4faf-9a5f-066a1c12737f"
+    },
+    {
+      "order": 3,
+      "title": "Informatsioon kollektiivsest pöördumisest \"Kütuseaktsiisi tõstmata jätmiseks\"",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f1e66467-7996-4d61-b0e5-e7ce0502b397"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "87ffcacc-d6a4-468c-82fd-850a58c110a4",
+      "files": [
+        "Volikiri 29.09.2015 Simsoni asendusliige.pdf",
+        "Riigikontroll Riigi 2014.a koond.29.09.15.pdf",
+        "RAM slaidid Riigi 2014.a koond 29.09.15.pdf",
+        "RAHK protokoll 22 29 09 15.pdf",
+        "Protokoll.bdoc"
+      ]
+    }
+  ],
+  "uuid": "6c70e20b-6d04-4e1d-b380-d4fa14aa12c8",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 6c70e20b-6d04-4e1d-b380-d4fa14aa12c8)",
+  "source": "https://api.riigikogu.ee/api/volumes/6c70e20b-6d04-4e1d-b380-d4fa14aa12c8",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-09-01&endDate=2015-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
