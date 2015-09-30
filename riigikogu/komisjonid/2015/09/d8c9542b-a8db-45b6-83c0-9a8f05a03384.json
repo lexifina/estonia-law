@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung kolmapäev, 30.09.2015 10:00",
+  "sitting_time": "2015-09-30T10:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Algatatud teemade jätkuarutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b19c9dd6-9ff3-4427-ac32-81418a353a03"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bdd2d893-45ec-4961-a027-337692ca4ff4"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "edc32d33-a24d-4cd8-b074-e242fe97720d",
+      "files": [
+        "Protokoll nr 13. 30.09.2015.pdf"
+      ]
+    }
+  ],
+  "uuid": "d8c9542b-a8db-45b6-83c0-9a8f05a03384",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d8c9542b-a8db-45b6-83c0-9a8f05a03384)",
+  "source": "https://api.riigikogu.ee/api/volumes/d8c9542b-a8db-45b6-83c0-9a8f05a03384",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-09-01&endDate=2015-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
