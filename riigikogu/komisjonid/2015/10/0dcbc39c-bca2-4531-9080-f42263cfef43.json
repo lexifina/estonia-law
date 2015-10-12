@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung esmaspäev, 12.10.2015 11:00",
+  "sitting_time": "2015-10-12T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "74edd81c-513f-457c-829d-7515185a7ee5"
+    },
+    {
+      "order": 2,
+      "title": "Riigi õigusabi seaduse muutmise seaduse eelnõu (14 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d25a1fff-0bc0-48e8-af87-4670507f051b"
+    },
+    {
+      "order": 3,
+      "title": "Kriminaalmenetluse seadustiku muutmise ja sellega seonduvalt teiste seaduste muutmise seadus, millega laiendatakse kannatanute õigusi kriminaalmenetluses (80 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1b56dc5a-b994-45ab-886c-38ee5b68bc77"
+    },
+    {
+      "order": 4,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2949bf6d-17d0-477b-a3fb-12c93563cea3"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "b884af5e-6556-4945-9209-ac937d7ade33",
+      "files": [
+        "ÕIGK 12.10.15 protokoll.pdf"
+      ]
+    }
+  ],
+  "uuid": "0dcbc39c-bca2-4531-9080-f42263cfef43",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0dcbc39c-bca2-4531-9080-f42263cfef43)",
+  "source": "https://api.riigikogu.ee/api/volumes/0dcbc39c-bca2-4531-9080-f42263cfef43",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-10-01&endDate=2015-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
