@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Korruptsioonivastane erikomisjon",
+  "committee_uuid": "e4f2977a-e8c3-4fa0-8f3d-9df9acd6377f",
+  "title": "Komisjoni istung esmaspäev, 12.10.2015 13:30",
+  "sitting_time": "2015-10-12T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine riigikontrolör Alar Karisega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "805ea07b-5803-4181-8152-077978a648c7"
+    },
+    {
+      "order": 2,
+      "title": "Kohapeal algatatud küsimuste arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b0cc7299-f3c4-4252-a5a2-f1b1ad367e0c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Komisjoni istungi protokoll nr 8",
+      "uuid": "9edd24e4-0a88-4829-bfa1-4b03bc433cd3",
+      "files": [
+        "2015_10_12 nr 8.pdf"
+      ]
+    }
+  ],
+  "uuid": "b5cadf24-13e6-4e41-888f-87570ea9b36f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b5cadf24-13e6-4e41-888f-87570ea9b36f)",
+  "source": "https://api.riigikogu.ee/api/volumes/b5cadf24-13e6-4e41-888f-87570ea9b36f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-10-01&endDate=2015-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
