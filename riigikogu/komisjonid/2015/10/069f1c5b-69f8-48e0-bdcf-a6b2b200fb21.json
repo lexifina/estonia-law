@@ -1,0 +1,64 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung esmaspäev, 12.10.2015 11:00",
+  "sitting_time": "2015-10-12T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b6a442f6-8b8f-4e93-b483-e76465cb5f67"
+    },
+    {
+      "order": 2,
+      "title": "Küberjulgeolek",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "399ee42a-c689-487c-b93d-5635baabf2c6"
+    },
+    {
+      "order": 3,
+      "title": "Riigikaitsekomisjoni visiit Saksamaale k.a 1. - 4. novembril",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "91cb377f-55f0-454d-95f6-4aa2f31cfd1d"
+    },
+    {
+      "order": 4,
+      "title": "Riigikaitsekomisjoni visiit Rootsi k.a 12.-13. novembril",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "79066a47-8be1-4752-820c-a2736ab76b90"
+    },
+    {
+      "order": 5,
+      "title": "Kaitseliidu arengusuunad",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f873c6a7-781a-4ffd-b80a-fb297c84a0c1"
+    },
+    {
+      "order": 6,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b23e3a36-26b3-468e-87b1-f3528265ede7"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "52ae9c7f-1a58-490a-b8c6-00e584d32415",
+      "files": [
+        "Protokol_20151013.pdf",
+        "Protokoll.bdoc"
+      ]
+    }
+  ],
+  "uuid": "069f1c5b-69f8-48e0-bdcf-a6b2b200fb21",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 069f1c5b-69f8-48e0-bdcf-a6b2b200fb21)",
+  "source": "https://api.riigikogu.ee/api/volumes/069f1c5b-69f8-48e0-bdcf-a6b2b200fb21",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-10-01&endDate=2015-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
