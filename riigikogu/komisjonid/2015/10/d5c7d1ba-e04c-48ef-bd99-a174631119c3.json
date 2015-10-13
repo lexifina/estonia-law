@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung teisipäev, 13.10.2015 14:00",
+  "sitting_time": "2015-10-13T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väliskomisjoni ja riigikaitsekomisjoni väljasõiduistung Kaitseväe Peastaapi. Informatsioon Eesti kaitseväe üksuste osalemisest rahvusvahelistel missioonidel.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1fe6f2c5-94a5-46e9-b0d6-f16f77f2b7ee"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0959b601-dc61-415a-ad6a-3d32e5afb6fd"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "9c337575-73d6-4763-a5f0-9832c6c97d73",
+      "files": [
+        "Protokol_20160119.pdf",
+        "Protokoll.bdoc"
+      ]
+    }
+  ],
+  "uuid": "d5c7d1ba-e04c-48ef-bd99-a174631119c3",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d5c7d1ba-e04c-48ef-bd99-a174631119c3)",
+  "source": "https://api.riigikogu.ee/api/volumes/d5c7d1ba-e04c-48ef-bd99-a174631119c3",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-10-01&endDate=2015-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
