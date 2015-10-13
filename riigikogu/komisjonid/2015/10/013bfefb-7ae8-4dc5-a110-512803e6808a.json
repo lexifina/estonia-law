@@ -1,0 +1,53 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung teisipäev, 13.10.2015 14:00",
+  "sitting_time": "2015-10-13T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Lähetus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "805a4dfe-01b4-41c2-95f8-2389c220211c"
+    },
+    {
+      "order": 2,
+      "title": "2016. aasta riigieelarve seaduse eelnõu (103 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e6a261b4-92d1-479f-878c-88813836b876"
+    },
+    {
+      "order": 3,
+      "title": "2016. aasta riigieelarve seaduse eelnõu (103 SE). Osaleb kultuuriminister Indrek Saar",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6374011f-23db-4a72-bcb4-666b0441b053"
+    },
+    {
+      "order": 4,
+      "title": "2016. aasta riigieelarve seaduse eelnõu (103 SE). Osaleb majandus- ja taristuminister Kristen Michal",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0f3a4965-6395-4805-8903-947f8c2e9224"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "3fb00e2c-3d58-4d13-a339-98ef78845b04",
+      "files": [
+        "Volikiri 13.10.2015 Ammase asendusliige.pdf",
+        "Protokoll.bdoc",
+        "RAHK protokoll 25 13 10 15.pdf"
+      ]
+    }
+  ],
+  "uuid": "013bfefb-7ae8-4dc5-a110-512803e6808a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 013bfefb-7ae8-4dc5-a110-512803e6808a)",
+  "source": "https://api.riigikogu.ee/api/volumes/013bfefb-7ae8-4dc5-a110-512803e6808a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-10-01&endDate=2015-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
