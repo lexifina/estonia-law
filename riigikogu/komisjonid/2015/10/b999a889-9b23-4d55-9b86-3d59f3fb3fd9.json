@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung reede, 16.10.2015 10:00",
+  "sitting_time": "2015-10-16T10:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 22. oktoobril 2015 toimuval EL põllumajanduse ja kalanduse nõukogu istungil.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "40924bca-28ec-45d6-a823-3a82640245c9"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "11aace9e-12fa-492f-b517-c4d4df50a00c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "adbca71c-2bd7-4930-9878-b7cfca91ee6c",
+      "files": [
+        "Protokoll 27_16.10.2015.pdf"
+      ]
+    }
+  ],
+  "uuid": "b999a889-9b23-4d55-9b86-3d59f3fb3fd9",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b999a889-9b23-4d55-9b86-3d59f3fb3fd9)",
+  "source": "https://api.riigikogu.ee/api/volumes/b999a889-9b23-4d55-9b86-3d59f3fb3fd9",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-10-01&endDate=2015-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
