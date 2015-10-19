@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 19.10.2015 11:00",
+  "sitting_time": "2015-10-19T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "02043952-3d8a-4d5a-8859-fe560ce3164f"
+    },
+    {
+      "order": 2,
+      "title": "Organic Estonia idee tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c2fdc736-7c94-4ef6-8cab-19f74bda10ae"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "3d88faad-4880-41be-8f7b-5602f19606ff",
+      "files": [
+        "Protokoll.bdoc",
+        "Protokol_20151020.pdf"
+      ]
+    }
+  ],
+  "uuid": "c58ed408-9ed0-4d2e-bbc4-a57cb2227276",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c58ed408-9ed0-4d2e-bbc4-a57cb2227276)",
+  "source": "https://api.riigikogu.ee/api/volumes/c58ed408-9ed0-4d2e-bbc4-a57cb2227276",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-10-01&endDate=2015-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
