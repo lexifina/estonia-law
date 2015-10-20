@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni avalik istung teisipäev, 20.10.2015 kell 14.00",
+  "sitting_time": "2015-10-20T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Sotsiaalseadustiku üldosa seaduse eelnõu (93 SE I) ettevalmistamine esimeseks lugemiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4dc4c002-03e4-49a8-bd9f-23e1a1733d1c"
+    },
+    {
+      "order": 2,
+      "title": "Sotsiaalhoolekande seaduse eelnõu (98 SE I) ettevalmistamine esimeseks lugemiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ee583b06-61b6-40dd-830f-64a3baee17d0"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "20.10.2015 istungi protokoll",
+      "uuid": "c34f7dc8-1004-4d9e-ab83-77635a5cedfc",
+      "files": [
+        "20.10.2015 istungi protokoll.pdf",
+        "20.10.2015_istungi_protokoll.bdoc"
+      ]
+    }
+  ],
+  "uuid": "6accac33-4d1e-4a29-8cfe-258a4251b612",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 6accac33-4d1e-4a29-8cfe-258a4251b612)",
+  "source": "https://api.riigikogu.ee/api/volumes/6accac33-4d1e-4a29-8cfe-258a4251b612",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-10-01&endDate=2015-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
