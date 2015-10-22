@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung neljapäev, 22.10.2015 13:00",
+  "sitting_time": "2015-10-22T13:02:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade arengutest Türgis.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3f19d19d-e955-4765-acfb-c811705c5189"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a8f7f392-4850-45ac-a665-9e753555be2a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 22.10.2015",
+      "uuid": "a9f04b2f-c200-4cfe-96df-340a2cf3bbc5",
+      "files": [
+        "Protokoll_20161103.pdf",
+        "Protokoll_22.10.2015.bdoc"
+      ]
+    }
+  ],
+  "uuid": "920f62f7-6482-42c7-afcc-0811f26fa95c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 920f62f7-6482-42c7-afcc-0811f26fa95c)",
+  "source": "https://api.riigikogu.ee/api/volumes/920f62f7-6482-42c7-afcc-0811f26fa95c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-10-01&endDate=2015-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
