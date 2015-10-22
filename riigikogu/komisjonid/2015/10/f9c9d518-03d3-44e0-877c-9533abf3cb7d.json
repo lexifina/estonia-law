@@ -1,0 +1,34 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung neljapäev, 22.10.2015 14:00",
+  "sitting_time": "2015-10-22T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Olukorrast Süürias",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0bf49173-dd50-4931-8575-20b0542202a7"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "c24101ad-b2e1-4c25-95d5-cd7b211b71fe",
+      "files": [
+        "Protokoll.bdoc",
+        "Protokol_20151023.pdf"
+      ]
+    }
+  ],
+  "uuid": "f9c9d518-03d3-44e0-877c-9533abf3cb7d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f9c9d518-03d3-44e0-877c-9533abf3cb7d)",
+  "source": "https://api.riigikogu.ee/api/volumes/f9c9d518-03d3-44e0-877c-9533abf3cb7d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-10-01&endDate=2015-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
