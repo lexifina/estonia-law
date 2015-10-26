@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 26.10.2015 11:00",
+  "sitting_time": "2015-10-26T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "504df44f-eb50-4a8f-8699-df3bafe46ce4"
+    },
+    {
+      "order": 2,
+      "title": "Maaelukomisjoni Virumaa-visiidi ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b431ae21-6c89-4986-b2f1-74a1c505a05b"
+    },
+    {
+      "order": 3,
+      "title": "Maaelukomisjonile saabunud kirjad",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6d9aff69-4b68-4d45-ade6-876750bdb061"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "3a074aa7-23e2-4b60-8b18-f587111f511e",
+      "files": [
+        "Protokol_20151026.pdf",
+        "Protokoll.bdoc"
+      ]
+    }
+  ],
+  "uuid": "0db2bd3e-c352-42ba-96c2-97e2d55d6dd0",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0db2bd3e-c352-42ba-96c2-97e2d55d6dd0)",
+  "source": "https://api.riigikogu.ee/api/volumes/0db2bd3e-c352-42ba-96c2-97e2d55d6dd0",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-10-01&endDate=2015-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
