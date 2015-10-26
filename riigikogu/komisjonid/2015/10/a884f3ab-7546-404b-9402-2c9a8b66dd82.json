@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung esmaspäev, 26.10.2015 11:00",
+  "sitting_time": "2015-10-26T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bd5a2e47-ad71-4b7f-9c0c-0a4691663c11"
+    },
+    {
+      "order": 2,
+      "title": "Muusikakoolide Liidu pöördumine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ff07dd86-22d3-4f8f-995c-58b44e6c4330"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b9e4beda-12c3-4c91-80fe-ec2e28c0c36a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Prot nr 30",
+      "uuid": "00e3e6c7-c11b-4bc5-a934-098033638de6",
+      "files": [
+        "Prot_nr_30.bdoc",
+        "Prot nr 30 - 26.10.2015.pdf"
+      ]
+    }
+  ],
+  "uuid": "a884f3ab-7546-404b-9402-2c9a8b66dd82",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a884f3ab-7546-404b-9402-2c9a8b66dd82)",
+  "source": "https://api.riigikogu.ee/api/volumes/a884f3ab-7546-404b-9402-2c9a8b66dd82",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-10-01&endDate=2015-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
