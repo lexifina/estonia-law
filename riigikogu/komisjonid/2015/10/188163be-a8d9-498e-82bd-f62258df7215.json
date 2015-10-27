@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung teisipäev, 27.10.2015 14:00",
+  "sitting_time": "2015-10-27T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Reservväelaste arvamusuuringu tulemuste tutvustamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d17642f1-ae2a-4846-9ab9-45315a6e0923"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "095f061f-dd50-4d1b-941b-889ed2264573"
+    },
+    {
+      "order": 3,
+      "title": "Riigikaitsekomisjoni k.a 1. - 4. novembril toimuva Saksamaa visiidi ettevalmistamine ja briifing",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "738f229d-eb0d-4e8e-9e14-c6cbd9310931"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "4e7454c0-d279-4a1d-b2f2-cde581543181",
+      "files": [
+        "Protokol_20151028.pdf",
+        "Protokoll.bdoc"
+      ]
+    }
+  ],
+  "uuid": "188163be-a8d9-498e-82bd-f62258df7215",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 188163be-a8d9-498e-82bd-f62258df7215)",
+  "source": "https://api.riigikogu.ee/api/volumes/188163be-a8d9-498e-82bd-f62258df7215",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-10-01&endDate=2015-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
