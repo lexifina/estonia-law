@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung teisipäev, 27.10.2015 16:00",
+  "sitting_time": "2015-10-27T16:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Konsulaartegevuses sularaha kasutamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ae83f711-e43c-408a-a013-6e0cc5496546"
+    },
+    {
+      "order": 2,
+      "title": "Komisjoni liikme ettepanek",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fb11e568-2ba5-4764-b224-0517bec7bbeb"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "c7d9b6d7-1872-4fef-9343-b1b39f539dc3",
+      "files": [
+        "Protokoll nr 20. 27.10.2015.pdf"
+      ]
+    }
+  ],
+  "uuid": "b512b0a3-4e99-47ef-abea-4dc8f91a5896",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b512b0a3-4e99-47ef-abea-4dc8f91a5896)",
+  "source": "https://api.riigikogu.ee/api/volumes/b512b0a3-4e99-47ef-abea-4dc8f91a5896",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-10-01&endDate=2015-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
