@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung neljapäev, 29.10.2015 14:00",
+  "sitting_time": "2015-10-29T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kaitseministeeriumi valitsemisala teadus- ja arendustegevus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "40e4d961-22dc-4403-90d5-4bc526636d9f"
+    },
+    {
+      "order": 2,
+      "title": "Väikeriigi heidutuse kontseptsiooni töögrupp  (NATO STO  „Threshold Concept for Small States“) – ülevaade, Eesti huvid, oodatav väljund",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3826b4c1-920d-47d9-8211-6812cdcca88e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "4e586d38-6c77-45d0-86f7-478cea9718ba",
+      "files": [
+        "Protokoll.bdoc",
+        "Protokol_20151030.pdf"
+      ]
+    }
+  ],
+  "uuid": "643f87c4-13d4-44f5-90e4-3b544f3f256b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 643f87c4-13d4-44f5-90e4-3b544f3f256b)",
+  "source": "https://api.riigikogu.ee/api/volumes/643f87c4-13d4-44f5-90e4-3b544f3f256b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-10-01&endDate=2015-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
