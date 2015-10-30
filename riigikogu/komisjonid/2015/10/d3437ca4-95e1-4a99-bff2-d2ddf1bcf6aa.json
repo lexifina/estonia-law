@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung reede, 30.10.2015 10:00",
+  "sitting_time": "2015-10-30T10:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade 26. oktoobri 2015 keskkonna nõukogu istungist.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1711a1e9-ddfa-4961-b0bf-281ea4a28d2e"
+    },
+    {
+      "order": 2,
+      "title": "Seisukoha andmine: Osoonikihti kahandavate ainete Montreali protokolli muutmine.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "65bbe5dc-f5bd-47ff-a655-cddc40f27e85"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6cd04b4b-60cf-4944-908f-5a242ade0d16"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "1c866670-b3c6-4081-a838-f36fd1d61a38",
+      "files": [
+        "Protokoll 30_30.10.2015.pdf"
+      ]
+    }
+  ],
+  "uuid": "d3437ca4-95e1-4a99-bff2-d2ddf1bcf6aa",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d3437ca4-95e1-4a99-bff2-d2ddf1bcf6aa)",
+  "source": "https://api.riigikogu.ee/api/volumes/d3437ca4-95e1-4a99-bff2-d2ddf1bcf6aa",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-10-01&endDate=2015-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
