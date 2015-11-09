@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 9.11.2015 11:00",
+  "sitting_time": "2015-11-09T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ed5f74ab-3416-48bc-b736-e4c2f1a39a6d"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade Eesti hobumajandusest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "772258ec-2374-4b59-ac6f-9ef2267d5afe"
+    },
+    {
+      "order": 3,
+      "title": "Vabariigi Valitsuse algatatud kalandusturu korraldamise seaduse muutmise seaduse eelnõu (101 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7921e135-01c6-41fd-bd3a-823b3a34c696"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "38e9d153-327b-4f98-9abb-127201f11cf0",
+      "files": [
+        "Protokoll.bdoc",
+        "029 protokolli lisa.pptx",
+        "Protokol_20151111.pdf"
+      ]
+    }
+  ],
+  "uuid": "9a2eb429-3f30-44f9-9921-3e4afa279832",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9a2eb429-3f30-44f9-9921-3e4afa279832)",
+  "source": "https://api.riigikogu.ee/api/volumes/9a2eb429-3f30-44f9-9921-3e4afa279832",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-11-01&endDate=2015-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
