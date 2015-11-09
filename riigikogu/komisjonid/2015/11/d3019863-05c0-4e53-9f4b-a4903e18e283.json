@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung esmaspäev, 9.11.2015 11:00",
+  "sitting_time": "2015-11-09T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fe47a9fa-fd5d-4f9d-afe4-c55bda62bf54"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "33f8b7d6-7b39-4626-9688-a5b51f818216"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "cb395301-0e45-41df-9317-f13b4c1d78a2",
+      "files": [
+        "ÕIGK 09.11.15 protokoll.pdf"
+      ]
+    }
+  ],
+  "uuid": "d3019863-05c0-4e53-9f4b-a4903e18e283",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d3019863-05c0-4e53-9f4b-a4903e18e283)",
+  "source": "https://api.riigikogu.ee/api/volumes/d3019863-05c0-4e53-9f4b-a4903e18e283",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-11-01&endDate=2015-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
