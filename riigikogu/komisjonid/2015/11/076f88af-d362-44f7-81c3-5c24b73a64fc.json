@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung esmaspäev, 9.11.2015 11:00",
+  "sitting_time": "2015-11-09T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d8efe990-e2cf-4cdd-9892-84cffc141624"
+    },
+    {
+      "order": 2,
+      "title": "Tagatisfondi seaduse muutmise ja sellega seonduvalt teiste seaduste muutmise seaduse eelnõu (119 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f936873f-5776-4337-bc17-81ea19ceda8c"
+    },
+    {
+      "order": 3,
+      "title": "Info",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b265ae4a-8e5f-4f41-89c5-ad0bcff9fda0"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "40df1ed3-45fa-4b88-8089-7b809e2bb24e",
+      "files": [
+        "RAHK protokoll 32 09 11 15.pdf",
+        "Protokoll.bdoc"
+      ]
+    }
+  ],
+  "uuid": "076f88af-d362-44f7-81c3-5c24b73a64fc",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 076f88af-d362-44f7-81c3-5c24b73a64fc)",
+  "source": "https://api.riigikogu.ee/api/volumes/076f88af-d362-44f7-81c3-5c24b73a64fc",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-11-01&endDate=2015-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
