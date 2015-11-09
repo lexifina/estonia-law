@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung esmaspäev, 9.11.2015 11:00",
+  "sitting_time": "2015-11-09T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "95c07682-085e-406f-a40b-c0d7ae14bc8f"
+    },
+    {
+      "order": 2,
+      "title": "Informatsioon julgeolekuolukorra arengutest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2fd87bc2-9957-46e0-8cd2-68b781a49b06"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "e239135c-27cc-4633-95b1-818549182180",
+      "files": [
+        "Protokol_20151110.pdf",
+        "Protokoll.bdoc"
+      ]
+    }
+  ],
+  "uuid": "cc422add-7335-493d-85d3-1a8054c9a25d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid cc422add-7335-493d-85d3-1a8054c9a25d)",
+  "source": "https://api.riigikogu.ee/api/volumes/cc422add-7335-493d-85d3-1a8054c9a25d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-11-01&endDate=2015-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
