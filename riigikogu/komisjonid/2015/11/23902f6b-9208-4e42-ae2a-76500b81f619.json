@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung esmaspäev, 9.11.2015 11:00",
+  "sitting_time": "2015-11-09T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d3b81d04-408c-4196-8844-9a14494bf5d5"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "73e485ae-ceb6-4f83-8bab-f2cdafc3d629"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "8b87b748-b328-437f-8429-b4c1e4afd3ee",
+      "files": [
+        "Protokoll.bdoc",
+        "Prot nr 32 - 09.11.2015.pdf"
+      ]
+    }
+  ],
+  "uuid": "23902f6b-9208-4e42-ae2a-76500b81f619",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 23902f6b-9208-4e42-ae2a-76500b81f619)",
+  "source": "https://api.riigikogu.ee/api/volumes/23902f6b-9208-4e42-ae2a-76500b81f619",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-11-01&endDate=2015-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
