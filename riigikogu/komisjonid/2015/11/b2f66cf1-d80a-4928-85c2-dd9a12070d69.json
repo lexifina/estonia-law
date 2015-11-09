@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung esmaspäev, 9.11.2015 11:00",
+  "sitting_time": "2015-11-09T11:03:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala (09.11-15.11.15) töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "00aa6f92-efa3-4219-ad71-50dfd6755dbc"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli kontrolliaruande \"Ohtlike ja radioaktiivsete jäätmete käitlemine\" tutvustamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a93b746c-ac7d-4692-a018-5c1971787f1c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Keskkonnakomisjoni 09.11.2015. a istungi protokoll",
+      "uuid": "d170aca1-1bc6-4235-a61c-82da6e440e4e",
+      "files": [
+        "Keskkonnakomisjoni_09.11.2015._a_20151117.pdf",
+        "Keskkonnakomisjon_RK_Ohtl_jäätmed_9.11.2015.pptx"
+      ]
+    }
+  ],
+  "uuid": "b2f66cf1-d80a-4928-85c2-dd9a12070d69",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b2f66cf1-d80a-4928-85c2-dd9a12070d69)",
+  "source": "https://api.riigikogu.ee/api/volumes/b2f66cf1-d80a-4928-85c2-dd9a12070d69",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-11-01&endDate=2015-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
