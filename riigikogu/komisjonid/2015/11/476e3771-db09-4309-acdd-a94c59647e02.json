@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung teisipäev, 10.11.2015 14:00",
+  "sitting_time": "2015-11-10T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Briifing kriisireguleerimise õppuse CONEX 2015 teemal.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b4f9ccae-656a-4e2a-a0ca-b2ca12c77139"
+    },
+    {
+      "order": 2,
+      "title": "Notarite Koja arvamus Riigikogu liikmete algatatud kooseluseaduse rakendamise seaduse eelnõule.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4b5956ae-883f-4716-af3b-9fd9d3a2fae2"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "25ad1744-0824-4aa4-a909-e0cdefac5e90",
+      "files": [
+        "ÕIGK 10.11.15 protokoll.pdf"
+      ]
+    }
+  ],
+  "uuid": "476e3771-db09-4309-acdd-a94c59647e02",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 476e3771-db09-4309-acdd-a94c59647e02)",
+  "source": "https://api.riigikogu.ee/api/volumes/476e3771-db09-4309-acdd-a94c59647e02",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-11-01&endDate=2015-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
