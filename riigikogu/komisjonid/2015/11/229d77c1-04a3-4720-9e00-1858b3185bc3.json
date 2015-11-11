@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung kolmapäev, 11.11.2015 10:00",
+  "sitting_time": "2015-11-11T09:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikontrolli kontrolliaruande „Riigi 2014. aasta majandusaasta koondaruande õigsus ja tehingute seaduslikkus“ arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "35de3dcb-30c9-41cf-9fad-e81f929aeea4"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli kontrolliaruande \"Lasteaiakohtade kättesaadavus valdades ja linnades\" tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c0818bf8-5412-407b-b162-118df4309783"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "7d7133e1-43df-422e-ac2b-53bcb27015de",
+      "files": [
+        "Protokoll nr 23. 11.11.2015.pdf"
+      ]
+    }
+  ],
+  "uuid": "229d77c1-04a3-4720-9e00-1858b3185bc3",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 229d77c1-04a3-4720-9e00-1858b3185bc3)",
+  "source": "https://api.riigikogu.ee/api/volumes/229d77c1-04a3-4720-9e00-1858b3185bc3",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-11-01&endDate=2015-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
