@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Väljasõit Virumaale 12.-13.11.2015",
+  "sitting_time": "2015-11-12T12:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Wiru Vili TÜ (Avinurme, Ida-Virumaa)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bc33f6a3-5691-4eda-b018-72c0afd94e5a"
+    },
+    {
+      "order": 2,
+      "title": "Moe Peenviinavabrik (Moe küla, Tapa vald, Lääne-Virumaa)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6f0ea082-72bf-4cea-9408-30c1b6939971"
+    },
+    {
+      "order": 3,
+      "title": "Simuna Ivax OÜ Äntu ja Nõmme kalakasvatus (Väike-Maarja vald, Lääne-Virumaa)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "387e772a-db85-4005-b49c-0ca951582927"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "9cd32767-5d76-4736-bc2d-5f09b93d1347",
+      "files": [
+        "Protokoll.bdoc",
+        "Protokol_20151118.pdf"
+      ]
+    }
+  ],
+  "uuid": "632442cc-71bf-41dd-8dc5-5e062f2dc4c6",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 632442cc-71bf-41dd-8dc5-5e062f2dc4c6)",
+  "source": "https://api.riigikogu.ee/api/volumes/632442cc-71bf-41dd-8dc5-5e062f2dc4c6",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-11-01&endDate=2015-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
