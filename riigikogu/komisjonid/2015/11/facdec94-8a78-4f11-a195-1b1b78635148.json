@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung reede, 13.11.2015 10:00",
+  "sitting_time": "2015-11-13T10:01:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 17. novembril 2015 toimuval Euroopa Liidu välisasjade nõukogu (kaitseministrid) istungil.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d9677751-70fd-43c5-b476-11cb26a76fbd"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4113661f-4cfb-4373-bbbb-ed22611a0de0"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "ba3d5bb4-909c-4bde-9454-bb54be48bc57",
+      "files": [
+        "Protokol_20151130.pdf",
+        "Protokoll.bdoc"
+      ]
+    }
+  ],
+  "uuid": "facdec94-8a78-4f11-a195-1b1b78635148",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid facdec94-8a78-4f11-a195-1b1b78635148)",
+  "source": "https://api.riigikogu.ee/api/volumes/facdec94-8a78-4f11-a195-1b1b78635148",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-11-01&endDate=2015-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
