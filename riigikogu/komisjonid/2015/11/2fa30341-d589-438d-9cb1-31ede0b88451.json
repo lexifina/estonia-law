@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung esmaspäev, 16.11.2015 11:00",
+  "sitting_time": "2015-11-16T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3fc3108f-6e64-42ce-95d4-c4d5fd66a3c0"
+    },
+    {
+      "order": 2,
+      "title": "Kutsealuste tervisenõuded",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9f8361da-6d1f-49e6-93ad-426392e2b6be"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e1a65382-fdeb-419e-9712-3bd735714efe"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "d7e64755-fccc-41a4-9692-74dbf4fe9089",
+      "files": [
+        "Protokol_20151116.pdf",
+        "Protokoll.bdoc"
+      ]
+    }
+  ],
+  "uuid": "2fa30341-d589-438d-9cb1-31ede0b88451",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2fa30341-d589-438d-9cb1-31ede0b88451)",
+  "source": "https://api.riigikogu.ee/api/volumes/2fa30341-d589-438d-9cb1-31ede0b88451",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-11-01&endDate=2015-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
