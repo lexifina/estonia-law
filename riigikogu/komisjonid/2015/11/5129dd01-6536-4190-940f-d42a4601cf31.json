@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung esmaspäev, 16.11.2015 11:00",
+  "sitting_time": "2015-11-16T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "df8713b5-8013-4b3d-ba1a-1d2fad505878"
+    },
+    {
+      "order": 2,
+      "title": "2015. aasta riigieelarve seaduse muutmise seaduse eelnõu (120 SE II)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7caec46c-1c8d-4baf-adf9-5a28ee8ed1c5"
+    },
+    {
+      "order": 3,
+      "title": "Riigilõivuseaduse muutmise seaduse eelnõu (97 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7657f1e4-245c-4440-b3d0-d19e3e96acf7"
+    },
+    {
+      "order": 4,
+      "title": "Arutelu teemal Eesti Panga kiri ettepanekuga reservkapitali suurendamise jätkamiseks.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4df652b3-42d2-41c0-bbba-e205797f858b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "999b0a2b-bd93-4f8b-bea5-14fd52b7ed3b",
+      "files": [
+        "Protokoll.bdoc",
+        "RAHK protokoll 34 16 11 15.pdf"
+      ]
+    }
+  ],
+  "uuid": "5129dd01-6536-4190-940f-d42a4601cf31",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 5129dd01-6536-4190-940f-d42a4601cf31)",
+  "source": "https://api.riigikogu.ee/api/volumes/5129dd01-6536-4190-940f-d42a4601cf31",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-11-01&endDate=2015-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
