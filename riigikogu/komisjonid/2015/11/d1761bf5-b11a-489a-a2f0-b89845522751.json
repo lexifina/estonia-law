@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Korruptsioonivastane erikomisjon",
+  "committee_uuid": "e4f2977a-e8c3-4fa0-8f3d-9df9acd6377f",
+  "title": "Komisjoni istung esmaspäev, 23.11.2015 13:00",
+  "sitting_time": "2015-11-23T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikogu liikme Toomas Vitsuti avalduse läbivaatamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b51d63a5-2155-4f6b-9e79-d65449505377"
+    },
+    {
+      "order": 2,
+      "title": "Komisjonile laekunud avalduse ja  algatuskirja projektide läbivaatamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d6c310ff-fab9-40ea-8044-1efc958cc9c6"
+    },
+    {
+      "order": 3,
+      "title": "Istungil algatatud küsimuste arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "08564d60-43f0-4c01-b96e-724fb84a90d0"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Komisjoni istungi protokoll nr 13",
+      "uuid": "e68d0681-3e0b-46c5-98fd-a7233775e58e",
+      "files": [
+        "2015_11_23 nr 13.pdf"
+      ]
+    }
+  ],
+  "uuid": "d1761bf5-b11a-489a-a2f0-b89845522751",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d1761bf5-b11a-489a-a2f0-b89845522751)",
+  "source": "https://api.riigikogu.ee/api/volumes/d1761bf5-b11a-489a-a2f0-b89845522751",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-11-01&endDate=2015-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
