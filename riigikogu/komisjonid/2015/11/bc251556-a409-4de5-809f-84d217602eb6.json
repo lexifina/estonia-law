@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 23.11.2015 11:00",
+  "sitting_time": "2015-11-23T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f3f48cd5-af57-4c0c-85cd-6fe8f4c542bd"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli auditiaruanne \"Lairibavõrgu ehk kiire interneti väljaehitamise tulemuslikkus\"",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "847ffc93-4a44-401a-a5d8-a32cdd480cab"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "774ea4e8-4b9c-4285-b6db-e5abf3605ec0",
+      "files": [
+        "Protokol_20151124.pdf",
+        "Protokoll.bdoc"
+      ]
+    }
+  ],
+  "uuid": "bc251556-a409-4de5-809f-84d217602eb6",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid bc251556-a409-4de5-809f-84d217602eb6)",
+  "source": "https://api.riigikogu.ee/api/volumes/bc251556-a409-4de5-809f-84d217602eb6",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-11-01&endDate=2015-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
