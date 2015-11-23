@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung esmaspäev, 23.11.2015 11:00",
+  "sitting_time": "2015-11-23T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0f199357-ab49-4bfd-a843-e14f071e0a28"
+    },
+    {
+      "order": 2,
+      "title": "Kriminaalmenetluse seadustiku muutmise ja sellega seonduvalt teiste seaduste muutmise seadus, millega laiendatakse kannatanute õigusi kriminaalmenetluses (80 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bb128e5a-0ab5-4844-bf60-30f4ee85790e"
+    },
+    {
+      "order": 3,
+      "title": "Arvamus Riigikogu põhiseaduskomisjonile kriminaalmenetluse seadustiku § 141 lõike 1 põhiseaduspärasuse kohta.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e317433e-8408-4a61-89dc-0524777c2f96"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "0dbbf105-c678-4cb1-94c8-a86f58fc0208",
+      "files": [
+        "ÕIGK 23.11.15 protokoll.pdf"
+      ]
+    }
+  ],
+  "uuid": "c568cb5f-a66a-4e7a-bd2d-d512a6789449",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c568cb5f-a66a-4e7a-bd2d-d512a6789449)",
+  "source": "https://api.riigikogu.ee/api/volumes/c568cb5f-a66a-4e7a-bd2d-d512a6789449",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-11-01&endDate=2015-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
