@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung teisipäev, 24.11.2015 14:00",
+  "sitting_time": "2015-11-24T14:05:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Võlaõigusseaduse § 403¹ täiendamise seaduse eelnõu (106 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "86913ce8-bf0b-475e-82af-5914d0ceac3f"
+    },
+    {
+      "order": 2,
+      "title": "Rahvusvahelise Tööorganisatsiooni meretöö konventsiooni ratifitseerimise seaduse eelnõu (127 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7c23a446-40b7-46ba-9653-31d348af274c"
+    },
+    {
+      "order": 3,
+      "title": "Rahvusvahelise Tööorganisatsiooni kalandustöö konventsiooni (nr 188) ratifitseerimise seaduse eelnõu (126 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "65a8698f-02fb-4566-8aac-1ffa46973173"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "443ad5d2-0fe0-450f-859d-a68832ef6061",
+      "files": [
+        "ÕIGK 24.11.15 protokoll.pdf"
+      ]
+    }
+  ],
+  "uuid": "9f292d16-d41a-433a-b5bf-b08de78b4e03",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9f292d16-d41a-433a-b5bf-b08de78b4e03)",
+  "source": "https://api.riigikogu.ee/api/volumes/9f292d16-d41a-433a-b5bf-b08de78b4e03",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-11-01&endDate=2015-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
