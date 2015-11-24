@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung teisipäev, 24.11.2015 kell 14.00",
+  "sitting_time": "2015-11-24T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Tubakaseaduse muutmise seaduse eelnõu (118 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "447785be-adfe-4482-b3a8-84267f6f0226"
+    },
+    {
+      "order": 2,
+      "title": "Sotsiaalhoolekande seaduse eelnõu (98 SE II)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b45eb352-a881-49a7-b191-fd96dd00b186"
+    },
+    {
+      "order": 3,
+      "title": "Riigikogu otsus Ettepaneku tegemine Vabariigi Valitsusele (102 OE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "af950e9b-f26a-4ee0-bfdb-e2d6d17728b1"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Sotsiaalkomisjoni 24.11.2015 istungi protokoll",
+      "uuid": "62032e0f-9589-4d27-a338-bda162338086",
+      "files": [
+        "Sotsiaalkomisjoni_24.11.2015_istungi_protokoll.bdoc",
+        "24.11.2015 istungi protokoll.pdf"
+      ]
+    }
+  ],
+  "uuid": "7961e8a0-66ae-49e8-b9db-785b7bb83538",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7961e8a0-66ae-49e8-b9db-785b7bb83538)",
+  "source": "https://api.riigikogu.ee/api/volumes/7961e8a0-66ae-49e8-b9db-785b7bb83538",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-11-01&endDate=2015-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
