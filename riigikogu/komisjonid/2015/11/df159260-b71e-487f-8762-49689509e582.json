@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung kolmapäev, 25.11.2015 10:00",
+  "sitting_time": "2015-11-25T10:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "29b5a6a4-9607-4600-85d0-ccc83fcf7cf2"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolöri ülevaate riigi vara kastutamisest ja säilimisest 2014.–2015. aastal tutvustus ja arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "80f0cabf-76b8-439d-a966-8ecf72573413"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "acf17ea2-5b34-4602-9ef2-213516bc2bae"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "a520a293-e7b5-46ef-a7cc-c844525d1cb3",
+      "files": [
+        "Protokoll nr 25. 25.11.2015.pdf"
+      ]
+    }
+  ],
+  "uuid": "df159260-b71e-487f-8762-49689509e582",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid df159260-b71e-487f-8762-49689509e582)",
+  "source": "https://api.riigikogu.ee/api/volumes/df159260-b71e-487f-8762-49689509e582",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-11-01&endDate=2015-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
