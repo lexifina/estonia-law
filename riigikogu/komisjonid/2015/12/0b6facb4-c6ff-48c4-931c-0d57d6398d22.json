@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni väljasõiduistung kolmapäev, 2.12.2015 15:00",
+  "sitting_time": "2015-12-02T15:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Tutvumine Kaitseliidu Männiku lasketiiruga",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bf422aef-261c-40f3-899e-6160ca433de1"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade riigikaitsekomisjoni delegatsioonide  ja liikmete välislähetustest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d7ac31d2-a257-4611-9efc-187cd0705745"
+    },
+    {
+      "order": 3,
+      "title": "Riigikaitsekomisjoni raport",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3ee15147-58c5-4630-94ee-43d0513994db"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "9c9882cd-7ec8-443c-ae7d-288d50ccdf07",
+      "files": [
+        "Protokol_20151203.pdf",
+        "Protokoll.bdoc"
+      ]
+    }
+  ],
+  "uuid": "0b6facb4-c6ff-48c4-931c-0d57d6398d22",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0b6facb4-c6ff-48c4-931c-0d57d6398d22)",
+  "source": "https://api.riigikogu.ee/api/volumes/0b6facb4-c6ff-48c4-931c-0d57d6398d22",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-12-01&endDate=2015-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
