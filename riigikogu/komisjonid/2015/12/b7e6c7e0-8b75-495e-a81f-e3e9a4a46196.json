@@ -1,0 +1,48 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung esmaspäev, 7.12.2015 11:00",
+  "sitting_time": "2015-12-07T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "10d0a91e-7fc9-4524-82a5-37e60b83a855"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu otsus \"Riigi 2014. aasta majandusaasta koondaruande kinnitamine\" (85 OE II)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7881eeb0-2ed2-4c10-8104-d1911e0b0690"
+    },
+    {
+      "order": 3,
+      "title": "2016. aasta riigieelarve seaduse eelnõu (103 SE III)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "317b3e82-54b3-445d-9eab-2c607d4ab53f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "9f8703d1-efff-4b90-83be-146ddfd5dec5",
+      "files": [
+        "Protokoll.bdoc",
+        "RAHK protokoll 38 7 12 15 Lisa nr 1 ME loetelu.pdf",
+        "RAHK protokoll 38 7 12 15 Lisa nr 2 koondtabel.xls",
+        "RAHK protokoll 38 7 12 15.pdf"
+      ]
+    }
+  ],
+  "uuid": "b7e6c7e0-8b75-495e-a81f-e3e9a4a46196",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b7e6c7e0-8b75-495e-a81f-e3e9a4a46196)",
+  "source": "https://api.riigikogu.ee/api/volumes/b7e6c7e0-8b75-495e-a81f-e3e9a4a46196",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-12-01&endDate=2015-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
