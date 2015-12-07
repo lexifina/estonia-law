@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 7.12.2015",
+  "sitting_time": "2015-12-07T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3cbf2b64-171c-49b3-8132-8e5676a2d9bd"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli kontrolliaruande „Lasteaiakohtade kättesaadavus valdades ja linnades“ arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1b06159a-8717-4bfb-b0cb-0bcb16f2b5b0"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "102b358a-a9df-4e72-9baa-059d323ca7a8"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "4aa50334-c533-49c4-a8b0-f42721fd42b9",
+      "files": [
+        "Protokoll nr 26. 07.12.2015.pdf"
+      ]
+    }
+  ],
+  "uuid": "792a2ffd-15ff-4727-9fdb-e698c3ad2a4f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 792a2ffd-15ff-4727-9fdb-e698c3ad2a4f)",
+  "source": "https://api.riigikogu.ee/api/volumes/792a2ffd-15ff-4727-9fdb-e698c3ad2a4f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-12-01&endDate=2015-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
