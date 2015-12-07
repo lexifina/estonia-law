@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 7.12.2015 11:00",
+  "sitting_time": "2015-12-07T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0444c098-ffe1-4e0b-81a7-a77e1d20f1bb"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine Võrumaa omavalitsusjuhtide ja ametnikega. Maapiirkondade varustatus energiaga.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0dd3fd78-3e3a-4a3f-a271-1df9a41f48c1"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "c617fb51-57a9-4b19-88ee-10fa03373da2",
+      "files": [
+        "Protokoll.bdoc",
+        "Protokol_20151222.pdf",
+        "034 protokoll lisa Tarmo Mere.pdf"
+      ]
+    }
+  ],
+  "uuid": "2b91e517-0604-483e-b433-7d5751201e52",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2b91e517-0604-483e-b433-7d5751201e52)",
+  "source": "https://api.riigikogu.ee/api/volumes/2b91e517-0604-483e-b433-7d5751201e52",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-12-01&endDate=2015-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
