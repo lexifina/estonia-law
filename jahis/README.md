@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/123122014022> (version in force from 2015-01-01)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/101122015006> (version in force from 2015-12-11)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -43,6 +43,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/123122014022> (version in force 
 | [§ 31](para-031.md) | Ühisjaht |
 | [§ 32](para-032.md) | Ohutusnõuded jahipidamisel |
 | [§ 33](para-033.md) | Marutauditunnustega uluki surmamine ja sellest teavitamine |
+| [§ 33¹](para-033b1.md) | Sigade Aafrika katku tunnustega metssea surmamine ja sellest teavitamine |
 | [§ 34](para-034.md) | Jahisaadus |
 | **5. peatükk Jahipidamisõigust tõendav dokument** | |
 | [§ 35](para-035.md) | Jahipidamisõigust tõendavad dokumendid |

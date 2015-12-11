@@ -10,7 +10,7 @@
 
 2) Keskkonnaamet käesoleva seaduse § 23 lõike 4 punktides 6 ja 7 sätestatud juhtudel.
 
-(4) Jahipiirkonna kasutaja on kohustatud kehtiva jahitunnistuse alusel andma tasuta jahiloa väikeulukite küttimiseks oma kinnisasjal jahti pidavale maaomanikule või tema määratud isikutele.
+(4) Jahipiirkonna kasutaja on kohustatud kehtiva jahitunnistuse alusel andma tasuta jahiloa väikeulukite küttimiseks oma kinnisasjal jahti pidavale maaomanikule või tema määratud isikutele. Keskkonnaametil on õigus riikliku loomatauditõrje komisjoni ettepanekul kehtestada sigade Aafrika katku tõrjumise eesmärgil ajavahemik ja piirkond, mille jooksul ja kuhu jahipiirkonna kasutaja on kohustatud kehtiva jahitunnistuse alusel andma tasuta jahiloa metssigade küttimiseks oma kinnisasjal jahti pidavale maaomanikule.
 
 (5) Käesoleva paragrahvi lõikes 4 nimetatud juhul määrab küttida lubatud jahiulukid ja loa kehtivusaja kuni üheks jahiaastaks maaomanik, välja arvatud maaomaniku määratud isikule antud jahiloa puhul, mille kehtivusaeg ei tohi olla lühem kui kümme päeva.
 

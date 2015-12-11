@@ -67,3 +67,5 @@ jahieeskirjas.
 (5) Tasku- ja otsmikulampi võib kasutada lasketulemuse selgitamiseks ning haavatud ja surnud uluki otsimiseks.
 
 (6) Käesoleva paragrahvi lõike 4 punktis 4 sätestatud keeld ei laiene veelinnu-, kopra- ega mingijahile seisva mootoriga veesõidukist.
+
+(7) Keskkonnaametil on õigus kehtestada sigade Aafrika katku tõrjumise eesmärgil ajavahemik, mille jooksul on lubatud metssigade laskmine seisva mootoriga mootor- ja maastikusõidukist, mootor- ja maastikusõidukit muul viisil kasutades ning kunstliku valgusallika abil.
