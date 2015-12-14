@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 14.12.2015 11:00",
+  "sitting_time": "2015-12-14T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8eed4cc4-28ff-49db-aae3-dbf82051b0ad"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli audit „Leader-programmi toetuste jagamine“",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "506d88f7-1c4e-49b6-80a9-ff1b365882c0"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "2e2d7eec-25ef-4cc8-a581-9c9a763267bb",
+      "files": [
+        "Protokoll.bdoc",
+        "Protokol_20151214.pdf"
+      ]
+    }
+  ],
+  "uuid": "3b9f27d9-a17e-4cb8-a041-fd8dc8f176c5",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3b9f27d9-a17e-4cb8-a041-fd8dc8f176c5)",
+  "source": "https://api.riigikogu.ee/api/volumes/3b9f27d9-a17e-4cb8-a041-fd8dc8f176c5",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-12-01&endDate=2015-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
