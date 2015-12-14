@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Korruptsioonivastane erikomisjon",
+  "committee_uuid": "e4f2977a-e8c3-4fa0-8f3d-9df9acd6377f",
+  "title": "Komisjoni istung esmaspäeval, 14.12.2015",
+  "sitting_time": "2015-12-14T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Seisukoha kujundamine väliskomisjoni ettepaneku suhtes välislähetuskulude kajastamise teemal",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6a261e73-759f-4b42-8543-8247b55486e8"
+    },
+    {
+      "order": 2,
+      "title": "Huvide deklaratsioonide kontrollimise tulemustest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3c3e8938-8085-4e69-a453-9a2886190471"
+    },
+    {
+      "order": 3,
+      "title": "Komisjoni sügisistungjärgu töö kokkuvõte",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d6d23e8a-8543-4a1b-9dad-843de2f971c6"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Komisjoni istungi protokoll nr 15",
+      "uuid": "79ea900b-f71b-4811-8829-60662105c562",
+      "files": [
+        "2015_12_14 Protokoll nr 15.pdf"
+      ]
+    }
+  ],
+  "uuid": "8e665da5-db3e-4a8a-93c3-dd60ae7ce166",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8e665da5-db3e-4a8a-93c3-dd60ae7ce166)",
+  "source": "https://api.riigikogu.ee/api/volumes/8e665da5-db3e-4a8a-93c3-dd60ae7ce166",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-12-01&endDate=2015-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
