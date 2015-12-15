@@ -1,0 +1,35 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 15.12.2015 14:00",
+  "sitting_time": "2015-12-15T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kokkuvõte 2015. aasta tööst",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fa827b54-d1e6-4c9b-9673-007f3dd69430"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "914c339c-d5bd-4136-82b8-c9480a41a639",
+      "files": [
+        "Protokoll.bdoc",
+        "037 protokolli lisa MAEK 2015.docx",
+        "Protokol_20151222.pdf"
+      ]
+    }
+  ],
+  "uuid": "a55955f4-4141-48e9-8d79-d2f8a8f221a0",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a55955f4-4141-48e9-8d79-d2f8a8f221a0)",
+  "source": "https://api.riigikogu.ee/api/volumes/a55955f4-4141-48e9-8d79-d2f8a8f221a0",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-12-01&endDate=2015-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
