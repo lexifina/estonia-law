@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung teisipäev, 15.12.2015 kell 14.00",
+  "sitting_time": "2015-12-15T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eriarstiabi kättesaadavusest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c04ea522-4efc-4116-895c-df119da42d4d"
+    },
+    {
+      "order": 2,
+      "title": "Kokkuvõte sügisistungjärgu tööst",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c470744f-d7b2-46b6-93ee-cd1a9b5299a4"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Sotsiaalkomisjoni 15.12.2015 istungi protokoll",
+      "uuid": "e58db484-e762-41d0-b02e-f8485a765023",
+      "files": [
+        "Sotsiaalkomisjoni_15.12.2015_istungi_protokoll.bdoc",
+        "15.12.2015 istungi protokoll.pdf"
+      ]
+    }
+  ],
+  "uuid": "ead4b2f9-6986-4810-8332-86e5c2f56b1c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ead4b2f9-6986-4810-8332-86e5c2f56b1c)",
+  "source": "https://api.riigikogu.ee/api/volumes/ead4b2f9-6986-4810-8332-86e5c2f56b1c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2015-12-01&endDate=2015-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
