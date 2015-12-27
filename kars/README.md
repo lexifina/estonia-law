@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/125092015007> (version in force from 2015-09-23)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/117122015008> (version in force from 2015-12-27)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -390,6 +390,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/125092015007> (version in force 
 | [§ 257](para-257.md) | Omavoli |
 | [§ 258](para-258.md) | Eesti Vabariigi riigipiiri ja ajutise kontrolljoone ebaseaduslik ületamine |
 | [§ 259](para-259.md) | Välismaalase ebaseaduslik toimetamine üle Eesti Vabariigi riigipiiri ja ajutise kontrolljoone |
+| [§ 259¹](para-259b1.md) | Eestis ilma seadusliku aluseta viibimise soodustamine |
 | [§ 260](para-260.md) | Välismaalase ilma seadusliku aluseta Eestis viibimine |
 | [§ 260¹](para-260b1.md) | Eestis ilma seadusliku aluseta viibivale välismaalasele töötamise võimaldamine |
 | [§ 261](para-261.md) | Koormise täitmata jätmine |
