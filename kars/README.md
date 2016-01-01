@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/117122015008> (version in force from 2015-12-27)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/117122015009> (version in force from 2016-01-01)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -379,7 +379,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/117122015008> (version in force 
 | [§ 249](para-249.md) | Välisriigi ja rahvusvahelise organisatsiooni ametliku sümboli teotamine |
 | [§ 250](para-250.md) | Üleskutse kuriteo toimepanemisele välisriigi ja rahvusvahelise organisatsiooni vastu |
 | **5. jagu Süüteod riigi kaitsevõime vastu** | |
-| [§ 251](para-251.md) | Võimuhaaramine kaitsejõududes |
+| [§ 251](para-251.md) | Võimuhaaramine Kaitseväes või Kaitseliidus |
 | [§ 252](para-252.md) | Tungimine riigikaitseliselt tähtsale maa-alale, hoonesse ja ruumi |
 | [§ 253](para-253.md) | Riigikaitselise sundkoormise täitmata jätmine |
 | [§ 254](para-254.md) | Mobilisatsioonikäsu täitmata jätmine ja kaitseväeteenistusest kõrvalehoidumine |
@@ -662,7 +662,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/117122015008> (version in force 
 | [§ 445](para-445.md) | Vale teenistusalane ettekanne |
 | [§ 446](para-446.md) | Võimu kuritarvitamine |
 | [§ 447](para-447.md) | Teenistusalane lohakus |
-| [§ 448](para-448.md) | Kaitsejõudude vara pillamine |
+| [§ 448](para-448.md) | Kaitseväe ja Kaitseliidu vara pillamine |
 | [§ 449](para-449.md) | Relvastatud üksuse üleandmine ja vara jätmine vaenlasele |
 | [§ 450](para-450.md) | Hukkuva sõjalaeva mahajätmine |
 | **25. peatükk RAKENDUSSÄTE** | |

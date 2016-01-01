@@ -1,6 +1,6 @@
 # § 254. Mobilisatsioonikäsu täitmata jätmine ja kaitseväeteenistusest kõrvalehoidumine
 
-(1) Kaitseväekohustuslase poolt mobilisatsioonikäsu või rahuajal teatavaks tehtud mobilisatsioonikorralduse põhjendamatu täitmata jätmise eest –
+(1) Isiku poolt mobilisatsioonikäsu täitmata jätmise eest –
 
 karistatakse rahalise karistuse või kuni üheaastase vangistusega.
 

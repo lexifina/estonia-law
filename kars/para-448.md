@@ -1,6 +1,6 @@
-# § 448. Kaitsejõudude vara pillamine
+# § 448. Kaitseväe ja Kaitseliidu vara pillamine
 
-(1) Kaitsejõudude relvastuse, tehnika, varustuse või muu vara pantimise, mahajätmise, kaotamise, kohusetundetu hoidmise või rikkumise eest, kui sellega on tekitatud suur kahju, –
+(1) Kaitseväe ja Kaitseliidu relvastuse, tehnika, varustuse või muu vara pantimise, mahajätmise, kaotamise, kohusetundetu hoidmise või rikkumise eest, kui sellega on tekitatud suur kahju, –
 
 karistatakse kuni viieaastase vangistusega.
 

@@ -1,6 +1,6 @@
-# § 251. Võimuhaaramine kaitsejõududes
+# § 251. Võimuhaaramine Kaitseväes või Kaitseliidus
 
-(1) Kaitseväes või muus relvi valdavas sõjaväeliselt korraldatud asutuses, organisatsioonis või üksuses võimuhaaramise eest –
+(1) Kaitseväes või Kaitseliidus või nende struktuuriüksuses või nende koosseisu kuuluvas muus üksuses võimuhaaramise eest –
 
 karistatakse kahe- kuni kümneaastase vangistusega.
 
