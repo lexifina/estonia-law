@@ -1,6 +1,6 @@
 # § 58. Üleminek õppe läbiviimise õigusele
 
-(1) Kooli õppekavarühmas, millesse kuuluvad 2013. aasta 1. septembri seisuga hariduse infosüsteemi kantud õppekavad ning mille alusel toimub õppetöö, loetakse õppe läbiviimise õigus antuks kuni 2016. aasta 1. jaanuarini.
+(1) Kooli õppekavarühmas, millesse kuuluvad 2013. aasta 1. septembri seisuga hariduse infosüsteemi kantud õppekavad ning mille alusel toimub õppetöö, loetakse õppe läbiviimise õigus antuks kuni 2017. aasta 1. jaanuarini.
 
 (2) Õppe läbiviimise õiguse pikendamine viiakse käesoleva seaduse alusel läbi alates 2014. aasta 1. jaanuarist. Käesoleva paragrahvi lõikes 1 nimetatud õppekavarühmas pikendatakse õppe läbiviimise õigust akrediteerimist korraldava asutuse koostatud ajagraafiku alusel.
 
