@@ -36,7 +36,7 @@
 
 2) jäätmeveose saatedokumendi või ohtlike jäätmete saatekirja number;
 
-3) jäätmeliik ja koodinumber, mis on kehtestatud jäätmeseaduse § 2 lõike 4 alusel;
+3) jäätmeliik ja koodinumber, mis on kehtestatud jäätmeseaduse § 2 lõike 5 alusel;
 
 4) vastuvõetud jäätmete kogus;
 
