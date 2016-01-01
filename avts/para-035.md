@@ -18,6 +18,10 @@
 
 6) teabe riigikaitselise sundkoormise kohta;
 
+6¹) teabe, mille avalikuks tulek ohustaks riigikaitseobjekti või lihtsustaks selle vastase ründe toimepanemist;
+
+6²) teabe riigikaitseülesannete täitmiseks ja hädaolukorra tagajärgede leevendamiseks vajaliku varu suuruse ja vahendite koguse kohta ning selle kasutusele võtmise ulatuse ja tingimuste kohta;
+
 7) teabe, mille avalikuks tulek ohustaks muinsuskaitse all olevat objekti või muuseumikogusse kuuluvat museaali;
 
 8) teabe, mille avalikuks tulek ohustaks kaitseala või kaitsealuse liigi ning tema elupaiga või kasvukoha säilimist;
@@ -54,4 +58,6 @@
 
 3) põhjendatud juhtudel asutusesiseselt adresseeritud dokumendid, mida dokumendiregistris ei registreerita (arvamused, teated, memod, õiendid, nõuanded jm);
 
-4) tsiviilkohtumenetluses riigi kui menetlusosalise huvisid kahjustada võiva teabe kuni kohtulahendi tegemiseni.
+4) tsiviilkohtumenetluses riigi kui menetlusosalise huvisid kahjustada võiva teabe kuni kohtulahendi tegemiseni;
+
+5) riigikaitseülesannete täitmiseks ja hädaolukorra tagajärgede leevendamiseks vajaliku varu moodustamise ning vahendite muretsemisega seotud teabe, kui selle avalikuks tulek võib mõjutada varu moodustamist ja vahendite muretsemist.
