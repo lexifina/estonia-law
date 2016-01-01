@@ -16,7 +16,7 @@
 
 3) väljaheitmisega.
 
-(6) Kaitseliidu liikmesus lõpeb Kaitseliidust väljaarvamisega isiku surma korral või kui isik on teadmata kadunud ning Politsei- ja Piirivalveamet on tema suhtes algatanud teadmata kadunud isiku asukoha tuvastamise menetluse ega ole suutnud tema asukohta kindlaks teha 12 kuu jooksul.
+(6) Kaitseliidu liikmesus lõpeb Kaitseliidust väljaarvamisega isiku surma korral või teadmata kadumise korral, kui Politsei- ja Piirivalveamet ei ole suutnud isiku asukohta kindlaks teha 12 kuu jooksul asukoha kindlakstegemise avalduse esitamise päevast arvates.
 
 (7) Kaitseliidust väljaastumiseks peab Kaitseliidu liige esitama kirjaliku avalduse.
 

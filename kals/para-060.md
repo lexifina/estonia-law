@@ -4,7 +4,7 @@
 
 (2) Kaitseliidus tehtava töötervishoiu ja tööohutuse uurimise korra kehtestab Kaitseliidu ülem.
 
-(3) Kaitseliidu liikme vigastada saamise ja hukkumise korral käesoleva seaduse § 4 lõike 2 punktides 1, 2, 4 ja 6 sätestatud tegevustes osalemisel korraldab töötervishoiu ja tööohutuse uurimise Kaitseliidu kaasamist taotlenud asjaomane ametiasutus. Uurimistoimingu tulemus esitatakse Kaitseliidu ülemale.
+(3) Kaitseliidu liikme vigastada saamise ja hukkumise korral käesoleva seaduse § 4 lõike 2 punktides 1, 2, 4, 6 ja 7 sätestatud tegevustes osalemisel korraldab töötervishoiu ja tööohutuse uurimise Kaitseliidu kaasamist taotlenud asjaomane ametiasutus. Uurimistoimingu tulemus esitatakse Kaitseliidu ülemale.
 
 (4) Kaitseliidu liikme vigastada saamise ja hukkumise korral käesoleva seaduse § 4 lõike 2 punktis 5 sätestatud tegevuses osalemisel korraldab töötervishoiu ja tööohutuse uurimise Kaitsevägi. Uurimistoimingu tulemus esitatakse Kaitseliidu ülemale.
 
@@ -14,4 +14,4 @@
 
 määrusega.
 
-(7) Kaitseliidu liikme vigastada saamise korral käesoleva seaduse § 4 lõike 1 punktides 1–3 ja 5–8 sätestatud ülesannete täitmisel ning lõike 2 punktides 1, 2, 4 ja 6 sätestatud tegevustes osalemisel teostab püsiva töövõimetuse ekspertiisi ja määrab püsiva töövõimetuse ulatuse Sotsiaalkindlustusamet riikliku pensionikindlustuse seaduses sätestatud korras.
+(7) Kaitseliidu liikme vigastada saamise korral käesoleva seaduse § 4 lõike 1 punktides 1–3 ja 5–8 sätestatud ülesannete täitmisel ning lõike 2 punktides 1, 2, 4, 6 ja 7 sätestatud tegevustes osalemisel teostab püsiva töövõimetuse ekspertiisi ja määrab püsiva töövõimetuse ulatuse Sotsiaalkindlustusamet riikliku pensionikindlustuse seaduses sätestatud korras.

@@ -14,7 +14,7 @@
 
 6) arendab ja väärtustab kehakultuuri ja sporti elanikkonna hulgas;
 
-7) tagab vajaduse korral Kaitseministeeriumi ja selle valitsemisalas olevate riigikaitseliste objektide ja vara ning Eesti välisesinduste valve;
+7) tagab vajaduse korral riigikaitseobjektide ja riigikaitse eesmärgil kasutatava vara ning Eesti välisesinduste valve;
 
 8) täidab teisi talle seaduste ja nende alusel kehtestatud õigusaktidega antud ülesandeid.
 
@@ -22,15 +22,17 @@
 
 1) päästesündmuse lahendamisele päästeseaduses sätestatud korras;
 
-2) hädaolukorra lahendamisele, päästetööle ja turvalisuse tagamisele hädaolukorra seaduses sätestatud korras;
+2) eriolukorra tööde tegemisele ning liikluse korraldamisele ja turvalisuse tagamisele eriolukorra piirkonnas hädaolukorra seaduses sätestatud korras;
 
 3) erakorralise seisukorra lahendamisele erakorralise seisukorra seaduses sätestatud korras;
 
 4) küberturvalisuse tagamisele pädeva ametiasutuse juhtimisel;
 
-5) Kaitseväe korraldatavale õppekogunemisele;
+5) Kaitseväe korraldatavale õppekogunemisele ja lisaõppekogunemisele;
 
-6) politseitegevusele korrakaitseseaduses sätestatud korras.
+6) politseitegevusele korrakaitseseaduses sätestatud korras;
+
+7) riigikaitseobjektivastase ründe, riigipiiri või ajutise kontrolljoone ebaseadusliku ületamise ning kuritegude ennetamisse ja tõkestamisse korrakaitseseaduses sätestatud korras.
 
 (3) Kaitseliidu kaasamise tingimused ja korra küberturvalisuse tagamisel kehtestab
 

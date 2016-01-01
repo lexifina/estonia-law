@@ -1,12 +1,10 @@
 # § 69. Valve osutamine
 
-(1) Valve käesoleva seaduse tähenduses on Eesti välisesinduse, riigikaitselise objekti või vara ja selle ümbruse jälgimine ründeohu või ründe avastamiseks, õigusrikkumise ärahoidmiseks või takistamiseks ja ohu kõrvaldamiseks ning meetmete võtmine valvatava objekti või vara puutumatuse tagamiseks.
+(1) Valve käesoleva seaduse tähenduses on Eesti välisesinduse, riigikaitseobjekti või riigikaitse eesmärgil kasutatava vara ja selle ümbruse jälgimine ründeohu või ründe avastamiseks, õigusrikkumise ärahoidmiseks või takistamiseks ja ohu kõrvaldamiseks ning meetmete võtmine valvatava objekti või vara puutumatuse tagamiseks.
 
 (2) Kaitseliidu valvatavate objektide ja vara loetelu kehtestab
 
 määrusega.
-
-(3) Objekti ja vara valve korraldamise ülesande annab Kaitseliidule Kaitseväe juhataja, arvestades käesoleva paragrahvi lõikes 2 nimetatud valdkonna eest vastutava ministri määruses sätestatut. Kaitseväe juhataja teavitab esimesel võimalusel oma korraldusest ja selle sisust kirjalikult valdkonna eest vastutavat ministrit.
 
 (4) Valvatava objekti ja vara valdajaga sõlmib valvelepingu Kaitseliidu ülem või tema volitatud isik. Eesti välisesinduse valvelepingu sõlmib Kaitseliidu ülem.
 

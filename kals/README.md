@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/104032015026> (version in force from 2015-04-01)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/117122015040> (version in force from 2016-01-01)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -41,6 +41,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/104032015026> (version in force 
 | [§ 30](para-030.md) | Liikmesuse muutmine ja lõppemine |
 | [§ 31](para-031.md) | Kaitseliidu liikme õigused |
 | [§ 32](para-032.md) | Kaitseliidu liikme kohustused |
+| [§ 32¹](para-032b1.md) | Kaitseliidu tegevliikme sõjaväelise auastmega sõjaaja ametikohale nimetamine ning kaitseväeteenistusse asumine mobilisatsiooni ja sõjaseisukorra ajal |
 | **4. peatükk Teenistuskohustuse täitmine ja käsk** | |
 | [§ 33](para-033.md) | Teenistuskohustuse täitmine |
 | [§ 34](para-034.md) | Käsk |

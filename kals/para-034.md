@@ -1,6 +1,6 @@
 # § 34. Käsk
 
-(1) Käsk käesoleva seaduse tähenduses on käsu andja tahte väljendus teenistuskohustuse täitmise kestel. Kaitseliidu liikmele ei kohaldata Kaitseväe korralduse seaduses sätestatud käsu regulatsiooni, välja arvatud juhul, kui Kaitseliidu liige on kutsutud õppekogunemisele kaitseväeteenistuse seaduse alusel.
+(1) Käsk käesoleva seaduse tähenduses on käsu andja tahte väljendus teenistuskohustuse täitmise kestel. Kaitseliidu liikmele ei kohaldata Kaitseväe korralduse seaduses sätestatud käsu regulatsiooni, välja arvatud juhul, kui Kaitseliidu liige on kutsutud õppekogunemisele kaitseväeteenistuse seaduse alusel või lisaõppekogunemisele riigikaitseseaduse alusel.
 
 (2) Käsk antakse suuliselt, kirjalikult või märguandena.
 

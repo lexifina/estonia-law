@@ -1,6 +1,6 @@
 # § 22. Kaitseliidu liikmesus
 
-(1) Kaitseliidu liikmeks astumine ja liikmeskonnast väljaastumine on vabatahtlik.
+(1) Kaitseliidu liikmeks astumine ja liikmeskonnast väljaastumine on vabatahtlik, kui käesolev seadus ei sätesta teisiti.
 
 (2) Kaitseliidu liige võib kuuluda vaid ühte struktuuriüksusesse. Alalised liikmed puuduvad peastaabil ja koolil.
 
