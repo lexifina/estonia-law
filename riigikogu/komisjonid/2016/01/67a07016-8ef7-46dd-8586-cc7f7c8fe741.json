@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung esmaspäev, 11.01.2016 11:00",
+  "sitting_time": "2016-01-11T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a9aa9054-c0af-45a2-9735-65cabaf9862a"
+    },
+    {
+      "order": 2,
+      "title": "Maksualase teabevahetuse seaduse ja maksukorralduse seaduse muutmise seaduse eelnõu (145 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3324378d-20b1-45b1-b7f4-6fa416862ac5"
+    },
+    {
+      "order": 3,
+      "title": "Rahandusministeeriumi ülevaade Euroopa stabiilsusmehhanismi antud stabiilsustoetustest ja Eesti Vabariigi osalemisest Euroopa stabiilsusmehhanismis.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7667bcb7-db8b-46ab-99ab-c13aabf5917e"
+    },
+    {
+      "order": 4,
+      "title": "Info",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e79ddefb-186e-40fb-a069-5aae8165c343"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "48c041aa-eaab-4674-9d28-b650b19e2653",
+      "files": [
+        "RAHK protokoll 42 11 01 16.pdf",
+        "Protokoll.bdoc"
+      ]
+    }
+  ],
+  "uuid": "67a07016-8ef7-46dd-8586-cc7f7c8fe741",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 67a07016-8ef7-46dd-8586-cc7f7c8fe741)",
+  "source": "https://api.riigikogu.ee/api/volumes/67a07016-8ef7-46dd-8586-cc7f7c8fe741",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-01-01&endDate=2016-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
