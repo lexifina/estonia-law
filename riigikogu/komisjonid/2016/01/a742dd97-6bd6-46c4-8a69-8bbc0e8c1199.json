@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung esmaspäev, 11.01.2016 11:15",
+  "sitting_time": "2016-01-11T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "75affb75-5154-4563-b1a0-13283fcf03cf"
+    },
+    {
+      "order": 2,
+      "title": "Õiguskantsleri ettepaneku veeseaduse § 17 lõike 4 põhiseadusega kooskõlla viimiseks arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3d0f84ad-66ab-4a82-b65c-f7ef9cb5f96c"
+    },
+    {
+      "order": 3,
+      "title": "Õiguskantsleri ettepaneku toote nõuetele vastavuse seaduse põhiseadusega kooskõlla viimiseks arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6e9f1c8e-b942-418c-bae7-15bb11f8c440"
+    },
+    {
+      "order": 4,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dcdbebf3-fc98-4975-9f37-c5da1bf6c917"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "2016.01.11 protokoll",
+      "uuid": "b6c9d49c-5255-4d7b-accf-9a364a10a699",
+      "files": [
+        "2016.01.11_protokoll.bdoc",
+        "2016.01.11 protokoll.pdf"
+      ]
+    }
+  ],
+  "uuid": "a742dd97-6bd6-46c4-8a69-8bbc0e8c1199",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a742dd97-6bd6-46c4-8a69-8bbc0e8c1199)",
+  "source": "https://api.riigikogu.ee/api/volumes/a742dd97-6bd6-46c4-8a69-8bbc0e8c1199",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-01-01&endDate=2016-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
