@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 11.01.2016 11:00",
+  "sitting_time": "2016-01-11T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9c5074b2-d025-4d30-b160-f6b51f23d2a5"
+    },
+    {
+      "order": 2,
+      "title": "Eesti taastuvenergeetika olukord ja võimalused maaelu arengu aspektist.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2379f767-4030-4421-8b5b-b63c281d416d"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "25c9a467-d04a-4b71-9a0a-a0ff25ebc195"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "618552c6-66e5-4d04-835e-3b9f8c620f11",
+      "files": [
+        "Protokoll.bdoc",
+        "Protokol_20160114.pdf",
+        "038 protokolli lisa taastuvenergia.ppt"
+      ]
+    }
+  ],
+  "uuid": "910959d4-38f6-4533-a783-70119d7ef599",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 910959d4-38f6-4533-a783-70119d7ef599)",
+  "source": "https://api.riigikogu.ee/api/volumes/910959d4-38f6-4533-a783-70119d7ef599",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-01-01&endDate=2016-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
