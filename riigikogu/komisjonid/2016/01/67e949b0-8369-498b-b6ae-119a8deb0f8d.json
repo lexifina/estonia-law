@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung teisipäev, 12.01.2016 14:00",
+  "sitting_time": "2016-01-12T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Erakonnaseaduse muutmise seaduse eelnõu (144 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ee06df13-f1da-4cbf-a2ef-9b195c3975ce"
+    },
+    {
+      "order": 2,
+      "title": "ELAKile hinnangu andmine Euroopa Liidu rohelise kaardi algatustes osalemise kohta",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "90bc373a-616d-4cbe-b04d-86c2104e48c1"
+    },
+    {
+      "order": 3,
+      "title": "EL Nõukogu Eesti eesistumisest arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cbc70c3e-43ea-4c11-96ad-a70ad28ef23b"
+    },
+    {
+      "order": 4,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3c5e6aea-b0ff-4a39-977e-5ef03a60d8f4"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "2016.01.12 protokoll",
+      "uuid": "6fbe5e82-af6c-4fdf-9e82-ef3a82879779",
+      "files": [
+        "2016.01.12 protokoll.pdf",
+        "2016.01.12 protokoll.bdoc"
+      ]
+    }
+  ],
+  "uuid": "67e949b0-8369-498b-b6ae-119a8deb0f8d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 67e949b0-8369-498b-b6ae-119a8deb0f8d)",
+  "source": "https://api.riigikogu.ee/api/volumes/67e949b0-8369-498b-b6ae-119a8deb0f8d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-01-01&endDate=2016-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
