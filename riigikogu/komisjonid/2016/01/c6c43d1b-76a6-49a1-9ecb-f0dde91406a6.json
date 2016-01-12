@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung teisipäev, 12.01.2016 09:00",
+  "sitting_time": "2016-01-12T09:07:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade Eesti ja Ameerika Ühendriikide kahepoolsetest suhetest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "085aeb9b-055d-4c27-b57a-3270f1050684"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "da41ea0c-5530-41d0-80ec-9502ec100f89"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "1f15c2ed-cef4-41b4-a683-ce931a6c99d5",
+      "files": [
+        "Protokoll.bdoc",
+        "Protokol_20160114.pdf"
+      ]
+    }
+  ],
+  "uuid": "c6c43d1b-76a6-49a1-9ecb-f0dde91406a6",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c6c43d1b-76a6-49a1-9ecb-f0dde91406a6)",
+  "source": "https://api.riigikogu.ee/api/volumes/c6c43d1b-76a6-49a1-9ecb-f0dde91406a6",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-01-01&endDate=2016-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
