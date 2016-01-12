@@ -1,0 +1,42 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung teisipäev, 12.01.2016 13:15",
+  "sitting_time": "2016-01-12T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Arvamus põhiseaduskomisjonile halduskohtumenetluse seadustiku § 7 lõige 1 ja § 8 lõigete 4-6 põhiseaduspärasusest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c824b659-2c7b-4e7b-98d5-2384aed2fd82"
+    },
+    {
+      "order": 2,
+      "title": "Kooseluseaduse rakendamise seaduse eelnõu (114 SE II)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d6c7ed01-7bc7-4620-8542-70ddcb0ee111"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "ba157d75-4a39-4a66-8a89-081568184523",
+      "files": [
+        "img-222125434-0001.pdf",
+        "Protokolli lisa 2 (Vabaerakonna ME-d).docx",
+        "ÕIGK 12.01.16 protokoll.pdf",
+        "Protokolli lisa 1 (EKRE ME-d).docx"
+      ]
+    }
+  ],
+  "uuid": "4938afd5-99fa-4a63-9aa1-f56e9c0f0b9c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 4938afd5-99fa-4a63-9aa1-f56e9c0f0b9c)",
+  "source": "https://api.riigikogu.ee/api/volumes/4938afd5-99fa-4a63-9aa1-f56e9c0f0b9c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-01-01&endDate=2016-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
