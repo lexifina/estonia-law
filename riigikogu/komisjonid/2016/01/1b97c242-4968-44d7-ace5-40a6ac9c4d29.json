@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung kolmapäev, 13.01.2016 09:30",
+  "sitting_time": "2016-01-13T10:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikontrolli kontrolliaruande tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7c33a4ba-35f1-418c-9854-d7d4fd61923f"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "74399b17-4a12-429a-9e69-635603b589a4"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "29c42dae-c016-4f3b-9dfd-d4070bee5fb6",
+      "files": [
+        "Protokoll nr 32. 13.01.2016.pdf"
+      ]
+    }
+  ],
+  "uuid": "1b97c242-4968-44d7-ace5-40a6ac9c4d29",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 1b97c242-4968-44d7-ace5-40a6ac9c4d29)",
+  "source": "https://api.riigikogu.ee/api/volumes/1b97c242-4968-44d7-ace5-40a6ac9c4d29",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-01-01&endDate=2016-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
