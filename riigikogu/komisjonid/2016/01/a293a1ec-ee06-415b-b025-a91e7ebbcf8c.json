@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung neljapäev, 14.01.2016 13:00",
+  "sitting_time": "2016-01-14T13:08:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 18. jaanuaril 2016 toimuval Euroopa Liidu välisasjade nõukogu istungil.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "78dad644-c91a-4711-b7bc-50d5345ab2ae"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade arengutest Poolas ning Eesti ja Poola kahepoolsetest suhetest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7565386d-ab2b-4014-b70f-b32ce216a844"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d41c84ac-9767-4057-8f6f-ddbf7147777e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "fd1c6c65-a223-49aa-9104-dfa3d1f3da29",
+      "files": [
+        "Protokoll.bdoc",
+        "Protokol_20160118.pdf"
+      ]
+    }
+  ],
+  "uuid": "a293a1ec-ee06-415b-b025-a91e7ebbcf8c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a293a1ec-ee06-415b-b025-a91e7ebbcf8c)",
+  "source": "https://api.riigikogu.ee/api/volumes/a293a1ec-ee06-415b-b025-a91e7ebbcf8c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-01-01&endDate=2016-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
