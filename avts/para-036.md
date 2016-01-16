@@ -24,7 +24,7 @@
 
 11) andmeid teabevaldajale kuuluva vara kohta;
 
-12) riikliku või teenistusliku järelevalve korras või distsiplinaarkorras tehtud jõustunud ettekirjutusi või antud akte ning andmeid kehtivate karistuste kohta.
+12) riikliku järelevalve, haldusjärelevalve või teenistusliku järelevalve korras või distsiplinaarkorras tehtud jõustunud ettekirjutusi või antud akte ning andmeid kehtivate karistuste kohta.
 
 (2) Käesoleva paragrahvi lõikes 1 sätestatud keeld kehtib ka:
 

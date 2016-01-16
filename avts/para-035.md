@@ -4,15 +4,17 @@
 
 1) kriminaal- või väärteomenetluses kogutud teabe, välja arvatud vastavalt väärteomenetluse seadustikus ja kriminaalmenetluse seadustikus sätestatud tingimustel avaldatava teabe;
 
-2) riikliku järelevalve menetluse käigus kogutud teabe kuni selle kohta tehtud otsuse jõustumiseni;
+2) riikliku järelevalve, haldusjärelevalve ja teenistusliku järelevalve menetluse käigus kogutud teabe kuni selle kohta tehtud otsuse jõustumiseni;
 
 3) teabe, mille avalikuks tulek kahjustaks riigi välissuhtlemist;
+
+3¹) teabe sisejulgeoleku tagamise, riigikaitsepoliitika kujundamise, riigikaitse korraldamise, sealhulgas riigi sõjalise kaitse planeerimise, ettevalmistamise ja juhtimise, või riigisaladuse ja salastatud välisteabe kaitse korraldamisega tegeleva teabevaldaja struktuuriüksuse ülesannete ja koosseisu, ametniku ja töötaja ning tema ülesannete kohta, kui sellise teabe avalikuks tulek ohustaks riigi julgeolekut või riigisaladuse ja salastatud välisteabe kaitset;
 
 4) teabe kaitseväe relvastuse ja varustuse tabelite ning relvastuse ja varustuse hulga kohta, kui selline teave ei ole riigisaladus või salastatud välisteave;
 
 5) kaitseväe valdusse sõjalise valmisoleku tõstmisel ja mobilisatsiooni korral üleantava riigivara kohta käiva teabe;
 
-5¹) teabe politsei tegevuse meetodite ja taktika kohta, kui selle avalikuks tulek võib raskendada süütegude avastamist või soodustada nende toimepanemist;
+5¹) teabe uurimisasutuse tegevuse meetodite ja taktika kohta, kui selle avalikuks tulek võib raskendada süütegude avastamist või soodustada nende toimepanemist;
 
 5²) teabe politsei relvastuse hulga kohta, kui selline teave ei ole riigisaladus või salastatud välisteave;
 

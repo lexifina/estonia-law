@@ -28,7 +28,7 @@
 
 13) andmed keskkonnaseisundi, keskkonnakahjustuste ja ohtlike keskkonnamõjude kohta;
 
-14) riikliku või teenistusliku järelevalve ettekirjutused või otsused nende jõustumisest alates;
+14) riikliku järelevalve, haldusjärelevalve ja teenistusliku järelevalve käigus tehtud ettekirjutused ning otsused nende jõustumisest alates;
 
 15) ministeeriumides valminud seaduste ja Vabariigi Valitsuse määruste eelnõud koos seletuskirjadega nende kooskõlastamiseks saatmisel ja Vabariigi Valitsusele esitamisel;
 
@@ -65,6 +65,8 @@
 31) asutuse dokumendiregistri;
 
 31¹) isikuandmete töötlemise eesmärk, ulatus ja viis, kolmandatele isikutele, sealhulgas teisele asutusele, isikuandmete edastamise ja avalikkusele kättesaadavaks tegemise ning isiku poolt enda andmetega tutvumise õigus ja kord;
+
+31²) avalikustamisele kuuluvad avaandmed, teave avaandmete kättesaadavuse ja vajaduse korral litsentside kohta;
 
 32) muu teabe ja dokumendid, mille avalikustamise kohustus on sätestatud välislepingus, seaduses või selle alusel vastuvõetud õigusaktis või mida teabevaldaja peab vajalikuks avalikustada.
 

@@ -8,13 +8,13 @@
 
 2¹) andmekogude asutamise ja haldamise alused ning järelevalve andmekogude haldamise üle;
 
-3) teabele juurdepääsu korraldamise üle riikliku järelevalve teostamise korra.
+3) teabele juurdepääsu korraldamise üle riikliku järelevalve ja haldusjärelevalve teostamise korra.
 
 (2) Käesolevat seadust ei kohaldata:
 
 1) riigisaladuseks või salastatud välisteabeks oleva teabe suhtes kuni teabe salastatuse kustumiseni;
 
-2) juurdepääsu võimaldamisel arhivaalidele Rahvusarhiivis ja kohaliku omavalitsuse arhiivis arhiiviseaduses ja selle alusel sätestatud korras, välja arvatud juurdepääsupiirangute kehtestamise osas;
+2) juurdepääsu võimaldamisel arhivaalidele Rahvusarhiivis ja kohaliku omavalitsuse arhiivis arhiiviseaduses ja selle alusel sätestatud korras, välja arvatud juurdepääsupiirangute kehtestamise ja teabe taaskasutamise osas;
 
 3) märgukirjale ja selgitustaotlusele vastamise seaduses sätestatud korras märgukirjadele ja selgitustaotlustele vastamisele, kui vastamine eeldab jäädvustatud teabe analüüsimist, sünteesimist või täiendava teabe kogumist ja dokumenteerimist;
 

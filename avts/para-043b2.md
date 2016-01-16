@@ -1,6 +1,6 @@
 # § 43². Riigi infosüsteem
 
-(1) Riigi infosüsteemi kuuluvad andmekogud, mis on riigi infosüsteemi andmevahetuskihiga liidestatud ja riigi infosüsteemi haldussüsteemis registreeritud, ning andmekogude pidamist kindlustavad süsteemid.
+(1) Riigi infosüsteemi kuuluvad andmekogud, mis on infosüsteemi andmevahetuskihiga liitunud ja riigi infosüsteemi haldussüsteemis registreeritud, ning andmekogude pidamist kindlustavad süsteemid.
 
 (2) Valdkonna eest vastutav minister võib
 

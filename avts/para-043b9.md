@@ -21,3 +21,5 @@
 (4) Riigi infosüsteemi kindlustavate süsteemide kasutamise kohustuse suhtes võib kooskõlastatult Majandus- ja Kommunikatsiooniministeeriumiga teha erandi rahvusvahelisest lepingust tulenevate ülesannete täitmiseks asutatud andmekogule.
 
 (5) Andmevahetus riigi infosüsteemi kuuluvate andmekogudega ja riigi infosüsteemi kuuluvate andmekogude vahel toimub läbi riigi infosüsteemi andmevahetuskihi.
+
+(6) Käesoleva paragrahvi lõikes 5 toodu ei piira andmevahetust infosüsteemide andmevahetuskihil muude juriidiliste isikute vahel.

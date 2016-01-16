@@ -8,4 +8,4 @@
 
 (2) Teabe avalikustamine on teabevaldaja poolt seadusega sätestatud korras teabele juurdepääsu võimaldamine, ilma et selleks peaks teabenõuet esitama.
 
-(3) Teabele juurdepääs hõlmab ka õigust seda teavet taaskasutada.
+(3) Avaandmetele juurdepääs hõlmab ka õigust seda teavet taaskasutada. Kui teabevaldaja on seadnud teabe üldisele kasutamisele tingimusi litsentsi abil, siis tuleb teavet kasutada vastavalt litsentsi tingimustele.

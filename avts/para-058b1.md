@@ -10,9 +10,9 @@
 
 (4) Enne käesoleva seaduse 5¹. peatüki jõustumist andmekogude riiklikus registris registreeritud andmekogu loetakse registreerituks riigi infosüsteemi haldussüsteemis käesoleva seaduse 5¹. peatüki jõustumisel. Andmekogu haldaja peab aktualiseerima andmekogu andmed riigi infosüsteemi haldussüsteemis hiljemalt kolme kuu jooksul pärast käesoleva seaduse 5¹. peatüki jõustumist. Andmekogu andmete aktualiseerimisel määratakse kindlaks andmekogu põhiandmed.
 
-(5) Käesoleva paragrahvi lõike 4 esimest lauset ei kohaldata andmekogude riiklikus registris registreeritud, kuid riigi infosüsteemi andmevahetuskihiga liidestamata andmekogule.
+(5) Käesoleva paragrahvi lõike 4 esimest lauset ei kohaldata andmekogude riiklikus registris registreeritud, kuid infosüsteemi andmevahetuskihiga liitumata andmekogule.
 
-(6) Riigi infosüsteemi haldussüsteemis registreeritud või käesoleva paragrahvi lõike 4 kohaselt registreerituks loetud ja riigi infosüsteemi andmevahetuskihiga liidestatud andmekogu loetakse riigi infosüsteemi kuuluvaks andmekoguks.
+(6) Riigi infosüsteemi haldussüsteemis registreeritud või käesoleva paragrahvi lõike 4 kohaselt registreerituks loetud ja infosüsteemi andmevahetuskihiga liitunud andmekogu loetakse riigi infosüsteemi kuuluvaks andmekoguks.
 
 (7) Enne käesoleva seaduse 5¹. peatüki jõustumist andmekogude pidamiseks sõlmitud lepingud jäävad kehtima nendes toodud tähtaja lõpuni.
 

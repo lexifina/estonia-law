@@ -10,6 +10,8 @@
 
 (2) Raamatupidamisdokumente ei pea dokumendiregistrisse kandma.
 
+(2¹) Isikuga seotud dokumente, mis on juba kantud teise andmekogusse ja millele on isiku juurdepääs tagatud, ei pea dokumendiregistrisse kandma.
+
 (3) Dokumendiregistrisse kantakse saabunud ja väljastatud dokumentide kohta vähemalt järgmised andmed:
 
 1) kellelt on saabunud või kellele väljastatud;
@@ -23,6 +25,8 @@
 5) dokumendi liik (avaldus, märgukiri, resolutsioon, teabenõue, kiri vms);
 
 6) dokumendi suhtes kehtivad juurdepääsupiirangud.
+
+(3¹) Kui asutusele saabunud dokumentide saatja või asutusest väljastatud dokumentide saaja on füüsiline isik, siis ei märgita dokumendiregistri avalikus vaates teavet, mis võimaldaks füüsilist isikut tuvastada.
 
 (4) Saabunud ja lahendamist või vastamist vajavate dokumentide kohta kantakse dokumendiregistrisse ka seadusest tulenev lahendamise või vastamise tähtaeg, vastuse koostamise või lahendamise korraldamise eest vastutava struktuuriüksuse nimetus ja ametniku või töötaja nimi, kes vastuse koostab.
 
