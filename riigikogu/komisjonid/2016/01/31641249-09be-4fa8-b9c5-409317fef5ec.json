@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 18.01.2016 13:30",
+  "sitting_time": "2016-01-18T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3df97728-fe08-4b0d-9d1a-52cdcb9a1fa5"
+    },
+    {
+      "order": 2,
+      "title": "Euroopa Kontrollikoja 2014. aasta aruande tutvustus ning arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a09c0aa9-8ca4-4d92-8a20-af89d3f8ca02"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "443fdfcb-bbb3-4694-8ea0-efcad207cff1",
+      "files": [
+        "Protokoll nr 33. 18.01.2016.pdf"
+      ]
+    }
+  ],
+  "uuid": "31641249-09be-4fa8-b9c5-409317fef5ec",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 31641249-09be-4fa8-b9c5-409317fef5ec)",
+  "source": "https://api.riigikogu.ee/api/volumes/31641249-09be-4fa8-b9c5-409317fef5ec",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-01-01&endDate=2016-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
