@@ -8,7 +8,7 @@
 
 (4) Tugispetsialisti suhtes kohaldatakse põhikooli- ja gümnaasiumiseaduse alusel kehtestatud valdkonna eest vastutava ministri määruses sätestatud kvalifikatsiooninõudeid.
 
-(5) Õppekasvatusala töötaja vastavust kvalifikatsiooninõuetele hindab direktor. Välisriigi haridust tõendavat dokumenti hinnatakse Eesti Vabariigi haridusseaduse §-s 28¹ ja selle alusel kehtestatud tingimustel ja korras.
+(5) Õppekasvatusala töötaja vastavust kvalifikatsiooninõuetele hindab direktor. Välisriigi haridust tõendavat dokumenti hinnatakse Eesti Vabariigi haridusseaduse §-s 28¹ ja selle alusel kehtestatud tingimustel ja korras. Välisriigis õpetaja või tugispetsialisti kutsekvalifikatsiooni omandanud isiku kutsekvalifikatsiooni tunnustamisel lähtutakse välisriigi kutsekvalifikatsiooni tunnustamise seadusega kehtestatud tingimustest ja korrast. Välisriigi kutsekvalifikatsiooni tunnustamise seaduse § 7 lõikes 2 sätestatud pädev asutus on Haridus- ja Teadusministeerium.
 
 (6) Õppekasvatusala töötaja vaba ametikoht täidetakse avaliku konkursi korras. Õppekasvatusala töötaja ametikoha võib täita avalikku konkurssi korraldamata, kui tööaeg ametikohal on väiksem kui 50 protsenti täistööajast.
 
