@@ -1,0 +1,42 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 18.01.2016 11:00",
+  "sitting_time": "2016-01-18T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d4ac0f96-e3b5-4970-bce6-75bdad11b31e"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine MTÜ Eesti Maaturism esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "418acd9f-35de-4fac-94cd-76c04080dc59"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "4bac2a80-3d25-4f35-ab5a-3ddcb174715c",
+      "files": [
+        "Protokoll.bdoc",
+        "040 protokoll lisa 1.ETTEVÕTJA KOHUSTUSED RIIGI EES.pptx",
+        "040 protkoll Eesti Maaturism_2016.ppt",
+        "Protokol_20160119.pdf"
+      ]
+    }
+  ],
+  "uuid": "1affd1af-42cb-4eb5-aeb0-c4f80dbfb2bd",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 1affd1af-42cb-4eb5-aeb0-c4f80dbfb2bd)",
+  "source": "https://api.riigikogu.ee/api/volumes/1affd1af-42cb-4eb5-aeb0-c4f80dbfb2bd",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-01-01&endDate=2016-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
