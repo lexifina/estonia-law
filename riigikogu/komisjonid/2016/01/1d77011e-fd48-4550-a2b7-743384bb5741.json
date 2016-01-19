@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung teisipäev, 19.01.2016 14:00",
+  "sitting_time": "2016-01-19T14:03:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Saudi Araabia ja Iraani suhted ning nende suhete mõju piirkonnale.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "847b4bbc-5117-4a56-89f8-6888f2a72c1c"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fd9a4857-6840-4446-9b70-e5cf07f26787"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "72b93b3d-3bb0-477a-a46e-34360212be00",
+      "files": [
+        "Protokol_20160120.pdf",
+        "Protokoll.bdoc"
+      ]
+    }
+  ],
+  "uuid": "1d77011e-fd48-4550-a2b7-743384bb5741",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 1d77011e-fd48-4550-a2b7-743384bb5741)",
+  "source": "https://api.riigikogu.ee/api/volumes/1d77011e-fd48-4550-a2b7-743384bb5741",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-01-01&endDate=2016-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
