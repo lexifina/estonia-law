@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 19.01.2016 14:00",
+  "sitting_time": "2016-01-19T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade rahvusvahelisest põllumajandus-, toiduainete- ja aiandusnäitusest Internationale Grüne Woche 2016 ja sellega seotud üritustest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f5485980-1e0d-4a6e-8411-c46f3387fdbb"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7dfab465-3714-43fc-a488-174391080481"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "f5da648c-1d78-4675-a7ac-4d354ef7a705",
+      "files": [
+        "Protokol_20160125.pdf",
+        "Protokoll.bdoc"
+      ]
+    }
+  ],
+  "uuid": "ff26c4b2-ed9a-4f59-a80b-b45e72e57e3b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ff26c4b2-ed9a-4f59-a80b-b45e72e57e3b)",
+  "source": "https://api.riigikogu.ee/api/volumes/ff26c4b2-ed9a-4f59-a80b-b45e72e57e3b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-01-01&endDate=2016-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
