@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung teisipäev, 19.01.2016 13:30",
+  "sitting_time": "2016-01-19T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kooseluseaduse rakendamise seaduse eelnõu (114 SE II)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e19a3710-f93a-48ce-8ddc-39c6347af739"
+    },
+    {
+      "order": 2,
+      "title": "Arutelu kriminaalmenetluse alustamise vajadusest inimeste kadumisjuhtumite puhul.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d42da28b-bd8e-48d2-8ea4-1f8c8480e626"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "a7f9cbaf-64a2-4901-a7ca-63f75346600a",
+      "files": [
+        "ÕIGK 19.01.16 protokoll.pdf"
+      ]
+    }
+  ],
+  "uuid": "38600835-83d1-44c3-b482-1368323742ee",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 38600835-83d1-44c3-b482-1368323742ee)",
+  "source": "https://api.riigikogu.ee/api/volumes/38600835-83d1-44c3-b482-1368323742ee",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-01-01&endDate=2016-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
