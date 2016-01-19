@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung teisipäev, 19.01.2016 14:00",
+  "sitting_time": "2016-01-19T14:06:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Seisukoha kujundamine SmartCapi portfelli haldamise erastamise osas.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "15bde45b-0a17-4059-b06b-3d04522eb7a5"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "194a37b9-8eae-46f4-be1c-a12e91c1fe21"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAJK protokoll nr 45",
+      "uuid": "1eda9610-f830-4c0b-9077-8cde135a8b6f",
+      "files": [
+        "MAJK_protokoll_nr_45.bdoc",
+        "MAJK protokoll nr 45 19 01 2016.docx"
+      ]
+    }
+  ],
+  "uuid": "730b9c3a-b287-47cc-987f-ec3b07f8af7d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 730b9c3a-b287-47cc-987f-ec3b07f8af7d)",
+  "source": "https://api.riigikogu.ee/api/volumes/730b9c3a-b287-47cc-987f-ec3b07f8af7d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-01-01&endDate=2016-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
