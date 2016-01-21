@@ -1,0 +1,58 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung neljapäev, 21.01.2016 14:00",
+  "sitting_time": "2016-01-21T14:02:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade Euroopa Nõukogu Parlamentaarse Assamblee (ENPA) Eesti delegatsiooni tegevusest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ef372737-ae14-4d15-ad01-12bb6270f448"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade Vahemeremaade Liidu Parlamentaarse Assamblee (VLPA) Eesti delegatsiooni tegevusest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b96feb4b-3a7e-4702-9220-07e2ef87f3bc"
+    },
+    {
+      "order": 3,
+      "title": "Ülevaade OSCE Parlamentaarse Assamblee Eesti delegatsiooni tegevusest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f03acc1c-7311-4ab1-8005-4fd3f2186fa4"
+    },
+    {
+      "order": 4,
+      "title": "Ülevaade Parlamentidevahelise Liidu (IPU) Eesti delegatsiooni tegevusest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "61a31a05-a35e-464a-b8ca-f8897255697a"
+    },
+    {
+      "order": 5,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f870b2bc-1537-40ed-b3e6-d59eea881ffb"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "a64055e2-7a63-4254-a973-4b5afa107d06",
+      "files": [
+        "Protokol_20160129.pdf",
+        "Protokoll.bdoc"
+      ]
+    }
+  ],
+  "uuid": "13b8af5a-1249-442e-958b-8f7945d0a065",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 13b8af5a-1249-442e-958b-8f7945d0a065)",
+  "source": "https://api.riigikogu.ee/api/volumes/13b8af5a-1249-442e-958b-8f7945d0a065",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-01-01&endDate=2016-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
