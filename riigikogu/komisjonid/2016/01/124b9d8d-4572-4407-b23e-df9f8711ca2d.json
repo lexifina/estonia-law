@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung esmaspäev, 25.01.2016 11:00",
+  "sitting_time": "2016-01-25T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "671d2b1c-c14a-4003-bed5-1330bb89a6a3"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade riigikaitseõpetusest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7d0d41c5-a2c0-4e38-b6e9-f7255094dc4c"
+    },
+    {
+      "order": 3,
+      "title": "Riigikaitseseaduse muutmisest (1-6/15-107)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4c47b197-ac4d-4f10-9960-6a746589b33c"
+    },
+    {
+      "order": 4,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bff56839-a511-4efc-b1bc-ed2d9c232a8c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "31250db3-5e6b-41eb-b68c-d8fa74e1705b",
+      "files": [
+        "Protokol_20160125.pdf",
+        "Protokoll.bdoc"
+      ]
+    }
+  ],
+  "uuid": "124b9d8d-4572-4407-b23e-df9f8711ca2d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 124b9d8d-4572-4407-b23e-df9f8711ca2d)",
+  "source": "https://api.riigikogu.ee/api/volumes/124b9d8d-4572-4407-b23e-df9f8711ca2d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-01-01&endDate=2016-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
