@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung esmaspäev, 25.01.2016 11:00",
+  "sitting_time": "2016-01-25T11:02:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala (25.01-31.01.2016) töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c801efcb-a379-401c-a313-18d59ef65f6c"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu otsus \"Põlevkivi kasutamise riikliku arengukava 2016–2030 kinnitamine\" (166 OE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "68932f86-1050-4bdc-8e87-c24b08237b60"
+    },
+    {
+      "order": 3,
+      "title": "Ettepaneku tegemine komisjoni kohtumiseks EL eesistumise perioodiks 2018. a",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2dfc759f-ff44-4881-a33e-fd4ef01f24d4"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Keskkonnakomisjoni 25.01.2016. a istungi protokoll",
+      "uuid": "36cf471e-389c-4f1d-bbda-86f771b8c931",
+      "files": [
+        "Keskkonnakomisjoni_25.01.2016._a_20160311.pdf",
+        "Keskkonnakomisjoni_25.01.2016._a_istungi_protokoll.bdoc"
+      ]
+    }
+  ],
+  "uuid": "0ce6d23a-545b-4da3-9ffa-e528291ff93f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0ce6d23a-545b-4da3-9ffa-e528291ff93f)",
+  "source": "https://api.riigikogu.ee/api/volumes/0ce6d23a-545b-4da3-9ffa-e528291ff93f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-01-01&endDate=2016-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
