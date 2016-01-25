@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung esmaspäev, 25.01.2016 11:10",
+  "sitting_time": "2016-01-25T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "005c4d6e-d770-41ee-beaa-b2ceaa99a2e4"
+    },
+    {
+      "order": 2,
+      "title": "Haridusseaduse eelnõu põhimõtete tutvustamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "515a1b9a-9e14-47b1-9c75-3537e8d0faed"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e46dcf4a-8f57-4c46-9c96-455c6cfc9f8d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "4d32959a-1f2d-4778-bbd9-1cf221ae29c2",
+      "files": [
+        "Protokoll.bdoc",
+        "Prot 50 - 25.01.16.pdf"
+      ]
+    }
+  ],
+  "uuid": "c670b6a0-5167-4803-94da-9e86009e4279",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c670b6a0-5167-4803-94da-9e86009e4279)",
+  "source": "https://api.riigikogu.ee/api/volumes/c670b6a0-5167-4803-94da-9e86009e4279",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-01-01&endDate=2016-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
