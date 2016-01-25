@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 25.01.2016 11:00",
+  "sitting_time": "2016-01-25T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5bc664e1-5b46-425b-aa05-54809cd64569"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine maaeluminister Urmas Kruusega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5584f07c-52a0-433c-8685-c1d80c3236aa"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "20754269-5216-491b-a6c5-7bb3bdacf239",
+      "files": [
+        "Protokoll.bdoc",
+        "Protokol_20160128.pdf"
+      ]
+    }
+  ],
+  "uuid": "2ca42668-8f9f-48bf-b37a-0027e620d856",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2ca42668-8f9f-48bf-b37a-0027e620d856)",
+  "source": "https://api.riigikogu.ee/api/volumes/2ca42668-8f9f-48bf-b37a-0027e620d856",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-01-01&endDate=2016-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
