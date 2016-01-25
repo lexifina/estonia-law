@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 25.01.2016 13:00",
+  "sitting_time": "2016-01-25T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f11fc63d-4dc9-4f0b-ace5-ed2024dcb754"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli kontrolliaruande „Riigi ja kohalike omavalitsuste valmisolek võtta vastu varjupaiga taotlejaid ja rahvusvahelise kaitse saanuid“ arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "aae22cad-1aa3-4266-808f-23d554c05603"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "dc073352-723a-481a-ba75-e3430b1fe514",
+      "files": [
+        "Protokoll nr 36. 25.01.2016.pdf"
+      ]
+    }
+  ],
+  "uuid": "0daaad91-4483-4a21-a72a-64f8a0fe6410",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0daaad91-4483-4a21-a72a-64f8a0fe6410)",
+  "source": "https://api.riigikogu.ee/api/volumes/0daaad91-4483-4a21-a72a-64f8a0fe6410",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-01-01&endDate=2016-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
