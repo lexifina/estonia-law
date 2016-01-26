@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung teisipäev, 26.01.2016",
+  "sitting_time": "2016-01-26T12:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Riigi Kinnisvara AS esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "df803011-8353-4993-9c5c-bdd2e149e557"
+    },
+    {
+      "order": 2,
+      "title": "Info",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b145a878-6c93-4b7e-9aa0-12be35a2deef"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "29d91525-5455-4d17-9743-738aa42da686",
+      "files": [
+        "Protokoll.bdoc",
+        "RAHK protokoll 48 26 01 16.pdf"
+      ]
+    }
+  ],
+  "uuid": "5daa06d0-b3d3-4ed0-89d2-bbd60e6a1fad",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 5daa06d0-b3d3-4ed0-89d2-bbd60e6a1fad)",
+  "source": "https://api.riigikogu.ee/api/volumes/5daa06d0-b3d3-4ed0-89d2-bbd60e6a1fad",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-01-01&endDate=2016-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
