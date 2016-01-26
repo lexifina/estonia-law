@@ -1,0 +1,35 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 26.01.2016 14:00",
+  "sitting_time": "2016-01-26T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ebaausad kaubandustavad",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e70aeab2-509c-4647-b266-e266438083c9"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "aaa9b5ca-dac1-4a9e-8b56-4b8e7346a144",
+      "files": [
+        "Protokoll.bdoc",
+        "043 protokolli lisa ebaaus kaub.ppt",
+        "Protokol_20160128.pdf"
+      ]
+    }
+  ],
+  "uuid": "d4f2f7aa-0cdc-4a78-a14b-c65c43d53416",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d4f2f7aa-0cdc-4a78-a14b-c65c43d53416)",
+  "source": "https://api.riigikogu.ee/api/volumes/d4f2f7aa-0cdc-4a78-a14b-c65c43d53416",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-01-01&endDate=2016-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
