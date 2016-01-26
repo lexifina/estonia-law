@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung teisipäev, 26.01.2016 kell 14.00",
+  "sitting_time": "2016-01-26T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad seoses Ühendkuningriigi Euroopa Liidu liikmelisusega. Arvamuse andmine EL asjade komisjonile.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "62af4009-ebf3-4083-9aa2-87f5d1f7b7f1"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu otsus\"Ettepaneku tegemine Vabariigi Valitsusele\" (147 OE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f8211222-ba41-4ca9-92d3-cb76e83d4a42"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Sotsiaalkomisjoni 26.01.2016 istungi protokoll",
+      "uuid": "060386b5-cd76-414b-8b91-5de9636f2dfc",
+      "files": [
+        "26.01.2016 istungi protokoll.pdf",
+        "Sotsiaalkomisjoni_26.01.2016_istungi_protokoll.bdoc"
+      ]
+    }
+  ],
+  "uuid": "b7b55518-3a7c-478a-a6e5-402c79113b56",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b7b55518-3a7c-478a-a6e5-402c79113b56)",
+  "source": "https://api.riigikogu.ee/api/volumes/b7b55518-3a7c-478a-a6e5-402c79113b56",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-01-01&endDate=2016-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
