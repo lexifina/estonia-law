@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung teisipäev, 26.01.2016 14:00",
+  "sitting_time": "2016-01-26T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Advokatuuriseaduse muutmise seaduse eelnõu (164 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d15af933-ecb7-4f03-99aa-f5ea2499ae2a"
+    },
+    {
+      "order": 2,
+      "title": "Perekonnaseaduse muutmise ja sellega seonduvalt teiste seaduste muutmise seaduse eelnõu (112 SE II)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "11660f62-275b-4cfe-aa94-55002df7e55b"
+    },
+    {
+      "order": 3,
+      "title": "Pärimisseaduse muutmise ja sellega seonduvalt teiste seaduste muutmise seaduse eelnõu (113 SE II)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "af77ca3e-f669-4a76-be95-64fb3a4cc2e6"
+    },
+    {
+      "order": 4,
+      "title": "Vastuskiri ELAK-le komisjonide võimalikest üritustest Eesti eesistumise ajal.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a5a0ec44-12e5-4f39-ad4c-4e9c4cbffc59"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "2ccfca8b-31e8-4b0a-b744-a8abea561202",
+      "files": [
+        "ÕIGK 26.01.16 protokoll.pdf"
+      ]
+    }
+  ],
+  "uuid": "333914c3-b441-4d1f-979c-6fce939a4397",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 333914c3-b441-4d1f-979c-6fce939a4397)",
+  "source": "https://api.riigikogu.ee/api/volumes/333914c3-b441-4d1f-979c-6fce939a4397",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-01-01&endDate=2016-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
