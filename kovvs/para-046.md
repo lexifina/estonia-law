@@ -2,7 +2,7 @@
 
 (1) Eelhääletamine toimub käesoleva seaduse §-s 45 ettenähtud korras.
 
-(2) Eelhääletamise õigus on valijate nimekirjas oleval valijal, kes selleks eelhääletamise päevaks on saanud 18-aastaseks.
+(2) Eelhääletamise õigus on valijate nimekirjas oleval valijal, kes eelhääletamise päevaks on saanud 16-aastaseks.
 
 (3) Eelhääletamist korraldavad vähemalt kolm jaoskonnakomisjoni liiget.
 

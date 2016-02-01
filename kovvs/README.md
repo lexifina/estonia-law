@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/112032015086> (version in force from 2015-03-22)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/122012016008> (version in force from 2016-02-01)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -44,6 +44,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/112032015086> (version in force 
 | [§ 28](para-028.md) | Valijate nimekirja avalikkus |
 | [§ 29](para-029.md) | Valijate nimekirja kantud andmete õigsuse kontrollimine ja vea parandamine |
 | [§ 30](para-030.md) | Valijate nimekirjas muudatuste tegemine |
+| [§ 30¹](para-030b1.md) | Teavitamiskohustus |
 | **6. peatükk KANDIDAATIDE REGISTREERIMISEKS ESITAMINE JA REGISTREERIMINE** | |
 | [§ 31](para-031.md) | Erakond |
 | [§ 31¹](para-031b1.md) | Valimisliit |
