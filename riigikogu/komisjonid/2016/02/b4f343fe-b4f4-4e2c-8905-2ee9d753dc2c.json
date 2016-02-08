@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung esmaspäev, 8.02.2016",
+  "sitting_time": "2016-02-08T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f4d1f38a-478b-4100-a2bf-0ec444abc32a"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade gümnaasiumide võrgu kavast",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "35bc32e1-6307-41af-a701-71024c644445"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "05685a06-dc54-490e-bd5b-44a16489ed3b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "365e65cb-5544-4193-819e-e416d9506531",
+      "files": [
+        "Protokoll.bdoc",
+        "Prot 51 - 08.02.2016.pdf"
+      ]
+    }
+  ],
+  "uuid": "b4f343fe-b4f4-4e2c-8905-2ee9d753dc2c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b4f343fe-b4f4-4e2c-8905-2ee9d753dc2c)",
+  "source": "https://api.riigikogu.ee/api/volumes/b4f343fe-b4f4-4e2c-8905-2ee9d753dc2c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-02-01&endDate=2016-02-29",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
