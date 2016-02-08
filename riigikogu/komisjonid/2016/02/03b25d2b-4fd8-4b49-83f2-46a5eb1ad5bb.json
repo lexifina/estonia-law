@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 8.02.2016 13:30",
+  "sitting_time": "2016-02-08T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "92f790d9-1b23-4e15-9477-a4f564035a73"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli ülevaate „Ülevaade täiskasvanute osalemisest kutseõppes“ arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c533484f-df52-4605-9b2a-0698e87d1ed9"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "96f4bf10-37f1-4554-adfb-858901e63ee7",
+      "files": [
+        "Protokoll nr 37. 08.02.2016.pdf"
+      ]
+    }
+  ],
+  "uuid": "03b25d2b-4fd8-4b49-83f2-46a5eb1ad5bb",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 03b25d2b-4fd8-4b49-83f2-46a5eb1ad5bb)",
+  "source": "https://api.riigikogu.ee/api/volumes/03b25d2b-4fd8-4b49-83f2-46a5eb1ad5bb",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-02-01&endDate=2016-02-29",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
