@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung esmaspäev, 8.02.2016 11:00",
+  "sitting_time": "2016-02-08T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bfdac5d1-029e-4d30-b30c-4a9279989922"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine Töötukassa esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "711fcd3a-857d-4e6e-88e6-2f3b81019758"
+    },
+    {
+      "order": 3,
+      "title": "Info",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2503203d-72fd-4e96-b97b-b80f5c6c4d55"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "f1f39828-4a2f-424e-988a-d0b0fe3d678a",
+      "files": [
+        "Protokoll.bdoc",
+        "RAHK protokoll 49  8 02 16.pdf"
+      ]
+    }
+  ],
+  "uuid": "78b79d7a-31b4-4b71-804e-b44dbe48e4b5",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 78b79d7a-31b4-4b71-804e-b44dbe48e4b5)",
+  "source": "https://api.riigikogu.ee/api/volumes/78b79d7a-31b4-4b71-804e-b44dbe48e4b5",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-02-01&endDate=2016-02-29",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
