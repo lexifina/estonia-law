@@ -1,0 +1,42 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 8.02.2016 11:00",
+  "sitting_time": "2016-02-08T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bd89881a-06cb-499e-a3df-c3e502752934"
+    },
+    {
+      "order": 2,
+      "title": "Nurmkanade kasvatamine jahipidamiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "62cce6ed-bcd0-4292-9b67-7d97802846a5"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "9545679c-cede-4e1b-8deb-6eec46a6aac4",
+      "files": [
+        "Protokoll.bdoc",
+        "044 protokolli lisa 2.pptx",
+        "044 protokoll lisa 1.docx",
+        "Protokol_20160211.pdf"
+      ]
+    }
+  ],
+  "uuid": "03c835a4-2d36-4b33-86af-9aed9ba814ad",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 03c835a4-2d36-4b33-86af-9aed9ba814ad)",
+  "source": "https://api.riigikogu.ee/api/volumes/03c835a4-2d36-4b33-86af-9aed9ba814ad",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-02-01&endDate=2016-02-29",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
