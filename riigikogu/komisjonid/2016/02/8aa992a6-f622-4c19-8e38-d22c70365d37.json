@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung teisipäev, 9.02.2016 14:30",
+  "sitting_time": "2016-02-09T14:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väljasõiduistung EAS-i ja e-Estonia Showroomi tutvustus.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8642dfec-bf98-4180-8324-795aa6a5932d"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8b2daabc-48ee-4b3b-9ff9-9c038904611f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAJK protokoll nr 49",
+      "uuid": "f7ff6a3e-b315-47c7-93cc-6b38d6645b4d",
+      "files": [
+        "MAJK_protokoll_nr_49.bdoc",
+        "MAJK protokoll 49 9 02 16.docx"
+      ]
+    }
+  ],
+  "uuid": "8aa992a6-f622-4c19-8e38-d22c70365d37",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8aa992a6-f622-4c19-8e38-d22c70365d37)",
+  "source": "https://api.riigikogu.ee/api/volumes/8aa992a6-f622-4c19-8e38-d22c70365d37",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-02-01&endDate=2016-02-29",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
