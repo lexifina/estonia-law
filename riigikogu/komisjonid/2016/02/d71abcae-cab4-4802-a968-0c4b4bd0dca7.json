@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung teisipäev, 9.02.2016 14:00",
+  "sitting_time": "2016-02-09T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Huvihariduse kontseptsiooni tutvustamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "788f8f92-cc09-41b4-b3d1-ef95fc97794c"
+    },
+    {
+      "order": 2,
+      "title": "Kultuuriministri ülevaade \"Kultuuripoliitika põhialused aastani 2020\" elluviimisest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "aee19fa5-267a-45fe-ad93-9e64201f39b6"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5d1d46c3-cc7d-498d-9909-c56e1ed90e6e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "08ff8b2b-1a7d-4a54-b2d8-48dc7b5ea1dc",
+      "files": [
+        "Protokoll.bdoc",
+        "Prot 52 - 09.02.2016.pdf"
+      ]
+    }
+  ],
+  "uuid": "d71abcae-cab4-4802-a968-0c4b4bd0dca7",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d71abcae-cab4-4802-a968-0c4b4bd0dca7)",
+  "source": "https://api.riigikogu.ee/api/volumes/d71abcae-cab4-4802-a968-0c4b4bd0dca7",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-02-01&endDate=2016-02-29",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
