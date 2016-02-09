@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung teisipäev, 9.02.2016 13:30",
+  "sitting_time": "2016-02-09T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kaitseliidu seaduse ja kaitseväeteenistuse seaduse muutmise seaduse eelnõu (153 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "594cba8b-dd8f-4d69-94bd-d5abbfc31e20"
+    },
+    {
+      "order": 2,
+      "title": "Informatsioon Eesti Kaitseväe üksuste osalemisest rahvusvahelistel missioonidel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f1763bc2-c430-45d2-bd88-d5bb255bdf07"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "7ad4cdbb-e2b5-4ebf-b823-87932f59b6d8",
+      "files": [
+        "Protokoll.bdoc",
+        "Protokol_20160209.pdf"
+      ]
+    }
+  ],
+  "uuid": "ed1bca73-124d-4e23-b7e4-745eff160c19",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ed1bca73-124d-4e23-b7e4-745eff160c19)",
+  "source": "https://api.riigikogu.ee/api/volumes/ed1bca73-124d-4e23-b7e4-745eff160c19",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-02-01&endDate=2016-02-29",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
