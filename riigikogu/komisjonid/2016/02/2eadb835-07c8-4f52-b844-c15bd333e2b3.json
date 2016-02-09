@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung teisipäev, 9.02.2016 12:00",
+  "sitting_time": "2016-02-09T12:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Isikut tõendavate dokumentide seaduse muutmise seaduse eelnõu – 55 SE – teise lugemise arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6146cdc9-3aaa-4e91-82af-650d325016a8"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu kodu- ja töökorra seaduse muutmise seaduse eelnõu – 175 SE – esimese lugemise arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6efc5060-2d44-4164-ab51-71ae0dab79bd"
+    },
+    {
+      "order": 3,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c97ba820-1a50-4bf5-aa96-f611b78593e2"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "2016.02.09 protokoll",
+      "uuid": "7b4a1d21-9cec-4003-9001-ebfb12734233",
+      "files": [
+        "2016.02.09_protokoll.bdoc",
+        "2016.02.09 protokoll.pdf"
+      ]
+    }
+  ],
+  "uuid": "2eadb835-07c8-4f52-b844-c15bd333e2b3",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2eadb835-07c8-4f52-b844-c15bd333e2b3)",
+  "source": "https://api.riigikogu.ee/api/volumes/2eadb835-07c8-4f52-b844-c15bd333e2b3",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-02-01&endDate=2016-02-29",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
