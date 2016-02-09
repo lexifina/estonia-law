@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung teisipäev, 9.02.2016 14:00",
+  "sitting_time": "2016-02-09T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Eesti Tööandjate Keskliidu esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "07e1c39d-c993-488b-9cd0-fb70568551da"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu otsuse Eesti Panga reservkapitali suurendamine eelnõu algatamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dcde27ae-2bb2-427e-be0c-b2775e654fea"
+    },
+    {
+      "order": 3,
+      "title": "Riigikogu otsus \"Eesti esindaja nimetamine Põhjamaade Investeerimispanga kontrollkomiteesse\" (174 OE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "32d17144-7c44-4d30-9b94-86217efee0f0"
+    },
+    {
+      "order": 4,
+      "title": "Info",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "62560743-e9dc-4015-b30b-7b83b27275ce"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "2d3d509d-1959-4b84-9b05-154a28aec990",
+      "files": [
+        "Protokoll.bdoc",
+        "RAHK protokoll 50 9 02 16.pdf"
+      ]
+    }
+  ],
+  "uuid": "d7759157-f5bc-4224-b22b-488833b3342f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d7759157-f5bc-4224-b22b-488833b3342f)",
+  "source": "https://api.riigikogu.ee/api/volumes/d7759157-f5bc-4224-b22b-488833b3342f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-02-01&endDate=2016-02-29",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
