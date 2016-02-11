@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung neljapäev, 11.02.2016 14:00",
+  "sitting_time": "2016-02-11T16:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud raudteeseaduse muutmise seaduse eelnõu (129 SE) arutelu 2. lugemisele saatmiseks.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fd736d34-b8b1-42f4-a56d-6e78192191e3"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4c8207b8-29fe-457f-82a4-2b3f66a16cc3"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAJK protokoll nr 50",
+      "uuid": "72b551e5-1308-48ba-9701-1c886e13a1dd",
+      "files": [
+        "MAJK_protokoll_nr_50.bdoc",
+        "MAJK Protokoll nr 50 11_02_2016.docx"
+      ]
+    }
+  ],
+  "uuid": "bac849b9-284e-497f-9906-d1e6a89c536c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid bac849b9-284e-497f-9906-d1e6a89c536c)",
+  "source": "https://api.riigikogu.ee/api/volumes/bac849b9-284e-497f-9906-d1e6a89c536c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-02-01&endDate=2016-02-29",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
