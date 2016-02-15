@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung esmaspäev, 15.02.2016 11:00",
+  "sitting_time": "2016-02-15T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0fcf92d3-ebe2-4b97-92cd-2aa800c91471"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine Riigi Tugiteenuste Keskuse esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6063316e-214d-42cc-8072-17669761e98d"
+    },
+    {
+      "order": 3,
+      "title": "Info",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6dc3a635-e64a-4602-86ed-85def5e1944e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "f57bf19f-6239-4c45-87b1-5a7e85414a2b",
+      "files": [
+        "Protokoll.bdoc",
+        "RAHK protokoll 51  15 02 16.pdf"
+      ]
+    }
+  ],
+  "uuid": "2eda73f3-6312-4a18-9aa6-433bd4a25c71",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2eda73f3-6312-4a18-9aa6-433bd4a25c71)",
+  "source": "https://api.riigikogu.ee/api/volumes/2eda73f3-6312-4a18-9aa6-433bd4a25c71",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-02-01&endDate=2016-02-29",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
