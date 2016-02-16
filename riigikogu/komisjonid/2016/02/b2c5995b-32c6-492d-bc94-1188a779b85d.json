@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 16.02.2016 14:00",
+  "sitting_time": "2016-02-16T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti maaelu arengukavas 2014-2020 ettenähtud finantsinstrumendi rakendamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3b12c298-b924-4159-a5c1-78af75a49b37"
+    },
+    {
+      "order": 2,
+      "title": "Ühistulise tegevuse toetamine Eesti maaelu arengukava 2014-2020 raames",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cff4edcb-cbfa-4220-b6e0-33cad7e446c1"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "c26548f2-9735-4ba4-9ac6-54952681838c",
+      "files": [
+        "Protokoll.bdoc",
+        "047 protokolli lisa MAK 2014-2020 rahastamisvahend.pptx",
+        "Protokol_20160225.pdf"
+      ]
+    }
+  ],
+  "uuid": "b2c5995b-32c6-492d-bc94-1188a779b85d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b2c5995b-32c6-492d-bc94-1188a779b85d)",
+  "source": "https://api.riigikogu.ee/api/volumes/b2c5995b-32c6-492d-bc94-1188a779b85d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-02-01&endDate=2016-02-29",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
