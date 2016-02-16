@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung teisipäev, 16.02.2016 14:00",
+  "sitting_time": "2016-02-16T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Maaelu Edendamise Sihtasutuse esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "888c660a-8649-40e8-b127-b23f668b3898"
+    },
+    {
+      "order": 2,
+      "title": "Eesti Panga reservkapitali suurendamise arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c19f0ad7-ea5e-424f-83e6-6db819539a21"
+    },
+    {
+      "order": 3,
+      "title": "Info",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f1b87482-7090-4d89-aaa5-bafe80b70254"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "3ed1e8ae-e3f0-4453-b4b7-4e925aa53362",
+      "files": [
+        "Protokoll.bdoc",
+        "RAHK protokoll 52 16 02 16.pdf"
+      ]
+    }
+  ],
+  "uuid": "b7f3c1d0-4ace-46ed-a230-b26e9b4ee8a6",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b7f3c1d0-4ace-46ed-a230-b26e9b4ee8a6)",
+  "source": "https://api.riigikogu.ee/api/volumes/b7f3c1d0-4ace-46ed-a230-b26e9b4ee8a6",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-02-01&endDate=2016-02-29",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
