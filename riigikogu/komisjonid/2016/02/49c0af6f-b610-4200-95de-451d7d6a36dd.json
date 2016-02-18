@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung neljapäev, 18.02.2016 14:00",
+  "sitting_time": "2016-02-18T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kaitseliidu seaduse ja kaitseväeteenistuse seaduse muutmise seaduse eelnõu (153 SE II)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f9f5ca56-feb3-4970-8405-d5ea3e3b975f"
+    },
+    {
+      "order": 2,
+      "title": "Kaitseväe soomusmanöövervõime arendamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5b68c2e2-3e60-4cf0-b137-79db727566e5"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "1c6dccc2-ae51-4349-bb5f-24fcae28aa4e",
+      "files": [
+        "Protokoll.bdoc",
+        "Protokol_20160219.pdf"
+      ]
+    }
+  ],
+  "uuid": "49c0af6f-b610-4200-95de-451d7d6a36dd",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 49c0af6f-b610-4200-95de-451d7d6a36dd)",
+  "source": "https://api.riigikogu.ee/api/volumes/49c0af6f-b610-4200-95de-451d7d6a36dd",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-02-01&endDate=2016-02-29",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
