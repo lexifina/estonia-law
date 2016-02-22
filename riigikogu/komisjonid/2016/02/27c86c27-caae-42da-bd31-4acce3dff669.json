@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 22.02.2016 13:00",
+  "sitting_time": "2016-02-22T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ed5b3a96-f567-4a6f-8d31-3e54cd229859"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli kontrolliaruande „Järelevalve ohtlike ehitiste üle valdades ja linnades“ arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e7e70724-c9f6-4643-9437-36025b080610"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "8f466a9a-f83c-44bb-9d3e-1bb7f2c81a56",
+      "files": [
+        "Protokoll nr 41. 22.02.2016.pdf"
+      ]
+    }
+  ],
+  "uuid": "27c86c27-caae-42da-bd31-4acce3dff669",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 27c86c27-caae-42da-bd31-4acce3dff669)",
+  "source": "https://api.riigikogu.ee/api/volumes/27c86c27-caae-42da-bd31-4acce3dff669",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-02-01&endDate=2016-02-29",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
