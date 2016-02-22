@@ -1,0 +1,43 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 22.02.2016 11:00",
+  "sitting_time": "2016-02-22T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e74f4b23-3f31-4468-98e6-5e3f601366eb"
+    },
+    {
+      "order": 2,
+      "title": "Sordiaretusprogrammi uuendamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "237aeb2e-b0b3-412e-832d-bb8abc6ee8c7"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "794e9b72-08ff-4b02-b896-f0212612735d",
+      "files": [
+        "048 protokolli lisa 2_Sordiaretus_Koppel.pptx",
+        "048 protokolli lisa 1_Sordiaretus_Kevvai.pptx",
+        "048 protokolli lisa 3_Sordiaretus_Vooremäe.ppt",
+        "Protokol_20160301.pdf",
+        "Protokoll.bdoc"
+      ]
+    }
+  ],
+  "uuid": "eb357ba8-3b6a-4936-9fea-c5e15cf14fdc",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid eb357ba8-3b6a-4936-9fea-c5e15cf14fdc)",
+  "source": "https://api.riigikogu.ee/api/volumes/eb357ba8-3b6a-4936-9fea-c5e15cf14fdc",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-02-01&endDate=2016-02-29",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
