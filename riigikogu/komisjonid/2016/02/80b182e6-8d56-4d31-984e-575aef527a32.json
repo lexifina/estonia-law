@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung Esmaspäev, 22.02.2016 11:00",
+  "sitting_time": "2016-02-22T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3c78d27b-74ed-43fb-9f17-9c53a7f13235"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine Ettevõtluse Arendamise Sihtasutuse esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3c1aadce-ed10-403b-a0a1-eb55bdadbf44"
+    },
+    {
+      "order": 3,
+      "title": "Riigikogu otsus \"Eesti Panga reservkapitali suurendamine\" (183 OE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "56119b25-28c0-4199-8514-8cee9acebab2"
+    },
+    {
+      "order": 4,
+      "title": "Info",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "867456b0-18b6-4814-a44b-ff4cfdffa660"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "b755b4f5-10fb-4038-bdf4-52c32b51fbb4",
+      "files": [
+        "RAHK protokoll 53  22 02 16.pdf",
+        "Protokoll.bdoc"
+      ]
+    }
+  ],
+  "uuid": "80b182e6-8d56-4d31-984e-575aef527a32",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 80b182e6-8d56-4d31-984e-575aef527a32)",
+  "source": "https://api.riigikogu.ee/api/volumes/80b182e6-8d56-4d31-984e-575aef527a32",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-02-01&endDate=2016-02-29",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
