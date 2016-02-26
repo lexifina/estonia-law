@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung Reede, 26.02.2016 10:00",
+  "sitting_time": "2016-02-26T10:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 29. veebruaril 2016 toimuval EL konkurentsivõime nõukogu istungil.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "080eea19-83eb-43c8-8d90-11197fd60622"
+    },
+    {
+      "order": 2,
+      "title": "Seisukoha andmine: Euroopa Parlamendi 2015. aasta resolutsioon valimisi käsitleva Euroopa Liidu õiguse reformimise kohta.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "da657c6d-be4c-476a-a69a-9ea50c40b85a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "f10af721-0c54-47e1-89eb-0d2624b80fd1",
+      "files": [
+        "Protokoll 53_26.02.2016.pdf"
+      ]
+    }
+  ],
+  "uuid": "6f2df06b-f92d-4860-a761-736741fc5c6f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 6f2df06b-f92d-4860-a761-736741fc5c6f)",
+  "source": "https://api.riigikogu.ee/api/volumes/6f2df06b-f92d-4860-a761-736741fc5c6f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-02-01&endDate=2016-02-29",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
