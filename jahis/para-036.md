@@ -10,6 +10,8 @@
 
 (5) Jahitunnistust ei anta isikule, kellelt on karistusena ära võetud jahipidamise õigus ja kelle karistusandmeid ei ole karistusregistrist kustutatud või kes ei vasta käesoleva paragrahvi lõikes 2 sätestatud nõuetele.
 
+(5¹) Jahitunnistust ei anta isikule, kelle suhtes on jõustunud täitemenetluse seadustiku § 177² lõike 1 punkti 1 ja lõike 2 alusel tehtud kohtumäärus. Käesoleva lõike esimeses lauses nimetatud keeld lõpeb täitemenetluse seadustiku § 177⁵ lõike 1 alusel tehtud kohtumääruse jõustumisel.
+
 (6) Välisriigis antud kehtiva jahitunnistuse alusel antakse selle saanud isikule tema soovil, ilma et ta jahindusalase koolituse läbiks ning jahiteooriaeksami sooritaks, jahitunnistus kehtivusajaga kuni üks aasta kümne päeva jooksul pärast taotluse esitamist ja käesoleva paragrahvi lõikes 10 sätestatud riigilõivu või tasu tasumist.
 
 (7) Jahitunnistuse kehtivusaja pikendamise, andmete muutmise, jahitunnistuse kaotamise, kasutamiskõlbmatuks muutumise ja jahitunnistuse kehtivuse peatamise korral pikendatakse jahitunnistuse kehtivusaega või antakse uus jahitunnistus või taastatakse jahitunnistuse kehtivus kümne päeva jooksul pärast taotluse esitamist ja käesoleva paragrahvi lõikes 10 nimetatud riigilõivu või tasu tasumist.
