@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung esmaspäev, 7.03.2016 11:00",
+  "sitting_time": "2016-03-07T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f33541ca-dc74-4c0a-ad39-2cb891098f20"
+    },
+    {
+      "order": 2,
+      "title": "Informatsioon julgeolekuolukorra arengutest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ed172266-2a16-437b-b781-63b50613d22a"
+    },
+    {
+      "order": 3,
+      "title": "Riigikaitseseaduse § 34 muutmise seaduse eelnõu (182 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5a24ea1d-7005-4bf0-be85-a4fd34316427"
+    },
+    {
+      "order": 4,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d30ccf53-2fa6-4789-a313-40af362d20f3"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "6fb56ebb-eadb-458f-a936-73084ad31bbc",
+      "files": [
+        "Protokol_20160307.pdf",
+        "Protokoll.bdoc"
+      ]
+    }
+  ],
+  "uuid": "b7f9823c-a214-4d82-baf6-fcf627798c01",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b7f9823c-a214-4d82-baf6-fcf627798c01)",
+  "source": "https://api.riigikogu.ee/api/volumes/b7f9823c-a214-4d82-baf6-fcf627798c01",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-03-01&endDate=2016-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
