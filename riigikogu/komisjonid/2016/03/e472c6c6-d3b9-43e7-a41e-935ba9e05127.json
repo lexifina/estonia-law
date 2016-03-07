@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 7.03.2016",
+  "sitting_time": "2016-03-07T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6a260b21-a8ce-46c6-aa31-8495c5561029"
+    },
+    {
+      "order": 2,
+      "title": "Lairiba ehk kiire interneti väljaehitamise edasise tegevuskava arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f5a5685e-2b18-4559-8168-5b2671a6f995"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "bde6e964-e330-473a-8147-797ab127e7c5",
+      "files": [
+        "Protokoll nr 42. 07.03.2016.pdf"
+      ]
+    }
+  ],
+  "uuid": "e472c6c6-d3b9-43e7-a41e-935ba9e05127",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e472c6c6-d3b9-43e7-a41e-935ba9e05127)",
+  "source": "https://api.riigikogu.ee/api/volumes/e472c6c6-d3b9-43e7-a41e-935ba9e05127",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-03-01&endDate=2016-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
