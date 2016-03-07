@@ -1,0 +1,53 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 7.03.2016 11:00",
+  "sitting_time": "2016-03-07T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fe00deaa-cfb6-44c0-a575-61d24750acd2"
+    },
+    {
+      "order": 2,
+      "title": "Põllumajandusliku raamatupidamise andmebaas (FADN). Ülevaade metoodikast ja põllumajandustootjate 2014. aasta majandusnäitajatest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8e28929d-fc93-4397-bf14-ba8b2d76d846"
+    },
+    {
+      "order": 3,
+      "title": "Ülevaade taimekaitsevahendites kasutatava glüfosaadi edasise heakskiidu aruteludest Euroopa Liidus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "19b5345d-af5d-4f85-b530-1ca26ee7d711"
+    },
+    {
+      "order": 4,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5ac25fb9-ede6-4e5d-bd97-a9f2dd699234"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "4f0eada6-21b7-42bd-85e5-6e298e7485a8",
+      "files": [
+        "Protokoll.bdoc",
+        "050 protokolli lisa.pptx",
+        "Protokol_20160308.pdf"
+      ]
+    }
+  ],
+  "uuid": "d9988499-6175-404f-968f-53750168503d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d9988499-6175-404f-968f-53750168503d)",
+  "source": "https://api.riigikogu.ee/api/volumes/d9988499-6175-404f-968f-53750168503d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-03-01&endDate=2016-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
