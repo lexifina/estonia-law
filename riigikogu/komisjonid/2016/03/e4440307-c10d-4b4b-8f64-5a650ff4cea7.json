@@ -1,0 +1,37 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 8.03.2016 14:00",
+  "sitting_time": "2016-03-08T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Eesti Lihaveisekasvatajate Seltsi (ELKS) esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5a95f5d5-da69-47a4-ba67-baa23a892b56"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "d4e1de5b-b174-4801-8fb3-4088ec973ed7",
+      "files": [
+        "Protokol_20160309.pdf",
+        "051 protokolli lisa 1.pptx",
+        "051 protokoll lisa 2.ppt",
+        "051 protokoll lisa 3.pptx",
+        "Protokoll.bdoc"
+      ]
+    }
+  ],
+  "uuid": "e4440307-c10d-4b4b-8f64-5a650ff4cea7",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e4440307-c10d-4b4b-8f64-5a650ff4cea7)",
+  "source": "https://api.riigikogu.ee/api/volumes/e4440307-c10d-4b4b-8f64-5a650ff4cea7",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-03-01&endDate=2016-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
