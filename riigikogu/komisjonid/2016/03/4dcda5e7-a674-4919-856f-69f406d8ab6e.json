@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung neljapäev, 10.03.2016 13:15",
+  "sitting_time": "2016-03-10T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Tulumaksuseaduse muutmise seaduse eelnõu (184 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "55229d8c-4d62-4d96-a0a9-c44ef27c2d6c"
+    },
+    {
+      "order": 2,
+      "title": "Käibemaksuseaduse muutmise seaduse eelnõu (192 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2b9c7fb6-5143-4373-ac8f-6a19cfd0ca35"
+    },
+    {
+      "order": 3,
+      "title": "Info",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "af4d368b-760d-4b84-aa2c-bd420c89068d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "2def8493-cf5f-41a9-af3c-36b968521199",
+      "files": [
+        "Protokoll.bdoc",
+        "RAHK protokoll 57 10 03 16.pdf"
+      ]
+    }
+  ],
+  "uuid": "4dcda5e7-a674-4919-856f-69f406d8ab6e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 4dcda5e7-a674-4919-856f-69f406d8ab6e)",
+  "source": "https://api.riigikogu.ee/api/volumes/4dcda5e7-a674-4919-856f-69f406d8ab6e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-03-01&endDate=2016-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
