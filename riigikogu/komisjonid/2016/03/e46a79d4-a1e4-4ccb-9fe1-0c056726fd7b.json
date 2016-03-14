@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung esmaspäev, 14.03.2016 14:30",
+  "sitting_time": "2016-03-14T14:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väliskomisjoni III istungjärgu 8. töönädala töökava kinnitamine.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "11c53593-ac2f-4bbd-89f9-ff2611bf01c5"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad 17.-18. märtsil 2016 toimuval Euroopa Ülemkogul.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8c3b2f38-d817-4e63-8eb5-fee37366e8cb"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a5b05c0e-63bb-4e94-982b-39720a3bdb90"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 14.03.2016",
+      "uuid": "bd1e7137-0586-406a-b2f0-0a68318ec6ec",
+      "files": [
+        "Protokoll_20160316.pdf",
+        "Protokoll_14.03.2016.bdoc"
+      ]
+    }
+  ],
+  "uuid": "e46a79d4-a1e4-4ccb-9fe1-0c056726fd7b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e46a79d4-a1e4-4ccb-9fe1-0c056726fd7b)",
+  "source": "https://api.riigikogu.ee/api/volumes/e46a79d4-a1e4-4ccb-9fe1-0c056726fd7b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-03-01&endDate=2016-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
