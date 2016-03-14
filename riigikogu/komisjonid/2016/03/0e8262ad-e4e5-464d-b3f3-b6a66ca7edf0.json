@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung esmaspäev, 14.03.2016 11:00",
+  "sitting_time": "2016-03-14T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "27fa9683-dd47-4109-9892-5b15b64fd62d"
+    },
+    {
+      "order": 2,
+      "title": "Rahandusministeeriumi ettekanne „Majandusülevaade ja riigieelarve täitmine 2015“",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "673b3389-854f-4959-95ff-7d26855c69f7"
+    },
+    {
+      "order": 3,
+      "title": "Kohtumine Statistikaameti esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "233e4193-d549-4962-9c85-29d33d68a19f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "7d5fe152-638b-4f8d-8bae-013e0064fdc1",
+      "files": [
+        "Protokoll.bdoc",
+        "RAHK protokoll 59 15 03 16.pdf"
+      ]
+    }
+  ],
+  "uuid": "0e8262ad-e4e5-464d-b3f3-b6a66ca7edf0",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0e8262ad-e4e5-464d-b3f3-b6a66ca7edf0)",
+  "source": "https://api.riigikogu.ee/api/volumes/0e8262ad-e4e5-464d-b3f3-b6a66ca7edf0",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-03-01&endDate=2016-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
