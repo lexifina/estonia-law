@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung teisipäev, 15.03.2016 14:00",
+  "sitting_time": "2016-03-15T14:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Arutelu jätkamine Arengufondi teemadel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e5366aad-b192-4178-82b3-040df1699c45"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c090c078-c00a-40e9-8572-c74c8238b1c3"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAJK protokoll 15.03.2016 nr 58",
+      "uuid": "a7798b21-5b5b-49cd-8f74-80870a1ce5a4",
+      "files": [
+        "MAJK 15.03.2016 nr 58.docx",
+        "MAJK_protokoll_15.03.2016_nr_58.bdoc"
+      ]
+    }
+  ],
+  "uuid": "bc1133b3-aab2-4be3-83d8-9367aa336411",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid bc1133b3-aab2-4be3-83d8-9367aa336411)",
+  "source": "https://api.riigikogu.ee/api/volumes/bc1133b3-aab2-4be3-83d8-9367aa336411",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-03-01&endDate=2016-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
