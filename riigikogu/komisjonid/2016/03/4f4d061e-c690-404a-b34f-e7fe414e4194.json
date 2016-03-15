@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 15.03.2016 14:00",
+  "sitting_time": "2016-03-15T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Eesti Lambakasvatajate Seltsi esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f1e61046-53fa-48b7-8349-adfa66f86e5c"
+    },
+    {
+      "order": 2,
+      "title": "Uuringu lähteülesande kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8a36ec1e-6b29-44d1-aec1-5c28417a096f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "396fea12-61f3-4de6-b12a-48561bdc6c45",
+      "files": [
+        "Protokol_20160317.pdf",
+        "053 protokolli lisa.pptx",
+        "Protokoll.bdoc"
+      ]
+    }
+  ],
+  "uuid": "4f4d061e-c690-404a-b34f-e7fe414e4194",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 4f4d061e-c690-404a-b34f-e7fe414e4194)",
+  "source": "https://api.riigikogu.ee/api/volumes/4f4d061e-c690-404a-b34f-e7fe414e4194",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-03-01&endDate=2016-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
