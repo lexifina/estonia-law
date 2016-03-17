@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung neljapäev, 17.03.2016 14:00",
+  "sitting_time": "2016-03-17T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ebc0a3b0-4eff-4dbd-bead-3cf03bee2ac4"
+    },
+    {
+      "order": 2,
+      "title": "Riigikaitsekomisjoni  väljasõiduistung Tallinna Tehnikaülikooli Kaitse- ja julgeolekuuuringute keskusesse. Ülevaade keskuse senistest uurimisprojektidest ning  teadus- ja arendustegevusest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5ad765bd-df67-4315-b202-788a1b752335"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "7de7b833-d4ee-45f7-b540-97ef6638e1fe",
+      "files": [
+        "Protokol_20160318.pdf",
+        "Protokoll.bdoc"
+      ]
+    }
+  ],
+  "uuid": "d24e4ed3-446f-4a7a-beaf-a44e08fbffa5",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d24e4ed3-446f-4a7a-beaf-a44e08fbffa5)",
+  "source": "https://api.riigikogu.ee/api/volumes/d24e4ed3-446f-4a7a-beaf-a44e08fbffa5",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-03-01&endDate=2016-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
