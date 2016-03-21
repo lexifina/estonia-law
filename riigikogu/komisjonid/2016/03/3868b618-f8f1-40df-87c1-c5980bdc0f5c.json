@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 21.03.2016 11:00",
+  "sitting_time": "2016-03-21T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d48e3f56-076c-4e78-9977-43cd0c9b767a"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine Eesti Toiduainetööstuse Liidu esindajaga",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "da70aa57-0255-4754-b36b-837ee4c890e8"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "4d79a175-93ee-4873-bdbe-1cbf53895b77",
+      "files": [
+        "Protokoll.bdoc",
+        "054 protokolli lisa_Toiduainetööstusest_21.03.2016.ppt",
+        "Protokol_20160322.pdf"
+      ]
+    }
+  ],
+  "uuid": "3868b618-f8f1-40df-87c1-c5980bdc0f5c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3868b618-f8f1-40df-87c1-c5980bdc0f5c)",
+  "source": "https://api.riigikogu.ee/api/volumes/3868b618-f8f1-40df-87c1-c5980bdc0f5c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-03-01&endDate=2016-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
