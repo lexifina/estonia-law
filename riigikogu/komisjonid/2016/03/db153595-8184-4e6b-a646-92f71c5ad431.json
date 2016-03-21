@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung esmaspäev, 21.03.2016 11:15",
+  "sitting_time": "2016-03-21T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ca20cb8c-0762-44f8-805a-bbc70f9eb0ae"
+    },
+    {
+      "order": 2,
+      "title": "Haldusreformi seaduse eelnõu – 200 SE – esimese lugemise arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ad731b2f-cb05-47ba-a421-29c1b4d49a14"
+    },
+    {
+      "order": 3,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "365e3ec8-0eea-4dcf-a958-0e7f8e2cd8fb"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "2016.03.21 protokoll",
+      "uuid": "aa544f1d-234c-4dbb-8506-f4156ec1e3c8",
+      "files": [
+        "2016.03.21 protokoll.pdf",
+        "2016.03.21_protokoll.bdoc"
+      ]
+    }
+  ],
+  "uuid": "db153595-8184-4e6b-a646-92f71c5ad431",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid db153595-8184-4e6b-a646-92f71c5ad431)",
+  "source": "https://api.riigikogu.ee/api/volumes/db153595-8184-4e6b-a646-92f71c5ad431",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-03-01&endDate=2016-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
