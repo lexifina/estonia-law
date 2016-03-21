@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung esmaspäev, 21.03.2016 kell 11.10",
+  "sitting_time": "2016-03-21T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "06a5fc94-7173-42cd-bfa7-2e9ddd854549"
+    },
+    {
+      "order": 2,
+      "title": "Eesti aruanne ÜRO puuetega inimeste õiguste konventsiooni täitmise kohta aastatel 2012-2015",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0007ada0-ff74-4c64-b4b8-611ab2efb516"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "21.03.2016 istungi protokoll",
+      "uuid": "e81181ec-992a-4c61-9721-5c562831fe6d",
+      "files": [
+        "21.03.2016_istungi_protokoll.bdoc",
+        "21.03.2016 istungi protokoll.pdf"
+      ]
+    }
+  ],
+  "uuid": "65852ec3-e1d5-4332-90f9-29d818975b1f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 65852ec3-e1d5-4332-90f9-29d818975b1f)",
+  "source": "https://api.riigikogu.ee/api/volumes/65852ec3-e1d5-4332-90f9-29d818975b1f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-03-01&endDate=2016-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
