@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 22.03.2016 14:00",
+  "sitting_time": "2016-03-22T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud toiduseaduse ja toiduseaduse muutmise seaduse muutmise seaduse eelnõu (198 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5e6a62af-cf28-4f73-84f6-a4e6f4868079"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine Eesti Konjunktuuriinstituudi esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7c80f919-92b5-4d71-95f1-fa5940595f19"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "b8a0af47-debb-4e23-955d-1573c29f9271",
+      "files": [
+        "Protokol_20160328.pdf",
+        "Protokoll.bdoc",
+        "055 protokolli lisa_konjunktuuriinstituut.pdf"
+      ]
+    }
+  ],
+  "uuid": "c88d3555-f7e0-481b-9d04-b8d1b149e2e2",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c88d3555-f7e0-481b-9d04-b8d1b149e2e2)",
+  "source": "https://api.riigikogu.ee/api/volumes/c88d3555-f7e0-481b-9d04-b8d1b149e2e2",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-03-01&endDate=2016-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
