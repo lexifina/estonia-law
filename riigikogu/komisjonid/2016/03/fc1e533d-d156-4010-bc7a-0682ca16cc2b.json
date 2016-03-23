@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung kolmapäev, 23.03.2016",
+  "sitting_time": "2016-03-23T09:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikontrolli kontrolliaruande „Ohtlike ja radioaktiivsete jäätmete käitlemine“ kordusarutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "be4b7f96-5b4f-4cf6-b56a-766960db1d14"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli auditiaruande „Järelevalve ohtlike ehitiste üle valdades ja linnades“ laekunud ettepanekute üle vaatamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ad4d4117-4775-41d0-ae2d-c8b5c7abd22d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "55141743-4d60-4a1e-9045-91f2de2a1330",
+      "files": [
+        "Protokoll nr 45. 22.03.2016.pdf"
+      ]
+    }
+  ],
+  "uuid": "fc1e533d-d156-4010-bc7a-0682ca16cc2b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid fc1e533d-d156-4010-bc7a-0682ca16cc2b)",
+  "source": "https://api.riigikogu.ee/api/volumes/fc1e533d-d156-4010-bc7a-0682ca16cc2b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-03-01&endDate=2016-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
