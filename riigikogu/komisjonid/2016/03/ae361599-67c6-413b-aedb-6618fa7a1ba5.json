@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung neljapäev, 24.03.2016 14:00",
+  "sitting_time": "2016-03-24T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väliskomisjoni väljasõiduistung Teabeametisse.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "97e763e5-1571-4cc1-8181-eef28f97159a"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "71f57252-d428-4787-b326-8a799cd7804b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 24.03.2016",
+      "uuid": "6a8895f5-5c8b-4ce0-822d-51e62cdb03eb",
+      "files": [
+        "Protokoll_24.03.2016.bdoc",
+        "Protokoll_20160419.pdf"
+      ]
+    }
+  ],
+  "uuid": "ae361599-67c6-413b-aedb-6618fa7a1ba5",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ae361599-67c6-413b-aedb-6618fa7a1ba5)",
+  "source": "https://api.riigikogu.ee/api/volumes/ae361599-67c6-413b-aedb-6618fa7a1ba5",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-03-01&endDate=2016-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
