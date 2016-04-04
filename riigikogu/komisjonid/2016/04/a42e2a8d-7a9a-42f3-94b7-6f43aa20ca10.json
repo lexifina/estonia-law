@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung esmaspäev, 4.04.2016 11:00",
+  "sitting_time": "2016-04-04T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5ddb0eee-4f74-4938-af30-5705c6f4a46c"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine riigikaitse kõrgeima juhi, Vabariigi Presidendi Toomas Hendrik Ilvesega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d00d556c-680d-4ac8-a094-bcf25665e617"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8bfdead6-b14e-4792-bbda-fd2cde1c2062"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "4c9e9831-914e-4564-a7c3-04b151f8bb99",
+      "files": [
+        "Protokoll.bdoc",
+        "Protokol_20160404.pdf"
+      ]
+    }
+  ],
+  "uuid": "a42e2a8d-7a9a-42f3-94b7-6f43aa20ca10",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a42e2a8d-7a9a-42f3-94b7-6f43aa20ca10)",
+  "source": "https://api.riigikogu.ee/api/volumes/a42e2a8d-7a9a-42f3-94b7-6f43aa20ca10",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-04-01&endDate=2016-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
