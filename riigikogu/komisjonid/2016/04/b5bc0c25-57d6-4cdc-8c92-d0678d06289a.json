@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung esmaspäev, 4.04.2016 11:00",
+  "sitting_time": "2016-04-04T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "486af5e4-cc21-4649-9b68-2b1b24719d04"
+    },
+    {
+      "order": 2,
+      "title": "Arutelu trahvipoliitikast.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "99fad66f-4226-4c1a-9af3-5e320b0fef99"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "aaab0bc1-deba-47b4-a7f4-2c5ba7a4229c",
+      "files": [
+        "img-222125007-0001.pdf",
+        "ÕIGK 04.04.16 protokoll.pdf"
+      ]
+    }
+  ],
+  "uuid": "b5bc0c25-57d6-4cdc-8c92-d0678d06289a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b5bc0c25-57d6-4cdc-8c92-d0678d06289a)",
+  "source": "https://api.riigikogu.ee/api/volumes/b5bc0c25-57d6-4cdc-8c92-d0678d06289a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-04-01&endDate=2016-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
