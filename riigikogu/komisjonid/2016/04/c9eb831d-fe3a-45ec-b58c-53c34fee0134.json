@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 4.04.2016 13:30",
+  "sitting_time": "2016-04-04T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "caac42d6-f19b-4c25-bbfd-5553aceb2433"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli kontrolliaruande \"Riigi osalusega äriühingute majandamise korraldus\" kordusarutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "70dbf996-9de7-4540-b859-02968fb79119"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "caf893ab-ab4e-40ea-9a69-1a5637181086"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "d19552c8-148b-477c-bcd2-f78b583c5357",
+      "files": [
+        "Protokoll nr 46. 04.04.2016.pdf"
+      ]
+    }
+  ],
+  "uuid": "c9eb831d-fe3a-45ec-b58c-53c34fee0134",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c9eb831d-fe3a-45ec-b58c-53c34fee0134)",
+  "source": "https://api.riigikogu.ee/api/volumes/c9eb831d-fe3a-45ec-b58c-53c34fee0134",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-04-01&endDate=2016-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
