@@ -1,0 +1,35 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 5.04.2016 14:00",
+  "sitting_time": "2016-04-05T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Eesti Aiandusliidu esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "657edee8-158d-4029-a32d-9802a78a93c3"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "5bb2683c-6e33-4866-bde6-d3259c5cbab4",
+      "files": [
+        "Protokol_20160406.pdf",
+        "057 protokolli lisa 05.04.2016.pdf",
+        "Protokoll.bdoc"
+      ]
+    }
+  ],
+  "uuid": "0d9d57fa-91b9-454d-9d2d-e2f0242e2e73",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0d9d57fa-91b9-454d-9d2d-e2f0242e2e73)",
+  "source": "https://api.riigikogu.ee/api/volumes/0d9d57fa-91b9-454d-9d2d-e2f0242e2e73",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-04-01&endDate=2016-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
