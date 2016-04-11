@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 11.04.2016 11:00",
+  "sitting_time": "2016-04-11T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "56445551-1802-461f-83b1-93432859a0b2"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade riigi toiduvarust",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2b2112d9-ce4d-4710-abce-c65866953cfd"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "3edea076-088b-42ea-8133-49850344389c",
+      "files": [
+        "Protokol_20160413.pdf",
+        "Protokoll.bdoc"
+      ]
+    }
+  ],
+  "uuid": "da88b285-1309-4825-89c3-5e798999cabe",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid da88b285-1309-4825-89c3-5e798999cabe)",
+  "source": "https://api.riigikogu.ee/api/volumes/da88b285-1309-4825-89c3-5e798999cabe",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-04-01&endDate=2016-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
