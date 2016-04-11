@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung esmaspäev, 11.04.2016 11:00",
+  "sitting_time": "2016-04-11T11:09:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala (11.04-17.04.16) töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c834c660-9f02-41a3-89d6-a12384b53ca8"
+    },
+    {
+      "order": 2,
+      "title": "Keskkonnaseire seaduse eelnõu (100 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "61f6f708-d33a-4521-9129-a77ed00ccb6e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Keskkonnakomisjoni 11.04.2016. a istungi protokoll",
+      "uuid": "6cd85350-0a85-4e50-8cd5-bc5971b76210",
+      "files": [
+        "Keskkonnakomisjoni_11.04.2016_istungi_protokoll.bdoc",
+        "Keskkonnakomisjoni_11.04.2016_20160413.pdf"
+      ]
+    }
+  ],
+  "uuid": "51fe0ee9-c97c-495d-840c-73f3d1875671",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 51fe0ee9-c97c-495d-840c-73f3d1875671)",
+  "source": "https://api.riigikogu.ee/api/volumes/51fe0ee9-c97c-495d-840c-73f3d1875671",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-04-01&endDate=2016-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
