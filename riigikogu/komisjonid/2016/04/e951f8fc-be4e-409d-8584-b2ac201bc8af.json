@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung esmaspäev, 11.04.2016 11:00",
+  "sitting_time": "2016-04-11T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ffa51e92-0cf6-4276-bb0e-2cc0c2268fc1"
+    },
+    {
+      "order": 2,
+      "title": "Kooseluseaduse kehtetuks tunnistamise seaduse eelnõu (185 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fd3de28e-b272-4cb7-b593-461c12bf1f53"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "8966fc4a-38dd-4f18-9c98-a81eff92f5b4",
+      "files": [
+        "img-222124959-0001.pdf",
+        "ÕIGK 11.04.16 protokoll.pdf"
+      ]
+    }
+  ],
+  "uuid": "e951f8fc-be4e-409d-8584-b2ac201bc8af",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e951f8fc-be4e-409d-8584-b2ac201bc8af)",
+  "source": "https://api.riigikogu.ee/api/volumes/e951f8fc-be4e-409d-8584-b2ac201bc8af",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-04-01&endDate=2016-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
