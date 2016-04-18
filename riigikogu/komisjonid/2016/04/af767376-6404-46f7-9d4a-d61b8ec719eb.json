@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 18.04.2016 11:00",
+  "sitting_time": "2016-04-18T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "db86c1f1-c8a0-40d9-b13e-702867554c68"
+    },
+    {
+      "order": 2,
+      "title": "Olukorrast Eesti piima- ja sealihatootmises",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a16903e2-d1a1-42d4-952a-e28cf834bf16"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "b3493ce3-d408-48f9-89dd-438bca8173a9",
+      "files": [
+        "Protokol_20160421.pdf",
+        "060 protokoll lisa 18.04.2016.pdf",
+        "Protokoll.bdoc"
+      ]
+    }
+  ],
+  "uuid": "af767376-6404-46f7-9d4a-d61b8ec719eb",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid af767376-6404-46f7-9d4a-d61b8ec719eb)",
+  "source": "https://api.riigikogu.ee/api/volumes/af767376-6404-46f7-9d4a-d61b8ec719eb",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-04-01&endDate=2016-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
