@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 18.04.2016 13:30",
+  "sitting_time": "2016-04-18T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0855cf10-9aab-4352-abdd-67eb6402d32b"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli analüüsi „Omavalitsuse audititest tehtud olulisemate soovituste täitmise ülevaade“ arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f7e3cacd-f9c3-4723-baef-84dd551475d8"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "471db3a2-354b-44b7-adc6-54b156921808"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "5e379733-eebf-481a-84f6-b521caac496e",
+      "files": [
+        "Protokoll nr 49. 18.04.2016.pdf"
+      ]
+    }
+  ],
+  "uuid": "a786c1af-b572-4e39-97d2-729461368b70",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a786c1af-b572-4e39-97d2-729461368b70)",
+  "source": "https://api.riigikogu.ee/api/volumes/a786c1af-b572-4e39-97d2-729461368b70",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-04-01&endDate=2016-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
