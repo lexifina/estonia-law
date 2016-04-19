@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung teisipäev, 19.04.2016 14:00",
+  "sitting_time": "2016-04-19T14:05:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Uimastipoliitika arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2e1f72dc-1882-4681-9f42-38b7557c8cc2"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b28eee17-cb0b-4097-85ec-0436a78e185b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "fdca9a76-fd8d-4747-9dca-daac795194d7",
+      "files": [
+        "ÕIGK 19.04.16 protokoll.pdf"
+      ]
+    }
+  ],
+  "uuid": "d60a9ebc-500e-48eb-a936-0d1e60d3757a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d60a9ebc-500e-48eb-a936-0d1e60d3757a)",
+  "source": "https://api.riigikogu.ee/api/volumes/d60a9ebc-500e-48eb-a936-0d1e60d3757a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-04-01&endDate=2016-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
