@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung esmaspäev, 2.05.2016 11:00",
+  "sitting_time": "2016-05-02T11:05:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala (02.05-08.05.16) töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8692a2f8-7c0e-4490-bfaa-fc6d6e7dd643"
+    },
+    {
+      "order": 2,
+      "title": "Maapõueseadus (213 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "091c5baa-4b88-4fdf-bea8-83f797b8fdac"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Keskkonnakomisjoni 02.05.2016. a istungi protokoll",
+      "uuid": "838adf03-ec62-4a6a-9309-1ed3930c4eb8",
+      "files": [
+        "Keskkonnakomisjoni_02.05.2016._a_istungi_protokoll.bdoc",
+        "Keskkonnakomisjoni_02.05.2016._a_20160509.pdf"
+      ]
+    }
+  ],
+  "uuid": "d1714e12-2338-499d-b279-6d3a4c96b897",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d1714e12-2338-499d-b279-6d3a4c96b897)",
+  "source": "https://api.riigikogu.ee/api/volumes/d1714e12-2338-499d-b279-6d3a4c96b897",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-05-01&endDate=2016-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
