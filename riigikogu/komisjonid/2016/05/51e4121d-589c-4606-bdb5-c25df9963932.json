@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 2.05.2016 13:00",
+  "sitting_time": "2016-05-02T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d93e630d-ef31-4c40-8c9b-de3886c36cec"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli kontrolliaruande „Politsei- ja Piirivalveameti moodustamise kulg ja tulemuslikkus“ arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b2c75052-7693-435c-ab9c-ee23fc7ed9a3"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "6b32c57f-694b-4154-94e7-be829f32ac38",
+      "files": [
+        "Protokoll nr 51. 02.05.2016.pdf"
+      ]
+    }
+  ],
+  "uuid": "51e4121d-589c-4606-bdb5-c25df9963932",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 51e4121d-589c-4606-bdb5-c25df9963932)",
+  "source": "https://api.riigikogu.ee/api/volumes/51e4121d-589c-4606-bdb5-c25df9963932",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-05-01&endDate=2016-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
