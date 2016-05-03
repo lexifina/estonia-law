@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung teisipäev, 3.05.2016 14:00",
+  "sitting_time": "2016-05-03T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikaitseseaduse rakendamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "971b0db1-dcec-4b35-936b-1c49be512d02"
+    },
+    {
+      "order": 2,
+      "title": "Informatsioon julgeolekuolukorra arengutest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "316d8761-8974-4447-9c15-6f836c360d5e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "b2366ea8-47c9-42d0-9126-9678f3e726b3",
+      "files": [
+        "Protokoll.bdoc",
+        "Protokol_20160504.pdf"
+      ]
+    }
+  ],
+  "uuid": "07e3af81-ccf5-4518-85ab-8ae082421e8a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 07e3af81-ccf5-4518-85ab-8ae082421e8a)",
+  "source": "https://api.riigikogu.ee/api/volumes/07e3af81-ccf5-4518-85ab-8ae082421e8a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-05-01&endDate=2016-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
