@@ -1,0 +1,35 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 3.05.2016 14:00",
+  "sitting_time": "2016-05-03T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Karusloomakasvatuse lõpparuande tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "477cb1f8-4f7a-4225-8c72-954893565e75"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "1a803753-0731-4a9e-8771-3140debc0395",
+      "files": [
+        "Protokol_20160506.pdf",
+        "063 protokoll lisa_Karusloomauuringu kokkuvõte 02.05.16.pptx",
+        "Protokoll.bdoc"
+      ]
+    }
+  ],
+  "uuid": "6d82dcd2-102d-4f57-a39e-a3b52ee3a4a3",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 6d82dcd2-102d-4f57-a39e-a3b52ee3a4a3)",
+  "source": "https://api.riigikogu.ee/api/volumes/6d82dcd2-102d-4f57-a39e-a3b52ee3a4a3",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-05-01&endDate=2016-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
