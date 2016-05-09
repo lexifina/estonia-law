@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung esmaspäev, 9.05.2016 11:00",
+  "sitting_time": "2016-05-09T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cdbc342c-e2e1-4d83-ac79-09efc3326406"
+    },
+    {
+      "order": 2,
+      "title": "Kaitseväe korralduse seaduse muutmise seaduse eelnõu (231 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a986d6da-d88d-47c0-b498-3cf68abd9404"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "687d6ecf-a5d7-4903-8f36-e63637fcf6e4",
+      "files": [
+        "Protokoll.bdoc",
+        "Protokol_20160509.pdf"
+      ]
+    }
+  ],
+  "uuid": "db6681c7-9c8f-4f32-a53f-d5b4e40a56d3",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid db6681c7-9c8f-4f32-a53f-d5b4e40a56d3)",
+  "source": "https://api.riigikogu.ee/api/volumes/db6681c7-9c8f-4f32-a53f-d5b4e40a56d3",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-05-01&endDate=2016-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
