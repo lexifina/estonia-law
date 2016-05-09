@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung esmaspäev, 9.05.2016 11:00",
+  "sitting_time": "2016-05-09T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9c39a653-a903-4480-9554-6ab560d7188e"
+    },
+    {
+      "order": 2,
+      "title": "Isikut tõendavate dokumentide seaduse, krediidiasutuste seaduse ning rahapesu ja terrorismi rahastamise tõkestamise seaduse muutmise seaduse eelnõu (232 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1c5482ee-e193-4e56-9f54-fc0b8076857a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "3326fb4a-0840-432b-b47e-ab6ac632c209",
+      "files": [
+        "Volikiri 9.05.2016 Tiiduse asendusliige.pdf",
+        "Protokoll.bdoc",
+        "RAHK protokoll 71 9 05 16.pdf"
+      ]
+    }
+  ],
+  "uuid": "e83a2879-cafb-466e-9e60-70a5ed1b613a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e83a2879-cafb-466e-9e60-70a5ed1b613a)",
+  "source": "https://api.riigikogu.ee/api/volumes/e83a2879-cafb-466e-9e60-70a5ed1b613a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-05-01&endDate=2016-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
