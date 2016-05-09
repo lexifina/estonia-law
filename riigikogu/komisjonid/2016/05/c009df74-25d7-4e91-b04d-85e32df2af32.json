@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 9.05.2016 11:00",
+  "sitting_time": "2016-05-09T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "be76c288-8e38-47fa-8950-9c7e477598fa"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade taimekaitsevahendi toimeaine glüfosaadi kasutuse pikendamise aruteludest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "158b2494-8a26-4857-9c32-6cfa68dee7a2"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "73d8560b-4345-49ab-a406-92ea8d6c325f",
+      "files": [
+        "Protokol_20160510.pdf",
+        "Protokoll.bdoc",
+        "064 protokolli lisa Glüfosaat.pptx"
+      ]
+    }
+  ],
+  "uuid": "c009df74-25d7-4e91-b04d-85e32df2af32",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c009df74-25d7-4e91-b04d-85e32df2af32)",
+  "source": "https://api.riigikogu.ee/api/volumes/c009df74-25d7-4e91-b04d-85e32df2af32",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-05-01&endDate=2016-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
