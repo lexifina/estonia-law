@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung kolmapäev, 11.05.2016 09:30",
+  "sitting_time": "2016-05-11T09:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b8dc678c-51a8-4d5d-867a-9a69e9787c75"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli järelauditi tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e1affa03-54d7-47fb-9a63-b8a04f28b8a8"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "cc41a3f9-18be-4896-b7aa-6dd9e18c67cf",
+      "files": [
+        "Protokoll nr 53. 11.05.2016.pdf"
+      ]
+    }
+  ],
+  "uuid": "c82a8cc0-5aeb-44f3-ae21-27da93b37487",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c82a8cc0-5aeb-44f3-ae21-27da93b37487)",
+  "source": "https://api.riigikogu.ee/api/volumes/c82a8cc0-5aeb-44f3-ae21-27da93b37487",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-05-01&endDate=2016-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
