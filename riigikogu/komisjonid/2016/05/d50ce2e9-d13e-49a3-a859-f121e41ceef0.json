@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung neljapäev, 12.05.2016 11:45",
+  "sitting_time": "2016-05-12T11:45:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigivaraseaduse muutmise ja sellega seonduvalt teiste seaduste muutmise seaduse eelnõu (171 SE II) 2. lugemisele saatmise menetluslike otsuste ülevaatamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dafa93a8-2e2b-4c3a-bcc3-dcacd76f235f"
+    },
+    {
+      "order": 2,
+      "title": "Riigihangete seaduse eelnõu (204 SE I) 1. lugemisele saatmise menetluslike otsuste ülevaatamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1ad220bd-ee53-4033-9a53-22f0198482bc"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAJK protokoll nr 72",
+      "uuid": "6bb07113-0040-45f6-b05b-6df514956acc",
+      "files": [
+        "MAJK_protokoll_nr_72.bdoc",
+        "Protokoll nr 72 12_05_2016.docx"
+      ]
+    }
+  ],
+  "uuid": "d50ce2e9-d13e-49a3-a859-f121e41ceef0",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d50ce2e9-d13e-49a3-a859-f121e41ceef0)",
+  "source": "https://api.riigikogu.ee/api/volumes/d50ce2e9-d13e-49a3-a859-f121e41ceef0",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-05-01&endDate=2016-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
