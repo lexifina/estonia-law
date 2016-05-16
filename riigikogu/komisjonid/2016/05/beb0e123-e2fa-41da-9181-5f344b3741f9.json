@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 16.05.2016 13:30",
+  "sitting_time": "2016-05-16T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "019060eb-3270-4f7b-82dd-07835e8d3912"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli kontrolliaruande „Õppeinfosüsteemiga tehtud tehingute õiguspärasus Tallinna Inglise Kolledžis“ arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "59a8d9b7-7d12-4fa3-999a-9d35bdef6e2c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "f676f252-55a0-4f27-b97f-502553d9ad33",
+      "files": [
+        "Protokoll nr 54. 16.05.2016.pdf"
+      ]
+    }
+  ],
+  "uuid": "beb0e123-e2fa-41da-9181-5f344b3741f9",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid beb0e123-e2fa-41da-9181-5f344b3741f9)",
+  "source": "https://api.riigikogu.ee/api/volumes/beb0e123-e2fa-41da-9181-5f344b3741f9",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-05-01&endDate=2016-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
