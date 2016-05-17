@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung teisipäev, 17.05.2016 14:00",
+  "sitting_time": "2016-05-17T14:07:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 19.-20. mail 2016 toimuval NATO välisministrite kohtumisel.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3eec14be-2b35-4588-b7b8-cd0bd844c7dc"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad 23. mail 2016 toimuval Euroopa Liidu välisasjade nõukogu istungil.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1e3650ad-87df-41e7-a9b2-7828a83282bd"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cf56167d-6336-48ca-806f-9231a72ca402"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 17.05.2016",
+      "uuid": "d6b56a53-2aae-4b94-97bd-58f58624314a",
+      "files": [
+        "Protokoll_17.05.2016.bdoc",
+        "Protokoll_20160525.pdf"
+      ]
+    }
+  ],
+  "uuid": "9d1a8769-ee07-4d0e-9cf9-670ab77f70c2",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9d1a8769-ee07-4d0e-9cf9-670ab77f70c2)",
+  "source": "https://api.riigikogu.ee/api/volumes/9d1a8769-ee07-4d0e-9cf9-670ab77f70c2",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-05-01&endDate=2016-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
