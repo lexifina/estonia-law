@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung kolmapäev, 18.05.2016 08:30",
+  "sitting_time": "2016-05-18T08:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikontrolli kontrolliaruande tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a67a36fb-3b91-463f-9adc-a35e7259bc50"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli kontrolliaruande tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bdea6d5b-e794-440a-8d83-9f16c3552c31"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "d3982b24-be04-4a72-b634-e166065a14b1",
+      "files": [
+        "Protokoll nr 55. 18.05.2016.pdf"
+      ]
+    }
+  ],
+  "uuid": "951b52b3-2052-4ba5-b1d5-53c0481dd7db",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 951b52b3-2052-4ba5-b1d5-53c0481dd7db)",
+  "source": "https://api.riigikogu.ee/api/volumes/951b52b3-2052-4ba5-b1d5-53c0481dd7db",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-05-01&endDate=2016-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
