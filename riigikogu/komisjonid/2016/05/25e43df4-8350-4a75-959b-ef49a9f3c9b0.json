@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung neljapäev, 19.05.2016 13:00",
+  "sitting_time": "2016-05-19T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kaitseväe korralduse seaduse muutmise seaduse eelnõu (231 SE II)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ae741979-e5c1-4103-890d-5e79e8fc72e2"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu otsuse \"Kaitseväe kasutamine Eesti riigi rahvusvaheliste kohustuste täitmisel rahvusvahelisel sõjalisel operatsioonil Inherent Resolve\" eelnõu (244 OE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cea3899b-183e-4bbe-81ad-b8fc23de73c1"
+    },
+    {
+      "order": 3,
+      "title": "Informatsioon Eesti Kaitseväe üksuste osalemisest rahvusvahelistel missioonidel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a892a210-8694-43c5-aa43-3650454fbe0e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "15dbb3b2-d313-4846-b082-69eee4dc712d",
+      "files": [
+        "Protokol_20160520.pdf",
+        "Protokoll.bdoc"
+      ]
+    }
+  ],
+  "uuid": "25e43df4-8350-4a75-959b-ef49a9f3c9b0",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 25e43df4-8350-4a75-959b-ef49a9f3c9b0)",
+  "source": "https://api.riigikogu.ee/api/volumes/25e43df4-8350-4a75-959b-ef49a9f3c9b0",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-05-01&endDate=2016-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
