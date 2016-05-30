@@ -1,6 +1,6 @@
-# § 334². Euro müntidega sarnanevate medalite ja märkide käitlemine
+# § 334². Euromüntidega sarnanevate medalite ja märkide käitlemine
 
-(1) Nõukogu määruses (EÜ) nr 2182/2004 euro müntidega sarnanevate medalite ja märkide kohta (ELT L 373, 21.12.2004, lk 1–6) kirjeldatud euro mündiga sarnanevate visuaalsete tunnusjoontega, ligilähedase suuruse või sarnaste metalliliste omadustega medali või märgi valmistamise eest ärilisel eesmärgil või müümise, importimise või levitamise eest –
+(1) Nõukogu määruses (EÜ) nr 2182/2004 euromüntidega sarnanevate medalite ja märkide kohta (ELT L 373, 21.12.2004, lk 1–6) kirjeldatud euromündiga sarnanevate visuaalsete tunnusjoontega, ligilähedase suuruse või sarnaste metalliliste omadustega medali või märgi valmistamise eest ärilisel eesmärgil või müümise, importimise või levitamise eest –
 
 karistatakse rahatrahviga kuni kolmsada trahviühikut.
 

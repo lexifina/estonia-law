@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/117122015009> (version in force from 2016-01-01)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/120052016002> (version in force from 2016-05-30)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -498,8 +498,9 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/117122015009> (version in force 
 | [§ 333](para-333.md) | Maksevahendi ja väärtpaberi võltsimine |
 | [§ 333¹](para-333b1.md) | Raha võltsimine |
 | [§ 334](para-334.md) | Võltsitud maksevahendi ja väärtpaberi käitlemine |
-| [§ 334¹](para-334b1.md) | Võltsitud maksevahendi üle andmata jätmine |
-| [§ 334²](para-334b2.md) | Euro müntidega sarnanevate medalite ja märkide käitlemine |
+| [§ 334¹](para-334b1.md) | Võltsitud raha üle andmata jätmine |
+| [§ 334²](para-334b2.md) | Euromüntidega sarnanevate medalite ja märkide käitlemine |
+| [§ 334³](para-334b3.md) | Europangatähtede ja euromüntide ehtsuse ning ringluskõlblikkuse kontrollimata jätmine |
 | [§ 335](para-335.md) | Maksumärgi võltsimine |
 | [§ 336](para-336.md) | Võltsitud maksumärgi kasutamine ja käibelelaskmine |
 | [§ 337](para-337.md) | Postimaksevahendi ja selle jäljendi võltsimine |

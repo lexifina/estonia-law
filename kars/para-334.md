@@ -16,4 +16,8 @@ karistatakse kahe- kuni kümneaastase vangistusega.
 
 karistatakse rahalise karistusega.
 
-(5) Käesolevat paragrahvi kohaldatakse sõltumata sellest, kas võltsimise objektiks on käibele lastud või käibele laskmata raha, kui see on mõeldud ringluseks ning on seadusliku maksevahendina kasutatav vääring.
+(5) Käesolevat paragrahvi kohaldatakse võltsitud raha korral sõltumata sellest, kas:
+
+1) teo objektiks on käibele lastud või käibele laskmata raha, kui see on mõeldud ringluseks ning on seadusliku maksevahendina kasutatav vääring;
+
+2) võltsimine pannakse toime seaduslike või ebaseaduslike vahendite abil, kuid emiteerivate asutuste pädevuse aluseks olevaid õigusi või tingimusi rikkudes.
