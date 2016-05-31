@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 31.05.2016 14:00",
+  "sitting_time": "2016-05-31T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti maaelu arengukava 2014-2020 rakendamise hetkeseis",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "512a9fde-93b5-4ffa-bbb9-abf268a4b699"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud loomakaitseseaduse, loomatauditõrje seaduse ning loomade ja loomsete saadustega kauplemise ning nende impordi ja ekspordi seaduse muutmise seaduse eelnõu (222 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f3fc1fe6-8a46-43ca-a796-04d1cd460fd5"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "bfdbba62-d229-48d5-b693-db4fd18f4a21",
+      "files": [
+        "Protokoll.bdoc",
+        "070 protokolli lisa_MAK rakendamine_31 05 2016.pptx",
+        "Protokol_20160601.pdf"
+      ]
+    }
+  ],
+  "uuid": "9315fb0b-b8c8-4a96-8d35-bf76b33e955c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9315fb0b-b8c8-4a96-8d35-bf76b33e955c)",
+  "source": "https://api.riigikogu.ee/api/volumes/9315fb0b-b8c8-4a96-8d35-bf76b33e955c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-05-01&endDate=2016-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
