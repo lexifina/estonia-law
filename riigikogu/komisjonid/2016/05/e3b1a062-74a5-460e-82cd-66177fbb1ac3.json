@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung teisipäev, 31.05.2016 14:00",
+  "sitting_time": "2016-05-31T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "89c5562d-84d8-4bb4-89d8-dd8bda961db6"
+    },
+    {
+      "order": 2,
+      "title": "Euroopa Komisjoni majanduspoliitilised soovitused Eestile 2016 a.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d9f6fe44-5c75-430b-9e47-038ed0396b4c"
+    },
+    {
+      "order": 3,
+      "title": "Sotsiaalmaksuseaduse täiendamise seaduse eelnõu (214 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b8ed5888-5ec6-445c-9c37-e0c1931486b1"
+    },
+    {
+      "order": 4,
+      "title": "Riigikogu otsus \"Ettepaneku tegemine Vabariigi Valitsusele seoses sotsiaalmaksu miinimumi kaotamisega\" (227 OE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ece651fa-ee4c-4e61-904b-af24e12ad175"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "10f1e1bf-8282-4f66-826f-b0cbb4841931",
+      "files": [
+        "Protokoll.bdoc",
+        "RAHK prot_73.pdf"
+      ]
+    }
+  ],
+  "uuid": "e3b1a062-74a5-460e-82cd-66177fbb1ac3",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e3b1a062-74a5-460e-82cd-66177fbb1ac3)",
+  "source": "https://api.riigikogu.ee/api/volumes/e3b1a062-74a5-460e-82cd-66177fbb1ac3",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-05-01&endDate=2016-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
