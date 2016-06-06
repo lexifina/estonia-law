@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 6.06.2016 13:14",
+  "sitting_time": "2016-06-06T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "03ac6ed4-5813-4e8a-97b2-cb25b436b817"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli kontrolliaruande „Riigi tegevus töötute aitamisel tööle“ arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "84b7a326-cc58-406f-a539-a8629f0693e6"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "0f9156e4-de48-4721-b4d3-899c0677e5fd",
+      "files": [
+        "Protokoll nr 58. 06.06.2016.pdf"
+      ]
+    }
+  ],
+  "uuid": "8b911f4a-6cf3-477a-a4ec-ada8698102ec",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8b911f4a-6cf3-477a-a4ec-ada8698102ec)",
+  "source": "https://api.riigikogu.ee/api/volumes/8b911f4a-6cf3-477a-a4ec-ada8698102ec",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-06-01&endDate=2016-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
