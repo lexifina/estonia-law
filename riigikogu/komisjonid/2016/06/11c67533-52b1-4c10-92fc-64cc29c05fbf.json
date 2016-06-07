@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung teisipäev, 7.06.2016 14:00",
+  "sitting_time": "2016-06-07T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "2016. aasta märtsi uuringu „Avalik arvamus ja riigikaitse“ tutvustamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f31698c3-f89b-414c-9f6d-eee8d0ea0c5a"
+    },
+    {
+      "order": 2,
+      "title": "Informatsioon Kasahstanis toimunud terroriaktide kohta",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ba01b43d-57e7-41d0-a573-d34a89d97741"
+    },
+    {
+      "order": 3,
+      "title": "19.-20.05.2016 Brüsselis toimunud NATO välisministrite kohtumise järelbriif",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c3fdadb3-3ccf-48a4-aade-9799b1627b2e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "cfe25061-485d-4acb-8086-53b6e31dcd92",
+      "files": [
+        "Protokol_20160614.pdf",
+        "Protokoll.bdoc"
+      ]
+    }
+  ],
+  "uuid": "11c67533-52b1-4c10-92fc-64cc29c05fbf",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 11c67533-52b1-4c10-92fc-64cc29c05fbf)",
+  "source": "https://api.riigikogu.ee/api/volumes/11c67533-52b1-4c10-92fc-64cc29c05fbf",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-06-01&endDate=2016-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
