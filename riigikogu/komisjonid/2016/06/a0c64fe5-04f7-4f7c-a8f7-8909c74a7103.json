@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung kolmapäev, 8.06.2016 09:00",
+  "sitting_time": "2016-06-08T09:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikontrolli kontrolliaruande „Eesti Rahvusringhäälingu tegevuse eesmärgipärasus, läbipaistvus ja jätkusuutlikkus“ arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e7da2cc1-67d5-4a7e-92eb-1c4eacaa6efb"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli kontrolliaruande „Omavalitsuste tegevus nende eestkostel olevate laste elatisraha sissenõudmisel“ arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "52e7cb59-0e63-4133-8690-4ab7e09c487f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "f7546088-92b2-491e-b74e-150bf990b5f8",
+      "files": [
+        "Protokoll nr 59. 08.06.2016.pdf"
+      ]
+    }
+  ],
+  "uuid": "a0c64fe5-04f7-4f7c-a8f7-8909c74a7103",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a0c64fe5-04f7-4f7c-a8f7-8909c74a7103)",
+  "source": "https://api.riigikogu.ee/api/volumes/a0c64fe5-04f7-4f7c-a8f7-8909c74a7103",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-06-01&endDate=2016-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
