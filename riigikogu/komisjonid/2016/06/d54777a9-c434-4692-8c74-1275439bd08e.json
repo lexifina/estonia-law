@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 13.06.2016 13:00",
+  "sitting_time": "2016-06-13T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c22ffe53-6ce1-45d3-a567-7dea943b0abc"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli kontrolliaruande „Euroopa Kalandusfondi vesiviljelustoetuste mõju“ arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "533e33c5-e20c-4acb-88af-ebdbd54ada4a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "6bf96881-2c0e-4302-a7e4-fd5c16dba924",
+      "files": [
+        "Protokoll nr 60. 13.06.2016.pdf"
+      ]
+    }
+  ],
+  "uuid": "d54777a9-c434-4692-8c74-1275439bd08e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d54777a9-c434-4692-8c74-1275439bd08e)",
+  "source": "https://api.riigikogu.ee/api/volumes/d54777a9-c434-4692-8c74-1275439bd08e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-06-01&endDate=2016-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
