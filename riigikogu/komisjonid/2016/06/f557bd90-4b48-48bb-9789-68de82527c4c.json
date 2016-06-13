@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung esmaspäev, 13.06.2016 11:00",
+  "sitting_time": "2016-06-13T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "23ea64e9-769e-4349-baa5-8b4479503f5e"
+    },
+    {
+      "order": 2,
+      "title": "Isikut tõendavate dokumentide seaduse, krediidiasutuste seaduse ning rahapesu ja terrorismi rahastamise tõkestamise seaduse muutmise seaduse eelnõu (232 SE III)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "502e42b0-4886-4e35-a122-6936d4eeee65"
+    },
+    {
+      "order": 3,
+      "title": "Eesti seisukohad Euroopa Parlamendi ja\nnõukogu direktiivi, mis käsitleb\ntulumaksualase teabe avalikustamist\nteatavate äriühingute ja filiaalide poolt,\neelnõu kohta (1-2/16-228/5)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1193c973-420e-48f5-aaa1-c2f29551dcc5"
+    },
+    {
+      "order": 4,
+      "title": "Info",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e2140a5c-4d12-47db-a1ae-58464c8bae45"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "77cbbd06-ad2e-42b4-b987-47c1c602f42f",
+      "files": [
+        "Protokoll.bdoc",
+        "RAHK protokoll 76 13 06 16.pdf"
+      ]
+    }
+  ],
+  "uuid": "f557bd90-4b48-48bb-9789-68de82527c4c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f557bd90-4b48-48bb-9789-68de82527c4c)",
+  "source": "https://api.riigikogu.ee/api/volumes/f557bd90-4b48-48bb-9789-68de82527c4c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-06-01&endDate=2016-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
