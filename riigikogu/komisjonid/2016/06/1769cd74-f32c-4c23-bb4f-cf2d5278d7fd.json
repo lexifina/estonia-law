@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung teisipäev, 14.06.2016 14:00",
+  "sitting_time": "2016-06-14T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikaitsekomisjoni istungid istungjärkude vahelisel ajal",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0ac552c3-51af-4834-b1d2-35b09c84b525"
+    },
+    {
+      "order": 2,
+      "title": "Informatsioon julgeolekuolukorra arengutest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ac2880f6-d169-4683-beb9-0869524c9950"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "9674da3d-6fca-422d-901e-36de4380b359",
+      "files": [
+        "Protokoll.bdoc",
+        "Protokol_20160615.pdf"
+      ]
+    }
+  ],
+  "uuid": "1769cd74-f32c-4c23-bb4f-cf2d5278d7fd",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 1769cd74-f32c-4c23-bb4f-cf2d5278d7fd)",
+  "source": "https://api.riigikogu.ee/api/volumes/1769cd74-f32c-4c23-bb4f-cf2d5278d7fd",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-06-01&endDate=2016-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
