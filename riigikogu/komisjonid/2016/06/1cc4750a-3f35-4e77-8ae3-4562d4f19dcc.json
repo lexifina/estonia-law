@@ -1,0 +1,42 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 14.06.2016 14:00",
+  "sitting_time": "2016-06-14T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Uuringu „Eesti piima- ja sealihatootjate konkurentsivõime lähiturgude võrdluses“ metoodika tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c877526a-b0c4-4362-912c-64f89c25684f"
+    },
+    {
+      "order": 2,
+      "title": "Regionaalne tööhõive",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4e00018e-fadf-41de-96a9-c127bc835931"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "aaf9b36f-1314-4213-aeea-529c28e3c67e",
+      "files": [
+        "Protokol_20160701.pdf",
+        "Protokoll.bdoc",
+        "074 protokolli lisa 1_Konkurentsivõime uuringu tegevused_Värnik.pdf",
+        "074 protokolli lisa 2_Regionaalne tööhõive_Raagmaa.pptx"
+      ]
+    }
+  ],
+  "uuid": "1cc4750a-3f35-4e77-8ae3-4562d4f19dcc",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 1cc4750a-3f35-4e77-8ae3-4562d4f19dcc)",
+  "source": "https://api.riigikogu.ee/api/volumes/1cc4750a-3f35-4e77-8ae3-4562d4f19dcc",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-06-01&endDate=2016-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
