@@ -2,9 +2,11 @@
 
 (1) Isik, kes võis enne ehitusseadustiku jõustumist tegutseda ehitusalal ja kelle oskuste ja teadmiste kohta esitatakse ehitusseadustikuga täiendavaid nõudeid, võib jätkata oma majandus- ja kutsetegevust seni kehtinud eeltingimuste täitmise korral kuni järgmiste tähtpäevade saabumiseni:
 
-1) 2016. aasta 30. juunini projekteerimise, ehitusprojekti ekspertiisi, ehitusuuringute, ehitise auditi ning omanikujärelevalve tegevusalal;
+1) 2016. aasta 31. detsembrini arhitektuurse projekteerimise tegevusalal;
 
-2) 2018. aasta 30. juunini ehituse tegevusalal.
+2) 2017. aasta 31. detsembrini projekteerimise (välja arvatud arhitektuurse projekteerimise), ehitusprojekti ekspertiisi, ehitusuuringute, ehitise auditi ning omanikujärelevalve tegevusalal;
+
+3) 2018. aasta 30. juunini ehituse tegevusalal.
 
 (2) Käesoleva paragrahvi lõikes 1 nimetatud isik võib lõikes 1 sätestatud tähtpäevade möödumisel jätkata tegevust ehitusseadustikus sätestatud tingimustel.
 
