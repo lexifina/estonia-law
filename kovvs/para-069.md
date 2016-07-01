@@ -6,4 +6,4 @@
 
 (3) Valimissringkondades valituks osutunud kandidaatide asendusliikmeteks registreeritakse kandidaadid erakondadele ja valimisliitudele valimisringkondade kaupa, reastatult saadud häälte arvu järgi. Kui kandidaadid said valijatelt hääli võrdselt, siis paigutatakse ettepoole kandidaat, kes paiknes erakonna või valimisliidu ringkonnanimekirjas tagapool.
 
-(4) Kompensatsioonimandaadi alusel valituks osutunud kandidaatide asendusliikmeteks registreeritakse valimata jäänud kandidaadid erakonna või valimisliidu ülevallalises või -linnalises nimekirjas määratud järjestuses.
+(4) Kompensatsioonimandaadi alusel valituks osutunud kandidaatide asendusliikmeteks registreeritakse valimata jäänud kandidaadid erakonna või valimisliidu ülelinnalises nimekirjas määratud järjestuses.

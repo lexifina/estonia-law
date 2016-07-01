@@ -10,7 +10,7 @@
 
 2) kandidaatide ringkonnanimekirjad;
 
-2¹) kandidaatide ülevallalise või -linnalise nimekirja mitme valimisringkonnaga kohaliku omavalitsuse üksuses;
+2¹) Tallinnas lisaks kandidaatide ülelinnalise nimekirja;
 
 3) iga kandidaadi kandideerimisavalduse.
 

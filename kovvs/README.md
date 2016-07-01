@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/122012016008> (version in force from 2016-02-01)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/121062016007> (version in force from 2016-07-01)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -79,8 +79,8 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/122012016008> (version in force 
 | [§ 54¹](para-054b1.md) |  |
 | [§ 54²](para-054b2.md) | Elektrooniliselt antud häälte lugemine |
 | [§ 55](para-055.md) | Hääletamistulemuste kindlakstegemine valla ja linna valimiskomisjonis |
-| [§ 56](para-056.md) | Valimistulemuste kindlakstegemine ühe valimisringkonnaga kohaliku omavalitsuse üksuses |
-| [§ 56¹](para-056b1.md) | Valimistulemuste kindlakstegemine mitme valimisringkonnaga kohaliku omavalitsuse üksuses |
+| [§ 56](para-056.md) | Valimistulemuste kindlakstegemine |
+| [§ 56¹](para-056b1.md) | Valimistulemuste kindlakstegemine Tallinnas |
 | **9. peatükk VOLIKOGU TÄIENDAVATE VALIMISTE ERISUSED** | |
 | [§ 57](para-057.md) | Täiendavate valimiste erisused |
 | **9¹. peatükk UUE KOHALIKU OMAVALITSUSE ÜKSUSE VOLIKOGU VALIMISTE ERISUSED KORRALISTE VALIMISTE VAHELISEL PERIOODIL** | |
@@ -106,6 +106,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/122012016008> (version in force 
 | [§ 70](para-070.md) | Lisamandaatide registreerimine |
 | [§ 70¹](para-070b1.md) |  |
 | [§ 70²](para-070b2.md) | Hääletamissedelite ja valimisdokumentide säilitamine |
+| [§ 70³](para-070b3.md) | Vabariigi Valitsuse algatatud haldusterritoriaalse korralduse muutmise käigus valimistoimingute tegemise erisused haldusreformi teostamisel |
 | [§ 71](para-071.md) |  |
 | [§ 73](para-073.md) |  |
 | [§ 74](para-074.md) | Seaduse jõustumine |

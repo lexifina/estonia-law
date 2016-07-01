@@ -10,4 +10,4 @@
 
 4) käesoleva lõike punkti 3 alusel jaotamata jäänud mandaadid jaotatakse suurimate jääkide põhimõttel, lähtudes käesoleva lõike punktis 2 nimetatud tehete tulemusena saadud arvude murdosadest.
 
-(2) Mitme valimisringkonnaga kohaliku omavalitsuse üksuses jaotatakse pool mandaatidest valimisringkondade vahel võrdselt, arvestades põhimõtet, et ringkonnamandaatide arv on valimisringkondade arvuga jagunev väikseim täisarv, mis on vähemalt pool kõigist mandaatidest. Ülejäänud mandaadid jaotatakse käesoleva paragrahvi lõikes 1 ettenähtut järgides.
+(2) Tallinnas jaotatakse pool mandaatidest valimisringkondade vahel võrdselt, arvestades põhimõtet, et ringkonnamandaatide arv on valimisringkondade arvuga jagunev väikseim täisarv, mis on vähemalt pool kõigist mandaatidest. Ülejäänud mandaadid jaotatakse käesoleva paragrahvi lõikes 1 ettenähtut järgides, arvestades, et valijate koguarv jagatakse jagamata jäänud mandaatide arvuga.

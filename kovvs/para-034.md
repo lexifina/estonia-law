@@ -4,7 +4,7 @@
 
 1) kandidaatide ringkonnanimekirjad;
 
-2) kandidaatide ülevallalise või -linnalise nimekirja, kui kohaliku omavalitsuse üksuses on moodustatud rohkem kui üks valimisringkond.
+2) Tallinnas lisaks kandidaatide ülelinnalise nimekirja.
 
 (2) Registreerimiseks esitatud kandidaat peab olema käesoleva paragrahvi lõikes 1 nimetatud mõlemas nimekirjas.
 
@@ -16,4 +16,4 @@
 
 (6) Kandidaatide järjestuse nimekirjas määrab erakond või valimisliit.
 
-(7) Kandidaatide ringkonnanimekirjale ja kandidaatide ülevallalisele või -linnalisele nimekirjale kirjutavad alla erakonna või valimisliidu kõik volitatud esindajad.
+(7) Kandidaatide ringkonnanimekirjale ja kandidaatide ülelinnalisele nimekirjale kirjutavad alla erakonna või valimisliidu kõik volitatud esindajad.
