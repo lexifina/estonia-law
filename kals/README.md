@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/117122015040> (version in force from 2016-01-01)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/116062016009> (version in force from 2016-07-01)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -74,6 +74,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/117122015040> (version in force 
 | [§ 58](para-058.md) | Kaitseliidu liikme sotsiaalsete tagatiste alused |
 | [§ 59](para-059.md) | Ohutuse tagamine |
 | [§ 60](para-060.md) | Kaitseliidu liikme vigastuse ja hukkumise põhjuse kindlakstegemine |
+| [§ 60¹](para-060b1.md) | Püsiv töövõimetus |
 | [§ 61](para-061.md) | Hüvitis Kaitseliidu liikme vigastada saamise ja hukkumise korral |
 | [§ 62](para-062.md) | Hüvitise taotlemine |
 | [§ 63](para-063.md) | Hüvitise väljamaksmine |
@@ -120,6 +121,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/117122015040> (version in force 
 | [§ 96](para-096.md) | Varasema distsiplinaarsüüteo eest karistuse määramine |
 | [§ 97](para-097.md) | Toetuse maksmine Kaitseliidu liikme mittesüülise invaliidistumise ja hukkumise korral |
 | [§ 97¹](para-097b1.md) | Hüvitise maksmine Kaitseliidu liikme vigastada saamise korral |
+| [§ 97²](para-097b2.md) | Püsiva töövõimetusega isik |
 | [§ 98](para-098.md) | Kaitseliidu vara asendamine ja võõrandamine |
 | [§ 99](para-099.md) | Kollegiaalsete organite valitud liikmete volituste kehtivus |
 | [§ 100](para-100.md) | Rakendusaktide kehtivus |
