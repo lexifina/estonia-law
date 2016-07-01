@@ -4,7 +4,7 @@
 
 1) oht elule;
 
-2) tervisehäire, mis kestab vähemalt neli kuud või kui sellega kaasneb töövõime püsiv kaotus vähemalt 40 protsenti täistöövõimest;
+2) tervisehäire, mis kestab vähemalt neli kuud või kui sellega kaasneb osaline või puuduv töövõime;
 
 3) raske psüühikahäire;
 
