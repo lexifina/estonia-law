@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung reede, 22.07.2016 10:00",
+  "sitting_time": "2016-07-22T10:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 24.-25. juulil 2016 toimuval mitteametlikul ELi üldasjade nõukogu kohtumisel.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "08485074-fbb0-4336-85a1-549851800d5e"
+    },
+    {
+      "order": 2,
+      "title": "Seisukoha andmine: Euroopa Parlamendi ja nõukogu määruse eelnõu, milles käsitletakse postipakkide piiriülese kättetoimetamise teenuseid.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2e1af607-1228-4c26-9a06-58d5fde96dbe"
+    },
+    {
+      "order": 3,
+      "title": "Seisukoha andmine: Euroopa Komisjoni avalik konsultatsioonidokument, mis käsitleb idufirmade algatust.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f0e3c02e-e12e-41a7-865d-cf6d68ce8b6d"
+    },
+    {
+      "order": 4,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "42c09d67-3f42-4d83-b564-9ea0f5a02c53"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "4fd56b0e-ddce-4ab7-8e8b-cd240a93dfd8",
+      "files": [
+        "Protokoll 85_22.07.2016.pdf"
+      ]
+    }
+  ],
+  "uuid": "0eff8d96-9e39-49e7-8a79-1ab08feaf54d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0eff8d96-9e39-49e7-8a79-1ab08feaf54d)",
+  "source": "https://api.riigikogu.ee/api/volumes/0eff8d96-9e39-49e7-8a79-1ab08feaf54d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-07-01&endDate=2016-07-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
