@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni erakorraline istung esmaspäev, 25.07.2016 13:00",
+  "sitting_time": "2016-07-25T13:00:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Erakorralise istungi päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "18fee5c4-78fd-4ae0-82b9-48126a2a07e5"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade valitsuse tegevusest seoses riigivalitsemise reformiga",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c47bb699-2920-4550-9e7d-f57410ce7996"
+    },
+    {
+      "order": 3,
+      "title": "Leedu Seimi maaelukomisjoni kutse vastuvisiidile",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "59bd58a4-d7c5-4d85-af81-5b1b0ebfd5d6"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "9240b5df-9a4a-41a8-981e-9b16dcca1b14",
+      "files": [
+        "075 protokolli lisa_Riigireformist_250716.pptx",
+        "Protokol_20160824.pdf",
+        "Protokoll.bdoc"
+      ]
+    }
+  ],
+  "uuid": "8008a0ce-6f6c-46fe-b9e3-13f882a89e8f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8008a0ce-6f6c-46fe-b9e3-13f882a89e8f)",
+  "source": "https://api.riigikogu.ee/api/volumes/8008a0ce-6f6c-46fe-b9e3-13f882a89e8f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-07-01&endDate=2016-07-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
