@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 12.09.2016 13:00",
+  "sitting_time": "2016-09-12T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0a527704-332e-4065-bfee-a4bd99a91d6f"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade Riigikontrolli tegevusest ning edasisest tööplaanist",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ffb8a2a0-cc1e-4585-b0da-bad48c10be05"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "bae7fffc-a3ca-440d-84fe-f0234bd80146",
+      "files": [
+        "Protokoll nr 61. 12.09.2016.pdf"
+      ]
+    }
+  ],
+  "uuid": "24a1e764-0405-42a8-9443-fc35bb752ecf",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 24a1e764-0405-42a8-9443-fc35bb752ecf)",
+  "source": "https://api.riigikogu.ee/api/volumes/24a1e764-0405-42a8-9443-fc35bb752ecf",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-09-01&endDate=2016-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
