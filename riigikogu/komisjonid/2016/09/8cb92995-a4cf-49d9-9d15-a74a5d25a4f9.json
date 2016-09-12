@@ -1,0 +1,53 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 12.09.2016 11:00",
+  "sitting_time": "2016-09-12T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "db48eec0-dec7-436c-aa18-2565a625c13c"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud Euroopa Liidu ühise põllumajanduspoliitika rakendamise seaduse muutmise seaduse eelnõu (249 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cf82faad-a64f-4ca3-9b29-a5f4cb067eb3"
+    },
+    {
+      "order": 3,
+      "title": "Kohtumine MTÜ Eesti Külaliikumine Kodukant esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f35dcfd4-b454-4171-afd6-40af9e18422b"
+    },
+    {
+      "order": 4,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bcf217a0-83db-459d-87e3-15da71e7b672"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Maaelukomisjoni protokoll nr 76",
+      "uuid": "a4c315a4-14cd-4dc3-8539-319393fbec17",
+      "files": [
+        "Maaelukomisjoni_protokoll_nr_76.bdoc",
+        "Maaelukomisjoni_protokoll_nr_20160922.pdf",
+        "076 protokoll lisa.Kodukant.docx"
+      ]
+    }
+  ],
+  "uuid": "8cb92995-a4cf-49d9-9d15-a74a5d25a4f9",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8cb92995-a4cf-49d9-9d15-a74a5d25a4f9)",
+  "source": "https://api.riigikogu.ee/api/volumes/8cb92995-a4cf-49d9-9d15-a74a5d25a4f9",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-09-01&endDate=2016-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
