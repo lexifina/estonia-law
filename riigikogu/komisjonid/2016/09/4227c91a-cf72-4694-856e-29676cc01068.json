@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung esmaspäev, 12.09.2016 11:00",
+  "sitting_time": "2016-09-12T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f9c363fe-c828-44df-990c-2e21e33ad867"
+    },
+    {
+      "order": 2,
+      "title": "Sotsiaalmaksuseaduse, tulumaksuseaduse ja teiste seaduste muutmise seaduse muutmise seaduse eelnõu (235 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bbdb6d50-98b0-4bde-b744-3f444197262f"
+    },
+    {
+      "order": 3,
+      "title": "Info",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "69ac6c1e-b9d0-4acc-8393-e77c089d0da2"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "e03ba730-6cf2-4d99-9bba-6084e43439be",
+      "files": [
+        "Protokoll.bdoc",
+        "RAHK protokoll 77 12 09 16.pdf"
+      ]
+    }
+  ],
+  "uuid": "4227c91a-cf72-4694-856e-29676cc01068",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 4227c91a-cf72-4694-856e-29676cc01068)",
+  "source": "https://api.riigikogu.ee/api/volumes/4227c91a-cf72-4694-856e-29676cc01068",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-09-01&endDate=2016-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
