@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung teisipäev, 13.09.2016 14:00",
+  "sitting_time": "2016-09-13T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Informatsioon julgeolekuolukorra arengutest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dfcd08dc-04c1-458f-a898-543e4eb0c638"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "83054179-8d61-4ac5-bd2e-4c03ced86110"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 13.09.2016",
+      "uuid": "6c75714b-e039-4706-9432-c1b3f9058b68",
+      "files": [
+        "Protokoll_13.09.2016.bdoc",
+        "Protokoll_20160914.pdf"
+      ]
+    }
+  ],
+  "uuid": "3256f4f9-3817-4b81-a46e-f462018633af",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3256f4f9-3817-4b81-a46e-f462018633af)",
+  "source": "https://api.riigikogu.ee/api/volumes/3256f4f9-3817-4b81-a46e-f462018633af",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-09-01&endDate=2016-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
