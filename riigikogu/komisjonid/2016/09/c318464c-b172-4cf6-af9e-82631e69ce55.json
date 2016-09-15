@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung neljapäev, 15.09.2016 13:00",
+  "sitting_time": "2016-09-15T13:04:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade Eesti tegevustest algaval ÜRO 71. Peaassambleel.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0fe7d3c9-3a87-49e0-8711-93a985b5240a"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "31c37745-bc27-41e1-9095-3cf0a61a467d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 15.09.2016",
+      "uuid": "9bdbde09-ddb0-489c-8d46-787268ab80fe",
+      "files": [
+        "Protokoll_20161121.pdf",
+        "Protokoll_15.09.2016.bdoc"
+      ]
+    }
+  ],
+  "uuid": "c318464c-b172-4cf6-af9e-82631e69ce55",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c318464c-b172-4cf6-af9e-82631e69ce55)",
+  "source": "https://api.riigikogu.ee/api/volumes/c318464c-b172-4cf6-af9e-82631e69ce55",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-09-01&endDate=2016-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
