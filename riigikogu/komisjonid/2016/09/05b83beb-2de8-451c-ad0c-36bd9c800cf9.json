@@ -1,0 +1,53 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 19.09.2016 11:00",
+  "sitting_time": "2016-09-19T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ccd4ce98-dc4b-4b35-bbca-aff964fd63bc"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud mahepõllumajanduse seaduse muutmise seaduse eelnõu (282 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6b729806-c1aa-4b3d-bfbf-92d30063e847"
+    },
+    {
+      "order": 3,
+      "title": "Kohtumine Maaeluministeeriumi kantsler Illar Lemettiga",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5a8ba903-64cd-472f-afbb-9a8ddde68964"
+    },
+    {
+      "order": 4,
+      "title": "Euroopa Liidu ühise põllumajanduspoliitika rakendamise seaduse muutmise seaduse eelnõu (249 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fc97a398-810f-4be6-ba0b-24b1026d6f1b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "1a4af78d-9cf7-4426-a956-b8e7d02bb929",
+      "files": [
+        "Protokoll.bdoc",
+        "077 protokolli lisa_Maaelukomisjonfin_19 09 2016.pptx",
+        "Protokol_20160922.pdf"
+      ]
+    }
+  ],
+  "uuid": "05b83beb-2de8-451c-ad0c-36bd9c800cf9",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 05b83beb-2de8-451c-ad0c-36bd9c800cf9)",
+  "source": "https://api.riigikogu.ee/api/volumes/05b83beb-2de8-451c-ad0c-36bd9c800cf9",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-09-01&endDate=2016-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
