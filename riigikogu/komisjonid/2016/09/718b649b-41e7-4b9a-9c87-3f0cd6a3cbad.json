@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni väljasõiduistung teisipäev, 20.09.2016 14:00",
+  "sitting_time": "2016-09-20T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "NATO Küberkaitsekoostöö Keskuse tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "50acd8ec-5f39-4e9f-a958-6cd94871e059"
+    },
+    {
+      "order": 2,
+      "title": "Riigi Infosüsteemi Ameti  tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3b67a5ae-2c91-42c7-a7be-f38dfe774359"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "306a4634-88fa-48f4-9d17-bc6f27a665e1",
+      "files": [
+        "Protokoll.bdoc",
+        "Protokol_20160921.pdf"
+      ]
+    }
+  ],
+  "uuid": "718b649b-41e7-4b9a-9c87-3f0cd6a3cbad",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 718b649b-41e7-4b9a-9c87-3f0cd6a3cbad)",
+  "source": "https://api.riigikogu.ee/api/volumes/718b649b-41e7-4b9a-9c87-3f0cd6a3cbad",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-09-01&endDate=2016-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
