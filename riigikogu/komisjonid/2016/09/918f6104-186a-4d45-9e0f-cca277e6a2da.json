@@ -1,0 +1,44 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 26.09.2016 11:00",
+  "sitting_time": "2016-09-26T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "69d7bf9b-d080-4d18-96f3-418da2df080b"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade olukorrast seoses sigade Aafrika katku levikuga",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0a76d777-4b2a-4cda-b544-c127a00b504a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "f8926cdb-b858-407b-852f-f54ee8f26731",
+      "files": [
+        "079 protokolli lisa_Jahimeeste Selts.pptx",
+        "079 protokoll Eesti Seakasvatajate Liit.pptx",
+        "079 protokoll VTA.ppt",
+        "Protokoll.bdoc",
+        "FW Seakasvatajate Liidu ettepanekud.msg",
+        "Protokol_20161013.pdf"
+      ]
+    }
+  ],
+  "uuid": "918f6104-186a-4d45-9e0f-cca277e6a2da",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 918f6104-186a-4d45-9e0f-cca277e6a2da)",
+  "source": "https://api.riigikogu.ee/api/volumes/918f6104-186a-4d45-9e0f-cca277e6a2da",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-09-01&endDate=2016-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
