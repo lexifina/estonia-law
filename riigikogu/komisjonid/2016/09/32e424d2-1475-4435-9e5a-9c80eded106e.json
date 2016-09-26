@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 26.09.2016 13:00",
+  "sitting_time": "2016-09-26T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d4222029-1fff-4e89-bed2-97fb666d1471"
+    },
+    {
+      "order": 2,
+      "title": "Arutelu teemal sõidukite rentimine, soetamine ja kasutamine ministeeriumides ja kohalikes omavalitsustes",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "74e58b76-c855-4136-8c84-4359cea23a65"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "6dd2d592-512c-4466-9cc6-537000c6a0f1",
+      "files": [
+        "Protokoll nr 65. 26.09.2016.pdf"
+      ]
+    }
+  ],
+  "uuid": "32e424d2-1475-4435-9e5a-9c80eded106e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 32e424d2-1475-4435-9e5a-9c80eded106e)",
+  "source": "https://api.riigikogu.ee/api/volumes/32e424d2-1475-4435-9e5a-9c80eded106e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-09-01&endDate=2016-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
