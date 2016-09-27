@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung teisipäev, 27.09.2016 14:00",
+  "sitting_time": "2016-09-27T14:03:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti Vabariigi suursaadik, alaline esindaja Euroopa Liidu juures.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "119df89f-588d-4e14-a0c9-cb39a812a7a5"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade Eesti välisesinduste turvalisusest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4803a2a7-f56b-4943-8583-7fb8b4431a07"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "24c50984-595b-4ed3-ac4a-e33992909b68"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 27.09.2016",
+      "uuid": "b4a917ee-bcb4-4888-9d5a-db2e155892e6",
+      "files": [
+        "Protokoll_20161121.pdf",
+        "Protokoll_27.09.2016.bdoc"
+      ]
+    }
+  ],
+  "uuid": "9fe8e2d1-f4e4-444f-a7fb-e8936f3914da",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9fe8e2d1-f4e4-444f-a7fb-e8936f3914da)",
+  "source": "https://api.riigikogu.ee/api/volumes/9fe8e2d1-f4e4-444f-a7fb-e8936f3914da",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-09-01&endDate=2016-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
