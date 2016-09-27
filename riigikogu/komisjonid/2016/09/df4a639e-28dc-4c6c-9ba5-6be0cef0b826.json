@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung teisipäev, 27.09.2016 kell 14.00",
+  "sitting_time": "2016-09-27T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riikliku vanaduspensioni jätkusuutlikkus.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f77332c2-9d87-4bdc-af6e-32940f8017d7"
+    },
+    {
+      "order": 2,
+      "title": "Ohvriabi seaduse muutmise seaduse eelnõu (236 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8cd8f2ec-3bef-42b2-858d-005addd2ba93"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "27.09.2016 istungi protokoll",
+      "uuid": "52c952d2-d5fa-4cee-8033-b9404e818488",
+      "files": [
+        "27.09.2016 istungi protokoll.pdf",
+        "27.09.2016_istungi_protokoll.bdoc"
+      ]
+    }
+  ],
+  "uuid": "df4a639e-28dc-4c6c-9ba5-6be0cef0b826",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid df4a639e-28dc-4c6c-9ba5-6be0cef0b826)",
+  "source": "https://api.riigikogu.ee/api/volumes/df4a639e-28dc-4c6c-9ba5-6be0cef0b826",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-09-01&endDate=2016-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
