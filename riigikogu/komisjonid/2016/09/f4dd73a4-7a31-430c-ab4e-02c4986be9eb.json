@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung teisipäev, 27.09.2016 14:00",
+  "sitting_time": "2016-09-27T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "752dc561-6509-4576-a3f7-70fd2c8e2831"
+    },
+    {
+      "order": 2,
+      "title": "2016. aasta riigieelarve seaduse muutmise seaduse eelnõu (296 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d693f27b-484a-457a-8b04-487fe86f32bb"
+    },
+    {
+      "order": 3,
+      "title": "Sotsiaalmaksuseaduse muutmise seaduse eelnõu (253 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "65e18889-34db-4c92-b483-4b12eea8fcfc"
+    },
+    {
+      "order": 4,
+      "title": "Info",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8eb40bb8-77ce-48b9-9337-1e586e3f9c85"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "52d0caa7-7861-497c-afdb-58b5215a97f3",
+      "files": [
+        "Protokoll.bdoc",
+        "RAHK protokoll 80 27 09 16.pdf"
+      ]
+    }
+  ],
+  "uuid": "f4dd73a4-7a31-430c-ab4e-02c4986be9eb",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f4dd73a4-7a31-430c-ab4e-02c4986be9eb)",
+  "source": "https://api.riigikogu.ee/api/volumes/f4dd73a4-7a31-430c-ab4e-02c4986be9eb",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-09-01&endDate=2016-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
