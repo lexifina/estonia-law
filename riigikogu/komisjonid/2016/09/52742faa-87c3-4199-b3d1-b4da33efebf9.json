@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung kolmapäev, 28.09.2016 09:30",
+  "sitting_time": "2016-09-28T09:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikontrolli kontrolliaruande „Sotsiaalministeeriumi 2015. aasta raamatupidamise aastaaruande õigsus ja tehingute seaduslikkus“ arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2c300285-b2e7-421c-9045-fbe51eebf714"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade Sotsiaalministeeriumi ja Eesti Haigekassa tegevustest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "40bce49b-9597-4160-a852-d64dc4400db0"
+    },
+    {
+      "order": 3,
+      "title": "Ülevaade e-tervise valdkonnast",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e4d2a0f8-92ae-4647-ac4c-218369ef5454"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "888aa12d-d049-49d1-831e-d18c6118cd1e",
+      "files": [
+        "Ptotokoll nr 66. 28.08.2016.pdf"
+      ]
+    }
+  ],
+  "uuid": "52742faa-87c3-4199-b3d1-b4da33efebf9",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 52742faa-87c3-4199-b3d1-b4da33efebf9)",
+  "source": "https://api.riigikogu.ee/api/volumes/52742faa-87c3-4199-b3d1-b4da33efebf9",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-09-01&endDate=2016-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
