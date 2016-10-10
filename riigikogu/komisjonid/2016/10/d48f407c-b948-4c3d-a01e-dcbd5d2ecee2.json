@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 10.10.2016 13:00",
+  "sitting_time": "2016-10-10T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "182ec1e1-d416-4eb5-9175-d1bf9c74ad3b"
+    },
+    {
+      "order": 2,
+      "title": "Kommunikatsiooniteemaline arutelu. Kohtumine Riigikogu avalike suhete osakonna esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b6268d39-bd40-4c9d-8b58-f8eba12351ae"
+    },
+    {
+      "order": 3,
+      "title": "Riigikontrolli kontrolliaruande tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "af9dea65-9c04-4205-9177-3d28c530802f"
+    },
+    {
+      "order": 4,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dbc60d39-3608-49a3-a0a8-b891338cad3e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "09d35477-8c97-43a2-ae76-51a41fdda599",
+      "files": [
+        "Protokoll nr 67. 10.10.2016.pdf"
+      ]
+    }
+  ],
+  "uuid": "d48f407c-b948-4c3d-a01e-dcbd5d2ecee2",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d48f407c-b948-4c3d-a01e-dcbd5d2ecee2)",
+  "source": "https://api.riigikogu.ee/api/volumes/d48f407c-b948-4c3d-a01e-dcbd5d2ecee2",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-10-01&endDate=2016-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
