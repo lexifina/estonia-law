@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 10.10.2016 11:00",
+  "sitting_time": "2016-10-10T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "939a6824-573b-4fbd-9f1d-e893fc8e132d"
+    },
+    {
+      "order": 2,
+      "title": "Maaelukomisjoni tööplaanid",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3f4172ca-a536-441c-bee1-6cb46928932c"
+    },
+    {
+      "order": 3,
+      "title": "Ülevaade Põllumajandusameti tegevusest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2f0e1e01-b014-4e45-aff5-72df81b016a6"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "9938f039-27fc-455e-8db8-360e8df3b530",
+      "files": [
+        "Protokol_20161012.pdf",
+        "Protokoll.bdoc",
+        "081 protokoll lisa Põllumajandusamet.pptx"
+      ]
+    }
+  ],
+  "uuid": "2d688feb-3478-4572-8eca-51ebfd832cef",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2d688feb-3478-4572-8eca-51ebfd832cef)",
+  "source": "https://api.riigikogu.ee/api/volumes/2d688feb-3478-4572-8eca-51ebfd832cef",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-10-01&endDate=2016-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
