@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung teisipäev, 11.10.2016 14:00",
+  "sitting_time": "2016-10-11T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigi 2017. aasta eelarve seaduse (303 SE) eelnõu Kaitseministeeriumi valitsemisala",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fd1b65cf-f72f-4eb4-bd6b-40c7077d7d89"
+    },
+    {
+      "order": 2,
+      "title": "Olukorrast Ukrainas",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2581701a-e2dc-4cc5-8891-d945e3e25527"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "68516dcf-0410-4f70-b0ca-06d75572c6c4",
+      "files": [
+        "Protokoll.bdoc",
+        "Protokol_20161012.pdf"
+      ]
+    }
+  ],
+  "uuid": "cbf4a314-d780-4a8e-8ddb-422157f802ba",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid cbf4a314-d780-4a8e-8ddb-422157f802ba)",
+  "source": "https://api.riigikogu.ee/api/volumes/cbf4a314-d780-4a8e-8ddb-422157f802ba",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-10-01&endDate=2016-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
