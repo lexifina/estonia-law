@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung teisipäev, 11.10.2016 14:00",
+  "sitting_time": "2016-10-11T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud Riigikogu otsuse \"Riigi 2015. aasta majandusaasta koondaruande kinnitamine\" (298 OE). Esimene lugemine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8785d6d1-57bf-44f8-bdaa-88c4250a4ddb"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud 2017. aasta riigieelarve seaduse eelnõu (303 SE). Osaleb majandus- ja taristuminister Kristen Michal.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bba083ae-83a8-4663-9338-cc0277dadff2"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "1fcc14ab-2c2b-4282-9e7f-8808071e71b3",
+      "files": [
+        "RAHK protokoll 83 11 10 16.pdf",
+        "Protokoll.bdoc"
+      ]
+    }
+  ],
+  "uuid": "7bb1c85e-375d-4644-bf57-f36f703a00bc",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7bb1c85e-375d-4644-bf57-f36f703a00bc)",
+  "source": "https://api.riigikogu.ee/api/volumes/7bb1c85e-375d-4644-bf57-f36f703a00bc",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-10-01&endDate=2016-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
