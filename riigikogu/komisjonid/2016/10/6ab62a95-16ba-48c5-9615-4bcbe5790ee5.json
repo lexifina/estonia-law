@@ -1,0 +1,35 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung kolmapäev, 12.10.2016 09:00",
+  "sitting_time": "2016-10-12T09:05:00",
+  "sitting_type": "UHISISTUNG",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade Ruhnu elektritootmise arendamisest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "79d79ab0-a770-445a-a984-f8f00ec021ec"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "f53f37e0-f717-4777-b4ad-ccf5b14e5b09",
+      "files": [
+        "Protokol_20161013.pdf",
+        "082 protokoll lisa Ruhnu taastuvenergialahendus.pptx",
+        "Protokoll.bdoc"
+      ]
+    }
+  ],
+  "uuid": "6ab62a95-16ba-48c5-9615-4bcbe5790ee5",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 6ab62a95-16ba-48c5-9615-4bcbe5790ee5)",
+  "source": "https://api.riigikogu.ee/api/volumes/6ab62a95-16ba-48c5-9615-4bcbe5790ee5",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-10-01&endDate=2016-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
