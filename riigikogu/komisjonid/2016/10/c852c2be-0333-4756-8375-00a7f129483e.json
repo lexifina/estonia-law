@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni väljasõiduistung neljapäev, 13.10.2016 12:00",
+  "sitting_time": "2016-10-13T12:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Veeteede Ameti külastamine, mereseire",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6042ef00-ea41-48be-8b07-0ee38933c57f"
+    },
+    {
+      "order": 2,
+      "title": "PPA Merevalvekeskuse külastamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0ca1bc1e-8556-4764-a0d3-9806beb4b356"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "3afb4393-912d-4ccb-81ee-80d72a985ba9",
+      "files": [
+        "Protokol_20161014.pdf",
+        "Protokoll.bdoc"
+      ]
+    }
+  ],
+  "uuid": "c852c2be-0333-4756-8375-00a7f129483e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c852c2be-0333-4756-8375-00a7f129483e)",
+  "source": "https://api.riigikogu.ee/api/volumes/c852c2be-0333-4756-8375-00a7f129483e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-10-01&endDate=2016-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
