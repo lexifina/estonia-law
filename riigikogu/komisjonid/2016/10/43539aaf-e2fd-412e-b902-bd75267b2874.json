@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni väljasõiduistung esmaspäev, 17.10.2016 11:00",
+  "sitting_time": "2016-10-17T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2ebd982f-25a2-467e-8a6a-20deb9dd9a77"
+    },
+    {
+      "order": 2,
+      "title": "Teabeameti külastamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6a84389b-cf4b-43c0-bcf6-44d422dae04e"
+    },
+    {
+      "order": 3,
+      "title": "Informatsioon julgeolekuolukorra arengutest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b81f473e-11b2-45aa-91cf-c105d01666de"
+    },
+    {
+      "order": 4,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0554014e-effd-4ad0-b3f6-b83e2aa103cc"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "c17f059b-5192-48e1-88ab-8f7af4b76cfc",
+      "files": [
+        "Protokoll.bdoc",
+        "Protokol_20161017.pdf"
+      ]
+    }
+  ],
+  "uuid": "43539aaf-e2fd-412e-b902-bd75267b2874",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 43539aaf-e2fd-412e-b902-bd75267b2874)",
+  "source": "https://api.riigikogu.ee/api/volumes/43539aaf-e2fd-412e-b902-bd75267b2874",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-10-01&endDate=2016-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
