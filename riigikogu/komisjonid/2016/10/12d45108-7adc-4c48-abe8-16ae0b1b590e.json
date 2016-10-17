@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 17.10.2016 11:00",
+  "sitting_time": "2016-10-17T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "63bfdda5-c54b-46c9-b96a-57c7e222b6fd"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine maaeluminister Urmas Kruusega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "13a0dacf-668b-4fe5-a7ff-202b932d0b2b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "2f662a94-1973-4bc4-a8ef-1e0de85437d2",
+      "files": [
+        "Protokol_20161019.pdf",
+        "Protokoll.bdoc",
+        "083 protokoll lisa maaeluminister 17.10.2016.pptx"
+      ]
+    }
+  ],
+  "uuid": "12d45108-7adc-4c48-abe8-16ae0b1b590e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 12d45108-7adc-4c48-abe8-16ae0b1b590e)",
+  "source": "https://api.riigikogu.ee/api/volumes/12d45108-7adc-4c48-abe8-16ae0b1b590e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-10-01&endDate=2016-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
