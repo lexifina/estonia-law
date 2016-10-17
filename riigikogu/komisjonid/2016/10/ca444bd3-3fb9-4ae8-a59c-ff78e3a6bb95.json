@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 17.10.2016 13:00",
+  "sitting_time": "2016-10-17T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "22bbf761-1a20-40bd-b981-5f36d49f5908"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli kontrolliaruande „Avalike e-teenuste kasutatavus“ arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "05dac545-2c7f-4d6e-943b-bbc09034722b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "e09be37a-5082-47f8-a847-5289d05f901a",
+      "files": [
+        "Protokoll nr 69. 16.10.2016.pdf"
+      ]
+    }
+  ],
+  "uuid": "ca444bd3-3fb9-4ae8-a59c-ff78e3a6bb95",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ca444bd3-3fb9-4ae8-a59c-ff78e3a6bb95)",
+  "source": "https://api.riigikogu.ee/api/volumes/ca444bd3-3fb9-4ae8-a59c-ff78e3a6bb95",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-10-01&endDate=2016-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
