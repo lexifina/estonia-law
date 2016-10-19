@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung kolmapäev, 19.10.2016 09:00",
+  "sitting_time": "2016-10-19T09:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikontrolli kontrolliaruande tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "53a195f0-5e16-443b-9ab6-612be41b63a5"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "03802e3e-4191-4274-917a-9cd513b1c94c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "39576827-1fb3-4a60-a96f-cf0cb3303b9e",
+      "files": [
+        "Protokoll nr 70. 19.10.2016.pdf"
+      ]
+    }
+  ],
+  "uuid": "40f5f655-9b96-4097-90b1-48af4c07cbca",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 40f5f655-9b96-4097-90b1-48af4c07cbca)",
+  "source": "https://api.riigikogu.ee/api/volumes/40f5f655-9b96-4097-90b1-48af4c07cbca",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-10-01&endDate=2016-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
