@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung neljapäev, 20.10.2016 13:00",
+  "sitting_time": "2016-10-20T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Informatsioon julgeolekuolukorra arengutest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "517f8d81-b517-4770-8598-224cbd4bd89d"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1d7f4bb5-1608-4c84-b0dd-f1b5c5796b91"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 20.10.2016",
+      "uuid": "e98ff30f-ec2d-46f9-a357-92a9e567252a",
+      "files": [
+        "Protokoll_20161026.pdf",
+        "Protokoll_20.10.2016.bdoc"
+      ]
+    }
+  ],
+  "uuid": "7f2eff82-7785-4c50-b8ad-dc5e98dda9cb",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7f2eff82-7785-4c50-b8ad-dc5e98dda9cb)",
+  "source": "https://api.riigikogu.ee/api/volumes/7f2eff82-7785-4c50-b8ad-dc5e98dda9cb",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-10-01&endDate=2016-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
