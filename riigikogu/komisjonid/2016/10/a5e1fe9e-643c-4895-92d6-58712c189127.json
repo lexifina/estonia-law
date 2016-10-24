@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 24.10.2016 11:00",
+  "sitting_time": "2016-10-24T11:04:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f39ea02f-497c-4820-b9b5-16400ca4feb4"
+    },
+    {
+      "order": 2,
+      "title": "Autonoomsed elektrisüsteemid ja elektriga varustatus maapiirkonnas",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5d882d86-bf1d-4731-abbf-c12c597b4832"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "97dd739d-4378-46ff-a26c-c5028a26ca3c",
+      "files": [
+        "Protokol_20161109.pdf",
+        "Protokoll.bdoc"
+      ]
+    }
+  ],
+  "uuid": "a5e1fe9e-643c-4895-92d6-58712c189127",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a5e1fe9e-643c-4895-92d6-58712c189127)",
+  "source": "https://api.riigikogu.ee/api/volumes/a5e1fe9e-643c-4895-92d6-58712c189127",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-10-01&endDate=2016-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
