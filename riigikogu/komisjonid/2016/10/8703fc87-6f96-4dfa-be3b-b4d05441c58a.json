@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung esmaspäev, 24.10.2016 13:30",
+  "sitting_time": "2016-10-24T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kontrollikoja energiatõhususe audit.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a0ea19e0-8a3b-4d90-937f-29438a0240f8"
+    },
+    {
+      "order": 2,
+      "title": "Seisukoha andmine: Euroopa Komisjoni teatis \"Euroopa kübervastupidavusvõime süsteemi tugevdamine ning konkurentsivõimelise ja uuendusliku küberjulgeolekutööstuse soodustamine\" (COM(2016) 410).",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "73643fb1-b721-42a5-9ed6-4af02e196be9"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "377f81a7-20f1-4f24-b095-6b986ec2410a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "05d734c5-2b78-4a0f-aae8-a44dcad85c64",
+      "files": [
+        "Protokoll 100_24.10.2016.pdf"
+      ]
+    }
+  ],
+  "uuid": "8703fc87-6f96-4dfa-be3b-b4d05441c58a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8703fc87-6f96-4dfa-be3b-b4d05441c58a)",
+  "source": "https://api.riigikogu.ee/api/volumes/8703fc87-6f96-4dfa-be3b-b4d05441c58a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-10-01&endDate=2016-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
