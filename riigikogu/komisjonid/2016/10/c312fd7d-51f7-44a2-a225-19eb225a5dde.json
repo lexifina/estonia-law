@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung esmaspäev, 24.10.2016 11:00",
+  "sitting_time": "2016-10-24T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "52d84e1a-1de5-4e15-8fb7-4419dbbe98c0"
+    },
+    {
+      "order": 2,
+      "title": "Ühisistung väliskomisjoniga: ülevaade arengutest Poolas ning Eesti ja Poola kahepoolsetest suhetest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d87f3925-e782-4002-ae98-9cc0ab8e6e07"
+    },
+    {
+      "order": 3,
+      "title": "Ühisistung väliskomisjoniga:  Eesti seisukohad 26.-27. oktoobril 2016 toimuval NATO kaitseministrite kohtumisel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ccd8db4f-1f42-46f2-a41c-1745ef61f90e"
+    },
+    {
+      "order": 4,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a8899fc9-ac22-420f-b2be-ab0d9daeaf43"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "5f481035-adc8-4902-9b26-9fd5fc860f82",
+      "files": [
+        "Protokoll.bdoc",
+        "Protokol_20161110.pdf"
+      ]
+    }
+  ],
+  "uuid": "c312fd7d-51f7-44a2-a225-19eb225a5dde",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c312fd7d-51f7-44a2-a225-19eb225a5dde)",
+  "source": "https://api.riigikogu.ee/api/volumes/c312fd7d-51f7-44a2-a225-19eb225a5dde",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-10-01&endDate=2016-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
