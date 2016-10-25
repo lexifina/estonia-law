@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung teisipäev, 25.10.2016 14:00",
+  "sitting_time": "2016-10-25T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Õppuse \"Kevadtorm 2016\" ja \"Läänetorm 2016\" reservväelaste tagasiside küsitluse tulemuste tutvustamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "aafc2c63-dca6-4463-8964-8290c2f2f330"
+    },
+    {
+      "order": 2,
+      "title": "Komisjoni arutelu Eesti mereseirest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8e73f2a2-d517-4c03-ba8c-928548a517c9"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "7ad3d204-1a89-4edf-bf27-554259896f6d",
+      "files": [
+        "Protokoll.bdoc",
+        "Protokol_20161027.pdf",
+        "Esitlus 25-10-16.pdf"
+      ]
+    }
+  ],
+  "uuid": "036770a6-0648-4aef-817b-702891843731",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 036770a6-0648-4aef-817b-702891843731)",
+  "source": "https://api.riigikogu.ee/api/volumes/036770a6-0648-4aef-817b-702891843731",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-10-01&endDate=2016-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
