@@ -1,0 +1,54 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung teisipäev, 25.10.2016 14:00",
+  "sitting_time": "2016-10-25T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Elektrituruseaduse muutmise seaduse eelnõu (290 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "326268bc-b119-456d-bdfe-e1a8d4826f31"
+    },
+    {
+      "order": 2,
+      "title": "MKM-i valitsemisala 2017.aasta eelarve tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0de66045-eda1-4d84-860d-fb487b53ac93"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "df4a65af-c0e5-455a-88e3-097be53bd4ac"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "25.10.2016 protokoll_allkirjastatud paberkandjal",
+      "uuid": "8111129d-56c0-419b-9881-894cf59be5d8",
+      "files": [
+        "Riigikogu majanduskomisjoni istung nr 95.pdf"
+      ]
+    },
+    {
+      "title": "Protokoll",
+      "uuid": "9e2559ad-452e-4956-b41e-64f6b6ff764a",
+      "files": [
+        "Protokoll.bdoc",
+        "Protokol_20161110.pdf",
+        "MKM val ala 2017  a eelarve (eelnõu) presentatsioon (oktoober 2016).ppt"
+      ]
+    }
+  ],
+  "uuid": "4a31333d-61c8-4d93-a730-b055d9f57433",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 4a31333d-61c8-4d93-a730-b055d9f57433)",
+  "source": "https://api.riigikogu.ee/api/volumes/4a31333d-61c8-4d93-a730-b055d9f57433",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-10-01&endDate=2016-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
