@@ -6,6 +6,6 @@
 
 (3) Pärast valija isiku tuvastamist käesoleva paragrahvi lõikes 2 sätestatud korras kuvatakse valijale tema elukohajärgse valimisringkonna kandidaatide koondnimekiri.
 
-(4) Valija märgistab oma elukohajärgse valimisringkonna selle kandidaadi, kelle poolt ta hääletab. Elektrooniliseks hääletamiseks kasutatav rakendus salastab valija hääle häälte salastamise võtmega. Valija kinnitab hääletamist digitaalallkirja seaduse nõuete kohase digitaalallkirjaga.
+(4) Valija märgistab oma elukohajärgse valimisringkonna selle kandidaadi, kelle poolt ta hääletab. Elektrooniliseks hääletamiseks kasutatav rakendus salastab valija hääle häälte salastamise võtmega. Valija kinnitab hääletamist e-identimise ja e-tehingute usaldusteenuste seaduse nõuete kohase digitaalallkirjaga.
 
 (5) Valija saab pärast hääletamise kinnitamist teate hääle vastuvõtmise kohta.
