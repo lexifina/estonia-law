@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung neljapäev, 27.10.2016 12:00",
+  "sitting_time": "2016-10-27T12:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade Ameerika Ühendriikide presidendi valimistest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6075c4e6-9e82-4f95-8d3a-3be5c37d1e7c"
+    },
+    {
+      "order": 2,
+      "title": "ÜRO juhitava rahvusvahelise rahuvalvemissiooni UNIFIL (United Nations Interim Force in Lebanon) külastamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3b67e104-23fc-4ca0-893b-440a01c5792d"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6f1e401c-9cab-4ff7-88f5-89d1d8b77777"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "a57df9dc-0fc5-412e-ad6e-ae011ea39c4e",
+      "files": [
+        "Protokoll.bdoc",
+        "Protokol_20161028.pdf"
+      ]
+    }
+  ],
+  "uuid": "87a7856a-50b1-44a0-97fd-59d6c36f4cba",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 87a7856a-50b1-44a0-97fd-59d6c36f4cba)",
+  "source": "https://api.riigikogu.ee/api/volumes/87a7856a-50b1-44a0-97fd-59d6c36f4cba",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-10-01&endDate=2016-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
