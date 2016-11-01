@@ -48,6 +48,6 @@
 
 (6) Keskkonnaloa taotlus esitatakse ühes käitises või asukohas tehtavate tegevuste jaoks koos.
 
-(7) Keskkonnaloa taotlusele esitatavad täpsustatud nõuded ja taotluse vormi, samuti keskkonnaloa muutmise taotluse vormi
+(7) Keskkonnaloa taotlusele esitatavad täpsustatud nõuded ja taotluse vormi, samuti keskkonnaloa muutmise taotluse vormi kehtestab
 
-.
+määrusega.
