@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 7.11.2016 13:00",
+  "sitting_time": "2016-11-07T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2f1c67af-ff03-473d-ad7a-0109a125a373"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli kontrolliaruande „Riigi tegevus riigi kinnisvara haldamise tsentraliseerimisel“ arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7f3b25db-0c02-42de-862e-0964e8e11ddb"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "abdf66ba-af4a-4b48-82ea-ab7ba41c564f",
+      "files": [
+        "Protokoll nr 73. 07.11.2016.pdf"
+      ]
+    }
+  ],
+  "uuid": "26296657-b774-4956-b63c-b7e72893d5e2",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 26296657-b774-4956-b63c-b7e72893d5e2)",
+  "source": "https://api.riigikogu.ee/api/volumes/26296657-b774-4956-b63c-b7e72893d5e2",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-11-01&endDate=2016-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
