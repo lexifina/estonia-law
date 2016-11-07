@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung esmaspäev, 7.11.2016 11:00",
+  "sitting_time": "2016-11-07T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1c8109d0-feec-4ead-b2d8-8be61062282c"
+    },
+    {
+      "order": 2,
+      "title": "Rahvastikuregistri kannete õigusraamistik",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "51585163-377c-430f-a0e0-a5b280210719"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6fcce664-81a6-4202-aea3-beed9d508f69"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "98329ed1-0d3c-4457-9c27-e4380d405300",
+      "files": [
+        "img-222124504-0001.pdf",
+        "ÕIGK 07.11.16 protokoll.pdf"
+      ]
+    }
+  ],
+  "uuid": "fc7581a6-99a6-4bf8-9551-b03a14e117b4",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid fc7581a6-99a6-4bf8-9551-b03a14e117b4)",
+  "source": "https://api.riigikogu.ee/api/volumes/fc7581a6-99a6-4bf8-9551-b03a14e117b4",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-11-01&endDate=2016-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
