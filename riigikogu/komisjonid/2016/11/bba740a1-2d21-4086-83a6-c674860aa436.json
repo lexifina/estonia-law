@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 7.11.2016 11:00",
+  "sitting_time": "2016-11-07T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ce2bd1a6-3b2f-4280-9bb1-2790f620264f"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine riigihalduse minister Arto Aasaga",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9fdc1835-5789-4538-a6c1-2e8a37c65955"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "79957c6b-a760-47ea-b006-955cfb732c3a",
+      "files": [
+        "Protokol_20161110.pdf",
+        "Protokoll.bdoc"
+      ]
+    }
+  ],
+  "uuid": "bba740a1-2d21-4086-83a6-c674860aa436",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid bba740a1-2d21-4086-83a6-c674860aa436)",
+  "source": "https://api.riigikogu.ee/api/volumes/bba740a1-2d21-4086-83a6-c674860aa436",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-11-01&endDate=2016-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
