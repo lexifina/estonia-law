@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung esmaspäev, 14.11.2016 11:00",
+  "sitting_time": "2016-11-14T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "367247b7-36ad-4c57-a9d6-5913636e9179"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade  arengutest Türgis",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "86d29e2f-ef0d-46b2-9aaf-9f6388afff40"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0744bc10-0352-4dc9-b71e-1ad76af88c12"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "eb3364c2-ac41-4695-84a2-aee9fd9640ee",
+      "files": [
+        "Protokol_20161114.pdf",
+        "Protokoll.bdoc"
+      ]
+    }
+  ],
+  "uuid": "04f596c3-f404-44f5-8834-c45d85d95715",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 04f596c3-f404-44f5-8834-c45d85d95715)",
+  "source": "https://api.riigikogu.ee/api/volumes/04f596c3-f404-44f5-8834-c45d85d95715",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-11-01&endDate=2016-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
