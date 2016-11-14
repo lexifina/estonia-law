@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung esmaspäev, 14.11.2016 11:00",
+  "sitting_time": "2016-11-14T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "860e5554-64f7-4c58-a111-a5ab7f0ed69a"
+    },
+    {
+      "order": 2,
+      "title": "Korrakaitseseaduse muutmise seaduse eelnõu (267 SE II)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "53ff1cb1-6761-498d-9fc8-ee259136ade5"
+    },
+    {
+      "order": 3,
+      "title": "Kohtutäituri seaduse muutmise ja sellega seonduvalt teiste seaduste muutmise seaduse eelnõu (280 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "27bb4562-d5b5-4269-864f-9e6024f364b0"
+    },
+    {
+      "order": 4,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d52d5d46-3691-491e-b60a-ec53a5269373"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "096e8e0b-b1ed-4b85-abb8-69f9352aaa91",
+      "files": [
+        "ÕIGK 14.11.16 protokoll.pdf"
+      ]
+    }
+  ],
+  "uuid": "bfb2fd29-ec61-4def-8c4c-814dc625d073",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid bfb2fd29-ec61-4def-8c4c-814dc625d073)",
+  "source": "https://api.riigikogu.ee/api/volumes/bfb2fd29-ec61-4def-8c4c-814dc625d073",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-11-01&endDate=2016-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
