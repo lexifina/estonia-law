@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 15.11.2016 14:00",
+  "sitting_time": "2016-11-15T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "49c2228e-4e5c-4f94-ba85-b6eebf2b85c7"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine Maaelu Edendamise Sihtasutuse esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "448e7fd4-9b7f-41e0-afae-0aa7d9060673"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "6c0a5f23-e6c6-4b8d-8c62-58d388a50cad",
+      "files": [
+        "088 protokolli lisa_MES.pptx",
+        "Protokoll.bdoc",
+        "Protokol_20161116.pdf"
+      ]
+    }
+  ],
+  "uuid": "6b67cfa9-9afa-4747-b48d-dfd61fdd9aa2",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 6b67cfa9-9afa-4747-b48d-dfd61fdd9aa2)",
+  "source": "https://api.riigikogu.ee/api/volumes/6b67cfa9-9afa-4747-b48d-dfd61fdd9aa2",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-11-01&endDate=2016-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
