@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung teisipäev, 15.11.2016 14:00",
+  "sitting_time": "2016-11-15T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohtade täiendamine Euroopa\nParlamendi ja nõukogu direktiivi, millega\nmuudetakse direktiivi 2003/87/EÜ\neesmärgiga hoogustada heitkoguste\nkulutõhusat vähendamist ja\ninvesteeringuid, mis toetavad\nsüsinikdioksiidiheite vähendamist, eelnõu\nkohta COM(2015) 337 (1-2/15-411/11)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d39b14c1-4051-457d-9c24-8438a9a5fc85"
+    },
+    {
+      "order": 2,
+      "title": "Ühistranspordiseaduse muutmise seaduse eelnõu (188 SE) arutelu jätkamine teisele lugemisele saatmiseks.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "30e50472-13b0-4917-b3f8-b8015e531093"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "63722a90-2246-4a42-a084-62efa8b64bd3"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "14a4587d-6f51-48c1-a29b-3911d3996106",
+      "files": [
+        "Protokol_20161123.pdf",
+        "Protokoll.bdoc"
+      ]
+    }
+  ],
+  "uuid": "d662f1c6-20ae-4ad5-b1be-34a1e2bc714a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d662f1c6-20ae-4ad5-b1be-34a1e2bc714a)",
+  "source": "https://api.riigikogu.ee/api/volumes/d662f1c6-20ae-4ad5-b1be-34a1e2bc714a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-11-01&endDate=2016-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
