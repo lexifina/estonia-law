@@ -1,0 +1,33 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung neljapäev, 17.11.2016 12:00",
+  "sitting_time": "2016-11-17T12:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väljasõiduistung",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3005aa70-a6a6-4f59-9b7e-b78e8506dbd6"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "d7ac5343-d8d5-4244-a72c-b33c8fc76be7",
+      "files": [
+        "Protokoll nr 78. 28.11.2016.pdf"
+      ]
+    }
+  ],
+  "uuid": "36ea7e85-f56b-45b3-83cc-c659392c635c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 36ea7e85-f56b-45b3-83cc-c659392c635c)",
+  "source": "https://api.riigikogu.ee/api/volumes/36ea7e85-f56b-45b3-83cc-c659392c635c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-11-01&endDate=2016-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
