@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung neljapäev, 17.11.2016 12:30",
+  "sitting_time": "2016-11-17T12:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kaitseväe harjutusväljad",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f9bbf6a8-8527-4a4b-847c-51a48efcee30"
+    },
+    {
+      "order": 2,
+      "title": "Energiatuulikute ehitamine - \tTuuleparkidest ja riigikaitselisest eelhoiatusest (1-6/16-23)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "03336707-3a8c-4d85-b4df-42035a3d0ecc"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "1e1beed8-9c95-49b7-bfc1-3b801bfce83b",
+      "files": [
+        "Protokoll.bdoc",
+        "Protokol_20161118.pdf"
+      ]
+    }
+  ],
+  "uuid": "86b475fe-c74c-464c-bb0c-44eb7d7afe2f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 86b475fe-c74c-464c-bb0c-44eb7d7afe2f)",
+  "source": "https://api.riigikogu.ee/api/volumes/86b475fe-c74c-464c-bb0c-44eb7d7afe2f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-11-01&endDate=2016-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
