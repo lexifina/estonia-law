@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 21.11.2016 13:00",
+  "sitting_time": "2016-11-21T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "33b683ed-ef5c-44fc-ba97-5471bd7a195e"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli kontrolliaruande „Riigi tegevus laste tervise hoidmisel ja ravimisel“ arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d2cc3081-4201-422c-8059-ea36da487c45"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "10d86d82-8eaf-4907-af92-0db83b9d40da",
+      "files": [
+        "Protokoll nr 77. 21.11.2016.pdf"
+      ]
+    }
+  ],
+  "uuid": "7f974431-f20d-4159-9fa5-fdc49e47f160",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7f974431-f20d-4159-9fa5-fdc49e47f160)",
+  "source": "https://api.riigikogu.ee/api/volumes/7f974431-f20d-4159-9fa5-fdc49e47f160",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-11-01&endDate=2016-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
