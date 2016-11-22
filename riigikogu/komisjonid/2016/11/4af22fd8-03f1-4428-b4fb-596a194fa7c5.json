@@ -1,0 +1,42 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung teisipäev, 22.11.2016 14:00",
+  "sitting_time": "2016-11-22T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Majandusarengu töögrupi raporti tulemuste tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "83b2ca80-28a1-41cb-825e-1a593fbf0c56"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d2df906e-976f-48d0-a399-ee3b9c99c015"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "9feed96e-9944-4e75-b748-1dc310c81f79",
+      "files": [
+        "Majandusarengu töögrupi raporti lühikokkuvõte.pdf",
+        "Protokoll.bdoc",
+        "Majandusarengu töögrupp lõppraport 10112016.pdf",
+        "Protokol_20170104.pdf"
+      ]
+    }
+  ],
+  "uuid": "4af22fd8-03f1-4428-b4fb-596a194fa7c5",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 4af22fd8-03f1-4428-b4fb-596a194fa7c5)",
+  "source": "https://api.riigikogu.ee/api/volumes/4af22fd8-03f1-4428-b4fb-596a194fa7c5",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-11-01&endDate=2016-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
