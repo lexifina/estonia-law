@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung neljapäev, 24.11.2016 10:30",
+  "sitting_time": "2016-11-24T10:41:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väliskomisjoni esimehe ja aseesimehe valimine.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "34c2756c-5669-4e30-ab67-2a58cbca333c"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0be8199c-dfb9-4e6a-a8ad-a58a7cba611e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 24.11.2016",
+      "uuid": "612ed152-fcea-462d-96ee-49303103296f",
+      "files": [
+        "Protokoll_20161128.pdf",
+        "Protokoll_24.11.2016.bdoc"
+      ]
+    }
+  ],
+  "uuid": "a726ab1a-91e6-42f1-a065-25c58d8bad2f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a726ab1a-91e6-42f1-a065-25c58d8bad2f)",
+  "source": "https://api.riigikogu.ee/api/volumes/a726ab1a-91e6-42f1-a065-25c58d8bad2f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-11-01&endDate=2016-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
