@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni erakorraline istung neljapäev, 24.11.2016 12:00",
+  "sitting_time": "2016-11-24T12:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikaitsekomisjoni esimehe ja aseesimehe erakorraline valimine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9dc246a4-bdc9-4920-b1a2-1eb4c1091982"
+    },
+    {
+      "order": 2,
+      "title": "ÜRO juhitava rahvusvahelise rahuvalvemissiooni UNIFIL (United Nations Interim Force in Lebanon) delegatsiooni koosseisu muudatus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "169b3a3f-90ab-44da-8faa-1b8961ff41e1"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d685520c-8e60-4c8a-bc2f-6845ed31a5d9"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "2a7e63b0-94dd-4623-965e-947761ad061a",
+      "files": [
+        "Protokoll.bdoc",
+        "Protokol_20161125.pdf"
+      ]
+    }
+  ],
+  "uuid": "4d3f101f-43ad-4c1c-91c8-b7a25084c911",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 4d3f101f-43ad-4c1c-91c8-b7a25084c911)",
+  "source": "https://api.riigikogu.ee/api/volumes/4d3f101f-43ad-4c1c-91c8-b7a25084c911",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-11-01&endDate=2016-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
