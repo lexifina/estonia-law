@@ -1,0 +1,54 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung esmaspäev, 5.12.2016 11:00",
+  "sitting_time": "2016-12-05T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8f3f3a2d-0542-4bef-9498-c65e438fefbc"
+    },
+    {
+      "order": 2,
+      "title": "Võlaõigusseaduse muutmise ja sellega seonduvalt teiste seaduste muutmise seaduse eelnõu (321 SE II)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c1de9f3d-f0e1-4256-9fa9-79724d24d0fb"
+    },
+    {
+      "order": 3,
+      "title": "Investeerimisfondide seaduse eelnõu (297 SE II)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "32cb9e84-5dbf-4c04-8417-5fe6c8b7934b"
+    },
+    {
+      "order": 4,
+      "title": "Tulumaksuseaduse ja sotsiaalmaksuseaduse muutmise seaduse eelnõu (302 SE II)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9c15cbea-ef2e-4613-8c90-e73828e41264"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "bb434d4e-3b3d-4f68-b13b-1d1462cd0907",
+      "files": [
+        "RAHK protokoll 96 5 12 16 Lisa 2 302 SE ME loetelu kavand 1.pdf",
+        "RAHK protokoll 96 5 12 16 Lisa 1 297 SE ME loetelu.pdf",
+        "RAHK protokoll 96 5 12 16.pdf",
+        "Protokoll.bdoc"
+      ]
+    }
+  ],
+  "uuid": "0075fc6f-b344-42dc-b954-8e1555e39528",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0075fc6f-b344-42dc-b954-8e1555e39528)",
+  "source": "https://api.riigikogu.ee/api/volumes/0075fc6f-b344-42dc-b954-8e1555e39528",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-12-01&endDate=2016-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
