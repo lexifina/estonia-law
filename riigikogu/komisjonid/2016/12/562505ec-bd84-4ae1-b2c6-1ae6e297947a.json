@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 5.12.2016 11:00",
+  "sitting_time": "2016-12-05T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d06b7673-3ad7-42f6-80f4-fce603aa448f"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud maaelu ja põllumajandusturu korraldamise seaduse muutmise seaduse eelnõu (340 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c018d5b0-0f53-483b-899b-01d0890d489f"
+    },
+    {
+      "order": 3,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4816940f-d4db-4f2f-8c86-d44b89352048"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "a48afd8c-7632-42a3-acf9-e172c803e869",
+      "files": [
+        "Protokol_20161206.pdf",
+        "Protokoll.bdoc",
+        "MAEK ülevaade 2016.pdf"
+      ]
+    }
+  ],
+  "uuid": "562505ec-bd84-4ae1-b2c6-1ae6e297947a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 562505ec-bd84-4ae1-b2c6-1ae6e297947a)",
+  "source": "https://api.riigikogu.ee/api/volumes/562505ec-bd84-4ae1-b2c6-1ae6e297947a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-12-01&endDate=2016-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
