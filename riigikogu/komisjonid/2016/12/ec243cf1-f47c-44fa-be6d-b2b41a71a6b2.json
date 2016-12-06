@@ -1,0 +1,48 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung teisipäev, 6.12.2016 14:00",
+  "sitting_time": "2016-12-06T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Tulumaksuseaduse ja sotsiaalmaksuseaduse muutmise seaduse eelnõu (302 SE II)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "48647f6f-3112-41d8-83a2-e0444272a759"
+    },
+    {
+      "order": 2,
+      "title": "2017. aasta riigieelarve seaduse eelnõu (303 SE II)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3e562d39-fedb-40c0-86a0-2bdf586a4350"
+    },
+    {
+      "order": 3,
+      "title": "Info",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "39a8cd24-33f0-4b1d-8262-bb6b9ab932db"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "201b1716-125f-4769-8c11-d4ab99cabb1b",
+      "files": [
+        "Volikiri 6.12.2016 Vallbaumi asendusliige.pdf",
+        "Protokoll.bdoc",
+        "RAHK protokoll 97 6 12 16.pdf",
+        "RAHK protokoll 97 6 12 16 Lisa 1 302 SE ME loetelu.pdf"
+      ]
+    }
+  ],
+  "uuid": "ec243cf1-f47c-44fa-be6d-b2b41a71a6b2",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ec243cf1-f47c-44fa-be6d-b2b41a71a6b2)",
+  "source": "https://api.riigikogu.ee/api/volumes/ec243cf1-f47c-44fa-be6d-b2b41a71a6b2",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-12-01&endDate=2016-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
