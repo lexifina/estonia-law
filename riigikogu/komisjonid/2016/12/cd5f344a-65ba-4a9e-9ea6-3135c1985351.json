@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung teisipäev, 6.12.2016 14:00",
+  "sitting_time": "2016-12-06T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kultuurikomisjoni esimehe ja aseesimehe valimine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "07683b8e-bbe9-4c14-b3ae-1ef7aed8f4c1"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu otsus \"Riigikogu liikmest Eesti Rahvusringhäälingu nõukogu liikmete nimetamine\" (349 OE) - algatamine, menetlusotsuste tegemine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "34c40b4e-b1db-4895-95ff-4b27f1dc4e02"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Prot nr 105 - 06.12.2016",
+      "uuid": "34e7b611-c2b2-4ead-8e5c-a2e8256ad2c7",
+      "files": [
+        "Prot 105 - 06.12.2016.pdf",
+        "Prot_nr_105_-_06.12.2016.bdoc"
+      ]
+    }
+  ],
+  "uuid": "cd5f344a-65ba-4a9e-9ea6-3135c1985351",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid cd5f344a-65ba-4a9e-9ea6-3135c1985351)",
+  "source": "https://api.riigikogu.ee/api/volumes/cd5f344a-65ba-4a9e-9ea6-3135c1985351",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-12-01&endDate=2016-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
