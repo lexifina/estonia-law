@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung kolmapäev, 7.12.2016 09:00",
+  "sitting_time": "2016-12-07T09:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b282b5c3-f8ad-43ba-ae9a-a3f62234d873"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli kontrolliaruande tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "83a688ff-88ce-4099-a521-0ba8d95bcc46"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ab0dff13-c27f-4277-83d8-c011e601395f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "fc826496-227e-4ba0-a90b-19020a27d1d4",
+      "files": [
+        "Protokoll nr 79. 07.12.2016.pdf"
+      ]
+    }
+  ],
+  "uuid": "7f8b985e-ff26-470c-a506-346eaa6b2fda",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7f8b985e-ff26-470c-a506-346eaa6b2fda)",
+  "source": "https://api.riigikogu.ee/api/volumes/7f8b985e-ff26-470c-a506-346eaa6b2fda",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-12-01&endDate=2016-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
