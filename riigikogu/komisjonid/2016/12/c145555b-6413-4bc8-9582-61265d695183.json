@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung esmaspäev, 12.12.2016 13:00",
+  "sitting_time": "2016-12-12T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 15. detsembril 2016 toimuval Euroopa Ülemkogu istungil.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f8a6d447-518b-498e-97f5-7a9d0ef14d0f"
+    },
+    {
+      "order": 2,
+      "title": "EL asjade komisjoni 2017. a I poolaasta töökava kinnitamine.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bf86aae6-bbad-422f-8d2e-c4576836aea7"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "b43f57c5-2a8e-49e3-bc5e-570eec6080c5",
+      "files": [
+        "Protokoll 110_12.12.2016.pdf"
+      ]
+    }
+  ],
+  "uuid": "c145555b-6413-4bc8-9582-61265d695183",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c145555b-6413-4bc8-9582-61265d695183)",
+  "source": "https://api.riigikogu.ee/api/volumes/c145555b-6413-4bc8-9582-61265d695183",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-12-01&endDate=2016-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
