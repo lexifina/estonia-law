@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung teisipäev, 13.12.2016 14:00",
+  "sitting_time": "2016-12-13T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine keskkonnaministriga, kokkuvõtete tegemine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "74cb569e-783f-4c78-99c1-4f070031d288"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu otsuse „SA Keskkonnainvesteeringute Keskus nõukogu liikmete tagasikutsumine ja uute liikmete nimetamine“ eelnõu esitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6d976c18-1506-4d1f-b37d-97e2034158f6"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 13.12.2016 nr 91",
+      "uuid": "b0fb6431-39e7-49bc-bedd-9a0458425981",
+      "files": [
+        "Protokoll_13.12.2016_nr_91.bdoc",
+        "13.12.2016 protok.91.pdf"
+      ]
+    }
+  ],
+  "uuid": "b3ec691c-e1e3-479e-b600-5c382642d033",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b3ec691c-e1e3-479e-b600-5c382642d033)",
+  "source": "https://api.riigikogu.ee/api/volumes/b3ec691c-e1e3-479e-b600-5c382642d033",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-12-01&endDate=2016-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
