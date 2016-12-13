@@ -1,0 +1,49 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung teisipäev, 13.12.2016 14:00",
+  "sitting_time": "2016-12-13T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Tulumaksuseaduse, sotsiaalmaksuseaduse ja teiste seaduste muutmise seaduse eelnõu (302 SE II)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3b9182a5-2b79-4a34-94c2-68072c68f2bf"
+    },
+    {
+      "order": 2,
+      "title": "2017. aasta riigieelarve seaduse eelnõu (303 SE II)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cdeb7afe-7d52-4f10-82bf-18bee834bb32"
+    },
+    {
+      "order": 3,
+      "title": "Info",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "afab5d29-a91d-4dd6-8b3d-3f229d0624c4"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "ddfa6e00-27a7-403a-9f40-bed85f56a8cc",
+      "files": [
+        "Volikiri 13.12.2016 Novikovi asendusliige.pdf",
+        "Protokoll.bdoc",
+        "RAHK protokoll 101 13 12 16.pdf",
+        "RAHK protokoll 101 13 12 16. Lisa nr 1 303 SE ME loetelu.pdf",
+        "RAHK protokoll 101 13 12 16. Lisa nr 2 303 SE ME loetelu.pdf"
+      ]
+    }
+  ],
+  "uuid": "2aac4fc5-98a1-44be-9028-82242b4233c4",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2aac4fc5-98a1-44be-9028-82242b4233c4)",
+  "source": "https://api.riigikogu.ee/api/volumes/2aac4fc5-98a1-44be-9028-82242b4233c4",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-12-01&endDate=2016-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
