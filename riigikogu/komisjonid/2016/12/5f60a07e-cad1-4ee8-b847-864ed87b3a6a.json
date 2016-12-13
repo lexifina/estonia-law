@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung teisipäev, 13.12.2016 14:00",
+  "sitting_time": "2016-12-13T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine justiitsminister Urmas Reinsaluga",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4b63ca25-b388-40b4-9d7f-b73c5250db80"
+    },
+    {
+      "order": 2,
+      "title": "Riigi õigusabi seaduse ja teiste seaduste muutmise seaduse eelnõu (299 SE II)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "383f382e-dedd-426d-ba05-6a233dec6970"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "6a17dd5e-11b8-4e17-8c34-ebe816be4ce8",
+      "files": [
+        "img-222130200-0001.pdf",
+        "ÕIGK 13.12.16 protokoll.pdf",
+        "Protokoll.bdoc"
+      ]
+    }
+  ],
+  "uuid": "5f60a07e-cad1-4ee8-b847-864ed87b3a6a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 5f60a07e-cad1-4ee8-b847-864ed87b3a6a)",
+  "source": "https://api.riigikogu.ee/api/volumes/5f60a07e-cad1-4ee8-b847-864ed87b3a6a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-12-01&endDate=2016-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
