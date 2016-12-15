@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung neljapäev, 15.12.2016",
+  "sitting_time": "2016-12-15T00:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "2017. aasta riigieelarve seaduse eelnõu (303 SE II)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4076a1a5-44bc-464c-b859-f181f9c22101"
+    },
+    {
+      "order": 2,
+      "title": "Info",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dd2ced5b-f767-407c-9647-04fe652ab5c7"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "8c6ecfd0-fc34-4dad-956c-a4a7341e23b0",
+      "files": [
+        "RAHK protokoll 102 15 12 16.pdf",
+        "RAHK protokoll 102 15 12 16 Koondtabel 2017  Lisa nr 1.pdf",
+        "Protokoll.bdoc"
+      ]
+    }
+  ],
+  "uuid": "36053b19-3fdd-49d0-9307-556e49b6924c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 36053b19-3fdd-49d0-9307-556e49b6924c)",
+  "source": "https://api.riigikogu.ee/api/volumes/36053b19-3fdd-49d0-9307-556e49b6924c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2016-12-01&endDate=2016-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
