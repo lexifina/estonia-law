@@ -2,7 +2,7 @@
 
 (1) Kompleksloas määratavad heite piirväärtused, võrdväärsed parameetrid või tehnilised meetmed põhinevad parimal võimalikul tehnikal.
 
-(2) Heite piirväärtusi, võrdväärseid parameetreid või tehnilisi meetmeid määrates arvestab loa andja käitise saasteallikast keskkonda heidetavate ainete olemust ja nende poolt põhjustatava saastatuse võimalikku kandumist ühest keskkonnaelemendist teise.
+(2) Heite piirväärtusi, võrdväärseid parameetreid või tehnilisi meetmeid määrates arvestab loa andja käitise heiteallikast keskkonda heidetavate ainete olemust ja nende poolt põhjustatava saastatuse võimalikku kandumist ühest keskkonnaelemendist teise.
 
 (3) Kui käitises toimuva tegevuse või tootmisprotsessi liigi suhtes on avaldatud PVT-järeldusi käsitlev otsus, määrab loa andja kompleksloas heite piirväärtused, mille järgimise korral on tagatud, et tavapärastel käitamistingimustel ei ületa käitise heide sellele käitisele kohalduvates PVT-järeldustes kirjeldatud parima võimaliku tehnikaga saavutatavat heitetaset.
 

@@ -8,6 +8,6 @@
 
 1) 2. ja 6. peatükis kompleksluba;
 
-2) 3. ja 5. peatükis kompleksluba või kompleksloa kohustuse puudumise korral välisõhu saasteluba;
+2) 3. ja 5. peatükis kompleksluba või kompleksloa kohustuse puudumise korral õhusaasteluba;
 
-3) 4. peatükis kompleksluba või kompleksloa kohustuse puudumise korral jäätmeluba jäätmete põletamiseks vastavalt jäätmeseaduse 6. peatüki 5. jaos sätestatule koos välisõhu saasteloaga vastavalt välisõhu kaitse seaduse 3. peatüki 1. jaos sätestatule ja vee erikasutusloaga vastavalt veeseaduse 2. peatükis sätestatule.
+3) 4. peatükis kompleksluba või kompleksloa kohustuse puudumise korral jäätmeluba jäätmete põletamiseks vastavalt jäätmeseaduse 6. peatüki 5. jaos sätestatule koos õhusaasteloaga vastavalt atmosfääriõhu kaitse seaduse 4. peatüki 1. jaos sätestatule ja vee erikasutusloaga vastavalt veeseaduse 2. peatükis sätestatule.

@@ -1,6 +1,6 @@
 # § 45. Kasvuhoonegaaside heide
 
-(1) Kui käitise tegevus on tegevusalade loetelus, mis on kehtestatud välisõhu kaitse seaduse § 120 lõike 1 alusel, ei määrata loas kasvuhoonegaaside heitele piirväärtust, välja arvatud juhul, kui see on vajalik saastatuse tekke ärahoidmiseks kohalikul tasandil.
+(1) Kui käitise tegevus on tegevusalade loetelus, mis on kehtestatud atmosfääriõhu kaitse seaduse § 155 lõike 1 alusel, ei määrata loas kasvuhoonegaaside heitele piirväärtust, välja arvatud juhul, kui see on vajalik saastatuse tekke ärahoidmiseks kohalikul tasandil.
 
 (2) Käesoleva paragrahvi lõikes 1 viidatud tegevusalade puhul ei kohaldata põletusseadmetele ega muudele käitise tegevuskohas süsinikdioksiidi eraldavatele käitise osadele energiatõhususe nõudeid.
 

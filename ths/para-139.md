@@ -1,6 +1,6 @@
 # § 139. Lenduvate orgaaniliste ühendite heitkoguste vähendamise kava
 
-(1) Loa andja võib käitaja taotlusel asendada lahustite kasutamisel eralduvate lenduvate orgaaniliste ühendite heite piirväärtuste järgimise kohustuse lenduvate orgaaniliste ühendite heitkoguste vähendamise kava koostamise ja järgimise kohustusega.
+(1) Loa andja võib käitaja taotlusel asendada lahustite kasutamisel väljutatavate lenduvate orgaaniliste ühendite heite piirväärtuste järgimise kohustuse lenduvate orgaaniliste ühendite heitkoguste vähendamise kava koostamise ja järgimise kohustusega.
 
 (2) Lenduvate orgaaniliste ühendite heitkoguste vähendamise kava rakendamise eesmärk on vähendada käitise heiteid niivõrd, et saavutataks heite piirväärtuse kohaldamisega samasugune tulemus.
 
