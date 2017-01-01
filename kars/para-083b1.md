@@ -8,4 +8,4 @@
 
 2) kolmas isik teadis, et vara võõrandatakse talle konfiskeerimise vältimiseks.
 
-(3) Süüteoga saadud vara võib jätta osaliselt või täielikult konfiskeerimata, kui konfiskeerimine oleks süüteo asjaolusid või isiku olukorda arvestades ebamõistlikult koormav või kui vara väärtus on vara hoiu-, võõrandamis- või hävitamiskuludega võrreldes ebaproportsionaalselt väike. Kohus võib tsiviilhagi rahuldamise eesmärgil vähendada konfiskeeritava vara suurust tsiviilhagi eseme võrra.
+(3) Süüteoga saadud vara võib jätta osaliselt või täielikult konfiskeerimata, kui konfiskeerimine oleks süüteo asjaolusid või isiku olukorda arvestades ebamõistlikult koormav või kui vara väärtus on vara hoiu-, võõrandamis- või hävitamiskuludega võrreldes ebaproportsionaalselt väike. Kohus vähendab konfiskeeritava vara suurust rahuldatava tsiviilhagi või avalik-õigusliku nõudeavalduse eseme võrra.
