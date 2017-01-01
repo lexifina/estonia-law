@@ -10,4 +10,12 @@
 
 (5) Kaitseliidu liikme vigastada saamise korral käesoleva seaduse § 4 lõike 1 punktis 4 sätestatud ülesande täitmisel ning lõike 2 punktides 3 ja 5 sätestatud tegevustes osalemisel tuvastab meditsiinilise seose püsiva töövõimetuse tekkimise ja teenistuskohustuse täitmisel saadud vigastuse vahel Kaitseväe arstlik komisjon.
 
+(5¹) Kaitseväe arstlikku komisjoni kuuluval arstil on õigus saada tervishoiuteenuse osutajalt ja isiku nõusolekul tervise infosüsteemist teavet Kaitseliidu liikme terviseseisundi kohta käesoleva paragrahvi lõikes 5 sätestatud ülesannete täitmiseks.
+
+(5²) Kui isik ei anna nõusolekut oma tervise infosüsteemi kantud terviseandmete kasutamiseks või tervise infosüsteemis puuduvad tema andmed või need on ebapiisavad käesoleva paragrahvi lõikes 5 sätestatud ülesannete täitmiseks, edastab ta Kaitseväe arstlikule komisjonile andmed paberil või muus kirjalikult taasesitatavas vormis.
+
+(5³) Kaitseväe arstliku komisjoni ülesannete täitmiseks vajalike tervise infosüsteemi andmete loetelu ja päringute perioodid kehtestab
+
+määrusega.
+
 (7) Kaitseliidu liikme vigastada saamise korral käesoleva seaduse § 4 lõike 2 punktides 1, 2, 4, 6 ja 7 sätestatud tegevustes osalemisel tuvastab seose töövõime ulatuse ja teenistuskohustuse täitmisel saadud vigastuse vahel vajaduse korral Sotsiaalkindlustusamet avaliku teenistuse seaduse §-s 49¹ sätestatud korras.
