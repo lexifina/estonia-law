@@ -1,31 +1,11 @@
-# § 14. Vabariigi Valimiskomisjoni moodustamine
+# § 14. Riigi valimisteenistus
 
-(1) Vabariigi Valimiskomisjoni liikmed on:
+(1) Riigi valimisteenistus on Riigikogu Kantselei struktuuriüksus, mis on käesolevast seadusest, Euroopa Parlamendi valimise seadusest, kohaliku omavalitsuse volikogu valimise seadusest ja rahvahääletuse seadusest tulenevate ülesannete täitmisel iseseisev.
 
-- 1) Riigikohtu esimehe nimetatud esimese astme kohtu kohtunik;
+(2) Riigi valimisteenistust juhib riigi valimisteenistuse juht. Valimisteenistuse juhi ja asejuhi nimetab ametikohale Riigikogu Kantselei direktor kooskõlastatult Vabariigi Valimiskomisjoniga.
 
-- 2) Riigikohtu esimehe nimetatud teise astme kohtu kohtunik;
+(3) Riigi valimisteenistuse ametnikud nimetab ametikohale ja töötajatega sõlmib töölepingu Riigikogu Kantselei direktor riigi valimisteenistuse juhi ettepanekul.
 
-- 3) õiguskantsleri nimetatud õiguskantsleri nõunik;
+(4) Valimiste ettevalmistamise ja korraldamise eelarve on eraldiseisev osa Riigikogu Kantselei eelarvest ja sisaldab riigi valimisteenistuse käesolevast seadusest, Euroopa Parlamendi valimise seadusest, kohaliku omavalitsuse volikogu valimise seadusest ja rahvahääletuse seadusest tulenevate ülesannete täitmiseks vajalikke investeeringuid ja tegevuskulusid. Valimiste ettevalmistamiseks ja korraldamiseks ettenähtud vahendite sihipärase kasutamise ja eelarve täitmise eest vastutab riigi valimisteenistuse juht. Riigi valimisteenistus esitab Vabariigi Valimiskomisjonile eelmise kalendriaasta eelarve täitmise aruande järgmise aasta esimese kvartali jooksul.
 
-- 4) riigikontrolöri nimetatud Riigikontrolli ametnik;
-
-- 5) riigi peaprokuröri nimetatud riigiprokurör;
-
-- 6) Riigikogu Kantselei direktori nimetatud Riigikogu Kantselei ametnik;
-
-- 7) riigisekretäri nimetatud Riigikantselei ametnik.
-
-(2) Vabariigi Valimiskomisjoni liikmed nimetatakse hiljemalt kümnendal päeval enne komisjoni volituste lõppemist.
-
-(3) Vabariigi Valimiskomisjoni esimehe ja aseesimehe valib valimiskomisjon oma liikmete hulgast komisjoni esimesel koosolekul. Vabariigi Valimiskomisjoni esimese koosoleku kutsub kokku eelmise Vabariigi Valimiskomisjoni esimees või aseesimees hiljemalt seitsmendal päeval pärast komisjoni volituste algust.
-
-(4) Vabariigi Valimiskomisjoni liikmele nimetab tema ametisse nimetaja asendusliikme.
-
-(5) Riigikohtu esimees võib nimetada kohtuniku Vabariigi Valimiskomisjoni liikmeks üksnes nimetatava nõusolekul ning pärast kohtu esimehe arvamuse ärakuulamist.
-
-(6) Vabariigi Valimiskomisjoni asjaajamise ja tehnilise teenindamise tagab Riigikogu Kantselei.
-
-(7) Vabariigi Valimiskomisjon kehtestab oma töökorra.
-
-(8) Vabariigi Valimiskomisjon registreeritakse riigi- ja kohaliku omavalitsuse asutuste riiklikus registris.
+(5) Käesoleva paragrahvi lõikes 1 sätestatud ülesannete täitmise üle teostab järelevalvet Vabariigi Valimiskomisjon.

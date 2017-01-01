@@ -1,21 +1,23 @@
-# § 71. Maakonna valimiskomisjoni otsuse või toimingu või elektroonilise hääletamise komisjoni toimingu peale kaebuse esitamise ja kaebuse läbivaatamise kord
+# § 71. Kaebusele esitatavad nõuded
 
-(1) Kui huvitatud isik leiab, et maakonna valimiskomisjoni otsuse või toiminguga või elektroonilise hääletamise komisjoni toiminguga rikutakse tema õigusi, võib ta esitada kaebuse Vabariigi Valimiskomisjonile. Isik, kelle jaoskonnakomisjoni toimingu peale esitatud kaebuse jättis maakonna valimiskomisjon rahuldamata, võib kaebuse jaoskonnakomisjoni toimingu peale esitada Vabariigi Valimiskomisjonile.
+(1) Kaebus vormistatakse kirjalikult ning selles märgitakse:
 
-(2) Kaebus esitatakse vaidlustatava otsuse või toimingu teinud või vaidlustatud toimingu peale esitatud kaebuse läbi vaadanud maakonna valimiskomisjonile käesoleva paragrahvi lõikes 1 ettenähtud otsuse või toimingu tegemisest alates kolme päeva jooksul. Maakonna valimiskomisjon edastab kaebuse omapoolse kirjaliku selgitusega viivitamata Vabariigi Valimiskomisjonile.
+- 1) kaebuse esitaja nimi, isikukood või selle puudumisel sünniaeg või registrikood, aadress ja sidevahendite andmed;
 
-(3) Kaebus elektroonilise hääletamise komisjoni toimingu peale esitatakse Vabariigi Valimiskomisjonile käesoleva paragrahvi lõikes 1 ettenähtud toimingu tegemisest alates kolme päeva jooksul.
+- 2) kaebuse esitaja esindaja nimi, aadress ja sidevahendite andmed, kui kaebuse esitajal on esindaja;
 
-(4) Vabariigi Valimiskomisjon peab kaebuse läbi vaatama ja selle suhtes otsuse tegema viie tööpäeva jooksul kaebuse laekumisest arvates. Vabariigi Valimiskomisjon edastab otsuse kaebuse esitajale viivitamata.
+- 3) vaidlustatava toimingu kirjeldus;
 
-(5) Kaebus vaadatakse läbi avalikult. Vabariigi Valimiskomisjon teatab kaebuse esitajale kaebuse läbivaatamise aja ja koha.
+- 4) põhjused, miks kaebuse esitaja leiab, et vaidlustatav toiming rikub tema õigusi;
 
-(6) Vabariigi Valimiskomisjon teeb ühe järgmistest otsustest:
+- 5) põhjused, miks kaebuse esitaja leiab, et vaidlustatav toiming ei ole seaduslik;
 
-- 1) jätta kaebus rahuldamata;
+- 6) kuidas ja millal sai kaebuse esitaja vaidlustatavast toimingust teada;
 
-- 2) kaebus rahuldada;
+- 7) kaebuse esitamise tähtaja ennistamise taotlus ja tähtaja möödalaskmise põhjused, kui kaebus esitatakse pärast kaebuse esitamise tähtaja möödumist;
 
-- 3) kaebus rahuldada osaliselt.
+- 8) kaebuse esitamise kuupäev.
 
-(7) Kui Vabariigi Valimiskomisjon kaebuse rahuldab, võib ta otsustada teha käesoleva seaduse § 15 lõikes 2 loetletud toiminguid.
+(2) Kaebusele kirjutab alla selle esitaja. Erakonna kaebusele kirjutab alla erakonna volitatud esindaja.
+
+(3) Kui kaebus ei vasta käesoleva paragrahvi lõigetes 1 ja 2 ettenähtud nõuetele või kui kaebus on esitatud käesoleva seaduse §-s 70 ja § 72 lõikes 1 ettenähtud korda rikkudes, võib Vabariigi Valimiskomisjon jätta kaebuse läbi vaatamata. Kaebuse läbi vaatamata jätmisel võib Vabariigi Valimiskomisjon selle edastada riigi valimisteenistusele vastamiseks käesoleva seaduse § 68 lõikes 6 sätestatud korras. Kui kaebuse esitaja on kaebuse esitamise tähtaja lasknud mööda mõjuval põhjusel, ennistab Vabariigi Valimiskomisjon tema põhistatud taotluse alusel tähtaja.

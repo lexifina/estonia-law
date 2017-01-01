@@ -4,7 +4,7 @@
 
 (2) Rahvastikuregistri pidamise korra näeb ette seadus.
 
-(3) Valijate arvestust peetakse isiku kohta rahvastikuregistrisse kantud järgmiste andmete alusel:
+(3) Valijate arvestust peetakse rahvastikuregistrisse kantud käesoleva seaduse § 19 lõikes 2 toodud andmete ja isiku kohta rahvastikuregistrisse kantud järgmiste andmete alusel:
 
 - 1) ees- ja perekonnanimi;
 

@@ -1,7 +1,7 @@
 # § 73. Hääletamistulemuste kehtetuks tunnistamine
 
-(1) Kui Vabariigi Valimiskomisjon või Riigikohus on tunnistanud valimisjaoskonna või valimisringkonna või maakonna või Tallinna või Tartu linna või riigi hääletamistulemused kehtetuks, määrab Vabariigi Valimiskomisjon uue valimispäeva ja asjaomases valimisjaoskonnas või valimisringkonnas või maakonnas või Tallinnas või Tartu linnas või riigis korraldatakse kordushääletamine. Riigikogu valimiste tulemus tehakse kindlaks pärast kordushääletamise tulemuste selgumist.
+(1) Kui Vabariigi Valimiskomisjon või Riigikohus on tunnistanud valimisjaoskonna, valimisringkonna, maakonna, Tallinna, Tartu linna või riigi hääletamistulemused kehtetuks, määrab Vabariigi Valimiskomisjon uue valimispäeva ja asjaomases valimisjaoskonnas, valimisringkonnas või maakonnas või Tallinnas, Tartu linnas või riigis korraldatakse kordushääletamine. Valimistulemus tehakse kindlaks pärast kordushääletamise tulemuste selgumist.
 
-(1¹) Kordushääletamist ei korraldata, kui Vabariigi Valimiskomisjon on tunnistanud elektroonilise hääletamise tulemused kehtetuks ja kutsunud elektrooniliselt hääletanud valijaid hääletama valimispäeval käesoleva seaduse §-s 39 või 46 ettenähtud korras.
+(2) Kordushääletamist ei korraldata, kui Vabariigi Valimiskomisjon on tühistanud eelhääletamisel antud hääled olulise seadusrikkumise tõttu osaliselt või täielikult ning kutsunud valijad uuesti hääletama eelhääletamise ajal või valimispäeval.
 
-(2) Kordushääletamisel käesoleva seaduse §-des 40–45, 47 ning 7¹. ja 8. peatükis ettenähtut ei kohaldata.
+(3) Kordushääletamisel käesoleva seaduse §-des 40–45 ja 47 ning 7¹. ja 8. peatükis ettenähtut ei kohaldata.

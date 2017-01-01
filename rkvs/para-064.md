@@ -2,9 +2,9 @@
 
 (1) Riigikogu valimiste ettevalmistamise ja korraldamise kulud kaetakse riigieelarvest.
 
-(2) Vabariigi Valimiskomisjon koostab valimiskulude eelarve projekti.
+(2) [Kehtetu]
 
-(3) Vabariigi Valimiskomisjon otsustab eelarve kulude jaotuse, lähtudes riigieelarves määratud eraldiste suurusest.
+(3) [Kehtetu]
 
 (4) Valijate arvestusega (5. peatükk) seotud kulud kaetakse riigieelarvest Siseministeeriumi eelarves selleks ettenähtud rahast.
 

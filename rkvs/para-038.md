@@ -4,7 +4,7 @@
 
 (2) Eelhääletamine toimub:
 
-- 1) kümnendast kuni seitsmenda päevani enne valimispäeva maakonna valimiskomisjoni määratud valimisjaoskonnas. Hääletamine algab kell 12.00 ja lõpeb kell 20.00;
+- 1) kümnendast kuni seitsmenda päevani enne valimispäeva maakonna valimisjuhi määratud valimisjaoskonnas. Hääletamine algab kell 12.00 ja lõpeb kell 20.00;
 
 - 2) kuuendast päevast kuni neljanda päevani enne valimispäeva kõigis valimisjaoskondades. Hääletamine algab kell 12.00 ja lõpeb kell 20.00. Hääletamine valija asukohas, kinnipidamiskohas, haiglas ja ööpäevases hoolekandeasutuses korraldatakse ajavahemikus kella 9.00-st kuni 20.00-ni;
 

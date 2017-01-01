@@ -26,7 +26,7 @@
 
 - 8) töökoht ja amet.
 
-(3) Vabariigi Valimiskomisjon avaldab käesoleva paragrahvi lõike 2 punktides 1, 3, 6, 7 ja 8 sätestatud andmed Vabariigi Valimiskomisjoni veebilehel.
+(3) Riigi valimisteenistus avaldab käesoleva paragrahvi lõike 2 punktides 1, 3, 6, 7 ja 8 sätestatud andmed.
 
 (4) Kandidaat kasutab kandideerimisel oma nimena üksnes ees- ja perekonnanime.
 

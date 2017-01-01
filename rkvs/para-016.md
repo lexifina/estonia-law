@@ -1,11 +1,13 @@
-# § 16. Maakonna valimiskomisjoni moodustamine
+# § 16. Maakonna valimisjuht
 
-(1) Maakonna valimiskomisjonil on kuni 13 liiget.
+(1) Valimisi maakonnas korraldab maakonna valimisjuht.
 
-(2) Maakonna valimiskomisjoni esimees on maasekretär. Maakonna valimiskomisjoni liikmed nimetab maavanem maasekretäri ettepanekul hiljemalt kümnendal päeval enne komisjoni volituste lõppemist. Maavanem nimetab maasekretäri ettepanekul ka kuni neli asendusliiget, kes komisjoni volituste ajal maavanema määratud järjekorras asuvad nende komisjoniliikmete asemele, kelle volitused on peatunud või lõppenud.
+(2) Maakonna valimisjuht on maasekretär või isik, kelle on määranud riigi valimisteenistuse juht maasekretäri ettepanekul.
 
-(3) Tallinna ja Tartu linna valimiskomisjoni esimees on linnasekretär. Linna valimiskomisjoni liikmed nimetab linnavolikogu linnasekretäri ettepanekul hiljemalt kümnendal päeval enne komisjoni volituste lõppemist. Volikogu nimetab ka kuni neli asendusliiget, kes komisjoni volituste ajal volikogu määratud järjekorras asuvad nende komisjoniliikmete asemele, kelle volitused on peatunud või lõppenud.
+(3) Tallinnas ja Tartu linnas täidab maakonna valimisjuhi ülesandeid linnasekretär või isik, kelle on määranud riigi valimisteenistuse juht linnasekretäri ettepanekul.
 
-(4) Maakonna valimiskomisjoni aseesimehe valib komisjon oma liikmete hulgast.
+(4) Riigi valimisteenistuse juht määrab maakonna valimisjuhi ettepanekul maakonna valimisjuhi asetäitja. Asetäitjal on valimisjuhi asendamisel kõik valimisjuhi õigused ja kohustused.
 
-(5) Maakonna valimiskomisjoni ning Tallinna ja Tartu linna valimiskomisjoni asjaajamise ja tehnilise teenindamise tagavad vastavalt maavalitsus ning Tallinna ja Tartu linnavalitsused.
+(5) Maakonna valimisjuhile ja tema asetäitjale määrab tasu riigi valimisteenistus.
+
+(6) Maakonna valimisjuhi teenindamise korraldab maavalitsus, Tallinnas ja Tartu linnas linnavalitsus.

@@ -1,5 +1,19 @@
-# § 72. Vabariigi Valimiskomisjoni otsuse või toimingu peale kaebuse esitamine
+# § 72. Kaebuse läbivaatamine Vabariigi Valimiskomisjonis
 
-(1) Kui huvitatud isik leiab, et jaoskonnakomisjoni või elektroonilise hääletamise komisjoni toiminguga, maakonna valimiskomisjoni otsuse või toiminguga või Vabariigi Valimiskomisjoni otsuse või toiminguga rikutakse tema õigusi, võib ta esitada põhiseaduslikkuse järelevalve kohtumenetluse seaduses ettenähtud korras kaebuse Riigikohtule.
+(1) Kaebus esitatakse Vabariigi Valimiskomisjonile kolme päeva jooksul arvates:
 
-(2) Kaebuse valimiskomisjoni otsuse või toimingu peale võib Riigikohtule esitada pärast asja lahendamist Vabariigi Valimiskomisjonis. Kaebus esitatakse Riigikohtule kolme päeva jooksul Vabariigi Valimiskomisjoni otsuse teatavakstegemisest või toimingu sooritamisest arvates Vabariigi Valimiskomisjoni kaudu.
+- 1) vaidlustatava toimingu tegemisest või
+
+- 2) käesoleva seaduse §-s 68 sätestatud avalduse läbivaatamisest.
+
+(2) Vabariigi Valimiskomisjon peab kaebuse läbi vaatama ja selle suhtes otsuse tegema viie tööpäeva jooksul kaebuse laekumisest arvates.
+
+(3) Vabariigi Valimiskomisjon teeb ühe järgmistest otsustest:
+
+- 1) jätta kaebus rahuldamata;
+
+- 2) kaebus rahuldada;
+
+- 3) kaebus rahuldada osaliselt.
+
+(4) Vabariigi Valimiskomisjon edastab otsuse kaebuse esitajale viivitamata.

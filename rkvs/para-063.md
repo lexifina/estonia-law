@@ -6,9 +6,9 @@
 
 - 1) hääleõiguslike Eesti kodanike arvu esitamine (§ 7 lg 3);
 
-- 2) valimisjaoskondade jaotuse muutmine (§ 8 lg 3 ja 4);
+- 2) valimisjaoskondade jaotuse muutmine (§ 19 lg 3);
 
-- 3) jaoskonnakomisjonide moodustamine (§ 18);
+- 3) jaoskonnakomisjonide moodustamine (§ 19¹);
 
 - 4) valijakaardi saatmine (§ 21);
 

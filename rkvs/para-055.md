@@ -1,15 +1,15 @@
 # § 55. Hääletamissedelite arvestamine hääletamistulemuste kindlakstegemisel
 
-(1) Välisesindusele laekunud hääletamissedeleid arvestatakse hääletamistulemuste kindlakstegemisel, kui need laekuvad Vabariigi Valimiskomisjonile hiljemalt neljandal päeval enne valimispäeva.
+(1) Välisesindusele laekunud hääletamissedeleid arvestatakse hääletamistulemuste kindlakstegemisel, kui need laekuvad riigi valimisteenistusele hiljemalt neljandal päeval enne valimispäeva.
 
-(2) Saanud alaliselt välisriigis elavate valijate hääletamissedelitega ümbrikud, kontrollib Vabariigi Valimiskomisjon, kas alaliselt välisriigis elav valija ei ole hääletanud mitu korda ja kas Eestis hääletanud alaliselt välisriigis elav valija on kantud välisriigis alaliselt elavate valijate nimekirja.
+(2) Saanud alaliselt välisriigis elavate valijate hääletamissedelitega ümbrikud, kontrollib riigi valimisteenistus, kas alaliselt välisriigis elav valija ei ole hääletanud mitu korda ja kas Eestis hääletanud alaliselt välisriigis elav valija on kantud välisriigis alaliselt elavate valijate nimekirja.
 
-(3) Kui alaliselt välisriigis elav valija on hääletanud hääletamissedeliga mitu korda või kui ta ei ole kantud välisriigis alaliselt elavate valijate nimekirja, jätab Vabariigi Valimiskomisjon kõik valija hääletamissedeliga ümbrikud arvestamata. Kui valija on hääletanud nii elektrooniliselt kui ka hääletamissedeliga, arvestatakse valija hääletamissedelit. Kui valija on hääletanud mitu korda hääletamissedeliga ja elektrooniliselt, jäetakse kõik valija hääletamissedeliga ümbrikud ja elektrooniliselt antud hääl arvestamata.
+(3) Kui alaliselt välisriigis elav valija on hääletanud hääletamissedeliga mitu korda või kui ta ei ole kantud välisriigis alaliselt elavate valijate nimekirja, jätab riigi valimisteenistus kõik valija hääletamissedeliga ümbrikud arvestamata. Kui valija on hääletanud nii elektrooniliselt kui ka hääletamissedeliga, arvestatakse valija hääletamissedelit. Kui valija on hääletanud mitu korda hääletamissedeliga ja elektrooniliselt, jäetakse kõik valija hääletamissedeliga ümbrikud ja elektrooniliselt antud hääl arvestamata.
 
-(4) Vabariigi Valimiskomisjon määrab iga valimisringkonna kohta ühe maakonna valimiskomisjoni, kes teeb kindlaks välisriigis alaliselt elavate valijate hääletamistulemused.
+(4) Riigi valimisteenistus määrab iga valimisringkonna kohta ühe maakonna valimisjuhi, kes teeb kindlaks välisriigis alaliselt elavate valijate hääletamistulemused.
 
-(5) Vabariigi Valimiskomisjon edastab alaliselt välisriigis elavate valijate hääletamissedelid käesoleva paragrahvi lõikes 4 määratud valimiskomisjonile hiljemalt teisel päeval enne valimispäeva.
+(5) Riigi valimisteenistus edastab alaliselt välisriigis elavate valijate hääletamissedelid käesoleva paragrahvi lõikes 4 määratud maakonna valimisjuhile hiljemalt teisel päeval enne valimispäeva.
 
-(6) Ümbrikud alaliselt välisriigis elavate valijate hääletamissedelitega jäävad maakonna valimiskomisjonile ning need avatakse valimispäeval hääletamistulemuste kindlakstegemiseks.
+(6) Ümbrikud alaliselt välisriigis elavate valijate hääletamissedelitega jäävad maakonna valimisjuhile ning need avatakse valimispäeval hääletamistulemuste kindlakstegemiseks.
 
-(7) Ajutiselt välisriigis viibivate valijate hääletamissedelitega ümbrikud edastab Vabariigi Valimiskomisjon vastavatele jaoskonnakomisjonidele hiljemalt valimispäevale eelneval päeval, kus sedeleid arvestatakse hääletamistulemuste kindlakstegemisel vastavalt käesoleva seaduse § 48 lõigetes 4–7 ettenähtule.
+(7) Ajutiselt välisriigis viibivate valijate hääletamissedelitega ümbrikud edastab riigi valimisteenistus vastavatele jaoskonnakomisjonidele hiljemalt valimispäevale eelneval päeval, kus sedeleid arvestatakse hääletamistulemuste kindlakstegemisel vastavalt käesoleva seaduse § 48 lõigetes 4–7 ettenähtule.

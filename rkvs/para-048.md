@@ -1,10 +1,10 @@
 # § 48. Eelhääletamise ajal väljaspool elukohajärgset valimisjaoskonda antud häälte arvestamine
 
-(1) Jaoskonnakomisjon pakib väljaspool elukohajärgset valimisjaoskonda hääletanud valijate hääletamissedelitega ümbrikud maakondade kaupa, Tallinna ja Tartu linna kaupa ning edastab need oma asukohajärgsele maakonna valimiskomisjonile.
+(1) Jaoskonnakomisjon pakib väljaspool elukohajärgset valimisjaoskonda hääletanud valijate hääletamissedelitega ümbrikud maakondade kaupa, Tallinna ja Tartu linna kaupa ning edastab need oma asukohajärgsele maakonna valimisjuhile.
 
-(2) Maakonna valimiskomisjon edastab käesoleva paragrahvi lõikes 1 nimetatud hääletamissedelitega ümbrikud Vabariigi Valimiskomisjoni kaudu asjaomastele maakonna valimiskomisjonidele hiljemalt teisel päeval enne valimispäeva.
+(2) Maakonna valimisjuht edastab käesoleva paragrahvi lõikes 1 nimetatud hääletamissedelitega ümbrikud riigi valimisteenistuse kaudu asjaomastele maakonna valimisjuhtidele hiljemalt teisel päeval enne valimispäeva.
 
-(3) Käesoleva paragrahvi lõikes 2 ettenähtud korras teistelt maakonna valimiskomisjonidelt saadud hääletamissedelitega ümbrikud edastab maakonna valimiskomisjon asjaomastele jaoskonnakomisjonidele hiljemalt valimispäevale eelneval päeval.
+(3) Käesoleva paragrahvi lõikes 2 ettenähtud korras teistelt maakonna valimisjuhtidelt saadud hääletamissedelitega ümbrikud edastab maakonna valimisjuht asjaomastele jaoskonnakomisjonidele hiljemalt valimispäevale eelneval päeval.
 
 (4) Saanud hääletamissedelitega ümbrikud käesoleva paragrahvi lõikes 3 ettenähtud korras, kontrollib jaoskonnakomisjon, kas valija on kantud valimisjaoskonna valijate nimekirja ja kas valija ei ole hääletanud mitu korda. Kontrollimise juures peab olema vähemalt kolm jaoskonnakomisjoni liiget.
 

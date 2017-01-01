@@ -4,7 +4,7 @@
 
 (2) Kandidaatide registreerimiseks esitamine lõpeb valimispäevale eelneval 45. päeval kell 18.00.
 
-(3) Kandidaatide registreerimiseks esitab erakond Vabariigi Valimiskomisjonile:
+(3) Kandidaatide registreerimiseks esitab erakond riigi valimisteenistusele:
 
 - 1) kandidaatide registreerimise avalduse;
 
@@ -16,7 +16,7 @@
 
 - 5) iga kandidaadi kandideerimisavalduse.
 
-(4) Üksikkandidaat esitab Vabariigi Valimiskomisjonile:
+(4) Üksikkandidaat esitab riigi valimisteenistusele:
 
 - 1) kandidaadi registreerimise avalduse;
 
@@ -24,4 +24,4 @@
 
 - 3) kandideerimisavalduse.
 
-(5) Erakond või üksikkandidaat kannab enne kandidaatide registreerimiseks esitamist Vabariigi Valimiskomisjoni arvele kautsjonina summa, mille suurus on valimiste väljakuulutamise aastal Vabariigi Valitsuse kehtestatud kuupalga alammäär iga registreerimiseks esitatud isiku kohta.
+(5) Erakond või üksikkandidaat kannab enne kandidaatide registreerimiseks esitamist Rahandusministeeriumi arveldusarvele kautsjonina summa, mille suurus on valimiste väljakuulutamise aastal Vabariigi Valitsuse kehtestatud kuutasu alammäär iga registreerimiseks esitatud isiku kohta.

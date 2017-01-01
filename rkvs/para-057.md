@@ -4,7 +4,7 @@
 
 (2) Enne hääletamiskastide avamist peab jaoskonnakomisjon üle lugema ja kustutama kõik valijatele välja andmata jäänud, samuti valijate tagastatud rikutud hääletamissedelid. Hääletamissedelid kustutatakse sedeli nurga äralõikamisega.
 
-(3) Enne hääletamiskastide avamist teeb jaoskonnakomisjon valijate nimekirja alusel kindlaks valijate arvu ning hääletamissedeli saamise kohta antud allkirjade ja märkuste alusel esialgse hääletamisest osavõtnute arvu ning edastab need viivitamata Vabariigi Valimiskomisjonile. Arvestada tuleb valijate nimekirja märkusi väljaspool elukohta eelhääletanud, elektrooniliselt hääletanud ja kodus hääletanud valijate kohta. Valijate arv kantakse vormikohasesse protokolli.
+(3) Enne hääletamiskastide avamist teeb jaoskonnakomisjon valijate nimekirja alusel kindlaks valijate arvu ning hääletamissedeli saamise kohta antud allkirjade ja märkuste alusel esialgse hääletamisest osavõtnute arvu ning edastab need viivitamata riigi valimisteenistusele. Arvestada tuleb valijate nimekirja märkusi väljaspool elukohta eelhääletanud, elektrooniliselt hääletanud ja kodus hääletanud valijate kohta. Valijate arv kantakse vormikohasesse protokolli.
 
 (4) Hääletamiskasti avades kontrollitakse sellel oleva pitsati jäljendi seisukorda.
 
@@ -32,6 +32,6 @@
 
 (11) Pärast hääletamistulemuste kindlakstegemist pakitakse kehtivad sedelid kandidaatide kaupa. Eraldi pakkidesse pannakse kehtetud sedelid, valijatele välja andmata jäänud sedelid ja valijate tagastatud rikutud sedelid. Pakile märgitakse, millise valimisjaoskonna sedelid, millised ja kui palju neid pakis on. Märkele kirjutab alla jaoskonnakomisjoni esimees.
 
-(12) Hääletamissedelid, valijate nimekirjad, hääletamistulemuste protokollid ja komisjoniliikmete eriarvamused edastatakse viivitamata maakonna valimiskomisjonile.
+(12) Hääletamissedelid, valijate nimekirjad ja hääletamistulemuste protokollid edastatakse viivitamata maakonna valimisjuhile.
 
 (13) Hääletamistulemused tehakse jaoskonnakomisjonis kindlaks avalikult.

@@ -1,9 +1,21 @@
 # § 48². Elektroonilise hääletamise üldpõhimõtted
 
-(1) Elektroonilise hääletamise korraldab elektroonilise hääletamise komisjon.
+(1) Elektroonilisel hääletamisel kasutatakse ajakohast elektroonilise hääletamise süsteemi, mida haldab riigi valimisteenistus.
 
-(2) Elektroonilisel hääletamisel kasutatakse elektroonilise hääletamise süsteemi, mida haldab elektroonilise hääletamise komisjon. Käesoleva seaduse § 1 lõigetes 2–3 sätestatud nõuetele vastavuse tagamiseks vajalikud elektroonilise hääletamise süsteemi tehnilised nõuded kehtestab Vabariigi Valimiskomisjon käesoleva seaduse § 15 lõike 4 punktis 2 sätestatud määruses.
+(2) Valija hääletab ise. Käesolevas seaduses ettenähtud tingimustel on valijal võimalik elektrooniliselt antud häält muuta.
 
-(3) Valija hääletab ise. Käesolevas seaduses ettenähtud tingimustel on valijal võimalik elektrooniliselt antud häält muuta.
+(3) Vabariigi Valimiskomisjon kehtestab otsusega:
 
-(4) Elektroonilise hääletamise komisjon korraldab elektroonilise hääletamise süsteemi testimise. Vabariigi Valimiskomisjon korraldab elektroonilise hääletamise süsteemi ning elektroonilise hääletamise komisjoni toimingute auditeerimise. Testimise ja auditeerimise ning elektroonilise hääletamise komisjoni toimingute vaatlemise korra kehtestab Vabariigi Valimiskomisjon käesoleva seaduse § 15 lõike 4 punktis 2 sätestatud määruses.
+- 1) tehnilised nõuded elektroonilise hääletamise korraldamise üldpõhimõtete tagamiseks;
+
+- 2) elektroonilise hääletamise organisatsiooni kirjelduse.
+
+(4) Riigi valimisteenistus:
+
+- 1) kinnitab elektroonilise hääletamise süsteemi infoturbe poliitika, elektroonilise hääletamise protokollistiku ja elektroonilise hääletamise süsteemi tehnilised juhendid;
+
+- 2) korraldab seadusekohast elektroonilist hääletamist takistavate juhtumite lahendamise;
+
+- 3) kinnitab elektroonilise hääletamise süsteemi testimise ajakava ja ulatuse ning testimise tulemused ja avalikustab tulemuste raporti;
+
+- 4) korraldab elektroonilise hääletamise süsteemi auditeerimise, mille käigus infosüsteemide audiitor kontrollib elektroonilise hääletamise süsteemi testimise, süsteemi terviklikkuse ja riigi valimisteenistuse toimingute vastavust seadustele, käesoleva paragrahvi lõike 3 alusel vastu võetud Vabariigi Valimiskomisjoni otsustele ning elektroonilise hääletamise dokumentatsioonile.

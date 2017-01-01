@@ -4,9 +4,13 @@
 
 2. peatükk AGITATSIOON
 
-3. peatükk VALIMISRINGKONNAD JA -JAOSKONNAD
+3. peatükk VALIMISRINGKONNAD
 
-4. peatükk VALIMISKOMISJONID
+4. peatükk VALIMISTE KORRALDUS
+
+- 1. jagu Vabariigi Valimiskomisjon
+
+- 2. jagu Valimiste korraldajad
 
 5. peatükk VALIJATE ARVESTUS
 
@@ -24,7 +28,7 @@
 
 11. peatükk VALIMISTE KULUD
 
-12. peatükk KAEBUSED
+12. peatükk AVALDUSED JA KAEBUSED
 
 12¹. peatükk VASTUTUS
 

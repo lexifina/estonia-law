@@ -1,21 +1,17 @@
-# § 17. Maakonna valimiskomisjoni pädevus
+# § 17. Maakonna valimisjuhi pädevus
 
-(1) Maakonna valimiskomisjoni ülesanne on kindlaks teha maakonna hääletamistulemused, juhendada jaoskonnakomisjone ja valvata nende tegevuse järele ning täita muid käesolevast seadusest tulenevaid ülesandeid.
+(1) Maakonna valimisjuhi ülesanne on korraldada valimised maakonnas, juhendada jaoskonnakomisjone ja valvata nende tegevuse järele ning täita muid käesolevast seadusest tulenevaid ülesandeid.
 
-(2) Maakonna valimiskomisjonil on õigus:
+(2) Ülesannete täitmiseks maakonna valimisjuht:
 
-- 1) peatada jaoskonnakomisjoni liikme volitused, kui ta on rikkunud Riigikogu valimise seadust, Vabariigi Valimiskomisjoni määrust või kõrgemalseisva valimiskomisjoni juhist;
+- 1) annab jaoskonnakomisjonidele täitmiseks kohustuslikke suulisi ja kirjalikke korraldusi jaoskonnakomisjonidele;
 
-- 2) teha ettepanek Vabariigi Valimiskomisjonile Riigikogu valimise seadust, Vabariigi Valimiskomisjoni määrust või kõrgemalseisva valimiskomisjoni juhist rikkunud jaoskonnakomisjoni liikme volituste lõpetamiseks;
+- 2) otsustab jaoskonnakomisjoni kulud, lähtudes riigi valimisteenistuse jaotatud vahendite suurusest;
 
-- 3) teha ettekirjutus jaoskonnakomisjoni toimingu puuduste kõrvaldamiseks;
+- 3) otsustab jaoskonnakomisjoni liikme tasustamise jaoskonnakomisjoni esimehe ettepanekul;
 
-- 4) peatada jaoskonnakomisjoni toiming;
+- 4) sõlmib lepingud valimisjuhti abistavate isikutega;
 
-- 5) tunnistada jaoskonnakomisjoni toiming seadusevastaseks;
+- 5) võib seadust või maakonna valimisjuhi korraldust rikkunud jaoskonnakomisjoni liikme kõrvaldada jaoskonnakomisjoni ülesannete täitmisest.
 
-- 6) teha Vabariigi Valimiskomisjonile ettepanek tunnistada hääletamistulemused valimisjaoskonnas kehtetuks ning korraldada valimisjaoskonnas kordushääletamine, kui seaduserikkumine mõjutas või võis hääletamistulemusi oluliselt mõjutada.
-
-(3) Maakonna valimiskomisjoni pädevuses oleva üksikküsimuse lahendamiseks võtab maakonna valimiskomisjon vastu otsuse. Otsusele kirjutab alla komisjoni esimees. Otsus jõustub allakirjutamisega.
-
-(4) Maakonna valimiskomisjoni otsus ja juhis on jaoskonnakomisjonile kohustuslikud.
+(3) Maakonna valimisjuhi kirjalikule korraldusele kirjutab alla maakonna valimisjuht. Kirjalik korraldus jõustub selle allakirjutamisel.
