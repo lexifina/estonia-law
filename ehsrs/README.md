@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/115062016005> (version in force from 2016-06-16)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/115122016004> (version in force from 2017-01-01)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -36,6 +36,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/115062016005> (version in force 
 | [§ 28](para-028.md) | Enne ehitusseaduse jõustumist ehitatud ehitis |
 | [§ 29](para-029.md) | Enne käesoleva seaduse jõustumist ehitatud ehitisregistrisse kandmata ehitis |
 | [§ 30](para-030.md) | Olemasoleva ehitise kaitsevöönd |
+| [§ 30¹](para-030b1.md) | Kiire elektroonilise side võrgu kasutuselevõtu soodustamine |
 | [§ 31](para-031.md) |  |
 | [§ 73](para-073.md) |  |
 | [§ 74](para-074.md) | Seaduste jõustumine |
