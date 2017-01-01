@@ -4,9 +4,13 @@
 
 2. peatükk AGITATSIOON
 
-3. peatükk VOLIKOGU LIIKMETE ARV, VALIMISRINGKONNAD JA -JAOSKONNAD
+3. peatükk VOLIKOGU LIIKMETE ARV JA VALIMISRINGKONNAD
 
-4. peatükk VALIMISKOMISJONID
+4. peatükk VALIMISTE KORRALDUS
+
+- 1. jagu Valimiskomisjonid
+
+- 2. jagu Valimiste korraldajad
 
 5. peatükk VALIJATE ARVESTUS
 
@@ -24,7 +28,7 @@
 
 10. peatükk VALIMISTE KULUD
 
-11. peatükk KAEBUSED
+11. peatükk AVALDUSED JA KAEBUSED
 
 11¹. peatükk VASTUTUS
 

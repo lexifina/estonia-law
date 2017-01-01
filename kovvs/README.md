@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/121062016007> (version in force from 2016-07-01)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/121062016008> (version in force from 2017-01-01)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -16,26 +16,31 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/121062016007> (version in force 
 | **2. peatükk AGITATSIOON** | |
 | [§ 6](para-006.md) | Agitatsiooni piirang |
 | [§ 6¹](para-006b1.md) | Poliitilise välireklaami keeld |
-| **3. peatükk VOLIKOGU LIIKMETE ARV, VALIMISRINGKONNAD JA -JAOSKONNAD** | |
+| **3. peatükk VOLIKOGU LIIKMETE ARV JA VALIMISRINGKONNAD** | |
 | [§ 7](para-007.md) | Volikogu liikmete arvu määramine |
 | [§ 8](para-008.md) | Valimisringkondade moodustamine |
 | [§ 9](para-009.md) | Mandaatide jaotamine valimisringkondade vahel |
 | [§ 10](para-010.md) | Valimisjaoskondade moodustamine |
 | [§ 11](para-011.md) | Toimingud uue kohaliku omavalitsuse üksuse volikogu valimise korral |
-| **4. peatükk VALIMISKOMISJONID** | |
-| [§ 12](para-012.md) | Valimiskomisjonide liigid |
-| [§ 13](para-013.md) | Valimiskomisjonide volituste kestus |
-| [§ 14](para-014.md) | Valimiskomisjoni liige |
-| [§ 15](para-015.md) | Valimiskomisjoni töökorraldus |
-| [§ 16](para-016.md) | Valimiskomisjoni abistamine |
-| [§ 17](para-017.md) | Vabariigi Valimiskomisjoni pädevus |
-| [§ 18](para-018.md) | Maakonna valimiskomisjoni pädevus |
-| [§ 19](para-019.md) | Valla ja linna valimiskomisjoni moodustamine |
-| [§ 20](para-020.md) | Valla ja linna valimiskomisjoni pädevus |
-| [§ 20¹](para-020b1.md) | Elektroonilise hääletamise komisjoni pädevus |
-| [§ 21](para-021.md) | Jaoskonnakomisjoni moodustamine |
-| [§ 22](para-022.md) | Jaoskonnakomisjoni pädevus |
-| [§ 23](para-023.md) | Toimingud uue kohaliku omavalitsuse üksuse volikogu valimise korral |
+| **4. peatükk VALIMISTE KORRALDUS** | |
+| **1. jagu Valimiskomisjonid** | |
+| [§ 12](para-012.md) | Vabariigi Valimiskomisjoni pädevus |
+| [§ 13](para-013.md) | Valla ja linna valimiskomisjoni pädevus |
+| [§ 14](para-014.md) | Valla ja linna valimiskomisjoni moodustamine |
+| [§ 15](para-015.md) | Valla ja linna valimiskomisjoni liige |
+| [§ 16](para-016.md) | Valla ja linna valimiskomisjoni töökorraldus |
+| [§ 17](para-017.md) | Valla ja linna valimiskomisjoni moodustamine uue kohaliku omavalitsuse üksuse volikogu valimise korral |
+| **2. jagu Valimiste korraldajad** | |
+| [§ 18](para-018.md) | Valimiste korraldajad |
+| [§ 19](para-019.md) | Riigi valimisteenistuse pädevus |
+| [§ 20](para-020.md) | Maakonna valimisjuhi pädevus |
+| [§ 21](para-021.md) | Valimiste korraldaja abistamine |
+| [§ 22](para-022.md) | Valimisjaoskondade moodustamine |
+| [§ 23](para-023.md) | Jaoskonnakomisjoni moodustamine |
+| [§ 23¹](para-023b1.md) | Jaoskonnakomisjoni pädevus |
+| [§ 23²](para-023b2.md) | Jaoskonnakomisjoni töökorraldus |
+| [§ 23³](para-023b3.md) | Jaoskonnakomisjoni moodustamine uue kohaliku omavalitsuse üksuse volikogu valimise korral |
+| [§ 23⁴](para-023b4.md) | Valimiste vaatlemine |
 | **5. peatükk VALIJATE ARVESTUS** | |
 | [§ 24](para-024.md) | Valijate arvestuse pidamine |
 | [§ 25](para-025.md) | Euroopa Liidu kodaniku teavitamine hääleõiguslikkusest volikogu valimistel |
@@ -49,6 +54,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/121062016007> (version in force 
 | [§ 31](para-031.md) | Erakond |
 | [§ 31¹](para-031b1.md) | Valimisliit |
 | [§ 32](para-032.md) | Üksikkandidaat |
+| [§ 32¹](para-032b1.md) | Kandideerimisdokumendid |
 | [§ 33](para-033.md) | Kandideerimisavaldus |
 | [§ 34](para-034.md) | Kandidaatide nimekiri |
 | [§ 35](para-035.md) | Kandidaatide registreerimiseks esitamine |
@@ -89,12 +95,13 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/121062016007> (version in force 
 | [§ 58](para-058.md) | Valimiste korraldamise kulud |
 | [§ 59](para-059.md) |  |
 | [§ 61](para-061.md) |  |
-| **11. peatükk KAEBUSED** | |
-| [§ 62](para-062.md) | Kaebuse mõiste |
-| [§ 63](para-063.md) | Nõuded kaebusele |
-| [§ 64](para-064.md) | Jaoskonnakomisjoni toimingu ja valla või linna valimiskomisjoni otsuse või toimingu peale kaebuse esitamise ja kaebuse läbivaatamise kord |
-| [§ 65](para-065.md) | Maakonna valimiskomisjoni otsuse või toimingu või elektroonilise hääletamise komisjoni toimingu peale kaebuse esitamise ja kaebuse läbivaatamise kord |
-| [§ 66](para-066.md) | Valimiskomisjoni otsuse või toimingu peale kaebuse esitamine |
+| **11. peatükk AVALDUSED JA KAEBUSED** | |
+| [§ 62](para-062.md) | Avaldus puuduse kohta valimiste korralduses |
+| [§ 63](para-063.md) | Kaebuse mõiste |
+| [§ 64](para-064.md) | Kaebuse esitamise õigus |
+| [§ 65](para-065.md) | Kaebusele esitatavad nõuded |
+| [§ 66](para-066.md) | Kaebuse läbivaatamine Vabariigi Valimiskomisjonis |
+| [§ 66¹](para-066b1.md) | Vabariigi Valimiskomisjoni otsuse või toimingu peale kaebuse esitamine |
 | [§ 67](para-067.md) | Hääletamistulemuste kehtetuks tunnistamine |
 | **11¹. peatükk VASTUTUS** | |
 | [§ 67¹](para-067b1.md) | Andmete või materjalide esitamata jätmine või valimiskomisjoni otsuse mittetäitmine |

@@ -1,21 +1,21 @@
-# § 15. Valimiskomisjoni töökorraldus
+# § 15. Valla ja linna valimiskomisjoni liige
 
-(1) Valimiskomisjoni töövorm on koosolek, mille kutsub kokku komisjoni esimees või tema äraolekul aseesimees, nende mõlema äraolekul valimiskomisjoni noorim liige.
+(1) Valla ja linna valimiskomisjoni liikmeks võib olla Eesti kodanik või Euroopa Liidu kodanik, kellel on hääletamisõigus kohaliku omavalitsuse volikogu valimistel. Valimiskomisjoni liikme püsiv elukoht ei pea olema selles vallas või linnas.
 
-(2) Valimiskomisjon on otsustusvõimeline, kui selle koosolekust võtab osa vähemalt pool komisjoni koosseisust. Valimiskomisjoni koosolekut juhatab komisjoni esimees või tema äraolekul aseesimees. Nende mõlema äraolekul juhatab komisjoni koosolekut kuni uue aseesimehe valimiseni komisjoni noorim liige.
+(2) Valla ja linna valimiskomisjoni liikme volitused lõpevad ennetähtaegselt:
 
-(3) Valimiskomisjoni koosolek protokollitakse.
+1) tema tagasiastumisega;
 
-(4) Valimiskomisjoni koosolek on avalik. Igaühel on õigus tutvuda valimiskomisjoni otsusega ja komisjoni koosoleku protokolliga.
+2) tema surmaga;
 
-(5) Valimiskomisjon otsustab tema pädevuses olevaid asju poolthäälte enamusega. Komisjoni liikme eriarvamus kantakse koosoleku protokolli.
+3) tema asumisega erakonna, valimisliidu või üksikkandidaadi volitatud esindajaks;
 
-(6) Kui valimiskomisjoni liikme volitused peatuvad või lõpevad, teatab esimees sellest esimesele asendusliikmele, kes asub täitma valimiskomisjoni liikme kohustusi.
+4) tema registreerimiseks esitamisega kandidaadiks kohaliku omavalitsuse volikogu valimistel;
 
-(7) Valimiskomisjoni otsuse alusel võivad valimistoimingutes osaleda ka asendusliige ja muu isik.
+5) tema asumisega valimiste korraldajaks.
 
-(8) Kui Vabariigi Valimiskomisjoni põhiliige ei saa komisjoni koosolekust osa võtta, asendab teda asendusliige, kellel on kõik põhiliikme õigused ja kohustused, välja arvatud esimehe või aseesimehe õigused ja kohustused.
+(3) Valla ja linna valimiskomisjoni liikme võib ennetähtaegselt valimiskomisjoni liikme kohustustest vabastada tema nimetanud volikogu oma põhistatud otsusega kas omal algatusel või valimiskomisjoni ettepanekul.
 
-(9) Valimiskomisjoni liikme või asendusliikme või komisjoni abistava isiku tööleping või teenistussuhe peatatakse valimiste korraldamise ajaks valimiskomisjoni ettepaneku alusel.
+(4) Valla ja linna valimiskomisjoni liige on oma ülesandeid täites erapooletu ja sõltumatu.
 
-(10) Vabariigi Valimiskomisjoni, maakonna valimiskomisjoni ja elektroonilise hääletamise komisjoni liikmete tasustamine korraldatakse Riigikogu valimise seaduse § 12 lõigetes 10–12 sätestatut järgides.
+(5) Valla ja linna valimiskomisjoni liige ei või agiteerida erakonna, valimisliidu ega kandidaadi poolt ega vastu.

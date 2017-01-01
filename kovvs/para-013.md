@@ -1,5 +1,5 @@
-# § 13. Valimiskomisjonide volituste kestus
+# § 13. Valla ja linna valimiskomisjoni pädevus
 
-(1) Vabariigi Valimiskomisjoni, elektroonilise hääletamise komisjoni, maakonna valimiskomisjoni ning Tallinna ja Tartu linna valimiskomisjoni volituste kestus ja moodustamise kord nähakse ette Riigikogu valimise seaduses.
+(1) Valla ja linna valimiskomisjoni ülesanne on registreerida käesoleva seaduse nõuete kohaselt esitatud kandidaadid, teha kindlaks valla või linna hääletamis- ja valimistulemused ning täita muid seadustest tulenevaid ülesandeid.
 
-(2) Valla ja linna valimiskomisjonid ning jaoskonnakomisjonid moodustatakse enne volikogu valimist. Valla ja linna valimiskomisjonide ning jaoskonnakomisjonide volitused kestavad kuni komisjoni uue koosseisu nimetamiseni.
+(2) Valla ja linna valimiskomisjoni pädevuses oleva küsimuse lahendamiseks võtab valimiskomisjon vastu otsuse, millele kirjutab alla komisjoni esimees. Otsus jõustub allakirjutamisel.

@@ -1,9 +1,19 @@
-# § 23. Toimingud uue kohaliku omavalitsuse üksuse volikogu valimise korral
+# § 23. Jaoskonnakomisjoni moodustamine
 
-(1) Uue kohaliku omavalitsuse üksuse volikogu valimisteks nimetavad asjaomased volikogud kokkuleppel asjaomaste valla- või linnasekretäride ettepanekul valla või linna valimiskomisjoni liikmed ja asendusliikmed käesoleva seaduse § 19 lõigetes 1 ja 3 ettenähtut järgides.
+(1) Hääletamise korraldamiseks valimisjaoskonna territooriumil moodustab volikogu vähemalt viieliikmelise jaoskonnakomisjoni.
 
-(2) Valla või linna valimiskomisjoni esimehe ja aseesimehe valib komisjon oma liikmete seast. Komisjoni esimehe volitused kestavad kuni uue kohaliku omavalitsuse üksuse valla- või linnasekretäri ametissenimetamiseni.
+(2) Volikogu nimetab otsusega valla- või linnasekretäri ettepanekul ning poliitilise tasakaalustatuse põhimõtet arvestades jaoskonnakomisjoni esimehe ja jaoskonnakomisjoni liikmed hiljemalt 20. päeval enne valimispäeva.
 
-(3) Uue kohaliku omavalitsuse üksuse volikogu valimisteks nimetab valla või linna valimiskomisjon jaoskonnakomisjoni liikmed ja asendusliikmed käesoleva seaduse §-s 21 ettenähtut järgides. Sel juhul teeb käesoleva seaduse §-s 21 sätestatud volikogu otsused valla või linna valimiskomisjon ja valla- või linnasekretäri toimingud teeb valla või linna valimiskomisjoni esimees.
+(3) Poole jaoskonnakomisjoni liikmetest esitab valla- või linnasekretär ning ülejäänud liikmed esitavad selles vallas või linnas valimistel osalevad erakonnad ja valimisliidud.
 
-(4) Käesoleva paragrahvi lõikes 1 nimetatud otsused võtavad asjaomased valla- või linnavolikogud vastu enne kõigi haldusterritoriaalse korralduse muutmist eeldavate dokumentide esitamist asjaomasele maavanemale või maavanematele.
+(4) Valimistel osalev erakond või valimisliit võib esitada ühe jaoskonnakomisjoni liikmekandidaadi valla- või linnasekretärile hiljemalt 40. päeval enne valimispäeva.
+
+(5) Jaoskonnakomisjoni liikmeks nimetamiseks peab olema isiku nõusolek.
+
+(6) Kui erakonnad ja valimisliidud kandidaate ei esita või kui nende esitatud kandidaatide arv on väiksem, kui on erakondadel ja valimisliitudel kohti jaoskonnakomisjonis, nimetab volikogu ülejäänud liikmed valla- või linnasekretäri ettepanekul.
+
+(7) Kui erakondade ja valimisliitude esitatud jaoskonnakomisjoni liikmekandidaate on rohkem, kui on erakondadel ja valimisliitudel kohti jaoskonnakomisjonis, nimetatakse kõik ülejäänud kandidaadid jaoskonnakomisjoni asendusliikmeteks.
+
+(8) Volikogu nimetab valla- või linnasekretäri ettepanekul ning käesoleva paragrahvi lõikes 7 ettenähtut järgides vähemalt kaks jaoskonnakomisjoni asendusliiget.
+
+(9) Jaoskonnakomisjoni aseesimehe valib jaoskonnakomisjon oma liikmete hulgast.

@@ -1,35 +1,21 @@
-# § 14. Valimiskomisjoni liige
+# § 14. Valla ja linna valimiskomisjoni moodustamine
 
-(1) Valla või linna valimiskomisjoni liikmeks võib olla Eesti kodanik või Euroopa Liidu kodanik, kellel on hääletamisõigus käesoleva seaduse § 5 lõigete 1, 3 ja 4 kohaselt. Valla või linna valimiskomisjoni liige peab valdama eesti keelt.
+(1) Valla ja linna valimiskomisjonil on kuni seitse liiget.
 
-(2) Jaoskonnakomisjoni liikmeks võib olla Eesti kodanik, Euroopa Liidu kodanik või välismaalane, kellel on hääletamisõigus käesoleva seaduse § 5 lõigete 1–4 kohaselt. Jaoskonnakomisjoni liige peab valdama eesti keelt.
+(2) Valla ja linna valimiskomisjoni liikmed nimetatakse hiljemalt 90. päeval enne valimispäeva.
 
-(3) Isik võib olla ühe valimiskomisjoni liige.
+(3) Valla ja linna valimiskomisjonide volitused kestavad kuni komisjoni uue koosseisu nimetamiseni.
 
-(4) Valimiskomisjoni liikme volitused lõpevad ennetähtaegselt:
+(4) Valla ja linna valimiskomisjoni esimees on valla- või linnasekretär. Kui valla- või linnasekretäri äraoleku ajaks on kohaliku omavalitsuse korralduse seaduse § 55 lõike 5 alusel määratud asendaja, täidab valla või linna valimiskomisjoni esimehe ülesandeid valla- või linnasekretäri asendaja.
 
-1) kui ilmneb, et tal puudub hääletamisõigus käesoleva seaduse § 5 lõigete 1–4 kohaselt;
+(5) Valla ja linna valimiskomisjoni liikmed nimetab oma otsusega volikogu valla- või linnasekretäri ettepanekul.
 
-2) tema tagasiastumisega;
+(6) Volikogu nimetab valla- või linnasekretäri ettepanekul ka kuni kaks asendusliiget, kes asuvad komisjoni volituste ajal volikogu määratud järjekorras nende komisjoniliikmete asemele, kelle volitused on lõppenud.
 
-3) tema surmaga.
+(7) Valla ja linna valimiskomisjoni aseesimehe valib komisjon oma liikmete hulgast.
 
-(5) Isiku võib ennetähtaegselt valimiskomisjoni liikme kohustustest vabastada tema nimetanud organ oma põhistatud otsusega kas oma algatusel või valimiskomisjoni ettepanekul.
+(8) Valla ja linna valimiskomisjoni teenindamise korraldab valla- või linnavalitsus.
 
-(6) Valimiskomisjoni liikme volitused peatuvad:
+(9) Valla ja linna valimiskomisjoni asukoha määrab valla- või linnavalitsus ning avalikustab selle.
 
-1) tema asumisega valimisliidu moodustajaks või erakonna, valimisliidu või üksikkandidaadi volitatud esindajaks;
-
-2) tema esitamisega volikogu liikmekandidaadiks registreerimiseks.
-
-(7) Vabariigi Valimiskomisjon võib peatada maakonna valimiskomisjoni, valla või linna valimiskomisjoni või jaoskonnakomisjoni liikme volitused, kes on seadust rikkunud. Maakonna valimiskomisjon võib peatada valla või linna valimiskomisjoni või jaoskonnakomisjoni liikme volitused, kes on seadust rikkunud.
-
-(8) Valimiskomisjoni liikme volitused taastuvad:
-
-1) käesoleva paragrahvi lõike 6 punktis 1 ettenähtud juhul – valimistulemuste väljakuulutamise päevast;
-
-2) käesoleva paragrahvi lõike 6 punktis 2 ettenähtud juhul – kandidaadi registreerimata jätmisele või kandideerimisest loobumisele järgnevast päevast või valimistulemuste väljakuulutamise päevast, kui kandidaat ei osutunud valituks.
-
-(9) Valimiskomisjoni liige ei või teha agitatsiooni erakonna, valimisliidu ega kandidaadi poolt ega vastu.
-
-(10) Valimiskomisjoni liige on oma ülesandeid täites sõltumatu. Valimiskomisjoni liige juhindub seadusest ja kõrgemalseisva valimiskomisjoni juhistest.
+(10) Valla ja linna valimiskomisjon määrab oma tööaja ning avalikustab selle. Ajavahemikus kandidaatide registreerimiseks esitamise algusest kuni kandideerimisest loobumise viimase päevani peab valimiskomisjon töötama igal tööpäeval.

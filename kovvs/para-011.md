@@ -8,6 +8,6 @@
 
 (2) Mandaatide jaotamisel lähtutakse käesoleva seaduse § 9 lõigetes 1 ja 2 ettenähtust ning uue valla või linna territooriumil elavate valijate arvust rahvastikuregistri andmete alusel mandaatide jaotamise aasta 1. jaanuari seisuga.
 
-(3) Asjaomased valla- või linnavalitsused moodustavad kokkuleppel valimisringkondade territooriumil valimisjaoskonnad, lähtudes käesoleva seaduse §-s 10 ettenähtust.
+(3) Asjaomased valla- või linnavalitsused moodustavad kokkuleppel valimisringkondade territooriumil valimisjaoskonnad, lähtudes käesoleva seaduse §-s 22 ettenähtust.
 
 (4) Käesolevas paragrahvis nimetatud otsused ja korraldused võtavad asjaomased valla- või linnavolikogud ja valla- või linnavalitsused vastu enne kõigi haldusterritoriaalse korralduse muutmist eeldavate dokumentide esitamist asjaomasele maavanemale või maavanematele.

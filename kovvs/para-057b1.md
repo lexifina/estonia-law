@@ -6,7 +6,7 @@
 
 (3) Uue kohaliku omavalitsuse üksuse volikogu valimistel saavad kandideerida isikud, kes vastavad käesoleva seaduse § 5 lõigetes 5 ja 6 ettenähtud tingimustele ja kelle püsiv elukoht, see tähendab elukoht, mille aadressiandmed on kantud rahvastikuregistrisse, asub valimiste väljakuulutamise päeval ühineva kohaliku omavalitsuse üksuse territooriumil.
 
-(4) Valla või linna valimiskomisjon kehtestab oma otsusega kooskõlastatult Vabariigi Valimiskomisjoniga valimistoimingute tähtajad ning avalikustab need kolme päeva jooksul, arvates valimiste väljakuulutamise päevast.
+(4) Valla või linna valimiskomisjon kehtestab oma otsusega kooskõlastatult riigi valimisteenistusega valimistoimingute tähtajad ning avalikustab need kolme päeva jooksul, arvates valimiste väljakuulutamise päevast.
 
 (5) Uue kohaliku omavalitsuse üksuse volikogu valimistel peab kandidaatide registreerimiseks esitamiseks ja registreerimiseks jääma kokku vähemalt 25 päeva.
 

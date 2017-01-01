@@ -28,7 +28,7 @@
 
 (3) Euroopa Liidu kodanik esitab kandideerimisavalduses täiendavalt kodakondsuse andmed.
 
-(4) Vabariigi Valimiskomisjon avaldab käesoleva paragrahvi lõike 2 punktides 1, 3, 6, 7 ja 8 ning lõikes 3 sätestatud andmed Vabariigi Valimiskomisjoni veebilehel.
+(4) Riigi valimisteenistus avaldab käesoleva paragrahvi lõike 2 punktides 1, 3, 6, 7 ja 8 ning lõikes 3 sätestatud andmed.
 
 (5) Kandidaat kasutab kandideerimisel oma nimena üksnes ees- ja perekonnanime.
 

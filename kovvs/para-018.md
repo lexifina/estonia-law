@@ -1,15 +1,19 @@
-# § 18. Maakonna valimiskomisjoni pädevus
+# § 18. Valimiste korraldajad
 
-(1) Maakonna valimiskomisjoni ülesanne on juhendada valla ja linna valimiskomisjone ning jaoskonnakomisjone, valvata nende tegevuse järele ning täita muid käesolevast seadusest tulenevaid ülesandeid.
+(1) Kohaliku omavalitsuse volikogu valimisi korraldavad:
 
-(2) Maakonna valimiskomisjonil on õigus:
+1) riigi valimisteenistus;
 
-1) teha ettekirjutusi valla või linna valimiskomisjoni või jaoskonnakomisjoni toimingu või valla või linna valimiskomisjoni otsuse puuduste kõrvaldamiseks;
+2) maakonna valimisjuhid;
 
-2) peatada valla või linna valimiskomisjoni või jaoskonnakomisjoni toiming või valla või linna valimiskomisjoni otsuse kehtivus;
+3) jaoskonnakomisjonid.
 
-3) tunnistada valla või linna valimiskomisjoni otsus kehtetuks ning vajadusel teha ettekirjutus uue otsuse tegemiseks.
+(2) Riigi valimisteenistuse moodustamise ja maakonna valimisjuhi nimetamise kord sätestatakse Riigikogu valimise seaduses.
 
-(3) Maakonna valimiskomisjoni pädevuses oleva üksikküsimuse lahendamiseks võtab maakonna valimiskomisjon vastu otsuse. Otsusele kirjutab alla komisjoni esimees. Otsus jõustub allakirjutamisega.
+(3) Valimisi korraldav isik ei saa olla samal ajal erakonna, valimisliidu või üksikkandidaadi volitatud esindaja või kandidaat.
 
-(4) Maakonna valimiskomisjoni otsus ja juhis on valla ja linna valimiskomisjonile ning jaoskonnakomisjonile kohustuslikud.
+(4) Valimisi korraldav isik peab olema hääletamisõiguslik kohaliku omavalitsuse volikogu valimistel ja valdama eesti keelt. Valimisi korraldava isiku püsiv elukoht ei pea olema selles vallas või linnas.
+
+(5) Valimisi korraldav isik on oma ülesandeid täites sõltumatu ja ta ei või agiteerida erakonna, valimisliidu ega kandidaadi poolt ega vastu.
+
+(6) Valimisi korraldaval isikul on õigus saada temale antud tööülesannete täitmise eest tasu.

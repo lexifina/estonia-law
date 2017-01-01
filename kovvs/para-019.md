@@ -1,15 +1,31 @@
-# § 19. Valla ja linna valimiskomisjoni moodustamine
+# § 19. Riigi valimisteenistuse pädevus
 
-(1) Valla ja linna valimiskomisjonil on kuni seitse liiget.
+(1) Riigi valimisteenistuse ülesanne on:
 
-(2) Valla ja linna valimiskomisjoni liikmed nimetatakse hiljemalt 90. päeval enne valimispäeva.
+1) tagada valimiste seadusekohane korraldamine, korraldada elektrooniline hääletamine ja teha kindlaks elektroonilise hääletamise tulemus;
 
-(3) Valla ja linna valimiskomisjoni esimees on valla- või linnasekretär. Kui valla- või linnasekretäri äraoleku ajaks on kohaliku omavalitsuse korralduse seaduse § 55 lõike 5 alusel määratud asendaja, täidab valla või linna valimiskomisjoni esimehe ülesandeid valla- või linnasekretäri asendaja. Valla ja linna valimiskomisjoni liikmed nimetab oma otsusega volikogu valla- või linnasekretäri ettepanekul. Volikogu nimetab valla- või linnasekretäri ettepanekul ka kuni kaks asendusliiget, kes komisjoni volituste ajal volikogu määratud järjekorras asuvad nende komisjoniliikmete asemele, kelle volitused on peatunud või lõppenud.
+2) valvata valimiste korraldajate tegevuse järele;
 
-(4) Valla ja linna valimiskomisjoni aseesimehe valib komisjon oma liikmete hulgast.
+3) korraldada valimisseadustest tulenevate ülesannete täitmiseks vajalike tehniliste lahenduste arendus ja haldus;
 
-(5) Valla ja linna valimiskomisjoni asjaajamise ja tehnilise teenindamise tagab valla- või linnavalitsus.
+4) täita muid käesolevast seadusest tulenevaid ülesandeid.
 
-(6) Valla ja linna valimiskomisjoni asukoha määrab valla- või linnavalitsus ning avalikustab selle.
+(2) Ülesannete täitmiseks riigi valimisteenistus:
 
-(7) Valla ja linna valimiskomisjon määrab oma tööaja ning avalikustab selle. Ajavahemikus kandidaatide registreerimiseks esitamise algusest kuni kandidaatide registreerimiseni peab valimiskomisjon töötama igal tööpäeval.
+1) annab valimiste ühetaolisuse tagamiseks valimiste korraldajatele kirjalikke juhendeid;
+
+2) annab valimiste korraldajatele täitmiseks kohustuslikke suulisi ja kirjalikke korraldusi;
+
+3) koostab valimiste ettevalmistamise ja korraldamise eelarve projekti;
+
+4) jaotab maakonna valimisjuhtide vahel kooskõlastatult Vabariigi Valimiskomisjoniga valimiste korraldamiseks eraldatud raha ning kehtestab maakonna valimisjuhtidele ning jaoskonnakomisjonidele eraldatud raha kasutamise korra;
+
+5) tagab valimiste korraldamiseks vajaliku inventari ja teenuste olemasolu;
+
+6) juhendab ja koolitab valimiste korraldajaid ning valla ja linna valimiskomisjone;
+
+7) võib seadust või riigi valimisteenistuse korraldust rikkunud valimisi korraldava isiku kõrvaldada valimiste korraldamiselt;
+
+8) teeb vajaduse korral Vabariigi Valimiskomisjonile ettepaneku käesoleva seaduse § 12 lõike 2 punktides 2–4 sätestatud otsuste tegemiseks.
+
+(3) Riigi valimisteenistuse kirjalikule korraldusele kirjutab alla riigi valimisteenistuse juht. Kirjalik korraldus jõustub selle allakirjutamisel.
