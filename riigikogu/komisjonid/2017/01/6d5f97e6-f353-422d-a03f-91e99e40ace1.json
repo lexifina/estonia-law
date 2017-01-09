@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 9.01.2017 13:30",
+  "sitting_time": "2017-01-09T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a9cfcbe2-124f-49b7-a5fa-eabec2304e16"
+    },
+    {
+      "order": 2,
+      "title": "Komisjoni edasise tegevuse arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "83583d05-85a2-43c0-a329-bb19090eeeed"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll nr 82",
+      "uuid": "2bb9b58e-e861-4c22-8b6e-8bd1577f2827",
+      "files": [
+        "protokoll 82 9 01 17.pdf",
+        "Protokoll_nr_82.bdoc"
+      ]
+    }
+  ],
+  "uuid": "6d5f97e6-f353-422d-a03f-91e99e40ace1",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 6d5f97e6-f353-422d-a03f-91e99e40ace1)",
+  "source": "https://api.riigikogu.ee/api/volumes/6d5f97e6-f353-422d-a03f-91e99e40ace1",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-01-01&endDate=2017-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
