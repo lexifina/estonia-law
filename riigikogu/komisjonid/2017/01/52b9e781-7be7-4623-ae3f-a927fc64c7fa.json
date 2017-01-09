@@ -1,0 +1,42 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 9.01.2017 11:00",
+  "sitting_time": "2017-01-09T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "735e73ad-9045-4ece-99e1-e08d34be85b8"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine MTÜ Ettevõtlikud Naised (ETNA) Eestimaal esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "de7174c3-b1b0-4b19-940e-588fc015a978"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "8565b0c7-3356-4909-9f8c-409890f49c0f",
+      "files": [
+        "Protokol_20170111.pdf",
+        "093 protokoll lisa 2 ETNA .ppt",
+        "093 protokoll lisa 1 ETNA.pptx",
+        "Protokoll.bdoc"
+      ]
+    }
+  ],
+  "uuid": "52b9e781-7be7-4623-ae3f-a927fc64c7fa",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 52b9e781-7be7-4623-ae3f-a927fc64c7fa)",
+  "source": "https://api.riigikogu.ee/api/volumes/52b9e781-7be7-4623-ae3f-a927fc64c7fa",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-01-01&endDate=2017-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
