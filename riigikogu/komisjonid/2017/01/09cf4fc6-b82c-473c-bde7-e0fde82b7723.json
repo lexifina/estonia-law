@@ -1,0 +1,35 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 10.01.2017 14:00",
+  "sitting_time": "2017-01-10T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade Eesti maaelu arengukavast 2014-2020",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "37bab740-3df5-48db-bc59-b2a10e1f507a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "d68bd0e1-394a-47bb-830b-1d63c6c66f65",
+      "files": [
+        "Protokol_20170113.pdf",
+        "094 protokoll lisa_MAK rakendamine_Gorban.pptx",
+        "Protokoll.bdoc"
+      ]
+    }
+  ],
+  "uuid": "09cf4fc6-b82c-473c-bde7-e0fde82b7723",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 09cf4fc6-b82c-473c-bde7-e0fde82b7723)",
+  "source": "https://api.riigikogu.ee/api/volumes/09cf4fc6-b82c-473c-bde7-e0fde82b7723",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-01-01&endDate=2017-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
