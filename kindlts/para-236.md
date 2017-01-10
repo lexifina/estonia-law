@@ -1,0 +1,11 @@
+# § 236. Järelevalve Eesti kindlustusandja ja vahendaja tegevuse üle välisriigis
+
+(1) Kui Eesti kindlustusandja või vahendaja, kes tegeleb välisriigis piiriülese kindlustustegevuse või kindlustusvahendusega või kelle filiaal on asutatud välisriigis, rikub välisriigis kehtivate õigusaktide nõudeid, rakendab Finantsinspektsioon välisriigi finantsjärelevalve asutuse ettepanekul viivitamata meetmeid rikkumise lõpetamiseks. Finantsinspektsioon teeb rakendatavad meetmed teatavaks asjaomase välisriigi finantsjärelevalve asutusele.
+
+(2) Kui Eesti kindlustusandja tegeleb teises lepinguriigis piiriülese kindlustustegevusega või ta on asutanud teises lepinguriigis filiaali, on Finantsinspektsioonil õigus lisaks käesoleva paragrahvi lõikes 1 sätestatule pöörduda Euroopa Kindlustus- ja Tööandjapensionide Järelevalve Asutuse poole vastavalt Euroopa Parlamendi ja nõukogu määruse (EL) nr 1094/2010 artiklile 19.
+
+(3) Finantsinspektsioon võib järelevalve teostamise käigus läbi viia kindlustusandja ja vahendaja välisriigis asuva filiaali käesoleva seaduse §-s 231 sätestatud kohapealse kontrolli, olles sellest eelnevalt teavitanud välisriigi finantsjärelevalve asutust. Lepinguriigi finantsjärelevalve asutusel on õigus osaleda filiaali kohapealses kontrollis.
+
+(4) Kui teise lepinguriigi finantsjärelevalve asutus ei võimalda Finantsinspektsioonil selles lepinguriigis asuva kindlustusandja filiaali kohapealset kontrolli läbi viia, on Finantsinspektsioonil õigus pöörduda Euroopa Kindlustus- ja Tööandjapensionide Järelevalve Asutuse poole vastavalt Euroopa Parlamendi ja nõukogu määruse (EL) nr 1094/2010 artiklile 19.
+
+(5) Tegevusloa kehtetuks tunnistamisest ning käesoleva seaduse §-des 27 ja 34 nimetatud ettekirjutustest teavitab Finantsinspektsioon viivitamata selle lepinguriigi finantsjärelevalve asutust, kus kindlustusandja on asutanud filiaali või kus kindlustusandja tegeleb piiriülese kindlustustegevusega, rakendades samal ajal kõiki meetmeid kindlustusvõtjate, kindlustatute ja soodustatud isikute huvide kaitseks.
