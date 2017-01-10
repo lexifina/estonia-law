@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung teisipäev, 10.01.2017, algus 15 minutit pärast täiskogu istungi lõppu",
+  "sitting_time": "2017-01-10T10:29:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti Vabariigi põhiseaduse muutmise seaduse Vabariigi Presidendi valimiskorra muutmise eelnõu (306 SE) esimese lugemise arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b14b71fa-9a5a-4c23-8574-938779e8d4b4"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu kodu- ja töökorra seaduse ja kriminaalmenetluse seadustiku muutmise seaduse, millega tugevdatakse parlamentaarset kontrolli  eelnõu (313 SE) esimese lugemise arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "85c06aae-27a9-4c24-aad2-5068964b2794"
+    },
+    {
+      "order": 3,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f0850216-1a8c-4d64-ab93-580f205c60c9"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "2017.01.10 protokoll",
+      "uuid": "b46b4e86-93a3-4316-b11c-444e75e8aac2",
+      "files": [
+        "2017.01.10_protokoll.bdoc",
+        "2017.01.10 protokoll.pdf"
+      ]
+    }
+  ],
+  "uuid": "d963ae6c-4efd-4a9e-8af8-04a4685293e6",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d963ae6c-4efd-4a9e-8af8-04a4685293e6)",
+  "source": "https://api.riigikogu.ee/api/volumes/d963ae6c-4efd-4a9e-8af8-04a4685293e6",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-01-01&endDate=2017-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
