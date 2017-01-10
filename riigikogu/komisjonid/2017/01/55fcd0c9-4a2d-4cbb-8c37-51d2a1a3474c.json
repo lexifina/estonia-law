@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni avalik istung teisipäev, 10.01.2017 14:00",
+  "sitting_time": "2017-01-10T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kollektiivne pöördumine omandireformi küsimuses (1-6/16-98)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "65bdabe9-48c5-40bc-bf9c-4282d9da901c"
+    },
+    {
+      "order": 2,
+      "title": "Balti Assamblee Eesti delegatsiooni liikmekandidaatide esitamine.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "55220110-5cd4-4786-9f5e-af861694bd54"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fc855fec-3a0e-4b56-8389-d022b266c200"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "75c7e0ba-8593-4880-821b-c3728aa8684d",
+      "files": [
+        "Protokoll.bdoc",
+        "Protokol_20170119.pdf"
+      ]
+    }
+  ],
+  "uuid": "55fcd0c9-4a2d-4cbb-8c37-51d2a1a3474c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 55fcd0c9-4a2d-4cbb-8c37-51d2a1a3474c)",
+  "source": "https://api.riigikogu.ee/api/volumes/55fcd0c9-4a2d-4cbb-8c37-51d2a1a3474c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-01-01&endDate=2017-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
