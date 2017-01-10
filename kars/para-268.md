@@ -8,4 +8,4 @@ karistatakse rahalise karistuse või kuni viieaastase vangistusega.
 
 1) võib kohus kohaldada lisakaristusena varalist karistust vastavalt käesoleva seadustiku §-s 53 sätestatule või
 
-2) kohaldab kohus kuriteoga saadud vara laiendatud konfiskeerimist vastavalt käesoleva seadustiku §-s 83² sätestatule.
+2) võib kohus kohaldada kuriteoga saadud vara laiendatud konfiskeerimist vastavalt käesoleva seadustiku §-s 83² sätestatule.

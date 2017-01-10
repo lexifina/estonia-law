@@ -16,6 +16,6 @@ karistatakse viie- kuni kahekümneaastase vangistusega.
 
 karistatakse rahalise karistusega.
 
-(4) Kohus konfiskeerib käesolevas paragrahvis sätestatud süüteo toimepanemise vahetuks objektiks olnud aine või eseme vastavalt käesoleva seadustiku §-s 83 sätestatule.
+(4) Kohus konfiskeerib käesolevas paragrahvis sätestatud süüteo toimepanemise vahetuks objektiks olnud aine või eseme.
 
-(5) Kohus kohaldab käesolevas paragrahvis sätestatud kuriteo eest kuriteoga saadud vara laiendatud konfiskeerimist vastavalt käesoleva seadustiku §-s 83² sätestatule.
+(5) Kohus võib kohaldada käesolevas paragrahvis sätestatud kuriteo eest kuriteoga saadud vara laiendatud konfiskeerimist vastavalt käesoleva seadustiku §-s 83² sätestatule.

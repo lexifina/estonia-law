@@ -13,3 +13,5 @@ karistatakse rahalise karistusega.
 1) võltsimise objektiks on käibele lastud või käibele laskmata raha, kui see on mõeldud ringluseks ning on seadusliku maksevahendina kasutatav vääring;
 
 2) võltsimine pannakse toime seaduslike või ebaseaduslike vahendite abil, kuid emiteerivate asutuste pädevuse aluseks olevaid õigusi või tingimusi rikkudes.
+
+(4) Kohus võib kohaldada käesolevas paragrahvis sätestatud kuriteo eest kuriteoga saadud vara laiendatud konfiskeerimist vastavalt käesoleva seadustiku §-s 83² sätestatule.

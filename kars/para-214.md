@@ -19,3 +19,5 @@ karistatakse rahalise karistuse või kuni viieaastase vangistusega.
 6) vara rikkumise või hävitamisega, –
 
 karistatakse nelja- kuni kaheteistaastase vangistusega.
+
+(3) Kohus võib kohaldada käesolevas paragrahvis sätestatud kuriteo eest kuriteoga saadud vara laiendatud konfiskeerimist vastavalt käesoleva seadustiku §-s 83² sätestatule.

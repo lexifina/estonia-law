@@ -1,10 +1,10 @@
 # § 83². Kuriteoga saadud vara laiendatud konfiskeerimine
 
-(1) Mõistes isiku süüdi kuriteos ja karistades teda vähemalt üheaastase või eluaegse vangistusega, võib kohus käesolevas seadustikus sätestatud juhtudel konfiskeerida osa kuriteo toimepanija varast või kogu vara, kui see kuulub otsuse tegemise ajal toimepanijale ja kui kuriteo olemuse, isiku legaalse sissetuleku ja varandusliku olukorra ning elatustaseme erinevuse või muu põhjuse tõttu on alust eeldada, et isik on saanud vara kuriteo toimepanemise tulemusena. Konfiskeerimist ei kohaldata varale, mille suhtes isik tõendab, et selle eest on täielikult või olulises osas tasutud õiguspäraselt saadud vahendite arvel.
+(1) Mõistes isiku süüdi kuriteos, võib kohus käesolevas seadustikus sätestatud juhtudel konfiskeerida osa kuriteo toimepanija varast või kogu vara, kui see kuulub otsuse tegemise ajal toimepanijale ja kui kuriteo olemus, erinevus isiku legaalse tulu ja varalise seisundi, kulude või elatustaseme vahel või muu põhjus annab aluse eeldada, et isik on saanud vara kuriteo toimepanemise tulemusena või sellise vara arvel (edaspidi *kuriteoga saadud vara*). Konfiskeerimist ei kohaldata varale, mille suhtes isik tõendab, et tegemist ei ole kuriteoga saadud varaga.
 
-(1¹) Mõistes juriidilise isiku süüdi kuriteos, võib kohus käesolevas seadustikus sätestatud juhtudel konfiskeerida osa juriidilise isiku varast või kogu vara, kui see kuulub otsuse tegemise ajal juriidilisele isikule ja kui kuriteo olemuse või muu põhjuse tõttu on alust eeldada, et juriidilise isiku peamine tegevus on suunatud kuritegude toimepanemisele ning vara on saadud kuriteo toimepanemise tulemusena. Konfiskeerimist ei kohaldata varale, mille suhtes isik tõendab, et selle eest on täielikult või olulises osas tasutud õiguspäraselt saadud vahendite arvel.
+(1¹) Kui kuriteoga saadud vara on segunenud muu varaga, on tegemist osaliselt kuriteoga saadud varaga. Osaliselt kuriteoga saadud vara loetakse käesoleva paragrahvi lõike 1 esimeses lauses sätestatud ulatuses kuriteoga saadud varaks, mille konfiskeerimine asendatakse käesoleva seadustiku §-s 84 sätestatud korras.
 
-(2) Erandina võib kohus käesoleva paragrahvi lõikes 1 sätestatud alustel ja ulatuses konfiskeerida kolmandale isikule kuuluva vara, kui see kuulub otsuse tegemise ajal kolmandale isikule ja kui:
+(2) Kohus võib käesoleva paragrahvi lõikeid 1 ja 1¹ kohaldada vara suhtes, mis kuulub otsuse tegemise ajal kolmandale isikule, kui:
 
 1) see on omandatud täielikult või olulises osas toimepanija arvel, kingitusena või muul viisil turuhinnast oluliselt soodsamalt või
 

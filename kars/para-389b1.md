@@ -12,4 +12,4 @@ karistatakse ühe- kuni seitsmeaastase vangistusega.
 
 karistatakse rahalise karistusega.
 
-(4) Kohus kohaldab käesoleva paragrahvi lõikes 2 sätestatud kuriteo eest kuriteoga saadud vara laiendatud konfiskeerimist vastavalt käesoleva seadustiku §-s 83² sätestatule.
+(4) Kohus võib kohaldada käesoleva paragrahvi lõikes 2 sätestatud kuriteo eest kuriteoga saadud vara laiendatud konfiskeerimist vastavalt käesoleva seadustiku §-s 83² sätestatule.

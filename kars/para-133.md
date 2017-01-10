@@ -32,6 +32,6 @@ karistatakse kolme- kuni viieteistaastase vangistusega.
 
 karistatakse rahalise karistusega.
 
-(4) Kohus kohaldab käesolevas paragrahvis sätestatud kuriteo eest kuriteoga saadud vara laiendatud konfiskeerimist vastavalt käesoleva seadustiku §-s 83² sätestatule.
+(4) Kohus võib kohaldada käesolevas paragrahvis sätestatud kuriteo eest kuriteoga saadud vara laiendatud konfiskeerimist vastavalt käesoleva seadustiku §-s 83² sätestatule.
 
 (5) Haavatav seisund käesoleva paragrahvi tähenduses on olukord, kus inimesel puudub tegelik või vastuvõetav võimalus mitte täita mõnda käesoleva paragrahvi lõikes 1 nimetatud kohustust.

@@ -23,3 +23,5 @@ karistatakse kuue- kuni viieteistaastase vangistusega.
 (3) Sama teo eest, kui selle on toime pannud juriidiline isik, –
 
 karistatakse rahalise karistusega.
+
+(4) Kohus võib kohaldada käesoleva paragrahvi lõike 2 punktis 1 sätestatud kuriteo eest kuriteoga saadud vara laiendatud konfiskeerimist vastavalt käesoleva seadustiku §-s 83² sätestatule.

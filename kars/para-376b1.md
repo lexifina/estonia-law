@@ -10,4 +10,4 @@ karistatakse rahalise karistusega.
 
 (3) Kohus konfiskeerib käesolevas paragrahvis sätestatud süüteo toimepanemise vahetuks objektiks olnud aine või eseme.
 
-(4) Kohus kohaldab käesolevas paragrahvis sätestatud kuriteo eest kuriteoga saadud vara laiendatud konfiskeerimist vastavalt käesoleva seadustiku §-s 83² sätestatule.
+(4) Kohus võib kohaldada käesolevas paragrahvis sätestatud kuriteo eest kuriteoga saadud vara laiendatud konfiskeerimist vastavalt käesoleva seadustiku §-s 83² sätestatule.

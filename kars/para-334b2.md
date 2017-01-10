@@ -8,4 +8,4 @@ karistatakse rahatrahviga kuni kolmsada trahviühikut.
 
 karistatakse rahatrahviga kuni 20 000 eurot.
 
-(3) Politsei- ja Piirivalveamet või kohus konfiskeerib käesolevas paragrahvis sätestatud väärteo toimepanemise vahetuks objektiks olnud eseme vastavalt käesoleva seadustiku §-s 83 sätestatule.
+(3) Politsei- ja Piirivalveamet või kohus konfiskeerib käesolevas paragrahvis sätestatud väärteo toimepanemise vahetuks objektiks olnud eseme.
