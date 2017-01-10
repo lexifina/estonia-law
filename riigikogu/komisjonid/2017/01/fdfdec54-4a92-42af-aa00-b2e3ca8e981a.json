@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung teisipäev, 10.01.2017 14:00",
+  "sitting_time": "2017-01-10T13:34:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade arengutest Kesk-Aasias ja Afganistanis.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9d11462f-103a-4b66-9817-6d1cfcd51cd4"
+    },
+    {
+      "order": 2,
+      "title": "Informatsioon julgeolekuolukorra arengutest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fd93aa29-b322-4750-8063-bc7f99a336de"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8a274b56-dff3-42a2-88ca-f49ba64bddf2"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 10.01.2017",
+      "uuid": "5ce4d5cb-43e5-411b-abd6-d01877b6d763",
+      "files": [
+        "Protokoll_10.01.2017.bdoc",
+        "Protokoll_20170207.pdf"
+      ]
+    }
+  ],
+  "uuid": "fdfdec54-4a92-42af-aa00-b2e3ca8e981a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid fdfdec54-4a92-42af-aa00-b2e3ca8e981a)",
+  "source": "https://api.riigikogu.ee/api/volumes/fdfdec54-4a92-42af-aa00-b2e3ca8e981a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-01-01&endDate=2017-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
