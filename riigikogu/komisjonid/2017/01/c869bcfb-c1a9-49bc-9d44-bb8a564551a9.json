@@ -1,0 +1,53 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung teisipäev, 10.01.2017 14:00",
+  "sitting_time": "2017-01-10T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Maksu- ja Tolliameti esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e1756b0e-8828-4667-86d0-ea963a87858a"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu otsuse „Tagatisfondi nõukogu liikme tagasikutsumine ja uue liikme nimetamine“ eelnõu ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d83e9eb4-3a04-4bf7-b50c-8495d912faa9"
+    },
+    {
+      "order": 3,
+      "title": "Riigikogu otsuse „Hasartmängumaksu Nõukogu liikmete nimetamine” eelnõu ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4b3b542d-244d-4a9e-b20d-6df656cbfea4"
+    },
+    {
+      "order": 4,
+      "title": "Info",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "49a90c6b-1a1e-4b57-b6e2-08d6bebc83a4"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "521a4852-2a7c-4d9b-83f7-3ab91aaeb0c6",
+      "files": [
+        "Hasartmängumaksu ja Tagatisgondi nõukogu liikmed 10.01.2017.pdf",
+        "Protokoll.bdoc",
+        "RAHK protokoll 105 10 01 17.pdf"
+      ]
+    }
+  ],
+  "uuid": "c869bcfb-c1a9-49bc-9d44-bb8a564551a9",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c869bcfb-c1a9-49bc-9d44-bb8a564551a9)",
+  "source": "https://api.riigikogu.ee/api/volumes/c869bcfb-c1a9-49bc-9d44-bb8a564551a9",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-01-01&endDate=2017-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
