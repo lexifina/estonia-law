@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung esmaspäev, 16.01.2017 11:00",
+  "sitting_time": "2017-01-16T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b7ad1a0f-a5cc-473a-82f3-74b66525aa1d"
+    },
+    {
+      "order": 2,
+      "title": "Kindlustustegevuse seaduse ja sellega seonduvalt teiste seaduste muutmise seaduse eelnõu (275 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3a0704f4-e437-4df0-8426-b903590c3b14"
+    },
+    {
+      "order": 3,
+      "title": "Arvamuse andmine põhiseaduskomisjonile maksukorralduse seaduse § 117 lõike 1 vastuolu kohta põhiseadusega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6f4c9a41-31ec-4e16-830d-8fdfc5d60732"
+    },
+    {
+      "order": 4,
+      "title": "Info",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1184fdd8-5018-4757-9e5f-951902bf53c8"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "6f253dba-8860-4463-ae32-bfbe0749897c",
+      "files": [
+        "Protokoll.bdoc",
+        "RAHK protokoll 106  16 01 17.pdf"
+      ]
+    }
+  ],
+  "uuid": "d8492e1b-92e5-4b4d-a7de-5fbad0ae4aea",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d8492e1b-92e5-4b4d-a7de-5fbad0ae4aea)",
+  "source": "https://api.riigikogu.ee/api/volumes/d8492e1b-92e5-4b4d-a7de-5fbad0ae4aea",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-01-01&endDate=2017-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
