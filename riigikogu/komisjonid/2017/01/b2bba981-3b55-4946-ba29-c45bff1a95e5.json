@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung esmaspäev, 16.01.2017 13:30",
+  "sitting_time": "2017-01-16T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ettevalmistused Eesti EL Nõukogu eesistumiseks.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c9289970-9102-4c9f-b60d-ad10898839c2"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade Malta ELi Nõukogu eesistumise programmist.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "336641a2-2adc-4db9-9448-a83bc01b4d5b"
+    },
+    {
+      "order": 3,
+      "title": "Eesti seisukohad 23. jaanuaril 2017 toimuval ELi põllumajanduse ja kalanduse nõukogu istungil.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b190459f-1ed2-44e1-84b8-143391d6c833"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "15cacffd-6ea4-40eb-b7a4-be08a0b97cc1",
+      "files": [
+        "Protokoll.bdoc",
+        "Protokol_20170123.pdf"
+      ]
+    }
+  ],
+  "uuid": "b2bba981-3b55-4946-ba29-c45bff1a95e5",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b2bba981-3b55-4946-ba29-c45bff1a95e5)",
+  "source": "https://api.riigikogu.ee/api/volumes/b2bba981-3b55-4946-ba29-c45bff1a95e5",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-01-01&endDate=2017-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
