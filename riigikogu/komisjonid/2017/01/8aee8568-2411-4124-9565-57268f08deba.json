@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung esmaspäev, 16.01.2017 11:15",
+  "sitting_time": "2017-01-16T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8cff52f8-e707-4071-bd0c-5d4704bad33c"
+    },
+    {
+      "order": 2,
+      "title": "Kohtutäituri seaduse muutmise ja sellega seonduvalt teiste seaduste muutmise seaduse eelnõu (280 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f7372c2f-98b5-40f1-abfe-bd3ebbc9ae88"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "17ee3763-2f48-45b6-89f6-027bbbef861d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "e8aaaff2-0428-4767-8cfb-e8bff32cdf93",
+      "files": [
+        "Protokoll.bdoc",
+        "ÕIGK 16.01.17 protokoll.docx"
+      ]
+    }
+  ],
+  "uuid": "8aee8568-2411-4124-9565-57268f08deba",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8aee8568-2411-4124-9565-57268f08deba)",
+  "source": "https://api.riigikogu.ee/api/volumes/8aee8568-2411-4124-9565-57268f08deba",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-01-01&endDate=2017-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
