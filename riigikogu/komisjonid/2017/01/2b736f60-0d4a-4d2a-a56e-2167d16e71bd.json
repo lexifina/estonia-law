@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 16.01.2017 11:00",
+  "sitting_time": "2017-01-16T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "85d4f812-028e-45fa-85d0-61c78aa3953e"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine maaeluminister Tarmo Tammega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a29e6b3f-3ca3-475d-b42c-012ca345c980"
+    },
+    {
+      "order": 3,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d878d5da-b84d-4cf5-9199-5de9bdccaa5f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "21de536d-d0b3-4ba3-ac43-6a5be9469ef5",
+      "files": [
+        "Protokoll.bdoc",
+        "Protokol_20170118.pdf",
+        "095 protokoll lisa 1_maaeluminister.pptx"
+      ]
+    }
+  ],
+  "uuid": "2b736f60-0d4a-4d2a-a56e-2167d16e71bd",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2b736f60-0d4a-4d2a-a56e-2167d16e71bd)",
+  "source": "https://api.riigikogu.ee/api/volumes/2b736f60-0d4a-4d2a-a56e-2167d16e71bd",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-01-01&endDate=2017-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
