@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 16.01.2017 13:00",
+  "sitting_time": "2017-01-16T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8916b21c-87dc-417a-bbb1-0953d006e00b"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli kontrolliaruande „Eesti Energia välisinvesteeringud“ arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d58b1d28-7d2d-4d48-b632-d3047739b991"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3a3c94ab-72c8-4454-a63e-6577f87fe932"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll nr 83",
+      "uuid": "9fd57ebe-40e5-4b3c-9035-76b3f99b1609",
+      "files": [
+        "protokoll 83 16 01 17.pdf",
+        "Protokoll_nr_83.bdoc"
+      ]
+    }
+  ],
+  "uuid": "c45a9bd3-2d48-4ddb-b556-a925e9061ed1",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c45a9bd3-2d48-4ddb-b556-a925e9061ed1)",
+  "source": "https://api.riigikogu.ee/api/volumes/c45a9bd3-2d48-4ddb-b556-a925e9061ed1",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-01-01&endDate=2017-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
