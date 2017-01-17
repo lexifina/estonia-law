@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung teisipäev, 17.01.2017 14:00",
+  "sitting_time": "2017-01-17T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti Kaitsetööstuse Liidu tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "24e7c724-d973-4f81-a89d-a1b9ffb74da4"
+    },
+    {
+      "order": 2,
+      "title": "Kaitseministeeriumi tellitud ja Turu-uuringute AS-i poolt 2016. aasta oktoobris läbiviidud uuring: „ Eesti kodanike hoiakud kaitseküsimustes“",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ce5b4926-462c-49bd-aed8-e5c4498ede1e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "36e22232-1c4a-41a2-ae7c-bc2944ca7f67",
+      "files": [
+        "uuring_avalik arvamus ja riigikaitse.pdf",
+        "Protokoll.bdoc",
+        "Protokol_20170120.pdf"
+      ]
+    }
+  ],
+  "uuid": "0d5e27ac-a94f-480f-8745-991a989f6f85",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0d5e27ac-a94f-480f-8745-991a989f6f85)",
+  "source": "https://api.riigikogu.ee/api/volumes/0d5e27ac-a94f-480f-8745-991a989f6f85",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-01-01&endDate=2017-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
