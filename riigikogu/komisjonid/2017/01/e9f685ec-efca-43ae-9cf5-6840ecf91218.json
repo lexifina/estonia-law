@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung teisipäev, 17.01.2017 14:00",
+  "sitting_time": "2017-01-17T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Energiamajanduse arengukava aastani 2030 arutelu.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "493cb7e6-4aaf-45cc-9290-2bd3070eba43"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5be5a4da-f0dd-46c6-90d3-48905024eb7f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "8be744bb-1b27-41b1-87b0-294773ad25bf",
+      "files": [
+        "ENMAK Riigikogus 17 1 2017 (001).pptx",
+        "Protokol_20170227.pdf",
+        "Protokoll.bdoc"
+      ]
+    }
+  ],
+  "uuid": "e9f685ec-efca-43ae-9cf5-6840ecf91218",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e9f685ec-efca-43ae-9cf5-6840ecf91218)",
+  "source": "https://api.riigikogu.ee/api/volumes/e9f685ec-efca-43ae-9cf5-6840ecf91218",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-01-01&endDate=2017-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
