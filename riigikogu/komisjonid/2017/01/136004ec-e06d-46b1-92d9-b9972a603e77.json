@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Korruptsioonivastane erikomisjon",
+  "committee_uuid": "e4f2977a-e8c3-4fa0-8f3d-9df9acd6377f",
+  "title": "Komisjoni istung esmaspäev, 23.01.2017 13:30",
+  "sitting_time": "2017-01-23T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Rahandusministeeriumi esindajaga, et saada ülevaade plaanitavatest muudatustest riigi osalusega äriühingute ja sihtasutuste juhtimises",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ded174d1-a82f-4dd5-a890-cb94d899f0ca"
+    },
+    {
+      "order": 2,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "399f5a00-9fe9-4427-a57e-d6c34c2f5b26"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "eeebda0e-0c67-456f-9832-376d89ff51cb",
+      "files": [
+        "2017_01_23 Protokoll nr 50.pdf"
+      ]
+    }
+  ],
+  "uuid": "136004ec-e06d-46b1-92d9-b9972a603e77",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 136004ec-e06d-46b1-92d9-b9972a603e77)",
+  "source": "https://api.riigikogu.ee/api/volumes/136004ec-e06d-46b1-92d9-b9972a603e77",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-01-01&endDate=2017-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
