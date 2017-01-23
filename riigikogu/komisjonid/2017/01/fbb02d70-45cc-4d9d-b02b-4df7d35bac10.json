@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 23.01.2017 11:00",
+  "sitting_time": "2017-01-23T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2d0160dc-dde1-401f-8e59-579e84cf6a40"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine riigihalduse ministri Mihhail Korbiga",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0df021e6-3643-4cae-bc82-c25e26090b4a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "1b142816-75c8-4cf7-8cec-b697cf066389",
+      "files": [
+        "096 protokolli lisa haldusreform.pptx",
+        "Protokoll.bdoc",
+        "Protokol_20170125.pdf"
+      ]
+    }
+  ],
+  "uuid": "fbb02d70-45cc-4d9d-b02b-4df7d35bac10",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid fbb02d70-45cc-4d9d-b02b-4df7d35bac10)",
+  "source": "https://api.riigikogu.ee/api/volumes/fbb02d70-45cc-4d9d-b02b-4df7d35bac10",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-01-01&endDate=2017-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
