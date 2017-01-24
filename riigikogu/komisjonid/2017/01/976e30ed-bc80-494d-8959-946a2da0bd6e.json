@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung teisipäev, 24.01.2017 14:00",
+  "sitting_time": "2017-01-24T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Maagaasiseaduse muutmise seaduse eelnõu (350 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6de0400e-2cc9-4caa-9beb-d356f89d9107"
+    },
+    {
+      "order": 2,
+      "title": "Vedelkütuse seaduse muutmise seaduse eelnõu (361 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6bbbc966-ffe6-4812-be72-139388cb5beb"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "19853a7c-a265-41c4-84ff-543787a1bd96"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "15d51f39-8bdf-43cc-a4d7-f9197ce3d53b",
+      "files": [
+        "Protokoll.bdoc",
+        "Protokol_20170131.pdf"
+      ]
+    }
+  ],
+  "uuid": "976e30ed-bc80-494d-8959-946a2da0bd6e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 976e30ed-bc80-494d-8959-946a2da0bd6e)",
+  "source": "https://api.riigikogu.ee/api/volumes/976e30ed-bc80-494d-8959-946a2da0bd6e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-01-01&endDate=2017-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
