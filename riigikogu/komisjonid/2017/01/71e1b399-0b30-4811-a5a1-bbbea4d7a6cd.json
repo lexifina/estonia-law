@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung teisipäev, 24.01.2017 kell 13.00",
+  "sitting_time": "2017-01-24T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Tubakaseaduse muutmise seaduse eelnõu (357 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "17fecc3c-4742-4307-8802-e140cd058f64"
+    },
+    {
+      "order": 2,
+      "title": "Eesti Lastekaitse Liidu pöördumine seoses töölepingu seaduse muutmise seaduse eelnõuga (356 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "40a378cf-f1c9-4bad-921d-dd3bf0680b53"
+    },
+    {
+      "order": 3,
+      "title": "Riigikogu otsuse „ Eesti Haigekassa nõukogu liikme nimetamine“ eelnõu algatamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "43770891-c3d4-456c-88e6-509ad626a5b2"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "24.01.2017 istungi protokoll",
+      "uuid": "85f9f061-a7e1-4be0-acb5-3f8c95c941df",
+      "files": [
+        "24.01.2017_istungi_protokoll.bdoc",
+        "24.01.2017 istungi protokoll.pdf"
+      ]
+    }
+  ],
+  "uuid": "71e1b399-0b30-4811-a5a1-bbbea4d7a6cd",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 71e1b399-0b30-4811-a5a1-bbbea4d7a6cd)",
+  "source": "https://api.riigikogu.ee/api/volumes/71e1b399-0b30-4811-a5a1-bbbea4d7a6cd",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-01-01&endDate=2017-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
