@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung teisipäev, 24.01.2017 14:00",
+  "sitting_time": "2017-01-24T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "06679069-c217-4fee-8a6c-ff030fbf6c86"
+    },
+    {
+      "order": 2,
+      "title": "Informatsioon julgeolekuolukorra arengutest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "77288b24-fff6-452f-9492-8d206598348f"
+    },
+    {
+      "order": 3,
+      "title": "Informatsioon julgeolekuolukorra arengutest Liibanonis",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c59ee666-7ded-4585-b5af-fe4406ad2c91"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "10ecb843-0250-4384-b25c-dda81a5e1945",
+      "files": [
+        "Protokoll.bdoc",
+        "Protokol_20170124.pdf"
+      ]
+    }
+  ],
+  "uuid": "d0d8828f-509f-41b9-91a9-52ea5a3c4c63",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d0d8828f-509f-41b9-91a9-52ea5a3c4c63)",
+  "source": "https://api.riigikogu.ee/api/volumes/d0d8828f-509f-41b9-91a9-52ea5a3c4c63",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-01-01&endDate=2017-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
