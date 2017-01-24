@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung teisipäev, 24.01.2017 14:00",
+  "sitting_time": "2017-01-24T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8be593be-87ae-4e4b-89f0-d940040f7437"
+    },
+    {
+      "order": 2,
+      "title": "Väärtpaberituru seaduse ja Finantsinspektsiooni seaduse muutmise seaduse eelnõu (359 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "46c3ccae-c189-4373-a0c8-ec3997179c0c"
+    },
+    {
+      "order": 3,
+      "title": "Rahandusministeeriumi ülevaade mitmeaastasest eelarvelisest finantsraamistikust (MFF) ja EL omavahendite süsteemist.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "78edbd36-59af-428c-b0d8-e07f057e3f57"
+    },
+    {
+      "order": 4,
+      "title": "Info",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6c121c58-c064-425d-804a-15c396a24e53"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "9e506b0a-5b50-4d45-9f5c-854a94c6f240",
+      "files": [
+        "Protokoll.bdoc",
+        "RAHK protokoll 108 24 01 17.pdf"
+      ]
+    }
+  ],
+  "uuid": "d414d89b-c70d-4dc9-a1eb-c81215ff10c4",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d414d89b-c70d-4dc9-a1eb-c81215ff10c4)",
+  "source": "https://api.riigikogu.ee/api/volumes/d414d89b-c70d-4dc9-a1eb-c81215ff10c4",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-01-01&endDate=2017-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
