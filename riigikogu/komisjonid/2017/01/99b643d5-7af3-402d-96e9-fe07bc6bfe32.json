@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung neljapäev, 26.01.2017 13:00",
+  "sitting_time": "2017-01-26T12:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väliskomisjoni Türgi Vabariigi töövisiidi ettevalmistamine - ülevaade Türgi ja Eesti kahepoolsetest suhetest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "64225164-6288-48ff-b365-b0da8c6de43c"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e62cc45a-09a6-4975-8d27-510d2c936dd7"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 26.01.2017",
+      "uuid": "66839dfd-0bfc-4639-9523-33c8675b0cba",
+      "files": [
+        "Protokoll_26.01.2017.bdoc",
+        "Protokoll_20170207.pdf"
+      ]
+    }
+  ],
+  "uuid": "99b643d5-7af3-402d-96e9-fe07bc6bfe32",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 99b643d5-7af3-402d-96e9-fe07bc6bfe32)",
+  "source": "https://api.riigikogu.ee/api/volumes/99b643d5-7af3-402d-96e9-fe07bc6bfe32",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-01-01&endDate=2017-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
