@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 6.02.2017 11:00",
+  "sitting_time": "2017-02-06T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5732cc33-118a-4519-b7e1-86d920d1221b"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud maaelu ja põllumajandusturu korraldamise seaduse muutmise seaduse eelnõu (340 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f046aed9-eb81-44b7-8c7e-5061be72238c"
+    },
+    {
+      "order": 3,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "da0d0116-883f-48a8-84f5-0e2f27c8717c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "ac2fc3d6-b855-49b1-be24-5c7966c25ffe",
+      "files": [
+        "Protokol_20170210.pdf",
+        "Protokoll.bdoc"
+      ]
+    }
+  ],
+  "uuid": "beb1b4ec-f618-410f-8667-9cd7fcb5b8f2",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid beb1b4ec-f618-410f-8667-9cd7fcb5b8f2)",
+  "source": "https://api.riigikogu.ee/api/volumes/beb1b4ec-f618-410f-8667-9cd7fcb5b8f2",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-02-01&endDate=2017-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
