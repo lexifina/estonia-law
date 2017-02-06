@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung esmaspäev, 6.02.2017 11:00",
+  "sitting_time": "2017-02-06T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0cf1c66b-36be-4e44-a88a-7dc92377a32d"
+    },
+    {
+      "order": 2,
+      "title": "Kaitseväeteenistuse seaduse, vangistusseaduse ja väärteomenetluse seadustiku muutmise seaduse eelnõu (346 SE II)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ecc63cd9-5327-4866-8b67-21dc4c4dcb01"
+    },
+    {
+      "order": 3,
+      "title": "Balti Assamblee tegevuse tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5c93aff2-b9d1-4de5-8961-0dcb1bb57d83"
+    },
+    {
+      "order": 4,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "511b3bb7-8803-4f3b-8844-c15b959e059a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "a748c309-b3b4-4d01-9333-ecb0eecaf913",
+      "files": [
+        "Protokol_20170206.pdf",
+        "Protokoll.bdoc"
+      ]
+    }
+  ],
+  "uuid": "8985d154-9ba8-4dc7-a4b0-ef3dbdb963f2",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8985d154-9ba8-4dc7-a4b0-ef3dbdb963f2)",
+  "source": "https://api.riigikogu.ee/api/volumes/8985d154-9ba8-4dc7-a4b0-ef3dbdb963f2",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-02-01&endDate=2017-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
