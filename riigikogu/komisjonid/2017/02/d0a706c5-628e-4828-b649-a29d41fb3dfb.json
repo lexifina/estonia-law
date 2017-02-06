@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 6.02.2017 13:00",
+  "sitting_time": "2017-02-06T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1003c89b-2a6b-4915-8f60-d34df16946be"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade Riigikontrolli 2017 aasta tööplaanist",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dfcb2c3e-2e4a-41d9-9499-a596eaf0ebdb"
+    },
+    {
+      "order": 3,
+      "title": "Riigikontrolli kontrolliaruande tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b291469e-4aba-41fd-a727-c6aea60accdc"
+    },
+    {
+      "order": 4,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "125cb19c-66dd-44b9-8d20-76a23d7ac2f2"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "protokoll nr 85",
+      "uuid": "ee0d0eb2-438e-40f2-8e03-04d6cf117963",
+      "files": [
+        "protokoll_nr_85.bdoc",
+        "protokoll 85 6 02 17.pdf"
+      ]
+    }
+  ],
+  "uuid": "d0a706c5-628e-4828-b649-a29d41fb3dfb",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d0a706c5-628e-4828-b649-a29d41fb3dfb)",
+  "source": "https://api.riigikogu.ee/api/volumes/d0a706c5-628e-4828-b649-a29d41fb3dfb",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-02-01&endDate=2017-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
