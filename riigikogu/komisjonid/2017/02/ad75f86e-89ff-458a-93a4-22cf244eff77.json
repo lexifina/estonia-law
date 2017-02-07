@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung teisipäev, 7.02.2017 14:00",
+  "sitting_time": "2017-02-07T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väljasõiduistung AS-i Eesti Raudtee.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7c6a40cf-685c-4308-98f1-90ccd13e12e8"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4103b74c-3ddc-45cd-8e4f-9003026162df"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "98a83ca3-b8ab-4f42-95df-4f2cb34f3856",
+      "files": [
+        "EVR majanduskomisjonis 07.02.2017.pptx",
+        "Protokol_20170227.pdf",
+        "Protokoll.bdoc"
+      ]
+    }
+  ],
+  "uuid": "ad75f86e-89ff-458a-93a4-22cf244eff77",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ad75f86e-89ff-458a-93a4-22cf244eff77)",
+  "source": "https://api.riigikogu.ee/api/volumes/ad75f86e-89ff-458a-93a4-22cf244eff77",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-02-01&endDate=2017-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
