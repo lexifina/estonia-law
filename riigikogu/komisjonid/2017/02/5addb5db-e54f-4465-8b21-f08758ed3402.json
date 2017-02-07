@@ -1,0 +1,35 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 7.02.2017 14:00",
+  "sitting_time": "2017-02-07T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade kalandussektorist",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "febb5fce-bf81-4173-96c0-0bca9575b215"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "aee85699-30b1-4b5c-8960-dac487caffc0",
+      "files": [
+        "Protokoll.bdoc",
+        "099 protokolli lisa kalandussektor.pptx",
+        "Protokol_20170209.pdf"
+      ]
+    }
+  ],
+  "uuid": "5addb5db-e54f-4465-8b21-f08758ed3402",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 5addb5db-e54f-4465-8b21-f08758ed3402)",
+  "source": "https://api.riigikogu.ee/api/volumes/5addb5db-e54f-4465-8b21-f08758ed3402",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-02-01&endDate=2017-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
