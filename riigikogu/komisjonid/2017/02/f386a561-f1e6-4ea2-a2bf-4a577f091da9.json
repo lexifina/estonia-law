@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung neljapäev, 9.02.2017 14:15",
+  "sitting_time": "2017-02-09T14:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Balti riikide kaitse- ja julgeolekualane koostöö",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dc586a45-973c-4da2-9dd2-dd29514feea9"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0f8fea77-70f6-4682-bf66-d03aa75d39b8"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "80d822d6-d339-4fdd-9052-d6e495bb2372",
+      "files": [
+        "Protokol_20170213.pdf",
+        "Protokoll.bdoc"
+      ]
+    }
+  ],
+  "uuid": "f386a561-f1e6-4ea2-a2bf-4a577f091da9",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f386a561-f1e6-4ea2-a2bf-4a577f091da9)",
+  "source": "https://api.riigikogu.ee/api/volumes/f386a561-f1e6-4ea2-a2bf-4a577f091da9",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-02-01&endDate=2017-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
