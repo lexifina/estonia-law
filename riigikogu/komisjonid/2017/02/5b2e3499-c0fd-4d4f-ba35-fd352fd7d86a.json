@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 13.02.2017 11:00",
+  "sitting_time": "2017-02-13T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2ea642df-1471-408b-a21c-4d5cc42aee25"
+    },
+    {
+      "order": 2,
+      "title": "MTÜ loomade eeskoste organisatsiooni Loomus algatatud pöördumise „Karusloomakasvanduste keelustamine Eestis“ arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "53b48207-f747-4c95-9eae-614638a4683d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "a7a41d04-cb0a-42c2-b499-7977766d7d28",
+      "files": [
+        "Protokol_20170214.pdf",
+        "Protokoll.bdoc"
+      ]
+    }
+  ],
+  "uuid": "5b2e3499-c0fd-4d4f-ba35-fd352fd7d86a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 5b2e3499-c0fd-4d4f-ba35-fd352fd7d86a)",
+  "source": "https://api.riigikogu.ee/api/volumes/5b2e3499-c0fd-4d4f-ba35-fd352fd7d86a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-02-01&endDate=2017-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
