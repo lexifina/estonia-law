@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 13.02.2017",
+  "sitting_time": "2017-02-13T12:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "69315e8f-9a41-4e1a-b6a5-c676c61ae8dd"
+    },
+    {
+      "order": 2,
+      "title": "Ühisistung Riigikogu riigikaitsekomisjoniga. Riigikontrolli kontrolliaruande „Kaitseväe üksuste lahinguvalmiduse saavutamine“ arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ecac8b92-7ded-4a7f-bff2-61666ad5f1e1"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "protokoll 84",
+      "uuid": "750f14b0-229c-471e-82f4-22629c2b4bac",
+      "files": [
+        "protokoll 86 13 02 17.pdf",
+        "Protokoll_nr_86.bdoc"
+      ]
+    }
+  ],
+  "uuid": "cc67a01a-e8d9-4f25-ba82-99de56dc9b06",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid cc67a01a-e8d9-4f25-ba82-99de56dc9b06)",
+  "source": "https://api.riigikogu.ee/api/volumes/cc67a01a-e8d9-4f25-ba82-99de56dc9b06",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-02-01&endDate=2017-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
