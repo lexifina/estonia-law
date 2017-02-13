@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung esmaspäev, 13.02.2017 11:15",
+  "sitting_time": "2017-02-13T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b29a39d9-fc96-4211-9ea5-1b53aebd4c88"
+    },
+    {
+      "order": 2,
+      "title": "Korrakaitseseaduse muutmise seaduse eelnõu (312 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b62ece2c-9f7f-466f-8165-b9a982b52ef9"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ab45c08d-d622-4051-9614-99bb50ec3252"
+    },
+    {
+      "order": 4,
+      "title": "Arenguseire Keskusega tegevusega tutvumine.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7a6b689b-7c9f-4ca8-a836-6c86ba400820"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "13.02.2017 protokoll",
+      "uuid": "ac133f04-1c1a-4489-b226-d0caf01bcf77",
+      "files": [
+        "13.02.2017_protokoll.bdoc",
+        "13.02.2017 õiguskomisjoni protokoll-viimane-20-02.pdf"
+      ]
+    }
+  ],
+  "uuid": "9bc9d6ef-9dc4-425a-be31-3fab5b44d1cc",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9bc9d6ef-9dc4-425a-be31-3fab5b44d1cc)",
+  "source": "https://api.riigikogu.ee/api/volumes/9bc9d6ef-9dc4-425a-be31-3fab5b44d1cc",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-02-01&endDate=2017-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
