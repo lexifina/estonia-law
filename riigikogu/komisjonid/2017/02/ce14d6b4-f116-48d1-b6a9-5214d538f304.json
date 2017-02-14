@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung teisipäev, 14.02.2017 14:00",
+  "sitting_time": "2017-02-14T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Informatsioon julgeolekuolukorra arengutest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a9ef92df-8a45-4324-a044-26a633ea424c"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7aed1e5a-3194-4651-9856-883cfc260d90"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 14.02.2017",
+      "uuid": "2b848c4f-3d80-43b0-a210-6f967e712d1b",
+      "files": [
+        "Protokoll_14.02.2017.bdoc",
+        "Protokoll_20170214.pdf"
+      ]
+    }
+  ],
+  "uuid": "ce14d6b4-f116-48d1-b6a9-5214d538f304",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ce14d6b4-f116-48d1-b6a9-5214d538f304)",
+  "source": "https://api.riigikogu.ee/api/volumes/ce14d6b4-f116-48d1-b6a9-5214d538f304",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-02-01&endDate=2017-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
