@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung kolmapäev, 15.02.2017 10:00",
+  "sitting_time": "2017-02-15T10:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikontrolli ülevaadete tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "49ef57c6-4724-4e4b-ba66-2d719e8617fe"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3664d41f-6dcb-4cc1-92c2-7f45cdac5f2e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "protokoll 87",
+      "uuid": "e57456f9-b720-4279-86b3-c821a857a3d2",
+      "files": [
+        "protokoll 87 15 02 17.pdf",
+        "protokoll_87.bdoc"
+      ]
+    }
+  ],
+  "uuid": "58f19205-8cc6-489e-8286-c9fb091e2e14",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 58f19205-8cc6-489e-8286-c9fb091e2e14)",
+  "source": "https://api.riigikogu.ee/api/volumes/58f19205-8cc6-489e-8286-c9fb091e2e14",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-02-01&endDate=2017-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
