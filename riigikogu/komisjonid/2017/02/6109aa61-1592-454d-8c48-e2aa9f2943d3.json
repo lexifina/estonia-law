@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung esmaspäev, 20.02.2017 11:00",
+  "sitting_time": "2017-02-20T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0c4b6ef9-742d-4658-a39c-bde3f0943998"
+    },
+    {
+      "order": 2,
+      "title": "NATO kaitseministrite kohtumise järelbriif ja liitlaste suurendatud kohalolek (EFP)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c59bca80-4340-4849-a8a5-6de4d7641f2a"
+    },
+    {
+      "order": 3,
+      "title": "Eesti Euroopa Liidu Nõukogu eesistumise\nprioriteedid (1-2/17-59/1)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8e664ccb-367c-4194-9405-6c728516df37"
+    },
+    {
+      "order": 4,
+      "title": "Muud küsimused - ülevaade Müncheni julgeolekukonverentsist",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b4317155-7eed-4670-96f0-edcde2f9d1f3"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "8ef5812f-9a86-4c5e-8cb2-58b2171c8451",
+      "files": [
+        "Protokol_20170220.pdf",
+        "Protokoll.bdoc"
+      ]
+    }
+  ],
+  "uuid": "6109aa61-1592-454d-8c48-e2aa9f2943d3",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 6109aa61-1592-454d-8c48-e2aa9f2943d3)",
+  "source": "https://api.riigikogu.ee/api/volumes/6109aa61-1592-454d-8c48-e2aa9f2943d3",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-02-01&endDate=2017-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
