@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung teisipäev, 21.02.2017 14:00",
+  "sitting_time": "2017-02-21T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti Euroopa Liidu Nõukogu eesistumise\nprioriteedid (1-2/17-59/1)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "aeccab5b-22fc-4512-9919-7e3e990332be"
+    },
+    {
+      "order": 2,
+      "title": "Sotsiaalmaksuseaduse täiendamise seaduse eelnõu (364 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "18e56957-b65f-447d-a9e0-906ab7131812"
+    },
+    {
+      "order": 3,
+      "title": "Info",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c3eb4c3b-9196-4355-9c2f-2693a9bfa1d1"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "ddad933e-ee36-42bf-8df6-0763f6624815",
+      "files": [
+        "Protokoll.bdoc",
+        "RAHK protokoll 115 21 02 17.pdf",
+        "Protokoll (1).bdoc"
+      ]
+    }
+  ],
+  "uuid": "825ca49f-4102-4907-9d2d-cad30c25045b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 825ca49f-4102-4907-9d2d-cad30c25045b)",
+  "source": "https://api.riigikogu.ee/api/volumes/825ca49f-4102-4907-9d2d-cad30c25045b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-02-01&endDate=2017-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
