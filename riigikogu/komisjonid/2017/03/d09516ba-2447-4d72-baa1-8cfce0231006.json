@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 6.03.2017 11:00",
+  "sitting_time": "2017-03-06T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "02afbb42-7466-48f2-8885-e0540ac0bf51"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine põllumeeste esindusorganisatsioonidega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f5bcfa24-ece1-456c-ae2e-f650f7250c05"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "fb260635-6d57-4d6d-9c12-4f65cdb877d1",
+      "files": [
+        "104 protokoll lisa ETK 06.03.2017.pdf",
+        "Protokoll.bdoc",
+        "Protokol_20170309.pdf"
+      ]
+    }
+  ],
+  "uuid": "d09516ba-2447-4d72-baa1-8cfce0231006",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d09516ba-2447-4d72-baa1-8cfce0231006)",
+  "source": "https://api.riigikogu.ee/api/volumes/d09516ba-2447-4d72-baa1-8cfce0231006",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-03-01&endDate=2017-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
