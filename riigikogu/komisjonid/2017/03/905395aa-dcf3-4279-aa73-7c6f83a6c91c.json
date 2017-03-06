@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung esmaspäev, 6.03.2017 11:15",
+  "sitting_time": "2017-03-06T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e2b01150-cc5b-484f-b15b-b236b514314b"
+    },
+    {
+      "order": 2,
+      "title": "Töölepingu seaduse ja teiste seaduste muutmise seaduse eelnõu (356 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "79f2fb68-c5b1-4f04-8a4a-eaa8dfe6234b"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7ab784ba-ac33-4056-8d67-c5603699b11f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "109dc6ee-418d-4f58-8e66-8d0b90cb4e0c",
+      "files": [
+        "Protokoll.bdoc",
+        "ÕIGK 06.03.17 istungi protokoll_.docx"
+      ]
+    }
+  ],
+  "uuid": "905395aa-dcf3-4279-aa73-7c6f83a6c91c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 905395aa-dcf3-4279-aa73-7c6f83a6c91c)",
+  "source": "https://api.riigikogu.ee/api/volumes/905395aa-dcf3-4279-aa73-7c6f83a6c91c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-03-01&endDate=2017-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
