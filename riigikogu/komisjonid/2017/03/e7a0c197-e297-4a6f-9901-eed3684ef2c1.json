@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 6.03.2017 13:00",
+  "sitting_time": "2017-03-06T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "aa01be4b-f4fd-4093-8b37-aac22b8c8d29"
+    },
+    {
+      "order": 2,
+      "title": "Raporti „Fiskaalpoliitika paradigma võimalikest muutustest Eesti parlamentaarses süsteemis“ ettepanekute jätkuarutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3367d22a-5e79-44a4-9a88-6cb8d5391600"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "protokoll 89",
+      "uuid": "bfbcaf59-3973-40df-940d-a4adda689aa0",
+      "files": [
+        "protokoll_89.bdoc",
+        "protokoll 89 06 03 17.pdf"
+      ]
+    }
+  ],
+  "uuid": "e7a0c197-e297-4a6f-9901-eed3684ef2c1",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e7a0c197-e297-4a6f-9901-eed3684ef2c1)",
+  "source": "https://api.riigikogu.ee/api/volumes/e7a0c197-e297-4a6f-9901-eed3684ef2c1",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-03-01&endDate=2017-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
