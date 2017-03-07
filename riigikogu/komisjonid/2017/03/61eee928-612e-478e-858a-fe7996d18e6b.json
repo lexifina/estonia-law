@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung teisipäev, 7.03.2017 kell 13.20",
+  "sitting_time": "2017-03-07T13:20:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikogu otsus \"Eesti Haigekassa nõukogu liikme tagasikutsumine ja uue liikme nimetamine\" (394 OE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "89275b52-82e8-4c19-beb8-293fdcdb49cd"
+    },
+    {
+      "order": 2,
+      "title": "Eesti Kodanikuühiskonna Arengu kontseptsiooni aruteluks esitatud ettepanekute arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "82c2f03e-133f-48e3-95eb-90c9d1f2f4dc"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "7.03.2017 istungi protokoll",
+      "uuid": "159f229e-4da9-4722-aaba-e3d5f0c8f1ba",
+      "files": [
+        "7.03.2017_istungi_protokoll.bdoc",
+        "7.03.2017 istungi protokoll.pdf"
+      ]
+    }
+  ],
+  "uuid": "61eee928-612e-478e-858a-fe7996d18e6b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 61eee928-612e-478e-858a-fe7996d18e6b)",
+  "source": "https://api.riigikogu.ee/api/volumes/61eee928-612e-478e-858a-fe7996d18e6b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-03-01&endDate=2017-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
