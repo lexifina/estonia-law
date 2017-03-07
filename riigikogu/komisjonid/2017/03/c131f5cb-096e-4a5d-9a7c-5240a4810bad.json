@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung teisipäev, 7.03.2017 14:00",
+  "sitting_time": "2017-03-07T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikogu otsus \"Põhjamaade Investeerimispangale antud riigigarantii suurendamine\" (389 OE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0dae22d3-f05c-4263-8f32-a5e381a19cd0"
+    },
+    {
+      "order": 2,
+      "title": "Väärtpaberituru seaduse ja Finantsinspektsiooni seaduse muutmise seaduse eelnõu (359 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ed961a32-4e16-4810-998a-4fb3bc920fb3"
+    },
+    {
+      "order": 3,
+      "title": "Info",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "719f66ae-7108-4a24-b4d0-52a53b570c7c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "b91960c9-b15c-497a-a69d-07d4f5abdb38",
+      "files": [
+        "Protokoll.bdoc",
+        "RAHK protokoll 117 7 03 17.pdf"
+      ]
+    }
+  ],
+  "uuid": "c131f5cb-096e-4a5d-9a7c-5240a4810bad",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c131f5cb-096e-4a5d-9a7c-5240a4810bad)",
+  "source": "https://api.riigikogu.ee/api/volumes/c131f5cb-096e-4a5d-9a7c-5240a4810bad",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-03-01&endDate=2017-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
