@@ -1,0 +1,48 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung teisipäev, 7.03.2017 14:00",
+  "sitting_time": "2017-03-07T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Elektrituruseaduse muutmise seaduse eelnõu (290 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cd2f5b9b-7304-466c-a3bb-0e628a188f44"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "06090bc4-9973-43f4-90fa-944501e8ac9a"
+    },
+    {
+      "order": 3,
+      "title": "Raudteeseaduse ja ühistranspordiseaduse muutmise seaduse eelnõu (398 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f3078cd2-0dac-4620-a409-3bc486d39992"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "97e995e6-e651-4a81-95be-e978b8f77b02",
+      "files": [
+        "Protokol_20170327.pdf",
+        "Protokoll.bdoc",
+        "Protokol_20170426.pdf",
+        "Protokoll (1).bdoc"
+      ]
+    }
+  ],
+  "uuid": "acc14a18-9b40-464a-9110-266d5a639764",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid acc14a18-9b40-464a-9110-266d5a639764)",
+  "source": "https://api.riigikogu.ee/api/volumes/acc14a18-9b40-464a-9110-266d5a639764",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-03-01&endDate=2017-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
