@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung kolmapäev, 8.03.2017 10:00",
+  "sitting_time": "2017-03-08T10:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikontrolli kontrolliaruande tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cc56d904-e5cf-43ee-9f40-0babf5119fe5"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "51643502-62a3-4174-9067-109fc869195d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "protokoll nr 90",
+      "uuid": "73d44c4e-3c36-446c-be27-897793a60504",
+      "files": [
+        "protokoll 90 08 03 17.pdf",
+        "protokoll_nr_90.bdoc"
+      ]
+    }
+  ],
+  "uuid": "c31d44ee-a8fd-4133-a336-57bacb98f036",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c31d44ee-a8fd-4133-a336-57bacb98f036)",
+  "source": "https://api.riigikogu.ee/api/volumes/c31d44ee-a8fd-4133-a336-57bacb98f036",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-03-01&endDate=2017-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
