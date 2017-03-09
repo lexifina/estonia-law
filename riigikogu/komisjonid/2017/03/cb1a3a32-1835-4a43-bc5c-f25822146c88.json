@@ -1,0 +1,34 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung neljapäev, 9.03.2017 11:00",
+  "sitting_time": "2017-03-09T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Informatsioon julgeolekuolukorra arengutest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "811fe041-2518-475a-a25e-78159d5b8dcc"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "41fa648b-47b0-4763-a2f1-90ab8da9113c",
+      "files": [
+        "Protokol_20170310.pdf",
+        "Protokoll.bdoc"
+      ]
+    }
+  ],
+  "uuid": "cb1a3a32-1835-4a43-bc5c-f25822146c88",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid cb1a3a32-1835-4a43-bc5c-f25822146c88)",
+  "source": "https://api.riigikogu.ee/api/volumes/cb1a3a32-1835-4a43-bc5c-f25822146c88",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-03-01&endDate=2017-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
