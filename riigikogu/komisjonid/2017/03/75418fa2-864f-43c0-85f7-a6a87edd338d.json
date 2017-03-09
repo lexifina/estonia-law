@@ -1,0 +1,38 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung neljapäev, 09.03.2017 12:00-10.03.2017 15:00",
+  "sitting_time": "2017-03-09T12:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väljasõiduistung Ida-Virumaale.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6bb7c170-5391-4203-91d2-727a6f25b5d5"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "7e5132bc-8b35-413c-92f8-b36726719734",
+      "files": [
+        "Protokoll (1).bdoc",
+        "Protokol_20170426.pdf",
+        "2017_03_10_VKG_Kohtumine_majanduskomisjoniga.pdf",
+        "RK majanduskomisjonile Auveres_marts_2017.pdf",
+        "Protokoll.bdoc",
+        "Protokol_20170413.pdf"
+      ]
+    }
+  ],
+  "uuid": "75418fa2-864f-43c0-85f7-a6a87edd338d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 75418fa2-864f-43c0-85f7-a6a87edd338d)",
+  "source": "https://api.riigikogu.ee/api/volumes/75418fa2-864f-43c0-85f7-a6a87edd338d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-03-01&endDate=2017-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
