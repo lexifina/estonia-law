@@ -1,0 +1,17 @@
+# § 32. Laevapere liikme tervisekontrolli ja laeval meditsiiniabi andmise nõuded
+
+(1) Reeder tagab laevapere liikmele meditsiiniabi andmise laeval.
+
+(2) Laeval meditsiiniabi korraldamise nõuded ja laeval nõutava meditsiinivarustuse loetelu kehtestab
+
+määrusega.
+
+(3) Laevapere liige läbib eelneva ja perioodilise tervisekontrolli meresõiduohutuse seaduses sätestatud korras.
+
+(4) Reederi või kapteni nõudmisel läbib laevapere liige ennetähtaegse tervisekontrolli, kui on põhjendatud kahtlus laevapere liikme tervisliku seisundi mittevastavuse kohta tööks laeval.
+
+(5) Käesoleva paragrahvi lõigetes 3 ja 4 nimetatud tervisekontrolli kulud kannab reeder, välja arvatud meretöölepingu sõlmimisele eelnev arstlik kontroll, mille kulud kannab isik, kes taotleb meretöölepingu sõlmimist.
+
+(6) Reeder tagab ööpäevaringse eesti- ja ingliskeelse meditsiinilise kaugkonsultatsiooni võimaluse laeval.
+
+(7) Meditsiinilise kaugkonsultatsiooni teenuse tasuta osutamiseks sõlmib valdkonna eest vastutav minister tervishoiuteenuse osutajaga halduslepingu halduskoostöö seaduses sätestatud korras. Teenuse osutamist rahastatakse riigieelarvest Sotsiaalministeeriumi kaudu.
