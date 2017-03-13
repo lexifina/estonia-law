@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 13.03.2017 13:00",
+  "sitting_time": "2017-03-13T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "684a3774-bb00-4bd2-a960-8e2685e02239"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli ülevaate „Ülevaade valdades ja linnades peetavatest andmekogudest“ arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "03f75234-3881-432e-9cf9-7f3eddcee9fd"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "protokoll nr 91",
+      "uuid": "8f909ac1-9a08-45c7-9eb9-3f85442b2ca1",
+      "files": [
+        "Protokoll 91 13 03 17.pdf",
+        "protokoll_nr_91.bdoc"
+      ]
+    }
+  ],
+  "uuid": "31e9e04f-c806-4840-9161-a119a0d9a29e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 31e9e04f-c806-4840-9161-a119a0d9a29e)",
+  "source": "https://api.riigikogu.ee/api/volumes/31e9e04f-c806-4840-9161-a119a0d9a29e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-03-01&endDate=2017-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
