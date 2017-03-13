@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung esmaspäev, 13.03.2017 11:00",
+  "sitting_time": "2017-03-13T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "93ff1094-eb48-467c-a6ee-b3411632cd5f"
+    },
+    {
+      "order": 2,
+      "title": "Tapa piirkonna arendamine ja NATO liitlasüksuste saabumine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9ee125ad-1898-477a-8092-81f1a7ad8433"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0910afa5-bfca-493e-8fee-a12af9cb664c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "4e2c35de-0388-45c1-b779-180183951e85",
+      "files": [
+        "Protokoll.bdoc",
+        "Protokol_20170314.pdf"
+      ]
+    }
+  ],
+  "uuid": "e42af9b3-5260-4215-9cd7-7de9dfb68cae",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e42af9b3-5260-4215-9cd7-7de9dfb68cae)",
+  "source": "https://api.riigikogu.ee/api/volumes/e42af9b3-5260-4215-9cd7-7de9dfb68cae",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-03-01&endDate=2017-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
