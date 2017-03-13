@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 13.03.2017 11:00",
+  "sitting_time": "2017-03-13T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c7feb6d4-9492-4089-9ebb-1b4a68cd3482"
+    },
+    {
+      "order": 2,
+      "title": "Ebaausad kaubandustavad",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7d4d4b69-1104-433f-90dc-3e29023eb8b9"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "8aca4129-5b4b-4343-8665-101ae7850b67",
+      "files": [
+        "106 protokoll 13.03.2017.pdf"
+      ]
+    }
+  ],
+  "uuid": "f75bd95b-666d-4e29-a6ad-85313a8209ff",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f75bd95b-666d-4e29-a6ad-85313a8209ff)",
+  "source": "https://api.riigikogu.ee/api/volumes/f75bd95b-666d-4e29-a6ad-85313a8209ff",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-03-01&endDate=2017-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
