@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung neljapäev, 16.03.2017 13:30",
+  "sitting_time": "2017-03-16T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Suurbritannia suursaadiku T.E pr Theresa Bubbeariga",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e0fdc8b9-5762-4eb9-b0d3-b6c10dcf36ab"
+    },
+    {
+      "order": 2,
+      "title": "Sõjalise esindaja tegevusest NATO ja EL Sõjalise Komitee juures",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ae8ceda2-491a-4b8d-8b2e-91f9490a92a7"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "dd736620-3da0-40a2-a8af-06fcc2bf0975",
+      "files": [
+        "Protokoll.bdoc",
+        "Protokol_20170317.pdf"
+      ]
+    }
+  ],
+  "uuid": "c5f60d6f-a2a2-48ed-bb08-280f2e9ba00d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c5f60d6f-a2a2-48ed-bb08-280f2e9ba00d)",
+  "source": "https://api.riigikogu.ee/api/volumes/c5f60d6f-a2a2-48ed-bb08-280f2e9ba00d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-03-01&endDate=2017-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
