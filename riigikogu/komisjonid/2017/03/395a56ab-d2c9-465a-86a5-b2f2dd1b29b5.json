@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 20.03.2017 11:00",
+  "sitting_time": "2017-03-20T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8aa5a5db-7225-46b6-9d10-47ede4a631c0"
+    },
+    {
+      "order": 2,
+      "title": "Metsa majandamine ja muudatused metsaseaduses",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1ac6ff95-b6fc-47a4-9e83-47474d95ed84"
+    },
+    {
+      "order": 3,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "91f9cc3d-2d1c-4660-9d5b-f7931d90d2fe"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "64789398-a43a-413a-9088-49a5d18ca9bf",
+      "files": [
+        "Protokol_20170327.pdf",
+        "Protokoll.bdoc"
+      ]
+    }
+  ],
+  "uuid": "395a56ab-d2c9-465a-86a5-b2f2dd1b29b5",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 395a56ab-d2c9-465a-86a5-b2f2dd1b29b5)",
+  "source": "https://api.riigikogu.ee/api/volumes/395a56ab-d2c9-465a-86a5-b2f2dd1b29b5",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-03-01&endDate=2017-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
