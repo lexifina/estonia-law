@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung esmaspäev, 20.03.2017 11:00",
+  "sitting_time": "2017-03-20T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala (20.03.-26.03.17) töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6eb784cc-21a5-45d9-a115-503044b9cfc5"
+    },
+    {
+      "order": 2,
+      "title": "Metsaseaduse ja looduskaitseseaduse muutmise seaduse eelnõu (396 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "10bcbb09-e8fa-4868-9fc7-8217e3a74f02"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 20.03.2017 nr 106",
+      "uuid": "ca8570f7-1fb3-44da-936f-748e34c135f3",
+      "files": [
+        "Avaldus.pdf",
+        "Protokoll_20.03.2017_nr_106.bdoc",
+        "20.03.2017 protok.106.pdf"
+      ]
+    }
+  ],
+  "uuid": "94ef9563-994d-4350-b36e-a208e42b4ed4",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 94ef9563-994d-4350-b36e-a208e42b4ed4)",
+  "source": "https://api.riigikogu.ee/api/volumes/94ef9563-994d-4350-b36e-a208e42b4ed4",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-03-01&endDate=2017-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
