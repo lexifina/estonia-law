@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 20.03.2017 13:00",
+  "sitting_time": "2017-03-20T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "657416d8-10ce-4e82-aea9-7a5c88b9efe0"
+    },
+    {
+      "order": 2,
+      "title": "Riigi eelarveinfosüsteemist",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8ad37885-3d06-41ef-b2f8-84405406b745"
+    },
+    {
+      "order": 3,
+      "title": "Riigikontrolli ülevaate „Ülevaade omavalitsuste raamatupidamise aastaaruande audiitorkontrolli probleemidest“ arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "813e101e-11f5-4745-8817-daed6fa743d7"
+    },
+    {
+      "order": 4,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dbc1303e-9c93-4aa5-875d-f39cbbcc5930"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "protokoll nr 92",
+      "uuid": "5bf13bc9-26cf-47f0-90fb-866377fce43c",
+      "files": [
+        "protokoll_nr_92.bdoc"
+      ]
+    }
+  ],
+  "uuid": "a4fe5911-9661-4edc-99b5-2165ce4b05f0",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a4fe5911-9661-4edc-99b5-2165ce4b05f0)",
+  "source": "https://api.riigikogu.ee/api/volumes/a4fe5911-9661-4edc-99b5-2165ce4b05f0",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-03-01&endDate=2017-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
