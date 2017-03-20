@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung esmaspäev, 20.03.2017 11:00",
+  "sitting_time": "2017-03-20T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "feea2e68-1ebd-43d1-b412-fe6486184d32"
+    },
+    {
+      "order": 2,
+      "title": "Kaitseministeeriumi valitsemisala arengukava aastateks 2018-2021",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "40dd1bec-c5b0-465e-b355-d7b46fe858d9"
+    },
+    {
+      "order": 3,
+      "title": "Kohtumine Georgia presidendi julgeolekunõuniku ja  Rahvusliku Julgeolekunõukogu sekretäri David Rakviashvili ja teda saatva delegatsiooniga. Kohtumisel osaleb Georgia suursaadik Eestis T.E pr Tea Akhvledian",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1e3852b4-d8cf-48f0-9c1f-fb31e4635ab4"
+    },
+    {
+      "order": 4,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0db44770-8945-4c5c-a089-d4035b18e5ea"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "186d8ad2-a67b-471c-b220-8bf212181e54",
+      "files": [
+        "Protokol_20170321.pdf",
+        "Protokoll.bdoc"
+      ]
+    }
+  ],
+  "uuid": "c59c3a15-394d-489e-ac43-dfe1f8a2c802",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c59c3a15-394d-489e-ac43-dfe1f8a2c802)",
+  "source": "https://api.riigikogu.ee/api/volumes/c59c3a15-394d-489e-ac43-dfe1f8a2c802",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-03-01&endDate=2017-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
