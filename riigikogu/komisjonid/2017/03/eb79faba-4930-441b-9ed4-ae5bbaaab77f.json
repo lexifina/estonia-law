@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung teisipäev, 21.03.2017 14:00",
+  "sitting_time": "2017-03-21T14:02:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade arengutest Ukrainas.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4e5f49f8-84d9-41bc-b8e6-f5c66502898e"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade Eesti-Vene suhete arengutest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fa9e7c7b-6ea1-43d2-b175-020ceff2e537"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4c12fcf0-a89c-4783-88b7-2c1cae83b954"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 21.03.2017",
+      "uuid": "2798f81d-70c5-4824-b0df-b7500b7cc21d",
+      "files": [
+        "Protokoll_20170328.pdf",
+        "Protokoll_21.03.2017.bdoc"
+      ]
+    }
+  ],
+  "uuid": "eb79faba-4930-441b-9ed4-ae5bbaaab77f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid eb79faba-4930-441b-9ed4-ae5bbaaab77f)",
+  "source": "https://api.riigikogu.ee/api/volumes/eb79faba-4930-441b-9ed4-ae5bbaaab77f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-03-01&endDate=2017-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
