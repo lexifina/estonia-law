@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung neljapäev, 23.03.2017 13:00",
+  "sitting_time": "2017-03-23T13:07:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kokkuvõte Euroopa Nõukogu (EN) ministrite komitee Eesti eesistumisest 18. maist kuni 22. novembrini 2016.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "acd63a1f-b6be-4224-8f35-75cc3443807f"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "df22116a-7a07-40f5-ad8c-578228337571"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 23.03.2017",
+      "uuid": "0bcbf2b0-da23-43f5-9fa2-026de8c3a879",
+      "files": [
+        "Protokoll_20171214.pdf",
+        "Protokoll_23.03.2017.bdoc"
+      ]
+    }
+  ],
+  "uuid": "26c21564-b4b0-48b5-b0f6-388e4d177732",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 26c21564-b4b0-48b5-b0f6-388e4d177732)",
+  "source": "https://api.riigikogu.ee/api/volumes/26c21564-b4b0-48b5-b0f6-388e4d177732",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-03-01&endDate=2017-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
