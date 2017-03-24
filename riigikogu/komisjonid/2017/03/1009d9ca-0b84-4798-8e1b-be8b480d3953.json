@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni väljasõiduistung reede, 24.03.2017 10:15",
+  "sitting_time": "2017-03-24T10:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Piusa kordoni külastamine. Kordoni toimimine, ülevaade olukorrast piiril, koostöö Kaitseväe ja Kaitseliiduga",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cdc9d711-e487-47ea-9f60-c6160068ce65"
+    },
+    {
+      "order": 2,
+      "title": "Piirivalve saatel tutvumine erinevate piirilõikudega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a40f3d7b-b417-4497-b4df-eb7da9c78e5e"
+    },
+    {
+      "order": 3,
+      "title": "Kokkuvõte nähtust",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "71276ec3-4cde-4980-9c50-1d4b42903b16"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "7486a800-7e44-4161-aec5-6d1ce78d2117",
+      "files": [
+        "Protokol_20170330.pdf",
+        "Protokoll.bdoc"
+      ]
+    }
+  ],
+  "uuid": "1009d9ca-0b84-4798-8e1b-be8b480d3953",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 1009d9ca-0b84-4798-8e1b-be8b480d3953)",
+  "source": "https://api.riigikogu.ee/api/volumes/1009d9ca-0b84-4798-8e1b-be8b480d3953",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-03-01&endDate=2017-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
