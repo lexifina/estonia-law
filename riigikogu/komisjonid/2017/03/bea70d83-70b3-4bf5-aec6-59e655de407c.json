@@ -1,0 +1,53 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung neljapäev, 30.03.2017 13:00",
+  "sitting_time": "2017-03-30T13:03:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade 22.-29. märtsil 2017 toimunud välisministri töövisiidist Ameerika Ühendriikidesse.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4a3c05f4-c1da-4671-aa40-2cb4430ff2e0"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad NATO välisministrite 5.-6. aprillil 2017 toimuval kohtumisel.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "72c3197b-8c85-4a2c-99cb-68314ec4cfdb"
+    },
+    {
+      "order": 3,
+      "title": "Eesti seisukohad Euroopa Liidu välisasjade nõukogu 3. aprillil 2017 toimuval istungil.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9a78b432-3929-4f03-9d9b-5eb3f3f1c0f9"
+    },
+    {
+      "order": 4,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "934332df-725e-4cfa-b6f8-25d6799cd531"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 30.03.2017",
+      "uuid": "9bb4557d-4383-4480-afe9-14003b06e1c0",
+      "files": [
+        "30032017_volitus.pdf",
+        "Protokoll_30.03.2017.bdoc",
+        "Protokoll_20170403.pdf"
+      ]
+    }
+  ],
+  "uuid": "bea70d83-70b3-4bf5-aec6-59e655de407c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid bea70d83-70b3-4bf5-aec6-59e655de407c)",
+  "source": "https://api.riigikogu.ee/api/volumes/bea70d83-70b3-4bf5-aec6-59e655de407c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-03-01&endDate=2017-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
