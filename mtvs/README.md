@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/109022016002> (version in force from 2016-02-10)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/131032017002> (version in force from 2017-04-01)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -11,7 +11,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/109022016002> (version in force 
 | [§ 2](para-002.md) | Terminid |
 | [§ 3](para-003.md) | Teabe kogumine |
 | [§ 4](para-004.md) | Teabevahetus |
-| [§ 4¹](para-004b1.md) | Euroopa Liidu väline finantskontode alane teabevahetus |
+| [§ 4¹](para-004b1.md) | Euroopa Liidu väline finantskontode alane ning riikidepõhise aruande alane teabevahetus |
 | [§ 5](para-005.md) | Teabe kasutamise piirang |
 | [§ 6](para-006.md) | Teabe kaitse ja töötlus |
 | [§ 7](para-007.md) | Kulude kandmine |
@@ -38,13 +38,24 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/109022016002> (version in force 
 | [§ 18](para-018.md) | Teabe kogumine ja teabevahetus |
 | [§ 19](para-019.md) | Maksuhalduri õigused ja kohustused |
 | [§ 20](para-020.md) | Soodsamate tingimuste kohaldamine |
+| **2¹. peatükk Eelotsuste alane automaatne teabevahetus Euroopa Liidus** | |
+| [§ 20¹](para-020b1.md) | Teabevahetuse objekt |
+| [§ 20²](para-020b2.md) | Eelotsuse kohta edastatav teave |
+| **2². peatükk Riikidepõhise aruande alane automaatne teabevahetus Euroopa Liidus** | |
+| [§ 20³](para-020b3.md) | Riikidepõhine aruanne |
+| [§ 20⁴](para-020b4.md) | Teabeandja |
+| [§ 20⁵](para-020b5.md) | Teabeandja kohustused |
+| [§ 20⁶](para-020b6.md) | Kontserni liikme teavitamiskohustus |
+| [§ 20⁷](para-020b7.md) | Maksuhalduri kohustused |
 | **3. peatükk Järelevalve** | |
 | [§ 21](para-021.md) | Järelevalveasutus |
-| [§ 22](para-022.md) | Sunniraha teabeandja kohustuste täitmata jätmise eest |
+| [§ 22](para-022.md) | Sunniraha |
 | **4. peatükk Rakendussätted** | |
 | [§ 23](para-023.md) | Teabe töötlusest teavitamine ja maksukohustuslaste identifitseerimisnumbrite kogumine |
 | [§ 23¹](para-023b1.md) | Käesoleva seaduse 1¹. peatüki rakendamine |
 | [§ 23²](para-023b2.md) | Käesoleva seaduse 2. peatüki rakendamine |
+| [§ 23³](para-023b3.md) | Käesoleva seaduse 2¹. peatüki rakendamine |
+| [§ 23⁴](para-023b4.md) | Käesoleva seaduse 2². peatüki rakendamine |
 | [§ 24](para-024.md) |  |
 | [§ 28](para-028.md) |  |
 | [§ 29](para-029.md) | Seaduse jõustumine |

@@ -1,6 +1,6 @@
 # § 14. Hoolsusmeetmete kohaldamise erisus
 
-(1) Hoolsusmeetmete võtmisel ei kohaldata FATCA kokkulepe I lisa:
+(1) Hoolsusmeetmete võtmisel ei kohaldata FATCA kokkuleppe I lisa:
 
 1) I osa punkti C;
 
