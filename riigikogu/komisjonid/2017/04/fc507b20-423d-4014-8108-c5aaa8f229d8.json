@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung esmaspäev, 3.04.2017 11:00",
+  "sitting_time": "2017-04-03T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a99b9b75-c14b-4f94-a31e-036ffd7add02"
+    },
+    {
+      "order": 2,
+      "title": "Kaitseliidu seadusesse kavandatavad muudatused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0d68b733-3fa7-4e47-9f95-e8e7d79a3c87"
+    },
+    {
+      "order": 3,
+      "title": "Noorte isamaaline kasvatus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e2f199c5-2467-4816-9382-c8fe9aefafed"
+    },
+    {
+      "order": 4,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3d46a636-d1e5-4cb1-9984-0a6dea9b3dd5"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "f7315d36-9529-458d-a509-4f9355ec7e2b",
+      "files": [
+        "Protokoll.bdoc",
+        "Protokol_20170404.pdf"
+      ]
+    }
+  ],
+  "uuid": "fc507b20-423d-4014-8108-c5aaa8f229d8",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid fc507b20-423d-4014-8108-c5aaa8f229d8)",
+  "source": "https://api.riigikogu.ee/api/volumes/fc507b20-423d-4014-8108-c5aaa8f229d8",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-04-01&endDate=2017-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
