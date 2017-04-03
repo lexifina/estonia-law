@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung esmaspäev, 3.04.2017 11:10",
+  "sitting_time": "2017-04-03T10:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c13b1ee8-2a1f-44b5-bd6f-30c8d58e5ee4"
+    },
+    {
+      "order": 2,
+      "title": "Rahandusministeeriumi ülevaade riigieelarve seaduse muudatustest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c909c3d4-fa3e-404c-bcbf-5bbfe8270b7a"
+    },
+    {
+      "order": 3,
+      "title": "Info",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "14cc19ce-100a-4916-874b-8b312a36d7b1"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "533edc8b-7750-482a-9dd9-f9fb64e31224",
+      "files": [
+        "RAHK protokoll 121 3 04 17.pdf",
+        "Protokoll.bdoc"
+      ]
+    }
+  ],
+  "uuid": "8633de2a-79d6-4d70-bb3e-f99e6cf9601f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8633de2a-79d6-4d70-bb3e-f99e6cf9601f)",
+  "source": "https://api.riigikogu.ee/api/volumes/8633de2a-79d6-4d70-bb3e-f99e6cf9601f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-04-01&endDate=2017-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
