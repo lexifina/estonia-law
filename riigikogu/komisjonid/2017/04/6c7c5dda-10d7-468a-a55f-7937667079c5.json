@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 3.04.2017 11:00",
+  "sitting_time": "2017-04-03T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5c09f88b-4107-44d6-a93b-afa7da10c828"
+    },
+    {
+      "order": 2,
+      "title": "Klinkritolmu ja põlevkivituha kasutamine põllumajanduses",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b00bff6f-8eed-4bf8-97cb-d8e96ab8edb0"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "accb60e8-bebd-41ca-94e3-fbb7ced6eb5c",
+      "files": [
+        "Protokoll.bdoc",
+        "Protokol_20170405.pdf",
+        "110 protokoll EMÜ uuring.pptx"
+      ]
+    }
+  ],
+  "uuid": "6c7c5dda-10d7-468a-a55f-7937667079c5",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 6c7c5dda-10d7-468a-a55f-7937667079c5)",
+  "source": "https://api.riigikogu.ee/api/volumes/6c7c5dda-10d7-468a-a55f-7937667079c5",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-04-01&endDate=2017-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
