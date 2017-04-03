@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 3.04.2017 13:00",
+  "sitting_time": "2017-04-03T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cf149352-8bc3-4118-862e-5c1bb06a994c"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli ülevaate „Kohalike omavalitsuste rahastamine“ arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "28fe6d7d-a948-4589-89bf-f9084ddfa97d"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a425d324-5ea2-4e82-a479-40962f71352f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "protokoll nr 93",
+      "uuid": "5bd880bb-c0eb-49b0-843a-bd16a686b4f1",
+      "files": [
+        "protokoll_nr_93.bdoc",
+        "Protokoll 93 03 04 171.pdf"
+      ]
+    }
+  ],
+  "uuid": "fabdf8cb-1695-4dae-baf6-1066c682ef45",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid fabdf8cb-1695-4dae-baf6-1066c682ef45)",
+  "source": "https://api.riigikogu.ee/api/volumes/fabdf8cb-1695-4dae-baf6-1066c682ef45",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-04-01&endDate=2017-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
