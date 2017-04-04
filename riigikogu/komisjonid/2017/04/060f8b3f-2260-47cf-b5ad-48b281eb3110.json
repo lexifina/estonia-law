@@ -1,0 +1,35 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 4.04.2017 14:00",
+  "sitting_time": "2017-04-04T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine riigihalduse ministri Mihhail Korbiga",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e7dc3b96-5a39-488d-8d56-59ab32df7250"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "f86434ad-1c86-406f-912d-03f1bcc6c800",
+      "files": [
+        "Protokoll.bdoc",
+        "Protokol_20170407.pdf",
+        "111 protokolli lisa Riigireform_Korb.pptx"
+      ]
+    }
+  ],
+  "uuid": "060f8b3f-2260-47cf-b5ad-48b281eb3110",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 060f8b3f-2260-47cf-b5ad-48b281eb3110)",
+  "source": "https://api.riigikogu.ee/api/volumes/060f8b3f-2260-47cf-b5ad-48b281eb3110",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-04-01&endDate=2017-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
