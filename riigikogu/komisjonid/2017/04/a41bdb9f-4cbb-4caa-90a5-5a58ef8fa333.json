@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung neljapäev, 6.04.2017 13:00",
+  "sitting_time": "2017-04-06T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väliskomisjoni väljasõiduistung Teabeametisse.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fdbc3cf9-0b01-43d6-b7c0-963afb7202d0"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b7314562-2466-4dfb-aa49-ed0f4b13b3d7"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 06.04.2017",
+      "uuid": "f8591cb1-6588-4b4d-89b2-57a7b5bf69da",
+      "files": [
+        "Protokoll_06.04.2017.bdoc",
+        "Protokoll_20170425.pdf"
+      ]
+    }
+  ],
+  "uuid": "a41bdb9f-4cbb-4caa-90a5-5a58ef8fa333",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a41bdb9f-4cbb-4caa-90a5-5a58ef8fa333)",
+  "source": "https://api.riigikogu.ee/api/volumes/a41bdb9f-4cbb-4caa-90a5-5a58ef8fa333",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-04-01&endDate=2017-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
