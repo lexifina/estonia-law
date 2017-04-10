@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Korruptsioonivastane erikomisjon",
+  "committee_uuid": "e4f2977a-e8c3-4fa0-8f3d-9df9acd6377f",
+  "title": "Komisjoni istung esmaspäev, 10.04.2017 13:30",
+  "sitting_time": "2017-04-10T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Keskkonnaministeeriumi kantsleri Andres Talijärvega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "08f0c96d-d895-4b12-82c4-504542ace5e0"
+    },
+    {
+      "order": 2,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e473d95d-6afd-48d3-99ad-7a83fe2bdc5e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "a595a46b-297d-46cf-8ee9-a0b632d4697f",
+      "files": [
+        "2017_04_10 Protokoll nr 59.pdf"
+      ]
+    }
+  ],
+  "uuid": "7aa1979b-ffb5-4d86-85bf-72413b84633f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7aa1979b-ffb5-4d86-85bf-72413b84633f)",
+  "source": "https://api.riigikogu.ee/api/volumes/7aa1979b-ffb5-4d86-85bf-72413b84633f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-04-01&endDate=2017-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
