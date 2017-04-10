@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 10.04.2017 11:00",
+  "sitting_time": "2017-04-10T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0ada414d-eda5-4650-b349-83b0f4009665"
+    },
+    {
+      "order": 2,
+      "title": "Hoiu-laenuühistute tegevus Eestis. Eesti Hoiu-laenuühistute Liidu kiri (1-6/16-120/1)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c33cf345-e42f-43fc-8b86-eadd2c2e97c5"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK 10.04.2017 istungi protokoll",
+      "uuid": "0208d9e0-65f0-4a28-9ec1-baa178b3ed3f",
+      "files": [
+        "Protokoll.bdoc",
+        "Protokol_20170418.pdf"
+      ]
+    }
+  ],
+  "uuid": "fa7fc829-1cb0-4eaa-ab17-d00b7f97253f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid fa7fc829-1cb0-4eaa-ab17-d00b7f97253f)",
+  "source": "https://api.riigikogu.ee/api/volumes/fa7fc829-1cb0-4eaa-ab17-d00b7f97253f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-04-01&endDate=2017-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
