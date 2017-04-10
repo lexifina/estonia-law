@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung esmaspäev, 10.04.2017 11:00",
+  "sitting_time": "2017-04-10T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1966e41e-c55b-442c-9bb2-9d239c5b5cce"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade haldusreformi hetkeseisust",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c2aacb1b-c915-4241-83b5-a7fb282fadc9"
+    },
+    {
+      "order": 3,
+      "title": "Haldusreformi seaduse muutmise seaduse eelnõu (393 SE) esimese lugemise arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2b5e5b09-ce36-48fe-a438-83fe6dc0648a"
+    },
+    {
+      "order": 4,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "81e0aa7e-37be-4a07-80de-342795882798"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "2017.04.10 protokoll",
+      "uuid": "0d7eccbe-e8ea-44d2-b995-45af36db6ca5",
+      "files": [
+        "2017.04.10 protokoll.pdf",
+        "2017.04.10_protokoll.bdoc"
+      ]
+    }
+  ],
+  "uuid": "10d11a84-8a24-4fd8-a0d6-d2604c8c327a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 10d11a84-8a24-4fd8-a0d6-d2604c8c327a)",
+  "source": "https://api.riigikogu.ee/api/volumes/10d11a84-8a24-4fd8-a0d6-d2604c8c327a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-04-01&endDate=2017-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
