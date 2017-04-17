@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 17.04.2017 11:00",
+  "sitting_time": "2017-04-17T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2ac63f9f-cde0-4b90-8944-ff0b4d8c060a"
+    },
+    {
+      "order": 2,
+      "title": "Ebaausad kaubandustavad",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "013735f7-8ae3-41c6-9256-1bee4bb22b52"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "2dd739b2-b78d-45dc-a537-a8723ca2cfd4",
+      "files": [
+        "Protokol_20170504.pdf",
+        "Protokoll.bdoc"
+      ]
+    }
+  ],
+  "uuid": "7bd32d6c-3956-451d-b94a-fd1a21ba276c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7bd32d6c-3956-451d-b94a-fd1a21ba276c)",
+  "source": "https://api.riigikogu.ee/api/volumes/7bd32d6c-3956-451d-b94a-fd1a21ba276c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-04-01&endDate=2017-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
