@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung esmaspäev, 17.04.2017 11:10",
+  "sitting_time": "2017-04-17T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7dde9e76-e740-4522-a82c-8fcef845b104"
+    },
+    {
+      "order": 2,
+      "title": "Rahandusministeeriumi ülevaade 2017. aasta kevadisest majandusprognoosist",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "db296112-ee0c-4783-8a50-f7105e045e32"
+    },
+    {
+      "order": 3,
+      "title": "Info",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "51afee53-1bd3-432f-ba21-4cd11b77e1ac"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "da43c4cb-cec5-4a6b-9aaf-d5f9472901d6",
+      "files": [
+        "Protokoll.bdoc",
+        "RAHK protokoll 125 17 04 17.pdf"
+      ]
+    }
+  ],
+  "uuid": "254f5e98-a751-4581-a179-8fa5f99fa248",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 254f5e98-a751-4581-a179-8fa5f99fa248)",
+  "source": "https://api.riigikogu.ee/api/volumes/254f5e98-a751-4581-a179-8fa5f99fa248",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-04-01&endDate=2017-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
