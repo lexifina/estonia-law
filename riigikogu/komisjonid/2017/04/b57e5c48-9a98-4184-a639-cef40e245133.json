@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung neljapäev, 20.04.2017 10:30",
+  "sitting_time": "2017-04-20T10:30:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kindlustustegevuse seaduse muutmise ja sellega seonduvalt teiste seaduste muutmise seaduse eelnõu (429 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c125f86a-34c5-4c7a-814a-54349fdb3f4c"
+    },
+    {
+      "order": 2,
+      "title": "Info",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "99758676-f370-41de-be6b-0fb2cab74e97"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "a0e25578-2bdd-4093-b508-8f8e18d998ac",
+      "files": [
+        "Protokoll.bdoc",
+        "RAHK protokoll 127 20 04 17 erakorraline.pdf"
+      ]
+    }
+  ],
+  "uuid": "b57e5c48-9a98-4184-a639-cef40e245133",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b57e5c48-9a98-4184-a639-cef40e245133)",
+  "source": "https://api.riigikogu.ee/api/volumes/b57e5c48-9a98-4184-a639-cef40e245133",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-04-01&endDate=2017-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
