@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung teisipäev, 2.05.2017 14:00",
+  "sitting_time": "2017-05-02T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4f7ca0e1-27d0-4007-a0af-77485964bec0"
+    },
+    {
+      "order": 2,
+      "title": "Asjaõigusseaduse rakendamise seaduse ja teiste seaduste muutmise seadus (tehnovõrgu talumise tasu muutmine) (405 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "08d5dfd5-50b7-4280-9a5b-7bbafeca2ceb"
+    },
+    {
+      "order": 3,
+      "title": "Politsei ja piirivalve seaduse ning päästeteenistuse seaduse muutmise seaduse eelnõu (416 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7f731c89-85c3-4fc2-92a0-64765b8baf44"
+    },
+    {
+      "order": 4,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9b2c6512-4797-4288-bbd7-1f34b8b75c67"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "437c6b66-83e7-4bd1-855b-cae78bf6acc9",
+      "files": [
+        "OIGK 02.05.17 istungi protokoll.pdf",
+        "Protokoll.bdoc"
+      ]
+    }
+  ],
+  "uuid": "730a8a1f-330f-42e3-a2f8-d08158e7f419",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 730a8a1f-330f-42e3-a2f8-d08158e7f419)",
+  "source": "https://api.riigikogu.ee/api/volumes/730a8a1f-330f-42e3-a2f8-d08158e7f419",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-05-01&endDate=2017-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
