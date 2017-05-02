@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 2.05.2017 14:00",
+  "sitting_time": "2017-05-02T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6944d48d-1ab7-48ef-8641-64c4b6de603b"
+    },
+    {
+      "order": 2,
+      "title": "Eesti Maaülikooli veterinaarõppe rahastamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9bbf3244-0969-430c-8ad9-14ca40e908f6"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "7bec754f-d759-4db2-97ae-35777a4868a8",
+      "files": [
+        "Protokol_20170504.pdf",
+        "Protokoll.bdoc"
+      ]
+    }
+  ],
+  "uuid": "0f173915-8d23-47d3-b2de-215d7cfbf2ef",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0f173915-8d23-47d3-b2de-215d7cfbf2ef)",
+  "source": "https://api.riigikogu.ee/api/volumes/0f173915-8d23-47d3-b2de-215d7cfbf2ef",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-05-01&endDate=2017-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
