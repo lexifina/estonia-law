@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 8.05.2017 11:00",
+  "sitting_time": "2017-05-08T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f877054f-dd12-47c2-956f-74ae4c6a7519"
+    },
+    {
+      "order": 2,
+      "title": "Erasektori töökohtade regionaalne paiknemine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1fd1a0eb-5137-4190-82af-c0600aca6011"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "c28940a5-9d87-467c-804e-1e1c2152c195",
+      "files": [
+        "Protokoll.bdoc",
+        "Protokol_20170511.pdf"
+      ]
+    }
+  ],
+  "uuid": "a016ae05-9a66-40c7-b5e6-3bc78f521fc9",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a016ae05-9a66-40c7-b5e6-3bc78f521fc9)",
+  "source": "https://api.riigikogu.ee/api/volumes/a016ae05-9a66-40c7-b5e6-3bc78f521fc9",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-05-01&endDate=2017-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
