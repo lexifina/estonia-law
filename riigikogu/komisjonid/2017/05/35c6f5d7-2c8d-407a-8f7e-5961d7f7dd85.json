@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung teisipäev, 9.05.2017 14:00",
+  "sitting_time": "2017-05-09T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Informatsioon julgeolekuolukorra arengutest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "158ac07c-cb3e-4f4e-b6c9-35ed7296a6de"
+    },
+    {
+      "order": 2,
+      "title": "Eesti-Prantsusmaa kaitsekoostöö, liitlaste suurendatud kohaloleku lahingugrupp Eestis ning Prantsusmaa presidendivalimised",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5393b3a0-7914-4ffa-898a-be2f53755331"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "f96f3d88-1629-4e63-a16e-8a4a00f9a1ce",
+      "files": [
+        "Protokol_20170512.pdf",
+        "Protokoll.bdoc"
+      ]
+    }
+  ],
+  "uuid": "35c6f5d7-2c8d-407a-8f7e-5961d7f7dd85",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 35c6f5d7-2c8d-407a-8f7e-5961d7f7dd85)",
+  "source": "https://api.riigikogu.ee/api/volumes/35c6f5d7-2c8d-407a-8f7e-5961d7f7dd85",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-05-01&endDate=2017-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
