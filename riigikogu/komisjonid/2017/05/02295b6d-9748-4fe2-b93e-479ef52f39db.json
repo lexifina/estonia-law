@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 9.05.2017 14:00",
+  "sitting_time": "2017-05-09T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud loomakaitseseaduse muutmise seaduse eelnõu (445 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "183af070-87d4-43c6-8e3e-4aad1e0185cc"
+    },
+    {
+      "order": 2,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b449fd8f-ddc1-4d00-a68c-b98e68d7a085"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "bc403f06-8386-433f-b4c4-2a0e0261673e",
+      "files": [
+        "118 protokolli juurde asendusliikme volitus.pdf",
+        "Protokoll.bdoc",
+        "Protokol_20170512.pdf"
+      ]
+    }
+  ],
+  "uuid": "02295b6d-9748-4fe2-b93e-479ef52f39db",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 02295b6d-9748-4fe2-b93e-479ef52f39db)",
+  "source": "https://api.riigikogu.ee/api/volumes/02295b6d-9748-4fe2-b93e-479ef52f39db",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-05-01&endDate=2017-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
