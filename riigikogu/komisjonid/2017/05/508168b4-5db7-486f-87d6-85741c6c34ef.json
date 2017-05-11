@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung neljapäev, 11.05.2017 14:00",
+  "sitting_time": "2017-05-11T11:02:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Tolliseaduse (374 SE) arutelu teisele lugemisele saatmiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "75d0d204-8c5e-461d-a1f1-cf8a48fc901b"
+    },
+    {
+      "order": 2,
+      "title": "Ühistranspordiseaduse muutmise seaduse eelnõu (188 SE) arutelu teisele lugemisele saatmiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8e5ded96-2207-468c-91aa-d71e84c49273"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "34d08800-ea12-4037-8bb5-2e1b1a4a8567"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAJK Protokoll nr 139, 11.05.2017",
+      "uuid": "9a8ffd61-4258-4839-bf26-35c9e5701149",
+      "files": [
+        "MAJK Protokoll nr 139 11.05.2017.pdf"
+      ]
+    }
+  ],
+  "uuid": "508168b4-5db7-486f-87d6-85741c6c34ef",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 508168b4-5db7-486f-87d6-85741c6c34ef)",
+  "source": "https://api.riigikogu.ee/api/volumes/508168b4-5db7-486f-87d6-85741c6c34ef",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-05-01&endDate=2017-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
