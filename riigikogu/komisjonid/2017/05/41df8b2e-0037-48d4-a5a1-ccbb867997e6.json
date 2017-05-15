@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 15.05.2017 11:00",
+  "sitting_time": "2017-05-15T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c3661c3c-9d11-4a2f-855e-a77774b242d8"
+    },
+    {
+      "order": 2,
+      "title": "Maaeluministeeriumi ülevaade Eesti Euroopa Liidu Nõukogu eesistumise teemalehtedest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "420acf66-7935-4448-a332-25da9645bf47"
+    },
+    {
+      "order": 3,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "54343774-c8ac-4ff1-bf8b-a63629400536"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "9cf20ad4-5c42-4220-b6fc-54cc260a910d",
+      "files": [
+        "Protokol_20170516.pdf",
+        "Protokoll.bdoc"
+      ]
+    }
+  ],
+  "uuid": "41df8b2e-0037-48d4-a5a1-ccbb867997e6",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 41df8b2e-0037-48d4-a5a1-ccbb867997e6)",
+  "source": "https://api.riigikogu.ee/api/volumes/41df8b2e-0037-48d4-a5a1-ccbb867997e6",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-05-01&endDate=2017-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
