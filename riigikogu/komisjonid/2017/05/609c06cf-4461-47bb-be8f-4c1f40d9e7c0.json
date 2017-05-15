@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 15.05.2017 13:00",
+  "sitting_time": "2017-05-15T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "91f6725f-1c0a-4944-ba58-9ef92a264684"
+    },
+    {
+      "order": 2,
+      "title": "Ministeeriumide ülevaade Eesti EL Nõukogu eesistumise teemalehest, mis puudutab EL varjupaigasüsteemi reformi",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "16d2e80c-547a-4fb8-b13d-bf82ba788170"
+    },
+    {
+      "order": 3,
+      "title": "Riigieelarve seaduse muutmise seaduse eelnõu arutelu (456 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "161e585e-64ce-40ba-bae3-e2a22b6fbbdf"
+    },
+    {
+      "order": 4,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1589ba4e-db27-4541-98b8-4e21b96e1062"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "protokoll nr 98",
+      "uuid": "55ee4095-8261-4a69-a595-d0f583cfe166",
+      "files": [
+        "Protokoll 98 15 05 17.pdf",
+        "protokoll_nr_98.bdoc"
+      ]
+    }
+  ],
+  "uuid": "609c06cf-4461-47bb-be8f-4c1f40d9e7c0",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 609c06cf-4461-47bb-be8f-4c1f40d9e7c0)",
+  "source": "https://api.riigikogu.ee/api/volumes/609c06cf-4461-47bb-be8f-4c1f40d9e7c0",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-05-01&endDate=2017-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
