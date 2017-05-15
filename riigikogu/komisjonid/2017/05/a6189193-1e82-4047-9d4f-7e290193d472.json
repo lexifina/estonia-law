@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung esmaspäev, 15.05.2017 11:10",
+  "sitting_time": "2017-05-15T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "59f81034-26a5-4b81-a028-8d1b67079a6b"
+    },
+    {
+      "order": 2,
+      "title": "Alkoholi-, tubaka-, kütuse- ja elektriaktsiisi seaduse ning tubakaseaduse muutmise seaduse eelnõu (380 SE II)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "531541ff-9203-4fe1-aff5-9a940b5fff06"
+    },
+    {
+      "order": 3,
+      "title": "Info",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "966a6331-ab6e-4c6b-8ff9-8dd18a468508"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "9110ef93-c8a0-4759-b769-53d0eee175cb",
+      "files": [
+        "RAHK protokoll 134 15 05 17.pdf",
+        "Protokoll.bdoc"
+      ]
+    }
+  ],
+  "uuid": "a6189193-1e82-4047-9d4f-7e290193d472",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a6189193-1e82-4047-9d4f-7e290193d472)",
+  "source": "https://api.riigikogu.ee/api/volumes/a6189193-1e82-4047-9d4f-7e290193d472",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-05-01&endDate=2017-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
