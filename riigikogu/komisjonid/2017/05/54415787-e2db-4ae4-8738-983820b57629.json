@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung teisipäev, 16.05.2017 14:00",
+  "sitting_time": "2017-05-16T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Alkoholi-, tubaka-, kütuse- ja elektriaktsiisi seaduse ning tubakaseaduse muutmise seaduse eelnõu (380 SE II)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "787bbf8a-be6b-4c22-a0e0-8d64186aaef5"
+    },
+    {
+      "order": 2,
+      "title": "Info",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d1f0d6d2-576a-470d-b4db-675a6d18cd91"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "0d9ab257-9421-474b-b6cd-61cc9cf75689",
+      "files": [
+        "RAHK protokoll 135 16 05 17.pdf",
+        "Protokoll.bdoc"
+      ]
+    }
+  ],
+  "uuid": "54415787-e2db-4ae4-8738-983820b57629",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 54415787-e2db-4ae4-8738-983820b57629)",
+  "source": "https://api.riigikogu.ee/api/volumes/54415787-e2db-4ae4-8738-983820b57629",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-05-01&endDate=2017-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
