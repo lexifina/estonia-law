@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung neljapäev, 18.05.2017",
+  "sitting_time": "2017-05-18T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kogumispensionide seaduse ja investeerimisfondide seaduse muutmise seaduse eelnõu (427 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f987b1dc-cb73-47dd-b16d-54a7a78db21b"
+    },
+    {
+      "order": 2,
+      "title": "Eesti väärtpaberite keskregistri seaduse muutmise ja sellega seonduvalt teiste seaduste muutmise seaduse eelnõu (428 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0ec2bed8-2fb2-4929-b629-f88d1406f9ea"
+    },
+    {
+      "order": 3,
+      "title": "Info",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b726822e-ba01-4783-88b0-79047dcd76b3"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "50dfdc14-4322-43fd-8fda-ea049bdbd132",
+      "files": [
+        "Protokoll.bdoc",
+        "RAHK protokoll 137 18 05 17.pdf"
+      ]
+    }
+  ],
+  "uuid": "b5d4fb16-23c8-4e97-b695-e3aa38374bc8",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b5d4fb16-23c8-4e97-b695-e3aa38374bc8)",
+  "source": "https://api.riigikogu.ee/api/volumes/b5d4fb16-23c8-4e97-b695-e3aa38374bc8",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-05-01&endDate=2017-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
