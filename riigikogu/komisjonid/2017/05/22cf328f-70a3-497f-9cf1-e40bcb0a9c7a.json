@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 29.05.2017 11:00",
+  "sitting_time": "2017-05-29T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d5b078af-bdeb-4e7e-96b4-86830accd35a"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade haldusreformi käigust",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "483d81a6-6ee8-4762-bf2c-ef501bfa57b3"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "e8d572fc-36ca-4397-8240-bfd97c4b0289",
+      "files": [
+        "Protokoll.bdoc",
+        "Protokol_20170530.pdf"
+      ]
+    }
+  ],
+  "uuid": "22cf328f-70a3-497f-9cf1-e40bcb0a9c7a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 22cf328f-70a3-497f-9cf1-e40bcb0a9c7a)",
+  "source": "https://api.riigikogu.ee/api/volumes/22cf328f-70a3-497f-9cf1-e40bcb0a9c7a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-05-01&endDate=2017-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
