@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Korruptsioonivastane erikomisjon",
+  "committee_uuid": "e4f2977a-e8c3-4fa0-8f3d-9df9acd6377f",
+  "title": "Komisjoni istung esmaspäev, 29.05.2017 13:30",
+  "sitting_time": "2017-05-29T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikogu liikmetele suunatud soovituste ja näidiskaasuste projektist",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "eb2af23e-6b05-44ad-9d30-1ae0ff952c1c"
+    },
+    {
+      "order": 2,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "36180f6f-f940-4fbf-b35d-53117a84736c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "7c282087-ff8d-4b7c-a10b-cf81cbfeef0d",
+      "files": [
+        "Protokoll nr 63.pdf"
+      ]
+    }
+  ],
+  "uuid": "92719207-ddb6-456e-91a6-332c76658a93",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 92719207-ddb6-456e-91a6-332c76658a93)",
+  "source": "https://api.riigikogu.ee/api/volumes/92719207-ddb6-456e-91a6-332c76658a93",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-05-01&endDate=2017-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
