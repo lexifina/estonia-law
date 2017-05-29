@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 29.05.2017",
+  "sitting_time": "2017-05-29T12:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "981fc591-95d8-4d42-b05e-ab775379270f"
+    },
+    {
+      "order": 3,
+      "title": "Riigieelarve seaduse muutmise seaduse eelnõule (456 SE) muudatusettepanekute arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c0c31e31-cb6e-43b2-a906-6fadf1ea5f96"
+    },
+    {
+      "order": 4,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "30c6ec7c-8809-4a09-91ed-b8583bb2ac76"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "protokoll nr 99",
+      "uuid": "124ad818-e14c-48ff-b87a-7e07b806d172",
+      "files": [
+        "Protokoll 99 29 05 17 i.pdf",
+        "protokoll_nr_99.bdoc"
+      ]
+    }
+  ],
+  "uuid": "0cbc97fb-41ee-47f5-8d3c-5ad7ba74f2f5",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0cbc97fb-41ee-47f5-8d3c-5ad7ba74f2f5)",
+  "source": "https://api.riigikogu.ee/api/volumes/0cbc97fb-41ee-47f5-8d3c-5ad7ba74f2f5",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-05-01&endDate=2017-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
