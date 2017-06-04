@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/128062016019> (version in force from 2016-11-01)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/125052017002> (version in force from 2017-06-04)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -57,6 +57,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/128062016019> (version in force 
 | [§ 39](para-039.md) | Kallasraja sulgemine ja sellest möödapääsu võimaldamine |
 | **5. peatükk Loamenetlus** | |
 | [§ 40](para-040.md) | Keskkonnakaitseload |
+| [§ 40¹](para-040b1.md) | Keskkonnaotsuste infosüsteem |
 | [§ 41](para-041.md) | Keskkonnaluba |
 | [§ 42](para-042.md) | Keskkonnaloa taotlus |
 | [§ 43](para-043.md) | Kohaliku omavalitsuse üksuse arvamus |
@@ -91,4 +92,5 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/128062016019> (version in force 
 | [§ 62⁷](para-062b7.md) | Menetlus |
 | [§ 62⁸](para-062b8.md) | Trahvi laekumine |
 | **6. peatükk Rakendussätted** | |
+| [§ 62⁹](para-062b9.md) | Andmete üleviimine keskkonnaotsuste infosüsteemi |
 | [§ 63](para-063.md) | Seaduse jõustumine |

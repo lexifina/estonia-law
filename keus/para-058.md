@@ -4,7 +4,9 @@
 
 (2) Kui käesoleva paragrahvi lõikes 1 nimetatud isikute arv on suurem kui 100, toimetatakse keskkonnaluba või keskkonnaloa andmisest keeldumise otsus kätte ainult keskkonnaloa taotlejale.
 
-(3) Keskkonnaluba tehakse teatavaks teate avaldamisega kohalikus või maakondlikus ajalehes. Teade avaldatakse vähemalt ühes üleriigilise levikuga ajalehes, kui loaga lubatud tegevusega võib kaasneda oluline regionaalne või üleriigiline keskkonnahäiring. Vajaduse korral võib teate avaldada üleriigilise levikuga ajalehes ka muudel juhtudel.
+(3) Keskkonnaluba tehakse teatavaks teate avaldamisega väljaandes Ametlikud Teadaanded ja kohalikus või maakondlikus ajalehes. Teate võib jätta kohalikus või maakondlikus ajalehes avaldamata, kui keskkonnaloa taotluse menetlusele ei kohaldatud avatud menetluse sätteid või kavandatud tegevusega kaasnev keskkonnahäiring või keskkonnarisk on väike ja selle vastu puudub piisav avalik huvi. Teade avaldatakse vähemalt ühes üleriigilise levikuga ajalehes, kui loaga lubatud tegevusega võib kaasneda oluline regionaalne või üleriigiline keskkonnahäiring. Vajaduse korral võib teate avaldada üleriigilise levikuga ajalehes ka muudel juhtudel.
+
+(3¹) Ajalehes avaldamise kulud tasub keskkonnaloa taotleja.
 
 (4) Käesoleva paragrahvi lõikes 3 nimetatud teade peab sisaldama vähemalt järgmisi andmeid:
 
@@ -18,7 +20,7 @@
 
 5) andmed selle kohta, kus saab keskkonnaloa või sellest keeldumise otsusega ja otsuse aluseks olnud andmetega tutvuda.
 
-(5) Keskkonnaluba või keskkonnaloa andmisest keeldumise otsus avalikustatakse internetis.
+(5) Keskkonnaluba või keskkonnaloa andmisest keeldumise otsus avalikustatakse loa andja veebilehel.
 
 (6) Keskkonnaluba tehakse teatavaks kohaliku omavalitsuse üksusele.
 

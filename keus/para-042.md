@@ -42,7 +42,7 @@
 
 3) muud seadusega või käesoleva paragrahvi lõike 7 alusel kehtestatud õigusaktiga nõutavad andmed.
 
-(4) Keskkonnaloa taotleja peab enne taotluse esitamist tasuma riigilõivu.
+(4) Riigilõivu tasumise kohustuse olemasolul peab keskkonnaloa taotleja enne taotluse esitamist tasuma riigilõivu.
 
 (5) Keskkonnaloa taotluses märgitakse kõik soovitavad tegevused, milleks on keskkonnaloa olemasolu nõutav.
 
