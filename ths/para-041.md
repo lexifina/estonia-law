@@ -8,7 +8,7 @@
 
 2) käitise nimetus, aadress, kontaktandmed, L-EST geograafilised koordinaadid ja tegevuse algusaeg;
 
-3) käitise tegevuse eesmärk, põhitegevusala ja käesoleva seaduse § 19 lõike 3 alusel kehtestatud alltegevusvaldkonna nimetus, sealhulgas käitise tööaeg, aastane tootmismaht ja ülesseatud tootmisvõimsus;
+3) käitise tegevusvaldkonna ja käesoleva seaduse § 19 lõike 3 alusel kehtestatud põhilise alltegevusvaldkonna nimetus, käitise tööaeg, aastane tootmismaht ja ülesseatud tootmisvõimsus;
 
 4) käitise asukoha kirjeldus, asukoha kaart ja käitise asendiplaan;
 
@@ -46,6 +46,6 @@
 
 (4) Kui käesolevas seaduses või muudes õigusaktides sätestatud keskkonna kvaliteedinormatiividega on ette nähtud rangemad nõuded kui need, mida on võimalik täita parimat võimalikku tehnikat kasutades, pannakse käitajale kompleksloaga kohustus rakendada lisaabinõusid, mis tagavad normatiivide täitmise.
 
-(5) Kompleksloa sisu täpsustavad nõuded ja kompleksloa vormi kehtestab
+(5) Kompleksloa sisu täpsustavad nõuded ja kompleksloa andmekoosseisu kehtestab
 
 määrusega.

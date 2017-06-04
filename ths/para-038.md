@@ -28,4 +28,4 @@
 
 4) käitaja poolt kavandatava tehnoloogia, meetodite ja meetmete alternatiivide lühikirjeldust, kui käitaja on neid alternatiive uurinud.
 
-(4) Kompleksluba ja selle andmise otsus vormistatakse elektrooniliselt digitaalselt allkirjastatuna või paberil.
+(4) Kompleksluba ja selle andmise otsus vormistatakse elektrooniliselt digitaalselt allkirjastatuna. Taotleja soovil võib kompleksloa ja selle andmise otsuse vormistada ka paberil.
