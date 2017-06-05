@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung esmaspäev, 5.06.2017 11:15",
+  "sitting_time": "2017-06-05T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6b135cac-4e7e-4a0f-b389-b3d72d64ad34"
+    },
+    {
+      "order": 2,
+      "title": "Naistevastase vägivalla ja perevägivalla ennetamise ja tõkestamise Euroopa Nõukogu konventsiooni ratifitseerimise seaduse eelnõu (475 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7530648c-afc0-4816-9348-13b37a9a5dad"
+    },
+    {
+      "order": 3,
+      "title": "Karistusseadustiku § 178 muutmise seaduse eelnõu (422 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "41c8f140-1984-46b6-a46e-b69593852710"
+    },
+    {
+      "order": 4,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "95c53238-f298-4522-9008-57369b21e594"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "b9395835-7930-42e0-a345-74ba01a4bd31",
+      "files": [
+        "Protokoll.bdoc",
+        "OIGK 05.06.17 istungi protokoll.pdf"
+      ]
+    }
+  ],
+  "uuid": "dbe111b7-658e-4c9d-8308-c51b4e64aa6a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid dbe111b7-658e-4c9d-8308-c51b4e64aa6a)",
+  "source": "https://api.riigikogu.ee/api/volumes/dbe111b7-658e-4c9d-8308-c51b4e64aa6a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-06-01&endDate=2017-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
