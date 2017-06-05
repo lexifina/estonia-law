@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 5.06.2017 13:00",
+  "sitting_time": "2017-06-05T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "76c7b36d-c2a2-4e19-a87f-a8da55f0ed8d"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli ülevaate „Ülevaade omavalitsuste raamatupidamise aastaaruande audiitorkontrolli probleemidest“ kordusarutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f44ba19d-144f-4d43-a499-42465904d283"
+    },
+    {
+      "order": 3,
+      "title": "Riigikontrolli ülevaate tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "52ee4ae8-43a0-4ac8-8b2a-6b961aad8a66"
+    },
+    {
+      "order": 4,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2cb4f0b1-a5ec-434d-8289-bcc531a553a6"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "protokoll nr 101",
+      "uuid": "16800acf-618f-46ee-b965-5c203a9fcaf2",
+      "files": [
+        "protokoll_nr_101.bdoc",
+        "Protokoll 101 05 06 17.pdf"
+      ]
+    }
+  ],
+  "uuid": "ac078f18-94df-40b2-b67a-7e402b2a1128",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ac078f18-94df-40b2-b67a-7e402b2a1128)",
+  "source": "https://api.riigikogu.ee/api/volumes/ac078f18-94df-40b2-b67a-7e402b2a1128",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-06-01&endDate=2017-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
