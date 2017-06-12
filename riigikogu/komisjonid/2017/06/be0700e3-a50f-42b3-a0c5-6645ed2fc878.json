@@ -1,0 +1,42 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 12.06.2017 11:00",
+  "sitting_time": "2017-06-12T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cf4ed6d3-a48e-438a-b2ce-651109af0523"
+    },
+    {
+      "order": 2,
+      "title": "Rongiühendused maapiirkonnas",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "973a4d85-9ac1-40c1-9f2e-e6cfab2f20d0"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "491becc1-abab-4f0b-8c74-d54de9f6c40f",
+      "files": [
+        "Protokoll.bdoc",
+        "125 protokolli lisa 2 Rail Baltic.pptx",
+        "125 protokolli lisa 1 Elron.pptx",
+        "Protokol_20170614.pdf"
+      ]
+    }
+  ],
+  "uuid": "be0700e3-a50f-42b3-a0c5-6645ed2fc878",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid be0700e3-a50f-42b3-a0c5-6645ed2fc878)",
+  "source": "https://api.riigikogu.ee/api/volumes/be0700e3-a50f-42b3-a0c5-6645ed2fc878",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-06-01&endDate=2017-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
