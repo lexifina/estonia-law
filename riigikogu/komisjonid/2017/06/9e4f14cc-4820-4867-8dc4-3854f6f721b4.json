@@ -1,0 +1,35 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 13.06.2017 14:00",
+  "sitting_time": "2017-06-13T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kokkuvõtete tegemine komisjoni tööst kevadistungjärgul",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "165ec087-59d5-48d3-b8fc-8e6f80a359fb"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "d5fd6f64-0211-4683-9cd6-be04a38794f2",
+      "files": [
+        "Protokoll.bdoc",
+        "Protokol_20170615.pdf",
+        "ÜLEVAADE MAEK 2017 I poolaasta.pdf"
+      ]
+    }
+  ],
+  "uuid": "9e4f14cc-4820-4867-8dc4-3854f6f721b4",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9e4f14cc-4820-4867-8dc4-3854f6f721b4)",
+  "source": "https://api.riigikogu.ee/api/volumes/9e4f14cc-4820-4867-8dc4-3854f6f721b4",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-06-01&endDate=2017-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
