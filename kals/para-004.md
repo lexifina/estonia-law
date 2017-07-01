@@ -30,11 +30,11 @@
 
 5) Kaitseväe korraldatavale õppekogunemisele ja lisaõppekogunemisele;
 
-6) politseitegevusele korrakaitseseaduses sätestatud korras;
+6) politsei ja piirivalve seaduse § 3 lõike 1 punktides 1, 4–6 ja 8 ning hädaolukorra seaduse § 16 lõikes 3 sätestatud politsei ülesannete täitmisse;
 
 7) riigikaitseobjektivastase ründe, riigipiiri või ajutise kontrolljoone ebaseadusliku ületamise ning kuritegude ennetamisse ja tõkestamisse korrakaitseseaduses sätestatud korras.
 
-(3) Kaitseliidu kaasamise tingimused ja korra küberturvalisuse tagamisel kehtestab
+(3) Kaitseliidu käesoleva paragrahvi lõike 2 punktides 4 ja 6 sätestatud ülesannete täitmisse kaasamise korra kehtestab
 
 määrusega.
 
