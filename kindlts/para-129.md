@@ -10,7 +10,7 @@
 
 (5) Audiitorettevõtja peab kindlustusandja audiitorkontrolli kaasama isiku, kes vastab käesoleva seaduse § 99 lõikes 2 sätestatud nõuetele.
 
-(6) Finantsinspektsioon võib taotleda kohtult üldkoosoleku nimetatud kindlustusandja audiitorettevõtja asendamist äriseadustiku §-s 329¹ sätestatud korras.
+(6) Finantsinspektsioon võib taotleda kohtult üldkoosoleku nimetatud kindlustusandja audiitorettevõtja asendamist äriseadustiku §-s 329¹ sätestatud korras. Sama taotluse võivad esitada ka kindlustusandja aktsionärid, kes ühiselt esindavad vähemalt viit protsenti kindlustusandja aktsiakapitalist või hääleõigustest.
 
 (7) Lisaks käesoleva paragrahvi lõikes 6 sätestatule võib Finantsinspektsioon taotleda äriseadustiku §-s 329¹ sätestatud korras kohtult audiitorettevõtja määramist, kui:
 
