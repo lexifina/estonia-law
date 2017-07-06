@@ -10,7 +10,7 @@
 
 2) avaldama käesoleva lõike punktis 1 sätestatud sisuga teate vähemalt ühes üleriigilise levikuga päevalehes;
 
-3) teavitama registrisse sellekohase märke tegemiseks Eesti väärtpaberite keskregistri pidajat, kinnistusraamatu pidajat ja laevakinnistusraamatu pidajat, samuti teadaolevaid nendesarnaste registrite pidajaid teistes lepinguriikides, kus on asutatud Eesti kindlustusandja filiaalid, isikutest, kes ei oma enam volitusi kindlustusandja nimel käsutada kindlustusandja vara või volituse alusel valitsetavat vara, ja isikutest, kellele on need volitused antud.
+3) teavitama registrisse sellekohase märke tegemiseks väärtpaberite keskdepositooriumi ja pensioniregistri pidajat, kinnistusraamatu pidajat ja laevakinnistusraamatu pidajat, samuti teadaolevaid nendesarnaste registrite pidajaid teistes lepinguriikides, kus on asutatud Eesti kindlustusandja filiaalid, isikutest, kes ei oma enam volitusi kindlustusandja nimel käsutada kindlustusandja vara või volituse alusel valitsetavat vara, ja isikutest, kellele on need volitused antud.
 
 (4) Erirežiimihaldur võib Eesti kindlustusandja või kolmanda riigi kindlustusandja Eesti filiaali kindlustusportfelli või osa sellest üle anda teisele kindlustusandjale käesoleva seaduse 6. peatükis sätestatud korras.
 

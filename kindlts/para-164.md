@@ -8,7 +8,7 @@
 
 3) teatama kõigile teadaolevatele võlausaldajatele likvideerimismenetlusest kirjalikult;
 
-4) teatama kindlustusandja või kolmanda riigi kindlustusandja Eesti filiaali likvideerimisest Eesti väärtpaberite keskregistri pidajale, kinnistusraamatu pidajale, laevakinnistusraamatu pidajale ja vajaduse korral, või kui seda näevad ette teise lepinguriigi õigusaktid, nendesarnaste registrite pidajatele teistes lepinguriikides, kus on asutatud Eesti kindlustusandja filiaalid;
+4) teatama kindlustusandja või kolmanda riigi kindlustusandja Eesti filiaali likvideerimisest väärtpaberite keskdepositooriumile ja pensioniregistri pidajale, kinnistusraamatu pidajale, laevakinnistusraamatu pidajale ja vajaduse korral, või kui seda näevad ette teise lepinguriigi õigusaktid, nendesarnaste registrite pidajatele teistes lepinguriikides, kus on asutatud Eesti kindlustusandja filiaalid;
 
 5) andma kindlustusportfelli käesolevas seaduses kehtestatud korras üle, lõpetama kindlustuslepingud või täitma kõik kindlustuslepingutest tulenevad kohustused;
 
