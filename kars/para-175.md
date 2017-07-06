@@ -1,6 +1,6 @@
 # § 175. Inimkaubandus alaealise ärakasutamise eesmärgil
 
-(1) Noorema kui kaheksateistaastase isiku mõjutamise eest, et ta alustaks või jätkaks kuriteo toimepanemist, kerjamist, prostitutsiooniga tegelemist või tavapäratutel tingimustel töötamist või astuks modelli või näitlejana üles pornograafilises või erootilises etteastes või teoses, kui puudub käesoleva seadustiku §-s 133 sätestatud süüteokoosseis, samuti noorema kui kaheksateistaastase isiku käesolevas paragrahvis nimetatud tegevusele muul viisil kaasaaitamise eest –
+(1) Noorema kui kaheksateistaastase isiku mõjutamise eest, et ta alustaks või jätkaks kuriteo toimepanemist, kerjamist, prostitutsiooniga tegelemist või tavapäratutel tingimustel töötamist või abielluks tahte vastaselt või astuks modelli või näitlejana üles pornograafilises või erootilises etteastes või teoses, kui puudub käesoleva seadustiku §-s 133 sätestatud süüteokoosseis, samuti noorema kui kaheksateistaastase isiku käesolevas paragrahvis nimetatud tegevusele muul viisil kaasaaitamise eest –
 
 karistatakse kahe- kuni kümneaastase vangistusega.
 

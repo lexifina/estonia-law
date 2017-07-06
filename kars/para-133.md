@@ -1,6 +1,6 @@
 # § 133. Inimkaubandus
 
-(1) Inimese asetamise eest olukorda, kus ta on sunnitud töötama tavapäratutel tingimustel, tegelema prostitutsiooniga, kerjama, panema toime kuriteo või täitma muud vastumeelset kohustust, samuti inimese sellises olukorras hoidmise eest, kui tegu on toime pandud vabaduse võtmise, vägivalla, pettuse, kahju tekitamisega ähvardamise, teisest isikust sõltuvuse, abitu seisundi või haavatava seisundi ärakasutamisega, –
+(1) Inimese asetamise eest olukorda, kus ta on sunnitud abielluma, töötama tavapäratutel tingimustel, tegelema prostitutsiooniga, kerjama, panema toime kuriteo või täitma muud vastumeelset kohustust, samuti inimese sellises olukorras hoidmise eest, kui tegu on toime pandud vabaduse võtmise, vägivalla, pettuse, kahju tekitamisega ähvardamise, teisest isikust sõltuvuse, abitu seisundi või haavatava seisundi ärakasutamisega, –
 
 karistatakse ühe- kuni seitsmeaastase vangistusega.
 

@@ -1,6 +1,6 @@
 # § 133¹. Inimkaubanduse toetamine
 
-(1) Käesoleva seadustiku § 133 lõikes 1 nimetatud olukorda asetatud isiku eelnevalt mittelubatud veo, üleandmise, saatmise, vastuvõtmise, varjamise või majutamise või muul viisil tema sunnitud tegevusele eelnevalt mittelubatud kaasaaitamise eest –
+(1) Käesoleva seadustiku § 133 lõikes 1 nimetatud olukorda asetatud isiku eelnevalt mittelubatud veo, üleandmise, saatmise, vastuvõtmise, varjamise või majutamise, temalt seksi ostmise või muul viisil tema sunnitud tegevusele eelnevalt mittelubatud kaasaaitamise eest –
 
 karistatakse kuni viieaastase vangistusega.
 

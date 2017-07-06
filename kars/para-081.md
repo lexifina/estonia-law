@@ -12,6 +12,10 @@
 
 (4) Jätkuva süüteo korral arvutatakse aegumise tähtaega viimase teo lõpuleviimisest. Vältava süüteo korral arvutatakse aegumise tähtaega vältava teo lõppemisest.
 
+(4¹) Väärteo aegumine katkeb väärteomenetluse seadustiku § 166¹ lõikes 1 sätestatud taotluse esitamisel.
+
+(4²) Kui väärteo aegumine on katkenud, algab aegumine uuesti väärteomenetluse seadustiku § 166¹ lõikes 1 sätestatud taotluse esitamisest arvates. Isikut ei tohi väärteos siiski süüdi mõista ega karistada, kui väärteo lõpuleviimisest kuni selle kohta tehtud kohtuotsuse jõustumiseni on möödunud käesoleva paragrahvi lõikes 3 sätestatust kahe aasta võrra pikem aeg.
+
 (5) Kuriteo aegumine katkeb kriminaalmenetluses järgmiste menetlustoimingute tegemisega:
 
 1) kahtlustatavale või süüdistatavale tõkendi kohaldamisega või tema vara või rahapesu objektiks oleva vara arestimisega;
@@ -34,6 +38,6 @@
 
 2) väärteo tunnustega teo kohta kriminaalmenetluse alustamisel kuni kriminaalmenetluse lõpetamiseni;
 
-3) seksuaalse enesemääramise vastase kuriteo korral noorema kui kaheksateistaastase isiku suhtes kuni kannatanu kaheksateistaastaseks saamiseni, kui kriminaalmenetluse ajend ei ilmnenud enne tema poolt nimetatud vanuse saavutamist.
+3) tahtevastase abielu, naise suguelundite sandistava moonutamise, raseduse ebaseadusliku katkestamise ning seksuaalse enesemääramise vastase kuriteo korral noorema kui kaheksateistaastase isiku suhtes kuni kannatanu kaheksateistaastaseks saamiseni, kui kriminaalmenetluse ajend ei ilmnenud enne tema poolt nimetatud vanuse saavutamist.
 
 (8) Käesoleva paragrahvi lõike 7 punktides 1 ja 2 sätestatud juhtudel ei uuene aegumine, kui kuriteo lõpuleviimisest on möödunud viisteist aastat. Väärteo aegumine ei uuene, kui väärteo lõpuleviimisest on möödunud kolm aastat. Kui väärteo aegumistähtaeg on kolm aastat, ei uuene aegumine, kui väärteo lõpuleviimisest on möödunud neli aastat.

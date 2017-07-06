@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/131122016014> (version in force from 2017-01-10)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/126062017008> (version in force from 2017-07-06)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -180,6 +180,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/131122016014> (version in force 
 | **2. jagu Tervisevastased süüteod** | |
 | **1. jaotis Tervist kahjustavad süüteod** | |
 | [§ 118](para-118.md) | Raske tervisekahjustuse tekitamine |
+| [§ 118¹](para-118b1.md) | Naise suguelundite sandistav moonutamine |
 | [§ 119](para-119.md) | Raske tervisekahjustuse tekitamine ettevaatamatusest |
 | [§ 119¹](para-119b1.md) | Kakluses osalemine |
 | **2. jaotis Vägivallateod** | |
@@ -232,6 +233,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/131122016014> (version in force 
 | [§ 151](para-151.md) | Vaenu õhutamine |
 | [§ 152](para-152.md) | Võrdõiguslikkuse rikkumine |
 | [§ 153](para-153.md) | Diskrimineerimine pärilikkusriskide alusel |
+| [§ 153¹](para-153b1.md) | Seksuaalne ahistamine |
 | **2. jagu Põhivabaduste rikkumised** | |
 | [§ 154](para-154.md) | Usuvabaduse rikkumine |
 | [§ 155](para-155.md) | Ühinemisvabaduse rikkumine |
@@ -239,6 +241,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/131122016014> (version in force 
 | [§ 157](para-157.md) | Isikuandmete ebaseaduslik avaldamine |
 | [§ 157¹](para-157b1.md) | Delikaatsete isikuandmete ebaseaduslik avaldamine |
 | [§ 157²](para-157b2.md) | Teise isiku identiteedi ebaseaduslik kasutamine |
+| [§ 157³](para-157b3.md) | Ahistav jälitamine |
 | [§ 158](para-158.md) | Seaduslikult korraldatud avaliku koosoleku takistamine ja selle laialiajamine vägivallaga |
 | [§ 159](para-159.md) | Ühinemisvabaduse rikkumine |
 | **3. jagu Süüteod valimisvabaduse vastu** | |
@@ -420,7 +423,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/131122016014> (version in force 
 | [§ 279](para-279.md) | Riikliku järelevalve teostamise takistamine |
 | **2. jaotis Andmetega seotud süüteod** | |
 | [§ 280](para-280.md) | Valeandmete esitamine |
-| [§ 281](para-281.md) | Ebaõigete andmete esitamine kohturegistri pidajale, Eesti väärtpaberite keskregistrile, abieluvararegistrile, notarile ja kohtutäiturile |
+| [§ 281](para-281.md) | Ebaõigete andmete esitamine kohturegistri pidajale, väärtpaberite keskdepositooriumile, pensioniregistri pidajale, abieluvararegistrile, notarile ja kohtutäiturile |
 | [§ 282](para-282.md) | Sünnist ja surmast teatamata jätmine |
 | [§ 283](para-283.md) |  |
 | [§ 287](para-287.md) |  |
