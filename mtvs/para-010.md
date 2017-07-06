@@ -16,8 +16,8 @@
 
 6) elukindlustusega tegelev kindlustusandja ja välisriigi kindlustusandja Eesti filiaal;
 
-7) Eesti väärtpaberite keskregistri pidaja.
+7) väärtpaberite keskdepositoorium.
 
-(3) Eesti väärtpaberite keskregistri pidaja peetavad finantskontod on finantskontod, mis on avatud Eesti väärtpaberite keskregistri seaduse § 11 lõike 4 alusel või mille kontohaldur Eesti väärtpaberite keskregistri seaduse tähenduses on mitteosalev finantsasutus.
+(3) Väärtpaberite keskdepositooriumi peetavad finantskontod on finantskontod, mis on avatud väärtpaberite registri pidamise seaduse § 11 lõike 4 alusel või mille kontohaldur väärtpaberite registri pidamise seaduse tähenduses on mitteosalev finantsasutus.
 
-(4) Käesoleva paragrahvi lõikes 3 nimetamata finantskontosid loetakse Eesti väärtpaberite keskregistri seaduse tähenduses kontohalduri peetavateks.
+(4) Käesoleva paragrahvi lõikes 3 nimetamata finantskontosid loetakse väärtpaberite registri pidamise seaduse tähenduses kontohalduri peetavateks.
