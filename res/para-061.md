@@ -18,6 +18,18 @@
 
 (4) Laenu või riigigarantii annab Riigikogu Vabariigi Valitsuse ettepanekul, kui seaduses ei ole sätestatud teisiti. Vabariigi Valitsus võib anda laenu või käesoleva seaduse alusel riigigarantii käesoleva paragrahvi lõike 5 kohaselt määratud ulatuses lõikes 7 nimetatud isikutele või nende kohustuste tagamiseks.
 
+(4¹) Vabariigi Valitsus võib anda laenu või käesoleva seaduse alusel riigigarantii tähtajaga kuni 30 aastat riigieelarvega määratud suurima lubatud jäägi ulatuses järgmistele Eestis asuvatele või Eestis tegutsevatele isikutele või nende kohustuste tagamiseks:
+
+1) avalik-õiguslik juriidiline isik;
+
+2) äriühing, milles riigil on enamusotsustusõigus;
+
+3) riigi asutatud sihtasutus;
+
+4) finantsasutus.
+
+(4²) Valdkonna eest vastutav minister võib anda laenu arvelduskrediidilepingu alusel Eestis asuvale või Eestis tegutsevale riigi asutatud sihtasutusele riigieelarvega määratud suurima lubatud jäägi ja maksimaalse laenusumma ulatuses kuni kolmeks aastaks.
+
 (5) Vabariigi Valitsuse antavate laenude ja käesoleva seaduse alusel antavate riigigarantiide suurim lubatud jääk määratakse riigieelarvega. Nimetatud suurima lubatud jäägi määramisel tuleb arvesse võtta antud laenude, garantiide ja tagastatava toetuse summat ning nende andmise prognoositavat vajadust.
 
 (6) Vabariigi Valitsuse antava laenu või käesoleva seaduse alusel antava riigigarantii tähtaeg võib olla kuni 30 aastat. Vabariigi Valitsuse antava laenu intressimäär ei tohi olla madalam intressimäärast, millega riigil oleks laenulepingu sõlmimise ajal võimalik sarnastel tingimustel võlakohustusi võtta.

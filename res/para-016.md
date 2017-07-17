@@ -6,4 +6,4 @@
 
 (3) Makromajandusprognoos ja rahandusprognoos peavad sisaldama tundlikkusanalüüsi, mille raames uuritakse, kuidas kujunevad peamised eelarvemuutujad erinevate majanduskasvu ja intressimäärade prognooside korral.
 
-(4) Makromajandusprognoosi ja rahandusprognoosi võrreldakse kõige ajakohasemate Euroopa Komisjoni ja teiste sõltumatute institutsioonide prognoosidega ning makromajandusprognoosi ja rahandusprognoosi seletuskirjas antakse ülevaade erinevustest.
+(4) Makromajandusprognoosi ja rahandusprognoosi seletuskirjas võrreldakse prognoosi kõige ajakohasemate Euroopa Komisjoni ja teiste sõltumatute institutsioonide prognoosidega ning kirjeldatakse ja põhjendatakse olulisi erinevusi. Makromajandusprognoosi ja rahandusprognoosi paikapidavust hinnatakse regulaarselt ja erapooletult, lähtudes objektiivsetest kriteeriumidest, et välja selgitada võimalike süsteemsete kõrvalekallete olemasolu vähemalt nelja järjestikuse aasta jooksul, ning avalikustatakse nii prognoosidele antud hinnang kui ka süsteemsete kõrvalekallete puhul vajalikud meetmed nende likvideerimiseks.

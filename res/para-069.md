@@ -1,6 +1,6 @@
 # § 69. Riigi võlakohustused
 
-(1) Riigi võlakohustused käesoleva seaduse tähenduses on riigi rahavoo juhtimiseks, sealhulgas riigieelarve kulude, investeeringute ja finantseerimistehingute rahastamiseks võetavad laenud, arvelduskrediidid, lühiajalised laenud väärtpaberite tagatisel, emiteeritavad võlakirjad ning sõlmitavad väärtpaberite müügi- ja tagasiostutehingud.
+(1) Riigi võlakohustused käesoleva seaduse tähenduses on riigi rahavoo juhtimiseks võetavad laenud, arvelduskrediidid, lühiajalised laenud väärtpaberite tagatisel, emiteeritavad võlakirjad ning sõlmitavad väärtpaberite müügi- ja tagasiostutehingud.
 
 (2) Riigi võlakohustuste suurim lubatud jääk määratakse riigieelarvega.
 

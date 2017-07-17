@@ -8,7 +8,7 @@
 
 (4) Valitsemisala arengukava on arengudokument, milles kajastatakse ministeeriumi ja selle valitsemisala asutuste panustamist tulemusvaldkondade üldeesmärkide saavutamisse.
 
-(5) Programm on arengudokument, milles määratakse poliitikavaldkonna alaeesmärgi saavutamisele suunatud meetmed, mõõdikud, tegevused ja rahastamiskava.
+(5) Programm on arengudokument, milles määratakse tulemusvaldkonna alaeesmärgi saavutamisele suunatud meetmed, mõõdikud, tegevused ja rahastamiskava.
 
 (6) Strateegilised arengudokumendid peavad olema omavahel kooskõlas.
 

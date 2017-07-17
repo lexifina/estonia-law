@@ -1,6 +1,6 @@
 # § 29. Eelarveklassifikaator
 
-(1) Eelarveklassifikaatoriga sätestatakse vahendite detailne liigendus ning eelarvestamisel ja finantsjuhtimises kasutatavad arvestuspõhimõtted.
+(1) Eelarveklassifikaator koosneb vahendite detailsest liigendusest ning eelarvestamisel, finantsjuhtimises ja strateegilises planeerimises kasutatavatest arvestuspõhimõtetest ja mõistetest.
 
 (2) Tegevuspõhise eelarve korral sätestatakse eelarveklassifikaatoris detailne tegevuspõhine vahendite liigendus ministeeriumide valitsemisalade ja programmide kaupa.
 

@@ -4,7 +4,7 @@
 
 (2) Vabariigi Valitsusel on õigus muuta riigieelarves määratud järgmiste vahendite administratiivset ja majandusliku sisu järgi liigendust:
 
-1) välistoetuste ja riikliku kaasfinantseeringuga seotud vahendid;
+1) välistoetuste ja kaasrahastamisega seotud vahendid;
 
 2) Kaitseministeeriumi valitsemisala vahendid rahvusvahelises sõjalises operatsioonis osalemise rahastamiseks;
 

@@ -5,3 +5,5 @@
 (2) Riigikogule esitatav riigieelarve eelnõu peab vastama avaldatud õigusaktidele ja enne riigieelarve esitamist Vabariigi Valitsuse poolt Riigikogus algatatud eelnõudele. Esitatavas riigieelarve eelnõus võib olla arvesse võetud Vabariigi Valitsuse poolt Riigikogus algatatud eelnõudes Riigikogu menetluses tehtud muudatusi.
 
 (3) Riigieelarve eelnõu seletuskirjas antakse riigieelarvest ülevaade ning põhjendatakse majandusliku sisu ja tegevuspõhise info põhjal riigieelarve eelnõus kavandatud vahendite mahtusid detailselt, samuti esitatakse Vabariigi Valitsuse ülevaade järgmise nelja aasta eeldatavast majandusolukorrast ja riigi kavandatavatest tegevustest.
+
+(4) Kui riigieelarve eelnõu muudetakse käesoleva seaduse § 34¹ lõikest 3 tulenevalt, esitatakse riigieelarve eelnõu seletuskirjas riigieelarve eelnõus tehtud muudatustele vastavalt korrigeeritud eelarvestrateegia.

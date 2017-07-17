@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/121062016020> (version in force from 2017-01-01)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/107072017036> (version in force from 2017-07-17)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -39,16 +39,20 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/121062016020> (version in force 
 | [§ 25](para-025.md) | Eelarvestrateegia ja stabiilsusprogrammi avalikustamine |
 | **4. peatükk Riigieelarve** | |
 | **1. jagu Riigieelarve sisu ja ülesehitus** | |
+| [§ 25¹](para-025b1.md) | Eelarvestrateegia sisu |
 | [§ 26](para-026.md) | Riigieelarve sisu |
 | [§ 27](para-027.md) | Eelarveaasta |
 | [§ 28](para-028.md) | Riigieelarve ülesehitus |
 | [§ 29](para-029.md) | Eelarveklassifikaator |
 | [§ 30](para-030.md) | Riigieelarve kohustuslik liigendus |
 | [§ 31](para-031.md) | Kulude, investeeringute ja finantseerimistehingute täiendav liigendamine |
-| [§ 32](para-032.md) | Piirmäärad |
+| [§ 32](para-032.md) | Piirmääraga ja piirmäärata vahendid ning edasiantav maks |
 | [§ 33](para-033.md) | Riigieelarve vahendite ülekandmine |
 | **2. jagu Riigieelarve eelnõu koostamine** | |
+| [§ 33¹](para-033b1.md) | Eelarvestrateegia koostamine |
 | [§ 34](para-034.md) | Riigieelarve eelnõu koostamise alused |
+| [§ 34¹](para-034b1.md) | Eelarvestrateegia ja riigieelarve kinnitamine |
+| [§ 34²](para-034b2.md) | Tõhustamiskava |
 | [§ 35](para-035.md) | Ministeeriumi valitsemisala eelarve projekt |
 | [§ 36](para-036.md) | Eelarveläbirääkimised |
 | [§ 37](para-037.md) | Riigieelarve eelnõu menetlemine Vabariigi Valitsuses |
@@ -73,12 +77,14 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/121062016020> (version in force 
 | **5. peatükk Riigieelarve tulude laekumine, vahendite kasutamine ja kohustuste võtmine** | |
 | **1. jagu Riigieelarve vahendite kasutamine** | |
 | [§ 53](para-053.md) | Riigieelarve vahendite kasutamise eeldused |
+| [§ 53¹](para-053b1.md) | Riigisiseste toetusprogrammide vahendite kasutamine |
 | [§ 54](para-054.md) | Välistoetuse ja välistoetuse kaasrahastamise vahendite kasutamine enne nende laekumist |
-| [§ 55](para-055.md) | Toetuse ja kaasfinantseeringu vahendite kasutamine |
+| [§ 55](para-055.md) | Toetuse ja kaasrahastamise vahendite kasutamine |
 | [§ 56](para-056.md) | Muudatused riigieelarve vahendite kasutamisel |
 | [§ 57](para-057.md) | Õppelaenude põhiosa kustutamisega seotud vahendite kasutamine |
 | [§ 58](para-058.md) | Vabariigi Valitsuse reservi vahendite kasutamine |
 | [§ 59](para-059.md) | Tulude laekumise korraldus |
+| [§ 59¹](para-059b1.md) | Riigieelarve vahendite ülekandmine |
 | **2. jagu Kohustuste võtmine, riigi antav laen ja riigigarantii** | |
 | [§ 60](para-060.md) | Kohustuste võtmine |
 | [§ 61](para-061.md) | Riigi antav laen ja riigigarantii |
@@ -113,6 +119,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/121062016020> (version in force 
 | **1. jagu Üleminekusätted** | |
 | [§ 80](para-080.md) | Käesoleva seaduse §-de 20, 48 ja 60 rakendamine |
 | [§ 81](para-081.md) | 2014. aasta riigieelarvega seotud erisused |
+| [§ 81¹](para-081b1.md) | 2020. aasta riigieelarvega seotud erisused |
 | **2. jagu Seaduste muutmine ja kehtetuks tunnistamine** | |
 | [§ 82](para-082.md) |  |
 | [§ 125](para-125.md) |  |
