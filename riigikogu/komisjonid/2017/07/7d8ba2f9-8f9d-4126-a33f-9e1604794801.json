@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung reede, 21.07.2017 10:00",
+  "sitting_time": "2017-07-21T10:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade 24.-25. juulil 2017 toimuvast mitteametlikust konkurentsivõime nõukogu (teadus) kohtumisest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "aee5d316-e460-438a-870a-40f83507432c"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade ELi ja Ühendkuningriigi vahelistest läbirääkimistest Ühendkuningriigi EL-ist välja astumiseks.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "02034074-684f-4097-97d8-f8e4e4d2f4d5"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "EL asjade komisjoni 21.07.2017 istungi protokoll",
+      "uuid": "471b57e6-baa9-4f01-a10b-40f98f497fe3",
+      "files": [
+        "EL_asjade_komisjoni_21.07.2017_20170725.pdf",
+        "EL_asjade_komisjoni_21.07.2017_istungi_protokoll.bdoc"
+      ]
+    }
+  ],
+  "uuid": "7d8ba2f9-8f9d-4126-a33f-9e1604794801",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7d8ba2f9-8f9d-4126-a33f-9e1604794801)",
+  "source": "https://api.riigikogu.ee/api/volumes/7d8ba2f9-8f9d-4126-a33f-9e1604794801",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-07-01&endDate=2017-07-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
