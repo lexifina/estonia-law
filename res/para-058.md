@@ -10,4 +10,4 @@
 
 määrusega.
 
-(4) Vabariigi Valitsusel on õigus käesoleva paragrahvi lõikes 3 nimetatud määrusega volitada käesoleva paragrahvi lõikes 1¹ nimetatud sihtotstarbeliste vahendite eraldamist otsustama valdkonna eest vastutav minister. Valdkonna eest vastutav minister võib vahendeid eraldada ainult Vabariigi Valitsuse määratud sihtotstarbeks.
+(4) Vabariigi Valitsusel on õigus käesoleva paragrahvi lõikes 3 nimetatud määrusega volitada käesoleva paragrahvi lõikes 11 nimetatud sihtotstarbeliste vahendite eraldamist otsustama valdkonna eest vastutav minister. Valdkonna eest vastutav minister võib vahendeid eraldada ainult Vabariigi Valitsuse määratud sihtotstarbeks.

@@ -14,7 +14,7 @@
 
 5) omandada finantsvara, välja arvatud riigi eraõiguslikes juriidilistes isikutes osalemine riigivara seaduse alusel;
 
-6) teha tehinguid kapitalirendi tingimustel, anda kontsessioone ja teha muid selliseid tehinguid, kui riigieelarvega ei ole selleks antud luba.
+6) teha tehinguid kapitalirendi tingimustel, sõlmida kontsessioonilepinguid ja teha muid selliseid tehinguid, kui riigieelarvega ei ole selleks luba antud.
 
 (3) Käesoleva paragrahvi lõike 2 punktis 6 nimetatud loa andmisel peab riigieelarvega kindlaks määrama:
 
