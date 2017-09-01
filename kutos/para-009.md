@@ -16,7 +16,7 @@
 
 6) kooli asutamise otsus;
 
-7) maavanema ja kohaliku omavalitsuse üksuste liidu kirjalikud arvamused kooli asutamise ja õppe avamise vajalikkuse kohta;
+7) kohaliku omavalitsuse üksuste liidu kirjalik arvamus kooli asutamise ja õppe avamise vajalikkuse kohta;
 
 8) õppekavarühmale vastavate sotsiaalpartnerite kirjalikud arvamused kooli asutamise ja õppe avamise vajalikkuse kohta;
 

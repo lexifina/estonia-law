@@ -10,7 +10,7 @@
 
 3) kooli nõunike kogu kirjalik arvamus uues õppekavarühmas tasemeõppe avamise kohta;
 
-4) maavanema ja kohaliku omavalitsuse üksuste liidu kirjalikud arvamused uues õppekavarühmas tasemeõppe avamise vajalikkuse kohta;
+4) kohaliku omavalitsuse üksuste liidu kirjalik arvamus uues õppekavarühmas tasemeõppe avamise vajalikkuse kohta;
 
 5) õppekavarühmale vastavate sotsiaalpartnerite kirjalikud arvamused uues õppekavarühmas tasemeõppe avamise vajalikkuse kohta.
 
