@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung esmaspäev, 11.09.2017 11:00",
+  "sitting_time": "2017-09-11T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "146c2183-7ef0-4e29-bf25-28cd69236386"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade k.a 6.-7. septembril Tallinnas toimunud ELi kaitseministrite kohtumisest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0dc5994d-ff48-41d9-aefb-dcb7da893e7c"
+    },
+    {
+      "order": 3,
+      "title": "Ülevaade k.a  7.-9. septembril Tallinnas  toimunud riigikaitse- ja väliskomisjoni korraldatud Euroopa Liidu parlamentidevahelisel ühise välis- ja julgeolekupoliitika konverentsist",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "007048ee-c8eb-4322-bef7-37fc39b82416"
+    },
+    {
+      "order": 4,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "53149a53-1ba4-4283-9812-49645a412b97"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "b17340b7-f73a-41d6-88b4-166784d386bb",
+      "files": [
+        "Protokoll.bdoc",
+        "Protokol_20170912.pdf"
+      ]
+    }
+  ],
+  "uuid": "e5bb9192-78b9-4b0b-8680-88aaf187a7f2",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e5bb9192-78b9-4b0b-8680-88aaf187a7f2)",
+  "source": "https://api.riigikogu.ee/api/volumes/e5bb9192-78b9-4b0b-8680-88aaf187a7f2",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-09-01&endDate=2017-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
