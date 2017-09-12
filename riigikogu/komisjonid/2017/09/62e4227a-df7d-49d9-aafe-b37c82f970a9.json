@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 12.09.2017 13:00",
+  "sitting_time": "2017-09-12T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud loomakaitseseaduse muutmise seaduse eelnõu (445 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bae304c7-1216-43db-9a41-09e9536566b7"
+    },
+    {
+      "order": 2,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f212fd5c-9afd-4ba9-8598-055aa05cedc2"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "360ee96f-b9e3-47e2-8551-df4a979089ee",
+      "files": [
+        "Protokol_20170914.pdf",
+        "Protokoll.bdoc"
+      ]
+    }
+  ],
+  "uuid": "62e4227a-df7d-49d9-aafe-b37c82f970a9",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 62e4227a-df7d-49d9-aafe-b37c82f970a9)",
+  "source": "https://api.riigikogu.ee/api/volumes/62e4227a-df7d-49d9-aafe-b37c82f970a9",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-09-01&endDate=2017-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
