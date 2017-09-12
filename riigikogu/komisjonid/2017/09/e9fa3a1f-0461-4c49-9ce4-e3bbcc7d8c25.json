@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung teisipäev, 12.09.2017 14:00",
+  "sitting_time": "2017-09-12T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kindlustustegevuse seaduse muutmise ja sellega seonduvalt teiste seaduste muutmise seaduse eelnõu (429 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0a51267a-6b52-4069-85a9-dd7a7e1c863a"
+    },
+    {
+      "order": 2,
+      "title": "Rahapesu ja terrorismi rahastamise tõkestamise seaduse eelnõu (459 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5d1e5ba4-d49c-4ec3-a454-91e1376b5c58"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "b6e6e45d-0639-4f0d-bcd8-59cc913a6fc8",
+      "files": [
+        "RAHK protokoll 146 12 09 17 Lisa nr 1 459 SE ME loetelu.pdf",
+        "RAHK protokoll 146 12 09 17.pdf",
+        "Protokoll.bdoc"
+      ]
+    }
+  ],
+  "uuid": "e9fa3a1f-0461-4c49-9ce4-e3bbcc7d8c25",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e9fa3a1f-0461-4c49-9ce4-e3bbcc7d8c25)",
+  "source": "https://api.riigikogu.ee/api/volumes/e9fa3a1f-0461-4c49-9ce4-e3bbcc7d8c25",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-09-01&endDate=2017-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
