@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung esmaspäev, 18.09.2017 11:10",
+  "sitting_time": "2017-09-18T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2da0c9c7-cada-460f-9c64-99e1880a95f4"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu otsus \"Riigi 2016. aasta majandusaasta koondaruande kinnitamine\" (500 OE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1e7d9910-d7d4-4478-8de1-2857ea82183b"
+    },
+    {
+      "order": 3,
+      "title": "Info",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0c4988b1-e858-4fa9-9f8f-f1e0a751c55f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "c2adeda8-082f-47f3-83ac-bfe6d3591ab3",
+      "files": [
+        "Protokoll.bdoc",
+        "RAHK protokoll 148 18 09 17.pdf"
+      ]
+    }
+  ],
+  "uuid": "b9d26aeb-93cc-47c6-9bcd-2d79c56da016",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b9d26aeb-93cc-47c6-9bcd-2d79c56da016)",
+  "source": "https://api.riigikogu.ee/api/volumes/b9d26aeb-93cc-47c6-9bcd-2d79c56da016",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-09-01&endDate=2017-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
