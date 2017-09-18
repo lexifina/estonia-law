@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung esmaspäev, 18.09.2017 11:15",
+  "sitting_time": "2017-09-18T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b57c54e0-d0eb-4769-ae1a-196271d83df3"
+    },
+    {
+      "order": 2,
+      "title": "Relvaseaduse muutmise ja sellega seonduvalt teiste seaduste muutmise seaduse eelnõu (494 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "02e7e643-65e9-4393-8552-402bc5f03344"
+    },
+    {
+      "order": 3,
+      "title": "Halduskohtumenetluse tõhustamiseks halduskohtumenetluse seadustiku, riigilõivuseaduse ja riigi õigusabi seaduse muutmise seaduse eelnõu (496 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5361fdb6-5e36-480b-8cb1-8c3f88d7d92f"
+    },
+    {
+      "order": 4,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "739ddf2b-91a7-4bdc-893f-bf3d31bdd17c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "a7e1bcbd-063c-4f0c-b72f-c8e638885fb6",
+      "files": [
+        "Protokoll.bdoc",
+        "ÕIGK 18.09.17 istungi protokoll.pdf"
+      ]
+    }
+  ],
+  "uuid": "4326e927-f969-4cda-8a96-98b8345151c6",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 4326e927-f969-4cda-8a96-98b8345151c6)",
+  "source": "https://api.riigikogu.ee/api/volumes/4326e927-f969-4cda-8a96-98b8345151c6",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-09-01&endDate=2017-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
