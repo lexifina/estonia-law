@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung neljapäev, 21.09.2017 14:00",
+  "sitting_time": "2017-09-21T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade küberjulgeolekust",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "58a5a3dc-3c2e-449b-9adc-290c5b9c8f1a"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a695649a-cd1f-435b-8962-7a550222da5e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "c9dbc3ca-e13d-4e02-8074-2720f6439109",
+      "files": [
+        "Protokoll.bdoc",
+        "Protokol_20170921.pdf"
+      ]
+    }
+  ],
+  "uuid": "d230b539-dde5-48b2-8fb9-62d0a2fbd171",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d230b539-dde5-48b2-8fb9-62d0a2fbd171)",
+  "source": "https://api.riigikogu.ee/api/volumes/d230b539-dde5-48b2-8fb9-62d0a2fbd171",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-09-01&endDate=2017-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
