@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung esmaspäev, 25.09.2017 12:00",
+  "sitting_time": "2017-09-25T12:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5214f9c7-9e2e-4e19-ac37-dbc7f509e0e7"
+    },
+    {
+      "order": 2,
+      "title": "Informatsioon julgeolekuolukorra arengutest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f3e8abfc-b47b-4e0d-a0ce-c74de4d912da"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c3898369-66aa-4e50-8baf-2c0a03e12e53"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "99ddb3cd-d604-4e11-8213-bd32afc02bc3",
+      "files": [
+        "Protokol_20170925.pdf",
+        "Protokoll.bdoc"
+      ]
+    }
+  ],
+  "uuid": "cc63f7f1-6b41-4c0f-8bb3-41ba157ad054",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid cc63f7f1-6b41-4c0f-8bb3-41ba157ad054)",
+  "source": "https://api.riigikogu.ee/api/volumes/cc63f7f1-6b41-4c0f-8bb3-41ba157ad054",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-09-01&endDate=2017-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
