@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung esmaspäev, 9.10.2017 11:00",
+  "sitting_time": "2017-10-09T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "044a960d-0277-4ac0-a2d4-458b93280574"
+    },
+    {
+      "order": 2,
+      "title": "NATO Küberkaitsekoostöö Keskuse tegevusest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "916b6a03-0d36-45ca-8f23-f86bf0dd7b78"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "798a2f0e-69f8-4056-9729-f032c6a9c33b",
+      "files": [
+        "Protokoll.bdoc",
+        "Protokol_20171011.pdf"
+      ]
+    }
+  ],
+  "uuid": "8c1f0e4c-3e31-41d7-8a82-43a48d2b52a1",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8c1f0e4c-3e31-41d7-8a82-43a48d2b52a1)",
+  "source": "https://api.riigikogu.ee/api/volumes/8c1f0e4c-3e31-41d7-8a82-43a48d2b52a1",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-10-01&endDate=2017-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
