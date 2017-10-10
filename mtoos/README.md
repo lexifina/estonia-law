@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/101032017006> (version in force from 2017-03-11)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/101032017007> (version in force from 2017-10-10)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -81,12 +81,14 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/101032017006> (version in force 
 | **8. jagu Laevapere liikme töö- ja elamistingimuste vastavus nõuetele** | |
 | [§ 63](para-063.md) | Meretöötunnistus ja ajutine meretöötunnistus |
 | [§ 64](para-064.md) | Kalandustöötunnistus |
-| **4. peatükk Meretöölepingu lõppemise erisus** | |
+| **4. peatükk Meretöölepingu lõppemise ja ülemineku erisus** | |
 | [§ 65](para-065.md) | Meretöölepingu erakorraline ülesütlemine laevapere liikmest tuleneval mõjuval põhjusel |
 | [§ 66](para-066.md) | Meretöölepingu lõppemine laeva merekõlbmatuks muutumise ja laevahuku korral |
 | [§ 67](para-067.md) | Meretöölepingu pikenemine |
 | [§ 68](para-068.md) | Meretöölepingu lõppemise aeg |
 | [§ 69](para-069.md) | Meretöölepingu erakorraline ülesütlemine laevapere liikme poolt |
+| [§ 69¹](para-069b1.md) | Meretöölepingu kollektiivsest ülesütlemisest teavitamine |
+| [§ 69²](para-069b2.md) | Meretöölepingu kehtivus ettevõtte ülemineku korral |
 | **5. peatükk Laevapere liikme töövahendus** | |
 | [§ 70](para-070.md) | Laevapere liikme töövahendus |
 | [§ 71](para-071.md) | Tegutsemine töövahendusteenuse osutajana |

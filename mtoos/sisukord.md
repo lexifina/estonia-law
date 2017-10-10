@@ -22,7 +22,7 @@
 
 - 8. jagu Laevapere liikme töö- ja elamistingimuste vastavus nõuetele
 
-4. peatükk Meretöölepingu lõppemise erisus
+4. peatükk Meretöölepingu lõppemise ja ülemineku erisus
 
 5. peatükk Laevapere liikme töövahendus
 
