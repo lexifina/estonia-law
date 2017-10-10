@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung teisipäev, 10.10.2017 14:00",
+  "sitting_time": "2017-10-10T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Küberjulgeolek",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "245a6b5d-3d77-4528-8d36-4d287c7c8450"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "27f3bcac-ecb4-4b34-af3d-ce3839a68972"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "d605020e-18e5-41a5-a706-61fe715062e1",
+      "files": [
+        "Protokoll.bdoc",
+        "Protokol_20171011.pdf"
+      ]
+    }
+  ],
+  "uuid": "43cad092-9356-4cee-a3ca-c617bab17292",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 43cad092-9356-4cee-a3ca-c617bab17292)",
+  "source": "https://api.riigikogu.ee/api/volumes/43cad092-9356-4cee-a3ca-c617bab17292",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-10-01&endDate=2017-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
