@@ -1,0 +1,48 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung esmaspäev, 16.10.2017 11:00",
+  "sitting_time": "2017-10-16T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "85f78baf-c6e5-4675-ac91-9d8839a8a989"
+    },
+    {
+      "order": 2,
+      "title": "Perekonnaseisutoimingute seaduse ja sellega seonduvalt teiste seaduste muutmise seaduse eelnõu (511 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "341c7aa4-b1a3-4c69-82c5-b02b8e7cacd0"
+    },
+    {
+      "order": 3,
+      "title": "Karistusseadustiku muutmise ja sellega seonduvalt teiste seaduste muutmise seadus (alaealiste õigusrikkujate kohtlemise muutmine) (453 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1c91f4ac-c15e-4e72-a74f-a04b12c18530"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "55aa1e22-bcac-444d-ae6b-16e409118cb1",
+      "files": [
+        "ÕIGK 16.10.17 istungi protokoll.pdf",
+        "Protokoll.bdoc",
+        "Õiguskomisjon.docx",
+        "Õiguskomisjon_1508137947403.bdoc"
+      ]
+    }
+  ],
+  "uuid": "b86ec91b-bc15-42d3-ada1-087f27157325",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b86ec91b-bc15-42d3-ada1-087f27157325)",
+  "source": "https://api.riigikogu.ee/api/volumes/b86ec91b-bc15-42d3-ada1-087f27157325",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-10-01&endDate=2017-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
