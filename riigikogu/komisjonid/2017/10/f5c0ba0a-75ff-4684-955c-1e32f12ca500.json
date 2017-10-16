@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung esmaspäev, 16.10.2017 14:00",
+  "sitting_time": "2017-10-16T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ühisistung Euroopa Liidu asjade komisjoniga: Ülevaade 19.-20. oktoobril 2017 toimuvast Euroopa Ülemkogu istungist.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b8d2816b-9dc5-475d-834d-8f70eec85748"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f60a23f9-efca-42ce-895c-4da815cb2a81"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 16.10.2017",
+      "uuid": "d7c70eed-9793-4db5-bd53-038f37a08024",
+      "files": [
+        "Protokoll_20171018.pdf",
+        "Protokoll_16.10.2017.bdoc"
+      ]
+    }
+  ],
+  "uuid": "f5c0ba0a-75ff-4684-955c-1e32f12ca500",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f5c0ba0a-75ff-4684-955c-1e32f12ca500)",
+  "source": "https://api.riigikogu.ee/api/volumes/f5c0ba0a-75ff-4684-955c-1e32f12ca500",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-10-01&endDate=2017-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
