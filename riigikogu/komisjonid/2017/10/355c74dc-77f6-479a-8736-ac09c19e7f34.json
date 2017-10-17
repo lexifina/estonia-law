@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung teisipäev, 17.10.2017 14:00",
+  "sitting_time": "2017-10-17T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "72bba6f8-d233-47e3-8a0b-310163be2682"
+    },
+    {
+      "order": 2,
+      "title": "Riigikantselei julgeoleku ja riigikaitse koordinatsioonibüroo tegevusest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b54a7d3f-21ca-4edc-9fb6-a5f4d5e94ff1"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "623e9103-1225-44c2-9150-1cb41f169bce"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "abf6246a-0d15-4794-bb9f-d18452884499",
+      "files": [
+        "Protokol_20171020.pdf",
+        "Protokoll.bdoc"
+      ]
+    }
+  ],
+  "uuid": "355c74dc-77f6-479a-8736-ac09c19e7f34",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 355c74dc-77f6-479a-8736-ac09c19e7f34)",
+  "source": "https://api.riigikogu.ee/api/volumes/355c74dc-77f6-479a-8736-ac09c19e7f34",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-10-01&endDate=2017-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
