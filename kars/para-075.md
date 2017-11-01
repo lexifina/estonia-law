@@ -34,7 +34,9 @@
 
 8) osalema sotsiaalprogrammis;
 
-9) alluma elektroonilisele valvele, kui ta on selleks eelnevalt nõusoleku andnud.
+9) alluma elektroonilisele valvele, kui ta on selleks eelnevalt nõusoleku andnud;
+
+10) alluma alkoholi tarvitamise keelu täitmist kontrolliva elektroonilise seadme valvele, kui ta on selleks eelnevalt nõusoleku andnud.
 
 (3) Kohus võib kergendada või tühistada süüdlasele käitumiskontrolli ajaks määratud kohustusi või panna süüdlasele täiendavaid kohustusi vastavalt käesoleva paragrahvi lõikes 2 sätestatule.
 

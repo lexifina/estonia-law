@@ -1,6 +1,6 @@
 # § 423. Sõidukijuhi poolt liiklusnõuete ja sõiduki käitusnõuete rikkumine ettevaatamatusest
 
-(1) Mootor-, õhu- või veesõiduki või trammi või raudteeveeremi juhi poolt liiklus- või käitusnõuete rikkumise eest ettevaatamatusest, kui sellega on tekitatud inimesele raske tervisekahjustus või põhjustatud inimese surm, –
+(1) Mootor-, õhu- või veesõiduki, maastikusõiduki või trammi või raudteeveeremi juhi poolt liiklus- või käitusnõuete rikkumise eest ettevaatamatusest, kui sellega on tekitatud inimesele raske tervisekahjustus või põhjustatud inimese surm, –
 
 karistatakse rahalise karistuse või kuni kolmeaastase vangistusega.
 

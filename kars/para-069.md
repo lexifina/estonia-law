@@ -6,7 +6,7 @@
 
 (3) Üldkasuliku töö mõistmisel määrab kohus selle tegemise tähtaja, mis ei või ületada kuritegude puhul kahtekümmend nelja kuud ning väärtegude puhul kahtteist kuud. Kohus võib tähtaja kulgemise peatada süüdlase haiguse või perekondliku olukorra tõttu või ajaks, kui süüdlane on aja-, asendus- või reservteenistuses. Tähtaja kulgemise peatamisel ning uue tähtaja määramisel tuleb kohtul arvestada vastava süüteo eest ettenähtud üldkasuliku töö üldist tähtaega.
 
-(4) Üldkasuliku töö tegemisel peab süüdlane järgima kontrollnõudeid ning täitma talle pandud kohustusi vastavalt käesoleva seadustiku §-s 75 sätestatule. Kui süüdlasele on pandud kohustus osaleda käesoleva seadustiku § 75 lõike 2 punktis 8 sätestatud sotsiaalprogrammis, loetakse üldkasuliku töö tunnid kuni 30 tunni ulatuses kaetuks sotsiaalprogrammis osalemisega.
+(4) Üldkasuliku töö tegemisel peab süüdlane järgima kontrollnõudeid ning täitma talle pandud kohustusi vastavalt käesoleva seadustiku §-s 75 sätestatule. Üldkasuliku töö tunnid võib lugeda kuni 30 tunni ulatuses kaetuks sotsiaalprogrammis osalemisega.
 
 (5) Üldkasulikule tööle rakendatud süüdlasele laienevad töö- ja tervisekaitset reguleerivad õigusaktid. Vajaduse korral määrab kohus enne aresti või vangistuse asendamist süüdlasele tervisekontrolli eesmärgiga selgitada, kas süüdlase terviseseisund võimaldab tal teha üldkasulikku tööd.
 

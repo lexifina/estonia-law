@@ -20,6 +20,6 @@
 
 (6) Käesoleva paragrahvi lõike 1 punkti 2 või lõike 2 punkti 2 alusel tingimisi enne tähtaega vabastatavale süüdlasele võib kohus tema nõusolekul panna täiendavalt kohustuse alluda käesoleva seadustiku § 75 lõike 2 punktis 9 sätestatud elektroonilisele valvele.
 
-(7) Kui süüdlane katseajal ei järgi kontrollnõudeid, ei täida talle pandud kohustusi või ei allu elektroonilisele valvele, võib kriminaalhooldusametnik teda kirjalikult hoiatada või kohus määrata täiendavaid kohustusi vastavalt käesoleva seadustiku § 75 lõikes 2 sätestatule, pikendada käitumiskontrolli aega kuni katseaja lõpuni või pöörata kandmata jäänud karistuse osa täitmisele.
+(7) Kui süüdlane katseajal ei järgi kontrollnõudeid, ei täida talle pandud kohustusi või ei allu elektroonilisele valvele või paneb toime tema karistamise aluseks olnud kuriteoga samalaadse väärteo, võib kriminaalhooldusametnik teda kirjalikult hoiatada või kohus määrata täiendavaid kohustusi vastavalt käesoleva seadustiku § 75 lõikes 2 sätestatule, pikendada käitumiskontrolli aega kuni katseaja lõpuni või pöörata kandmata jäänud karistuse osa täitmisele.
 
 (8) Kui süüdlane paneb katseajal toime uue tahtliku kuriteo, mille eest teda karistatakse vangistusega, viiakse kandmata jäänud karistuse osa täide. Sellisel juhul mõistetakse liitkaristus vastavalt käesoleva seadustiku § 65 lõikes 2 sätestatule.

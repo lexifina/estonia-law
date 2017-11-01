@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/126062017008> (version in force from 2017-07-06)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/107072017005> (version in force from 2017-11-01)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -640,6 +640,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/126062017008> (version in force 
 | [§ 422](para-422.md) | Sõidukijuhi poolt liiklusnõuete ja sõiduki käitusnõuete rikkumine |
 | [§ 423](para-423.md) | Sõidukijuhi poolt liiklusnõuete ja sõiduki käitusnõuete rikkumine ettevaatamatusest |
 | [§ 423¹](para-423b1.md) | Sõiduki süstemaatiline juhtimine juhtimisõiguseta isiku poolt |
+| [§ 423²](para-423b2.md) | Sõidukijuhi poolt liiklusnõuete ja sõiduki käitusnõuete rikkumise järgselt alkoholi, narkootilise või psühhotroopse aine tarvitamine ja sündmuskohalt põgenemine |
 | [§ 424](para-424.md) | Mootorsõiduki, maastikusõiduki ja trammi juhtimine joobeseisundis |
 | [§ 424¹](para-424b1.md) | Mootorsõiduki, maastikusõiduki ja trammi juhtimine joobeseisundis ettevaatamatusest |
 | [§ 425](para-425.md) | Liiklusohutusnõuete ja sõiduki käitusnõuete rikkumine |
