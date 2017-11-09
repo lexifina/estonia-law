@@ -1,0 +1,33 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Korruptsioonivastane erikomisjon",
+  "committee_uuid": "e4f2977a-e8c3-4fa0-8f3d-9df9acd6377f",
+  "title": "Komisjoni istung neljapäev, 9.11.2017 11:00",
+  "sitting_time": "2017-11-09T11:00:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaate saamine Riigi Kinnisvara Aktsiaseltsi erikontrolli aruandest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dac72fb6-ecc9-44f0-9de3-6928ed148575"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "5b95337f-46f9-402e-8055-b48c342a8bc9",
+      "files": [
+        "2017_11_09 Protokoll nr 75.pdf"
+      ]
+    }
+  ],
+  "uuid": "90d8e7f3-3c1a-49e3-8937-c20155326d64",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 90d8e7f3-3c1a-49e3-8937-c20155326d64)",
+  "source": "https://api.riigikogu.ee/api/volumes/90d8e7f3-3c1a-49e3-8937-c20155326d64",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-11-01&endDate=2017-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
