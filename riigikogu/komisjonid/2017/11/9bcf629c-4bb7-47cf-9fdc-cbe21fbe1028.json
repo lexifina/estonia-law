@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 13.11.2017 11:10",
+  "sitting_time": "2017-11-13T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a19f3bcd-502e-450e-84d4-aa34385c7865"
+    },
+    {
+      "order": 2,
+      "title": "Maaelukomisjoni kohtumine Hiina RV Rahvakongressi põllumajanduse ja maaelukomisjoni delegatsiooniga",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2066c58c-315f-487b-854f-54fa125be740"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "83b294c2-7b2c-4596-889b-c0adc58f64d4",
+      "files": [
+        "Protokoll.bdoc",
+        "Protokol_20171117.pdf"
+      ]
+    }
+  ],
+  "uuid": "9bcf629c-4bb7-47cf-9fdc-cbe21fbe1028",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9bcf629c-4bb7-47cf-9fdc-cbe21fbe1028)",
+  "source": "https://api.riigikogu.ee/api/volumes/9bcf629c-4bb7-47cf-9fdc-cbe21fbe1028",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-11-01&endDate=2017-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
