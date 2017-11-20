@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung esmaspäev, 20.11.2017 11:10",
+  "sitting_time": "2017-11-20T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8b4f0d01-aa0c-4a61-848d-3a516d1b0fdd"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0ad364ea-fc6a-483b-a74e-c520a15731c6"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Prot 160",
+      "uuid": "c67637d8-5f34-46fb-b349-21911f6a3bb0",
+      "files": [
+        "Prot_160.bdoc",
+        "Prot 160 - 20.11.2017.pdf"
+      ]
+    }
+  ],
+  "uuid": "185bd86a-33a4-4eca-8524-869009830150",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 185bd86a-33a4-4eca-8524-869009830150)",
+  "source": "https://api.riigikogu.ee/api/volumes/185bd86a-33a4-4eca-8524-869009830150",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-11-01&endDate=2017-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
