@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 21.11.2017 14:00",
+  "sitting_time": "2017-11-21T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "48d40333-e537-4fca-9b6c-21511854a527"
+    },
+    {
+      "order": 2,
+      "title": "Väärtusliku põllumajandusmaa kaitse",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c2085af5-0ede-4bf5-b610-a9fe498c8bcf"
+    },
+    {
+      "order": 3,
+      "title": "Veeseadusest tulenevad sõnniku laotamise nõuded",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b4055074-8edf-4dda-bf4b-dab220baf296"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "9a161045-4ad4-41d1-b24e-a60338e4c799",
+      "files": [
+        "Protokoll.bdoc",
+        "139 protokolli lisa VPMM_21_11_17.pptx",
+        "Protokol_20171129.pdf"
+      ]
+    }
+  ],
+  "uuid": "a4d4a918-d8d6-4aae-8892-255844c9865e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a4d4a918-d8d6-4aae-8892-255844c9865e)",
+  "source": "https://api.riigikogu.ee/api/volumes/a4d4a918-d8d6-4aae-8892-255844c9865e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-11-01&endDate=2017-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
