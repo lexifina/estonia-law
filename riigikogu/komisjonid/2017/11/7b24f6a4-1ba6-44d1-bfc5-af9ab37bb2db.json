@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung neljapäev, 23.11.2017 13:00",
+  "sitting_time": "2017-11-23T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikogu otsuse ˮEuroopa Nõukogu Parlamentaarse Assamblee Eesti delegatsiooni moodustamineˮ muutmise otsuse eelnõu algatamine.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6559bf36-e0e1-4d60-901b-130c8efd5777"
+    },
+    {
+      "order": 2,
+      "title": "Väliskomisjoni Kagu-Eesti visiidi ettevalmistamine: piiriäärsete elanike piiriületusega seotud küsimused, piiriülene koostöö.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7815a22c-f04b-4033-9747-757b3c97ec5b"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "eb039ebc-65c2-4500-8e5d-763f59d3b586"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "2aaec005-6581-4739-8952-7e45138b9c0a",
+      "files": [
+        "Protokoll_20171123.pdf",
+        "Protokoll.bdoc"
+      ]
+    }
+  ],
+  "uuid": "7b24f6a4-1ba6-44d1-bfc5-af9ab37bb2db",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7b24f6a4-1ba6-44d1-bfc5-af9ab37bb2db)",
+  "source": "https://api.riigikogu.ee/api/volumes/7b24f6a4-1ba6-44d1-bfc5-af9ab37bb2db",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-11-01&endDate=2017-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
