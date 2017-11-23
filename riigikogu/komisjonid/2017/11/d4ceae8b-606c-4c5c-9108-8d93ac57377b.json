@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung neljapäev, 23.11.2017 kell 12.00",
+  "sitting_time": "2017-11-23T12:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti Väikekaupmeeste Liidu märgukirja „Maapoodide kaitseks koguti 31000 allkirja“ arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f9d97f59-21eb-4c79-be52-cc1cb9c5547e"
+    },
+    {
+      "order": 2,
+      "title": "Tubakaseaduse muutmise seaduse eelnõu (357 SE) ettevalmistamine teiseks lugemiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d98b5712-d2a9-4073-b370-3c347635bed1"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "23.11.2017 istungi protokoll",
+      "uuid": "1e4adec4-a60c-4751-9988-4e993a59f946",
+      "files": [
+        "23.11.2017_istungi_protokoll.bdoc",
+        "23.11.2017 istungi protokoll.pdf"
+      ]
+    }
+  ],
+  "uuid": "d4ceae8b-606c-4c5c-9108-8d93ac57377b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d4ceae8b-606c-4c5c-9108-8d93ac57377b)",
+  "source": "https://api.riigikogu.ee/api/volumes/d4ceae8b-606c-4c5c-9108-8d93ac57377b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-11-01&endDate=2017-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
