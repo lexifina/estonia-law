@@ -2,6 +2,8 @@
 
 (1) Sisemudeli puhul ja eelkõige selle aluseks oleva tõenäosusjaotuse prognoosimisel lähtub kindlustusandja käesolevas paragrahvis sätestatud nõuetest.
 
+(1¹) Tõenäosusjaotuse prognoos on matemaatiline funktsioon, millega antakse vastastikku üksteist välistavate tulevikusündmuste täielikule kogumile esinemise tõenäosus.
+
 (2) Kindlustusandja peab tõenäosusjaotuse prognoosimisel aluseks võtma asjakohased aktuaarsed ja statistilised meetodid, mis põhinevad usaldusväärsetel andmetel ja realistlikel eeldustel, vastavad komisjoni delegeeritud määruse (EL) nr 2015/35 artiklites 229 ja 230 sätestatule ning on kooskõlas tehniliste eraldiste arvutamisel aluseks olevate eeldustega.
 
 (3) Sisemudelis kasutatavad andmed peavad olema täpsed, täielikud ja asjakohased ning vastama komisjoni delegeeritud määruse (EL) nr 2015/35 artiklis 231 sätestatud nõuetele. Tõenäosusjaotuse prognoosimisel kasutatavaid andmeid tuleb ajakohastada vähemalt kord aastas.

@@ -36,6 +36,6 @@
 
 3) tagastusväärtuse arvutamine;
 
-4) tehnilise kasumi jaotamine.
+4) pensionilepingute kasumi jaotamine.
 
 (6) Tegevusloa andmisele järgneval kolmel aastal esitab kindlustusandja Finantsinspektsiooni nõudmisel tegevuskava täitmise aruande nelja kuu jooksul pärast vastava majandusaasta lõppu.

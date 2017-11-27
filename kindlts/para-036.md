@@ -10,7 +10,7 @@
 
 (5) Käesoleva paragrahvi lõikes 1 nimetatud isiku suhtes, kelle päritoluriik on kolmas riik (edaspidi *kolmanda riigi kindlustusandja*), kohaldatakse käesoleva seaduse §-des 39, 40 ja 42 sätestatut. Kolmanda riigi kindlustusandja ei või sõlmida pensionilepinguid.
 
-(6) Kolmanda riigi edasikindlustusandjal on õigus tegeleda Eestis piiriülese edasikindlustustegevusega ja tema suhtes kohaldatakse käesoleva seaduse §-s 41 sätestatut.
+(6) Käesoleva seaduse §-des 41 ja 42 sätestatut ei kohaldata välisriigi edasikindlustusandjale, kes soovib tegeleda Eestis piiriülese edasikindlustustegevusega.
 
 (7) Piiriülene kindlustustegevus käesoleva jao tähenduses on välisriigi kindlustusandja kindlustustegevus, mis on seotud Eestis asuva kindlustusriskiga.
 

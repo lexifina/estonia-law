@@ -8,7 +8,7 @@
 
 (4) Kolmandas riigis teenuste osutamisele kohaldatakse käesoleva seaduse §-des 28–31 ja 35 sätestatut. Kolmas riik on välisriik, mis ei ole lepinguriik.
 
-(5) Eesti edasikindlustusandja suhtes, kes tegeleb kolmandas riigis piiriülese edasikindlustustegevusega, kohaldatakse käesoleva seaduse §-des 32–34 sätestatut.
+(5) Käesoleva seaduse §-des 32–35 sätestatut ei kohaldata Eesti edasikindlustusandjale, kes soovib tegeleda välisriigis piiriülese kindlustustegevusega. Eesti edasikindlustusandja, kes soovib tegeleda välisriigis piiriülese kindlustustegevusega, teavitab sellest Finantsinspektsiooni.
 
 (6) Kui kindlustusandjat alaliselt esindama volitatud isik tegeleb välisriigis püsivalt kindlustusagendi tegevuse või kindlustustegevusega, loetakse volitatud isiku tegevus Eesti kindlustusandja välisriigi filiaali tegevuseks ning sellise tegevuse jätkamiseks peab kindlustusandja käesoleva seaduse §-de 25–31 kohaselt asutama filiaali.
 

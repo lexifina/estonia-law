@@ -2,7 +2,7 @@
 
 (1) Kui Finantsinspektsioon on määratud kindlustusgrupi järelevalve teostajaks, täidab ta järelevalve teostamisel järgmisi ülesandeid:
 
-1) asjasse puutuva ja olulise teabe kogumise ning edastamise koordineerimine, sealhulgas teisele finantsjärelevalve asutusele järelevalve teostamiseks olulise informatsiooni edastamine ning kindlustusgrupi kolleegiumi teavitamine käesoleva seaduse § 240 lõigetes 1 ja 5 nimetatud otsustest;
+1) asjasse puutuva ja olulise teabe kogumise ning edastamise koordineerimine, sealhulgas teisele finantsjärelevalve asutusele järelevalve teostamiseks olulise informatsiooni edastamine ning kindlustusgrupi kolleegiumi teavitamine käesoleva seaduse § 240 lõigetes 1 ja 5 nimetatud otsustest või § 240 lõikes 1¹ nimetatud kokkuleppest;
 
 2) nõuetekohaste omavahendite piisavuse hindamine ning teiste asjasse puutuvate finantsjärelevalve asutuste teavitamine, kui kindlustusgrupi solventsuskapitalinõue ei vasta käesolevas seaduses sätestatud nõuetele või kui see oht võib tekkida järgmise kolme kuu jooksul;
 
@@ -12,7 +12,7 @@
 
 5) kindlustusgrupisiseste tehingute käesoleva seaduse §-s 246 sätestatule vastavuse hindamine;
 
-6) kindlustusgrupi solventsuse käesoleva seaduse 3. peatüki 6. jaos sätestatule vastavuse hindamine;
+6) kindlustusgrupi solventsuse käesoleva seaduse 3. peatüki 7. jaos sätestatule vastavuse hindamine ja kindlustusgrupi finantsseisundi halvenemisel käesoleva seaduse § 93 lõigetes 1–4 ja §-s 94 sätestatu rakendamine;
 
 7) kindlustusgrupi riskijuhtimissüsteemi ja sisekontrolli süsteemi käesoleva seaduse §-s 247 sätestatule ning osalust omava ettevõtja juhatuse ja nõukogu liikmete käesoleva seaduse §-des 106 ja 112 sätestatule vastavuse hindamine;
 

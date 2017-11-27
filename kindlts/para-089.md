@@ -49,3 +49,5 @@
 (14) Kui kindlustusgrupi solventsuse arvutamisel vajalik teave välisriigis asutatud kindlustusandja seotud ettevõtja kohta ei ole Finantsinspektsioonile ega teistele asjaomastele finantsjärelevalve asutustele kättesaadav, arvatakse sellise seotud ettevõtja bilansiline väärtus kindlustusgrupi omavahenditest maha ning omavahendite hulka ei või arvata ka sellise märkimisväärse osalusega seotud realiseerimata kasumit.
 
 (15) Lisaks käesolevas paragrahvis sätestatule kohaldatakse komisjoni delegeeritud määruse (EL) nr 2015/35 artiklis 329 nimetatud seotud ettevõtjate suhtes samas artiklis sätestatut.
+
+(16) Kui Finantsinspektsioon on kindlustusgrupi järelevalve teostaja, võib ta arvata osaleva kindlustusandja taotlusel või omal algatusel kindlustusgrupi solventsuse jaoks vajalikest omavahenditest maha kindlustusandja seotud krediidiasutuse, investeerimisühingu või finantseerimisasutuse mis tahes osaluse.

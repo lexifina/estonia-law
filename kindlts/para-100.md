@@ -4,7 +4,7 @@
 
 1) oma üldist maksevõimet, arvesse võttes oma tegelikku riskiprofiili, kinnitatud riskitaluvuspiiri ja äristrateegiat, lähtudes komisjoni delegeeritud määruse (EL) nr 2015/35 artiklis 262 sätestatust;
 
-2) omavahendite vastavust solventsuskapitalinõudele ja miinimumkapitalinõudele ning tehniliste eraldiste vastavust käesoleva peatüki 1. jaos sätestatule igal hetkel;
+2) omavahendite vastavust solventsuskapitalinõudele ja miinimumkapitalinõudele ning tehniliste eraldiste vastavust käesoleva seaduse 3. peatüki 1. ja 4. jaos sätestatule igal hetkel;
 
 3) kas ja millisel määral hälbib tema tegelik riskiprofiil eeldustest, mida kasutati solventsuskapitalinõude arvutuses.
 

@@ -4,7 +4,9 @@
 
 (2) Kahjukindlustuse kindlustusriski, elukindlustuse kindlustusriski ja tervisekindlustusriski moodulite ulatus on sätestatud komisjoni delegeeritud määruse (EL) nr 2015/35 artiklis 113.
 
-(3) Riskide kalibreerimisel tuleb kasutada riskimõõdikuna tõenäolist piirkahju, mis hindab kahjude tõenäosusjaotust aastase perioodi puhul 99,5-protsendilise usaldusnivoo juures.
+(3) Riskide kalibreerimisel tuleb kasutada riskimõõdikuna tõenäolist piirkahju, mis hindab kahjude tõenäosusjaotust aastase perioodi puhul 99,5-protsendilise usaldusnivoo juures. Riskimõõdik on matemaatiline funktsioon, millega antakse rahaline väärtus tõenäosusjaotuse prognoosile ning mis kasvab samaväärselt tõenäosuse prognoosimisel aluseks oleva riski tasemega.
+
+(3¹) Kindlustusandja võib iga riski mooduli ja alammooduli ülesehitusel arvesse võtta riski hajutamise mõju. Riski hajutamise mõju on riski maandamine, tasaarvestades ühe riskipositsiooni ebasoodsat mõju teise riskipositsiooni soodsama mõju arvel, kui selliste riskide korrelatsioonikordaja on väiksem kui 1.
 
 (4) Kindlustusandja võib elu- ja kahjukindlustuse kindlustusriski ning tervisekindlustusriski kapitalinõuete arvutamisel asendada valemis osa standardparameetreid kindlustusandja enda riskiprofiilile vastavate parameetritega (edaspidi *kindlustusandja spetsiifilised parameetrid*), olles selleks eelnevalt saanud Finantsinspektsiooni loa.
 

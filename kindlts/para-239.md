@@ -37,3 +37,5 @@
 (9) Finantsinspektsioon teavitab käesoleva paragrahvi lõigetes 7 ja 8 nimetatud otsustest Euroopa Pangandusjärelevalve Asutust ning Euroopa Kindlustus- ja Tööandjapensionide Järelevalve Asutust.
 
 (10) Kui kindlustusandja kuulub finantskonglomeraati krediidiasutuste seaduse § 110¹ tähenduses, kohaldatakse tema suhtes krediidiasutuste seaduse 9¹. peatükis sätestatut.
+
+(11) Kindlustusgrupi järelevalve alla kuuluvad isikud, nende seotud ettevõtjad ja nendes osalevad ettevõtjad vahetavad teavet, mis on vajalik kindlustusgrupi järelevalve teostamiseks.

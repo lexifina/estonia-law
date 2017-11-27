@@ -8,6 +8,8 @@
 
 3) filiaali juhataja nimi, kui tal on õigus tegutseda kindlustusandja nimel, ning lepinguriigi finantsjärelevalve asutuse kinnitus filiaali juhataja sobivuse ja nõuetekohasuse kohta;
 
+3¹) Lloyd’si korral isiku nimi, kes on volitatud esindama Lloyd’si ja kõiki tema liikmeid Eestis;
+
 4) liikluskindlustuse seaduse §-s 10 nimetatud liikluskindlustuse fondi kinnitus, et lepinguriigi kindlustusandja, kelle Eestis asutatava filiaali kavandatav kindlustustegevus näeb ette kohustusliku liikluskindlustuse lepingute sõlmimise, on saanud selle filiaali kaudu liikluskindlustuse fondi liikmeks;
 
 5) lepinguriigi finantsjärelevalve asutuse kinnitus, et lepinguriigi kindlustusandja omab nõuetekohaseid omavahendeid solventsuskapitalinõude ja miinimumkapitalinõude täitmiseks;

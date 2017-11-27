@@ -1,6 +1,6 @@
 # § 45. Parim hinnang
 
-(1) Parim hinnang on tulevaste rahavoogude kaalutud keskmine, kus riskivaba intressikõverat kasutades võetakse arvesse tulevaste rahavoogude väärtust. Kindlustusandja võib parima hinnangu arvutamisel kasutada kohandatud riskivaba intressikõverat vastavalt käesoleva seaduse §-dele 46 ja 47, kui Euroopa Komisjon on kehtestanud vastava tehnilise teabe.
+(1) Parim hinnang on tulevaste rahavoogude kaalutud keskmine, kus riskivaba intressikõverat kasutades võetakse arvesse tulevaste rahavoogude väärtust. Kindlustusandja võib parima hinnangu arvutamisel rakendada riskivaba intressikõvera kohandamisi vastavalt käesoleva seaduse §-dele 46 ja 47. Kindlustusandja kasutab Euroopa Komisjoni kehtestatud kohandamata riskivaba intressikõverat või kattuvuse või volatiilsuse kohandamise rakendamisel tehnilist teavet, kui Euroopa Komisjon on kehtestanud asjakohase rakendusmääruse.
 
 (2) Kui käesoleva paragrahvi lõike 1 esimeses lauses nimetatud riskivabal intressikõveral ei ole esitatud parima hinnangu arvutamiseks vajaliku kestusega intressimäärasid, tuleb turusisendite põhjal riskivaba intressikõverat ekstrapoleerida. Ekstrapoleeritud riskivaba intressikõvera aluseks on forvardintressimäärad, mis koonduvad ühelt forvardintressimääralt või forvardintressimäärade kogumilt üheks lõplikuks forvardintressimääraks.
 

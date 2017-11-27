@@ -20,8 +20,10 @@
 
 (7) Erirežiimihaldur on kohustatud lisaks erirežiimi kehtestamise otsuses nimetatud tegevusaruannetele esitama Finantsinspektsioonile kõik viimase nõutud andmed ja dokumendid.
 
+(7¹) Kolmanda riigi kindlustusandja Eesti filiaali esindav erirežiimihaldur teeb koostööd kolmanda riigi kindlustusandja teiste lepinguriikide filiaale esindavate halduritega.
+
 (8) Saneerimishalduri volitusi Eestis tõendab tema ametisse nimetamise otsuse kinnitatud ärakiri või lepinguriigi volitatud asutuse väljastatud muu tõend koos eestikeelse tõlkega.
 
 (9) Saneerimishalduril on õigus kasutada Eestis neid volitusi, mis tal on teises lepinguriigis. Lisaks sellele võib ta määrata ametisse isikuid, kes teda saneerimismeetmete rakendamisel abistavad või vajaduse korral esindavad. Oma õiguste teostamisel, vara realiseerimisel ja töötajate teavitamisel peab saneerimishaldur järgima Eesti õigusaktides sätestatut. Saneerimishalduril ei ole õigust kasutada oma õiguste teostamisel sunnimeetmeid ega teha otsuseid küsimustes, mis on kohtuvaidluse esemeks.
 
-(10) Saneerimishaldur on kohustatud viivitamata pärast saneerimismeetmete rakendamist teise lepinguriigi kindlustusandja või teises lepinguriigis asutatud kolmanda riigi kindlustusandja filiaali suhtes taotlema kande tegemist Eestis peetavatesse asjakohastesse avalikesse registritesse Eesti õiguses sätestatud tingimustel ja ulatuses.
+(10) Saneerimishaldur on kohustatud viivitamata pärast saneerimismeetmete rakendamist teise lepinguriigi kindlustusandja või teises lepinguriigis asutatud kolmanda riigi kindlustusandja filiaali suhtes taotlema kande tegemist Eestis peetavatesse asjakohastesse avalikesse registritesse Eesti õiguses sätestatud tingimustel ja ulatuses. Registreerimiskulusid käsitatakse menetlusega seotud kuludena.

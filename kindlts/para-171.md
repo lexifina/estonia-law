@@ -2,6 +2,8 @@
 
 (1) Kindlustuslepingutest tulenevad nõuded, mida pankrotihaldurile ei ole esitatud määratud tähtaja jooksul, tehakse kindlaks ja loetakse kaitstuks kindlustusandja dokumentide alusel.
 
+(1¹) Kindlustuslepingust tulenev nõue käesoleva jao tähenduses on summa, mille ulatuses on kindlustusandja kohustatud oma kohustust täitma vastavalt võlaõigusseaduse § 422 lõikele 1. Kindlustuslepingust tulenev nõue on ka tagasi maksmata kindlustusmakse sõlmimata või üles öeldud kindlustuslepingu korral, kui selline tehing on tehtud enne lõpetamismenetluse algatamist.
+
 (2) Kindlustuslepingutest tulenevad nõuded rahuldatakse neile lepingutele vastava kattevara arvel eelisjärjekorras enne pankrotiseaduse § 146 lõikes 1 ja § 153 lõikes 1 nimetatud nõudeid.
 
 (3) Kui kindlustuslepingutele vastavast kattevarast ei piisa kindlustuslepingutest tulenevate nõuete rahuldamiseks, rahuldatakse ülejäänud osa nendest nõuetest kindlustusandja muu vara arvel eelisjärjekorras enne pankrotiseaduse § 153 lõikes 1 nimetatud nõudeid.

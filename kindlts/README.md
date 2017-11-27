@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/130062017008> (version in force from 2017-07-06)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/117112017047> (version in force from 2017-11-27)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -285,7 +285,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/130062017008> (version in force 
 | **2. jagu Kindlustusgrupi järelevalve** | |
 | **1. jaotis Kindlustusgrupi järelevalve üldpõhimõtted** | |
 | [§ 239](para-239.md) | Kindlustusgrupi järelevalve kohaldamine |
-| [§ 240](para-240.md) | Kindlustusgrupi järelevalve kohaldamine Eesti tasandil |
+| [§ 240](para-240.md) | Kindlustusgrupi järelevalve kohaldamise erisused |
 | [§ 241](para-241.md) | Kindlustusgrupi järelevalve teostaja määramine |
 | [§ 242](para-242.md) | Finantsinspektsiooni ülesanded ja õigused kindlustusgrupi järelevalve teostajana |
 | [§ 243](para-243.md) | Kindlustusgrupi sisemudel |

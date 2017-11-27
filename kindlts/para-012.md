@@ -44,7 +44,7 @@
 
 (4) Tsiviilvastutuskindlustus ei hõlma käesoleva paragrahvi lõike 1 punktides 10–12 nimetatud sõidukite vastutuskindlustust.
 
-(5) Abistamisteenuste kindlustus hõlmab abi andmist isikutele, kes satuvad raskustesse reisides või oma kodust või alalisest elukohast eemal olles. Abi andmine hõlmab rahalist või mitterahalist hüvitamist, kuid ei hõlma sõiduki korralist hooldust, sealjuures müügijärgset tehnilist hooldust, abile viitamist ja selle vahendamist.
+(5) Abistamisteenuste kindlustus hõlmab viivitamatu abi kättesaadavaks tegemist isikutele, kes satuvad kindlustuslepingus sätestatud juhtudel ja tingimustel raskustesse reisides või oma kodust või alalisest elukohast eemal olles. Abi andmine hõlmab rahalist või mitterahalist hüvitamist, kuid ei hõlma sõiduki korralist hooldust, sealjuures müügijärgset tehnilist hooldust, abile viitamist ja selle vahendamist.
 
 (6) Käesolevat seadust ei kohaldata abistamisteenusele, mis vastab Euroopa Parlamendi ja nõukogu direktiivi 2009/138/EÜ kindlustus- ja edasikindlustustegevuse alustamise ja jätkamise kohta (Solventsus II) (EÜT L 335, 17.12.2009, lk 1–155) artiklis 6 sätestatud tingimustele.
 

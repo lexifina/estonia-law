@@ -18,4 +18,6 @@
 
 (3) Likvideerijatel on õigus kasutada teises lepinguriigis neid volitusi, mis neil on Eestis. Lisaks sellele võivad nad määrata ametisse isikuid, kes neid likvideerimismenetluse käigus abistavad või vajaduse korral esindavad. Oma õiguste teostamisel, kindlustusandja vara realiseerimisel ja töötajate teavitamisel peavad likvideerijad järgima vastava lepinguriigi õigusaktides sätestatut. Neil ei ole õigust kasutada oma õiguste teostamisel sunnimeetmeid ega teha otsuseid küsimustes, mis on kohtuvaidluse esemeks.
 
+(3¹) Kolmanda riigi kindlustusandja Eesti filiaali määratud likvideerija teeb koostööd kolmanda riigi kindlustusandja teiste lepinguriikide filiaalide määratud likvideerijatega.
+
 (4) Käesolevas paragrahvis sätestatut kohaldatakse pankrotiseaduse §-s 29 sätestatud juhul ajutise pankrotihalduri suhtes.
