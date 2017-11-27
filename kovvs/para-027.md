@@ -6,7 +6,7 @@
 
 (3) Valijate nimekirja ei kanta isikut, kelle kohus on karistusregistri andmetel süüdi mõistnud kuriteos ja kes valimispäevale eelneva 30. päeva seisuga kannab valimispäevani vanglakaristust.
 
-(4) Valija kantakse selle valimisjaoskonna valijate nimekirja, mille territooriumil asub tema rahvastikuregistrisse kantud elukoht 30. päeval enne valimispäeva. Kui valija elukoha andmed on kantud rahvastikuregistrisse valla või linna, Tallinnas linnaosa täpsusega, kantakse valija käesoleva seaduse § 10 lõike 2 punkti 5 alusel määratud valimisjaoskonna valijate nimekirja.
+(4) Valija kantakse selle valimisjaoskonna valijate nimekirja, mille territooriumil asub tema rahvastikuregistrisse kantud elukoht 30. päeval enne valimispäeva. Kui valija elukoha andmed on kantud rahvastikuregistrisse valla või linna, Tallinnas linnaosa täpsusega, kantakse valija käesoleva seaduse § 22 lõike 2 punkti 4 alusel määratud valimisjaoskonna valijate nimekirja.
 
 (5) Valijate nimekirja kantakse valija kohta järgmised andmed:
 
