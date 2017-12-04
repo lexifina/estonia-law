@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Korruptsioonivastane erikomisjon",
+  "committee_uuid": "e4f2977a-e8c3-4fa0-8f3d-9df9acd6377f",
+  "title": "Komisjoni istung esmaspäev, 4.12.2017 13:30",
+  "sitting_time": "2017-12-04T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Tallinna Linnavalitsuse esindajatega, et saada ülevaade korruptsioonivastase seaduse nõuete täitmisest linnavalitsuses ja linna asutustes",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "88b91535-2bb5-4d88-8a52-35dbc8b8340e"
+    },
+    {
+      "order": 2,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "123bce9b-12f6-4c15-92d5-3fb8ce7a11a2"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "f58c131f-78fb-4351-9954-eee033811104",
+      "files": [
+        "2017_12_04 Protokoll nr 78.pdf"
+      ]
+    }
+  ],
+  "uuid": "11b569ed-6ca9-4621-90e2-4b0531a5475a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 11b569ed-6ca9-4621-90e2-4b0531a5475a)",
+  "source": "https://api.riigikogu.ee/api/volumes/11b569ed-6ca9-4621-90e2-4b0531a5475a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-12-01&endDate=2017-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
