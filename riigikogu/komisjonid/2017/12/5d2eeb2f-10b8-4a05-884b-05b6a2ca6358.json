@@ -1,0 +1,48 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 4.12.2017 11:10",
+  "sitting_time": "2017-12-04T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "89735e05-57e6-44f2-8be4-11e8ff4763e2"
+    },
+    {
+      "order": 2,
+      "title": "Väärtusliku põllumajandusmaa kaitse",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7e02505c-1fd6-47a5-a1e4-0f7e4e683961"
+    },
+    {
+      "order": 3,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "edc56413-54ba-4e30-b255-ed9d24ed6f5a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "1e703511-c4ae-410d-a164-db2e0e429487",
+      "files": [
+        "Protokol_20171207.pdf",
+        "Protokoll.bdoc",
+        "140 protokolli lisa 2 RK_maaelukomisjon_VPMM.pptx",
+        "140 protokoll lisa 1 VPMM_sissejuhatus.pptx"
+      ]
+    }
+  ],
+  "uuid": "5d2eeb2f-10b8-4a05-884b-05b6a2ca6358",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 5d2eeb2f-10b8-4a05-884b-05b6a2ca6358)",
+  "source": "https://api.riigikogu.ee/api/volumes/5d2eeb2f-10b8-4a05-884b-05b6a2ca6358",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-12-01&endDate=2017-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
