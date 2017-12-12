@@ -1,0 +1,42 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 12.12.2017 14:00",
+  "sitting_time": "2017-12-12T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Maanteeameti 2018. aasta investeeringud, teede projekteerimine, teehoid ja ühistranspordi korraldus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8fb094f9-37fb-48bb-b53d-6a7cde3db52d"
+    },
+    {
+      "order": 2,
+      "title": "Ekspressrongi peatus Tabiveres",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "953814d6-a3cd-43a4-b41d-382dd8c688a6"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "ae6007f4-37a8-48a0-8858-4013587beb19",
+      "files": [
+        "143 protokolli lisa 2 Maakondlik ühistransport.pptx",
+        "Protokoll.bdoc",
+        "Protokol_20171215.pdf",
+        "143 protokolli lisa 1 Maanteeamet.pptx"
+      ]
+    }
+  ],
+  "uuid": "0f20b9eb-9ee0-4f8c-82be-d24c9e70fc1b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0f20b9eb-9ee0-4f8c-82be-d24c9e70fc1b)",
+  "source": "https://api.riigikogu.ee/api/volumes/0f20b9eb-9ee0-4f8c-82be-d24c9e70fc1b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-12-01&endDate=2017-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
