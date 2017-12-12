@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung teisipäev, 12.12.2017 14:00",
+  "sitting_time": "2017-12-12T14:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade Eesti tegevusest soome-ugri hõimurahvaste toetamisel.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7037fe11-a078-4d48-8909-3e373bad989a"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0bc92c1b-e537-4cf8-9f0d-36ea07a3d900"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 12.12.2017",
+      "uuid": "f27fd4c5-723c-4266-a881-2fd9a59468f2",
+      "files": [
+        "Protokoll_20171212.bdoc",
+        "Protokoll_20171212.pdf"
+      ]
+    }
+  ],
+  "uuid": "96251879-5dcb-466f-a77a-bfe8f3c49ede",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 96251879-5dcb-466f-a77a-bfe8f3c49ede)",
+  "source": "https://api.riigikogu.ee/api/volumes/96251879-5dcb-466f-a77a-bfe8f3c49ede",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-12-01&endDate=2017-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
