@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung neljapäev, 14.12.2017 12:07",
+  "sitting_time": "2017-12-14T12:07:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade arengutest Lähis-Idas.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "34415fe5-33f1-4a53-8c5e-36f9799e7c16"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5127f702-38ea-4376-b6af-71a9eaf397b5"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 14.12.2017",
+      "uuid": "e4d4a957-c4c0-424b-a102-d832e003863f",
+      "files": [
+        "Protokoll_14.12.2017.bdoc",
+        "Protokoll_20171214.pdf"
+      ]
+    }
+  ],
+  "uuid": "121a746b-6127-40c6-b490-a0ae831ad7cd",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 121a746b-6127-40c6-b490-a0ae831ad7cd)",
+  "source": "https://api.riigikogu.ee/api/volumes/121a746b-6127-40c6-b490-a0ae831ad7cd",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-12-01&endDate=2017-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
