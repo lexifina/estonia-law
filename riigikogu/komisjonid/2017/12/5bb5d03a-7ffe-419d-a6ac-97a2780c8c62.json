@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung esmaspäev, 18.12.2017 11:15",
+  "sitting_time": "2017-12-18T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cc6dd7d0-5ff3-4512-9952-0d12198468b5"
+    },
+    {
+      "order": 2,
+      "title": "Korruptsioonivastase seaduse ja sellest tulenevalt teiste seaduste muutmise seaduse eelnõu algatamise arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "44caff4e-54c1-45c1-bb34-98826b2db25a"
+    },
+    {
+      "order": 3,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "db081971-5286-4f94-af57-81782b834cf9"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "2017.12.18 protokoll",
+      "uuid": "240a7c8c-69bd-43be-9e33-dc383b18b77e",
+      "files": [
+        "2017.12.18_protokoll.bdoc",
+        "2017.12.18 protokoll.pdf"
+      ]
+    }
+  ],
+  "uuid": "5bb5d03a-7ffe-419d-a6ac-97a2780c8c62",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 5bb5d03a-7ffe-419d-a6ac-97a2780c8c62)",
+  "source": "https://api.riigikogu.ee/api/volumes/5bb5d03a-7ffe-419d-a6ac-97a2780c8c62",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-12-01&endDate=2017-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
