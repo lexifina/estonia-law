@@ -1,0 +1,53 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung teisipäev, 19.12.2017 14:00",
+  "sitting_time": "2017-12-19T14:02:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Euroopa Parlamentidevahelise Kosmosekonverentsi (EISC) Eesti delegatsiooni tegevuse jätkamisest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3ca163a6-1c74-4dd9-8a23-3fb166c2cc28"
+    },
+    {
+      "order": 2,
+      "title": "Informatsioon julgeolekuolukorra arengutest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "755bb551-ac0a-4c51-abac-c274d83e7a95"
+    },
+    {
+      "order": 3,
+      "title": "Välispoliitika arutelu olulise tähtsusega riikliku küsimusena Riigikogu täiskogul – korralduslike küsimuste otsustamine.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9ace1479-43d7-4da2-a9f0-8e5567626f13"
+    },
+    {
+      "order": 4,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7ccc808e-a8cd-4382-837f-24e54724c28d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 19.12.2017",
+      "uuid": "000ffe6b-20b2-4163-9945-4d2d9d619738",
+      "files": [
+        "19122017_volitus.pdf",
+        "Protokoll_19.12.2017.bdoc",
+        "Protokoll_20171219.pdf"
+      ]
+    }
+  ],
+  "uuid": "c5e356c8-e8b0-450c-bb72-df97b7fcfb67",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c5e356c8-e8b0-450c-bb72-df97b7fcfb67)",
+  "source": "https://api.riigikogu.ee/api/volumes/c5e356c8-e8b0-450c-bb72-df97b7fcfb67",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2017-12-01&endDate=2017-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
