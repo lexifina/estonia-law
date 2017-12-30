@@ -1,5 +1,5 @@
-# § 6. Osavalla moodustamine
+# § 6. Osavalla ja linnaosa moodustamine
 
-(1) Osavalla moodustamise ettepaneku tegemise õigus on vähemalt pooltel väikesaare hääleõiguslikel püsielanikel.
+(1) Osavalla või linnaosa moodustamise ettepaneku tegemiseks on vajalik vähemalt poolte väikesaare hääleõiguslike püsielanike sooviavaldus.
 
-(2) Osavalla moodustamise taotlus esitatakse ning otsustatakse kohaliku omavalitsuse korralduse seaduses sätestatud korras. Vajaduse korral korraldab volikogu selles küsimuses saareelanike küsitluse või kutsub kokku üldkogu.
+(2) Osavalla või linnaosa moodustamise taotlus esitatakse ning moodustamine otsustatakse kohaliku omavalitsuse korralduse seaduses sätestatud korras. Vajaduse korral korraldab volikogu selles küsimuses elanike küsitluse või kutsub kokku üldkogu.

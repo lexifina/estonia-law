@@ -1,6 +1,6 @@
 # § 14¹. Kinnisasja ostueesõigus
 
-(1) Saarvalla või saarelise osaga valla kohalikul omavalitsusel on väikesaarel asuva kinnisasja ostueesõigus.
+(1) Saarvallal või saarelise osaga kohaliku omavalitsuse üksusel on väikesaarel asuva kinnisasja ostueesõigus.
 
 (2) Kohalikul omavalitsusel ei ole ostueesõigust, kui asi võõrandatakse abikaasale, alanejale sugulasele või vanemale, samuti vennale, õele ja nende alanejatele sugulastele.
 

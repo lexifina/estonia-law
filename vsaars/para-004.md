@@ -10,7 +10,7 @@
 
 3) seisukoha esitamine Vabariigi Valitsusele riigieelarve eelnõu kohta, lähtudes selle võimalikust mõjust väikesaarte arengule;
 
-4) ettepanekute esitamine Vabariigi Valitsusele seoses püsiasustusega väikesaarte nimistu täiendamisega ja püsiasustuse taastamisega;
+4) ettepanekute esitamine Vabariigi Valitsusele seoses püsiasustuse taastamisega väikesaartel;
 
 5) ettepanekute esitamine Vabariigi Valitsusele väikesaarte liikluse ühendusteede ning nendega seotud sadamate ja sadamarajatiste määramiseks;
 

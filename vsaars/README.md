@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/130062015055> (version in force from 2015-09-01)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/120122017003> (version in force from 2017-12-30)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -13,7 +13,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/130062015055> (version in force 
 | [§ 4](para-004.md) | Väikesaarte komisjon |
 | **2. peatükk OMAVALITSUSKORRALDUSE ERISUSED** | |
 | [§ 5](para-005.md) | Üldkogu |
-| [§ 6](para-006.md) | Osavalla moodustamine |
+| [§ 6](para-006.md) | Osavalla ja linnaosa moodustamine |
 | [§ 7](para-007.md) | Arengukavad |
 | **3. peatükk TEENUSED JA INFRASTRUKTUUR** | |
 | [§ 8](para-008.md) | Transporditeenused |
