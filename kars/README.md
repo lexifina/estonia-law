@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/107072017005> (version in force from 2017-11-01)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/105122017002> (version in force from 2018-01-01)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -128,7 +128,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/107072017005> (version in force 
 | [§ 84](para-084.md) | Konfiskeerimise asendamine |
 | [§ 85](para-085.md) | Konfiskeerimise toime |
 | [§ 86](para-086.md) | Psühhiaatriline sundravi |
-| [§ 87](para-087.md) | Alaealisele kohaldatavad mõjutusvahendid |
+| [§ 87](para-087.md) | Alaealisele ja noorele täiskasvanule kohaldatavad mõjutusvahendid |
 | [§ 87¹](para-087b1.md) | Karistusjärgne käitumiskontroll |
 | [§ 87²](para-087b2.md) | Karistusjärgne kinnipidamine |
 | [§ 87³](para-087b3.md) | Karistusjärgse kinnipidamise lõpetamine |
