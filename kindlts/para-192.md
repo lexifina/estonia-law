@@ -24,7 +24,9 @@
 
 2) hindama investeerimisriskiga elukindlustuslepingu vahendamisel käesoleva seaduse §-s 222 sätestatud ulatuses ja korras lepingu ning selle alusvara sobivust kliendile;
 
-3) esitama kliendile investeerimisriskiga elukindlustuse korral andmed kindlustuslepingu aluseks oleva alusvara olemuse ja sellega seotud riskide kohta, mis võimaldavad kliendil teha igakülgselt kaalutud investeerimisotsuse, seejuures ei ole lubatud rõhutada investeerimisriskiga elukindlustuslepingu sõlmimisest saadavat võimalikku kasu, kui samal ajal ei viidata selgelt selle lepingu sõlmimisega seotud riskidele;
+3) esitama kliendile investeerimisriskiga elukindlustuslepingu, välja arvatud täiendava kogumispensioni kindlustuslepingu korral põhiteabedokumendi vastavalt Euroopa Parlamendi ja nõukogu määruse (EL) nr 1286/2014, mis käsitleb kombineeritud jae- ja kindlustuspõhiste investeerimistoodete (PRIIPid) põhiteabedokumente (ELT L 352, 09.12.2014, lk 1–23), artiklitele 13 ja 14, seejuures ei ole lubatud rõhutada investeerimisriskiga elukindlustuslepingu sõlmimisest saadavat võimalikku kasu, kui samal ajal ei viidata selgelt selle lepingu sõlmimisega seotud riskidele;
+
+3¹) esitama kliendile investeerimisriskiga täiendava kogumispensioni kindlustuslepingu korral andmed kindlustuslepingu aluseks oleva alusvara olemuse ja sellega seotud riskide kohta, mis võimaldavad kindlustusvõtjal teha igakülgselt kaalutud investeerimisotsuse, seejuures ei ole lubatud rõhutada investeerimisriskiga elukindlustuslepingu sõlmimisest saadavat võimalikku kasu, kui samal ajal ei viidata selgelt selle lepingu sõlmimisega seotud riskidele;
 
 4) pensionilepingu vahendamisel teavitama klienti kogumispensionide seaduse §-s 50 sätestatud andmetest ja põhimõtetest;
 

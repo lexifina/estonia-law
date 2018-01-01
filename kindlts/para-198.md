@@ -14,7 +14,9 @@
 
 5) hindama investeerimisriskiga elukindlustuslepingu vahendamisel käesoleva seaduse §-s 222 sätestatud ulatuses ja korras lepingu ning selle alusvara sobivust kliendile;
 
-6) esitama kliendile investeerimisriskiga elukindlustuse korral andmed kindlustuslepingu aluseks oleva alusvara olemuse ja sellega seotud riskide kohta, mis võimaldavad kliendil teha igakülgselt kaalutud investeerimisotsuse, seejuures ei ole lubatud rõhutada investeerimisriskiga elukindlustuslepingu sõlmimisest saadavat võimalikku kasu, kui samal ajal ei viidata selgelt selle lepingu sõlmimisega seotud riskidele;
+6) esitama kliendile investeerimisriskiga elukindlustuslepingu, välja arvatud täiendava kogumispensioni kindlustuslepingu korral põhiteabedokumendi vastavalt Euroopa Parlamendi ja nõukogu määruse (EL) nr 1286/2014 artiklitele 13 ja 14, seejuures ei ole lubatud rõhutada investeerimisriskiga elukindlustuslepingu sõlmimisest saadavat võimalikku kasu, kui samal ajal ei viidata selgelt selle lepingu sõlmimisega seotud riskidele;
+
+6¹) esitama kliendile investeerimisriskiga täiendava kogumispensioni kindlustuslepingu korral andmed kindlustuslepingu aluseks oleva alusvara olemuse ja sellega seotud riskide kohta, mis võimaldavad kindlustusvõtjal teha igakülgselt kaalutud investeerimisotsuse, seejuures ei ole lubatud rõhutada investeerimisriskiga elukindlustuslepingu sõlmimisest saadavat võimalikku kasu, kui samal ajal ei viidata selgelt selle lepingu sõlmimisega seotud riskidele;
 
 7) pensionilepingu vahendamisel teavitama klienti kogumispensionide seaduse §-s 50 nimetatud andmetest ja põhimõtetest;
 
@@ -33,5 +35,7 @@
 14) konsulteerima klienti muudes kindlustuslepinguga seotud küsimustes.
 
 (3) Kindlustusagentuur, kelle põhitegevus on kindlustuslepingute vahendamine, on kohustatud kehtestama sise-eeskirjad, mis tagavad kindlustusagendi ning selle juhtide ja töötajate tegevuse sobivuse käesoleva paragrahvi lõikes 2 nimetatud kohustuste täitmiseks.
+
+(3¹) Käesoleva paragrahvi lõikes 3 nimetatud sise-eeskirjadega määratakse muu hulgas kindlustusagentuuri suurust ja struktuuri ning äritegevuse iseloomu, ulatust ja keerukust arvesse võttes õiguslikud, tehnilised ja organisatsioonilised meetmed, et tuvastada, maandada ja vältida kindlustuslepingu vahendamisel kindlustusagentuuri, sealhulgas selle juhatuse liikme ja töötaja või kontrollsuhet omava isiku huvide konflikti kindlustusagentuuri kliendi huvidega ning klientide omavahelist huvide konflikti.
 
 (4) Käesoleva paragrahvi lõikeid 2 ja 3 ei kohaldata võlaõigusseaduse § 427 lõikes 2 või 3 nimetatud kindlustuslepingu vahendamisel.

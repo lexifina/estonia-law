@@ -8,6 +8,8 @@
 
 2) nõuded infotehnoloogilise korralduse, infoturbe tagamise ja talitluspidevuse kohta;
 
+2¹) õiguslikud, tehnilised ja organisatsioonilised meetmed, et tuvastada, maandada ja vältida investeerimisriskiga elukindlustuslepingu pakkumisel kindlustusandja, sealhulgas selle juhatuse liikme ja töötaja või kontrollsuhet omava isiku huvide konflikti kindlustusandja kliendi huvidega ning klientide omavahelist huvide konflikti;
+
 3) kindlustusandja huvide ning kindlustusandja juhtide ja töötajate isiklike majanduslike huvide konflikti vältimise kord, sealhulgas huvide konflikti vältimise kord konsolideerimisgrupi sees, kui kindlustusandja kuulub konsolideerimisgruppi;
 
 4) kindlustuslepingute sõlmimise, kahjude käsitlemise ja hüvitamise kord, investeerimisriskiga elukindlustuslepingu ja selle alusvara sobivuse hindamise kord ning kindlustusvõtjatele või soodustatud isikutele lisakasumi määramise ja jaotamise kord;

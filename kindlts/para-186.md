@@ -14,6 +14,8 @@
 
 5) kliendile kindlustuslepingute kohta esitatava lepingueelse teabe ja lepingu kestel esitatava teabe esitamise kord;
 
+5¹) kindlustusmaakleri suurust ja struktuuri ning äritegevuse iseloomu, ulatust ja keerukust arvesse võttes õiguslikud, tehnilised ja organisatsioonilised meetmed, et tuvastada, maandada ja vältida kindlustuse turustamisel kindlustusmaakleri, sealhulgas selle juhatuse liikme ja töötaja või kontrollsuhet omava isiku huvide konflikti kindlustusmaakleri kliendi huvidega ja klientide omavahelist huvide konflikti;
+
 6) kindlustusmaakleri huvide ning kindlustusmaakleri juhtide ja töötajate isiklike majanduslike huvide konflikti vältimise kord, sealhulgas huvide konflikti vältimise kord konsolideerimisgrupi sees, kui kindlustusmaakler kuulub konsolideerimisgruppi;
 
 7) kindlustusmaakleri juhatuse liikmete ja töötajate tasustamise alused ning meetmed tasustamisega seotud huvide konflikti maandamiseks ja vältimiseks, samuti nende põhimõtete järgimise kontrollimise protseduur;

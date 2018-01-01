@@ -34,4 +34,6 @@
 
 16) täidab muid seadustest ja nende alusel antud õigusaktidest tulenevaid ülesandeid, samuti ülesandeid, mis lähtuvad kindlustusvõtjate, kindlustatute ja soodustatud isikute huvide kaitsest.
 
+(1¹) Finantsinspektsioonil on õigus rakendada Euroopa Parlamendi ja nõukogu määruse (EL) nr 1286/2014 artiklites 17 ja 24 sätestatud meetmeid. Finantsinspektsioon avalikustab nimetatud artiklite kohaste meetmete alusel tehtud otsuse kohta teate oma veebilehel vastavalt nimetatud määruse artikli 17 lõikele 5 ja artiklile 29.
+
 (2) Finantsinspektsioon teostab käesoleva paragrahvi lõikes 1 nimetatud kontrolle ja hindamisi korrapäraselt.
