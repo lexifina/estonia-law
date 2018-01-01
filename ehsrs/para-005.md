@@ -1,7 +1,11 @@
 # § 5. Enne käesoleva seaduse jõustumist kehtestatud üldplaneeringute ülevaatamise kohustus
 
-(1) Kohaliku omavalitsuse üksus vaatab enne käesoleva seaduse jõustumist kehtestatud üldplaneeringud üle hiljemalt 2018. aasta 1. jaanuariks. Alates 2018. aasta 1. jaanuarist vaadatakse üldplaneeringud üle planeerimisseaduses sätestatud korras.
+(1) Kohaliku omavalitsuse üksus vaatab enne käesoleva seaduse jõustumist kehtestatud üldplaneeringud üle hiljemalt 2018. aasta 1. jaanuariks.
 
-(2) Lisaks planeerimisseaduses üldplaneeringu ülevaatamise kohta sätestatule esitatakse maavanemale ülevaade nimetatud üldplaneeringut muutvate detailplaneeringute kohta. Kohaliku omavalitsuse üksus esitab ülevaates arvamuse, kas üldplaneeringut on detailplaneeringutega oluliselt muudetud ning kas üldplaneering on seetõttu terviklik ja elluviidav.
+(1¹) Haldusreformi raames ühinenud kohaliku omavalitsuse üksuste üldplaneeringud vaatab haldusterritoriaalse korralduse muutmise tulemusena moodustunud kohaliku omavalitsuse üksus üle hiljemalt 2018. aasta 1. juuliks.
 
-(3) Maavanem võib pärast käesoleva paragrahvi lõikes 2 nimetatud arvamuse saamist esitada kohalikule omavalitsusele ettepaneku uue üldplaneeringu algatamiseks, kui tema hinnangul on üldplaneeringut detailplaneeringutega oluliselt muudetud.
+(1²) Planeerimisseaduse § 92 lõike 1 esimeses lauses sätestatud kohaliku omavalitsuse volikogu üldplaneeringu ülevaatamise kohustuse tähtaja kulgemine algab 2018. aasta 1. juulil.
+
+(2) Lisaks planeerimisseaduses üldplaneeringu ülevaatamise kohta sätestatule esitatakse koos käesoleva paragrahvi lõikes 1 nimetatud ülevaatega valdkonna eest vastutavale ministrile ülevaade ka üldplaneeringut muutvatest detailplaneeringutest. Kohaliku omavalitsuse üksus esitab ülevaates arvamuse, kas üldplaneeringut on detailplaneeringutega oluliselt muudetud ning kas üldplaneering on seetõttu terviklik ja elluviidav.
+
+(3) Valdkonna eest vastutav minister võib pärast käesoleva paragrahvi lõikes 2 nimetatud arvamuse saamist esitada kohaliku omavalitsuse üksusele ettepaneku uue üldplaneeringu koostamiseks, kui tema hinnangul on üldplaneeringut detailplaneeringutega oluliselt muudetud.

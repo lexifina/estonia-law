@@ -2,14 +2,14 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/115122016004> (version in force from 2017-01-01)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/104072017061> (version in force from 2018-01-01)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
 | [§ 1](para-001.md) | Enne käesoleva seaduse jõustumist algatatud planeeringute menetlemine |
 | [§ 2](para-002.md) | Enne käesoleva seaduse jõustumist kehtestatud planeeringu kehtivus |
 | [§ 3](para-003.md) | Enne käesoleva seaduse jõustumist kehtestatud üleriigilise planeeringu ülevaatamise kohustus |
-| [§ 4](para-004.md) | Enne käesoleva seaduse jõustumist kehtestatud maakonnaplaneeringu ülevaatamise kohustus |
+| [§ 4](para-004.md) | Enne käesoleva seaduse jõustumist kehtestatud üleriigilise planeeringu ja maakonnaplaneeringu ülevaatamise kohustus |
 | [§ 5](para-005.md) | Enne käesoleva seaduse jõustumist kehtestatud üldplaneeringute ülevaatamise kohustus |
 | [§ 6](para-006.md) | Ehitusseadustiku ja planeerimisseaduse kohaldamine vallasasjale |
 | [§ 7](para-007.md) | Ehitusmääruse kehtivus ja muutmine |
@@ -17,6 +17,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/115122016004> (version in force 
 | [§ 9](para-009.md) | Eelvaliku tegemise arvestamine kehtestatud maakonnaplaneeringus |
 | [§ 10](para-010.md) | Eelvaliku tegemise arvestamine kehtestatud üldplaneeringus |
 | [§ 11](para-011.md) | Kehtivate maakonnaplaneeringute tervikuna kehtetuks tunnistamine |
+| [§ 11¹](para-011b1.md) | Maakonnaplaneeringute menetlemine alates 2018. aasta 1. jaanuarist |
 | [§ 12](para-012.md) | Kehtivate üldplaneeringute tervikuna kehtetuks tunnistamine |
 | [§ 13](para-013.md) | Mitut kohalikku omavalitsust läbiva joonehitise trassi asukohavaliku planeeringu kehtivus |
 | [§ 14](para-014.md) | Riigi eriplaneeringu koostamise kohustuse erisus |
