@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/106032015032> (version in force from 2015-03-16)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/130122017013> (version in force from 2018-01-01)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -46,4 +46,6 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/106032015032> (version in force 
 | [§ 27](para-027.md) |  |
 | [§ 30](para-030.md) |  |
 | [§ 31](para-031.md) | Kasutusel oleva isikunime kehtivus |
+| [§ 31¹](para-031b1.md) | Enne 2018. aasta 1. jaanuari käesoleva seaduse 3. peatüki 2. jaos sätestatud juhtudel algatatud uue ees- või perekonnanime andmise või endise isikunime taastamise menetlemise pädevus |
+| [§ 31²](para-031b2.md) | Perekonnaseisuametniku õiguste kehtivus |
 | [§ 32](para-032.md) | Seaduse jõustumine |
