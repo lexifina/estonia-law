@@ -30,19 +30,9 @@
 
 (4²) Valdkonna eest vastutav minister võib anda laenu arvelduskrediidilepingu alusel Eestis asuvale või Eestis tegutsevale riigi asutatud sihtasutusele riigieelarvega määratud suurima lubatud jäägi ja maksimaalse laenusumma ulatuses kuni kolmeks aastaks.
 
-(5) Vabariigi Valitsuse antavate laenude ja käesoleva seaduse alusel antavate riigigarantiide suurim lubatud jääk määratakse riigieelarvega. Nimetatud suurima lubatud jäägi määramisel tuleb arvesse võtta antud laenude, garantiide ja tagastatava toetuse summat ning nende andmise prognoositavat vajadust.
+(5) Käesoleva paragrahvi lõigetes 4¹ ja 4² nimetatud suurimate lubatud jääkide määramisel tuleb arvesse võtta antud laenude, garantiide ja tagastatava toetuse summat ning nende andmise prognoositavat vajadust.
 
-(6) Vabariigi Valitsuse antava laenu või käesoleva seaduse alusel antava riigigarantii tähtaeg võib olla kuni 30 aastat. Vabariigi Valitsuse antava laenu intressimäär ei tohi olla madalam intressimäärast, millega riigil oleks laenulepingu sõlmimise ajal võimalik sarnastel tingimustel võlakohustusi võtta.
-
-(7) Isik, kellele Vabariigi Valitsus võib anda laenu või kelle kohustusi käesoleva seaduse alusel riigigarantiiga tagada, on Eestis asuv või tegutsev:
-
-1) avalik-õiguslik juriidiline isik;
-
-2) äriühing, milles riigil on enamusotsustusõigus;
-
-3) riigi asutatud sihtasutus;
-
-4) finantsasutus.
+(6) Vabariigi Valitsuse ja valdkonna eest vastutava ministri antava laenu intressimäär ei tohi olla madalam intressimäärast, millega riigil oleks laenulepingu sõlmimise ajal võimalik sarnastel tingimustel võlakohustusi võtta.
 
 (8) Pärast Riigikogu või Vabariigi Valitsuse poolt laenu või käesoleva seaduse alusel riigigarantii andmise otsustamist sõlmib laenu või riigigarantii andmiseks vajalikud lepingud, teeb tehingud ja korraldab nende täitmist Rahandusministeerium.
 

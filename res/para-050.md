@@ -20,7 +20,7 @@
 
 (4) Riigieelarvest antakse kohaliku omavalitsuse üksusele juhtumipõhist investeeringutoetust järgmistel tingimustel:
 
-1) toetatav investeering peab tulenema kohaliku omavalitsuse üksuse arengukavast;
+1) toetatava investeeringuga panustatakse kohaliku omavalitsuse üksuse arengukava või maakondliku arengudokumendi investeeringuga seotud valdkondliku eesmärgi täitmisse;
 
 2) kohaliku omavalitsuse üksuse arengukava ja eelarvestrateegia peavad hõlmama vähemalt seaduses määratud perioodi;
 
