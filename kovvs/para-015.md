@@ -12,8 +12,6 @@
 
 4) tema registreerimiseks esitamisega kandidaadiks kohaliku omavalitsuse volikogu valimistel;
 
-5) tema asumisega valimiste korraldajaks.
-
 (3) Valla ja linna valimiskomisjoni liikme võib ennetähtaegselt valimiskomisjoni liikme kohustustest vabastada tema nimetanud volikogu oma põhistatud otsusega kas omal algatusel või valimiskomisjoni ettepanekul.
 
 (4) Valla ja linna valimiskomisjoni liige on oma ülesandeid täites erapooletu ja sõltumatu.

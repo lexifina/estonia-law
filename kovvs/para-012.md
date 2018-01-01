@@ -8,7 +8,7 @@
 
 2) tühistada eelhääletamisel antud hääled olulise seadusrikkumise tõttu osaliselt või täielikult ning kutsuda valijad uuesti hääletama eelhääletamise ajal või valimispäeval;
 
-3) tunnistada hääletamistulemused valimisjaoskonnas, valimisringkonnas, vallas või linnas, maakonnas või riigis kehtetuks või tunnistada elektroonilise hääletamise tulemused kehtetuks täies ulatuses või osaliselt ning korraldada kordushääletamine, kui seadusrikkumine mõjutas või võis mõjutada hääletamistulemusi oluliselt;
+3) tunnistada hääletamistulemused valimisjaoskonnas, valimisringkonnas, vallas või linnas või riigis kehtetuks või tunnistada elektroonilise hääletamise tulemused kehtetuks täies ulatuses või osaliselt ning korraldada kordushääletamine, kui seadusrikkumine mõjutas või võis mõjutada hääletamistulemusi oluliselt;
 
 4) mitte alustada elektroonilist hääletamist või peatada või lõpetada elektrooniline hääletamine, kui elektroonilise hääletamise süsteemi turvalisust või töökindlust ei ole võimalik tagada selliselt, et elektroonilist hääletamist saaks läbi viia käesoleva seaduse nõuete kohaselt;
 

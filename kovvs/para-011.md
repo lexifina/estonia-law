@@ -10,4 +10,4 @@
 
 (3) Asjaomased valla- või linnavalitsused moodustavad kokkuleppel valimisringkondade territooriumil valimisjaoskonnad, lähtudes käesoleva seaduse §-s 22 ettenähtust.
 
-(4) Käesolevas paragrahvis nimetatud otsused ja korraldused võtavad asjaomased valla- või linnavolikogud ja valla- või linnavalitsused vastu enne kõigi haldusterritoriaalse korralduse muutmist eeldavate dokumentide esitamist asjaomasele maavanemale või maavanematele.
+(4) Käesolevas paragrahvis nimetatud otsused ja korraldused võtavad asjaomased valla- või linnavolikogud ja valla- või linnavalitsused vastu enne kõigi haldusterritoriaalse korralduse muutmist eeldavate dokumentide esitamist valdkonna eest vastutavale ministrile.

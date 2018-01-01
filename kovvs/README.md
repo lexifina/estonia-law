@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/117112017006> (version in force from 2017-11-27)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/117112017007> (version in force from 2018-01-01)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -34,6 +34,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/117112017006> (version in force 
 | [§ 18](para-018.md) | Valimiste korraldajad |
 | [§ 19](para-019.md) | Riigi valimisteenistuse pädevus |
 | [§ 20](para-020.md) | Maakonna valimisjuhi pädevus |
+| [§ 20¹](para-020b1.md) | Valla- ja linnasekretäri pädevus |
 | [§ 21](para-021.md) | Valimiste korraldaja abistamine |
 | [§ 22](para-022.md) | Valimisjaoskondade moodustamine |
 | [§ 23](para-023.md) | Jaoskonnakomisjoni moodustamine |

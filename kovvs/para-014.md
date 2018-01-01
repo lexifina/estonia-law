@@ -1,6 +1,6 @@
 # § 14. Valla ja linna valimiskomisjoni moodustamine
 
-(1) Valla ja linna valimiskomisjonil on kuni seitse liiget.
+(1) Valla ja linna valimiskomisjonil on vähemalt viis liiget.
 
 (2) Valla ja linna valimiskomisjoni liikmed nimetatakse hiljemalt 90. päeval enne valimispäeva.
 
