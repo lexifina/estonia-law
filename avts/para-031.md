@@ -4,4 +4,4 @@
 
 (2) Linna- ja vallavalitsus korraldab veebilehe pidamise oma linna või valla organite ja asutuste tegevuse kajastamiseks ja nende valduses oleva teabe avalikustamiseks. Linna- ja vallavalitsused võivad lepingu alusel korraldada ühise veebilehe pidamist.
 
-(3) Riigikantselei, ministeeriumid ja maavalitsused on kohustatud kasutusele võtma abinõud hallatavate riigiasutuste poolt veebilehtede pidamiseks.
+(3) Riigikantselei ja ministeeriumid on kohustatud kasutusele võtma abinõud hallatavate riigiasutuste poolt veebilehtede pidamiseks.

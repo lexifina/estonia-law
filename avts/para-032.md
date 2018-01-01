@@ -12,4 +12,4 @@
 
 (2) Teabevaldaja märgib veebilehel iga dokumendi avalikustamise kuupäeva ja millal on teave veebilehel uuendatud.
 
-(3) Riigikantselei, ministeeriumi ja maavalitsuse veebilehelt peab olema võimalik otse juurde pääseda nende halduses olevate asutuste veebilehtedele.
+(3) Riigikantselei ja ministeeriumi veebilehelt peab olema võimalik otse juurde pääseda nende halduses olevate asutuste veebilehtedele.
