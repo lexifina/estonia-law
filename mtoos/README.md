@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/101032017007> (version in force from 2017-10-10)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/128122017039> (version in force from 2018-01-01)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -112,6 +112,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/101032017007> (version in force 
 | [§ 79](para-079.md) | Nädalas puhkeaja võimaldamata jätmine |
 | [§ 80](para-080.md) | Menetlus |
 | **8. peatükk Rakendussätted** | |
+| [§ 80¹](para-080b1.md) | Lepingulise kohustuse üleminek |
 | [§ 81](para-081.md) |  |
 | [§ 84](para-084.md) |  |
 | [§ 85](para-085.md) | Seaduse jõustumine |

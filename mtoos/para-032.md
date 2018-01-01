@@ -14,4 +14,4 @@ määrusega.
 
 (6) Reeder tagab ööpäevaringse eesti- ja ingliskeelse meditsiinilise kaugkonsultatsiooni võimaluse laeval.
 
-(7) Meditsiinilise kaugkonsultatsiooni teenuse tasuta osutamiseks sõlmib valdkonna eest vastutav minister tervishoiuteenuse osutajaga halduslepingu halduskoostöö seaduses sätestatud korras. Teenuse osutamist rahastatakse riigieelarvest Sotsiaalministeeriumi kaudu.
+(7) Meditsiinilise kaugkonsultatsiooni teenuse tasuta osutamiseks sõlmib Eesti Haigekassa tervishoiuteenuse osutajaga halduslepingu halduskoostöö seaduses sätestatud tingimustel ja korras. Teenuse osutamist rahastatakse Eesti Haigekassa eelarve kaudu.
