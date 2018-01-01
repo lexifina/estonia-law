@@ -1,6 +1,6 @@
 # § 5. Üldkogu
 
-(1) Üldkogu pädevuses on kooskõlastuse andmine väikesaare arengukavale, üldplaneeringule, maakasutuse üldistele põhimõtetele, transpordiühenduse arendamisele mandri või lähima suursaarega, üldkogu reglemendile ja saarevanema valimise korrale, samuti teistele saarvalla või saarelise osaga kohaliku omavalitsuse üksuse põhimääruses sätestatud küsimustele.
+(1) Üldkogu pädevuses on kooskõlastuse andmine väikesaare arengukavale,üldplaneeringule, maakasutuse üldistele põhimõtetele, transpordiühenduse arendamisele mandri või lähima suursaarega, üldkogu reglemendile ja saarevanema valimise korrale, samuti teistele saarvalla või saarelise osaga kohaliku omavalitsuse üksuse põhimääruses sätestatud küsimustele.
 
 (1¹) Saarvaldades ei ole üldkogu kokkukutsumine kohustuslik.
 

@@ -1,3 +1,3 @@
 # § 11¹. Saarevaht
 
-Väikesaarel looduskaitseseaduse, muinsuskaitseseaduse, jäätmeseaduse ja teiste seaduste ning kohaliku omavalitsuse õigusaktide täitmise tagamiseks ja nimetatud õigusaktidest tulenevate nõuete rikkumisest teavitamiseks võib ametisse nimetada saarevahi. Saarevahi nimetab ametisse maavanem väikesaart või saarterühma haldava kohaliku omavalitsuse ettepanekul.
+Väikesaarel looduskaitseseaduse, muinsuskaitseseaduse, jäätmeseaduse ja teiste seaduste ning kohaliku omavalitsuse üksuse õigusaktide täitmise tagamiseks ja nimetatud õigusaktidest tulenevate nõuete rikkumisest teavitamiseks võib kohaliku omavalitsuse üksuse volikogu moodustada saarevahi ametikoha.
