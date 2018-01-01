@@ -32,6 +32,6 @@
 
 (11) Pärast hääletamistulemuste kindlakstegemist pakitakse kehtivad sedelid kandidaatide kaupa. Eraldi pakkidesse pannakse kehtetud sedelid, valijatele välja andmata jäänud sedelid ja valijate tagastatud rikutud sedelid. Pakile märgitakse, millise valimisjaoskonna sedelid, millised ja kui palju neid pakis on. Märkele kirjutab alla jaoskonnakomisjoni esimees.
 
-(12) Hääletamissedelid, valijate nimekirjad ja hääletamistulemuste protokollid edastatakse viivitamata maakonna valimisjuhile.
+(12) Hääletamissedelid, valijate nimekirjad ja hääletamistulemuste protokollid edastatakse viivitamata valla- või linnasekretärile.
 
 (13) Hääletamistulemused tehakse jaoskonnakomisjonis kindlaks avalikult.

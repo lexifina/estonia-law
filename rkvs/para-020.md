@@ -17,3 +17,7 @@
 - 5) teovõimetuks tunnistamise andmed;
 
 - 6) elukoha andmed.
+
+(4) Valla- või linnasekretär võib volitada käesolevas peatükis sätestatud valla- või linnasekretäri ülesandeid täitma valla- või linnavalitsuse või selle allasutuse ametniku või töötaja, teavitades sellest rahvastikuregistri vastutavat töötlejat.
+
+(5) Käesolevas peatükis sätestatud valla- ja linnasekretäri toimingute peale võib esitada kaebuse oma elukohajärgsele halduskohtule.

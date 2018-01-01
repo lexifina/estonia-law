@@ -18,9 +18,13 @@
 
 - 3) koostab valimiste ettevalmistamise ja korraldamise eelarve projekti;
 
-- 4) jaotab maakonna valimisjuhtide vahel kooskõlastatult Vabariigi Valimiskomisjoniga valimiste korraldamiseks eraldatud raha ning kehtestab maakonna valimisjuhtidele ja jaoskonnakomisjonidele eraldatud raha kasutamise korra;
+- 4) jaotab kohaliku omavalitsuse üksuste vahel kooskõlastatult Vabariigi Valimiskomisjoniga valimiste korraldamiseks eraldatud raha ning kehtestab valla- ja linnasekretäridele ning jaoskonnakomisjonidele eraldatud raha kasutamise korra;
 
 - 5) tagab valimiste korraldamiseks vajaliku inventari ja teenuste olemasolu ning haldab valimiste infosüsteemi;
+
+- 5¹) kehtestab valimisvahendite ja väljaspool elukohta hääletanud valijate hääletamissedelitega ümbrike jaoskonnakomisjonidele edastamise korra ning jaotuspiirkonnad;
+
+- 5²) kehtestab valimisvahendite kasutamise ja säilitamise korra;
 
 - 6) juhendab ja koolitab valimiste korraldajaid;
 
