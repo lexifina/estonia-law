@@ -25,3 +25,5 @@ karistatakse rahalise karistusega.
 (5) Kohus võib kohaldada käesolevas paragrahvis sätestatud kuriteo eest kuriteoga saadud vara laiendatud konfiskeerimist vastavalt käesoleva seadustiku §-s 83² sätestatule.
 
 (6) Käesoleva paragrahvi lõigetes 1 ja 3 sätestatud väärtegude aegumistähtaeg on kolm aastat.
+
+(7) Käesolevas paragrahvis sätestatud väärteo katse on karistatav.
