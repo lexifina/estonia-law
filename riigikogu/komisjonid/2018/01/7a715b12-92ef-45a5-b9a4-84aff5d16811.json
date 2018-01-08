@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 8.01.2018 11:10",
+  "sitting_time": "2018-01-08T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0dcd2fab-f0c5-40a4-84eb-5bdb6e33c022"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud maaparandusseaduse eelnõu 524 SE",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "02dc55a5-96fe-400b-8a60-5b38cc04983d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "efca2025-2756-4fb0-93e6-57869df52539",
+      "files": [
+        "Protokol_20180118.pdf",
+        "Protokoll.bdoc"
+      ]
+    }
+  ],
+  "uuid": "7a715b12-92ef-45a5-b9a4-84aff5d16811",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7a715b12-92ef-45a5-b9a4-84aff5d16811)",
+  "source": "https://api.riigikogu.ee/api/volumes/7a715b12-92ef-45a5-b9a4-84aff5d16811",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2018-01-01&endDate=2018-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
