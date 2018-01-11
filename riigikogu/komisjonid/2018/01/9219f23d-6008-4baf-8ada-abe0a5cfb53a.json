@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung neljapäev, 11.01.2018 13:00",
+  "sitting_time": "2018-01-11T13:09:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade arengutest Prantsusmaal ning Eesti ja Prantsusmaa kahepoolsetest suhetest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c09d3f70-ac80-416b-ba5c-fdcdb5771177"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade arengutest Iraanis.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d825d582-c5b0-4a1e-b565-e4c8027f30d0"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "167abf0b-3c43-4b85-9e4f-3aa0976f5ddd"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 11.01.2018",
+      "uuid": "ec8548d1-e99e-4955-8e80-54bd9cd78628",
+      "files": [
+        "Protokoll_11.01.2018.bdoc",
+        "Protokoll_20180111.pdf"
+      ]
+    }
+  ],
+  "uuid": "9219f23d-6008-4baf-8ada-abe0a5cfb53a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9219f23d-6008-4baf-8ada-abe0a5cfb53a)",
+  "source": "https://api.riigikogu.ee/api/volumes/9219f23d-6008-4baf-8ada-abe0a5cfb53a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2018-01-01&endDate=2018-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
