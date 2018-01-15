@@ -34,6 +34,8 @@
 
 16) tõend Finantsinspektsiooni seaduse §-s 45¹ sätestatud menetlustasu maksmise kohta.
 
+(1¹) Kindlustusandja ühinguleping või põhikiri peab kindlaks määrama, et kindlustusandja registrijärgne asukoht ja peakontor on Eestis.
+
 (2) Tegevusloa taotlemisel ei tule esitada käesoleva paragrahvi lõike 1 punktides 1–3 ja 7–12 nimetatud andmeid ja dokumente, kui taotlejal on juba tegevusluba ja ta soovib laiendada oma tegevust mõne kindlustustegevuse liigi või alaliigiga tegelemiseks, milleks tal tegevusluba puudub.
 
 (3) Käesoleva paragrahvi lõike 1 punktides 7 ja 10 nimetatud isikute kohta esitatud andmete ja dokumentide õigsust peavad isikud kinnitama oma allkirjaga.

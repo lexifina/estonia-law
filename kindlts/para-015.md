@@ -2,7 +2,7 @@
 
 (1) Kindlustustegevusega tegelemiseks peab äriühingul olema tegevusluba.
 
-(2) Eestis asutatud äriühingule annab tegevusloa Finantsinspektsioon. Finantsinspektsioonilt tegevusloa saanud kindlustusandja asukoht peab olema Eestis.
+(2) Eestis asutatud äriühingule annab tegevusloa Finantsinspektsioon. Finantsinspektsioonilt tegevusloa saanud kindlustusandja registrijärgne asukoht ja peakontor peavad olema Eestis.
 
 (3) Tegevusluba kehtib käesolevas seaduses sätestatud tingimustel kõikides lepinguriikides.
 
