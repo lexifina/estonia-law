@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 15.01.2018 13:00",
+  "sitting_time": "2018-01-15T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8fc51b46-3da9-47b4-a173-b3a7efc6bdf0"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli kontrolliaruande „Euroopa Liidu ja muude taristutoetuste kasutamise probleemid kohalikes omavalitsustes“ arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2efac426-9ca2-48d5-bc0f-6ab1aec50cfb"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "29740765-a889-4867-989e-8d4fe95894e0"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "ab0d51ed-249d-4474-9108-c648a41c7a28",
+      "files": [
+        "Protokoll.bdoc",
+        "Protokoll nr 119. 15.01.2018.pdf"
+      ]
+    }
+  ],
+  "uuid": "e7015c58-d234-4326-90e9-4c0ead9eaffd",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e7015c58-d234-4326-90e9-4c0ead9eaffd)",
+  "source": "https://api.riigikogu.ee/api/volumes/e7015c58-d234-4326-90e9-4c0ead9eaffd",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2018-01-01&endDate=2018-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
