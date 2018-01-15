@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung esmaspäev, 15.01.2018 11:10",
+  "sitting_time": "2018-01-15T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7d32af6c-8ea0-4544-a42b-ba1184ee3c4c"
+    },
+    {
+      "order": 2,
+      "title": "Käibemaksuseaduse muutmise seaduse eelnõu (556 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "28013b93-8e12-4927-ae7b-f8407b909eec"
+    },
+    {
+      "order": 3,
+      "title": "Info",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "99d56827-dfd9-4505-8997-af32d34b449b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "a8d58a3c-7fbd-4b46-8425-4cb941d8b810",
+      "files": [
+        "Volikiri 15.01.2018 Sarapuu asendusliige.pdf",
+        "Protokoll.bdoc",
+        "RAHK protokoll 171 15 01 18.pdf"
+      ]
+    }
+  ],
+  "uuid": "c3ab110d-6ed4-464c-9ea2-5139db662747",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c3ab110d-6ed4-464c-9ea2-5139db662747)",
+  "source": "https://api.riigikogu.ee/api/volumes/c3ab110d-6ed4-464c-9ea2-5139db662747",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2018-01-01&endDate=2018-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
