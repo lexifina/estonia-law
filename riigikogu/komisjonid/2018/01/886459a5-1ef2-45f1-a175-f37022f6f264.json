@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung neljapäev, 18.01.2018 11:00",
+  "sitting_time": "2018-01-18T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Merejulgeolek",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "be930e62-3daf-4cbe-b3de-19c4499bef18"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3c761549-c248-4e6f-a6ef-14b5d97e8e1e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "103dcf7c-3f3d-4829-abc1-e9bdbc197e1d",
+      "files": [
+        "Protokoll.bdoc",
+        "Protokol_20180125.pdf"
+      ]
+    }
+  ],
+  "uuid": "886459a5-1ef2-45f1-a175-f37022f6f264",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 886459a5-1ef2-45f1-a175-f37022f6f264)",
+  "source": "https://api.riigikogu.ee/api/volumes/886459a5-1ef2-45f1-a175-f37022f6f264",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2018-01-01&endDate=2018-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
