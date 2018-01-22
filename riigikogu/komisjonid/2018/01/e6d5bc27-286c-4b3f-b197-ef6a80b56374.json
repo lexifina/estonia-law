@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni väljasõiduistung esmaspäev, 22.01.2018 11:00",
+  "sitting_time": "2018-01-22T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "88d12d6f-3148-473f-80da-f97fce48460a"
+    },
+    {
+      "order": 2,
+      "title": "Kaitseliidu Peastaabi külastamine. Kaitseliidu arengukava 2030",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9639efbb-9b71-43cb-a641-305fee391c9c"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "19a09177-1bfc-4e6f-b182-01d8d0cf750f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "d1c7f1c8-e335-45e7-b22d-dfa496854375",
+      "files": [
+        "Protokol_20180122.pdf",
+        "Protokoll.bdoc"
+      ]
+    }
+  ],
+  "uuid": "e6d5bc27-286c-4b3f-b197-ef6a80b56374",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e6d5bc27-286c-4b3f-b197-ef6a80b56374)",
+  "source": "https://api.riigikogu.ee/api/volumes/e6d5bc27-286c-4b3f-b197-ef6a80b56374",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2018-01-01&endDate=2018-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
