@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 22.01.2018 11:10",
+  "sitting_time": "2018-01-22T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fb58dd68-f1e8-4502-8568-30e43ad58da1"
+    },
+    {
+      "order": 2,
+      "title": "Erakorraline toetus põllumeestele ebasoodsatest ilmastikuoludest tuleneva kahju hüvitamiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "96f5adf9-1bb3-4073-93d0-6e5cd40bb8b1"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "3c9c8601-7952-4f89-ba9e-bb0ae908db95",
+      "files": [
+        "Protokol_20180129.pdf",
+        "149 protokolli lisa Erakorraline toetus.pptx",
+        "Protokoll.bdoc"
+      ]
+    }
+  ],
+  "uuid": "54e9406d-906f-4d00-b533-9399858f8034",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 54e9406d-906f-4d00-b533-9399858f8034)",
+  "source": "https://api.riigikogu.ee/api/volumes/54e9406d-906f-4d00-b533-9399858f8034",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2018-01-01&endDate=2018-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
