@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung esmaspäev, 22.01.2018 11:10",
+  "sitting_time": "2018-01-22T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b58d4400-4590-4920-8eb5-1948af09dc9f"
+    },
+    {
+      "order": 2,
+      "title": "Tulumaksuseaduse muutmise seaduse eelnõu (554 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4cf61e8f-153d-454d-bd75-73bcf9da4b68"
+    },
+    {
+      "order": 3,
+      "title": "Info",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "92465848-969d-4399-bff7-40d7606e946c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "b3327353-223f-4d1e-b436-5bf75dd5a0b8",
+      "files": [
+        "Protokoll.bdoc",
+        "RAHK_ protokoll 173 22 01 18.pdf"
+      ]
+    }
+  ],
+  "uuid": "76e9d3af-13dc-4c2f-ae30-d7a0493ddacb",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 76e9d3af-13dc-4c2f-ae30-d7a0493ddacb)",
+  "source": "https://api.riigikogu.ee/api/volumes/76e9d3af-13dc-4c2f-ae30-d7a0493ddacb",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2018-01-01&endDate=2018-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
