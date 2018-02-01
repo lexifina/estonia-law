@@ -1,8 +1,6 @@
 # § 59. Üleminek uutele kutseõppe õppekavadele
 
-(1) Seaduse jõustumise ajal
-
-kehtivad kuni seadusega kooskõlla viimiseni, kuid mitte kauem kui 2016. aasta 31. detsembrini.
+(1) Seaduse jõustumise ajal kehtivad riiklikud õppekavad kehtivad kuni seadusega kooskõlla viimiseni, kuid mitte kauem kui 2016. aasta 31. detsembrini.
 
 (2) Kooli õppekavad viiakse vastavusse käesoleva seadusega kooskõlla viidud riiklike õppekavadega poole aasta jooksul, arvates asjaomase riikliku õppekava jõustumisest. Uut õppekava rakendatakse selle kinnitamisele järgneva õppeaasta algusest.
 

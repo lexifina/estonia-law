@@ -19,3 +19,5 @@ määrusega.
 (8) Nõuded õpilaspiletile ja selle väljaandmise korra kehtestab
 
 määrusega.
+
+(9) Vajalike tugiteenuste ja -meetmete määramiseks ning rakendamiseks on kooli direktoril õigus töödelda hariduse infosüsteemi teise õppeasutuse ja koolivälise nõustamismeeskonna kantud andmeid koolivälise nõustamismeeskonna soovituse ning tuge saavale õpilasele rakendatud tugiteenuste ja -meetmete kohta, kuid üksnes mahus ja ulatuses, mis on vajalik tugiteenuste ja -meetmete rakendamiseks.

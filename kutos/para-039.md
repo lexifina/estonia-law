@@ -4,7 +4,7 @@
 
 (2) Õppekasvatusala juhtiva töötaja kvalifikatsiooninõuded on magistrikraad või sellele vastav kvalifikatsioon ja vähemalt kolmeaastane pedagoogilise töö kogemus ning pedagoogiline ja juhtimiskompetentsus.
 
-(3) Õpetaja kvalifikatsiooninõuded on esitatud õpetaja ja kutseõpetaja kutsestandardites. Kutseõpetaja kutsestandardi madalaimale tasemele vastavaid õpetajaid ei tohi koolis olla üle 20%. Piirang ei kehti õppe läbiviimisel sõjaväelisel erialal.
+(3) Õpetaja kvalifikatsiooninõuded on esitatud õpetaja ja kutseõpetaja kutsestandardites. Kutseõpetaja kutsestandardi madalaimale tasemele vastavaid õpetajaid ei tohi koolis olla üle 20%. Piirang ei kehti õppe läbiviimisel sõjaväelisel erialal. Koolis töötavate kvalifikatsiooninõuetele vastavate õpetajate arv peab nende läbiviidava õppe- ja kasvatustegevuse mahust lähtuvalt olema piisav, et tagada õppekavas määratud õpieesmärkide ja ülesannete täitmine ning õpiväljundite saavutamine.
 
 (4) Tugispetsialisti suhtes kohaldatakse põhikooli- ja gümnaasiumiseaduse alusel kehtestatud valdkonna eest vastutava ministri määruses sätestatud kvalifikatsiooninõudeid.
 
@@ -16,6 +16,6 @@
 
 (8) kehtestab õppekasvatusala töötaja vaba ametikoha täitmiseks korraldatava avaliku konkursi tingimused ja korra määrusega.
 
-(9) Kui õppekasvatusala töötaja vaba ametikoha täitmise konkurss luhtub, võib direktor sõlmida tähtajalise töölepingu tähtajaga kuni üks aasta isikuga, kellel on vähemalt keskharidus. Kui luhtub ajutiselt äraoleva töötaja asendamiseks korraldatud konkurss, võib vähemalt keskharidusega isikuga sõlmida asendamise ajaks tähtajalise töölepingu.
+(9) Kui õppekasvatusala töötaja vaba ametikoha täitmise konkurss luhtub, võib direktor sõlmida tähtajalise töölepingu tähtajaga kuni üks aasta isikuga, kellel on vähemalt keskharidus ning kelle kvalifikatsioon ja pedagoogiline kompetentsus on piisavad, et tagada õppekavas määratud õpieesmärkide ja ülesannete täitmine ning õpiväljundite saavutamine. Kui luhtub ajutiselt äraoleva töötaja asendamiseks korraldatud konkurss, võib vähemalt keskharidusega isikuga sõlmida asendamise ajaks tähtajalise töölepingu.
 
 (10) Õpetaja võib kolme aasta jooksul õpetada erialal või õppevaldkonnas, milles õpetamiseks tal puudub vajalik kvalifikatsioon, kui ta on asunud vajalikku kvalifikatsiooni omandama.
