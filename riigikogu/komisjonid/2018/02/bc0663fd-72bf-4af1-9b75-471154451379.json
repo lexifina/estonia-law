@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung esmaspäev, 5.02.2018 11:10",
+  "sitting_time": "2018-02-05T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e8fc19b2-7a9c-44e6-a096-bcc1f1a4fd33"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine EAS- i esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "741cc557-7cdf-41ef-a9aa-f4613a92ab6d"
+    },
+    {
+      "order": 3,
+      "title": "Info",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e9921308-3a4e-404a-a2f7-2e2705d1ca28"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "734c43da-7c9b-4300-a236-1df1d4145510",
+      "files": [
+        "RAHK protokoll 175 5 02 18.pdf",
+        "Protokoll.bdoc"
+      ]
+    }
+  ],
+  "uuid": "bc0663fd-72bf-4af1-9b75-471154451379",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid bc0663fd-72bf-4af1-9b75-471154451379)",
+  "source": "https://api.riigikogu.ee/api/volumes/bc0663fd-72bf-4af1-9b75-471154451379",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2018-02-01&endDate=2018-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
