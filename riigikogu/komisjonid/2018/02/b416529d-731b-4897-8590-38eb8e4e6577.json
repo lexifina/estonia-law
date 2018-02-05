@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung esmaspäev, 5.02.2018 11:00",
+  "sitting_time": "2018-02-05T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9ae0511f-3fc4-4c04-9baa-cb5e605b70de"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu otsuse \"Riigikogu otsuse \"Kaitseväe kasutamise tähtaja pikendamine Eesti riigi rahvusvaheliste kohustuste täitmisel väljaõppe- ja nõustamismissioonil Afganistanis\" muutmine\" eelnõu (564 OE II)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9143eca4-c342-4fea-8436-ca6ee8c2a829"
+    },
+    {
+      "order": 3,
+      "title": "Küberturvalisus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a570ba7b-b107-4c62-a4b8-b22ca27ad7cd"
+    },
+    {
+      "order": 4,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "afb263c5-3ce0-4a68-89bd-9f49c7752563"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "bd115c25-033c-49f3-b152-5ee78871e75d",
+      "files": [
+        "Protokoll.bdoc",
+        "Protokol_20180206.pdf"
+      ]
+    }
+  ],
+  "uuid": "b416529d-731b-4897-8590-38eb8e4e6577",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b416529d-731b-4897-8590-38eb8e4e6577)",
+  "source": "https://api.riigikogu.ee/api/volumes/b416529d-731b-4897-8590-38eb8e4e6577",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2018-02-01&endDate=2018-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
