@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung esmaspäev, 5.02.2018 13:30",
+  "sitting_time": "2018-02-05T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade Eesti esindamisest Euroopa Liidu Kohtus (töö põhimõtted ja Eesti suhtes algatatud asjad).",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "192f0964-7652-4a7e-9929-740ec926169e"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade Saksamaa koalitsioonikõnelustest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ba308a22-c43e-4cf0-92ca-a8bf0996cf29"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "EL asjade komisjoni 5.02.2018 istungi protokoll",
+      "uuid": "b5f978e5-7768-4064-ab20-ffad928f7dcb",
+      "files": [
+        "EL_asjade_komisjoni_5.02.2018_istungi_protokoll.bdoc",
+        "EL_asjade_komisjoni_5.02.2018_20180208.pdf"
+      ]
+    }
+  ],
+  "uuid": "3ec08e97-55ad-433c-849d-8b6ff77da01f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3ec08e97-55ad-433c-849d-8b6ff77da01f)",
+  "source": "https://api.riigikogu.ee/api/volumes/3ec08e97-55ad-433c-849d-8b6ff77da01f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2018-02-01&endDate=2018-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
