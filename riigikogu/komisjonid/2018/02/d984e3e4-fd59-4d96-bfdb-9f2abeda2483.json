@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung esmaspäev, 5.02.2018 11:15",
+  "sitting_time": "2018-02-05T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c64d39fd-ddc5-43bd-82f6-381344f69d2e"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu otsuse „Riigikohtu liikme Indrek Koolmeistri kohtunikuametist vabastamine“ eelnõu (579 OE) esimese lugemise arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5cd465d6-83a3-4945-8277-b233b9da9095"
+    },
+    {
+      "order": 3,
+      "title": "Riigikogu kodu- ja töökorra seaduse muutmiseks esitatud ettepanekute arutelu jätkamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7708264f-de88-4bfb-9a1c-dce4f415526b"
+    },
+    {
+      "order": 4,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0596a239-ce63-4e6c-ad57-56881a33a5ff"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "2018.02.05 protokoll",
+      "uuid": "e16f64b9-d57f-4fe5-ae1f-2577e782fc88",
+      "files": [
+        "2018.02.05 protokoll.pdf",
+        "2018.02.05_protokoll.bdoc"
+      ]
+    }
+  ],
+  "uuid": "d984e3e4-fd59-4d96-bfdb-9f2abeda2483",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d984e3e4-fd59-4d96-bfdb-9f2abeda2483)",
+  "source": "https://api.riigikogu.ee/api/volumes/d984e3e4-fd59-4d96-bfdb-9f2abeda2483",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2018-02-01&endDate=2018-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
