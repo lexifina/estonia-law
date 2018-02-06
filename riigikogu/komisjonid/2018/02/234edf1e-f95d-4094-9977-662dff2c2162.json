@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung teisipäev, 6.02.2018 14:00",
+  "sitting_time": "2018-02-06T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "2017. aasta detsembris toimunud Kaitseväe välkõppekogunemine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8b59b850-5cd6-40b9-b0f2-ff783bcaaf1f"
+    },
+    {
+      "order": 2,
+      "title": "Raporti \"Naised Eesti Kaitseväes: motivatsioon, suhtumine, kogemus ja väljakutsed” tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e77309aa-f0bb-44c6-aad2-bbfdc32b82b9"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "2de6197e-d212-4f99-8906-48952aa9c75e",
+      "files": [
+        "Protokoll.bdoc",
+        "Protokol_20180208.pdf"
+      ]
+    }
+  ],
+  "uuid": "234edf1e-f95d-4094-9977-662dff2c2162",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 234edf1e-f95d-4094-9977-662dff2c2162)",
+  "source": "https://api.riigikogu.ee/api/volumes/234edf1e-f95d-4094-9977-662dff2c2162",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2018-02-01&endDate=2018-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
