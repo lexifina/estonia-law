@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung teisipäev, 6.02.2018 13:30",
+  "sitting_time": "2018-02-06T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud Riigivaraseaduse muutmise seaduse eelnõu (570 SE) arutelu esimesele lugemisele saatmiseks.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "98404990-483d-499b-b9c6-ae975f746669"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fd50f889-d8a5-4866-9b2a-bc9a2a898283"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAJK protokoll nr 186 06.02.2018",
+      "uuid": "48b90c49-b2f9-41de-ba8f-2231f5a3d447",
+      "files": [
+        "MAJK protokoll nr 186 06.02.2018.pdf",
+        "570SE RVS börsi muudatus esitlus.pptx"
+      ]
+    }
+  ],
+  "uuid": "7217f104-6813-4d65-8440-22d796c37a1c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7217f104-6813-4d65-8440-22d796c37a1c)",
+  "source": "https://api.riigikogu.ee/api/volumes/7217f104-6813-4d65-8440-22d796c37a1c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2018-02-01&endDate=2018-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
