@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung esmaspäev, 12.02.2018 11:00, L333",
+  "sitting_time": "2018-02-12T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala (12.02.-18.02.2018) töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "343d36e9-ec57-454d-8742-7413effc0301"
+    },
+    {
+      "order": 2,
+      "title": "Jäätmeseadus (495 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "11897b4a-0ab2-42ff-b9f6-855d31ac17cf"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 12.02.2018 nr 142",
+      "uuid": "a28956f8-18bb-4389-ad4e-ea9d03d0a7e9",
+      "files": [
+        "12.02.2018 protok.142.pdf",
+        "Protokoll_12.02.2018_nr_142.bdoc"
+      ]
+    }
+  ],
+  "uuid": "160073cf-2154-4ede-8cef-6b28c539f3f9",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 160073cf-2154-4ede-8cef-6b28c539f3f9)",
+  "source": "https://api.riigikogu.ee/api/volumes/160073cf-2154-4ede-8cef-6b28c539f3f9",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2018-02-01&endDate=2018-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
