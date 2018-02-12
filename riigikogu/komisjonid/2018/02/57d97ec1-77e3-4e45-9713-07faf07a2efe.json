@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung esmaspäev, 12.02.2018 11:10",
+  "sitting_time": "2018-02-12T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "29321c2a-c568-491c-8191-fdc3b7f215bc"
+    },
+    {
+      "order": 2,
+      "title": "Rahandusministeeriumi ülevaade 2017. aasta eelarve täitmisest ja riigi reservidest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ba911db9-9a07-4f4f-a998-16bd86f5561f"
+    },
+    {
+      "order": 3,
+      "title": "Rahandusministeeriumi ülevaated teemadel: EL mitmeaastane finantsraamistik 2021, \n EL Omavahendite süsteemi reform ja digimajanduse maksustamine.\n.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "aaee9cb3-3da7-4a0d-8743-3f41a7ef46bb"
+    },
+    {
+      "order": 4,
+      "title": "Info",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a6e74077-eb11-4895-b767-32300440414a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "07bc0f59-e812-48c5-8332-7e9079bbc999",
+      "files": [
+        "Protokoll.bdoc",
+        "RAHK protokoll 177 12 02 18.pdf"
+      ]
+    }
+  ],
+  "uuid": "57d97ec1-77e3-4e45-9713-07faf07a2efe",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 57d97ec1-77e3-4e45-9713-07faf07a2efe)",
+  "source": "https://api.riigikogu.ee/api/volumes/57d97ec1-77e3-4e45-9713-07faf07a2efe",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2018-02-01&endDate=2018-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
