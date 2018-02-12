@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Korruptsioonivastane erikomisjon",
+  "committee_uuid": "e4f2977a-e8c3-4fa0-8f3d-9df9acd6377f",
+  "title": "Komisjoni istung esmaspäev, 12.02.2018 13:00",
+  "sitting_time": "2018-02-12T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigimetsa Majandamise Keskuse nõukogu esimehe Andres Talijärve informatsiooni kuulamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "766df47c-679c-49c9-a6fd-d117948d4341"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine õiguskantsler Ülle Madisega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "35a4d4c2-4cf4-48ff-a51d-b3694ec658af"
+    },
+    {
+      "order": 3,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "94a1e648-6034-4be7-aa9b-21ac4fdb1569"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "9629f489-8d7f-43c0-a824-3ed102cba953",
+      "files": [
+        "2018_12_02 Protokoll nr 86 .pdf"
+      ]
+    }
+  ],
+  "uuid": "af18d295-6acb-4c66-aff4-8dba49761ae2",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid af18d295-6acb-4c66-aff4-8dba49761ae2)",
+  "source": "https://api.riigikogu.ee/api/volumes/af18d295-6acb-4c66-aff4-8dba49761ae2",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2018-02-01&endDate=2018-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
