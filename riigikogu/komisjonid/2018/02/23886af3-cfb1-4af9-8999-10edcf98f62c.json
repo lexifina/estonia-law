@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung esmaspäev, 12.02.2018 11:00",
+  "sitting_time": "2018-02-12T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "78ba248d-d7ba-4a82-b5aa-29586f672a6c"
+    },
+    {
+      "order": 2,
+      "title": "Riigikaitseliste sundkoormiste seaduse muutmise seaduse eelnõu (572 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ea90f6aa-6fd5-4352-9d30-0328e4608efa"
+    },
+    {
+      "order": 3,
+      "title": "Hädaolukorra seaduse, maksukorralduse seaduse ja riigikaitseliste sundkoormiste seaduse muutmise seaduse eelnõu (571 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "19ff5254-e50e-458e-bd2d-b006001cb1c1"
+    },
+    {
+      "order": 4,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8a6e078b-e926-41af-842b-9caf9ceee8fc"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "b3c19430-370c-49b7-bb88-9354b4cbea21",
+      "files": [
+        "Protokol_20180213.pdf",
+        "Protokoll.bdoc"
+      ]
+    }
+  ],
+  "uuid": "23886af3-cfb1-4af9-8999-10edcf98f62c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 23886af3-cfb1-4af9-8999-10edcf98f62c)",
+  "source": "https://api.riigikogu.ee/api/volumes/23886af3-cfb1-4af9-8999-10edcf98f62c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2018-02-01&endDate=2018-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
