@@ -1,0 +1,42 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung esmaspäev, 12.02.2018 11:15",
+  "sitting_time": "2018-02-12T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2d0a385f-2fed-48bc-9a21-ec752b5135cc"
+    },
+    {
+      "order": 2,
+      "title": "Kriminaalmenetluse seadustiku muutmise seaduse eelnõu (562 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "65ff929a-c60f-4b15-88c7-e70f4ed6afff"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "e28c542d-d492-493f-b8fc-8434c95d3480",
+      "files": [
+        "img-222130943-0001.pdf",
+        "Protokoll.bdoc",
+        "Protokoll (1).bdoc",
+        "ÕIGK 12.02.18 istungi protokoll .pdf"
+      ]
+    }
+  ],
+  "uuid": "86b0a9bc-ddfe-4c5e-83eb-40f8be8f90b1",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 86b0a9bc-ddfe-4c5e-83eb-40f8be8f90b1)",
+  "source": "https://api.riigikogu.ee/api/volumes/86b0a9bc-ddfe-4c5e-83eb-40f8be8f90b1",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2018-02-01&endDate=2018-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
