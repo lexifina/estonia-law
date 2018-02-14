@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung kolmapäev, 14.02.2018 15:15",
+  "sitting_time": "2018-02-14T15:15:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9e01aca0-bdcb-42e6-b3d1-5605394da52c"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu avalduse \"Tänuavaldus Eesti Vabariigi loojatele, kaitsjatele, hoidjatele ja taastajatele\" eelnõu (588 AE) esimese lugemise arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d975170c-4dd8-43c7-9851-eec0995f09e4"
+    },
+    {
+      "order": 3,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "905b1e34-20e7-418b-bd10-9db6aafd44c5"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "2018.02.14 protokoll",
+      "uuid": "e2a4e018-6b2b-4af9-9070-b8c983de95e8",
+      "files": [
+        "2018.02.14_protokoll.bdoc",
+        "2018.02.14 protokoll.pdf"
+      ]
+    }
+  ],
+  "uuid": "9bf8fd2b-8c25-4111-a600-4d5e6be3364b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9bf8fd2b-8c25-4111-a600-4d5e6be3364b)",
+  "source": "https://api.riigikogu.ee/api/volumes/9bf8fd2b-8c25-4111-a600-4d5e6be3364b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2018-02-01&endDate=2018-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
