@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung esmaspäev, 19.02.2018 11:00",
+  "sitting_time": "2018-02-19T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0238e382-542f-4be4-812c-5bf4b47ef693"
+    },
+    {
+      "order": 2,
+      "title": "NATO sõjalise juhtimisstruktuuri reformist",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "28aeb681-742d-4e65-8b33-a5e047a6af36"
+    },
+    {
+      "order": 3,
+      "title": "Informatsiooni sisejulgeoleku olukorra arengutest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a52b49f7-6e8f-421b-b5f9-84ae94eadb78"
+    },
+    {
+      "order": 4,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b32ef308-5c8a-4078-8bc7-7a2c7f0d2ba0"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "e5b642db-5697-489f-88ee-b86d671cf879",
+      "files": [
+        "Protokoll.bdoc",
+        "Protokol_20180219.pdf"
+      ]
+    }
+  ],
+  "uuid": "d92f035f-e8c8-486b-a6fa-c231c144f2f4",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d92f035f-e8c8-486b-a6fa-c231c144f2f4)",
+  "source": "https://api.riigikogu.ee/api/volumes/d92f035f-e8c8-486b-a6fa-c231c144f2f4",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2018-02-01&endDate=2018-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
