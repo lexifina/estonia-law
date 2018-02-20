@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung teisipäev, 20.02.2018 13:40",
+  "sitting_time": "2018-02-20T13:40:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kaitseväeteenistuse seaduse ja teiste seaduste muutmise seaduse eelnõu (447 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c186b7fe-26ed-427e-b745-1aca2f50e463"
+    },
+    {
+      "order": 2,
+      "title": "Informatsioon julgeolekuolukorra arengutest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fbf57de2-ef70-42f9-b41d-eabc025f3dfb"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "f09ba549-302f-474e-ab38-2bd32da34427",
+      "files": [
+        "Protokol_20180221.pdf",
+        "Protokoll.bdoc"
+      ]
+    }
+  ],
+  "uuid": "c15a5f45-9258-4187-a33a-a6a85d135910",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c15a5f45-9258-4187-a33a-a6a85d135910)",
+  "source": "https://api.riigikogu.ee/api/volumes/c15a5f45-9258-4187-a33a-a6a85d135910",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2018-02-01&endDate=2018-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
