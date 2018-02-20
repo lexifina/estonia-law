@@ -1,0 +1,44 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni väljasõiduistung teisipäev, 20.02.2018 kell 14:00 Maa-ametis",
+  "sitting_time": "2018-02-20T14:05:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "91d1c90e-a4bc-47de-89b7-f0e997a141bb"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade Maa-ameti aktuaalsetest teemadest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e9c8683d-1f38-4d78-b34f-da2e5a59160f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "8eb60120-3298-4dbc-a2f5-0bc2f6e5fb46",
+      "files": [
+        "Protokol_20180301.pdf",
+        "Protokoll.bdoc",
+        "Maaelukomsjonile_reservi_pohimotted.pptx",
+        "Maareform_20_02_18.ppt",
+        "Katastriandmete_ebayhtlane_kvaliteet_Tallinn_2017_02_20_v5.pptx",
+        "KAHOSe tutvustus Maaelukomisjonile.pptx"
+      ]
+    }
+  ],
+  "uuid": "6e6be1e3-330c-405e-8a90-53c6c68aaed3",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 6e6be1e3-330c-405e-8a90-53c6c68aaed3)",
+  "source": "https://api.riigikogu.ee/api/volumes/6e6be1e3-330c-405e-8a90-53c6c68aaed3",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2018-02-01&endDate=2018-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
