@@ -1,0 +1,34 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung teisipäev, 20.02.2018 13:00",
+  "sitting_time": "2018-02-20T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade Interpoli tegevusest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a296ff5f-778f-4bf4-b804-61c3c7d14cf4"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "c3136b27-bda3-47d6-95f6-92ce1e41bc93",
+      "files": [
+        "Protokoll.bdoc",
+        "ÕIGK 20.02.18 istungi protokoll.pdf"
+      ]
+    }
+  ],
+  "uuid": "06de3ba1-1d2f-4c2f-976d-fa4b65b776e5",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 06de3ba1-1d2f-4c2f-976d-fa4b65b776e5)",
+  "source": "https://api.riigikogu.ee/api/volumes/06de3ba1-1d2f-4c2f-976d-fa4b65b776e5",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2018-02-01&endDate=2018-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
