@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung teisipäev, 20.02.2018 kell 14.00",
+  "sitting_time": "2018-02-20T14:00:00",
+  "sitting_type": "UHISISTUNG",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ametiühingute pöördumine Eesti Haigekassa ja Eesti Töötukassa rahade kasutamise kohta",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "295e0476-1b5d-43e0-97a2-c398939141d4"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade Eesti Haigekassa tegevusest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c0241ed7-a3ec-4e63-beb3-fe692bff2fd6"
+    },
+    {
+      "order": 3,
+      "title": "Ülevaade Eesti Töötukassa tegevusest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "318e44a8-5c40-4ba8-af7d-fe99302d8f56"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "20.02.2018 istungi protokoll",
+      "uuid": "33ac0889-3e35-4be7-9f3c-2fe7aef209d5",
+      "files": [
+        "20.02.2018 istungi protokoll.pdf",
+        "20.02.2018_istungi_protokoll.bdoc"
+      ]
+    }
+  ],
+  "uuid": "95ed5322-e0f0-4146-8527-29dc457cde67",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 95ed5322-e0f0-4146-8527-29dc457cde67)",
+  "source": "https://api.riigikogu.ee/api/volumes/95ed5322-e0f0-4146-8527-29dc457cde67",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2018-02-01&endDate=2018-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
