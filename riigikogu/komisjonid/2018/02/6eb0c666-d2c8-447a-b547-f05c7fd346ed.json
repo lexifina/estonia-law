@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung kolmapäev, 21.02.2018 09:00",
+  "sitting_time": "2018-02-21T09:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "78ae1189-d262-4f70-b220-c004f88da10f"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine riigikontrolöri kandidaadiga",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a18e021a-a82f-4929-9b19-e1941bd9613f"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "84815cfc-cc7d-420e-bcea-c996df4f92d4"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 125",
+      "uuid": "29a6f4f3-f7bb-4885-89f3-3f04fa03444d",
+      "files": [
+        "Protokoll nr 125. 21.02.2018.pdf"
+      ]
+    }
+  ],
+  "uuid": "6eb0c666-d2c8-447a-b547-f05c7fd346ed",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 6eb0c666-d2c8-447a-b547-f05c7fd346ed)",
+  "source": "https://api.riigikogu.ee/api/volumes/6eb0c666-d2c8-447a-b547-f05c7fd346ed",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2018-02-01&endDate=2018-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
