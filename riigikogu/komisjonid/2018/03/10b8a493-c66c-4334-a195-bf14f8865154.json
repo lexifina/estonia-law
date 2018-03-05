@@ -1,0 +1,48 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 5.03.2018 11:10",
+  "sitting_time": "2018-03-05T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "58617e24-eac5-4cc9-ba41-5edd48e66036"
+    },
+    {
+      "order": 2,
+      "title": "Bussiliikluse korraldus maapiirkonnas",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2c0e8fec-971a-4d4d-9c81-2aff2c42fd6c"
+    },
+    {
+      "order": 3,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7c0ce8e2-3eb8-4a21-989d-c002ec37de1c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "4260ed75-2ca5-4240-945b-811c72203b07",
+      "files": [
+        "Protokoll.bdoc",
+        "155 protokolli lisa 2 Maanteeamet.Muudatused ühistranspordi korraldamisel.pptx",
+        "155 protokolli lisa 1 MKM.liikuvusteenus.pptx",
+        "Protokol_20180308.pdf"
+      ]
+    }
+  ],
+  "uuid": "10b8a493-c66c-4334-a195-bf14f8865154",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 10b8a493-c66c-4334-a195-bf14f8865154)",
+  "source": "https://api.riigikogu.ee/api/volumes/10b8a493-c66c-4334-a195-bf14f8865154",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2018-03-01&endDate=2018-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
