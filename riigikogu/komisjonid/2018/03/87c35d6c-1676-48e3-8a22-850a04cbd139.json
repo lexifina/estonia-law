@@ -1,0 +1,35 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 13.03.2018 14:00",
+  "sitting_time": "2018-03-13T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Bussiliikluse korraldus maapiirkonnas",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "10f44a0f-9add-4995-a5c5-fe8b008f8c64"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "b8034a52-9159-481a-869f-0f5ed4e28efc",
+      "files": [
+        "Protokol_20180321.pdf",
+        "Protokoll.bdoc",
+        "157 protokolli lisa.Tasuta ühistransport.pptx"
+      ]
+    }
+  ],
+  "uuid": "87c35d6c-1676-48e3-8a22-850a04cbd139",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 87c35d6c-1676-48e3-8a22-850a04cbd139)",
+  "source": "https://api.riigikogu.ee/api/volumes/87c35d6c-1676-48e3-8a22-850a04cbd139",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2018-03-01&endDate=2018-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
