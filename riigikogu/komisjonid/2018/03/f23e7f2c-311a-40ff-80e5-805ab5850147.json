@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung neljapäev, 15.03.2018 14:00",
+  "sitting_time": "2018-03-15T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Küberturvalisuse seaduse eelnõu (597 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "441f55c8-f024-4fc0-90b7-7360779f445b"
+    },
+    {
+      "order": 2,
+      "title": "Kaitseväeteenistusalaste süütegude kohtumenetlus, ajateenistusse asumise ja õppekogunemisele ilmumise kohustuse eiramine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "82ef4863-29cc-4c87-a386-a99b2ea02759"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "4e25799a-c6c5-40f1-9502-eee74e962e33",
+      "files": [
+        "Protokoll.bdoc",
+        "Protokol_20180320.pdf"
+      ]
+    }
+  ],
+  "uuid": "f23e7f2c-311a-40ff-80e5-805ab5850147",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f23e7f2c-311a-40ff-80e5-805ab5850147)",
+  "source": "https://api.riigikogu.ee/api/volumes/f23e7f2c-311a-40ff-80e5-805ab5850147",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2018-03-01&endDate=2018-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
