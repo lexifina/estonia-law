@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 19.03.2018 11:10",
+  "sitting_time": "2018-03-19T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8e0e95ab-0e0f-4f24-b918-3721c510274b"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade Rail Baltic´u projekti hetkeseisust ja käesoleva aasta tegevustest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5c38a97d-19be-433c-8b59-39e784993d8b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "73774615-3c29-4c00-8b4f-eacb3f2704af",
+      "files": [
+        "158 protokolli lisa 19.03.18Rail Balticu vead.pptx",
+        "Protokol_20180327.pdf",
+        "Protokoll.bdoc"
+      ]
+    }
+  ],
+  "uuid": "5405dda3-2ad0-4fde-b3f8-c2bcb19fd66c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 5405dda3-2ad0-4fde-b3f8-c2bcb19fd66c)",
+  "source": "https://api.riigikogu.ee/api/volumes/5405dda3-2ad0-4fde-b3f8-c2bcb19fd66c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2018-03-01&endDate=2018-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
