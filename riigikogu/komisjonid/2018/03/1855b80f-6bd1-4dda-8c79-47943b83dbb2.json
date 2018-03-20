@@ -1,0 +1,42 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung teisipäev, 20.03.2018 14:00",
+  "sitting_time": "2018-03-20T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Eesti Tööandjate Keskliidu esindajatega.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "15cad764-3978-49dd-9b7e-caee2a4e0d00"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "984ca547-4060-42ea-a84b-05496dfb20e3"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAJK protokoll nr 196",
+      "uuid": "f22114fb-7f3c-47fc-90e0-720a5cf1213c",
+      "files": [
+        "Tööandjate kiri RK majanduskomisjonile_tööjõuturu toimimine ja tööjõupuudus_0.pdf",
+        "MAJK_protokoll_nr_196.bdoc",
+        "MAJK-protokoll-nr-196-20.03.2018.pdf",
+        "Tööandjate ettekanne Riigikogus fin 2.pdf"
+      ]
+    }
+  ],
+  "uuid": "1855b80f-6bd1-4dda-8c79-47943b83dbb2",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 1855b80f-6bd1-4dda-8c79-47943b83dbb2)",
+  "source": "https://api.riigikogu.ee/api/volumes/1855b80f-6bd1-4dda-8c79-47943b83dbb2",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2018-03-01&endDate=2018-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
