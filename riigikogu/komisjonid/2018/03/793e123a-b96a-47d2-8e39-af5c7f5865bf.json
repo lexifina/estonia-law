@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung neljapäev, 22.03.2018 12:05",
+  "sitting_time": "2018-03-22T12:05:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kaitseliidu seaduse ja tulumaksuseaduse muutmise seaduse eelnõu (593 SE II)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b95243b2-ddb1-4bf9-a3ba-9ffd1b8c45ba"
+    },
+    {
+      "order": 2,
+      "title": "Kaitseväe korralduse seaduse muutmise ja sellest tulenevalt teiste seaduste muutmise seaduse eelnõu (594 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "55bcb61a-56af-4436-b808-de42f19209eb"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "99890cce-6e67-4e06-878e-28abefe51042",
+      "files": [
+        "Protokol_20180327.pdf",
+        "Protokoll.bdoc"
+      ]
+    }
+  ],
+  "uuid": "793e123a-b96a-47d2-8e39-af5c7f5865bf",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 793e123a-b96a-47d2-8e39-af5c7f5865bf)",
+  "source": "https://api.riigikogu.ee/api/volumes/793e123a-b96a-47d2-8e39-af5c7f5865bf",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2018-03-01&endDate=2018-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
