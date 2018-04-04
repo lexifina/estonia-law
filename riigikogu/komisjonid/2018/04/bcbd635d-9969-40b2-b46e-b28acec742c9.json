@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung kolmapäev, 4.04.2018 09:00",
+  "sitting_time": "2018-04-04T09:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikontrolli kontrolliaruande tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "80d54a62-6036-4201-9bc9-245aed88c94e"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "24a4ef3f-4714-40b0-bd9e-0e962119d725"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 132",
+      "uuid": "4781df68-9636-4aa4-a473-26513a0f9f45",
+      "files": [
+        "Protokoll nr 132. 04.04.2018.pdf",
+        "Protokoll_132.bdoc"
+      ]
+    }
+  ],
+  "uuid": "bcbd635d-9969-40b2-b46e-b28acec742c9",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid bcbd635d-9969-40b2-b46e-b28acec742c9)",
+  "source": "https://api.riigikogu.ee/api/volumes/bcbd635d-9969-40b2-b46e-b28acec742c9",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2018-04-01&endDate=2018-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
