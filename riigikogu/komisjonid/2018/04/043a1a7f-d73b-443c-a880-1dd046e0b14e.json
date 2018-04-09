@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung esmaspäev, 9.04.2018 kell 11.10",
+  "sitting_time": "2018-04-09T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f4ac9c27-82fc-4986-aafc-1057e769eb25"
+    },
+    {
+      "order": 2,
+      "title": "Abivahendisüsteemi toimimisest. Parlamentaarne kuulamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bebc986c-b984-43b6-b8d9-7049eca29fbf"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4dcf4b0a-cd97-401e-a6b4-c0a261d51acd"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "9.04.2018 istungi protokoll",
+      "uuid": "52aeb848-9478-431e-a761-05da9dc11110",
+      "files": [
+        "9.04.2018 istungi protokoll.pdf"
+      ]
+    }
+  ],
+  "uuid": "043a1a7f-d73b-443c-a880-1dd046e0b14e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 043a1a7f-d73b-443c-a880-1dd046e0b14e)",
+  "source": "https://api.riigikogu.ee/api/volumes/043a1a7f-d73b-443c-a880-1dd046e0b14e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2018-04-01&endDate=2018-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
