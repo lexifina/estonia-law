@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung esmaspäev, 9.04.2018 11:00",
+  "sitting_time": "2018-04-09T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bee58109-0f4d-44e0-a7de-97fb736cae1a"
+    },
+    {
+      "order": 2,
+      "title": "Kaitseliidu seaduse ja tulumaksuseaduse muutmise seaduse eelnõu (593 SE III)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d4e84157-67e3-454c-bd5e-7a8bd207e5e2"
+    },
+    {
+      "order": 3,
+      "title": "Küberturvalisuse seaduse eelnõu (597 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9551e8ea-dc56-4ffd-ac01-2f022e4107fe"
+    },
+    {
+      "order": 4,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3c209675-6350-4630-96d9-ae3d27fbb9fb"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "87a6f2e6-c0fd-45ce-a8de-97c5f563c1c3",
+      "files": [
+        "Protokoll.bdoc",
+        "Protokol_20180420.pdf"
+      ]
+    }
+  ],
+  "uuid": "b7833b89-e4da-49c0-813c-8e7e0e1c77d7",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b7833b89-e4da-49c0-813c-8e7e0e1c77d7)",
+  "source": "https://api.riigikogu.ee/api/volumes/b7833b89-e4da-49c0-813c-8e7e0e1c77d7",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2018-04-01&endDate=2018-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
