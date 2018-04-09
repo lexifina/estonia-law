@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 9.04.2018 11:10",
+  "sitting_time": "2018-04-09T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a422ee77-f286-4f63-b687-542df1b2d13b"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine Maksu- ja Tolliameti esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "90a4c0d1-0a25-47eb-a955-48b70d0caf2e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "f738f2e6-281f-43c4-bb04-75b2250ae1eb",
+      "files": [
+        "Protokol_20180425.pdf",
+        "Protokoll.bdoc"
+      ]
+    }
+  ],
+  "uuid": "bb48007c-827d-4d30-9cf6-b6ca6998a500",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid bb48007c-827d-4d30-9cf6-b6ca6998a500)",
+  "source": "https://api.riigikogu.ee/api/volumes/bb48007c-827d-4d30-9cf6-b6ca6998a500",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2018-04-01&endDate=2018-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
