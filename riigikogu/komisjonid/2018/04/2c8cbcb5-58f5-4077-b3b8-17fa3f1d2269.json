@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung neljapäev, 12.04.2018 10:10",
+  "sitting_time": "2018-04-12T10:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Küberturvalisuse seaduse eelnõu (597 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "860b00a3-7eae-45a7-9dec-d2dff2bf7d8b"
+    },
+    {
+      "order": 2,
+      "title": "Kaitseväeteenistuse seaduse ja teiste seaduste muutmise seaduse eelnõu (607 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "741b512e-4a72-42d2-a6b6-94d48c9689d0"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "ec0b81f2-f79a-45e0-988c-d4de1d9cf150",
+      "files": [
+        "Protokol_20180420.pdf",
+        "Protokoll.bdoc"
+      ]
+    }
+  ],
+  "uuid": "2c8cbcb5-58f5-4077-b3b8-17fa3f1d2269",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2c8cbcb5-58f5-4077-b3b8-17fa3f1d2269)",
+  "source": "https://api.riigikogu.ee/api/volumes/2c8cbcb5-58f5-4077-b3b8-17fa3f1d2269",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2018-04-01&endDate=2018-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
