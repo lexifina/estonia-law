@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung esmaspäev, 16.04.2018 11:10",
+  "sitting_time": "2018-04-16T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "833ac671-2f5a-42ba-af95-a1be1e5a4855"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine Eesti Panga esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "97e8b462-ca59-4596-94df-ab8e6b4034c5"
+    },
+    {
+      "order": 3,
+      "title": "Riigikogu otsuse \"Eesti esindaja nimetamine Põhjamaade Investeerimispanga kontrollkomiteesse\" eelnõu algatamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d1161df9-5553-43ee-9c4a-9c53ceac09bf"
+    },
+    {
+      "order": 4,
+      "title": "Info",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "26003565-5dd6-4b2b-960e-18e2833c5c33"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "1905c648-dd4a-441d-86c2-925a5658a10c",
+      "files": [
+        "Protokoll.bdoc",
+        "RAHK protokoll 189 16 04 18.pdf"
+      ]
+    }
+  ],
+  "uuid": "0e8951e4-4b10-4c5b-95c4-b5b72f830c2d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0e8951e4-4b10-4c5b-95c4-b5b72f830c2d)",
+  "source": "https://api.riigikogu.ee/api/volumes/0e8951e4-4b10-4c5b-95c4-b5b72f830c2d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2018-04-01&endDate=2018-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
