@@ -1,0 +1,43 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjonide ühisistung teisipäev, 17. aprill, kell 14:00",
+  "sitting_time": "2018-04-17T14:00:00",
+  "sitting_type": "UHISISTUNG",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Uuringute ülevaated ja arutelu energiavarustuse teemal.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b160754d-ac96-4758-a85a-3fa945683ff4"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4f550f53-6cc5-4991-b960-4a60df7739b5"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll nr 203 17.04.2018",
+      "uuid": "ba71609d-1ee8-44e0-b466-61e2e6a7e094",
+      "files": [
+        "Lisa 1.pdf",
+        "Lisa 2.pdf",
+        "MAJK protokoll nr 203 17.04.2018.pdf",
+        "MAJK_protokoll_nr_203_17.04.2018.bdoc",
+        "Lisa 3.pdf"
+      ]
+    }
+  ],
+  "uuid": "79dc8bf8-1db2-49d5-8bce-c8c9710d8ca5",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 79dc8bf8-1db2-49d5-8bce-c8c9710d8ca5)",
+  "source": "https://api.riigikogu.ee/api/volumes/79dc8bf8-1db2-49d5-8bce-c8c9710d8ca5",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2018-04-01&endDate=2018-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
