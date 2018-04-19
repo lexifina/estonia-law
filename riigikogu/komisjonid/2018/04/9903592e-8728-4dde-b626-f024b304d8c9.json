@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung neljapäev, 19.04.2018 13:00",
+  "sitting_time": "2018-04-19T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Arutelu naiste tugikeskuste teenustest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "18206220-aac8-4e6c-a005-a2e3b6de07ba"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5dc1de1e-d3ce-47e9-8b5a-68fe23e19ea0"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "19.04.2018 istungi protokoll",
+      "uuid": "caa2bdf5-bf0f-4d88-907b-15e72c4047ea",
+      "files": [
+        "19.04.2018 istungi protokoll.pdf",
+        "19.04.2018_istungi_protokoll.bdoc"
+      ]
+    }
+  ],
+  "uuid": "9903592e-8728-4dde-b626-f024b304d8c9",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9903592e-8728-4dde-b626-f024b304d8c9)",
+  "source": "https://api.riigikogu.ee/api/volumes/9903592e-8728-4dde-b626-f024b304d8c9",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2018-04-01&endDate=2018-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
