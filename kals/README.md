@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/128122017050> (version in force from 2018-01-01)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/120042018006> (version in force from 2018-05-01)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -15,6 +15,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/128122017050> (version in force 
 | [§ 6](para-006.md) | Kaitseliidu sõltumatus erakondadest |
 | [§ 7](para-007.md) | Kaitseliidu sümbolid, eraldusmärgid ja teenetemärgid |
 | [§ 8](para-008.md) | Vormiriietus |
+| [§ 8¹](para-008b1.md) | Kaitseliidu liikmete andmekogu |
 | **2. peatükk Ülesehitus ja juhtimine** | |
 | [§ 9](para-009.md) | Kaitseliidu ülesehitus |
 | [§ 10](para-010.md) | Sõjaväelise auastmega rahuaja ametikoht Kaitseliidus |
@@ -78,7 +79,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/128122017050> (version in force 
 | [§ 61](para-061.md) | Hüvitis Kaitseliidu liikme vigastada saamise ja hukkumise korral |
 | [§ 62](para-062.md) | Hüvitise taotlemine |
 | [§ 63](para-063.md) | Hüvitise väljamaksmine |
-| [§ 64](para-064.md) | Kaitseliidu tegevliikme ravikulu katmine |
+| [§ 64](para-064.md) | Kaitseliidu liikme ravikulu hüvitamine |
 | [§ 65](para-065.md) | Hukkunud Kaitseliidu liikme matusekulu kandmine |
 | [§ 66](para-066.md) | Hüvitise maksmist ja muu kulu katmist välistavad asjaolud |
 | [§ 67](para-067.md) | Teenistuskohustuse täitmisel tehtud kulu hüvitis ja päevaraha maksmine |

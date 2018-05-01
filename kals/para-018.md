@@ -42,7 +42,7 @@
 
 (6) Keskkogu koosolekust võtab hääleõigusega osa Kaitseliidu ülem või tema asendaja.
 
-(7) Keskkogu koosolekust võib sõnaõigusega osa võtta keskjuhatuse liige.
+(7) Keskkogu koosolekust võib sõnaõigusega osa võtta keskjuhatuse ja keskrevisjonikomisjoni liige.
 
 (8) Keskkogu valitav liige ja asendusliige valitakse kolmeks aastaks.
 

@@ -24,6 +24,8 @@
 
 2) puuduva töövõime korral – töövõime hindamise kuule eelnenud viimase Statistikaameti avaldatud keskmise brutokuupalga 96-kordses ulatuses.
 
+(4²) Noortejuhile, kellel on õppetegevuse korraldamise ajal saadud vigastus, mille tõttu on Eesti Töötukassa töövõimetoetuse seaduse alusel tuvastanud tal osalise või puuduva töövõime, maksab Kaitseliit riigieelarvest eraldatud rahalistest vahenditest ühekordset hüvitist Kaitseministeeriumi otsuse alusel käesoleva paragrahvi lõike 4¹ punktis 1 või 2 sätestatu kohaselt.
+
 (5) Kaitseliidu liikme hukkumise korral maksab Kaitseliit riigieelarvest eraldatud rahaliste vahendite arvelt ühekordset hüvitist hukkumise kuule eelnenud viimase Statistikaameti avaldatud keskmise brutokuupalga 150-kordses ulatuses.
 
 (6) 18-aastasel ja vanemal Kaitseliidu liikmel on õigus nimetada käesoleva paragrahvi lõikes 5 sätestatud hüvitisest kuni 50 protsenti saav füüsiline isik või isikud.

@@ -18,7 +18,9 @@
 
 7) asutada keskkogu või keskjuhatuse otsusel oma ülesannete täitmise toetamiseks eraõiguslik juriidiline isik või asuda selle liikmeks;
 
-8) kaasata isikuid väljastpoolt Kaitseliitu, sealhulgas välisriigist.
+8) kaasata isikuid väljastpoolt Kaitseliitu, sealhulgas välisriigist;
+
+9) osutada oma põhitegevusega seotud tasulisi teenuseid.
 
 (3) Kaitseliidul on õigus võtta laenu Vabariigi Valitsuse loal.
 

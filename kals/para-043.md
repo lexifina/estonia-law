@@ -14,6 +14,8 @@
 
 (3) Kaitseliidu relvaluba ei või väljastada tegevliikmele, kellele ei anta relvaseaduse kohaselt tsiviilkäibes oleva relva soetamisluba ja relvaluba.
 
+(3¹) Kaitseliidu relvaluba antakse kuni viieks aastaks.
+
 (4) Kaitseliidu relvaloa andmise ja väljastamise korra ning relvaloa vormi kehtestab
 
 määrusega.

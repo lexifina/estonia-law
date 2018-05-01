@@ -12,7 +12,9 @@
 
 2) sõidukulu;
 
-3) majutus- ja toitlustuskulu.
+3) majutus- ja toitlustuskulu;
+
+4) muu lähetusega seotud kulu.
 
 (5) Lepingu sõlminud tegevliiget võib kohustada Kaitseliidu tegevliikmeks olema kuni viis aastat. Lepingus võib ette näha täiendavaid tingimusi Kaitseliidu tegevuses osalemiseks.
 

@@ -4,6 +4,8 @@
 
 (2) Käesolevas seaduses ja selle alusel antud õigusaktides sätestatud nõuete täitmise õiguspärasuse üle teostab haldusjärelevalvet Kaitseministeerium.
 
+(2¹) Ravimiseaduses ning narkootiliste ja psühhotroopsete ainete ning nende lähteainete seaduses ja nende alusel antud õigusaktides sätestatud nõuete täitmise üle Kaitseliidus teostab haldusjärelevalvet Kaitsevägi.
+
 (3) Käesoleva seaduse alusel Kaitseväe juhataja kehtestatud nõuete täitmise üle teostab haldusjärelevalvet Kaitsevägi.
 
 (4) Haldusjärelevalve teostajal on õigus:

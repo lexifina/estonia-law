@@ -1,13 +1,15 @@
-# § 64. Kaitseliidu tegevliikme ravikulu katmine
+# § 64. Kaitseliidu liikme ravikulu hüvitamine
 
-(1) Kaitseliidu tegevliikmel, kes täitis käesoleva seaduse § 4 lõike 1 punktis 4 sätestatud ülesannet ja sai selle käigus vigastada, kaetakse vajaduse korral ravikulu piirmäära ulatuses.
+(1) Vajaduse korral hüvitatakse Kaitseliidu liikme ravikulu, kui ta on saanud teenistuskohustuse täitmisel vigastada:
 
-(2) Käesoleva paragrahvi lõikes 1 sätestatud ravikulu kaetakse juhul, kui vigastuse tekkimine on tuvastatud tervishoiuteenuse osutaja poolt vahetult pärast vigastuse tekkimist.
+1) käesoleva seaduse § 4 lõike 1 punktis 4 nimetatud ülesande täitmisel;
 
-(3) Kaitseväe arstlik komisjon koostab käesoleva seaduse § 4 lõike 1 punktis 4 sätestatud ülesande täitmise ajal vigastada saanud Kaitseliidu tegevliikmele raviplaani.
+2) Kaitseliidu koosseisus, kaasatuna käesoleva seaduse § 4 lõike 2 punktis 1, 2, 4, 6 või 7 nimetatud tegevusse;
 
-(4) Kaitseliidu tegevliikmele koostatud raviplaanis määratud ravikulu hüvitab piirmäära ulatuses Kaitseliit riigieelarvest eraldatud rahaliste vahendite arvelt.
+3) noortejuhina õppetegevuse korraldamise ajal.
 
-(5) Kaitseliidu tegevliikmele ravikulu hüvitamise tingimused, ulatuse, piirmäära ja korra kehtestab
+(2) Käesoleva paragrahvi lõikes 1 sätestatud juhtudel hüvitatakse Kaitseliidu liikme ravikulu piirmäära ulatuses Kaitseliidu eelarvest, kui Kaitseväe arstlik komisjon on tuvastanud, et Kaitseliidu liige vajab teenistuskohustuse täitmisel saadud vigastuse tõttu tervishoiuteenust, ravimit või meditsiiniseadet.
+
+(3) Kaitseliidu liikme ravikulu hüvitamise tingimused, piirmäära ja korra kehtestab
 
 määrusega.

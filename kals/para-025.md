@@ -6,17 +6,11 @@
 
 (3) Noorliikmeks ei võeta isikut:
 
-1) kelle terviseseisund ei vasta noorliikme tervisenõuetele;
-
 2) kellele on mõistetud vabadusekaotuslik karistus ja isiku andmed ei ole karistusregistrist karistusregistri seaduse kohaselt kustutatud;
 
 3) kellel puudub oma vanema või eestkostja nõusolek liikmeks astumise kohta;
 
 4) kes liikmeks astumisel teadvalt esitas valeandmeid.
-
-(4) Noorliikme tervisenõuded kehtestab
-
-määrusega.
 
 (5) Noorliikmele uue eestkostja määramisel peab uus eestkostja kirjalikult kinnitama oma nõusolekut eestkostetava liikmesuse jätkumise kohta.
 

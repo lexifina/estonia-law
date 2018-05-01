@@ -34,6 +34,8 @@
 
 7) riigikaitseobjektivastase ründe, riigipiiri või ajutise kontrolljoone ebaseadusliku ületamise ning kuritegude ennetamisse ja tõkestamisse korrakaitseseaduses sätestatud korras.
 
+(2¹) Käesoleva paragrahvi lõikes 1 nimetatud ülesandeid täites on tervishoiutöötajal õigus vajaduse korral osutada esmaabi oma pädevuse piires.
+
 (3) Kaitseliidu käesoleva paragrahvi lõike 2 punktides 4 ja 6 sätestatud ülesannete täitmisse kaasamise korra kehtestab
 
 määrusega.

@@ -50,12 +50,6 @@
 
 2) ebaseadusliku tegevuse aluseks oleva otsuse vastuvõtmisel on hääletanud vastu või kui ta ei osalenud otsustamises, kui mitteosalemine oli lubatud, või kui ta ei osalenud juhatuse koosolekul.
 
-(11) Keskkogu volitatud isik sõlmib valitud keskjuhatuse liikmega käsunduslepingu, kus määratakse poolte õigused, kohustused ja kulude hüvitamine.
-
-(12) Keskjuhatuse valitud liikmega sõlmitava käsunduslepinguga ettenähtud poolte õiguste ja kohustuste ulatuse ning hüvitatavate kulude loetelu ja piirmäära kehtestab
-
-määrusega.
-
 (13) Keskjuhatusse valitud Kaitseliidu liikme tööd ei tasustata.
 
 (14) Keskjuhatuse otsuse viib ellu Kaitseliidu ülem. Kui Kaitseliidu ülem ei nõustu keskjuhatuse otsusega, siis tuleb küsimus lõplikuks otsustamiseks arutusele keskkogu järgmisel koosolekul, mille otsus loetakse lõplikuks, kui esindatud on vähemalt kaks kolmandikku keskkogu liikmetest.

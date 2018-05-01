@@ -16,11 +16,11 @@
 
 (5) Tegevväelane, kes on Kaitseliidu ülema või struktuuriüksuse juhi ametikohal, on ülem karistusseadustiku tähenduses.
 
-(6) Kaitseliidus oleva tegevväelase rahuaja ametikoha ametijuhendi kehtestab Kaitseliidu ülem.
+(6) Kaitseliidus oleva tegevväelase rahuaja ametikoha ametijuhendi kehtestab Kaitseliidu ülem või tema volitatud struktuuriüksuse juht.
 
 (7) Kaitseliidu ülemale ametijuhendit ei kehtestata.
 
-(8) Tegevväelase lähetamise kaitseväeteenistuse seaduse § 114 lõikes 1 sätestatud juhul otsustab Kaitseliidu ülem.
+(8) Tegevväelase lähetamise kaitseväeteenistuse seaduse § 114 lõikes 1 sätestatud juhul otsustab Kaitseliidu ülem või tema volitatud struktuuriüksuse juht.
 
 (9) Kaitseliidus oleva tegevväelase võib ressursimahukale koolitusele saata Kaitseväe juhataja kirjalikul nõusolekul.
 
