@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 14.05.2018 13:00",
+  "sitting_time": "2018-05-14T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9fcf77a6-cf39-4b29-9fd9-bbd1c35fd0a8"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli kontrolliaruande tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dc97299b-ac9c-4cec-8ac8-950fd0193bfb"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2aa2dae0-7f0e-477e-8c3c-77801585f728"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 138",
+      "uuid": "7641b268-58de-43e7-869b-6c22a52dae34",
+      "files": [
+        "Protokoll nr 138. 14.05.2018.pdf",
+        "Protokoll_138.bdoc"
+      ]
+    }
+  ],
+  "uuid": "0a99b2df-6bae-4aca-afa5-bb2a394f6a90",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0a99b2df-6bae-4aca-afa5-bb2a394f6a90)",
+  "source": "https://api.riigikogu.ee/api/volumes/0a99b2df-6bae-4aca-afa5-bb2a394f6a90",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2018-05-01&endDate=2018-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
