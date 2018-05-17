@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung neljapäev, 17.05.2018 14:00",
+  "sitting_time": "2018-05-17T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Tervishoiuteenuste korraldamise seaduse ja ravikindlustuse seaduse muutmise seaduse eelnõu (626 SE) ettevalmistamine teiseks lugemiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ebc1535c-f6bb-44d8-acda-3863e0eb3abb"
+    },
+    {
+      "order": 2,
+      "title": "Töölepingu seaduse ning perehüvitiste seaduse muutmise ja sellega seonduvalt teiste seaduste muutmise seaduse muutmise seaduse eelnõu (596 SE) ettevalmistamine teiseks lugemiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bd1595ec-bcac-4853-9cb7-b0ad184259d4"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "17.05.2018 istungi protokoll",
+      "uuid": "090a7bea-6de6-4b5f-a3f4-c5825b346f69",
+      "files": [
+        "17.05.2018 istungi protokoll.pdf"
+      ]
+    }
+  ],
+  "uuid": "afe10d88-c81f-4d69-a675-0a1143983d4d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid afe10d88-c81f-4d69-a675-0a1143983d4d)",
+  "source": "https://api.riigikogu.ee/api/volumes/afe10d88-c81f-4d69-a675-0a1143983d4d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2018-05-01&endDate=2018-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
