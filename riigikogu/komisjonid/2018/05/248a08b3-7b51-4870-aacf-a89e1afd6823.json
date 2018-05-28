@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 28.05.2018 11:10",
+  "sitting_time": "2018-05-28T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "34d4e8f4-8835-4745-8f12-8b73b38eefd6"
+    },
+    {
+      "order": 2,
+      "title": "Ühistranspordi kulude hüvitamine kui erisoodustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "43665518-127a-4ada-bdd9-46044ed6a8c3"
+    },
+    {
+      "order": 3,
+      "title": "Organisatsioonilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b8297730-19b4-4a18-a994-902f2fd02e91"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "661715b1-3286-4d1c-8ea5-9f6881457687",
+      "files": [
+        "Protokoll.bdoc",
+        "Protokol_20180605.pdf"
+      ]
+    }
+  ],
+  "uuid": "248a08b3-7b51-4870-aacf-a89e1afd6823",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 248a08b3-7b51-4870-aacf-a89e1afd6823)",
+  "source": "https://api.riigikogu.ee/api/volumes/248a08b3-7b51-4870-aacf-a89e1afd6823",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2018-05-01&endDate=2018-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
