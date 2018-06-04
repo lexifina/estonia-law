@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Korruptsioonivastane erikomisjon",
+  "committee_uuid": "e4f2977a-e8c3-4fa0-8f3d-9df9acd6377f",
+  "title": "Komisjoni istung esmaspäev, 4.06.2018 13:30",
+  "sitting_time": "2018-06-04T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Majandus- ja Kommunikatsiooniministeeriumi esindajaga",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6bb79611-5d0b-49fc-b19e-87a1617631e8"
+    },
+    {
+      "order": 2,
+      "title": "Komisjonile laekunud avaldusest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3816695b-e3f5-4ff5-9886-3ca946392678"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "138546c6-e372-4c84-b6ca-9046fe850231",
+      "files": [
+        "2018_4_06 Protokoll nr 102.pdf"
+      ]
+    }
+  ],
+  "uuid": "0f3b7799-007b-4e19-8ace-3d70fd2f4d0b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0f3b7799-007b-4e19-8ace-3d70fd2f4d0b)",
+  "source": "https://api.riigikogu.ee/api/volumes/0f3b7799-007b-4e19-8ace-3d70fd2f4d0b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2018-06-01&endDate=2018-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
