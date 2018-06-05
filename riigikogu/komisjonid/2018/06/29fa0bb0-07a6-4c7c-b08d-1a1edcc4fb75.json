@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung teisipäev, 5.06.2018 14:00",
+  "sitting_time": "2018-06-05T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a406d834-f925-4812-8061-3ead68b844ff"
+    },
+    {
+      "order": 2,
+      "title": "Linnahalli renoveerimisest ja rahvusooperi uue saali kavandamisest - arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f5392568-0c90-4d2f-ac89-8742301fc95b"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "204def32-7e67-42fb-9ca0-7069cb6d2634"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "ebb98aca-5b98-4064-ae84-94a4b3815d60",
+      "files": [
+        "Protokoll.bdoc",
+        "Prot 195 (05.06.2018).pdf"
+      ]
+    }
+  ],
+  "uuid": "29fa0bb0-07a6-4c7c-b08d-1a1edcc4fb75",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 29fa0bb0-07a6-4c7c-b08d-1a1edcc4fb75)",
+  "source": "https://api.riigikogu.ee/api/volumes/29fa0bb0-07a6-4c7c-b08d-1a1edcc4fb75",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2018-06-01&endDate=2018-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
