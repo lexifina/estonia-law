@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 5.06.2018 14:00",
+  "sitting_time": "2018-06-05T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad Euroopa Liidu määruse toiduahela riskihindamise läbipaistvuse ja kestlikkuse kohta.  Arvamuse andmine ELAKile",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e1c9e7e4-c9c2-478e-b225-2abe036042d6"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad Euroopa Parlamendi ja nõukogu direktiivi, milles käsitletakse toiduainete tarneahelas ettevõtjatevahelistes suhetes esinevaid ebaausaid kaubandustavasid, eelnõu kohta. Arvamuse andmine ELAKile",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "29c75f59-cc84-4c78-8fe6-1dd997ed6f3a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "60fc3569-b608-4398-bfe9-21a7298bc123",
+      "files": [
+        "Protokoll.bdoc",
+        "Protokol_20180613.pdf"
+      ]
+    }
+  ],
+  "uuid": "d85f7993-a2dd-471d-bcfd-48052150df75",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d85f7993-a2dd-471d-bcfd-48052150df75)",
+  "source": "https://api.riigikogu.ee/api/volumes/d85f7993-a2dd-471d-bcfd-48052150df75",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2018-06-01&endDate=2018-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
