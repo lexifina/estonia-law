@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni väljasõiduistung esmaspäev, 11.06.2018 13:00",
+  "sitting_time": "2018-06-11T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0a14dd23-be38-4a01-9aea-ef9c6843a736"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli arvamuse „NATO Küberkaitsekoostöö Keskuse 2016. ja 2017. aasta raamatupidamise aastaaruande kohta“ arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0e102cce-aebd-4d74-8d8e-8b54152d133d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 145",
+      "uuid": "c1cee1ac-3ab1-48c6-a153-92a2f04d3fad",
+      "files": [
+        "Protokoll_145.bdoc",
+        "Protokoll nr 145. 11.06.2018.pdf"
+      ]
+    }
+  ],
+  "uuid": "2c7ccafe-da29-45e0-993e-7100fa91059a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2c7ccafe-da29-45e0-993e-7100fa91059a)",
+  "source": "https://api.riigikogu.ee/api/volumes/2c7ccafe-da29-45e0-993e-7100fa91059a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2018-06-01&endDate=2018-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
