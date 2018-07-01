@@ -6,9 +6,13 @@ karistatakse rahalise karistuse või kuni viieaastase vangistusega.
 
 (2) Sama teo eest, kui:
 
-1) see on toime pandud vähemalt teist korda või
+1) see on toime pandud vähemalt teist korda;
 
-2) teo objektiks on olnud lõhkeaine suures koguses, –
+2) teo objektiks on olnud lõhkeaine suures koguses;
+
+3) sellega on põhjustatud oht paljude inimeste elule või tervisele või
+
+4) kaasnes oht Eesti Vabariigi julgeolekule, sõltumatusele või territoriaalsele terviklikkusele, –
 
 karistatakse kahe- kuni kümneaastase vangistusega.
 

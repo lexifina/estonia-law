@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/130122017029> (version in force from 2018-01-03)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/129062018065> (version in force from 2018-07-01)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -624,18 +624,20 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/130122017029> (version in force 
 | **4. jagu Lõhkematerjaliga seotud süüteod** | |
 | [§ 413](para-413.md) | Lõhkeseadeldis |
 | [§ 414](para-414.md) | Lõhkeaine ebaseaduslik käitlemine |
-| [§ 415](para-415.md) | Lõhkeseadeldise ja selle olulise osa ebaseaduslik käitlemine |
+| [§ 415](para-415.md) | Lõhkeseadeldise, lahingumoona ja nende olulise osa ebaseaduslik käitlemine |
 | [§ 416](para-416.md) | Lõhkematerjali käitlemise nõuete rikkumine |
 | [§ 417](para-417.md) | Konfiskeerimise kohaldamine |
 | **5. jagu Tulirelva ja laskemoonaga seotud süüteod** | |
 | [§ 418](para-418.md) | Tulirelva, selle olulise osa ja laskemoona ebaseaduslik käitlemine |
 | [§ 418¹](para-418b1.md) | Tsiviilkäibes keelatud tulirelva, selle olulise osa ja laskemoona ebaseaduslik käitlemine |
+| [§ 418²](para-418b2.md) | Sõjarelva, selle olulise osa ja sõjalise otstarbega laskemoona ebaseaduslik käitlemine |
 | [§ 419](para-419.md) | Tulirelva lohakas hoidmine |
 | [§ 420](para-420.md) | Tulirelva helisummuti, laser- ja öösihiku ebaseaduslik käitlemine |
 | [§ 421](para-421.md) | Konfiskeerimise kohaldamine |
 | **6. jagu Strateegilise kaubaga seotud süüteod** | |
 | [§ 421¹](para-421b1.md) | Strateegilise kauba ebaseaduslik vedu ja strateegilise kaubaga seotud teenuse ebaseaduslik osutamine |
 | [§ 421²](para-421b2.md) | Keelatud strateegilise kauba vedu ja keelatud strateegilise kaubaga seotud teenuse osutamine |
+| [§ 421³](para-421b3.md) | Demilitariseeritud sõjalise kauba ebaseaduslik käitlemine |
 | **23. peatükk LIIKLUSSÜÜTEOD** | |
 | [§ 422](para-422.md) | Sõidukijuhi poolt liiklusnõuete ja sõiduki käitusnõuete rikkumine |
 | [§ 423](para-423.md) | Sõidukijuhi poolt liiklusnõuete ja sõiduki käitusnõuete rikkumine ettevaatamatusest |
