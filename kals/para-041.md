@@ -4,6 +4,6 @@
 
 (2) Kaitseliidu relvale kohaldub lisaks käesolevas seaduses sätestatule relvaseaduse 1. peatükk ning 2. peatüki §-d 11–17, 20¹ ja 21.
 
-(3) Kaitseliidu relv kantakse Kaitseväe ja Kaitseliidu relvaregistrisse.
+(3) Kaitseliidu relv kantakse sõjaväerelvade registrisse.
 
-(4) Kaitseliidu relv, mis on soetatud kasutamiseks sportimisel, õppetöös või kollektsioneerimiseks, ei ole relvaseaduse tähenduses sõjaväerelv.
+(4) Kaitseliidu relv, mis on soetatud kasutamiseks sportimisel, õppetöös või kollektsioneerimiseks, ei ole relvaseaduse tähenduses sõjarelv.

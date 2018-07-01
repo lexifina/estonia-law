@@ -6,8 +6,8 @@
 
 (3) Tegevliikme relva käitlemise õiguse lõppemisel on relva omanikul õigus jätta relv tsiviilrelvana isiklikku omandisse relvaseaduses sätestatud tingimustel.
 
-(4) Tegevliikme relva käitlemise õiguse lõppemisel ja pärast relva kandmist teenistus- ja tsiviilrelvade registrisse kustutatakse isiklikku omandisse jäetud tegevliikme relv Kaitseväe ja Kaitseliidu relvaregistrist.
+(4) Tegevliikme relva käitlemise õiguse lõppemisel ja pärast relva kandmist teenistus- ja tsiviilrelvade registrisse kustutatakse isiklikku omandisse jäetud tegevliikme relv sõjaväerelvade registrist.
 
 (5) Kaitseliidul on õigus relv võõrandada Kaitseliidule relvaseaduse relva ja laskemoona sundvõõrandamise sätete alusel, kui isik ei soovi tegevliikme relva tsiviilrelvana isiklikku omandisse jätta või relva tsiviilkäive ei ole lubatud.
 
-(6) Kaitseliit teavitab Politsei- ja Piirivalveametit tsiviilrelvana isiklikku omandisse jäetud relva kustutamisest Kaitseväe ja Kaitseliidu relvaregistrist.
+(6) Kaitseliit teavitab Politsei- ja Piirivalveametit tsiviilrelvana isiklikku omandisse jäetud relva kustutamisest sõjaväerelvade registrist.

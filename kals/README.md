@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/120042018006> (version in force from 2018-05-01)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/129062018061> (version in force from 2018-07-01)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -64,7 +64,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/120042018006> (version in force 
 | [§ 49](para-049.md) | Tegevliikme relva käitlemise õiguse lõppemine |
 | [§ 50](para-050.md) | Kaitseliidu relva andmine au- ja toetajaliikmele |
 | [§ 51](para-051.md) | Kaitseliidu relva andmine 12-aastasele ja vanemale noorliikmele |
-| [§ 52](para-052.md) | Teenistus- ja tsiviilrelvade riiklikusse registrisse kantud tulirelva kasutamine |
+| [§ 52](para-052.md) | Teenistus- ja tsiviilrelvade registrisse kantud tulirelva kasutamine |
 | **6. peatükk Liikme vastutus** | |
 | [§ 53](para-053.md) | Liikme vastutus |
 | [§ 54](para-054.md) | Ergutused |
@@ -117,7 +117,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/120042018006> (version in force 
 | [§ 91](para-091.md) | Relvaeksami sooritamise võrdsustamine Kaitseliidu relva käitlemise ja kasutamise koolitusega |
 | [§ 92](para-092.md) | Relva kandmise õigust tõendava dokumendi asendamine Kaitseliidu relvaloaga |
 | [§ 93](para-093.md) | Tervisetõendi esitamine |
-| [§ 94](para-094.md) | Isikliku sõjaväerelva arvestamine tegevliikme relvana |
+| [§ 94](para-094.md) | Isikliku sõjarelva arvestamine tegevliikme relvana |
 | [§ 95](para-095.md) | Varasema distsiplinaarkaristuse kehtivus |
 | [§ 96](para-096.md) | Varasema distsiplinaarsüüteo eest karistuse määramine |
 | [§ 97](para-097.md) | Toetuse maksmine Kaitseliidu liikme mittesüülise invaliidistumise ja hukkumise korral |

@@ -1,3 +1,3 @@
-# § 94. Isikliku sõjaväerelva arvestamine tegevliikme relvana
+# § 94. Isikliku sõjarelva arvestamine tegevliikme relvana
 
-Enne käesoleva seaduse jõustumist Kaitseliidu tegevliikme soetatud isiklik sõjaväerelv loetakse käesoleva seaduse jõustumisel tegevliikme relvaks.
+Enne käesoleva seaduse jõustumist Kaitseliidu tegevliikme soetatud isiklik sõjarelv loetakse käesoleva seaduse jõustumisel tegevliikme relvaks.

@@ -30,4 +30,4 @@ määrusega.
 
 määrusega.
 
-(9) Käesoleva paragrahvi lõikes 5 sätestatud tervisekontroll tehakse ja tervisetõend väljastatakse Kaitseliidu kulul, kui Kaitseliit on tegevliikmele andnud sõjaväerelva tema elukohas hoidmiseks.
+(9) Käesoleva paragrahvi lõikes 5 sätestatud tervisekontroll tehakse ja tervisetõend väljastatakse Kaitseliidu kulul, kui Kaitseliit on tegevliikmele andnud sõjarelva tema elukohas hoidmiseks.

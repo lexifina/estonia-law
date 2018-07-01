@@ -14,7 +14,7 @@
 
 5) Kaitseliidust väljaheitmine.
 
-(3) Distsiplinaarkaristusena Kaitseliidu liikmesuse peatamisel on Kaitseliidu liikmel keelatud kanda ja kasutada Kaitseliidu relva. Kaitseliidu tegevliikme valdusesse antud enesekaitsevahend, erivahend, laskemoon, Kaitseväe ja Kaitseliidu relvaregistrisse kantud tulirelv ning muu Kaitseliidu vara tuleb liikmesuse peatamise ajaks tagastada Kaitseliidule.
+(3) Distsiplinaarkaristusena Kaitseliidu liikmesuse peatamisel on Kaitseliidu liikmel keelatud kanda ja kasutada Kaitseliidu relva. Kaitseliidu tegevliikme valdusesse antud enesekaitsevahend, erivahend, laskemoon, sõjaväerelvade registrisse kantud tulirelv ning muu Kaitseliidu vara tuleb liikmesuse peatamise ajaks tagastada Kaitseliidule.
 
 (4) Distsiplinaarkaristuse määramisel tuleb arvestada muu hulgas distsiplinaarsüüteo raskust, menetletava asja olemust ja Kaitseliidu liikme varasemaid karistusi.
 

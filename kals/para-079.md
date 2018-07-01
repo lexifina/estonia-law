@@ -24,7 +24,7 @@
 
 (3) Kaitseliidul on õigus võtta laenu Vabariigi Valitsuse loal.
 
-(4) Kaitseliidul on õigus käesoleva seaduse paragrahvi 4 lõike 1 punktides 4–7 sätestatud ülesannete täitmiseks tasuta ajutiselt kasutada Kaitseväe harjutusvälju, lasketiire, sõjaväerelvi, lahingutehnikat ja vajalikke ehitisi. Kasutamine kooskõlastatakse Kaitseväega.
+(4) Kaitseliidul on õigus käesoleva seaduse paragrahvi 4 lõike 1 punktides 4–7 sätestatud ülesannete täitmiseks tasuta ajutiselt kasutada Kaitseväe harjutusvälju, lasketiire, sõjarelvi, lahingutehnikat ja vajalikke ehitisi. Kasutamine kooskõlastatakse Kaitseväega.
 
 (5) Kaitseliidul ei ole õigust:
 

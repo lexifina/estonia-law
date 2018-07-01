@@ -2,7 +2,7 @@
 
 (1) Valvuril on õigus tööülesande täitmisel kanda tuli-, külm- ja gaasirelva ning erivahendit ja enesekaitsevahendit. Tuli-, külm- ja gaasirelva käitlemine toimub relvaseaduses ja selle alusel antud õigusaktides sätestatud korras, kui käesolevas seaduses ei ole sätestatud teisiti.
 
-(2) Tulirelv käesoleva peatüki tähenduses on püstol, revolver, püss ja automaattulirelv. Tulirelvana võib kasutada ainult sõjaväerelva.
+(2) Tulirelv käesoleva peatüki tähenduses on püstol, revolver, püss ja automaattulirelv. Tulirelvana võib kasutada ainult sõjarelva.
 
 (3) Külmrelv käesoleva peatüki tähenduses on kumminui ja teleskoopnui.
 
