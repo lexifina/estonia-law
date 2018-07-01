@@ -1,19 +1,15 @@
 # § 6. Reisiettevõtja tegevusalade liigitus
 
-(1) Reisiettevõtja tegevusalad liigitatakse järgmiselt:
+Reisiettevõtja tegevusalad liigitatakse järgmiselt:
 
-1) Eestis osutatavaid reisiteenuseid sisaldavate pakettreiside müügiks pakkumine ja müük väljaspool Eestit;
+1) Eestis osutatavaid reisiteenuseid sisaldavate pakettreiside korraldamine;
 
-2) Eestis osutatavaid reisiteenuseid sisaldavate pakettreiside müügiks pakkumine ja müük;
+2) väljaspool Eestit osutatavaid reisiteenuseid ja tellimuslendu sisaldavate pakettreiside korraldamine;
 
-3) väljaspool Eestit osutatavaid reisiteenuseid ning tellimus- või liinilendu sisaldavate pakettreiside koostamine, nende müügiks pakkumine ja müük;
+3) väljaspool Eestit osutatavaid reisiteenuseid ja liinilendu sisaldavate pakettreiside korraldamine;
 
-4) väljaspool Eestit osutatavaid reisiteenuseid, välja arvatud tellimus- või liinilendu, sisaldavate pakettreiside koostamine, nende müügiks pakkumine ja müük;
+4) väljaspool Eestit osutatavaid reisiteenuseid, välja arvatud tellimus- või liinilendu, sisaldavate pakettreiside korraldamine;
 
-5) väljaspool Eestit osutatavaid reisiteenuseid sisaldavate Euroopa Majanduspiirkonna välise riigi reisiettevõtja pakettreiside müügiks pakkumine ja müük;
+5) Euroopa Majanduspiirkonna välise riigi reisiettevõtja koostatud pakettreiside vahendamine;
 
-6) väljaspool Eestit osutatavaid reisiteenuseid sisaldavate Euroopa Majanduspiirkonna teise lepinguriigi reisiettevõtja koostatud pakettreiside müügiks pakkumine ja müük;
-
-7) väljaspool Eestit osutatavaid reisiteenuseid sisaldavate teise reisiettevõtja koostatud pakettreiside müügiks pakkumine ja müük.
-
-(2) Reisiettevõtja võib käesoleva paragrahvi lõikes 1 sätestatud tegevusaladel tegutsemisel pakkuda müügiks ja müüa ka üksikuid reisiteenuseid.
+6) seotud reisikorraldusteenuste pakkumine ja lepingute sõlmimise hõlbustamine.

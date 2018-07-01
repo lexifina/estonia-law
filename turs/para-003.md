@@ -1,27 +1,11 @@
 # § 3. Reisiteenus
 
-Käesoleva seaduse tähenduses on reisiteenus reisiettevõtja poolt:
+Reisiteenus on:
 
-1) sõitjateveoteenuse osutamine, välja arvatud taksoteenus;
+1) reisijavedu;
 
-2) sõitjateveoteenuse vahendamine;
+2) majutus, mis ei ole olemuslikult reisijaveo osa või mõeldud elukoha tagamiseks;
 
-3) viisateenuse osutamine ja vahendamine;
+3) auto, muu mootorsõiduki Euroopa Parlamendi ja nõukogu direktiivi 2007/46/EÜ, millega kehtestatakse raamistik mootorsõidukite ja nende haagiste ning selliste sõidukite jaoks mõeldud süsteemide, osade ja eraldi seadmestike kinnituse kohta (ELT L 263, 09.10.2007, lk 1–160), artikli 3 lõike 11 tähenduses või Euroopa Parlamendi ja nõukogu direktiivi 2006/126/EÜ juhilubade kohta (ELT L 403, 30.12.2006, lk 18–60) artikli 4 lõike 3 punkti c alusel A-kategooria juhiluba nõudva mootorratta üürimine;
 
-4) reisimisega seotud kindlustusteenuse vahendamine;
-
-5) majutusteenuse vahendamine;
-
-6) toitlustusteenuse vahendamine;
-
-7) majutus- ja toitlustusteenuse vahendamine;
-
-8) majutus- ja taastusraviteenuse vahendamine;
-
-9) konverentsiteenuse vahendamine;
-
-10) giiditeenuse, giid-tõlgiteenuse ja reisisaatjateenuse vahendamine;
-
-11) meelelahutusteenuse vahendamine;
-
-12) transpordivahendi renditeenuse osutamine või vahendamine.
+4) muu turismiteenus, mis ei ole olemuslikult käesoleva paragrahvi punktides 1–3 nimetatud teenuse osa.

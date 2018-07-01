@@ -1,23 +1,29 @@
 # § 7. Pakettreis
 
-(1) Pakettreis on reisikorraldaja poolt ühtse hinna eest pakutav, eelnevalt kindlaks määratud ja vähemalt 24 tunni jooksul osutatav vähemalt kahe järgmise reisiteenuse kogum:
+(1) Pakettreis on vähemalt kahe eri liiki reisiteenuse kogum samaks reisiks, kui reisiteenuste kogumi on pannud kokku üks reisikorraldaja, sealhulgas reisija soovil või valikul, enne ühe lepingu sõlmimist kõikide reisiteenuste kohta.
 
-1) sõitjateveoteenus;
+(2) Pakettreis on ka vähemalt kahe eri liiki reisiteenuse kogum samaks reisiks, kui olenemata eraldi lepingute sõlmimisest üksikute reisiteenuste osutajatega:
 
-2) majutusteenus;
+1) reisija valib reisiteenused ühest müügikohast enne, kui annab nõusoleku maksmise kohta;
 
-3) muu reisiteenus, mis ei ole sõitjateveo- või majutusteenuse kõrvalteenus ja mis moodustab reisiteenuste kogumist olulise osa.
+2) reisikorraldaja teeb pakkumise, sõlmib lepingu või võtab nende teenuste eest tasu ühtse või koguhinna alusel;
 
-(2) Pakettreis on ka reisiteenuste kogum, mida osutatakse vähem kui 24 tunni jooksul, kuid mis sisaldab majutusteenust.
+3) reisikorraldaja reklaamib, teeb pakkumise või sõlmib lepingu, kasutades nimetust „pakettreis” või sellesarnast nimetust;
 
-(3) Reisiteenuste kogum loetakse eelnevalt kindlaks määratuks, kui see on sellisena määratud reisiettevõtja algatusel või reisija tahteavalduse kohaselt reisiettevõtja poolt kogumina pakutud ning milles on pooled lepingu sõlmimise käigus kokku leppinud.
+4) reisikorraldaja paneb reisiteenuste kogumi kokku pärast sellise lepingu sõlmimist, milles ta annab reisijale õiguse valida teenused eri liiki reisiteenuste seast või
 
-(4) Pakettreisiks ei loeta:
+5) reisija valib reisiteenused eri ettevõtjatelt omavahel seotud internetipõhiste broneerimistoimingutega, kui ettevõtja, kellega sõlmitakse esimene leping, annab reisija nime, makse tegemiseks vajalikud andmed ja e-posti aadressi edasi teisele ettevõtjale ning leping teise ettevõtjaga sõlmitakse 24 tunni jooksul pärast esimese reisiteenuse broneeringu kinnitamist.
 
-1) regulaarset sõitjatevedu teostavas transpordivahendis samaaegselt sõitjateveoteenusega pakutavat majutus- ja toitlustusteenust;
+(3) Pakettreisiks ei loeta reisiteenuste kogumit, mille korral on ainult ühte liiki käesoleva seaduse § 3 punktides 1–3 nimetatud reisiteenus pandud kokku ühe või mitme sama paragrahvi punktis 4 nimetatud muu turismiteenusega, kui viimati nimetatud teenus või teenused:
 
-2) reisiteenuste kogumit, mis on moodustatud reisija valitud üksikutest reisiteenustest, mida reisiettevõtja pakub müügiks ja müüb eraldi, sealhulgas ka juhul, kui selle moodustamisel on kasutatud elektroonilisi müügisüsteeme või muid reisiettevõtja pakutud võimalusi.
+1) ei moodusta vähemalt 25 protsenti reisiteenuste koguväärtusest ning kui neid ei reklaamita reisiteenuste kogumi olulise tunnusena või kui need ei ole muul viisil reisiteenuste kogumi oluliseks tunnuseks või
 
-(5) Reisiettevõtja peab teise reisiettevõtja koostatud pakettreisi müügiks pakkumisel ja müügil andma tarbijale teavet pakettreisi koostanud reisiettevõtja kohta, milles peab sisalduma vähemalt selle reisiettevõtja nimi, majandustegevuse registreerimise number, aadress ja muud kontaktandmed. Euroopa Majanduspiirkonna välise riigi või Euroopa Majanduspiirkonna teise lepinguriigi reisiettevõtja koostatud pakettreiside müügiks pakkumisel ja müügil annab reisiettevõtja majandustegevuse registreerimise numbri asemel selle reisiettevõtja asukohariigi asjakohase identifitseerimistunnuse (registrikood ja vastava registri nimi).
+2) valitakse ja nende osutamises lepitakse kokku alles pärast käesoleva seaduse § 3 punktides 1–3 nimetatud reisiteenuse osutamise algust.
 
-(6) Pakettreisi kirjeldus või muud tarbijale edastatavad lepingutingimused peavad vastama võlaõigusseaduses sätestatule.
+(4) Pakettreisiks ei loeta regulaarset reisijavedu teostavas transpordivahendis samal ajal reisijaveoga pakutavat majutus- ja toitlustusteenust, kui põhiteenus on reisijavedu.
+
+(5) Müügikoht on ettevõtja äriruum, veebileht või muu selline veebiplatvorm ja telefon. Kui veebilehti või muid selliseid veebiplatvorme esitletakse reisijale ühtse platvormina, on tegemist ühe müügikohaga.
+
+(6) Reisija on isik, kes soovib sõlmida pakettreisilepingu või seotud reisikorraldusteenuste lepingu või kellel on õigus reisida eelnimetatud lepingu alusel.
+
+(7) Reisiettevõtja peab teise reisiettevõtja koostatud pakettreisi pakkumisel avaldama pakettreisi koostanud ettevõtja kohta teabe, milles peavad sisalduma vähemalt selle reisiettevõtja nimi, aadress ja muud kontaktandmed.

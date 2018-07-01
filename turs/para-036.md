@@ -27,3 +27,7 @@
 (13) Enne 2010. aasta 1. juunit majandustegevuse registris registreeritud reisiettevõtjad, kes pakuvad müügiks ja müüvad teise reisiettevõtja koostatud pakettreise, on kohustatud tegevuse jätkamisel kandma majandustegevuse registrisse hiljemalt 2010. aasta 1. augustiks andmed pakettreisid koostanud reisiettevõtja või reisiettevõtjate kohta, sealhulgas nimi, registreeringu number, aadress ja muud kontaktandmed. Euroopa Majanduspiirkonna välise riigi või Euroopa Majanduspiirkonna teise lepinguriigi reisiettevõtja koostatud pakettreiside müügiks pakkumisel ja müügil asendatakse registri registreeringu number selle reisiettevõtja asukohariigi asjakohase identifitseerimistunnusega (registrikood ja vastava registri nimi).
 
 (14) Käesoleva seaduse § 8 lõiget 3 kohaldatakse alates 2016. aasta 1. juulist.
+
+(15) Enne 2018. aasta 1. juulit majandustegevuse registris registreeritud reisiettevõtja peab majandustegevuse registris oma majandustegevuse andmed viima vastavusse käesoleva seaduse nõuetega 2018. aasta 30. septembriks.
+
+(16) Enne 2018. aasta 1. juulit väljastatud tagatise suhtes kohaldatakse tagatise andmisel kehtinud turismiseaduse redaktsioonist tulenevaid nõudeid kuni tagatise kehtivuse lõpuni, kuid kõige kauem 2018. aasta 30. septembrini.

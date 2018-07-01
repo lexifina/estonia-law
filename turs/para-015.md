@@ -1,55 +1,33 @@
-# § 15. Tagatis
+# § 15. Tagatise kohustus
 
-(1) Reisiettevõtja on kohustatud tõendama tagatise olemasolu piisavate rahaliste vahendite näol:
+(1) Reisikorraldajal peab olema tagatis käesoleva paragrahvi lõikes 3 loetletud kohustuste täitmiseks juhuks, kui ta ei suuda oma maksevõime tõttu pakettreisilepingust tulenevat kohustust täita. Seotud reisikorraldusteenuste lepingute sõlmimist hõlbustaval ettevõtjal peab olema tagatis käesoleva paragrahvi lõikes 4 loetletud kohustuste täitmiseks juhuks, kui seotud reisikorraldusteenuste osaks olev reisiteenus jääb osutamata tema maksevõime tõttu.
 
-1) reisija naasmiseks reisi lähtepunkti, kui pakettreisileping sisaldab sõitjateveo teenust;
+(2) Tagatise kohustus on Eestis asutatud reisiettevõtjal ning reisiettevõtjal, kes on asutatud Euroopa Majanduspiirkonna välises riigis, kuid kes pakub pakettreise või seotud reisikorraldusteenuseid või sõlmib pakettreisilepinguid või tegutseb seotud reisikorraldusteenuste lepingute sõlmimist hõlbustava ettevõtjana Eestis või suunab oma tegevuse mis tahes viisil Eestisse. Euroopa Majanduspiirkonna teises lepinguriigis asutatud reisiettevõtjal, kes pakub pakettreise või seotud reisikorraldusteenuseid või sõlmib pakettreisilepinguid või tegutseb seotud reisikorraldusteenuste lepingute sõlmimist hõlbustava ettevõtjana Eestis, on tagatise kohustus oma asutamise riigi nõuete kohaselt.
 
-2) reisija majutamiseks kuni reisi lähtepunkti naasmiseni;
+(3) Reisikorraldaja peab omama piisavat rahalist tagatist:
 
-3) reisitasu tagastamiseks tarbijale pakettreisi ärajäämise korral või hüvitise tasumiseks pakettreisi ärajäänud osa eest;
+1) reisija naasmiseks reisi lähtekohta või teise kokkulepitud kohta, kui pakettreisileping sisaldab reisijavedu;
 
-4) tarbijale tasu tagastamiseks lunastamata pakettreiside kinkekaartide eest.
+2) reisija majutamiseks kuni naasmiseni reisi lähtekohta või teise kokkulepitud kohta;
 
-(2) Tagatis võib olla ka Eestis või Euroopa Majanduspiirkonna teises lepinguriigis asuva kindlustusseltsi või krediidiasutuse võetud kohustus tagada rahaliste vahendite olemasolu reisijate käesoleva paragrahvi lõikes 1 loetletud nõuete täitmiseks reisiettevõtja vastu juhul, kui reisiettevõtja ei suuda täita pakettreisilepingust tulenevaid kohustusi.
+3) reisija nimel pakettreisilepingu alusel tasutud maksete tagastamiseks reisijale pakettreisi ärajäämise korral või hüvitise tasumiseks pakettreisi ärajäänud osa eest;
 
-(3) Reisiettevõtja tagatis peab olema piisav käesoleva paragrahvi lõikes 1 nimetatud kohustuste täitmiseks. Lähtuvalt käesoleva seaduse §-s 6 sätestatud tegevusaladest peab tagatis olema § 6 lõike 1:
+4) reisijale tasu tagastamiseks lunastamata pakettreisi kinkekaardi eest.
 
-1) punktis 2 nimetatud tegevusala puhul vähemalt 3 protsenti reisiettevõtja planeeritavast aastasest pakettreiside kogumüügist, kuid mitte vähem kui 1300 eurot;
+(4) Seotud reisikorraldusteenuste lepingute sõlmimist hõlbustav ettevõtja peab omama piisavat rahalist tagatist:
 
-2) punktides 3 ja 5 nimetatud tegevusalade puhul vähemalt 7 protsenti reisiettevõtja planeeritavast aastasest pakettreiside kogumüügist, kuid mitte vähem kui 32 000 eurot;
+1) reisija nimel seotud reisikorraldusteenuste lepingute sõlmimist hõlbustavale ettevõtjale seotud reisikorraldusteenuste eest tasutud maksete tagastamiseks reisijale seotud reisikorraldusteenuste osaks oleva reisiteenuse osutamata jätmise korral või hüvitise tasumiseks reisiteenuse ärajäänud osa eest;
 
-3) punktis 4 nimetatud tegevusala puhul vähemalt 7 protsenti reisiettevõtja planeeritavast aastasest pakettreiside kogumüügist, kuid mitte vähem kui 13 000 eurot;
+2) reisija naasmiseks reisi lähtekohta või teise kokkulepitud kohta, kui seotud reisikorraldusteenused hõlmavad reisijavedu ja seotud reisikorraldusteenuste lepingute sõlmimist hõlbustav ettevõtja on reisijaveo eest vastutav;
 
-4) punktis 6 nimetatud tegevusala puhul vähemalt 3 protsenti reisiettevõtja planeeritavast aastasest pakettreiside kogumüügist, kuid mitte vähem kui 13 000 eurot;
+3) reisija majutamiseks kuni naasmiseni reisi lähtekohta või teise kokkulepitud kohta, kui seotud reisikorraldusteenused hõlmavad reisijavedu ja seotud reisikorraldusteenuste lepingute sõlmimist hõlbustav ettevõtja on reisijaveo eest vastutav.
 
-5) punktis 7 nimetatud tegevusala puhul vähemalt 1 protsent reisiettevõtja planeeritavast aastasest pakettreiside kogumüügist, kuid mitte vähem kui 13 000 eurot.
+(5) Reisiettevõtjal puudub tagatise kohustus, kui:
 
-(4) Tagatist ei pea olema käesoleva seaduse § 6 lõike 1 punktis 1 nimetatud tegevusalal tegutsedes.
+1) pakettreiside eest tasutakse täies ulatuses reisiteenuste kogumi osutamise järel ning pakettreis ei sisalda reisijavedu;
 
-(5) Kui reisiettevõtja tegutseb mitmel tagatist nõudval tegevusalal, siis ei või tagatis olla väiksem kui nõutakse suurima tagatise summaga tegevusalal.
+2) seotud reisikorraldusteenuste lepingute sõlmimist hõlbustav ettevõtja ei ole vastutav seotud reisikorraldusteenuste osaks oleva reisijaveo eest ja tasu ei maksta seotud reisikorraldusteenuste lepingute sõlmimist hõlbustavale ettevõtjale või tasutakse seotud reisikorraldusteenuste eest täies ulatuses nende osutamise järel;
 
-(6) Reisiettevõtja on kohustatud tagatise suurust hindama ja seda vajaduse korral suurendama.
+3) käesoleva seaduse § 6 punktis 5 nimetatud tegevusalal tegutsev ettevõtja esitab tõendi selle kohta, et tagatise kohustus on täidetud tegeliku reisikorraldaja poolt vastavalt käesoleva seaduse nõuetele.
 
-(7) Reisiettevõtja esitab Tarbijakaitseametile:
-
-1) üks kord kvartalis aruandekvartalile järgneva kuu 20. kuupäevaks pakettreiside kogumüügi aruande ning järgneva kvartali täpsustatud planeeritava pakettreiside kogumüügi;
-
-2) tegevuse alustamisel ning edaspidi igal aastal koos eelmise aasta IV kvartali pakettreiside kogumüügi aruandega tagatise arvutamise aluseks oleva planeeritava aastase pakettreiside kogumüügi, sealhulgas pakettreiside müügi igas kvartalis.
-
-(8) Käesoleva seaduse tähenduses loetakse pakettreiside kogumüügiks pakettreisilepingust tulenev tarbija kõigi maksete kogusumma reisiettevõtjale, sealhulgas ettemaksetena saadud summa ning lunastamata pakettreiside kinkekaardid.
-
-(9) Tagatise kasutamise otsustab Tarbijakaitseamet.
-
-(10) Tagatise kasutamiseks Tarbijakaitseamet:
-
-1) määrab nõuete esitamise tähtaja, mis ei või olla lühem kui 14 kalendripäeva;
-
-2) kontrollib nende isikute olemasolu, kelle suhtes on vaja kasutada tagatist, ja kogub nende nõuded;
-
-3) korraldab käesoleva paragrahvi lõikest 1 tulenevate nõuete täitmise ja määrab tagatisest väljamaksete tegemise tähtaja.
-
-(11) Valdkonna eest vastutav minister võib kehtestada määrusega:
-
-1) ;
-
-2) tagatise kasutamise korra.
+(6) Tagatis ei kuulu reisiettevõtja pankrotivara hulka.

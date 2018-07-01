@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/112072014144> (version in force from 2015-01-01)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/128122017031> (version in force from 2018-07-01)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -15,13 +15,18 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/112072014144> (version in force 
 | [§ 5](para-005.md) | Reisiettevõtja |
 | [§ 6](para-006.md) | Reisiettevõtja tegevusalade liigitus |
 | [§ 7](para-007.md) | Pakettreis |
+| [§ 7¹](para-007b1.md) | Seotud reisikorraldusteenused |
 | [§ 8](para-008.md) | Reisiettevõtja teatamiskohustus |
 | [§ 9](para-009.md) |  |
 | [§ 10](para-010.md) | Reisiettevõtja registreerimise taotlus |
 | [§ 11](para-011.md) | Registreerimismenetlus ja registriandmed |
 | [§ 12](para-012.md) |  |
 | [§ 14](para-014.md) |  |
-| [§ 15](para-015.md) | Tagatis |
+| [§ 15](para-015.md) | Tagatise kohustus |
+| [§ 15¹](para-015b1.md) | Nõuded tagatisele |
+| [§ 15²](para-015b2.md) | Pakettreiside ja seotud reisikorraldusteenuste kogumüügi aruanne |
+| [§ 15³](para-015b3.md) | Tagatise kasutamine |
+| [§ 15⁴](para-015b4.md) | Kontaktpunkt |
 | [§ 16](para-016.md) | Giid, giid-tõlk ja reisisaatja |
 | **3. peatükk MAJUTUSETTEVÕTTED** | |
 | [§ 17](para-017.md) | Majutusettevõte |

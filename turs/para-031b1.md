@@ -1,6 +1,6 @@
 # § 31¹. Reisiettevõtjale kehtestatud nõuete rikkumine
 
-(1) Pakettreiside müügiks pakkumise või müügi eest ilma nõuetekohase tagatiseta –
+(1) Pakettreiside pakkumise või pakettreisilepingute sõlmimise eest, samuti seotud reisikorraldusteenuste pakkumise või lepingute sõlmimise hõlbustamise eest ilma nõuetekohase tagatiseta –
 
 karistatakse rahatrahviga kuni 300 trahviühikut.
 

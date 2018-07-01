@@ -8,7 +8,7 @@
 
 1) ettevõtja poolt temale kuuluva vara arvel temaga töö- või teenistussuhetes olevate isikute majutamist;
 
-2) majutamist, mille puhul sõlmitakse eluruumi üürileping, välja arvatud võlaõigusseaduse § 272 lõike 4 punktis 1 nimetatud juhtudel;
+2) majutamist, mille puhul sõlmitakse eluruumi üürileping;
 
 3) õppeasutuse poolt õppeasutuses õppivate või töötavate isikute majutamist;
 

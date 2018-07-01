@@ -16,7 +16,7 @@
 
 3) huviväärsustega tutvumiseks vajalike vahendite laenutamine;
 
-4) Eesti-sisese sõitjateveo teenuse vahendamine;
+4) Eesti-sisese reisijaveo vahendamine;
 
 5) Interneti kasutamise ja faksi saatmise võimaldamine;
 
