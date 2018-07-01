@@ -10,4 +10,4 @@
 
 (5) Käesoleva paragrahvi lõikes 4 nimetatud projekteerimistingimused annab joonehitise trassi asukohavaliku planeeringu alusel rajatava ehitise ehitusloa andja.
 
-(6) Kui enne käesoleva seaduse jõustumist on algatatud joonehitise planeering ning vastav planeering kehtestatakse pärast käesoleva seaduse jõustumist, siis on sundvõõrandamine lubatud joonehitise planeeringu alusel.
+(6) Kui enne käesoleva seaduse jõustumist on algatatud mitut kohalikku omavalitsust läbiva joonehitise trassi asukohavaliku planeering ning see kehtestatakse pärast käesoleva seaduse jõustumist, on kinnisasja sundvõõrandamine lubatud joonehitise planeeringu ja tee või raudtee eelprojekti või ehitusprojekti alusel.
