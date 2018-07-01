@@ -52,7 +52,7 @@ jahieeskirjas.
 
 6) õhusõidukilt;
 
-7) ambu, õhkrelva, helisummutit ning laser- ja öösihikut kasutades;
+7) ambu, õhkrelva ning laser- ja öösihikut kasutades;
 
 8) loodusõnnetuse eest põgenevale ulukile;
 
