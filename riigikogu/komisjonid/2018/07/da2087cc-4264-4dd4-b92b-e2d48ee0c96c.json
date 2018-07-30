@@ -1,0 +1,43 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni erakorraline istung esmaspäev, 30.07.2018",
+  "sitting_time": "2018-07-30T10:00:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Erakorralise istungi päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "299cf949-3caa-48a4-949f-19e46257c876"
+    },
+    {
+      "order": 2,
+      "title": "Pikaajalise põua mõju põllumajandusele ja võimalikud meetmed olukorra leevendamiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c7661d1e-6884-4aee-bbd4-992b8025e518"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "46dafb56-c4ae-4978-a61d-f69d7ac23007",
+      "files": [
+        "Protokoll.bdoc",
+        "Protokol_20180907.pdf",
+        "Lisa 3 MES Riskijuhtimine Maaelukomisjon ETKI.pptm",
+        "Lisa 2 ETKI suvi 2018 teraviljale.pptx",
+        "Lisa 1 MEM MEK_põud_30.07.2018.pptx"
+      ]
+    }
+  ],
+  "uuid": "da2087cc-4264-4dd4-b92b-e2d48ee0c96c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid da2087cc-4264-4dd4-b92b-e2d48ee0c96c)",
+  "source": "https://api.riigikogu.ee/api/volumes/da2087cc-4264-4dd4-b92b-e2d48ee0c96c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2018-07-01&endDate=2018-07-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
