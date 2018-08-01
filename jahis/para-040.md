@@ -16,6 +16,10 @@
 
 (6) Jahiluba väljastatakse viie tööpäeva jooksul taotluse esitamisest arvates.
 
+(6¹) Välisriigis antud kehtiva jahitunnistuse alusel käesoleva seaduse § 36 lõike 6 kohaselt jahitunnistuse saanud isikule antakse veelinnujahiks väikeuluki jahiluba pärast jahindusalase koolituse läbimist.
+
+(6²) Käesoleva paragrahvi lõikes 6¹ nimetatud jahindusalase koolituse läbiviimist korraldab Keskkonnaamet või käesoleva seaduse § 10 lõike 1 alusel Keskkonnaministeeriumiga halduslepingu sõlminud isik.
+
 (7) Jahiloa andja peab jahilubade andmise ja tagastamise ning jahiloale kantud andmete arvestust.
 
 (8) Jahiloale kantakse:
@@ -43,5 +47,9 @@
 (12) Jahiluba annab jahipidamise õiguse ainult loale kantud isikule, välja arvatud käesoleva seaduse §-s 31 sätestatud ühisjahi puhul.
 
 (13) Jahiloa vormi kehtestab
+
+määrusega.
+
+(14) Välisriigis antud kehtiva jahitunnistuse alusel jahitunnistuse saanud isikule veelinnujahiks väikeuluki jahiloa andmisel läbitavale jahindusalasele koolitusele ja koolitajale esitatavad nõuded ning koolituse mahu ja läbiviimise korra kehtestab
 
 määrusega.
