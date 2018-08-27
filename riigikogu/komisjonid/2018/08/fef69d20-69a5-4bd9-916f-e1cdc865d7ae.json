@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung esmaspäev, 27.08.2018 10:00",
+  "sitting_time": "2018-08-27T10:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 30.-31. augustil 2018 toimuval mitteametlikul välisministrite (Gymnich) kohtumisel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "22ff974b-c09d-4d86-8756-be1863dc2c19"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad 29.-30. augustil 2018 toimuval mitteametlikul kaitseministrite kohtumisel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "59a5fc88-2b27-4d4a-8c33-edccbdb2dfa3"
+    },
+    {
+      "order": 3,
+      "title": "Eesti seisukohad 3. septembril 2018 toimuval mitteametlikul noortenõukogu kohtumisel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8465bd36-937a-4fff-a828-627d564b1f69"
+    },
+    {
+      "order": 4,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c2c61865-a42e-4a5e-b20c-0aa1fa898013"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "b1635be2-873e-4462-a0d6-4e763044bec8",
+      "files": [
+        "Protokol_20180830.pdf",
+        "Protokoll.bdoc"
+      ]
+    }
+  ],
+  "uuid": "fef69d20-69a5-4bd9-916f-e1cdc865d7ae",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid fef69d20-69a5-4bd9-916f-e1cdc865d7ae)",
+  "source": "https://api.riigikogu.ee/api/volumes/fef69d20-69a5-4bd9-916f-e1cdc865d7ae",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2018-08-01&endDate=2018-08-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
