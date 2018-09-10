@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Korruptsioonivastane erikomisjon",
+  "committee_uuid": "e4f2977a-e8c3-4fa0-8f3d-9df9acd6377f",
+  "title": "Komisjoni istung esmaspäev, 10.09.2018 13:30",
+  "sitting_time": "2018-09-10T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Komisjoni sügisistungjärgu tegevuskava arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "aed4ab22-eb19-4df9-9b87-06dddc2d1146"
+    },
+    {
+      "order": 2,
+      "title": "Laekunud informatsioonid ja istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "25b9b119-1481-45ac-aeca-0b1963754c81"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KVEK protokoll 10.09.2018",
+      "uuid": "021d902a-1619-4f4b-8653-d2a38a2b5c99",
+      "files": [
+        "KVEK_protokoll_10.09.2018.bdoc",
+        "2018_10_09 Protokoll nr 106.pdf"
+      ]
+    }
+  ],
+  "uuid": "fc9f4da0-1ee9-46fe-8b9d-3d0b14b6e9cd",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid fc9f4da0-1ee9-46fe-8b9d-3d0b14b6e9cd)",
+  "source": "https://api.riigikogu.ee/api/volumes/fc9f4da0-1ee9-46fe-8b9d-3d0b14b6e9cd",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2018-09-01&endDate=2018-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
