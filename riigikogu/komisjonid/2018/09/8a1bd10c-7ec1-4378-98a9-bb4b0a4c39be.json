@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung teisipäev, 18.09.2018 14:00",
+  "sitting_time": "2018-09-18T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigireetmises kahtlustamise juhtumist",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "50d36b9a-f816-4a9e-bfb2-757fe547fc51"
+    },
+    {
+      "order": 2,
+      "title": "Riigikaitsekomisjoni algatatud relvaseaduse muutmise seaduse eelnõu 654 SE",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2d12fd1f-c54b-4884-be77-316358728fd8"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RIKK protokoll 18.09.2018",
+      "uuid": "831b9daa-0084-4727-8906-64f294f99e29",
+      "files": [
+        "KESK 18.09.18.pdf",
+        "RIKK_protokoll_20180918.pdf",
+        "RIKK_protokoll_18.09.2018.bdoc"
+      ]
+    }
+  ],
+  "uuid": "8a1bd10c-7ec1-4378-98a9-bb4b0a4c39be",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8a1bd10c-7ec1-4378-98a9-bb4b0a4c39be)",
+  "source": "https://api.riigikogu.ee/api/volumes/8a1bd10c-7ec1-4378-98a9-bb4b0a4c39be",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2018-09-01&endDate=2018-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
