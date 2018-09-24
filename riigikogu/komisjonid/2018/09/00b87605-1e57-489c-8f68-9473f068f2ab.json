@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 24.09.2018 13:00",
+  "sitting_time": "2018-09-24T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7a625415-b8b7-4b16-8e93-cf721aa4b2c3"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli kontrolliaruande „Riigi 2017. aasta raamatupidamise aastaaruande õigsus ja tehingute seaduslikkus“ arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4a61875b-ab95-416f-9242-981cb085d4c9"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 24.09.2018.",
+      "uuid": "673dcc7d-00e0-428a-9f78-3f9c175682b5",
+      "files": [
+        "REKK_protokoll_24.09.2018.bdoc",
+        "Protokoll nr 150. 24.09.2018.pdf"
+      ]
+    }
+  ],
+  "uuid": "00b87605-1e57-489c-8f68-9473f068f2ab",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 00b87605-1e57-489c-8f68-9473f068f2ab)",
+  "source": "https://api.riigikogu.ee/api/volumes/00b87605-1e57-489c-8f68-9473f068f2ab",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2018-09-01&endDate=2018-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
