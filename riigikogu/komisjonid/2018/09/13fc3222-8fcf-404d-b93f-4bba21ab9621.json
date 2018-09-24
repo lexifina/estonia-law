@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung esmaspäev, 24.09.2018 11:15",
+  "sitting_time": "2018-09-24T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4cee3169-1d94-4779-bed9-874a36d4dfe9"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse seaduse muutmise seaduse eelnõu (636 SE) esimese lugemise arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "74027f9c-cd8a-4459-a874-c872e5dae1a7"
+    },
+    {
+      "order": 3,
+      "title": "Euroopa Parlamendi valimise seaduse muutmise seaduse eelnõu algatamise arutelu (Eestist valitud Euroopa Parlamendi liikmete arvu suurendamine)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f815d444-277c-4037-ac1b-85ca66f1729b"
+    },
+    {
+      "order": 4,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6166571d-8f94-489a-8092-9c63227977f6"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "PÕSK protokoll 24.09.2018",
+      "uuid": "3aa2ff9a-00fa-4055-b33d-c3703000ee64",
+      "files": [
+        "2018.09.24 protokoll.pdf",
+        "PÕSK_protokoll_24.09.2018.bdoc"
+      ]
+    }
+  ],
+  "uuid": "13fc3222-8fcf-404d-b93f-4bba21ab9621",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 13fc3222-8fcf-404d-b93f-4bba21ab9621)",
+  "source": "https://api.riigikogu.ee/api/volumes/13fc3222-8fcf-404d-b93f-4bba21ab9621",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2018-09-01&endDate=2018-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
