@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung teisipäev, 25.09.2018 14:00",
+  "sitting_time": "2018-09-25T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine AS Tallinna Lennujaam juhtidega.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b601cb12-6d61-4a58-a6dd-b6b5dd34de71"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a63c0eae-2de7-4d60-b163-e11cc54fdc43"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAJK nr 218 25.09.2018",
+      "uuid": "f73e35ab-7709-4b6b-a83d-7c70568b22f5",
+      "files": [
+        "lennujaama slaidid.pdf",
+        "MAJK protokoll nr 218 25.09.2018.pdf",
+        "MAJK_nr_218_25.09.2018.bdoc"
+      ]
+    }
+  ],
+  "uuid": "51efc883-db15-4f40-9395-0ad6be98f5b7",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 51efc883-db15-4f40-9395-0ad6be98f5b7)",
+  "source": "https://api.riigikogu.ee/api/volumes/51efc883-db15-4f40-9395-0ad6be98f5b7",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2018-09-01&endDate=2018-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
