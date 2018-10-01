@@ -8,9 +8,11 @@
 
 3) nende kindlustuslepingu liikide loetelu, mille vahendamist filiaali kaudu kavandatakse.
 
-(2) Finantsinspektsioon teavitab ühe kuu jooksul käesoleva paragrahvi lõikes 1 nimetatud taotluse ja andmete Finantsinspektsioonile edastamisest arvates päritoluriigi finantsjärelevalve asutuse kaudu vahendajat tingimustest, mille kohaselt peab lepinguriigi vahendaja Eestis oma teenuseid osutama.
+(1¹) Finantsinspektsioon kinnitab lepinguriigi finantsjärelevalve asutusele viivitamata, kui on käesoleva paragrahvi lõikes 1 nimetatud andmed ja dokumendid kätte saanud.
 
-(3) Lepinguriigi vahendaja võib Eestis filiaali asutada pärast käesoleva paragrahvi lõikes 2 nimetatud tingimuste saamist või ühe kuu möödumisel käesoleva paragrahvi lõikes 1 nimetatud taotluse ja andmete Finantsinspektsioonile edastamisest.
+(2) Finantsinspektsioon teavitab ühe kuu jooksul käesoleva paragrahvi lõikes 1 nimetatud taotluse ja andmete kättesaamisest arvates päritoluriigi finantsjärelevalve asutuse kaudu vahendajat veebilehe aadressist, kus on teave üldiste nõuete kohta, mida lepinguriigi vahendaja peab Eestis vahendusega tegelemiseks järgima.
+
+(3) Lepinguriigi vahendaja võib Eestis filiaali asutada pärast käesoleva paragrahvi lõikes 2 nimetatud teabe saamist või ühe kuu möödumisel päevast, kui ta sai lepinguriigi finantsjärelevalve asutuselt teavituse käesoleva paragrahvi lõikes 1¹ nimetatud kinnituse kohta.
 
 (4) Finantsinspektsioon kannab vahendajate nimekirja lepinguriigi vahendaja Eesti filiaali ärinime, äriregistri registrikoodi, asukoha aadressi Eestis ja vahenduse eest vastutava filiaali juhataja nime.
 

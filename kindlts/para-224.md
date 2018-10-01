@@ -10,6 +10,8 @@
 
 4) kontrollib ja hindab kindlustusandja ning kindlustusmaakleri kehtestatud sise-eeskirju;
 
+4¹) kontrollib ja hindab kindlustusandja ning vahendaja kindlustusalaste koolitusnõuete ja isikute teadmiste ning oskuste hindamise protsessi vastavust käesolevas seaduses sätestatule;
+
 5) kontrollib ja hindab kindlustusandja juhtimissüsteemi vastavust käesolevas seaduses sätestatule;
 
 6) kontrollib kindlustusandja ja vahendaja raamatupidamise korraldamist;
@@ -35,5 +37,27 @@
 16) täidab muid seadustest ja nende alusel antud õigusaktidest tulenevaid ülesandeid, samuti ülesandeid, mis lähtuvad kindlustusvõtjate, kindlustatute ja soodustatud isikute huvide kaitsest.
 
 (1¹) Finantsinspektsioonil on õigus rakendada Euroopa Parlamendi ja nõukogu määruse (EL) nr 1286/2014 artiklites 17 ja 24 sätestatud meetmeid. Finantsinspektsioon avalikustab nimetatud artiklite kohaste meetmete alusel tehtud otsuse kohta teate oma veebilehel vastavalt nimetatud määruse artikli 17 lõikele 5 ja artiklile 29.
+
+(1²) Finantsinspektsioon avalikustab oma veebilehel kindlustuse turustamisega seotud kohustuse rikkumisega seoses teate:
+
+1) väärteoasjas tehtud jõustunud lahendi kohta;
+
+2) ettekirjutuse kohta, millega nõutakse käesoleva seaduse § 103¹ lõikes 1, 2 või 3, § 103² lõikes 2, 3, 4, 5, 6 või 7, § 105 lõike 2 punktis 2¹, 10 või 11, § 106 lõikes 1, 2, 2¹ või 5, § 110 lõikes 3 või 3¹, §-s 175, 177, 178, 179 või 180, § 182¹ lõikes 1, 2 või 3, § 184 lõikes 1 või 2, § 185¹ lõikes 2, § 186 lõike 2 punktis 5¹, 16 või 17, § 191 lõikes 1, 2 või 3, §-s 192, § 197 lõikes 1, 3, 4 või 6, §-s 198 või 222, reklaamiseaduse § 4 lõikes 1 või võlaõigusseaduse § 54¹ lõikes 5 või 8, § 55¹ lõikes 7, §-s 428, 429 või 430 sätestatuga seotud rikkumise kõrvaldamist;
+
+3) ettekirjutuse kohta, millega peatatakse käesoleva seaduse § 228 lõike 2 punkti 12¹ kohaselt juhatuse liikme volitused;
+
+4) kindlustusmaakleri või kindlustusagendi vahendajate nimekirjast kustutamise otsuse kohta.
+
+(1³) Käesoleva paragrahvi lõike 1² punktides 2–4 sätestatud teade avalikustatakse 30 päeva möödumisel haldusakti kättetoimetamisest.
+
+(1⁴) Teates märgitakse vähemalt rikkumise liik ja laad, rikkumise eest vastutava isiku andmed ning teave lahendi või haldusakti jõustumise kohta. Teave on Finantsinspektsiooni veebilehel avalikult kättesaadav vähemalt viie aasta jooksul. Käesolevas paragrahvis sätestatu ei piira Finantsinspektsiooni seaduses sätestatud teabe, dokumentide, väärteoasjas tehtud lahendi, haldusakti või -lepingu avalikustamise õigusi.
+
+(1⁵) Finantsinspektsioonil on õigus lükata käesoleva paragrahvi lõikes 1² sätestatud teate avalikustamine edasi, avalikustada see anonüümselt või jätta avalikustamata, kui:
+
+1) asjasse puutuva isiku identiteedi või isikuandmete avalikustamine ei ole Finantsinspektsiooni hinnangul proportsionaalne;
+
+2) avalikustamine ohustab finantssektori stabiilsust või pooleliolevat menetlust.
+
+(1⁶) Finantsinspektsioonil on õigus avalikkust hoiatada, kui kindlustuse turustaja on rikkunud investeerimisriskiga elukindlustuslepingu turustamisel huvide konflikti, kindlustuslepingu sobivuse või asjakohasuse hindamise, lepingueelse teabe esitamise, komplektis pakkumise, kindlustusteenuse väljatöötamise või tasustamise nõudeid, märkides ära rikkumise eest vastutava isiku ja rikkumise laadi.
 
 (2) Finantsinspektsioon teostab käesoleva paragrahvi lõikes 1 nimetatud kontrolle ja hindamisi korrapäraselt.

@@ -26,11 +26,13 @@
 
 9) keelata teise lepinguriigi kindlustusandjal Eestis või Eesti kindlustusandjal lepinguriigis kindlustustegevusega tegelemine;
 
-10) keelata lepinguriigi vahendajal Eestis või Eesti vahendajal lepinguriigis kindlustusvahendusega tegelemine;
+10) keelata lepinguriigi vahendajal Eestis või Eesti vahendajal lepinguriigis kindlustuse turustamisega tegelemine;
 
 11) nõuda kindlustusandja ja vahendaja sise-eeskirjade, protseduurireeglite ja tasustamise põhimõtete muutmist;
 
 12) nõuda kindlustusandja või vahendaja nõukogult juhatuse liikme tagasikutsumist;
+
+12¹) nõuda investeerimisriskiga elukindlustuslepingu turustamise nõuete rikkumisel rikkumise eest vastutava juhatuse liikme volituste peatamist;
 
 13) nõuda kindlustusandja vastutava isiku töölt kõrvaldamist;
 

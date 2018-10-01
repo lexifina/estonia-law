@@ -1,4 +1,4 @@
-# § 262. Vahendaja kasutamise ja kindlustuslepingute vahendamise piirangu rikkumine
+# § 262. Vahendaja kasutamise ja kindlustuslepingute turustamise piirangu rikkumine
 
 (1) Käesoleva seaduse § 176 lõigetes 1 ja 2 sätestatud nõuete rikkumise eest –
 

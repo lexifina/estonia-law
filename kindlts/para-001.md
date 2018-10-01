@@ -1,6 +1,6 @@
 # § 1. Seaduse reguleerimis- ja kohaldamisala
 
-(1) Käesoleva seadusega reguleeritakse kindlustustegevust ja kindlustusvahendust ning nende järelevalvet.
+(1) Käesoleva seadusega reguleeritakse kindlustustegevust ja kindlustuse turustamist ning nende järelevalvet.
 
 (2) Käesolevas seaduses ettenähtud Finantsinspektsiooni haldusmenetlusele kohaldatakse haldusmenetluse seaduse sätteid, arvestades käesoleva seaduse ja Finantsinspektsiooni seaduse erisusi.
 

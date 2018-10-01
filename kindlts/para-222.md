@@ -1,25 +1,29 @@
-# § 222. Investeerimisriskiga elukindlustusleping ja selle sobivuse hindamine
+# § 222. Investeerimisriskiga elukindlustuslepingu sobivuse ja asjakohasuse hindamine
 
-(1) Investeerimisriskiga elukindlustusleping on leping, mille alusvaraga seotud investeerimisriski kannab vastavalt kindlustuslepingule kindlustusvõtja ning mille alusvara soetamiseks tasutud kindlustusmaksete nominaalväärtuse säilimine ei ole garanteeritud.
+(1) Investeerimisriskiga elukindlustusleping on leping, mille alusel väljamaksmisele kuuluv summa sõltub täielikult või osaliselt, otseselt või kaudselt alusvara väärtusest või investeerimistulemustest üldiselt. Investeerimisriskiga elukindlustuslepinguks ei peeta käesoleva seaduse tähenduses lepingut, mille alusel tehakse väljamakseid üksnes surma, vigastuse, haiguse või puude korral, ning tööandja pensionifondi valitsemisega seotud lepingut.
 
-(2) Kindlustusandja peab enne investeerimisriskiga elukindlustuslepingu sõlmimist hindama lepingu ja selle alusvara sobivust kindlustusvõtjale.
+(2) Kindlustusandja peab enne investeerimisriskiga elukindlustuslepingu sõlmimist hindama lepingu, sealhulgas selle alusvara sobivust kindlustusvõtjale (edaspidi *sobivuse hindamine*), et soovitada kindlustusvõtjale sobivat, tema riskitaluvusele ja kahju kandmise võimele vastavat investeerimisriskiga elukindlustuslepingut. Sobivuse hindamiseks peab kindlustusandja koguma teavet kindlustusvõtja teadmiste ja kogemuste kohta investeerimisvaldkonnas ning rahaliste võimaluste ja investeerimiseesmärkide kohta.
 
-(3) Kindlustusandja peab investeerimisriskiga elukindlustuslepingu ja selle alusvara sobivuse hindamisel tegema kindlaks:
+(3) Investeerimisriskiga elukindlustuslepingu korral ei pea täitma soovituse andmise nõuet.
 
-1) kindlustusvõtja kindlustushuvi, investeerimiseesmärgid ja tema eelistused riskitaluvuse ning investeeringu soovitava kestuse kohta;
+(4) Kindlustusandja peab juhul, kui soovitust ei anta, hindama enne investeerimisriskiga elukindlustuslepingu sõlmimist lepingu, sealhulgas selle alusvara asjakohasust kindlustusvõtjale (edaspidi *asjakohasuse hindamine*). Asjakohasuse hindamiseks peab kindlustusandja koguma teavet kindlustusvõtja teadmiste ja kogemuste kohta investeerimisvaldkonnas.
 
-2) kindlustusvõtja investeerimisalaste teadmiste ja kogemuste olemasolu, et selgitada välja, kas kindlustusvõtja mõistab investeerimisriskiga elukindlustuslepingu sõlmimisega kaasnevat investeerimisriski.
+(5) Kindlustusandja hoiatab kindlustusvõtjat, kui:
 
-(4) Kindlustusandja hoiatab kindlustusvõtjat investeerimisriskiga elukindlustuslepingu või selle alusvara sobimatuse eest, kui saadud andmete alusel on põhjust arvata, et investeerimisriskiga elukindlustusleping või selle alusvara ei ole kindlustusvõtja jaoks sobiv.
+1) saadud andmete alusel on põhjust arvata, et investeerimisriskiga elukindlustusleping ei ole kindlustusvõtja jaoks asjakohane;
 
-(5) Kindlustusandja ei või soodustada investeerimisriskiga elukindlustuslepingu ja selle alusvara sobivuse hindamiseks vajaliku teabe esitamata jätmist.
+2) kindlustusvõtja esitatud teave ei ole piisav või kindlustusvõtja on jätnud teabe esitamata, mistõttu ei ole võimalik hinnata investeerimisriskiga elukindlustuslepingu asjakohasust ning kindlustusvõtja huvid võivad olla seetõttu vähem kaitstud.
 
-(6) Kindlustusvõtja poolt ebapiisava teabe esitamise või teabe esitamata jätmise korral hoiatab kindlustusandja kindlustusvõtjat, et investeerimisriskiga elukindlustuslepingu või selle alusvara sobivust ei ole võimalik hinnata ning tema huvid võivad olla seetõttu vähem kaitstud.
+(6) Kindlustusandja võib käesoleva paragrahvi lõikes 5 nimetatud hoiatuse esitada kindlustusvõtjale standardvormis.
 
-(7) Kindlustusandjal on õigus investeerimisriskiga elukindlustuslepingu ja selle alusvara sobivuse hindamisel tugineda oma kindlustusvõtja esitatavale teabele, välja arvatud juhul, kui kindlustusandja teadis või pidi teadma, et vastav teave on aegunud, ebatäpne või mittetäielik.
+(7) Kindlustusandja ei või kaasa aidata sobivuse või asjakohasuse hindamiseks vajaliku teabe esitamata jätmisele.
 
-(8) Kindlustusandja ei pea hindama investeerimisriskiga elukindlustuslepingu ja selle alusvara sobivust kindlustusvõtjale, kui kindlustusvõtja on ise pöördunud kindlustusandja poole sooviga sõlmida selline leping ja kindlustusandja on kindlustusvõtjat hoiatanud, et sellisel juhul ei nõuta investeerimisriskiga elukindlustuslepingu ega selle alusvara sobivuse hindamist ning kindlustusvõtja huvid võivad olla seetõttu vähem kaitstud. Kindlustusandja on kohustatud hindama investeerimisriskiga elukindlustuslepingu ja selle alusvara sobivust kindlustusvõtjale, kui kindlustusvõtja on selleks soovi avaldanud.
+(8) Kindlustusandjal on õigus sobivuse või asjakohasuse hindamisel tugineda kindlustusvõtja esitatavale teabele, välja arvatud juhul, kui kindlustusandja teadis või pidi teadma, et teave on aegunud, ebatäpne või mittetäielik.
 
-(9) Kindlustusandja ei pea hindama investeerimisriskiga elukindlustuslepingu ja selle alusvara sobivust kindlustusvõtjale, kui tegemist on kogumispensionide seaduses nimetatud täiendava kogumispensioni kindlustuslepinguga, mille on kindlustusvõtjale valinud ning mille alusel tasub kindlustusvõtja eest kindlustusmakseid tema tööandja.
+(9) Kui kindlustusandja pakub investeerimisriskiga elukindlustuslepingut komplektis muu toote või teenusega või annab investeerimisnõustamise käigus soovitusi sellise komplekti kohta, peab ta käesolevas paragrahvis sätestatu kohaselt hindama kogu komplekti asjakohasust või sobivust.
 
-(10) Kindlustusandja, kes sõlmib investeerimisriskiga elukindlustuslepinguid, peab tagama alusvara investeerimise vastavalt kindlustusvõtjaga kokkulepitud tingimustele.
+(10) Kindlustusandja dokumenteerib ja säilitab investeerimisriskiga elukindlustuslepingu sobivuse või asjakohasuse hindamisega seotud asjaolud kuni kindlustuslepingust tulenevate nõuete aegumistähtaja möödumiseni vastavalt Euroopa Parlamendi ja nõukogu direktiivi (EL) 2016/97 artikli 30 lõike 6 alusel vastu võetud komisjoni delegeeritud määruses sätestatule.
+
+(11) Kindlustusandja, kes sõlmib investeerimisriskiga elukindlustuslepinguid, peab tagama alusvara investeerimise vastavalt kindlustusvõtjaga kokkulepitud tingimustele.
+
+(12) Käesolevas paragrahvis ja käesoleva seaduse §-s 222¹ sätestatut kohaldatakse pensionilepingutest üksnes investeerimisriskiga pensionilepingu suhtes kogumispensionide seaduse tähenduses.

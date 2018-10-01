@@ -16,6 +16,8 @@
 
 6) kes on esitanud finantsjärelevalve asutusele valeinformatsiooni või jätnud olulise informatsiooni esitamata.
 
+(2¹) Otseselt kindlustuse turustamisega tegeleval kindlustusandja töötajal peab olema laitmatu ärialane maine. Isiku maine ei ole laitmatu eelkõige käesoleva paragrahvi lõike 2 punktides 1–4 sätestatud juhtudel.
+
 (3) Välisriigi kodaniku puhul on käesoleva paragrahvi lõike 2 punktides 1–4 sätestatud asjaolude välistamise tõendamiseks aktsepteeritav tema päritoluriigi karistusregistri tõend või pädeva kohtu- või haldusorgani väljastatud samaväärne dokument tingimusel, et selle väljastamisest ei ole möödunud rohkem kui kolm kuud.
 
 (4) Kui isiku päritoluriigis ei väljastata käesoleva paragrahvi lõikes 3 nimetatud dokumenti, on aktsepteeritav ka vastava välisriigi pädeva notari, kohtu- või haldusorgani dokument, mis tõendab isiku poolt notari, kohtu- või haldusorgani või muu pädeva organi ees antud vande tõesust tingimusel, et selle dokumendi väljastamisest ei ole möödunud rohkem kui kolm kuud.

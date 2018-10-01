@@ -22,7 +22,11 @@
 
 8) Finantsinspektsioonile andmete esitamise ja teabe avalikustamise kord;
 
-9) kindlustusandja finantsseisundi halvenemise kindlaksmääramise ja sellest Finantsinspektsioonile teavitamise kord.
+9) kindlustusandja finantsseisundi halvenemise kindlaksmääramise ja sellest Finantsinspektsioonile teavitamise kord;
+
+10) kindlustuse turustamise eest vastutava juhi, otseselt kindlustuse turustamisega tegeleva kindlustusandja töötaja, füüsilisest isikust kindlustusagendi ja kindlustusagentuuri juhatuse liikme ning otseselt kindlustuse turustamisega tegeleva füüsilise isiku teadmiste ja oskuste hindamise ning nimetatud isikutele kindlustusalase koolituse tagamise kord;
+
+11) kindlustusteenuse väljatöötamise ja teenuses oluliste muudatuste tegemise kord käesoleva seaduse §-s 103² sätestatud nõuete rakendamiseks.
 
 (3) Elukindlustusega tegeleva kindlustusandja sise-eeskirjadega määratakse lisaks käesoleva paragrahvi lõikes 2 sätestatule rahapesu ja terrorismi rahastamise tõkestamise seaduses sätestatud protseduurireeglid ja nende täitmise kontrollimise sisekontrolli eeskirjad.
 

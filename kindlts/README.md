@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/117112017049> (version in force from 2018-01-15)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/122032018001> (version in force from 2018-10-01)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -11,7 +11,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/117112017049> (version in force 
 | [§ 2](para-002.md) | Kindlustustegevus ja kindlustusandja |
 | [§ 3](para-003.md) | Edasikindlustustegevus ja edasikindlustusandja |
 | [§ 4](para-004.md) | Kindlustusandja kõrvaltegevus |
-| [§ 5](para-005.md) | Kindlustusvahendus |
+| [§ 5](para-005.md) | Kindlustuse turustamine ja turustaja |
 | [§ 6](para-006.md) | Oluline osalus, isiku kontrollitav äriühing, hääleõiguse kuuluvus ja märkimisväärne seos |
 | [§ 7](para-007.md) | Emaettevõtja, tütarettevõtja ja konsolideerimisgrupp |
 | [§ 8](para-008.md) | Kaptiivkindlustusandja ja kaptiivedasikindlustusandja |
@@ -129,6 +129,8 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/117112017049> (version in force 
 | [§ 101](para-101.md) | Sisekontrolli süsteem |
 | [§ 102](para-102.md) | Vastavuskontrolli funktsioon |
 | [§ 103](para-103.md) | Siseauditi funktsioon |
+| [§ 103¹](para-103b1.md) | Kindlustuse turustamisega seotud isikute nõuetekohasuse tagamine |
+| [§ 103²](para-103b2.md) | Kindlustusteenuse sihtturule pakkumise nõuded |
 | [§ 104](para-104.md) | Kindlustustegevusega seotud tegevuse edasiandmine |
 | [§ 105](para-105.md) | Kindlustusandja sise-eeskirjad |
 | [§ 106](para-106.md) | Kindlustusandja juhtidele ja töötajatele esitatavad nõuded |
@@ -208,35 +210,37 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/117112017049> (version in force 
 | [§ 171](para-171.md) | Kindlustuslepingutest tulenevad nõuded |
 | [§ 172](para-172.md) | Tehingu tagasivõitmine ja pankrotivara müük |
 | [§ 173](para-173.md) | Kindlustusandja pankrotimenetluse lõppemise erisused |
-| **10. peatükk Kindlustusvahendus** | |
+| **10. peatükk Kindlustusmaakleri ja kindlustusagendi tegevus** | |
 | **1. jagu Üldsätted** | |
 | [§ 174](para-174.md) | Kindlustusmaakler ja kindlustusagent |
-| [§ 175](para-175.md) | Kindlustusvahenduse sätete kohaldamise erisus |
-| [§ 176](para-176.md) | Kindlustusvahenduse ulatus |
+| [§ 175](para-175.md) | Kindlustuse turustamise sätete kohaldamise erisus |
+| [§ 176](para-176.md) | Kindlustuse turustamise ulatus |
 | [§ 177](para-177.md) | Vahendaja hoolsuskohustus ja tasustamise põhimõtted |
-| [§ 178](para-178.md) | Kindlustusalane väljaõpe |
+| [§ 178](para-178.md) | Nõuded kindlustusalastele teadmistele |
 | [§ 179](para-179.md) | Vahendaja kohustuslik vastutuskindlustusleping |
 | [§ 180](para-180.md) | Vahendaja vara lahusus |
 | [§ 181](para-181.md) | Kliendi isikuandmete töötlemine ja teavitamise vorm |
 | [§ 182](para-182.md) | Vahendaja tegevuse edasiandmine ning kolmanda isiku abi kasutamine |
+| [§ 182¹](para-182b1.md) | Kindlustuslepingu komplektis pakkumise nõuded |
 | **2. jagu Kindlustusmaakler** | |
 | [§ 183](para-183.md) | Kindlustusmaakleri ärinimi ja kaubamärk |
 | [§ 184](para-184.md) | Kindlustusmaakleri lojaalsuskohustus |
 | [§ 185](para-185.md) | Kindlustusmaakleri tegevuse ulatus |
+| [§ 185¹](para-185b1.md) | Kindlustusteenuse sihtturule pakkumise nõuded |
 | [§ 186](para-186.md) | Kindlustusmaakleri sise-eeskirjad |
 | [§ 187](para-187.md) | Kindlustusmaakleri vahendajate nimekirja kandmine |
 | [§ 188](para-188.md) | Kindlustusmaakleri vahendajate nimekirja kandmise ja sellest keeldumise otsus |
 | [§ 189](para-189.md) | Kindlustusmaakleri vahendajate nimekirja kandmisest keeldumise alused |
 | [§ 190](para-190.md) | Kindlustusmaakleri vahendajate nimekirjast kustutamine |
 | [§ 191](para-191.md) | Kindlustusmaakleri juhtidele ja töötajatele esitatavad nõuded |
-| [§ 192](para-192.md) | Kindlustusmaaklerile kindlustuslepingu vahendamisel esitatavad nõuded |
+| [§ 192](para-192.md) | Kindlustusmaaklerile kindlustuslepingu turustamisel esitatavad nõuded |
 | [§ 193](para-193.md) | Kindlustusmaakleri aruandlus |
 | **3. jagu Kindlustusagent** | |
 | [§ 194](para-194.md) | Kindlustusagendi ärinimi ja kaubamärk |
 | [§ 195](para-195.md) | Kindlustusagendi vahendajate nimekirja kandmine ja sellest keeldumine |
 | [§ 196](para-196.md) | Vahendajate nimekirja kantud kindlustusagendi andmete muutmine ja kindlustusagendi vahendajate nimekirjast kustutamine |
 | [§ 197](para-197.md) | Kindlustusagendi juhtidele ja töötajatele esitatavad nõuded |
-| [§ 198](para-198.md) | Kindlustusagendile kindlustuslepingu vahendamisel esitatavad nõuded |
+| [§ 198](para-198.md) | Kindlustusagendile kindlustuslepingu turustamisel esitatavad nõuded |
 | **4. jagu Eesti vahendaja tegevus välisriigis** | |
 | [§ 199](para-199.md) | Vahendaja tegevuse alused välisriigis |
 | [§ 200](para-200.md) | Eesti äriühingust vahendaja filiaal lepinguriigis |
@@ -256,6 +260,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/117112017049> (version in force 
 | [§ 213](para-213.md) | Filiaali asutamise loa kehtetuks tunnistamine |
 | [§ 214](para-214.md) | Lepinguriigi äriühingust vahendaja filiaali asutamine Eestis |
 | [§ 215](para-215.md) | Kolmanda riigi vahendaja piiriülene vahendus Eestis |
+| [§ 215¹](para-215b1.md) | Lepinguriigi vahendaja piiriülene vahendus Eestis |
 | **11. peatükk Kindlustusandja kohustused seoses klientide kaitsega** | |
 | [§ 216](para-216.md) | Sootegur kindlustusriski hindamisel |
 | [§ 217](para-217.md) | Andmesubjekt ja tema nõusolek isikuandmete töötlemiseks |
@@ -264,8 +269,9 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/117112017049> (version in force 
 | [§ 220](para-220.md) | Isikuandmete säilitamise tähtaeg |
 | [§ 221](para-221.md) | Kliendi kindlustushuvi ja nõudmiste väljaselgitamisega seotud kohustused |
 | [§ 221¹](para-221b1.md) | Investeerimistoote pakkumise ja nõustamisega seotud kohustused |
-| [§ 222](para-222.md) | Investeerimisriskiga elukindlustusleping ja selle sobivuse hindamine |
-| **12. peatükk Kindlustustegevuse ja kindlustusvahenduse järelevalve** | |
+| [§ 222](para-222.md) | Investeerimisriskiga elukindlustuslepingu sobivuse ja asjakohasuse hindamine |
+| [§ 222¹](para-222b1.md) | Investeerimisriskiga elukindlustuslepingu sobivuse ja asjakohasuse hindamata jätmine |
+| **12. peatükk Kindlustustegevuse ja kindlustuse turustamise järelevalve** | |
 | **1. jagu Järelevalve** | |
 | [§ 223](para-223.md) | Finantsinspektsiooni järelevalve alused ja ulatus |
 | [§ 224](para-224.md) | Finantsinspektsiooni ülesanded ja õigused |
@@ -307,11 +313,11 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/117112017049> (version in force 
 | [§ 256](para-256.md) | Usaldatavusnõuete rikkumine |
 | [§ 257](para-257.md) | Juhtimissüsteemi nõuete rikkumine |
 | [§ 258](para-258.md) | Kliendi kindlustushuvi ja nõudmiste väljaselgitamisega seotud kohustuse rikkumine |
-| [§ 259](para-259.md) | Investeerimisriskiga elukindlustuslepingu sobivuse hindamata jätmine |
+| [§ 259](para-259.md) | Investeerimisriskiga elukindlustuslepingu sobivuse ja asjakohasuse hindamata jätmine |
 | [§ 260](para-260.md) | Kindlustuslepingu kohustusliku kogumispensioniga sidumise keelu rikkumine |
 | [§ 261](para-261.md) | Klientide huvide ohustamine |
-| [§ 262](para-262.md) | Vahendaja kasutamise ja kindlustuslepingute vahendamise piirangu rikkumine |
-| [§ 263](para-263.md) | Vahendajale kindlustuslepingu vahendamisel kehtestatud nõuete rikkumine |
+| [§ 262](para-262.md) | Vahendaja kasutamise ja kindlustuslepingute turustamise piirangu rikkumine |
+| [§ 263](para-263.md) | Vahendajale kindlustuslepingu turustamisel kehtestatud nõuete rikkumine |
 | [§ 264](para-264.md) | Menetlus |
 | **14. peatükk Rakendussätted** | |
 | **1. jagu Üleminekusätted** | |
@@ -324,7 +330,8 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/117112017049> (version in force 
 | [§ 271](para-271.md) | Üleminekumeetmed solventsuskapitalinõude arvutamisel ja solventsuskapitalinõude täitmisel |
 | [§ 272](para-272.md) | Üleminekusätted kindlustusgrupile |
 | [§ 273](para-273.md) | Aruannete esitamise ja avalikustamise üleminekutähtajad |
-| [§ 274](para-274.md) | Üleminekutähtaeg vahendaja sise-eeskirjade kehtestamiseks |
+| [§ 273¹](para-273b1.md) | Üleminekusäte kindlustusandjale |
+| [§ 274](para-274.md) | Üleminekusätted vahendajale |
 | **2. jagu Seaduste muutmine ja kehtetuks tunnistamine** | |
 | [§ 275](para-275.md) |  |
 | [§ 286](para-286.md) |  |

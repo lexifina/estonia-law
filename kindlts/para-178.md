@@ -1,27 +1,29 @@
-# § 178. Kindlustusalane väljaõpe
+# § 178. Nõuded kindlustusalastele teadmistele
 
-(1) Käesolevas seaduses sätestatud juhtudel peab vahendaja nimel otseselt kindlustuslepingute vahendamisega tegeleval füüsilisel isikul ja vahendaja juhatuse liikmel olema kindlustusalane väljaõpe.
+(1) Käesolevas seaduses sätestatud juhtudel peavad vahendaja nimel otseselt kindlustuse turustamisega tegeleval füüsilisel isikul ja vahendaja juhatuse liikmel olema oma tegevuse ulatusele vastavad kindlustusalased teadmised ja finantsalane kompetentsus.
 
-(2) Kindlustusalane väljaõpe käesoleva peatüki tähenduses hõlmab teadmisi:
+(2) Kindlustusalased teadmised käesoleva peatüki tähenduses hõlmavad teadmisi:
 
-1) kindlustuse üldpõhimõtetest;
+1) kindlustusturust ning elukindlustuslepingu vahendamisel finantsteenuste turust ja Eesti pensionisüsteemi põhimõtetest;
 
 2) vahendatava kindlustustegevuse liigi või alaliigi olemusest;
 
 3) kliendi kindlustushuvi ja kindlustuslepingule esitatavate nõudmiste väljaselgitamisest;
 
-4) kindlustuslepingu sõlmimise ja vahendamise protseduuridest ning neile kohaldatavatest nõuetest;
+5) vahendaja tegevusega seotud üldistest eetikanormidest ning huvide konflikti tuvastamise, vältimise ja maandamise põhimõtetest;
 
-5) vahendaja tegevusega seotud üldistest eetikanormidest ja huvide konflikti vältimise põhimõtetest;
+6) turustatava kindlustuslepingu tingimustest, sealhulgas kindlusriskidest ning lepinguga seotud piirangutest ja välistustest, ning elukindlustuslepingu korral garanteeritud hüvitise suuruse kujunemisest;
 
-6) vahendatava kindlustuslepingu tingimustest, sealhulgas kindlustatavatest riskidest ning lepinguga seotud piirangutest ja välistustest;
+9) nõuete käsitlemisest kindlustusjuhtumi toimumisel;
 
-7) kindlustussumma määramise põhimõtetest;
+9¹) kaebuste menetlemisest;
 
-8) kindlustusmakset mõjutavatest teguritest;
+10) kindlustust ja kindlustuse turustamist, sealhulgas isikuandmete kaitset, reguleerivatest seadustest.
 
-9) hüvitamise põhimõtetest kindlustusjuhtumi toimumisel;
+(2¹) Kui vahendaja turustab käesoleva seaduse § 222 lõikes 1 nimetatud investeerimisriskiga elukindlustuslepingut, peavad käesoleva paragrahvi lõikes 1 nimetatud isikutel olema lisaks käesoleva paragrahvi lõikes 2 sätestatule teadmised kliendi kantavate finantsriskide ja investeerimisvõimaluste kohta.
 
-10) kindlustust ja kindlustusvahendust, sealhulgas isikuandmete kaitset, reguleerivatest seadustest.
+(3) Vahendaja nimel otseselt kindlustuse turustamisega tegelev füüsiline isik ja vahendaja juhatuse liige peavad hoidma oma teadmisi ning oskusi pidevalt tasemel, mis tagab käesolevas seaduses sätestatud kindlustuse turustamise nõuete täitmise.
 
-(3) Isik, kellele käesoleva seaduse alusel on kindlustusalase väljaõppe läbimine kohustuslik, peab hoidma oma teadmisi ja oskusi pidevalt tasemel, mis ei ohustaks käesolevas seaduses sätestatud kindlustuslepingu vahendamise nõuete täitmist.
+(4) Käesolevas paragrahvis sätestatu tagamiseks rakendab kindlustusmaakler käesoleva seaduse § 186 lõike 2 punktis 16 nimetatud korda, võttes arvesse turustatavate kindlustusteenuste omadusi, isikute tegevuse ulatust ja töö iseloomu. Kindlustusmaakler dokumenteerib nimetatud korra rakendamisega seotud üksikasjad ning säilitab ja ajakohastab neid dokumente.
+
+(5) Kindlustuse turustamisega tegelev füüsiline isik on kohustatud osalema kindlustusmaakleri tagatud koolitusel ettenähtud ulatuses ja korras.

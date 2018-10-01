@@ -1,4 +1,4 @@
-# § 259. Investeerimisriskiga elukindlustuslepingu sobivuse hindamata jätmine
+# § 259. Investeerimisriskiga elukindlustuslepingu sobivuse ja asjakohasuse hindamata jätmine
 
 (1) Käesoleva seaduse § 192 lõike 2 punktis 2, § 198 lõike 2 punktis 5 või §-s 222 sätestatud kohustuse täitmata jätmise eest –
 

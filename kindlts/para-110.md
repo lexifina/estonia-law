@@ -6,6 +6,8 @@
 
 (3) Kindlustuslepingute sõlmimisega tegelevate kindlustusandja töötajate tasustamise põhimõtted, sealhulgas nende tegevusele seatud eesmärgid ja eesmärkide täitmise hindamiskriteeriumid, peavad olema kujundatud selliselt, et need ei ohustaks töötaja kohustust lähtuda klientide huvidest ega ajendaks teda soovitama kliendi kindlustushuvile ja nõudmistele mittevastavat kindlustuslepingut.
 
+(3¹) Kui kindlustusandja pakub käesoleva seaduse § 222 lõikes 1 nimetatud investeerimisriskiga elukindlustuslepingut või sellega komplektis käesoleva seaduse § 182¹ lõikes 1 nimetatud kõrvallepingut, peab ta tasustamise põhimõtete kehtestamisel ning lepingu sõlmimisega seoses pakutavate tasude ja muude hüvede hindamisel võtma muu hulgas arvesse Euroopa Parlamendi ja nõukogu direktiivi (EL) 2016/97, mis käsitleb kindlustustoodete turustamist (uuesti sõnastatud) (ELT L 26, 02.02.2016, lk 19–59), artikli 29 lõike 4 alusel vastu võetud komisjoni delegeeritud määruses sätestatut.
+
 (4) Kindlustusandja juhatuse liikmele või töötajale majandustulemustelt ja tehingutelt makstavate tasude (edaspidi *tulemustasu*) määramise põhimõtted peavad olema objektiivsed ja põhjendatud ning määrama eelnevalt kindlaks perioodi, mille eest tulemustasu makstakse.
 
 (5) Kindlustusandja juhatuse liikme lepingus või vastutava isiku töölepingus tuleb ette näha kindlustusandja õigus vähendada väljamaksmisele kuuluvaid tulemustasusid, peatada tulemustasude väljamaksmine või nõuda väljamakstud tulemustasude osalist või täielikku tagastamist kolme aasta jooksul tulemustasu maksmise otsuse tegemisest arvates.

@@ -58,7 +58,7 @@
 
 - 3. jagu Kindlustusandja pankrot
 
-10. peatükk Kindlustusvahendus
+10. peatükk Kindlustusmaakleri ja kindlustusagendi tegevus
 
 - 1. jagu Üldsätted
 
@@ -72,7 +72,7 @@
 
 11. peatükk Kindlustusandja kohustused seoses klientide kaitsega
 
-12. peatükk Kindlustustegevuse ja kindlustusvahenduse järelevalve
+12. peatükk Kindlustustegevuse ja kindlustuse turustamise järelevalve
 
 - 1. jagu Järelevalve
 

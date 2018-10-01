@@ -14,6 +14,8 @@
 
 2) kindlustusagentuuri juhatuse liige ei vasta käesolevas seaduses või selle alusel antud õigusaktides kindlustusagentuuri juhatuse liikmele kehtestatud nõuetele;
 
-3) kindlustusagent on korduvalt või olulisel määral rikkunud käesolevat seadust, tema tegevus või tegevusetus ei vasta heale äritavale või klientide, kindlustatute või soodustatud isikute huvid ei ole piisavalt kaitstud.
+3) kindlustusagent on korduvalt või olulisel määral rikkunud käesolevat seadust, tema tegevus või tegevusetus ei vasta heale äritavale või klientide, kindlustatute või soodustatud isikute huvid ei ole piisavalt kaitstud;
+
+4) isik, kellega kindlustusagendil on märkimisväärne seos, on asutatud sellises kolmandas riigis, mille õigusaktidest tulenevad nõuded või õigusaktide rakendamine takistavad kindlustusagendi üle vajalikul tasemel järelevalve teostamist.
 
 (4) Kui Finantsinspektsioon kustutab kindlustusagendi vahendajate nimekirjast, tuginedes käesoleva paragrahvi lõikele 3, siis lõpeb agendileping kande kustutamisest arvates.

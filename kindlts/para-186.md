@@ -20,13 +20,13 @@
 
 7) kindlustusmaakleri juhatuse liikmete ja töötajate tasustamise alused ning meetmed tasustamisega seotud huvide konflikti maandamiseks ja vältimiseks, samuti nende põhimõtete järgimise kontrollimise protseduur;
 
-8) kindlustusmaaklerile kindlustuslepingu vahendamisel esitatavate nõuete täitmise tagamise kord vastavalt käesoleva seaduse §-s 192 sätestatule;
+8) kindlustusmaaklerile kindlustuslepingu turustamisel esitatavate nõuete täitmise tagamise kord vastavalt käesoleva seaduse §-s 192 sätestatule;
 
 9) vara lahususe nõude täitmise kord vastavalt käesoleva seaduse §-s 180 sätestatule;
 
 10) kindlustusmaakleri tegevusega seotud tegevuste edasiandmise ja kliendi käsundi täitmisel kolmanda isiku abi kasutamise kord vastavalt käesoleva seaduse §-s 182 sätestatule;
 
-11) kindlustusvahenduse ja muu tegevuse lahususe tagamise kord vastavalt käesoleva seaduse §-s 185 sätestatule;
+11) kindlustuse turustamise ja muu tegevuse lahususe tagamise kord vastavalt käesoleva seaduse §-s 185 sätestatule;
 
 12) kliendi ees lojaalsus- ja hoolsuskohustuse täitmise tagamise kord;
 
@@ -34,4 +34,8 @@
 
 14) sisemised protseduurireeglid rahvusvahelise sanktsiooni seaduse alusel kehtestatud rahvusvaheliste sanktsioonide rakendamiseks, sealhulgas tegevusjuhis juhuks, kui avastatakse rahvusvahelise sanktsiooni seaduses või selle alusel antud õigusaktides sätestatud tunnustele vastav olukord;
 
-15) Finantsinspektsioonile andmete esitamise ja teabe avalikustamise kord.
+15) Finantsinspektsioonile andmete esitamise ja teabe avalikustamise kord;
+
+16) kindlustuse turustamisega vahetult seotud isiku ja kindlustusmaakleri juhatuse liikme teadmiste ja oskuste hindamise ning turustamisega vahetult seotud isikule aastas vähemalt 15 tunni ulatuses kindlustusalase koolituse tagamise kord;
+
+17) kindlustusteenuse väljatöötamise ja teenuses oluliste muudatuste tegemise kord käesoleva seaduse § 185¹ rakendamiseks.

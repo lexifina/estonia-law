@@ -1,8 +1,8 @@
 # § 179. Vahendaja kohustuslik vastutuskindlustusleping
 
-(1) Kindlustusvahendusest tuleneva kohustuse rikkumisega tekitatud kahju hüvitamise tagamiseks peab vahendaja sõlmima kohustusliku vastutuskindlustuslepingu järgmistel tingimustel:
+(1) Kindlustuse turustamisest tuleneva kohustuse rikkumisega tekitatud kahju hüvitamise tagamiseks peab vahendaja sõlmima kohustusliku vastutuskindlustuslepingu järgmistel tingimustel:
 
-1) kindlustusjuhtumiks on vahendaja või tema esindaja poolt kindlustusvahendusest tuleneva kohustuse rikkumisega varalise kahju tekitamine vahendatud kindlustuslepingu järgsele kindlustusvõtjale, kindlustatule või soodustatud isikule;
+1) kindlustusjuhtumiks on vahendaja või tema esindaja poolt kindlustuse turustamisest tuleneva kohustuse rikkumisega varalise kahju tekitamine turustatud kindlustuslepingu järgsele kindlustusvõtjale, kindlustatule või soodustatud isikule;
 
 2) kindlustussumma on vähemalt 1,3 miljonit eurot ühe kindlustusjuhtumi kohta ja 1,9 miljonit eurot aastas kõigi esitatud nõuete kohta;
 
@@ -14,7 +14,7 @@
 
 (2) Käesoleva seaduse alusel sõlmitud vastutuskindlustusleping ei pea katma kahju, mis:
 
-1) tekib kindlustusvahendusest tuleneva kohustuse tahtliku rikkumise tõttu;
+1) tekib kindlustuse turustamisest tuleneva kohustuse tahtliku rikkumise tõttu;
 
 2) on vahendaja vastutuskindlustuslepinguid sõlmivate kindlustusandjate kindlustustingimuste kohaselt tavaliselt välistatud tulenevalt rahvusvahelisest kindlustus- ja edasikindlustuspraktikast.
 

@@ -1,8 +1,8 @@
 # § 197. Kindlustusagendi juhtidele ja töötajatele esitatavad nõuded
 
-(1) Füüsilisest isikust kindlustusagendil, kindlustusagentuuri juhatuse liikmel ja otseselt vahendusega tegeleval füüsilisel isikul peab olema laitmatu ärialane maine ning käesoleva seaduse §-s 178 sätestatud kindlustusalane väljaõpe.
+(1) Füüsilisest isikust kindlustusagendil, kindlustusagentuuri juhatuse liikmel ja otseselt kindlustuse turustamisega tegeleval füüsilisel isikul peavad olema laitmatu ärialane maine ning käesoleva seaduse §-s 178 sätestatud kindlustusalased teadmised.
 
-(2) Füüsilisest isikust kindlustusagendil ja selle kindlustusagentuuri, kelle põhitegevus on kindlustuslepingute vahendamine, vahenduse eest vastutaval juhatuse liikmel peab lisaks käesoleva paragrahvi lõikes 1 nimetatule olema kindlustus- või muu finantsteenuse alase töö kogemus.
+(2) Kui kindlustusagentuuri põhitegevus on kindlustuse turustamine, peab turustamise eest vastutaval juhatuse liikmel olema lisaks käesoleva paragrahvi lõikes 1 nimetatule kindlustusalase või muu finantsteenuse alase töö kogemus.
 
 (3) Käesoleva paragrahvi lõikes 1 nimetatud isiku ärialane maine ei ole laitmatu eeskätt, kui:
 
@@ -18,10 +18,10 @@
 
 6) ta on esitanud Finantsinspektsioonile valeinformatsiooni või jätnud olulise informatsiooni esitamata.
 
-(4) Kindlustusagentuuri juhatuse liikme ja otseselt vahendusega tegeleva füüsilise isiku laitmatu ärialase maine kontrollimise kohustus on kindlustusagentuuril.
+(4) Kindlustusagentuuri juhatuse liikme ja otseselt kindlustuse turustamisega tegeleva füüsilise isiku laitmatu ärialase maine kontrollimise kohustus on kindlustusagentuuril.
 
 (5) Käesoleva paragrahvi lõikes 1 nimetatud isik ei või tegutseda samal ajal füüsilisest isikust kindlustusmaaklerina või äriühingust kindlustusmaakleri juhatuse liikmena ega tohi olla kindlustusmaakleri töötaja.
 
-(6) Kui kindlustuslepingute vahendamine on kindlustusagentuuri kõrvaltegevus, peab käesoleva paragrahvi lõigetes 1, 3 ja 5 sätestatud tingimustele vastama juhatuse liige, kes vastutab vahenduse eest.
+(6) Kui kindlustuse turustamine on kindlustusagentuuri kõrvaltegevus, peab käesoleva paragrahvi lõigetes 1, 3 ja 5 sätestatud tingimustele vastama juhatuse liige, kes vastutab kindlustuse turustamise eest.
 
-(7) Käesoleva seaduse §-s 178 sätestatud kindlustusalase väljaõppe peab käesolevas paragrahvis nimetatud isikutele tagama kindlustusandja, kelle kindlustuslepinguid need isikud vahendavad.
+(7) Käesoleva seaduse §-s 178 sätestatud kindlustusalaste teadmiste omandamise võimaluse peab käesolevas paragrahvis nimetatud isikutele tagama kindlustusandja, kelle kindlustuslepinguid need isikud vahendavad.

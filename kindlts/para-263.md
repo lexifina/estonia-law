@@ -1,4 +1,4 @@
-# § 263. Vahendajale kindlustuslepingu vahendamisel kehtestatud nõuete rikkumine
+# § 263. Vahendajale kindlustuslepingu turustamisel kehtestatud nõuete rikkumine
 
 (1) Käesoleva seaduse §-des 192 ja 198 sätestatud nõuete rikkumise eest –
 

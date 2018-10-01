@@ -1,6 +1,6 @@
-# § 176. Kindlustusvahenduse ulatus
+# § 176. Kindlustuse turustamise ulatus
 
-(1) Vahendaja kasutamisel võib kindlustusandja sõlmida kindlustuslepinguid üksnes vahendajate nimekirja kantud või käesoleva seaduse § 175 lõikes 1 sätestatud tingimustel tegutseva vahendaja vahendusel.
+(1) Vahendaja kasutamisel võib kindlustusandja sõlmida kindlustuslepinguid üksnes vahendajate nimekirja kantud vahendaja vahendusel.
 
 (2) Vahendaja, kes tegutseb Eestis, võib vahendada Eestis kindlustustegevuseks õigust omava kindlustusandja kindlustuslepingu sõlmimist.
 

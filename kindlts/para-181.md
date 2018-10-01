@@ -10,6 +10,4 @@
 
 (5) Kindlustusmaakleril on õigus isikuandmeid säilitada kuni kliendiga sõlmitud lepingust või seadusest tuleneva nõude aegumistähtaja möödumiseni, kui seaduses ei sätestata teisiti.
 
-(6) Käesoleva seaduse §-des 192 ja 198 nimetatud teave tuleb kliendile esitada püsival andmekandjal võlaõigusseaduse § 11¹ tähenduses. Teave peab olema selgelt sõnastatud, ülevaatlikult liigendatud ja koostatud eesti keeles või kokkuleppel muus keeles ning esitatud põhjalikkusega, mis vastab vahendatava kindlustuslepingu keerukusele.
-
-(7) Kliendi nõudmisel või vajaduse korral võib käesoleva seaduse §-des 192 ja 198 nimetatud teabe esitada suuliselt, kuid kohe pärast kindlustuslepingu sõlmimist tuleb teave kliendile esitada ka vastavalt käesoleva paragrahvi lõikes 6 sätestatud nõuetele.
+(6) Käesoleva seaduse §-des 192 ja 198 nimetatud teave tuleb kliendile esitada vastavalt võlaõigusseaduse §-s 430 sätestatule. Muu hulgas esitatakse käesoleva seaduse § 192 lõike 2 punktides 2 ja 5¹ ning § 198 lõike 2 punktis 5 ja lõikes 2¹ sätestatud hinnang investeerimisriskiga elukindlustuslepingu sobivuse kohta ning kahjukindlustuse teabedokument püsival andmekandjal, arvestades võlaõigusseaduse § 430 lõigetes 1, 2 ja 4 sätestatut.
