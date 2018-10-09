@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 9.10.2018 14:00",
+  "sitting_time": "2018-10-09T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud Euroopa Liidu ühise põllumajanduspoliitika rakendamise seaduse muutmise seaduse eelnõu (714 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0ae7e5e6-b4cf-4daa-87b9-94189eb6a9d8"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud väetiseseaduse ja riigilõivuseaduse muutmise seaduse eelnõu (639 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c1dc646b-2173-4c26-b651-6722421ce515"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 09.10.18",
+      "uuid": "67981cda-b67f-4b51-9918-a00a130f5b43",
+      "files": [
+        "MAEK_protokoll_09.10.18.bdoc",
+        "MAEK_protokoll_20181015.pdf"
+      ]
+    }
+  ],
+  "uuid": "d4b050c3-4696-4f4d-b30d-93b769e04bca",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d4b050c3-4696-4f4d-b30d-93b769e04bca)",
+  "source": "https://api.riigikogu.ee/api/volumes/d4b050c3-4696-4f4d-b30d-93b769e04bca",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2018-10-01&endDate=2018-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
