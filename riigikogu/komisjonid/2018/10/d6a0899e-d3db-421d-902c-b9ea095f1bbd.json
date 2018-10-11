@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung neljapäev, 11.10.2018 11:00",
+  "sitting_time": "2018-10-11T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Rahapesu tõkestamise tõhustamise teemaline ärakuulamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "afc5d486-6c42-4ce8-93f4-00a2c86b301e"
+    },
+    {
+      "order": 2,
+      "title": "Rahvusvaheline koostöö",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9d100dbc-fc20-4497-91d9-88575ff6bc91"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ÕIGK protokoll 11.10.2018",
+      "uuid": "f0dc7a36-8490-48ef-9df7-a72077f57296",
+      "files": [
+        "ÕIGK_protokoll_11.10.2018.bdoc",
+        "ÕIGK 11.10.2018 protokoll nr 195.pdf"
+      ]
+    }
+  ],
+  "uuid": "d6a0899e-d3db-421d-902c-b9ea095f1bbd",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d6a0899e-d3db-421d-902c-b9ea095f1bbd)",
+  "source": "https://api.riigikogu.ee/api/volumes/d6a0899e-d3db-421d-902c-b9ea095f1bbd",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2018-10-01&endDate=2018-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
