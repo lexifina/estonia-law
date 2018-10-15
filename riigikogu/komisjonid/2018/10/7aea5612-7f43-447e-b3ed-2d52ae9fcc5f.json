@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Korruptsioonivastane erikomisjon",
+  "committee_uuid": "e4f2977a-e8c3-4fa0-8f3d-9df9acd6377f",
+  "title": "Komisjoni istung esmaspäev, 15.10.2018",
+  "sitting_time": "2018-10-15T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine riigikontrolör Janar Holmiga",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ae6071e6-007e-423b-b748-3a0228dc84f9"
+    },
+    {
+      "order": 2,
+      "title": "Laekunud informatsioonid ja istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "45d8bc40-40d4-4208-b8ac-d63252918ac5"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KVEK protokoll 15.10.2018",
+      "uuid": "037cc615-6a52-4f9d-80ef-e6c71a7f7392",
+      "files": [
+        "2018_15_10 Protokoll nr 109.pdf",
+        "KVEK_protokoll_15.10.2018.bdoc"
+      ]
+    }
+  ],
+  "uuid": "7aea5612-7f43-447e-b3ed-2d52ae9fcc5f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7aea5612-7f43-447e-b3ed-2d52ae9fcc5f)",
+  "source": "https://api.riigikogu.ee/api/volumes/7aea5612-7f43-447e-b3ed-2d52ae9fcc5f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2018-10-01&endDate=2018-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
