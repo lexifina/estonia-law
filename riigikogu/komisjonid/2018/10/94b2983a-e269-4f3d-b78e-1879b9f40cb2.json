@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 15.10.2018 13:00",
+  "sitting_time": "2018-10-15T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "42ea94c3-88c4-404d-8de8-e1539f16fa09"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli kontrolliaruande „Ohtlike ja radioaktiivsete jäätmete käitlemise järelaudit“ arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ee4ee6c6-fba5-4ca4-b8f5-6595fefa6030"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "08127732-637b-46d5-baea-05736f7b448c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 15.10.2018",
+      "uuid": "fea87902-badd-460a-ba05-8126a192ebf9",
+      "files": [
+        "REKK_protokoll_15.10.2018.bdoc",
+        "Protokoll nr 153. 15.10.2018.pdf"
+      ]
+    }
+  ],
+  "uuid": "94b2983a-e269-4f3d-b78e-1879b9f40cb2",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 94b2983a-e269-4f3d-b78e-1879b9f40cb2)",
+  "source": "https://api.riigikogu.ee/api/volumes/94b2983a-e269-4f3d-b78e-1879b9f40cb2",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2018-10-01&endDate=2018-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
