@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung teisipäev, 16.10.2018 14:00",
+  "sitting_time": "2018-10-16T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e7b36ce1-6621-4534-8996-4a98b307407d"
+    },
+    {
+      "order": 2,
+      "title": "Informatsioon julgeolekuolukorra arengutest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fde9e64d-f403-433d-a456-794e19af4155"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ab4fc191-060a-4614-be29-05c302fe6fc1"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RIKK protokoll 16.10.2018",
+      "uuid": "158d909f-e089-4770-90ad-2961e3d593f8",
+      "files": [
+        "RIKK_protokoll_20181016.pdf",
+        "RIKK_protokoll_16.10.2018.bdoc"
+      ]
+    }
+  ],
+  "uuid": "0f8e2235-542b-43e2-96ed-7bfcba3dfca6",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0f8e2235-542b-43e2-96ed-7bfcba3dfca6)",
+  "source": "https://api.riigikogu.ee/api/volumes/0f8e2235-542b-43e2-96ed-7bfcba3dfca6",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2018-10-01&endDate=2018-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
