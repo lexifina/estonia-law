@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung teisipäev, 6.11.2018 14:00",
+  "sitting_time": "2018-11-06T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "461b9b23-b078-4857-b998-78efe953c012"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade strateegilise kauba komisjoni tööst",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5de45f87-3642-49d2-9f26-8b72b4dd1066"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RIKK protokoll 6.11.2018",
+      "uuid": "bd618d61-b09e-4bc0-880a-dd822ed1af76",
+      "files": [
+        "RIKK_protokoll_6.11.2018.bdoc",
+        "RIKK_protokoll_20181107.pdf"
+      ]
+    }
+  ],
+  "uuid": "0f413f36-b683-4cab-8c72-cf3517892dfb",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0f413f36-b683-4cab-8c72-cf3517892dfb)",
+  "source": "https://api.riigikogu.ee/api/volumes/0f413f36-b683-4cab-8c72-cf3517892dfb",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2018-11-01&endDate=2018-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
