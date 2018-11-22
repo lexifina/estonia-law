@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung neljapäev, 22.11.2018 14:00",
+  "sitting_time": "2018-11-22T14:04:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 26. novembril 2018 toimuval Euroopa Liidu välisasjade nõukogu (arenguministrid) istungil",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3b393e83-e5a7-434f-9ca2-c74fb2db6429"
+    },
+    {
+      "order": 2,
+      "title": "Informatsioon julgeolekuolukorra arengutest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a77d29c9-2977-4418-b108-b974dc05c456"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a2c351f7-5ad4-487d-ace3-261322d9863a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 22.11.2018",
+      "uuid": "6cdd3580-9156-4cee-a645-e8db6b253d20",
+      "files": [
+        "VALK_protokoll_20181122.pdf",
+        "VÄLK_protokoll_22.11.2018.bdoc"
+      ]
+    }
+  ],
+  "uuid": "b92dd41c-c0df-4924-9234-fb8ec8b09a96",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b92dd41c-c0df-4924-9234-fb8ec8b09a96)",
+  "source": "https://api.riigikogu.ee/api/volumes/b92dd41c-c0df-4924-9234-fb8ec8b09a96",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2018-11-01&endDate=2018-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
