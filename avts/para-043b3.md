@@ -1,8 +1,6 @@
 # § 43³. Andmekogu asutamine
 
-(1) Andmekogu asutatakse seadusega või selle alusel antud
-
-.
+(1) Andmekogu asutatakse seadusega või selle alusel antud õigusaktiga.
 
 (2) Keelatud on asutada ühtede ja samade andmete kogumiseks eraldi andmekogusid.
 

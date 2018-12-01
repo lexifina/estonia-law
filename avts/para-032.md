@@ -1,15 +1,35 @@
-# § 32. Riigi- ja kohaliku omavalitsuse asutuse veebilehe pidamise nõuded
+# § 32. Veebilehe ja mobiilirakenduse pidamise nõuded
 
-(1) Veebilehte pidav asutus:
+(1) Veebilehte või mobiilirakendust pidav teabevaldaja:
 
-1) teavitab avalikkust veebilehega tutvumise võimalustest, avalikustades andmeside aadressid ja nende muudatused;
+1) teavitab avalikkust veebilehe või mobiilirakendusega tutvumise võimalustest, avaldades viite veebilehele või mobiilirakendusele;
 
-2) avaldab veebilehel päevakohast teavet;
+2) avaldab veebilehel või mobiilirakenduses päevakohast teavet;
 
-3) ei või avalikustada veebilehel teavet, mis on vananenud, ei vasta tegelikkusele või eksitab;
+3) ei või avaldada veebilehel või mobiilirakenduses teavet, mis ei vasta tegelikkusele või on eksitav;
 
-4) rakendab viivitamata abinõusid veebilehele juurdepääsu takistavate tehniliste probleemide kõrvaldamiseks.
+4) märgib veebilehel või mobiilirakenduses iga dokumendi avaldamise kuupäeva ja teabe uuendamise aja;
 
-(2) Teabevaldaja märgib veebilehel iga dokumendi avalikustamise kuupäeva ja millal on teave veebilehel uuendatud.
+5) rakendab viivitamata abinõusid veebilehele või mobiilirakendusele juurdepääsu takistavate tehniliste probleemide kõrvaldamiseks;
 
-(3) Riigikantselei ja ministeeriumi veebilehelt peab olema võimalik otse juurde pääseda nende halduses olevate asutuste veebilehtedele.
+6) teeb veebilehe või mobiilirakenduse käesoleva paragrahvi lõike 2 alusel kehtestatud nõuetele vastavalt ligipääsetavaks, välja arvatud juhul, kui see nõuab ebaproportsionaalselt suurt pingutust;
+
+7) avaldab veebilehe või mobiilirakenduse ligipääsetavust kirjeldava teabe veebilehel või mobiilirakenduse allalaadimise keskkonnas.
+
+(2) Veebilehe ja mobiilirakenduse ligipääsetavuse nõuded ning ligipääsetavust kirjeldava teabe avaldamise korra kehtestab
+
+määrusega.
+
+(3) Käesoleva paragrahvi lõike 1 punktis 6 sätestatud ligipääsetavuse kohustus ei laiene Euroopa Parlamendi ja nõukogu direktiivi (EL) 2016/2102, mis käsitleb avaliku sektori asutuste veebisaitide ja mobiilirakenduste juurdepääsetavust (ELT L 327, 02.12.2016, lk 1–15), artikli 1 lõikes 4 nimetatud veebilehtede ja mobiilirakenduste sisule.
+
+(4) Käesoleva paragrahvi lõike 1 punkti 6 tähenduses on pingutus ebaproportsionaalselt suur, kui teabevaldaja suurust, ressurssi ja tüüpi ning veebilehe või mobiilirakenduse kasutamise sagedust ja kestust arvestades toob veebilehe või mobiilirakenduse ligipääsetavaks tegemine kaasa ebamõistlikud kulud.
+
+(5) Riigikantselei ja ministeeriumi veebilehelt peab olema võimalik otse juurde pääseda nende haldusala asutuste veebilehtedele.
+
+(6) Käesoleva paragrahvi lõike 1 punktides 6 ja 7 sätestatut ei kohaldata:
+
+1) meediateenust osutavale teabevaldajale;
+
+2) koolidele ja koolieelsetele lasteasutustele, välja arvatud üldinfo, sealhulgas vastuvõtuinfo, asukoha ja kontaktandmete avaldamisel;
+
+3) käesoleva seaduse § 5 lõikes 3 nimetatud teabevaldajaga võrdsustatud isikule.

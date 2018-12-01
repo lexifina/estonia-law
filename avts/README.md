@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/104072017011> (version in force from 2018-01-01)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/114112018005> (version in force from 2018-12-01)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -47,7 +47,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/104072017011> (version in force 
 | [§ 30](para-030.md) | Teabe avalikustamise viisi valimine |
 | **2. jagu Teabe avalikustamine üldkasutatavas andmesidevõrgus** | |
 | [§ 31](para-031.md) | Veebilehe pidamise kohustus |
-| [§ 32](para-032.md) | Riigi- ja kohaliku omavalitsuse asutuse veebilehe pidamise nõuded |
+| [§ 32](para-032.md) | Veebilehe ja mobiilirakenduse pidamise nõuded |
 | [§ 32¹](para-032b1.md) | Eesti teabevärav |
 | [§ 33](para-033.md) | Juurdepääs andmesidevõrgule |
 | **5. peatükk PIIRATUD JUURDEPÄÄSUGA TEAVE** | |
@@ -89,6 +89,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/104072017011> (version in force 
 | **7. peatükk RAKENDUSSÄTTED** | |
 | [§ 55](para-055.md) | Juurdepääs avalikele arvutivõrkudele rahvaraamatukogudes |
 | [§ 56](para-056.md) | Veebilehe pidamise alustamine |
+| [§ 56¹](para-056b1.md) | Veebilehe ja mobiilirakenduse pidamise nõuete rakendamine |
 | [§ 57](para-057.md) | Riigi ja kohaliku omavalitsuse andmekogudes peetavatele andmetele juurdepääsu korra kooskõlla viimine seadusega |
 | [§ 58](para-058.md) | Asjaajamiskorra kooskõlla viimine käesoleva seadusega |
 | [§ 58¹](para-058b1.md) | Seaduse 5¹. peatüki rakendamine |

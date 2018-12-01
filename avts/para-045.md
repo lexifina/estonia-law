@@ -4,6 +4,8 @@
 
 1) teabenõuete täitmisel ja teabe avalikustamisel;
 
+1¹) veebilehe ja mobiilirakenduse pidamise nõuete täitmisel;
+
 2) asutusesiseseks kasutamiseks ettenähtud teabe kaitsmisel;
 
 3) andmekogude asutamisel, kasutuselevõtmisel, pidamisel, ümberkorraldamisel ja lõpetamisel.
