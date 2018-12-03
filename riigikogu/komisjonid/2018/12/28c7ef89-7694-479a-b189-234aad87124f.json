@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung esmaspäev, 3.12.2018 15.30",
+  "sitting_time": "2018-12-03T15:45:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8851d05c-83d1-45d6-ba67-a9e7b05fe6e0"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu avalduse eelnõu \"Ukraina suveräänsuse ja territoriaalse terviklikkuse toetuseks seoses Kertši väinas toimunud agressiooniga\" eelnõu (766 AE) ettevalmistamine esimeseks lugemiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fcab028a-3c8e-4c8a-99bb-3cc8b05f1f9f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 03.12.2018",
+      "uuid": "fc1178dc-68dd-4493-b38c-2360a3737562",
+      "files": [
+        "VÄLK_protokoll_03.12.2018.bdoc",
+        "VALK_protokoll_20181203.pdf"
+      ]
+    }
+  ],
+  "uuid": "28c7ef89-7694-479a-b189-234aad87124f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 28c7ef89-7694-479a-b189-234aad87124f)",
+  "source": "https://api.riigikogu.ee/api/volumes/28c7ef89-7694-479a-b189-234aad87124f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2018-12-01&endDate=2018-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
