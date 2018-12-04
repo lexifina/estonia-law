@@ -1,0 +1,49 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung teisipäev, 4.12.2018 14:00",
+  "sitting_time": "2018-12-04T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Krediidiasutuste seaduse ja teiste seaduste muutmise seaduse eelnõu (750 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4bd7b635-b9e2-4923-af6d-83cdfab4b9d1"
+    },
+    {
+      "order": 2,
+      "title": "2019. aasta riigieelarve seaduse eelnõu (700 SE II)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "91ef24c4-0231-494d-80d3-12f06cb9f846"
+    },
+    {
+      "order": 3,
+      "title": "Ülevaade Euroopa Komisjoni sügispaketist.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "78d37778-829a-4b79-8731-93ed5394ad06"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 4.12.2018",
+      "uuid": "ad7ce8c3-eb11-4e92-866e-e0cabb1d538c",
+      "files": [
+        "Volikirjad 4.12.2018 Talve, Helme asendusliikmed.pdf",
+        "RAHK protokoll 224 04 12 2018.docx",
+        "Protokoll.bdoc",
+        "Protokolli 04.12.2018 lisa nr 1.docx",
+        "protokolli 04 12 2018 lisa nr 2.docx"
+      ]
+    }
+  ],
+  "uuid": "d5ae0a6e-0b08-4d8b-9c25-4aeb9660ebd2",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d5ae0a6e-0b08-4d8b-9c25-4aeb9660ebd2)",
+  "source": "https://api.riigikogu.ee/api/volumes/d5ae0a6e-0b08-4d8b-9c25-4aeb9660ebd2",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2018-12-01&endDate=2018-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
