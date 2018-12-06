@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung neljapäev, 6.12.2018 11:00",
+  "sitting_time": "2018-12-06T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "2019. aasta riigieelarve seaduse eelnõu (700 SE II)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a888e4bf-cf87-44e1-9717-85b5f99375f8"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade Euroopa Liidu majanduse sügispaketist",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "92cf7535-860a-4704-acfd-05675b853ff1"
+    },
+    {
+      "order": 3,
+      "title": "Info",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b9be804b-43bd-47e3-a274-b8cd7553974f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 6.12.2018",
+      "uuid": "8112343c-5de3-4f98-b66f-7cc7283d61ab",
+      "files": [
+        "Protokoll_6.12.2018.bdoc",
+        "RAHK protokoll 225 6 12 2018.pdf"
+      ]
+    }
+  ],
+  "uuid": "d0000310-ef65-42f0-933e-b2104637ae37",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d0000310-ef65-42f0-933e-b2104637ae37)",
+  "source": "https://api.riigikogu.ee/api/volumes/d0000310-ef65-42f0-933e-b2104637ae37",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2018-12-01&endDate=2018-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
