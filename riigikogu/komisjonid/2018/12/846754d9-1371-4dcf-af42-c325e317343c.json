@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 10.12.2018 13:00",
+  "sitting_time": "2018-12-10T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e496bea2-20da-4719-867c-05d2f082d894"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade muudatustest REs ja RESis ning tagasiside komisjoni 21.03.18. edastatud RES dokumendi täpsustamise ettepanekutest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3e53dbfc-82a8-47e4-a6ea-30dca3e93807"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5a88eaac-4ff7-4fe6-ad45-e7e2330ff0e2"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "7a81ad0f-dcc2-4931-acc2-31ed56c5b71b",
+      "files": [
+        "Protokoll.bdoc",
+        "Protokoll nr 163. 10.12.2018.pdf"
+      ]
+    }
+  ],
+  "uuid": "846754d9-1371-4dcf-af42-c325e317343c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 846754d9-1371-4dcf-af42-c325e317343c)",
+  "source": "https://api.riigikogu.ee/api/volumes/846754d9-1371-4dcf-af42-c325e317343c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2018-12-01&endDate=2018-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
