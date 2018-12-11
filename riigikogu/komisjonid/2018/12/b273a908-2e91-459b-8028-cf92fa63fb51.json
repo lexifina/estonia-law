@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung teisipäev, 11.12.2018 kell 14.00",
+  "sitting_time": "2018-12-11T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ravimiseaduse muutmise seaduse eelnõu (656 SE) ettevalmistamine teiseks lugemiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fe6d734f-0979-4076-93b2-b56d5ea9488f"
+    },
+    {
+      "order": 2,
+      "title": "Arutelu perevanemate ja asendushoolduse teemal. Parlamentaarne kuulamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5a357b43-0925-4e26-917c-44692176386d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "SOTK protokoll 11.12.2018",
+      "uuid": "caf2d3c8-2d8e-4804-bda8-afed9a0260fc",
+      "files": [
+        "Protokoll.pdf",
+        "SOTK_protokoll_11.12.2018.bdoc"
+      ]
+    }
+  ],
+  "uuid": "b273a908-2e91-459b-8028-cf92fa63fb51",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b273a908-2e91-459b-8028-cf92fa63fb51)",
+  "source": "https://api.riigikogu.ee/api/volumes/b273a908-2e91-459b-8028-cf92fa63fb51",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2018-12-01&endDate=2018-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
