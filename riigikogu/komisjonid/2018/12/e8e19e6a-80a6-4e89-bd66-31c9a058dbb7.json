@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung teisipäev, 11.12.2018 14:00",
+  "sitting_time": "2018-12-11T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väljasõiduistung Kaubandus-Tööstuskotta",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3b6c6da1-8df0-491d-a79c-4cf7396420c9"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e99ee866-69c8-4525-91cf-cc0e2ed764f3"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAJK protokoll 234 11.12.2018",
+      "uuid": "b935c7f1-03d9-462b-87eb-d04869593ff8",
+      "files": [
+        "MAJK protokoll nr 234 11.12.2018.pdf",
+        "MAJK_protokoll_234_11.12.2018.bdoc"
+      ]
+    }
+  ],
+  "uuid": "e8e19e6a-80a6-4e89-bd66-31c9a058dbb7",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e8e19e6a-80a6-4e89-bd66-31c9a058dbb7)",
+  "source": "https://api.riigikogu.ee/api/volumes/e8e19e6a-80a6-4e89-bd66-31c9a058dbb7",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2018-12-01&endDate=2018-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
