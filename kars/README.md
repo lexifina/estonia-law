@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/129062018066> (version in force from 2018-07-15)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/107122018021> (version in force from 2018-12-17)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -495,6 +495,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/129062018066> (version in force 
 | [§ 331²](para-331b2.md) | Lähenemiskeelu rikkumine |
 | [§ 331³](para-331b3.md) | Kohtutäituri poolt vara teadvalt ebaseaduslik arest ja müük |
 | [§ 331⁴](para-331b4.md) | Karistusjärgse käitumiskontrolli kontrollnõuete ja kohustuste rikkumine |
+| [§ 331⁵](para-331b5.md) | Saladuse hoidmise kohustuse rikkumine |
 | **19. peatükk AVALIKU USALDUSE VASTASED SÜÜTEOD** | |
 | **1. jagu Maksevahendi ja riigi poolt kehtestatud märgi ja tunnuse võltsimine** | |
 | [§ 332](para-332.md) | Välisriigi maksevahend, välisriigi poolt kehtestatud märk ja tunnus |
@@ -562,7 +563,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/129062018066> (version in force 
 | [§ 376¹](para-376b1.md) | Lisaainete ebaseaduslik eemaldamine erimärgistatud vedelkütusest ja selle tulemusel saadud vedelkütuse käitlemine |
 | [§ 376²](para-376b2.md) | Vedelkütuse ebaseaduslik käitlemine |
 | **2. jagu Äriühingutega seotud süüteod** | |
-| [§ 377](para-377.md) | Ärisaladuse õigustamatu avaldamine ja kasutamine |
+| [§ 377](para-377.md) | Ärisaladuse ebaseaduslik saamine, kasutamine ja avaldamine |
 | [§ 378](para-378.md) |  |
 | [§ 379](para-379.md) | Audiitor- ja erikontrolli tulemuste esitamata jätmine ja ebaõige esitamine |
 | [§ 380](para-380.md) | Osanike, aktsionäride ja tulundusühistu liikmete koosoleku kokku kutsumata jätmine |
