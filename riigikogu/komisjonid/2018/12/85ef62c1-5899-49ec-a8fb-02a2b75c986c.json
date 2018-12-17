@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 17.12.2018 11:10",
+  "sitting_time": "2018-12-17T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5ebb27c2-765a-457a-aab3-43804a161cac"
+    },
+    {
+      "order": 2,
+      "title": "Kalapüügiseaduse muutmine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "011dedbf-a1f7-4502-add4-1153a776eeea"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 17.12.2018",
+      "uuid": "7e831ed8-94d6-4bdd-bac5-0dba1d782d2c",
+      "files": [
+        "MAEK_protokoll_17.12.2018.bdoc",
+        "MAEK_protokoll_20181219.pdf"
+      ]
+    }
+  ],
+  "uuid": "85ef62c1-5899-49ec-a8fb-02a2b75c986c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 85ef62c1-5899-49ec-a8fb-02a2b75c986c)",
+  "source": "https://api.riigikogu.ee/api/volumes/85ef62c1-5899-49ec-a8fb-02a2b75c986c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2018-12-01&endDate=2018-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
