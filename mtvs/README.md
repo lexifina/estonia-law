@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/126062017024> (version in force from 2017-07-06)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/107122018014> (version in force from 2018-12-17)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -15,6 +15,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/126062017024> (version in force 
 | [§ 5](para-005.md) | Teabe kasutamise piirang |
 | [§ 6](para-006.md) | Teabe kaitse ja töötlus |
 | [§ 7](para-007.md) | Kulude kandmine |
+| [§ 7¹](para-007b1.md) | Teabe kogumise vältimise eesmärgil tehtavad tehingud ja toimingud |
 | [§ 8](para-008.md) | Teabe kogumise ja teabevahetuse kohustuste täitmine |
 | **1¹. peatükk Finantskontode maksualase teabe automaatne vahetus Euroopa Liidus** | |
 | [§ 8¹](para-008b1.md) | Finantskonto |

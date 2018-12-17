@@ -12,6 +12,6 @@
 
 1) pensionileping kogumispensionide seaduse § 41 tähenduses;
 
-2) täiendava kogumispensioni kindlustusleping kogumispensionide seaduse § 62 tähenduses;
+2) täiendava kogumispensioni kindlustusleping kogumispensionide seaduse § 62 tähenduses, mille tagastusväärtuse väljamaksmine kindlustusvõtjale on kogumispensionide seaduse § 63 lõike 5⁴ kohaselt välistatud või mille kindlustuspensioni maksmise tähtpäev on saabunud;
 
 3) väärtpaberikonto, kus ei ole registreeritud muid osakuid peale kogumispensionide seaduses nimetatud kohustusliku ja vabatahtliku pensionifondi osakute.

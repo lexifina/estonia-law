@@ -25,3 +25,5 @@
 (4) Finantskonto kindlaksmääramisel käesoleva paragrahvi lõike 3 tähenduses kohaldab aruandekohustuslik Eesti finantsasutus direktiivi lisa 1 7. jao C jaotises sätestatud kontojääkide liitmise ja vääringutega seotud eeskirju. Nimetatud eeskirjade kohaldamise tulemusena saadud negatiivne konto kogujääk või -väärtus loetakse nullväärtuseks.
 
 (5) Käesoleva paragrahvi lõikes 3 sätestatud erisusi kohaldatakse kõigile aruandekohustusliku Eesti finantsasutuse peetavatele finantskontodele ühetaoliselt.
+
+(6) Käesoleva seaduse § 8¹ lõike 5 punktis 2 sätestatud teabevahetusest välistamata jäetud täiendava kogumispensioni kindlustuslepingu suhtes kohaldab aruandekohustuslik Eesti finantsasutus käesoleva seaduse 1¹. peatükis nimetatud aruandlus- ja hoolsusmeetmeid ning kogub teabe esmakordselt 2020. aasta 31. detsembriks.
