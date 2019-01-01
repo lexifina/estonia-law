@@ -10,6 +10,6 @@
 
 (5) Kompleksloa kehtetuks tunnistamise või menetluse lõpetamise otsuse teeb loa andja 30 päeva jooksul pärast käesoleva paragrahvi lõikes 4 nimetatud seletuste ja lisaandmete saamist või käitaja ärakuulamist.
 
-(6) Loa andja teeb otsuse kompleksloa kehtetuks tunnistamise või menetluse lõpetamise kohta käitajale teatavaks posti teel või elektrooniliselt seitsme päeva jooksul otsuse tegemise päevast arvates. Otsuse ärakirjad saadab loa andja käitise asukoha järgsele linna- või vallavalitsusele ja Keskkonnainspektsioonile ning ohtliku või suurõnnetuse ohuga ettevõtte puhul ka Tehnilise Järelevalve Ametile ja ettevõtte asukoha järgsele päästekeskusele.
+(6) Loa andja teeb otsuse kompleksloa kehtetuks tunnistamise või menetluse lõpetamise kohta käitajale teatavaks posti teel või elektrooniliselt seitsme päeva jooksul otsuse tegemise päevast arvates. Otsuse ärakirjad saadab loa andja käitise asukoha järgsele linna- või vallavalitsusele ja Keskkonnainspektsioonile ning ohtliku või suurõnnetuse ohuga ettevõtte puhul ka Tarbijakaitse ja Tehnilise Järelevalve Ametile ja ettevõtte asukoha järgsele päästekeskusele.
 
 (7) Kompleksloa kehtetuks tunnistamise menetlusele ei kohaldata haldusmenetluse seaduse avatud menetluse sätteid.

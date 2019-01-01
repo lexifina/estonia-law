@@ -12,7 +12,7 @@
 
 5) käitisest tulenev saastatus on nii suur, et sellest põhjustatud olulist ebasoodsat mõju keskkonnale, inimese tervisele, heaolule, varale ja kultuuripärandile ei ole võimalik vältida uue kompleksloa taotlemist eeldavate põhjalike tehniliste ümberkorraldusteta;
 
-6) käitaja on ohtlikus ettevõttes või suurõnnetuse ohuga ettevõttes korduvalt või oluliselt rikkunud ohutusnõudeid ning on tekitanud sellega avariiohu või avarii ning Tehnilise Järelevalve Amet või Päästeamet on teinud loa andjale ettepaneku kompleksluba kehtetuks tunnistada;
+6) käitaja on ohtlikus ettevõttes või suurõnnetuse ohuga ettevõttes korduvalt või oluliselt rikkunud ohutusnõudeid ning on tekitanud sellega avariiohu või avarii ning Tarbijakaitse ja Tehnilise Järelevalve Amet või Päästeamet on teinud loa andjale ettepaneku kompleksluba kehtetuks tunnistada;
 
 7) käitaja on pankrotistunud või on juriidilise isikuna likvideeritud ja tegevust ei jätka enne järgmise korrapärase keskkonnaalase kontrolli jaoks ettenähtud kuupäeva sama kompleksloa alusel teine käitaja või käitise tegevus ei jätku pankrotihalduri kontrolli all;
 
