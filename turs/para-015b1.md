@@ -24,19 +24,19 @@
 
 1) tagatis antakse reisiettevõtja käesoleva seaduse § 15 lõikes 3 või 4 nimetatud kohustuste täitmise tagamiseks;
 
-2) tagatis on kasutatav esimesel nõudmisel ning selle kasutamisega ei kaasne Tarbijakaitseametile rahalisi kohustusi tagatise andja suhtes;
+2) tagatis on kasutatav esimesel nõudmisel ning selle kasutamisega ei kaasne Tarbijakaitse ja Tehnilise Järelevalve Ametile rahalisi kohustusi tagatise andja suhtes;
 
-3) garantii puhul on tagatise saajaks ja kindlustuse puhul on soodustatud isikuks Tarbijakaitseamet;
+3) garantii puhul on tagatise saajaks ja kindlustuse puhul on soodustatud isikuks Tarbijakaitse ja Tehnilise Järelevalve Amet;
 
 4) tagatise kasutamise tingimused peavad võimaldama tagatist kasutada vastavalt käesoleva seaduse §-s 15³ sätestatule;
 
 5) tagatise kestus ei tohi olla lühem kui kuus kuud, või kui ettevõtjal on mitu tagatist, siis vähemalt ühe tagatise kestus peab olema vähemalt kuus kuud;
 
-6) tagatise ennetähtaegseks lõpetamiseks või tagatava summa ennetähtaegseks vähendamiseks on nõutav Tarbijakaitseameti kirjalikku taasesitamist võimaldavas vormis nõusolek;
+6) tagatise ennetähtaegseks lõpetamiseks või tagatava summa ennetähtaegseks vähendamiseks on nõutav Tarbijakaitse ja Tehnilise Järelevalve Ameti kirjalikku taasesitamist võimaldavas vormis nõusolek;
 
 7) uueks perioodiks tuleb tagatis seada vähemalt üks kuu enne eelmise tagatise kehtivuse lõppemist ning uue tagatise kehtivus peab algama vähemalt eelmise tagatise lõppemise päevale järgnevast päevast.
 
-(10) Tagatise olemasolu tõendav dokument edastatakse Tarbijakaitseametile viivitamata pärast tagatise väljastamist.
+(10) Tagatise olemasolu tõendav dokument edastatakse Tarbijakaitse ja Tehnilise Järelevalve Ametile viivitamata pärast tagatise väljastamist.
 
 (11) Kui reisiettevõtja tegutseb mitmel tagatist nõudval tegevusalal, siis ei või tagatis olla väiksem, kui nõutakse suurima tagatise summaga tegevusalal.
 

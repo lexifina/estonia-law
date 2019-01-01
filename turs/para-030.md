@@ -1,6 +1,6 @@
 # § 30. Riiklik järelevalve
 
-(1) Käesoleva seadusega ja selle alusel kehtestatud nõuete, välja arvatud käesoleva seaduse §-s 24 sätestatud majutusteenuse kasutaja registreerimise kohustuse ja § 21 lõikes 3 nimetatud järgu andja ülesannete täitmise üle teostab riiklikku järelevalvet Tarbijakaitseamet.
+(1) Käesoleva seadusega ja selle alusel kehtestatud nõuete, välja arvatud käesoleva seaduse §-s 24 sätestatud majutusteenuse kasutaja registreerimise kohustuse ja § 21 lõikes 3 nimetatud järgu andja ülesannete täitmise üle teostab riiklikku järelevalvet Tarbijakaitse ja Tehnilise Järelevalve Amet.
 
 (2) Lisaks käesoleva paragrahvi lõikes 1 sätestatule teostavad järelevalvet järgmised korrakaitseorganid:
 
