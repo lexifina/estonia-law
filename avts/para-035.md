@@ -42,7 +42,7 @@
 
 15) teabe, mis kirjeldab isiku vaimseid või füüsilisi kannatusi;
 
-16) isiku kohta seoses maksustamisega kogutud teabe, välja arvatud teabe maksuvõlgnevuste kohta;
+16) isiku kohta seoses maksustamisega kogutud teabe, välja arvatud maksukorralduse seaduse §-s 27 nimetatud andmed;
 
 17) teabe, mille avalikustamine võib kahjustada ärisaladust;
 
