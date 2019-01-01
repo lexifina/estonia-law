@@ -1,8 +1,8 @@
 # § 42. Suuruluki laskekatse tunnistus ja vibujahi laskekatse tunnistus
 
-(1) Suuruluki laskekatse tunnistus on jahitunnistust omavale isikule antav dokument, mis tõendab tema õigust osaleda suurulukijahil kütina ja kasutada uluki laskmiseks jahipüssikuuliga laetud padrunit.
+(1) Suuruluki laskekatse tunnistus on jahitunnistust omavale isikule antav paberil või elektrooniline dokument, mis tõendab tema õigust osaleda suurulukijahil kütina ja kasutada uluki laskmiseks jahipüssikuuliga laetud padrunit.
 
-(2) Vibujahi laskekatse tunnistus on jahitunnistust omavale isikule antav dokument, mis tõendab tema õigust osaleda väikeulukijahil kütina ja kasutada väikeuluki laskmiseks jahivibu.
+(2) Vibujahi laskekatse tunnistus on jahitunnistust omavale isikule antav paberil või elektrooniline dokument, mis tõendab tema õigust osaleda väikeulukijahil kütina ja kasutada väikeuluki laskmiseks jahivibu.
 
 (3) Suuruluki laskekatse tunnistuse ja vibujahi laskekatse tunnistuse taotlemise, andmise ja arvestuse pidamise korra, katse sooritamise nõuded ning suuruluki laskekatse tunnistuse vormi ja vibujahi laskekatse tunnistuse vormi kehtestab
 
@@ -16,7 +16,7 @@ määrusega.
 
 (7) Suuruluki laskekatse tunnistuse ja vibujahi laskekatse tunnistuse kaotamise või kasutamiskõlbmatuks muutumise korral antakse uus laskekatse tunnistus laskekatse sooritamist nõudmata pärast taotluse esitamist kümne päeva jooksul.
 
-(8) Suuruluki laskekatsete ja vibujahi laskekatsete läbiviimist korraldab ja suuruluki laskekatse tunnistusi ja vibujahi laskekatse tunnistusi annab Keskkonnaamet või käesoleva seaduse § 10 lõike 1 alusel Keskkonnaministeeriumiga halduslepingu sõlminud isik.
+(8) Suuruluki laskekatsete ja vibujahi laskekatsete läbiviimist korraldab ning suuruluki laskekatse tunnistusi ja vibujahi laskekatse tunnistusi annab paberil või elektrooniliselt Keskkonnaamet või käesoleva seaduse § 10 lõike 1 alusel Keskkonnaministeeriumiga halduslepingu sõlminud isik.
 
 (9) Suuruluki laskekatse tunnistuse ja vibujahi laskekatse tunnistuse andmise, kehtivusaja pikendamise ja laskekatse läbiviimise eest tasutakse riigilõivu riigilõivuseaduses sätestatud määrade järgi, või kui haldusülesande täitmine on halduslepinguga üle antud, siis halduslepingus sätestatud tasu.
 
