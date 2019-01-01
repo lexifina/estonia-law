@@ -1,8 +1,8 @@
 # § 9. Kaitseliidu ülesehitus
 
-(1) Kaitseliidu struktuuriüksused on peastaap, malevad, küberkaitseüksus, kool, Naiskodukaitse ning noorteorganisatsioonid Noored Kotkad ja Kodutütred.
+(1) Kaitseliidu struktuuriüksused on peastaap, maakaitseringkonnad, malevad, küberkaitseüksus, kool, Naiskodukaitse ning noorteorganisatsioonid Noored Kotkad ja Kodutütred.
 
-(2) Struktuuriüksuse juht allub vahetult Kaitseliidu ülemale.
+(2) Struktuuriüksuste alluvus sätestatakse kodukorras.
 
 (3) Peastaap on Kaitseliidu ülema tegevust toetav struktuuriüksus.
 
