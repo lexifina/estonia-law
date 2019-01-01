@@ -8,9 +8,11 @@
 
 2) täiendusõpe on käesoleva seaduse tähenduses kutseõpe, mille käigus omandatakse üksikkompetentse.
 
+(2¹) Kutsevaliku õppekava on tasemeõppe õppekava, mille käigus omandatakse erialaõppe alustamiseks vajalikud kompetentsid teisel kvalifikatsioonitasemel.
+
 (3) Tasemeõpe toimub teisel kuni viiendal kvalifikatsioonitasemel.
 
-(4) Õppekava paigutumise kvalifikatsioonitasemele määrab õppekava aluseks oleva kutsestandardi paiknemine Eesti kvalifikatsiooniraamistikus. Kutseõppe aluseks olevad kutsestandardid asetsevad teisel kuni viiendal kvalifikatsioonitasemel. Kutsestandardi puudumisel või vaidlusalustel juhtudel kinnitab õppekava kvalifikatsioonitaseme valdkonna eest vastutav minister, sõjaväeliste õppekavade puhul valdkonna eest vastutav minister ja sisekaitseliste õppekavade puhul valdkonna eest vastutav minister või vastavalt nende volitatud isikud.
+(4) Õppekava paigutumise kvalifikatsioonitasemele määrab õppekava aluseks oleva kutsestandardi või õppekavas kirjeldatud õpiväljundite paiknemine Eesti kvalifikatsiooniraamistikus. Kutseõppe aluseks olevad kutsestandardid asetsevad teisel kuni viiendal kvalifikatsioonitasemel. Kutsestandardi puudumisel või vaidlusalustel juhtudel kinnitab õppekava kvalifikatsioonitaseme Haridus- ja Teadusministeerium, sõjaväeliste õppekavade puhul Kaitseministeerium ja sisekaitseliste õppekavade puhul Siseministeerium.
 
 (5) Kui õpilane läbib täielikult õppekava, mis vastab neljandale kvalifikatsioonitasemele, mille nominaalkestus on vähemalt kolm aastat ja õppemaht 180 Eesti kutsehariduse arvestuspunkti ning mis sisaldab võtmepädevuste õpet kutseharidusstandardis sätestatud mahus, omandab ta koos kutse- ja erialase pädevusega keskhariduse ehk kutsekeskhariduse.
 

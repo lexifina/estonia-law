@@ -24,13 +24,23 @@
 
 8) sõidukulu hüvitamisele ühistranspordiseaduses sätestatud tingimustel ja korras;
 
-9) saada akadeemilist puhkust õppekorralduseeskirjas sätestatud korras tervislikel põhjustel kuni kaks aastat, aja- või asendusteenistuse täitmiseks kuni üks aasta ning lapse hooldamiseks kuni lapse kolmeaastaseks saamiseni;
+9) saada akadeemilist puhkust;
 
 10) saada õppimise toetamiseks tasuta tugiteenuseid;
 
 11) pöörduda tervislikel põhjustel õppetöö ajal tervishoiuteenuse osutaja poole;
 
 12) kasutada teisi seaduse, kooli põhimääruse ja muude õigusaktidega kehtestatud õigusi.
+
+(2¹) Käesoleva paragrahvi lõike 2 punktis 9 nimetatud akadeemilist puhkust on õigus saada:
+
+1) täisealisel taotlejal, kes õpib õppekaval mahuga vähemalt 60 arvestuspunkti – kuni üks aasta;
+
+2) tervislikel põhjustel – kuni kaks aastat;
+
+3) aja- või asendusteenistuse puhul – kuni üks aasta;
+
+4) lapse hooldamiseks – kuni lapse kolmeaastaseks saamiseni.
 
 (3) Statsionaarses õppevormis õppivale õpilasele osutatakse koolitervishoiuteenust põhikooli- ja gümnaasiumiseaduse § 43 alusel.
 

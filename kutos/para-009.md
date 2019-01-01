@@ -1,4 +1,4 @@
-# § 9. Õppe läbiviimise õiguse andmine kooli asutamisel
+# § 9. Õppe läbiviimise õiguse taotlemine kooli asutamisel
 
 (1) Kooli asutamisel koolile õppe läbiviimise õiguse saamiseks esitab kooli pidaja Haridus- ja Teadusministeeriumile taotluse hiljemalt kuus kuud enne õppetöö kavandatavat algust.
 
@@ -6,9 +6,9 @@
 
 1) õigusaktides sätestatud nõuetele vastav õppekava;
 
-2) kinnitus kvalifikatsiooninõuetele vastavate õppekasvatusala töötajate olemasolu kohta;
+2) kvalifikatsiooninõuetele vastavate õppekasvatusala töötajate ametikohtade loetelu;
 
-3) tõendid tervisekaitse- ja ohutusnõuetele vastavate ruumide ja sisustuse ning õppekavale vastava tehnoloogilise sisseseade ja muu taristu olemasolu kohta;
+3) pädevate asutuste hinnang terviseohutusele ja õppetööks kavandatavate ruumide vastavuse kohta ohutusnõuetele;
 
 4) kooli põhimäärus;
 

@@ -1,15 +1,53 @@
 # § 47. Kooli eelarve ja rahastamine
 
-(1) Koolil on oma eelarve, kus kajastuvad kõik kooli tulud, kulud ja finantseerimistehingud.
+(1) Koolil on oma eelarve, kus kajastuvad kõik kooli tulud, kulud ja finantstehingud.
 
 (2) Kooli võib rahastada riigieelarvest, valla- või linnaeelarvest, majandustegevusest laekuvatest tuludest, sihtotstarbelistest laekumistest ja annetustest ning muudest vahenditest.
 
-(3) Käesoleva seaduse §-s 3 sätestatud kooli kohustuste ja ülesannete täitmise rahastamisel riigieelarvest rakendatakse rahastamispõhimõtteid, mis sisaldavad muu hulgas komponente õppekasvatustöö läbiviimise, kutseõppe kättesaadavuse ja kooli tulemusrahastamise kohta.
+(3) Riigieelarvest eraldatakse koolile käesoleva seaduse §-s 3 sätestatud kohustuste ja ülesannete täitmiseks tegevustoetust ja sihtotstarbelist toetust, mis jaotatakse koolidele valdkonna eest vastutava ministri käskkirjaga.
 
-(4) Käesoleva paragrahvi lõikes 3 nimetatud rahastamispõhimõtted, komponendid, nende rakendamise tingimused ja korra ning nende kohaldamise munitsipaal- ja erakoolile kehtestab
+(4) Tegevustoetus on toetus koolile kvaliteetse kutseõppe korraldamiseks ja kooli arengukava täitmiseks.
+
+(5) Tegevustoetuse komponendid on baasrahastamine, tulemusrahastamine ja kättesaadavuse tagamine. Baasrahastamise ja tulemusrahastamise komponentide suhe on vähemalt 80 protsenti baasrahastamine ja kuni 20 protsenti tulemusrahastamine.
+
+(6) Sihtotstarbeline toetus on koolile vajaduse korral määratav täiendav toetus riigi strateegilistest eesmärkidest tulenevate tegevuste elluviimiseks.
+
+(7) Koolile tulemusrahastamisest arvestatava tegevustoetuse osa arvutamisel võetakse muu hulgas arvesse tegevustoetuse käskkirja või halduslepingu täitmist ja järgmisi tulemusnäitajaid:
+
+1) kutseõppe läbiviimise kvaliteedinäitajad, sealhulgas kooli kutseeksamiga lõpetamise ja töökohapõhise õppe näitajad;
+
+2) kutseõppe läbiviimise tulemuslikkuse näitajad, sealhulgas kutsekeskhariduse õppekavade lõpetamise näitajad;
+
+3) ühiskonna arengu toetamise näitajad, sealhulgas tööhõives osalemise ja õpingute jätkamise näitajad ning tööturu osapoolte ja õppeasutustega tehtava koostöö näitajad.
+
+(8) Riigieelarvest eraldatud tegevustoetusest moodustab kool kalendriaastaks tasuta koolituskohad. Koolituskoha arvestuslik alus on 60 arvestuspunkti mahus õpiväljundeid. Tasuta koolituskohal õppivatelt õpilastelt ei nõuta õppekulude hüvitamist üheski kutseõpet korraldavas õppeasutuses, olenemata selle omandivormist.
+
+(9) Käesoleva paragrahvi lõikes 3 sätestatud tegevustoetuse põhimõtted, rakendamise tingimused ja korra ning kohaldamise munitsipaal- ja erakoolile kehtestab
 
 määrusega.
 
-(5) Õppekasvatustöö läbiviimisega seotud kulud katab riikliku koolitustellimuse esitaja riikliku koolitustellimuse alusel moodustatud koolituskohtade ja asjaomase õppekava alusel selle nominaalse õppeaja jooksul.
+(10) Riigi hallatavale koolile tegevustoetuse ja vajaduse korral sihtotstarbelise toetuse eraldamise ning kooli kohustused kutseõppe korraldamisel kinnitab valdkonna eest vastutav minister tegevustoetuse eraldamise käskkirjaga. Tegevustoetuse eraldamise käskkirjas määratakse muu hulgas:
 
-(6) Koolil on õigus nõuda õppekulude hüvitamist nõukogu kehtestatud tingimustel ja korras ainult õpilaselt, kes ei õpi riikliku koolitustellimuse alusel rahastatud koolituskohal. Õppekulu hüvitamise ülemmäär on riikliku koolitustellimuse alusel moodustatud koolituskoha maksumus asjaomases õppekavarühmas või asjaomasel õppekaval samal kalendriaastal. Õppekulude hüvitamise määra kehtestab nõukogu vähemalt neli kuud enne õppeaasta algust. Nõukogu võib õppekulude hüvitamise määra kehtestamisel tõsta määra kuni kümme protsenti võrreldes eelmise õppeaastaga, kuid mitte rohkem kui õppekulu hüvitamise ülemmäär.
+1) tegevustoetuse ja vajaduse korral sihtotstarbelise toetuse rahaline maht;
+
+2) kooli ülesannetest ja riigi vajadustest lähtuvad kutseõppe läbiviimisega seotud kohustused;
+
+3) riigieelarvest rahastatavate hariduslike erivajadustega õpilaste ja kinnipidamisasutuses korraldatava kutseõppe koolituskohtade arv.
+
+(11) Munitsipaal- ja erakooli pidajale riigieelarvest tegevustoetuse ja vajaduse korral sihtotstarbelise toetuse eraldamine ning kooli kohustused kutseõppe korraldamisel lepitakse kokku kooli pidaja ja ministeeriumi vahel sõlmitava halduslepinguga, milles sätestatakse muu hulgas:
+
+1) riigieelarvest eraldatava tegevustoetuse ja vajaduse korral sihtotstarbelise toetuse rahaline maht ja eraldamise kord;
+
+2) riigi vajadustest lähtuvad kutseõppe läbiviimisega seotud ülesanded ja kohustused;
+
+3) riigieelarvest rahastatavate koolituskohtade arv, sealhulgas vajaduse korral eraldi hariduslike erivajadustega õpilaste ja kinnipidamisasutuses korraldatava kutseõppe koolituskohtade arv;
+
+4) vajaduse korral muude vahendite määramise tingimused ja kord.
+
+(12) Käesoleva paragrahvi lõike 10 punktis 2 ja lõike 11 punktis 2 nimetatud ülesannete ja kohustuste määramisel koostöös sotsiaalpartneritega lähtutakse tööturu vajadustest, registreeritud kutse- ja erialaliitude ettepanekutest, riigi strateegilistest ja valdkondlikest arengukavadest, uuringutest ja prognoosidest ning väljakujunenud koolivõrgust.
+
+(13) Koolil on õigus nõuda õppekulude hüvitamist nõukogu kehtestatud tingimustel ja korras õpilaselt, kes ei õpi käesoleva paragrahvi lõike 8 alusel moodustatud koolituskohal. Õppekulude hüvitamise määra kehtestab nõukogu vähemalt neli kuud enne õppeaasta algust. Nõukogu võib õppekulude hüvitamise määra kehtestamisel tõsta määra kuni kümme protsenti võrreldes eelmise õppeaastaga.
+
+(14) Sisekaitselise rakenduskõrgkooli kutseõppe finantseerimise alused, tingimused ja korra kehtestab
+
+määrusega.

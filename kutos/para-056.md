@@ -9,3 +9,5 @@
 (4) Käesoleva seaduse § 21 lõikes 3 nimetatud hädaolukorra lahendamise plaan kehtestatakse 2014. aasta 1. jaanuariks.
 
 (5) Kool on kohustatud tagama käesoleva seaduse § 3 lõike 2 punktis 2 nimetatud tugiteenuste õpilase vajadustele vastava kättesaadavuse 2014. aasta 1. jaanuarist.
+
+(6) Kooli põhimäärus viiakse käesoleva seaduse 2019. aasta 1. jaanuaril jõustunud muudatustega kooskõlla 2019. aasta 1. septembriks.

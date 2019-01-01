@@ -2,6 +2,8 @@
 
 (1) Õpingud kutseõppes loetakse lõpetatuks pärast õppekavas kirjeldatud kvalifikatsioonile või osakutsele vastavate õpiväljundite saavutamist ja lõpetajale väljastatakse lõputunnistus.
 
+(1¹) Kutsevaliku õppekava loetakse lõpetatuks pärast õppekavas kirjeldatud õpiväljundite saavutamist ja lõpetajale väljastatakse lõputunnistus.
+
 (2) Keskhariduse omandamist võimaldava õppekava alusel õppija õpingute kiitusega lõpetamise tingimused kehtestab
 
 määrusega.

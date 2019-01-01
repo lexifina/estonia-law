@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/122012018007> (version in force from 2018-02-01)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/128122018012> (version in force from 2019-01-01)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -15,14 +15,16 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/122012018007> (version in force 
 | [§ 5](para-005.md) | Asutamine |
 | [§ 6](para-006.md) | Kooli põhimäärus ja arengukava |
 | [§ 7](para-007.md) | Kooli nimi |
-| **3. peatükk Õppe läbiviimise õigus** | |
+| **3. peatükk Õppe läbiviimise õigus ja kvaliteedi hindamine** | |
 | [§ 8](para-008.md) | Õppe läbiviimise õigus |
-| [§ 9](para-009.md) | Õppe läbiviimise õiguse andmine kooli asutamisel |
-| [§ 10](para-010.md) | Õppe läbiviimise õiguse andmine õppe avamisel uues õppekavarühmas |
+| [§ 9](para-009.md) | Õppe läbiviimise õiguse taotlemine kooli asutamisel |
+| [§ 10](para-010.md) | Õppe läbiviimise õiguse taotlemine õppe avamisel uues õppekavarühmas |
+| [§ 10¹](para-010b1.md) | Isikuarengu õppekavarühmas õppe läbiviimise taotlemine |
 | [§ 11](para-011.md) | Ekspertiis |
 | [§ 12](para-012.md) | Õppe läbiviimise õiguse andmine ja sellest keeldumine |
 | [§ 13](para-013.md) | Õppe läbiviimise õiguse pikendamine |
-| [§ 14](para-014.md) | Õppe läbiviimise õiguse kehtetuks tunnistamine ning õppe läbiviimise õiguse kehtetuks tunnistamise ja pikendamisest keeldumise tagajärjed |
+| [§ 14](para-014.md) | Õppe läbiviimise õiguse kehtetuks tunnistamine ja selle lõppemine |
+| [§ 14¹](para-014b1.md) | Kutseõppe kvaliteedi hindamine |
 | **4. peatükk Kooli juhtimine** | |
 | [§ 15](para-015.md) | Direktor |
 | [§ 16](para-016.md) | Direktori ametikoha täitmine |
@@ -54,6 +56,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/122012018007> (version in force 
 | [§ 39](para-039.md) | Kvalifikatsiooninõuded |
 | [§ 40](para-040.md) | Õpetaja tööaeg |
 | [§ 41](para-041.md) | Õpetaja lähtetoetus |
+| [§ 41¹](para-041b1.md) | Tugispetsialisti lähtetoetus |
 | [§ 42](para-042.md) | Õpilaskond |
 | [§ 43](para-043.md) | Õpilase kohustused ja õigused |
 | **8. peatükk Koolitustellimus** | |

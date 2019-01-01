@@ -1,18 +1,22 @@
 # § 11. Ekspertiis
 
-(1) Õppe läbiviimise õiguse andmisel tehakse õppekavarühma ekspertiis. Valdkonna eest vastutav minister moodustab ekspertiisikomisjoni, mis hindab:
+(1) Õppe läbiviimise õiguse andmisel teeb Haridus- ja Teadusministeerium õppekavarühmas ekspertiisi. Haridus- ja Teadusministeerium võib ekspertiisi tegemise volitada riigi sihtasutusele või halduskoostöö seaduse alusel valitud isikule, sõlmides selleks halduslepingu. Halduslepingu täitmise üle teostab järelevalvet Haridus- ja Teadusministeerium. Ekspertiisi käigus hinnatakse:
 
-1) õppekavas sätestatud õpiväljundite saavutatavust;
+1) õppekavas sätestatud õpiväljundite saavutatavust ja vastavust kutseharidusstandardi nõuetele;
 
-2) õppekasvatusala töötajate vastavust kvalifikatsiooninõuetele;
+2) kavandatavate kvalifikatsiooninõuetele vastavate õppekasvatusala töötajate ametikohtade piisavust õppekavarühmas õppe läbiviimiseks;
 
-3) õppetaristu sobivust õppekava eesmärkide täitmiseks;
+3) õppekavarühmas õppe läbiviimiseks vajalike ressursside piisavust;
 
 4) avatava õppe jätkusuutlikkust arengukavast lähtuvalt;
 
 5) avatava õppe otstarbekust tööturuprognoosi, potentsiaalsete õpilaste olemasolu, käesoleva seaduse § 9 lõike 2 punktides 7 ja 8 ning § 10 lõike 2 punktides 4 ja 5 sätestatud arvamuste ning õppe tõenduspõhisuse seisukohalt.
 
-(2) Ekspertiisi kulud katab õppe läbiviimise õiguse taotleja. Ekspertiisi kulud ja nende katmise korra kinnitab valdkonna eest vastutav minister käskkirjaga, kusjuures kulu ei või olla suurem kui 640 eurot.
+(1¹) Kui tähtajalise õppe läbiviimise õiguse saanud kool taotleb asjaomases õppekavarühmas korduva ekspertiisi tegemist, lisatakse korduva ekspertiisi taotlusele sisehindamise aruanne.
+
+(1²) Korduva ekspertiisi käigus hinnatakse käesoleva paragrahvi lõike 1 punktides 1–3 sätestatut ekspertiisi taotlusele lisatud sisehindamise aruande alusel.
+
+(2) Ekspertiisi kulud katab õppe läbiviimise õiguse taotleja. Ekspertiisi kulud ja nende katmise korra kinnitab valdkonna eest vastutav minister käskkirjaga, kusjuures kulu ei või olla suurem kui 1200 eurot.
 
 (3) Ekspertiis tehakse pärast käskkirjaga kinnitatud ekspertiisi kulude tähtaegset katmist.
 

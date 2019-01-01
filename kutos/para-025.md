@@ -2,7 +2,7 @@
 
 (1) Kutsekeskhariduse omandamist võimaldava õppekava alusel õppima asumisel nõutakse põhihariduse olemasolu ning vähemalt 22 aasta vanuselt põhihariduseta isikult põhihariduse tasemele vastavate kompetentside olemasolu. Nõutavate kompetentside olemasolu hindab kool.
 
-(2) Neljandale kvalifikatsioonitasemele vastava õppekava alusel õppima asumisel nõutakse põhihariduse olemasolu.
+(2) Neljandale kvalifikatsioonitasemele vastava õppekava alusel õppima asumisel nõutakse vähemalt põhihariduse olemasolu.
 
 (3) Viiendale kvalifikatsioonitasemele vastava õppekava alusel õppima asumisel nõutakse keskhariduse olemasolu.
 

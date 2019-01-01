@@ -4,7 +4,7 @@
 
 (2) Munitsipaalkooli asutab valla- või linnavolikogu.
 
-(3) Kooli pidaja taotleb pärast kooli asutamist valdkonna eest vastutavalt ministrilt õppe läbiviimise õigust käesolevas seaduses sätestatud tingimustel ja korras. Kui kooli asutab valdkonna eest vastutav minister, teeb ta õppe läbiviimise õiguse andmise otsuse samal ajal kooli asutamise otsusega.
+(3) Kooli pidaja taotleb pärast kooli asutamist valdkonna eest vastutavalt ministrilt õppe läbiviimise õigust käesolevas seaduses sätestatud tingimustel ja korras.
 
 (4) Kooli andmed kantakse Eesti Vabariigi haridusseaduse § 36⁶ lõike 4 alusel asutatud Eesti Hariduse Infosüsteemi (edaspidi *hariduse infosüsteem*) koolile esimest korda õppe läbiviimise õiguse andmise järel.
 

@@ -4,7 +4,7 @@
 
 2. peatükk Kooli asutamine, alusdokumendid ja nimi
 
-3. peatükk Õppe läbiviimise õigus
+3. peatükk Õppe läbiviimise õigus ja kvaliteedi hindamine
 
 4. peatükk Kooli juhtimine
 

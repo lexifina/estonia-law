@@ -8,7 +8,7 @@
 
 1) teeb kooli pidajale ja kooli nõukogule ettepanekuid kooli arengusuundade, tegevuse, vara, eelarve, juhtimise ja põhimääruse muutmisega seotud küsimustes;
 
-2) annab hinnangu kooli koostööle riigiasutuste, kohaliku omavalitsuse üksuste ja ettevõtetega kooli arengukava eesmärkide saavutamisel;
+2) annab hinnangu kooli arengukava eesmärkide saavutamisele ning koostööle riigiasutuste, kohaliku omavalitsuse üksuste ja ettevõtetega;
 
 3) avaldab arvamust uues õppekavarühmas õppe läbiviimise õiguse taotlemise kohta;
 
@@ -16,7 +16,7 @@
 
 5) nimetab esindaja direktori vabale ametikohale korraldatava konkursi läbiviimiseks moodustatava konkursikomisjoni koosseisu;
 
-6) avaldab arvamust kooli majandusaasta aruande kohta.
+7) kooskõlastab koolituskohtade arvu kalendriaastaks õppevaldkonnas, õppekavarühmas või õppekaval, sealhulgas nende koolituskohtade arvu, mille õppekulusid ei hüvitata.
 
 (4) Nõunike kogu esindajal on õigus osa võtta kooli nõukogu istungitest.
 

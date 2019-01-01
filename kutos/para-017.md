@@ -26,23 +26,19 @@
 
 3) kooskõlastab kooli arengukava eelnõu ja esitab selle kooli pidajale kinnitamiseks;
 
-4) kooskõlastab kooli majandusaasta aruande;
-
 5) kinnitab kooli õppekorralduseeskirja;
 
 6) kinnitab kooli õppeaasta tööplaani, sealhulgas õppekasvatusala töötajate koolitusplaani;
 
-7) kooskõlastab kooli eelarve, eelarve täitmise aruande ja hankeplaani;
-
-8) kinnitab kooli sisehindamisaruande;
+7) kooskõlastab kooli eelarve ja hankeplaani;
 
 9) kooskõlastab kooli õppekavad;
 
-10) otsustab õigusaktidega sätestatud ulatuses ja korras kooli kasutusse antud riigivaraga seotud küsimusi;
+10) kooskõlastab kooli kasutusse antud riigivaraga seotud toiminguid;
 
 11) kinnitab kooli õpilasesinduse põhikirja;
 
-12) moodustab vajaduse korral komisjone ja töörühmi;
+11¹) kinnitab koolituskohtade arvu kalendriaastaks õppevaldkonnas, õppekavarühmas või õppekaval, sealhulgas nende koolituskohtade arvu, mille õppekulusid ei hüvitata;
 
 13) lahendab teisi küsimusi, mis õigusaktide ja kooli põhimääruse alusel kuuluvad tema pädevusse.
 

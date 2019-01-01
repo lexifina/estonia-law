@@ -9,3 +9,7 @@
 (4) Õppe läbiviimise õigust taotletakse pärast käesoleva seaduse jõustumist kooli asutamisel või uues õppekavarühmas õppe avamisel käesoleva seaduse kohaselt.
 
 (5) Aastatel 2011–2013 läbiviidud ühekordse valikulise akrediteerimise käigus positiivse hinnangu ehk täisakrediteeringu saanud koolide õppekavarühmades loetakse õppe läbiviimise õigus pikendatuks kuueks aastaks alates käesoleva seaduse jõustumisest.
+
+(6) Õppekavarühmadele, mille kohta koolil on 2019. aasta 31. augustiks akrediteering kuueks aastaks, loetakse antuks tähtajatu õppe läbiviimise õigus. Tähtajatu õppe läbiviimise õiguse saanute kutseõppe kvaliteeti hinnatakse vastavalt käesoleva seaduse §-s 14¹ sätestatule.
+
+(7) Õppekavarühmades, milles koolil on 2019. aasta 31. augustiks kehtiv õppe läbiviimise õigus kolmeks aastaks, tehakse õppe läbiviimise õiguse ekspertiis vastavalt käesoleva seaduse §-s 11 sätestatule. Ekspertiisi kulud katab Haridus- ja Teadusministeerium.

@@ -1,6 +1,6 @@
 # § 24. Õppekavad
 
-(1) Õppekavaga määratakse kindlaks kutse-, eri- ja ametialase õppe eesmärgid ja ülesanded, saavutatavad õpiväljundid ning seosed Eesti kvalifikatsiooniraamistikuga, õpingute alustamise ja lõpetamise nõuded, õppekava moodulid ning nende maht koos õpiväljundite ja hindamiskriteeriumitega, moodulite valiku võimalused ja tingimused ning spetsialiseerumisvõimalused. Kutsestandardite alusel määratakse õppekavades kindlaks õppe käigus omandatavad osakutsed.
+(1) Õppekavaga määratakse kindlaks kutse-, eri- ja ametialase ning võtmepädevuste õppe eesmärgid ja ülesanded, saavutatavad õpiväljundid ning seosed Eesti kvalifikatsiooniraamistikuga, õpingute alustamise ja lõpetamise nõuded, õppekava moodulid ning nende maht koos õpiväljundite ja hindamiskriteeriumitega, moodulite valiku võimalused ja tingimused ning spetsialiseerumisvõimalused. Kutsestandardite alusel määratakse õppekavades kindlaks õppe käigus omandatavad kutsed ja osakutsed.
 
 (2) Tasemeõppe õppekavad jagunevad riiklikeks õppekavadeks ja kooli õppekavadeks.
 
@@ -8,7 +8,7 @@
 
 määrusega, kusjuures valdkonna eest vastutav minister võib eraldi määrusega kehtestada kõikide riiklike õppekavade ühise osa.
 
-(4) Tasemeõppe läbiviimise aluseks on kooli õppekavad, mis registreeritakse hariduse infosüsteemis. Registreerimise käigus kontrollitakse õppekavade vastavust õigusaktides asjaomasele õppekavale kehtestatud nõuetele. Õppekava, mis ei vasta nõuetele, jäetakse valdkonna eest vastutava ministri või tema volitatud isiku otsusega registreerimata. Otsus toimetatakse õppekava registreerimiseks esitanud koolile või kooli pidajale kätte tema soovi kohaselt kas posti teel või elektrooniliselt.
+(4) Tasemeõppe läbiviimise aluseks on kooli õppekavad, mis registreeritakse hariduse infosüsteemis. Registreerimise käigus kontrollitakse õppekavade vastavust õigusaktides asjaomasele õppekavale kehtestatud nõuetele ja õppekava avamise põhjendatust. Õppekava, mis ei vasta nõuetele või mille avamist ei peeta põhjendatuks, jäetakse valdkonna eest vastutava ministri või tema volitatud isiku otsusega registreerimata. Otsus toimetatakse õppekava registreerimiseks esitanud koolile või kooli pidajale kätte tema soovi kohaselt kas posti teel või elektrooniliselt.
 
 (5) Kooli õppekavad jagunevad esmaõppe ja jätkuõppe õppekavadeks:
 
@@ -22,4 +22,4 @@ määrusega, kusjuures valdkonna eest vastutav minister võib eraldi määrusega
 
 (8) Sõjaväelistel ja sisekaitselistel erialadel riiklikke õppekavasid ei kehtestata. Sõjaväeliste ja sisekaitseliste erialade kooli õppekavad koostatakse kutseharidusstandardi ja vastava kutsestandardi alusel, kui viimane on olemas.
 
-(9) Kvalifikatsioonitaset tõstva jätkuõppe ja viiendale kvalifikatsioonitasemele vastava esmaõppe õppekava saab avada, kui asjaomases õppekavarühmas on õppe läbiviimise õigus pikendatud kuueks aastaks või kui õppekava avamist toetavad õppekavarühmale vastavad sotsiaalpartnerid ja kooli pidaja.
+(9) Kvalifikatsioonitaset tõstva jätkuõppe ja viiendale kvalifikatsioonitasemele vastava esmaõppe õppekava saab avada, kui asjaomases õppekavarühmas on õppe läbiviimise õigus antud tähtajatult või kui õppekava avamist toetavad õppekavarühmale vastavad sotsiaalpartnerid ja kooli pidaja.

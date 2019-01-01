@@ -12,8 +12,12 @@
 
 (6) Käesoleva paragrahvi lõikes 4 nimetatud kool väljastab õpilasele kooli lõpetamisel põhikooli või gümnaasiumi lõputunnistuse, milles on kutseõppe läbimist tõendav kanne, või kutseõppeasutuse lõputunnistuse või mõlemad.
 
-(7) Erivajadusega isikute koolis õppimise tingimused ja korra kehtestab
+(7) Haridusliku erivajadusega õpilase koolis õppimise tingimused ja korra kehtestab
 
 määrusega.
 
 (8) Kool võib õpilase individuaalsuse arvestamiseks teha muudatusi või kohandusi õppeajas, õppesisus, õppekorralduses ja õppekeskkonnas, koostades õpilasele kooli õppekava alusel individuaalse õppekava. Seejuures peavad individuaalse õppekava õpiväljundid kattuma kooli õppekavas kirjeldatutega. Individuaalse õppekava kinnitab kooli direktor.
+
+(9) Koolis võib avada põhikooli- ja gümnaasiumiseaduse tähenduses mittestatsionaarses õppevormis põhikooli- ja gümnaasiumiõppe juhul, kui koolis toimub õpe ka kutsekeskhariduse õppekava alusel. Mittestatsionaarse õppe avamise otsustab kooli pidaja.
+
+(10) Käesoleva paragrahvi lõikes 9 nimetatud õppe korraldamisel laienevad koolile põhikooli- ja gümnaasiumiseaduses õppekoormust, hindamist, õppekavasid, toetusi, koolivaheaegu, kooli lõpetamise tingimusi ning õpilase õigusi ja kohustusi reguleerivad sätted, muus osas kohaldatakse käesolevat seadust.
