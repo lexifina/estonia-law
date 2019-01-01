@@ -2,7 +2,7 @@
 
 (1) Käesolevat seadust kohaldatakse töötamisele Eesti laevakinnistusraamatusse või laevapereta prahitud laevade registrisse kantud laeval (edaspidi *laev*).
 
-(2) Käesolevat seadust kohaldatakse tööülesannete täitmisele renditööna ka käesoleva paragrahvi lõikes 1 nimetamata laeval, kui tööandja on Eestis registreeritud juriidiline isik ning laevapere liige on Eesti rahvastikuregistri objekt.
+(2) Käesolevat seadust kohaldatakse tööülesannete täitmisele renditööna ka käesoleva paragrahvi lõikes 1 nimetamata laeval, kui tööandja on Eestis registreeritud juriidiline isik ning laevapere liige on Eesti rahvastikuregistri andmesubjekt.
 
 (3) Käesolevat seadust ei kohaldata töötamisele alla 24 meetri pikkusel kalalaeval.
 
