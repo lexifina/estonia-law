@@ -18,9 +18,7 @@
 
 7) isiku emakeel;
 
-8) isiku haridus;
-
-9) isiku tegevusala.
+8) isiku haridus.
 
 (3) Uue perekonnanime andmisel järgitakse käesoleva seaduse §-s 17¹ ja eesnime andmisel §-s 19 sätestatut.
 
@@ -32,9 +30,9 @@
 
 (6²) Kui uue ees- või perekonnanime andmise või endise isikunime taastamise otsustab minister või tema volitatud Siseministeeriumi ametnik, teeb käesoleva paragrahvi lõike 9 alusel kehtestatud korras sätestatud menetlustoimingud käesoleva paragrahvi lõikes 1 nimetatud perekonnaseisuasutuse ametnik.
 
-(6³) Käesoleva paragrahvi lõigete 6¹ ja 6² alusel uue ees- või perekonnanime andmise või endise isikunime taastamise otsustamise ning käesoleva paragrahvi lõike 9 alusel kehtestatud korras sätestatud juhtudel menetlustoimingute tegemise kui kohaliku omavalitsuse üksuse täidetava riikliku ülesande kulud hüvitatakse valla- ja linnavalitsusele riigieelarvest Vabariigi Valitsuse kehtestatud ulatuses.
+(6³) Kohaliku omavalitsuse üksuse poolt käesoleva paragrahvi lõigete 6¹ ja 6² alusel uue ees- või perekonnanime andmise või endise isikunime taastamise otsustamise ning käesoleva paragrahvi lõike 9 alusel kehtestatud korras sätestatud juhtudel menetlustoimingute tegemise kui riikliku ülesande täitmise kulud hüvitatakse kohaliku omavalitsuse üksusele riigieelarvest, võttes aluseks eelarveaastale eelnenud aastal tehtud toimingute arvu ning vastava aasta riigieelarves sätestatud ühe toimingu keskmise arvutatud kulu.
 
-(7) Valdkonna eest vastutava ministri või tema volitatud isiku poolt haldusaktiga uue eesnime, perekonnanime või isikunime andmise või eesnime, perekonnanime või isikunime taastamise otsustamise eest tasutakse riigilõiv. Valdkonna eest vastutav minister võib käskkirjaga kinnitada juhendeid ja selgitusi käesoleva seaduse alusel tasutud riigilõivu aruandluse korraldamise kohta.
+(7) Valdkonna eest vastutava ministri või tema volitatud isiku poolt haldusaktiga uue eesnime, perekonnanime või isikunime andmise või eesnime, perekonnanime või isikunime taastamise otsustamise eest tasutakse riigilõiv.
 
 (8) Käesoleva paragrahvi lõikes 1 nimetatud avalduses esitatavate andmete täpsustatud loetelu kehtestab
 
@@ -43,7 +41,5 @@ määrusega.
 (9) Isikule uue eesnime, perekonnanime või isikunime andmise korra ja avalduse vormi kehtestab
 
 määrusega.
-
-(10) Käesoleva paragrahvi lõike 2 punktides 6–9 nimetatud andmeid kogutakse statistilistel eesmärkidel ning avaldajale teatatakse, et nende esitamine on vabatahtlik.
 
 (11) Enda isiku tõendamiseks esitab avaldaja isikut tõendavate dokumentide seaduse § 2 lõike 2 punktides 1 ja 1²–8 või §-s 4 nimetatud dokumendi, välja arvatud digitaalallkirjaga kinnitatud avalduse esitamise korral.
