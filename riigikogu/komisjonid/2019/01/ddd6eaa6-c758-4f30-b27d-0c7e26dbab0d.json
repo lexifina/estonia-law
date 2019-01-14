@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung esmaspäev, 14.01.2019 11:00",
+  "sitting_time": "2019-01-14T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2cea4b77-d13a-4d6f-b4f9-44307f237f51"
+    },
+    {
+      "order": 2,
+      "title": "Jäätmeseadus (495 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "af656770-a069-4362-9cba-b7546de98ad6"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK protokoll 14.01.2019",
+      "uuid": "13d1b656-b3d9-43a8-b882-b65b78aad758",
+      "files": [
+        "14.01.2019 protok.181.pdf",
+        "KEKK_protokoll_14.01.2019.bdoc"
+      ]
+    }
+  ],
+  "uuid": "ddd6eaa6-c758-4f30-b27d-0c7e26dbab0d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ddd6eaa6-c758-4f30-b27d-0c7e26dbab0d)",
+  "source": "https://api.riigikogu.ee/api/volumes/ddd6eaa6-c758-4f30-b27d-0c7e26dbab0d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-01-01&endDate=2019-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
