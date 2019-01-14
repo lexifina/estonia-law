@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung esmaspäev, 14.01.2019 11:00",
+  "sitting_time": "2019-01-14T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "68d993fc-0d7b-4f8b-944c-7042af64cabb"
+    },
+    {
+      "order": 2,
+      "title": "Kaitseliidu seaduse muutmise seaduse eelnõu (786 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a746afb4-e1fc-4853-8a51-2184a098275b"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f69b0be2-2d4d-4f45-b918-469e5afffac7"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RIKK protokoll 14.01.2019",
+      "uuid": "28926d0e-121f-4858-86a0-529f8b635fe5",
+      "files": [
+        "Protokol_20190114.pdf",
+        "Protokoll.bdoc"
+      ]
+    }
+  ],
+  "uuid": "c133fbe1-64c5-42c4-8a9f-8b1359de39a7",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c133fbe1-64c5-42c4-8a9f-8b1359de39a7)",
+  "source": "https://api.riigikogu.ee/api/volumes/c133fbe1-64c5-42c4-8a9f-8b1359de39a7",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-01-01&endDate=2019-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
