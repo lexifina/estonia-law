@@ -1,5 +1,9 @@
-# § 235¹. Eesti Vabariigi vastane vandenõu
+# § 235¹. Eesti Vabariigi vastane suhe
 
-Eesti Vabariigi kodaniku poolt suhte loomise või pidamise eest välisriigiga, välisriigi organisatsiooni või välisriigi ülesandel tegutseva isikuga eesmärgiga panna toime käesoleva seadustiku §-s 232 sätestatud kuritegu –
+(1) Suhte loomise või pidamise eest välisriigiga, välisriigi organisatsiooniga või välisriigi ülesandel tegutseva isikuga eesmärgil panna toime käesoleva seadustiku §-s 231, 232, 233, 234, 234² või 235 sätestatud kuritegu –
 
 karistatakse kuni kuueaastase vangistusega.
+
+(2) Sama teo eest, kui selle on toime pannud juriidiline isik, –
+
+karistatakse rahalise karistusega.

@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/107122018021> (version in force from 2018-12-17)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/104012019015> (version in force from 2019-01-14)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -356,8 +356,9 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/107122018021> (version in force 
 | [§ 233](para-233.md) | Välismaalase poolt toimepandud Eesti Vabariigi vastu suunatud vägivallata tegevus |
 | [§ 234](para-234.md) | Salakuulamine |
 | [§ 234¹](para-234b1.md) | Eesti Vabariigi vastase sõja või okupatsiooni toetamine |
+| [§ 234²](para-234b2.md) | Eesti Vabariigi vastu suunatud luuretegevus ja selle toetamine |
 | [§ 235](para-235.md) | Eesti Vabariigi põhiseadusliku korra vastane ühendus |
-| [§ 235¹](para-235b1.md) | Eesti Vabariigi vastane vandenõu |
+| [§ 235¹](para-235b1.md) | Eesti Vabariigi vastane suhe |
 | [§ 235²](para-235b2.md) | Eesti Vabariigi vastane võltsimine |
 | [§ 235³](para-235b3.md) | Ametiisiku riigivastane mõjutamine |
 | [§ 236](para-236.md) | Üleskutse kuriteo toimepanemisele Eesti Vabariigi vastu |
@@ -367,6 +368,8 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/107122018021> (version in force 
 | [§ 237²](para-237b2.md) | Terrorikuriteo ettevalmistamine ja üleskutse selle toimepanemisele |
 | [§ 237³](para-237b3.md) | Terrorikuriteo ja selle toimepanemisele suunatud tegevuse rahastamine ning toetamine |
 | [§ 237⁴](para-237b4.md) | Kuritahtlik sisenemine Eesti Vabariiki |
+| [§ 237⁵](para-237b5.md) | Terroristlikul eesmärgil reisimine |
+| [§ 237⁶](para-237b6.md) | Terroristlikul eesmärgil reisimise korraldamine, rahastamine ja toetamine |
 | [§ 238](para-238.md) | Massilise korratuse organiseerimine ja ettevalmistamine ning üleskutse selles osalemisele |
 | [§ 239](para-239.md) | Süüteo toimepanemine massilise korratuse ajal |
 | [§ 240](para-240.md) | Ametiruumi tungimine |
