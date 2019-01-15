@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung teisipäev, 15.01.2019 14:00",
+  "sitting_time": "2019-01-15T14:05:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Informatsioon julgeolekuolukorra arengutest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5b9dfc40-a2e9-402d-8dac-cc4f805a9e97"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8800e326-7a24-4da2-892d-3121954d65a1"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 15.01.2019",
+      "uuid": "6bbd30b3-02d7-4aaa-a66d-c4d0af033faf",
+      "files": [
+        "VÄLK_protokoll_15.01.2019.bdoc",
+        "VALK_protokoll_20190115.pdf"
+      ]
+    }
+  ],
+  "uuid": "701456e2-21d6-4ad7-831d-b1a848a82c3c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 701456e2-21d6-4ad7-831d-b1a848a82c3c)",
+  "source": "https://api.riigikogu.ee/api/volumes/701456e2-21d6-4ad7-831d-b1a848a82c3c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-01-01&endDate=2019-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
