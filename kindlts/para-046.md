@@ -8,7 +8,7 @@
 
 3) määratud varaga seotud oodatav rahavoog jäljendab võimalikult täpselt kohustustega seotud oodatavat rahavoogu samas valuutas ning varade ja kohustuste rahavoogude mittekattuvuse ulatus ei põhjusta riske, mis on olulised kindlustustegevusele, mille suhtes kattuvuse kohandamist rakendatakse;
 
-4) määratud kohustuste aluseks olevate kindlustuslepingute alusel ei tasuta kindlustusandjale tuleviku kindlustusmakseid ning nendest lepingutest kindlustusandjale tulenevad kindlustusriskid on üleelamisrisk, kindlustuskulude risk, ümberhindamise risk ja suremusrisk;
+4) määratud kohustuste aluseks olevate kindlustuslepingute alusel ei tasuta kindlustusandjale tuleviku kindlustusmakseid ning ainukesed nendest lepingutest kindlustusandjale tulenevad kindlustusriskid on üleelamisrisk, kindlustuskulude risk, ümberhindamise risk ja suremusrisk;
 
 5) käesoleva seaduse § 61 kohaselt kalibreeritud ja komisjoni delegeeritud määruse (EL) nr 2015/35 artiklis 52 nimetatud suremusriski stressi tulemusel ei suurene suremusriski arvestavate määratud kohustuste parim hinnang rohkem kui viis protsenti;
 

@@ -4,7 +4,7 @@
 
 1) kindlustusjuhtumiks on vahendaja või tema esindaja poolt kindlustuse turustamisest tuleneva kohustuse rikkumisega varalise kahju tekitamine turustatud kindlustuslepingu järgsele kindlustusvõtjale, kindlustatule või soodustatud isikule;
 
-2) kindlustussumma on vähemalt 1,3 miljonit eurot ühe kindlustusjuhtumi kohta ja 1,9 miljonit eurot aastas kõigi esitatud nõuete kohta;
+2) kindlustussumma on vähemalt 1 300 380 eurot ühe kindlustusjuhtumi kohta ja 1 924 560 eurot aastas kõigi esitatud nõuete kohta;
 
 3) kindlustuskaitse kehtib vähemalt Euroopa Majanduspiirkonnas;
 
