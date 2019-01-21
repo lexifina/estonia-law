@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Korruptsioonivastane erikomisjon",
+  "committee_uuid": "e4f2977a-e8c3-4fa0-8f3d-9df9acd6377f",
+  "title": "Komisjoni istung esmaspäev, 21.01.2019 13:30",
+  "sitting_time": "2019-01-21T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Komisjonile laekunud märgukirja arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dd9a1268-6502-417c-8674-0da511c1b6c0"
+    },
+    {
+      "order": 2,
+      "title": "Komisjoni  tegevuskava arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b5238fdc-c6ed-4448-a314-d5dbee8bfe7f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KVEK protokoll 21.01.2019",
+      "uuid": "37244d84-18a9-4bb4-aef0-7ec39a3e331e",
+      "files": [
+        "KVEK_protokoll_21.01.2019.bdoc",
+        "KVEK protokoll 21.01.2019 (nr 117).pdf"
+      ]
+    }
+  ],
+  "uuid": "63b5d218-dad1-44dc-ad14-d8e63668b431",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 63b5d218-dad1-44dc-ad14-d8e63668b431)",
+  "source": "https://api.riigikogu.ee/api/volumes/63b5d218-dad1-44dc-ad14-d8e63668b431",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-01-01&endDate=2019-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
