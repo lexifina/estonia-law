@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung esmaspäev, 21.01.2019 11:00",
+  "sitting_time": "2019-01-21T11:05:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3aa0cf59-fe92-4f58-9d83-faae5fdcb688"
+    },
+    {
+      "order": 2,
+      "title": "Jäätmeseadus (495 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "85947ac6-1df1-4e00-a286-dec1c14a7f9e"
+    },
+    {
+      "order": 3,
+      "title": "Veeseadus (643 SE II)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "71255cd9-f2c0-4283-8efc-801a4f831e62"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK protokoll 21.01.2019",
+      "uuid": "451c5704-ee42-40cb-bc2e-87f8ceef22cf",
+      "files": [
+        "Volitus.pdf",
+        "KEKK_protokoll_21.01.2019.bdoc",
+        "21.01.2019 protok.183.pdf"
+      ]
+    }
+  ],
+  "uuid": "0a5fcab7-2649-4ef2-8ee4-401f8fedec26",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0a5fcab7-2649-4ef2-8ee4-401f8fedec26)",
+  "source": "https://api.riigikogu.ee/api/volumes/0a5fcab7-2649-4ef2-8ee4-401f8fedec26",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-01-01&endDate=2019-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
