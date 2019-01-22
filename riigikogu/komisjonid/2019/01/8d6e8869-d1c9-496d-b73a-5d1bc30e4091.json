@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung teisipäev, 22.01.2019 14:00",
+  "sitting_time": "2019-01-22T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud kaubamärgiseaduse, tööstusomandi õiguskorralduse aluste seaduse ja teiste seaduste muutmise seaduse eelnõu (793 SE) arutelu esimesele lugemisele saatmiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b57e1ee9-6fe2-4846-b44f-1bc10dab8239"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud kaugkütteseaduse muutmise seaduse eelnõu (264 SE) arutelu teise lugemise jätkamiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ccbe3144-5ecb-4ae3-a0df-56c797054e1a"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8faf55a2-553b-4f08-b00c-0e1a7a3c1540"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAJK protokoll nr 240 22.01.2019",
+      "uuid": "939c0a8b-66a5-4a10-87bb-29e1c289929b",
+      "files": [
+        "MAJK_protokoll_nr_240_22.01.2019.bdoc",
+        "MAJK protokoll nr 240 22.01.2019.pdf"
+      ]
+    }
+  ],
+  "uuid": "8d6e8869-d1c9-496d-b73a-5d1bc30e4091",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8d6e8869-d1c9-496d-b73a-5d1bc30e4091)",
+  "source": "https://api.riigikogu.ee/api/volumes/8d6e8869-d1c9-496d-b73a-5d1bc30e4091",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-01-01&endDate=2019-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
