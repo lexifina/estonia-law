@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni erakorraline istung neljapäev, 24.01.2019 kell 11.15",
+  "sitting_time": "2019-01-24T11:15:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5ac7c835-ebd2-4b2d-983d-3972954a859a"
+    },
+    {
+      "order": 2,
+      "title": "Puuetega inimeste sotsiaaltoetuste seaduse muutmise seaduse eelnõu (663 SE) ettevalmistamine teiseks lugemiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9bf890d6-4756-4354-b33b-992826fa7e07"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "SOTK protokoll 24.01.2019",
+      "uuid": "7561d912-24b6-4402-bc76-02f064331cc3",
+      "files": [
+        "Protokoll.pdf",
+        "SOTK_protokoll_24.01.2019.bdoc"
+      ]
+    }
+  ],
+  "uuid": "158b8bf6-f147-48d0-bed2-ae96e5033c99",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 158b8bf6-f147-48d0-bed2-ae96e5033c99)",
+  "source": "https://api.riigikogu.ee/api/volumes/158b8bf6-f147-48d0-bed2-ae96e5033c99",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-01-01&endDate=2019-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
