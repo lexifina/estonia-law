@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung neljapäev, 24.01.2019 13:00",
+  "sitting_time": "2019-01-24T13:04:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade Eesti äridiplomaatia reformist",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f975f9ef-c842-421b-b7ca-6ab4f025fa80"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "90933bab-2a2f-4b7a-bef1-500b6d3d4c2f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 24.01.2019",
+      "uuid": "38038fa2-cb56-4720-b7ba-60df2818eb66",
+      "files": [
+        "VALK_protokoll_201900124.pdf",
+        "VÄLK_protokoll_24.01.2019.bdoc"
+      ]
+    }
+  ],
+  "uuid": "ddde60bc-c0ae-4f56-936d-c7760c0b6d49",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ddde60bc-c0ae-4f56-936d-c7760c0b6d49)",
+  "source": "https://api.riigikogu.ee/api/volumes/ddde60bc-c0ae-4f56-936d-c7760c0b6d49",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-01-01&endDate=2019-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
