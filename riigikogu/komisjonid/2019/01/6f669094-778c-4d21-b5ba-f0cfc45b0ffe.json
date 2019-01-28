@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 28.01.2019 13:00",
+  "sitting_time": "2019-01-28T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1525877b-deae-41c9-bbc0-eee74a711864"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli kontrolliaruande „Ehitushangete lepingute täitmine ja järelevalve“ arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e29dd2dc-7b6d-462c-9b9f-204b7f431428"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b4253b00-c113-4f73-a39e-ab4f52dc2ae9"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "39ee0c19-c17e-40d4-8bb4-e04f9f8cdccb",
+      "files": [
+        "Protokoll.bdoc",
+        "Protokoll nr 168. 28.01.2019.pdf"
+      ]
+    }
+  ],
+  "uuid": "6f669094-778c-4d21-b5ba-f0cfc45b0ffe",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 6f669094-778c-4d21-b5ba-f0cfc45b0ffe)",
+  "source": "https://api.riigikogu.ee/api/volumes/6f669094-778c-4d21-b5ba-f0cfc45b0ffe",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-01-01&endDate=2019-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
