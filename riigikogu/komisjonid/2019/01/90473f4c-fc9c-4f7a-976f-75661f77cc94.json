@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung teisipäev, 29.01.2019 14:00",
+  "sitting_time": "2019-01-29T14:02:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 30.-31. jaanuaril 2019 Bukarestis toimuval Euroopa Liidu kaitseministrite mitteametlikul kohtumisel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8a6127e5-fb74-4640-a5f5-de3fdba7748f"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad 31. jaanuaril -1. veebruaril 2019 Bukarestis toimuval Euroopa Liidu välisministrite mitteametlikul kohtumisel (Gymnich)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1c41f63c-ef23-4142-8686-a8992f112d67"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b6dd6f1d-a810-461a-9d8f-346089ce6c64"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 29.01.2019",
+      "uuid": "44cb411b-1d2f-4ae9-99e5-91c3c50dcbfb",
+      "files": [
+        "VALK_protokoll_20190129.pdf",
+        "VÄLK_protokoll_29.01.2019.bdoc"
+      ]
+    }
+  ],
+  "uuid": "90473f4c-fc9c-4f7a-976f-75661f77cc94",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 90473f4c-fc9c-4f7a-976f-75661f77cc94)",
+  "source": "https://api.riigikogu.ee/api/volumes/90473f4c-fc9c-4f7a-976f-75661f77cc94",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-01-01&endDate=2019-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
