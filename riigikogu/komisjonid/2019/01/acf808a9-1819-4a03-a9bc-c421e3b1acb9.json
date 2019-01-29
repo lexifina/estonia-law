@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung teisipäev, 29.01.2019 kell 14.00",
+  "sitting_time": "2019-01-29T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Päevakorra muutmine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "366aec5b-85eb-4d6a-9508-09f3fe7ed7aa"
+    },
+    {
+      "order": 2,
+      "title": "Tubakaseaduse ning alkoholi-, tubaka-, kütuse- ja elektriaktsiisi seaduse muutmise seaduse eelnõu (775 SE) ettevalmistamine teiseks lugemiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0048a270-10ed-4f45-87bd-12c0c359c4c2"
+    },
+    {
+      "order": 3,
+      "title": "Kollektiivne pöördumine haruapteekide säilitamise osas",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f1cf2f98-68b4-49cd-ae01-4439aaf52d0d"
+    },
+    {
+      "order": 4,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d1b46654-cfc1-4766-8860-1e03a4b7062e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "SOTK protokoll 29.01.2019",
+      "uuid": "de832f69-6965-45d9-856c-c84faf13e4d5",
+      "files": [
+        "Protokoll.pdf",
+        "SOTK_protokoll_29.01.2019.bdoc"
+      ]
+    }
+  ],
+  "uuid": "acf808a9-1819-4a03-a9bc-c421e3b1acb9",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid acf808a9-1819-4a03-a9bc-c421e3b1acb9)",
+  "source": "https://api.riigikogu.ee/api/volumes/acf808a9-1819-4a03-a9bc-c421e3b1acb9",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-01-01&endDate=2019-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
