@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung teisipäev, 29.01.2019 14:00",
+  "sitting_time": "2019-01-29T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Arenguseire Keskuse 2018. aasta tegevusaruande tutvustus. Arenguseire 2019. aasta tegevuskava kooskõlastamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9b80727a-dd7c-425d-abb5-4fb91186dd06"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f7b7f0dc-df53-4540-8c99-dc01dec3ebe9"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAJK protokoll nr 242 29.01.2019",
+      "uuid": "71e1065d-6fdf-43a0-b5ac-62853d7d1243",
+      "files": [
+        "MAJK_protokoll_nr_242_29.01.2019.bdoc",
+        "MAJK protokoll nr 242 29.01.2019.pdf",
+        "ASK aruanne ja plaanid.pdf"
+      ]
+    }
+  ],
+  "uuid": "ac0b2bfb-fd1f-48c7-b129-02507c554b90",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ac0b2bfb-fd1f-48c7-b129-02507c554b90)",
+  "source": "https://api.riigikogu.ee/api/volumes/ac0b2bfb-fd1f-48c7-b129-02507c554b90",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-01-01&endDate=2019-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
