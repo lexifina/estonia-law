@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung teisipäev, 29.01.2019 14:00",
+  "sitting_time": "2019-01-29T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Statistikaameti esindajatega teemal eelarvepositsiooni arvutamine.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fe17103b-5b6f-4a72-b82f-6fb167025a10"
+    },
+    {
+      "order": 2,
+      "title": "Info",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7b8f42e7-84bd-4148-9af4-fe57bd49c3bf"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 29.01.2019",
+      "uuid": "786ae6c6-763c-46fc-b21d-69ecbcfdfe46",
+      "files": [
+        "RAHK protokoll 234 29 01 2019.pdf",
+        "RAHK_protokoll_29.01.2019.bdoc"
+      ]
+    }
+  ],
+  "uuid": "901b7202-dbe6-454a-af13-a19eb3238730",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 901b7202-dbe6-454a-af13-a19eb3238730)",
+  "source": "https://api.riigikogu.ee/api/volumes/901b7202-dbe6-454a-af13-a19eb3238730",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-01-01&endDate=2019-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
