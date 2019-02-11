@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 11.02.2019 13:00",
+  "sitting_time": "2019-02-11T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9b59394c-24a0-4d44-8981-369c88acc101"
+    },
+    {
+      "order": 2,
+      "title": "„Kiire interneti kättesaadavaks tegemine kõigile Eesti inimestele (2019-2025)“ arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "418e28ab-86f7-4523-9fc9-5431ad630aed"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3793faf2-1719-4438-9d6f-cab0c976520e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "b4bddd9c-5b7b-421c-8bb3-7aff865d5f7d",
+      "files": [
+        "Protokoll.bdoc",
+        "Protokoll nr 170. 11.02.2019..pdf"
+      ]
+    }
+  ],
+  "uuid": "803a2326-1c9c-4c48-b953-2eaad509463c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 803a2326-1c9c-4c48-b953-2eaad509463c)",
+  "source": "https://api.riigikogu.ee/api/volumes/803a2326-1c9c-4c48-b953-2eaad509463c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-02-01&endDate=2019-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
