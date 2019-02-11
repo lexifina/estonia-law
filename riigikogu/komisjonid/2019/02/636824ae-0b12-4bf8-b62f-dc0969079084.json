@@ -1,0 +1,53 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung esmaspäev, 11.02.2019 11:00",
+  "sitting_time": "2019-02-11T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f008540e-c3ba-4ddc-be1c-d1db795870dc"
+    },
+    {
+      "order": 2,
+      "title": "Kaitseväe korralduse seaduse muutmise seaduse eelnõu (783 SE II)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f158ca87-2278-4d00-a545-4d82d5759d96"
+    },
+    {
+      "order": 3,
+      "title": "Ülevaade Bukarestis k.a 30.- 31. jaanuaril toimunud Euroopa Liidu kaitseministrite kohtumisest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "944e5481-945d-4129-a426-2e8eb04111b4"
+    },
+    {
+      "order": 4,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e03631d9-f404-4ea5-86f8-51560a759ef7"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RIKK protokoll 11.02.2019",
+      "uuid": "37a93a87-7512-4c19-ad10-4a067b5f761f",
+      "files": [
+        "I 11.02.19.pdf",
+        "RIKK_protokoll_11.02.2019.bdoc",
+        "RIKK_protokoll_20190212.pdf"
+      ]
+    }
+  ],
+  "uuid": "636824ae-0b12-4bf8-b62f-dc0969079084",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 636824ae-0b12-4bf8-b62f-dc0969079084)",
+  "source": "https://api.riigikogu.ee/api/volumes/636824ae-0b12-4bf8-b62f-dc0969079084",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-02-01&endDate=2019-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
