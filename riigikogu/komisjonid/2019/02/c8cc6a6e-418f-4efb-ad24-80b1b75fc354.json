@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 18.02.2019 13:00",
+  "sitting_time": "2019-02-18T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "27a9736d-eb45-4f7e-a39e-0774fca8abd8"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade erakondade valimisprogrammide analüüsist 2019. aastal",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "80332b48-7868-47b1-a5d1-50dc922f2d6c"
+    },
+    {
+      "order": 3,
+      "title": "Riigikogu riigieelarve kontrolli erikomisjoni tegevuse aruande (juuli 2018 – veebruar 2019) kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "de99ee58-fa77-4d3c-9ef9-feaf287bc2dc"
+    },
+    {
+      "order": 4,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2146211f-67f1-4b14-bc7f-b3970970c37f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "e2a7edcf-e556-40f7-912f-88bf1edbdbf7",
+      "files": [
+        "Protokoll nr 171. 18.02.2019.pdf",
+        "Protokoll.bdoc"
+      ]
+    }
+  ],
+  "uuid": "c8cc6a6e-418f-4efb-ad24-80b1b75fc354",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c8cc6a6e-418f-4efb-ad24-80b1b75fc354)",
+  "source": "https://api.riigikogu.ee/api/volumes/c8cc6a6e-418f-4efb-ad24-80b1b75fc354",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-02-01&endDate=2019-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
