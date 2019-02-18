@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung esmaspäev, 18.02.2019 11:10",
+  "sitting_time": "2019-02-18T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6c1a5248-e1dc-40f8-b0f8-f826250622a7"
+    },
+    {
+      "order": 2,
+      "title": "Rahanduskomisjoni tegevuse kokkuvõte",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "817371d7-4e59-49cf-92f6-23cb72ef84b0"
+    },
+    {
+      "order": 3,
+      "title": "Info",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3e44ec8c-d03b-40b9-b132-4e7c3866b9ad"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 18.02.2019",
+      "uuid": "1aebad41-9885-410e-b610-de1c64dbb07c",
+      "files": [
+        "RAHK_protokoll_18.02.2019.bdoc",
+        "RAHK protokoll 236 18 02 2019.pdf"
+      ]
+    }
+  ],
+  "uuid": "18bed18e-1db5-47e7-a364-0ab9918b5423",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 18bed18e-1db5-47e7-a364-0ab9918b5423)",
+  "source": "https://api.riigikogu.ee/api/volumes/18bed18e-1db5-47e7-a364-0ab9918b5423",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-02-01&endDate=2019-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
