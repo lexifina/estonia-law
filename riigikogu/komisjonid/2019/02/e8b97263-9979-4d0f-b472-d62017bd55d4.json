@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung teisipäev, 19.02.2019 14:00",
+  "sitting_time": "2019-02-19T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kaitseliidu seaduse muutmise seaduse eelnõu (786 SE III)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1c02614e-a076-4a9f-8e4a-f72f6eec3b07"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade julgeolekuolukorra arengutest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3c6385f1-896c-40ea-be5b-249e33be2005"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RIKK protokoll 19.02.2019",
+      "uuid": "6b88ad94-dd8e-4e25-873d-fff94f3b1b67",
+      "files": [
+        "RIKK_protokoll_20190219.pdf",
+        "RIKK_protokoll_19.02.2019.bdoc",
+        "KESK 19.02.19.pdf"
+      ]
+    }
+  ],
+  "uuid": "e8b97263-9979-4d0f-b472-d62017bd55d4",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e8b97263-9979-4d0f-b472-d62017bd55d4)",
+  "source": "https://api.riigikogu.ee/api/volumes/e8b97263-9979-4d0f-b472-d62017bd55d4",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-02-01&endDate=2019-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
