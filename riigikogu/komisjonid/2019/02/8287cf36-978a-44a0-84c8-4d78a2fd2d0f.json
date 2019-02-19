@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung teisipäev, 19.02.2019 14:00",
+  "sitting_time": "2019-02-19T14:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade Riigikogu välislähetuste eelarve täitmisest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d0fddf8f-f201-4832-878e-0707e5b49364"
+    },
+    {
+      "order": 2,
+      "title": "Väliskomisjoni töökava pärast Riigikogu IX istungjärgu lõppu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f45254ea-c2b2-4c9d-aa62-4773cf83cd04"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4cd03c11-4e32-4224-8d9c-22bcd327b442"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 19.02.2019",
+      "uuid": "c725e030-f5a0-447c-95de-4e67697246da",
+      "files": [
+        "VÄLK_protokoll_19.02.2019.bdoc",
+        "VALK_protokoll_20190225.pdf"
+      ]
+    }
+  ],
+  "uuid": "8287cf36-978a-44a0-84c8-4d78a2fd2d0f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8287cf36-978a-44a0-84c8-4d78a2fd2d0f)",
+  "source": "https://api.riigikogu.ee/api/volumes/8287cf36-978a-44a0-84c8-4d78a2fd2d0f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-02-01&endDate=2019-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
