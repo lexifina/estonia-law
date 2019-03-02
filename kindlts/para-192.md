@@ -46,11 +46,11 @@
 
 9²) teavitama elukindlustuslepingu turustamisel klienti võlaõigusseaduse § 428 lõike 2 punktides 1–3, 4³, 5 ja 6 ning lõikes 2¹ sätestatud teabest;
 
+9³) teavitama klienti kindlustusühistu kindlustuslepingu turustamisel kindlustusühistu liikmesusega seotud asjaoludest, sealjuures, kui kindlustusühistu põhikirja kohaselt peab klient olema selle liige, tegema kindlaks kliendi liikmesuse ning teavitama teda sellest, et kindlustuslepingu saab sõlmida üksnes pärast kindlustusühistu liikmeks astumist;
+
 10) teavitama klienti maakleritasu suurusest, sealhulgas kindlustusandjalt saadava maakleritasu suurusest iga turustatava kindlustuslepingu kohta eraldi;
 
 11) huvide konflikti olukorras avaldama kliendile võimaliku huvide konflikti üldise laadi ja konflikti allika;
-
-12) teatama kliendile isiku, kellele kindlustusmaakler on edasi andnud käesoleva seaduse § 174 lõikes 1 nimetatud tegevused, ärinime ja kontaktandmed;
 
 13) esitama kliendile teabe kohtuvälise lahendamise üksuse kohta, kelle poole klient võib pöörduda kindlustuslepingut puudutava vaidluse lahendamiseks;
 

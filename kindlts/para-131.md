@@ -2,6 +2,8 @@
 
 (1) Eesti kindlustusandja ja kolmanda riigi kindlustusandja (edaspidi käesolevas peatükis koos *üleandja*) võivad käesolevas seaduses sätestatud tingimustel oma kindlustusportfelli üle anda teisele kindlustusandjale (edaspidi käesolevas peatükis *vastuvõtja*).
 
+(1¹) Kindlustusportfelli vastuvõtja ei saa olla kindlustusühistu, mille põhikirjas on ette nähtud, et kõik kindlustusvõtjad peavad olema kindlustusühistu liikmed.
+
 (2) Eesti kindlustusandja võib üle anda kogu oma kindlustusportfelli, oma filiaali kindlustusportfelli või osa neist. Kolmanda riigi kindlustusandja võib üle anda kogu oma Eesti filiaali kindlustusportfelli või osa sellest.
 
 (3) Kindlustusportfelli osalisele üleandmisele kohaldatakse käesolevas peatükis kindlustusandja kogu kindlustusportfelli üleandmise kohta sätestatut.

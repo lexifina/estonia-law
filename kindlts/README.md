@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/110012019008> (version in force from 2019-01-20)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/120022019006> (version in force from 2019-03-02)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -18,6 +18,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/110012019008> (version in force 
 | [§ 9](para-009.md) | Kindlustusriski asukohariik |
 | [§ 10](para-010.md) | Kindlustusandja ärinimi ja kaubamärk |
 | [§ 11](para-011.md) | Kindlustusandjana ja edasikindlustusandjana tegutsemine |
+| [§ 11¹](para-011b1.md) | Kindlustusühistule kohaldatavad erisused |
 | [§ 12](para-012.md) | Kahjukindlustuse liigid ja alaliigid |
 | [§ 13](para-013.md) | Elukindlustuse liigid |
 | [§ 14](para-014.md) | Edasikindlustuse liigid |
@@ -140,17 +141,19 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/110012019008> (version in force 
 | [§ 110](para-110.md) | Kindlustusandja juhatuse liikmete ja töötajate tasustamise põhimõtted |
 | [§ 111](para-111.md) | Filiaali juhataja |
 | [§ 112](para-112.md) | Kindlustusvaldusettevõtja ja segafinantsvaldusettevõtja juhid |
-| **2. jagu Kindlustusandja aktsiad ja aktsionärid** | |
+| **2. jagu Kindlustusandja aktsiad ja osad ning aktsionärid ja liikmed** | |
 | [§ 113](para-113.md) | Kindlustusandja aktsiad |
-| [§ 114](para-114.md) | Kindlustusandja aktsiakapitalile esitatavad nõuded |
-| [§ 115](para-115.md) | Aktsiakapitali suurendamine |
-| [§ 116](para-116.md) | Aktsiakapitali vähendamine |
+| [§ 114](para-114.md) | Kindlustusandja aktsiakapitalile ja osakapitalile esitatavad nõuded |
+| [§ 115](para-115.md) | Aktsiakapitali ja osakapitali suurendamine |
+| [§ 116](para-116.md) | Aktsiakapitali ja osakapitali vähendamine |
+| [§ 116¹](para-116b1.md) | Kindlustusühistu kasumi jaotamine |
 | [§ 117](para-117.md) | Olulist osalust omandavatele ja omavatele isikutele esitatavad nõuded |
 | [§ 118](para-118.md) | Osaluse omandamisest teavitamine ja esitatavad andmed |
 | [§ 119](para-119.md) | Menetlus ja menetlustähtajad |
 | [§ 120](para-120.md) | Osaluse omandamise tingimused, keelamise alused ja omandamise otsus |
 | [§ 121](para-121.md) | Osaluse ebaseadusliku omandamise tagajärjed |
 | [§ 122](para-122.md) | Osaluse muutumisest teavitamine |
+| [§ 122¹](para-122b1.md) | Oluline osalus kindlustusühistus |
 | **5. peatükk Aruandlus, avalikustamine ja audiitorkontroll** | |
 | [§ 123](para-123.md) | Solventsuse ja finantsseisundi aruanne ning järelevalvelised ja täiendavad aruanded |
 | [§ 124](para-124.md) | Regulaarsete järelevalveliste aruannete esitamise erisused |

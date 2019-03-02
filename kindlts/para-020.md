@@ -8,6 +8,6 @@
 
 (4) Finantsinspektsioon võib tegevusloa andmisel kehtestada taotlejale kohustuslikke kõrvaltingimusi, lähtudes käesoleva seaduse §-s 21 nimetatud asjaoludest.
 
-(5) Äriseadustiku § 250 lõikes 4 sätestatud tähtaega arvestatakse tegevusloa andmise otsuse taotlejale kättetoimetamisest arvates.
+(5) Äriseadustiku § 250 lõikes 4 ja tulundusühistuseaduse § 7 lõikes 3 sätestatud tähtaega arvestatakse tegevusloa andmise otsuse taotlejale kättetoimetamisest arvates.
 
 (6) Finantsinspektsioon annab eriotstarbelisele varakogumile tegevusloa, kui varakogum vastab komisjoni delegeeritud määruse (EL) nr 2015/35 artiklis 318 sätestatud tingimustele.

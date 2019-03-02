@@ -1,6 +1,6 @@
 # § 127. Majandusaasta aruande ja vahearuannete avalikustamine
 
-(1) Kindlustusandja on kohustatud avalikustama majandusaasta aruande, kasumi jaotamise või kahjumi katmise ettepaneku ja otsuse ning vandeaudiitori aruande kahe nädala jooksul pärast nende kinnitamist aktsionäride üldkoosolekul, kuid mitte hiljem kui neli kuud pärast majandusaasta lõppu kindlustusandja veebilehel, ning tegema need kättesaadavaks oma asukohas ja tegevuskohas.
+(1) Kindlustusandja on kohustatud avalikustama majandusaasta aruande, kasumi jaotamise või kahjumi katmise ettepaneku ja otsuse ning vandeaudiitori aruande kahe nädala jooksul pärast nende kinnitamist aktsionäride või ühistu liikmete üldkoosolekul, kuid mitte hiljem kui neli kuud pärast majandusaasta lõppu kindlustusandja veebilehel, ning tegema need kättesaadavaks oma asukohas ja tegevuskohas.
 
 (2) Kindlustusandja majandusaasta on kalendriaasta.
 

@@ -19,3 +19,5 @@
 2) kindlustusandja juhatuse liige ei täida enam tulemuskriteeriume või
 
 3) tulemustasu määramisel on tuginetud andmetele, mis osutusid olulisel määral ebatäpseks või ebaõigeks.
+
+(7) Kindlustusandja juhatuse liikme tasustamisele ei kohaldata tulundusühistuseaduse § 57 lõigetes 2–5 ja äriseadustiku § 314 lõigetes 2–5 sätestatut.

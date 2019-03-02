@@ -4,7 +4,7 @@
 
 1) ärakiri jõus olevast põhikirjast, tegutseva äriühingu puhul ka üldkoosoleku otsus põhikirja muutmise kohta ja põhikirja muudetud tekst;
 
-2) äriühingu asutamise puhul asutamislepingu või -otsuse notariaalselt kinnitatud ärakiri ja krediidiasutuse teatis aktsiakapitali sissemaksmise kohta;
+2) äriühingu asutamise puhul asutamislepingu või -otsuse notariaalselt kinnitatud ärakiri ja krediidiasutuse teatis aktsiakapitali või osakapitali sissemaksmise kohta;
 
 3) taotleja algbilanss ning olemasolu korral hiliseim bilanss ja kasumiaruanne ning viimase kolme majandusaasta aruanded;
 

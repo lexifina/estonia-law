@@ -10,9 +10,9 @@
 
 (5) Audiitorettevõtja peab kindlustusandja audiitorkontrolli kaasama isiku, kes vastab käesoleva seaduse § 99 lõikes 2 sätestatud nõuetele.
 
-(6) Finantsinspektsioon võib taotleda kohtult üldkoosoleku nimetatud kindlustusandja audiitorettevõtja asendamist äriseadustiku §-s 329¹ sätestatud korras. Sama taotluse võivad esitada ka kindlustusandja aktsionärid, kes ühiselt esindavad vähemalt viit protsenti kindlustusandja aktsiakapitalist või hääleõigustest.
+(6) Finantsinspektsioon võib taotleda kohtult üldkoosoleku nimetatud kindlustusandja audiitorettevõtja asendamist äriseadustiku §-s 329¹ või tulundusühistuseaduse §-s 66¹ sätestatud korras. Sama taotluse võivad esitada ka kindlustusandja aktsionärid või liikmed, kes ühiselt esindavad vähemalt viit protsenti kindlustusandja aktsiakapitalist või hääleõigusest.
 
-(7) Lisaks käesoleva paragrahvi lõikes 6 sätestatule võib Finantsinspektsioon taotleda äriseadustiku §-s 329¹ sätestatud korras kohtult audiitorettevõtja määramist, kui:
+(7) Lisaks käesoleva paragrahvi lõikes 6 sätestatule võib Finantsinspektsioon taotleda äriseadustiku §-s 329¹ või tulundusühistuseaduse §-s 66¹ sätestatud korras kohtult audiitorettevõtja määramist, kui:
 
 1) üldkoosolek ei ole audiitorettevõtjat seaduses sätestatud korras nimetanud;
 
@@ -31,3 +31,5 @@
 4) viitavad võimalusele, et kindlustusandja ei suuda täita kapitalinõudeid või et kindlustusvõtjate, kindlustatute või soodustatud isikute huvid ei ole muul viisil piisavalt kaitstud.
 
 (9) Audiitorettevõtja peab Finantsinspektsiooni viivitamata teavitama kirjalikku taasesitamist võimaldavas vormis ka kõigist talle tööülesannete täitmisel teatavaks saanud kindlustusandjaga märkimisväärses seoses olevat äriühingut puudutavatest käesoleva paragrahvi lõikes 8 nimetatud asjaoludest.
+
+(10) Kindlustusühistule ei kohaldata tulundusühistuseaduse § 65 lõikes 2 ja §-des 67–70 sätestatut.

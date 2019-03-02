@@ -40,7 +40,7 @@
 
 - 1. jagu Kindlustusandja juhtimissüsteem
 
-- 2. jagu Kindlustusandja aktsiad ja aktsionärid
+- 2. jagu Kindlustusandja aktsiad ja osad ning aktsionärid ja liikmed
 
 5. peatükk Aruandlus, avalikustamine ja audiitorkontroll
 

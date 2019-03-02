@@ -10,7 +10,7 @@
 
 4) siseaudiitor;
 
-5) kindlustusandja aktsionär või vahendaja aktsionär või osanik;
+5) kindlustusandja aktsionär või liige või vahendaja aktsionär või osanik;
 
 6) kindlustusandja või vahendaja likvideerija, pankrotihaldur või erirežiimihaldur;
 

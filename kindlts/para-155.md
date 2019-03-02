@@ -2,7 +2,7 @@
 
 Kindlustusandja lõpetatakse:
 
-1) vabatahtlikult käesoleva seaduse §-s 161 sätestatu kohaselt kindlustusandja aktsionäride üldkoosoleku otsusel seaduses ja põhikirjas sätestatud alusel;
+1) vabatahtlikult käesoleva seaduse §-s 161 sätestatu kohaselt kindlustusandja aktsionäride või ühistu liikmete üldkoosoleku otsusel seaduses ja põhikirjas sätestatud alusel;
 
 2) sundlõpetamise korras käesoleva seaduse §-s 162 sätestatu kohaselt Finantsinspektsiooni algatusel kohtumääruse alusel;
 

@@ -22,4 +22,4 @@
 
 (5) Sümmeetrilise kohandamise kalibreerimisel tuleb kasutada tõenäolise piirkahju riskimõõdikut aastase perioodiga usaldusnivool 99,5 protsenti.
 
-(6) Sümmeetrilise kohandamise tulemusel saadud aktsiariski kapitalinõue ei või kohandamata aktsiakapitali kapitalinõude määrast erineda rohkem kui kümne protsendi võrra.
+(6) Sümmeetrilise kohandamise tulemusel saadud aktsiariski kapitalinõude määr ei või kohandamata aktsiariski kapitalinõude määrast erineda rohkem kui kümne protsendipunkti võrra.

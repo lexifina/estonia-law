@@ -1,3 +1,3 @@
 # § 138. Kindlustusandja ümberkujundamine
 
-Kindlustusandja võib kujundada ümber aktsiaseltsiks või Euroopa äriühinguks.
+Aktsiaseltsist või Euroopa äriühingust kindlustusandja võib kujundada ümber aktsiaseltsiks või Euroopa äriühinguks.

@@ -4,7 +4,7 @@
 
 (2) Kindlustusandja ühinemisel ei kohaldata äriseadustiku § 393 lõikes 2 ning §-des 399 ja 433⁸ sätestatut, samuti § 400 lõigetes 1 ja 2 sätestatud tähtaja nõuet.
 
-(3) Kindlustusandja võib ühineda Eesti või teise lepinguriigi õiguse alusel asutatud kindlustusandjaga. Elukindlustusega tegelev kindlustusandja võib ühineda üksnes elukindlustusega tegeleva kindlustusandjaga ja kahjukindlustusega tegelev kindlustusandja üksnes kahjukindlustusega tegeleva kindlustusandjaga. Kindlustusandjad võivad ühineda ka uue kindlustusandja asutamise teel.
+(3) Aktsiaseltsist või Euroopa äriühingust kindlustusandja võib ühineda Eesti või teise lepinguriigi õiguse alusel asutatud aktsiaseltsist või Euroopa äriühingust kindlustusandjaga. Elukindlustusega tegelev kindlustusandja võib ühineda üksnes elukindlustusega tegeleva kindlustusandjaga ja kahjukindlustusega tegelev kindlustusandja üksnes kahjukindlustusega tegeleva kindlustusandjaga. Kindlustusandjad võivad ühineda ka uue kindlustusandja asutamise teel.
 
 (4) Lisaks käesoleva paragrahvi lõikes 3 sätestatule võib kindlustusandja ühineda ühendava ühinguna endaga samasse konsolideerimisgruppi kuuluva lepinguriigi ettevõtjaga, kes tegeleb kindlustuslepingute sõlmimise vahendamise, kindlustuslepingutest tulenevate kahjude käsitlemise, infosüsteemide haldamise või muu kindlustustegevusega seotud tegevusega (edaspidi käesolevas peatükis *tugiettevõtja*).
 
