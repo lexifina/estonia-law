@@ -10,7 +10,7 @@
 
 (2) Teabeandja teavitab kirjalikku taasesitamist võimaldavas vormis klienti ärisuhte loomisel rahapesu ja terrorismi rahastamise tõkestamise seaduse tähenduses käesoleva seaduse alusel toimuvast teabe kogumisest, teabevahetusest ning teabe automaatsest edastamisest. Käesoleva lõike esimeses lauses sätestatut ei kohaldata teabeandja suhtes, kellel puudub teabevahetuseks kogutava teabe maksuhaldurile esitamise kohustus.
 
-(3) Lisaks isikuandmete kaitse seaduse §-s 19 sätestatud kohustustele peab maksuhaldur esitama andmesubjekti taotluse alusel väljavõtte jooksva ja viie eelneva kalendriaasta kohta teabe kogumise käigus saadud ning teabevahetuse käigus edastatud temaga seotud teabest ja seda teavet puudutavatest maksukorralduse seaduse § 51⁷ lõike 2 alusel antud lubadest.
+(3) Lisaks isikuandmete kaitse seaduses sätestatud kohustustele peab maksuhaldur esitama andmesubjekti taotluse alusel väljavõtte jooksva ja viie eelneva kalendriaasta kohta teabe kogumise käigus saadud ning teabevahetuse käigus edastatud temaga seotud teabest ja seda teavet puudutavatest maksukorralduse seaduse § 51⁷ lõike 2 alusel antud lubadest.
 
 (4) Kui andmesubjekt tõendab, et jooksva või viie eelneva kalendriaasta kohta maksuhaldurile teabe kogumise käigus edastatud teave ei ole teabeandjast tingituna õige, esitab teabeandja esimesel võimalusel maksuhaldurile parandatud teabe.
 
