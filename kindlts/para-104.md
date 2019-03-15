@@ -14,7 +14,7 @@
 
 4) ei takista kindlustusandja üle vajalikul tasemel järelevalve teostamist.
 
-(4) Isikule, kellele kindlustusandja on kindlustustegevusega seotud tegevuse edasi andnud, kohaldatakse käesoleva seaduse §-des 217–220 kindlustusandja kohta sätestatut.
+(4) Isikule, kellele kindlustusandja on kindlustustegevusega seotud tegevuse edasi andnud, kohaldatakse käesoleva seaduse §-des 217–220¹ kindlustusandja kohta sätestatut.
 
 (5) Võtmefunktsiooni täitmise edasiandmisel teisele isikule tuleb kindlustusandjas määrata isik, kes vastutab selle võtmefunktsiooni täitmise korraldamise eest ja kes vastab käesoleva seaduse §-s 106 sätestatud nõuetele.
 
@@ -22,7 +22,7 @@
 
 (7) Kindlustusandja esitab Finantsinspektsiooni nõudmisel:
 
-1) tegevuse edasiandmise lepingu ärakirja, mis sisaldab muu hulgas isikuandmete töötlemise nõudeid, arvestades käesoleva seaduse §-des 217–220 sätestatut;
+1) tegevuse edasiandmise lepingu ärakirja, mis sisaldab muu hulgas isikuandmete töötlemise nõudeid, arvestades käesoleva seaduse §-des 217–220¹ sätestatut;
 
 2) analüüsi selle kohta, kuidas tegevuse edasiandmine vastab käesoleva paragrahvi lõikes 3 sätestatule.
 

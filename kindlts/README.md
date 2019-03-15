@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/120022019006> (version in force from 2019-03-02)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/113032019086> (version in force from 2019-03-15)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -267,9 +267,10 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/120022019006> (version in force 
 | **11. peatükk Kindlustusandja kohustused seoses klientide kaitsega** | |
 | [§ 216](para-216.md) | Sootegur kindlustusriski hindamisel |
 | [§ 217](para-217.md) | Andmesubjekt ja tema nõusolek isikuandmete töötlemiseks |
-| [§ 218](para-218.md) | Isikuandmete töötlemine andmesubjekti nõusolekuta |
+| [§ 218](para-218.md) | Isikuandmete töötlemine |
 | [§ 219](para-219.md) | Isikuandmete edastamine |
 | [§ 220](para-220.md) | Isikuandmete säilitamise tähtaeg |
+| [§ 220¹](para-220b1.md) | Saladuses hoidmise kohustus |
 | [§ 221](para-221.md) | Kliendi kindlustushuvi ja nõudmiste väljaselgitamisega seotud kohustused |
 | [§ 221¹](para-221b1.md) | Investeerimistoote pakkumise ja nõustamisega seotud kohustused |
 | [§ 222](para-222.md) | Investeerimisriskiga elukindlustuslepingu sobivuse ja asjakohasuse hindamine |

@@ -1,6 +1,6 @@
 # § 175. Kindlustuse turustamise sätete kohaldamise erisus
 
-(1) Kindlustusagendi tegevusele kohaldatakse lisaks käesoleva paragrahvi sätetele üksnes käesoleva seaduse § 5, § 174 lõikeid 2 ja 2¹, § 176, § 177 lõikeid 1 ja 2, § 179 lõiget 4, § 180 lõiget 3, § 181 lõikeid 1 ja 6, § 182¹ lõikeid 3 ja 4, § 195 lõiget 1, § 198 lõike 2 punkte 1–4, 8 ja 11–14 ning lõiget 2¹ ja §-e 217–220, 223–238, 254, 258 ning 261–264, kui on täidetud kõik järgmised tingimused:
+(1) Kindlustusagendi tegevusele kohaldatakse lisaks käesoleva paragrahvi sätetele üksnes käesoleva seaduse § 5, § 174 lõikeid 2 ja 2¹, § 176, § 177 lõikeid 1 ja 2, § 179 lõiget 4, § 180 lõiget 3, § 181 lõikeid 1 ja 6, § 182¹ lõikeid 3 ja 4, § 195 lõiget 1, § 198 lõike 2 punkte 1–4, 8 ja 11–14 ning lõiget 2¹ ja §-e 217–220¹, 223–238, 254, 258 ning 261–264, kui on täidetud kõik järgmised tingimused:
 
 1) kindlustuse turustamine ei ole kindlustusagendi peamine tegevusala;
 
