@@ -1,29 +1,19 @@
 # § 15. Riiklik vereteenistuse infosüsteem
 
-(1) Vere kvaliteetse käitlemise ja ravi kvaliteedi tagamise eesmärgil luuakse riiklik vereteenistuse infosüsteem (edaspidi *vereteenistuse infosüsteem*).
+(1) Vere kvaliteetse käitlemise ja ravi kvaliteedi tagamise eesmärgil on
 
-(2) Vereteenistuse infosüsteemile ja selle pidamisele kohaldatakse avaliku teabe seaduses ja isikuandmete kaitse seaduses sätestatut käesolevas seaduses sätestatud erisustega. Vereteenistuse infosüsteem koondab ühtseks tervikuks vere käitlemisega seonduvad protsessid, alamregistrid ning muud asjakohased dokumendid.
+riiklik vereteenistuse infosüsteem (edaspidi *infosüsteem*), mille põhimääruses kehtestatakse:
 
-(3) Vereteenistuse infosüsteemi osadeks on alljärgnevad alamregistrid:
+1) volitatud töötleja ja tema ülesanded;
 
-1) doonorite alamregister;
+2) kogutavate andmete koosseis ja andmekogusse kandmise kord;
 
-2) verepreparaatide alamregister;
+3) andmetele juurdepääsu ja andmete väljastamise kord;
 
-3) retsipientide alamregister.
+4) andmeandjate loetelu ja nendelt saadavad andmed, kui andmeid saadakse teistest andmekogudest;
 
-(4) Vereteenistuse infosüsteemiga seonduvad dokumendid on:
+5) andmete säilitamise täpsem kord ja tingimused ning säilitustähtajad;
 
-1) kogu tootmisprotsessi hõlmavad standardid;
+6) muud korraldusküsimused.
 
-2) kõigi vere käitlemise protsesside standardkirjeldused;
-
-3) doonorivere uuringute ja verekomponentide kvaliteedinõuete kirjeldused.
-
-(5) Doonorite ja retsipientide andmeid töödeldakse vereteenistuse infosüsteemis isikustatult.
-
-(7) Vereteenistuse infosüsteemi vastutav töötleja on Sotsiaalministeerium.
-
-(8) Vereteenistuse infosüsteemi volitatud töötlejad on verekeskused ja verekabinetid.
-
-(9) Vereteenistuse infosüsteemi asutab ja registri pidamise põhimääruse kehtestab Vabariigi Valitsus.
+(2) Infosüsteemi vastutav töötleja on Sotsiaalministeerium.

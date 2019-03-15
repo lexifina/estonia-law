@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/112072014154> (version in force from 2015-01-01)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/113032019190> (version in force from 2019-03-15)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -23,6 +23,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/112072014154> (version in force 
 | [§ 13](para-013.md) | Verepreparaatide ohutus |
 | [§ 14](para-014.md) | Kasutamata verepreparaatide kõrvaldamine |
 | [§ 15](para-015.md) | Riiklik vereteenistuse infosüsteem |
+| [§ 15¹](para-015b1.md) | Vere käitlemise andmete säilitamine |
 | **3. peatükk IMMUNOHEMATOLOOGILISTE UURINGUTE REFERENTLABOR** | |
 | [§ 16](para-016.md) | Immunohematoloogiliste uuringute referentlabor |
 | [§ 17](para-017.md) | Referentlabori ülesanded |
