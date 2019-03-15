@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/129062018062> (version in force from 2019-01-01)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/113032019070> (version in force from 2019-03-15)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -84,6 +84,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/129062018062> (version in force 
 | [§ 66](para-066.md) | Hüvitise maksmist ja muu kulu katmist välistavad asjaolud |
 | [§ 67](para-067.md) | Teenistuskohustuse täitmisel tehtud kulu hüvitis ja päevaraha maksmine |
 | [§ 68](para-068.md) | Kaitseliidu liikme toitlustus |
+| [§ 68¹](para-068b1.md) | Isikuandmete töötlemine tagatiste taotlemise korral |
 | **8. peatükk Valve** | |
 | [§ 69](para-069.md) | Valve osutamine |
 | [§ 70](para-070.md) | Valvuri staatus |
@@ -98,6 +99,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/129062018062> (version in force 
 | [§ 78](para-078.md) | Kaitseliidu vara Kaitseväe kasutusse andmine |
 | [§ 79](para-079.md) | Kaitseliidu õigusvõime |
 | [§ 80](para-080.md) | Isikuandmete kontrollimine ja juurdepääs registritele |
+| [§ 80¹](para-080b1.md) | Isikuandmete töötlemine |
 | [§ 81](para-081.md) | Tegevliikme ressursimahuka koolituse kulu kandmine ja hüvitamine |
 | **10. peatükk Rahastamine ja kontroll** | |
 | [§ 82](para-082.md) | Kaitseliidu tulud |

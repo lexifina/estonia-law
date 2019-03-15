@@ -4,6 +4,8 @@
 
 (2) Kaitseliidul on õigus saada teavet käesoleva seaduse § 24 lõike 3 punktis 2 ja § 29 lõikes 3 sätestatud aluste esinemise kontrollimiseks prokuratuurilt liikme ja liikmeks asuda sooviva isiku kriminaalmenetluse lõpetamise, kohtusse saatmise otsuse ja kohtulahendi kohta.
 
+(2¹) Käesoleva paragrahvi lõigetes 1 ja 2 sätestatud isikuandmeid säilitatakse kuni viis aastat Kaitseliidu liikmesuse lõppemisest või Kaitseliidu liikmeks vastuvõtmisest keeldumisest. Pärast nimetatud tähtaja möödumist andmed kustutatakse.
+
 (3) Teabe saamise põhjendatud taotluse vormistab Kaitseliit kirjalikult, määrates teabe esitamise tähtaja, mis ei või olla lühem kui kümme päeva.
 
 (4) Käesoleva seaduse § 4 lõike 1 punktis 4 sätestatud ülesande täitmisel on Kaitseliidul õigus saada tegevliikme kohta teavet kaitseväekohustuslaste registrist kaitseväeteenistuse käigu kohta, liiklusregistrist juhiloa kehtivuse ja juhtimisõiguse kohta ning mobilisatsiooniregistrist sõjaaja üksuse ja sõjaaja ametikoha kohta ning sõjaaja üksuse ja selle ametikoha materiaalsete vahendite kohta.
