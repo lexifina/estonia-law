@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/107122018009> (version in force from 2019-01-01)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/113032019036> (version in force from 2019-03-15)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -35,7 +35,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/107122018009> (version in force 
 | [§ 21](para-021.md) | Teabenõude edastamine vastavalt kuuluvusele |
 | [§ 22](para-022.md) | Avalikustatud teabe juurde juhatamine |
 | [§ 23](para-023.md) | Teabenõude täitmisest keeldumine |
-| [§ 24](para-024.md) |  |
+| [§ 24](para-024.md) | Teabenõude täitmise ja sellest keeldumise registreerimine |
 | **3. jagu Teabenõude täitmise kulud** | |
 | [§ 25](para-025.md) | Teabenõude täitmise kulude katmine |
 | [§ 26](para-026.md) | Kulude katmisest vabastamine |
@@ -54,7 +54,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/107122018009> (version in force 
 | [§ 34](para-034.md) | Piiratud juurdepääsuga teave |
 | [§ 35](para-035.md) | Teabe asutusesiseseks tunnistamise alused |
 | [§ 36](para-036.md) | Teabe asutusesiseseks kasutamiseks tunnistamise keeld |
-| [§ 37](para-037.md) |  |
+| [§ 37](para-037.md) | Juurdepääsupiirang eraelulistele isikuandmetele |
 | [§ 38](para-038.md) | Juurdepääs üksnes asutusesiseseks tunnistatud teabele |
 | [§ 39](para-039.md) | Juurdepääs isikuandmeid sisaldavale teabele |
 | [§ 40](para-040.md) | Juurdepääsupiirangu tähtajad |
@@ -75,9 +75,9 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/107122018009> (version in force 
 | [§ 44](para-044.md) | Järelevalve seaduse täitmise üle |
 | [§ 45](para-045.md) | Andmekaitse Inspektsiooni järelevalvepädevus |
 | [§ 46](para-046.md) | Vaide või kaebuse esitamine teabenõude täitmisest keeldumise või mittenõuetekohase täitmise peale |
-| [§ 47](para-047.md) |  |
-| [§ 48](para-048.md) |  |
-| [§ 49](para-049.md) |  |
+| [§ 47](para-047.md) | Vaide esitamine riikliku järelevalve menetluse algatamiseks |
+| [§ 48](para-048.md) | Kaebuse läbivaatamine Andmekaitse Inspektsiooni poolt |
+| [§ 49](para-049.md) | Kaebuse läbivaatamisest keeldumine Andmekaitse Inspektsiooni poolt |
 | [§ 50](para-050.md) | Riikliku järelevalve teostamine |
 | [§ 51](para-051.md) | Andmekaitse Inspektsiooni ettekirjutus |
 | [§ 52](para-052.md) | Andmekaitse Inspektsiooni ettekirjutuse täitmine |

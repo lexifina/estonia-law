@@ -32,7 +32,7 @@
 
 10) teabe tehnoloogiliste lahenduste kohta, kui sellise teabe avalikuks tulek kahjustaks teabevaldaja huve või sellise teabe asutusesiseseks kasutamiseks tunnistamine on ette nähtud eraõigusliku isikuga sõlmitud lepingus;
 
-11) teabe, mis sisaldab delikaatseid isikuandmeid;
+11) teabe, mis sisaldab eriliiki isikuandmeid või andmeid süüteo toimepanemise või selle ohvriks langemise kohta enne avalikku kohtuistungit või õigusrikkumise asjas otsuse langetamist või asja menetluse lõpetamist;
 
 12) teabe, mis sisaldab isikuandmeid, kui sellisele teabele juurdepääsu võimaldamine kahjustaks oluliselt andmesubjekti eraelu puutumatust;
 
@@ -49,6 +49,8 @@
 18) siseauditi aruanded enne nende kinnitamist asutuse juhi poolt;
 
 18¹) elutähtsa teenuse riskianalüüsi ja toimepidevuse plaani puudutav teave;
+
+18²) teabe isikuandmetega seotud rikkumisest teavitamise kohta;
 
 19) seaduses sätestatud muu teabe.
 

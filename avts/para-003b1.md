@@ -16,4 +16,8 @@
 
 (8) Kui seaduse alusel avalikustatava ja isikuandmeid sisaldava teabe üldiseks kasutamiseks andmine kahjustab isiku eraelu puutumatust, ei anta sellist teavet üldiseks kasutamiseks või antakse üldiseks kasutamiseks üksnes selline osa teabest, mille üldiseks kasutamiseks andmine ei kahjusta oluliselt isiku eraelu puutumatust, või antakse see üldiseks kasutamiseks viisil, mis ei kahjusta oluliselt isiku eraelu puutumatust.
 
+(8¹) Käesoleva paragrahvi lõigete 7 ja 8 avaandmeteks mitteolevate isikuandmete täpsustava loetelu kehtestab
+
+määrusega.
+
 (9) Teabevaldaja võib anda teabe üldiseks kasutamiseks tingimusteta või seada selle üldisele kasutamisele tingimusi autoriõiguse seaduses sätestatud litsentsi abil. Litsents ei tohi taaskasutamist põhjendamatult piirata ega kahjustada konkurentsi. Teabevaldaja avaldab litsentsi oma veebilehel.
