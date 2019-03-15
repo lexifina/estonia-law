@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/104012019015> (version in force from 2019-01-14)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/113032019077> (version in force from 2019-03-15)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -239,7 +239,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/104012019015> (version in force 
 | [§ 155](para-155.md) | Ühinemisvabaduse rikkumine |
 | [§ 156](para-156.md) | Sõnumisaladuse rikkumine |
 | [§ 157](para-157.md) | Isikuandmete ebaseaduslik avaldamine |
-| [§ 157¹](para-157b1.md) | Delikaatsete isikuandmete ebaseaduslik avaldamine |
+| [§ 157¹](para-157b1.md) | Eriliiki isikuandmete, süüteo toimepanemise või selle ohvriks langemise andmete ebaseaduslik avaldamine |
 | [§ 157²](para-157b2.md) | Teise isiku identiteedi ebaseaduslik kasutamine |
 | [§ 157³](para-157b3.md) | Ahistav jälitamine |
 | [§ 158](para-158.md) | Seaduslikult korraldatud avaliku koosoleku takistamine ja selle laialiajamine vägivallaga |
@@ -293,7 +293,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/104012019015> (version in force 
 | **3. jagu Ravimitega seotud süüteod** | |
 | [§ 194](para-194.md) | Ravimi ebaseaduslik käitlemine |
 | [§ 195](para-195.md) | Kallutamine dopingu kasutamisele |
-| [§ 196](para-196.md) |  |
+| [§ 196](para-196.md) | Töötervishoiu- ja tööohutusnõuete ning tehnilisele järelevalvele allutatud objektile kehtestatud nõuete eiramine, kui sellega on ettevaatamatusest tekitatud raske tervisekahjustus |
 | **4. jagu Süüteod töötervishoiu ja tööohutuse valdkonnas** | |
 | [§ 197](para-197.md) | Töötervishoiu- ja tööohutusnõuete eiramine, kui sellega on ettevaatamatusest tekitatud inimesele raske tervisekahjustus või põhjustatud inimese surm |
 | [§ 198](para-198.md) | Töötervishoiu- ja tööohutusnõuete eiramine ettevaatamatusest, kui sellega on tekitatud inimesele raske tervisekahjustus või põhjustatud inimese surm |
@@ -333,8 +333,8 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/104012019015> (version in force 
 | [§ 218](para-218.md) | Varavastane süütegu väheväärtusliku asja ja varalise õiguse vastu |
 | **14. peatükk INTELLEKTUAALSE OMANDI VASTASED SÜÜTEOD** | |
 | [§ 219](para-219.md) | Autorsuse rikkumine |
-| [§ 220](para-220.md) |  |
-| [§ 221](para-221.md) |  |
+| [§ 220](para-220.md) | Teose, leiutise, tööstusdisainilahenduse ja mikrolülituse topoloogia autori ja autoriõigusega kaasnevate õiguste valdaja varaliste õiguste rikkumine |
+| [§ 221](para-221.md) | Autoriõiguse seadusega ettenähtud tasu maksmisest kõrvalehoidumine |
 | [§ 222](para-222.md) | Piraatkaubandus |
 | [§ 222¹](para-222b1.md) | Autoriõiguse rikkumine arvutisüsteemis |
 | [§ 223](para-223.md) | Teose ja autoriõigusega kaasnevate õiguste objekti ebaseaduslik üldsusele suunamine |
@@ -423,7 +423,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/104012019015> (version in force 
 | [§ 276](para-276.md) | Võimuesindaja seadusliku korralduse eiramine |
 | [§ 277](para-277.md) | Ametniku vormiriietuse ja ametitunnistuse ebaseaduslik kasutamine |
 | [§ 278](para-278.md) | Eritalituste vale väljakutsumine |
-| [§ 279](para-279.md) | Riikliku järelevalve teostamise takistamine |
+| [§ 279](para-279.md) | Riikliku ja haldusjärelevalve teostamise takistamine |
 | **2. jaotis Andmetega seotud süüteod** | |
 | [§ 280](para-280.md) | Valeandmete esitamine |
 | [§ 281](para-281.md) | Ebaõigete andmete esitamine kohturegistri pidajale, väärtpaberite keskdepositooriumile, pensioniregistri pidajale, abieluvararegistrile, notarile ja kohtutäiturile |
@@ -433,8 +433,8 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/104012019015> (version in force 
 | **17. peatükk AMETIALASED SÜÜTEOD** | |
 | **1. jagu Võimu kuritarvitamine** | |
 | [§ 288](para-288.md) | Ametiisiku mõiste |
-| [§ 289](para-289.md) |  |
-| [§ 290](para-290.md) |  |
+| [§ 289](para-289.md) | Ametiseisundi kuritarvitamine |
+| [§ 290](para-290.md) | Ametialane lohakus |
 | [§ 290¹](para-290b1.md) | Piinamine |
 | [§ 291](para-291.md) | Võimuliialdus |
 | [§ 291¹](para-291b1.md) | Riikliku järelevalve ebaseaduslik teostamine |
@@ -567,26 +567,26 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/104012019015> (version in force 
 | [§ 376²](para-376b2.md) | Vedelkütuse ebaseaduslik käitlemine |
 | **2. jagu Äriühingutega seotud süüteod** | |
 | [§ 377](para-377.md) | Ärisaladuse ebaseaduslik saamine, kasutamine ja avaldamine |
-| [§ 378](para-378.md) |  |
+| [§ 378](para-378.md) | Ärisaladuse õigustamatu kasutamine |
 | [§ 379](para-379.md) | Audiitor- ja erikontrolli tulemuste esitamata jätmine ja ebaõige esitamine |
 | [§ 380](para-380.md) | Osanike, aktsionäride ja tulundusühistu liikmete koosoleku kokku kutsumata jätmine |
 | [§ 381](para-381.md) | Äriühingu varalise seisundi ja muude kontrollitavate asjaolude kohta ebaõigete andmete esitamine |
 | [§ 381¹](para-381b1.md) | Raamatupidamise kohustuse rikkumine |
-| [§ 382](para-382.md) |  |
-| [§ 383](para-383.md) |  |
+| [§ 382](para-382.md) | Ebaõigete andmete esitamine audiitorile ja erikontrolli läbiviijale |
+| [§ 383](para-383.md) | Aktsiatest tulenevate õiguste ebaseaduslik kasutamine |
 | **3. jagu Pankroti- ja täitemenetlusalased süüteod** | |
 | [§ 384](para-384.md) | Maksejõuetuse põhjustamine |
 | [§ 384¹](para-384b1.md) | Võlausaldajate ebavõrdne kohtlemine |
 | [§ 385](para-385.md) | Vara varjamine pankroti- ja täitemenetluses |
 | [§ 385¹](para-385b1.md) | Pankrotiavalduse esitamise kohustuse täitmata jätmine |
 | **4. jagu Maksualased süüteod** | |
-| [§ 386](para-386.md) |  |
-| [§ 387](para-387.md) |  |
-| [§ 388](para-388.md) |  |
-| [§ 389](para-389.md) |  |
+| [§ 386](para-386.md) | Maksude väärarvutus |
+| [§ 387](para-387.md) | Maksustatava tulu väärarvutus |
+| [§ 388](para-388.md) | Maksustatava käibe ja tagastatava käibemaksusumma väärarvutus |
+| [§ 389](para-389.md) | Maksusumma kinni pidamata jätmine |
 | [§ 389¹](para-389b1.md) | Maksukohustuse varjamine ja tagastusnõude alusetu suurendamine |
 | [§ 389²](para-389b2.md) | Maksukelmus suures ulatuses |
-| [§ 390](para-390.md) |  |
+| [§ 390](para-390.md) | Maksuhalduri tegevuse takistamine |
 | [§ 391](para-391.md) | Salakaubavedu |
 | [§ 392](para-392.md) | Keelatud ja eriluba nõudva kauba ebaseaduslik sisse- ja väljavedu |
 | [§ 393](para-393.md) | Ebaseaduslikud toimingud tollisoodustusega kaubaga ja aktsiisikaubaga |

@@ -1,3 +1,3 @@
-# § 289.
+# § 289. Ametiseisundi kuritarvitamine
 
 

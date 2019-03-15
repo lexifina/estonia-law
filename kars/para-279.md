@@ -1,6 +1,6 @@
-# § 279. Riikliku järelevalve teostamise takistamine
+# § 279. Riikliku ja haldusjärelevalve teostamise takistamine
 
-(1) Riikliku järelevalve takistamise eest sellisel kujul, mis ei võimaldanud järelevalve teostamist, –
+(1) Riikliku ja haldusjärelevalve takistamise eest sellisel kujul, mis ei võimaldanud järelevalve teostamist, –
 
 karistatakse rahatrahviga kuni 300 trahviühikut või arestiga.
 

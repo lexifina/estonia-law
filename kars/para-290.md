@@ -1,3 +1,3 @@
-# § 290.
+# § 290. Ametialane lohakus
 
 

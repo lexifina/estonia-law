@@ -1,3 +1,3 @@
-# § 378.
+# § 378. Ärisaladuse õigustamatu kasutamine
 
 

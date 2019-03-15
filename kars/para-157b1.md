@@ -1,6 +1,6 @@
-# § 157¹. Delikaatsete isikuandmete ebaseaduslik avaldamine
+# § 157¹. Eriliiki isikuandmete, süüteo toimepanemise või selle ohvriks langemise andmete ebaseaduslik avaldamine
 
-(1) Delikaatsete isikuandmete ebaseadusliku avaldamise või neile ebaseadusliku juurdepääsu võimaldamise eest –
+(1) Eriliiki isikuandmete, samuti enne kohtuistungit või õigusrikkumise asjas otsuse langetamist või asja menetluse lõpetamist süüteo toimepanemise või selle ohvriks langemise andmete ebaseadusliku avaldamise või neile ebaseadusliku juurdepääsu võimaldamise eest –
 
 karistatakse rahatrahviga kuni 300 trahviühikut.
 
