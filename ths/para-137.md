@@ -4,7 +4,7 @@
 
 määrusega.
 
-(2) Kui käitaja tõendab loa andjale, et lenduvate orgaaniliste ühendite heite piirväärtuste kohaldamine käitisele ei ole tehniliselt ega majanduslikult teostatav, võib loa andja teha sellele käitisele erandi heite piirväärtuste järgimise kohustusest, kui erandi tegemisega ei kaasne olulist ebasoodsat mõju keskkonnale, inimese tervisele, heaolule, varale ja kultuuripärandile, ning kui käitaja tõendab loa andjale, et ta kasutab parimat võimalikku tehnikat.
+(2) Kui käitaja tõendab loa andjale, et kontrollimatu heite piirväärtuste kohaldamine käitisele ei ole tehniliselt ega majanduslikult teostatav, võib loa andja teha sellele käitisele erandi heite piirväärtuste järgimise kohustusest, kui erandi tegemisega ei kaasne olulist ebasoodsat mõju keskkonnale, inimese tervisele, heaolule, varale ja kultuuripärandile, ning kui käitaja tõendab loa andjale, et ta kasutab parimat võimalikku tehnikat.
 
 (3) Käesoleva paragrahvi lõikes 2 sätestatud juhul võib loa andja asendada käitaja heite piirväärtuste järgimise kohustuse heitkoguste vähendamise kava rakendamisega vastavalt käesoleva seaduse §-s 139 sätestatud tingimustele.
 

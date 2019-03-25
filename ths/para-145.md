@@ -6,7 +6,7 @@
 
 2) lenduvate orgaaniliste ühendite heitkoguste vähendamise kava nõuetele;
 
-3) käesoleva seaduse § 137 lõikes 2 sätestatud eranditele heite piirväärtustest.
+3) käesoleva seaduse § 137 lõigetes 2 ja 4 sätestatud eranditele heite piirväärtustest.
 
 (2) Käesoleva paragrahvi lõikes 1 sätestatud tingimustele vastavuse hindamiseks on käitajal kohustus esitada andmeid ka loa andja igakordsel nõudmisel.
 

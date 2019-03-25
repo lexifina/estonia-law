@@ -2,7 +2,7 @@
 
 (1) Loa andja teatab kompleksloa taotluse menetlusse võtmisest ametlikus väljaandes Ametlikud Teadaanded seitsme päeva jooksul kompleksloa taotluse menetlusse võtmisest arvates.
 
-(2) Kui kompleksloa taotluse menetlemisel hinnatakse keskkonnamõju, võib loa andja teatada kompleksloa taotluse menetlusse võtmisest koos keskkonnamõju hindamise algatamise teatega vastavalt keskkonnamõju hindamise ja keskkonnajuhtimissüsteemi seaduse § 12 lõike 1 punktile 1.
+(2) Kui kompleksloa taotluse menetlemisel hinnatakse keskkonnamõju, võib loa andja teatada kompleksloa taotluse menetlusse võtmisest koos keskkonnamõju hindamise algatamise teatega vastavalt keskkonnamõju hindamise ja keskkonnajuhtimissüsteemi seaduse § 12 lõikele 1.
 
 (3) Käesoleva paragrahvi lõikes 1 nimetatud teates märgitakse vähemalt:
 

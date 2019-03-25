@@ -1,6 +1,6 @@
 # § 47. Nõuded käitiste omaseirele
 
-(1) Käesoleva seaduse § 41 lõike 2 punktis 11 nimetatud heiteseire nõuded määratakse kohalduvates PVT-järeldustes sisalduvate omaseiret puudutavate tingimuste alusel.
+(1) Käesoleva seaduse § 41 lõike 2 punktis 11 nimetatud heiteseire nõuded määratakse kohalduvates PVT-järeldustes sisalduvate omaseire tingimuste alusel, tagades heiteseire tulemuste kättesaadavuse samade perioodide kohta ja samadel võrdlustingimustel kui parima võimaliku tehnikaga saavutatavate heitetasemete korral.
 
 (2) võib määrusega kehtestada käesoleva seaduse § 41 lõike 2 punktis 11 nimetatud pinnase ja põhjavee saastatuse seire täpsustatud nõuded.
 

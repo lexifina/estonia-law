@@ -2,7 +2,7 @@
 
 (1) Suurest põletusseadmest väljuvates gaasides saasteaine sisalduse pideva mõõtmise korral loetakse saasteainete heitele esitatavad piirväärtuse nõuded täidetuks, kui kalendriaasta töötundide jooksul tehtud mõõtmiste tulemused näitavad, et:
 
-1) ühegi kalendrikuu keskmine heite mõõtetulemus ei ületa käesoleva seaduse § 73 alusel suurte põletusseadmete jaoks kehtestatud heite piirväärtust;
+1) ühegi kalendrikuu keskmine vastuvõetavaks tunnistatud heite mõõtetulemus ei ületa käesoleva seaduse § 73 alusel suurte põletusseadmete jaoks kehtestatud heite piirväärtust;
 
 2) ükski ööpäeva keskmine vastuvõetavaks tunnistatud heite mõõtetulemus ei ületa heite piirväärtust 110 protsenti;
 

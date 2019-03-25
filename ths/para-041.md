@@ -40,6 +40,8 @@
 
 18) loa andjale käitise andmete esitamise viis, sagedus ja ulatus;
 
+18¹) nõue esitada loa andjale korrapäraselt ja vähemalt kord aastas heiteseire tulemustele tuginev teave ja muud nõutud andmed või käesoleva seaduse § 44 lõikes 5 sätestatud juhul heiteseire tulemuste kokkuvõte, mis võimaldab võrdlust parima võimaliku tehnikaga saavutatava heitetasemega;
+
 19) täiendavad meetmed käesoleva seaduse §-s 26 sätestatud põhimõtete elluviimiseks.
 
 (3) Kui kompleksloas määratakse käesoleva paragrahvi lõike 2 punkti 7 kohaselt heite piirväärtuste asemel võrdväärsed parameetrid või tehnilised meetmed ilma konkreetse seadme või tehnoloogia nõuet määramata, peavad need parameetrid või tehnilised meetmed tagama heite piirväärtustega vähemalt samaväärse keskkonnakaitse taseme.

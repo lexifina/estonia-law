@@ -7,3 +7,5 @@
 (3) Täpsustatud nõuded titaandioksiidi tootvate käitiste väljuvate gaaside seire kohta kehtestab
 
 määrusega.
+
+(4) Käitaja teeb seiret Euroopa Standardimiskomitee standardite kohaselt, nende puudumise korral Rahvusvahelise Standardimisorganisatsiooni standardi kohaselt, või kui see ei ole kättesaadav, siis riikliku või mõne teise sellise rahvusvahelise standardi kohaselt, millega tagatakse mõõtmisandmete võrdväärne teaduslik kvaliteet.

@@ -28,7 +28,7 @@
 
 4) hindab kompleksloa nõuete läbivaatamisel, kas käesoleva paragrahvi lõikes 6 sätestatud erandi kohaldamine on endiselt põhjendatud.
 
-(8) Kujunemisjärgus tehnika katsetamisel ja kasutamisel võib loa andja teha ajutise erandi parima võimaliku tehnika ja selle alusel määratud heite piirväärtuste, võrdväärsete parameetrite või tehniliste meetmete kohaldamisest kuni üheksaks kuuks, kui selle järel lõpetatakse kujunemisjärgus tehnika kasutamine või selle tehnikaga seotud tegevuses saavutatakse vähemalt heitetase, mis vastab parima võimaliku tehnikaga saavutatavale heitetasemele.
+(8) Kujunemisjärgus tehnika katsetamise ja kasutamise korral võib loa andja teha ajutise erandi parima võimaliku tehnika ja selle alusel määratud heite piirväärtuste, võrdväärsete parameetrite, tehniliste meetmete ja muude saastatuse vältimiseks asjakohaste ennetusmeetmete rakendamise nõude kohaldamisest kuni üheksaks kuuks, kui selle järel lõpetatakse kujunemisjärgus tehnika kasutamine või selle tehnikaga seotud tegevuses saavutatakse vähemalt heitetase, mis vastab parima võimaliku tehnikaga saavutatavale heitetasemele.
 
 (9) Heite piirväärtus kehtib heite käitisest väljumise kohas. Heite piirväärtust määrates ei arvestata heite hajutamist või lahjendamist muude ainete või keskkonnakomponentidega enne keskkonda väljutamist.
 

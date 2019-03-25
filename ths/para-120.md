@@ -10,7 +10,9 @@
 
 4) N1-, N2- ja N3-kategooria furgoonidele ja veoautodele, välja arvatud veoautode kabiinid;
 
-5) M2- ja M3-kategooria bussidele, O1-, O2-, O3- ja O4-kategooria haagistele; metall- ja plastpinnale, kaasa arvatud lennukite, laevade, rongide ja muud sellised pinnad;
+5) M2- ja M3-kategooria bussidele, O1-, O2-, O3- ja O4-kategooria haagistele;
+
+5¹) metall- ja plastpinnale, kaasa arvatud lennukite, laevade, rongide ja muud sellised pinnad;
 
 6) puit-, tekstiil-, kanga-, kile-, paber- ja nahkpinnale.
 

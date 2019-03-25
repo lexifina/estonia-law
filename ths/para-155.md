@@ -17,3 +17,5 @@
 5) vajaduse korral kontrollproovide võtmist ja -mõõtmiste tegemist.
 
 (4) Keskkonnainspektsioon kaasab oma kontrollkäigule loa andja, kes tegutseb lähtudes käesoleva seaduse §-st 49.
+
+(5) Keskkonnaalase kontrolli tulemused vormistatakse kontrolliaruandena, milles esitatakse kontrolli tulemused, kirjeldades nende vastavust käitisele antud loa nõuetele, ja järeldused edasiste meetmete võtmise vajaduse kohta. Aruanne edastatakse käitajale ja avalikustatakse Keskkonnaministeeriumi keskkonnaotsuste infosüsteemis ning Keskkonnaministeeriumi kodulehel kahe kuu jooksul käitise kohapealsest kontrollimisest arvates.

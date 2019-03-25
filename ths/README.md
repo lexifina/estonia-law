@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/122022019029> (version in force from 2019-03-04)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/115032019018> (version in force from 2019-03-25)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -156,6 +156,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/122022019029> (version in force 
 | **2. jaotis Terminid** | |
 | [§ 114](para-114.md) | Liim, trükivärv, pinnakattevahend ja lakk |
 | [§ 115](para-115.md) | Väljuv gaas, kontrollimatu heide ja summaarne heide |
+| [§ 115¹](para-115b1.md) | Korduskasutus |
 | [§ 116](para-116.md) | Kontrollitavad tingimused |
 | [§ 117](para-117.md) | Lahusti sisend |
 | [§ 118](para-118.md) | Lahusti kasutamine |

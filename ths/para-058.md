@@ -4,7 +4,7 @@
 
 (2) Kui tegevuskoht võib kompleksloa alusel toimunud tegevuse tagajärjel ning selle tegevuse lõpetamise ajal kindlaksmääratud või heakskiidetud tulevast kasutamisviisi arvesse võttes avaldada olulist ebasoodsat mõju keskkonnale, inimese tervisele, heaolule, varale ja kultuuripärandile, on käitaja tegevuse täieliku lõpetamise korral kohustatud rakendama vajalikke järelhooldusmeetmeid ohtlike ainete eemaldamiseks, nende pinnases sisaldumise kontrollimiseks, piiramiseks või vähendamiseks:
 
-1) kui käitaja on käesoleva seaduse § 57 lõike 1 kohaselt kohustatud koostama lähteolukorra aruande, ent pinnase või põhjavee saastatus on tekitatud kompleksloa alusel lubatud tegevusega enne käitise kompleksloa esmakordset muutmist pärast käesoleva seaduse jõustumist või
+1) kui käitaja on käesoleva seaduse § 165 lõike 3 kohaselt kohustatud koostama lähteolukorra aruande, ent pinnase või põhjavee saastatus on tekitatud kompleksloa alusel lubatud tegevusega enne käitise kompleksloa esmakordset muutmist pärast käesoleva seaduse jõustumist või
 
 2) kui käitaja ei ole kohustatud lähteolukorra aruannet koostama, ent kompleksloa alusel lubatud tegevusega on tekitatud pinnase ja põhjavee saastatus.
 
