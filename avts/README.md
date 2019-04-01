@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/113032019036> (version in force from 2019-03-15)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/115032019011> (version in force from 2019-04-01)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -83,6 +83,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/113032019036> (version in force 
 | [§ 52](para-052.md) | Andmekaitse Inspektsiooni ettekirjutuse täitmine |
 | [§ 53](para-053.md) | Andmekaitse Inspektsiooni taotlus teenistusliku järelevalve korraldamiseks |
 | [§ 53¹](para-053b1.md) | Riigi Infosüsteemi Ameti järelevalve |
+| [§ 53²](para-053b2.md) | Statistikaameti järelevalve |
 | [§ 54](para-054.md) | Andmekaitse Inspektsiooni ettekanne seaduse täitmisest |
 | **6¹. peatükk VASTUTUS** | |
 | [§ 54¹](para-054b1.md) | Avaliku teabe avalikustamise ja väljastamise nõuete rikkumine |

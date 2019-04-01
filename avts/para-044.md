@@ -4,4 +4,6 @@ Käesoleva seaduse ja selle alusel kehtestatud õigusaktide täitmise üle teost
 
 1) Andmekaitse Inspektsioon;
 
-2) Riigi Infosüsteemi Amet.
+2) Riigi Infosüsteemi Amet;
+
+3) Statistikaamet.
