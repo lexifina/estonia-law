@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung teisipäev, 30.04.2019",
+  "sitting_time": "2019-04-30T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Majanduskomisjoni esimehe ja aseesimehe valimine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9fbc873d-4685-4193-9900-c180a5841937"
+    },
+    {
+      "order": 2,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "92587848-fc69-4c9c-82c1-4ea338d0d392"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4d4ebad3-b42a-45dd-8bcf-c4d8bca2137e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAJK protokoll nr 1 30.04.2019",
+      "uuid": "c015c7d2-b439-443f-b4b0-5aa7b8fe2480",
+      "files": [
+        "MAJK_protokoll_nr_1_30.04.2019.bdoc",
+        "MAJK protokoll nr 1 30.04.2019.pdf"
+      ]
+    }
+  ],
+  "uuid": "7d959d8b-6c7e-40e2-b4cc-1e53995caaa4",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7d959d8b-6c7e-40e2-b4cc-1e53995caaa4)",
+  "source": "https://api.riigikogu.ee/api/volumes/7d959d8b-6c7e-40e2-b4cc-1e53995caaa4",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-04-01&endDate=2019-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
