@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung teisipäev, 30.04.2019 14:00",
+  "sitting_time": "2019-04-30T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Rahanduskomisjoni esimehe ja aseesimehe valimine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b8553710-80f3-4435-b62a-485f2e17d7b4"
+    },
+    {
+      "order": 2,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8d568578-7b7d-42e7-8d96-08bd51907da3"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "836da796-136e-4d6f-a06d-9a98c4f20bda"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 30.04.2019",
+      "uuid": "946425a3-a4ba-4719-8ede-8e778200d0a3",
+      "files": [
+        "RAHK protokoll 1 30 04 2019.pdf",
+        "RAHK_protokoll.bdoc"
+      ]
+    }
+  ],
+  "uuid": "d8dbf52d-48fa-4bd2-b6df-adb1f8e38d44",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d8dbf52d-48fa-4bd2-b6df-adb1f8e38d44)",
+  "source": "https://api.riigikogu.ee/api/volumes/d8dbf52d-48fa-4bd2-b6df-adb1f8e38d44",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-04-01&endDate=2019-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
