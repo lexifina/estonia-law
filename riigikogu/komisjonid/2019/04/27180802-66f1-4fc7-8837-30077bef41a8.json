@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung teisipäev, 30.04.2019 14:00",
+  "sitting_time": "2019-04-30T14:02:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väliskomisjoni esimehe ja aseesimehe valimine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f484b11c-569f-46e1-9f21-1eeb16f9ab9b"
+    },
+    {
+      "order": 2,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "aa3ba043-96c4-449b-bbf0-254492013c6f"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7a0e7acb-bca1-40e3-ad02-8513925a542a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 30.04.2019",
+      "uuid": "c48ef378-56fb-407a-91e8-a806efc34328",
+      "files": [
+        "VALK_protokoll_20190430.pdf",
+        "VÄLK_protokoll_30.04.2019.bdoc"
+      ]
+    }
+  ],
+  "uuid": "27180802-66f1-4fc7-8837-30077bef41a8",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 27180802-66f1-4fc7-8837-30077bef41a8)",
+  "source": "https://api.riigikogu.ee/api/volumes/27180802-66f1-4fc7-8837-30077bef41a8",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-04-01&endDate=2019-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
