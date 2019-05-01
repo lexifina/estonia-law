@@ -26,9 +26,9 @@
 
 4) muud olulised tehingu tingimused.
 
-(4) Minister võib ministeeriumi valitsemisala riigiasutustel lubada võtta rahalisi kohustusi eelseisvateks eelarveaastateks tingimusel, et ühelgi eelseisval eelarveaastal ei ületa nende ministeeriumi valitsemisala täidetavate rahaliste kohustuste maht 50 protsenti ministeeriumi valitsemisala vastava eelseisva eelarveaasta kululae piirmääraga vahenditest.
+(4) Minister võib ministeeriumi valitsemisala riigiasutustel lubada võtta rahalisi kohustusi eelseisvateks eelarveaastateks tingimusel, et ühelgi eelseisval eelarveaastal ei ületa nende ministeeriumi valitsemisala täidetavate rahaliste kohustuste maht 50 protsenti ministeeriumi valitsemisala vastava eelseisva eelarveaasta rahastamiskava piirmääraga vahenditest.
 
-(5) Valdkonna eest vastutava ministri ettepanekul võib Vabariigi Valitsus suurendada ministeeriumi valitsemisala eelseisva eelarveaasta rahaliste kohustuste võtmise maksimaalset määra, mis on sätestatud käesoleva paragrahvi lõikes 4, kuid mitte rohkem kui 80 protsendini ministeeriumi valitsemisala vastava eelseisva eelarveaasta kululae piirmääraga vahenditest. Riigieelarvega võib Vabariigi Valitsusele anda õiguse lubada ministeeriumi valitsemisalale rahaliste kohustuste võtmist käesolevas lõikes sätestatust suuremas mahus.
+(5) Valdkonna eest vastutava ministri ettepanekul võib Vabariigi Valitsus suurendada ministeeriumi valitsemisala eelseisva eelarveaasta rahaliste kohustuste võtmise maksimaalset määra, mis on sätestatud käesoleva paragrahvi lõikes 4, kuid mitte rohkem kui 80 protsendini ministeeriumi valitsemisala vastava eelseisva eelarveaasta rahastamiskava piirmääraga vahenditest. Riigieelarvega võib Vabariigi Valitsusele anda õiguse lubada ministeeriumi valitsemisalale rahaliste kohustuste võtmist käesolevas lõikes sätestatust suuremas mahus.
 
 (6) Põhiseaduslikud institutsioonid ja nende haldusala asutused lähtuvad eelseisvateks eelarveaastateks rahaliste kohustuste võtmisel käesoleva paragrahvi lõikest 4, kui riigieelarvega ei ole kindlaks määratud teisiti.
 
