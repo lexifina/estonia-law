@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung esmaspäev, 6.05.2019 11:00",
+  "sitting_time": "2019-05-06T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fe89e676-a8d6-4532-aad6-ed5c24d573b3"
+    },
+    {
+      "order": 2,
+      "title": "Väliskomisjoni I istungjärgu töökava arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5c98b657-3e32-40f9-878e-62c196f0c1fc"
+    },
+    {
+      "order": 3,
+      "title": "Riigikogu välisdelegatsioonide moodustamise üldpõhimõtete arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cf7f757f-3535-43d7-983e-0a512b3344cc"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "30750d4d-42c2-447b-8e52-1ce199a5886f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "74f671f9-3ea6-4a78-a933-dedbae04e26a",
+      "files": [
+        "Protokol_20190509.pdf",
+        "Protokoll.bdoc"
+      ]
+    }
+  ],
+  "uuid": "b203b541-d164-4d45-aca5-046b468aee68",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b203b541-d164-4d45-aca5-046b468aee68)",
+  "source": "https://api.riigikogu.ee/api/volumes/b203b541-d164-4d45-aca5-046b468aee68",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-05-01&endDate=2019-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
