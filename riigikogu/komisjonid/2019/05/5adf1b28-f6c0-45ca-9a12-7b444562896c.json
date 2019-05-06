@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 6.05.2019 11:00",
+  "sitting_time": "2019-05-06T11:05:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ae20c8ff-6dff-4f68-b7a5-a25fc0057665"
+    },
+    {
+      "order": 2,
+      "title": "Maaelukomisjoni töökorraldus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c1219ee2-ec3d-47d1-b81d-66e5bfdf0d92"
+    },
+    {
+      "order": 3,
+      "title": "Maaelukomisjoni tööplaanid",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fb9b9df8-6148-4395-a51e-28825a23fa2a"
+    },
+    {
+      "order": 4,
+      "title": "Istungil algatatud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5cf0e7f4-34a5-48b0-afbf-725f877927e1"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 06.mai 2019",
+      "uuid": "500f887c-a4aa-4c94-926d-361ed2f71eee",
+      "files": [
+        "MAEK protokoll 06.05.2019.pdf",
+        "MAEK_protokoll_06.mai_2019.asice"
+      ]
+    }
+  ],
+  "uuid": "5adf1b28-f6c0-45ca-9a12-7b444562896c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 5adf1b28-f6c0-45ca-9a12-7b444562896c)",
+  "source": "https://api.riigikogu.ee/api/volumes/5adf1b28-f6c0-45ca-9a12-7b444562896c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-05-01&endDate=2019-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
