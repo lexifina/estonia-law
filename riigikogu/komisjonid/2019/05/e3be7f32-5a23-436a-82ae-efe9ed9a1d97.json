@@ -1,0 +1,59 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung esmaspäev, 6.05.2019 11:15",
+  "sitting_time": "2019-05-06T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "81456ccc-2a77-473d-9020-e8f8c29b3fd6"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade Eesti Panga 2018. aasta aruandest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1bd4ad97-c97d-4802-b2eb-73c40a48ca4b"
+    },
+    {
+      "order": 3,
+      "title": "Riigikogu otsuse “Eesti esindaja nimetamine Põhjamaade Investeerimispanga kontrollkomiteesse” eelnõu algatamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ed05712f-9b49-4e46-ad50-5edcd886a8d5"
+    },
+    {
+      "order": 4,
+      "title": "Komisjoni töökorraldus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "88db91d2-75a2-4d71-92f3-5ffa5817175f"
+    },
+    {
+      "order": 5,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7625c884-977b-42ba-95a2-acd19fa472ad"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 6.05.2019",
+      "uuid": "696f338d-8859-4e1e-bd0c-74b3c1908e12",
+      "files": [
+        "RAHK protokoll 2 06 05 19.pdf",
+        "RAHK_protokoll_6.05.2019.asice",
+        "Eesti Pank 6.05.2019 Ardo Hansson .pdf"
+      ]
+    }
+  ],
+  "uuid": "e3be7f32-5a23-436a-82ae-efe9ed9a1d97",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e3be7f32-5a23-436a-82ae-efe9ed9a1d97)",
+  "source": "https://api.riigikogu.ee/api/volumes/e3be7f32-5a23-436a-82ae-efe9ed9a1d97",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-05-01&endDate=2019-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
