@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung teisipäev, 7.05.2019 14:00",
+  "sitting_time": "2019-05-07T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Keskkonnaameti juhtkonnaga",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b9d2feb9-d867-4073-af14-5bc0c8540da9"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine Keskkonnainspektsiooni juhtkonnaga",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "99b7cf9f-3b96-4934-b588-496fa1e876b3"
+    },
+    {
+      "order": 3,
+      "title": "Välisõhu kvaliteedi arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "05ad13a1-01c5-4fa2-abea-ee52cc22aeb1"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "721c0e5f-c222-469e-9243-dae99955034e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK protokoll 07.05.2019",
+      "uuid": "4249b6a6-dae3-479a-b777-d9d99bc024e1",
+      "files": [
+        "KEKK_protokoll_07.05.2019.asice",
+        "07.05.2019 protok.3.pdf"
+      ]
+    }
+  ],
+  "uuid": "91eaac88-e4f0-487b-a034-81c0020ee278",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 91eaac88-e4f0-487b-a034-81c0020ee278)",
+  "source": "https://api.riigikogu.ee/api/volumes/91eaac88-e4f0-487b-a034-81c0020ee278",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-05-01&endDate=2019-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
