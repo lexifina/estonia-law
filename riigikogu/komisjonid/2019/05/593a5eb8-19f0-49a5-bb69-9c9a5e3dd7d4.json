@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Rahanduskomisjoni ja majanduskomisjoni ühine istung teisipäev, 7.05.2019 14:00",
+  "sitting_time": "2019-05-07T14:15:00",
+  "sitting_type": "UHISISTUNG",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Rahandusministeeriumi ülevaade 2019. aasta kevadprognoosist",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c342aff2-8a6a-4f55-abb6-3ac30739d257"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f8c47cbe-a8af-480c-8de7-bbf314f4fefe"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK ja MAJK ühine protokoll 7.05.2019",
+      "uuid": "e44945b6-aee5-4d32-b600-5f731b7bec5a",
+      "files": [
+        "RAM kevadprognoos 7.05.2019 ühisistung.pdf",
+        "RAHK ja MAJK protokoll 1 7 05 2019.pdf",
+        "RAHK_ja_MAJK_ühine_protokoll_7.05.2019.asice"
+      ]
+    }
+  ],
+  "uuid": "593a5eb8-19f0-49a5-bb69-9c9a5e3dd7d4",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 593a5eb8-19f0-49a5-bb69-9c9a5e3dd7d4)",
+  "source": "https://api.riigikogu.ee/api/volumes/593a5eb8-19f0-49a5-bb69-9c9a5e3dd7d4",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-05-01&endDate=2019-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
