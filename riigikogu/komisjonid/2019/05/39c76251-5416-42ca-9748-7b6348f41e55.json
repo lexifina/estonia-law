@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung neljapäev, 9.05.2019 13:00",
+  "sitting_time": "2019-05-09T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Välisministri välispoliitilised prioriteedid",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "634ec3a1-4d5b-4f91-8bb8-3dab684b8737"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad 13. mail 2019 toimuval Euroopa Liidu välisasjade nõukogu istungil",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7dc6e96b-5063-468b-8236-ed50aab26fb0"
+    },
+    {
+      "order": 3,
+      "title": "Eesti seisukohad 16. mail 2019 toimuval Euroopa Liidu välisasjade nõukogu (arenguministrid) istungil",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "26c6c8b1-ce28-4add-8352-4d7604f8834b"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2ab27486-be9c-42c7-96f6-05af66e7d402"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 09.05.2019",
+      "uuid": "2c6d7147-26ae-40e4-a609-9723c03319bc",
+      "files": [
+        "VÄLK_protokoll_09.05.2019.asice",
+        "09.05.2019 (4) Protokoll.pdf"
+      ]
+    }
+  ],
+  "uuid": "39c76251-5416-42ca-9748-7b6348f41e55",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 39c76251-5416-42ca-9748-7b6348f41e55)",
+  "source": "https://api.riigikogu.ee/api/volumes/39c76251-5416-42ca-9748-7b6348f41e55",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-05-01&endDate=2019-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
