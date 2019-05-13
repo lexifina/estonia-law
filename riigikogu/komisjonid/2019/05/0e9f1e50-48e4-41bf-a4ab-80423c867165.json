@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 13.05.2019 11:10",
+  "sitting_time": "2019-05-13T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f2fb8192-9f74-472f-91e0-dec8236fc316"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine Eesti Põllumajandus-Kaubanduskoja esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7991f837-acd3-488e-9bd6-d77f376f1953"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4309bb69-0adc-4729-8cea-3ad800a50ba3"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 13.05.2019",
+      "uuid": "439f0c8a-813e-455e-9423-d23a7368e696",
+      "files": [
+        "MAEK_protokoll_13.05.2019.asice",
+        "protokolli lisa EPKK ettekanne.pdf",
+        "MAEK_protokoll_20190520.pdf"
+      ]
+    }
+  ],
+  "uuid": "0e9f1e50-48e4-41bf-a4ab-80423c867165",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0e9f1e50-48e4-41bf-a4ab-80423c867165)",
+  "source": "https://api.riigikogu.ee/api/volumes/0e9f1e50-48e4-41bf-a4ab-80423c867165",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-05-01&endDate=2019-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
