@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung teisipäev, 14.05.2019 kell 14.00",
+  "sitting_time": "2019-05-14T14:05:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Informatsioon julgeolekuolukorra arengutest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "91c2d288-e534-4604-8b59-e23d902043b4"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1b25a065-04a1-4592-a1ea-1ecc0fb7175f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 14.05.2019",
+      "uuid": "e8ae6f13-0eba-4dca-84d4-20aea07bc484",
+      "files": [
+        "VALK_protokoll_20190514.pdf",
+        "VÄLK_protokoll_14.05.2019.asice"
+      ]
+    }
+  ],
+  "uuid": "99d9f8b6-9219-4595-825d-e409991ad3a2",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 99d9f8b6-9219-4595-825d-e409991ad3a2)",
+  "source": "https://api.riigikogu.ee/api/volumes/99d9f8b6-9219-4595-825d-e409991ad3a2",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-05-01&endDate=2019-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
