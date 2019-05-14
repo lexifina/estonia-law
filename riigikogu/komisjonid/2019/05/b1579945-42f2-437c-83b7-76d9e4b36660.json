@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung teisipäev, 14.05.2019 14:00",
+  "sitting_time": "2019-05-14T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Presidendi poolt välja kuulutamata jäetud Kaitseväe korralduse seaduse muutmise seadus (783 UA)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bc37e079-56ff-4020-8673-a4040ab2fb40"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fa2fed1a-8f9b-47af-a921-3878645e47ff"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RIKK protokoll 14.05.2019",
+      "uuid": "893d1157-f4df-431e-9a20-2c39101baee9",
+      "files": [
+        "Protokoll.pdf",
+        "RIKK_protokoll_14.05.2019.asice"
+      ]
+    }
+  ],
+  "uuid": "b1579945-42f2-437c-83b7-76d9e4b36660",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b1579945-42f2-437c-83b7-76d9e4b36660)",
+  "source": "https://api.riigikogu.ee/api/volumes/b1579945-42f2-437c-83b7-76d9e4b36660",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-05-01&endDate=2019-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
