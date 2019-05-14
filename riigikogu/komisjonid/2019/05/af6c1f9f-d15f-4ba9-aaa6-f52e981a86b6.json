@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung teisipäev, 14.05.2019 13:00",
+  "sitting_time": "2019-05-14T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Arutelu siseministeeriumi tööplaanidest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8ffc57e4-5397-43b1-9e03-eed3a95ae33b"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5f85b223-be0c-430d-98f3-a937249c53d2"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ÕIGK protokoll 14.05.2019",
+      "uuid": "eec5bf0a-f0af-4e03-b088-b811479c287c",
+      "files": [
+        "ÕIGK protokoll 14.05.19.pdf",
+        "ÕIGK_protokoll_14.05.2019.asice"
+      ]
+    }
+  ],
+  "uuid": "af6c1f9f-d15f-4ba9-aaa6-f52e981a86b6",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid af6c1f9f-d15f-4ba9-aaa6-f52e981a86b6)",
+  "source": "https://api.riigikogu.ee/api/volumes/af6c1f9f-d15f-4ba9-aaa6-f52e981a86b6",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-05-01&endDate=2019-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
