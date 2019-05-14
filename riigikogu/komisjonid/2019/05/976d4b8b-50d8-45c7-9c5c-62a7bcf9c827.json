@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung teisipäev, 14.05.2019 kell 14.00",
+  "sitting_time": "2019-05-14T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade Eesti Töötukassa tegevusest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6e95d982-4fd8-4c2f-9162-180c1f6f405e"
+    },
+    {
+      "order": 2,
+      "title": "Sotsiaalkomisjoni tööplaanid",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ab3cbd29-3ee2-4c60-8f5b-988aff0b783e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "SOTK protokoll 14.05.2019",
+      "uuid": "051c3efc-ecbe-4772-93cc-bedc43a834ee",
+      "files": [
+        "Protokoll.pdf",
+        "SOTK_protokoll_14.05.2019.asice",
+        "Lisa 1.pdf"
+      ]
+    }
+  ],
+  "uuid": "976d4b8b-50d8-45c7-9c5c-62a7bcf9c827",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 976d4b8b-50d8-45c7-9c5c-62a7bcf9c827)",
+  "source": "https://api.riigikogu.ee/api/volumes/976d4b8b-50d8-45c7-9c5c-62a7bcf9c827",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-05-01&endDate=2019-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
