@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung reede, 24.05.2019 kell 10.00",
+  "sitting_time": "2019-05-24T10:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fb85adb5-6bd8-40f5-b1c8-571e6bb29580"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad 27. mail 2019 toimuval Euroopa Liidu välisasjade nõukogu kaubandusministrite istungil",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "66c7257a-1064-4718-aa65-5e864192f2d6"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1bf8a863-dcec-4185-b165-bc813364b5eb"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 24.05.2019",
+      "uuid": "6e17ff1d-2fc4-4c69-a2b8-1502a4648681",
+      "files": [
+        "VÄLK_protokoll_24.05.2019.asice",
+        "VALK_protokoll_20190524.pdf"
+      ]
+    }
+  ],
+  "uuid": "bc9c2e8e-9e65-4d1e-bcd5-920a0c01be20",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid bc9c2e8e-9e65-4d1e-bcd5-920a0c01be20)",
+  "source": "https://api.riigikogu.ee/api/volumes/bc9c2e8e-9e65-4d1e-bcd5-920a0c01be20",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-05-01&endDate=2019-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
