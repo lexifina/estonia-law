@@ -1,0 +1,48 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung esmaspäev, 27.05.2019 kell 11.10",
+  "sitting_time": "2019-05-27T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0a82c4b1-2f0b-4a69-a561-706566656ddf"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade Kultuurkapitali tegevusest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bd540197-2cdb-4ab6-82fb-744314241278"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "84bbe842-dd76-4d14-9444-bf881068a789"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KULK protokoll 27.05.2019",
+      "uuid": "7172c250-a101-4066-97cc-b6d1f392288f",
+      "files": [
+        "Protokoll nr 6 (27.05,2019).pdf",
+        "Lisa 1 (27.05.2019).pdf",
+        "Lisa 2 (27.05.2019).pdf",
+        "KULK_protokoll_27.05.2019.asice"
+      ]
+    }
+  ],
+  "uuid": "9c0eb1c9-4472-408f-9865-435d8d7382ac",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9c0eb1c9-4472-408f-9865-435d8d7382ac)",
+  "source": "https://api.riigikogu.ee/api/volumes/9c0eb1c9-4472-408f-9865-435d8d7382ac",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-05-01&endDate=2019-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
