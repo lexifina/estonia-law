@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Korruptsioonivastane erikomisjon",
+  "committee_uuid": "e4f2977a-e8c3-4fa0-8f3d-9df9acd6377f",
+  "title": "Komisjoni istung esmaspäev, 27.05.2019 kell 13.30",
+  "sitting_time": "2019-05-27T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Korruptsioonivastase erikomisjoni esimehe ja aseesimehe valimine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5475b55c-2146-4ea3-b862-732f7eee11cd"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1737fdef-3013-4a96-a035-ff2a653ca8d0"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KVEK protokoll 27.05.2019",
+      "uuid": "8ddde903-2314-4a61-80ba-5a184ec6ef26",
+      "files": [
+        "KVEK_protokoll_27.05.2019.asice",
+        "KVEK 27.5.19 protokoll.pdf"
+      ]
+    }
+  ],
+  "uuid": "ed0ff853-9838-4b19-b5fa-2c27c4a636e4",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ed0ff853-9838-4b19-b5fa-2c27c4a636e4)",
+  "source": "https://api.riigikogu.ee/api/volumes/ed0ff853-9838-4b19-b5fa-2c27c4a636e4",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-05-01&endDate=2019-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
