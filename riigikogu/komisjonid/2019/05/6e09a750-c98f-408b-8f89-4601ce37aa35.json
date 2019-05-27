@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung esmaspäev, 27.05.2019 kell 11.15",
+  "sitting_time": "2019-05-27T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "04158709-31ff-4c27-b551-e4081ff96017"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad Euroopa Komisjonile rahvusvaheliste kriminaalõigusalase koostöö lepingute läbirääkimistel osalemiseks volituste andmise kohta.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1f6bdefe-50fd-4600-9a5c-0e581561f1fd"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ae3f785a-278d-4d52-84f6-39d7644223e8"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ÕIGK 27.05.19 protokoll",
+      "uuid": "b1d4c8ea-5883-4912-a33a-f695f54f30ae",
+      "files": [
+        "ÕIGK_27.05.19_protokoll.asice",
+        "ÕIGK protokoll 27.05.19.pdf"
+      ]
+    }
+  ],
+  "uuid": "6e09a750-c98f-408b-8f89-4601ce37aa35",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 6e09a750-c98f-408b-8f89-4601ce37aa35)",
+  "source": "https://api.riigikogu.ee/api/volumes/6e09a750-c98f-408b-8f89-4601ce37aa35",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-05-01&endDate=2019-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
