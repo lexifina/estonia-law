@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung esmaspäev, 27.05.2019 kell 11.15",
+  "sitting_time": "2019-05-27T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e95be340-bd58-44f7-9e1c-e8fa953d16c2"
+    },
+    {
+      "order": 2,
+      "title": "Riigikohtu esimehe ülevaade kohtukorralduse, õigusemõistmise ja seaduste ühetaolise kohaldamise kohta",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "47f45a62-909f-4f2b-a487-5787988ba5c1"
+    },
+    {
+      "order": 3,
+      "title": "Ettekanne avaliku teabe seaduse täitmisest ja isikuandmete kaitse tagamisest 2018. aastal",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "75551896-fe60-4e2c-be6c-0d011c8e2e53"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "46632567-2e5e-4a8c-b53f-844fc59f302a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "PÕSK protokoll 27.05.2019",
+      "uuid": "668de86a-c918-466b-aaab-9401e8df6bf6",
+      "files": [
+        "PÕSK_protokoll_27.05.2019.pdf",
+        "PÕSK_protokoll_27.05.2019.asice"
+      ]
+    }
+  ],
+  "uuid": "e7dd4100-eb69-48e8-ad3c-f3ae182f5bd8",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e7dd4100-eb69-48e8-ad3c-f3ae182f5bd8)",
+  "source": "https://api.riigikogu.ee/api/volumes/e7dd4100-eb69-48e8-ad3c-f3ae182f5bd8",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-05-01&endDate=2019-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
