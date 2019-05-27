@@ -1,0 +1,42 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung esmaspäev, 27.05.2019 kell 08.30",
+  "sitting_time": "2019-05-27T08:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f5557058-d3b2-4688-93d8-46afd5ac1454"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad 28. mai 2019 mitteametlikul Euroopa Liidu riigipeade ja valitsusjuhtide kohtumisel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "73dd5c69-7932-4e46-84cf-779e7b9e0902"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ELAK protokoll 27.05.2019",
+      "uuid": "a7e33a3a-fa7f-405d-bce9-4f667263052b",
+      "files": [
+        "ELAK protokoll 27.05.2019 (1).pdf",
+        "ELAK_protokoll_27.05.2019.asice",
+        "27.05 Asendusliige Raivo Tamm.pdf",
+        "27.05 Asendusliige Ruuben Kaalep.pdf"
+      ]
+    }
+  ],
+  "uuid": "0e18093c-33e6-4e5f-862b-cf0f1edb541c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0e18093c-33e6-4e5f-862b-cf0f1edb541c)",
+  "source": "https://api.riigikogu.ee/api/volumes/0e18093c-33e6-4e5f-862b-cf0f1edb541c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-05-01&endDate=2019-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
