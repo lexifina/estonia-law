@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 28.05.2019 kell 14.00",
+  "sitting_time": "2019-05-28T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Põllumajanduse Registrite ja Informatsiooni Ameti esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "05546f70-0c9c-4401-9278-822a836ff8ea"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ef084a89-e691-494f-8063-4c05a5223d7a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 28.05.2019",
+      "uuid": "4410ddb9-5b25-44f7-b8f6-a99486ff36e1",
+      "files": [
+        "MAEK_protokoll_28.05.2019.asice",
+        "MAEK_protokoll_20190531.pdf"
+      ]
+    }
+  ],
+  "uuid": "cb3ac252-e9fd-4b45-81e2-35f85b68d919",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid cb3ac252-e9fd-4b45-81e2-35f85b68d919)",
+  "source": "https://api.riigikogu.ee/api/volumes/cb3ac252-e9fd-4b45-81e2-35f85b68d919",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-05-01&endDate=2019-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
