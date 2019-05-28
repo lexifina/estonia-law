@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung teisipäev, 28.05.2019 kell 13.00",
+  "sitting_time": "2019-05-28T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava täiendamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "02bd22b2-eddf-4ac1-93a7-ab1333f878c5"
+    },
+    {
+      "order": 2,
+      "title": "Balti Assamblee Eesti delegatsiooni koosseisu muutmine.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b1daea09-06d9-4625-a9e4-6f9e8fd303e1"
+    },
+    {
+      "order": 3,
+      "title": "Justiitsministeeriumi õigusloome plaanid.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "37079abd-657a-404e-a51d-48fffb9fc93b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ÕIGK protokoll 28.05.19",
+      "uuid": "a88e12c6-0529-4f90-a4d6-b53aaf01aa06",
+      "files": [
+        "ÕIGK_protokoll_28.05.19.asice",
+        "ÕIGK protokoll 28.05.19.pdf"
+      ]
+    }
+  ],
+  "uuid": "01e02036-db42-433f-887a-e09b98b5dcd6",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 01e02036-db42-433f-887a-e09b98b5dcd6)",
+  "source": "https://api.riigikogu.ee/api/volumes/01e02036-db42-433f-887a-e09b98b5dcd6",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-05-01&endDate=2019-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
