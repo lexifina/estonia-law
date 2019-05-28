@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung teisipäev, 28.05.2019 kell 14.00",
+  "sitting_time": "2019-05-28T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti Punase Risti ettepanekud Punase risti nimetuse ja embleemi seaduse muutmiseks (1-6/19-19)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "88ef7d00-aee5-4e37-ba33-da8b8d38d47f"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade julgeolekuolukorrast Ukrainas",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "45350a1b-3980-4cbc-82e1-a7758c44dbab"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RIKK protokoll 28.05.2019",
+      "uuid": "a04f9e65-f5a2-472f-a22b-e2ada1b60f4a",
+      "files": [
+        "Protokoll.pdf",
+        "RIKK_protokoll_28.05.2019.asice"
+      ]
+    }
+  ],
+  "uuid": "0b484149-e75f-4874-9e23-608fc8885c26",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0b484149-e75f-4874-9e23-608fc8885c26)",
+  "source": "https://api.riigikogu.ee/api/volumes/0b484149-e75f-4874-9e23-608fc8885c26",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-05-01&endDate=2019-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
