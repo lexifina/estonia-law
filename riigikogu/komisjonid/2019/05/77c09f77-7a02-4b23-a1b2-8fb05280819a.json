@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung teisipäev, 28.05.2019 kell 14.00",
+  "sitting_time": "2019-05-28T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Tööinspektsiooni ülevaade",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cdded05b-574a-4dea-93c5-64d7db46459b"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8545da94-4b94-4660-81b9-93ffbac57512"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "SOTK protokoll 28.05.2019",
+      "uuid": "56142ca8-d405-4e3b-a150-a8215332590f",
+      "files": [
+        "SOTK_protokoll_28.05.2019.asice",
+        "Protokoll.pdf",
+        "Lisa 1.pdf"
+      ]
+    }
+  ],
+  "uuid": "77c09f77-7a02-4b23-a1b2-8fb05280819a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 77c09f77-7a02-4b23-a1b2-8fb05280819a)",
+  "source": "https://api.riigikogu.ee/api/volumes/77c09f77-7a02-4b23-a1b2-8fb05280819a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-05-01&endDate=2019-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
