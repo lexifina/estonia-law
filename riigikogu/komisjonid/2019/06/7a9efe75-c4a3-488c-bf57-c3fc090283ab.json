@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 3.06.2019 kell 11.10",
+  "sitting_time": "2019-06-03T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1a34c3b0-d941-49ad-b08f-9a47efd2d600"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine Põllumajandusameti esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e2bbbb3a-ef3d-40a3-a273-60cb12d81deb"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 03.06.2019",
+      "uuid": "3a43db36-f0ac-492b-8663-049bd9400901",
+      "files": [
+        "Põllumajandusamet 2019 .pdf",
+        "MAEK_protokoll_03.06.2019.asice",
+        "008 protokoll 3.06.2019.pdf"
+      ]
+    }
+  ],
+  "uuid": "7a9efe75-c4a3-488c-bf57-c3fc090283ab",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7a9efe75-c4a3-488c-bf57-c3fc090283ab)",
+  "source": "https://api.riigikogu.ee/api/volumes/7a9efe75-c4a3-488c-bf57-c3fc090283ab",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-06-01&endDate=2019-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
