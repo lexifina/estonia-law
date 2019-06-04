@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung teisipäev, 4.06.2019 kell 14.00",
+  "sitting_time": "2019-06-04T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine NATO staabielemendi juhtkonnaga",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3d085a16-48b9-49e7-9800-ee0f865ca591"
+    },
+    {
+      "order": 2,
+      "title": "Kohumine USA suursaatkonna asejuhi suursaadiku ülesannetes Elizabeth Horsti,  kaitseatašee Povilas Strazdase ja teiste diplomaatidega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6dbc7aea-a46a-4b85-b917-fe7404adacd4"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RIKK protokoll 04.06.2019",
+      "uuid": "e527e393-91ac-44fb-9ea9-d19803070b4b",
+      "files": [
+        "Protokoll.pdf",
+        "RIKK_protokoll_04.06.2019.asice"
+      ]
+    }
+  ],
+  "uuid": "4dc57c27-8e71-4835-9529-73a3a0f2c170",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 4dc57c27-8e71-4835-9529-73a3a0f2c170)",
+  "source": "https://api.riigikogu.ee/api/volumes/4dc57c27-8e71-4835-9529-73a3a0f2c170",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-06-01&endDate=2019-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
