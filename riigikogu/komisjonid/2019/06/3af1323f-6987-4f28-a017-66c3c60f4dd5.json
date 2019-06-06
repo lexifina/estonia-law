@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung neljapäev, 6.06.2019 kell 10.30",
+  "sitting_time": "2019-06-06T10:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikogu otsus \"Tagatisfondi nõukogu liikmete nimetamine\" (32 OE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3f638436-afef-45a8-bbe1-e5f6ac5530e7"
+    },
+    {
+      "order": 2,
+      "title": "Alkoholi-, tubaka-, kütuse- ja elektriaktsiisi seaduse muutmise seaduse eelnõu (30 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ae4d494c-aa18-4bff-ab78-af92be23fb25"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 06.06.2019",
+      "uuid": "5448c7f6-c073-47bb-9dcf-52c8cf1c763a",
+      "files": [
+        "RAHK_protokoll_06.06.2019.asice",
+        "RAHK protokoll 10 6.06.19.pdf"
+      ]
+    }
+  ],
+  "uuid": "3af1323f-6987-4f28-a017-66c3c60f4dd5",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3af1323f-6987-4f28-a017-66c3c60f4dd5)",
+  "source": "https://api.riigikogu.ee/api/volumes/3af1323f-6987-4f28-a017-66c3c60f4dd5",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-06-01&endDate=2019-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
