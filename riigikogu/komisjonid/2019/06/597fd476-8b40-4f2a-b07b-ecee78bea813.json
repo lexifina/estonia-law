@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung neljapäev, 6.06.2019 kell 13.00",
+  "sitting_time": "2019-06-06T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti välismajanduspoliitika ja väliskaubanduspoliitika lühi- ja pikemaajalised prioriteedid",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "85afed31-34cb-4b62-be78-ae65c6f70d76"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7f23f0e6-28fe-4dc9-9604-756a7c027d7c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 06.06.2019",
+      "uuid": "1604655a-d8cc-4ee4-ad1c-6e67c2ab7950",
+      "files": [
+        "VÄLK_protokoll_06.06.2019.asice",
+        "VALK_protokoll_20190620.pdf"
+      ]
+    }
+  ],
+  "uuid": "597fd476-8b40-4f2a-b07b-ecee78bea813",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 597fd476-8b40-4f2a-b07b-ecee78bea813)",
+  "source": "https://api.riigikogu.ee/api/volumes/597fd476-8b40-4f2a-b07b-ecee78bea813",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-06-01&endDate=2019-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
