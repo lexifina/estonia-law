@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 10.06.2019 kell 11.10",
+  "sitting_time": "2019-06-10T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3b88542f-f732-4e9d-81dd-00c34e64fdaf"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine maaeluministri ja Maaeluministeeriumi juhtkonnaga",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "911e3e2d-0892-446b-ab9a-12e4009b567b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 10.06.2019",
+      "uuid": "3dbf7919-8c99-4bcb-888d-25fa9769dd08",
+      "files": [
+        "010 protokoll 10.06.2019.pdf",
+        "MAEK_protokoll_10.06.2019.asice",
+        "010 protokolli lisa_MeM_tutvustus.pptx"
+      ]
+    }
+  ],
+  "uuid": "4bad5cef-e798-4e5e-985b-9035db82e1d3",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 4bad5cef-e798-4e5e-985b-9035db82e1d3)",
+  "source": "https://api.riigikogu.ee/api/volumes/4bad5cef-e798-4e5e-985b-9035db82e1d3",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-06-01&endDate=2019-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
