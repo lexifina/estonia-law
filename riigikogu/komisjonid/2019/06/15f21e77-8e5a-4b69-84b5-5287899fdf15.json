@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung esmaspäev, 10.06.2019 kell 11.15",
+  "sitting_time": "2019-06-10T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "300ec44b-0d5b-4abb-8474-ee866370f30f"
+    },
+    {
+      "order": 2,
+      "title": "Kollektiivne pöördumine „ Maksustame ilutulestikuga paugutamise vabatahtlike päästjate toetuseks“.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5e973034-b3cd-4edb-965d-b18f574cec46"
+    },
+    {
+      "order": 3,
+      "title": "Kollektiivne pöördumine „Lõpetada katuseraha jagamine Riigikogus“",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b00f83fe-1fa6-442a-b212-d32c8a1fa937"
+    },
+    {
+      "order": 5,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a139d9de-69a6-4f85-8094-1a20e1dba672"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 10.06.2019",
+      "uuid": "cda8d99f-d4d8-4c8e-970c-5fd987141f18",
+      "files": [
+        "RAHK protokoll 11 10 06 2019.pdf",
+        "RAHK_protokoll_10.06.2019.asice"
+      ]
+    }
+  ],
+  "uuid": "15f21e77-8e5a-4b69-84b5-5287899fdf15",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 15f21e77-8e5a-4b69-84b5-5287899fdf15)",
+  "source": "https://api.riigikogu.ee/api/volumes/15f21e77-8e5a-4b69-84b5-5287899fdf15",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-06-01&endDate=2019-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
