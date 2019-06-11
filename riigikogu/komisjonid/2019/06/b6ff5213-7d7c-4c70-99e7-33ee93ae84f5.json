@@ -1,0 +1,42 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 11.06.2019 kell 14.00",
+  "sitting_time": "2019-06-11T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade ühistulise piimatööstuse projektist",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b1519b22-101f-4336-8382-3e11d489e562"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine Eesti Aiandusliidu esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a253708e-b6c0-4f36-bdf6-9e41c73569b1"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 11.06.2019",
+      "uuid": "b92b13a6-0e63-4269-b215-bf47566fb4a4",
+      "files": [
+        "011 protokolli lisa 2 uue tööstuse ülevaade.pdf",
+        "011 protokoll 11.06.2019 .pdf",
+        "011 protokolli lisa 1ülevaade piimandusest.pptx",
+        "MAEK_protokoll_11.06.2019.asice"
+      ]
+    }
+  ],
+  "uuid": "b6ff5213-7d7c-4c70-99e7-33ee93ae84f5",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b6ff5213-7d7c-4c70-99e7-33ee93ae84f5)",
+  "source": "https://api.riigikogu.ee/api/volumes/b6ff5213-7d7c-4c70-99e7-33ee93ae84f5",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-06-01&endDate=2019-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
