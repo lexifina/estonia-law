@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung teisipäev, 11.06.2019 kell 14.00",
+  "sitting_time": "2019-06-11T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ettepanek keskkonnatasude seaduse muutmiseks (1-6/19-43)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a625cc12-70f0-4e58-b0c0-b6bebd9d74e3"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6b670373-0310-493b-b485-76733db5ff55"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK protokoll 11.06.2019",
+      "uuid": "22fe4a7d-d429-4bc0-bff8-3833fe34894d",
+      "files": [
+        "11.06.2019 protok.11.pdf",
+        "KEKK_protokoll_11.06.2019.asice"
+      ]
+    }
+  ],
+  "uuid": "43e4b5f1-bbf2-49b2-9358-5f6b35312dc9",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 43e4b5f1-bbf2-49b2-9358-5f6b35312dc9)",
+  "source": "https://api.riigikogu.ee/api/volumes/43e4b5f1-bbf2-49b2-9358-5f6b35312dc9",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-06-01&endDate=2019-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
