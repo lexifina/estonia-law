@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Korruptsioonivastane erikomisjon",
+  "committee_uuid": "e4f2977a-e8c3-4fa0-8f3d-9df9acd6377f",
+  "title": "Komisjoni istung neljapäev, 13.06.2019 kell 14.00",
+  "sitting_time": "2019-06-13T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine riigi peaprokurör pr. Lavly Perling'uga teemal \"Prokuratuur korruptsioonivastases võitluses\"",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "25403792-cec1-4468-a6e6-4ebec3887755"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a38b2ee0-d63b-4986-8edc-c030342469ab"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KVEK protokoll 13.06.2019",
+      "uuid": "366bea23-652a-4e61-a971-a6dd74b1ed7a",
+      "files": [
+        "Prokuratuur korruptsioonivastases võitluses 13.06.2019.pptx",
+        "KVEK_protokoll_13.06.2019.asice",
+        "KVEK protokoll 13.6.19 rtf.pdf"
+      ]
+    }
+  ],
+  "uuid": "39138bd2-0b88-42c2-8a43-86d58445baa7",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 39138bd2-0b88-42c2-8a43-86d58445baa7)",
+  "source": "https://api.riigikogu.ee/api/volumes/39138bd2-0b88-42c2-8a43-86d58445baa7",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-06-01&endDate=2019-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
