@@ -1,6 +1,6 @@
 # § 60¹. Püsiv töövõimetus
 
-(1) Püsiv töövõimetus käesoleva seaduse tähenduses on rohkem kui 182 järjestikuse kalendripäeva jooksul esinev oluline funktsioonihäire, mis on tekkinud Kaitseliidu liikmena käesoleva seaduse § 4 lõike 1 punktis 4 sätestatud ülesande täitmisel või lõike 2 punktides 3 ja 5 sätestatud tegevustes osalemisel teenistuskohustuste täitmise tõttu saadud vigastuse tagajärjel.
+(1) Püsiv töövõimetus käesoleva seaduse tähenduses on rohkem kui 182 järjestikuse kalendripäeva jooksul esinev oluline funktsioonihäire, mis on tekkinud Kaitseliidu liikmena käesoleva seaduse § 4 lõike 1 punktis 4 sätestatud Kaitseliidu ülesande täitmisel või lõike 2 punktis 3 nimetatud korrakaitseorgani ülesande täitmises või lõike 3¹ punkti 2 alusel õppekogunemisel, sealhulgas lisaõppekogunemisel osalemisel teenistuskohustuste täitmise tõttu saadud vigastuse tagajärjel.
 
 (2) Püsiva töövõimetuse, selle ulatuse ja põhjuse tuvastab Kaitseväe arstlik komisjon püsiva töövõimetuse ekspertiisiga.
 

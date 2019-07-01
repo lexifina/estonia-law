@@ -8,11 +8,7 @@
 
 2) sidumisvahend;
 
-3) teenistuskoer;
-
-4) kumminui;
-
-5) teleskoopnui.
+3) teenistuskoer.
 
 (3) Kaitseliidu enesekaitsevahendite loetelu ja nõuded nendele kehtestab
 

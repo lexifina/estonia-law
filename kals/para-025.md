@@ -14,4 +14,4 @@
 
 (5) Noorliikmele uue eestkostja määramisel peab uus eestkostja kirjalikult kinnitama oma nõusolekut eestkostetava liikmesuse jätkumise kohta.
 
-(6) Noorliiget ei või kaasata käesoleva seaduse § 4 lõike 1 punktides 2, 4, 7 ja 8 sätestatud ülesannete täitmisele ja lõikes 2 sätestatud tegevustesse.
+(6) Noorliiget ei või kaasata käesoleva seaduse § 4 lõike 1 punktides 2, 4, 7 ja 8 sätestatud Kaitseliidu ülesannete, lõikes 2 nimetatud korrakaitseorgani ülesannete ja lõikes 3¹ nimetatud Kaitseväe ülesannete täitmisse.

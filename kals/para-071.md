@@ -1,10 +1,14 @@
-# § 71. Valvuri õigused ja kohustused
+# § 71. Valvuri ja valves osaleva isiku kohustused ning volitused
 
 (1) Valvur kannab töökohustusi täites Kaitseliidult saadud vormiriietust, käesidet ja embleemi.
+
+(1¹) Valves osalev isik kannab teenistusülesannet või teenistuskohustust täites vormiriietust ja eraldusmärke.
 
 (2) Kaitseliidu valvuri käesideme ja embleemi kirjelduse ning kandmise korra kehtestab
 
 määrusega.
+
+(2¹) Alaliselt valvatava objekti ning nõuetekohaselt tähistatud ajutiselt valvatava objekti valves osalev isik võib teenistusülesande või teenistuskohustuse täitmisel kanda relvi, erivahendeid ja enesekaitsevahendeid ning kohaldada meetmeid ja vahetut sundi valvurile käesoleva paragrahvi lõigetes 3–9 ning käesoleva seaduse §-des 72 ja 73 lubatud ulatuses ja korras.
 
 (3) Valvuril on õigus:
 

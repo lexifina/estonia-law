@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/113032019070> (version in force from 2019-03-15)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/119032019117> (version in force from 2019-07-01)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -87,8 +87,9 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/113032019070> (version in force 
 | [§ 68¹](para-068b1.md) | Isikuandmete töötlemine tagatiste taotlemise korral |
 | **8. peatükk Valve** | |
 | [§ 69](para-069.md) | Valve osutamine |
-| [§ 70](para-070.md) | Valvuri staatus |
-| [§ 71](para-071.md) | Valvuri õigused ja kohustused |
+| [§ 69¹](para-069b1.md) | Ajutiselt valvatava objekti määramine, tähistamine ja valvamine |
+| [§ 70](para-070.md) | Valvuri ja valves osaleva isiku staatus |
+| [§ 71](para-071.md) | Valvuri ja valves osaleva isiku kohustused ning volitused |
 | [§ 72](para-072.md) | Valvuri relvad ning erivahendid ja enesekaitsevahendid |
 | [§ 73](para-073.md) | Vahetu sunni kasutamine |
 | [§ 74](para-074.md) | Valvurile ettenähtud tagatised |

@@ -12,6 +12,6 @@
 
 (3) Tegevliikmest auliikmeks valitud isikul ei tohi esineda käesoleva seaduse § 24 lõikes 2 sätestatud asjaolusid.
 
-(4) Käesoleva paragrahvi lõike 2 punktis 2 sätestatud alusel valitud auliiget võib kaasata käesoleva seaduse § 4 lõike 1 punktides 1–6 sätestatud ülesannete täitmisele ja lõike 2 punktides 1 ja 2 sätestatud tegevustesse, välja arvatud avaliku korra kaitsesse korrakaitseseaduses sätestatud korras.
+(4) Käesoleva paragrahvi lõike 2 punktis 2 sätestatud alusel valitud auliiget võib kaasata käesoleva seaduse § 4 lõike 1 punktides 1–6 sätestatud Kaitseliidu ülesannete täitmisse ning ilma vahetu sunni kohaldamise volituseta lõike 2 punktides 1 ja 2 nimetatud korrakaitseorgani ülesannete täitmisse.
 
 (5) Käesoleva paragrahvi lõike 2 punktis 3 sätestatud alusel valitud auliiget võib kaasata käesoleva seaduse § 4 lõike 1 punktides 1 ja 3–6 sätestatud ülesannete täitmisele.

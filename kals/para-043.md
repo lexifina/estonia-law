@@ -8,7 +8,7 @@
 
 2) kelle suhtes ei ole ilmnenud asjaolusid, mis annavad alust eeldada, et ta ei sobi enda või teise isiku turvalisust ohustava eluviisi või käitumise tõttu relva omama;
 
-3) kellel puuduvad relvaseaduse § 36 lõike 1 punktides 1–9 ja 11–14 ning lõigetes 2–4 sätestatud asjaolud, mis välistavad relva soetamisloa ja relvaloa andmise;
+3) kellel puuduvad relvaseaduse § 36 lõike 1 punktides 1–9 ja 11–15 ning lõigetes 1¹–4¹ sätestatud asjaolud, mis välistavad relva soetamisloa ja relvaloa andmise;
 
 4) kes on läbi teinud relvaseaduse §-s 35¹ ettenähtud tervisekontrolli ja kellel on kehtiv tervisetõend.
 

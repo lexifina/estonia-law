@@ -18,13 +18,15 @@
 
 5) töövõime kaotuse korral 100 protsendi ulatuses – töövõime kaotuse tuvastamise kuule eelnenud viimase Statistikaameti avaldatud keskmise brutokuupalga 96-kordses ulatuses.
 
-(4¹) Kaitseliidu liikmele, kellel käesoleva seaduse § 4 lõike 2 punktides 1, 2, 4, 6 ja 7 sätestatud tegevustes osalemisel teenistuskohustuste täitmise tõttu saadud vigastuse korral on Eesti Töötukassa töövõimetoetuse seaduse alusel tuvastanud osalise või puuduva töövõime, maksab Kaitseliit riigieelarvest eraldatud rahaliste vahendite arvelt ühekordset hüvitist Kaitseministeeriumi otsuse alusel:
+(4¹) Kaitseliidu liikmele, kellel käesoleva seaduse § 4 lõike 2 punktides 1, 2, 4, 6 ja 7 nimetatud korrakaitseorgani ülesannete täitmises osalemisel teenistuskohustuste täitmise tõttu saadud vigastuse korral on Eesti Töötukassa töövõimetoetuse seaduse alusel tuvastanud osalise või puuduva töövõime, maksab Kaitseliit riigieelarvest eraldatud rahaliste vahendite arvelt ühekordset hüvitist Kaitseministeeriumi otsuse alusel:
 
 1) osalise töövõime korral – töövõime hindamise kuule eelnenud viimase Statistikaameti avaldatud keskmise brutokuupalga 24-kordses ulatuses;
 
 2) puuduva töövõime korral – töövõime hindamise kuule eelnenud viimase Statistikaameti avaldatud keskmise brutokuupalga 96-kordses ulatuses.
 
 (4²) Noortejuhile, kellel on õppetegevuse korraldamise ajal saadud vigastus, mille tõttu on Eesti Töötukassa töövõimetoetuse seaduse alusel tuvastanud tal osalise või puuduva töövõime, maksab Kaitseliit riigieelarvest eraldatud rahalistest vahenditest ühekordset hüvitist Kaitseministeeriumi otsuse alusel käesoleva paragrahvi lõike 4¹ punktis 1 või 2 sätestatu kohaselt.
+
+(4³) Kaitseliidu tegevliikmele, kellel on valves osalemisega seotud teenistuskohustust täites saadud vigastuse tõttu Eesti Töötukassa tuvastanud töövõimetoetuse seaduse alusel osalise või puuduva töövõime, maksab Kaitseliit riigieelarvest eraldatud rahalistest vahenditest ühekordset hüvitist Kaitseministeeriumi otsuse alusel käesoleva paragrahvi lõike 4¹ punktis 1 või 2 sätestatu kohaselt.
 
 (5) Kaitseliidu liikme hukkumise korral maksab Kaitseliit riigieelarvest eraldatud rahaliste vahendite arvelt ühekordset hüvitist hukkumise kuule eelnenud viimase Statistikaameti avaldatud keskmise brutokuupalga 150-kordses ulatuses.
 
