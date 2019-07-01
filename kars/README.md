@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/113032019077> (version in force from 2019-03-15)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/119032019030> (version in force from 2019-07-01)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -215,6 +215,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/113032019077> (version in force 
 | [§ 140](para-140.md) | Doonorlusele kallutamine |
 | **7. jagu Seksuaalse enesemääramise vastased süüteod** | |
 | [§ 141](para-141.md) | Vägistamine |
+| [§ 141¹](para-141b1.md) | Tahtevastane sugulise iseloomuga tegu |
 | [§ 142](para-142.md) | Sugulise kire vägivaldne rahuldamine |
 | [§ 143](para-143.md) | Suguühtele või muule sugulise iseloomuga teole sundimine |
 | [§ 143¹](para-143b1.md) | Sugulise kire rahuldamisele sundimine |
@@ -263,7 +264,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/113032019077> (version in force 
 | [§ 173](para-173.md) | Lapse müümine ja ostmine |
 | [§ 174](para-174.md) | Perekondliku kuuluvuse muutmine |
 | **2. jagu Süüteod alaealise vastu** | |
-| [§ 175](para-175.md) | Inimkaubandus alaealise ärakasutamise eesmärgil |
+| [§ 175](para-175.md) | Inimkaubandus alaealise suhtes |
 | [§ 175¹](para-175b1.md) | Lapspornole juurdepääsu taotlemine ja selle jälgimine |
 | [§ 176](para-176.md) | Alaealise prostitutsioonile kaasaaitamine |
 | [§ 177](para-177.md) | Alaealise kasutamine pornograafilise teose valmistamisel |

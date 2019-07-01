@@ -16,7 +16,13 @@
 
 7) lõhkeseadeldise või lõhkeaine kasutamisega;
 
-8) kättemaksuks ametialase tegevuse eest, –
+8) kättemaksuks ametialase tegevuse eest;
+
+9) isiku poolt, keda on varem korduvalt karistatud tahtliku esimese astme kuriteo eest, mille süüteokoosseisu kuuluvaks tagajärjeks on raske tervisekahjustus, –
+
+[
+
+- jõust. 01.07.2019]
 
 karistatakse kaheksa- kuni kahekümneaastase või eluaegse vangistusega.
 

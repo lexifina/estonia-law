@@ -12,4 +12,6 @@ karistatakse kahe- kuni kaheksa-aastase vangistusega.
 
 karistatakse rahalise karistusega.
 
+(3¹) Käesolevas paragrahvis sätestatud kuriteo korral, kui see on toime pandud isiku poolt, keda on varem karistatud käesolevas jaos sätestatud kuriteo eest, ei jäeta mõistetud karistust täielikult tingimisi kohaldamata.
+
 (4) Kohus võib kohaldada käesolevas paragrahvis sätestatud kuriteo eest kuriteoga saadud vara laiendatud konfiskeerimist vastavalt käesoleva seadustiku §-s 83² sätestatule.

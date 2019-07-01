@@ -1,6 +1,6 @@
 # § 227. Võltskaubandus
 
-(1) Registreeringu alusel õiguskaitse saanud kaubamärgiga identse või sellest olemuslikult eristamatu tähisega varustatud kauba, selle pakendi või etiketi valmistamise, müügi, rentimise, hoidmise, edasitoimetamise või muul viisil kauplemise, sealhulgas sellise tähise all teenuse pakkumise eest kaubamärgiomaniku ainuõigust rikkudes, kui rikkumisega saadud kasu või tekitatud kahju ületab kahtekümmend miinimumpäevamäära, –
+(1) Registreeringu alusel õiguskaitse saanud kaubamärgiga identse või sellest olemuslikult eristamatu tähisega varustatud kauba, selle pakendi või etiketi valmistamise, müügi, rentimise, hoidmise, edasitoimetamise või sellega muul viisil kauplemise, sealhulgas sellise tähise all teenuse pakkumise eest kaubamärgiomaniku ainuõigust rikkudes, kui rikkumisega saadud kasu või tekitatud kahju ületab kahtekümmend miinimumpäevamäära, –
 
 karistatakse rahalise karistuse või kuni kaheaastase vangistusega.
 

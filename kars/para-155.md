@@ -1,6 +1,6 @@
 # § 155. Ühinemisvabaduse rikkumine
 
-(1) Usulise või poliitilise ühenduse või ametiühingu asutamise või sellisesse ühendusse astuma või selle liikmeks olema sundimise või liikmeks astumise takistamise eest –
+(1) Usulise või poliitilise ühenduse või ametiühingu asutamise või sellisesse ühendusse kuulumise vabaduse rikkumise eest –
 
 karistatakse rahalise karistuse või kuni üheaastase vangistusega.
 

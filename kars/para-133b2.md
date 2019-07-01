@@ -16,6 +16,8 @@ karistatakse ühe- kuni viieaastase vangistusega.
 
 karistatakse rahalise karistusega.
 
+(3¹) Käesolevas paragrahvis sätestatud kuriteo korral, kui see on toime pandud isiku poolt, keda on varem karistatud käesolevas paragrahvis või käesoleva seadustiku §-s 133, 133¹, 133³ või 175 sätestatud kuriteo eest, ei jäeta mõistetud karistust täielikult tingimisi kohaldamata.
+
 (4) Kohus võib kohaldada käesolevas paragrahvis sätestatud kuriteo eest kuriteoga saadud vara laiendatud konfiskeerimist vastavalt käesoleva seadustiku §-s 83² sätestatule.
 
 (5) Bordell käesoleva paragrahvi tähenduses on iga ruum või piiratud ala, kus kõrvaline isik vahendab kahe või enama isiku prostitutsiooniga tegelemist või aitab kahe või enama isiku prostitutsiooniga tegelemisele kaasa.

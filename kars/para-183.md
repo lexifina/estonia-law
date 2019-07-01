@@ -1,6 +1,6 @@
 # § 183. Narkootilise ja psühhotroopse aine väikeses koguses ebaseaduslik käitlemine
 
-(1) Narkootilise või psühhotroopse aine väikeses koguses ebaseadusliku edasiandmise või vahendamise, selle ebaseadusliku valmistamise, omandamise või valdamise eest edasiandmise eesmärgil, samuti selle väikeses koguses üle riigipiiri toimetamise eest süstemaatiliselt –
+(1) Narkootilise või psühhotroopse aine väikeses koguses ebaseadusliku edasiandmise või vahendamise, selle ebaseadusliku valmistamise, omandamise või valdamise eest edasiandmise eesmärgil, samuti ebaseaduslikult selle väikeses koguses üle riigipiiri toimetamise eest süstemaatiliselt –
 
 karistatakse rahalise karistuse või kuni kolmeaastase vangistusega.
 

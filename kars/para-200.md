@@ -34,4 +34,6 @@ karistatakse kolme- kuni viieteistaastase vangistusega.
 
 karistatakse rahalise karistusega.
 
+(3¹) Käesolevas paragrahvis sätestatud kuriteo korral, kui see on toime pandud isiku poolt, keda on varem karistatud röövimise või tapmise eest seoses röövimisega või muul omakasu motiivil või väljapressimise eest, ei jäeta mõistetud karistust täielikult tingimisi kohaldamata.
+
 (4) Kohus võib kohaldada käesolevas paragrahvis sätestatud kuriteo eest kuriteoga saadud vara laiendatud konfiskeerimist vastavalt käesoleva seadustiku §-s 83² sätestatule.

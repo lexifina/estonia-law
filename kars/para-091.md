@@ -1,6 +1,6 @@
 # § 91. Agressioonikuritegu
 
-(1) Riigi tegevust kontrolliva või suunava agressiooniakti juhtimises, täideviimises või ettevalmistamises osalemise eest, samuti riigi esindaja poolt agressiooniaktiga ähvardamise eest –
+(1) Riigi tegevust kontrolliva või suunava isiku poolt agressiooniakti juhtimises, täideviimises või ettevalmistamises osalemise eest, samuti riigi esindaja poolt agressiooniaktiga ähvardamise eest –
 
 karistatakse kaheksa- kuni kahekümneaastase või eluaegse vangistusega.
 

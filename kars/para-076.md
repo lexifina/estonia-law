@@ -14,7 +14,7 @@
 
 (3) Tingimisi enne tähtaega ei vabastata süüdlast, keda on karistatud vähemalt kaheaastase vangistusega ja kellel on jäänud mõistetud karistusajast kanda vähem kui kaks kuud.
 
-(4) Tingimisi enne tähtaega vangistusest vabastamise otsustamisel arvestab kohus kuriteo toimepanemise asjaolusid, süüdlase isikut, varasemat elukäiku ning käitumist karistuse kandmise ajal, samuti tema elutingimusi ja neid tagajärgi, mida võib süüdlasele kaasa tuua tingimisi enne tähtaega karistusest vabastamine.
+(4) Tingimisi enne tähtaega vangistusest vabastamise otsustamisel arvestab kohus kuriteo toimepanemise asjaolusid, süüdlase isikut, varasemat elukäiku ning käitumist karistuse kandmise ajal, sealhulgas osalemist uue kuriteo toimepanemise riski vähendavates tegevustes või nõusolekut osaleda sellistes tegevustes käitumiskontrolli ajal, samuti tema elutingimusi ja neid tagajärgi, mida võib süüdlasele kaasa tuua tingimisi enne tähtaega karistusest vabastamine.
 
 (5) Katseaeg määratakse ärakandmata karistusaja ulatuses, kuid mitte lühemana kui kuus kuud. Katseajaks allutatakse süüdlane käesoleva seadustiku §-s 75 sätestatud käitumiskontrollile, kuid mitte rohkem kuni kahekümne neljaks kuuks.
 

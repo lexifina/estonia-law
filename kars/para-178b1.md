@@ -11,3 +11,5 @@ karistatakse ühe- kuni kolmeaastase vangistusega.
 (2) Sama teo eest, kui selle on toime pannud juriidiline isik, –
 
 karistatakse rahalise karistusega.
+
+(3) Käesolevas paragrahvis sätestatud kuriteo korral, kui see on toime pandud isiku poolt, keda on varem karistatud käesolevas paragrahvis või käesoleva seadustiku §-s 175, 175¹, 178 või 179 sätestatud kuriteo eest, ei jäeta mõistetud karistust täielikult tingimisi kohaldamata.

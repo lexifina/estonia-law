@@ -11,3 +11,5 @@ karistatakse kuni viieaastase vangistusega.
 (3) Sama teo eest, kui selle on toime pannud juriidiline isik, –
 
 karistatakse rahalise karistusega.
+
+(4) Käesolevas paragrahvis sätestatud kuriteo korral, kui see on toime pandud isiku poolt, keda on varem karistatud käesolevas jaos sätestatud kuriteo eest, ei jäeta mõistetud karistust täielikult tingimisi kohaldamata.

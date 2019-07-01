@@ -1,6 +1,6 @@
 # § 222. Piraatkaubandus
 
-(1) Teadvalt autoriõigust või autoriõigusega kaasnevat õigust rikkuva kauba valmistamise, müügi, rentimise, hoidmise, edasitoimetamise või muul viisil kauplemise eest kutse- või majandustegevuses, kui rikkumisega saadud kasu või tekitatud kahju ületab kahtekümmend miinimumpäevamäära, –
+(1) Teadvalt autoriõigust või autoriõigusega kaasnevat õigust rikkuva kauba valmistamise, müügi, rentimise, hoidmise, edasitoimetamise või sellega muul viisil kauplemise eest kutse- või majandustegevuses, kui rikkumisega saadud kasu või tekitatud kahju ületab kahtekümmend miinimumpäevamäära, –
 
 karistatakse rahalise karistuse või kuni kaheaastase vangistusega.
 
