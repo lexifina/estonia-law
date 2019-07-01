@@ -2,7 +2,7 @@
 
 (1) Keskkonnaotsuste infosüsteem on andmekogu, mille eesmärk on:
 
-1) lihtsustada keskkonnakomplekslubade ja kiirgustegevuslubade taotlemist ja menetlemist, loaga seotud seire-, aruandlus- ja muude kohustuste täitmist ning kogutud andmete säilitamist, kasutamist ja kättesaadavust;
+1) lihtsustada keskkonnakomplekslubade, keskkonnalubade ja kiirgustegevuslubade taotlemist ja menetlemist, loaga seotud seire-, aruandlus- ja muude kohustuste täitmist ning kogutud andmete säilitamist, kasutamist ja kättesaadavust;
 
 2) kiirgusallikate ja tuumamaterjali ohutuse ning füüsilise kaitse tagamine.
 

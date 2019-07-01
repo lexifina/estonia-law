@@ -30,6 +30,6 @@
 
 (2) Keskkonnaluba antakse tähtajatult, välja arvatud juhul, kui luba taotletakse tähtajaliselt, kui on ette näha keskkonnaloa omaja tegevuse, sealhulgas kasutatava tehnoloogia või keskkonnaseisundi muutumist, või seadusega ettenähtud juhul. Tähtajaline keskkonnaluba antakse vähemalt üheks aastaks, kui keskkonnaloa taotluses ei ole märgitud lühemat tähtaega.
 
-(3) Keskkonnaloa vormid kehtestab
+(3) Keskkonnaloa andmekoosseisud kehtestab
 
 määrusega.
