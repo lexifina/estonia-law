@@ -1,0 +1,35 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung esmaspäev, 29.07.2019 kell 11.38",
+  "sitting_time": "2019-07-29T11:38:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "05bf56aa-5e8c-4bc5-96df-66b9125170b2"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ELAK protokoll 29.07.2019",
+      "uuid": "36ee6d8d-3016-4b47-9d32-744000b397f6",
+      "files": [
+        "ELAK protokoll 29.07.2019.pdf",
+        "ELAK_protokoll_29.07.2019.asice",
+        "29.07. asendusliikme volitus Ruuben Kaalep.pdf"
+      ]
+    }
+  ],
+  "uuid": "cf4978d8-873c-4d56-9a8d-07f769e232d5",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid cf4978d8-873c-4d56-9a8d-07f769e232d5)",
+  "source": "https://api.riigikogu.ee/api/volumes/cf4978d8-873c-4d56-9a8d-07f769e232d5",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-07-01&endDate=2019-07-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
