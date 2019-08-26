@@ -1,0 +1,55 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung esmaspäev, 26.08.2019 kell 10.00",
+  "sitting_time": "2019-08-26T10:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f3a553ca-5093-4eb1-988d-96be979a91f3"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad 28.-29. augustil 2019 toimuval mitteametlikul Euroopa Liidu kaitseministrite kohtumisel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "92cbc06e-b49f-4303-8a38-078418a8bc42"
+    },
+    {
+      "order": 3,
+      "title": "Eesti seisukohad 29.-30. augustil 2019 toimuval mitteametlikul Euroopa Liidu välisministrite (Gymnich) kohtumisel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "82326619-04f0-4f8f-9fda-7333ad8f2a0d"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "87d215e4-0db4-4c87-a388-d0e34e6bf678"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ELAK protokoll 26.08.2019",
+      "uuid": "d2e07b9b-c67e-4c72-807b-6415ecab4363",
+      "files": [
+        "ELAK protokoll 26.08.2019.bdoc",
+        "ELAK protokoll 26.08.2019.pdf",
+        "26.08. Asendusliige Raivo Tamm.pdf",
+        "26.08. Asendusliikmed Natalia Malleuse ja Igor Kravtsenko.pdf",
+        "26.08. Asendusliige Ruuben Kaalep.pdf"
+      ]
+    }
+  ],
+  "uuid": "53683a48-daab-44a7-90d1-4f12f01b56a3",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 53683a48-daab-44a7-90d1-4f12f01b56a3)",
+  "source": "https://api.riigikogu.ee/api/volumes/53683a48-daab-44a7-90d1-4f12f01b56a3",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-08-01&endDate=2019-08-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
