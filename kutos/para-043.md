@@ -47,3 +47,5 @@
 (4) Õpilasel, kes õpib meresõiduohutuse seadusega reguleeritud laevapere liikme koolituse aluseks oleval esmaõppe õppekaval, on õigus riigieelarvest rahastatavale toitlustusele ja vormiriietusele. Nimetatud õpilasele ei laiene käesoleva seaduse §-s 48 sätestatud koolilõuna toetus.
 
 (5) Õpilasel, kes õpib statsionaarses õppevormis pääste- või politseierialade kutseõppe õppekaval, on õigus riigieelarvest rahastatavale toitlustusele ja majutusele kooli kehtestatud tingimustel ja korras.
+
+(6) Pääste- või politseieriala kutseõppe õppekavalt väljaarvatud õpilaselt on õigus nõuda õppekulude hüvitamist politsei ja piirivalve seaduse §-s 69¹ sätestatud tingimustel ja korras.

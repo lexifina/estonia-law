@@ -6,4 +6,4 @@
 
 (3) Õppekavarühm on käesoleva seaduse tähenduses kutseõppe korraldamisel kasutatav õppekavade liigitamise kategooria, mis on kirjeldatud kutseharidusstandardis.
 
-(4) Koolis võib õpe toimuda ka kõrgharidusstandardile vastava rakenduskõrgharidusõppe õppekava järgi. Rakenduskõrgharidusõppe õppekava rakendamisele koolis laienevad rakenduskõrgkooli seaduse rakenduskõrgharidusõppe läbiviimist, finantseerimist ja õppekavagrupi kvaliteedi hindamist puudutavad sätted, kusjuures rakenduskõrgkooli rektori, nõukogu ja nõunike kogu sellekohaseid ülesandeid täidavad vastavalt nende pädevusele kooli direktor, nõukogu ja nõunike kogu kooli põhimäärusega kehtestatud ulatuses ja korras.
+(4) Koolis võib õpe toimuda ka kõrgharidusstandardile vastava rakenduskõrgharidusõppe õppekava järgi. Rakenduskõrgharidusõppe õppekava rakendamisele koolis kohaldatakse kõrgharidusseaduse rakenduskõrgharidusõppe korraldamise, finantseerimise ja kvaliteedihindamise kohta sätestatut, kusjuures rakenduskõrgkooli rektori, nõukogu ja nõunike kogu sellekohaseid ülesandeid täidavad vastavalt nende pädevusele kooli direktor, nõukogu ja nõunike kogu kooli põhimäärusega kehtestatud ulatuses ja korras.
