@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung esmaspäev, 9.09.2019 kell 11.10",
+  "sitting_time": "2019-09-09T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9b9cf22b-1e29-4842-9ac0-75d947767996"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade Keskkonnaministeeriumi 2019. a 2. poolaasta õigusloome plaanidest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9e3e8406-7afa-41b3-bee5-c3b5bc6f08ac"
+    },
+    {
+      "order": 3,
+      "title": "Ehituskeeluvööndi ja üleujutusala laiuse määramine (1-6/19-69)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fdbe71c4-cc67-4d6a-9e4b-c7d903bf25e6"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3755ec1a-5505-4761-bb43-5a303a990026"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK protokoll 09.09.2019",
+      "uuid": "b400888a-2c8c-4bfd-aa5e-02a3885f936b",
+      "files": [
+        "KEKK_protokoll_09.09.2019.asice",
+        "09.09.2019 protok.12.pdf"
+      ]
+    }
+  ],
+  "uuid": "eb6512f3-2f7a-4271-bf3e-8671d078951b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid eb6512f3-2f7a-4271-bf3e-8671d078951b)",
+  "source": "https://api.riigikogu.ee/api/volumes/eb6512f3-2f7a-4271-bf3e-8671d078951b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-09-01&endDate=2019-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
