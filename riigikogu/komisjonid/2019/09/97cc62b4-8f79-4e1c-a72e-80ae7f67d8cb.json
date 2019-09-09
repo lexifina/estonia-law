@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 9.09.2019 kell 13.15",
+  "sitting_time": "2019-09-09T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7bac1137-8432-4952-80b1-f49cff5eb6ca"
+    },
+    {
+      "order": 2,
+      "title": "Rahandusministeeriumi 2019. aasta suvise majandusprognoosi tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5e270098-33c4-427a-90a3-eea32db2b8e0"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e94c091a-6097-46a5-9b83-baee99d991ff"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 09.09.2019",
+      "uuid": "3c5d3a66-2e3a-4311-8a65-548dd22a7050",
+      "files": [
+        "Protokoll nr 5. 09.09.2019.pdf",
+        "REKK_protokoll_09.09.2019.asice"
+      ]
+    }
+  ],
+  "uuid": "97cc62b4-8f79-4e1c-a72e-80ae7f67d8cb",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 97cc62b4-8f79-4e1c-a72e-80ae7f67d8cb)",
+  "source": "https://api.riigikogu.ee/api/volumes/97cc62b4-8f79-4e1c-a72e-80ae7f67d8cb",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-09-01&endDate=2019-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
