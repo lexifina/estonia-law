@@ -1,0 +1,53 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Korruptsioonivastane erikomisjon",
+  "committee_uuid": "e4f2977a-e8c3-4fa0-8f3d-9df9acd6377f",
+  "title": "Komisjoni istung esmaspäev, 9. september kell 2019",
+  "sitting_time": "2019-09-09T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d8a90486-ef78-49b5-aeb1-cdf1f8ea8a14"
+    },
+    {
+      "order": 2,
+      "title": "Infoseminari korraldamine koostöös MTÜ-ga Korruptsioonivaba Eesti ja Justiitsministeeriumiga",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "264eeaed-99c8-4bd1-a57d-ad2388371a79"
+    },
+    {
+      "order": 3,
+      "title": "Komisjoni ettepanekud sügisistungjärgu tööplaani kavandamiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "82d5a557-f661-4b0f-9300-6b7c74c1d68a"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "afb0f6a4-2cbe-4f91-90f5-071d687a9d62"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KVEK protokoll 09.09.2019",
+      "uuid": "02de76a0-9816-46bd-9743-fe0338367d18",
+      "files": [
+        "KVEK protokoll 09.09.2019 .pdf",
+        "KVEK_protokoll_09.09.2019.asice",
+        "A.Akkermanni volikiri.pdf"
+      ]
+    }
+  ],
+  "uuid": "14cacdd7-7c59-458b-9d34-23fddb8d44c1",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 14cacdd7-7c59-458b-9d34-23fddb8d44c1)",
+  "source": "https://api.riigikogu.ee/api/volumes/14cacdd7-7c59-458b-9d34-23fddb8d44c1",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-09-01&endDate=2019-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
