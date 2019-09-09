@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 9.09.2019 kell 11.10",
+  "sitting_time": "2019-09-09T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d83e92f8-6336-45b4-8ff3-806e901db62f"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine maaeluministri ja Maaeluministeeriumi kantsleriga",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "853d1c32-49fc-4328-86b9-e84acdf1bd4f"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "46bc9986-6cfb-404e-b985-82e27ff747e3"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 09.09.2019",
+      "uuid": "f5559821-b51b-4b99-af1d-050cbb807aea",
+      "files": [
+        "013 protokoll 09.09.2019.pdf",
+        "MAEK_protokoll_09.09.2019.asice"
+      ]
+    }
+  ],
+  "uuid": "460710bc-d265-4088-8fb6-fa43c4c2cf7d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 460710bc-d265-4088-8fb6-fa43c4c2cf7d)",
+  "source": "https://api.riigikogu.ee/api/volumes/460710bc-d265-4088-8fb6-fa43c4c2cf7d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-09-01&endDate=2019-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
