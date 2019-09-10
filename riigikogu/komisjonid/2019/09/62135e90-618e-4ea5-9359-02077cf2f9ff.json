@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung teisipäev, 10.09.2019 kell 13.00",
+  "sitting_time": "2019-09-10T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väljasõiduistung Raplamaale, tutvumine raieliikidega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e43ad024-22d5-4040-af1b-78a1acab8e7b"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "24200522-d9b9-4da7-8aea-fd2c638f506e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK protokoll 10.09.2019",
+      "uuid": "309d0ca3-013b-4ced-8f15-f6fe2b5bedd3",
+      "files": [
+        "10.09.2019 protok.13.pdf",
+        "KEKK_protokoll_10.09.2019.asice"
+      ]
+    }
+  ],
+  "uuid": "62135e90-618e-4ea5-9359-02077cf2f9ff",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 62135e90-618e-4ea5-9359-02077cf2f9ff)",
+  "source": "https://api.riigikogu.ee/api/volumes/62135e90-618e-4ea5-9359-02077cf2f9ff",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-09-01&endDate=2019-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
