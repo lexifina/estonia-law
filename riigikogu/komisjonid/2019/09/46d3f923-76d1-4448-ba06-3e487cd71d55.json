@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Rahanduskomisjoni ja majanduskomisjoni ühine istung teisipäev, 10.09.2019 kell 13.00",
+  "sitting_time": "2019-09-10T13:00:00",
+  "sitting_type": "UHISISTUNG",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1e41d251-da96-4178-bbb1-5c66154d50ce"
+    },
+    {
+      "order": 2,
+      "title": "Rahandusministeeriumi ülevaade 2019. aasta  suvisest majandusprognoosist. \nOsaleb rahandusminister Martin Helme",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3cf2e649-b616-4d5b-bad6-acbf7371d1f8"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 10.09.2019",
+      "uuid": "8e522bf7-1165-456e-a077-2dd0361371cb",
+      "files": [
+        "RAM suveprognoos RAHK-MAJK ühisistung 10.09.2019.pdf",
+        "Protokoll_10.09.2019.asice",
+        "RAHK ja MAJK protokoll 4 10 09 2019.pdf"
+      ]
+    }
+  ],
+  "uuid": "46d3f923-76d1-4448-ba06-3e487cd71d55",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 46d3f923-76d1-4448-ba06-3e487cd71d55)",
+  "source": "https://api.riigikogu.ee/api/volumes/46d3f923-76d1-4448-ba06-3e487cd71d55",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-09-01&endDate=2019-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
