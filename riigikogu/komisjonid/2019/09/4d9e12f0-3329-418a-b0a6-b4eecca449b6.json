@@ -1,0 +1,35 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 10.09.2019 kell 14.00",
+  "sitting_time": "2019-09-10T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikontrolli audit „Riigi tegevus toidu ohutuse tagamisel“",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "64c9571d-45bf-4124-8c0c-200cb4ceb11e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 10.09.2019",
+      "uuid": "687da6a6-773d-4d72-8c3e-a382ea5465e8",
+      "files": [
+        "014 protokoll 10.09.2019.pdf",
+        "Lisa Riigikontroll_toiduohutus_audit10.09.2019.pptx",
+        "MAEK_protokoll_10.09.2019.asice"
+      ]
+    }
+  ],
+  "uuid": "4d9e12f0-3329-418a-b0a6-b4eecca449b6",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 4d9e12f0-3329-418a-b0a6-b4eecca449b6)",
+  "source": "https://api.riigikogu.ee/api/volumes/4d9e12f0-3329-418a-b0a6-b4eecca449b6",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-09-01&endDate=2019-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
