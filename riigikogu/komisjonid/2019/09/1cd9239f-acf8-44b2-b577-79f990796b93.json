@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung teisipäev, 10.09.2019 kell 13.00",
+  "sitting_time": "2019-09-10T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti delegatsiooni edasine tegevus Euroopa Nõukogu Parlamentaarses Assamblees – arutelu jätkamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6a164ef2-dbfa-400b-9e29-8e8efddcc2e6"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu otsuse „Euroopa Nõukogu Parlamentaarse Assamblee Eesti delegatsiooni moodustamine“ muutmise eelnõu esitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "be8f37a8-7983-4b7d-bb74-5809b96205b8"
+    },
+    {
+      "order": 3,
+      "title": "Informatsioon julgeolekuolukorra arengutest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4ba3af5e-1976-4f3a-a979-af906071b789"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "140160b4-0b4d-4359-9e70-65d36aa9ce4a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 10.09.2019",
+      "uuid": "001fd90c-1ba2-407d-95b0-ed98e7b0aa3c",
+      "files": [
+        "VALK_protokoll_20190910.pdf",
+        "VÄLK_protokoll_10.09.2019.asice"
+      ]
+    }
+  ],
+  "uuid": "1cd9239f-acf8-44b2-b577-79f990796b93",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 1cd9239f-acf8-44b2-b577-79f990796b93)",
+  "source": "https://api.riigikogu.ee/api/volumes/1cd9239f-acf8-44b2-b577-79f990796b93",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-09-01&endDate=2019-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
