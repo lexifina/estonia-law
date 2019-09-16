@@ -1,0 +1,54 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung esmaspäev, 16.09.2019 kell 11.15",
+  "sitting_time": "2019-09-16T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5cf5eac8-b93a-4734-bf94-5d5cfe8e6d7b"
+    },
+    {
+      "order": 2,
+      "title": "Rahandusministeeriumi ülevaade ettevalmistatavatest eelnõudest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7a79ca8b-081b-4006-9488-bb4f273af63e"
+    },
+    {
+      "order": 3,
+      "title": "Ülevaade tegevuspõhisest eelarvestamisest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c889b924-41bb-4b62-b681-d9505f5bb474"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e2ca7e53-5eda-45c4-af04-699b4acad76b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 16.09.2019",
+      "uuid": "3b303783-5cc9-41ea-be83-0e7cb30b0a27",
+      "files": [
+        "RAHK_protokoll_16.09.2019.asice",
+        "RAHK protokoll 14 16 09 2019.pdf",
+        "RAM slaidid tegevuspõhine riigieelarve.pdf",
+        "RAM väljatöötavad eelnõud 2019 II pa.pdf"
+      ]
+    }
+  ],
+  "uuid": "2d53aa96-4d84-4219-801e-589999b41b54",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2d53aa96-4d84-4219-801e-589999b41b54)",
+  "source": "https://api.riigikogu.ee/api/volumes/2d53aa96-4d84-4219-801e-589999b41b54",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-09-01&endDate=2019-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
