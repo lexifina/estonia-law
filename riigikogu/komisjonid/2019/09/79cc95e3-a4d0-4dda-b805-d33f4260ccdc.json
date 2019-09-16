@@ -1,0 +1,53 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung esmaspäev, 16.09.2019 kell 11.10",
+  "sitting_time": "2019-09-16T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "820effc5-fd2e-46c4-9bb9-6069d0daf50c"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine Tööandjate Keskliidu esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "094f6012-adb4-4e29-a7f0-c144b7e49d90"
+    },
+    {
+      "order": 3,
+      "title": "Kollektiivse pöördumise \"Nõuame 5G tehnoloogia paigaldamise peatamist Eestis!\" arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8e246f74-4669-43d9-974c-bacee30729db"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "aa3eabf8-3c63-4bb9-90b9-67d89f917848"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "SOTK protokoll 16.09.2019",
+      "uuid": "63684445-a917-4fe3-9d1a-bcd5dcee4c3e",
+      "files": [
+        "Lisa 1.pdf",
+        "SOTK_protokoll_16.09.2019.asice",
+        "Protokoll.pdf"
+      ]
+    }
+  ],
+  "uuid": "79cc95e3-a4d0-4dda-b805-d33f4260ccdc",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 79cc95e3-a4d0-4dda-b805-d33f4260ccdc)",
+  "source": "https://api.riigikogu.ee/api/volumes/79cc95e3-a4d0-4dda-b805-d33f4260ccdc",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-09-01&endDate=2019-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
