@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung teisipäev, 17.09.2019 kell 14.00",
+  "sitting_time": "2019-09-17T14:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Fraktsioonide ettepanekud Euroopa Nõukogu Parlamentaarse Assamblee Eesti delegatsiooni muutmiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6f330d8f-3990-43c7-8e34-19029ac40c15"
+    },
+    {
+      "order": 2,
+      "title": "Eesti välispoliitika eesmärgid suhtluses Ameerika Ühendriikidega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "65eb43c0-dc77-4969-8c12-38949d476a3e"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "76a57c69-b152-4e73-b063-765a9286c775"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 17.09.2019",
+      "uuid": "9fb74d36-fa44-4e8c-911a-f4b816994c9f",
+      "files": [
+        "VÄLK_protokoll_17.09.2019.asice",
+        "VALK_protokoll_20190917.pdf"
+      ]
+    }
+  ],
+  "uuid": "ed002c81-81f6-4af0-8f09-d5cdcc74f120",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ed002c81-81f6-4af0-8f09-d5cdcc74f120)",
+  "source": "https://api.riigikogu.ee/api/volumes/ed002c81-81f6-4af0-8f09-d5cdcc74f120",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-09-01&endDate=2019-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
