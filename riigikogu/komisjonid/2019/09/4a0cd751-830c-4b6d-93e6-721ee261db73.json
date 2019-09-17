@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 17.09.2019 kell 14.00",
+  "sitting_time": "2019-09-17T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad kalandus- ja vesiviljelussektori suhtes kohaldatavate riigiabivahendite läbivaatamist käsitleva Euroopa Komisjoni avaliku konsultatsiooni kohta. Arvamuse andmine ELAKile",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b3324c81-7956-4b2c-ab92-0af6ab39e1e0"
+    },
+    {
+      "order": 2,
+      "title": "Lähetus: EL rahvusparlamentide põllumajanduskomisjonide esimeeste kohtumine 27.-28.10.2019 Helsingis",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5a9380d2-f09a-490c-970a-3db7ee0cd1f6"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 17.09.2019",
+      "uuid": "69d1abd7-312e-4e8d-a0ae-993e7e6b3dcb",
+      "files": [
+        "MAEK_protokoll_17.09.2019.asice",
+        "016 protokoll 17.09.2019.pdf"
+      ]
+    }
+  ],
+  "uuid": "4a0cd751-830c-4b6d-93e6-721ee261db73",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 4a0cd751-830c-4b6d-93e6-721ee261db73)",
+  "source": "https://api.riigikogu.ee/api/volumes/4a0cd751-830c-4b6d-93e6-721ee261db73",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-09-01&endDate=2019-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
