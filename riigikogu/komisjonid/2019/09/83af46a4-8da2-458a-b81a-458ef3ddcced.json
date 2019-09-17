@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung teisipäev, 17.09.2019 kell 13.00",
+  "sitting_time": "2019-09-17T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Rahandusministeeriumi ülevaade Eesti ja Soome vahelise tunneli riigi eriplaneeringu taotlusega seonduvast",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ea667c8f-02b7-44f2-92d2-61fecc8ef3b3"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "14034d03-45c7-4d93-b24f-a804e62c6f32"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAJK protokoll nr 13 17.09.2019",
+      "uuid": "ed663371-5c4b-46ad-a04c-b2419068e9a7",
+      "files": [
+        "MAJK_protokoll_nr_13_17.09.2019.asice",
+        "MAJK protokoll nr 13 17.09.2019.pdf"
+      ]
+    }
+  ],
+  "uuid": "83af46a4-8da2-458a-b81a-458ef3ddcced",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 83af46a4-8da2-458a-b81a-458ef3ddcced)",
+  "source": "https://api.riigikogu.ee/api/volumes/83af46a4-8da2-458a-b81a-458ef3ddcced",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-09-01&endDate=2019-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
