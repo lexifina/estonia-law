@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung neljapäev, 19.09.2019 kell 13.00",
+  "sitting_time": "2019-09-19T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade arengutest Ukrainas",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2fcbddcc-352c-4f6a-98e8-506fdb7d163c"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu otsuse „Euroopa Nõukogu Parlamentaarse Assamblee Eesti delegatsiooni moodustamine“ muutmise eelnõu esitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6ba954bd-d8ac-4fea-843d-ad684f8579b9"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1b2e8daf-54bb-4379-aba8-1dcfee6dced8"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 19.09.2019",
+      "uuid": "4d4839e8-e8ec-4a57-81d3-d76a9ae05111",
+      "files": [
+        "VALK_protokoll_20190919.pdf",
+        "VÄLK_protokoll_19.09.2019.asice"
+      ]
+    }
+  ],
+  "uuid": "ccb1b94f-7a77-4f19-91d5-17822b3b6931",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ccb1b94f-7a77-4f19-91d5-17822b3b6931)",
+  "source": "https://api.riigikogu.ee/api/volumes/ccb1b94f-7a77-4f19-91d5-17822b3b6931",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-09-01&endDate=2019-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
