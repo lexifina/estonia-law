@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Maaelukomisjoni ja rahanduskomisjoni ühine istung esmaspäev, 23.09.2019 kell 11.15",
+  "sitting_time": "2019-09-23T11:15:00",
+  "sitting_type": "UHISISTUNG",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "40876b05-7385-4708-aa74-c1fe4b693bf3"
+    },
+    {
+      "order": 2,
+      "title": "Arutelu teemal viieeuroste rahatähtede kättesaadavuse halvenemine sularahaautomaatides",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bc6d36b3-eb0a-46b6-9b02-edc7aaec54aa"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 23.09.2019",
+      "uuid": "7f9f3e5b-c4c9-42af-9b6d-d316be9dba88",
+      "files": [
+        "Eesti Pangaliit 5-euroste kättesaadavus.pptx",
+        "Protokoll_23.09.2019.asice",
+        "MAEK ja RAHK ühisistung 23.09.19.pdf"
+      ]
+    }
+  ],
+  "uuid": "b0f40b5e-8f0b-439f-9b79-c7cf621b8104",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b0f40b5e-8f0b-439f-9b79-c7cf621b8104)",
+  "source": "https://api.riigikogu.ee/api/volumes/b0f40b5e-8f0b-439f-9b79-c7cf621b8104",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-09-01&endDate=2019-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
