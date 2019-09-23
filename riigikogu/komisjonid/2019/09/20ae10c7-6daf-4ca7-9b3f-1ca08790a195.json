@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni väljasõiduistung esmaspäev, 23.09.2019 kell 11.15",
+  "sitting_time": "2019-09-23T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1ce6e9c9-68dc-46f5-b687-5761ca90df07"
+    },
+    {
+      "order": 2,
+      "title": "Kaitsetööstusettevõte Milrem AS külastamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ca0aefa0-9829-453e-95ec-7db368454e0a"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2d48bf1c-b27a-48ed-b986-208e3ee1019e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RIKK protokoll 23.09.2019",
+      "uuid": "8c11c3ed-a96a-44a1-89dd-769e9ff1bdfd",
+      "files": [
+        "Protokoll.pdf",
+        "RIKK_protokoll_23.09.2019.asice"
+      ]
+    }
+  ],
+  "uuid": "20ae10c7-6daf-4ca7-9b3f-1ca08790a195",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 20ae10c7-6daf-4ca7-9b3f-1ca08790a195)",
+  "source": "https://api.riigikogu.ee/api/volumes/20ae10c7-6daf-4ca7-9b3f-1ca08790a195",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-09-01&endDate=2019-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
