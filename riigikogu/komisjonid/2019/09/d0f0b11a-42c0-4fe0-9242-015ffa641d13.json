@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung teisipäev, 24.09.2019 kell 14.00",
+  "sitting_time": "2019-09-24T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade Riigikogu 2019. aasta välislähetuste eelarve täitmisest ja 2020. aasta eelarve kavandamisest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f662160e-9ce1-4cae-932e-87ca605f783a"
+    },
+    {
+      "order": 2,
+      "title": "Fraktsioonide ettepanekud Riigikogu otsuse „Põhja-Atlandi Lepingu Organisatsiooni Parlamentaarse Assamblee Eesti delegatsiooni moodustamine“ muutmiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "086eb531-0828-4db9-876d-b3fa257ca3d1"
+    },
+    {
+      "order": 3,
+      "title": "Fraktsioonide ettepanekud Riigikogu otsuse „Euroopa Julgeoleku- ja Koostööorganisatsiooni Parlamentaarse Assamblee Eesti delegatsiooni moodustamine“ muutmiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e37396d2-9b2e-425f-9669-249b0ea6e4ef"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "568e02b9-b1ae-414d-a8f0-c47f3c3be87e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 24.09.2019",
+      "uuid": "adeb5a84-5d11-445e-aa1d-47fe26a44e8d",
+      "files": [
+        "VÄLK_protokoll_24.09.2019.asice",
+        "VALK_protokoll_20190924.pdf"
+      ]
+    }
+  ],
+  "uuid": "d0f0b11a-42c0-4fe0-9242-015ffa641d13",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d0f0b11a-42c0-4fe0-9242-015ffa641d13)",
+  "source": "https://api.riigikogu.ee/api/volumes/d0f0b11a-42c0-4fe0-9242-015ffa641d13",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-09-01&endDate=2019-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
