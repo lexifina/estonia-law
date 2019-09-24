@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 24.09.2019 kell 14.00",
+  "sitting_time": "2019-09-24T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Keskkonnaministeeriumi ja Keskkonnaameti esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "efdeea39-1e0c-4bc4-a027-c4b563a7f58e"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1e771710-b532-4aa3-89d5-d34bec7ae6a6"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 24.09.2019",
+      "uuid": "24c87370-595f-4a8a-b76a-9da78c8b7376",
+      "files": [
+        "MAEK_protokoll_24.09.2019.asice",
+        "017 protokoll 24.09.2019.pdf"
+      ]
+    }
+  ],
+  "uuid": "91047b10-2af8-428c-95cb-a4eea7e3b106",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 91047b10-2af8-428c-95cb-a4eea7e3b106)",
+  "source": "https://api.riigikogu.ee/api/volumes/91047b10-2af8-428c-95cb-a4eea7e3b106",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-09-01&endDate=2019-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
