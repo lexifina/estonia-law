@@ -54,6 +54,6 @@
 
 12) ained, mis mõjuvad halvasti hapnikubilansile ning mida on võimalik mõõta bioloogilise hapnikutarbe (BHT), keemilise hapnikutarbe (KHT) või teiste analoogiliste näitajate kaudu;
 
-13) veeseaduse § 26⁵ lõike 10 alusel kehtestatud prioriteetsed ained ja prioriteetsed ohtlikud ained.
+13) veeseaduse § 76 lõike 1 alusel kehtestatud prioriteetsed ained ja prioriteetsed ohtlikud ained.
 
 (3) Loa andja määrab heite piirväärtuse ka muude saasteainete kohta, mida asjaomane käitis tõenäoliselt väljutab keskkonda suurtes kogustes.
