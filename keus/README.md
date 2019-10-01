@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/122022019016> (version in force from 2019-07-01)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/122022019017> (version in force from 2019-10-01)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -27,7 +27,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/122022019016> (version in force 
 | **2. jagu Keskkonnakaitse põhikohustused** | |
 | [§ 14](para-014.md) | Hoolsuskohustus |
 | [§ 15](para-015.md) | Kohustus omandada teadmisi keskkonnaohu vältimiseks |
-| **3. peatükk Käitaja kohustused** | |
+| **3. peatükk Käitaja ja juriidilise isiku esindaja kohustused** | |
 | [§ 16](para-016.md) | Kohustus vältida keskkonnaohtu ja rakendada ettevaatusmeetmeid |
 | [§ 17](para-017.md) | Kohustus kasutada toorainet, loodusvarasid ja energiat säästlikult |
 | [§ 18](para-018.md) | Käitise asukoha valik |
@@ -35,6 +35,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/122022019016> (version in force 
 | [§ 20](para-020.md) | Teatamiskohustus |
 | [§ 21](para-021.md) | Keskkonnakaitse nõuded käitise tegevuse lõpetamisel |
 | [§ 22](para-022.md) | Kohustuste rakendamine |
+| [§ 22¹](para-022b1.md) | Juriidilise isiku organi, selle liikme, juhtivtöötaja ja pädeva esindaja kohustused |
 | **4. peatükk Keskkonnaalased õigused** | |
 | **1. jagu Õigus tervise- ja heaoluvajadustele vastavale keskkonnale ning keskkonnaalased menetluslikud õigused** | |
 | [§ 23](para-023.md) | Õigus tervise- ja heaoluvajadustele vastavale keskkonnale |
@@ -55,6 +56,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/122022019016> (version in force 
 | [§ 37](para-037.md) | Veekogu avalik kasutamine |
 | [§ 38](para-038.md) | Kallasrada |
 | [§ 39](para-039.md) | Kallasraja sulgemine ja sellest möödapääsu võimaldamine |
+| [§ 39¹](para-039b1.md) | Kallasraja puudumine |
 | **5. peatükk Loamenetlus** | |
 | [§ 40](para-040.md) | Keskkonnakaitseload |
 | [§ 40¹](para-040b1.md) | Keskkonnaotsuste infosüsteem |
@@ -81,8 +83,8 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/122022019016> (version in force 
 | [§ 60](para-060.md) | Keskkonnaloas loa omaja andmete muutmine |
 | [§ 61](para-061.md) | Keskkonnaloa kehtivuse peatamine |
 | [§ 62](para-062.md) | Keskkonnaloa kehtetuks tunnistamine |
-| **5¹. peatükk Riiklik järelevalve** | |
-| [§ 62¹](para-062b1.md) | Riikliku järelevalve teostaja |
+| **5¹. peatükk Riiklik ja haldusjärelevalve** | |
+| [§ 62¹](para-062b1.md) | Riikliku ja haldusjärelevalve teostaja |
 | [§ 62²](para-062b2.md) | Riikliku järelevalve erimeetmed |
 | [§ 62³](para-062b3.md) | Riikliku järelevalve erisused |
 | [§ 62⁴](para-062b4.md) | Vahetu sunni kasutamine |

@@ -4,7 +4,7 @@
 
 1) keskkonnaloa taotlust ei ole esitanud isik, kes taotlusest nähtuvalt loaga lubataval tegevusalal tegutseb;
 
-2) keskkonnaloa taotlejal ei ole tegevuskoha omaniku nõusolekut viimase omandis oleva kinnisasja kasutamiseks või taotletava tegevuse mõjualal asuva kinnisasja omaniku nõusolekut, juhul kui seaduse kohaselt on mõjualal asuva kinnisasja omaniku nõusolek nõutav või taotletav tegevus kahjustab mõjualal asuva kinnisasja omaniku huve;
+2) keskkonnaloa taotlejal ei ole tegevuskoha omaniku nõusolekut viimase omandis oleva kinnisasja kasutamiseks või taotletava tegevuse mõjualal asuva kinnisasja omaniku nõusolekut, kui seaduse kohaselt on mõjualal asuva kinnisasja omaniku nõusolek nõutav või taotletav tegevus kahjustab oluliselt mõjualal asuva kinnisasja omaniku huve;
 
 3) taotletavas tegevuses ei rakendata parimat võimalikku tehnikat, kui selle rakendamise nõue on sätestatud õigusaktiga;
 

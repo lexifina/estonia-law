@@ -12,7 +12,7 @@
 
 - 2. jagu Keskkonnakaitse põhikohustused
 
-3. peatükk Käitaja kohustused
+3. peatükk Käitaja ja juriidilise isiku esindaja kohustused
 
 4. peatükk Keskkonnaalased õigused
 
@@ -22,7 +22,7 @@
 
 5. peatükk Loamenetlus
 
-5¹. peatükk Riiklik järelevalve
+5¹. peatükk Riiklik ja haldusjärelevalve
 
 5². peatükk Vastutus
 

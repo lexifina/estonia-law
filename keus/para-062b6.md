@@ -1,6 +1,6 @@
 # § 62⁶. Kallasraja ebaseaduslik sulgemine ja tõkestamine
 
-(1) Kallasraja ebaseadusliku sulgemise või tõkestamise eest –
+(1) Kallasraja või sellele juurdepääsu ebaseadusliku sulgemise või tõkestamise eest –
 
 karistatakse rahatrahviga kuni 300 trahviühikut.
 

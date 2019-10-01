@@ -13,3 +13,5 @@
 (6) Avalikul ja avalikult kasutataval veekogul võib tasuta ja püügiõigust vormistamata püüda kala ühe lihtkäsiõngega, järgides kalapüügiseadusega või selle alusel sätestatud piiranguid.
 
 (7) Veekogu, mis ei ole avalikult kasutatav, võib kasutada üksnes omaniku loal. Luba veekogu avalikuks kasutuseks eeldatakse olevat, kui veekogu ei ole piiratud ega tähistatud viisil, millest ilmneb tahe piirata veekogu kasutamist, või kui tahe piirata veekogu kasutamist ei ilmne muudest asjaoludest.
+
+(8) Riik ja kohaliku omavalitsuse üksus võivad piirata enda omandis oleval veekogul viibimist, kui see on vajalik avalikes huvides või kolmandate isikute, sealhulgas veekogu kasutajate huvide kaitseks.

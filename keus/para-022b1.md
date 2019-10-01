@@ -1,0 +1,3 @@
+# § 22¹. Juriidilise isiku organi, selle liikme, juhtivtöötaja ja pädeva esindaja kohustused
+
+Juriidilise isiku organ, selle liige, juhtivtöötaja või pädev esindaja on kohustatud korraldama esindatava käesolevast seadusest, jäätmeseadusest, veeseadusest, atmosfääriõhu kaitse seadusest, maapõueseadusest, kiirgusseadusest, looduskaitseseadusest, metsaseadusest, kalapüügiseadusest, jahiseadusest, tööstusheite seadusest, keskkonnatasude seadusest ja keskkonnavastutuse seadusest ning nende seadustega reguleeritavate valdkondade Euroopa Liidu määrustest tulenevate rahaliste ja mitterahaliste kohustuste tähtaegse ja täieliku täitmise.
