@@ -1,0 +1,48 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung neljapäev, 10.10.2019 kell 8.30",
+  "sitting_time": "2019-10-10T08:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "2020. aasta riigieelarve seaduse eelnõu (82 SE). Osaleb siseminister Mart Helme",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f02b76f5-ba77-442f-a35f-3d724b2fc5b0"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu otsus \"„Õigusloomepoliitika põhialused aastani 2030“ heakskiitmine\" (53 OE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9c99b014-e6d7-469d-a61b-243e8ff7dffc"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6a1b4d77-fe65-48e5-a63a-217dfa50f470"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 10.10.2019",
+      "uuid": "dbd97fac-9433-4f34-ba37-1f74e304fad7",
+      "files": [
+        "RAHK_protokoll_10.10.2019.asice",
+        "RAHK protokoll 20 10 10 2019.pdf",
+        "Õigusloome poliitika 53 OE slaidid 10.10.19.pptx",
+        "SIM eelarve Mart Helme 10.10.19.ppt"
+      ]
+    }
+  ],
+  "uuid": "6906eddb-365f-4985-bf58-615f3902c71b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 6906eddb-365f-4985-bf58-615f3902c71b)",
+  "source": "https://api.riigikogu.ee/api/volumes/6906eddb-365f-4985-bf58-615f3902c71b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-10-01&endDate=2019-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
