@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung esmaspäev, 14.10.2019 kell 11.00",
+  "sitting_time": "2019-10-14T11:04:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2ca87bcb-8046-458a-aee9-865146a0f808"
+    },
+    {
+      "order": 2,
+      "title": "Riigikaitselised sundkoormised",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "72a66afa-f908-4ff3-91b0-cffab6e4d47c"
+    },
+    {
+      "order": 3,
+      "title": "Ajateenistuse arengud",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fcc9b2e9-9439-4f43-91b6-b9a272069e50"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fd9999e1-2007-4508-921d-c40b0c30e404"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RIKK protokoll 14.10.2019",
+      "uuid": "fa079312-4e39-413c-b909-e4cc557ae017",
+      "files": [
+        "RIKK_protokoll_14.10.2019.asice",
+        "Protokoll.pdf"
+      ]
+    }
+  ],
+  "uuid": "72d56cd1-1116-48a5-ba51-46c51c5c542d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 72d56cd1-1116-48a5-ba51-46c51c5c542d)",
+  "source": "https://api.riigikogu.ee/api/volumes/72d56cd1-1116-48a5-ba51-46c51c5c542d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-10-01&endDate=2019-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
