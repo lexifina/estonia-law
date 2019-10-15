@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung teisipäev, 15.10.2019 kell 14.00",
+  "sitting_time": "2019-10-15T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f276c3ee-dc0e-41b5-9578-f45cca64c11f"
+    },
+    {
+      "order": 2,
+      "title": "„Eesti välispoliitika arengukava 2030“ täiskogu arutelu ettevalmistamine: välismajanduspoliitika tugevdamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "10277360-501b-4eb0-9de7-8cc62a00e962"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "978ada95-965f-4ccc-b92f-d3916c88c6c7"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 15.10.2019",
+      "uuid": "8a85efb4-00e8-455e-a1e0-ac43cb553d2d",
+      "files": [
+        "VALK_protokoll_20191015.pdf",
+        "VÄLK_protokoll_15.10.2019.asice"
+      ]
+    }
+  ],
+  "uuid": "e37a93bb-2887-4f09-885e-0b9a12aad680",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e37a93bb-2887-4f09-885e-0b9a12aad680)",
+  "source": "https://api.riigikogu.ee/api/volumes/e37a93bb-2887-4f09-885e-0b9a12aad680",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-10-01&endDate=2019-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
