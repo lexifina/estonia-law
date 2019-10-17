@@ -1,0 +1,42 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung neljapäev, 17.10.2019 kell 09.30",
+  "sitting_time": "2019-10-17T09:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti Panga seaduse muutmise seaduse algatamise ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dd4e942b-0e22-4145-b4eb-7d97c7b06795"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1c4e466a-87f3-4c3b-a443-1e2643eec5b3"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 17.10.2019",
+      "uuid": "c326ae76-22db-44d8-989f-70c492069cdb",
+      "files": [
+        "RAHK_protokoll_17.10.2019.asice",
+        "RAHK protokoll 23 17 10 19.pdf",
+        "Volikiri 17.10.19 K.Sarapuu asendusliige.pdf",
+        "Volikiri 17.10.19 R.Sikkut asendusliige.pdf"
+      ]
+    }
+  ],
+  "uuid": "79f384c6-299b-48f7-8648-9195c89c0ff0",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 79f384c6-299b-48f7-8648-9195c89c0ff0)",
+  "source": "https://api.riigikogu.ee/api/volumes/79f384c6-299b-48f7-8648-9195c89c0ff0",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-10-01&endDate=2019-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
