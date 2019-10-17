@@ -1,0 +1,36 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung neljapäeva, 17.10.2019 kell 14.00",
+  "sitting_time": "2019-10-17T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Äriseadustikus OÜ osa võõrandamise regulatsiooni muutmisvõimaluste arutelu.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3584cc6c-6839-41e8-9957-a27a0a6e772c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ÕIGK protokoll 17.10.2019",
+      "uuid": "69f667da-6bb7-49e2-9601-16539e7ec41b",
+      "files": [
+        "ÕIGK_protokoll_17.10.2019.asice",
+        "Õiguskomisjoni protokoll.17.10.2019.pdf",
+        "Asendusliikme volitus.pdf",
+        "Asendusliikme volitus (1).pdf"
+      ]
+    }
+  ],
+  "uuid": "aa6d5dc7-8f8f-4931-9dff-b76793016acc",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid aa6d5dc7-8f8f-4931-9dff-b76793016acc)",
+  "source": "https://api.riigikogu.ee/api/volumes/aa6d5dc7-8f8f-4931-9dff-b76793016acc",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-10-01&endDate=2019-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
