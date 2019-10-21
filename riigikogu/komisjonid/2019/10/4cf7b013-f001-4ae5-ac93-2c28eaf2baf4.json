@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung esmaspäev, 21.10.2019 kell 11.15",
+  "sitting_time": "2019-10-21T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "95926449-ab38-405d-b604-ceb5fcb948bf"
+    },
+    {
+      "order": 2,
+      "title": "Arutelu narkopoliitikast.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ae77d789-74ad-42d6-ab02-d3ed5dd5b1a6"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ÕIGK protokoll 21.10.2019",
+      "uuid": "c1b479e7-196d-40a5-8005-586a7c9b65b3",
+      "files": [
+        "Õiguskomisjoni protokoll. 21.10.2019.pdf",
+        "ÕIGK_protokoll_21.10.2019.asice"
+      ]
+    }
+  ],
+  "uuid": "4cf7b013-f001-4ae5-ac93-2c28eaf2baf4",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 4cf7b013-f001-4ae5-ac93-2c28eaf2baf4)",
+  "source": "https://api.riigikogu.ee/api/volumes/4cf7b013-f001-4ae5-ac93-2c28eaf2baf4",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-10-01&endDate=2019-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
