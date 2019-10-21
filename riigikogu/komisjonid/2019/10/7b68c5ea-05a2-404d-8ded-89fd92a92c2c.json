@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 21.10.2019 kell 13.15",
+  "sitting_time": "2019-10-21T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9bb57e0c-e440-4556-852a-2828a364dd90"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli kontrolliaruande „Riigi 2018 aasta raamatupidamise aastaaruande õigsus ja tehingute seaduslikkus“ arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5b930d88-848e-4623-bbd4-57ac07c9a450"
+    },
+    {
+      "order": 3,
+      "title": "Riigikontrolli kontrolliaruande tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1020004e-c4b5-4aba-9cfb-0ce51a2ddc7e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 21.10.2019",
+      "uuid": "a1fda9fd-c200-4804-b93d-41752d27acb6",
+      "files": [
+        "RMKA2018_REKK_Riigikontroll.pptx",
+        "Protokoll nr 10. 21.10.2019..pdf",
+        "REKK_protokoll_21.10.2019.asice"
+      ]
+    }
+  ],
+  "uuid": "7b68c5ea-05a2-404d-8ded-89fd92a92c2c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7b68c5ea-05a2-404d-8ded-89fd92a92c2c)",
+  "source": "https://api.riigikogu.ee/api/volumes/7b68c5ea-05a2-404d-8ded-89fd92a92c2c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-10-01&endDate=2019-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
