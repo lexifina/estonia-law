@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung teisipäev, 22.10.2019 kell 14.00",
+  "sitting_time": "2019-10-22T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bf40bebd-c669-48e6-889b-2a40d8681600"
+    },
+    {
+      "order": 2,
+      "title": "Riigilõivuseaduse, isikut tõendavate dokumentide seaduse ja konsulaarseaduse muutmise seaduse eelnõu (78 SE) esimese lugemise arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "71cfc124-a97d-4acb-82c2-ae11cd5b9e54"
+    },
+    {
+      "order": 3,
+      "title": "Riigikohtule arvamuse andmine sotsiaalmaksuseaduse § 6 lg 1 p 8 põhiseaduspärasuse kohta",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d2022335-ce27-409f-8b93-12e32b5f67fa"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5867b933-0a79-407f-8af6-0980599e069b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "PÕSK protokoll 22.10.2019",
+      "uuid": "77e53f35-6aef-4589-aa10-ca2d17c2cdf7",
+      "files": [
+        "PÕSK.protokoll.22.10.2019.pdf",
+        "PÕSK_protokoll_22.10.2019.asice"
+      ]
+    }
+  ],
+  "uuid": "37ac7faa-2a0f-4622-ba51-df4134a032d2",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 37ac7faa-2a0f-4622-ba51-df4134a032d2)",
+  "source": "https://api.riigikogu.ee/api/volumes/37ac7faa-2a0f-4622-ba51-df4134a032d2",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-10-01&endDate=2019-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
