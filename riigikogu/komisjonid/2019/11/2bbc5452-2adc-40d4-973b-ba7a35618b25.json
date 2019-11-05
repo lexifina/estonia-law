@@ -1,0 +1,35 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 5.11.2019 kell 13.30",
+  "sitting_time": "2019-11-05T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade KredExi meetmetest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7dc4d701-cffe-4cf5-93e9-40ddad4be5c7"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 05.11.2019",
+      "uuid": "14cd1021-b434-460e-9204-d9ac36df4420",
+      "files": [
+        "023 protokoll 05.11.2019.pdf",
+        "MAEK_protokoll_05.11.2019.asice",
+        "023 protokolli lisa KredEx.pptx"
+      ]
+    }
+  ],
+  "uuid": "2bbc5452-2adc-40d4-973b-ba7a35618b25",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2bbc5452-2adc-40d4-973b-ba7a35618b25)",
+  "source": "https://api.riigikogu.ee/api/volumes/2bbc5452-2adc-40d4-973b-ba7a35618b25",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-11-01&endDate=2019-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
