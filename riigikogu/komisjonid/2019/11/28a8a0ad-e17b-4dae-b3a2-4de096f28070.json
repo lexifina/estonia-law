@@ -1,0 +1,48 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Erakorraline komisjoni istung neljapäev, 7.11.2019 kell 12.00",
+  "sitting_time": "2019-11-07T12:00:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "2019. aasta riigieelarve seaduse muutmise seaduse eelnõu (81 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4c601c28-72f8-49cc-80e2-c23bee2ac5f5"
+    },
+    {
+      "order": 2,
+      "title": "2020. aasta riigieelarve seaduse eelnõu (82 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5651a3c1-a488-4210-baf7-d49112efe173"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e21a41c5-b88a-4183-97b0-cc711c1296fd"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 07.11.2019",
+      "uuid": "826d2315-b15a-4531-aa2a-5bdeee8ab708",
+      "files": [
+        "RAHK_protokoll_07.11.2019.asice",
+        "RAHK protokoll 28 7 11 19 erakorraline.pdf",
+        "Volikiri 7.11.19 T.Kala asendusliige.pdf",
+        "Volikiri 7.11.19 R.Sikkut asendusliige.pdf"
+      ]
+    }
+  ],
+  "uuid": "28a8a0ad-e17b-4dae-b3a2-4de096f28070",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 28a8a0ad-e17b-4dae-b3a2-4de096f28070)",
+  "source": "https://api.riigikogu.ee/api/volumes/28a8a0ad-e17b-4dae-b3a2-4de096f28070",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-11-01&endDate=2019-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
