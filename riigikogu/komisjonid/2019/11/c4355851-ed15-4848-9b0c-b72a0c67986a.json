@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 12.11.2019 kell 14.00",
+  "sitting_time": "2019-11-12T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väärtusliku põllumajandusmaa ja selle kaitset käsitleva seaduse eelnõu tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d8fd216a-fc02-4277-a22c-771cb630ebc7"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bbad85d6-48ff-41bb-a4de-af3f1379dd50"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 12.11.2019",
+      "uuid": "b6f091b8-49b2-4f01-a299-3dad5f8c2bdf",
+      "files": [
+        "024 protokoll 12.11.2019.pdf",
+        "024 protokoll lisa VPMM.pptx",
+        "MAEK_protokoll_12.11.2019.asice"
+      ]
+    }
+  ],
+  "uuid": "c4355851-ed15-4848-9b0c-b72a0c67986a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c4355851-ed15-4848-9b0c-b72a0c67986a)",
+  "source": "https://api.riigikogu.ee/api/volumes/c4355851-ed15-4848-9b0c-b72a0c67986a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-11-01&endDate=2019-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
