@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung teisipäev, 12.11.2019 kell 14.00",
+  "sitting_time": "2019-11-12T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine NATO Euroopa vägede kõrgema peakorteri (SHAPE) Eesti esindaja kindralmajor Meelis Kiiliga",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "73fe19e3-b62f-42a1-8079-f4fdcd273044"
+    },
+    {
+      "order": 2,
+      "title": "Mereseire",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6db6d1d7-7388-4716-a7f2-2f02895140b3"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RIKK protokoll 12.11.2019",
+      "uuid": "e0e7d882-96a5-4537-9dff-e6079cacf2e4",
+      "files": [
+        "Protokoll.pdf",
+        "RIKK_protokoll_12.11.2019.asice"
+      ]
+    }
+  ],
+  "uuid": "7ef9d783-103b-4994-8da2-27cb7a9ac2cf",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7ef9d783-103b-4994-8da2-27cb7a9ac2cf)",
+  "source": "https://api.riigikogu.ee/api/volumes/7ef9d783-103b-4994-8da2-27cb7a9ac2cf",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-11-01&endDate=2019-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
