@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung esmaspäev, 18.11.2019 kell 11.00",
+  "sitting_time": "2019-11-18T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "069b42cc-e876-4338-9095-781227e03b5b"
+    },
+    {
+      "order": 2,
+      "title": "„Eesti välispoliitika arengukava 2030“ täiskogu arutelu ettevalmistamine: eestlaskonna kaasamine võõrsil ja tõhusad konsulaarteenused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "66fe20ed-6a12-4c53-9c38-be13c93332df"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cf354060-b927-48db-8ddd-2665a22ce37b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 18.11.2019",
+      "uuid": "194ffb1f-89bd-43aa-8a3e-3d634414bda0",
+      "files": [
+        "VÄLK_protokoll_18.11.2019.asice",
+        "VALK_protokoll_20191118.pdf"
+      ]
+    }
+  ],
+  "uuid": "cf0de659-d3c9-4d17-a39e-583a0cfbc27a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid cf0de659-d3c9-4d17-a39e-583a0cfbc27a)",
+  "source": "https://api.riigikogu.ee/api/volumes/cf0de659-d3c9-4d17-a39e-583a0cfbc27a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-11-01&endDate=2019-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
