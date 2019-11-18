@@ -1,0 +1,53 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Korruptsioonivastane erikomisjon",
+  "committee_uuid": "e4f2977a-e8c3-4fa0-8f3d-9df9acd6377f",
+  "title": "Komisjoni istung esmaspäev, 18.11.2019  kell 13.30",
+  "sitting_time": "2019-11-18T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4a51bf8d-d5c2-431e-ad15-696d8afda66d"
+    },
+    {
+      "order": 2,
+      "title": "Opositsiooni kaasamine otsustusprotsessi. Arutelu kohaliku omavalitsuse üksustest laekunud vastuste põhjal.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a05705ef-7291-4140-8a97-1317f9e2627c"
+    },
+    {
+      "order": 3,
+      "title": "14.novembril toimunud komisjoni erakorralise istungi materjalide arutelu.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d3a357e9-8cb4-4bf7-b500-3a4383d81790"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "08158543-b3b0-4710-a9b6-fc8ed2d35ca7"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KVEK protokoll 18.11.2019",
+      "uuid": "04d420b4-d117-4716-ba22-2317027d9223",
+      "files": [
+        "KVEK_protokoll_18.11.2019.asice",
+        "KVEK protokoll 18.11.2019.pdf",
+        "U.Kruuse volikiri.pdf"
+      ]
+    }
+  ],
+  "uuid": "1a9356f9-9500-49e4-bd20-e5e22c57c8ce",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 1a9356f9-9500-49e4-bd20-e5e22c57c8ce)",
+  "source": "https://api.riigikogu.ee/api/volumes/1a9356f9-9500-49e4-bd20-e5e22c57c8ce",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-11-01&endDate=2019-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
