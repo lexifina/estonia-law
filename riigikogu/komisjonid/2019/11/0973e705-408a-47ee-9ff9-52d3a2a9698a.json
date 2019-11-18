@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 18.11.2019 kell 11.10",
+  "sitting_time": "2019-11-18T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fba346ce-bdde-494e-9b11-72d296d84da1"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade regionaaltoetustest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e8b8d138-f780-4775-8bd8-a5ea1c23ff32"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "847c0efc-5b18-4f50-8208-e0ba606e2dd1"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 18.11.2019",
+      "uuid": "68fa944e-6a64-4f7d-946a-f017b8881e5a",
+      "files": [
+        "025 protokolli lisa regionaaltoetused.pdf",
+        "025 protokoll 18.11.2019.pdf",
+        "MAEK_protokoll_18.11.2019.asice"
+      ]
+    }
+  ],
+  "uuid": "0973e705-408a-47ee-9ff9-52d3a2a9698a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0973e705-408a-47ee-9ff9-52d3a2a9698a)",
+  "source": "https://api.riigikogu.ee/api/volumes/0973e705-408a-47ee-9ff9-52d3a2a9698a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-11-01&endDate=2019-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
