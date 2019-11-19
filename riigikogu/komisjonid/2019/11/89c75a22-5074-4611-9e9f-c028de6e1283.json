@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung teisipäev, 19.11.2019 kell 14.00",
+  "sitting_time": "2019-11-19T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade 2019. aasta 24.-25. oktoobril  Brüsselis toimunud NATO kaitseministrite kohtumisest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fc1b440d-d069-4f57-8d32-d4525815eb53"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade  2019. aasta 12. novembril Brüsselis toimunud Euroopa Liidu kaitseministrite kohtumisest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "67835933-e347-4a22-9533-73561e481d0c"
+    },
+    {
+      "order": 3,
+      "title": "Ülevaade arengutest NATOs ja ELs",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8c37b041-5909-448b-9590-b92973b74db8"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RIKK protokoll 19.11.2019",
+      "uuid": "4a7b104f-9c03-4bba-95cf-d3240507c4eb",
+      "files": [
+        "Protokoll.pdf",
+        "RIKK_protokoll_19.11.2019.asice"
+      ]
+    }
+  ],
+  "uuid": "89c75a22-5074-4611-9e9f-c028de6e1283",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 89c75a22-5074-4611-9e9f-c028de6e1283)",
+  "source": "https://api.riigikogu.ee/api/volumes/89c75a22-5074-4611-9e9f-c028de6e1283",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-11-01&endDate=2019-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
