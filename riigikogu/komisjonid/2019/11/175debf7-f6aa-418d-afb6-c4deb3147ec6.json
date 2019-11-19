@@ -1,0 +1,43 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni väljasõiduistung teisipäev, 19.11.2019 kell 14.00",
+  "sitting_time": "2019-11-19T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väljasõiduistung Omniva logistikakeskusesse (Rukki tee 7, Rae vald, Harjumaa)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "eca604b7-987f-44ef-abe1-7100a0f23fe9"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bec73e9e-4ea6-43ee-8ccd-fe3adeb264fb"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAJK protokoll 19.11.2019",
+      "uuid": "065cf7b9-e70f-46ce-8366-740faf08273a",
+      "files": [
+        "Õiend 19.11.2019 protokolli juurde.pdf",
+        "MAJK_protokoll_19.11.2019 (1).asice",
+        "MAJK protokoll 19.11.2019.pdf",
+        "MAJK_protokoll_19.11.2019.asice",
+        "Lisa 1.pdf"
+      ]
+    }
+  ],
+  "uuid": "175debf7-f6aa-418d-afb6-c4deb3147ec6",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 175debf7-f6aa-418d-afb6-c4deb3147ec6)",
+  "source": "https://api.riigikogu.ee/api/volumes/175debf7-f6aa-418d-afb6-c4deb3147ec6",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-11-01&endDate=2019-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
