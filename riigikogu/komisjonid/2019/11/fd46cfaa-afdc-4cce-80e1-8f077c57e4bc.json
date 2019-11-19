@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung teisipäev, 19.11.2019 kell 14.00",
+  "sitting_time": "2019-11-19T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Rakenduskõrghariduse tulevikuvisiooni arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dbeb3701-f19b-4b3e-8ec2-1018833fe0c6"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "21df7bfa-36a1-450a-8a3c-c4af126d7118"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KULK protokoll 19.11.2019",
+      "uuid": "b3a1481a-481e-4453-b134-6a37739eec7f",
+      "files": [
+        "KULK_protokoll_19.11.2019 (1).asice",
+        "Protokoll nr 29 (19.11.2019).pdf"
+      ]
+    }
+  ],
+  "uuid": "fd46cfaa-afdc-4cce-80e1-8f077c57e4bc",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid fd46cfaa-afdc-4cce-80e1-8f077c57e4bc)",
+  "source": "https://api.riigikogu.ee/api/volumes/fd46cfaa-afdc-4cce-80e1-8f077c57e4bc",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-11-01&endDate=2019-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
