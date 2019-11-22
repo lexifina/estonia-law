@@ -1,0 +1,48 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung reede, 22.11.2019 kell 10.00",
+  "sitting_time": "2019-11-22T10:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 25. novembril 2019 toimuval Euroopa Liidu välisasjade nõukogu (arenguküsimused) istungil",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "486abf92-aba1-4597-9702-2eeb9d2a9a59"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad 28.-29. novembril 2019 toimuval Euroopa Liidu konkurentsivõime nõukogu istungil",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d7a99c4c-84f3-4765-8c76-1bc0c2908ae5"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5d9a6ed7-25c4-48a3-b5cf-5d96477f2d6f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ELAK protokoll 22.11.2019",
+      "uuid": "42cf073f-2a76-4b56-b42c-55a8cb63bffe",
+      "files": [
+        "ELAK protokoll 22.11.2019.pdf",
+        "ELAK_protokoll_22.11.2019.asice",
+        "22.11 Asendusliige Dmitri Dmitrijev.pdf",
+        "22.11 Asendusliige Ruuben Kaalep.pdf"
+      ]
+    }
+  ],
+  "uuid": "88cef921-8a87-4e14-9a86-aa6abfdf08b5",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 88cef921-8a87-4e14-9a86-aa6abfdf08b5)",
+  "source": "https://api.riigikogu.ee/api/volumes/88cef921-8a87-4e14-9a86-aa6abfdf08b5",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-11-01&endDate=2019-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
