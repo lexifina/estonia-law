@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 2.12.2019 kell 11.10",
+  "sitting_time": "2019-12-02T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d09369aa-6efb-4c89-a736-699872bf5e45"
+    },
+    {
+      "order": 2,
+      "title": "Kalapüük Peipsi järvel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "95443152-9589-48ed-bf62-1a0bff7f3d84"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a54e1d64-7100-4012-96f0-6d39efa37460"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 02.12.2019",
+      "uuid": "2fceaa16-3019-4b13-ba5a-a3ba48d6a14c",
+      "files": [
+        "MAEK_protokoll_02.12.2019.asice",
+        "028 protokoll 02.12.2019.pdf",
+        "028 protokolli lisa Mem Peipsi kalapyyk.pdf"
+      ]
+    }
+  ],
+  "uuid": "840b0f35-8392-4625-908b-66636ec43844",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 840b0f35-8392-4625-908b-66636ec43844)",
+  "source": "https://api.riigikogu.ee/api/volumes/840b0f35-8392-4625-908b-66636ec43844",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-12-01&endDate=2019-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
