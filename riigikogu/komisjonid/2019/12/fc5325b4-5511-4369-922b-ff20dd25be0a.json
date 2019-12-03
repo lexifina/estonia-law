@@ -1,0 +1,48 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung teisipäev, 3.12.2019 kell 14.00",
+  "sitting_time": "2019-12-03T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1bd2fa90-ea84-4471-a5e0-c552d9136861"
+    },
+    {
+      "order": 2,
+      "title": "Kodakondsuse seaduse muutmise seaduse eelnõu (58 SE I) teise lugemise arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "740bd5a5-6da0-4218-bcb6-3ca24b2e78c5"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a19b772b-3950-4a6d-ae76-bac2657d805b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "PÕSK protokoll 03.12.2019",
+      "uuid": "81f8a0e2-35e4-4c39-9ba3-9a969343462a",
+      "files": [
+        "PÕSK_protokoll_03.12.2019.asice",
+        "PÕSK.protokoll.03.12.2019.pdf",
+        "Volitus. 03.12.2019. Oudekki Loone asendusliige põhiseaduskomisjonis.pdf",
+        "Volitus. 03.12.2019. Lauri Läänemetsa asendusliige põhiseaduskomisjonis.pdf"
+      ]
+    }
+  ],
+  "uuid": "fc5325b4-5511-4369-922b-ff20dd25be0a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid fc5325b4-5511-4369-922b-ff20dd25be0a)",
+  "source": "https://api.riigikogu.ee/api/volumes/fc5325b4-5511-4369-922b-ff20dd25be0a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-12-01&endDate=2019-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
