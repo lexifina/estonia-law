@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 3.12.2019 kell 14.00",
+  "sitting_time": "2019-12-03T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Põllumajanduse Registrite ja Informatsiooni Ameti peadirektoriga",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5ebc83a1-2651-4645-a8b4-9af46b6110dc"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bac1809b-47c9-427e-8e50-7440d5b847f5"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 03.12.2019",
+      "uuid": "27652b49-dcf5-4136-9d34-3a64db912ed8",
+      "files": [
+        "029 protokoll 03.12.2019.pdf",
+        "MAEK_protokoll_03.12.2019.asice",
+        "029 protokolli lisa PRIA kontrollsüsteem.pdf"
+      ]
+    }
+  ],
+  "uuid": "ca88f919-1964-4036-8f98-52bc0c118992",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ca88f919-1964-4036-8f98-52bc0c118992)",
+  "source": "https://api.riigikogu.ee/api/volumes/ca88f919-1964-4036-8f98-52bc0c118992",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-12-01&endDate=2019-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
