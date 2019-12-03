@@ -1,0 +1,42 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung teisipäev, 3.12.2019 kell 14.00",
+  "sitting_time": "2019-12-03T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Tuumaenergeetika arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "608c4c5e-3cf1-488d-bee1-ba6a6c6cdc00"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "65c5e45a-04d1-47ef-8d82-33a1079fdc8c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK protokoll 03.12.2019",
+      "uuid": "71dc909d-052d-4ec2-9d45-d39b1fd6b9d6",
+      "files": [
+        "KEKK 03.12.2019 protokoll.pdf",
+        "KEKK_protokoll_03.12.2019.asice",
+        "Õiend 03.12.19.pdf",
+        "KEKK_protokoll_03.12.2019 (1).asice"
+      ]
+    }
+  ],
+  "uuid": "2d35d9e1-fc42-4413-a7a3-5d50fab46e18",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2d35d9e1-fc42-4413-a7a3-5d50fab46e18)",
+  "source": "https://api.riigikogu.ee/api/volumes/2d35d9e1-fc42-4413-a7a3-5d50fab46e18",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-12-01&endDate=2019-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
