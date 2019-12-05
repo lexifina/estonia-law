@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung neljapäev, 5.12.2019 kell 12.00",
+  "sitting_time": "2019-12-05T12:01:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 9. detsembril 2019 Brüsselis toimuval Euroopa Liidu välisasjade nõukogu istungil",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1509ec71-3794-4261-933b-be51240def82"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ecf909d3-7d61-485d-96ca-10e889d27e22"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 5.12.2019",
+      "uuid": "839e7eed-253c-485d-aa9f-ccac75f0647a",
+      "files": [
+        "VALK_protokoll_20191205.pdf",
+        "VÄLK_protokoll_5.12.2019.asice"
+      ]
+    }
+  ],
+  "uuid": "8d032419-46e4-4bf7-90e7-7faf8bc81f76",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8d032419-46e4-4bf7-90e7-7faf8bc81f76)",
+  "source": "https://api.riigikogu.ee/api/volumes/8d032419-46e4-4bf7-90e7-7faf8bc81f76",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-12-01&endDate=2019-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
