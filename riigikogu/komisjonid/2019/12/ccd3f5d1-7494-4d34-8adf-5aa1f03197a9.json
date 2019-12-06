@@ -1,0 +1,34 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung reede, 6.12.2019 kell 13.00",
+  "sitting_time": "2019-12-06T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väliskomisjoni kohtumine Vabariigi Presidendiga Kadriorus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "df8070a3-9b6a-45cf-9845-64ed7412f176"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 06.12.2019",
+      "uuid": "10a5b19a-576c-4971-8c73-91915cd3de92",
+      "files": [
+        "VALK_protokoll_20191206.pdf",
+        "VÄLK_protokoll_06.12.2019.asice"
+      ]
+    }
+  ],
+  "uuid": "ccd3f5d1-7494-4d34-8adf-5aa1f03197a9",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ccd3f5d1-7494-4d34-8adf-5aa1f03197a9)",
+  "source": "https://api.riigikogu.ee/api/volumes/ccd3f5d1-7494-4d34-8adf-5aa1f03197a9",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-12-01&endDate=2019-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
