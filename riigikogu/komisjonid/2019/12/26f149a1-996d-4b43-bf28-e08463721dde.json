@@ -1,0 +1,48 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 9.12.2019 kell 11.10",
+  "sitting_time": "2019-12-09T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bb05bfca-54db-4841-87a8-9066965674cc"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine Veterinaar- ja Toiduameti ning Terviseameti esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "120725b4-fb43-40e4-98e1-04d13db79e07"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "153e2586-596b-4f1c-8af0-5f594a0fbe0e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 09.12.2019",
+      "uuid": "694e286a-a774-47fb-9d57-bf84ae458746",
+      "files": [
+        "030 protokoll 09.12.2019.pdf",
+        "030 protokolli lisa 2 Terviseamet Listerioos.pdf",
+        "030 protokolli lisa 1 VTA Ajajoon.pdf",
+        "MAEK_protokoll_09.12.2019.asice"
+      ]
+    }
+  ],
+  "uuid": "26f149a1-996d-4b43-bf28-e08463721dde",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 26f149a1-996d-4b43-bf28-e08463721dde)",
+  "source": "https://api.riigikogu.ee/api/volumes/26f149a1-996d-4b43-bf28-e08463721dde",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-12-01&endDate=2019-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
