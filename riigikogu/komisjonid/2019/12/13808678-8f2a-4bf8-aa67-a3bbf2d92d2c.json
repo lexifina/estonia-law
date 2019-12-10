@@ -1,0 +1,43 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung teisipäev, 10.12.2019 kell 13.30",
+  "sitting_time": "2019-12-10T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti regionaalse majanduse tulevik. Stsenaariumid aastani 2035. Uurimissuuna tulemuste tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fe7ee578-3153-419b-95c1-c59a4b8cee6b"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c2aaecfe-8624-4325-a553-3c96ae25455c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAJK protokoll nr 27 10.12.2019",
+      "uuid": "4b39f85f-15d1-4e56-b9f4-e17f8f39b496",
+      "files": [
+        "Õiend 10.12.2019 protokolli juurde.pdf",
+        "MAJK_protokoll_nr_27_10.12.2019 (1).asice",
+        "MAJK protokoll nr 27 10.12.2019.pdf",
+        "MAJK_protokoll_nr_27_10.12.2019.asice",
+        "Regionaal-stsenaariumid_TDanilov.pptx"
+      ]
+    }
+  ],
+  "uuid": "13808678-8f2a-4bf8-aa67-a3bbf2d92d2c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 13808678-8f2a-4bf8-aa67-a3bbf2d92d2c)",
+  "source": "https://api.riigikogu.ee/api/volumes/13808678-8f2a-4bf8-aa67-a3bbf2d92d2c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-12-01&endDate=2019-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
