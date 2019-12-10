@@ -1,0 +1,43 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung teisipäev, 10.12.2019 kell 14.00",
+  "sitting_time": "2019-12-10T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Põlevkivienergeetika arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "24258c70-f25a-4672-91b2-c6f3e8e6bdb5"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bc7289c3-3e27-440b-8c46-d8aa05d253fe"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK protokoll 10.12.2019",
+      "uuid": "74592007-0531-443b-9bdd-27ba1e003433",
+      "files": [
+        "Õiend 10.12.19.pdf",
+        "KEKK_protokoll_10.12.2019 (1).asice",
+        "KEKK 10.12.2019 protokoll.pdf",
+        "KEKK_protokoll_10.12.2019.asice",
+        "Dmitrijev volitus.jpg"
+      ]
+    }
+  ],
+  "uuid": "1b8b53a2-5249-47c8-931c-f5bac84c64df",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 1b8b53a2-5249-47c8-931c-f5bac84c64df)",
+  "source": "https://api.riigikogu.ee/api/volumes/1b8b53a2-5249-47c8-931c-f5bac84c64df",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-12-01&endDate=2019-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
