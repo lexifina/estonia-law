@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung teisipäev, 10.12.2019 kell 14.00",
+  "sitting_time": "2019-12-10T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "ESTA pöördumise ja kohalike omavalitsusüksuste sotsiaalvaldkondade juhtide pöördumiste arutelud",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b2886681-c773-45e9-9f49-b3cb23a71451"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "881b1259-f39f-4e68-865b-3be23451bccb"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "SOTK protokoll 10.12.2019",
+      "uuid": "7dd71a5f-5d4f-4236-acc0-72aaa11d07fc",
+      "files": [
+        "Protokoll.pdf",
+        "SOTK_protokoll_10.12.2019.asice"
+      ]
+    }
+  ],
+  "uuid": "723d4993-823f-4165-bd78-6e86bea5897d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 723d4993-823f-4165-bd78-6e86bea5897d)",
+  "source": "https://api.riigikogu.ee/api/volumes/723d4993-823f-4165-bd78-6e86bea5897d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-12-01&endDate=2019-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
