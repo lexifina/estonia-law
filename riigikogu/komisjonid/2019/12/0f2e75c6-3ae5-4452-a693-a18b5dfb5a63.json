@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni erakorraline istung neljapäev, 12.12.2019 kell 9.00",
+  "sitting_time": "2019-12-12T09:00:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "43c7bf67-cb52-4570-ad33-a3ba17e782f0"
+    },
+    {
+      "order": 2,
+      "title": "Ravimiseaduse muutmise seaduse eelnõu (118 SE) ettevalmistamine esimeseks lugemiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2d39d6cc-e008-4543-b558-02b4042345ed"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "SOTK protokoll 12.12.2019",
+      "uuid": "7952e729-e847-4e32-897e-55b679b3a680",
+      "files": [
+        "SOTK_protokoll_12.12.2019.asice",
+        "Protokoll.pdf",
+        "Asendusliige (N. Malleus).pdf"
+      ]
+    }
+  ],
+  "uuid": "0f2e75c6-3ae5-4452-a693-a18b5dfb5a63",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0f2e75c6-3ae5-4452-a693-a18b5dfb5a63)",
+  "source": "https://api.riigikogu.ee/api/volumes/0f2e75c6-3ae5-4452-a693-a18b5dfb5a63",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-12-01&endDate=2019-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
