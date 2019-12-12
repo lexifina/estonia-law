@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung neljapäev, 12.12.2019 kell 13.00",
+  "sitting_time": "2019-12-12T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "„Eesti välispoliitika arengukava 2030“ täiskogu arutelu ettevalmistamine: tugev välisteenistus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cf84a58e-5ee8-4b8f-940c-556031eb481f"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade arengutest Ukrainas",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e509a15c-656e-4080-aba2-b54b6a2b9496"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7adad12e-f070-49ee-815f-28ba704fa094"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 12.12.2019",
+      "uuid": "67a0fd8b-433c-438b-8537-faace7764c30",
+      "files": [
+        "VALK_protokoll_20191212.pdf",
+        "VÄLK_protokoll_12.12.2019.asice"
+      ]
+    }
+  ],
+  "uuid": "675ad00a-e6fe-4935-a328-9e5660e8a52c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 675ad00a-e6fe-4935-a328-9e5660e8a52c)",
+  "source": "https://api.riigikogu.ee/api/volumes/675ad00a-e6fe-4935-a328-9e5660e8a52c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-12-01&endDate=2019-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
