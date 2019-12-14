@@ -18,7 +18,7 @@
 
 2) muid järelevalve viise, arvestades käesoleva paragrahvi lõikes 8 sätestatut.
 
-(8) Samaväärsuse puudumisel on Finantsinspektsioonil õigus kasutada muid järelevalve viise, mis tagavad kindlustusgruppi kuuluva kindlustusandja tegevuse üle kindlustusgrupi tasandil järelevalve eesmärkidele vastava järelevalve, nõudes eelkõige kindlustusvaldusettevõtja või segafinantsvaldusettevõtja asutamist lepinguriigis.
+(8) Samaväärsuse puudumisel on Finantsinspektsioonil õigus kasutada muid järelevalve viise, mis tagavad kindlustusgruppi kuuluva kindlustusandja tegevuse üle kindlustusgrupi tasandil järelevalve eesmärkidele vastava järelevalve. Finantsinspektsioon võib nõuda kindlustusvaldusettevõtja või segafinantsvaldusettevõtja asutamist lepinguriigis.
 
 (9) Käesoleva paragrahvi lõikes 8 nimetatud järelevalve viisi saab kasutada, kui kindlustusgrupi järelevalveasutus on selle pärast konsulteerimist asjasse puutuvate finantsjärelevalve asutustega heaks kiitnud. Finantsinspektsioon teavitab järelevalve viisi kasutamisest teisi asjasse puutuvaid finantsjärelevalve asutusi ja Euroopa Komisjoni.
 

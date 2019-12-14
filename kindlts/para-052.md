@@ -18,4 +18,4 @@
 
 (9) Investeeringud sama emitendi või samasse konsolideerimisgruppi kuuluvate emitentide emiteeritud väärtpaberitesse ei või kindlustusandja jaoks kaasa tuua liigset riskide kontsentratsiooni.
 
-(10) Kindlustusandja võib komisjoni delegeeritud määruse (EL) nr 2015/35 artiklites 254–257 sätestatud tingimustel investeerida väärtpaberiteks või teisteks finantsinstrumentideks struktureeritud laenudesse.
+(10) Kindlustusandja võib investeerida väärtpaberistamisesse Euroopa Parlamendi ja nõukogu määruses (EL) 2017/2402, millega kehtestatakse väärtpaberistamise üldnormid ning luuakse lihtsa, läbipaistva ja standarditud väärtpaberistamise erinormid ning millega muudetakse direktiive 2009/65/EÜ, 2009/138/EÜ ja 2011/61/EL ning määrusi (EÜ) nr 1060/2009 ja (EL) nr 648/2012 (ELT L 347, 28.12.2017, lk 35–80), ning komisjoni delegeeritud määruse (EL) 2015/35 artiklis 257 sätestatud tähenduses ja tingimustel.

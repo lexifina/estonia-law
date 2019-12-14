@@ -10,7 +10,7 @@
 
 3) see ei kahjusta lepinguriikide finantssüsteemide stabiilsust.
 
-(3) Käesoleva paragrahvi lõigetes 1 ja 2 sätestatud erisusi kohaldatakse turuosade alusel järjestatud väikseimatele kindlustusandjatele, kelle turuosad kokku jäävad alla 20 protsendi kas elu- või kahjukindlustusturust.
+(3) Finantsinspektsioon võib käesoleva paragrahvi lõigetes 1 ja 2 sätestatud erisusi kohaldada kindlustusandjate suhtes nii, et erandi alla kuuluvate kindlustusandjate turuosa kokku ei ole suurem kui 20 protsenti elu- või kahjukindlustusturust, sealjuures peab Finantsinspektsioon erisuse rakendamisel esmatähtsaks väiksemaid ettevõtjaid.
 
 (4) Finantsinspektsioon lähtub käesoleva paragrahvi lõikes 3 sätestatud turuosa määramisel Euroopa Kindlustus- ja Tööandjapensionide Järelevalve Asutuse suunisest, võttes kahjukindlustusandjate puhul arvesse kindlustusmaksete kogusummad ning elukindlustusandjate puhul tehnilised eraldised koos edasikindlustusandja ja eriotstarbelise varakogumi osaga.
 
