@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/128022019001> (version in force from 2019-03-01)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/104122019012> (version in force from 2019-12-14)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -93,12 +93,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/128022019001> (version in force 
 | [§ 67](para-067.md) | Enne käesoleva seaduse jõustumist toimunud vara hindamine |
 | [§ 68](para-068.md) | Enne käesoleva seaduse jõustumist seatud hüpoteegi suhe krediidi suurusesse |
 | **2. jagu Seaduste muutmine** | |
-| [§ 69](para-069.md) | Audiitortegevuse seaduse muutmine |
-| [§ 70](para-070.md) | Finantsinspektsiooni seaduse muutmine |
-| [§ 71](para-071.md) | Finantskriisi ennetamise ja lahendamise seaduse muutmine |
-| [§ 72](para-072.md) | Krediidiasutuste seaduse muutmine |
-| [§ 73](para-073.md) | Pankrotiseaduse muutmine |
-| [§ 74](para-074.md) | Väärtpaberite registri pidamise seaduse muutmine |
-| [§ 75](para-075.md) | Äriseadustiku muutmine |
+| [§ 69](para-069.md) |  |
+| [§ 75](para-075.md) |  |
 | **3. jagu Seaduse jõustumine** | |
 | [§ 76](para-076.md) | Seaduse jõustumine |

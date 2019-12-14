@@ -6,7 +6,7 @@
 
 (3) Finantsinspektsioon võib nõuda alamregistrite arvu suurendamist või vähendamist või alamregistri ühendamist põhiregistriga, kui see on vajalik tagatis- ja muud vara puudutavate andmete selgemaks kajastamiseks.
 
-(4) Isikuandmete kandmine tagatisregistrisse on lubatud üksnes tagatisvara tuvastamiseks ning juhul, kui isikuandmete töötlemine toimub vastavalt kehtivatele õigusaktidele. Tagatisregistrisse kantakse käesoleva seaduse § 25 lõikes 1 nimetatud hüpoteekkrediidist tuleneva nõude kohta krediidisaaja nimi, krediidi valuuta ja krediidijääk, krediidilepingu kuupäev ja number ning andmed hüpoteegiga koormatud kinnisasja kohta.
+(4) Isikuandmete kandmine tagatisregistrisse on lubatud üksnes tagatisvara tuvastamiseks ning juhul, kui isikuandmete töötlemine toimub vastavalt kehtivatele õigusaktidele. Tagatisregistrisse kantakse käesoleva seaduse § 25 lõikes 1 nimetatud hüpoteekkrediidist või § 30 lõike 1 punktis 2 nimetatud elamuehituskrediidist tuleneva nõude kohta krediidisaaja nimi, krediidi valuuta ja krediidijääk, krediidilepingu kuupäev ja number ning andmed hüpoteegiga koormatud kinnisasja kohta.
 
 (5) Pandikirjade tagatiseks oleva nõude kandmine tagatisregistrisse ega selle kustutamine tagatisregistrist ei vaja võlgniku ega asjassepuutuva kolmanda isiku nõusolekut ning emitendil ei ole kohustust teavitada võlgnikku ega asjassepuutuvat kolmandat isikut nõude kandmisest tagatisregistrisse ega selle kustutamisest registrist, kui käesolevas seaduses ei ole sätestatud teisiti.
 

@@ -1,7 +1,3 @@
 # § 76. Seaduse jõustumine
 
 Käesolev seadus jõustub 2019. aasta 1. märtsil.
-
-**Riigikogu esimees**
-
-Eiki Nestor
