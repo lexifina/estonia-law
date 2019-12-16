@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Korruptsioonivastane erikomisjon",
+  "committee_uuid": "e4f2977a-e8c3-4fa0-8f3d-9df9acd6377f",
+  "title": "Komisjoni istung esmaspäev, 16. 12. 2019 kell 13.30",
+  "sitting_time": "2019-12-16T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9037f498-1743-42cc-8733-a65781bab3bb"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine rahandusminister Martin Helmega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ad71e8d8-ca33-4b46-8bbb-2a7bd4243b0e"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ad311b39-7f21-4975-9288-f77d1377a42c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KVEK protokoll 16.12.2019",
+      "uuid": "f9d3c160-2ce9-4e42-bd3a-11f46921f443",
+      "files": [
+        "KVEK_protokoll_16.12.2019.asice",
+        "KVEK protokoll 16.12 2019 .pdf"
+      ]
+    }
+  ],
+  "uuid": "0580a637-3981-4af4-8439-521277cab224",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0580a637-3981-4af4-8439-521277cab224)",
+  "source": "https://api.riigikogu.ee/api/volumes/0580a637-3981-4af4-8439-521277cab224",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-12-01&endDate=2019-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
