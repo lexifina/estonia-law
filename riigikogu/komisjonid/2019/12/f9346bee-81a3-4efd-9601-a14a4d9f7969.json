@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung esmaspäev, 16.12.2019 kell 11.00",
+  "sitting_time": "2019-12-16T11:02:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "092d36d9-44cc-4de6-85b0-73d8773fe6fd"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade Washingtonis 09-11.12.2019 toimunud NATO PA Transatlantilisest foorumist",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f0b34972-fbd9-4e98-b092-537e4b06c2f3"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6d33cf32-f9cd-483e-8cd8-9ee0954b4c65"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RIKK protokoll 16.12.2019",
+      "uuid": "6656a447-38ed-4a5b-9344-a6894fbc2c33",
+      "files": [
+        "RIKK_protokoll_16.12.2019.asice",
+        "Protokoll.pdf"
+      ]
+    }
+  ],
+  "uuid": "f9346bee-81a3-4efd-9601-a14a4d9f7969",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f9346bee-81a3-4efd-9601-a14a4d9f7969)",
+  "source": "https://api.riigikogu.ee/api/volumes/f9346bee-81a3-4efd-9601-a14a4d9f7969",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-12-01&endDate=2019-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
