@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 16.12.2019 kell 12.00",
+  "sitting_time": "2019-12-16T12:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a939c7fd-f77a-4972-b14a-31a65ae4dc1b"
+    },
+    {
+      "order": 2,
+      "title": "Kokkuvõte Riigikogu XIV koosseisu maaelukomisjoni 2019. aasta tööst",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0c34a80c-37fb-4bf1-a2c7-813a46dbd4e9"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "266502f9-22e3-4517-8a59-54d54e1a3404"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 16.12.2019",
+      "uuid": "6dc4e646-d2d2-4435-a7aa-8c756ae9ae10",
+      "files": [
+        "032 protokoll 16.12.2019.pdf",
+        "2019 MAEK ülevaade.pdf",
+        "MAEK_protokoll_16.12.2019.asice"
+      ]
+    }
+  ],
+  "uuid": "e0f25a64-c202-4cfd-8729-62e376339573",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e0f25a64-c202-4cfd-8729-62e376339573)",
+  "source": "https://api.riigikogu.ee/api/volumes/e0f25a64-c202-4cfd-8729-62e376339573",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-12-01&endDate=2019-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
