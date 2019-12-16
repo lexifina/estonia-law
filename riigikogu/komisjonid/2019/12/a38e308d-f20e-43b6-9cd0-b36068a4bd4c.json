@@ -1,0 +1,54 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung esmaspäev, 16.12.2019 kell 11.10",
+  "sitting_time": "2019-12-16T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "586b5444-6d05-4da5-a554-1c75d3c7dfd5"
+    },
+    {
+      "order": 2,
+      "title": "Metsavarguste teemaline arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "308f381e-a9fb-46f2-bbe9-b070eb4ae510"
+    },
+    {
+      "order": 3,
+      "title": "Ülevaade Madridis toimunud COP25 kliimakonverentsist",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "05ee3b5e-b814-40c7-a998-baf995d1b5ec"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e531b681-b476-41c8-8cf6-820eb4e96696"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK protokoll 16.12.2019",
+      "uuid": "f719801d-bcb9-4b29-be02-f28f97c20d60",
+      "files": [
+        "KEKK 16.12.2019 protokoll.pdf",
+        "KEKK_protokoll_16.12.2019.asice",
+        "KEKK_protokoll_16.12.2019 (1).asice",
+        "Õiend 16.12.19.pdf"
+      ]
+    }
+  ],
+  "uuid": "a38e308d-f20e-43b6-9cd0-b36068a4bd4c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a38e308d-f20e-43b6-9cd0-b36068a4bd4c)",
+  "source": "https://api.riigikogu.ee/api/volumes/a38e308d-f20e-43b6-9cd0-b36068a4bd4c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-12-01&endDate=2019-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
