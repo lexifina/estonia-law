@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung teisipäev, 17.12.2019 kell 14.00",
+  "sitting_time": "2019-12-17T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Äriseadustiku, tõestamisseaduse ja notari tasu seaduse muutmise seaduse eelnõu (101 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d9f6ee09-4ccd-4693-b2fe-1e44645f41b0"
+    },
+    {
+      "order": 2,
+      "title": "Aktuaalsed probleemid kriminaalmenetluses.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "613214a6-2beb-4444-8322-16693a91b3ad"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ÕIGK protokoll 17.12.2019",
+      "uuid": "5dce59d1-68de-4445-87e4-ceb8e259ec74",
+      "files": [
+        "Protokoll 17.12.2019.pdf",
+        "ÕIGK_protokoll_17.12.2019.asice"
+      ]
+    }
+  ],
+  "uuid": "1be3d95f-7fec-419f-9d5d-b28d29c0c4c0",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 1be3d95f-7fec-419f-9d5d-b28d29c0c4c0)",
+  "source": "https://api.riigikogu.ee/api/volumes/1be3d95f-7fec-419f-9d5d-b28d29c0c4c0",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-12-01&endDate=2019-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
