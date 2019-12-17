@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Väljasõiduistung teisipäev, 17.12.2019 kell 15.00",
+  "sitting_time": "2019-12-17T15:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väljasõiduistung. Kohtumine Pangaliidu esindajatega.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ac67ccec-eacf-42cc-b7f4-a109da8a8efe"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2b8b94c2-9a4d-4f7b-9b19-bd7a1d81d19e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 17.12.2019",
+      "uuid": "91448f12-e32c-4447-a0fc-be526e481157",
+      "files": [
+        "RAHK protokoll 41 17 12 19.pdf",
+        "RAHK_protokoll_17.12.2019.asice",
+        "Pangaliidu slaidid17.12.2019.pdf"
+      ]
+    }
+  ],
+  "uuid": "94a71da0-e068-44fd-a54a-cfc4c5572410",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 94a71da0-e068-44fd-a54a-cfc4c5572410)",
+  "source": "https://api.riigikogu.ee/api/volumes/94a71da0-e068-44fd-a54a-cfc4c5572410",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-12-01&endDate=2019-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
