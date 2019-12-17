@@ -1,0 +1,50 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung teisipäev, 17.12.2019 kell 14.00",
+  "sitting_time": "2019-12-17T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine väliskaubandus- ja infotehnoloogiaministriga",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "474d5ce6-5a0c-4781-ac4c-ddabcf11ce56"
+    },
+    {
+      "order": 2,
+      "title": "Kokkuvõte majanduskomisjoni sügisistungjärgu ja 2019. aasta töödest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3be26ac6-e088-422d-aa9f-578cd4836fd1"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b3c8bdc0-c439-4ca2-a6ac-4cb481898e8e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAJK protokoll 17.12.2019",
+      "uuid": "25e6120a-7f1d-4c23-9c8b-b8458346f8ca",
+      "files": [
+        "Õiend 17.12.2019 protokolli juurde.pdf",
+        "MAJK_protokoll_17.12.2019 (1).asice",
+        "Majanduskomisjoni tööst 2019. aasta sügisistungjärgul seisuga 17.12.2019.pdf",
+        "Majanduskomisjoni tööst 2019. aastal seisuga 17.12.2019.pdf",
+        "MAJK_protokoll_17.12.2019.asice",
+        "MAJK protokoll 17.12.2019.pdf"
+      ]
+    }
+  ],
+  "uuid": "6479090a-9b2c-4c4a-95af-22340d8e27a7",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 6479090a-9b2c-4c4a-95af-22340d8e27a7)",
+  "source": "https://api.riigikogu.ee/api/volumes/6479090a-9b2c-4c4a-95af-22340d8e27a7",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2019-12-01&endDate=2019-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
