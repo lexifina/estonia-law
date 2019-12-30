@@ -1,8 +1,8 @@
 # § 391. Salakaubavedu
 
-(1) Deklareeritava kauba või sularaha toimetamise eest üle Euroopa Liidu tolliterritooriumi piiri tollikontrollist kõrvale hoides, kauba või sularaha deklareerimata jättes, seda vale tariifse klassifikatsiooniga või kirjeldusega deklareerides või muul pettuslikul viisil toimides, kui teo objekt oli kaup suures koguses, –
+(1) Deklareeritava kauba või sularaha toimetamise eest üle Euroopa Liidu tolliterritooriumi piiri tollikontrollist kõrvale hoides, kauba või sularaha deklareerimata jättes, seda vale tariifse klassifikatsiooniga või kirjeldusega deklareerides või muul pettuslikul viisil toimides, kui teo objekt oli kaup suures koguses või sellega kaasnes tollivõlg 10 000 eurot või enam, –
 
-karistatakse rahalise karistuse või kuni kolmeaastase vangistusega.
+karistatakse rahalise karistuse või kuni neljaaastase vangistusega.
 
 (2) Sama teo eest:
 

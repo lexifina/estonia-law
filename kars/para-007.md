@@ -10,4 +10,6 @@
 
 1) väljaspool Eesti territooriumi toimepandud teo kohta, mis on Eestis karistusseaduse järgi kuritegu ja mille toimepanija on teenistuskohustusi täitev kaitseväelane;
 
-2) väljaspool Eesti territooriumi toimepandud pistise või altkäemaksu andmise, võtmise või vahendamise või mõjuvõimuga kauplemise kohta, kui selle teo on toime pannud või selles on osalenud Eesti kodanik, Eesti ametiisik või Eestis registreeritud juriidiline isik, samuti Eestis kinnipeetud välismaalane, keda ei anta välja.
+2) väljaspool Eesti territooriumi toimepandud altkäemaksu andmise, võtmise või vahendamise, mõjuvõimuga kauplemise või Euroopa Liidu finantshuve kahjustava kuriteo kohta, kui selle teo on toime pannud või selles on osalenud Eesti kodanik, Eesti ametiisik või Eestis registreeritud juriidiline isik, samuti Eestis kinnipeetud välismaalane, keda ei anta välja.
+
+(3) Käesolevas seadustikus käsitatakse Euroopa Liidu finantshuvidena Euroopa Liidu eelarvega ja Euroopa Liidu struktuuriüksuste hallatavate eelarvetega hõlmatud varasid, tulusid ja kulusid.

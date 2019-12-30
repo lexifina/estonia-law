@@ -1,6 +1,6 @@
 # § 143. Suguühtele või muule sugulise iseloomuga teole sundimine
 
-(1) Inimese tahte vastaselt temaga suguühtesse astumise või muu sugulise iseloomuga teo toimepanemise eest, ära kasutades kannatanu sõltuvust süüdlasest, kui puudub käesoleva seadustiku §-s 141 sätestatud vägivald või seisund, milles inimene ei olnud võimeline vastupanu osutama või toimunust aru saama, –
+(1) Inimese tahte vastaselt temaga suguühtesse astumise või muu sugulise iseloomuga teo toimepanemise eest, ära kasutades kannatanu sõltuvust süüdlasest, kui puudub käesoleva seadustiku §-s 141 või 141¹ sätestatud vägivald või seisund, milles inimene ei olnud võimeline vastupanu osutama või toimunust aru saama, –
 
 karistatakse kuni kolmeaastase vangistusega.
 

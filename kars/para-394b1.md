@@ -1,5 +1,9 @@
 # § 394¹. Rahapesu kokkulepe
 
-Kokkuleppe sõlmimise eest, mille eesmärk on rahapesu täideviimine, –
+(1) Kokkuleppe sõlmimise eest, mille eesmärk on rahapesu täideviimine, –
 
-karistatakse rahalise karistuse või kuni üheaastase vangistusega.
+karistatakse rahalise karistuse või kuni kaheaastase vangistusega.
+
+(2) Sama teo eest, kui selle on toime pannud juriidiline isik, –
+
+karistatakse rahalise karistusega.

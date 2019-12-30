@@ -2,7 +2,7 @@
 
 (1) Teisele isikule varalise kahju tekitamise eest tegelikest asjaoludest teadvalt ebaõige ettekujutuse loomise teel varalise kasu saamise eesmärgil –
 
-karistatakse rahalise karistuse või kuni kolmeaastase vangistusega.
+karistatakse rahalise karistuse või kuni neljaaastase vangistusega.
 
 (2) Sama teo eest, kui see on toime pandud:
 

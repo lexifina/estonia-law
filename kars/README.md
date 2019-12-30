@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/119032019030> (version in force from 2019-07-01)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/120122019004> (version in force from 2019-12-30)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -316,6 +316,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/119032019030> (version in force 
 | **2. jagu Süüteod vara vastu tervikuna** | |
 | **1. jaotis Kelmus** | |
 | [§ 209](para-209.md) | Kelmus |
+| [§ 209¹](para-209b1.md) | Hankekelmus Euroopa Liidu finantshuve kahjustades |
 | [§ 210](para-210.md) | Soodustuskelmus |
 | [§ 211](para-211.md) | Investeerimiskelmus |
 | [§ 212](para-212.md) | Kindlustuskelmus |
