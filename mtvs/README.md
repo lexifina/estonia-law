@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/113032019025> (version in force from 2019-03-15)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/121122019024> (version in force from 2020-01-01)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -48,6 +48,19 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/113032019025> (version in force 
 | [§ 20⁵](para-020b5.md) | Teabeandja kohustused |
 | [§ 20⁶](para-020b6.md) | Kontserni liikme teavitamiskohustus |
 | [§ 20⁷](para-020b7.md) | Maksuhalduri kohustused |
+| **2³. peatükk Piiriüleste skeemide alane automaatne teabevahetus Euroopa Liidus** | |
+| [§ 20⁸](para-020b8.md) | Piiriülene skeem |
+| [§ 20⁹](para-020b9.md) | Aruandekohustusega skeem |
+| [§ 20¹⁰](para-020b10.md) | Teabeandja |
+| [§ 20¹¹](para-020b11.md) | Asjaomane maksukohustuslane |
+| [§ 20¹²](para-020b12.md) | Seotud isikud |
+| [§ 20¹³](para-020b13.md) | Teabeandja kohustused |
+| [§ 20¹⁴](para-020b14.md) | Teabeandja kohustuste üleminek |
+| [§ 20¹⁵](para-020b15.md) | Teabeandja aruande esitamise riik |
+| [§ 20¹⁶](para-020b16.md) | Teabeandjate paljusus |
+| [§ 20¹⁷](para-020b17.md) | Asjaomase maksukohustuslase aruandekohustus |
+| [§ 20¹⁸](para-020b18.md) | Asjaomase maksukohustuslase aruande esitamise riik |
+| [§ 20¹⁹](para-020b19.md) | Asjaomaste maksukohustuslaste paljusus |
 | **3. peatükk Järelevalve** | |
 | [§ 21](para-021.md) | Järelevalveasutus |
 | [§ 22](para-022.md) | Sunniraha |
@@ -57,6 +70,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/113032019025> (version in force 
 | [§ 23²](para-023b2.md) | Käesoleva seaduse 2. peatüki rakendamine |
 | [§ 23³](para-023b3.md) | Käesoleva seaduse 2¹. peatüki rakendamine |
 | [§ 23⁴](para-023b4.md) | Käesoleva seaduse 2². peatüki rakendamine |
+| [§ 23⁵](para-023b5.md) | Käesoleva seaduse 2³. peatüki rakendamine |
 | [§ 24](para-024.md) |  |
 | [§ 28](para-028.md) |  |
 | [§ 29](para-029.md) | Seaduse jõustumine |
