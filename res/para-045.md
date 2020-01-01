@@ -12,4 +12,4 @@
 
 4) käesoleva seaduse § 73 lõikes 1 nimetatud Riigikogu otsus.
 
-(3) Kõrgendatud kaitsevalmiduse ja sõjaseisukorra ajal sellega seonduvate ülesannete täitmiseks, mobilisatsiooni läbiviimiseks või kollektiivse enesekaitse lepinguga ettenähtud kohustuste täitmiseks võib Vabariigi Valitsus valdkonna eest vastutava ministri ettepanekul esitada Riigikogule riigieelarve muutmise seaduse eelnõu, millega nähakse ette riigieelarve Kaitseministeeriumi valitsemisala kulude otstarbe muutmine, ning otsustada vajaduse korral Riigikogule esitatud eelnõu rakendamise kuni Riigikogu poolt küsimuse otsustamiseni.
+(3) Kõrgendatud kaitsevalmiduse ja sõjaseisukorra ajal sellega seonduvate ülesannete täitmiseks, mobilisatsiooni läbiviimiseks või kollektiivse enesekaitse lepinguga ettenähtud kohustuste täitmiseks võib Vabariigi Valitsus valdkonna eest vastutava ministri ettepanekul esitada Riigikogule riigieelarve muutmise seaduse eelnõu ning otsustada vajaduse korral Riigikogule esitatud eelnõu rakendamise kuni Riigikogu poolt küsimuse otsustamiseni.

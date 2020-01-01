@@ -10,13 +10,13 @@
 
 - 2. jagu Strateegilised arengudokumendid
 
-- 3. jagu Eelarvestrateegia ja stabiilsusprogramm
+- 3. jagu Stabiilsusprogramm
 
-4. peatükk Riigieelarve
+4. peatükk Eelarvestrateegia ja riigieelarve
 
-- 1. jagu Riigieelarve sisu ja ülesehitus
+- 1. jagu Eelarvestrateegia ja riigieelarve sisu
 
-- 2. jagu Riigieelarve eelnõu koostamine
+- 2. jagu Eelarvestrateegia ja riigieelarve eelnõu koostamine
 
 - 3. jagu Riigieelarve eelnõu menetlemine Riigikogus
 

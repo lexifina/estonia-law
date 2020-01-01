@@ -6,7 +6,7 @@
 
 (3) Rahandusministeeriumile ei kohaldata riigi rahavoo juhtimisel käesoleva seaduse §-s 60 sätestatud kohustuste võtmise piiranguid, kui seaduses ei ole sätestatud teisiti.
 
-(4) Ulatusliku või kiire majanduslanguse korral, finantskriisi ajal või tulude kavandatust väiksema laekumise korral on valdkonna eest vastutaval ministril õigus ajutiselt piirata riigieelarves ettenähtud väljamaksete tegemist ja kohustuste võtmist, teavitades sellest Vabariigi Valitsust. Väljamaksete tegemisel lähtutakse sellisel juhul käesoleva seaduse § 64 lõikes 6 sätestatud maksete tingimustest.
+(4) Ulatusliku või kiire majanduslanguse korral, finantskriisi ajal või tulude kavandatust väiksema laekumise korral on valdkonna eest vastutaval ministril õigus ajutiselt piirata väljamaksete tegemist ja kohustuste võtmist, teavitades sellest Vabariigi Valitsust. Väljamaksete tegemisel lähtutakse sellisel juhul käesoleva seaduse § 64 lõikes 6 sätestatud maksete tingimustest.
 
 (5) Riigi rahavoo juhtimise põhimõtted kehtestab
 

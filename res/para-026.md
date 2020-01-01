@@ -1,8 +1,8 @@
 # § 26. Riigieelarve sisu
 
-(1) Riigieelarve on riigi finantsplaan, milles kajastatakse rahalisi vahendeid (edaspidi *vahendid*), mida riik eelarveaastal plaanib koguda, saada toetusena, vahendada ja kasutada.
+(1) Riigieelarve on riigi aastane rahastamiskava, milles kajastatakse vahendid, mida riik eelarveaastal plaanib koguda, saada toetusena, vahendada ja kasutada.
 
-(2) Riigieelarves liigendatakse vahendid eelarveklassifikaatori alusel administratiivselt. Administratiivselt liigendatud vahendid liigendatakse majandusliku sisu järgi.
+(2) Riigieelarves liigendatakse vahendid eelarveklassifikaatori alusel administratiivselt Riigikogu Kantselei, Vabariigi Presidendi Kantselei, Riigikontrolli, Õiguskantsleri Kantselei, Riigikohtu ja ministeeriumide valitsemisalade vahel.
 
 (3) Administratiivne liigendus näitab, millised ministeeriumide valitsemisalad riigieelarve vahendeid koguvad, toetusena saavad, vahendavad või kasutavad. Administratiivses liigenduses võib tema kasutatavate vahendite osas märkida ka Vabariigi Valitsuse.
 
@@ -15,3 +15,7 @@
 3) investeeringud on materiaalse ja immateriaalse põhivara soetamiseks ja renoveerimiseks planeeritud vahendid;
 
 4) finantseerimistehingud on tehingud finantsvarade või -kohustustega, mille puhul kahekordse kirjendamise põhimõttest tulenevalt tehakse mõlemad kirjed finantsvarades või -kohustustes ning mille tulemusena eelarvepositsioon ei muutu.
+
+(5) Riigieelarves liigendatakse kulud tulemusvaldkondade ja programmide kaupa.
+
+(6) Põhiseadusliku institutsiooni eelarve liigendamise käesoleva paragrahvi lõike 5 kohaselt otsustab Vabariigi Valitsus põhiseadusliku institutsiooni algatusel.

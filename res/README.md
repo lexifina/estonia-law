@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/107072017040> (version in force from 2019-05-01)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/107072017041> (version in force from 2020-01-01)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -31,14 +31,14 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/107072017040> (version in force 
 | **2. jagu Strateegilised arengudokumendid** | |
 | [§ 19](para-019.md) | Strateegilised arengudokumendid |
 | [§ 20](para-020.md) | Strateegiliste arengudokumentide koostamine, elluviimine ja muutmine |
-| **3. jagu Eelarvestrateegia ja stabiilsusprogramm** | |
+| **3. jagu Stabiilsusprogramm** | |
 | [§ 21](para-021.md) | Eelarvestrateegia sisu |
 | [§ 22](para-022.md) | Eelarvestrateegia koostamine |
 | [§ 23](para-023.md) | Stabiilsusprogramm |
 | [§ 24](para-024.md) | Eelarvestrateegia kinnitamine |
 | [§ 25](para-025.md) | Eelarvestrateegia ja stabiilsusprogrammi avalikustamine |
-| **4. peatükk Riigieelarve** | |
-| **1. jagu Riigieelarve sisu ja ülesehitus** | |
+| **4. peatükk Eelarvestrateegia ja riigieelarve** | |
+| **1. jagu Eelarvestrateegia ja riigieelarve sisu** | |
 | [§ 25¹](para-025b1.md) | Eelarvestrateegia sisu |
 | [§ 26](para-026.md) | Riigieelarve sisu |
 | [§ 27](para-027.md) | Eelarveaasta |
@@ -48,7 +48,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/107072017040> (version in force 
 | [§ 31](para-031.md) | Kulude, investeeringute ja finantseerimistehingute täiendav liigendamine |
 | [§ 32](para-032.md) | Piirmääraga ja piirmäärata vahendid ning edasiantav maks |
 | [§ 33](para-033.md) | Riigieelarve vahendite ülekandmine |
-| **2. jagu Riigieelarve eelnõu koostamine** | |
+| **2. jagu Eelarvestrateegia ja riigieelarve eelnõu koostamine** | |
 | [§ 33¹](para-033b1.md) | Eelarvestrateegia koostamine |
 | [§ 34](para-034.md) | Riigieelarve eelnõu koostamise alused |
 | [§ 34¹](para-034b1.md) | Eelarvestrateegia ja riigieelarve kinnitamine |

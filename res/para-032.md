@@ -13,3 +13,5 @@
 4) mitterahalised tulud ja kulud.
 
 (3) Riigieelarves nii tulu kui ka kuluna planeeritud maksud, maksed ja muud tasud, mida riik kogub ja edastab õigusaktis määratud isikule (edaspidi *edasiantav maks*), kantakse saajale edasi vastavalt tegelikule laekumisele.
+
+(4) Riigieelarve seadusega määratakse piirmääraga vahendite kasutamisele limiit.
