@@ -2,11 +2,9 @@
 
 (1) Arvestades tegevusvaldkonna ja käitise asukoha iseärasusi, otsustab loa andja kompleksloa koosseisu üle.
 
+(1¹) Kompleksluba sisaldab keskkonnaseadustiku üldosa seaduse § 53 lõikes 1, atmosfääriõhu kaitse seaduse § 98 lõikes 1, jäätmeseaduse § 81 lõikes 2 ning veeseaduse § 193 lõigetes 1 ja 2 sätestatud andmeid.
+
 (2) Kompleksloa koosseisu kuuluvad järgmised andmed:
-
-1) juriidilise isiku puhul käitaja ärinimi, registrikood, asukoht ja kontaktandmed, füüsilise isiku puhul nimi, isikukood, elukoht ja kontaktandmed;
-
-2) käitise nimetus, aadress, kontaktandmed, L-EST geograafilised koordinaadid ja tegevuse algusaeg;
 
 3) käitise tegevusvaldkonna ja käesoleva seaduse § 19 lõike 3 alusel kehtestatud põhilise alltegevusvaldkonna nimetus, käitise tööaeg, aastane tootmismaht ja ülesseatud tootmisvõimsus;
 
@@ -48,6 +46,6 @@
 
 (4) Kui käesolevas seaduses või muudes õigusaktides sätestatud keskkonna kvaliteedinormatiividega on ette nähtud rangemad nõuded kui need, mida on võimalik täita parimat võimalikku tehnikat kasutades, pannakse käitajale kompleksloaga kohustus rakendada lisaabinõusid, mis tagavad normatiivide täitmise.
 
-(5) Kompleksloa sisu täpsustavad nõuded ja kompleksloa andmekoosseisu kehtestab
+(5) Kompleksloa andmekoosseisu ja andmise korra kehtestab
 
 määrusega.

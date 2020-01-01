@@ -8,8 +8,4 @@ Kompleksloa taotlusele lisatakse:
 
 3) kavandatava tehnoloogia, meetodite ja meetmete alternatiivide lühikirjeldus, kui neid alternatiive on uuritud;
 
-4) dokumendid, mis tõendavad käitise asukoha maatüki õiguspärast valdust või muud õiguslikku alust tegutseda käitise asukohas loa alusel;
-
-5) mittetehniline kokkuvõte käesoleva paragrahvi punktis 3 nimetatud andmete kohta;
-
-6) prügila puhul jäätmeseaduse § 91 lõike 1 punkti 5 kohaselt nõutavad dokumendid.
+5) mittetehniline kokkuvõte käesoleva paragrahvi punktis 3 nimetatud andmete kohta.

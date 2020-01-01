@@ -1,3 +1,5 @@
-# § 3. Haldusmenetluse seaduse kohaldamine
+# § 3. Haldusmenetluse seaduse ja keskkonnaseadustiku üldosa seaduse kohaldamine
 
-Käesolevas seaduses ettenähtud haldusmenetlusele kohaldatakse haldusmenetluse seadust käesolevas seaduses sätestatud erisustega.
+(1) Käesolevas seaduses sätestatud haldusmenetlusele kohaldatakse haldusmenetluse seadust, arvestades käesolevas seaduses sätestatud erisusi.
+
+(2) Käesolevas seaduses sätestatud keskkonnakompleksloa (edaspidi *kompleksluba*) menetlusele kohaldatakse keskkonnaseadustiku üldosa seaduse 5. peatükki, arvestades käesolevas seaduses sätestatud erisusi.

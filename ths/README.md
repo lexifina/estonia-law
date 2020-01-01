@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/115032019019> (version in force from 2019-10-01)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/121122019016> (version in force from 2020-01-01)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -10,7 +10,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/115032019019> (version in force 
 | **1. jagu Seaduse reguleerimis- ja kohaldamisala** | |
 | [§ 1](para-001.md) | Seaduse eesmärk ja reguleerimisala |
 | [§ 2](para-002.md) | Seaduse kohaldamisala |
-| [§ 3](para-003.md) | Haldusmenetluse seaduse kohaldamine |
+| [§ 3](para-003.md) | Haldusmenetluse seaduse ja keskkonnaseadustiku üldosa seaduse kohaldamine |
 | **2. jagu Terminid** | |
 | [§ 4](para-004.md) | Aine ja segu |
 | [§ 5](para-005.md) | Saastamine, saastatus, heide ja heite piirväärtus |
@@ -66,7 +66,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/115032019019> (version in force 
 | [§ 48](para-048.md) | Kompleksloa kehtivus |
 | **4. jaotis Kompleksloa läbivaatamine, muutmine, kehtivuse peatamine ning kehtetuks tunnistamine** | |
 | [§ 49](para-049.md) | Kompleksloa nõuete läbivaatamine |
-| [§ 50](para-050.md) | Kompleksloa nõuete muutmise alused |
+| [§ 50](para-050.md) | Kompleksloa muutmine |
 | [§ 51](para-051.md) | Kompleksloa muutmise menetlus |
 | [§ 52](para-052.md) | Kompleksloa lihtsustatud korras muutmine |
 | [§ 53](para-053.md) | Kompleksloa kehtivuse peatamine |
@@ -121,6 +121,8 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/115032019019> (version in force 
 | [§ 87](para-087.md) | Jäägid |
 | [§ 88](para-088.md) | Nimivõimsus |
 | **2. jagu Nõuded jäätmepõletus- ja koospõletustehase rajamisele ja käitamisele** | |
+| [§ 88¹](para-088b1.md) | Jäätmepõletus- või koospõletustehase loa taotlus |
+| [§ 88²](para-088b2.md) | Jäätmepõletus- või koospõletustehase loa sisu |
 | [§ 89](para-089.md) | Tehase rajamine |
 | [§ 90](para-090.md) | Tehase asukoha valiku kriteeriumid |
 | [§ 91](para-091.md) | Nõuded tehase käitamisele |

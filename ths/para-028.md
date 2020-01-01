@@ -1,8 +1,6 @@
 # § 28. Kompleksloa taotlus
 
-(1) Kompleksloa taotlus esitatakse loa andjale keskkonnaotsuste infosüsteemi kaudu ja see kinnitatakse digitaalallkirjaga.
-
-(2) Taotluses märgitakse, kas taotleja soovib kompleksloa andmise või andmisest keeldumise otsuse kättetoimetamist elektrooniliselt, liht- või tähtkirjaga, ning esitatakse kättetoimetamiseks vajalikud kontaktandmed.
+(1) Kompleksloa taotlus sisaldab keskkonnaseadustiku üldosa seaduse § 42 lõigetes 1 ja 3, atmosfääriõhu kaitse seaduse § 91 lõikes 2, jäätmeseaduse § 78 lõikes 1 ja veeseaduse § 190 lõikes 1 sätestatud andmeid ning lisasid.
 
 (3) Taotluse lisades peavad olema andmed, mis on loetletud käesoleva seaduse § 41 lõike 2 punktides 1–16.
 
@@ -10,6 +8,6 @@
 
 (5) Kompleksloa taotleja peab enne taotluse esitamist tasuma riigilõivu.
 
-(6) Kompleksloa taotluse ja selle lisade andmekoosseisu ning täpsustavad nõuded taotluse vormistuse ja esitamise kohta kehtestab
+(6) Kompleksloa taotluse täpsustatud nõuded ja andmekoosseisu ning taotluse esitamise korra kehtestab
 
 määrusega.

@@ -1,13 +1,7 @@
-# § 50. Kompleksloa nõuete muutmise alused
+# § 50. Kompleksloa muutmine
 
-Kompleksloa nõudeid muudetakse, kui:
+Kompleksloa nõudeid muudetakse lisaks keskkonnaseadustiku üldosa seaduse § 59 lõikes 1 sätestatule, kui:
 
-1) õigusaktides sätestatud ja kompleksloa nõuete aluseks olnud normid on muutunud;
+1) muudatused parimas võimalikus tehnikas võimaldavad liigseid kulutusi tegemata heite hulka või ohtlikkust oluliselt vähendada;
 
-2) saastatus on nii suur, et see põhjustab käitise tegevuskohas ebasoodsaid muutusi keskkonnas, mistõttu tuleb vähendada heite piirväärtusi või määrata lisapiirväärtused;
-
-3) muudatused parimas võimalikus tehnikas võimaldavad liigseid kulutusi tegemata heite hulka või ohtlikkust oluliselt vähendada;
-
-4) avariide vältimiseks tuleb kasutada muid meetmeid, kui on kompleksloaga määratud;
-
-5) käitise laadi või toimimisviisi on oluliselt muudetud või kavatsetakse oluliselt muuta.
+2) avariide vältimiseks tuleb kasutada muid meetmeid, kui on kompleksloaga määratud.

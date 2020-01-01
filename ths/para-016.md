@@ -5,5 +5,3 @@
 (2) Loa võib anda ühe või mitme samas tegevuskohas paikneva sama käitaja käitise või käitiseosa kohta.
 
 (3) Kui luba hõlmab kaht või enamat käitist, peab luba sisaldama nõudeid, et tagada kõikide käitiste tegevuse vastavus käesoleva seaduse ja muude rakendatavate õigusaktide nõuetele.
-
-(4) Kui luba hõlmab ühe käitise mitut osa, mida käitavad eri käitajad, määratakse loas selgelt eristatult iga käitaja kohustused.

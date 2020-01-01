@@ -27,5 +27,3 @@
 (5) Kui loa andja leiab kompleksloa nõuete läbivaatamise tulemusena, et kompleksloa muutmine ei ole vajalik, teeb ta selle kohta otsuse. Otsus peab sisaldama selle tegemise põhjendusi, sealhulgas enne otsuse tegemist peetud konsultatsioonide tulemusi ja selgitust, kuidas neid tulemusi arvesse võeti.
 
 (6) Käitaja on kohustatud osutama käitises loa nõudeid üle vaatavale loa andja esindajale igakülgset abi, tagama talle juurdepääsu käitise tegevuskohale ning võimaldama tal võtta proove ja koguda informatsiooni käesolevas seaduses sätestatud kohustuste täitmise kohta.
-
-(7) Käitaja tasub kompleksloa nõuete läbivaatamise eest riigilõivu.
