@@ -20,6 +20,8 @@
 
 (4) Keskkonnaloa muutmise taotluse vaatab keskkonnaloa andja läbi keskkonnaloa andmiseks sätestatud korras. Käesoleva paragrahvi lõike 1 punktis 1 sätestatud juhul muudetakse keskkonnaluba seitsme päeva jooksul taotluse saamisest arvates.
 
+(4¹) Keskkonnaloa muutmise korral kohaldatakse käesoleva seaduse § 50 lõiget 2, võttes arvesse lisaks käesolevas seaduses sätestatule muudetavat valdkonda reguleerivates õigusaktides sätestatud nõudeid.
+
 (5) Keskkonnaloa muutmine otsustatakse avatud menetluseta:
 
 1) kui keskkonnaloa muutmine ei mõjuta keskkonnariski suurust, keskkonnaloa muutmisel ei toimu keskkonnamõju hindamist ning puudub muu oluline avalik huvi avatud menetluse läbiviimiseks;

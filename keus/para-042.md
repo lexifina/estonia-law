@@ -26,8 +26,6 @@
 
 12) keskkonnaseire kava ja andmed keskkonnaseireks kasutatavate seadmete kohta;
 
-13) keskkonnaloa kättetoimetamise soovitav viis ja kättetoimetamiseks vajalikud kontaktandmed;
-
 14) taotluse esitamise kuupäev ja taotleja allkiri;
 
 15) muud seadusega või käesoleva paragrahvi lõike 7 alusel kehtestatud õigusaktiga nõutavad andmed.
@@ -48,6 +46,6 @@
 
 (6) Keskkonnaloa taotlus esitatakse ühes käitises või asukohas tehtavate tegevuste jaoks koos.
 
-(7) Keskkonnaloa taotlusele esitatavad täpsustatud nõuded ja taotluse andmekoosseisu, samuti keskkonnaloa muutmise taotluse andmekoosseisu kehtestab
+(7) Keskkonnaloa taotluse täpsustatud nõuded ja andmekoosseisu ning taotluse esitamise korra kehtestab
 
 määrusega.

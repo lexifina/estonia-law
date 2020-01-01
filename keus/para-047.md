@@ -2,7 +2,7 @@
 
 (1) Kui taotlus vastab õigusaktidega sätestatud nõuetele, avaldab keskkonnaloa andja avatud menetluse korral keskkonnaloa taotluse esitamise kohta viivitamata teate, milles märgitakse:
 
-1) millist käesoleva seaduse § 41 lõikes 1 nimetatud tegevust kavandatakse;
+1) kavandatava tegevuse lühikirjeldus;
 
 2) loa taotleja nimi;
 
@@ -16,7 +16,9 @@
 
 7) keskkonnaloa taotluse ja selle kohta antava haldusakti eelnõu väljapaneku aeg ja koht, kui loa andmise otsustamiseks ei hinnata keskkonnamõju ning haldusakti eelnõu on teate avaldamise ajaks valminud või selle valmimise aeg on teada;
 
-8) ettepanekute ja vastuväidete (edaspidi koos *seisukoht*) ning küsimuste esitamise tähtaeg ja adressaat, juhul kui teates on avaldatud teave avaliku väljapaneku aja ja koha kohta.
+8) ettepanekute ja vastuväidete (edaspidi koos *seisukoht*) ning küsimuste esitamise tähtaeg ja adressaat, juhul kui teates on avaldatud teave avaliku väljapaneku aja ja koha kohta;
+
+9) vajaduse korral teave selle kohta, kas peetakse teise riigiga konsultatsioone piiriülesest mõjust.
 
 (2) Käesoleva paragrahvi lõikes 1 nimetatud teade avaldatakse väljaandes Ametlikud Teadaanded ja kohalikus või maakondlikus ajalehes. Teate võib jätta kohalikus või maakondlikus ajalehes avaldamata, kui kavandatud tegevusega kaasnev keskkonnahäiring või keskkonnarisk on nii väike, et selle vastu puudub piisav avalik huvi. Teade avaldatakse vähemalt ühes üleriigilise levikuga ajalehes, kui keskkonnaloaga lubatud tegevusega võib kaasneda oluline regionaalne või üleriigiline keskkonnahäiring. Vajaduse korral võib teate avaldada üleriigilise levikuga ajalehes ka muudel juhtudel.
 

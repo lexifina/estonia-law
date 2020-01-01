@@ -20,7 +20,7 @@
 
 5) andmed selle kohta, kus saab keskkonnaloa või sellest keeldumise otsusega ja otsuse aluseks olnud andmetega tutvuda.
 
-(5) Keskkonnaluba või keskkonnaloa andmisest keeldumise otsus avalikustatakse loa andja veebilehel.
+(5) Keskkonnaluba või keskkonnaloa andmisest keeldumise otsus avalikustatakse keskkonnaotsuste infosüsteemis.
 
 (6) Keskkonnaluba tehakse teatavaks kohaliku omavalitsuse üksusele.
 

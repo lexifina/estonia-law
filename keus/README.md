@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/122022019017> (version in force from 2019-10-01)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/121122019002> (version in force from 2020-01-01)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -70,7 +70,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/122022019017> (version in force 
 | [§ 48](para-048.md) | Keskkonnaloa taotluse ja selle kohta antava haldusakti eelnõu avalik väljapanek avatud menetluse korral |
 | [§ 48¹](para-048b1.md) | Avalik arutelu ja avatud menetluse tulemuste arvesse võtmine |
 | [§ 49](para-049.md) | Keskkonnaloa andmise otsustamise tähtaeg |
-| [§ 50](para-050.md) | Keskkonnaloa taotluste ühine läbivaatamine |
+| [§ 50](para-050.md) | Keskkonnaloa taotluste ühine läbivaatamine ja ühe keskkonnaloa andmine |
 | [§ 51](para-051.md) | Keskkonnaloa andmiseks olulise asjaolu tuvastamine enne loa andmist |
 | [§ 52](para-052.md) | Keskkonnaloa andmisest keeldumine |
 | [§ 53](para-053.md) | Keskkonnaloa sisu |
@@ -80,7 +80,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/122022019017> (version in force 
 | [§ 57](para-057.md) | Keskkonnaloa andmine enne loa tingimuste lõplikku määramist |
 | [§ 58](para-058.md) | Keskkonnaloa teatavakstegemine |
 | [§ 59](para-059.md) | Keskkonnaloa muutmine |
-| [§ 60](para-060.md) | Keskkonnaloas loa omaja andmete muutmine |
+| [§ 60](para-060.md) | Keskkonnaloa üleandmine |
 | [§ 61](para-061.md) | Keskkonnaloa kehtivuse peatamine |
 | [§ 62](para-062.md) | Keskkonnaloa kehtetuks tunnistamine |
 | **5¹. peatükk Riiklik ja haldusjärelevalve** | |
@@ -95,4 +95,5 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/122022019017> (version in force 
 | [§ 62⁸](para-062b8.md) | Trahvi laekumine |
 | **6. peatükk Rakendussätted** | |
 | [§ 62⁹](para-062b9.md) | Andmete üleviimine keskkonnaotsuste infosüsteemi |
+| [§ 62¹⁰](para-062b10.md) | Varem kehtinud lubade vormistamine keskkonnaloana |
 | [§ 63](para-063.md) | Seaduse jõustumine |
