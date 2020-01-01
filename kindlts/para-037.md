@@ -28,6 +28,6 @@
 
 (6) Teise lepinguriigi kindlustusandja esitab filiaali äriregistrisse kandmiseks Finantsinspektsiooni kinnituse käesoleva paragrahvi lõikes 1 nimetatud andmete ja dokumentide saamise kohta.
 
-(7) Käesolevas paragrahvis nimetatud andmed ja dokumendid peab lepinguriigi finantsjärelevalve asutus esitama Finantsinspektsiooni nõudmisel koos vandetõlgi tehtud või notari kinnitatud eestikeelse tõlkega.
+(7) Käesolevas paragrahvis nimetatud andmed ja dokumendid peab lepinguriigi finantsjärelevalve asutus esitama Finantsinspektsiooni nõudmisel koos vandetõlgi tehtud eestikeelse tõlkega.
 
 (8) Käesoleva paragrahvi lõikeid 3 ja 4 ei kohaldata teise lepinguriigi edasikindlustusandja suhtes, kes võib Eestis filiaali asutada, kui ta on saanud oma asukohariigi finantsjärelevalve asutuselt lõikes 1 nimetatud andmete ja dokumentide Finantsinspektsioonile edastamise teate.

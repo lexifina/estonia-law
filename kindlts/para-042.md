@@ -50,4 +50,4 @@
 
 (9) Finantsinspektsioonil on õigus tunnistada piiriülese kindlustustegevuse luba täielikult või osaliselt kehtetuks ka juhul, kui seda taotleb kindlustusandja. Finantsinspektsioon ei tunnista piiriülese kindlustustegevuse luba kehtetuks, kui kindlustusvõtjatel, kindlustatutel või soodustatud isikutel on nõudeid kindlustusandja vastu või kui piiriülese kindlustustegevuse loa kehtetuks tunnistamine kahjustaks kindlustusvõtjate, kindlustatute või soodustatud isikute huve.
 
-(10) Kõik käesolevas paragrahvis nimetatud andmed ja dokumendid peab kolmanda riigi kindlustusandja esitama Finantsinspektsiooni nõudmisel koos vandetõlgi tehtud või notari kinnitatud eestikeelse tõlkega.
+(10) Kõik käesolevas paragrahvis nimetatud andmed ja dokumendid peab kolmanda riigi kindlustusandja esitama Finantsinspektsiooni nõudmisel koos vandetõlgi tehtud eestikeelse tõlkega.

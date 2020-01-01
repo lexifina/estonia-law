@@ -20,6 +20,6 @@
 
 (5) Käesoleva paragrahvi lõigetes 1 ja 2 nimetatud andmete muutumisest ja dokumentide muutmisest teavitab lepinguriigi finantsjärelevalve asutus Finantsinspektsiooni.
 
-(6) Käesolevas paragrahvis nimetatud andmed ja dokumendid peab lepinguriigi finantsjärelevalve asutus esitama Finantsinspektsiooni nõudmisel koos vandetõlgi tehtud või notari kinnitatud eestikeelse tõlkega.
+(6) Käesolevas paragrahvis nimetatud andmed ja dokumendid peab lepinguriigi finantsjärelevalve asutus esitama Finantsinspektsiooni nõudmisel koos vandetõlgi tehtud eestikeelse tõlkega.
 
 (7) Kui lepinguriigi kindlustusandjad kavatsevad Eestis tegeleda käesoleva seaduse §-s 51 nimetatud Euroopa Majanduspiirkonna kaaskindlustusega, on käesolevas paragrahvis sätestatud lepinguriigi finantsjärelevalve asutuse kaudu Finantsinspektsiooni teavitamise ja andmete esitamise kohustus üksnes juhtival kindlustusandjal.

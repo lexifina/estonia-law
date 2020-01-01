@@ -24,4 +24,4 @@
 
 (9) Kui teise lepinguriigi finantsjärelevalve asutus teostab kindlustusandja või vahendaja Eestis asuva filiaali kohapealset kontrolli, on Finantsinspektsioonil õigus nimetatud kontrollis osaleda. Kui teise lepinguriigi finantsjärelevalve asutus ei võimalda Finantsinspektsioonil kindlustusandja Eestis asuva filiaali kohapealses kontrollis osaleda, on Finantsinspektsioonil õigus pöörduda Euroopa Kindlustus- ja Tööandjapensionide Järelevalve Asutuse poole vastavalt Euroopa Parlamendi ja nõukogu määruse (EL) nr 1094/2010 artiklile 19.
 
-(10) Välisriigi kindlustusandja ja vahendaja Eestis asuv filiaal, samuti välisriigi kindlustusandja ja vahendaja, kes tegelevad Eestis piiriülese kindlustustegevuse või kindlustuse turustamisega, esitavad Finantsinspektsiooni nõudmisel andmed ja dokumendid koos vandetõlgi tehtud või notari kinnitatud eestikeelse tõlkega.
+(10) Välisriigi kindlustusandja ja vahendaja Eestis asuv filiaal, samuti välisriigi kindlustusandja ja vahendaja, kes tegelevad Eestis piiriülese kindlustustegevuse või kindlustuse turustamisega, esitavad Finantsinspektsiooni nõudmisel andmed ja dokumendid koos vandetõlgi tehtud eestikeelse tõlkega.

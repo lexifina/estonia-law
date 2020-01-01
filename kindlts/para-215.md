@@ -52,4 +52,4 @@
 
 (10) Finantsinspektsioon võib keelduda vahendaja taotlusel piiriülese vahenduse loa kehtetuks tunnistamisest, kui klientidel on nõudeid vahendaja vastu või piiriülese vahenduse loa kehtetuks tunnistamine kahjustaks klientide huve.
 
-(11) Kõik käesolevas paragrahvis nimetatud võõrkeelsed andmed ja dokumendid esitab kolmanda riigi vahendaja koos vandetõlgi tehtud või notari kinnitatud eestikeelse tõlkega.
+(11) Kõik käesolevas paragrahvis nimetatud võõrkeelsed andmed ja dokumendid esitab kolmanda riigi vahendaja koos vandetõlgi tehtud eestikeelse tõlkega.

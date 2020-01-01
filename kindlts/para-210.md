@@ -22,6 +22,6 @@
 
 2) kinnitus, et tal on päritoluriigis õigus vahendustegevuseks ning tema tegevus on korrektne ja kooskõlas avaliku huviga.
 
-(3) Käesolevas paragrahvis nimetatud võõrkeelsed andmed ja dokumendid esitab kolmanda riigi äriühingust vahendaja koos vandetõlgi tehtud või notari kinnitatud eestikeelse tõlkega.
+(3) Käesolevas paragrahvis nimetatud võõrkeelsed andmed ja dokumendid esitab kolmanda riigi äriühingust vahendaja koos vandetõlgi tehtud eestikeelse tõlkega.
 
 (4) Käesoleva paragrahvi lõike 1 punktides 1–4, 6 ja 7 nimetatud andmete muutumisest ja dokumentide muutmisest teavitab kolmanda riigi äriühingust vahendaja Finantsinspektsiooni vähemalt üks kuu ette.

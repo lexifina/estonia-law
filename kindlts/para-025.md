@@ -12,7 +12,7 @@
 
 5) kui asutatava filiaali kavandatav kindlustustegevus näeb ette kohustusliku liikluskindlustuse lepingute sõlmimist, siis kinnitus, et kindlustusandja on saanud filiaali asukoha lepinguriigi Euroopa Parlamendi ja nõukogu direktiivi 2009/103/EÜ artikli 1 punktis 3 nimetatud liikluskindlustuse lepinguriigi büroo ja garantiifondi liikmeks.
 
-(2) Käesoleva paragrahvi lõike 1 punktides 3–5 nimetatud andmed ja dokumendid, filiaali struktuuri üksikasjalik kirjeldus ning kavandatavate kindlustustegevuse liikide ja alaliikide loetelu esitatakse koos vandetõlgi tehtud või notari kinnitatud tõlkega Finantsinspektsiooni ja filiaali asukoha lepinguriigi finantsjärelevalve asutuse vaheliseks suhtlemiseks sobivasse keelde.
+(2) Käesoleva paragrahvi lõike 1 punktides 3–5 nimetatud andmed ja dokumendid, filiaali struktuuri üksikasjalik kirjeldus ning kavandatavate kindlustustegevuse liikide ja alaliikide loetelu esitatakse koos vandetõlgi tehtud tõlkega Finantsinspektsiooni ja filiaali asukoha lepinguriigi finantsjärelevalve asutuse vaheliseks suhtlemiseks sobivasse keelde.
 
 (3) Finantsinspektsioon võib kindlustusandjalt määratud tähtpäevaks nõuda käesoleva paragrahvi lõikes 1 nimetatud andmete täpsustamiseks ja kontrollimiseks lisaandmeid ja -dokumente.
 

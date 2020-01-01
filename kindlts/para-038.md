@@ -36,4 +36,4 @@
 
 3) andmed omavahendite suuruse ja taseme, kindlustusandja maksejõulisuse, tehniliste eraldiste arvutuspõhimõtete ja -metoodika ning päritoluriigis kehtivate kattevara nõuete kohta.
 
-(5) Käesolevas paragrahvis nimetatud andmed ja dokumendid peab kolmanda riigi kindlustusandja esitama Finantsinspektsiooni nõudmisel koos vandetõlgi tehtud või notari kinnitatud eestikeelse tõlkega.
+(5) Käesolevas paragrahvis nimetatud andmed ja dokumendid peab kolmanda riigi kindlustusandja esitama Finantsinspektsiooni nõudmisel koos vandetõlgi tehtud eestikeelse tõlkega.
