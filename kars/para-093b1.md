@@ -1,6 +1,6 @@
-# § 93¹. Rahvusvahelise sanktsiooni rakendamata jätmine
+# § 93¹. Rahvusvahelise sanktsiooni ja Vabariigi Valitsuse sanktsiooni rikkumine
 
-(1) Teadvalt rahvusvahelise sanktsiooni subjektiga tehingu või toimingu tegemise eest või muu rahvusvahelise sanktsiooni teadva rakendamata jätmise eest –
+(1) Rahvusvahelist sanktsiooni rakendavas või Vabariigi Valitsuse sanktsiooni kehtestavas õigusaktis sätestatud kohustuse täitmata jätmise või keelu rikkumise eest –
 
 karistatakse rahalise karistuse või kuni viieaastase vangistusega.
 
@@ -8,4 +8,4 @@ karistatakse rahalise karistuse või kuni viieaastase vangistusega.
 
 karistatakse rahalise karistusega.
 
-(3) Kohus konfiskeerib käesolevas paragrahvis sätestatud süüteo toimepanemise vahetuks objektiks olnud eseme.
+(3) Kohus võib kohaldada käesolevas paragrahvis sätestatud süüteo toimepanemise vahetuks objektiks olnud aine või eseme konfiskeerimist vastavalt käesoleva seadustiku §-s 83 sätestatule.

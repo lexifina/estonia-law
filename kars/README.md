@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/120122019004> (version in force from 2019-12-30)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/120122019005> (version in force from 2020-01-01)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -143,7 +143,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/120122019004> (version in force 
 | [§ 91](para-091.md) | Agressioonikuritegu |
 | [§ 92](para-092.md) | Sõjapropaganda |
 | [§ 93](para-093.md) | Keelatud relvade väljatöötamine ja käitlemine |
-| [§ 93¹](para-093b1.md) | Rahvusvahelise sanktsiooni rakendamata jätmine |
+| [§ 93¹](para-093b1.md) | Rahvusvahelise sanktsiooni ja Vabariigi Valitsuse sanktsiooni rikkumine |
 | **4. jagu Sõjasüüteod** | |
 | [§ 94](para-094.md) | Karistamine käesolevas jaos sätestamata süüteo eest |
 | [§ 95](para-095.md) | Tsiviilelanikkonna vastu suunatud sõjategevus |
