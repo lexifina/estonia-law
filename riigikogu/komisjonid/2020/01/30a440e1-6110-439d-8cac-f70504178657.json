@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung esmaspäev, 13.01.2020 kell 11.00",
+  "sitting_time": "2020-01-13T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a294c922-8201-40e8-95e2-eab97cb1d7c5"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade Riigikantselei töörühma tegevusest riigi merelise ressursi arenguperspektiivide analüüsimiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "620729e5-1d75-4f07-8729-2fd8dbf0cf4d"
+    },
+    {
+      "order": 3,
+      "title": "Ülevaade olukorrast Lähis-Idas",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "92542e52-d482-4184-9c00-779a29b1286c"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "76de5420-e393-469c-950f-82421faf9159"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RIKK protokoll 13.01.2020",
+      "uuid": "50411ef4-b6f1-4f3b-b26b-60abfcfd755b",
+      "files": [
+        "Protokoll.pdf",
+        "RIKK_protokoll_13.01.2020.asice"
+      ]
+    }
+  ],
+  "uuid": "30a440e1-6110-439d-8cac-f70504178657",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 30a440e1-6110-439d-8cac-f70504178657)",
+  "source": "https://api.riigikogu.ee/api/volumes/30a440e1-6110-439d-8cac-f70504178657",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-01-01&endDate=2020-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
