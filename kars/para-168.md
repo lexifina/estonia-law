@@ -1,6 +1,6 @@
 # § 168. Ebaseaduslik agitatsioon
 
-(1) Ebaseadusliku agitatsiooni või ebaseadusliku poliitilise välireklaami tellimise või avalikustamise eest –
+(1) Ebaseadusliku agitatsiooni eest –
 
 karistatakse rahatrahviga kuni 100 trahviühikut.
 
