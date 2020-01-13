@@ -16,7 +16,7 @@
 
 - 5. jagu Puhkuse erisus
 
-- 6. jagu Laevapere liikme kojusõit
+- 6. jagu Laevapere liikme kojusõit ja tagatis tema hülgamise korral
 
 - 7. jagu Laevapere liikme kaebus
 

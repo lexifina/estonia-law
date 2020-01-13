@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/128122017040> (version in force from 2019-01-01)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/103012020006> (version in force from 2020-01-13)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -51,6 +51,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/128122017040> (version in force 
 | [§ 37](para-037.md) | Reederi vastutus tööõnnetusest ja kutsehaigestumisest põhjustatud tervisekahjustuse korral |
 | [§ 38](para-038.md) | Reederi ja kapteni kohustused laevapere liikme surma korral |
 | [§ 39](para-039.md) | Laevapere liikme surmaga kaasnevad kulud |
+| [§ 39¹](para-039b1.md) | Kutsehaigestumisest ja tööõnnetusest põhjustatud tervisekahjustuse ja surmaga seotud lepinguliste nõuete hüvitamise tagatis |
 | **4. jagu Töö- ja puhkeaja erisus** | |
 | [§ 40](para-040.md) | Töö tegemise aja piirangu erisus |
 | [§ 41](para-041.md) | Öötöö hüvitamise erisus |
@@ -68,7 +69,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/128122017040> (version in force 
 | [§ 52](para-052.md) | Kojusõidu korraldamine puhkuse andmisel |
 | [§ 53](para-053.md) | Laevapere liikme õigus puhkusele pärast kuuekuulist katkestuseta töötamist |
 | [§ 54](para-054.md) | Puhkuste ajakava erisus |
-| **6. jagu Laevapere liikme kojusõit** | |
+| **6. jagu Laevapere liikme kojusõit ja tagatis tema hülgamise korral** | |
 | [§ 55](para-055.md) | Laevapere liikme kojusõidu korraldamise kohustus |
 | [§ 56](para-056.md) | Kojusõidu sihtkoht |
 | [§ 57](para-057.md) | Kojusõidu transport |
@@ -76,6 +77,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/128122017040> (version in force 
 | [§ 59](para-059.md) | Tagatis kojusõidu korraldamise kulude hüvitamiseks |
 | [§ 60](para-060.md) | Riigi õigused ja kohustused laevapere liikme kojusõidu korraldamisel |
 | [§ 61](para-061.md) | Laevalt mahajäämine |
+| [§ 61¹](para-061b1.md) | Tagatis laevapere liikme hülgamise korral |
 | **7. jagu Laevapere liikme kaebus** | |
 | [§ 62](para-062.md) | Laevapere liikme kaebuse menetlemine laeval |
 | **8. jagu Laevapere liikme töö- ja elamistingimuste vastavus nõuetele** | |
@@ -113,6 +115,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/128122017040> (version in force 
 | [§ 80](para-080.md) | Menetlus |
 | **8. peatükk Rakendussätted** | |
 | [§ 80¹](para-080b1.md) | Lepingulise kohustuse üleminek |
+| [§ 80²](para-080b2.md) | Üleminek alla 24 meetri pikkusel kalalaeval töölepingult meretöölepingule |
 | [§ 81](para-081.md) |  |
 | [§ 84](para-084.md) |  |
 | [§ 85](para-085.md) | Seaduse jõustumine |
