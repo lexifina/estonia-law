@@ -1,0 +1,53 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung esmaspäev, 13.01.2020 kell 13.30",
+  "sitting_time": "2020-01-13T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6b99371f-d066-47b1-8e03-3db342706787"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade Euroopa Komisjoni rohelise kokkuleppe ettepanekust",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "80386b94-9ada-4010-9422-f20a22b2341b"
+    },
+    {
+      "order": 3,
+      "title": "Ülevaade Eesti seisukohtadest 10. jaanuaril 2020 toimunud erakorralisel Euroopa Liidu välisasjade nõukogu istungil",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "328d2a7d-4c70-4557-a6b5-77fb387d06d6"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e09a0af5-8603-481e-8d61-08e75c739408"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ELAK protokoll 13.01.2020",
+      "uuid": "06a37bef-3077-4081-a339-6cdb8193da40",
+      "files": [
+        "13.01 Asendusliige Ruuben Kaalep.pdf",
+        "ELAK protokoll 13.01.2020.pdf",
+        "ELAK_protokoll_13.01.2020.asice"
+      ]
+    }
+  ],
+  "uuid": "c0f438e7-a71c-4a5e-a066-368c99bb5bfc",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c0f438e7-a71c-4a5e-a066-368c99bb5bfc)",
+  "source": "https://api.riigikogu.ee/api/volumes/c0f438e7-a71c-4a5e-a066-368c99bb5bfc",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-01-01&endDate=2020-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
