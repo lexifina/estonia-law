@@ -1,7 +1,7 @@
 # § 5. Agitatsiooni piirang
 
-(1) Aktiivse valimisagitatsiooni ajaks loetakse aega alates kandidaatide registreerimise viimasest päevast.
+(1) [Kehtetu]
 
-(2) Aktiivne valimisagitatsioon on valimispäeval keelatud.
+(2) [Kehtetu]
 
-(3) Hääletamisruumis ja ruumides, mille kaudu valija siseneb hääletamisruumi, on valimisagitatsioon keelatud.
+(3) Hääletamisruumis on valimisagitatsioon keelatud.
