@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 14.01.2020 kell 14.00",
+  "sitting_time": "2020-01-14T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Arvamuse andmine keskkonnakomisjonile: kollektiivse pöördumise „Kliimaneutraalne Eesti aastaks 2035“ kohta",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2130016b-18e8-4a27-81a6-7f960b32e0d8"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a75057ef-54aa-4ede-8fcb-7742cdd5bb63"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 14.01.2020",
+      "uuid": "7c9713bf-474e-4edb-a9f0-d288e09c1c31",
+      "files": [
+        "MAEK_protokoll_14.01.2020.asice",
+        "035 protokoll 14.01.2020.pdf",
+        "035 protokolli lisa Kliimaneutraalsus.pdf"
+      ]
+    }
+  ],
+  "uuid": "3ee74e20-d002-487c-abaf-741009a1ba6d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3ee74e20-d002-487c-abaf-741009a1ba6d)",
+  "source": "https://api.riigikogu.ee/api/volumes/3ee74e20-d002-487c-abaf-741009a1ba6d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-01-01&endDate=2020-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
