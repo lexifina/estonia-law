@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Korruptsioonivastane erikomisjon",
+  "committee_uuid": "e4f2977a-e8c3-4fa0-8f3d-9df9acd6377f",
+  "title": "Komisjoni istung neljapäev, 16.01.2020 kell 9.00",
+  "sitting_time": "2020-01-16T09:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2b430a59-48bc-4681-b6e0-04960ac3c05f"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine Majandus- ja Kommunikatsiooniministeeriumi side ja riigi infosüsteemide asekantsler Siim Sikkutiga",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "28278908-0f08-463d-9c71-dbf6b5b35116"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "618cf85e-ac8a-4f57-a8bb-bd6e637a4bfc"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KVEK protokoll 16.01.2020",
+      "uuid": "1c5049e0-741a-4451-b998-150af79a8d1c",
+      "files": [
+        "KVEK protokoll 16.01.2020.pdf",
+        "KVEK_protokoll_16.01.2020.asice"
+      ]
+    }
+  ],
+  "uuid": "5ee3346b-76d4-4138-8a43-fe5996701b3d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 5ee3346b-76d4-4138-8a43-fe5996701b3d)",
+  "source": "https://api.riigikogu.ee/api/volumes/5ee3346b-76d4-4138-8a43-fe5996701b3d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-01-01&endDate=2020-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
