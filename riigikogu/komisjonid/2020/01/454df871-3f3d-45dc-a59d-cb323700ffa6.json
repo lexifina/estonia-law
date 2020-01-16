@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung neljapäev, 16.01.2020 kell 13.00",
+  "sitting_time": "2020-01-16T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 20. jaanuaril 2020 Brüsselis toimuval Euroopa Liidu välisasjade nõukogu istungil",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a72e0dba-4469-47a1-8cfa-eaeee12d8898"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d7b52750-f05f-4860-a90b-beda8e0caac9"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 16.01.2020",
+      "uuid": "a4764791-ed27-4992-ac9c-8e6c5b76f685",
+      "files": [
+        "VÄLK_protokoll_16.01.2020.asice",
+        "VÄLK_protokoll_20200116.pdf",
+        "Seletuskiri (12) (1).pdf"
+      ]
+    }
+  ],
+  "uuid": "454df871-3f3d-45dc-a59d-cb323700ffa6",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 454df871-3f3d-45dc-a59d-cb323700ffa6)",
+  "source": "https://api.riigikogu.ee/api/volumes/454df871-3f3d-45dc-a59d-cb323700ffa6",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-01-01&endDate=2020-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
