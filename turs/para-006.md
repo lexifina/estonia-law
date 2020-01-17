@@ -12,4 +12,6 @@ Reisiettevõtja tegevusalad liigitatakse järgmiselt:
 
 5) Euroopa Majanduspiirkonna välise riigi reisiettevõtja koostatud pakettreiside vahendamine;
 
-6) seotud reisikorraldusteenuste pakkumine ja lepingute sõlmimise hõlbustamine.
+6) Eestis ja väljaspool Eestit või üksnes väljaspool Eestit osutatavaid reisiteenuseid sisaldavate seotud reisikorraldusteenuste pakkumine ja lepingute sõlmimise hõlbustamine;
+
+7) Eestis osutatavaid reisiteenuseid sisaldavate seotud reisikorraldusteenuste pakkumine ja lepingute sõlmimise hõlbustamine.
