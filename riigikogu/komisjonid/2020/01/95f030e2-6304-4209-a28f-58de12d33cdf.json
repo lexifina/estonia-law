@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung esmaspäev, 20.01.2020 kell 11.10",
+  "sitting_time": "2020-01-20T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1886eabf-54cb-40b9-a48b-fbf24a66535e"
+    },
+    {
+      "order": 2,
+      "title": "Spordiseaduse muutmise ja sellega seonduvalt teiste seaduste muutmise seaduse eelnõu (105 SE I) ettevalmistamine teiseks lugemiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ecbfa2b0-1984-409d-ab93-6b4eb74b93ec"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KULK protokoll 20.01.2020",
+      "uuid": "6adb8f30-b584-4a40-af45-e5bf15b45935",
+      "files": [
+        "Protokoll nr 35 (20.01.2020).pdf",
+        "KULK_protokoll_20.01.2020.asice"
+      ]
+    }
+  ],
+  "uuid": "95f030e2-6304-4209-a28f-58de12d33cdf",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 95f030e2-6304-4209-a28f-58de12d33cdf)",
+  "source": "https://api.riigikogu.ee/api/volumes/95f030e2-6304-4209-a28f-58de12d33cdf",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-01-01&endDate=2020-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
