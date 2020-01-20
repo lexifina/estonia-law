@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 20.01.2020 kell 13.15",
+  "sitting_time": "2020-01-20T13:16:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "827d9647-2c73-4df8-bff8-048183400b82"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli kontrolliaruande „Omavalitsuste kogutud hoolekandeandmete kasutamine“ arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fda86442-4467-400a-b9a1-0388a36a7292"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1a72e64d-951d-494a-83bf-73006be6e97a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 20.01.2020",
+      "uuid": "49810893-5df6-4252-adbf-444dd826e20e",
+      "files": [
+        "REKK_protokoll_20.01.2020.asice",
+        "Protokoll_nr_18._20.01.2020.pdf"
+      ]
+    }
+  ],
+  "uuid": "0216faac-e522-467a-92e8-6bdcefd59629",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0216faac-e522-467a-92e8-6bdcefd59629)",
+  "source": "https://api.riigikogu.ee/api/volumes/0216faac-e522-467a-92e8-6bdcefd59629",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-01-01&endDate=2020-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
