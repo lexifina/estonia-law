@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni väljasõiduistung Sotsiaalministeeriumisse esmaspäev, 20.01.2020 kell 11.10",
+  "sitting_time": "2020-01-20T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a0551302-cd4c-41e8-a8fd-88a14991552e"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade Sotsiaalministeeriumi töökavadest ja tegevusplaanidest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a219ec77-5198-4d3f-b41e-76936380ee6b"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3edf7af0-b8be-42f9-9c91-338603024289"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "SOTK protokoll 20.01.2020",
+      "uuid": "8e46fbc1-860d-4371-bb51-af33eab869cc",
+      "files": [
+        "SOTK_protokoll_20.01.2020.asice",
+        "Protokoll.pdf",
+        "Lisa 1.pdf"
+      ]
+    }
+  ],
+  "uuid": "b22da137-135a-4f4a-88b3-a1e21c4aa064",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b22da137-135a-4f4a-88b3-a1e21c4aa064)",
+  "source": "https://api.riigikogu.ee/api/volumes/b22da137-135a-4f4a-88b3-a1e21c4aa064",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-01-01&endDate=2020-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
