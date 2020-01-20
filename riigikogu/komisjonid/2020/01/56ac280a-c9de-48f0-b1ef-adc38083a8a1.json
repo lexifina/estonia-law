@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung esmaspäev, 20.01.2020 kell 11.15",
+  "sitting_time": "2020-01-20T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a44d6e7e-cbcf-4881-a202-12455310851e"
+    },
+    {
+      "order": 2,
+      "title": "Äriseadustiku muutmise seadus (osa võõrandamine) (117 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6c215575-5fd4-48e3-b250-8a34fd9a8163"
+    },
+    {
+      "order": 3,
+      "title": "Äriseadustiku, tõestamisseaduse ja notari tasu seaduse muutmise seaduse eelnõu (101 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "adea75a1-08a5-4aef-9f29-341d47d13930"
+    },
+    {
+      "order": 4,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a915fe5c-e3f2-4fbc-8c50-f070c92462d4"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ÕIGK protokoll 20.01.2020",
+      "uuid": "dd33c687-0bda-477b-b7cf-3cf2427c48a5",
+      "files": [
+        "ÕIGK_protokoll_20.01.2020.asice",
+        "ÕIGK.protokoll.2020.01.20.pdf"
+      ]
+    }
+  ],
+  "uuid": "56ac280a-c9de-48f0-b1ef-adc38083a8a1",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 56ac280a-c9de-48f0-b1ef-adc38083a8a1)",
+  "source": "https://api.riigikogu.ee/api/volumes/56ac280a-c9de-48f0-b1ef-adc38083a8a1",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-01-01&endDate=2020-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
