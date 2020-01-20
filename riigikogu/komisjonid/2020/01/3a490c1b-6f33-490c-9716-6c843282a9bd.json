@@ -1,0 +1,53 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 20.01.2020 kell 11.10",
+  "sitting_time": "2020-01-20T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fcdfa1b4-962e-42d3-a619-4bc2fcc7cc41"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine loomakaitseorganisatsiooni Nähtamatud Loomad esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "17664040-cc02-40d5-92bb-d978426f8f00"
+    },
+    {
+      "order": 3,
+      "title": "Kalapüügiseaduse muutmise seaduse eelnõu võimalik algatamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "71a52bb9-c031-4092-8b2b-83c9e2c01a6a"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fbe4c8da-7520-4056-b23d-a8542453d66b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 20.01.2020",
+      "uuid": "5c2dc20a-8eae-4348-8bf4-1d10abca9b80",
+      "files": [
+        "036 protokoll 20.01.2020.pdf",
+        "036 protokolli lisa Nähtamatud Loomad.pdf",
+        "MAEK_protokoll_20.01.2020.asice"
+      ]
+    }
+  ],
+  "uuid": "3a490c1b-6f33-490c-9716-6c843282a9bd",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3a490c1b-6f33-490c-9716-6c843282a9bd)",
+  "source": "https://api.riigikogu.ee/api/volumes/3a490c1b-6f33-490c-9716-6c843282a9bd",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-01-01&endDate=2020-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
