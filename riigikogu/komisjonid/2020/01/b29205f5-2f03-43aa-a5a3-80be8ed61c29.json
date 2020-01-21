@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung teisipäev, 21.01.2020 kell 14.00",
+  "sitting_time": "2020-01-21T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Parlamentaarne kuulamine suure abivajadustega laste abistamise rakendumisest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ff7942b8-29ca-4895-a381-f96e21cbcda1"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1a009b42-7cbb-43a3-80d7-f8711991249a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "SOTK protokoll 21.01.2020",
+      "uuid": "4c7ef33a-65d8-42ba-b8b3-e20526094145",
+      "files": [
+        "Protokoll.pdf",
+        "SOTK_protokoll_21.01.2020.asice",
+        "Lisa 1.pdf"
+      ]
+    }
+  ],
+  "uuid": "b29205f5-2f03-43aa-a5a3-80be8ed61c29",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b29205f5-2f03-43aa-a5a3-80be8ed61c29)",
+  "source": "https://api.riigikogu.ee/api/volumes/b29205f5-2f03-43aa-a5a3-80be8ed61c29",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-01-01&endDate=2020-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
