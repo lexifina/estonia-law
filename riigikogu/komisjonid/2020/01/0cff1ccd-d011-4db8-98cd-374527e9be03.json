@@ -1,0 +1,53 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung teisipäev, 21.01.2020 kell 12.15",
+  "sitting_time": "2020-01-21T12:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "27a45724-8e62-49ff-a905-9ca1da572a16"
+    },
+    {
+      "order": 2,
+      "title": "Kodakondsuse seaduse muutmise seaduse eelnõu (58 SE II) kolmanda lugemise arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "aafbfef8-2b5e-4bf1-a340-38e5f41f412a"
+    },
+    {
+      "order": 3,
+      "title": "Riigikogu kodu- ja töökorra seaduse muutmise seaduse eelnõu (36 SE I) teise lugemise arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8382c550-c257-4aa7-8b29-2254af15e56d"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7fe46e37-37ef-4074-b3c5-38e71cd7cfc0"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "PÕSK protokoll 21.01.2020",
+      "uuid": "87f1fb84-0b99-4dbc-82aa-278ba405bb22",
+      "files": [
+        "PÕSK.protokoll.21.01.2020.pdf",
+        "PÕSK_protokoll_21.01.2020.asice",
+        "Volitus.21.01.2020.Oudekki Loone asendusliige.pdf"
+      ]
+    }
+  ],
+  "uuid": "0cff1ccd-d011-4db8-98cd-374527e9be03",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0cff1ccd-d011-4db8-98cd-374527e9be03)",
+  "source": "https://api.riigikogu.ee/api/volumes/0cff1ccd-d011-4db8-98cd-374527e9be03",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-01-01&endDate=2020-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
