@@ -1,0 +1,34 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung teisipäev, 21.01.2020 kell 14.00",
+  "sitting_time": "2020-01-21T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade julgeolekuolukorra arengutest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5098ca7f-0b32-44ae-82c5-d59ba82bcc52"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RIKK protokoll 21.01.2020",
+      "uuid": "08bde3d9-6b43-46a3-96bc-92e1de6963d2",
+      "files": [
+        "Protokoll.pdf",
+        "RIKK_protokoll_21.01.2020.asice"
+      ]
+    }
+  ],
+  "uuid": "9c7b7f02-7e4a-4d66-ab7e-d403e55c78a0",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9c7b7f02-7e4a-4d66-ab7e-d403e55c78a0)",
+  "source": "https://api.riigikogu.ee/api/volumes/9c7b7f02-7e4a-4d66-ab7e-d403e55c78a0",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-01-01&endDate=2020-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
