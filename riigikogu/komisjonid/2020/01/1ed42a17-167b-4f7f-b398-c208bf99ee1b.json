@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung teisipäev, 21.01.2020 kell 12.00",
+  "sitting_time": "2020-01-21T12:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Tutvumine Keskkonnaagentuuri tegevusega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d9b54f02-2501-48e5-8f51-53d0dee9ea78"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "621ad992-3ce7-41fc-81b1-f2e2fa39de0f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK protokoll 21.01.2020",
+      "uuid": "f5ff5c68-c5bc-471e-a0ce-f0e4331d187e",
+      "files": [
+        "KEKK_protokoll_21.01.2020.asice",
+        "KEKK protokoll 21.01.2020.pdf"
+      ]
+    }
+  ],
+  "uuid": "1ed42a17-167b-4f7f-b398-c208bf99ee1b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 1ed42a17-167b-4f7f-b398-c208bf99ee1b)",
+  "source": "https://api.riigikogu.ee/api/volumes/1ed42a17-167b-4f7f-b398-c208bf99ee1b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-01-01&endDate=2020-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
