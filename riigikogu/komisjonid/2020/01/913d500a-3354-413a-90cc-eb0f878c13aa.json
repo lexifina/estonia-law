@@ -1,0 +1,34 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni erakorraline istung kolmapäev, 22.01.2020",
+  "sitting_time": "2020-01-22T14:00:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikaitseseaduse eelnõu (112 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bdd9800e-ff3e-4b8a-925f-910d5d72d542"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RIKK protokoll 22.01.2020",
+      "uuid": "a7e52a87-180b-4765-a9e6-4283bb6c7bb4",
+      "files": [
+        "RIKK_protokoll_22.01.2020.asice",
+        "Protokoll.pdf"
+      ]
+    }
+  ],
+  "uuid": "913d500a-3354-413a-90cc-eb0f878c13aa",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 913d500a-3354-413a-90cc-eb0f878c13aa)",
+  "source": "https://api.riigikogu.ee/api/volumes/913d500a-3354-413a-90cc-eb0f878c13aa",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-01-01&endDate=2020-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
