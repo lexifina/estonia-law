@@ -1,0 +1,55 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung neljapäev, 23.01.2020 kell 11.30",
+  "sitting_time": "2020-01-23T11:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade OSCE Parlamentaarse Assamblee Eesti delegatsiooni tegevusest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e33a79e8-b6b0-43c4-86f4-6aab9752e98c"
+    },
+    {
+      "order": 2,
+      "title": "„Eesti välispoliitika arengukava 2030“ täiskogu arutelu ettevalmistamine: Ülevaade globaalse Eesti programmi koostamise hetkeseisust",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "716dab41-8882-4c66-9852-dd670529e9e7"
+    },
+    {
+      "order": 3,
+      "title": "Ajaloomäluteemalise avalduse koostamise ettepaneku arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "16881dbd-f315-4c96-82db-4246a17a67e4"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "20bbc974-c2cc-459d-944b-530f0ce20a31"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 23.01.2020",
+      "uuid": "ec594989-55bc-4bcf-9de7-21f499874685",
+      "files": [
+        "VÄLK_protokoll_23.01.2020.asice",
+        "Üleilmne eestlus_23.01.2020 riigikogu väliskomisjon 5. 3.23.01.2020).ppt",
+        "VÄLK_protokoll_20200123.pdf",
+        "SDE_asendus_23.01.PDF",
+        "Ülevaade OSCE PA tööst 2019_2101.docx"
+      ]
+    }
+  ],
+  "uuid": "befa339b-0306-4098-8cce-93ca804f595b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid befa339b-0306-4098-8cce-93ca804f595b)",
+  "source": "https://api.riigikogu.ee/api/volumes/befa339b-0306-4098-8cce-93ca804f595b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-01-01&endDate=2020-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
