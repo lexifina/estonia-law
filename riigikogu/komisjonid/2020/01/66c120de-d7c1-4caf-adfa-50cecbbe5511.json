@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 27.01.2020 kell 13.15",
+  "sitting_time": "2020-01-27T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "35c7d100-0e80-4652-9c4d-2d1abfcaab4f"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade kogumispensionide seaduse ja sellega seonduvalt teiste seaduste muutmise seaduse eelnõu (kohustusliku kogumispensioni reform) mõjudest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "74670a19-a9a9-445f-8847-cb6e34364a73"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "10bd85eb-0403-4f6b-8cf7-3347e4963a50"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 27.01.2020",
+      "uuid": "3d4bab28-e10c-4dcf-9fc8-d9405446e248",
+      "files": [
+        "REKK_protokoll_27.01.2020.asice",
+        "Protokoll_nr_19._27.01.2020.pdf",
+        "asendusliige_Sikkut.pdf"
+      ]
+    }
+  ],
+  "uuid": "66c120de-d7c1-4caf-adfa-50cecbbe5511",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 66c120de-d7c1-4caf-adfa-50cecbbe5511)",
+  "source": "https://api.riigikogu.ee/api/volumes/66c120de-d7c1-4caf-adfa-50cecbbe5511",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-01-01&endDate=2020-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
