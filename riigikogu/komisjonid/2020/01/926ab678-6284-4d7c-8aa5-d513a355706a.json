@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung esmaspäev, 27.01.2020 kell 12.10",
+  "sitting_time": "2020-01-27T12:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7bcc17ec-79a1-403d-a735-6b5fba08cd81"
+    },
+    {
+      "order": 2,
+      "title": "5G tehnoloogia ja sidevõrkude turvalisus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "20c7def4-d5ef-4c8c-8059-2003cbe6b98e"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "87816886-c258-47a0-9d9c-cc794f31d32c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RIKK protokoll 27.01.2020",
+      "uuid": "77910817-1208-4d2b-8394-c943a06baf83",
+      "files": [
+        "Protokoll.pdf",
+        "RIKK_protokoll_27.01.2020.asice",
+        "Asendusliikme volitus.pdf"
+      ]
+    }
+  ],
+  "uuid": "926ab678-6284-4d7c-8aa5-d513a355706a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 926ab678-6284-4d7c-8aa5-d513a355706a)",
+  "source": "https://api.riigikogu.ee/api/volumes/926ab678-6284-4d7c-8aa5-d513a355706a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-01-01&endDate=2020-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
