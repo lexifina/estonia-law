@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung esmaspäev, 27.01.2020 kell 13.30",
+  "sitting_time": "2020-01-27T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4e078908-6890-4299-bb37-9d7ea3fe04ff"
+    },
+    {
+      "order": 2,
+      "title": "Parlamentaarne kuulamine: Euroopa tuleviku konverents, Euroopa Liidu valitsemise süsteemi reformi ideed",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "38a3c39f-408f-4aa4-bc54-b9d187ee15c0"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "00dc08ac-aa52-4aca-a9d5-0942a2549267"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ELAK protokoll 27.01.2020",
+      "uuid": "6029a2d2-e3e5-492e-bb5f-47cc56ed1eb0",
+      "files": [
+        "27.01 Asendusliige Ruuben Kaalep.pdf",
+        "ELAK protokoll 27.01.2020.pdf",
+        "ELAK_protokoll_27.01.2020.asice"
+      ]
+    }
+  ],
+  "uuid": "5095301c-9863-4879-a683-ac13c0917177",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 5095301c-9863-4879-a683-ac13c0917177)",
+  "source": "https://api.riigikogu.ee/api/volumes/5095301c-9863-4879-a683-ac13c0917177",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-01-01&endDate=2020-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
