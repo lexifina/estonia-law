@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung esmaspäev, 27.01.2020 kell 11.10",
+  "sitting_time": "2020-01-27T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e5a6251d-82ef-4205-b133-5a1cdfbb0bf0"
+    },
+    {
+      "order": 2,
+      "title": "Tubakaseaduse ning alkoholi-, tubaka-, kütuse- ja elektriaktsiisi seaduse muutmise seaduse eelnõu (9 SE) arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6ff2e395-34cd-4f28-9991-5bd0191a5d27"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "587bdb78-3fee-46e7-a120-81929639b982"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "SOTK protokoll 27.01.2020",
+      "uuid": "36a328d8-fe26-4c4f-9120-67559f22a179",
+      "files": [
+        "SOTK_protokoll_27.01.2020.asice",
+        "Protokoll.pdf",
+        "Lisa.pdf"
+      ]
+    }
+  ],
+  "uuid": "401fe93e-90af-4463-8c9a-4c546748f3b6",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 401fe93e-90af-4463-8c9a-4c546748f3b6)",
+  "source": "https://api.riigikogu.ee/api/volumes/401fe93e-90af-4463-8c9a-4c546748f3b6",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-01-01&endDate=2020-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
