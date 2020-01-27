@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Korruptsioonivastane erikomisjon",
+  "committee_uuid": "e4f2977a-e8c3-4fa0-8f3d-9df9acd6377f",
+  "title": "Komisjoni istung esmaspäev, 27.01.2020 kell 13.30",
+  "sitting_time": "2020-01-27T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "112a4282-702b-48df-94cc-f215d640c248"
+    },
+    {
+      "order": 2,
+      "title": "5G konkursi arutelu jätkamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2f87c0b3-1d3f-4f31-8e2c-fdec960da221"
+    },
+    {
+      "order": 3,
+      "title": "Riigikogu liikme Heiki Kranich’i ametikohustuste täitmist mõjutavate huvide kontrollimine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e82fb753-b44b-4489-8caf-24e6f0e62c7c"
+    },
+    {
+      "order": 4,
+      "title": "Huvide deklareerimise arendamisest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6388fd87-545e-465b-a401-935b092cd719"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KVEK protokoll 27.01.2020",
+      "uuid": "abf12369-2a2b-45fd-ab0a-fef05e1b854d",
+      "files": [
+        "KVEK protokoll 27.01.2020.pdf",
+        "KVEK_protokoll_27.01.2020.asice"
+      ]
+    }
+  ],
+  "uuid": "5e297604-46d5-48ce-a4b2-cc6f9de5b730",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 5e297604-46d5-48ce-a4b2-cc6f9de5b730)",
+  "source": "https://api.riigikogu.ee/api/volumes/5e297604-46d5-48ce-a4b2-cc6f9de5b730",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-01-01&endDate=2020-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
