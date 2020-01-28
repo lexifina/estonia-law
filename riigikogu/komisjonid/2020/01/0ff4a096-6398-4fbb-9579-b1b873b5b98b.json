@@ -1,0 +1,48 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung teisipäev, 28.01.2020 kell 14.00",
+  "sitting_time": "2020-01-28T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti Õdede Liidu 29.10.2019 märgukirja nr 1-6/19-96/1 arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "830b943a-a6aa-4e2e-8c8e-42316f8c96cc"
+    },
+    {
+      "order": 2,
+      "title": "Õiguskantsleri 19.12.2019 märgukirja \"töötuskindlustushüvitise suuruse arvutamine\" arutelu ning Sotsiaalministeeriumi „Töötuskindlustuse seaduse ja tööturuteenuste ja toetuste seaduse muutmise seaduse eelnõu väljatöötamise kavatsus“ arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "01a26d9b-9e2c-425e-ad84-c1c1f49bf381"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d19bdd14-2575-4d47-8dc1-1b15e74fbc7b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "SOTK protokoll 28.01.2020",
+      "uuid": "77e47323-ef2e-4ece-8c73-700a2f0c997a",
+      "files": [
+        "SOTK_protokoll_28.01.2020.asice",
+        "Protokoll.pdf",
+        "Lisa 1.pdf",
+        "Lisa 2.pdf"
+      ]
+    }
+  ],
+  "uuid": "0ff4a096-6398-4fbb-9579-b1b873b5b98b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0ff4a096-6398-4fbb-9579-b1b873b5b98b)",
+  "source": "https://api.riigikogu.ee/api/volumes/0ff4a096-6398-4fbb-9579-b1b873b5b98b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-01-01&endDate=2020-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
