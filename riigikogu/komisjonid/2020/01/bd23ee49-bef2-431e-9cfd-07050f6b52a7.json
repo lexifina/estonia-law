@@ -1,0 +1,48 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung teisipäev, 28.01.2020 kell 13.30",
+  "sitting_time": "2020-01-28T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade Rail Balticu projekti hetkeseisust ja selle kajastamisest riigieelarve seletuskirjas",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6ba3db29-85b6-4af7-9fd7-896fd637e32f"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade Rahandusministeeriumis ettevalmistamisel olevatest eelnõudest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7cfa94f0-27d5-4707-afdb-4ad4a01e8e57"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "76fc29b6-5ccd-4e64-9d3e-3b9847ea81f8"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 28.01.2020",
+      "uuid": "3301736b-f705-4b79-931e-0055ea1143b5",
+      "files": [
+        "RAM eelnõude ülevaade 28.01.2020.PPTX",
+        "Rail Baltic slaidid 28.01.20.PPTX",
+        "RAHK_protokoll_28.01.2020.asice",
+        "RAHK protokoll 47 28 01 20.pdf"
+      ]
+    }
+  ],
+  "uuid": "bd23ee49-bef2-431e-9cfd-07050f6b52a7",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid bd23ee49-bef2-431e-9cfd-07050f6b52a7)",
+  "source": "https://api.riigikogu.ee/api/volumes/bd23ee49-bef2-431e-9cfd-07050f6b52a7",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-01-01&endDate=2020-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
