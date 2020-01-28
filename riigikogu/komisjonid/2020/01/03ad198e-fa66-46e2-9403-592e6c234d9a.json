@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung teisipäev, 28.01.2020 kell 13.15",
+  "sitting_time": "2020-01-28T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e6399ff0-fdad-45eb-95f8-419bf95b8979"
+    },
+    {
+      "order": 2,
+      "title": "Eesti inimarengu aruande 2019/2020 tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "10742075-9337-4ec3-9b21-10cf78e3a1e8"
+    },
+    {
+      "order": 3,
+      "title": "Riigikogu liikme staatuse seaduse § 19 muutmise seaduse eelnõu (121 SE) esimese lugemise arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "303447a9-d470-4ed2-a58e-4faf2974039a"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1d150289-c0ec-48bb-a02e-183e91494360"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "PÕSK protokoll 28.01.2020",
+      "uuid": "d8e9401e-1202-4c34-b9d5-e05a941eadec",
+      "files": [
+        "PÕSK_protokoll_28.01.2020.asice",
+        "PÕSK.protokoll.28.01.2020.pdf"
+      ]
+    }
+  ],
+  "uuid": "03ad198e-fa66-46e2-9403-592e6c234d9a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 03ad198e-fa66-46e2-9403-592e6c234d9a)",
+  "source": "https://api.riigikogu.ee/api/volumes/03ad198e-fa66-46e2-9403-592e6c234d9a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-01-01&endDate=2020-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
