@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung neljapäev, 30.01.2020 kell 13.30",
+  "sitting_time": "2020-01-30T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade arengutest Lähis-Ida regioonis",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d4326078-85a4-4f1c-ac70-ead0562d83a1"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ee54e152-29d2-4f03-96e4-5490863638ed"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 30.01.2020",
+      "uuid": "c0cc14ce-5440-4edd-a611-9b04fd98fa86",
+      "files": [
+        "VÄLK_protokoll_20200130.pdf",
+        "VÄLK_protokoll_31.01.2020.asice"
+      ]
+    }
+  ],
+  "uuid": "fa1b3887-3007-4812-bb28-21af000fccd3",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid fa1b3887-3007-4812-bb28-21af000fccd3)",
+  "source": "https://api.riigikogu.ee/api/volumes/fa1b3887-3007-4812-bb28-21af000fccd3",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-01-01&endDate=2020-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
