@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung neljapäev, 30.01.2020",
+  "sitting_time": "2020-01-30T10:25:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikontrolli kontrolliaruande tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8b30ba55-dbb3-4f91-a79a-a090e4ce4034"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli kontrolliaruande tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fe296b8d-0c3d-4f5d-8a2d-49bc03e08017"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 30.01.2020",
+      "uuid": "d29baf77-493f-4164-9af8-78ab03d7f9da",
+      "files": [
+        "REKK_protokoll_30.01.2020.asice",
+        "Protokoll_nr_20._30.01.2020.pdf",
+        "asendusliige_Tamm.pdf"
+      ]
+    }
+  ],
+  "uuid": "cbfa2441-84a7-480c-a0d3-03ccb9d79e77",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid cbfa2441-84a7-480c-a0d3-03ccb9d79e77)",
+  "source": "https://api.riigikogu.ee/api/volumes/cbfa2441-84a7-480c-a0d3-03ccb9d79e77",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-01-01&endDate=2020-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
