@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/108012020009> (version in force from 2020-01-17)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/131012020018> (version in force from 2020-02-01)
 
 | Paragrahv | Pealkiri |
 | --- | --- |

@@ -31,3 +31,5 @@
 (15) Enne 2018. aasta 1. juulit majandustegevuse registris registreeritud reisiettevõtja peab majandustegevuse registris oma majandustegevuse andmed viima vastavusse käesoleva seaduse nõuetega 2018. aasta 30. septembriks.
 
 (16) Enne 2018. aasta 1. juulit väljastatud tagatise suhtes kohaldatakse tagatise andmisel kehtinud turismiseaduse redaktsioonist tulenevaid nõudeid kuni tagatise kehtivuse lõpuni, kuid kõige kauem 2018. aasta 30. septembrini.
+
+(17) Käesoleva seaduse § 24 lõiget 2 kohaldatakse Ühendkuningriigi kodanikele kuni 2020. aasta 31. detsembrini.
