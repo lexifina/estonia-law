@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 10.02.2020 kell 13.15",
+  "sitting_time": "2020-02-10T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "24847b5d-d44c-42f4-b843-62af12204b7e"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli kontrolliaruande „Hanketegevuse korraldus riigiasutustes“ arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f71d3d87-327a-4bf7-a0a1-af68515c807e"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b6b5cfcb-0c21-4496-b7cb-7c97c1dbfdfd"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 10.02.2020",
+      "uuid": "66225ebe-6062-4134-9489-3339db2f906b",
+      "files": [
+        "Protokoll_nr_21._10.02.2020.pdf",
+        "REKK_protokoll_10.02.2020.asice"
+      ]
+    }
+  ],
+  "uuid": "957e219f-1881-4d3e-985d-a3eafee79e6d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 957e219f-1881-4d3e-985d-a3eafee79e6d)",
+  "source": "https://api.riigikogu.ee/api/volumes/957e219f-1881-4d3e-985d-a3eafee79e6d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-02-01&endDate=2020-02-29",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
