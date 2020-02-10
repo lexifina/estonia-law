@@ -1,0 +1,53 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung esmaspäev, 10.02.2020 kell 13.30",
+  "sitting_time": "2020-02-10T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "56bc7a64-349b-4105-b0c4-6dc93ac2f82b"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade arengutest digimaksu valdkonnas",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "30fb7994-a128-4580-b49f-404854d60762"
+    },
+    {
+      "order": 3,
+      "title": "Euroopa Komisjoni 2020 tööplaani tutvustamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "70ffbebf-305e-4f3d-a9cc-a0ca96327d38"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2789fc25-6d4e-4b49-8fd9-3e5738a4db7e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ELAK protokoll 10.02.2020",
+      "uuid": "459ab9fa-0d4e-4d6a-9d86-615c09086be4",
+      "files": [
+        "ELAK protokoll 10.02.2020.pdf",
+        "Digimajandus - probleemid ja võimalused veeb 2020 Jegorov (lühi).pdf",
+        "ELAK_protokoll_10.02.2020.asice"
+      ]
+    }
+  ],
+  "uuid": "85ea375a-85df-4ce5-b344-fdc23ee303fc",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 85ea375a-85df-4ce5-b344-fdc23ee303fc)",
+  "source": "https://api.riigikogu.ee/api/volumes/85ea375a-85df-4ce5-b344-fdc23ee303fc",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-02-01&endDate=2020-02-29",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
