@@ -1,0 +1,43 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung teisipäev, 11.02.2020 kell 14.00",
+  "sitting_time": "2020-02-11T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Arutelu soode rollist Eesti kasvuhoonegaaside emissioonis",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f51a1e37-5b8b-4d70-aae9-92d38b06adf8"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "30085ffd-d355-436b-bf71-e0d77e2ce79f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK protokoll 11.02.2020",
+      "uuid": "f27536b5-9566-4a12-a8d5-9e0991bd282e",
+      "files": [
+        "KEKK protokoll 11.02.2020.pdf",
+        "Lisa 1 (E.Karofeld ettekanne).pdf",
+        "Lisa 2 (J.-O. Salm ettekanne).pdf",
+        "Lisa 3 (Keskkonnaministeeriumi ettekanne).pdf",
+        "KEKK_protokoll_11.02.2020.asice"
+      ]
+    }
+  ],
+  "uuid": "871bb03d-d161-46ec-ba3e-76d25038889a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 871bb03d-d161-46ec-ba3e-76d25038889a)",
+  "source": "https://api.riigikogu.ee/api/volumes/871bb03d-d161-46ec-ba3e-76d25038889a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-02-01&endDate=2020-02-29",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
