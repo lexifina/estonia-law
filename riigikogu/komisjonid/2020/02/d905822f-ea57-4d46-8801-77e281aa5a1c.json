@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung teisipäev, 11.02.2020 kell 15.50",
+  "sitting_time": "2020-02-11T15:50:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikogu avalduse „Ajaloomälust ja ajaloo võltsimisest“ eelnõu (140 AE) ettevalmistamine esimeseks lugemiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "df5bd611-559b-4633-be56-1cb9e32bc15b"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cb7ca860-47ba-4e6f-a749-535605650ba2"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 11.02.2020",
+      "uuid": "c8cf6c5d-ba39-48dd-abee-90944129878f",
+      "files": [
+        "VÄLK_protokoll_20200211.pdf",
+        "VÄLK_protokoll_11.02.2020.asice"
+      ]
+    }
+  ],
+  "uuid": "d905822f-ea57-4d46-8801-77e281aa5a1c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d905822f-ea57-4d46-8801-77e281aa5a1c)",
+  "source": "https://api.riigikogu.ee/api/volumes/d905822f-ea57-4d46-8801-77e281aa5a1c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-02-01&endDate=2020-02-29",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
