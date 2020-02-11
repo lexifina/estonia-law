@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 11.02.2020 kell 14.00",
+  "sitting_time": "2020-02-11T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Riigimetsa Majandamise Keskuse (RMK) esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "52f0f997-b491-45b5-8e3f-18e7c24c5176"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f390dd51-c2b2-443c-a599-17e40d02de17"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 11.02.2020",
+      "uuid": "be678f1d-8fe3-4399-b5be-50e61b0a10b5",
+      "files": [
+        "041 protokoll 11.02.2020.pdf",
+        "041 protokolli lisa RMK tutvustus.pdf",
+        "MAEK_protokoll_11.02.2020.asice"
+      ]
+    }
+  ],
+  "uuid": "d981b021-5c00-4526-8860-1733ebe38c6c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d981b021-5c00-4526-8860-1733ebe38c6c)",
+  "source": "https://api.riigikogu.ee/api/volumes/d981b021-5c00-4526-8860-1733ebe38c6c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-02-01&endDate=2020-02-29",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
