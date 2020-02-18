@@ -1,0 +1,42 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 18.02.2020 kell 14.00",
+  "sitting_time": "2020-02-18T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade kalapüügist siseveekogudel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a4df244e-4d29-45db-85bb-294eac6ffef9"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9bde303c-0d84-497c-bc64-cf71978f7b3f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 18.02.2020",
+      "uuid": "7480e606-e3e2-4616-952f-0ceadd442411",
+      "files": [
+        "043 protokolli lisa 2 Keskkonnaministeeriumi esitlus.pdf",
+        "MAEK_protokoll_18.02.2020.asice",
+        "043 protokoll 18.02.2020.pdf",
+        "043 protokolli lisa Mem ettekanne.pdf"
+      ]
+    }
+  ],
+  "uuid": "585a83e1-ed8b-4c27-851f-f3e3bf8b9d68",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 585a83e1-ed8b-4c27-851f-f3e3bf8b9d68)",
+  "source": "https://api.riigikogu.ee/api/volumes/585a83e1-ed8b-4c27-851f-f3e3bf8b9d68",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-02-01&endDate=2020-02-29",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
