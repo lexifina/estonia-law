@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni väljasõiduistung teisipäev, 18.02.2020 kell 14.00",
+  "sitting_time": "2020-02-18T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikaitse arengukava",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c1439c50-a2be-4ce0-9ab7-279f2a1b3402"
+    },
+    {
+      "order": 2,
+      "title": "Riigikaitseseaduse eelnõu (112 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f61f6d4b-9f19-4144-9b2e-72000357427d"
+    },
+    {
+      "order": 3,
+      "title": "Johannes Kerdi lähetamine Lätti Adažis paiknevasse NATO Mitmerahvuselise Põhja diviisi staapi",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6e4a39b8-3f74-441e-a9ff-5723a3ffbab6"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RIKK protokoll 18.02.2020",
+      "uuid": "1625b465-9e44-4cfe-bcdb-32646db122ee",
+      "files": [
+        "Protokoll.pdf",
+        "RIKK_protokoll_18.02.2020.asice"
+      ]
+    }
+  ],
+  "uuid": "130570f1-e1ba-4efe-832f-27eab9f8c91e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 130570f1-e1ba-4efe-832f-27eab9f8c91e)",
+  "source": "https://api.riigikogu.ee/api/volumes/130570f1-e1ba-4efe-832f-27eab9f8c91e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-02-01&endDate=2020-02-29",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
