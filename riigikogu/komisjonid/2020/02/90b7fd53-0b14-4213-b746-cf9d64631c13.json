@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung teisipäev, 18.02.2020 kell 14.00",
+  "sitting_time": "2020-02-18T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "„Eesti 2035“ strateegia tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "90a6739c-8c0c-43fb-b349-b2d15c1909ba"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ef779678-4b06-4c9c-942e-32d4afe6b8d3"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK protokoll 18.02.2020",
+      "uuid": "2dfb791b-9420-43e7-ba70-3efeb5e41173",
+      "files": [
+        "KEKK protokoll 18.02.2020.pdf",
+        "KEKK_protokoll_18.02.2020.asice"
+      ]
+    }
+  ],
+  "uuid": "90b7fd53-0b14-4213-b746-cf9d64631c13",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 90b7fd53-0b14-4213-b746-cf9d64631c13)",
+  "source": "https://api.riigikogu.ee/api/volumes/90b7fd53-0b14-4213-b746-cf9d64631c13",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-02-01&endDate=2020-02-29",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
