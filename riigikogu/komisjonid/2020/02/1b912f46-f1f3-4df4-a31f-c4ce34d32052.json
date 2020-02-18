@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung teisipäev, 18.02.2020 kell 14.00",
+  "sitting_time": "2020-02-18T14:02:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Aktuaalsed välispoliitilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "15a9f469-ba84-490e-9670-afe570569dfe"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade Eesti tegevusest ÜRO Julgeolekunõukogu mittealalise liikmena",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1bdb4224-e83b-4613-a477-c876686f58ab"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a62a09e2-a0b4-4989-95b0-660a444a71da"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 18.02.2020",
+      "uuid": "c09c0f4a-d451-4a5e-a40e-d33eed433a4f",
+      "files": [
+        "VÄLK_protokoll_18.02.2020.asice",
+        "VÄLK_protokoll_20200218.pdf"
+      ]
+    }
+  ],
+  "uuid": "1b912f46-f1f3-4df4-a31f-c4ce34d32052",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 1b912f46-f1f3-4df4-a31f-c4ce34d32052)",
+  "source": "https://api.riigikogu.ee/api/volumes/1b912f46-f1f3-4df4-a31f-c4ce34d32052",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-02-01&endDate=2020-02-29",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
