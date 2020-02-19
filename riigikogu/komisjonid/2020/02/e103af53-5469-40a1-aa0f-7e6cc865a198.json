@@ -1,0 +1,44 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung kolmapäev, 19.02.2020 kell 09.00",
+  "sitting_time": "2020-02-19T09:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 20. veebruaril 2020 toimuval erakorralisel Euroopa Ülemkogu istungil",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3a9e60ed-3ebf-44ed-af12-346797aee91a"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "707fb5b5-2876-4e6b-8223-247d973e1c8f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ELAK protokoll 19.02.2020",
+      "uuid": "9a7591da-8f8c-44af-a325-fec45c0ae097",
+      "files": [
+        "19.02 Asendusliige Raivo Tamm.pdf",
+        "19.02 Asendusliige Uno Kaskpeit.pdf",
+        "19.02 Asendusliige Igor Kravtšenko.pdf",
+        "19.02 Asendusliige Ivari Padar.pdf",
+        "ELAK_protokoll_19.02.2020.asice",
+        "ELAK protokoll 19.02.2020.pdf"
+      ]
+    }
+  ],
+  "uuid": "e103af53-5469-40a1-aa0f-7e6cc865a198",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e103af53-5469-40a1-aa0f-7e6cc865a198)",
+  "source": "https://api.riigikogu.ee/api/volumes/e103af53-5469-40a1-aa0f-7e6cc865a198",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-02-01&endDate=2020-02-29",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
