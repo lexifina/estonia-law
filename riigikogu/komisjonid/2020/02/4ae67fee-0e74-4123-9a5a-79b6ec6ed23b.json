@@ -1,0 +1,53 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung teisipäev, 25.02.2020 kell 13.30",
+  "sitting_time": "2020-02-25T13:33:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b6d0a72e-9d3b-4af8-b1d4-fe04dfc5db48"
+    },
+    {
+      "order": 2,
+      "title": "Strateegia „Eesti 2035“ eelnõu arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e6f0a416-49d1-43e6-9f62-232b3744994f"
+    },
+    {
+      "order": 3,
+      "title": "Informatsioon komisjoni liikmete tegevusest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1ba60f3a-1456-4db2-a450-5cd2c017b053"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9bffdfe7-a87f-475f-b81e-6417e7764a89"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 25.02.2020",
+      "uuid": "d181c1dd-2eda-4947-820d-6f32bd900bc7",
+      "files": [
+        "VÄLK_protokoll_25.02.2020.asice",
+        "VÄLK_protokoll_20200225.pdf",
+        "2020-02-14 EE0235 Riigikogu tutvustus.pdf"
+      ]
+    }
+  ],
+  "uuid": "4ae67fee-0e74-4123-9a5a-79b6ec6ed23b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 4ae67fee-0e74-4123-9a5a-79b6ec6ed23b)",
+  "source": "https://api.riigikogu.ee/api/volumes/4ae67fee-0e74-4123-9a5a-79b6ec6ed23b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-02-01&endDate=2020-02-29",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
