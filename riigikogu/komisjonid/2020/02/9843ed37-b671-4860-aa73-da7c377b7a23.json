@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung teisipäev, 25.02.2020 kell 14.00",
+  "sitting_time": "2020-02-25T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "97f49ded-15bf-4b06-8cf7-5aa082ddd566"
+    },
+    {
+      "order": 2,
+      "title": "Arutelu teemal saastavate tootmisettevõtete paiknemine elumajade läheduses",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "08388240-db3f-4a09-b6c5-603e598e3e9d"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3241fadb-05ad-4c23-9299-8aab885cb9c2"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK protokoll 25.02.2020",
+      "uuid": "1b7f284d-3248-4e81-9dba-d64c35fea283",
+      "files": [
+        "KEKK protokoll 25.02.2020.pdf",
+        "KEKK_protokoll_25.02.2020.asice"
+      ]
+    }
+  ],
+  "uuid": "9843ed37-b671-4860-aa73-da7c377b7a23",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9843ed37-b671-4860-aa73-da7c377b7a23)",
+  "source": "https://api.riigikogu.ee/api/volumes/9843ed37-b671-4860-aa73-da7c377b7a23",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-02-01&endDate=2020-02-29",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
