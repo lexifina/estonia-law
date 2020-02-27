@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung neljapäev, 27.02.2020 kell 13.00",
+  "sitting_time": "2020-02-27T13:02:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 4.-5. märtsil 2020 Zagrebis toimuval Euroopa Liidu kaitseministrite mitteametlikul kohtumisel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "22ae7281-f52d-4716-bf9d-371efb9a121f"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade 12.-13. veebruaril 2020 Brüsselis toimunud NATO kaitseministrite kohtumisest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a9ad7e1a-2222-4869-92b0-265b0e578b37"
+    },
+    {
+      "order": 3,
+      "title": "Eesti seisukohad 5.-6. märtsil 2020 Zagrebis toimuval Euroopa Liidu välisministrite mitteametlikul kohtumisel (Gymnich)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ea9b2d34-7c6e-46a6-87f7-ba9c5d66af34"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5b40a1c2-f5ae-4918-989b-b15151d6aa59"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 27.02.2020",
+      "uuid": "5d456c93-9fa2-4dc7-bc1c-354ee93f5260",
+      "files": [
+        "VÄLK_protokoll_27.02.2020.asice",
+        "VÄLK_protokoll_20200227.pdf"
+      ]
+    }
+  ],
+  "uuid": "f5ea7ab8-e4cc-4869-b846-4cb2ead12cca",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f5ea7ab8-e4cc-4869-b846-4cb2ead12cca)",
+  "source": "https://api.riigikogu.ee/api/volumes/f5ea7ab8-e4cc-4869-b846-4cb2ead12cca",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-02-01&endDate=2020-02-29",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
