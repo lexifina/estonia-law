@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung neljapäev, 27.02.2020",
+  "sitting_time": "2020-02-27T11:48:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a47a08c4-bba1-470b-9438-0d6487e7c97b"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli kontrolliaruande tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "56f5552c-1776-4e47-a046-ebe35c577ef9"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ad242d26-99cf-4e2a-a6f5-331a6e817312"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 27.02.2020",
+      "uuid": "ca2f8f89-2ae9-4516-b192-04466ab5c294",
+      "files": [
+        "Protokoll_nr_23._27.02.2020.pdf",
+        "REKK_protokoll_27.02.2020.asice",
+        "asendusliige_Jufereva-Skuratovski.pdf"
+      ]
+    }
+  ],
+  "uuid": "0908b178-975b-431c-a5fd-054c21b67864",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0908b178-975b-431c-a5fd-054c21b67864)",
+  "source": "https://api.riigikogu.ee/api/volumes/0908b178-975b-431c-a5fd-054c21b67864",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-02-01&endDate=2020-02-29",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
