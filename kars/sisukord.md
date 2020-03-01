@@ -94,7 +94,7 @@
 
 - 2. jagu Nakkushaigustega seotud süüteod
 
-- 3. jagu Ravimitega seotud süüteod
+- 3. jagu Ravimite ja dopinguga seotud süüteod
 
 - 4. jagu Süüteod töötervishoiu ja tööohutuse valdkonnas
 

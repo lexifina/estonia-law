@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/103012020016> (version in force from 2020-01-13)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/128022020005> (version in force from 2020-03-01)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -291,9 +291,9 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/103012020016> (version in force 
 | **2. jagu Nakkushaigustega seotud süüteod** | |
 | [§ 192](para-192.md) | Nakkushaiguse ja loomataudi leviku ohu põhjustamine |
 | [§ 193](para-193.md) | Nakkushaiguse ja loomataudi leviku põhjustamine |
-| **3. jagu Ravimitega seotud süüteod** | |
+| **3. jagu Ravimite ja dopinguga seotud süüteod** | |
 | [§ 194](para-194.md) | Ravimi ebaseaduslik käitlemine |
-| [§ 195](para-195.md) | Kallutamine dopingu kasutamisele |
+| [§ 195](para-195.md) | Dopingukuritegu |
 | [§ 196](para-196.md) | Töötervishoiu- ja tööohutusnõuete ning tehnilisele järelevalvele allutatud objektile kehtestatud nõuete eiramine, kui sellega on ettevaatamatusest tekitatud raske tervisekahjustus |
 | **4. jagu Süüteod töötervishoiu ja tööohutuse valdkonnas** | |
 | [§ 197](para-197.md) | Töötervishoiu- ja tööohutusnõuete eiramine, kui sellega on ettevaatamatusest tekitatud inimesele raske tervisekahjustus või põhjustatud inimese surm |
