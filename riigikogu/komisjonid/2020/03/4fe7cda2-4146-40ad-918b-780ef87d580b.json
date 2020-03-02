@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni erakorraline istung esmaspäev, 2.03.2020 kell 11.00",
+  "sitting_time": "2020-03-02T11:00:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "453eb86c-4259-4902-8c93-17fe22987e64"
+    },
+    {
+      "order": 2,
+      "title": "Eesti valmisolek viirushaigustega tegelemiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a939b50b-0292-47c2-b2c5-10c0479c2de6"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "53f9e5fb-233e-4f4d-a9bb-b8988a03bc40"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "SOTK protokoll 2.03.2020",
+      "uuid": "3d426ccb-7417-4970-a446-b3f722e4154c",
+      "files": [
+        "SOTK_protokoll_2.03.2020.asice",
+        "Protokoll.pdf"
+      ]
+    }
+  ],
+  "uuid": "4fe7cda2-4146-40ad-918b-780ef87d580b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 4fe7cda2-4146-40ad-918b-780ef87d580b)",
+  "source": "https://api.riigikogu.ee/api/volumes/4fe7cda2-4146-40ad-918b-780ef87d580b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-03-01&endDate=2020-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
