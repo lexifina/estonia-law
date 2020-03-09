@@ -1,0 +1,49 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 9.03.2020 kell 13.15",
+  "sitting_time": "2020-03-09T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "27d94cbf-fc3a-4814-9988-0421b8e8792e"
+    },
+    {
+      "order": 2,
+      "title": "Euroopa Komisjoni avaldatud “Euroopa poolaasta 2020. aasta riigiaruanne Eesti kohta” arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "19515741-afff-4d9a-904b-1dd2335c19ae"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7eb0a19b-fd3f-4a98-af02-7e5de36e8d4b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 9.03.2020",
+      "uuid": "5a8ef72b-1094-4a1b-bcdc-11b783fe55d5",
+      "files": [
+        "REKK_protokoll_9.03.2020.asice",
+        "Protokoll_nr_24._09.03.2020.pdf",
+        "6-2_Pack_review_presentation_-_H.Jansen.pptx",
+        "EE-European_Semester_9.03.2020_Riigikogu.pptx",
+        "asendusliige_Rahnel.pdf"
+      ]
+    }
+  ],
+  "uuid": "a2934548-60e2-4a59-aeb0-0009e421821c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a2934548-60e2-4a59-aeb0-0009e421821c)",
+  "source": "https://api.riigikogu.ee/api/volumes/a2934548-60e2-4a59-aeb0-0009e421821c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-03-01&endDate=2020-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
