@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 9.03.2020 kell 11.10",
+  "sitting_time": "2020-03-09T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "74481dc1-2e4f-4dd9-bceb-ebcf6553ed96"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse esitatud “Põllumajanduse ja kalanduse valdkonna arengukava aastani 2030“ eelnõu arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ad43bea2-e2bb-4634-8d8c-aea4a0972a21"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ac1068df-babb-41de-a921-386e48eecea7"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 09.03.2020",
+      "uuid": "10271f4f-6900-44e6-81b9-bf0bfcfcb2a9",
+      "files": [
+        "045_protokoll_09.03.2020.pdf",
+        "045_portokolli_lisa_Mem.PõKa_2030_tutvustus.pdf",
+        "MAEK_protokoll_09.03.2020.asice"
+      ]
+    }
+  ],
+  "uuid": "39b7c330-d560-4710-93e0-4323fc935498",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 39b7c330-d560-4710-93e0-4323fc935498)",
+  "source": "https://api.riigikogu.ee/api/volumes/39b7c330-d560-4710-93e0-4323fc935498",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-03-01&endDate=2020-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
