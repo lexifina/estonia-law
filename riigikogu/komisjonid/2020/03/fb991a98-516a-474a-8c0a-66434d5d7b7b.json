@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 10.03.2020 kell 14.00",
+  "sitting_time": "2020-03-10T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Maaelukomisjoni algatatud maareformi seaduse, maareformi käigus kasutusvaldusesse antud maa omandamise seaduse ja riigivaraseaduse muutmise seaduse eelnõu (87 SE) ettevalmistamine teise lugemise jätkamiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "82e4b2d3-8db5-46e6-ae5c-f3c54693ccad"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "61898bff-2c2f-4a02-900f-369a8c686ddb"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 10.03.2020",
+      "uuid": "cde21a48-b0de-4f50-8906-a37844f89cf7",
+      "files": [
+        "MAEK_protokoll_10.03.2020.asice",
+        "046_protokoll_10.03.2020.pdf"
+      ]
+    }
+  ],
+  "uuid": "fb991a98-516a-474a-8c0a-66434d5d7b7b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid fb991a98-516a-474a-8c0a-66434d5d7b7b)",
+  "source": "https://api.riigikogu.ee/api/volumes/fb991a98-516a-474a-8c0a-66434d5d7b7b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-03-01&endDate=2020-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
