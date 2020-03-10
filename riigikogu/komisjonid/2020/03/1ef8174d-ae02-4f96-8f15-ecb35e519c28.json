@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Keskkonna- ja majanduskomisjoni ühine istung teisipäev, 10.03.2020 kell 14.00",
+  "sitting_time": "2020-03-10T14:00:00",
+  "sitting_type": "UHISISTUNG",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti mereala planeeringu eelnõu (põhilahenduse) ja mõjude hindamise aruande eelnõu tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7e120c4c-139f-4a8f-b9b5-2475f263bc04"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0b72dfa1-eb31-4bbe-86e8-53035d12a9da"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK, MAJK protokoll 10.03.2020",
+      "uuid": "ad9a6e49-670d-4730-8fb8-45299593077d",
+      "files": [
+        "KEKK_MAJK_protokoll_10.03.2020.pdf",
+        "Lisa_1_(Rahandusministeerium).pdf",
+        "KEKK__MAJK_protokoll_10.03.2020.asice"
+      ]
+    }
+  ],
+  "uuid": "1ef8174d-ae02-4f96-8f15-ecb35e519c28",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 1ef8174d-ae02-4f96-8f15-ecb35e519c28)",
+  "source": "https://api.riigikogu.ee/api/volumes/1ef8174d-ae02-4f96-8f15-ecb35e519c28",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-03-01&endDate=2020-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
