@@ -1,0 +1,42 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung reede, 13.03.2020 kell 11.00",
+  "sitting_time": "2020-03-13T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 16. märtsil 2020 toimuval eurorühma kohtumisel ja 17. märtsil 2020 toimuval Euroopa Liidu majandus- ja rahandusnõukogu istungil (ECOFIN)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2a992115-9ada-421e-a9bb-15ad88140aa9"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7d512bc8-8ac9-4b6c-b177-27e6bdc7e134"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ELAK protokoll 13.03.2020",
+      "uuid": "792b1294-e992-4d0d-b036-28a53097eace",
+      "files": [
+        "13.03_Asendusliige_Raivo_Tamm.pdf",
+        "ELAK_protokoll_13.03.2020.asice",
+        "13.03_Asendusliike_Ruuben_Kaalep.pdf",
+        "ELAK_protokoll_13.03.2020.pdf"
+      ]
+    }
+  ],
+  "uuid": "cbafcc2d-5eb9-4dc3-ab49-120cc5f326db",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid cbafcc2d-5eb9-4dc3-ab49-120cc5f326db)",
+  "source": "https://api.riigikogu.ee/api/volumes/cbafcc2d-5eb9-4dc3-ab49-120cc5f326db",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-03-01&endDate=2020-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
