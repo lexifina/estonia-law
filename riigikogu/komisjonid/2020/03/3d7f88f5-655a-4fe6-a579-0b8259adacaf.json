@@ -1,0 +1,50 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung esmaspäev, 16.03.2020 kell 11.15",
+  "sitting_time": "2020-03-16T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "150cd496-8d37-459e-b1d0-101a153e4d1e"
+    },
+    {
+      "order": 2,
+      "title": "Eriolukorras komisjonide istungite elektrooniliste sidevahendite vahendusel korraldamist võimaldava regulatsiooni väljatöötamise arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ef0d7b0f-7289-4723-a5dd-57bcf6a7ffa9"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "94662f47-e54f-4b08-830e-d6121e83b173"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "PÕSK protokoll 16.03.2020",
+      "uuid": "aba9ccc8-a24d-4379-ab4e-b7b42f0a9cf9",
+      "files": [
+        "PÕSK_protokoll_16.03.2020.asice",
+        "Asendusliikme_volikiri_(Kaja_Kallas).asice",
+        "komisjoni_asendus.docx",
+        "Asendusliikme_volikiri_(Andrei_Korobeinik).asice",
+        "KESK_Korobeinik_VOLIKIRI.docx",
+        "PÕSK_protokoll_16.03.2020.pdf"
+      ]
+    }
+  ],
+  "uuid": "3d7f88f5-655a-4fe6-a579-0b8259adacaf",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3d7f88f5-655a-4fe6-a579-0b8259adacaf)",
+  "source": "https://api.riigikogu.ee/api/volumes/3d7f88f5-655a-4fe6-a579-0b8259adacaf",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-03-01&endDate=2020-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
