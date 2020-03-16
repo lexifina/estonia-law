@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung esmaspäev, 16.03.2020 kell 11.10",
+  "sitting_time": "2020-03-16T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b9538dc2-18b1-4a90-8a8f-39ef83fb1a94"
+    },
+    {
+      "order": 2,
+      "title": "Atmosfääriõhu kaitse seaduse ning alkoholi-, tubaka-, kütuse- ja elektriaktsiisi seaduse muutmise seaduse eelnõu (159 SE) esimese lugemise ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "30febbbc-3400-4edf-89ee-bfca99a8be8a"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e836552b-d493-4494-995b-35fc30941ce1"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK protokoll 16.03.2020",
+      "uuid": "a119ff35-cddd-43da-9ffa-93f37198df7f",
+      "files": [
+        "KEKK_protokoll_16.03.2020.asice",
+        "KEKK_protokoll_16.03.2020.pdf"
+      ]
+    }
+  ],
+  "uuid": "809f72c0-1f09-4ca2-a045-81a1304720b2",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 809f72c0-1f09-4ca2-a045-81a1304720b2)",
+  "source": "https://api.riigikogu.ee/api/volumes/809f72c0-1f09-4ca2-a045-81a1304720b2",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-03-01&endDate=2020-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
