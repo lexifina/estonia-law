@@ -1,0 +1,48 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 16.03.2020 kell 13.15",
+  "sitting_time": "2020-03-16T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bd8a6f01-f700-4b50-abbe-cc9501ed7950"
+    },
+    {
+      "order": 2,
+      "title": "Arutelu teemal „õiguslikud ja eelarvelised tegurid eriolukorras“",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5feceeb5-b51a-4969-8191-b477468a6afd"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b0490018-f2f9-4740-b75c-7e2a592f794f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 16.03.2020",
+      "uuid": "30ba9687-15ad-4000-a475-229df224ca5c",
+      "files": [
+        "REKK_protokoll_16.03.2020.asice",
+        "Protokoll_nr_25._16.03.2020.pdf",
+        "Asendusliikme_volikiri_(Lauri_Läänemets).pdf",
+        "Asendusliikme_volikiri_(Marko_Šorin).pdf"
+      ]
+    }
+  ],
+  "uuid": "3a45ef63-db05-466b-9e13-0c4c7bdce9ac",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3a45ef63-db05-466b-9e13-0c4c7bdce9ac)",
+  "source": "https://api.riigikogu.ee/api/volumes/3a45ef63-db05-466b-9e13-0c4c7bdce9ac",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-03-01&endDate=2020-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
