@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung esmaspäev, 16.03.2020 kell 15.30",
+  "sitting_time": "2020-03-16T15:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade ametkondade tööst seoses eriolukorraga riigis",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ff5f9d01-5ab6-44e7-9759-96cc3a1210bc"
+    },
+    {
+      "order": 2,
+      "title": "Ravikindlustuse seaduse muutmise seaduse eelnõu (162 SE) arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "758d3d3b-6ab9-4d50-be5d-444b9d7250c2"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6e06430e-09fe-4974-8d98-ea8d8d0cec87"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "SOTK protokoll 16.03.2020",
+      "uuid": "e04a9f12-905b-488a-a18a-05317282b319",
+      "files": [
+        "SOTK_protokoll_16.03.2020.asice",
+        "Protokoll.pdf"
+      ]
+    }
+  ],
+  "uuid": "10a946c9-6cfe-4433-953f-9dbeebc26c56",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 10a946c9-6cfe-4433-953f-9dbeebc26c56)",
+  "source": "https://api.riigikogu.ee/api/volumes/10a946c9-6cfe-4433-953f-9dbeebc26c56",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-03-01&endDate=2020-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
