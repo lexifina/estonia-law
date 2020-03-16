@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung esmaspäev, 16.03.2020 kell 11.10",
+  "sitting_time": "2020-03-16T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c7117090-1a89-4aab-8d80-07963babee43"
+    },
+    {
+      "order": 2,
+      "title": "Edasine töökorraldus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "eaa9a132-2cb1-4d90-83da-d11cffee8885"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "166a1548-a250-42e1-82b8-575c654d3ce4"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "SOTK protokoll 16.03.2020",
+      "uuid": "bb8a103b-0f3d-4dc2-bbd1-5cae2bb95fa5",
+      "files": [
+        "SOTK_protokoll_16.03.2020.asice",
+        "Protokoll.pdf"
+      ]
+    }
+  ],
+  "uuid": "a28ef2b0-08f9-4388-bd8d-68a9274f4ed6",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a28ef2b0-08f9-4388-bd8d-68a9274f4ed6)",
+  "source": "https://api.riigikogu.ee/api/volumes/a28ef2b0-08f9-4388-bd8d-68a9274f4ed6",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-03-01&endDate=2020-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
