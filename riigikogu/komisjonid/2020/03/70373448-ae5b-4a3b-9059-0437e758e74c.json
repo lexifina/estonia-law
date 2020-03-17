@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung teisipäev, 17.03.2020 kell 14.00",
+  "sitting_time": "2020-03-17T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kaitseväe korralduse seaduse ja õiguskantsleri seaduse muutmise seaduse eelnõu (152 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2725d3bf-fac1-497d-a47b-6ce0cc3030f3"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "827af3ac-bb2d-475f-8b52-db36436810a4"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RIKK protokoll 17.03.2020",
+      "uuid": "6f937131-0aab-4ca2-8d28-f293c458af3a",
+      "files": [
+        "Protokoll.bdoc",
+        "Protokoll-4.pdf"
+      ]
+    }
+  ],
+  "uuid": "70373448-ae5b-4a3b-9059-0437e758e74c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 70373448-ae5b-4a3b-9059-0437e758e74c)",
+  "source": "https://api.riigikogu.ee/api/volumes/70373448-ae5b-4a3b-9059-0437e758e74c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-03-01&endDate=2020-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
