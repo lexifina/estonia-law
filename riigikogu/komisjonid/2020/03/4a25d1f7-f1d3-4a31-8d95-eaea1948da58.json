@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni erakorraline istung neljapäev, 19.03.2020 kell 13.15",
+  "sitting_time": "2020-03-19T13:15:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c246f4a8-48a5-4333-b8e7-cc88d45b602b"
+    },
+    {
+      "order": 2,
+      "title": "Jätkuarutelu sotsiaalministriga Eesti valmisolekust viirushaigustega tegelemiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "827a865f-b2e7-4962-a288-b06d2db6b6ad"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "291dfaff-b195-4a37-a0d7-ecf9dcffe1fe"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "SOTK protokoll 19.03.2020",
+      "uuid": "1db23636-e547-411e-80db-64217277bb0a",
+      "files": [
+        "Protokoll.pdf",
+        "SOTK_protokoll_19.03.2020.asice"
+      ]
+    }
+  ],
+  "uuid": "4a25d1f7-f1d3-4a31-8d95-eaea1948da58",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 4a25d1f7-f1d3-4a31-8d95-eaea1948da58)",
+  "source": "https://api.riigikogu.ee/api/volumes/4a25d1f7-f1d3-4a31-8d95-eaea1948da58",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-03-01&endDate=2020-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
