@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni erakorraline istung neljapäev, 19.03.2020 kell 8.00",
+  "sitting_time": "2020-03-19T08:00:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c3616997-cce2-42fe-8124-8717e495756f"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade teemadel hetkeolukord ja otsustatud ning plaanitavad meetmed kriisi ohjeldamiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0e72c331-ee8a-42ac-8a0c-3f32cbfe7a41"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f4422808-e58d-47be-9cfa-782dcbd4cf86"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 19.03.2020",
+      "uuid": "9dd168de-d75b-4fd1-9efa-17504a1bfc4b",
+      "files": [
+        "RAHK_protokoll_19.03.2020.asice",
+        "RAHK_protokoll_54_19_03_2020.pdf"
+      ]
+    }
+  ],
+  "uuid": "ce7bc8d2-ba4f-490b-81a5-fe88b19e7523",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ce7bc8d2-ba4f-490b-81a5-fe88b19e7523)",
+  "source": "https://api.riigikogu.ee/api/volumes/ce7bc8d2-ba4f-490b-81a5-fe88b19e7523",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-03-01&endDate=2020-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
