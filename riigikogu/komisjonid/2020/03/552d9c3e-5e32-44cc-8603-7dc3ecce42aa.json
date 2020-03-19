@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni erakorraline istung neljapäev, 19.03.2020 kell 09.15",
+  "sitting_time": "2020-03-19T09:15:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade eriolukorra ajal rakendatavatest meetmetest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c27e0f20-bce7-4556-bfb6-d92232220b1d"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "46a65979-b616-48e3-881a-7a0b296540cf"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "PÕSK protokoll 19.03.2020",
+      "uuid": "f198ecae-73aa-4e59-b697-a57b8ab35ee8",
+      "files": [
+        "PÕSK_protokoll_19.03.2020.asice",
+        "PÕSK._protokoll.19.03.2020.pdf"
+      ]
+    }
+  ],
+  "uuid": "552d9c3e-5e32-44cc-8603-7dc3ecce42aa",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 552d9c3e-5e32-44cc-8603-7dc3ecce42aa)",
+  "source": "https://api.riigikogu.ee/api/volumes/552d9c3e-5e32-44cc-8603-7dc3ecce42aa",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-03-01&endDate=2020-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
