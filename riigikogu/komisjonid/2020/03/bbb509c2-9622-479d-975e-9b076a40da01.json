@@ -1,0 +1,43 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung neljapäev, 19.03.2020 kell 13.00",
+  "sitting_time": "2020-03-19T13:30:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "63384563-4dea-428d-8817-c916ac8f0e9e"
+    },
+    {
+      "order": 2,
+      "title": "Päästeseaduse ja relvaseaduse muutmise seaduse eelnõu (128 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ed96d88f-e3a8-44c6-8a09-90c4a6bc7253"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ÕIGK protokoll 19.03.2020",
+      "uuid": "c436e1ef-412f-4801-9681-57aac3659424",
+      "files": [
+        "ÕIEND-19-03-2020-protokoll.(aprill)docx.pdf",
+        "ÕIGK_protokoll_19.03.2020_(1).asice",
+        "ÕIGK_protokoll._19.03.2020.pdf",
+        "Asendusliikme_volikiri.pdf",
+        "ÕIGK_protokoll_19.03.2020.asice"
+      ]
+    }
+  ],
+  "uuid": "bbb509c2-9622-479d-975e-9b076a40da01",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid bbb509c2-9622-479d-975e-9b076a40da01)",
+  "source": "https://api.riigikogu.ee/api/volumes/bbb509c2-9622-479d-975e-9b076a40da01",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-03-01&endDate=2020-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
