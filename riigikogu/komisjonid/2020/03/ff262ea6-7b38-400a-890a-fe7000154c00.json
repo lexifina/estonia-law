@@ -1,0 +1,64 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung esmaspäev, 23.03.2020 kell 11.00",
+  "sitting_time": "2020-03-23T11:03:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6c2ed7d8-9186-4c22-a9ef-b577e89fa38e"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade arengutest Ukrainas",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fb5b7a7a-1dbd-4c07-9744-714bacd40bab"
+    },
+    {
+      "order": 3,
+      "title": "Ülevaade arengutest Itaalias",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "67e9f05e-4491-4085-abfd-8833d01180fd"
+    },
+    {
+      "order": 4,
+      "title": "Väliskomisjoni kirja koostamise arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5cb8a516-d3b5-4069-8195-9e97c3326221"
+    },
+    {
+      "order": 5,
+      "title": "Informatsioon komisjoni liikmete tegevusest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "597bc002-9e10-4d42-8a19-282b61a27946"
+    },
+    {
+      "order": 6,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "373956fe-83dd-44b3-a8be-692e644e1c25"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 23.03.2020",
+      "uuid": "1842d8f8-80ed-4e0b-a0ed-a8b1fae93c6e",
+      "files": [
+        "VÄLK_protokoll_20200323.pdf",
+        "VÄLK_protokoll_23.03.2020.asice"
+      ]
+    }
+  ],
+  "uuid": "ff262ea6-7b38-400a-890a-fe7000154c00",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ff262ea6-7b38-400a-890a-fe7000154c00)",
+  "source": "https://api.riigikogu.ee/api/volumes/ff262ea6-7b38-400a-890a-fe7000154c00",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-03-01&endDate=2020-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
