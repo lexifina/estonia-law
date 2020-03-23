@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 23.03.2020 kell 13.15",
+  "sitting_time": "2020-03-23T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f6b0a22c-1c4b-49b0-8c40-2419abe0c763"
+    },
+    {
+      "order": 2,
+      "title": "Eriolukorra teemaline arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9ebebbec-fcfb-4cde-aa0f-e82bc61916db"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 23.03.2020",
+      "uuid": "7982db37-f03a-4880-a4fe-04c9d6d1b231",
+      "files": [
+        "REKK_protokoll_23.03.2020.asice",
+        "Protokoll_nr_26._23.03.2020.pdf"
+      ]
+    }
+  ],
+  "uuid": "62b63e3f-daaa-4383-aea8-080a6cf54f3f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 62b63e3f-daaa-4383-aea8-080a6cf54f3f)",
+  "source": "https://api.riigikogu.ee/api/volumes/62b63e3f-daaa-4383-aea8-080a6cf54f3f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-03-01&endDate=2020-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
