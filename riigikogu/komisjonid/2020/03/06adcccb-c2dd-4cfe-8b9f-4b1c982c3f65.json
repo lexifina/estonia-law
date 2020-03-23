@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung esmaspäev, 23.03.2020 kell 11.00",
+  "sitting_time": "2020-03-23T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e7b88a54-d259-4783-9866-5101ac1dcef8"
+    },
+    {
+      "order": 2,
+      "title": "Kaitseliidu kaasamine avaliku korra kaitsesse eriolukorra ajal",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0957476d-3599-49a9-be6e-563ad0b176b8"
+    },
+    {
+      "order": 3,
+      "title": "Kaitseväe korralduse seaduse ja õiguskantsleri seaduse muutmise seaduse eelnõu (152 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a0c2872a-f0be-4590-a83b-efcf33697c6f"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "34a00a5b-3118-4930-83d9-fca7f51c4d1e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RIKK protokoll 23.03.2020",
+      "uuid": "3272d319-0c33-4e76-a44f-6b593c21eee6",
+      "files": [
+        "Protokoll.pdf",
+        "Protokoll-1.bdoc"
+      ]
+    }
+  ],
+  "uuid": "06adcccb-c2dd-4cfe-8b9f-4b1c982c3f65",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 06adcccb-c2dd-4cfe-8b9f-4b1c982c3f65)",
+  "source": "https://api.riigikogu.ee/api/volumes/06adcccb-c2dd-4cfe-8b9f-4b1c982c3f65",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-03-01&endDate=2020-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
