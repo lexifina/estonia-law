@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung esmaspäev, 23.03.2020 kell 11.10",
+  "sitting_time": "2020-03-23T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0703e1b6-3112-4dc7-9803-2fbd85226f81"
+    },
+    {
+      "order": 2,
+      "title": "Keskkonnatasude seaduse muutmise seaduse eelnõu (109 SE II)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "80ecdfca-50c8-46e7-8cb2-948ed34f556c"
+    },
+    {
+      "order": 3,
+      "title": "Kollektiivne pöördumine „Kliimaneutraalne Eesti aastaks 2035“ vastuskirja heakskiitmine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dfc734fc-d769-4c71-a2f7-ade7cf801002"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK protokoll 23.03.2020",
+      "uuid": "4424f14d-9680-400e-b372-b4b2deaf70bf",
+      "files": [
+        "KEKK_protokoll_23.03.2020.pdf",
+        "KEKK_protokoll_23.03.2020.asice"
+      ]
+    }
+  ],
+  "uuid": "3e691952-051d-4eef-b371-f7ceaab83d82",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3e691952-051d-4eef-b371-f7ceaab83d82)",
+  "source": "https://api.riigikogu.ee/api/volumes/3e691952-051d-4eef-b371-f7ceaab83d82",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-03-01&endDate=2020-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
