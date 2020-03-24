@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung teisipäev, 24.03.2020 kell 14.00",
+  "sitting_time": "2020-03-24T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Jätkuarutelu Eesti valmisolekust viirushaigustega tegelemiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e86c1f61-7b72-4316-8bb2-9fa1c588d26d"
+    },
+    {
+      "order": 2,
+      "title": "Päästeseaduse ja relvaseaduse muutmise seaduse eelnõule (128 SE) arvamuse andmine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8c62f413-24ee-498d-b060-4922d4b54e5b"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3f6b17c3-1324-4a51-a020-5052d8901d1a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "SOTK protokoll 24.03.2020",
+      "uuid": "6d2e90d4-cb1e-4ddf-b2ba-ff0a18f411c8",
+      "files": [
+        "SOTK_protokoll_24.03.2020.asice",
+        "Protokoll.pdf"
+      ]
+    }
+  ],
+  "uuid": "2520da28-d129-46c4-b19c-bb72ee82a4f3",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2520da28-d129-46c4-b19c-bb72ee82a4f3)",
+  "source": "https://api.riigikogu.ee/api/volumes/2520da28-d129-46c4-b19c-bb72ee82a4f3",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-03-01&endDate=2020-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
