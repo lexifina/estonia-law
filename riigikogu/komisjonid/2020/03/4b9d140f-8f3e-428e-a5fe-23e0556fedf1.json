@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung teisipäev, 24.03.2020 kell 12.00",
+  "sitting_time": "2020-03-24T12:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eriolukorra ülevaade",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2f717066-048e-4f50-8c96-8bc67b0e9a35"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade EL välisasjade nõukogu 23. märtsi 2020 istungist",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "066f8520-d68e-4f6a-82f9-d31c2bf3e088"
+    },
+    {
+      "order": 3,
+      "title": "Kohtumine Eesti Vabariigi presidendiga",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "adb357d6-ed94-4913-89b8-7ea18e17a206"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "921c7d94-76b7-45b4-8302-eedd72f3fdb6"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 24.02.2020",
+      "uuid": "85260576-00f6-4444-8c68-8088a71ec806",
+      "files": [
+        "VÄLK_protokoll_20200324.pdf",
+        "VÄLK_protokoll_24.02.2020.asice"
+      ]
+    }
+  ],
+  "uuid": "4b9d140f-8f3e-428e-a5fe-23e0556fedf1",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 4b9d140f-8f3e-428e-a5fe-23e0556fedf1)",
+  "source": "https://api.riigikogu.ee/api/volumes/4b9d140f-8f3e-428e-a5fe-23e0556fedf1",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-03-01&endDate=2020-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
