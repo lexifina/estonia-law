@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung kolmapäev, 25.03.2020 kell 09.00",
+  "sitting_time": "2020-03-25T09:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "59d5c9ad-b7e2-4878-bf85-d3cadd13062e"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade teemadel hetkeolukord ja otsustatud ning plaanitavad meetmed kriisi ohjeldamiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "16c47b2c-5bb6-447a-a269-e6ffa0f31e32"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "959cc68e-4a95-4140-8649-3c68aa895202"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 25.03.2020",
+      "uuid": "8dde1c4e-c88c-4d23-990a-3ffe2911ce37",
+      "files": [
+        "RAHK_protokoll_25.03.2020.asice",
+        "RAHK_protokoll_55_25_03_2020.pdf",
+        "KredExi__esindaja_ettekanne_25.03.2020.pdf"
+      ]
+    }
+  ],
+  "uuid": "8d5e66c8-f013-425d-8fc4-6bb91f97d3cc",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8d5e66c8-f013-425d-8fc4-6bb91f97d3cc)",
+  "source": "https://api.riigikogu.ee/api/volumes/8d5e66c8-f013-425d-8fc4-6bb91f97d3cc",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-03-01&endDate=2020-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
