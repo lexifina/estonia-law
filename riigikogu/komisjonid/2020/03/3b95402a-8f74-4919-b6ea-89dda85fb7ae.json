@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung neljapäev, 26.03.2020 kell 13.00",
+  "sitting_time": "2020-03-26T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade eriolukorra meetmetest Soomes, Lätis ja Poolas",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e70c4fb0-cda8-4839-a07e-e9ac4f73e5b3"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3fad96d5-1823-4f88-b307-2133b332e851"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 26.03.2020",
+      "uuid": "b186affe-393d-435f-9a98-28dac74d2f72",
+      "files": [
+        "VÄLK_protokoll_20200326.pdf",
+        "VÄLK_protokoll_26.03.2020.asice"
+      ]
+    }
+  ],
+  "uuid": "3b95402a-8f74-4919-b6ea-89dda85fb7ae",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3b95402a-8f74-4919-b6ea-89dda85fb7ae)",
+  "source": "https://api.riigikogu.ee/api/volumes/3b95402a-8f74-4919-b6ea-89dda85fb7ae",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-03-01&endDate=2020-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
