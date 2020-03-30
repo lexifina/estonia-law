@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung esmaspäev, 30.03.2020 kell 14.30",
+  "sitting_time": "2020-03-30T14:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "06d17433-7855-4f67-9fc0-40e1818a5119"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad 30. märtsil ja 2. aprillil toimuval Euroopa Liidu terviseministrite videokonverentsil",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "301cd4a8-8926-4ca8-b362-e7be933751ce"
+    },
+    {
+      "order": 3,
+      "title": "Eesti seisukohad 31. märtsil ja 3. aprillil toimuval Euroopa Liidu siseministrite videokonverentsil",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8a5f2267-1198-4b0e-8437-c9bd767d9204"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f2a0c111-82f2-4fd2-9303-4d677cad4f32"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ELAK protokoll 30.03.2020",
+      "uuid": "54019dce-9ef9-4b66-9bd5-659603e92128",
+      "files": [
+        "ELAK_protokoll_30.03.2020.pdf",
+        "ELAK_protokoll_30.03.2020.asice"
+      ]
+    }
+  ],
+  "uuid": "a43d836b-55f1-48b5-9eb3-1d4f2086cbda",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a43d836b-55f1-48b5-9eb3-1d4f2086cbda)",
+  "source": "https://api.riigikogu.ee/api/volumes/a43d836b-55f1-48b5-9eb3-1d4f2086cbda",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-03-01&endDate=2020-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
