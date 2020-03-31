@@ -1,0 +1,48 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni erakorraline istung teisipäev, 31.03.2020 kell 11.00",
+  "sitting_time": "2020-03-31T11:00:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti Panga ülevaade majandusprognoosist",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "408a7f5e-17eb-4aec-ba2e-105b433e72ca"
+    },
+    {
+      "order": 2,
+      "title": "Pangaliidu ülevaade laenuturust",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a0beea25-16fd-470e-80b5-3e6203de34a6"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "381c0b1f-fe81-4383-8559-860e7c32fb00"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 31.03.2020",
+      "uuid": "24bc916b-350b-49c3-b3eb-6654d9df2ac0",
+      "files": [
+        "RAHK_protokoll_57_31_03_2020.pdf",
+        "Eesti_Pank_ettekanne_31.03.2020.pptx",
+        "Pangaliidu_ettekanne_31.03.2020.pdf",
+        "RAHK_protokoll_31.03.2020.asice"
+      ]
+    }
+  ],
+  "uuid": "4892c879-88cb-4584-800b-66a067df6a5f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 4892c879-88cb-4584-800b-66a067df6a5f)",
+  "source": "https://api.riigikogu.ee/api/volumes/4892c879-88cb-4584-800b-66a067df6a5f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-03-01&endDate=2020-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
