@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Korruptsioonivastane erikomisjon",
+  "committee_uuid": "e4f2977a-e8c3-4fa0-8f3d-9df9acd6377f",
+  "title": "Komisjoni istung esmapäeval, 6. aprillil 2020 kell 13.30",
+  "sitting_time": "2020-04-06T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9ace68aa-25ba-4322-829b-2525e027ea43"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade ministrite ja poliitiliste nõunike huvide konflikti ja lobitöö juhendi arengust",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c5cb805f-a209-4f2d-b3d5-8405a4f1e6b9"
+    },
+    {
+      "order": 3,
+      "title": "Ettepanekud Riigikogu õigus- ja põhiseaduskomisjonile ning kohaliku omavalitsuse korralduse seaduse ekspertgrupile kohaliku omavalitsuse korralduse seaduse täiendamiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "111edaaf-0850-4bf0-9ea8-96e5e101d888"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7276bc02-0b73-45c8-ad5d-67b80d5fc316"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KVEK protokoll 06.04.2020",
+      "uuid": "d1882b9d-fcf3-4863-ba4e-0406c3132390",
+      "files": [
+        "KVEK_protokoll_06.04.2020.asice",
+        "KVEK_protokoll_06.04.2020_.pdf"
+      ]
+    }
+  ],
+  "uuid": "ddc28b62-e787-45db-bd80-1fb20e55dff9",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ddc28b62-e787-45db-bd80-1fb20e55dff9)",
+  "source": "https://api.riigikogu.ee/api/volumes/ddc28b62-e787-45db-bd80-1fb20e55dff9",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-04-01&endDate=2020-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
