@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung esmaspäev, 6.04.2020 kell 11.15",
+  "sitting_time": "2020-04-06T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c243104f-66c7-497b-8c70-1fa3158efb51"
+    },
+    {
+      "order": 2,
+      "title": "Tallinna Linnavolikogu esimehe pöördumise arutelu (kohaliku omavalitsuse volikogu istungite elektroonilise läbiviimise seaduslikkus)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5867a295-8178-491f-b92a-50b2ab49c285"
+    },
+    {
+      "order": 3,
+      "title": "Arutelu teemal Riigikogu töövõime tagamine kriisiolukorras",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "342abc67-d073-4d1b-9be1-9bc33254a8dc"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b4dfbc78-4f93-494b-a70e-08e991505bfe"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "PÕSK protokoll 06.04.2020",
+      "uuid": "796f3c74-9e3d-4ba6-9d28-9f2c06d99c79",
+      "files": [
+        "PÕSK_protokoll_06.04.2020.asice",
+        "2020.04.06.protokoll.rtf"
+      ]
+    }
+  ],
+  "uuid": "6f6f3f96-2c9d-4651-bee2-b1675090b807",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 6f6f3f96-2c9d-4651-bee2-b1675090b807)",
+  "source": "https://api.riigikogu.ee/api/volumes/6f6f3f96-2c9d-4651-bee2-b1675090b807",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-04-01&endDate=2020-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
