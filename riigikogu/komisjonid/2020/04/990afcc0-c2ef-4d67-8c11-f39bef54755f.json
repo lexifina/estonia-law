@@ -1,0 +1,53 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 6.04.2020 kell 11.10",
+  "sitting_time": "2020-04-06T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f99929b6-cefe-43ee-b1f7-20f46d7b232d"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade välismaalastest tööjõu probleemidest ja võimalikest lahendustest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0effec31-8c9b-4f15-8a2d-8e46510e1841"
+    },
+    {
+      "order": 3,
+      "title": "Toiduainetööstuse mured seoses koroonaviiruse COVID-19 levikuga",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1f30803e-9fa5-4dc3-929f-8e5885d8d104"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1de1d151-fcb8-4322-9c5e-c10c7ced0d5d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 06.04.2020",
+      "uuid": "37604bf3-167c-4486-a1ff-52c4ee9a96bf",
+      "files": [
+        "049_protokoll_06.04.2020.pdf",
+        "049_protokolli_lisa_Toiduliit.COVID-19.pdf",
+        "MAEK_protokoll_06.04.2020.asice"
+      ]
+    }
+  ],
+  "uuid": "990afcc0-c2ef-4d67-8c11-f39bef54755f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 990afcc0-c2ef-4d67-8c11-f39bef54755f)",
+  "source": "https://api.riigikogu.ee/api/volumes/990afcc0-c2ef-4d67-8c11-f39bef54755f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-04-01&endDate=2020-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
