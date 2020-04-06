@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung esmaspäev, 6.04.2020 kell 12.00",
+  "sitting_time": "2020-04-06T12:40:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade eriolukorra meetmetest Hispaanias",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "65bd34c0-22b1-43fc-8ae5-eb459666fe1e"
+    },
+    {
+      "order": 2,
+      "title": "Informatsioon komisjoni liikmete tegevusest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c49b3f91-599e-4c88-a2be-dabea55a1cbb"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1ee836e3-2a1d-4999-bf73-7fb2e64091dc"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 6.04.2020",
+      "uuid": "b3ecae0a-8158-4b7c-815e-28d05c2cc34f",
+      "files": [
+        "VÄLK_protokoll_6.04.2020.asice",
+        "(k)VÄLK_protokoll_20200406.pdf"
+      ]
+    }
+  ],
+  "uuid": "b862d0cb-2138-4e12-9ade-86b4b0c05e6f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b862d0cb-2138-4e12-9ade-86b4b0c05e6f)",
+  "source": "https://api.riigikogu.ee/api/volumes/b862d0cb-2138-4e12-9ade-86b4b0c05e6f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-04-01&endDate=2020-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
