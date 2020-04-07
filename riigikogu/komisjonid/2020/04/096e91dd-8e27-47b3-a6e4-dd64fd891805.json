@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung teisipäev, 7.04.2020 algusega 15 minutit peale Riigikogu täiskogu lõppu",
+  "sitting_time": "2020-04-07T11:08:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Abipolitseiniku seaduse ja teiste seaduste muutmise seaduse (COVID-19 haigust põhjustava viiruse SARS-Cov-2 levikuga seotud meetmed) eelnõu 170 SE  sotsiaalvaldkonna seaduste arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a989743e-475b-4511-80f9-c0f8d8242c43"
+    },
+    {
+      "order": 2,
+      "title": "Riigi 2020. aasta lisaeelarve seadusega seonduvate seaduste muutmise seaduse (COVID-19 haigust põhjustava koroonaviiruse levikuga seotud meetmed) eelnõu (169 SE) sotsiaalvaldkonna seaduste arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b8b65adc-7823-43d3-bd89-f15b76439add"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f045b71c-9b62-45f5-9122-f94e54d88c0d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "SOTK protokoll 7.04.2020",
+      "uuid": "fd7b30bc-24ee-49d8-8a8c-f45bd77a7040",
+      "files": [
+        "SOTK_protokoll_7.04.2020.asice",
+        "Protokoll.pdf"
+      ]
+    }
+  ],
+  "uuid": "096e91dd-8e27-47b3-a6e4-dd64fd891805",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 096e91dd-8e27-47b3-a6e4-dd64fd891805)",
+  "source": "https://api.riigikogu.ee/api/volumes/096e91dd-8e27-47b3-a6e4-dd64fd891805",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-04-01&endDate=2020-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
