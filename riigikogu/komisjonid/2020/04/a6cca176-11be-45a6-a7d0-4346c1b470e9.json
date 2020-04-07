@@ -1,0 +1,48 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung teisipäev, 7.04.2020 kell 15.15",
+  "sitting_time": "2020-04-07T15:15:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "36c354d6-3c13-4d70-a005-59d75da29163"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad eurorühma 7. aprilli 2020. aasta laiendatud formaadis kohtumise aruandes esitatud COVID-19 viiruse mõjude majandusmeetmete paketi kohta",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "98c18861-af8a-4ebc-a3a2-480d375088ae"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ef5d751d-1af7-400c-bd00-645566bc8a4a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ELAK protokoll 07.04.2020",
+      "uuid": "ce64d0fa-c612-471b-ac52-570f398e6786",
+      "files": [
+        "Euroopa_Liidu_asjade_komisjon04.04.2020.docx",
+        "Euroopa_Liidu_asjade_komisjon04.04.2020.asice",
+        "ELAK_protokoll_7.04.2020.pdf",
+        "ELAK_protokoll_07.04.2020.asice"
+      ]
+    }
+  ],
+  "uuid": "a6cca176-11be-45a6-a7d0-4346c1b470e9",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a6cca176-11be-45a6-a7d0-4346c1b470e9)",
+  "source": "https://api.riigikogu.ee/api/volumes/a6cca176-11be-45a6-a7d0-4346c1b470e9",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-04-01&endDate=2020-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
