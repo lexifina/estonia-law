@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Korruptsioonivastane erikomisjon",
+  "committee_uuid": "e4f2977a-e8c3-4fa0-8f3d-9df9acd6377f",
+  "title": "Komisjoni istung neljapäeval, 9. aprillil kell 9.00",
+  "sitting_time": "2020-04-09T09:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Lobitöö reguleerimisest Euroopa Komisjonis",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7ebcbc49-11ca-4a0f-ac95-afefb665b7e0"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f3ca30c5-7baa-4587-b8aa-a31d6603b3fd"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KVEK protokoll 09.04.2020",
+      "uuid": "72d4abfc-1cff-4ea5-8437-71082936b857",
+      "files": [
+        "KVEK_protokoll_09.04.2020.asice",
+        "KVEK_protokoll_09.04.2020_.pdf"
+      ]
+    }
+  ],
+  "uuid": "c60054e7-e18a-4390-95f0-d5b9e02876e8",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c60054e7-e18a-4390-95f0-d5b9e02876e8)",
+  "source": "https://api.riigikogu.ee/api/volumes/c60054e7-e18a-4390-95f0-d5b9e02876e8",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-04-01&endDate=2020-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
