@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung neljapäev, 9.04.2020 kell 15.00",
+  "sitting_time": "2020-04-09T15:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade eriolukorra meetmetest Saksamaal",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "20c758dc-4e54-4b63-873a-8cce110e35cf"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade eriolukorra meetmetest Ameerika Ühendriikides",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "278c7004-c8ce-43c8-bc53-166e0e4d037d"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e3144f00-c8f3-4fe5-9141-08f298237c0b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 9.04.2020",
+      "uuid": "a8c973c9-a04c-4234-8f0e-98faace28cf5",
+      "files": [
+        "VÄLK_protokoll_20200409.pdf",
+        "VÄLK_protokoll_9.04.2020.asice"
+      ]
+    }
+  ],
+  "uuid": "cedc5ad3-c72d-42d9-b454-d37f21c6e31a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid cedc5ad3-c72d-42d9-b454-d37f21c6e31a)",
+  "source": "https://api.riigikogu.ee/api/volumes/cedc5ad3-c72d-42d9-b454-d37f21c6e31a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-04-01&endDate=2020-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
