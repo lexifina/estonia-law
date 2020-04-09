@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung neljapäev, 9.04.2020 kell 14.00",
+  "sitting_time": "2020-04-09T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e0a883be-8e3c-4e1c-b693-a01439dead8b"
+    },
+    {
+      "order": 2,
+      "title": "Päästeseaduse ja relvaseaduse muutmise seaduse eelnõu (128 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c0d575d8-216a-4c07-8170-a47afeea8706"
+    },
+    {
+      "order": 3,
+      "title": "Abipolitseiniku seaduse ja teiste seaduste muutmise seadus (COVID-19 haigust põhjustava viiruse SARS-Cov-2 levikuga seotud meetmed) (170 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a19751de-9f18-4c19-8698-a084ab2b9a2d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ÕIGK protokoll 09.04.2020",
+      "uuid": "fcdf6966-86d5-42cd-8602-2469576994b8",
+      "files": [
+        "ÕIGK_protokoll_09.04.2020.asice",
+        "Õiguskomisjoni_istungi_protokoll._09.04.2020.pdf"
+      ]
+    }
+  ],
+  "uuid": "1a028848-d81b-41c2-8d79-bf4a16efe5f8",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 1a028848-d81b-41c2-8d79-bf4a16efe5f8)",
+  "source": "https://api.riigikogu.ee/api/volumes/1a028848-d81b-41c2-8d79-bf4a16efe5f8",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-04-01&endDate=2020-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
