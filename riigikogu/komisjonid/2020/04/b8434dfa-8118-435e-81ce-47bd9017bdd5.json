@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung esmaspäev, 13.04.2020 kell 11.15",
+  "sitting_time": "2020-04-13T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e4ac0768-4cba-4bcc-a5cc-88a3bccb81f5"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "817dbbf1-48f3-48b1-92b6-cd91e3661fb9"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Kultuurikomisjoni protokoll 13.04.2020",
+      "uuid": "ffce0680-cff8-405e-af8a-f709849a40ab",
+      "files": [
+        "Kultuurikomisjoni_protokoll_13.04.2020.asice",
+        "Protokoll_nr_51_(13.04.2020).pdf"
+      ]
+    }
+  ],
+  "uuid": "b8434dfa-8118-435e-81ce-47bd9017bdd5",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b8434dfa-8118-435e-81ce-47bd9017bdd5)",
+  "source": "https://api.riigikogu.ee/api/volumes/b8434dfa-8118-435e-81ce-47bd9017bdd5",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-04-01&endDate=2020-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
