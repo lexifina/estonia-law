@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung teisipäev, 14.04.2020 kell 14.00",
+  "sitting_time": "2020-04-14T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eriolukorra ülevaade",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bce184ee-9df5-48f7-b95f-802efa891cab"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade eriolukorra meetmetest Prantsusmaal",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e343972e-98c6-454c-b00b-81c715f34829"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "25f476bc-b1bc-49b4-8965-54db8f18b0ee"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 14.04.2020",
+      "uuid": "6f84a44a-d66d-4a30-8d59-e0b4da79c0a2",
+      "files": [
+        "VÄLK_protokoll_20200414.pdf",
+        "VÄLK_protokoll_14.04.2020.asice"
+      ]
+    }
+  ],
+  "uuid": "534a0d35-16de-4936-bbe5-61bce4de2702",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 534a0d35-16de-4936-bbe5-61bce4de2702)",
+  "source": "https://api.riigikogu.ee/api/volumes/534a0d35-16de-4936-bbe5-61bce4de2702",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-04-01&endDate=2020-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
