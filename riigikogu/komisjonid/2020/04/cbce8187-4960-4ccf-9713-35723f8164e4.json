@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung teisipäev, 14.04.2020 kell 15.00",
+  "sitting_time": "2020-04-14T15:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtute seaduse ja tsiviilkohtumenetluse seadustiku muutmise seaduse eelnõu (175 SE) ettevalmistamine esimeseks lugemiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c02a8069-2ec6-463e-95db-5fc32d35719d"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu kodu- ja töökorra seaduse muutmise seaduse eelnõu (176 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1c08b9b8-5fef-4467-ab9e-16853b27cdf0"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "db7eb015-ee28-4791-9866-a24f8ecf4a25"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "PÕSK protokoll 14.04.2020",
+      "uuid": "fe827197-abe9-43bc-9dd7-771b7b55c915",
+      "files": [
+        "PÕSK_protokoll_14.04.2020.asice",
+        "PÕSK.protokoll.14.04.2020.pdf"
+      ]
+    }
+  ],
+  "uuid": "cbce8187-4960-4ccf-9713-35723f8164e4",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid cbce8187-4960-4ccf-9713-35723f8164e4)",
+  "source": "https://api.riigikogu.ee/api/volumes/cbce8187-4960-4ccf-9713-35723f8164e4",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-04-01&endDate=2020-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
