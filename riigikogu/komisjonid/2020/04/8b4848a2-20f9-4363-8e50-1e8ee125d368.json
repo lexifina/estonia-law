@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung esmaspäev, 20.04.2020 kell 11.10",
+  "sitting_time": "2020-04-20T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "51db685f-42cf-4b5e-8a07-c59565b991b4"
+    },
+    {
+      "order": 2,
+      "title": "Kiirgusseaduse ja riigilõivuseaduse muutmise seaduse eelnõu (144 SE) teise lugemise ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fc1276d4-dd87-458b-b911-5801107da617"
+    },
+    {
+      "order": 3,
+      "title": "Keskkonnatasude seaduse muutmise seaduse eelnõu (109 SE) teise lugemise ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "39e9083a-6d48-43bd-bc2c-76a352319d95"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "84e06d0a-66ea-4042-b36d-8ec9d4fb5e69"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK protokoll 20.04.2020",
+      "uuid": "103633f2-82cc-4236-9582-f678074f5230",
+      "files": [
+        "KEKK_protokoll_20.04.2020.pdf",
+        "KEKK_protokoll_20.04.2020.asice"
+      ]
+    }
+  ],
+  "uuid": "8b4848a2-20f9-4363-8e50-1e8ee125d368",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8b4848a2-20f9-4363-8e50-1e8ee125d368)",
+  "source": "https://api.riigikogu.ee/api/volumes/8b4848a2-20f9-4363-8e50-1e8ee125d368",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-04-01&endDate=2020-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
