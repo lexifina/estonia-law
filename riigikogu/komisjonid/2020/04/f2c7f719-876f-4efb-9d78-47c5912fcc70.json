@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Korruptsioonivastane erikomisjon",
+  "committee_uuid": "e4f2977a-e8c3-4fa0-8f3d-9df9acd6377f",
+  "title": "Komisjoni istung esmaspäev, 20.04.2020 kell 2020",
+  "sitting_time": "2020-04-20T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "876408da-8165-4c04-a089-1f2b51469c2c"
+    },
+    {
+      "order": 2,
+      "title": "Arutelu Viimsi vallast edastatud kirjades esitatud asjaoludest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9a211929-6c1b-470d-a115-7034ba1ac37b"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5f52b6ee-9f88-4489-837e-a6dc45c0474c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KVEK protokoll 20.04.2020",
+      "uuid": "c1380c80-1cc7-4a6c-aba0-b68c81afcf44",
+      "files": [
+        "KVEK_protokoll_20.04.2020.asice",
+        "KVEK_protokoll_20.04.2020.pdf"
+      ]
+    }
+  ],
+  "uuid": "f2c7f719-876f-4efb-9d78-47c5912fcc70",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f2c7f719-876f-4efb-9d78-47c5912fcc70)",
+  "source": "https://api.riigikogu.ee/api/volumes/f2c7f719-876f-4efb-9d78-47c5912fcc70",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-04-01&endDate=2020-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
