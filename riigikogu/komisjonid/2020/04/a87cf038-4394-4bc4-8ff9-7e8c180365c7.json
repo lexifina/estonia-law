@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung esmaspäev, 20.04.2020 5 minutit pärast eelmise istungi lõppu",
+  "sitting_time": "2020-04-20T12:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade 16. aprillil 2020 toimunud Euroopa Liidu kaubandusministrite mitteametlikust videokohtumisest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2a5622ef-cf4a-4b85-b1f6-09e6ed409a7a"
+    },
+    {
+      "order": 2,
+      "title": "Informatsioon komisjoni liikmete tegevusest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1c973898-4a4e-4d30-bc40-76268ae96308"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bc50eea0-d8dc-430e-9875-b1ba252caae9"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 20.04.2020",
+      "uuid": "1fdf1a58-e18b-4a10-ad90-37cf5b34e2ba",
+      "files": [
+        "VÄLK_protokoll_20.04.2020.asice",
+        "VÄLK_(k)protokoll_20200420.pdf"
+      ]
+    }
+  ],
+  "uuid": "a87cf038-4394-4bc4-8ff9-7e8c180365c7",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a87cf038-4394-4bc4-8ff9-7e8c180365c7)",
+  "source": "https://api.riigikogu.ee/api/volumes/a87cf038-4394-4bc4-8ff9-7e8c180365c7",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-04-01&endDate=2020-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
