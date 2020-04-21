@@ -1,0 +1,34 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung teisipäev, 21.04.2020 kell 14.00",
+  "sitting_time": "2020-04-21T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Informatsioon julgeolekuolukorra arengutest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1ed07a33-68b0-4932-9ffd-3c2eb58e1872"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 21.04.2020",
+      "uuid": "1ae83e84-7c8b-4956-a429-fcca97bfc34f",
+      "files": [
+        "VÄLK_protokoll_20200421.pdf",
+        "VÄLK_protokoll_21.04.2020.asice"
+      ]
+    }
+  ],
+  "uuid": "bc01adc8-570f-43b4-91e4-82cb2f5850da",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid bc01adc8-570f-43b4-91e4-82cb2f5850da)",
+  "source": "https://api.riigikogu.ee/api/volumes/bc01adc8-570f-43b4-91e4-82cb2f5850da",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-04-01&endDate=2020-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
