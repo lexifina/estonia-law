@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung teisipäev, 21.04.2020 kell 14.00",
+  "sitting_time": "2020-04-21T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ef8425ac-d2fb-4bb2-a0be-701e9dea5306"
+    },
+    {
+      "order": 2,
+      "title": "Kaitseväe korralduse seaduse ja õiguskantsleri seaduse muutmise seaduse eelnõu (152 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "10381cd1-a38b-46f6-860c-b3bd320057f5"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "372822c4-d17b-46c9-abcd-d749946a394c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RIKK protokoll 21.04.2020",
+      "uuid": "fdaaecb7-7288-4fc8-9508-1a80b64b2b03",
+      "files": [
+        "Protokoll.pdf",
+        "RIKK_protokoll_21.04.2020.asice"
+      ]
+    }
+  ],
+  "uuid": "433b0106-da8b-4879-b72b-1d63401191cb",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 433b0106-da8b-4879-b72b-1d63401191cb)",
+  "source": "https://api.riigikogu.ee/api/volumes/433b0106-da8b-4879-b72b-1d63401191cb",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-04-01&endDate=2020-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
