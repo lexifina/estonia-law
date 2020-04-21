@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 21.04.2020 kell 13.30",
+  "sitting_time": "2020-04-21T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2af5674b-1568-4a27-9fd6-233946eae1ab"
+    },
+    {
+      "order": 2,
+      "title": "Kohalike omavalitsuste kriisieelarve, praegune eelarve seis ja laenuvõimekus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "324437e8-30c1-4a13-b764-cab9159d2322"
+    },
+    {
+      "order": 3,
+      "title": "Maaelukomisjoni algatatud maareformi seaduse, maareformi käigus kasutusvaldusesse antud maa omandamise seaduse ja riigivaraseaduse muutmise seaduse eelnõu (87 SE) täiendavate muudatusettepanekute arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6317faad-6cf2-4e0f-b0ac-8eef24c81b5f"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b6c12b80-4e73-4fb8-9675-f0011f813417"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 21.04.2020",
+      "uuid": "7dd3c7a3-de95-4186-b2c6-97ed67a58c96",
+      "files": [
+        "MAEK_protokoll_21.04.2020.asice",
+        "052_protokoll_21.04.2020.pdf"
+      ]
+    }
+  ],
+  "uuid": "1d3e532f-381b-4be0-af83-7d9e91b43843",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 1d3e532f-381b-4be0-af83-7d9e91b43843)",
+  "source": "https://api.riigikogu.ee/api/volumes/1d3e532f-381b-4be0-af83-7d9e91b43843",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-04-01&endDate=2020-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
