@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Korruptsioonivastane erikomisjon",
+  "committee_uuid": "e4f2977a-e8c3-4fa0-8f3d-9df9acd6377f",
+  "title": "Komisjoni istung neljapäeval, 23. aprillil 2020 kell 9.00",
+  "sitting_time": "2020-04-23T09:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Kaitsepolitseiameti peadirektor Arnold Sinisaluga",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fe966650-ca2b-4aed-ad97-d0fd6a96868d"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "493019e8-d017-4f4b-bf03-92cbf86918e5"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KVEK protokoll 23.04.2020",
+      "uuid": "480e650f-fb41-4715-b7d6-02a0d8fb055c",
+      "files": [
+        "KVEK_protokoll_23.04.2020.pdf",
+        "KVEK_protokoll_23.04.2020.asice"
+      ]
+    }
+  ],
+  "uuid": "d0e6c483-5cec-4bd0-8fd6-b5c2739a5ac2",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d0e6c483-5cec-4bd0-8fd6-b5c2739a5ac2)",
+  "source": "https://api.riigikogu.ee/api/volumes/d0e6c483-5cec-4bd0-8fd6-b5c2739a5ac2",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-04-01&endDate=2020-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
