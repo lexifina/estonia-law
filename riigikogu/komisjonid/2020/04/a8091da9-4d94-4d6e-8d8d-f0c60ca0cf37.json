@@ -1,0 +1,42 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni avalik istung neljapäev, 23.04.2020 kell 14.00",
+  "sitting_time": "2020-04-23T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Jätkuarutelu viiruse leviku prognooside kohta",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6a3c2cf1-41c2-4424-b30d-87a8fd566f84"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c06e5031-d25c-4f18-b346-5db4d9a54af2"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "SOTK protokoll 23.04.2020",
+      "uuid": "cacf0371-8263-44f4-8af9-31bd011a6d63",
+      "files": [
+        "SOTK_protokoll_23.04.2020.asice",
+        "Protokoll.pdf",
+        "Lisa_2.pdf",
+        "Lisa_1.pdf"
+      ]
+    }
+  ],
+  "uuid": "a8091da9-4d94-4d6e-8d8d-f0c60ca0cf37",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a8091da9-4d94-4d6e-8d8d-f0c60ca0cf37)",
+  "source": "https://api.riigikogu.ee/api/volumes/a8091da9-4d94-4d6e-8d8d-f0c60ca0cf37",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-04-01&endDate=2020-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
