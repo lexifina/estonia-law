@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung esmaspäev, 27.04.2020 kell 11.10",
+  "sitting_time": "2020-04-27T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "13e17adb-95b5-4649-8f40-27ca1edc57b3"
+    },
+    {
+      "order": 2,
+      "title": "Jätkuarutelu Eesti valmisolekust viirushaigustega tegelemiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "44980c60-575e-4d78-814f-6dd2f8cd34f0"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "eebd6ddc-b7bd-4d6f-80ec-8916fd740459"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "SOTK protokoll 27.04.2020",
+      "uuid": "5a16b666-5bc2-433c-8e86-ea6f722a953b",
+      "files": [
+        "SOTK_protokoll_27.04.2020.asice",
+        "Protokoll.pdf"
+      ]
+    }
+  ],
+  "uuid": "ef9741b2-eef3-4954-8e9a-cb942f37a9a6",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ef9741b2-eef3-4954-8e9a-cb942f37a9a6)",
+  "source": "https://api.riigikogu.ee/api/volumes/ef9741b2-eef3-4954-8e9a-cb942f37a9a6",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-04-01&endDate=2020-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
