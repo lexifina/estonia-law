@@ -1,0 +1,43 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni erakorraline istung teisipäev, 28.04.2020",
+  "sitting_time": "2020-04-28T11:00:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade olukorrast turismimajanduses eriolukorra tingimustes",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bf862d0e-75e1-4d2f-b37f-70f19ed8188c"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fac2dd5f-59d0-47ec-b7f6-93ed94dff1d4"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAJK protokoll nr 53 28.04.2020",
+      "uuid": "1a1686e6-5174-410a-9fad-571e9841b24b",
+      "files": [
+        "Lisa_3_MTÜ_Eesti_Maaturism_esitlus.pdf",
+        "Lisa_2_Eesti_Spaaliidu_esitlus.pdf",
+        "MAJK_protokoll_nr_53_28.04.2020.asice",
+        "Lisa_1_ETFL_esitlus.pdf",
+        "MAJK_protokoll_nr_53_28.04.2020.pdf"
+      ]
+    }
+  ],
+  "uuid": "fc85e41f-6360-46d6-bb40-995cecc55614",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid fc85e41f-6360-46d6-bb40-995cecc55614)",
+  "source": "https://api.riigikogu.ee/api/volumes/fc85e41f-6360-46d6-bb40-995cecc55614",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-04-01&endDate=2020-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
