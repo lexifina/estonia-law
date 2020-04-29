@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni erakorraline istung kolmapäev, 29.04.2020",
+  "sitting_time": "2020-04-29T11:30:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade eriolukorrast väljumise strateegiast",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "498f0bd4-8422-42ac-899d-3e756b6344cc"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a9f9b64e-241e-43f2-a679-fed986d50acf"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "PÕSK protokoll 29.04.2020",
+      "uuid": "1648fee8-0cf1-4ef0-922a-8fba0a366897",
+      "files": [
+        "PÕSK_protokoll_29.04.2020.asice",
+        "PÕSK.protokoll.29.04.2020.pdf"
+      ]
+    }
+  ],
+  "uuid": "1dc168ca-3ef9-4876-8c60-c52978ef1e77",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 1dc168ca-3ef9-4876-8c60-c52978ef1e77)",
+  "source": "https://api.riigikogu.ee/api/volumes/1dc168ca-3ef9-4876-8c60-c52978ef1e77",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-04-01&endDate=2020-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
