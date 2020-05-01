@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/119032019117> (version in force from 2019-07-01)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/121042020010> (version in force from 2020-05-01)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -82,7 +82,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/119032019117> (version in force 
 | [§ 64](para-064.md) | Kaitseliidu liikme ravikulu hüvitamine |
 | [§ 65](para-065.md) | Hukkunud Kaitseliidu liikme matusekulu kandmine |
 | [§ 66](para-066.md) | Hüvitise maksmist ja muu kulu katmist välistavad asjaolud |
-| [§ 67](para-067.md) | Teenistuskohustuse täitmisel tehtud kulu hüvitis ja päevaraha maksmine |
+| [§ 67](para-067.md) | Teenistuskohustuse täitmisel hüvitise, päevaraha ja tasu maksmine |
 | [§ 68](para-068.md) | Kaitseliidu liikme toitlustus |
 | [§ 68¹](para-068b1.md) | Isikuandmete töötlemine tagatiste taotlemise korral |
 | **8. peatükk Valve** | |
