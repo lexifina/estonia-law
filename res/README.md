@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/121042020029> (version in force from 2020-04-22)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/121042020030> (version in force from 2020-05-01)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -56,6 +56,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/121042020029> (version in force 
 | [§ 35](para-035.md) | Ministeeriumi valitsemisala eelarve projekt |
 | [§ 36](para-036.md) | Eelarveläbirääkimised |
 | [§ 37](para-037.md) | Riigieelarve eelnõu menetlemine Vabariigi Valitsuses |
+| [§ 37¹](para-037b1.md) | Eelarvestrateegia ja riigieelarve eelnõu koostamise erisused |
 | [§ 38](para-038.md) | Riigieelarve eelnõu esitamine Riigikogule |
 | **3. jagu Riigieelarve eelnõu menetlemine Riigikogus** | |
 | [§ 39](para-039.md) | Riigieelarve eelnõu menetlemine Riigikogus |

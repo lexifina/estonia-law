@@ -31,3 +31,5 @@
 12) põhiseaduslike institutsioonide poolt taotletud vahendite mahtude muutmise või vahendite väljajätmise korral Vabariigi Valitsuse tehtud muudatusi ja erimeelsusi koos põhjendustega;
 
 13) kavandatavaid välistoetuseid.
+
+(4) Kui eelarvestrateegia koostamise ajal kehtib eriolukord, erakorraline seisukord või sõjaseisukord, võib Vabariigi Valitsus täita käesoleva paragrahvi lõikes 3 sätestatut osaliselt, põhjendades seda eelarvestrateegias.
