@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 4.05.2020 kell 13.15",
+  "sitting_time": "2020-05-04T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1fc6bc11-d364-483c-b0f8-9efeb6204147"
+    },
+    {
+      "order": 2,
+      "title": "Majanduse ja riigirahanduse olukord ning kriisimeetmete rakendamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4c549102-39a2-4fe7-badf-257b6f9a513b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 4.05.2020",
+      "uuid": "53ac508f-defb-42c5-8a0b-39e90bd8e966",
+      "files": [
+        "REKK_protokoll_4.05.2020.asice",
+        "Protokoll_nr_29._04.05.2020.pdf"
+      ]
+    }
+  ],
+  "uuid": "0df9c02a-4bd2-4a82-9fac-34fa007d5b3e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0df9c02a-4bd2-4a82-9fac-34fa007d5b3e)",
+  "source": "https://api.riigikogu.ee/api/volumes/0df9c02a-4bd2-4a82-9fac-34fa007d5b3e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-05-01&endDate=2020-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
