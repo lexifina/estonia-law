@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung esmaspäev, 4.05.2020 kell 11.00",
+  "sitting_time": "2020-05-04T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "95b99d47-3d8a-4417-be0b-cb22c4c4b7a5"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade Eelarvenõukogu arvamusest eelarve-eesmärkide täitmise kohta",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f2f57944-3aff-4937-8459-7b6f722dfa33"
+    },
+    {
+      "order": 3,
+      "title": "Riigikogu otsuse Eesti esindaja nimetamine Põhjamaade Investeerimispanga kontrollkomiteesse eelnõu ettevalmistamine algatamiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5e07c6ae-f19c-41fc-9196-43abf7316407"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "10de1f04-eec7-4727-9b39-231002b123f5"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 04.05.2020",
+      "uuid": "cf61ed88-6f81-4a2b-89bf-a2076fe4bee2",
+      "files": [
+        "RAHK_protokoll_04.05.2020.asice",
+        "RAHK_protokoll_69_04_05_2020.pdf"
+      ]
+    }
+  ],
+  "uuid": "f7904b12-7fd7-4024-baae-2972f49bc5f9",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f7904b12-7fd7-4024-baae-2972f49bc5f9)",
+  "source": "https://api.riigikogu.ee/api/volumes/f7904b12-7fd7-4024-baae-2972f49bc5f9",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-05-01&endDate=2020-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
