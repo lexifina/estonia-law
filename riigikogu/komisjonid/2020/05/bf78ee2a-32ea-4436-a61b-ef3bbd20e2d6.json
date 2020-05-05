@@ -1,0 +1,34 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung teisipäev, 5.05.2020 kell 14.00",
+  "sitting_time": "2020-05-05T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Informatsioon julgeolekuolukorra arengutest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fb5c8648-bbe0-43b3-b39d-c69b7abd8079"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 05.05.2020",
+      "uuid": "a0754eab-e804-4746-93af-746691571376",
+      "files": [
+        "VÄLK_protokoll_20200505.pdf",
+        "VÄLK_protokoll_05.05.2020.asice"
+      ]
+    }
+  ],
+  "uuid": "bf78ee2a-32ea-4436-a61b-ef3bbd20e2d6",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid bf78ee2a-32ea-4436-a61b-ef3bbd20e2d6)",
+  "source": "https://api.riigikogu.ee/api/volumes/bf78ee2a-32ea-4436-a61b-ef3bbd20e2d6",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-05-01&endDate=2020-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
