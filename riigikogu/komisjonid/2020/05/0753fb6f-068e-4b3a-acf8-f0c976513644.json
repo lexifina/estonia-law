@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung teisipäev, 5.05.2020 kell 14.00",
+  "sitting_time": "2020-05-05T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade valdkondade kriismeetmetest. Osalevad maaeluminister Arvo Aller ja Majandus- ja Kommunikatsiooniministeeriumi asekantsler Viljar Lubi",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d94e1fbe-7781-4dd5-b004-45b5b59c7551"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade eelarvenõukogu arvamusest eelarve-eesmärkide täitmise kohta. Osaleb eelarvenõukogu esimees Raul Eamets",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ca388e70-fda0-48e7-9c03-3cb6a3c83d68"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "81d2dc1e-5a90-4a9c-8ada-1fa73a294944"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 05.05.2020",
+      "uuid": "a624eb85-282d-483a-92b4-9715f458ba99",
+      "files": [
+        "RAHK_protokoll_70_05_05_2020.pdf",
+        "RAHK_protokoll_05.05.2020.asice"
+      ]
+    }
+  ],
+  "uuid": "0753fb6f-068e-4b3a-acf8-f0c976513644",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0753fb6f-068e-4b3a-acf8-f0c976513644)",
+  "source": "https://api.riigikogu.ee/api/volumes/0753fb6f-068e-4b3a-acf8-f0c976513644",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-05-01&endDate=2020-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
