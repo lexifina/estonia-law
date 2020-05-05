@@ -1,0 +1,48 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung teisipäev, 5.05.2020 kell 14:00",
+  "sitting_time": "2020-05-05T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kollektiivse pöördumise \"Ilutulestik ilma ohvriteta\" arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e449269b-48aa-40bb-ac0f-8aaf4876492a"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine Maksu- ja Tolliameti juhiga",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "22c54073-3e33-4510-b875-44ae6f9fd3f3"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "73a86b8b-3016-43b0-97be-bbcfe96c6f02"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAJK protokoll nr 56 05.05.2020",
+      "uuid": "35b56448-726b-45f0-aae9-155b897c7313",
+      "files": [
+        "MAJK_protokoll_nr_56_05.05.2020.asice",
+        "MAJK_protokoll_nr_56_05.05.2020.pdf",
+        "EMTA_RK_majanduskomisjon_050520.pdf",
+        "MKM_Purotehnika_slaidid_MAJK_13.04.2020.pdf"
+      ]
+    }
+  ],
+  "uuid": "57103036-8208-4548-ab25-f19ef59ab8dd",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 57103036-8208-4548-ab25-f19ef59ab8dd)",
+  "source": "https://api.riigikogu.ee/api/volumes/57103036-8208-4548-ab25-f19ef59ab8dd",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-05-01&endDate=2020-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
