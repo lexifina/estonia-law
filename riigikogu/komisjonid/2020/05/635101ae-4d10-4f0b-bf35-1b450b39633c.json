@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung neljapäev, 7.05.2020 kell 14.00",
+  "sitting_time": "2020-05-07T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Meditsiiniseadme seaduse muutmise ja sellega seonduvalt teiste seaduste muutmise seaduse eelnõu (165 SE) ettevalmistamine teiseks lugemiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ca26ff28-0818-48f7-bdae-fd4098993475"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "015fecd7-8768-45f7-abd6-0b8df60c395a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "SOTK protokoll 7.05.2020",
+      "uuid": "eff565b0-2a9d-4b88-bf19-f8aad20d9dcd",
+      "files": [
+        "SOTK_protokoll_7.05.2020.asice",
+        "Protokoll.pdf"
+      ]
+    }
+  ],
+  "uuid": "635101ae-4d10-4f0b-bf35-1b450b39633c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 635101ae-4d10-4f0b-bf35-1b450b39633c)",
+  "source": "https://api.riigikogu.ee/api/volumes/635101ae-4d10-4f0b-bf35-1b450b39633c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-05-01&endDate=2020-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
