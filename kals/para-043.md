@@ -26,6 +26,8 @@ määrusega.
 
 (7) Tegevliikmele, kellel on Kaitseliidu relvaluba, võib Kaitseliidu ülem või malevapealik anda õiguse hoida oma elukohas Kaitseliidu relva ja laskemoona.
 
+(7¹) Kui eriolukorra või erakorralise seisukorra ajal Kaitseliidu relvaloa tähtaeg või tervisetõendi kehtivus lõpeb või käesoleva paragrahvi lõikes 5 nimetatud tervisekontrolli tegemise tähtaeg möödub ning eriolukorra või erakorralise seisukorra lahendamiseks rakendatavate meetmete tõttu ei ole tervisekontrolli läbimine ja tervisetõendi väljastamine võimalik, võib Kaitseliidu liige relvaloal näidatud Kaitseliidu relva kanda ning Kaitseliidu relva ja laskemoona oma elukohas hoida Kaitseliidu ülema või malevapealiku kirjalikul nõusolekul kuni uue tervisetõendi saamiseni, kuid mitte kauem kui 90 päeva eriolukorra või erakorralise seisukorra lõppemisest arvates.
+
 (8) Tegevliikme elukohas Kaitseliidu relva ja laskemoona hoidmise tingimused ning hoiule andmise korra kehtestab
 
 määrusega.
