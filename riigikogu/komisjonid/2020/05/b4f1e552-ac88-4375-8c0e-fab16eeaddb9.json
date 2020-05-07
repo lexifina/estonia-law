@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Õiguskomisjoni istung neljapäev, 7.05.2020 kell 13.00",
+  "sitting_time": "2020-05-07T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Tsiviilseadustiku üldosa seaduse ja teiste seaduste muutmise seadus (elektrooniliste võimaluste laiendamine koosolekute korraldamisel ja otsuste vastuvõtmisel) (180 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f0b3d0d1-0f70-49fd-a061-a323ec15c6e6"
+    },
+    {
+      "order": 2,
+      "title": "Päästeseaduse ja relvaseaduse muutmise seaduse eelnõu (128 UA)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5e1adb5a-6f71-4212-a13c-fb74ac0eb4e0"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ÕIGK protokoll 07.05.2020",
+      "uuid": "4d7b65f3-aedc-4ae9-9882-3df632549edb",
+      "files": [
+        "ÕIGK_protokoll_07.05.2020.asice",
+        "Õiguskomisjoni_07.05.2020_istungi_protokoll.pdf"
+      ]
+    }
+  ],
+  "uuid": "b4f1e552-ac88-4375-8c0e-fab16eeaddb9",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b4f1e552-ac88-4375-8c0e-fab16eeaddb9)",
+  "source": "https://api.riigikogu.ee/api/volumes/b4f1e552-ac88-4375-8c0e-fab16eeaddb9",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-05-01&endDate=2020-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
