@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni erakorraline istung neljapäev, 7.05.2020 kell 18.00",
+  "sitting_time": "2020-05-07T18:00:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e434f7dd-6388-43da-89ad-24e1f14522eb"
+    },
+    {
+      "order": 2,
+      "title": "Meditsiiniseadme seaduse, hädaolukorra seaduse ja teiste seaduste muutmise seaduse eelnõu (165 SE) ettevalmistamine teiseks lugemiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d2c2e17b-e68a-41ad-b477-bda455683c1a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "SOTK protokoll 7.05.2020",
+      "uuid": "766a4768-6e87-40e8-a7f1-90b499a035a1",
+      "files": [
+        "SOTK_protokoll_7.05.2020.asice",
+        "Protokoll.pdf",
+        "Lisa_1.asice"
+      ]
+    }
+  ],
+  "uuid": "d79b7cff-1fe6-437f-993e-9cad0e455e59",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d79b7cff-1fe6-437f-993e-9cad0e455e59)",
+  "source": "https://api.riigikogu.ee/api/volumes/d79b7cff-1fe6-437f-993e-9cad0e455e59",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-05-01&endDate=2020-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
