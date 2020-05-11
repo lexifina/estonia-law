@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung esmaspäev, 11.05.2020 kell 11.10",
+  "sitting_time": "2020-05-11T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e29a72c1-35d8-4146-90a1-abd403d08d77"
+    },
+    {
+      "order": 2,
+      "title": "Kollektiivne pöördumine \"Võimud otsustasid mürgitada kõik Kohtla-Järve linnaosad?\"",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d9c604e1-cceb-4b70-8bb1-6a7eab3d9313"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a948a398-12e6-4d86-9638-0257d2ceea8f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK protokoll 11.05.2020",
+      "uuid": "ba73391e-130d-4223-8332-ea2fede66b3b",
+      "files": [
+        "KEKK_protokoll_11.05.2020.pdf",
+        "KEKK_protokoll_11.05.2020.asice"
+      ]
+    }
+  ],
+  "uuid": "b9976786-86e0-481d-8bf6-7039aadadb9f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b9976786-86e0-481d-8bf6-7039aadadb9f)",
+  "source": "https://api.riigikogu.ee/api/volumes/b9976786-86e0-481d-8bf6-7039aadadb9f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-05-01&endDate=2020-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
