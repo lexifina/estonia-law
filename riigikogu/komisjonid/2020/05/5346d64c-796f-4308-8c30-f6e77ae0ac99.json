@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung teisipäev, 12.05.2020 kell 14.00",
+  "sitting_time": "2020-05-12T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "„Eesti välispoliitika arengukava 2030“ täiskogu arutelu ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "821ff230-6a9e-4964-a1b2-b5b433cc3251"
+    },
+    {
+      "order": 2,
+      "title": "Välisministeeriumi tegevuskava kriisist väljumiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e3367916-8b5a-4bcc-a30e-a1bf58b06516"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e32f584f-1850-426a-86f9-cb8f39cbb493"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 12.05.2020",
+      "uuid": "1605eb84-17bc-4da0-8e32-cbe0fe2c157b",
+      "files": [
+        "VALK_protokoll_20200512.pdf",
+        "VÄLK_protokoll_12.05.2020.asice"
+      ]
+    }
+  ],
+  "uuid": "5346d64c-796f-4308-8c30-f6e77ae0ac99",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 5346d64c-796f-4308-8c30-f6e77ae0ac99)",
+  "source": "https://api.riigikogu.ee/api/volumes/5346d64c-796f-4308-8c30-f6e77ae0ac99",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-05-01&endDate=2020-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
