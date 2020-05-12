@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung teisipäev, 12.05.2020 kell 14.00",
+  "sitting_time": "2020-05-12T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töötukassa ülevaade töötuse kasvust, Töötukassa meetmete alusel makstud vahenditest ning tööturuga seonduvalt eriolukorra väljumisstrateegiast",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1a020760-4e9e-4c5f-9241-48375a901332"
+    },
+    {
+      "order": 2,
+      "title": "Eestisse lähetatud töötajate töötingimuste seaduse muutmise seaduse eelnõu (158 SE) ettevalmistamine teiseks lugemiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7311e7b9-13bf-410d-93c2-84f0f9a8aeba"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "SOTK protokoll 12.05.2020",
+      "uuid": "6c5fa6d9-5ef3-430b-9733-16dddee1e4ef",
+      "files": [
+        "SOTK_protokoll_12.05.2020.asice",
+        "Protokoll.pdf",
+        "Lisa_1.pdf"
+      ]
+    }
+  ],
+  "uuid": "3ac12b82-a0c9-4bfd-ae4b-ef360df82a5b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3ac12b82-a0c9-4bfd-ae4b-ef360df82a5b)",
+  "source": "https://api.riigikogu.ee/api/volumes/3ac12b82-a0c9-4bfd-ae4b-ef360df82a5b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-05-01&endDate=2020-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
