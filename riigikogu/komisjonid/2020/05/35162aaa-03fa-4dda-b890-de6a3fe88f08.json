@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 12.05.2020 kell 14.00",
+  "sitting_time": "2020-05-12T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade võõrtööjõu kasutamise võimalustest hooajatöödel põllumajandussektoris",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c16892f0-4f2a-4f1a-b9a9-b494c9d351be"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "05eee28b-0704-4f2b-b09d-6d670ccc364b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 12.05.2020",
+      "uuid": "84e00baa-aca3-4432-a073-ceb4eaa381be",
+      "files": [
+        "MAEK_protokoll_12.05.2020.asice",
+        "Volitus_12.05.20.pdf",
+        "055_protokoll_12.05.2020.pdf"
+      ]
+    }
+  ],
+  "uuid": "35162aaa-03fa-4dda-b890-de6a3fe88f08",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 35162aaa-03fa-4dda-b890-de6a3fe88f08)",
+  "source": "https://api.riigikogu.ee/api/volumes/35162aaa-03fa-4dda-b890-de6a3fe88f08",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-05-01&endDate=2020-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
