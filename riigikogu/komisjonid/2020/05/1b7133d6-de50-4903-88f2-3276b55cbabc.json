@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung teisipäev, 12.05.2020 kell 14.00",
+  "sitting_time": "2020-05-12T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade KIKi tegevustest ja uue strateegia tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bb9dfc4f-13fb-4a06-8f9f-b1e9319496a2"
+    },
+    {
+      "order": 2,
+      "title": "Riigi osaluspoliitikast - AS Operail",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b84a396d-da97-4568-ae92-6ee2cadc6e23"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "00752adc-9fb5-41f1-a256-4801da812ca4"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAJK protokoll nr 58 12.05.2020",
+      "uuid": "dfc6eba4-48f4-4314-a852-f603794433c7",
+      "files": [
+        "MAJK_protokoll_nr_58_12.05.2020.asice",
+        "KIK_MajKomisjon_20200512_1.pdf",
+        "MAJK_protokoll_nr_58_12.05.2020.pdf"
+      ]
+    }
+  ],
+  "uuid": "1b7133d6-de50-4903-88f2-3276b55cbabc",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 1b7133d6-de50-4903-88f2-3276b55cbabc)",
+  "source": "https://api.riigikogu.ee/api/volumes/1b7133d6-de50-4903-88f2-3276b55cbabc",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-05-01&endDate=2020-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
