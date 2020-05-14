@@ -1,0 +1,48 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Põhiseaduskomisjoni istung neljapäev, 14.05.2020 kell 14.00",
+  "sitting_time": "2020-05-14T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Presidendi poolt välja kuulutamata jäetud päästeseaduse ja relvaseaduse muutmise seaduse (128 UA) uuesti arutamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "32d4b841-9b4b-4ae4-8c97-10bc0d7254c0"
+    },
+    {
+      "order": 2,
+      "title": "Välismaalaste seaduse muutmise seaduse eelnõu (135 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0b88827c-fc4f-469a-a401-caaafd93f31a"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d5fe0a9b-e272-4f2d-b398-6ed135184aed"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "PÕSK protokoll 14.05.2020",
+      "uuid": "c3444239-cb0e-4469-bbc6-9f5db9c3690d",
+      "files": [
+        "põhiseaduskom-asendus.docx",
+        "PÕSK_protokoll_14.05.2020.asice",
+        "PÕSK.protokoll.14.05.2020.pdf",
+        "Volikiri.14.05.2020.Taavi_Rõivase_andenudliige.asice"
+      ]
+    }
+  ],
+  "uuid": "3b2e44d3-7be6-4a20-b7e0-bd33c7016f43",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3b2e44d3-7be6-4a20-b7e0-bd33c7016f43)",
+  "source": "https://api.riigikogu.ee/api/volumes/3b2e44d3-7be6-4a20-b7e0-bd33c7016f43",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-05-01&endDate=2020-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
