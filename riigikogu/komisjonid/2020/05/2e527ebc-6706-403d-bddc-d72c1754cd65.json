@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung neljapäev, 14.05.2020 kell 13.00",
+  "sitting_time": "2020-05-14T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 15. mail 2020 toimuval Euroopa Liidu välisasjade nõukogu videokohtumisel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "85620501-f866-4a45-9bf1-82def945ba60"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud välisteenistuse seaduse muutmise ja sellega seonduvalt teiste seaduste muutmise seaduse eelnõu (45 SE) ettevalmistamine teiseks lugemiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "451cdb19-4856-4bde-83cc-70476681627d"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ae98e818-61c3-4a33-831f-7dd927cfd0a7"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 14.05.2020",
+      "uuid": "ac17efec-c419-41b7-865c-9c69e44eee4d",
+      "files": [
+        "VÄLK_protokoll_14.05.2020.asice",
+        "VÄLK_protokoll_20200514.pdf",
+        "Väliskomisjoni_seisukoht_välispoliitika_arengukavale_(väliskomisjoni_14.05.2020_otsus).pdf"
+      ]
+    }
+  ],
+  "uuid": "2e527ebc-6706-403d-bddc-d72c1754cd65",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2e527ebc-6706-403d-bddc-d72c1754cd65)",
+  "source": "https://api.riigikogu.ee/api/volumes/2e527ebc-6706-403d-bddc-d72c1754cd65",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-05-01&endDate=2020-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
