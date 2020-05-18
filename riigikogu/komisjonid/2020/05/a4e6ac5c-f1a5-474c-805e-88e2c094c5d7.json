@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung esmaspäev, 18.05.2020 kell 11.15",
+  "sitting_time": "2020-05-18T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "eb282100-92d2-4149-9c09-06de109d1f99"
+    },
+    {
+      "order": 2,
+      "title": "Kohtute seaduse ja tsiviilkohtumenetluse seadustiku muutmise seaduse eelnõu (175 SE I) ettevalmistamine teiseks lugemiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d233409e-d279-4d70-8fd6-a1c804fe5236"
+    },
+    {
+      "order": 3,
+      "title": "Riigikogu kodu- ja töökorra seaduse muutmise seaduse eelnõu (176 SE III) ettevalmistamine kolmandaks lugemiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ffb1f757-24da-4750-9e29-3e65f19dc098"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d1b51997-59af-488a-af68-f9cfeebeed92"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "PÕSK protokoll 18.05.2020",
+      "uuid": "55f66f78-b86d-411f-8d7f-cfea4638f7df",
+      "files": [
+        "PÕSK.protokoll.18.05.2020.pdf",
+        "PÕSK_protokoll_18.05.2020.asice"
+      ]
+    }
+  ],
+  "uuid": "a4e6ac5c-f1a5-474c-805e-88e2c094c5d7",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a4e6ac5c-f1a5-474c-805e-88e2c094c5d7)",
+  "source": "https://api.riigikogu.ee/api/volumes/a4e6ac5c-f1a5-474c-805e-88e2c094c5d7",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-05-01&endDate=2020-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
