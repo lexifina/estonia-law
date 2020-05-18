@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung esmaspäev, 18.05.2020 kell 11.10",
+  "sitting_time": "2020-05-18T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4dc1ead2-0a43-4aca-9bea-98e78d36b504"
+    },
+    {
+      "order": 2,
+      "title": "Katastritoimingutega seotud bürokraatia vähendamise arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a759f6ed-a421-47d4-8816-22c5a1f59ed4"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6fe1fdc9-07df-46a6-b1e6-57900b6fd4af"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK protokoll 18.05.2020",
+      "uuid": "b68f7529-e116-4ce8-a52c-e472bfc106b3",
+      "files": [
+        "KEKK_protokoll_18.05.2020.asice",
+        "KEKK_protokoll_18.05.2020.pdf",
+        "Lisa_1_(Maa-ameti_ettekanne).pptx"
+      ]
+    }
+  ],
+  "uuid": "d7d4a378-0e51-4d28-b58a-7b1a52648bfa",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d7d4a378-0e51-4d28-b58a-7b1a52648bfa)",
+  "source": "https://api.riigikogu.ee/api/volumes/d7d4a378-0e51-4d28-b58a-7b1a52648bfa",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-05-01&endDate=2020-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
