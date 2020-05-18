@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 18.05.2020 kell 11.10",
+  "sitting_time": "2020-05-18T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "55248575-ac0d-460d-9edd-4e57f793664e"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse esitatud “Põllumajanduse ja kalanduse valdkonna arengukava aastani 2030“ eelnõu arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ad11bd57-c42c-4f27-8d9a-d5d5d50cc515"
+    },
+    {
+      "order": 3,
+      "title": "Riigikogu menetluses oleva välismaalaste seaduse muutmise seaduse eelnõu (192 SE) arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "725ad160-8762-47c8-b531-088c5c0f0824"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "70565225-91cd-40af-a7ec-ca6408c43685"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 18.05.2020",
+      "uuid": "a3ec6091-68ff-4e55-979f-311c73fc3a85",
+      "files": [
+        "MAEK_protokoll_18.05.2020.asice",
+        "056_protokoll_18.05.2020.pdf"
+      ]
+    }
+  ],
+  "uuid": "6618301f-3070-4b94-91dd-f1fb55ac493d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 6618301f-3070-4b94-91dd-f1fb55ac493d)",
+  "source": "https://api.riigikogu.ee/api/volumes/6618301f-3070-4b94-91dd-f1fb55ac493d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-05-01&endDate=2020-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
