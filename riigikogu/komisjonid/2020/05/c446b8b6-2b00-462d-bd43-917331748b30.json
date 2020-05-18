@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 18.05.2020 kell 13.15",
+  "sitting_time": "2020-05-18T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c183c810-4d49-474e-9d34-6b52bb32f389"
+    },
+    {
+      "order": 2,
+      "title": "Eriolukorrast väljumine, majanduse ja riigirahanduse olukord ning kriisimeetmete rakendamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a1b0efcb-54fb-4284-962a-74efa9bd67fe"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "37d2b7d4-2e02-4576-b5ad-5d9ed775e044"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 18.05.2020",
+      "uuid": "12a03430-4c54-40f1-b919-d409b29098a4",
+      "files": [
+        "REKKile_RM_Madis_Aben_18.5.2020.pptx",
+        "Protokoll_nr_32._18.05.2020.pdf",
+        "REKK_protokoll_18.05.2020.asice"
+      ]
+    }
+  ],
+  "uuid": "c446b8b6-2b00-462d-bd43-917331748b30",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c446b8b6-2b00-462d-bd43-917331748b30)",
+  "source": "https://api.riigikogu.ee/api/volumes/c446b8b6-2b00-462d-bd43-917331748b30",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-05-01&endDate=2020-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
