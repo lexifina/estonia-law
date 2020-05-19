@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung teisipäev, 19.05.2020 kell 14.00",
+  "sitting_time": "2020-05-19T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade reisilaevanduse olukorrast, seoses laevade Eesti lipu alla toomisega tehtud ettevalmistustest ja viimastest arengutest merenduses",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5a63989e-e0a8-41d4-92c2-1df1f3a66eac"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "460b1230-e8cd-4ee7-98d7-1e06981dbfe3"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAJK protokoll nr 60 19.05.2020",
+      "uuid": "494cd236-7bfa-4027-8326-52a303584c04",
+      "files": [
+        "MAJK_protokoll_nr_60_19.05.2020.pdf",
+        "MAJK_protokoll_nr_60_19.05.2020.asice",
+        "Slaidid_19.05.2020_Majanduskomisjonis_.pdf"
+      ]
+    }
+  ],
+  "uuid": "fede1290-3981-4508-b3f6-688bf9767c27",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid fede1290-3981-4508-b3f6-688bf9767c27)",
+  "source": "https://api.riigikogu.ee/api/volumes/fede1290-3981-4508-b3f6-688bf9767c27",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-05-01&endDate=2020-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
