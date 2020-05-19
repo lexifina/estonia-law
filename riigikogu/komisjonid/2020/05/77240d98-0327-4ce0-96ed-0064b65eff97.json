@@ -1,0 +1,48 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung teisipäev, 19.05.2020 kell 14.00",
+  "sitting_time": "2020-05-19T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade Finantsinspektsiooni 2019. aasta aruandest. Osaleb FI juhatuse esimees Kilvar Kessler.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9ae7c46b-12cf-432c-9d5b-6c964f9fddf5"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine Maksu-ja tolliameti esindajatega. Osalevad peadirektor Valdur Laid ja asetäitja Rivo Reitman",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "26dc079d-1a47-4fbf-b3ab-e4528879109e"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e8f42384-7fc4-4dbe-9387-650ce59f68ba"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 19.05.2020",
+      "uuid": "b3fcd34f-cd3f-4f52-95f9-923160825a07",
+      "files": [
+        "Finantsinspektsiooni_aastaaruanne_2019_19.05.2020.pptx",
+        "RAHK_protokoll_19.05.2020.asice",
+        "RAHK_protokoll_74_19_05_2020.pdf",
+        "MTA_ettekanne_19_05_2020.pdf"
+      ]
+    }
+  ],
+  "uuid": "77240d98-0327-4ce0-96ed-0064b65eff97",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 77240d98-0327-4ce0-96ed-0064b65eff97)",
+  "source": "https://api.riigikogu.ee/api/volumes/77240d98-0327-4ce0-96ed-0064b65eff97",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-05-01&endDate=2020-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
