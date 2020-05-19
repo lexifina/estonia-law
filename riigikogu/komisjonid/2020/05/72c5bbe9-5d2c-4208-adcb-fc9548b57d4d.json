@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni väljasõiduistung teisipäev, 19.05.2020 kell 14.30",
+  "sitting_time": "2020-05-19T14:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Informatsioon julgeolekuolukorra arengutest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7aad2a7d-3536-446a-9cdd-a968512f29c3"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2412288e-1c70-425e-9142-9e7d7f6fb42d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 19.05.2020",
+      "uuid": "95df9154-f434-4d79-b2db-8eee5804c9be",
+      "files": [
+        "VÄLK_protokoll_19.05.2020.asice",
+        "VÄLK_protokoll_20200519.pdf"
+      ]
+    }
+  ],
+  "uuid": "72c5bbe9-5d2c-4208-adcb-fc9548b57d4d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 72c5bbe9-5d2c-4208-adcb-fc9548b57d4d)",
+  "source": "https://api.riigikogu.ee/api/volumes/72c5bbe9-5d2c-4208-adcb-fc9548b57d4d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-05-01&endDate=2020-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
