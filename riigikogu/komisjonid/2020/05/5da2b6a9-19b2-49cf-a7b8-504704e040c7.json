@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung teisipäev, 19.05.2020 kell 14.00",
+  "sitting_time": "2020-05-19T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kollektiivse pöördumise \"Anname koolikogukonnale suuremad õigused\" arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1aae3590-3e57-4ab1-a58b-3d0f2974a1c0"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8d39cf90-dd05-4056-9490-de5d56292dbc"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KULK protokoll 19.05.2020",
+      "uuid": "68ceaebc-333a-4a7c-bddb-f450ccebd138",
+      "files": [
+        "KULK_protokoll_19.05.2020.asice",
+        "Lisa_1_(kollektiivne_pöördumine).pdf",
+        "Protokoll_nr_60_(19.05.2020).pdf"
+      ]
+    }
+  ],
+  "uuid": "5da2b6a9-19b2-49cf-a7b8-504704e040c7",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 5da2b6a9-19b2-49cf-a7b8-504704e040c7)",
+  "source": "https://api.riigikogu.ee/api/volumes/5da2b6a9-19b2-49cf-a7b8-504704e040c7",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-05-01&endDate=2020-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
