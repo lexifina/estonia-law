@@ -1,0 +1,35 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung neljapäev, 21.05.2020 kell 14.00",
+  "sitting_time": "2020-05-21T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ee1dc372-c666-401c-a478-8d3114ab0291"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KULK protokoll 21.05.20",
+      "uuid": "25d1e192-7f4e-46ee-9573-eca287725353",
+      "files": [
+        "Lisa_1_(Ajakirjanduse_defineerimine_loomealana_ja_ajakirjanduse_toetamine).pdf",
+        "Protokoll_nr_61_(21.05.2020).pdf",
+        "KULK_protokoll_21.05.20.asice"
+      ]
+    }
+  ],
+  "uuid": "117d2d81-9cc5-4807-bc02-61b04eaf442d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 117d2d81-9cc5-4807-bc02-61b04eaf442d)",
+  "source": "https://api.riigikogu.ee/api/volumes/117d2d81-9cc5-4807-bc02-61b04eaf442d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-05-01&endDate=2020-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
