@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Korruptsioonivastane erikomisjon",
+  "committee_uuid": "e4f2977a-e8c3-4fa0-8f3d-9df9acd6377f",
+  "title": "Komisjoni istung neljapäeval, 21. mail 2020 kell 9.00",
+  "sitting_time": "2020-05-21T09:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine riigikontrolör Janar Holmiga",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "250c1c11-7fa6-4032-acd2-75e0e8c29385"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "275c600e-b520-431b-9909-7732af64aff6"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KVEK protokoll 21.05.2020",
+      "uuid": "7e086898-560b-4b5d-9342-ab2fe08837a0",
+      "files": [
+        "KVEK_protokoll_21.05.2020.asice",
+        "KVEK_protokoll_21.05.2020_.pdf"
+      ]
+    }
+  ],
+  "uuid": "76412886-c29c-48a6-96e6-07fc7bf1085e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 76412886-c29c-48a6-96e6-07fc7bf1085e)",
+  "source": "https://api.riigikogu.ee/api/volumes/76412886-c29c-48a6-96e6-07fc7bf1085e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-05-01&endDate=2020-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
