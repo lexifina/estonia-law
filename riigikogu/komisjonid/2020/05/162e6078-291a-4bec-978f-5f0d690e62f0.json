@@ -1,0 +1,43 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung neljapäev, 21.05.2020 kell 13.30",
+  "sitting_time": "2020-05-21T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse seaduse muutmise seaduse eelnõu (187 SE) ettevalmistamine esimeseks lugemiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e4d0eb1f-e78b-46c2-9f08-702b93676a37"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "88297190-723f-403d-90d8-acc43ca782a6"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "PÕSK protokoll 21.05.2020",
+      "uuid": "033309d8-5d94-42e0-9e2f-4289d1537eb3",
+      "files": [
+        "PÕSK.protokoll.21.05.2020.pdf",
+        "Volitus_ToomastRõivas_korraline.pdf",
+        "PÕSK_protokoll_21.05.2020.asice",
+        "komisjoni_asendus_21.05.20.asice",
+        "komisjoni_asendus_07.05.20.docx"
+      ]
+    }
+  ],
+  "uuid": "162e6078-291a-4bec-978f-5f0d690e62f0",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 162e6078-291a-4bec-978f-5f0d690e62f0)",
+  "source": "https://api.riigikogu.ee/api/volumes/162e6078-291a-4bec-978f-5f0d690e62f0",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-05-01&endDate=2020-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
