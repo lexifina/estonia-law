@@ -1,0 +1,60 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni erakorraline istung neljapäev, 21.05.2020, kell 13.45",
+  "sitting_time": "2020-05-21T13:45:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "167ac3d7-3ad2-4ecf-8087-89b0d2265818"
+    },
+    {
+      "order": 2,
+      "title": "Kõrgemate riigiteenijate ametipalkade seaduse muutmise seaduse eelnõu (166 SE) esimeseks lugemiseks ettevalmistamise jätkamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e550ed1f-07f7-4f1f-8abd-d25bab3d2436"
+    },
+    {
+      "order": 3,
+      "title": "Isikuandmete automatiseeritud töötlemisel isiku kaitse konventsiooni muutmise protokolli ratifitseerimise seaduse eelnõu (143 SE) esimeseks lugemiseks ettevalmistamise jätkamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3edacb5b-f11c-4623-86ae-76fac7baae98"
+    },
+    {
+      "order": 4,
+      "title": "Riigikontrolli seaduse, erakonnaseaduse ja teiste seaduste muutmise seaduse (erakondade rahastamise kontrollorgan) eelnõu (193 SE) esimeseks lugemiseks ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "785cc996-c92a-42d0-9285-5651a526c903"
+    },
+    {
+      "order": 5,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4fd799e1-529c-4b47-b192-52fae92edd36"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "PÕSK protokoll 21.05.2020",
+      "uuid": "6d019b90-6a16-4899-b4ab-1925303cab0e",
+      "files": [
+        "PÕSK_protokoll_21.05.2020.asice",
+        "PÕSK.protokoll.21.05.2020.(erakorraline_istung).pdf",
+        "komisjoni_asendus_21.05.20.asice",
+        "komisjoni_asendus_07.05.20.docx"
+      ]
+    }
+  ],
+  "uuid": "e0cb2e8c-8ca7-4304-bab1-7f3e6ef20eb5",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e0cb2e8c-8ca7-4304-bab1-7f3e6ef20eb5)",
+  "source": "https://api.riigikogu.ee/api/volumes/e0cb2e8c-8ca7-4304-bab1-7f3e6ef20eb5",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-05-01&endDate=2020-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
