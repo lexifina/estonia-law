@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung neljapäev, 21.05.2020 kell 13.00",
+  "sitting_time": "2020-05-21T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade valitsuse strateegilisest kommunikatsioonist",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8f6a765d-7473-458c-ae3a-04e4c5f49d1c"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud välisteenistuse seaduse muutmise ja sellega seonduvalt teiste seaduste muutmise seaduse eelnõu (45 SE) ettevalmistamine teiseks lugemiseks – menetlusotsused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "217f063f-93a0-4634-b1ab-589c7fe893d6"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e7c2cea8-2835-4878-a0e7-7594168c3c82"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 21.05.2020",
+      "uuid": "72a094a7-80b5-4cf4-8de4-eee4e39eca23",
+      "files": [
+        "VÄLK_protokoll_20200521.pdf",
+        "komisjoni_asendus_20.05.20.asice",
+        "VÄLK_protokoll_21.05.2020.asice"
+      ]
+    }
+  ],
+  "uuid": "938e7c1f-ae94-4252-bbfb-9520a6d16b09",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 938e7c1f-ae94-4252-bbfb-9520a6d16b09)",
+  "source": "https://api.riigikogu.ee/api/volumes/938e7c1f-ae94-4252-bbfb-9520a6d16b09",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-05-01&endDate=2020-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
