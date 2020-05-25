@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 25.05.2020 kell 13.15",
+  "sitting_time": "2020-05-25T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "98c29cd8-b44f-49b6-824a-6c244733e34e"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli ülevate „Ülevaade rahandusprognoosi ja -seirega seotud riskidest riigi eelarvepoliitikas“ arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9b295f58-013a-4afb-be16-6bbcecc4a22d"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4fa1eb87-a6c8-466f-8a1b-d8ec0df55dd8"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 25.05.2020.",
+      "uuid": "cf681c90-bb86-454d-9b27-58fc3760fb21",
+      "files": [
+        "Protokoll_nr_33._25.05.2020.pdf",
+        "REKK_protokoll_25.05.2020.asice",
+        "REKK_eelarve_prognoos_seire_25.05_esitlus.pptx"
+      ]
+    }
+  ],
+  "uuid": "0348c7a7-b370-4df8-a74c-bbc3b9803182",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0348c7a7-b370-4df8-a74c-bbc3b9803182)",
+  "source": "https://api.riigikogu.ee/api/volumes/0348c7a7-b370-4df8-a74c-bbc3b9803182",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-05-01&endDate=2020-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
