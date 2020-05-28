@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung neljapäev, 28.05.2020 kell 14.00",
+  "sitting_time": "2020-05-28T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4c70de5a-bd38-474f-8780-52df8e44c80d"
+    },
+    {
+      "order": 2,
+      "title": "Jätkuarutelu Eesti valmisolekust viirushaigustega tegelemiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9d105e3c-dc33-4ad4-b6c5-b52a9b28339c"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c9af4660-5613-4df9-b35f-e87925e6db66"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "SOTK protokoll 28.05.2020",
+      "uuid": "ef949017-6797-4df2-87ed-77ef6924d7e8",
+      "files": [
+        "SOTK_protokoll_28.05.2020.asice",
+        "Protokoll.pdf"
+      ]
+    }
+  ],
+  "uuid": "d7573973-2a4d-457d-b0f5-a9a86a5347e3",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d7573973-2a4d-457d-b0f5-a9a86a5347e3)",
+  "source": "https://api.riigikogu.ee/api/volumes/d7573973-2a4d-457d-b0f5-a9a86a5347e3",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-05-01&endDate=2020-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
