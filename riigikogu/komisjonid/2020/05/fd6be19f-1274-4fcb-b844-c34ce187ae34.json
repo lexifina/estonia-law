@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung reede, 29.05.2020 kell 10.00",
+  "sitting_time": "2020-05-29T10:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "abe1a37f-06bd-48b3-a851-f527aeb5c61c"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad 29. mail 2020 toimuval Euroopa Liidu välisasjade nõukogu videokohtumisel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c41e6c58-4e42-403e-867b-b430fe29647b"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1dcb4626-8148-4783-89c7-8b9fa1a01c5d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 29.05.2020",
+      "uuid": "b600ece3-3292-45d5-9edd-7721b64c5389",
+      "files": [
+        "VÄLK_protokoll_20200529.pdf",
+        "VÄLK_protokoll_29.05.2020.asice"
+      ]
+    }
+  ],
+  "uuid": "fd6be19f-1274-4fcb-b844-c34ce187ae34",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid fd6be19f-1274-4fcb-b844-c34ce187ae34)",
+  "source": "https://api.riigikogu.ee/api/volumes/fd6be19f-1274-4fcb-b844-c34ce187ae34",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-05-01&endDate=2020-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
