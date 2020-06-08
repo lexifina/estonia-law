@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 8.06.2020 kell 13.15",
+  "sitting_time": "2020-06-08T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a1521e3f-96bf-400d-8cf7-411ec5d845aa"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli kontrolliaruande „Maaparandussüsteemide korrastamise jätkusuutlikkus“ arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "eb7055c2-00e3-4852-a664-4ac1875eec94"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "94cef21a-e2df-4722-a704-c4050f2e7e18"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 8.06.2020",
+      "uuid": "7a77eb0b-2fab-44f2-9bbe-726c6c0f7822",
+      "files": [
+        "REKK_protokoll_8.06.2020.asice",
+        "Protokoll_nr_36._08.06.2020.pdf",
+        "REKK_istung_ettekanne_maaparandus_08062020_AAndresson.pptx"
+      ]
+    }
+  ],
+  "uuid": "245dd14c-3e6b-4205-8f19-f0f3e35c18c6",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 245dd14c-3e6b-4205-8f19-f0f3e35c18c6)",
+  "source": "https://api.riigikogu.ee/api/volumes/245dd14c-3e6b-4205-8f19-f0f3e35c18c6",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-06-01&endDate=2020-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
