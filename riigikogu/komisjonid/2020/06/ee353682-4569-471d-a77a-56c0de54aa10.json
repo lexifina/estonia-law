@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung teisipäev, 9.06.2020 kell 14.00",
+  "sitting_time": "2020-06-09T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Arvamuse andmine rahanduskomisjonile - keskkonnatasude seaduse muutmise seaduse eelnõu (204 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8975efce-3a9b-41d2-b60b-aaddc5da285b"
+    },
+    {
+      "order": 2,
+      "title": "Jäätmekäitluse teemaline väljasõiduistung",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2a435224-7d13-44a0-9fef-663a044e13d9"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ce869669-3713-4955-819b-6d0c75b7a1f8"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK protokoll 09.06.2020",
+      "uuid": "f1334e28-a67e-42c6-b117-f3ede7e902c9",
+      "files": [
+        "KEKK_protokoll_09.06.2020.pdf",
+        "KEKK_protokoll_09.06.2020.asice"
+      ]
+    }
+  ],
+  "uuid": "ee353682-4569-471d-a77a-56c0de54aa10",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ee353682-4569-471d-a77a-56c0de54aa10)",
+  "source": "https://api.riigikogu.ee/api/volumes/ee353682-4569-471d-a77a-56c0de54aa10",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-06-01&endDate=2020-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
