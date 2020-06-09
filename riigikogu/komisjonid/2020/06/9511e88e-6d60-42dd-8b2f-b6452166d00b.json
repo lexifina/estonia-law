@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni väljasõiduistung teisipäev, 9.06.2020 kell 14.00",
+  "sitting_time": "2020-06-09T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kriisivarud",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ce960270-e7b5-469d-b531-0e332eb72d8c"
+    },
+    {
+      "order": 2,
+      "title": "Ohuhinnang",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4ab26e02-cbeb-4151-97fc-8a04d3c0638e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RIKK protokoll 09.06.2020",
+      "uuid": "e9ae3c9f-e86c-4898-aab9-be6e5165740d",
+      "files": [
+        "Protokoll.pdf",
+        "RIKK_protokoll_09.06.2020.asice"
+      ]
+    }
+  ],
+  "uuid": "9511e88e-6d60-42dd-8b2f-b6452166d00b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9511e88e-6d60-42dd-8b2f-b6452166d00b)",
+  "source": "https://api.riigikogu.ee/api/volumes/9511e88e-6d60-42dd-8b2f-b6452166d00b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-06-01&endDate=2020-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
