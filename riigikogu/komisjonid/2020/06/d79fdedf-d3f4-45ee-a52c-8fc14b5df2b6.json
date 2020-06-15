@@ -1,0 +1,56 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung esmaspäev, 15.06.2020 kell 11.10",
+  "sitting_time": "2020-06-15T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9ad554e2-2d9d-4e54-8f31-ede35f636268"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade tööturu teemadest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "61c0e324-f902-4fb6-8e0d-e0acd55e436c"
+    },
+    {
+      "order": 3,
+      "title": "Arvamuse andmine Euroopa Liidu asjade komisjonile: Eesti seisukohad Euroopa rohelise kokkuleppe (COM(2019) 640) ja Euroopa kliimaseaduse eelnõu (COM(2020) 80) kohta",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cda5f18f-a00d-4f8a-ba7c-70f9bd30d4cb"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2883f15f-8d73-4c2e-9767-e6a0988fd17a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAJK protokoll nr 66 15.06.2020",
+      "uuid": "8baf44f2-8c94-4a7b-be3a-38464472bf6a",
+      "files": [
+        "OSKA_slaidid.pdf",
+        "Keskkonnaministeerium.pdf",
+        "Töötukassa_slaidid.pdf",
+        "Statistikaameti_slaidid.pdf",
+        "MAJK_protokoll_nr_66_15.06.2020.pdf",
+        "MAJK_protokoll_nr_66_15.06.2020.asice"
+      ]
+    }
+  ],
+  "uuid": "d79fdedf-d3f4-45ee-a52c-8fc14b5df2b6",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d79fdedf-d3f4-45ee-a52c-8fc14b5df2b6)",
+  "source": "https://api.riigikogu.ee/api/volumes/d79fdedf-d3f4-45ee-a52c-8fc14b5df2b6",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-06-01&endDate=2020-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
