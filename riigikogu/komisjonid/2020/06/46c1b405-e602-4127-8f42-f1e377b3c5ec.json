@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung teisipäev, 16.06.2020 kell 13.00",
+  "sitting_time": "2020-06-16T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikogu riigieelarve kontrolli erikomisjoni tegevuse aruande (mai 2019 – juuni 2020) kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "af7b85d9-7e02-4155-acfa-97e5f78f72c5"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli kontrolliaruande tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "255b8c08-6cf3-4526-8709-9f03fbea1d88"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 16.06.2020",
+      "uuid": "e422df81-37c1-46c3-a949-1ed30739ec89",
+      "files": [
+        "REKK_protokoll_16.06.2020.asice",
+        "Protokoll_nr_38._16.06.2020.pdf"
+      ]
+    }
+  ],
+  "uuid": "46c1b405-e602-4127-8f42-f1e377b3c5ec",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 46c1b405-e602-4127-8f42-f1e377b3c5ec)",
+  "source": "https://api.riigikogu.ee/api/volumes/46c1b405-e602-4127-8f42-f1e377b3c5ec",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-06-01&endDate=2020-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
