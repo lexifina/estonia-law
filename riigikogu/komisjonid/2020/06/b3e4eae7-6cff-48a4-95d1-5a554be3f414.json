@@ -1,0 +1,48 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Korruptsioonivastane erikomisjon",
+  "committee_uuid": "e4f2977a-e8c3-4fa0-8f3d-9df9acd6377f",
+  "title": "Komisjoni istung neljapäeval, 18. juunil 2020 kell 9.00",
+  "sitting_time": "2020-06-18T09:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Lobitöö käsitlemise vahekokkuvõtte ja edasiste plaanide kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "45742630-b494-45d6-93bf-26beb03f500c"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu XIV koosseisu korruptsioonivastase erikomisjoni tegevuse ja tulemuste ülevaate kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4ee5ab8c-80d4-4f54-a9e8-9a69a55bca6e"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e2c291a1-363d-4858-b241-7df2996bff09"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KVEK protokoll 18.06.2020",
+      "uuid": "b79eed5b-4f52-4fbd-8c96-a60cc5edfdee",
+      "files": [
+        "KVEK_ülevaade_lobitöö_käsitlemisest_.pdf",
+        "KVEK_aruanne_2019-2020.pdf",
+        "KVEK_protokoll_18.06.2020.pdf",
+        "KVEK_protokoll_18.06.2020.asice"
+      ]
+    }
+  ],
+  "uuid": "b3e4eae7-6cff-48a4-95d1-5a554be3f414",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b3e4eae7-6cff-48a4-95d1-5a554be3f414)",
+  "source": "https://api.riigikogu.ee/api/volumes/b3e4eae7-6cff-48a4-95d1-5a554be3f414",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-06-01&endDate=2020-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
