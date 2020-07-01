@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/122022019013> (version in force from 2019-10-01)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/130062020026> (version in force from 2020-07-01)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -38,6 +38,9 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/122022019013> (version in force 
 | [§ 29](para-029.md) | Enne käesoleva seaduse jõustumist ehitatud ehitisregistrisse kandmata ehitis |
 | [§ 30](para-030.md) | Olemasoleva ehitise kaitsevöönd |
 | [§ 30¹](para-030b1.md) | Kiire elektroonilise side võrgu kasutuselevõtu soodustamine |
+| [§ 30²](para-030b2.md) | Ehitusseadustiku §-s 65¹ sätestatud nõuete rakendamine |
+| [§ 30³](para-030b3.md) | Ehitusseadustiku §-s 65² sätestatud rekonstrueerimise toetusmeetmete nõuete rakendamine |
+| [§ 30⁴](para-030b4.md) | Ehitusseadustiku §-s 69¹ sätestatud tehnosüsteemide nõuete rakendamine |
 | [§ 31](para-031.md) |  |
 | [§ 73](para-073.md) |  |
 | [§ 74](para-074.md) | Seaduste jõustumine |
