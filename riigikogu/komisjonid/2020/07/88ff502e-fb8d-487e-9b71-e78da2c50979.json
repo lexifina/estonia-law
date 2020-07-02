@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung neljapäev, 2.07.2020 kell 15.00",
+  "sitting_time": "2020-07-02T15:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade Eesti tegevusest ÜRO Julgeolekunõukogu valitud liikmena",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "287b43fb-2834-4174-950c-40c16ca3dbe6"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ee30c9b4-bfe2-405d-b43d-f47d94c5bc8d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 02.07.2020",
+      "uuid": "e0473191-be46-4ec9-8881-a5604087f855",
+      "files": [
+        "VÄLK_protokoll_02.07.2020.asice",
+        "VÄLK_protokoll_20200702.pdf"
+      ]
+    }
+  ],
+  "uuid": "88ff502e-fb8d-487e-9b71-e78da2c50979",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 88ff502e-fb8d-487e-9b71-e78da2c50979)",
+  "source": "https://api.riigikogu.ee/api/volumes/88ff502e-fb8d-487e-9b71-e78da2c50979",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-07-01&endDate=2020-07-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
