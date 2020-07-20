@@ -8,9 +8,11 @@ karistatakse rahalise karistuse või kuni viieaastase vangistusega.
 
 1) grupi poolt;
 
-2) vähemalt teist korda või
+2) vähemalt teist korda;
 
-3) suures ulatuses –
+3) suures ulatuses või
+
+4) kui see on toime pandud kohustatud isiku majandus-, kutse- või ametitegevuse käigus, –
 
 karistatakse kahe- kuni kümneaastase vangistusega.
 
