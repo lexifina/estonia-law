@@ -1,0 +1,42 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni erakorraline istung esmaspäev, 27.07.2020 kell 11.00",
+  "sitting_time": "2020-07-27T11:00:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade riigieelarve erimeetmete seisust ja majanduse olukorrast.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9e32ba3d-d774-4914-ae53-42a92e95a9ae"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "77dfe386-533e-406e-9460-db1c68994d85"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 27.07.2020",
+      "uuid": "80974af3-de69-4853-8ba9-e5245e292a72",
+      "files": [
+        "RAM_Eesti_maj.olukorrast_27.7.2020.pdf",
+        "RAM_maksulaek_lisaeelarve_meetmed.pdf",
+        "RAHK_erak_protokoll_83_27_07_2020_.pdf",
+        "RAHK_protokoll_27.07.2020.asice"
+      ]
+    }
+  ],
+  "uuid": "4b337715-cc4a-41f3-86e0-fa49840a292b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 4b337715-cc4a-41f3-86e0-fa49840a292b)",
+  "source": "https://api.riigikogu.ee/api/volumes/4b337715-cc4a-41f3-86e0-fa49840a292b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-07-01&endDate=2020-07-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
