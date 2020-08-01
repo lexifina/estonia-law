@@ -2,13 +2,13 @@
 
 (1) Kutseõppe kvaliteedi hindamine (edaspidi *kvaliteedi hindamine*) on sisehindamisel põhinev kooliväliste sõltumatute hindajate läbiviidav välishindamine, mis toimub üks kord kuue aasta jooksul. Selle käigus hinnatakse õppekasvatustöö toimivust ja jätkusuutlikkust, muu hulgas õppekavaarenduse, õppimise ja õpetamise, eestvedamise ja juhtimise ning ressursside kasutamise toimivust ja jätkusuutlikkust.
 
-(2) Kvaliteedi hindamist korraldab Haridus- ja Teadusministeerium. Valdkonna eest vastutav minister võib kvaliteedi hindamise korraldamise volitada riigi sihtasutusele või halduskoostöö seaduse alusel valitud isikule, sõlmides selleks halduslepingu. Halduslepingu täitmise üle teostab järelevalvet Haridus- ja Teadusministeerium.
+(2) Kvaliteedi hindamist korraldab Haridus- ja Noorteamet.
 
 (3) Kvaliteedi hindamise tingimused ja korra kehtestab
 
 määrusega.
 
-(4) Kvaliteeti hindab hindamisnõukogu, mille moodustab ja mille töökorra kinnitab valdkonna eest vastutav minister või volitatud riigi sihtasutuse või halduskoostöö seaduse alusel valitud isiku juhtorgan.
+(4) Kvaliteeti hindab hindamisnõukogu, mille moodustab ja mille töökorra kinnitab Haridus- ja Noorteamet.
 
 (5) Hindamisnõukogu koosseisus on:
 

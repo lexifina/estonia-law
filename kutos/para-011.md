@@ -1,6 +1,6 @@
 # § 11. Ekspertiis
 
-(1) Õppe läbiviimise õiguse andmisel teeb Haridus- ja Teadusministeerium õppekavarühmas ekspertiisi. Haridus- ja Teadusministeerium võib ekspertiisi tegemise volitada riigi sihtasutusele või halduskoostöö seaduse alusel valitud isikule, sõlmides selleks halduslepingu. Halduslepingu täitmise üle teostab järelevalvet Haridus- ja Teadusministeerium. Ekspertiisi käigus hinnatakse:
+(1) Õppe läbiviimise õiguse andmisel teeb Haridus- ja Noorteamet õppekavarühmas ekspertiisi. Ekspertiisi käigus hinnatakse:
 
 1) õppekavas sätestatud õpiväljundite saavutatavust ja vastavust kutseharidusstandardi nõuetele;
 
