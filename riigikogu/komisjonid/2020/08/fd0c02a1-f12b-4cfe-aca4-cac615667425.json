@@ -1,0 +1,60 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni erakorraline istung teisipäev, 11.08.2020 kell 12.00",
+  "sitting_time": "2020-08-11T12:00:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ba952f6c-d1a6-4974-b1a4-7c9b07cd9891"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade Eesti majanduse hetkeseisust, maksude laekumisest, eelarvest ja lisaeelarve majandusmeetmetest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "23e5b8e3-4ef6-41d7-a1f8-d17aa73ffd46"
+    },
+    {
+      "order": 3,
+      "title": "Ülevaade ELi majanduse taaskäivitamise kavast ja ELi pikaajalisest eelarve kavast",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "525be954-3788-4286-b96b-cb2a367e6f98"
+    },
+    {
+      "order": 4,
+      "title": "Ülevaade rahapesuvastasest tegevust.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b79de912-b8da-487d-8eb4-8b2fa7494c2d"
+    },
+    {
+      "order": 5,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bbf8d901-f46e-48ce-9b74-1a4ed2629f16"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 11.08.2020",
+      "uuid": "722b675b-6a25-4519-84bc-b7fbfb2adf70",
+      "files": [
+        "RAHK_protokoll_11.08.2020.asice",
+        "RAHK_protokoll_84_11_08_2020_erakorraline.pdf",
+        "RAM_ettekanne_11.08.2020_lia_2.pdf",
+        "RAM_ettekanne_11.08.2020_lisa_1.pdf"
+      ]
+    }
+  ],
+  "uuid": "fd0c02a1-f12b-4cfe-aca4-cac615667425",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid fd0c02a1-f12b-4cfe-aca4-cac615667425)",
+  "source": "https://api.riigikogu.ee/api/volumes/fd0c02a1-f12b-4cfe-aca4-cac615667425",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-08-01&endDate=2020-08-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
