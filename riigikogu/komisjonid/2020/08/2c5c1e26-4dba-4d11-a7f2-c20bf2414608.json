@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni erakorraline istung neljapäev, 13.08.2020 kell 13.00",
+  "sitting_time": "2020-08-13T13:00:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade olukorrast Valgevenes pärast 9. augusti 2020 presidendivalimisi",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ddd478e7-2ab3-4925-96ac-0a45fd6878e8"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad 14. augustil 2020 toimuval Euroopa Liidu välisministrite mitteametlikul videokohtumisel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "869fff5d-dfc0-4601-9308-28356264a534"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a2ad1c14-1313-4b8c-8e74-0a9a000886d5"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 13.08.2020",
+      "uuid": "fdd72b0f-5895-4158-8654-0f01971660ef",
+      "files": [
+        "VÄLK_protokoll_13.08.2020.asice",
+        "VÄLK_protokoll_20200813.pdf"
+      ]
+    }
+  ],
+  "uuid": "2c5c1e26-4dba-4d11-a7f2-c20bf2414608",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2c5c1e26-4dba-4d11-a7f2-c20bf2414608)",
+  "source": "https://api.riigikogu.ee/api/volumes/2c5c1e26-4dba-4d11-a7f2-c20bf2414608",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-08-01&endDate=2020-08-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
