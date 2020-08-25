@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung teisipäev, 25.08.2020 kell 11.00",
+  "sitting_time": "2020-08-25T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikogu avalduse eelnõu (AE 223) „Demokraatia ja kodanikuühiskonna toetuseks Valgevenes“ ettevalmistamine esimeseks lugemiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dad68239-63c8-4ef9-8bd6-3d69bb626d40"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad 26. augustil 2020 Berliinis toimuval Euroopa Liidu kaitseministrite mitteametlikul kohtumisel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "008f061a-f92e-4ede-abda-9d9059f734ea"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "57236679-a8a2-4baa-aa11-79010b47b408"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 25.08.2020",
+      "uuid": "c3c284a3-2931-42eb-8e1d-cb676febaa40",
+      "files": [
+        "VÄLK_protokoll_20200825.pdf",
+        "VÄLK_protokoll_25.08.2020.asice"
+      ]
+    }
+  ],
+  "uuid": "97a01137-a085-4b1c-b66e-03b350c52ae5",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 97a01137-a085-4b1c-b66e-03b350c52ae5)",
+  "source": "https://api.riigikogu.ee/api/volumes/97a01137-a085-4b1c-b66e-03b350c52ae5",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-08-01&endDate=2020-08-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
