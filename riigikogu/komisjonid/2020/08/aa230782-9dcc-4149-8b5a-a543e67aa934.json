@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung kolmapäev, 26.08.2020 kell 13.00",
+  "sitting_time": "2020-08-26T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 27.-28. augustil 2020 Berliinis toimuval Euroopa Liidu välisministrite mitteametlikul kohtumisel (Gymnich)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c4e586c0-f4a0-4138-9c03-f418954e6cc3"
+    },
+    {
+      "order": 2,
+      "title": "Aktuaalsed välispoliitilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "15dbe371-502b-4226-8d42-7c2f0e684106"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2616809f-758d-4af4-a300-8ada11bb42af"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 26.08.2020",
+      "uuid": "99363277-bccc-4a67-9fdd-7d813a698955",
+      "files": [
+        "VÄLK_protokoll_26.08.2020.asice",
+        "VÄLK_protokoll_20200826.pdf",
+        "EKRE_asendus_26.08.20.PDF"
+      ]
+    }
+  ],
+  "uuid": "aa230782-9dcc-4149-8b5a-a543e67aa934",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid aa230782-9dcc-4149-8b5a-a543e67aa934)",
+  "source": "https://api.riigikogu.ee/api/volumes/aa230782-9dcc-4149-8b5a-a543e67aa934",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-08-01&endDate=2020-08-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
