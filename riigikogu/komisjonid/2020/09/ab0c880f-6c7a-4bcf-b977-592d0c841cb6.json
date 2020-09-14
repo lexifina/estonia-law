@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Majanduskomisjoni ja rahanduskomisjoni ühine istung esmaspäev, 14.09.2020 kell 11:15",
+  "sitting_time": "2020-09-14T11:15:00",
+  "sitting_type": "UHISISTUNG",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e5a1da15-87e3-4561-b7d8-c5a84f22c7f0"
+    },
+    {
+      "order": 2,
+      "title": "Rahandusministeeriumi ülevaade 2020. aasta suvisest majandusprognoosist",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0de426d6-23f1-4fc1-bd85-3ee053f51c73"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9298ab99-b78a-4721-bdf2-d10255761be4"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 14.09.2020",
+      "uuid": "7ff9b361-b6f4-4595-9de7-807106d46944",
+      "files": [
+        "Protokoll_14.09.2020.asice",
+        "RAHK_ja_MAJK_protokoll_25_14_09_2020.pdf",
+        "RAHKMAJK_makro+rahandus_14.9.2020.pptx"
+      ]
+    }
+  ],
+  "uuid": "ab0c880f-6c7a-4bcf-b977-592d0c841cb6",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ab0c880f-6c7a-4bcf-b977-592d0c841cb6)",
+  "source": "https://api.riigikogu.ee/api/volumes/ab0c880f-6c7a-4bcf-b977-592d0c841cb6",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-09-01&endDate=2020-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
