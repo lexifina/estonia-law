@@ -1,0 +1,49 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 14.09.2020 kell 13.13",
+  "sitting_time": "2020-09-14T13:13:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1e058e3f-e313-4699-8f3d-78c0489efdab"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli kontrolliaruande „Riigi 2019. aasta raamatupidamise aastaaruande õigsus ja tehingute seaduslikkus“ arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "92098a09-66ff-45ee-a1cd-01aedd3697b4"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c71c2cb4-c17f-49e9-a5cc-94d5a137d5d0"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 14.09.2020",
+      "uuid": "2e88474e-571d-45c6-9a36-d6cc331e6cab",
+      "files": [
+        "REKK_protokoll_14.09.2020.asice",
+        "Protokoll_nr_39._14.09.2020.pdf",
+        "O.Loone_14.09..pdf",
+        "erikomisjonide_kokkuvõte_TRK_-_8_sept_2020.docx",
+        "RMKA2019_REKK_Riigikontroll.pptx"
+      ]
+    }
+  ],
+  "uuid": "3de3e65a-d040-4ea4-87c2-9a916fccc215",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3de3e65a-d040-4ea4-87c2-9a916fccc215)",
+  "source": "https://api.riigikogu.ee/api/volumes/3de3e65a-d040-4ea4-87c2-9a916fccc215",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-09-01&endDate=2020-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
