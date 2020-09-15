@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung teisipäev, 15.09.2020 kell 13.00",
+  "sitting_time": "2020-09-15T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Informatsioon julgeolekuolukorra arengutest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "65786210-3f8d-4fe3-aca2-9828c9173879"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade Eesti tegevusest ÜRO Julgeolekunõukogu valitud liikmena ning Eesti prioriteedid algaval ÜRO 75. Peaassambleel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8888d3fc-245e-4d31-a1a1-54fcfa67d876"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "96d35de8-5e37-44d6-93d7-e3d93b081f7b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 15.09.2020",
+      "uuid": "a756da00-37a6-4238-a6b3-77d9d0f67881",
+      "files": [
+        "VÄLK_protokoll_15.09.2020.asice",
+        "VÄLK_protokoll_20201509.pdf"
+      ]
+    }
+  ],
+  "uuid": "440f752b-b83a-4c20-90af-15fab40544f0",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 440f752b-b83a-4c20-90af-15fab40544f0)",
+  "source": "https://api.riigikogu.ee/api/volumes/440f752b-b83a-4c20-90af-15fab40544f0",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-09-01&endDate=2020-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
