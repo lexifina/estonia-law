@@ -1,0 +1,42 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 15.09.2020 kell 14.00",
+  "sitting_time": "2020-09-15T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kollektiivne pöördumine \"Karusloomafarmide keelustamine Eestis\"",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9a3a9534-700e-4f09-8c87-7dd4687ea198"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d10793b7-3311-473b-a358-746e482c164d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 15.09.2020",
+      "uuid": "1b7712a7-94f2-4fcb-9e09-60f9f37924bc",
+      "files": [
+        "064_protokoll_Nähtamatud_Loomad.pdf",
+        "064_protokoll_15.09.2020.pdf",
+        "MAEK_protokoll_15.09.2020.asice",
+        "064_protokolli_lisa._volitus.pdf"
+      ]
+    }
+  ],
+  "uuid": "0b9e055b-a7bc-4d69-92e0-d6570699f929",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0b9e055b-a7bc-4d69-92e0-d6570699f929)",
+  "source": "https://api.riigikogu.ee/api/volumes/0b9e055b-a7bc-4d69-92e0-d6570699f929",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-09-01&endDate=2020-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
