@@ -1,0 +1,42 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung teisipäev, 15.09.2020 algusega 10 min pärast täiskogu istungi lõppu",
+  "sitting_time": "2020-09-15T10:11:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Euroopa Keskpika Ilmaennustuse Keskuse asutamise konventsiooniga ühinemiseks vajalike lepingute ratifitseerimise seaduse eelnõu (229 SE) esimese lugemise ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9761ab4d-7462-4bca-b354-9556feef9c8a"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "25a902bc-5079-4595-95e9-a6fe1c7d289e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK protokoll 15.09.2020",
+      "uuid": "31cb7ded-8a5f-4377-ba79-83ee22a8fbd1",
+      "files": [
+        "ECMWF_liitumine_KKOM_14092020.pdf",
+        "KEKK_15.09.2020_protokoll.pdf",
+        "Asendusliikme_volikiri_(Hepner).pdf",
+        "KEKK_15.09.2020_protokoll.asice"
+      ]
+    }
+  ],
+  "uuid": "795259f4-1150-4d72-ba19-54e31c24770b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 795259f4-1150-4d72-ba19-54e31c24770b)",
+  "source": "https://api.riigikogu.ee/api/volumes/795259f4-1150-4d72-ba19-54e31c24770b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-09-01&endDate=2020-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
