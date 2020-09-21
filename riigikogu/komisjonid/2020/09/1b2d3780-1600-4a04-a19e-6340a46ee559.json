@@ -1,0 +1,50 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung esmaspäev, 21.09.2020 kell 14.00",
+  "sitting_time": "2020-09-21T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bf9ef333-f8f0-4edd-98f6-824eb5256607"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad 22. septembril 2020 toimuval Euroopa Liidu üldasjade nõukogu istungil",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "15fc2b6d-053c-4388-98f3-7bb96e17ab38"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4a667f29-db14-4464-ba59-f5daba892deb"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ELAK protokoll 21.09.2020",
+      "uuid": "72c697e9-65a3-4b09-b6b5-a3f2dd12b88b",
+      "files": [
+        "ELAK_asendus21.09.20.docx",
+        "21.09_Asendusliige_Raivo_Tamm.pdf",
+        "21.09_Asendusliige_Igro_Kravtšenko.asice",
+        "21.09_Asendusliige_Ruuben_Kaalep.pdf",
+        "ELAK_protokoll_21.09.2020.pdf",
+        "ELAK_protokoll_21.09.2020.asice"
+      ]
+    }
+  ],
+  "uuid": "1b2d3780-1600-4a04-a19e-6340a46ee559",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 1b2d3780-1600-4a04-a19e-6340a46ee559)",
+  "source": "https://api.riigikogu.ee/api/volumes/1b2d3780-1600-4a04-a19e-6340a46ee559",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-09-01&endDate=2020-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
