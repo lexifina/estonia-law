@@ -1,0 +1,43 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Korruptsioonivastane erikomisjon",
+  "committee_uuid": "e4f2977a-e8c3-4fa0-8f3d-9df9acd6377f",
+  "title": "Riigieelarve kontrolli erikomisjoni ja korruptsioonivastase erikomisjoni ühine istung esmaspäev, 21.09.2020 kell 13.15",
+  "sitting_time": "2020-09-21T13:15:00",
+  "sitting_type": "UHISISTUNG",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c5be0a83-547f-4391-a290-ca07a37a1843"
+    },
+    {
+      "order": 2,
+      "title": "Advokaadibüroo Freeh Sporkin & Sullivan LLP lepinguga seotud asjaolud",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "83ba6a77-0704-4849-ac40-35672afb7a57"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 21.09.2020",
+      "uuid": "ad96916f-5fe7-421a-b097-c0cc41079f3b",
+      "files": [
+        "Protokoll_21.09.2020.asice",
+        "YHIS_21.09.2020.pdf",
+        "Riigieelarve_asendus21_0.docx",
+        "R.Sikkut_21.09..pdf",
+        "J.Valge_21.09..pdf"
+      ]
+    }
+  ],
+  "uuid": "a96a01f9-5132-44f4-88d7-4826ad595a9b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a96a01f9-5132-44f4-88d7-4826ad595a9b)",
+  "source": "https://api.riigikogu.ee/api/volumes/a96a01f9-5132-44f4-88d7-4826ad595a9b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-09-01&endDate=2020-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
