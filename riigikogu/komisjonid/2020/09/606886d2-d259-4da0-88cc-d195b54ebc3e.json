@@ -1,0 +1,42 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni avalik istung esmaspäev, 21.09.2020 kell 11.00",
+  "sitting_time": "2020-09-21T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "16fc0d44-94e1-4144-81ee-54505cf07a8a"
+    },
+    {
+      "order": 2,
+      "title": "Eesti merekaubanduse ning Eesti kui kaubalaevade lipuriigi konkurentsivõime ja arengustsenaariumid",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4098ebb4-bca4-4e11-b53e-fbd5022e0ffa"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAJK protokoll nr 72 21.09.2020",
+      "uuid": "b22247d5-f595-4d66-aedf-15a6b8ea85c8",
+      "files": [
+        "MAJK_protokoll_nr_72_21.09.2020.asice",
+        "Ettekanne_-_Lipuriik.pdf",
+        "Ettekanne_-_Merekaubandus.pdf",
+        "MAJK_protokoll_nr_72_21.09.2020.pdf"
+      ]
+    }
+  ],
+  "uuid": "606886d2-d259-4da0-88cc-d195b54ebc3e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 606886d2-d259-4da0-88cc-d195b54ebc3e)",
+  "source": "https://api.riigikogu.ee/api/volumes/606886d2-d259-4da0-88cc-d195b54ebc3e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-09-01&endDate=2020-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
