@@ -1,0 +1,42 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung teisipäev, 22.09.2020 kell 14.00",
+  "sitting_time": "2020-09-22T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Statistilise metsainventuuri arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e9112c94-4c42-4735-a646-476e0af2836c"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6d21109c-e978-43d7-bc34-72b2adaf30f8"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK protokoll 22.09.2020",
+      "uuid": "25424436-0138-4b31-a3d7-5dfcd15f7758",
+      "files": [
+        "Asendusliige_I._Padar.docx",
+        "Asendusliige_I._Padar.asice",
+        "KEKK_22.09.2020_protokoll.pdf",
+        "KEKK_22.09.2020_protokoll.asice"
+      ]
+    }
+  ],
+  "uuid": "edc623cc-2484-4a7d-92ae-fc557dbfcbae",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid edc623cc-2484-4a7d-92ae-fc557dbfcbae)",
+  "source": "https://api.riigikogu.ee/api/volumes/edc623cc-2484-4a7d-92ae-fc557dbfcbae",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-09-01&endDate=2020-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
