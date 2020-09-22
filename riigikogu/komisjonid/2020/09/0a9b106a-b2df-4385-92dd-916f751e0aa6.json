@@ -1,0 +1,34 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung teisipäev, 22.09.2020 kell 14.00",
+  "sitting_time": "2020-09-22T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade julgeolekuolukorra arengutest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "28196052-2041-41e2-b58a-d44b2e6b7bd3"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RIKK protokoll 22.09.2020",
+      "uuid": "1f8d18e1-29c0-4dc5-ab36-6e90aa21a8af",
+      "files": [
+        "Protokoll.pdf",
+        "RIKK_protokoll_22.09.2020.asice"
+      ]
+    }
+  ],
+  "uuid": "0a9b106a-b2df-4385-92dd-916f751e0aa6",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0a9b106a-b2df-4385-92dd-916f751e0aa6)",
+  "source": "https://api.riigikogu.ee/api/volumes/0a9b106a-b2df-4385-92dd-916f751e0aa6",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-09-01&endDate=2020-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
