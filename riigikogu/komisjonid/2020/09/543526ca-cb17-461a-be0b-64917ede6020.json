@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung teisipäev, 22.09.2020 kell 14.00",
+  "sitting_time": "2020-09-22T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ravimiseaduse ja ravikindlustuse seaduse muutmise seaduse eelnõu (205 SE) kaasamise arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dd33de56-1b98-4038-a430-426f3447a85e"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6953034f-5d34-48b2-999a-10dbe3e5263a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "SOTK protokoll 22.09.2020",
+      "uuid": "eb67872b-6b33-4c61-b821-06756c5ca361",
+      "files": [
+        "SOTK_protokoll_22.09.2020.asice",
+        "Protokoll.pdf",
+        "Lisa_1.pdf"
+      ]
+    }
+  ],
+  "uuid": "543526ca-cb17-461a-be0b-64917ede6020",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 543526ca-cb17-461a-be0b-64917ede6020)",
+  "source": "https://api.riigikogu.ee/api/volumes/543526ca-cb17-461a-be0b-64917ede6020",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-09-01&endDate=2020-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
