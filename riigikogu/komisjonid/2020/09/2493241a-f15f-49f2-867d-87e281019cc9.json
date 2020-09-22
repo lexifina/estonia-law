@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung teisipäev, 22.09.2020 kell 14.00",
+  "sitting_time": "2020-09-22T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohanimeseaduse muutmise seaduse eelnõu (208 SE) esimeseks lugemiseks ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "672c98b0-f30f-444a-862a-c76e8735a9c9"
+    },
+    {
+      "order": 2,
+      "title": "Kohaliku omavalitsuse korralduse seaduse muutmise seaduse eelnõu (212 SE) teiseks lugemiseks ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5bb1a7a6-2e62-4e55-9bb7-a4b3f675b7d8"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5f8aaa69-0da7-43da-a3ca-a03c614c69cc"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "PÕSK protokoll 22.09.2020",
+      "uuid": "4ef62155-4c7a-43ed-8f2f-01cc5a7ad2b2",
+      "files": [
+        "PÕSK.protokoll.22.09.2020.pdf",
+        "PÕSK_protokoll_22.09.2020.asice"
+      ]
+    }
+  ],
+  "uuid": "2493241a-f15f-49f2-867d-87e281019cc9",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2493241a-f15f-49f2-867d-87e281019cc9)",
+  "source": "https://api.riigikogu.ee/api/volumes/2493241a-f15f-49f2-867d-87e281019cc9",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-09-01&endDate=2020-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
