@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung teisipäev, 22.09.2020 kell 14.00",
+  "sitting_time": "2020-09-22T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade lisaeelarve täitmisest ja  meetmete rakendamisest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fabfc978-7415-46e4-83ff-66e80d64838c"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bc28e7c9-59b8-4edc-a928-0bcdf0bb8e0e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 22.09.2020",
+      "uuid": "4fe467e5-22de-490f-95ac-7d979fd8a47f",
+      "files": [
+        "RAHK_protokoll_87_22_09_2020.pdf",
+        "RAM_ülevaade_meetmetest_22.09.2020l.pptx",
+        "RAHK_protokoll_22.09.2020.asice"
+      ]
+    }
+  ],
+  "uuid": "615d8e01-727b-4143-91bb-52e8b9601c59",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 615d8e01-727b-4143-91bb-52e8b9601c59)",
+  "source": "https://api.riigikogu.ee/api/volumes/615d8e01-727b-4143-91bb-52e8b9601c59",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-09-01&endDate=2020-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
