@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 22.09.2020 kell 14.00",
+  "sitting_time": "2020-09-22T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kollektiivne pöördumine \"EI\" LEMMIKLOOMADEGA kerjamisele",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ed15c596-3c88-4abb-9c7c-748e7d5f72d4"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "048ee906-84cd-4c06-ace7-6849b7379112"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 22.09.2020",
+      "uuid": "d28e9b56-dd3f-438e-8986-a14f34bc1c2b",
+      "files": [
+        "MAEK_protokoll_22.09.2020.asice",
+        "066_protokoll_22.09.2020.pdf"
+      ]
+    }
+  ],
+  "uuid": "c7335414-1c68-4d49-8022-8d7093334f0e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c7335414-1c68-4d49-8022-8d7093334f0e)",
+  "source": "https://api.riigikogu.ee/api/volumes/c7335414-1c68-4d49-8022-8d7093334f0e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-09-01&endDate=2020-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
