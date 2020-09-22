@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung teisipäev, 22.09.2020 kell 14.00",
+  "sitting_time": "2020-09-22T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Euroopa Komisjoni avalik konsultatsioon, mis käsitleb Euroopa Liidu kaubanduspoliitika läbivaatamist",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "91173e62-e571-48fd-9a97-95c452d4734f"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e0a77302-a3bc-49d6-81ec-d52a848f7530"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 22.09.2020",
+      "uuid": "d895975a-3c00-4c9e-89a3-182c9255af53",
+      "files": [
+        "VÄLK_protokoll_20202209.pdf",
+        "VÄLK_protokoll_22.09.2020.asice"
+      ]
+    }
+  ],
+  "uuid": "aaa9996a-0338-4832-a714-bd72613a3293",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid aaa9996a-0338-4832-a714-bd72613a3293)",
+  "source": "https://api.riigikogu.ee/api/volumes/aaa9996a-0338-4832-a714-bd72613a3293",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-09-01&endDate=2020-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
