@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung esmaspäev, 28.09.2020 kell 11.10",
+  "sitting_time": "2020-09-28T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d6b71e87-4b74-4a6e-afed-154a5dbfdd3b"
+    },
+    {
+      "order": 2,
+      "title": "Loomakaitseseaduse ja looduskaitseseaduse muutmise seaduse eelnõu (219 SE) ettevalmistamine esimeseks lugemiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0413c6b6-de41-46e3-8260-95469d762ae6"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "08a0e8b1-0987-4fff-baa0-957312bd6f14"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK protokoll 28.09.2020",
+      "uuid": "25eadf1d-1612-4081-a386-467809e775e9",
+      "files": [
+        "KEKK_28.09.2020_protokoll.asice",
+        "KEKK_28.09.2020_protokoll.pdf"
+      ]
+    }
+  ],
+  "uuid": "92472c66-7323-4d8d-b717-fa9c5ee488c7",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 92472c66-7323-4d8d-b717-fa9c5ee488c7)",
+  "source": "https://api.riigikogu.ee/api/volumes/92472c66-7323-4d8d-b717-fa9c5ee488c7",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-09-01&endDate=2020-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
