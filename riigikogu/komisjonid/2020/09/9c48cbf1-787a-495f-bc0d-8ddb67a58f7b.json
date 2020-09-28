@@ -1,0 +1,50 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung esmaspäev, 28.09.2020 kell 13.30",
+  "sitting_time": "2020-09-28T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "71334060-fe0f-4388-9912-0af57bd1c494"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad 30. septembril - 1. oktoobril 2020 toimuval mitteametlikul Euroopa Liidu keskkonnanõukogu kohtumisel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fa474ca8-9648-4253-a204-aee25abc6529"
+    },
+    {
+      "order": 3,
+      "title": "Eesti seisukohad 29. septembril 2020 toimuval mitteametlikul Euroopa Liidu välisasjade nõukogu arenguministrite kohtumisel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "84db3cc9-db9b-4857-ae75-f339835f486e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ELAK protokoll 28.09.2020",
+      "uuid": "88db98d2-1a34-49d8-90d0-08d6fbfda067",
+      "files": [
+        "Asendusliige_Raivo_Tamm_28.09.2020.pdf",
+        "ELAK_protokoll_28.09.2020.asice",
+        "ELAK_protokoll_28.09.2020.pdf",
+        "28.09_Asendusliige_Ruuben_Kaalep.pdf",
+        "28.09_Asendusliige_Üllar_Saaremäe.pdf",
+        "28.09_asendusliige_Igor_Kravtsenko.pdf"
+      ]
+    }
+  ],
+  "uuid": "9c48cbf1-787a-495f-bc0d-8ddb67a58f7b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9c48cbf1-787a-495f-bc0d-8ddb67a58f7b)",
+  "source": "https://api.riigikogu.ee/api/volumes/9c48cbf1-787a-495f-bc0d-8ddb67a58f7b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-09-01&endDate=2020-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
