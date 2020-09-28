@@ -1,0 +1,42 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung esmaspäev, 28.09.2020 kell 11.15",
+  "sitting_time": "2020-09-28T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 2,
+      "title": "Ülevaade Rahandusministeeriumi ettevalmistatavatest eelnõudest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6a22a5af-c81b-45ec-95a0-d69fe71b9ec1"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "507774c8-cb81-46ca-99cd-98925b1f517c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 28.09.2020",
+      "uuid": "10aa9942-a8f1-4ef9-a73b-d0c152da0fea",
+      "files": [
+        "RAM_slaidid_ettevalmistatavad_eelnõud_II_pa_28.09.2020.pptx",
+        "RAHK_protokoll_28.09.2020.asice",
+        "SmartCap_tegevuse_tutvustus_28_09_2020.pdf",
+        "RAHK_protokoll_88__28_09_2020.pdf"
+      ]
+    }
+  ],
+  "uuid": "d525fd87-f834-4f08-9a02-069e7d42fbf7",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d525fd87-f834-4f08-9a02-069e7d42fbf7)",
+  "source": "https://api.riigikogu.ee/api/volumes/d525fd87-f834-4f08-9a02-069e7d42fbf7",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-09-01&endDate=2020-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
