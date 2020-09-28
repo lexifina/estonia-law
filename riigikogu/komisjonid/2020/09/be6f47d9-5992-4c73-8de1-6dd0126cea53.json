@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung esmaspäev, 28.09.2020 kell 11.15",
+  "sitting_time": "2020-09-28T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c7c86e14-5d98-45c9-8dc9-f673c9186e65"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu otsus \"„Õigusloomepoliitika põhialused aastani 2030“ heakskiitmine\" (53 OE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cf7cbd69-3fc8-4bda-87a3-42503b290e96"
+    },
+    {
+      "order": 3,
+      "title": "Riigikogu otsus \"„Kriminaalpoliitika põhialused aastani 2030“ heakskiitmine\" (52 OE II)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ca7878b5-1b41-433a-b0fe-b9f2127f83e4"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ÕIGK protokoll 28.09.2020",
+      "uuid": "9df1fbff-0bf4-4394-bf24-a3f065a4d1eb",
+      "files": [
+        "ÕIGK_protokoll_28.09.2020.asice",
+        "Õiguskomisjoni_28.09.2020_istungi_protokoll.pdf"
+      ]
+    }
+  ],
+  "uuid": "be6f47d9-5992-4c73-8de1-6dd0126cea53",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid be6f47d9-5992-4c73-8de1-6dd0126cea53)",
+  "source": "https://api.riigikogu.ee/api/volumes/be6f47d9-5992-4c73-8de1-6dd0126cea53",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-09-01&endDate=2020-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
