@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung teisipäev, 29.09.2020 kell 11.00",
+  "sitting_time": "2020-09-29T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kollektiivse pöördumise “Maapõueseaduse muutmiseks, et hoida karjäärid eluhoonetest eemal” arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1b192dcc-b540-46c0-970d-33df6ca8d068"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c8fe53b5-6c33-4dec-a067-942708fda481"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK protokoll 29.09.2020",
+      "uuid": "ac583cce-23c6-430a-95b5-9df2544c5ac4",
+      "files": [
+        "KEKK_29.09.2020_protokoll.asice",
+        "KEKK_29.09.2020_protokoll.pdf"
+      ]
+    }
+  ],
+  "uuid": "f5a55883-e108-4def-a0ae-711527183b80",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f5a55883-e108-4def-a0ae-711527183b80)",
+  "source": "https://api.riigikogu.ee/api/volumes/f5a55883-e108-4def-a0ae-711527183b80",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-09-01&endDate=2020-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
