@@ -1,0 +1,34 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung teisipäev, 29.09.2020 10 minutit pärast täiskogu lõppu",
+  "sitting_time": "2020-09-29T10:35:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2ee2141f-fd98-4474-94bc-3deb8373d88c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KULK protokoll 29.09.2020",
+      "uuid": "dd5fb420-8e2c-4feb-9fd7-2f1c5cd69740",
+      "files": [
+        "Protokoll_nr_78_(29.09.2020).pdf",
+        "KULK_protokoll_29.09.2020.asice"
+      ]
+    }
+  ],
+  "uuid": "ec2d5331-3508-43cb-a990-b4a8741424c9",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ec2d5331-3508-43cb-a990-b4a8741424c9)",
+  "source": "https://api.riigikogu.ee/api/volumes/ec2d5331-3508-43cb-a990-b4a8741424c9",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-09-01&endDate=2020-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
