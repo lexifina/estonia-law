@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung teisipäev, 29.09.2020 kell 10.45",
+  "sitting_time": "2020-09-29T10:45:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad Euroopa Komisjoni\nkapitaliturgude liidu taastepaketi kohta - COM(2020) 280, COM(2020) 281, COM(2020) 282, COM(2020) 283, COM(2020) 337 (1-2/20-607/1)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "23f7fa0d-9f6d-4b00-ad64-b22aeae59542"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b9281dfa-f498-41e3-9afd-75ec6ed767fa"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 29.09.2020",
+      "uuid": "d9db7a8c-278b-4f64-898f-51168a991764",
+      "files": [
+        "RAHK_protokoll_89_29_09_2020.pdf",
+        "RAHK_protokoll_29.09.2020.asice"
+      ]
+    }
+  ],
+  "uuid": "6a9ee1f0-25ae-426a-8ee3-f09b591530fa",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 6a9ee1f0-25ae-426a-8ee3-f09b591530fa)",
+  "source": "https://api.riigikogu.ee/api/volumes/6a9ee1f0-25ae-426a-8ee3-f09b591530fa",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-09-01&endDate=2020-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
