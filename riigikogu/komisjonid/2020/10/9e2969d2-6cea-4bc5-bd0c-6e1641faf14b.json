@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung neljapäev, 1.10.2020 kell 11.30",
+  "sitting_time": "2020-10-01T11:30:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Informatsioon Armeenia ja Aserbaidžaani vahel puhkenud relvakonfliktist – arutelu jätkamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c7de8ad9-7033-4d83-900b-63adbdb99c35"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4cc5fd51-ab47-40ae-bccf-4bca648198a3"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 01.10.2020",
+      "uuid": "1000c61d-7a4c-404c-86ee-0aaf1ed19673",
+      "files": [
+        "VÄLK_protokoll_01.10.2020.asice",
+        "VÄLK_protokoll_20200110.pdf"
+      ]
+    }
+  ],
+  "uuid": "9e2969d2-6cea-4bc5-bd0c-6e1641faf14b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9e2969d2-6cea-4bc5-bd0c-6e1641faf14b)",
+  "source": "https://api.riigikogu.ee/api/volumes/9e2969d2-6cea-4bc5-bd0c-6e1641faf14b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-10-01&endDate=2020-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
