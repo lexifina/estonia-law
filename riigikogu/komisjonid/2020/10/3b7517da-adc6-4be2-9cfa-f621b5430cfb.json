@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung kolmapäev, 7.10.2020 kell 08.00",
+  "sitting_time": "2020-10-07T08:00:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade Prantsusmaa, Läti ja Leedu ühisinitsiatiivist valeinfo levikuga võitlemise, valimistesse välise sekkumise ja valimiste turvalisuse teemal",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5566ef3e-60d6-441c-b838-e3373e3accef"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "929b8192-a663-4f76-b070-0812d2991058"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ELAK protokoll 07.10.2020",
+      "uuid": "3fcdcc35-859c-45bc-9c91-c57748806dfd",
+      "files": [
+        "ELAK_protokoll_07.10.2020.asice",
+        "ELAK_protokoll_7.10.2020.pdf",
+        "7.10_Asendusliige_Ruuben_Kaalep.pdf"
+      ]
+    }
+  ],
+  "uuid": "3b7517da-adc6-4be2-9cfa-f621b5430cfb",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3b7517da-adc6-4be2-9cfa-f621b5430cfb)",
+  "source": "https://api.riigikogu.ee/api/volumes/3b7517da-adc6-4be2-9cfa-f621b5430cfb",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-10-01&endDate=2020-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
