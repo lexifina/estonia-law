@@ -1,0 +1,53 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung neljapäev, 8.10.2020 kell 13.00",
+  "sitting_time": "2020-10-08T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "696a71b1-7cb9-4d52-8a70-bd4c36359ccb"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad 12. oktoobril 2020 Luksemburgis toimuval Euroopa Liidu välisasjade nõukogu kohtumisel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6bdeb846-6ce6-451d-85b5-f37998fba28d"
+    },
+    {
+      "order": 3,
+      "title": "Informatsioon uuringute tellimise korraldusest Riigikogu Kantseleis",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "965a5f0a-8cf3-4357-9509-6f0fcb2b33e7"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6f907c45-7c13-4262-9312-868634aaba64"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 08.10.2020",
+      "uuid": "a88db8ba-3671-4d75-9d97-ae5eabb379b8",
+      "files": [
+        "Uuringute_tellimine.ppt",
+        "VÄLK_protokoll_20200810.pdf",
+        "VÄLK_protokoll_08.10.2020.asice"
+      ]
+    }
+  ],
+  "uuid": "7ff6e319-06e9-46ac-b669-87fd173cd9e4",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7ff6e319-06e9-46ac-b669-87fd173cd9e4)",
+  "source": "https://api.riigikogu.ee/api/volumes/7ff6e319-06e9-46ac-b669-87fd173cd9e4",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-10-01&endDate=2020-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
