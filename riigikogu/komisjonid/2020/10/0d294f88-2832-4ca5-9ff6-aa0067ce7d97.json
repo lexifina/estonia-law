@@ -1,0 +1,48 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 12.10.2020 kell 13.15",
+  "sitting_time": "2020-10-12T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "65a58a21-a078-4b36-93fa-219812b1b05e"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli kontrolliaruande „E-residentsuse programmi tulemuslikkus“ tutvustus ja arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "53df1e5b-282f-459b-9ca4-defe4fd85127"
+    },
+    {
+      "order": 3,
+      "title": "Riigikontrolli „Lühiülevaade Maaelu Edendamise Sihtasutuse rakendatavate kriisimeetmete elluviimisest’’ arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e4cae76a-c2e2-46ff-8f7f-1caa348a4d10"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "de5bf90c-59b7-46f0-966c-0e6308112948",
+      "files": [
+        "Protokoll.asice",
+        "Protokoll_nr_43._12.10.2020.pdf",
+        "E-residentsus_REKK_12._oktoober.pptx",
+        "MESi_kriisimeetmete_esitlus_12.10.2020.pptx"
+      ]
+    }
+  ],
+  "uuid": "0d294f88-2832-4ca5-9ff6-aa0067ce7d97",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0d294f88-2832-4ca5-9ff6-aa0067ce7d97)",
+  "source": "https://api.riigikogu.ee/api/volumes/0d294f88-2832-4ca5-9ff6-aa0067ce7d97",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-10-01&endDate=2020-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
