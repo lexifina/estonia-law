@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung esmaspäev, 12.10.2020 kell 11.10",
+  "sitting_time": "2020-10-12T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "df9d5ecc-8a3f-413d-b477-6b6cfb130250"
+    },
+    {
+      "order": 2,
+      "title": "Arvamuse andmine Euroopa Liidu asjade komisjonile - Eesti seisukohad Euroopa Komisjoni teatise „Euroopa Liidu elurikkuse strateegia aastani 2030“ kohta",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b3f758f2-b7b6-464a-be70-b2596fe6d442"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e1944977-10b4-4a00-949f-7baf1e51fa99"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK protokoll 12.10.2020",
+      "uuid": "d7d5b995-7885-47d5-bdf9-c7880c91180d",
+      "files": [
+        "KEKK_12.10.2020_protokoll.pdf",
+        "KEKK_12.10.2020_protokoll.asice",
+        "Keskkonnaministeeriumi_ettekanne.pdf"
+      ]
+    }
+  ],
+  "uuid": "7e897b15-c468-4f03-bbbf-a140645c9fd0",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7e897b15-c468-4f03-bbbf-a140645c9fd0)",
+  "source": "https://api.riigikogu.ee/api/volumes/7e897b15-c468-4f03-bbbf-a140645c9fd0",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-10-01&endDate=2020-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
