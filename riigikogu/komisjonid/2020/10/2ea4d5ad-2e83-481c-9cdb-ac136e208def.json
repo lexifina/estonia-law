@@ -1,0 +1,53 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung esmaspäev, 12.10.2020 kell 11.00",
+  "sitting_time": "2020-10-12T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0ab8dad9-97f1-4413-b4ae-9273d7b6735f"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli ülevaade äridiplomaatia korraldusest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f26f50a0-a6e1-4f19-85a2-252115ecc842"
+    },
+    {
+      "order": 3,
+      "title": "Informatsioon komisjoni liikmete tegevusest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "12ace101-e36e-4a11-9740-b40c5afd6e53"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6541baf9-c2e9-4465-995a-79874cd263bb"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 12.10.2020",
+      "uuid": "74ea83bc-8717-4cb6-8c2a-e3ff52db2a18",
+      "files": [
+        "Äridiplomaatia_esitlus_väliskomisjonis_12.10.20_saatmiseks.pptx",
+        "VÄLK_protokoll_20201210.pdf",
+        "VÄLK_protokoll_12.10.2020.asice"
+      ]
+    }
+  ],
+  "uuid": "2ea4d5ad-2e83-481c-9cdb-ac136e208def",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2ea4d5ad-2e83-481c-9cdb-ac136e208def)",
+  "source": "https://api.riigikogu.ee/api/volumes/2ea4d5ad-2e83-481c-9cdb-ac136e208def",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-10-01&endDate=2020-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
