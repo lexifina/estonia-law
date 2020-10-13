@@ -1,0 +1,48 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung teisipäev, 13.10.2020 kell 15.00",
+  "sitting_time": "2020-10-13T15:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "821088ec-44bc-4478-8451-00b816733e41"
+    },
+    {
+      "order": 2,
+      "title": "Välismaalaste seaduse, kõrgharidusseaduse ning õppetoetuste ja õppelaenu seaduse muutmise seaduse eelnõu (241 SE) esimeseks lugemiseks ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ca23b12e-a40c-42c9-96f2-2845cba6c1d3"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d0f66f84-1c1e-465c-8d14-d6912c8c79fa"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "PÕSK protokoll 13.10.2020",
+      "uuid": "ea868011-a20f-4e7b-ba13-d3284c4bf495",
+      "files": [
+        "PÕSK.protokoll.13.10.2020.pdf",
+        "põhiseaduskomisjoni_asendus_Marko_Mihkelson.docx",
+        "Volikiri.13.10.2020.Hanno_Pevkuri_asendusliige.asice",
+        "PÕSK_protokoll_13.10.2020.asice"
+      ]
+    }
+  ],
+  "uuid": "401f676a-f6b1-480b-b210-c9e5cdded720",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 401f676a-f6b1-480b-b210-c9e5cdded720)",
+  "source": "https://api.riigikogu.ee/api/volumes/401f676a-f6b1-480b-b210-c9e5cdded720",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-10-01&endDate=2020-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
