@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung teisipäev, 13.10.2020 kell 14.00",
+  "sitting_time": "2020-10-13T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigi 2021. aasta riigieelarve seaduse eelnõu (254 SE) Kaitseministeeriumi valitsemisala",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "de822b2f-47a7-45d1-a173-7539f3379899"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu otsuse \"Kaitseväe kasutamine Eesti riigi rahvusvaheliste kohustuste täitmisel rahvusvahelise merejulgeoleku koalitsiooni operatsioonil Sentinel\" eelnõu (211 OE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0ad4490f-c98d-4169-a697-657f9541e922"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RIKK protokoll 13.10.2020",
+      "uuid": "dc6d4537-041a-4b1c-b941-55f9e496aaa8",
+      "files": [
+        "RIKK_protokoll_13.10.2020.asice",
+        "Protokoll.pdf"
+      ]
+    }
+  ],
+  "uuid": "a9640a9d-dbe0-45d0-b031-4f5369923188",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a9640a9d-dbe0-45d0-b031-4f5369923188)",
+  "source": "https://api.riigikogu.ee/api/volumes/a9640a9d-dbe0-45d0-b031-4f5369923188",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-10-01&endDate=2020-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
