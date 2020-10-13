@@ -1,0 +1,62 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung teisipäev, 13.10.2020 kell 14.00",
+  "sitting_time": "2020-10-13T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "2021. aasta riigieelarve seaduse eelnõu (254 SE). Osaleb siseminister Mart Helme",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "93749b97-52aa-4175-b11d-d6de61053e91"
+    },
+    {
+      "order": 2,
+      "title": "2021. aasta riigieelarve seaduse eelnõu (254 SE). Osaleb justiitsminister Raivo Aeg",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "97250cb8-5482-4307-98e9-40e1395f015c"
+    },
+    {
+      "order": 3,
+      "title": "2021. aasta riigieelarve seaduse eelnõu (254 SE). Osaleb majandus- ja taristuminister Taavi Aas",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cec23ea5-ef84-40b6-8bc9-302b50e37c36"
+    },
+    {
+      "order": 4,
+      "title": "2021. aasta riigieelarve seaduse eelnõu (254 SE). Osaleb rahvastikuminister Riina Solman",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "43a5b0a5-f099-4aba-a58c-f55770c85a5d"
+    },
+    {
+      "order": 5,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "376d425d-6af9-413d-8c7b-e0097bc19725"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 13.10.2020",
+      "uuid": "c5093e29-75d7-42da-a441-7b9e76ba3981",
+      "files": [
+        "RAHK_protokoll_93_13_10_2020.pdf",
+        "RAHK_protokoll_13.10.2020.asice",
+        "Taavi_Aas_MKM_eelarve_ülevaade_13.10.2020.pdf",
+        "Riina_Solman_eelarve_ülevaade_13.10.2020.pdf",
+        "SIM_Mart_Helme_eelarve_ülevaade_13.10.2020.pdf",
+        "Raivo_Aeg_JUM_eelarve_ülevaade_13.10.2020.pdf"
+      ]
+    }
+  ],
+  "uuid": "37742c40-b916-4c3f-bf88-12a97398c749",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 37742c40-b916-4c3f-bf88-12a97398c749)",
+  "source": "https://api.riigikogu.ee/api/volumes/37742c40-b916-4c3f-bf88-12a97398c749",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-10-01&endDate=2020-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
