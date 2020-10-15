@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung neljapäev, 15.10.2020 kell 13.00",
+  "sitting_time": "2020-10-15T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Informatsioon julgeolekuolukorra arengutest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c84a7172-2a00-4c3d-98d9-c1802d6baccf"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "53cfbced-86de-40e4-8814-1eaa677a4742"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 15.10.2020",
+      "uuid": "1505bc32-34d4-458e-8949-02004bfaeeea",
+      "files": [
+        "VÄLK_protokoll_20201510.pdf",
+        "VÄLK_protokoll_15.10.2020.asice"
+      ]
+    }
+  ],
+  "uuid": "7b17efa0-be6c-4e65-bdf2-764fc0e8854f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7b17efa0-be6c-4e65-bdf2-764fc0e8854f)",
+  "source": "https://api.riigikogu.ee/api/volumes/7b17efa0-be6c-4e65-bdf2-764fc0e8854f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-10-01&endDate=2020-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
