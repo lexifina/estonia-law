@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung esmaspäev, 19.10.2020 kell 11.00",
+  "sitting_time": "2020-10-19T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ed926f55-34cb-4ba1-8d16-433af36f742a"
+    },
+    {
+      "order": 2,
+      "title": "Informatsioon Eesti Arktika Nõukogu vaatlejastaatuse taotluse kohta",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cc791385-5968-4414-b318-c2ce0d0a4535"
+    },
+    {
+      "order": 3,
+      "title": "Informatsioon komisjoni liikmete tegevusest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "eedcfcd8-9eec-4dae-9b2c-e719e06ae60a"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e94953ae-436a-46e6-a7a9-c52ee842a2d6"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 19.10.2020",
+      "uuid": "f457be98-3ac5-4fb9-bb1f-2783578e7e69",
+      "files": [
+        "VÄLK_protokoll_19.10.2020.asice",
+        "VÄLK_protokoll_20201910.pdf"
+      ]
+    }
+  ],
+  "uuid": "096500dc-a695-420d-9f05-bad770124be7",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 096500dc-a695-420d-9f05-bad770124be7)",
+  "source": "https://api.riigikogu.ee/api/volumes/096500dc-a695-420d-9f05-bad770124be7",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-10-01&endDate=2020-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
