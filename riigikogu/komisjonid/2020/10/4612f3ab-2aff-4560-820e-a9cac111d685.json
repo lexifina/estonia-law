@@ -1,0 +1,50 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 19.10.2020 kell 11.10",
+  "sitting_time": "2020-10-19T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b62f2fe2-40a9-4b83-8f96-ceedfd8b06d3"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade põllumajanduse teadus- ja arendustegevusest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d1bfddce-296f-40fe-931a-dfa91962bb99"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dabe733a-f4b3-43d1-89fc-41ad114faa49"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 19.10.2020",
+      "uuid": "dfc8e620-11b3-477e-a5ad-40140944cdb1",
+      "files": [
+        "MAEK_protokoll_19.10.2020.asice",
+        "070_protokoll_19.10.2020.pdf",
+        "070_protokolli_lisa_4._EMÜ_Agroinfo_tutvustus.pdf",
+        "070_protokolli_lisa_3._EMÜ_MSI_19102020.pdf",
+        "070_protokolli_lisa_2._PÕLLUMAJANDUSTEADUS_EMÜ.pdf",
+        "070_protokolli_lisa_1._MEMettekanne.pdf"
+      ]
+    }
+  ],
+  "uuid": "4612f3ab-2aff-4560-820e-a9cac111d685",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 4612f3ab-2aff-4560-820e-a9cac111d685)",
+  "source": "https://api.riigikogu.ee/api/volumes/4612f3ab-2aff-4560-820e-a9cac111d685",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-10-01&endDate=2020-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
