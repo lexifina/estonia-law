@@ -1,0 +1,53 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung esmaspäev, 19.10.2020 kell 13.30",
+  "sitting_time": "2020-10-19T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d7297417-c363-4ef2-96b8-7d8537138e17"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad 22.-23. oktoobril toimuval mitteametlikul Euroopa Liidu konkurentsivõime nõukogu ministrite kohtumisel (siseturg ja tööstus)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "37840043-2160-474a-8d82-95ed15b4c3f3"
+    },
+    {
+      "order": 3,
+      "title": "Eesti seisukohad 23. oktoobril 2020 toimuval Euroopa Liidu keskkonnanõukogu istungil",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "85b396e4-6e41-4f7e-9b4c-a4a7e41baea2"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2943f447-7930-4968-a67a-5bcd50e3c315"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ELAK protokoll 19.10.2020",
+      "uuid": "8bc0afd9-62c8-495d-b189-b18202045038",
+      "files": [
+        "Asendusliige_Raivo_Tamm_19.10.2020.pdf",
+        "ELAK_protokoll_19.10.2020.asice",
+        "ELAK_protokoll_19.10.2020.pdf"
+      ]
+    }
+  ],
+  "uuid": "498a0732-ecdb-45f9-b809-f7e93180e54b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 498a0732-ecdb-45f9-b809-f7e93180e54b)",
+  "source": "https://api.riigikogu.ee/api/volumes/498a0732-ecdb-45f9-b809-f7e93180e54b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-10-01&endDate=2020-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
