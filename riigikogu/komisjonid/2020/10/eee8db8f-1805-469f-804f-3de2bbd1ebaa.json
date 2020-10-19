@@ -1,0 +1,53 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung esmaspäev, 19.10.2020 kell 11.15",
+  "sitting_time": "2020-10-19T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d6f7c5ea-ea5c-4091-8a5d-e923c6e71a54"
+    },
+    {
+      "order": 2,
+      "title": "2021. aasta riigieelarve seaduse eelnõu (254 SE I). Osaleb keskkonnaminister Rene Kokk",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e43236bc-145d-45f4-ae97-c4244a9ccc99"
+    },
+    {
+      "order": 3,
+      "title": "Tulumaksuseaduse muutmise seaduse eelnõu (213 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d9eece92-9334-4abc-af98-71806cf7252d"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f0821b82-b4ce-41d9-b9d9-a9754f09a4ff"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 19.10.2020",
+      "uuid": "1b656663-6e41-4233-be81-50284a8bad1d",
+      "files": [
+        "RAHK_protokoll_19.10.2020.asice",
+        "RAHK_protokoll_95_19_10_2020.pdf",
+        "KEM_Rene_Kokk_eelarve_ülevaade_19.10.20.pdf"
+      ]
+    }
+  ],
+  "uuid": "eee8db8f-1805-469f-804f-3de2bbd1ebaa",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid eee8db8f-1805-469f-804f-3de2bbd1ebaa)",
+  "source": "https://api.riigikogu.ee/api/volumes/eee8db8f-1805-469f-804f-3de2bbd1ebaa",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-10-01&endDate=2020-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
