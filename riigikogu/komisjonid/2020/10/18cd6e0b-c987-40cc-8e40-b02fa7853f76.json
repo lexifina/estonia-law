@@ -1,0 +1,34 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung esmaspäev, 19.10.2020 kell 11.15",
+  "sitting_time": "2020-10-19T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "623b882b-f4fc-4ef4-a8ca-cb3f2170dad6"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ÕIGK protokoll 19.10.2020",
+      "uuid": "f2486da0-c75c-4906-866a-4b06d397f1da",
+      "files": [
+        "ÕIGK_protokoll_19.10.2020.asice",
+        "Õiguskomisjoni_19.10.2020_istungi_protokoll.pdf"
+      ]
+    }
+  ],
+  "uuid": "18cd6e0b-c987-40cc-8e40-b02fa7853f76",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 18cd6e0b-c987-40cc-8e40-b02fa7853f76)",
+  "source": "https://api.riigikogu.ee/api/volumes/18cd6e0b-c987-40cc-8e40-b02fa7853f76",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-10-01&endDate=2020-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
