@@ -1,0 +1,60 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung teisipäev, 20.10.2020 kell 13.00",
+  "sitting_time": "2020-10-20T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Eesti Panga esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "321833fa-c778-4d60-b2e4-bfd533645bd9"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu otsus \"Eesti Vabariigi osaluse suurendamine Rahvusvahelises Finantskorporatsioonis\" (237 OE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dcbfa1f9-808c-4761-a357-b8f64504fdeb"
+    },
+    {
+      "order": 3,
+      "title": "Maksualase teabevahetuse seaduse muutmise seaduse eelnõu (238 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3337e2ba-2ac2-4d22-ac08-aa4a000650d8"
+    },
+    {
+      "order": 4,
+      "title": "Ülevaade KredExi meetmete rakendamise seisust. Osaleb KredExi juhatuse esimees Ivo Kuldmäe.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1995f235-ad80-48b6-8aee-caf6bc450b11"
+    },
+    {
+      "order": 5,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "778de755-11a7-4301-8d9c-cea65be673a7"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 20.10.2020",
+      "uuid": "551c3dee-38d7-4002-87c1-daeac156138f",
+      "files": [
+        "RAHK_protokoll_96_20_10_2020.pdf",
+        "Kohtumine_Eesti_Panga_esindajatega.asice",
+        "KredEx_20.10.2020.pdf",
+        "Eesti_Pank_Müller__Kaasik_ettekanne_20.10.2020.pdf"
+      ]
+    }
+  ],
+  "uuid": "69549ce8-9789-4ab7-be84-135da099aec3",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 69549ce8-9789-4ab7-be84-135da099aec3)",
+  "source": "https://api.riigikogu.ee/api/volumes/69549ce8-9789-4ab7-be84-135da099aec3",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-10-01&endDate=2020-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
