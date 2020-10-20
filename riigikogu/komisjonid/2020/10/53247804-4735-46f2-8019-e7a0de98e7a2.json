@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung teisipäev, 20.10.2020 kell 14.00",
+  "sitting_time": "2020-10-20T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "86b8864d-b9be-4d3f-86a0-09c469ccf55f"
+    },
+    {
+      "order": 2,
+      "title": "Komisjoni esimehe ja aseesimehe erakorraline valmine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7a830095-a1d6-452d-804d-06466739d7ad"
+    },
+    {
+      "order": 3,
+      "title": "Pühade ja tähtpäevade seaduse ning Eesti lipu seaduse muutmise seaduse eelnõu (277 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9f351ee7-f4d8-4220-ab5f-004251ef840d"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "21902850-9f5f-4da1-8337-7f2de8c7d39b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "PÕSK protokoll 20.10.2020",
+      "uuid": "014a1d6f-b788-447d-8336-ee91187a066a",
+      "files": [
+        "PÕSK_protokoll_20.10.2020.asice",
+        "PÕSK.protokoll.20.10.2020.pdf"
+      ]
+    }
+  ],
+  "uuid": "53247804-4735-46f2-8019-e7a0de98e7a2",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 53247804-4735-46f2-8019-e7a0de98e7a2)",
+  "source": "https://api.riigikogu.ee/api/volumes/53247804-4735-46f2-8019-e7a0de98e7a2",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-10-01&endDate=2020-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
