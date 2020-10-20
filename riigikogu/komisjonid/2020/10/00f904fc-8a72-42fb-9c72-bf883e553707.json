@@ -1,0 +1,48 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 20.10.2020 kell 14.00",
+  "sitting_time": "2020-10-20T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad Euroopa Komisjoni teatise „Talust taldrikule strateegia: õiglane, tervislik ja keskkonnasõbralik toidusüsteem“ kohta. Arvamuse andmine ELAKile.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ffde1540-a159-424f-a13d-04f0a5afc0c1"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud mahepõllumajanduse seaduse ning taimede paljundamise ja sordikaitse seaduse muutmise seaduse eelnõu 260 SE arutelu esimesele lugemisele saatmiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6462bc73-8e2a-478f-921e-f7fcd96e309c"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a08898ec-515c-485b-8195-ac649a4365f7"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 20.10.2020",
+      "uuid": "b9bbfc97-5416-42fb-a78a-26213c118768",
+      "files": [
+        "MAEK_protokoll_20.10.2020.asice",
+        "071_protokolli_lisa_2_Mem_eelnõu_260_SE.pdf",
+        "071_protokolli_lisa_1_Mem_Rohelepe.pdf",
+        "071_protokoll_20.10.2020.pdf"
+      ]
+    }
+  ],
+  "uuid": "00f904fc-8a72-42fb-9c72-bf883e553707",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 00f904fc-8a72-42fb-9c72-bf883e553707)",
+  "source": "https://api.riigikogu.ee/api/volumes/00f904fc-8a72-42fb-9c72-bf883e553707",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-10-01&endDate=2020-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
