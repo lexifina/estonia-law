@@ -1,0 +1,48 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung teisipäev, 20.10.2020 kell 14.00",
+  "sitting_time": "2020-10-20T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "2021. a riigieelarve seaduse eelnõu (254 SE) riigihalduse ministri valitsemisala tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0d7d40fa-9a57-4127-a639-9f4e5df46c5d"
+    },
+    {
+      "order": 2,
+      "title": "2021. a riigieelarve seaduse eelnõu (254 SE) majandus- ja taristuministri valitsemisala tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "700213e8-87a3-437b-ae8c-556cf4e0efe1"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b6c9097d-91c3-4969-9d6a-2c7e53c1b805"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK protokoll 20.10.2020",
+      "uuid": "8a486372-7ac5-42ad-9f37-093645afc800",
+      "files": [
+        "KEKK_20.10.2020_protokoll.pdf",
+        "KEKK_20.10.2020_protokoll.asice",
+        "201020_Riigikogu_keskkonnakomisjon_002_(002).pdf",
+        "2021.a_regionaal_okt__(002).pdf"
+      ]
+    }
+  ],
+  "uuid": "8a417ed9-26c6-486b-92c7-a9a33993455b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8a417ed9-26c6-486b-92c7-a9a33993455b)",
+  "source": "https://api.riigikogu.ee/api/volumes/8a417ed9-26c6-486b-92c7-a9a33993455b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-10-01&endDate=2020-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
