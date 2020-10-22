@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Korruptsioonivastane erikomisjon",
+  "committee_uuid": "e4f2977a-e8c3-4fa0-8f3d-9df9acd6377f",
+  "title": "Komisjoni istung neljapäeval, 22. oktoobril kell 9.00",
+  "sitting_time": "2020-10-22T09:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine riigikontrolör Janar Holmiga",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2fc76e78-219c-4380-bb37-38aa6232c989"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2647bffb-30b2-4568-b595-361282542b26"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KVEK protokoll 22.10.2020",
+      "uuid": "8daa4fcf-96a2-4944-8147-ce390e71e63a",
+      "files": [
+        "KVEK_protokoll_22.10.2020.asice",
+        "KVEK_protokoll_22.10.2020.pdf"
+      ]
+    }
+  ],
+  "uuid": "fda79a32-45ca-4d02-a600-23c5384f4562",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid fda79a32-45ca-4d02-a600-23c5384f4562)",
+  "source": "https://api.riigikogu.ee/api/volumes/fda79a32-45ca-4d02-a600-23c5384f4562",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-10-01&endDate=2020-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
