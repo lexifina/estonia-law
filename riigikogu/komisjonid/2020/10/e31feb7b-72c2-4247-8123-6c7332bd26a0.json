@@ -1,0 +1,53 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung esmaspäev, 26.10.2020 kell 13.30",
+  "sitting_time": "2020-10-26T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9efb9e64-d099-412f-bfdb-c687869726b0"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad 29.-30. oktoobril 2020 toimuval mitteametlikul Euroopa Liidu transpordiministrite kohtumisel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "eb37c087-54b6-40cf-b7a4-2e2e16120e1b"
+    },
+    {
+      "order": 3,
+      "title": "Seisukoha andmine: Eesti seisukohad Euroopa Komisjoni teatise „Strateegia „Talust taldrikule“ õiglase, tervisliku ja keskkonnahoidliku toidusüsteemi edendamiseks“ kohta",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1a73f29b-ddae-4103-8bc9-03e5f331341c"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b935f1d7-364c-439f-9bbf-85234629d84c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ELAK protokoll 26.10.2020",
+      "uuid": "2e34aa3b-7cf3-4f11-866c-dc529dd50a67",
+      "files": [
+        "ELAK_protokoll_26.10.2020.asice",
+        "ELAK_protokoll_26.10.2020.pdf",
+        "Kaalep_26.10.20.pdf"
+      ]
+    }
+  ],
+  "uuid": "e31feb7b-72c2-4247-8123-6c7332bd26a0",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e31feb7b-72c2-4247-8123-6c7332bd26a0)",
+  "source": "https://api.riigikogu.ee/api/volumes/e31feb7b-72c2-4247-8123-6c7332bd26a0",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-10-01&endDate=2020-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
