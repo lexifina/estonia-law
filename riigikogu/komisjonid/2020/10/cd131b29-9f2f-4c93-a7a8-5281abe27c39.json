@@ -1,0 +1,54 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung esmaspäev, 26.10.2020",
+  "sitting_time": "2020-10-26T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "343ebc34-bc4b-4bbd-86af-673789d0b109"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine Eelarvenõukogu esindajatega. Osaleb nõukogu esimees Raul Eamets.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "82a6e907-b254-4bd8-9add-f5e6e4cdc5f4"
+    },
+    {
+      "order": 3,
+      "title": "2021. aasta riigieelarve seaduse eelnõu (254 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fde26771-c176-460c-ad61-e9cd710b558a"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b6a5676b-8a24-4923-b1a4-181b2337f8ca"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 26.10.2020",
+      "uuid": "45d2c90c-a6b8-41af-ba03-a8715a7f35ec",
+      "files": [
+        "RAHK_protokoll_26.10.2020.asice",
+        "RAHK_protokoll_97_26_10_2020.pdf",
+        "Arvo_Aller_MEM_eelarve_ülevaade_26.10.2020.pdf",
+        "Raul_Eamets_EAN_26.10.2020.pdf"
+      ]
+    }
+  ],
+  "uuid": "cd131b29-9f2f-4c93-a7a8-5281abe27c39",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid cd131b29-9f2f-4c93-a7a8-5281abe27c39)",
+  "source": "https://api.riigikogu.ee/api/volumes/cd131b29-9f2f-4c93-a7a8-5281abe27c39",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-10-01&endDate=2020-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
