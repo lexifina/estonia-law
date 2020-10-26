@@ -1,0 +1,53 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 26.10.2020 kell 11.00",
+  "sitting_time": "2020-10-26T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fe7b9320-479b-4d31-a903-f3c86a4407e9"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade ja tulevikuvisioon Maaelu Edendamise Sihtasutuse nõuandeteenistusest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "32932ad8-804a-410b-aea2-a1e9a81b4b92"
+    },
+    {
+      "order": 3,
+      "title": "Riigikontrolli auditiaruanne „Lühiülevaade Maaelu Edendamise Sihtasutuse kriisimeetmete elluviimisest.“",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "69594f52-948d-4554-84b4-16775b7e47a2"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a843207b-4abd-48cc-a1b6-0a4f85b186da"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 26.10.2020",
+      "uuid": "988a359a-14a8-485a-a474-67565710d097",
+      "files": [
+        "MAEK_protokoll_26.10.2020.asice",
+        "072_protokolli_lisa_Riigikontroll_MESi_kriisimeetmed.pdf",
+        "072_protokoll_26.10.2020.pdf"
+      ]
+    }
+  ],
+  "uuid": "4ca04cc0-0dd0-4787-b6ae-823e0fcaed3c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 4ca04cc0-0dd0-4787-b6ae-823e0fcaed3c)",
+  "source": "https://api.riigikogu.ee/api/volumes/4ca04cc0-0dd0-4787-b6ae-823e0fcaed3c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-10-01&endDate=2020-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
