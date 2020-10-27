@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung teisipäev, 27.10.2020 kell 14.00",
+  "sitting_time": "2020-10-27T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9a5abd60-6f51-431e-89e2-616fedd7310b"
+    },
+    {
+      "order": 2,
+      "title": "Kollektiivne pöördumine: Välistudengite ja -töötajate võimalus Eestis õppida ja töötada, arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ec7dfa9a-b669-49b3-8aaa-4dc556880aaf"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "28c398ca-a81c-4f0a-8da4-da1f8ccc8a55"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "PÕSK protokoll 27.10.2020",
+      "uuid": "a32e81d5-217b-4c78-9d59-64b47ee413fb",
+      "files": [
+        "PÕSK_protokoll_27.10.2020.asice",
+        "PÕSK.protokoll.27.10.2020.pdf"
+      ]
+    }
+  ],
+  "uuid": "ced57d82-30c6-49bf-835f-94802b6420e5",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ced57d82-30c6-49bf-835f-94802b6420e5)",
+  "source": "https://api.riigikogu.ee/api/volumes/ced57d82-30c6-49bf-835f-94802b6420e5",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-10-01&endDate=2020-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
