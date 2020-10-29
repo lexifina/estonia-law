@@ -1,0 +1,34 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung neljapäev, 29.10.2020 kell 13.00",
+  "sitting_time": "2020-10-29T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Eesti Vabariigi presidendiga",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3a34612f-880c-4f76-ac71-b9b5b73ab84b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 29.10.2020",
+      "uuid": "91c4f608-ffb3-4f96-9d93-c2ea2068b0a5",
+      "files": [
+        "VÄLK_protokoll_29.10.2020.asice",
+        "VÄLK_protokoll_20202910.pdf"
+      ]
+    }
+  ],
+  "uuid": "5925c183-c46a-4711-9cad-fc4e1a36b9cf",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 5925c183-c46a-4711-9cad-fc4e1a36b9cf)",
+  "source": "https://api.riigikogu.ee/api/volumes/5925c183-c46a-4711-9cad-fc4e1a36b9cf",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-10-01&endDate=2020-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
