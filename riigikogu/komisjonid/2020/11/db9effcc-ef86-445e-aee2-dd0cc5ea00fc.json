@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Korruptsioonivastane erikomisjon",
+  "committee_uuid": "e4f2977a-e8c3-4fa0-8f3d-9df9acd6377f",
+  "title": "Komisjoni istung esmaspäeval, 9. novembril 2020 kell 13.30",
+  "sitting_time": "2020-11-09T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fd473795-546e-47b2-be00-7c6b7028cf31"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine Maaelu Edendamise Sihtasutuse juhtidega. Kutsutud MES juhatuse esimees Raul Rosenberg ja juhatuse liige Madis Reinup",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1e7324ac-79cb-4a22-921e-0d47c532e153"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ca374669-c518-43fb-ab49-933df5524c66"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KVEK protokoll 9.11.2020",
+      "uuid": "64a48814-5485-4f2a-9b76-169d7a6e8c77",
+      "files": [
+        "KVEK_protokoll_9.11.2020.asice",
+        "KVEK_protokoll_09.11.2020_.pdf"
+      ]
+    }
+  ],
+  "uuid": "db9effcc-ef86-445e-aee2-dd0cc5ea00fc",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid db9effcc-ef86-445e-aee2-dd0cc5ea00fc)",
+  "source": "https://api.riigikogu.ee/api/volumes/db9effcc-ef86-445e-aee2-dd0cc5ea00fc",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-11-01&endDate=2020-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
