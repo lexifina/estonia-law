@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 9.11.2020 kell 13.15",
+  "sitting_time": "2020-11-09T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3919db43-adb6-41e4-b143-de20a0470ee6"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli aastaaruande (RVKS) „Esmatähtsate avalike teenuste osutamise tulevik“ arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2e8a1663-86c1-4b48-9815-9be285565841"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6436288f-46d7-4408-882b-3e01118e560a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 9.11.2020",
+      "uuid": "373ae502-4163-4543-b71d-6cdbda2fad7c",
+      "files": [
+        "REKK_protokoll_9.11.2020.asice",
+        "Protokoll_nr_47._09.11.2020..pdf",
+        "REKK_RVKS_2020_esitlus_9_11_20.pptx"
+      ]
+    }
+  ],
+  "uuid": "fe365bbd-06ed-48d9-8074-d35d58a5bb4a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid fe365bbd-06ed-48d9-8074-d35d58a5bb4a)",
+  "source": "https://api.riigikogu.ee/api/volumes/fe365bbd-06ed-48d9-8074-d35d58a5bb4a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-11-01&endDate=2020-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
