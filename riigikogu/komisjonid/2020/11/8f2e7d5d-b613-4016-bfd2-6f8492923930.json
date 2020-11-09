@@ -1,0 +1,56 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung esmaspäev, 9.11.2020 kell 13.30",
+  "sitting_time": "2020-11-09T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9a1aac9c-eff0-4e39-a995-bbf5cf319fa6"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad 13. novembril 2020 toimuval Euroopa Liidu siseministrite kohtumisel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fbae4149-2d4e-4fe9-bce9-69f3268ddca2"
+    },
+    {
+      "order": 3,
+      "title": "Ülevaade taaste- ja vastupidavuskava koostamisest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "06d4fc4b-1e26-4a98-bd43-848ce8938893"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e1a2872e-7a36-4a35-b424-69ed53ac25b1"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ELAK protokoll 09.11.2020",
+      "uuid": "e5e08336-8f67-431c-8c65-6494ebc6da89",
+      "files": [
+        "Asendusliige_Raivo_Tamm_9.11.2020.pdf",
+        "ELAK_9.11.2020_istung_Taaskäivitamisfond_(Triin_Toomingas).pdf",
+        "ELAK_9.11.2020_istung_Taastekava_(Ave_Schank-Lukas)_.pdf",
+        "ELAK_protokoll_9.11.2020.pdf",
+        "ELAK_protokoll_09.11.2020.asice",
+        "9.11_asendusliige_Ruuben_Kaalep.pdf"
+      ]
+    }
+  ],
+  "uuid": "8f2e7d5d-b613-4016-bfd2-6f8492923930",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8f2e7d5d-b613-4016-bfd2-6f8492923930)",
+  "source": "https://api.riigikogu.ee/api/volumes/8f2e7d5d-b613-4016-bfd2-6f8492923930",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-11-01&endDate=2020-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
