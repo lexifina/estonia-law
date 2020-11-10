@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung teisipäev, 10.11.2020 kell 14.00",
+  "sitting_time": "2020-11-10T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohaliku omavalitsuse üksuse finantsjuhtimise seaduse muutmise seaduse eelnõu (282 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0ded9679-6356-40f4-83f8-73cde53ff508"
+    },
+    {
+      "order": 2,
+      "title": "2021. aasta riigieelarve seaduse eelnõu (254 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2c4e047c-e7f6-43fd-8f5d-eaf3491bfb47"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b7bf0322-edfa-47b2-8995-8194d6d205e6"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 10.11.2020",
+      "uuid": "40bfdf03-45bc-463c-a177-3c6e48065ead",
+      "files": [
+        "RAHK_protokoll_10.11.2020.asice",
+        "RAHK_protokoll_101_10_11_2020_lisa_1.pdf",
+        "RAHK_protokoll_101_10_11_2020.pdf"
+      ]
+    }
+  ],
+  "uuid": "c802852c-3c24-4f2d-ae80-90fb21729215",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c802852c-3c24-4f2d-ae80-90fb21729215)",
+  "source": "https://api.riigikogu.ee/api/volumes/c802852c-3c24-4f2d-ae80-90fb21729215",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-11-01&endDate=2020-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
