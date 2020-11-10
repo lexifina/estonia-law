@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung teisipäev, 10.11.2020 kell 14.00",
+  "sitting_time": "2020-11-10T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Gripivaktsiini kättesaadavusest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "00c81c97-16f2-49e3-aefd-65bc58760996"
+    },
+    {
+      "order": 2,
+      "title": "Psühhiaatrilise abi seaduse § 3 täiendamise seaduse eelnõu (115 SE) arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dc3b95bd-fc22-485a-9e8d-bcab18fc09c2"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "27618b92-3a17-4d79-a24a-2f444ec27bc3"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "SOTK protokoll 10.11.2020",
+      "uuid": "32a1a817-ef19-452b-a7c6-cf6884e47ecb",
+      "files": [
+        "SOTK_protokoll_10.11.2020.asice",
+        "Protokoll.pdf",
+        "Lisa_(EKRE_asendusliige).pdf"
+      ]
+    }
+  ],
+  "uuid": "f86e676e-caa6-4977-a55f-8490d5933b71",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f86e676e-caa6-4977-a55f-8490d5933b71)",
+  "source": "https://api.riigikogu.ee/api/volumes/f86e676e-caa6-4977-a55f-8490d5933b71",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-11-01&endDate=2020-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
