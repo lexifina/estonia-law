@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung neljapäev, 12.11.2020 kell 14.00",
+  "sitting_time": "2020-11-12T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Jätkuarutelu Eesti valmisolekust COVID-19 tegelemiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9ead4a14-c384-442f-a8b6-e7390df9f0c9"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "68988716-6f06-4148-a32c-e11f164ca67f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "SOTK protokoll 12.11.2020",
+      "uuid": "aae25c0c-262f-44c3-acc9-9a71f8b75d97",
+      "files": [
+        "SOTK_protokoll_12.11.2020.asice",
+        "Protokoll.pdf"
+      ]
+    }
+  ],
+  "uuid": "ebf90518-5259-4f2d-8fdf-eb080af44f21",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ebf90518-5259-4f2d-8fdf-eb080af44f21)",
+  "source": "https://api.riigikogu.ee/api/volumes/ebf90518-5259-4f2d-8fdf-eb080af44f21",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-11-01&endDate=2020-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
