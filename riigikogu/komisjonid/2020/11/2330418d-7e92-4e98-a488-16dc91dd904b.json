@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung reede, 13.11.2020 kell 09.00",
+  "sitting_time": "2020-11-13T09:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade Eesti-USA suhete arengust",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "54bc6883-04ab-4d6c-9e9d-c39691357000"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "18e691c5-7cc9-4139-8df6-3fd3a6594582"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 13.11.2020",
+      "uuid": "415dfbce-6589-4f28-b12f-19c6e96ef213",
+      "files": [
+        "VÄLK_protokoll_20201113.pdf",
+        "VÄLK_protokoll_13.11.2020.asice"
+      ]
+    }
+  ],
+  "uuid": "2330418d-7e92-4e98-a488-16dc91dd904b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2330418d-7e92-4e98-a488-16dc91dd904b)",
+  "source": "https://api.riigikogu.ee/api/volumes/2330418d-7e92-4e98-a488-16dc91dd904b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-11-01&endDate=2020-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
