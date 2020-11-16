@@ -1,0 +1,48 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung esmaspäev, 16.11.2020 kell 11.10",
+  "sitting_time": "2020-11-16T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "87c66818-6cda-4684-a385-4811d0b88c55"
+    },
+    {
+      "order": 2,
+      "title": "Arutelu teemal - rohevõrgustike planeerimine üldplaneeringute koostamisel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0fe24ee6-ce39-4204-8775-700048ffa01e"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1b9d0319-1d6e-4a00-b23f-a75b143031c2"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK protokoll 16.11.2020",
+      "uuid": "3c2cba21-ad25-4dc0-ad93-bf27f9d3dc96",
+      "files": [
+        "KEKK_16.11.2020_protokoll.asice",
+        "2020-11-16_Rohevorgu_planeerimine.pdf",
+        "Ökosüsteemiteenused_ehk_looduse_hüved.pdf",
+        "KEKK_16.11.2020_protokoll.pdf"
+      ]
+    }
+  ],
+  "uuid": "21f6541b-6d12-44fa-a2b3-36f8159b8726",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 21f6541b-6d12-44fa-a2b3-36f8159b8726)",
+  "source": "https://api.riigikogu.ee/api/volumes/21f6541b-6d12-44fa-a2b3-36f8159b8726",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-11-01&endDate=2020-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
