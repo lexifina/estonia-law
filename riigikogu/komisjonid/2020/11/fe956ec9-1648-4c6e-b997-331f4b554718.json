@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung esmaspäev, 16.11.2020 kell 11.15",
+  "sitting_time": "2020-11-16T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e8ab4876-ac47-4feb-856d-abbf3c4135d1"
+    },
+    {
+      "order": 2,
+      "title": "Notariaadiseaduse ja teiste seaduste muutmise seaduse eelnõu (200 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ef1d11ab-1fcb-42ec-bee1-d60e63e4ca5e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ÕIGK protokoll 16.11.2020",
+      "uuid": "44b114e6-7d97-4923-b7e8-0864b95b0462",
+      "files": [
+        "Õiguskomisjoni_16.11.2020_istungi_protokoll.pdf",
+        "ÕIGK_protokoll_16.11.2020.asice"
+      ]
+    }
+  ],
+  "uuid": "fe956ec9-1648-4c6e-b997-331f4b554718",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid fe956ec9-1648-4c6e-b997-331f4b554718)",
+  "source": "https://api.riigikogu.ee/api/volumes/fe956ec9-1648-4c6e-b997-331f4b554718",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-11-01&endDate=2020-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
