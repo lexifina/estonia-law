@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung esmaspäev, 16.11.2020 kell 11.15",
+  "sitting_time": "2020-11-16T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "87495ab7-d74c-4eac-9127-2272348ca31c"
+    },
+    {
+      "order": 2,
+      "title": "Euroopa Kohtu kohtuniku kandidaadi kuulamine ja küsitlemine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3ce2c93c-6ed4-4efa-9796-b97fcdba205c"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2d799501-7c4e-44e5-a369-a446e6633736"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "PÕSK protokoll 16.11.2020",
+      "uuid": "f8ae5cf4-d427-4ee1-bd18-9d54cf141a11",
+      "files": [
+        "PÕSK.protokoll.16.11.2020.pdf",
+        "PÕSK.protokoll.16.11.2020.asice"
+      ]
+    }
+  ],
+  "uuid": "c5768cff-3165-4d71-9e76-f373c2fe40ea",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c5768cff-3165-4d71-9e76-f373c2fe40ea)",
+  "source": "https://api.riigikogu.ee/api/volumes/c5768cff-3165-4d71-9e76-f373c2fe40ea",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-11-01&endDate=2020-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
