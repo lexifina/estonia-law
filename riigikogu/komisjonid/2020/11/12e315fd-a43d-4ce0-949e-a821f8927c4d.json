@@ -1,0 +1,53 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung esmaspäev, 23.11.2020 kell 11.00",
+  "sitting_time": "2020-11-23T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4f741d30-05b8-48b2-b8a5-1816a7c8b393"
+    },
+    {
+      "order": 2,
+      "title": "Kohalike omavalitsuste rolli riigikaitse laiast käsitlusest lähtuvalt",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c0e1f83c-17f8-44bd-8405-0798c3d16adb"
+    },
+    {
+      "order": 3,
+      "title": "Olulise tähtsusega riiklikku küsimuse algatamine teemal \"Riigi sõjalise kaitse jätkusuutlik areng\"",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "861816c9-5dd8-4eac-872f-6e83f1301179"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c6999c93-b421-4ffc-9057-02f133a9890e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RIKK protokoll 23.11.2020",
+      "uuid": "29d855ad-a8fe-404d-b5d1-bf7d0aad88cc",
+      "files": [
+        "RIKK_protokoll_23.11.2020.asice",
+        "RIKK_protokoll_23.11.2020_(1).asice",
+        "23.11.20_protokoll.pdf"
+      ]
+    }
+  ],
+  "uuid": "12e315fd-a43d-4ce0-949e-a821f8927c4d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 12e315fd-a43d-4ce0-949e-a821f8927c4d)",
+  "source": "https://api.riigikogu.ee/api/volumes/12e315fd-a43d-4ce0-949e-a821f8927c4d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-11-01&endDate=2020-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
