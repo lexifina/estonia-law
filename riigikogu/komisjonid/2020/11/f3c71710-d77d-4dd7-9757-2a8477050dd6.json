@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung esmaspäev, 23.11.2020 kell 11:15",
+  "sitting_time": "2020-11-23T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2bcc48d3-d357-4c7b-a6f2-1aafa7d01c08"
+    },
+    {
+      "order": 2,
+      "title": "Tuleohutuse seaduse ja teiste seaduste muutmise seaduse eelnõu (120 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d01b3094-21c3-4200-b3e3-4cb05466135d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ÕIGK protokoll 23.11.2020",
+      "uuid": "ea4125fa-f702-413b-b83f-09b6e5519eaf",
+      "files": [
+        "ÕIGK_protokoll_23.11.2020.asice",
+        "Õiguskomisjoni_23.11.2020_istungi_protokoll.pdf"
+      ]
+    }
+  ],
+  "uuid": "f3c71710-d77d-4dd7-9757-2a8477050dd6",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f3c71710-d77d-4dd7-9757-2a8477050dd6)",
+  "source": "https://api.riigikogu.ee/api/volumes/f3c71710-d77d-4dd7-9757-2a8477050dd6",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-11-01&endDate=2020-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
