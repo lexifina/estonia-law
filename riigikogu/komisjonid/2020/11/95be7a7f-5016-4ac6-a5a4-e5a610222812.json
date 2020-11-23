@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung esmaspäev, 23.11.2020 kell 11.00",
+  "sitting_time": "2020-11-23T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4a0a8f17-f995-44cf-bdde-c54d95944816"
+    },
+    {
+      "order": 2,
+      "title": "Informatsioon julgeolekuolukorra arengutest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0bce6f90-0785-4c59-9271-7af6373411f4"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "94025268-7b83-4509-b493-8bdc49b97f78"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 23.11.2020",
+      "uuid": "809ad93a-b49a-42c2-85b3-fa65208ab9a7",
+      "files": [
+        "VÄLK_protokoll_23.11.2020.asice",
+        "VÄLK_protokoll_20201123.pdf"
+      ]
+    }
+  ],
+  "uuid": "95be7a7f-5016-4ac6-a5a4-e5a610222812",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 95be7a7f-5016-4ac6-a5a4-e5a610222812)",
+  "source": "https://api.riigikogu.ee/api/volumes/95be7a7f-5016-4ac6-a5a4-e5a610222812",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-11-01&endDate=2020-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
