@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung teisipäev, 24.11.2020 kell 14.00",
+  "sitting_time": "2020-11-24T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade arengutest Gruusias ja Armeenias",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "69b66370-ff4c-4d4d-be8c-4d90692b0f3b"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade Eesti tegevusest ÜRO Julgeolekunõukogu valitud liikmena",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7c7352e3-4086-4d19-a80d-a340d5ad0f9d"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "92d8ff58-1984-46b2-b529-ac9b64b5ae66"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK_protokoll_24.11.2020",
+      "uuid": "8ed22722-446d-477a-b174-ed587b24bcd1",
+      "files": [
+        "VÄLK_protokoll_24.11.2020.asice",
+        "VÄLK__protokoll__24.11.2020.pdf"
+      ]
+    }
+  ],
+  "uuid": "51b4cd67-1c9d-4b13-a716-ddcff6214dd1",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 51b4cd67-1c9d-4b13-a716-ddcff6214dd1)",
+  "source": "https://api.riigikogu.ee/api/volumes/51b4cd67-1c9d-4b13-a716-ddcff6214dd1",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-11-01&endDate=2020-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
