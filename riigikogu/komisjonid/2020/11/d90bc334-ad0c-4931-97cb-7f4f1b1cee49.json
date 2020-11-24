@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung teisipäev, 24.11.2020 kell 14.00",
+  "sitting_time": "2020-11-24T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kodakondsuse seaduse muutmise seaduse eelnõu (255 SE) esimeseks lugemiseks ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "061a6928-1ba6-42e4-8249-d0a8dfb2c019"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu kodu- ja töökorra seaduse muutmise seaduse eelnõu (249 SE) esimeseks lugemiseks ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3f2cb3cd-f315-49d2-b9f1-96e9de9345d0"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b7364c8c-f5d2-4033-9164-14ac30b00f25"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "PÕSK protokoll 24.11.2020",
+      "uuid": "ed92bbfe-eccb-4172-a60d-89ea75aab984",
+      "files": [
+        "PÕSK_protokoll_24.11.2020.asice",
+        "Volikiri.24.11.2020.pdf",
+        "PÕSK.protokoll.24.11.2020.pdf"
+      ]
+    }
+  ],
+  "uuid": "d90bc334-ad0c-4931-97cb-7f4f1b1cee49",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d90bc334-ad0c-4931-97cb-7f4f1b1cee49)",
+  "source": "https://api.riigikogu.ee/api/volumes/d90bc334-ad0c-4931-97cb-7f4f1b1cee49",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-11-01&endDate=2020-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
