@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung teisipäev, 24.11.2020 kell 14.00",
+  "sitting_time": "2020-11-24T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vähitõrjeplaaniga tutvumine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "be9b0cfe-e811-4b44-b55e-422adc947a6c"
+    },
+    {
+      "order": 2,
+      "title": "Psühhiaatrilise abi seaduse § 3 täiendamise seaduse eelnõu (115 SE) arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5bd02c16-3380-4d7f-ba26-8ebf08e05c8c"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c62c1c3b-c5b9-4a85-bfb0-7af84016a953"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "SOTK protokoll 24.11.2020",
+      "uuid": "34696b5a-60e9-45db-8cba-846e276b265e",
+      "files": [
+        "SOTK_protokoll_24.11.2020.asice",
+        "Protokoll.pdf",
+        "Lisa_1.pdf"
+      ]
+    }
+  ],
+  "uuid": "090bd9a5-e2af-446f-a233-dd2687832f9e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 090bd9a5-e2af-446f-a233-dd2687832f9e)",
+  "source": "https://api.riigikogu.ee/api/volumes/090bd9a5-e2af-446f-a233-dd2687832f9e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-11-01&endDate=2020-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
