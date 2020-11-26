@@ -1,0 +1,43 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni avalik istung neljapäev, 26.11.2020 kell 14.00",
+  "sitting_time": "2020-11-26T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Arutelu COVID-19 viiruse leviku prognooside kohta",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c1410b79-a627-407a-86b3-3bd32cdf9e36"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ad1837b7-5adc-4a08-a4e0-a0d87286de44"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "SOTK protokoll 26.11.2020",
+      "uuid": "0c1849a5-2373-41e1-b2fe-c2bd9a069f38",
+      "files": [
+        "Protokoll.pdf",
+        "SOTK_protokoll_26.11.2020.asice",
+        "Lisa_3_(Terviseamet).pdf",
+        "Lisa_1_(I.Lutsar).pdf",
+        "Lisa_2_(K.Fischer__M.Kadastik).pdf"
+      ]
+    }
+  ],
+  "uuid": "a0dfce32-0c02-4ffa-bc05-bbb03bb524ef",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a0dfce32-0c02-4ffa-bc05-bbb03bb524ef)",
+  "source": "https://api.riigikogu.ee/api/volumes/a0dfce32-0c02-4ffa-bc05-bbb03bb524ef",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-11-01&endDate=2020-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
