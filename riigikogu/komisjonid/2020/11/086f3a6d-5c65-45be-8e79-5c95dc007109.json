@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung neljapäev, 26.11.2020 kell 16.05",
+  "sitting_time": "2020-11-26T16:05:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "aab46f2c-f2d8-4305-ba27-bf8f358f7bca"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu otsuse „Rahvahääletuse korraldamine abielu  mõiste küsimuses“ eelnõu (288 OE) esimeseks lugemiseks ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "59ab9e3c-091f-4f1b-b96a-cbd8f81c252a"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a38b1354-1541-4a26-bdd4-b2fa4f2124ac"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "PÕSK protokoll 26.11.2020",
+      "uuid": "4257d79e-569b-48b6-8244-b20808654b10",
+      "files": [
+        "PÕSK_protokoll_26.11.2020.asice",
+        "Volikiri.26.11.2020.pdf",
+        "PÕSK.protokoll.26.11.2020.(erakorraline_istung).pdf"
+      ]
+    }
+  ],
+  "uuid": "086f3a6d-5c65-45be-8e79-5c95dc007109",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 086f3a6d-5c65-45be-8e79-5c95dc007109)",
+  "source": "https://api.riigikogu.ee/api/volumes/086f3a6d-5c65-45be-8e79-5c95dc007109",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-11-01&endDate=2020-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
