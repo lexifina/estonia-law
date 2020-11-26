@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung neljapäev, 26.11.2020 kell 13.00",
+  "sitting_time": "2020-11-26T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 1.-2. detsembril 2020 toimuval NATO välisministrite videokohtumisel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2e47c00d-3327-4292-9c43-c4ee978f8722"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad 3.-4. detsembril 2020 toimuval OSCE välisministrite videokohtumisel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "06d5e3e0-17f7-489b-9155-2f16fbac8f61"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "66c9542a-bdef-49dd-b5cc-b2f15d3339c8"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 26.11.2020",
+      "uuid": "14ffe69e-5999-4873-921f-b79744a0543b",
+      "files": [
+        "VÄLK_protokoll_26.11.2020.asice",
+        "VÄLK_protokoll_26.11.2020.pdf"
+      ]
+    }
+  ],
+  "uuid": "ca5e5b2b-b3e8-4954-8913-b8184897fd9b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ca5e5b2b-b3e8-4954-8913-b8184897fd9b)",
+  "source": "https://api.riigikogu.ee/api/volumes/ca5e5b2b-b3e8-4954-8913-b8184897fd9b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-11-01&endDate=2020-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
