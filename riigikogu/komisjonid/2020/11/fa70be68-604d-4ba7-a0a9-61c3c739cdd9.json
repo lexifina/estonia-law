@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung esmaspäev, 30.11.2020 kell 13.30",
+  "sitting_time": "2020-11-30T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1874ffe7-275f-4d74-8af0-e708d3cdea7e"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad 2. detsembril 2020 toimuval mitteametlikul Euroopa Liidu justiitsministrite videokohtumisel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3d2e19dc-e0c0-4da4-863e-e6ff37632658"
+    },
+    {
+      "order": 3,
+      "title": "Eesti seisukohad 2.-3. detsembril 2020 toimuval Euroopa Liidu tööhõive, sotsiaalpoliitika, tervise- ja tarbijakaitseküsimuste (EPSCO) nõukogu mitteametlikul videokohtumisel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8ae9da8a-fdd7-4bf5-8916-51327c94752b"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "698a90b3-7850-4cb3-9140-17df29f47afb"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ELAK protokoll 30.11.2020",
+      "uuid": "85f24ea0-be45-4855-b635-cdfb66767f52",
+      "files": [
+        "ELAK_protokoll_30.11.2020.asice",
+        "ELAK_protokoll_30.11.2020.pdf"
+      ]
+    }
+  ],
+  "uuid": "fa70be68-604d-4ba7-a0a9-61c3c739cdd9",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid fa70be68-604d-4ba7-a0a9-61c3c739cdd9)",
+  "source": "https://api.riigikogu.ee/api/volumes/fa70be68-604d-4ba7-a0a9-61c3c739cdd9",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-11-01&endDate=2020-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
