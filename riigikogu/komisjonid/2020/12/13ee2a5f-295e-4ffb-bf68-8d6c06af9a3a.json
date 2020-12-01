@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni erakorraline istung teisipäev, 1.12.2020 kell 17.30",
+  "sitting_time": "2020-12-01T17:30:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c87ea8e2-5746-4793-9ea5-f9d1fc880638"
+    },
+    {
+      "order": 2,
+      "title": "Töötervishoiu ja tööohutuse seaduse ning teiste seaduste muutmise seaduse eelnõu (257 SE) kaasamise arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3d0493d9-dc4a-449f-8e56-527fcf3c2af8"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f6d61629-db97-41f6-978f-f227624eb037"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "SOTK protokoll 1.12.2020",
+      "uuid": "87b27af1-46db-4d19-9148-d0d695db89ed",
+      "files": [
+        "SOTK_protokoll_1.12.2020.asice",
+        "Protokoll.pdf"
+      ]
+    }
+  ],
+  "uuid": "13ee2a5f-295e-4ffb-bf68-8d6c06af9a3a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 13ee2a5f-295e-4ffb-bf68-8d6c06af9a3a)",
+  "source": "https://api.riigikogu.ee/api/volumes/13ee2a5f-295e-4ffb-bf68-8d6c06af9a3a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-12-01&endDate=2020-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
