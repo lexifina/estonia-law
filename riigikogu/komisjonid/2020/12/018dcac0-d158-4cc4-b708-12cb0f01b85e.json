@@ -1,0 +1,53 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung esmaspäev, 7.12.2020 kell 11.03",
+  "sitting_time": "2020-12-07T11:03:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "51d0d182-09c0-4e3c-b496-9a7d1c0aa0bf"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade arengutest Valgevenes, OSCE raport inimõiguste rikkumistest Valgevenes seoses 9. augusti presidendivalimistega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f18acbf5-4dc8-47b4-9b72-fae90ac57f7e"
+    },
+    {
+      "order": 3,
+      "title": "Ülevaade Eesti, Läti ja Leedu parlamentide väliskomisjonide reedel, 4. detsembril 2020 toimunud videokohtumisest ja arutelu edasise koostöö võimalustest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c170db8d-233b-42a9-a43d-630379105c78"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "68e91ffd-741e-428c-bbec-2515f4463607"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 07.12.2020",
+      "uuid": "516c204d-f0d0-4898-98f6-a03aa41bad39",
+      "files": [
+        "VÄLK_protokoll_07.12.2020.asice",
+        "OSCE_report_Belarus.pdf",
+        "VÄLK_protokoll_7.12.2020.pdf"
+      ]
+    }
+  ],
+  "uuid": "018dcac0-d158-4cc4-b708-12cb0f01b85e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 018dcac0-d158-4cc4-b708-12cb0f01b85e)",
+  "source": "https://api.riigikogu.ee/api/volumes/018dcac0-d158-4cc4-b708-12cb0f01b85e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-12-01&endDate=2020-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
