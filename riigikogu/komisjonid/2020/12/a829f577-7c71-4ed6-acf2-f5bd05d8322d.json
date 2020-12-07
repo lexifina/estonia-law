@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung esmaspäev, 7.12.2020 kell 11.15",
+  "sitting_time": "2020-12-07T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2abf4f3e-f71f-4499-a4c3-14b51c86371b"
+    },
+    {
+      "order": 2,
+      "title": "Rahanduskomisjonile arvamuse andmine Riigikogu otsuse „Riigi pikaajaline arengustrateegia „Eesti 2035“ heakskiitmine“ eelnõu (262 OE) kohta",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0ec65bfa-7f31-4b24-94eb-3bbd9fa3848e"
+    },
+    {
+      "order": 3,
+      "title": "Kohtute seaduse muutmise seaduse eelnõu algatamise arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "de77e798-5e85-4731-9e6b-81d77e04f7fc"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "36e3b4dc-9a5f-4f3a-8c6e-af8f79a89b08"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "PÕSK protokoll 07.12.2020",
+      "uuid": "5d201faf-5c5d-43fa-946c-545f8f9900bd",
+      "files": [
+        "PÕSK_protokoll_07.12.2020.asice",
+        "PÕSK.protokoll.07.12.2020.pdf"
+      ]
+    }
+  ],
+  "uuid": "a829f577-7c71-4ed6-acf2-f5bd05d8322d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a829f577-7c71-4ed6-acf2-f5bd05d8322d)",
+  "source": "https://api.riigikogu.ee/api/volumes/a829f577-7c71-4ed6-acf2-f5bd05d8322d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-12-01&endDate=2020-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
