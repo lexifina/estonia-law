@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 7.12.2020 kell 13.15",
+  "sitting_time": "2020-12-07T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1eec0bde-2bff-4d2f-a8ac-b7abe2de6b4a"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli ülevaate \"KredExi erakorralised meetmed ettevõtetele koroonakriisi mõju leevendamiseks\" arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "32a79359-bfac-4ebd-a040-38c4a79b23df"
+    },
+    {
+      "order": 3,
+      "title": "Arvamuse andmine eelnõule 262 OE (Riigikogu otsus \"„Riigi pikaajaline arengustrateegia „Eesti 2035““ heakskiitmine\")",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6e12b9dc-eaab-469c-8140-40ca07b6eb05"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 7.12.2020",
+      "uuid": "138c6c65-e5a6-4511-8358-177f2bed107f",
+      "files": [
+        "REKK_protokoll_7.12.2020.asice",
+        "Protokoll_nr_51._07.12.2020.pdf",
+        "REKK_ettekanne_16112020_loplik.pptx"
+      ]
+    }
+  ],
+  "uuid": "3d940581-da2a-4bac-8896-0dcc7d766ad0",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3d940581-da2a-4bac-8896-0dcc7d766ad0)",
+  "source": "https://api.riigikogu.ee/api/volumes/3d940581-da2a-4bac-8896-0dcc7d766ad0",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-12-01&endDate=2020-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
