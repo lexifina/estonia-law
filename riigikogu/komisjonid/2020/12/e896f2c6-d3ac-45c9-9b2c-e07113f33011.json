@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung esmaspäev, 7.12.2020 kell 11.15",
+  "sitting_time": "2020-12-07T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9ba838ad-6d73-48e7-b43d-f3bf2004fa98"
+    },
+    {
+      "order": 2,
+      "title": "Tuleohutuse seaduse ja teiste seaduste muutmise seaduse eelnõu (120 SE II)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6e098faa-3d1d-4a1c-a8df-8fc0369e8521"
+    },
+    {
+      "order": 3,
+      "title": "Pankrotiseaduse ja teiste seaduste muutmise seaduse eelnõu (195 SE II)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7950b529-88f5-437c-a4cb-49a1bf23f4ad"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ÕIGK protokoll 07.12.2020",
+      "uuid": "04a09df8-e996-4be0-a253-e3b432c0d381",
+      "files": [
+        "Õiguskomisjoni_07.12.2020_istungi_protokoll.pdf",
+        "ÕIGK_protokoll_07.12.2020.asice"
+      ]
+    }
+  ],
+  "uuid": "e896f2c6-d3ac-45c9-9b2c-e07113f33011",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e896f2c6-d3ac-45c9-9b2c-e07113f33011)",
+  "source": "https://api.riigikogu.ee/api/volumes/e896f2c6-d3ac-45c9-9b2c-e07113f33011",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-12-01&endDate=2020-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
