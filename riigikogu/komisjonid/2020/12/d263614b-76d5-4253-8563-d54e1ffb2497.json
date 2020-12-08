@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung teisipäev, 8.12.2020 kell 14.00",
+  "sitting_time": "2020-12-08T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Jäätmeseaduse ja pakendiseaduse muutmise seaduse eelnõu (190 SE) ettevalmistamine teiseks lugemiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a9f8ca80-832a-4898-b310-1d569897126a"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine keskkonnaminister Rain Epleriga",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "db9b23b4-99d3-46c6-bf10-c14700e7db30"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bbce5b0b-8a1e-4f83-9a38-3cc336bf169d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK protokoll 08.12.2020",
+      "uuid": "8f199ef0-f6fc-4c1d-8565-840c212790d8",
+      "files": [
+        "KEKK_08.12.2020_protokoll.pdf",
+        "KEKK_08.12.2020_protokoll.asice"
+      ]
+    }
+  ],
+  "uuid": "d263614b-76d5-4253-8563-d54e1ffb2497",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d263614b-76d5-4253-8563-d54e1ffb2497)",
+  "source": "https://api.riigikogu.ee/api/volumes/d263614b-76d5-4253-8563-d54e1ffb2497",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-12-01&endDate=2020-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
