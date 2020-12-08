@@ -1,0 +1,48 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 8.12.2020 kell 14.30",
+  "sitting_time": "2020-12-08T14:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Esindusorganisatsioonide pöördumine puu- ja köögivilja käibemaksu alandamise teemal",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d37d8fbe-9c31-4ec0-8dbc-fde5e47c6a63"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade põllumajanduse suurandmete projektist",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7727dcf0-4517-4164-804f-ffe09b072859"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9d3932ca-cbdf-4434-a034-cd577dddeaee"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 08.12.2020",
+      "uuid": "6e02e9c9-2b90-4330-a24a-c6cf80627909",
+      "files": [
+        "MAEK_protokoll_08.12.2020.asice",
+        "080_protokolli_lisa_2_ePõlluraamat_ja_Suurandmete_süsteem.pptx",
+        "080_protokolli_lisa_1_Aiandusliit_KM_erisus.pdf",
+        "080_protokoll_08.12.2020.pdf"
+      ]
+    }
+  ],
+  "uuid": "9173a645-e7d6-499a-bc86-f27b07565f48",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9173a645-e7d6-499a-bc86-f27b07565f48)",
+  "source": "https://api.riigikogu.ee/api/volumes/9173a645-e7d6-499a-bc86-f27b07565f48",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-12-01&endDate=2020-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
