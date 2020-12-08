@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung teisipäev, 8.12.2020 kell 14.00",
+  "sitting_time": "2020-12-08T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Digiretsepti alusel ravimite kättesaadavuse tagamise küsimus e-apteekides",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1ca92153-6cb9-45c3-8f70-668677273abf"
+    },
+    {
+      "order": 2,
+      "title": "Psühhiaatrilise abi seaduse § 3 täiendamise seaduse eelnõu (115 SE) arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e58c4cd3-64ed-48e0-bfb1-6a7ae12137f1"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "17a1e95a-ee1d-47cb-853b-48f8f5424208"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "SOTK protokoll 8.12.2020",
+      "uuid": "677c64fd-189d-4cf2-b014-2606b5af2ffb",
+      "files": [
+        "SOTK_protokoll_8.12.2020.asice",
+        "Protokoll.pdf",
+        "Lisa_1.pdf"
+      ]
+    }
+  ],
+  "uuid": "450b788e-b8e1-47ac-a4aa-ec789011142a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 450b788e-b8e1-47ac-a4aa-ec789011142a)",
+  "source": "https://api.riigikogu.ee/api/volumes/450b788e-b8e1-47ac-a4aa-ec789011142a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-12-01&endDate=2020-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
