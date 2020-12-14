@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung esmaspäev, 14.12.2020 kell 11.10",
+  "sitting_time": "2020-12-14T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8450c517-a802-4365-8bbb-fd6d9afa02b6"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad teatise „Kestlikkust toetav kemikaalistrateegia. Mürgivaba keskkonna loomise suunas“ kohta COM(2020) 667",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "03cac842-d768-4bfc-9fee-c65e5860926b"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c9261f52-9218-4f74-b324-497b3cd0ffbd"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK protokoll 14.12.2020",
+      "uuid": "cd8fffb4-b916-4155-b9fb-2d9308f9b795",
+      "files": [
+        "KEKK_14.12.2020_protokoll.asice",
+        "KEKK_14.12.2020_protokoll.pdf"
+      ]
+    }
+  ],
+  "uuid": "a25966a2-ff44-481b-bb17-894c31efaed7",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a25966a2-ff44-481b-bb17-894c31efaed7)",
+  "source": "https://api.riigikogu.ee/api/volumes/a25966a2-ff44-481b-bb17-894c31efaed7",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-12-01&endDate=2020-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
