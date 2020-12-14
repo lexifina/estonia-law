@@ -1,0 +1,54 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 14.12.2020 kell 11.10",
+  "sitting_time": "2020-12-14T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8a341dbb-0a53-42f3-bd5e-45dd54069e24"
+    },
+    {
+      "order": 2,
+      "title": "Arvamuse andmine rahanduskomisjonile Riigikogu otsuse \"„Riigi pikaajaline arengustrateegia „Eesti 2035““ heakskiitmine\" eelnõu 262 OE kohta",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c8b7bca7-0772-4e83-90f8-85d950b5a6e2"
+    },
+    {
+      "order": 3,
+      "title": "Kalanduse individuaalkvoodid",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9a21ceac-fc8c-4372-8e30-aafb1abc28ce"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "05d87e0d-aa72-4720-a9f7-e6732b5e07f5"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 14.12.2020",
+      "uuid": "bef7498f-a85f-43fc-bb68-76e81457e4c6",
+      "files": [
+        "MAEK_protokoll_14.12.2020.asice",
+        "081_protokoll_14.12.2020.pdf",
+        "081_protokolli_lisa_2_KeM_Peipsi_pyygikorraldus.pdf",
+        "081_protokolli_lisa_1_MeM_Individuaalkvoodid.pdf"
+      ]
+    }
+  ],
+  "uuid": "e1d91d6a-b40a-4189-8c72-8d1802cfa80d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e1d91d6a-b40a-4189-8c72-8d1802cfa80d)",
+  "source": "https://api.riigikogu.ee/api/volumes/e1d91d6a-b40a-4189-8c72-8d1802cfa80d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-12-01&endDate=2020-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
