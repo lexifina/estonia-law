@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 14.12.2020 kell 13.15",
+  "sitting_time": "2020-12-14T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ce4ebb8c-4439-40d0-8519-d5130263b361"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli kontrolliaruande „Hariduse tugiteenuste kättesaadavus“ arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "631b4c69-8a1a-4748-8bff-7b92ac1b73e9"
+    },
+    {
+      "order": 3,
+      "title": "Arvamuse andmine eelnõule 262 OE (Riigikogu otsus \"„Riigi pikaajaline arengustrateegia „Eesti 2035““ heakskiitmine\")",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c45de489-c192-48a0-98d4-6022f4f3d81a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 14.12.2020",
+      "uuid": "b92e3227-7a42-438b-8743-daf367c8b937",
+      "files": [
+        "REKK_protokoll_14.12.2020.asice",
+        "Protokoll_nr_53._14.12.2020.pdf",
+        "Hariduse_tugiteenused_REKK_avalik_istung.pptx"
+      ]
+    }
+  ],
+  "uuid": "2184de36-abb0-491d-b7fb-55795d1ebb4d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2184de36-abb0-491d-b7fb-55795d1ebb4d)",
+  "source": "https://api.riigikogu.ee/api/volumes/2184de36-abb0-491d-b7fb-55795d1ebb4d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-12-01&endDate=2020-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
