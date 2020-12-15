@@ -1,0 +1,48 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung teisipäev, 15.12.2020 kell 14.00",
+  "sitting_time": "2020-12-15T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Arvamuse andmine rahanduskomisjonile: Riigikogu otsuse „Riigi pikaajaline arengustrateegia „Eesti 2035“ heakskiitmine“ eelnõu (262 OE) kohta",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "52d653fc-7d49-4501-9d02-f954c34ad42a"
+    },
+    {
+      "order": 2,
+      "title": "Kokkuvõte majanduskomisjoni sügisistungjärgu ja 2020. aasta töödest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "656412b5-d579-4584-ae5a-2c57674cc024"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e8acd497-4e79-4093-9cc0-ef967b901020"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAJK protokoll nr 89 15.12.2020",
+      "uuid": "a2b30879-2dfd-4032-a3fa-db5e36457b28",
+      "files": [
+        "MAJK_protokoll_nr_89_15.12.2020.asice",
+        "Lisa_2_Majanduskomisjoni_tööst_2020._a_XIV_koosseis.pdf",
+        "Lisa_1_Majanduskomisjoni_tööst_2020._a_sügisistungjärgul_XIV_koosseis.pdf",
+        "MAJK_protokoll_nr_89_15.12.2020.pdf"
+      ]
+    }
+  ],
+  "uuid": "6e4c1f06-736a-4cfe-9b73-50760bce7352",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 6e4c1f06-736a-4cfe-9b73-50760bce7352)",
+  "source": "https://api.riigikogu.ee/api/volumes/6e4c1f06-736a-4cfe-9b73-50760bce7352",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-12-01&endDate=2020-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
