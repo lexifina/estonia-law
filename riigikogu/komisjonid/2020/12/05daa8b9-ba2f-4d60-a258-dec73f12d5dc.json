@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung teisipäev, 15.12.2020 kell 14.00",
+  "sitting_time": "2020-12-15T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade kriisivarudest, sh kriisivarude haldamisest ja edasistest kavadest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2c79cb37-b47b-4328-9f7b-6fc886fd35e8"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade kriisiolukorras sidevahendite ristkasutusest ja koordineerimisest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ee90b8a5-0f9f-46b6-8daa-37ba5b673b26"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RIKK protokoll 15.12.20",
+      "uuid": "06097e6e-136b-457c-94fb-74720f74a523",
+      "files": [
+        "15.12.20_protokoll.pdf",
+        "RIKK_protokoll_15.12.20.asice"
+      ]
+    }
+  ],
+  "uuid": "05daa8b9-ba2f-4d60-a258-dec73f12d5dc",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 05daa8b9-ba2f-4d60-a258-dec73f12d5dc)",
+  "source": "https://api.riigikogu.ee/api/volumes/05daa8b9-ba2f-4d60-a258-dec73f12d5dc",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-12-01&endDate=2020-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
