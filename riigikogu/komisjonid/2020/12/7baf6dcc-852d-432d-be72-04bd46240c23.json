@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 15.12.2020 kell 14.00",
+  "sitting_time": "2020-12-15T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti Kindlustusühistu Üks tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3eb3889c-5036-4a25-8710-59206ad30633"
+    },
+    {
+      "order": 2,
+      "title": "MTÜ Mahetootjate Nõu- ja Jõukoja ning Tulundusühistu Wiru Vili kiri mahetootmise toetustest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7e5d5123-3cb2-4b7e-96d1-56edfb409726"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "825d820a-d120-4453-b10b-35a2b8d0319a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 15.12.2020",
+      "uuid": "9cdff13e-ed6d-42a3-9c7e-4d0b1a282d31",
+      "files": [
+        "MAEK_protokoll_15.12.2020.asice",
+        "082_protokoll_15.12.2020.pdf",
+        "082_protokolli_lisa.Kindlustusühistu_ÜKS_tutvustus.pdf"
+      ]
+    }
+  ],
+  "uuid": "7baf6dcc-852d-432d-be72-04bd46240c23",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7baf6dcc-852d-432d-be72-04bd46240c23)",
+  "source": "https://api.riigikogu.ee/api/volumes/7baf6dcc-852d-432d-be72-04bd46240c23",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-12-01&endDate=2020-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
