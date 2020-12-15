@@ -1,0 +1,42 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung teisipäev, 15.12.2020 kell 14.00",
+  "sitting_time": "2020-12-15T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Arutelu põlevkivituha töötlemise tehase eriplaneeringu algatamisest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "425e5936-d053-494d-b74a-8197f6db70ab"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c583caf4-62fe-47a5-8d36-7a400d053c88"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK protokoll 15.12.2020",
+      "uuid": "c903572f-7db5-4e31-9d0d-a5a343955a68",
+      "files": [
+        "osa_eriplaneeringu_esitlus_VER2.pdf",
+        "Asendusliikme_volikiri_(Kõva).pdf",
+        "KEKK_15.12.2020_protokoll.asice",
+        "KEKK_15.12.2020_protokoll.pdf"
+      ]
+    }
+  ],
+  "uuid": "a5c041da-cb72-4177-901e-21cc7b81a759",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a5c041da-cb72-4177-901e-21cc7b81a759)",
+  "source": "https://api.riigikogu.ee/api/volumes/a5c041da-cb72-4177-901e-21cc7b81a759",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-12-01&endDate=2020-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
