@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung teisipäev, 15.12.2020 kell 14.00",
+  "sitting_time": "2020-12-15T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "43ce6f76-f26f-4efb-b4fa-d4de4a292763"
+    },
+    {
+      "order": 2,
+      "title": "Rahanduskomisjonile arvamuse andmine Riigikogu otsuse „Riigi pikaajaline arengustrateegia „Eesti 2035“ heakskiitmine“ eelnõu (262 OE) kohta arutelu jätkamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b7402929-999c-4295-9968-5faa849a82ab"
+    },
+    {
+      "order": 3,
+      "title": "Riigikogu otsuse „Rahvahääletuse korraldamine abielu  mõiste küsimuses“ eelnõu (288 OE) teiseks lugemiseks ettevalmistamine (teise lugemise kuupäeva osas menetlusotsuse tegemine)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a6060b3f-f9cd-4de8-9310-1d495f287416"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0682e66c-dc96-45ad-a8c4-5b830ee58037"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "PÕSK protokoll 15.12.2020",
+      "uuid": "ab5854f6-56f6-4c3f-954e-f1d1827a9595",
+      "files": [
+        "PÕSK_protokoll_15.12.2020.asice",
+        "PÕSK.protokoll.15.12.2020.pdf"
+      ]
+    }
+  ],
+  "uuid": "2e9b628e-b473-46bb-be39-e41da38c1408",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2e9b628e-b473-46bb-be39-e41da38c1408)",
+  "source": "https://api.riigikogu.ee/api/volumes/2e9b628e-b473-46bb-be39-e41da38c1408",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2020-12-01&endDate=2020-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
