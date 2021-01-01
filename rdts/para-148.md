@@ -1,0 +1,3 @@
+# § 148. Äri- ja tehnikaalase teabe konfidentsiaalsus
+
+Majandus- ja Kommunikatsiooniministeerium, Tarbijakaitse ja Tehnilise Järelevalve Amet, Konkurentsiamet, Tööinspektsioon, Riigi Infosüsteemide Amet ning Transpordiamet on kohustatud tagama neile riikliku järelevalve tegemisel teatavaks saanud äri- ja tehnikaalase teabe konfidentsiaalsuse, kui seadus ei näe ette selle avaldamist.
