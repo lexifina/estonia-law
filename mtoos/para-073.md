@@ -4,8 +4,8 @@
 
 (2) Riiklikku järelevalvet käesoleva seaduse § 28 lõike 2 ning § 29 lõigete 1 ja 2 alusel kehtestatud nõuete täitmise üle teeb Terviseamet rahvatervise seaduses sätestatud tingimustel ja korras.
 
-(3) Riiklikku järelevalvet käesoleva seaduse § 32 lõike 2 alusel kehtestatud ning § 55 lõigetes 1–4 ning §-des 39¹, 59 ja 61¹ sätestatud nõuete täitmise üle teeb Veeteede Amet meresõiduohutuse seaduses sätestatud tingimustel ja korras.
+(3) Riiklikku järelevalvet käesoleva seaduse § 32 lõike 2 alusel kehtestatud ning § 55 lõigetes 1–4 ning §-des 39¹, 59 ja 61¹ sätestatud nõuete täitmise üle teeb Transpordiamet meresõiduohutuse seaduses sätestatud tingimustel ja korras.
 
-(4) Tööinspektsioon, Terviseamet ja Veeteede Amet teevad laevade kontrollimisel koostööd, sealhulgas vahetavad omavahel teavet.
+(4) Tööinspektsioon, Terviseamet ja Transpordiamet teevad laevade kontrollimisel koostööd, sealhulgas vahetavad omavahel teavet.
 
-(5) Olulise rikkumise kõrvaldamiseks ettekirjutuse koostanud järelevalveametnik saadab ettekirjutuse ärakirja viivitamata Veeteede Ametile.
+(5) Olulise rikkumise kõrvaldamiseks ettekirjutuse koostanud järelevalveametnik saadab ettekirjutuse ärakirja viivitamata Transpordiametile.

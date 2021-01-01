@@ -10,7 +10,7 @@
 
 (4) Käesoleva seaduse § 18 lõike 1 punkti 5, § 26 lõike 1 punkti 4, § 34 lõiget 3 ja § 62 ei kohaldata töötamisele üle 24 meetri pikkusel kalalaeval.
 
-(5) Vaidluse, kas laeva suhtes kohaldatakse käesolevat seadust, lahendab kohtuväliselt Veeteede Amet, konsulteerides reederite ja laevapere liikmete esindusorganisatsioonidega.
+(5) Vaidluse, kas laeva suhtes kohaldatakse käesolevat seadust, lahendab kohtuväliselt Transpordiamet, konsulteerides reederite ja laevapere liikmete esindusorganisatsioonidega.
 
 (6) Käesoleva seaduse § 32 lõiget 7 kohaldatakse kõigile merel viibivatele laevadele, sõltumata käesoleva paragrahvi lõikes 1 nimetatud laeva registreeringust või laeva lipuriigist.
 

@@ -36,4 +36,4 @@ määrusega.
 
 (8) Tagatise olemasolu tõendav vastutuskindlustuse poliis või muu kehtiv dokument peab olema laeva pardal laevapere liikmetele kättesaadav. Kui tagatiseandjaid on mitu, peavad laeva pardal laevapere liikmetele kättesaadavad olema kõigi tagatiseandjate väljastatud tagatise olemasolu tõendavad kehtivad dokumendid.
 
-(9) Tagatiseandja peab Veeteede Ametit teavitama tagatise ennetähtaegsest lõppemisest 30 päeva ette. Reeder teavitab viivitamata laevapere liikmeid tagatise lõppemisest.
+(9) Tagatiseandja peab Transpordiametit teavitama tagatise ennetähtaegsest lõppemisest 30 päeva ette. Reeder teavitab viivitamata laevapere liikmeid tagatise lõppemisest.

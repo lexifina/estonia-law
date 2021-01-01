@@ -12,7 +12,7 @@
 
 3) tagatiseandja kinnitus, et tagatisleping vastab Rahvusvahelise Tööorganisatsiooni meretöö konventsiooni standardi A4.2.1 lõike 8 nõuetele.
 
-(4) Veeteede Ameti nõudel on reeder kohustatud esitama kõigi laeval töötavate laevapere liikmete meretöölepingud või kollektiivlepingud, millest nähtuvad andmed, mille põhjal kujuneb laevapere liikmele tasumisele kuuluvate nõuete suurus.
+(4) Transpordiameti nõudel on reeder kohustatud esitama kõigi laeval töötavate laevapere liikmete meretöölepingud või kollektiivlepingud, millest nähtuvad andmed, mille põhjal kujuneb laevapere liikmele tasumisele kuuluvate nõuete suurus.
 
 (5) Tagatise piisavuse hindamise ja suuruse arvutamise täpsema korra kehtestab
 
@@ -20,4 +20,4 @@ määrusega.
 
 (6) Tagatise olemasolu tõendav vastutuskindlustuse poliis või muu kehtiv dokument peab olema laeva pardal laevapere liikmetele kättesaadav. Kui tagatiseandjaid on mitu, peavad laeva pardal laevapere liikmetele kättesaadavad olema kõigi tagatiseandjate väljastatud tagatise olemasolu tõendavad dokumendid.
 
-(7) Tagatiseandja peab Veeteede Ametit teavitama tagatise ennetähtaegsest lõppemisest 30 päeva ette. Reeder teavitab viivitamata laevapere liikmeid tagatise lõppemisest.
+(7) Tagatiseandja peab Transpordiametit teavitama tagatise ennetähtaegsest lõppemisest 30 päeva ette. Reeder teavitab viivitamata laevapere liikmeid tagatise lõppemisest.

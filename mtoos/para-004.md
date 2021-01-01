@@ -14,4 +14,4 @@
 
 (4) Laevapere liige kantakse munsterrolli.
 
-(5) Vaidluse, kas isikut tuleb käsitada laevapere liikmena käesoleva seaduse tähenduses, lahendab kohtuväliselt Veeteede Amet, konsulteerides asjaomaste reederite ja laevapere liikmete esindusorganisatsioonidega.
+(5) Vaidluse, kas isikut tuleb käsitada laevapere liikmena käesoleva seaduse tähenduses, lahendab kohtuväliselt Transpordiamet, konsulteerides asjaomaste reederite ja laevapere liikmete esindusorganisatsioonidega.

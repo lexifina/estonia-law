@@ -4,6 +4,6 @@
 
 (2) Tagatise suuruse arvutamisel on aluseks laevapere liikmete koguarv ning käesoleva seaduse §-des 56–58 sätestatud reederi kohustuste täitmiseks vajalikud eeldatavad kulutused.
 
-(3) Veeteede Ameti nõudel on reeder kohustatud teatama ametile laevapere liikmete arvu laevade kaupa.
+(3) Transpordiameti nõudel on reeder kohustatud teatama ametile laevapere liikmete arvu laevade kaupa.
 
 (4) kehtestab määrusega tagatise piisavuse hindamise ja suuruse arvutamise põhimõtted.
