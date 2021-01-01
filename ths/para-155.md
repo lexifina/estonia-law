@@ -1,8 +1,8 @@
 # § 155. Keskkonnaalane kontroll
 
-(1) Keskkonnaalane kontroll on Keskkonnainspektsiooni poolt käesoleva seaduse §-s 157 nimetatud programmi alusel teostatav keskkonnajärelevalve ja käesoleva seaduse §-s 159 nimetatud keskkonnajärelevalve korras teostatav erakorraline kontroll.
+(1) Keskkonnaalane kontroll on Keskkonnaameti poolt käesoleva seaduse §-s 157 nimetatud programmi alusel teostatav keskkonnajärelevalve ja käesoleva seaduse §-s 159 nimetatud keskkonnajärelevalve korras teostatav erakorraline kontroll.
 
-(2) Keskkonnainspektsioon kontrollib järelevalve korras kompleksloa kohustusega käitistes kompleksloa nõuete täitmist ja käitises toimuva tegevuse vastavust käesolevas seaduses ja selle alusel antud õigusaktides kehtestatud nõuetele.
+(2) Keskkonnaamet kontrollib järelevalve korras kompleksloa kohustusega käitistes kompleksloa nõuete täitmist ja käitises toimuva tegevuse vastavust käesolevas seaduses ja selle alusel antud õigusaktides kehtestatud nõuetele.
 
 (3) Keskkonnaalane kontroll hõlmab:
 
@@ -15,7 +15,5 @@
 4) käitises kasutatava tehnika ja käitise keskkonnajuhtimissüsteemi, sealhulgas käitise omaseire piisavuse kontrolli;
 
 5) vajaduse korral kontrollproovide võtmist ja -mõõtmiste tegemist.
-
-(4) Keskkonnainspektsioon kaasab oma kontrollkäigule loa andja, kes tegutseb lähtudes käesoleva seaduse §-st 49.
 
 (5) Keskkonnaalase kontrolli tulemused vormistatakse kontrolliaruandena, milles esitatakse kontrolli tulemused, kirjeldades nende vastavust käitisele antud loa nõuetele, ja järeldused edasiste meetmete võtmise vajaduse kohta. Aruanne edastatakse käitajale ja avalikustatakse Keskkonnaministeeriumi keskkonnaotsuste infosüsteemis ning Keskkonnaministeeriumi kodulehel kahe kuu jooksul käitise kohapealsest kontrollimisest arvates.

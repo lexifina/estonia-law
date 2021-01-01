@@ -1,6 +1,6 @@
 # § 157. Kompleksloa kohustusega käitiste korrapärase keskkonnaalase kontrolli programm
 
-(1) Keskkonnaalase kontrolli üleriigilise kava alusel koostab Keskkonnainspektsioon Keskkonnaametit kaasates kompleksloa kohustusega käitiste korrapärase keskkonnaalase kontrolli programmi (edaspidi *korrapärase keskkonnaalase kontrolli programm*).
+(1) Keskkonnaalase kontrolli üleriigilise kava alusel koostab Keskkonnaamet kompleksloa kohustusega käitiste korrapärase keskkonnaalase kontrolli programmi (edaspidi *korrapärase keskkonnaalase kontrolli programm*).
 
 (2) Korrapärase keskkonnaalase kontrolli programm sisaldab:
 

@@ -2,7 +2,7 @@
 
 Kompleksluba tunnistatakse kehtetuks lisaks keskkonnaseadustiku üldosa seaduse § 62 lõikes 1 sätestatule, kui:
 
-1) selgub, et loa andjale või Keskkonnainspektsioonile on kompleksloas ettenähtud nõuete täitmise kontrollimisel esitatud valeandmeid või võltsitud dokumente;
+1) selgub, et loa andjale on kompleksloas ettenähtud nõuete täitmise kontrollimisel esitatud valeandmeid või võltsitud dokumente;
 
 2) käitisest tulenev saastatus on nii suur, et sellest põhjustatud olulist ebasoodsat mõju keskkonnale, inimese tervisele, heaolule, varale ja kultuuripärandile ei ole võimalik vältida uue kompleksloa taotlemist eeldavate põhjalike tehniliste ümberkorraldusteta;
 

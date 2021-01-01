@@ -1,6 +1,6 @@
 # § 96. Jäätmete vastuvõtmisest keeldumine
 
-(1) Kui käitaja ei ole veendunud jäätmete põletamiskõlblikkuses, keeldub ta jäätmeid vastu võtmast ning edastab viivitamata teate jäätmete vastuvõtmisest keeldumise kohta ning selle põhjenduse Keskkonnainspektsioonile.
+(1) Kui käitaja ei ole veendunud jäätmete põletamiskõlblikkuses, keeldub ta jäätmeid vastu võtmast ning edastab viivitamata teate jäätmete vastuvõtmisest keeldumise kohta ning selle põhjenduse Keskkonnaametile.
 
 (2) Jäätmete vastuvõtmisest keeldumise teade peab sisaldama järgmisi andmeid:
 

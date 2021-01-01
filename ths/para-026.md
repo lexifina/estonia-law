@@ -18,4 +18,4 @@
 
 8) käitise tegevuse lõpetamisel võtab meetmeid, mis on vajalikud saastatuse tekke ohu vältimiseks ning käitise tegevuskoha rahuldava keskkonnaseisundi taastamiseks vastavalt käesoleva seaduse § 58 nõuetele.
 
-(2) Kui käitaja ei täida käesoleva paragrahvi lõike 1 punktis 2 sätestatud kohustust saastatus likvideerida, korraldab likvideerimise asendustäitmise ja sunniraha seaduses sätestatud korras Keskkonnainspektsioon.
+(2) Kui käitaja ei täida käesoleva paragrahvi lõike 1 punktis 2 sätestatud kohustust saastatus likvideerida, korraldab likvideerimise asendustäitmise ja sunniraha seaduses sätestatud korras Keskkonnaamet.

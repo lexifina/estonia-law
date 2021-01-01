@@ -1,6 +1,6 @@
 # § 17. Käitaja kohustused avarii ja vahejuhtumi korral
 
-(1) Käitaja peab informeerima viivitamata Keskkonnainspektsiooni keskkonda oluliselt mõjutavast avariist ja vahejuhtumist.
+(1) Käitaja peab informeerima viivitamata Keskkonnaametit keskkonda oluliselt mõjutavast avariist ja vahejuhtumist.
 
 (2) Avarii või vahejuhtumi korral, mis võib tõenäoliselt kaasa tuua olulise ebasoodsa mõju keskkonnale, inimese tervisele, heaolule, varale ja kultuuripärandile, peab käitaja:
 
