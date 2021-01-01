@@ -6,6 +6,6 @@
 
 (3) Jahisaaduse valdaja peab tõendama jahisaaduse päritolu.
 
-(4) Liiklusõnnetuses hukkunud ja liiklusõnnetuse tõttu surmatud suurulukist ning tema osadest tuleb viivitamata teavitada jahipiirkonna kasutajat või Keskkonnainspektsiooni.
+(4) Liiklusõnnetuses hukkunud ja liiklusõnnetuse tõttu surmatud suurulukist ning tema osadest tuleb viivitamata teavitada jahipiirkonna kasutajat või Keskkonnaametit.
 
 (5) Käesoleva paragrahvi lõikes 4 nimetatud suuruluk ja tema osa kuuluvad jahipiirkonna kasutajale, kes surnud tarbimisväärtuseta suuruluki utiliseerib või matab kohapeal kokkuleppel maaomanikuga.

@@ -2,4 +2,4 @@
 
 (1) Sigade Aafrika katku ilmsete tunnustega metssea võib surmata jahiloata.
 
-(2) Sigade Aafrika katku tunnustega metssea surmamisest tuleb viivitamata teatada piirkonda teenindama volitatud veterinaararstile või järelevalveametnikule. Kui sigade Aafrika katku tunnustega metssea surmamiseks puudus jahiluba, tuleb surmamisest viivitamata teatada ka Keskkonnainspektsioonile.
+(2) Sigade Aafrika katku tunnustega metssea surmamisest tuleb viivitamata teatada piirkonda teenindama volitatud veterinaararstile või järelevalveametnikule. Kui sigade Aafrika katku tunnustega metssea surmamiseks puudus jahiluba, tuleb surmamisest viivitamata teatada ka Keskkonnaametile.
