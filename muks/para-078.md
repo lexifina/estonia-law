@@ -40,4 +40,4 @@ määrusega.
 
 (7) Kinnismälestise, muinsuskaitseala, nende kaitsevööndi ning arheoloogilise leiukoha asukoht kantakse riigi maakatastrisse.
 
-(8) Veealused mälestised kannab Veeteede Amet koostöös ametiga navigatsioonikaardile.
+(8) Veealused mälestised kannab Transpordiamet koostöös ametiga navigatsioonikaardile.

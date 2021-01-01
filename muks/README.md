@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/119032019013> (version in force from 2019-05-01)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/110122020022> (version in force from 2021-01-01)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -129,15 +129,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/119032019013> (version in force 
 | [§ 102](para-102.md) | Ettevõtja tegevusluba |
 | [§ 103](para-103.md) | Uuringu ja muinsuskaitselise järelevalve hüvitamine |
 | **2. jagu Seaduste muutmine ja kehtetuks tunnistamine** | |
-| [§ 104](para-104.md) | Autoriõiguse seaduse muutmine |
-| [§ 105](para-105.md) | Ehitusseadustiku muutmine |
-| [§ 106](para-106.md) | Majandusvööndi seaduse muutmine |
-| [§ 107](para-107.md) | Muinsuskaitseseaduse kehtetuks tunnistamine |
-| [§ 108](para-108.md) | Muuseumiseaduse muutmine |
-| [§ 109](para-109.md) | Planeerimisseaduse muutmine |
-| [§ 110](para-110.md) | Riigilõivuseaduse muutmine |
-| [§ 111](para-111.md) | Sõjahaudade kaitse seaduse muutmine |
-| [§ 112](para-112.md) | Tulumaksuseaduse muutmine |
-| [§ 113](para-113.md) | Erastamisest laekuva raha kasutamise seaduse muutmine |
+| [§ 104](para-104.md) |  |
+| [§ 113](para-113.md) |  |
 | **3. jagu Seaduse jõustumine** | |
 | [§ 114](para-114.md) | Seaduse jõustumine |
