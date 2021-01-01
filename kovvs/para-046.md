@@ -6,6 +6,4 @@
 
 (3) Eelhääletamist korraldavad vähemalt kolm jaoskonnakomisjoni liiget.
 
-(4) Jaoskonnakomisjoni liige märgib hääletanud valija kohta valijate nimekirja hääletamise kuupäeva.
-
 (5) Jaoskonnakomisjon hoiab hääletamiskasti ja valimisdokumente eelhääletamise päevadel ja sellele järgnevatel päevadel selliselt, et neile pääsevad ligi üksnes jaoskonnakomisjoni liikmed.

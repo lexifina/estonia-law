@@ -10,4 +10,4 @@
 
 3) otsustab jaoskonnakomisjoni liikme tasustamise jaoskonnakomisjoni esimehe ettepanekul.
 
-(3) Valla- ja linnasekretäri teenindamise korraldab valla- või linnavalitsus.
+(3) Valla- või linnasekretäri teenindamise korraldab valla- või linnavalitsus. Tallinna linnasekretär võib oma valimiste korraldamisega seotud ülesandeid täitma volitada ka teisi linna ametnikke või töötajaid, teavitades sellest riigi valimisteenistust.

@@ -4,6 +4,8 @@
 
 1) tagada valimiste seadusekohane korraldamine, korraldada elektrooniline hääletamine ja teha kindlaks elektroonilise hääletamise tulemus;
 
+1¹) tagada hääletamise korraldamisel valijate nimekirja kasutamine elektrooniliselt;
+
 2) valvata valimiste korraldajate tegevuse järele;
 
 3) korraldada valimisseadustest tulenevate ülesannete täitmiseks vajalike tehniliste lahenduste arendus ja haldus;
@@ -22,7 +24,7 @@
 
 5) tagab valimiste korraldamiseks vajaliku inventari ja teenuste olemasolu;
 
-5¹) kehtestab valimisvahendite ja väljaspool elukohta hääletanud valijate hääletamissedelitega ümbrike jaoskonnakomisjonidele edastamise korra ning jaotuspiirkonnad;
+5¹) kehtestab valimisvahendite ja väljaspool elukohajärgset valimisringkonda hääletanud valijate hääletamissedelitega ümbrike jaoskonnakomisjonidele edastamise korra ning jaotuspiirkonnad;
 
 5²) kehtestab valimisvahendite kasutamise ja säilitamise korra;
 

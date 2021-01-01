@@ -4,4 +4,4 @@
 
 (2) Riigi valimisteenistuse kulud kaetakse riigieelarvest.
 
-(5) Valijate arvestusega (5. peatükk) seotud kulud kaetakse riigieelarvest Siseministeeriumi eelarves selleks ettenähtud rahast.
+(5) Rahvastikuregistri valijate arvestusega seotud kulud kaetakse riigieelarvest Siseministeeriumi eelarves selleks ettenähtud rahast.

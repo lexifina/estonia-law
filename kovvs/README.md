@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/103012020010> (version in force from 2020-01-13)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/103012020011> (version in force from 2021-01-01)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -45,7 +45,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/103012020010> (version in force 
 | **5. peatükk VALIJATE ARVESTUS** | |
 | [§ 24](para-024.md) | Valijate arvestuse pidamine |
 | [§ 25](para-025.md) | Euroopa Liidu kodaniku teavitamine hääleõiguslikkusest volikogu valimistel |
-| [§ 26](para-026.md) | Valijakaart |
+| [§ 26](para-026.md) | Valijate teavitamine hääletamise võimalustest |
 | [§ 27](para-027.md) | Valijate nimekiri |
 | [§ 28](para-028.md) | Valijate nimekirja avalikkus |
 | [§ 29](para-029.md) | Valijate nimekirja kantud andmete õigsuse kontrollimine ja vea parandamine |
@@ -71,13 +71,14 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/103012020010> (version in force 
 | [§ 44](para-044.md) | Hääletamise aeg |
 | [§ 45](para-045.md) | Hääletamine |
 | [§ 46](para-046.md) | Eelhääletamine |
-| [§ 47](para-047.md) | Väljaspool elukohajärgset valimisjaoskonda toimuva eelhääletamise erisused |
-| [§ 48](para-048.md) | Väljaspool elukohajärgset valimisjaoskonda toimuv eelhääletamine hääletamisruumis |
-| [§ 49](para-049.md) | Väljaspool elukohajärgset valimisjaoskonda valija asukohas toimuv eelhääletamine |
+| [§ 47](para-047.md) | Väljaspool elukohajärgset valimisringkonda toimuva eelhääletamise erisused |
+| [§ 48](para-048.md) | Väljaspool elukohajärgset valimisringkonda hääletamisruumis toimuv eelhääletamine |
+| [§ 49](para-049.md) | Väljaspool elukohajärgset valimisringkonda valija asukohas toimuv eelhääletamine |
 | [§ 50](para-050.md) |  |
 | [§ 51](para-051.md) | Hääletamine kinnipidamiskohas, haiglas ja ööpäevases hoolekandeasutuses |
 | [§ 52](para-052.md) | Kodus hääletamine |
-| [§ 53](para-053.md) | Eelhääletamise ajal väljaspool elukohajärgset valimisjaoskonda antud häälte arvestamine |
+| [§ 52¹](para-052b1.md) | Hääletamine ilma valijate nimekirja kasutamata |
+| [§ 53](para-053.md) | Eelhääletamise ajal väljaspool elukohajärgset valimisringkonda antud häälte arvestamine |
 | [§ 53¹](para-053b1.md) |  |
 | **7¹. peatükk ELEKTROONILINE HÄÄLETAMINE** | |
 | [§ 53²](para-053b2.md) | Elektroonilise hääletamise korraldamine |
@@ -85,6 +86,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/103012020010> (version in force 
 | [§ 54](para-054.md) | Hääletamistulemuste kindlakstegemine jaoskonnakomisjonis |
 | [§ 54¹](para-054b1.md) |  |
 | [§ 54²](para-054b2.md) | Elektrooniliselt antud häälte lugemine |
+| [§ 54³](para-054b3.md) | Väljaspool elukohajärgset valimisringkonda hääletanud valijate hääletamistulemuste kindlakstegemine |
 | [§ 55](para-055.md) | Hääletamistulemuste kindlakstegemine valla ja linna valimiskomisjonis |
 | [§ 56](para-056.md) | Valimistulemuste kindlakstegemine |
 | [§ 56¹](para-056b1.md) | Valimistulemuste kindlakstegemine Tallinnas |

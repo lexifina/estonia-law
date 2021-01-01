@@ -10,4 +10,4 @@
 
 (5) Uue kohaliku omavalitsuse üksuse volikogu valimistel peab kandidaatide registreerimiseks esitamiseks ja registreerimiseks jääma kokku vähemalt 25 päeva.
 
-(6) Uue kohaliku omavalitsuse üksuse volikogu valimistel ei kohaldata käesoleva seaduse §-des 47, 48 ja 7¹. peatükis ettenähtut. Väljaspool elukohajärgset valimisringkonda valija asukohas toimuv eelhääletamine (§ 49) ja hääletamine kinnipidamiskohas (§ 51) korraldatakse ainult ühineva kohaliku omavalitsuse üksuse territooriumil. Valla- või linnavalitsus määrab jaoskonnakomisjoni, kes korraldab hääletamist valija asukohas või kinnipidamiskohas.
+(6) Uue kohaliku omavalitsuse üksuse volikogu valimistel ei kohaldata käesoleva seaduse §-des 47 ja 48 ning 7¹. peatükis ettenähtut. Väljaspool elukohajärgset valimisringkonda valija asukohas toimuv eelhääletamine (§ 49) ning hääletamine kinnipidamiskohas, haiglas ja ööpäevases hoolekandeasutuses (§ 51) korraldatakse ainult ühineva kohaliku omavalitsuse üksuse territooriumil. Valla- või linnavalitsus määrab jaoskonnakomisjoni, kes korraldab hääletamist valija asukohas või kinnipidamiskohas, haiglas ja ööpäevases hoolekandeasutuses.
