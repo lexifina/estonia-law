@@ -6,4 +6,4 @@
 
 (3) Valimisringkonna kandidaatide koondnimekirja märgitakse iga kandidaadi kohta tema registreerimisnumber ja nimi. Kui ühes valimisringkonnas kandideerib mitu samanimelist kandidaati, märgitakse koondnimekirja ka nende sünniaeg.
 
-(4) Riigi valimisteenistus teavitab kõigist valimisringkonna kandidaatide koondnimekirja parandustest ja muudatustest valla- ja linnasekretäre, välisriigis hääletamist korraldavaid välisesindusi ja laevade kapteneid, kes teevad asjakohased muudatused ja parandused kandidaatide koondnimekirja. Kandidaatide koondnimekirju ei muudeta pärast 13. päeva enne valimispäeva.
+(4) Riigi valimisteenistus teavitab kõigist valimisringkonna kandidaatide koondnimekirja parandustest ja muudatustest valla- ja linnasekretäre ning välisriigis hääletamist korraldavaid välisesindusi, kes teevad asjakohased parandused ja muudatused kandidaatide koondnimekirja. Kandidaatide koondnimekirju ei muudeta pärast 13. päeva enne valimispäeva.

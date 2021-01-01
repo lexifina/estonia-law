@@ -1,6 +1,6 @@
 # § 19¹. Jaoskonnakomisjoni moodustamine
 
-(1) Hääletamise korraldamiseks valimisjaoskonna territooriumil moodustab kohaliku omavalitsuse volikogu (edaspidi volikogu) vähemalt viieliikmelise jaoskonnakomisjoni.
+(1) Hääletamise korraldamiseks valimisjaoskonnas moodustab kohaliku omavalitsuse volikogu (edaspidi volikogu) vähemalt viieliikmelise jaoskonnakomisjoni.
 
 (2) Volikogu nimetab otsusega valla- või linnasekretäri ettepanekul ning poliitilise tasakaalustatuse põhimõtet arvestades jaoskonnakomisjoni esimehe ja jaoskonnakomisjoni liikmed hiljemalt 20. päeval enne valimispäeva.
 

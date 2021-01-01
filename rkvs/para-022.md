@@ -1,12 +1,12 @@
 # § 22. Valijate nimekiri
 
-(1) Rahvastikuregistri vastutav töötleja korraldab rahvastikuregistri andmete alusel iga valimisjaoskonna valijate nimekirja koostamise ja trükkimise ning selle jaoskonnakomisjonidele kättetoimetamise hiljemalt seitsmendaks päevaks enne valimispäeva. Valijate elektroonilised nimekirjad edastatakse riigi valimisteenistusele hiljemalt 13. päevaks enne valimispäeva.
+(1) Rahvastikuregistri vastutav töötleja korraldab rahvastikuregistri andmete alusel valijate nimekirja koostamise ja edastab valijate nimekirja riigi valimisteenistusele hiljemalt 25. päeval enne valimispäeva.
 
-(2) Valijate nimekirja koostamise aluseks on käesoleva seaduse § 20 lõikes 3 ettenähtud andmed valimispäevale eelneva 30. päeva seisuga. Valijate nimekirja koostamisel võetakse arvesse ka käesoleva seaduse § 20 lõike 3 punktides 1–5 nimetatud andmetes pärast valimispäevale eelnevat 30. päeva tehtud muudatused. Elukoha ja viibimiskoha aadressiandmetes pärast valimispäevale eelnevat 30. päeva tehtud muudatusi arvesse ei võeta.
+(2) Valijate nimekirja pidamise aluseks on käesoleva seaduse § 20 lõikes 3 ettenähtud andmed valimispäevale eelneva 30. päeva seisuga. Valijate nimekirja pidamisel võetakse arvesse ka käesoleva seaduse § 20 lõike 3 punktides 1–5 nimetatud andmetes pärast valimispäevale eelnevat 30. päeva tehtud muudatused. Elukoha ja viibimiskoha aadressiandmetes pärast valimispäevale eelnevat 30. päeva tehtud muudatusi arvesse ei võeta.
 
-(3) Valijate nimekirja ei kanta isikut, kelle kohus on karistusregistri andmetel süüdi mõistnud kuriteos ja kes valimispäevale eelneva 30. päeva seisuga kannab valimispäevani vanglakaristust.
+(3) Valijate nimekirja ei kanta andmeid isiku kohta, kelle kohus on karistusregistri andmetel süüdi mõistnud kuriteos ja kes valimispäevale eelneva 30. päeva seisuga kannab valimispäevani vanglakaristust.
 
-(4) Valija kantakse selle valimisjaoskonna valijate nimekirja, mille territooriumil asub tema rahvastikuregistrisse kantud elukoht 30. päeval enne valimispäeva. Kui rahvastikuregistrisse ei ole kantud valija elukoha aadressi ja on olemas viibimiskoha aadress, kantakse valija selle valimisjaoskonna valijate nimekirja, mille territooriumil asub tema rahvastikuregistrisse kantud viibimiskoht 30. päeval enne valimispäeva. Kui valija elukoha andmed on kantud rahvastikuregistrisse valla või linna, Tallinnas linnaosa täpsusega, kantakse valija käesoleva seaduse § 19 lõike 2 punkti 4 alusel määratud valimisjaoskonna valijate nimekirja.
+(4) Valija kohta kantakse valijate nimekirja tema rahvastikuregistrisse kantud elukoha aadress valimispäevale eelneva 30. päeva seisuga. Kui rahvastikuregistrisse ei ole kantud valija elukoha aadressi ja on olemas viibimiskoha aadress, kantakse valijate nimekirja tema viibimiskoha aadress. Kui valija elukoha andmed on kantud rahvastikuregistrisse valla või linna, Tallinnas linnaosa täpsusega, kantakse valijate nimekirja tema elukoha andmed valla või linna, Tallinnas linnaosa täpsusega.
 
 (5) Valijate nimekirja kantakse valija kohta järgmised andmed:
 
@@ -14,10 +14,8 @@
 
 - 2) isikukood;
 
-- 3) elu- või viibimiskoha aadress.
+- 3) elu- või viibimiskoha aadress;
 
-(6) Valijad kantakse valijate nimekirja nende perekonnanimede tähestikulises järjekorras.
+- 4) valimisringkonna number käesoleva paragrahvi lõikes 4 sätestatud aadressiandmete alusel 30. päeval enne valimispäeva;
 
-(7) Valijate nimekirja koostaja kirjutab valijate nimekirjale alla hiljemalt seitsmendal päeval enne valimispäeva ning jaoskonnakomisjoni esimees valimispäeval pärast hääletamise lõppemist. Elektrooniliselt hääletanud valijate nimekirjale kirjutab pärast hääletamise lõppemist alla riigi valimisteenistuse juht.
-
-(8) [Kehtetu]
+- 5) märge valijale hääletamissedeli väljastamise kohta ning andmed hääletamise aja ja koha kohta.

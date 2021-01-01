@@ -4,7 +4,7 @@
 
 - 1) hääletamissedeli;
 
-- 2) valimisringkonna kandidaatide koondnimekirja vastavalt alaliselt välisriigis elavate valijate nimekirja andmetele või käesoleva seaduse § 50 lõike 3 punkti 3 või lõike 4 kohaselt;
+- 2) valimisringkonna kandidaatide koondnimekirja vastavalt valijate nimekirja andmetele või käesoleva seaduse § 50 lõike 3 punkti 3 kohaselt;
 
 - 3) kaks ümbrikku.
 

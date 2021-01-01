@@ -1,6 +1,6 @@
 # § 48⁴. Elektroonilise hääletamise kord
 
-(1) Valija saab käesoleva seaduse § 38 lõike 2 punktis 3 ettenähtud päevadel hääletada elektrooniliselt käesoleva seaduse § 48² lõikes 1 sätestatud süsteemi kasutades.
+(1) Valija saab käesoleva seaduse § 38 lõike 2 punktis 4 ettenähtud päevadel hääletada elektrooniliselt käesoleva seaduse § 48² lõikes 1 sätestatud süsteemi kasutades.
 
 (2) Elektroonilise hääletamise süsteemis tuvastatakse valija isik elektrooniliselt käesoleva seaduse § 48² lõike 3 punktis 1 sätestatud otsuses kirjeldatud korras.
 

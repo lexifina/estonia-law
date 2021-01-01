@@ -12,4 +12,4 @@
 
 - 4) otsustab häältelugemiskomisjoni liikme tasustamise.
 
-(3) Valla- või linnasekretäri teenindamise korraldab valla- või linnavalitsus.
+(3) Valla- või linnasekretäri teenindamise korraldab valla- või linnavalitsus. Tallinna linnasekretär võib oma valimiste korraldamisega seotud ülesandeid täitma volitada ka teisi linna ametnikke või töötajaid, teavitades sellest riigi valimisteenistust.

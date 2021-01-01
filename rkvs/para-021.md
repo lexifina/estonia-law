@@ -1,23 +1,11 @@
-# § 21. Valijakaart
+# § 21. Valijate teavitamine hääletamise võimalustest
 
-(1) Rahvastikuregistri vastutav töötleja korraldab valijakaardi koostamise ja saatmise valijale hiljemalt 20. päeval enne valimispäeva. Valijakaarti ei saadeta valijale, kelle elukoha aadress on rahvastikuregistrisse kantud valla või linna, Tallinnas linnaosa täpsusega ja kelle viibimiskoha aadressi ei ole rahvastikuregistrisse kantud.
+(1) Rahvastikuregistri vastutav töötleja korraldab valimiste teabelehe koostamise ja saatmise hiljemalt kümnendal päeval enne valimispäeva. Valijale, kellel on Eesti teabeväravas registreeritud või rahvastikuregistrisse kantud e-posti aadress, saadetakse teabeleht elektrooniliselt.
 
-(2) Valijakaardile kantakse:
+(2) Valimiste teabelehele kantakse:
 
-- 1) valija ees- ja perekonnanimi;
+- 1) teave hääletamisõiguse tingimuste kohta;
 
-- 2) valija sünniaasta;
+- 2) teave hääletamisvõimaluste kohta vallas või linnas;
 
-- 3) valija elukoha aadress ja olemasolu korral viibimiskoha aadress;
-
-- 4) valimisringkonna number ja kirjeldus vastavalt käesoleva seaduse §-le 6;
-
-- 5) selle valla või linna nimi ning valimisjaoskonna number, mille valijate nimekirja valija kantakse;
-
-- 6) hääletamise aeg ja koht eelhääletamise päevadel ja valimispäeval;
-
-- 7) muu teave hääletamise kohta.
-
-(2¹) Valija võib tellida elektroonilise valijakaardi. Elektroonilise valijakaardi tellimiseks esitab valija taotluse rahvastikuregistri vastutavale töötlejale Eesti teabevärava kaudu. Järgmistel valimistel ja rahvahääletustel saadetakse valijale või hääletajale elektrooniline valija- või hääletajakaart ilma, et oleks vaja taotlust uuesti esitada. Elektroonilise valijakaardi tellinud valijale saadetakse elektrooniline valijakaart ka siis, kui tema elukoha aadress on rahvastikuregistrisse kantud valla või linna, Tallinnas linnaosa täpsusega.
-
-(3) Valija, kes 15. päeval enne valimispäeva ei ole valijakaarti saanud või kelle valijakaardile kantud andmetes on vigu, võib pöörduda avaldusega valla- või linnasekretäri poole selgituse saamiseks või vigade parandamiseks. Valla- või linnasekretär vaatab avalduse koos valijakaardi koostanud isikuga viivitamata läbi ja vastab avaldusele kirjalikult kolme tööpäeva jooksul, arvates avalduse saamise päevast.
+- 3) muu teave hääletamise kohta.

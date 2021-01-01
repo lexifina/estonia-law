@@ -1,15 +1,13 @@
-# § 48. Eelhääletamise ajal väljaspool elukohajärgset valimisjaoskonda antud häälte arvestamine
+# § 48. Eelhääletamise ajal väljaspool elukohajärgset valimisringkonda antud häälte arvestamine
 
-(1) Väljaspool elukohajärgset valimisjaoskonda hääletanud valija hääletamissedeliga ümbrik tuleb edastada valija elukohajärgsele jaoskonnakomisjonile hiljemalt valimispäevale eelneval päeval.
+(1) Jaoskonnakomisjon pakib viivitamata pärast väljaspool elukohajärgset valimisringkonda hääletamise lõppemist valijate hääletamissedelitega ümbrikud eraldi valimisringkondade ja alaliselt välisriigis elavate valijate kaupa ning edastab need valla- või linnasekretärile, kes edastab need riigi valimisteenistusele käesoleva seaduse § 15 lõike 2 punkti 5¹ alusel kehtestatud korra kohaselt.
 
-(2) Jaoskonnakomisjon pakib valijate hääletamissedelitega ümbrikud valdade ja linnade kaupa ning edastab need valla- või linnasekretärile, kes edastab need riigi valimisteenistusele käesoleva seaduse § 15 lõike 2 punkti 5¹ alusel kehtestatud korra kohaselt.
+(2) Riigi valimisteenistus määrab iga valimisringkonna kohta häältelugemiskomisjoni, kes teeb kindlaks väljaspool elukohajärgset valimisringkonda hääletanud valijate hääletamistulemused.
 
-(3) Valla- või linnasekretär edastab käesoleva seaduse § 15 lõike 2 punkti 5¹ alusel kehtestatud korra kohaselt saadud oma valla või linna valijate hääletamissedelitega ümbrikud asjaomastele jaoskonnakomisjonidele.
+(3) Väljaspool elukohajärgset valimisringkonda hääletanud valija hääletamissedeliga ümbrik tuleb edastada käesoleva paragrahvi lõikes 2 sätestatud häältelugemiskomisjonile hiljemalt valimispäeval kell 12.00.
 
-(4) Saanud hääletamissedelitega ümbrikud käesoleva paragrahvi lõikes 3 ettenähtud korras, kontrollib jaoskonnakomisjon, kas valija on kantud valimisjaoskonna valijate nimekirja ja kas valija ei ole hääletanud mitu korda. Kontrollimise juures peab olema vähemalt kolm jaoskonnakomisjoni liiget.
+(4) Saanud hääletamissedelitega ümbrikud, kontrollib häältelugemiskomisjon valijate nimekirjast, kas valija elukoht on selles valimisringkonnas.
 
-(5) Kui valija ei ole kantud valimisjaoskonna valijate nimekirja või on hääletanud väljaspool elukohajärgset valimisjaoskonda mitu korda, jätab jaoskonnakomisjon kõik valija hääletamissedeliga ümbrikud arvestamata.
+(5) Kui valijat ei ole kantud valijate nimekirja selles valimisringkonnas, jätab häältelugemiskomisjon valija hääletamissedeliga ümbriku arvestamata.
 
-(6) Kui valija on hääletanud ühe korra, teeb jaoskonnakomisjoni liige valijate nimekirja märke eelhääletamise kohta.
-
-(7) Pärast käesoleva paragrahvi lõigetes 4–6 ettenähtud toiminguid avab jaoskonnakomisjon välimised ümbrikud ning laseb sisemised hääletamissedelitega ümbrikud eelhääletamisel kasutatud hääletamiskasti ja pitseerib hääletamiskasti ava uuesti.
+(6) Pärast käesoleva paragrahvi lõigetes 4 ja 5 ettenähtud toiminguid avab häältelugemiskomisjon välimised ümbrikud ning hoiustab sisemised hääletamissedelitega ümbrikud kuni hääletamistulemuste kindlakstegemise alguseni.

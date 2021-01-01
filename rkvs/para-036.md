@@ -1,6 +1,6 @@
 # § 36. Hääletamiskast
 
-(1) Jaoskonnakomisjon kontrollib hääletamiskasti ja pitseerib selle enne hääletamise algust. Enne eelhääletamise algust pitseeritud hääletamiskasti kasutatakse üksnes eelhääletamisel.
+(1) Jaoskonnakomisjon kontrollib hääletamiskasti ja pitseerib selle enne hääletamise algust.
 
 (2) Hääletamiskasti ava on kaetud. See avatakse üksnes hääletamissedeli kasti laskmiseks.
 

@@ -10,9 +10,9 @@
 
 - 3) jaoskonnakomisjonide moodustamine (§ 19¹);
 
-- 4) valijakaardi saatmine (§ 21);
+- 4) valimiste teabelehe saatmine (§ 21);
 
-- 5) erakondade nimekirja esitamine (§ 26 lg 2);
+- 5) [Kehtetu]
 
 - 6) kandidaatide registreerimiseks esitamine (§ 30);
 
@@ -20,7 +20,7 @@
 
 - 7¹) eelhääletamise aeg (§ 38 lg 2);
 
-- 8) valijakaardi saatmine välisriigis ajutiselt elavale valijale (§ 49 lg 5);
+- 8) valimiste teabelehe saatmine välisriigis alaliselt elavale või ajutiselt viibivale valijale (§ 49 lg 4);
 
 - 9) kirja teel hääletamise taotluste välisesindustele esitamine (§ 50);
 
@@ -30,4 +30,4 @@
 
 (3) Riigikogu erakorraliste valimiste korral peab kandidaatide registreerimiseks esitamiseks ja registreerimiseks jääma kokku vähemalt kümme päeva.
 
-(4) Erakorraliste valimiste korral kantakse valija selle valimisjaoskonna nimekirja, mille territooriumil valimiste väljakuulutamise päeval asub tema rahvastikuregistrisse kantud elukoht. Kui valija elukoha aadressiandmed on kantud rahvastikuregistrisse valla või linna, Tallinnas linnaosa täpsusega, kantakse valija käesoleva seaduse § 8 lõike 2 punkti 5 alusel määratud valimisjaoskonna valijate nimekirja.
+(4) Erakorraliste valimiste korral kantakse valija valijate nimekirja selles valimisringkonnas, mille territooriumil valimiste väljakuulutamise päeval asub tema rahvastikuregistrisse kantud elukoht.

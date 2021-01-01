@@ -4,4 +4,4 @@
 
 (2) Riigi valimisteenistus korraldab hääletamissedelite valmistamise ning jaoskonnakomisjonidele kättetoimetamise.
 
-(3) Pärast hääletamissedelite kättesaamist paneb jaoskonnakomisjon sedelitele jaoskonnakomisjoni pitsati jäljendi. Välisriigis ja laeval hääletamisel kasutatavatele sedelitele paneb pitsati jäljendi riigi valimisteenistus.
+(3) Pärast hääletamissedelite kättesaamist paneb jaoskonnakomisjon sedelitele jaoskonnakomisjoni pitsati jäljendi. Välisriigis hääletamisel kasutatavatele sedelitele paneb pitsati jäljendi riigi valimisteenistus.

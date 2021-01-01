@@ -1,8 +1,8 @@
 # § 48³. Elektroonilise hääletamise ettevalmistamine
 
-(1) Riigi valimisteenistus seab elektroonilise hääletamise süsteemi kasutusvalmis hiljemalt 13. päevaks enne valimispäeva.
+(1) Riigi valimisteenistus seab elektroonilise hääletamise süsteemi kasutusvalmis hiljemalt kümnendaks päevaks enne valimispäeva.
 
-(2) Elektroonilise hääletamise toimumise ajal edastab rahvastikuregistri volitatud töötleja riigi valimisteenistusele valijate nimekirja muudatused vähemalt üks kord päevas. Riigi valimisteenistus korraldab muudatuste elektroonilise hääletamise süsteemi kandmise vähemalt üks kord päevas.
+(2) Riigi valimisteenistus korraldab valijate nimekirja muudatuste elektroonilise hääletamise süsteemi kandmise vähemalt üks kord päevas.
 
 (3) Enne elektroonilise hääletamise algust loob riigi valimisteenistus elektrooniliste häälte salastamise võtme ja häälte avamise võtme. Ligipääsuvahendid häälte avamise võtmele jaotatakse Vabariigi Valimiskomisjoni liikmete ja riigi valimisteenistuse vahel.
 

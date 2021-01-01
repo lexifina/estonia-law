@@ -4,6 +4,8 @@
 
 (2) Välisesinduses hääletamist peab välisesindus võimaldama vähemalt kahel päeval ajavahemikus 15. päevast kuni 10. päevani enne valimispäeva.
 
-(3) Välisesinduses täidab valija hääletamissedeli käesolevas seaduses ettenähtut järgides. Seejärel paneb valija täidetud sedeli ümbrikku. Viimase paneb valija teise ümbrikku. Välimisele ümbrikule kirjutab valija või hääletamist korraldav isik valija nime, isikukoodi ja valimisringkonna numbri. Ajutiselt välisriigis viibiv valija kirjutab välimisele ümbrikule ka oma elukoha aadressi Eestis.
+(3) Hääletamist korraldav isik kontrollib valijate nimekirjast, et valijal on hääletamisõigus ja millise valimisringkonna valija ta on.
 
-(4) Välisesinduses hääletav valija annab hääletamissedeli saamise kohta allkirja välisesinduses hääletavate valijate nimekirja.
+(4) Kui kontrolli tulemusel selgub, et valijal on õigus hääletada, teeb hääletamist korraldav isik valijate nimekirja märke hääletamissedeli väljastamise kohta. Hääletamissedeli saamise kohta annab valija allkirja.
+
+(5) Välisesinduses täidab valija hääletamissedeli käesolevas seaduses ettenähtut järgides. Seejärel paneb valija täidetud sedeli ümbrikku. Viimase paneb valija teise ümbrikku. Välimisele ümbrikule kannab hääletamist korraldav isik valija andmed.
