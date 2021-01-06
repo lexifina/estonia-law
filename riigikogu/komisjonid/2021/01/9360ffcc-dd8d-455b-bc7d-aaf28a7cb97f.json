@@ -1,0 +1,48 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung kolmapäev, 6.01.2021 kell 14.00",
+  "sitting_time": "2021-01-06T14:00:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "58784be6-cb30-444f-ae89-31ee5b0ced6a"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu otsuse „Rahvahääletuse korraldamine abielu mõiste küsimuses“ eelnõu (288 OE II) teiseks lugemiseks ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3057bb75-58cc-4be3-869d-fdb1c6bb78b1"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dfcbdc20-c2f9-4c86-8177-b8ea82f92bff"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "PÕSK protokoll 06.01.2021",
+      "uuid": "a561add6-1ddb-4712-baa3-1301a12c2b08",
+      "files": [
+        "Volikiri.06.01.2021.Korobeiniku_asendusliige.asice",
+        "PÕSK.protokoll.06.01.2021.pdf",
+        "PÕSK_protokoll_06.01.2021.asice",
+        "Põhiseaduskomisjon_asendus06.01.docx"
+      ]
+    }
+  ],
+  "uuid": "9360ffcc-dd8d-455b-bc7d-aaf28a7cb97f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9360ffcc-dd8d-455b-bc7d-aaf28a7cb97f)",
+  "source": "https://api.riigikogu.ee/api/volumes/9360ffcc-dd8d-455b-bc7d-aaf28a7cb97f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-01-01&endDate=2021-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
