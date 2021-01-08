@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/110122020021> (version in force from 2021-01-01)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/129122020018> (version in force from 2021-01-08)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -107,7 +107,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/110122020021> (version in force 
 | [§ 73](para-073.md) | Riiklik ja haldusjärelevalve |
 | [§ 74](para-074.md) | Riikliku ja haldusjärelevalve erisused |
 | **7. peatükk Vastutus** | |
-| [§ 75](para-075.md) | Reederi poolt andmete esitamata jätmine |
+| [§ 75](para-075.md) | Laevapere liikmele andmete esitamata jätmine |
 | [§ 76](para-076.md) | Alla 16-aastase alaealisega meretöölepingu sõlmimine ja alla 16-aastase alaealise tööle lubamine |
 | [§ 77](para-077.md) | Alaealise tööle rakendamise piirangu järgimata jätmine |
 | [§ 78](para-078.md) | Igapäevase puhkeaja võimaldamata jätmine |
