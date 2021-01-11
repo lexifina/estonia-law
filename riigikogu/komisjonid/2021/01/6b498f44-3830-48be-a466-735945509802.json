@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung esmaspäev, 11.01.2021 kell 11.15",
+  "sitting_time": "2021-01-11T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a8075f61-5974-4c40-a7f4-a45cb173b9fc"
+    },
+    {
+      "order": 2,
+      "title": "Vangistusseaduse muutmise ja sellega seonduvalt teiste seaduste muutmise seadus (arestimaja ülesannete üleandmine) (275 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a1509035-569a-4a50-924a-1cff97d7ffbe"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ÕIGK protokoll 11.01.2021",
+      "uuid": "4bc783c3-e580-43de-95a3-5601e58d30b6",
+      "files": [
+        "Õiguskomisjoni_11.01.2021_istungi_protokoll.pdf",
+        "ÕIGK_protokoll_11.01.2021.asice"
+      ]
+    }
+  ],
+  "uuid": "6b498f44-3830-48be-a466-735945509802",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 6b498f44-3830-48be-a466-735945509802)",
+  "source": "https://api.riigikogu.ee/api/volumes/6b498f44-3830-48be-a466-735945509802",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-01-01&endDate=2021-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
