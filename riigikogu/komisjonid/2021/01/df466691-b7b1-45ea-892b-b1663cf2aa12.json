@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 11.01.2021 kell 13.15",
+  "sitting_time": "2021-01-11T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3edfb5ec-90bb-457a-bf54-2353cc06855b"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli ülevaate „Avaliku raudtee rahastamisest ja arendamisest“ arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3c78a669-dd1f-40d1-a822-06d85eadf8bf"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 11.01.2021",
+      "uuid": "803903c1-4feb-4a29-ae53-5a32c8194a73",
+      "files": [
+        "REKK_protokoll_11.01.2021.asice",
+        "Protokoll_nr_54._11.01.2021.pdf",
+        "80049_raudtee_ETTEKANNE_08012021.pptx"
+      ]
+    }
+  ],
+  "uuid": "df466691-b7b1-45ea-892b-b1663cf2aa12",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid df466691-b7b1-45ea-892b-b1663cf2aa12)",
+  "source": "https://api.riigikogu.ee/api/volumes/df466691-b7b1-45ea-892b-b1663cf2aa12",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-01-01&endDate=2021-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
