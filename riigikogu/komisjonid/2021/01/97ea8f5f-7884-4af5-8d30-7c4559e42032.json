@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 11.01.2021 kell 11.10",
+  "sitting_time": "2021-01-11T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "94d8916c-fc2f-49de-9a90-4d7c277aa9fe"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade Maaelu Edendamise Sihtasutuse COVID-19 meetmete rakendamisest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bcb8030b-893f-4aa5-b1d5-04b0d3293682"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1fb1412b-1e5e-4fc3-ad55-01031c40b10d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 11.01.2021",
+      "uuid": "8e6858e3-24b7-4f31-be13-52e34746e3e0",
+      "files": [
+        "MAEK_protokoll_11.01.2021.asice",
+        "083_protokolli_lisa_MES.pdf",
+        "083_protokoll_11.01.2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "97ea8f5f-7884-4af5-8d30-7c4559e42032",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 97ea8f5f-7884-4af5-8d30-7c4559e42032)",
+  "source": "https://api.riigikogu.ee/api/volumes/97ea8f5f-7884-4af5-8d30-7c4559e42032",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-01-01&endDate=2021-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
