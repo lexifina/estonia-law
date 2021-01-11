@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung esmaspäev, 11.01.2021 kell 11.15",
+  "sitting_time": "2021-01-11T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f1d578c9-2dfc-4451-90c4-72c507361e05"
+    },
+    {
+      "order": 2,
+      "title": "Kohtute seaduse muutmise seaduse eelnõu (298 SE) ettevalmistamine teiseks lugemiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "49f8dbcb-7099-4239-8037-6f2494c89d89"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "94d521f9-d35e-46c7-9825-c587571e1903"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "PÕSK protokoll 11.01.2021",
+      "uuid": "86f186c1-961f-412d-aa02-e06b478f2d1e",
+      "files": [
+        "PÕSK_protokoll_11.01.2021.asice",
+        "PÕSK.protokoll.11.01.2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "355f819c-29fc-4a13-a742-a966578cc421",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 355f819c-29fc-4a13-a742-a966578cc421)",
+  "source": "https://api.riigikogu.ee/api/volumes/355f819c-29fc-4a13-a742-a966578cc421",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-01-01&endDate=2021-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
