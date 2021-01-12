@@ -1,0 +1,48 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung teisipäev, 12.01.2021 kell 13.00",
+  "sitting_time": "2021-01-12T13:05:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti keele arengukava 2021-2035  ning selle seos riigi pikaajalise strateegiaga „Eesti 2035“ (262 OE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "05b7a565-033e-4306-adce-b5d546c6c60c"
+    },
+    {
+      "order": 2,
+      "title": "Noortevaldkonna arengukava 2021-2035 ning selle seos riigi pikaajalise strateegiaga „Eesti 2035“ (262 OE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1b011fbe-9eca-4aca-987e-fa0a5b1ab5d5"
+    },
+    {
+      "order": 3,
+      "title": "Arengukavade menetlusotsused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "03902a6a-f842-45ce-8b61-21564e5ecddc"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KULK protokoll 12.01.2021",
+      "uuid": "f2a4e04d-1d01-4e84-b72a-096a0d4a2c71",
+      "files": [
+        "noortevaldkond_kultuurikomisjonis_1201.pdf",
+        "Ettekanne_Eesti_keele_arengukava_2021-2035.pdf",
+        "KULK_protokoll_12.01.2021.asice",
+        "Protokoll_103_(12.01.2021).pdf"
+      ]
+    }
+  ],
+  "uuid": "0457e0e1-844e-4df9-9369-9109775630af",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0457e0e1-844e-4df9-9369-9109775630af)",
+  "source": "https://api.riigikogu.ee/api/volumes/0457e0e1-844e-4df9-9369-9109775630af",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-01-01&endDate=2021-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
