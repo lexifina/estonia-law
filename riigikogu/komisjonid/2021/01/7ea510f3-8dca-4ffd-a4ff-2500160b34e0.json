@@ -1,0 +1,42 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung teisipäev, 12.01.2021 kell 14.00",
+  "sitting_time": "2021-01-12T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade Euroopa Liidu ja Ühendkuningriigi vahelisest kaubandus- ja koostöölepingust",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "530d832f-1bf0-4dc3-967d-8d9351cd5ab2"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b2419680-0464-43d7-b1af-0d4957ba974c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAJK protokoll nr 91 12.01.2021",
+      "uuid": "31f6898e-2b96-4f08-b2bb-ed96cd4797aa",
+      "files": [
+        "MAJK_protokoll_nr_91_12.01.2021.asice",
+        "Lisa_1_(Välisministeeriumi_esitlus).pdf",
+        "MAJK_protokoll_nr_91_12.01.2021.pdf",
+        "Lisa_2_(MKMi_esitlus).pdf"
+      ]
+    }
+  ],
+  "uuid": "7ea510f3-8dca-4ffd-a4ff-2500160b34e0",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7ea510f3-8dca-4ffd-a4ff-2500160b34e0)",
+  "source": "https://api.riigikogu.ee/api/volumes/7ea510f3-8dca-4ffd-a4ff-2500160b34e0",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-01-01&endDate=2021-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
