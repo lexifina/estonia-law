@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung teisipäev, 12.01.2021 kell 14.00",
+  "sitting_time": "2021-01-12T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade Ameerika Ühendriikide poliitilisest olukorrast",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "97544aa7-0947-438d-8bf6-fe00102455dc"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8e9a601b-b7af-40a4-87d1-ed9b3f84a5d4"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RIKK protokoll 12.01.2021",
+      "uuid": "4ad6b400-a1ea-4ae5-8f28-81d38be853c0",
+      "files": [
+        "RIKK_protokoll_12.01.2021.asice",
+        "Protokoll_nr_95__12.01.2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "df6585f8-78ff-49cb-a77e-65528d9ce0d2",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid df6585f8-78ff-49cb-a77e-65528d9ce0d2)",
+  "source": "https://api.riigikogu.ee/api/volumes/df6585f8-78ff-49cb-a77e-65528d9ce0d2",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-01-01&endDate=2021-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
