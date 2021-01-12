@@ -1,0 +1,54 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung teisipäev, 12.01.2021 kell 14.00",
+  "sitting_time": "2021-01-12T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Käibemaksuseaduse ja tolliseaduse muutmise seaduse eelnõu (239 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a5e6d6d1-e140-4dd2-99ea-bcb5235c1597"
+    },
+    {
+      "order": 2,
+      "title": "Rahandusministeeriumi ülevaade lisaeelarve seirest ja majanduse olukorrast;",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0f249914-08e6-4d40-b5e6-d5569d74d37c"
+    },
+    {
+      "order": 3,
+      "title": "Arenguseire Keskuse ülevaade uuringust „ Eesti Tervishoiu tulevik“;",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "becc5a6b-6d61-4755-8bc7-7351bd0dfd2c"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ab6f0b9e-b6c3-4743-b877-0e903299f896"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 12.01.2021",
+      "uuid": "5e9ecf00-9c5a-471c-809e-7ddcfda1b376",
+      "files": [
+        "RAHK_protokoll_12.01.2021.asice",
+        "RAHL_protokoll_111_12_01_2021.pdf",
+        "RAM_Majanduse_rahanduse_ja_meetmete_ülevaade_-_jaanuar_12.01.2021.pdf",
+        "ASK_slaidid_Eesti_tervishoiu_tulevik_12.01.2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "bf4f4dae-c3b9-424f-9b1a-6c2ba77a5b97",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid bf4f4dae-c3b9-424f-9b1a-6c2ba77a5b97)",
+  "source": "https://api.riigikogu.ee/api/volumes/bf4f4dae-c3b9-424f-9b1a-6c2ba77a5b97",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-01-01&endDate=2021-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
