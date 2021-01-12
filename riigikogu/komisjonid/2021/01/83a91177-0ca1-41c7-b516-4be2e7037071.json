@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung teisipäev, 12.01.2021 kell 14:30",
+  "sitting_time": "2021-01-12T14:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Informatsioon julgeolekuolukorra arengutest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b2d6cfa5-e46c-4ba9-8721-a8dbdc20b3ad"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "41ddc7c3-2903-47bf-bb9e-c0b77bf24b1f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 12.01.2021",
+      "uuid": "8a011ffd-084c-4581-b6c9-2ea779be87e5",
+      "files": [
+        "VÄLK_protokoll_12.01.2021.asice",
+        "VÄLK_protokoll_12.01.2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "83a91177-0ca1-41c7-b516-4be2e7037071",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 83a91177-0ca1-41c7-b516-4be2e7037071)",
+  "source": "https://api.riigikogu.ee/api/volumes/83a91177-0ca1-41c7-b516-4be2e7037071",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-01-01&endDate=2021-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
