@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Keskkonnakomisjoni ja maaelukomisjoni ühine istung teisipäev, 12.01.2021 kell 14.00",
+  "sitting_time": "2021-01-12T14:00:00",
+  "sitting_type": "UHISISTUNG",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Arutelu vesiviljeluse valdkonna arenguvõimaluste üle (Eesti Avamere Vesiviljelejate Ühistu kiri 13.11.20)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a8c0e3e4-1c5c-4838-9ca1-710269c0d76a"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "22286161-2092-49c0-8c03-c4f011091252"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK ja MAEK 12.01.2021 protokoll",
+      "uuid": "01182bf3-b2f4-498a-aef5-64b580e99eee",
+      "files": [
+        "Avamere_kasvatuste_majanduslik_mõjuhinnang.pdf",
+        "KEKK_12.01.2021_protokoll.asice",
+        "KEKK_ja_MAEK_12.01.2021_protokoll.pdf"
+      ]
+    }
+  ],
+  "uuid": "49e321ff-7772-4b11-83de-c7ed75b33a6d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 49e321ff-7772-4b11-83de-c7ed75b33a6d)",
+  "source": "https://api.riigikogu.ee/api/volumes/49e321ff-7772-4b11-83de-c7ed75b33a6d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-01-01&endDate=2021-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
