@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung kolmapäev, 13.01.2021 kell 12.00",
+  "sitting_time": "2021-01-13T12:00:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b8709884-fac4-4140-a3ea-5a9a248e6f5e"
+    },
+    {
+      "order": 2,
+      "title": "Juhatusele ettepaneku tegemine mitte arutada Riigikogu otsuse „Rahvahääletuse korraldamine abielu  mõiste küsimuses“ eelnõu (288 OE) Riigikogu täiskogu kolmapäevasel, 13. jaanuari istungil",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6c0598b9-08e5-4b15-9fd2-1d864cbf4cb5"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4f66cf7f-66dd-49c7-b54c-ca8a4bc6782e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "PÕSK protokoll 13.01.2021",
+      "uuid": "90ff3c13-aff4-49cc-9e3a-a2e63ed98dd6",
+      "files": [
+        "Volikiri.13.01.2021.Kaja_Kallase_asendusliige.pdf",
+        "PÕSK_protokoll_13.01.2021.asice",
+        "2021.01.13.erakorralise_istungi_protokoll.rtf"
+      ]
+    }
+  ],
+  "uuid": "a26e7a94-9db2-4a80-901d-4f529ed6449d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a26e7a94-9db2-4a80-901d-4f529ed6449d)",
+  "source": "https://api.riigikogu.ee/api/volumes/a26e7a94-9db2-4a80-901d-4f529ed6449d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-01-01&endDate=2021-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
