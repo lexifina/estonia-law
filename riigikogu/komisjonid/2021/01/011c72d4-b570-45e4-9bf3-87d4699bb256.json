@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung neljapäev, 14.01.2021 kell 15.00",
+  "sitting_time": "2021-01-14T15:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade Eesti tegevusest ÜRO Julgeolekunõukogu valitud liikmena",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "00a0ba68-c044-4b8d-9f8a-35287c225323"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b409855c-2dd4-4526-86b7-2d8db2195c23"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 14.01.2021",
+      "uuid": "634eef3a-d7d6-443d-814e-aad14fe1051d",
+      "files": [
+        "VÄLK_protokoll_14.01.2021.asice",
+        "VÄLK_protokoll_14.01.2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "011c72d4-b570-45e4-9bf3-87d4699bb256",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 011c72d4-b570-45e4-9bf3-87d4699bb256)",
+  "source": "https://api.riigikogu.ee/api/volumes/011c72d4-b570-45e4-9bf3-87d4699bb256",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-01-01&endDate=2021-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
