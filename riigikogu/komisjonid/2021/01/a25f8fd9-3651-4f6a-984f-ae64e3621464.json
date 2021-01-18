@@ -1,0 +1,44 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 18.01.2021 kell 13.15",
+  "sitting_time": "2021-01-18T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2e93f44f-2425-47b8-bb0c-ba6d670bfda9"
+    },
+    {
+      "order": 2,
+      "title": "Majanduse olukord ning COVID-19 toetusmeetmete kasutamise ülevaade",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9e2719e0-559d-482f-8932-35e749e4e75a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 18.01.2021",
+      "uuid": "045afcf7-a3da-4292-894c-2cba28228fe7",
+      "files": [
+        "REKK_protokoll_18.01.2021.asice",
+        "Protokoll_nr_55._18.01.2021._.pdf",
+        "MES_kriisimeetmed_18.01.2021.pptx",
+        "Slaidid_ettevõtlusmeetmed_18.01.pptx",
+        "Majanduse_rahanduse_ja_meetmete_ülevaade_-_REKK.pptx",
+        "COVID-19_vaktsineerimise_rahastamine_18.01.2020.pptx"
+      ]
+    }
+  ],
+  "uuid": "a25f8fd9-3651-4f6a-984f-ae64e3621464",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a25f8fd9-3651-4f6a-984f-ae64e3621464)",
+  "source": "https://api.riigikogu.ee/api/volumes/a25f8fd9-3651-4f6a-984f-ae64e3621464",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-01-01&endDate=2021-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
