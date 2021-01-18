@@ -1,0 +1,66 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung esmaspäev, 18.01.2021 kell 11.00",
+  "sitting_time": "2021-01-18T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väliskomisjoni V istungjärgu 2. töönädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "99fe7915-d22d-42bd-8cfc-91911a01fa9c"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade Euroopa Nõukogu Parlamentaarse Assamblee (ENPA) Eesti delegatsiooni tegevusest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9d317dcc-8a1c-4edb-995d-346337003e4a"
+    },
+    {
+      "order": 3,
+      "title": "Ülevaade Euroopa Parlamentidevahelise Kosmosekonverentsi (EISC) Eesti delegatsiooni tegevusest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6d4f9fac-9868-43a8-b7bf-7c6978e47ad1"
+    },
+    {
+      "order": 4,
+      "title": "RKK Eesti Välispoliitika Instituudi raporti „Koroonakriis ja väljakutsed Eesti välispoliitikale” tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "eae78cbc-c9ca-4b30-b0c3-fa48793208bd"
+    },
+    {
+      "order": 5,
+      "title": "Informatsioon komisjoni liikmete tegevusest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "87761e46-34e4-4bee-ab39-0e4a3a0dbe1a"
+    },
+    {
+      "order": 6,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "af59d441-fc55-4db7-a81a-431fe6435afb"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 18.01.2021",
+      "uuid": "a30fa956-f570-4f59-aff3-02c8f7a2dc11",
+      "files": [
+        "ENPA_2020_aruanne.docx",
+        "VÄLK_protokoll_18.01.2021.pdf",
+        "EISC_2020._aasta_aruanne.docx",
+        "VÄLK_protokoll_18.01.2021.asice"
+      ]
+    }
+  ],
+  "uuid": "70726311-17ae-441c-b4cd-a627968d63e5",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 70726311-17ae-441c-b4cd-a627968d63e5)",
+  "source": "https://api.riigikogu.ee/api/volumes/70726311-17ae-441c-b4cd-a627968d63e5",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-01-01&endDate=2021-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
