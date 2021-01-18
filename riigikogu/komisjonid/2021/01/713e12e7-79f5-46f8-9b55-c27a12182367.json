@@ -1,0 +1,53 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung esmaspäev, 18.01.2021 kell 11.10",
+  "sitting_time": "2021-01-18T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7e1e1660-f70c-4c38-a76d-fdd6c2806833"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade ettevõtluse toetuseks suunatud kriisimeetmete seisust",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d6fe7467-dfa0-41b8-a7e9-ec4a10be4914"
+    },
+    {
+      "order": 3,
+      "title": "AS-ist Eesti Post (Omniva)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "035f2e0d-b981-4c78-9fdc-9621327ef5c0"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "56066cfc-c0c3-46f0-859f-7e5e2c62c45b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAJK protokoll nr 92 18.01.2021",
+      "uuid": "d65d6271-5bdf-441d-adff-cd4db4aa4159",
+      "files": [
+        "Slaidid_ettevõtlusmeetmed_18.01.pptx",
+        "MAJK_protokoll_nr_92_18.01.2021.pdf",
+        "MAJK_protokoll_nr_92_18.01.2021.asice"
+      ]
+    }
+  ],
+  "uuid": "713e12e7-79f5-46f8-9b55-c27a12182367",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 713e12e7-79f5-46f8-9b55-c27a12182367)",
+  "source": "https://api.riigikogu.ee/api/volumes/713e12e7-79f5-46f8-9b55-c27a12182367",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-01-01&endDate=2021-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
