@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 19.01.2021 kell 14.00",
+  "sitting_time": "2021-01-19T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud toiduseaduse muutmise seaduse eelnõu 228 SE arutelu teisele lugemisele saatmiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "131f2aee-d3fd-4ec2-8e7e-fcd65f66d606"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5b0d5e1e-c66e-4927-aa0e-04c372e857dc"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 19.01.2021",
+      "uuid": "b263c965-e59a-4a5f-8643-ad53729109a4",
+      "files": [
+        "MAEK_protokoll_19.01.2021.asice",
+        "085_protokoll_19.01.2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "7ffbbe2a-93ae-40bf-8b50-315882585208",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7ffbbe2a-93ae-40bf-8b50-315882585208)",
+  "source": "https://api.riigikogu.ee/api/volumes/7ffbbe2a-93ae-40bf-8b50-315882585208",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-01-01&endDate=2021-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
