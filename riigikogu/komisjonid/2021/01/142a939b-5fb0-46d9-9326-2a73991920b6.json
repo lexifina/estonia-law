@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung teisipäev, 19.01.2021 kell 14.00",
+  "sitting_time": "2021-01-19T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Rahandusministeeriumi ülevaade EL mitmeaastane finantsraamistik 2021 – 2027",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d1a5d6e6-e198-4672-80e9-406f665ad3f4"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine Pangaliidu esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "050554fb-c9e3-4b19-af47-2ce7191ec0ff"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "17e77f5d-fae9-4048-aeef-7eec5e536b54"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 19.01.2021",
+      "uuid": "70f026fc-4ad2-4b32-9916-090136e6f958",
+      "files": [
+        "RAHK_protokoll_19.01.2021.asice",
+        "RAHK_protokoll_113_19_01_2021.pdf",
+        "Lisa_6_(A.Pauli_ettekanne_19.01.21).pdf",
+        "Lisa_5_(K._Talihärma_ettekanne_19.01.21).pdf",
+        "Lisa_4_(A._Pariku_ettekanne_19.01.21).pdf",
+        "Lisa_3__(M._Nestori_ettekanne_19.01.21).pdf",
+        "RAM_ettekanne_uued_EL_toetused_19_01_2021.pdf",
+        "RAM__ettekanne_taaskäivitamisrahastu_19_01_2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "142a939b-5fb0-46d9-9326-2a73991920b6",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 142a939b-5fb0-46d9-9326-2a73991920b6)",
+  "source": "https://api.riigikogu.ee/api/volumes/142a939b-5fb0-46d9-9326-2a73991920b6",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-01-01&endDate=2021-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
