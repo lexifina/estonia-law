@@ -1,0 +1,53 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung neljapäev, 21.01.2021 kell 13.15",
+  "sitting_time": "2021-01-21T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8a5d81b8-f5f8-432b-87ec-4de5d99abbe1"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad 21. jaanuaril 2021 toimuval Euroopa Liidu riigipeade ja valitsusjuhtide mitteametlikul videokohtumisel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dd3dba27-9f8d-4460-8633-fc5982f9ac06"
+    },
+    {
+      "order": 3,
+      "title": "Eesti seisukohad 21.-22. jaanuaril 2021 toimuval mitteametlikul Euroopa Liidu haridus-, noorte, kultuuri- ja spordinõukogu kohtumisel (EYCS)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a892ecc1-0137-438e-a8cb-1dfa62b7d759"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f4089be3-aac7-4948-a785-dc9f5a5c9220"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ELAK protokoll 21.01.2021",
+      "uuid": "ccdec63b-4927-4b49-8adf-746e1406ed2a",
+      "files": [
+        "ELAK_protokoll_21.01.2021.asice",
+        "ELAK_protokoll_21.01.2021.pdf",
+        "Asendusliige_Raivo_Tamm_21.01.2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "b7f722d6-4dc2-4167-9850-dae550874004",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b7f722d6-4dc2-4167-9850-dae550874004)",
+  "source": "https://api.riigikogu.ee/api/volumes/b7f722d6-4dc2-4167-9850-dae550874004",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-01-01&endDate=2021-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
