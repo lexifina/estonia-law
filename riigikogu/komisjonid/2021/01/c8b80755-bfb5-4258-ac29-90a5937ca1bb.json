@@ -1,0 +1,61 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung neljapäev, 21.01.2021 kell 13.00",
+  "sitting_time": "2021-01-21T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade OSCE Parlamentaarse Assamblee Eesti delegatsiooni tegevusest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "39a83e76-fb21-4254-8c93-bb6f8a96cd01"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade NATO Parlamentaarse Assamblee Eesti delegatsiooni tegevusest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "26504c5c-ac54-4ade-8f0b-e28b236d35b3"
+    },
+    {
+      "order": 3,
+      "title": "Ülevaade Balti Assamblee Eesti delegatsiooni tegevusest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "aaae744d-13ac-4ac0-ac17-7f238c0bdfa8"
+    },
+    {
+      "order": 4,
+      "title": "Eesti seisukohad 25. jaanuaril 2021 toimuval Euroopa Liidu välisasjade nõukogu istungil",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5b54fc66-8350-485c-9b3c-d3536383a886"
+    },
+    {
+      "order": 5,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "260669e4-f023-40e7-acf5-6deb3d78b62a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 21.01.2021",
+      "uuid": "d1ca8d98-afc2-4e04-95e1-6de250981f80",
+      "files": [
+        "BA_ülevaade_2020.pdf",
+        "VÄLK_protokoll_21.01.2021.asice",
+        "NATO_PA_ülevaade_2020.pdf",
+        "VÄLK_protokoll_21.01.2021.pdf",
+        "OSCE_PA_ülevaade_2020.pdf"
+      ]
+    }
+  ],
+  "uuid": "c8b80755-bfb5-4258-ac29-90a5937ca1bb",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c8b80755-bfb5-4258-ac29-90a5937ca1bb)",
+  "source": "https://api.riigikogu.ee/api/volumes/c8b80755-bfb5-4258-ac29-90a5937ca1bb",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-01-01&endDate=2021-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
