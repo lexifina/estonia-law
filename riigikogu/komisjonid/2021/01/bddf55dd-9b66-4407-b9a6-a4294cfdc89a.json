@@ -1,0 +1,34 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni avalik istung reede, 22.01.2021 kell 14.00",
+  "sitting_time": "2021-01-22T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väliskomisjoni avalik istung Valgevene arengutest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6573fce9-d4dc-43f6-8902-080c12db7956"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 22.01.2021",
+      "uuid": "484b0bde-c373-4554-855f-d75d339ada40",
+      "files": [
+        "VÄLK_protokoll_22.01.2021.asice",
+        "VÄLK_protokoll_22.01.2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "bddf55dd-9b66-4407-b9a6-a4294cfdc89a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid bddf55dd-9b66-4407-b9a6-a4294cfdc89a)",
+  "source": "https://api.riigikogu.ee/api/volumes/bddf55dd-9b66-4407-b9a6-a4294cfdc89a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-01-01&endDate=2021-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
