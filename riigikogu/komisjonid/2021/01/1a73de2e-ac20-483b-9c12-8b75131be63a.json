@@ -1,0 +1,54 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung esmaspäev, 25.01.2021 kell 11:00",
+  "sitting_time": "2021-01-25T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väliskomisjoni V istungjärgu 3. töönädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "066e5766-a23b-4835-b7c1-3952425c7e67"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade arengutest Ukrainas",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2fe68262-cecc-492c-a5c0-738eb0e7f3a6"
+    },
+    {
+      "order": 3,
+      "title": "Informatsioon komisjoni liikmete tegevusest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e7afee11-cbc5-4f54-9235-997cb1cfe51c"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "88ca4c1b-630c-44f7-b743-a539e06c1617"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 25.01.2021",
+      "uuid": "b5461951-015d-4b11-a485-a319e58e2f93",
+      "files": [
+        "VÄLK_protokoll_25.01.2021_(1).asice",
+        "Õiend.pdf",
+        "VÄLK_protokoll_25.01.2021.asice",
+        "VÄLK_protokoll_25.01.2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "1a73de2e-ac20-483b-9c12-8b75131be63a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 1a73de2e-ac20-483b-9c12-8b75131be63a)",
+  "source": "https://api.riigikogu.ee/api/volumes/1a73de2e-ac20-483b-9c12-8b75131be63a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-01-01&endDate=2021-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
