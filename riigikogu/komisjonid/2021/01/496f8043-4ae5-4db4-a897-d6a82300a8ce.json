@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung esmaspäev, 25.01.2021 kell 11.10",
+  "sitting_time": "2021-01-25T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3aff1a00-0138-49a8-866e-20739f261c3b"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine Transpordiameti juhtidega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1b304243-516e-4ebb-bbff-79afd6ec0b3c"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cf83ae5a-d007-49f3-9022-a6c3a06daf57"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAJK protokoll nr 94 25.01.2021",
+      "uuid": "bb39d2d4-e899-400b-a0c8-389181d940cf",
+      "files": [
+        "Esitlus_majanduskomisjon_25.01.21.pdf",
+        "MAJK_protokoll_nr_94_25.01.2021.asice",
+        "MAJK_protokoll_nr_94_25.01.2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "496f8043-4ae5-4db4-a897-d6a82300a8ce",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 496f8043-4ae5-4db4-a897-d6a82300a8ce)",
+  "source": "https://api.riigikogu.ee/api/volumes/496f8043-4ae5-4db4-a897-d6a82300a8ce",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-01-01&endDate=2021-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
