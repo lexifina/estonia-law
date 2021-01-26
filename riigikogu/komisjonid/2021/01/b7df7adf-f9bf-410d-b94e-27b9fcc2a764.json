@@ -1,0 +1,48 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung teisipäev, 26.01.2021 kell 14.00",
+  "sitting_time": "2021-01-26T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "14ac5a41-ffd0-47dd-abed-2f8bb7ba8fd0"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu otsuse „Rahvahääletuse korraldamine Eesti Vabariigi Presidendi otsevalimise küsimuses“ eelnõu (290 OE) esimeseks lugemiseks ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "33a3f2f5-d48a-4ff9-957b-b03a2f7f19fb"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a345d4ac-ba02-40fa-9f68-fe035fc98039"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "PÕSK protokoll 26.01.2021",
+      "uuid": "193138f4-c3b3-4310-b2b5-e2ae8773e8d5",
+      "files": [
+        "PÕSK_protokoll_26.01.2021.asice",
+        "Põhiseaduskomisjon_asendus26.01.docx",
+        "Volikiri.26.01.2021.Maria_asendusliikme_volitus.asice",
+        "PÕSK.protokoll.26.01.2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "b7df7adf-f9bf-410d-b94e-27b9fcc2a764",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b7df7adf-f9bf-410d-b94e-27b9fcc2a764)",
+  "source": "https://api.riigikogu.ee/api/volumes/b7df7adf-f9bf-410d-b94e-27b9fcc2a764",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-01-01&endDate=2021-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
