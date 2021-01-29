@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung reede, 29.01.2021 kell 10.00",
+  "sitting_time": "2021-01-29T10:00:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "92ef6b96-b51a-45f4-82a3-9cb161ad2be1"
+    },
+    {
+      "order": 2,
+      "title": "Seisukoha andmine: Eesti seisukohtade täiendamine Euroopa Liidu nõukogu reisipiiranguid käsitlevate soovituste kohta",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d9c58aac-38ef-43fa-836c-33784d1d59e4"
+    },
+    {
+      "order": 3,
+      "title": "Eesti seisukohad 2.-3. veebruaril 2021 toimuval mitteametlikul Euroopa Liidu konkurentsivõime nõukogu videokohtumisel (teadus)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ff9c6014-74f5-4462-8d1e-a45ec4bbca6e"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c7c2a1e1-bd9e-4e4b-89cf-a4c3121104da"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ELAK protokoll 29.01.2021",
+      "uuid": "0384578d-fd28-4403-b7db-aea01a6ae2df",
+      "files": [
+        "ELAK_protokoll_29.01.2021.asice",
+        "ELAK_protokoll_29.01.2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "15f7ed3a-b4c3-484a-b6cc-c985a6639bf0",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 15f7ed3a-b4c3-484a-b6cc-c985a6639bf0)",
+  "source": "https://api.riigikogu.ee/api/volumes/15f7ed3a-b4c3-484a-b6cc-c985a6639bf0",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-01-01&endDate=2021-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
