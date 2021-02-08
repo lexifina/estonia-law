@@ -1,0 +1,48 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung esmaspäev, 8.02.2021 kell 13.30",
+  "sitting_time": "2021-02-08T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b910db64-1910-4b5d-b962-2a75111a4834"
+    },
+    {
+      "order": 2,
+      "title": "Euroopa Liidu asjade komisjoni 2020. aasta II poolaasta kokkuvõtte kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "aaf79feb-39d2-41d7-9adc-3d18a6ad41a3"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0b740398-caac-437c-aadd-af6c84ca8bde"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ELAK protokoll 08.02.2021",
+      "uuid": "777202b7-7459-4b43-b076-d79cc78f057b",
+      "files": [
+        "ELAK_protokoll_8.02.2021.asice",
+        "ELAK_protokoll_8.02.2021.pdf",
+        "asendus.docx",
+        "Asendusliige_Timo_Suslov.asice"
+      ]
+    }
+  ],
+  "uuid": "e61c3d82-1496-4008-b1da-972f623c541d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e61c3d82-1496-4008-b1da-972f623c541d)",
+  "source": "https://api.riigikogu.ee/api/volumes/e61c3d82-1496-4008-b1da-972f623c541d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-02-01&endDate=2021-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
