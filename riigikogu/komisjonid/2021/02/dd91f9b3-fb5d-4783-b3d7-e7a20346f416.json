@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung esmaspäev, 8.02.2021 kell 11.10",
+  "sitting_time": "2021-02-08T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Komisjoni esimehe ja aseesimehe erakorraline valimine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "054d21d7-c0da-49ea-bd4d-f8349cf9b263"
+    },
+    {
+      "order": 2,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b64ce2c9-ae3d-4462-9598-ccabc1d756e0"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e207ab47-5d5d-4079-b271-371cacd383eb"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK protokoll 08.02.2021",
+      "uuid": "a380ef99-cfb8-4327-8f5e-8c904d23a04f",
+      "files": [
+        "KEKK_protokoll_08.02.2021.pdf",
+        "KEKK_protokoll_08.02.2021.asice"
+      ]
+    }
+  ],
+  "uuid": "dd91f9b3-fb5d-4783-b3d7-e7a20346f416",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid dd91f9b3-fb5d-4783-b3d7-e7a20346f416)",
+  "source": "https://api.riigikogu.ee/api/volumes/dd91f9b3-fb5d-4783-b3d7-e7a20346f416",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-02-01&endDate=2021-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
