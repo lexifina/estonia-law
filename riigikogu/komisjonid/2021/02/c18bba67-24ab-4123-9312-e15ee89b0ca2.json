@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 8.02.2021 kell 11.10",
+  "sitting_time": "2021-02-08T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b1359508-e8f4-4c4c-8a52-ad7bcc9cc54a"
+    },
+    {
+      "order": 2,
+      "title": "Maaelukomisjoni esimehe ja aseesimehe erakorraline valimine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "82b701cf-cad3-4268-97d1-c8717ed82b45"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a73acda8-2449-4e26-bdbe-61c723d2556d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 08.02.2021",
+      "uuid": "1ae10a80-cff1-43be-9e2d-51d54143658a",
+      "files": [
+        "MAEK_protokoll_08.02.2021.asice",
+        "087_protokoll_08.02.2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "c18bba67-24ab-4123-9312-e15ee89b0ca2",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c18bba67-24ab-4123-9312-e15ee89b0ca2)",
+  "source": "https://api.riigikogu.ee/api/volumes/c18bba67-24ab-4123-9312-e15ee89b0ca2",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-02-01&endDate=2021-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
