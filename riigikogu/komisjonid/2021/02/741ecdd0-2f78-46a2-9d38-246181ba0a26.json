@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung esmaspäev, 8.02.2021 kell 11.00",
+  "sitting_time": "2021-02-08T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b508699d-e375-438a-adb6-7857da5b9028"
+    },
+    {
+      "order": 2,
+      "title": "Komisjoni esimehe ja aseesimehe valimine.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c34e2ff3-09c2-45cb-9ff8-f05715fd3389"
+    },
+    {
+      "order": 3,
+      "title": "Vangistusseaduse muutmise ja sellega seonduvalt teiste seaduste muutmise seadus (arestimaja ülesannete üleandmine) (275 SE II)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "41def180-61d5-4e26-b866-e3c221fd57ab"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ÕIGK protokoll 08.02.2021",
+      "uuid": "30b7a7d3-dac6-4631-b77a-56f1b713c2f5",
+      "files": [
+        "Õiguskomisjoni_08.02.2021_istungi_protokoll.pdf",
+        "ÕIGK_protokoll_08.02.2021.asice"
+      ]
+    }
+  ],
+  "uuid": "741ecdd0-2f78-46a2-9d38-246181ba0a26",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 741ecdd0-2f78-46a2-9d38-246181ba0a26)",
+  "source": "https://api.riigikogu.ee/api/volumes/741ecdd0-2f78-46a2-9d38-246181ba0a26",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-02-01&endDate=2021-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
