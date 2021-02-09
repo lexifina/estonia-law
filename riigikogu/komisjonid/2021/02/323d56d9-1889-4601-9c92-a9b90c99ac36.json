@@ -1,0 +1,34 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni erakorraline istung teisipäev, 9.02.2021 kell 14.54",
+  "sitting_time": "2021-02-09T14:54:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikogu otsus \"Riigikogu liikmest Eesti Panga Nõukogu liikme nimetamine\" (332 OE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "eaf5f087-0f54-4a59-aaec-1f36658bb831"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 09.02.2021",
+      "uuid": "c6bdf5bc-f319-4d71-9c87-f6a3a9ebf6f4",
+      "files": [
+        "RAHK_protokoll_09.02.2021.asice",
+        "RAHK_protokoll_116_09_02_2021_erakorraline.pdf"
+      ]
+    }
+  ],
+  "uuid": "323d56d9-1889-4601-9c92-a9b90c99ac36",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 323d56d9-1889-4601-9c92-a9b90c99ac36)",
+  "source": "https://api.riigikogu.ee/api/volumes/323d56d9-1889-4601-9c92-a9b90c99ac36",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-02-01&endDate=2021-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
