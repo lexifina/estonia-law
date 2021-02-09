@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung teisipäev, 9.02.2021 kell 14.00",
+  "sitting_time": "2021-02-09T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Krediidiasutuste seaduse muutmise ja sellega seonduvalt teiste seaduste muutmise seaduse eelnõu (312 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7db6f12b-5a4f-4362-9542-a89128abce15"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "32326c65-3904-4a3e-8e8b-65e4fca89fc2"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 09.02.2021",
+      "uuid": "c3602576-c793-413e-890e-fe709314a809",
+      "files": [
+        "RAHK_protokoll_09.02.2021.asice",
+        "RAHK_protokoll_115_09_02_2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "c8a08c50-0e4a-47bc-8828-d7627b9b7645",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c8a08c50-0e4a-47bc-8828-d7627b9b7645)",
+  "source": "https://api.riigikogu.ee/api/volumes/c8a08c50-0e4a-47bc-8828-d7627b9b7645",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-02-01&endDate=2021-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
