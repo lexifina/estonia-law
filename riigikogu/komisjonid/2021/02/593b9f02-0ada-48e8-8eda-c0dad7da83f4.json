@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Korruptsioonivastane erikomisjon",
+  "committee_uuid": "e4f2977a-e8c3-4fa0-8f3d-9df9acd6377f",
+  "title": "Komisjoni istung neljapäev, 11.02.2021 kell 16.00",
+  "sitting_time": "2021-02-11T16:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Korruptsioonivastase erikomisjoni esimehe ja aseesimehe valimine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d9141b3c-b6cb-4f19-9315-ed5f55f51948"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6dbec164-c6ba-439c-9531-9599c0b7294d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KVEK protokoll 11.02.2021",
+      "uuid": "4f6ff746-6634-4041-86b1-853412b56bde",
+      "files": [
+        "KVEK_protokoll_11.02.2021.asice",
+        "KVEK_protokoll_11.02.2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "593b9f02-0ada-48e8-8eda-c0dad7da83f4",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 593b9f02-0ada-48e8-8eda-c0dad7da83f4)",
+  "source": "https://api.riigikogu.ee/api/volumes/593b9f02-0ada-48e8-8eda-c0dad7da83f4",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-02-01&endDate=2021-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
