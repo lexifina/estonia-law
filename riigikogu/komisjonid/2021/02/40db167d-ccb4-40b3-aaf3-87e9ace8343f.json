@@ -1,0 +1,35 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung neljapäev, 11.02.2021 kell 16.00",
+  "sitting_time": "2021-02-11T16:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigieelarve kontrolli erikomisjoni esimehe ja aseesimehe valimine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "35eb10e4-bb3d-460d-96a7-01ef524f497b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 11.02.2021",
+      "uuid": "bdc6b7da-7e36-4e33-a6ce-cf560b6a25ba",
+      "files": [
+        "REKK_protokoll_11.02.2021.asice",
+        "Protokoll_nr_56._11.02.2021.pdf",
+        "Asendusliige_I_1.docx"
+      ]
+    }
+  ],
+  "uuid": "40db167d-ccb4-40b3-aaf3-87e9ace8343f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 40db167d-ccb4-40b3-aaf3-87e9ace8343f)",
+  "source": "https://api.riigikogu.ee/api/volumes/40db167d-ccb4-40b3-aaf3-87e9ace8343f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-02-01&endDate=2021-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
