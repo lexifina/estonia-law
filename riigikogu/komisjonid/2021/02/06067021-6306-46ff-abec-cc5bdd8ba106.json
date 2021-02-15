@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Korruptsioonivastane erikomisjon",
+  "committee_uuid": "e4f2977a-e8c3-4fa0-8f3d-9df9acd6377f",
+  "title": "Komisjoni istung esmaspäev, 15.02.2021 kell 13.30",
+  "sitting_time": "2021-02-15T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b0adca87-e9e5-40a3-8a87-424b36fd9374"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade komisjoni käsitluses olevatest teemadest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7dc65032-58d1-406e-bd0e-23f666c5b3da"
+    },
+    {
+      "order": 3,
+      "title": "Arutelu kevadise istungijärgu teemadest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5bb69053-dd01-4bde-84ab-b0163627be92"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "19d4c3da-f643-4772-bbd3-58ae0277c585"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KVEK protokoll 15.02.2021",
+      "uuid": "28ff5794-1834-4e86-b7c0-74cb44286885",
+      "files": [
+        "KVEK_protokoll_15.02.2021.asice",
+        "KVEK_protokoll_15.02.2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "06067021-6306-46ff-abec-cc5bdd8ba106",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 06067021-6306-46ff-abec-cc5bdd8ba106)",
+  "source": "https://api.riigikogu.ee/api/volumes/06067021-6306-46ff-abec-cc5bdd8ba106",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-02-01&endDate=2021-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
