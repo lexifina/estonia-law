@@ -1,0 +1,53 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung esmaspäev, 15.02.2021 kell 11.10",
+  "sitting_time": "2021-02-15T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "57f9716b-2781-4a00-809a-2a3787f2b197"
+    },
+    {
+      "order": 2,
+      "title": "Arvamuse andmine Euroopa Liidu asjade komisjonile Eesti seisukohad Nõukogu otsuse, millega antakse luba alustada läbirääkimisi Euroopa Liidu ja Norra Kuningriigi vahelise uue kalanduslepingu üle COM(2020) 787",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "eb806437-c2e8-48be-ad5f-e0e602556b94"
+    },
+    {
+      "order": 3,
+      "title": "Riigikogu otsus \"Ettepaneku tegemine Vabariigi Valitsusele avamere vesiviljeluse mahu määramiseks\" eelnõu (316 OE) esimeseks lugemiseks ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ed07cb27-1b44-41be-ae1f-56943159df14"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ee50556e-9e60-4c6e-9cc6-e4aa26b45924"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK protokoll 15.02.2021",
+      "uuid": "fd9eb62b-e3f8-47cc-bf5d-f96696e66456",
+      "files": [
+        "KEKK_protokoll_15.02.2021.pdf",
+        "Eesti_seisukohad_EL-NO_uue_kalandulepingu_läbirääkimisteks_15.02.2021.pdf",
+        "KEKK_protokoll_15.02.2021.asice"
+      ]
+    }
+  ],
+  "uuid": "43bd11bc-c9a2-43f5-a8b2-6771873166cc",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 43bd11bc-c9a2-43f5-a8b2-6771873166cc)",
+  "source": "https://api.riigikogu.ee/api/volumes/43bd11bc-c9a2-43f5-a8b2-6771873166cc",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-02-01&endDate=2021-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
