@@ -1,0 +1,48 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 15.02.2021 kell 13.30",
+  "sitting_time": "2021-02-15T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "da42a22e-d9bc-4193-9612-a8faac2ab232"
+    },
+    {
+      "order": 2,
+      "title": "Komisjoni töökorraldusest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6d397d9e-d5f0-4fc2-9554-b38ef193dc97"
+    },
+    {
+      "order": 3,
+      "title": "Riigikontrolli tegevuse tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fd998250-9e7a-49c2-b8ee-eddced5bebe0"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 15.02.2021",
+      "uuid": "b31a1cdc-0109-4282-b77b-c6d439901f37",
+      "files": [
+        "REKK_protokoll_15.02.2021.asice",
+        "Protokoll_nr_57._15.02.2021.pdf",
+        "Esitlus_TPL2020_REKK_Janar_Holm_15_01_2021.pptx",
+        "REKK_tutvustus_XIV_2021.ppt"
+      ]
+    }
+  ],
+  "uuid": "78428d0c-56ad-4322-ac80-ec9e7b01b3ee",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 78428d0c-56ad-4322-ac80-ec9e7b01b3ee)",
+  "source": "https://api.riigikogu.ee/api/volumes/78428d0c-56ad-4322-ac80-ec9e7b01b3ee",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-02-01&endDate=2021-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
