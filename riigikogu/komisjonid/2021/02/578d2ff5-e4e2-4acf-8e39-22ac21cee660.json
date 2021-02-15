@@ -1,0 +1,48 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung esmaspäev, 15.02.2021 kell 13.30",
+  "sitting_time": "2021-02-15T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ffe81da5-9109-4861-bff2-ec9026a226c4"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad 19. veebruaril 2021 toimuval Euroopa Liidu haridus-, noorte, kultuuri- ja spordinõukogu istungil (EYCS)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8376bef4-8f39-43cd-a06a-52ee26bdaf05"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3efe4102-5c53-474f-bc9e-06561feebe97"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ELAK protokoll 15.02.2021",
+      "uuid": "ab9e0cfb-97c4-4d39-9a75-b7106095f1d8",
+      "files": [
+        "ELAK_protokoll_15.02.2021.asice",
+        "ELAK_protokoll_15.02.2021.pdf",
+        "15.02_asendusliige_Siret_Kotka.asice",
+        "15.02.21Euroopa_Liidu_asjade_komisjon.docx"
+      ]
+    }
+  ],
+  "uuid": "578d2ff5-e4e2-4acf-8e39-22ac21cee660",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 578d2ff5-e4e2-4acf-8e39-22ac21cee660)",
+  "source": "https://api.riigikogu.ee/api/volumes/578d2ff5-e4e2-4acf-8e39-22ac21cee660",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-02-01&endDate=2021-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
