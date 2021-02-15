@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung esmaspäev, 15.02.2021 kell 11.00",
+  "sitting_time": "2021-02-15T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "488a2a56-c417-40f5-a318-6bc2b5efa35f"
+    },
+    {
+      "order": 2,
+      "title": "Kaitseministeeriumi uuest kaitsevalmiduse asekantsleri ametikohast",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "26ec7cc7-ffc4-4d0a-b126-07de8941ccb2"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ff4f386b-8bb9-45c3-ae29-9b61d456b61c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RIKK 15.02.2021 protokoll",
+      "uuid": "55cbc461-e1ac-4ea5-ac9e-1f039422a804",
+      "files": [
+        "RIKK_protokoll.asice",
+        "Protokoll_nr_100__15.02.2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "1a6c3faf-e2e8-4c98-8613-f6778432be7e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 1a6c3faf-e2e8-4c98-8613-f6778432be7e)",
+  "source": "https://api.riigikogu.ee/api/volumes/1a6c3faf-e2e8-4c98-8613-f6778432be7e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-02-01&endDate=2021-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
