@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 15.02.2021 kell 11.10",
+  "sitting_time": "2021-02-15T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "155c2a8c-d6ee-419d-9849-670caeb7d8c9"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine Põllumajandus- ja Toiduameti juhtkonnaga",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dc5ca265-3ad2-4c92-a2a2-694be12eb9f8"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ac7f48fc-d686-44ef-ab1a-099791a3c1fe"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 15.02.2021",
+      "uuid": "70afcba4-bd9b-4806-a3d6-009f875f7b84",
+      "files": [
+        "MAEK_protokoll_15.02.2021.asice",
+        "088_protokoll_15.02.2021.pdf",
+        "088_protokolli_lisa_PTA.pdf"
+      ]
+    }
+  ],
+  "uuid": "3876c55c-11b1-488f-95da-6cd616e15c06",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3876c55c-11b1-488f-95da-6cd616e15c06)",
+  "source": "https://api.riigikogu.ee/api/volumes/3876c55c-11b1-488f-95da-6cd616e15c06",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-02-01&endDate=2021-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
