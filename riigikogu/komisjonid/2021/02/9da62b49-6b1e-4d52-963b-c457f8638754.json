@@ -1,0 +1,66 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung esmaspäev, 15.02.2021 kell 11.00",
+  "sitting_time": "2021-02-15T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "38049b62-c0c4-48aa-bc0e-865dfd568c8e"
+    },
+    {
+      "order": 2,
+      "title": "Finantsinspektsiooni seaduse ja teiste seaduste muutmise seaduse eelnõu (326 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "79f54fdb-abb2-4a79-b0aa-fca1832facea"
+    },
+    {
+      "order": 3,
+      "title": "Alkoholi-, tubaka-, kütuse- ja elektriaktsiisi seaduse muutmise seaduse eelnõu (297 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4b0b6770-5f7a-4253-aee7-29fc98539b42"
+    },
+    {
+      "order": 4,
+      "title": "Euroopa Komisjoni Eesti esinduse ülevaade Euroopa poolaasta protsessist;",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b9e9bb0a-80b0-4393-9798-499738effe69"
+    },
+    {
+      "order": 5,
+      "title": "Rahandusministeeriumi ülevaade Taaskäivitamise kava (RRP) hetkeseisust.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "096f81ec-7d49-4827-8526-4ec290a6e50b"
+    },
+    {
+      "order": 6,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fea111d4-1e29-4c34-aa21-c909180709b5"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 15.02.2021",
+      "uuid": "db50d568-34a5-4764-94fc-1186c386e150",
+      "files": [
+        "RAM_slaidid_RRF_15_02_2021.pdf",
+        "EKom_Eesti_esind_15_02_2021_Euroopa_poolaasta.pdf",
+        "RAHK_protokoll_15.02.2021.asice",
+        "RAHK_protokoll_117_15_02_2021.docx"
+      ]
+    }
+  ],
+  "uuid": "9da62b49-6b1e-4d52-963b-c457f8638754",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9da62b49-6b1e-4d52-963b-c457f8638754)",
+  "source": "https://api.riigikogu.ee/api/volumes/9da62b49-6b1e-4d52-963b-c457f8638754",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-02-01&endDate=2021-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
