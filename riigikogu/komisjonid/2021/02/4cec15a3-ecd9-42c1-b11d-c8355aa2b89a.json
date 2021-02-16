@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni avalik istung teisipäev, 16.02.2021 kell 14.00",
+  "sitting_time": "2021-02-16T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Jätkuarutelu COVID-19 vaktsineerimise plaani täitmisest Eestis",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f627936a-d6e0-479b-bdae-2ede34c597a8"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e9390a93-0e56-4a2d-9960-68fd8905bf00"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "SOTK protokoll 16.02.2021",
+      "uuid": "d38cb282-f92f-4430-9af7-177bc54e0b42",
+      "files": [
+        "SOTK_protokoll_16.02.2021.asice",
+        "Protokoll.pdf",
+        "Lisa_1.pdf"
+      ]
+    }
+  ],
+  "uuid": "4cec15a3-ecd9-42c1-b11d-c8355aa2b89a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 4cec15a3-ecd9-42c1-b11d-c8355aa2b89a)",
+  "source": "https://api.riigikogu.ee/api/volumes/4cec15a3-ecd9-42c1-b11d-c8355aa2b89a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-02-01&endDate=2021-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
