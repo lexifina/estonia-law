@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung teisipäev, 16.02.2021 kell 14.00",
+  "sitting_time": "2021-02-16T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Tulumaksuseaduse muutmise seaduse eelnõu (293 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "703b8cec-5a07-4a9d-9391-a714f5751f9d"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a013a073-274d-4bef-a973-6de6370ae191"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 16.02.2021",
+      "uuid": "52a569e6-2933-4cdd-95a4-e62a14685c65",
+      "files": [
+        "RAHK_protokoll_16.02.2021.asice",
+        "RAHK_protokoll_118_16_02_2021_.docx"
+      ]
+    }
+  ],
+  "uuid": "7be009a1-bb49-4806-abd0-e9b0f4baaecd",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7be009a1-bb49-4806-abd0-e9b0f4baaecd)",
+  "source": "https://api.riigikogu.ee/api/volumes/7be009a1-bb49-4806-abd0-e9b0f4baaecd",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-02-01&endDate=2021-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
