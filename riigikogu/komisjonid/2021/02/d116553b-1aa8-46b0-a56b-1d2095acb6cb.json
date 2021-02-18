@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni erakorraline istung neljapäev, 18.02.2021 kell 14.10",
+  "sitting_time": "2021-02-18T14:10:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d198529c-b541-4085-82aa-036500fcaf73"
+    },
+    {
+      "order": 2,
+      "title": "Juhatusele ettepaneku tegemine oluliselt tähtsa riikliku küsimusena „COVID-19 vaktsineerimise korraldamine“",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "edbc708b-86fa-45ae-9919-0b19e79c3e1c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "SOTK protokoll 18.02.2021",
+      "uuid": "0894a2b0-31e6-4bde-8eb7-7935598be352",
+      "files": [
+        "SOTK_protokoll_18.02.2021.asice",
+        "Protokoll.pdf"
+      ]
+    }
+  ],
+  "uuid": "d116553b-1aa8-46b0-a56b-1d2095acb6cb",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d116553b-1aa8-46b0-a56b-1d2095acb6cb)",
+  "source": "https://api.riigikogu.ee/api/volumes/d116553b-1aa8-46b0-a56b-1d2095acb6cb",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-02-01&endDate=2021-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
