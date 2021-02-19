@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung reede, 19.02.2021 kell 10.00, videosild",
+  "sitting_time": "2021-02-19T10:02:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 22. veebruaril 2021 toimuval Euroopa Liidu välisasjade nõukogu istungil",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b2771fa6-883a-424f-a869-6b851a854b95"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "435ff559-b73b-41cf-ab33-82d1a80fd1ce"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 19.02.2021",
+      "uuid": "d4d5611e-4357-4aa4-98cb-25637a47d100",
+      "files": [
+        "VÄLK_protokoll_19.02.2021.asice",
+        "VÄLK_protokoll_19.02.2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "53966e8c-0a2f-4624-a2a1-87dbaab6f2d1",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 53966e8c-0a2f-4624-a2a1-87dbaab6f2d1)",
+  "source": "https://api.riigikogu.ee/api/volumes/53966e8c-0a2f-4624-a2a1-87dbaab6f2d1",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-02-01&endDate=2021-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
