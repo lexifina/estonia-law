@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung esmaspäev, 22.02.2021 pärast ühisistungi lõppu, videosild",
+  "sitting_time": "2021-02-22T11:39:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Arutelu Eesti ja Venemaa suhetest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6b6ffed2-7592-4455-a1eb-de8dd9915ca4"
+    },
+    {
+      "order": 2,
+      "title": "Informatsioon komisjoni liikmete tegevusest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7ba787c4-a518-4e97-8edc-9d161f08753f"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4d1fbf27-3995-4579-8c6c-8f30306ff3d0"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 22.02.2021",
+      "uuid": "172dc10e-5c7a-4425-abd1-baa733babc25",
+      "files": [
+        "VÄLK_protokoll_22.02.2021.asice",
+        "VÄLK_protokoll_22.02.2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "fb367875-1907-4ba9-a5c5-53f53bd396ef",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid fb367875-1907-4ba9-a5c5-53f53bd396ef)",
+  "source": "https://api.riigikogu.ee/api/volumes/fb367875-1907-4ba9-a5c5-53f53bd396ef",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-02-01&endDate=2021-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
