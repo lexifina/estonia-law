@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Riigikaitsekomisjoni ja väliskomisjoni ühine istung esmaspäev, 22.02.2021 kell 11.00",
+  "sitting_time": "2021-02-22T11:00:00",
+  "sitting_type": "UHISISTUNG",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7095ca18-6039-4c24-be35-a339dd3d2a43"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade 17.-18.02.2021 toimunud NATO kaitseministrite kohtumisest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1fd3e3f7-9c16-485c-9000-99e67fa17278"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RIKK ja VÄLK 22.02.2021 ühisistungi protokoll",
+      "uuid": "795f4f50-aa42-4a7a-9238-51e75e20e2c2",
+      "files": [
+        "Protokoll_22.02.2021.asice",
+        "Protokoll_20210222.pdf"
+      ]
+    }
+  ],
+  "uuid": "200b6fd1-57e0-4baa-8eb3-5d1e0ca1b000",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 200b6fd1-57e0-4baa-8eb3-5d1e0ca1b000)",
+  "source": "https://api.riigikogu.ee/api/volumes/200b6fd1-57e0-4baa-8eb3-5d1e0ca1b000",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-02-01&endDate=2021-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
