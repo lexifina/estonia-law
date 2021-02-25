@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung neljapäev, 25.02.2021 kell 08.30",
+  "sitting_time": "2021-02-25T08:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikontrolli kontrolliaruande tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d3ae9b10-1f25-4573-a0f5-b8103a341187"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli kontrolliaruande tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cdb7d03b-da7f-4f91-be65-baaddcb7467f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 25.02.2021",
+      "uuid": "3e70f98c-3ad9-4719-b0c0-adf1be05ece1",
+      "files": [
+        "REKK_protokoll_25.02.2021.asice",
+        "Protokoll_nr_59._25.02.2021._.pdf"
+      ]
+    }
+  ],
+  "uuid": "1d7e222c-4651-43c6-bacc-9b28c55d815b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 1d7e222c-4651-43c6-bacc-9b28c55d815b)",
+  "source": "https://api.riigikogu.ee/api/volumes/1d7e222c-4651-43c6-bacc-9b28c55d815b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-02-01&endDate=2021-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
