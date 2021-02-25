@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Korruptsioonivastane erikomisjon",
+  "committee_uuid": "e4f2977a-e8c3-4fa0-8f3d-9df9acd6377f",
+  "title": "Komisjoni istung neljapäev, 25.02.2021 kell 12.00",
+  "sitting_time": "2021-02-25T12:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Korruptsioonivastaste meetmete rakendamine Haridus- ja Teadusministeeriumis  ning teistes ministeeriumides",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "01d3c5c7-fa48-4d31-aade-13e406f432da"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "aa457ee0-062a-43e3-a842-b7d46c541e17"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KVEK protokoll 25.02.2021",
+      "uuid": "257b6a0f-6bd8-48c8-a767-31141fc02937",
+      "files": [
+        "riigivara_kasutamise_kontrollimeetmed_Nelson.pptx",
+        "KVEK_protokoll_25.02.2021.asice",
+        "KVEK_protokoll_25.02.2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "f704116d-0aef-4557-a40b-91cf9c07cc86",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f704116d-0aef-4557-a40b-91cf9c07cc86)",
+  "source": "https://api.riigikogu.ee/api/volumes/f704116d-0aef-4557-a40b-91cf9c07cc86",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-02-01&endDate=2021-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
