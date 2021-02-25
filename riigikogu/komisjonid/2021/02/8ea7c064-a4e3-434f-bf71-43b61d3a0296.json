@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung neljapäev, 25.02.2021 kell 14.00",
+  "sitting_time": "2021-02-25T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "RMK ja KIKi nõukogu liikmete nimetamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0d65e670-0b10-42d5-97c8-bf22794069b2"
+    },
+    {
+      "order": 2,
+      "title": "Metsandusalane arutelu RMK juhatuse liikmetega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a65d8167-7beb-47f5-a55c-b9b523f45718"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d7cf15ed-695e-4c6c-bba7-10bf48662371"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK protokoll 25.02.2021",
+      "uuid": "432dd34f-bad8-4a41-a901-579c5b9845c2",
+      "files": [
+        "KEKK_protokoll_25.02.2021.asice",
+        "KEKK_protokoll_25.02.2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "8ea7c064-a4e3-434f-bf71-43b61d3a0296",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8ea7c064-a4e3-434f-bf71-43b61d3a0296)",
+  "source": "https://api.riigikogu.ee/api/volumes/8ea7c064-a4e3-434f-bf71-43b61d3a0296",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-02-01&endDate=2021-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
