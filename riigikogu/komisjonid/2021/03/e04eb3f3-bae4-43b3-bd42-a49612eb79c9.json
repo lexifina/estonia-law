@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni erakorraline istung esmaspäev, 01.03.2021 kell 10.00",
+  "sitting_time": "2021-03-01T10:00:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Erakorralise istungi päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1f04b919-3ca6-4c99-89fd-b6980e46fe8c"
+    },
+    {
+      "order": 2,
+      "title": "Põllumajandussektorile eraldatud lisatoetused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7b6dd0fb-0220-462c-9cee-8c466b2066ed"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6f311be4-f7bd-45d8-894d-f2ae9673677a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 01.03.2021",
+      "uuid": "dec4d739-2afb-48d0-8d99-96d7e4d02c57",
+      "files": [
+        "MAEK_protokoll_01.03.2021.asice",
+        "090_protokolli_lisa_MeM_esitlus_Erakorraline_toetus.pdf",
+        "090_protokoll_01.03.2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "e04eb3f3-bae4-43b3-bd42-a49612eb79c9",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e04eb3f3-bae4-43b3-bd42-a49612eb79c9)",
+  "source": "https://api.riigikogu.ee/api/volumes/e04eb3f3-bae4-43b3-bd42-a49612eb79c9",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-03-01&endDate=2021-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
