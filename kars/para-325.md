@@ -1,6 +1,6 @@
 # § 325. Aine ja eseme ebaseaduslik üleandmine kinnipidamiskohas
 
-(1) Kinnipidamiskohas keelatud aine või eseme kinnipeetavale, arestialusele või vahistatule üleandmise eest –
+(1) Kinnipidamiskohas keelatud aine või eseme kinnipeetavale, arestialusele, vahistatule või muule kinnipidamiskohas kinni peetavale isikule üleandmise eest –
 
 karistatakse rahatrahviga kuni kolmsada trahviühikut või arestiga.
 
