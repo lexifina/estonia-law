@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung esmaspäev, 8.03.2021 kell 11.15",
+  "sitting_time": "2021-03-08T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fd558c2a-20b4-4a0f-b64a-911303afb6bf"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad käibemaksudirektiivi (direktiiv 2006/112/EÜ) muutmiseks Euroopa Komisjonile rakendusvolituse andmise kohta - COM(2020) 749 (1-2/20-886/3)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "90acc3b5-3365-4b34-ad32-13a394fa4caa"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "aa53c0e0-e60e-48de-8698-e3f61c6c6771"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 08.03.2021",
+      "uuid": "fdb58ef5-4cc1-46ff-9ac1-4c1d516bcd70",
+      "files": [
+        "RAHK_protokoll_08.03.2021.asice",
+        "RAHK_protokoll_120_08_03_2021.docx"
+      ]
+    }
+  ],
+  "uuid": "1ecd1205-6368-46f6-ae53-7b9328d03d73",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 1ecd1205-6368-46f6-ae53-7b9328d03d73)",
+  "source": "https://api.riigikogu.ee/api/volumes/1ecd1205-6368-46f6-ae53-7b9328d03d73",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-03-01&endDate=2021-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
