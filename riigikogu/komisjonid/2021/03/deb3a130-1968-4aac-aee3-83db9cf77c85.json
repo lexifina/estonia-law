@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung esmaspäev, 8.03.2021 kell 11.15",
+  "sitting_time": "2021-03-08T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6732434c-a8c8-466e-b366-459f60603abe"
+    },
+    {
+      "order": 2,
+      "title": "Arutelu lobitöö reeglitest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "603fa070-1d23-4c0f-92f1-734b7a64ffd7"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ÕIGK protokoll 08.03.2021",
+      "uuid": "6b1cfe67-1fbd-48a0-9e6a-700169f8fdb8",
+      "files": [
+        "Õiguskomisjoni_08.03.2021_istungi_protokoll.pdf",
+        "ÕIGK_protokoll_08.03.2021.asice"
+      ]
+    }
+  ],
+  "uuid": "deb3a130-1968-4aac-aee3-83db9cf77c85",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid deb3a130-1968-4aac-aee3-83db9cf77c85)",
+  "source": "https://api.riigikogu.ee/api/volumes/deb3a130-1968-4aac-aee3-83db9cf77c85",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-03-01&endDate=2021-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
