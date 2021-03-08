@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung esmaspäev, 8.03.2021 kell 13.30",
+  "sitting_time": "2021-03-08T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d0fe1a97-b1ed-457c-af63-27c329ad73a2"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad 11.-12. märtsil 2021 toimuval Euroopa Liidu justiits- ja siseküsimuste nõukogu mitteametlikul videokohtumisel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0b8a7845-872f-44c5-8399-988ef6aa207c"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "87e58831-4913-43ea-a39a-7294b2d30ac2"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ELAK protokoll 08.03.2021",
+      "uuid": "ad64f249-2f7e-4ba6-96a5-873d44a51d26",
+      "files": [
+        "ELAK_protokoll_08.03.2021.asice",
+        "ELAK_protokoll_8.03.2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "e91c2a72-1ed7-402f-939b-62934262c33a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e91c2a72-1ed7-402f-939b-62934262c33a)",
+  "source": "https://api.riigikogu.ee/api/volumes/e91c2a72-1ed7-402f-939b-62934262c33a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-03-01&endDate=2021-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
