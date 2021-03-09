@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung teisipäev, 9.03.2021 kell 14.00",
+  "sitting_time": "2021-03-09T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade teise pensionisamba fondimaksetest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4713e082-d535-40ca-84fb-5670c68fef90"
+    },
+    {
+      "order": 2,
+      "title": "Kollektiivse pöördumise „Ei katuseraha jagamisele abordivastasele liikumisele“ arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b6bdbfd8-ad0d-46cd-8764-98dba0b7e5a3"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7b1d983e-3dca-4832-847e-c578892b0ddf"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 09.03.2021",
+      "uuid": "31d4fda5-1632-40ad-9c30-5107feb745ea",
+      "files": [
+        "RAHK_protokoll_09.03.2021.asice",
+        "RAHK_protokoll_121_09_03_2021.docx"
+      ]
+    }
+  ],
+  "uuid": "e9540d3a-d2b8-4f71-b77c-a0227a734aa6",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e9540d3a-d2b8-4f71-b77c-a0227a734aa6)",
+  "source": "https://api.riigikogu.ee/api/volumes/e9540d3a-d2b8-4f71-b77c-a0227a734aa6",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-03-01&endDate=2021-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
