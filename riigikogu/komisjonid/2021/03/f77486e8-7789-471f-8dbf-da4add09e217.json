@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 9.03.2021 kell 14.00",
+  "sitting_time": "2021-03-09T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kollektiivne pöördumine AITAB! Rahvaalgatus Loomakaitseseaduse ja sellega seonduvate õigusaktide muutmiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f5fa2b1e-b680-4ea4-93ce-c14a46e5fb10"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "49fb3e59-b831-403c-8670-1630e1d3404a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 09.03.2021",
+      "uuid": "b4e59676-0aad-4229-99ff-8cecfb8db4c0",
+      "files": [
+        "MAEK_protokoll_09.03.2021.asice",
+        "092_protokolli_lisa_MEM_ettekanne.pdf",
+        "092_protokoll_09.03.2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "f77486e8-7789-471f-8dbf-da4add09e217",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f77486e8-7789-471f-8dbf-da4add09e217)",
+  "source": "https://api.riigikogu.ee/api/volumes/f77486e8-7789-471f-8dbf-da4add09e217",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-03-01&endDate=2021-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
