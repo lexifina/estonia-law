@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni avalik istung neljapäev, 11.03.2021 kell 14.00",
+  "sitting_time": "2021-03-11T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "„Keda puudutab kuulmislangus? WHO ülemaailmne kuulmispäev.“",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bb725108-1afc-4906-9399-07e231ef4d62"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2d22096b-e92a-4a66-8450-fbfae98f92f2"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "SOTK protokoll 11.03.2021",
+      "uuid": "2305493f-3345-42ca-b9d5-60d190cd1d07",
+      "files": [
+        "SOTK_protokoll_11.03.2021.asice",
+        "Protokoll.pdf",
+        "Lisa_6_(A.Kiik_SKA).pdf",
+        "Lisa_5_(K.Bode_Vaegkuuljate_Liit).pdf",
+        "Lisa_4_(E.Müil_Implantaadilaste_Selts).pdf",
+        "Lisa_3_(L._Luht_ Eesti Audioloogia Selts).pdf",
+        "Lisa_2_(M.Lepplaan_Eesti_Audioloogia_Selts).pdf",
+        "Lisa_1_(K.Köhler_WHO).pdf"
+      ]
+    }
+  ],
+  "uuid": "a0bd2088-a5fe-4a42-a752-486e36f01bb6",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a0bd2088-a5fe-4a42-a752-486e36f01bb6)",
+  "source": "https://api.riigikogu.ee/api/volumes/a0bd2088-a5fe-4a42-a752-486e36f01bb6",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-03-01&endDate=2021-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
