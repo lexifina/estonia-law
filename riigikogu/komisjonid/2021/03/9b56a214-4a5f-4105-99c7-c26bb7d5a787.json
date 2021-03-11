@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Korruptsioonivastane erikomisjon",
+  "committee_uuid": "e4f2977a-e8c3-4fa0-8f3d-9df9acd6377f",
+  "title": "Komisjoni istung neljapäev, 11.03.2021 kell 09.00",
+  "sitting_time": "2021-03-11T09:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine riigi peaprokurör Andres Parmasega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0feca6b5-d428-4761-94d7-b2c66d874546"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "10b5ece9-123d-492c-9fe0-ede022db2dd7"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KVEK protokoll 11.03.2021",
+      "uuid": "155a1870-dfba-4004-b868-5fbbc6beaaa4",
+      "files": [
+        "KVEK_protokoll_11.03.2021.asice",
+        "KVEK_protokoll__11.03.2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "9b56a214-4a5f-4105-99c7-c26bb7d5a787",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9b56a214-4a5f-4105-99c7-c26bb7d5a787)",
+  "source": "https://api.riigikogu.ee/api/volumes/9b56a214-4a5f-4105-99c7-c26bb7d5a787",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-03-01&endDate=2021-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
