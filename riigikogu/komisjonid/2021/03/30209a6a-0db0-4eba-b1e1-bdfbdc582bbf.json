@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung neljapäev, 11.03.2021 kell 08.30",
+  "sitting_time": "2021-03-11T08:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikontrolli kontrolliaruande tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "feb4c5b1-3c69-4ac0-a40e-aed760ce336f"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli kontrolliaruande tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a688f4f7-5858-460a-a503-d4507487af11"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 11.03.2021",
+      "uuid": "1719883a-ad06-4ea8-bff3-0a06f6c292fb",
+      "files": [
+        "Protokoll_nr_61._11.03.2021._.pdf",
+        "REKK_protokoll_11.03.2021.asice",
+        "volitusReneKokk.docx"
+      ]
+    }
+  ],
+  "uuid": "30209a6a-0db0-4eba-b1e1-bdfbdc582bbf",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 30209a6a-0db0-4eba-b1e1-bdfbdc582bbf)",
+  "source": "https://api.riigikogu.ee/api/volumes/30209a6a-0db0-4eba-b1e1-bdfbdc582bbf",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-03-01&endDate=2021-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
