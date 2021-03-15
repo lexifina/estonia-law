@@ -1,0 +1,54 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung esmaspäev, 15.03.2021 kell 11.10",
+  "sitting_time": "2021-03-15T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8ca4a093-31d1-49f6-a928-32e0ef0f1aa9"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud elektrituruseaduse täiendamise seaduse eelnõu (344 SE) arutelu esimesele lugemisele saatmiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "96850f9d-3326-4726-8694-86bf8e374514"
+    },
+    {
+      "order": 3,
+      "title": "Vabariigi Valitsuse algatatud elektroonilise side seaduse, ehitusseadustiku ja riigilõivuseaduse muutmise seaduse eelnõu (301 SE) arutelu esimesele lugemisele saatmiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4bb4b6fd-b56e-43a7-ae50-c2cbd52949e0"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "99896cf4-da2f-4d54-a737-26a289a2ef98"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAJK protokoll nr 104 15.03.2021",
+      "uuid": "4ea7ff60-523d-4a72-a9b1-017bd62fe823",
+      "files": [
+        "ESS_muutmise_seadus_märts2021.pdf",
+        "MAJK_protokoll_nr_104_15.03.2021.asice",
+        "MAJK_protokoll_nr_104_15.03.2021.pdf",
+        "344SE_MAJK_15.03.2021_komisjoni.pdf"
+      ]
+    }
+  ],
+  "uuid": "f337c488-c849-48b2-b61d-059eb30d0dff",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f337c488-c849-48b2-b61d-059eb30d0dff)",
+  "source": "https://api.riigikogu.ee/api/volumes/f337c488-c849-48b2-b61d-059eb30d0dff",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-03-01&endDate=2021-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
