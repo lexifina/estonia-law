@@ -1,0 +1,49 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 15.03.2021 kell 13.15",
+  "sitting_time": "2021-03-15T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c13120dc-7675-405f-bebc-5884584a93be"
+    },
+    {
+      "order": 2,
+      "title": "Olukord koroonaviiruse tõkestamisel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "094bbd05-9dbc-4c0a-ad37-c6612cf1b422"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5a3b8b84-61af-45ed-96f3-4174ee450d2f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 15.03.2021",
+      "uuid": "de180dba-fb10-4da0-bfa2-4fd700a5b254",
+      "files": [
+        "REKK_protokoll_15.03.2021.asice",
+        "Protokoll_nr_62._15.03.2021._.pdf",
+        "Asendusliige_J._Ossinovski_15032021.docx",
+        "PERH_ja_PÕMS_Covid_ülevaade_15.03.2021_REEK_istung.pptx",
+        "US_RK_REKK_2021.03.15.pdf"
+      ]
+    }
+  ],
+  "uuid": "f5e72dd3-9061-468e-bb6c-cf4bbb7a9584",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f5e72dd3-9061-468e-bb6c-cf4bbb7a9584)",
+  "source": "https://api.riigikogu.ee/api/volumes/f5e72dd3-9061-468e-bb6c-cf4bbb7a9584",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-03-01&endDate=2021-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
