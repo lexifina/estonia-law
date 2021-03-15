@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Korruptsioonivastane erikomisjon",
+  "committee_uuid": "e4f2977a-e8c3-4fa0-8f3d-9df9acd6377f",
+  "title": "Komisjoni istung esmaspäev, 15.03.2021 kell 13.30",
+  "sitting_time": "2021-03-15T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "73425fd4-eca0-4a55-a0d2-f6550c24a722"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine komisjoni partneritega: Justiitsministeerium, Erakondade Rahastamise Järelevalve Komisjon ja MTÜ Korruptsioonivaba Eesti",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ef047dfa-1a0b-4d0d-b070-f2946020eb88"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "41017f85-588f-4081-b09f-323b25574083"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KVEK protokoll 15.03.2021",
+      "uuid": "41442a75-868e-4062-93cb-b47613e46385",
+      "files": [
+        "KVEK_protokoll_15.03.2021.asice",
+        "KVEK_protokoll_15.03.2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "cdcbe174-6fb3-4c44-9cfd-d5c161ad7cf0",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid cdcbe174-6fb3-4c44-9cfd-d5c161ad7cf0)",
+  "source": "https://api.riigikogu.ee/api/volumes/cdcbe174-6fb3-4c44-9cfd-d5c161ad7cf0",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-03-01&endDate=2021-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
