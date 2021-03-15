@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung esmaspäev, 15.03.2021 kell 11.15",
+  "sitting_time": "2021-03-15T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0fa7fe85-30db-48e8-8edf-dc3c03edc07f"
+    },
+    {
+      "order": 2,
+      "title": "Täitemenetluse seadustiku ja kohtutäituri seaduse muutmise ning sellega seonduvalt teiste seaduste muutmise seaduse eelnõu (291 SE II)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "954c59ab-9f80-4b8f-852e-d3d832949352"
+    },
+    {
+      "order": 3,
+      "title": "Eesti seisukohad Euroopa Parlamendi ja nõukogu määruse, milles käsitletakse arvutipõhist süsteemi piiriüleste tsiviil- ja kriminaalmenetluste andmete vahetamiseks (e-CODEX süsteem), eelnõu kohta - COM(2020) 712",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a1288398-73c2-48ab-a23a-074886ac8986"
+    },
+    {
+      "order": 4,
+      "title": "Eesti seisukohad Prümi raamistiku alusel toimuva õiguskaitseasutuste automatiseeritud andmevahetuse tugevdamise avaliku konsultatsiooni kohta.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8a662942-eb06-428b-9ff6-c906b1fe73f9"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ÕIGK protokoll 15.03.2021",
+      "uuid": "fd178cf9-a019-4819-aea6-e081d180c117",
+      "files": [
+        "ÕIGK_protokoll_15.03.2021.asice",
+        "Õiguskomisjoni_15.03.2021_istungi_protokoll.pdf"
+      ]
+    }
+  ],
+  "uuid": "ab530da8-5be4-4c16-a7a8-8c895f78279d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ab530da8-5be4-4c16-a7a8-8c895f78279d)",
+  "source": "https://api.riigikogu.ee/api/volumes/ab530da8-5be4-4c16-a7a8-8c895f78279d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-03-01&endDate=2021-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
