@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Euroopa Liidu asjade komisjoni ja väliskomisjoni ühine istung esmaspäev, 15.03.2021 kell 13.15",
+  "sitting_time": "2021-03-15T13:15:00",
+  "sitting_type": "UHISISTUNG",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Euroopa Liidu asjade komisjoni nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d7803cdf-dbe4-49c8-b289-47b6bf13d55c"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad 15. märtsil 2021 toimuval sise- ja välisministrite mitteametlikul videokohtumisel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "31327f7d-6b42-498f-9eac-b0fd62dfa940"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 15.03.2021",
+      "uuid": "159710a9-c727-4ece-8512-9dd0ae0ed804",
+      "files": [
+        "Protokoll_15.03.2021.asice",
+        "ELAK_&_VÄLK_protokoll_15.03.2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "ccfcb185-5950-44ef-ac0a-c4dacbfd3efd",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ccfcb185-5950-44ef-ac0a-c4dacbfd3efd)",
+  "source": "https://api.riigikogu.ee/api/volumes/ccfcb185-5950-44ef-ac0a-c4dacbfd3efd",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-03-01&endDate=2021-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
