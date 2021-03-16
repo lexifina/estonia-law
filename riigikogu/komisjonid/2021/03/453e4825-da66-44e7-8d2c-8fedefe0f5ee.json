@@ -1,0 +1,42 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung teisipäev, 16.03.2021 kell 14.00",
+  "sitting_time": "2021-03-16T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "OECD ülevaade \"Inimeste kokku viimine töökohtadega: aktiivse tööturupoliitika pakkumise parandamine Eestis\"",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "941125ce-196c-420a-960a-874b7ebddfb1"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "29e061fa-0b44-4a80-9685-734048226045"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "SOTK protokoll 16.03.2021",
+      "uuid": "892438b2-ac1c-4c78-bb9c-1b03290b196b",
+      "files": [
+        "SOTK_protokoll_16.03.2021.asice",
+        "Protokoll.pdf",
+        "Lisa_2.pdf",
+        "Lisa_1.pdf"
+      ]
+    }
+  ],
+  "uuid": "453e4825-da66-44e7-8d2c-8fedefe0f5ee",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 453e4825-da66-44e7-8d2c-8fedefe0f5ee)",
+  "source": "https://api.riigikogu.ee/api/volumes/453e4825-da66-44e7-8d2c-8fedefe0f5ee",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-03-01&endDate=2021-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
