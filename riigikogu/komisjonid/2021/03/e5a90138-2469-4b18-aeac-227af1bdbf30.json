@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung teisipäev, 16.03.2021 kell 14.00",
+  "sitting_time": "2021-03-16T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Maksu-ja Tolliameti esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ee64a55c-aba3-45aa-8011-67791c100308"
+    },
+    {
+      "order": 2,
+      "title": "Finantsinspektsiooni seaduse ja teiste seaduste muutmise seaduse eelnõu (326 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5cee4b81-c527-4abe-bca6-d0fab5dd5eb2"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c56b927a-8d0e-462f-abae-aa64df32482d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 16.03.2021",
+      "uuid": "1520fd51-4347-435a-ac0b-44d5126495a2",
+      "files": [
+        "RAHK_protokoll_16.03.2021.asice",
+        "RAHK_protokoll_123_16_03_2021.pdf",
+        "MTA_ettekanne_16.03.2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "e5a90138-2469-4b18-aeac-227af1bdbf30",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e5a90138-2469-4b18-aeac-227af1bdbf30)",
+  "source": "https://api.riigikogu.ee/api/volumes/e5a90138-2469-4b18-aeac-227af1bdbf30",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-03-01&endDate=2021-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
