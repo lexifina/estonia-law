@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung teisipäev, 16.03.2021 kell 14.01, videosild",
+  "sitting_time": "2021-03-16T14:01:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade Eesti ja Hiina suhetest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ac69d153-a688-4fe7-b3da-034639ca88ed"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade arengutest Ukrainas",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "08311ebd-76b6-4f51-9893-26146f61545e"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7c048715-dd5a-4cd9-9464-57350d42b25a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 16.03.2021",
+      "uuid": "ac11d21d-778f-46a2-8787-ce8d4c198fa4",
+      "files": [
+        "VÄLK_protokoll_16.03.2021.asice",
+        "VÄLK_protokoll_16.03.2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "c8a08a6f-c4f4-470d-89ec-c1d9b2b44fb0",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c8a08a6f-c4f4-470d-89ec-c1d9b2b44fb0)",
+  "source": "https://api.riigikogu.ee/api/volumes/c8a08a6f-c4f4-470d-89ec-c1d9b2b44fb0",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-03-01&endDate=2021-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
