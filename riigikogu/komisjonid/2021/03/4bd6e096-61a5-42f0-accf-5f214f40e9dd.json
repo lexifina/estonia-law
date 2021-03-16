@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung teisipäev, 16.03.2021 kell 14.00",
+  "sitting_time": "2021-03-16T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Raporti vääriselupaikade hävimisest riigimetsas tutvustamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f1bc0c2a-fe0e-494f-a25b-9daee311b7dc"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "708b7d23-dfb5-4ecc-9481-ff4d2b49d304"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK protokoll 16.03.2021",
+      "uuid": "d601b91e-3bc3-469d-adac-d5e80e8b596f",
+      "files": [
+        "KEKK_protokoll_16.03.2021.asice",
+        "KEKK_protokoll_16.03.2021.pdf",
+        "Kuhu_kaovad_meie_vanad_elurikkad_metsad.pdf"
+      ]
+    }
+  ],
+  "uuid": "4bd6e096-61a5-42f0-accf-5f214f40e9dd",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 4bd6e096-61a5-42f0-accf-5f214f40e9dd)",
+  "source": "https://api.riigikogu.ee/api/volumes/4bd6e096-61a5-42f0-accf-5f214f40e9dd",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-03-01&endDate=2021-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
