@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung teisipäev, 16.03.2021 kell 14.00",
+  "sitting_time": "2021-03-16T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikaitsekomisjoni algatatud olulise tähtsusega riiklik küsimus „Riigi sõjalise kaitse jätkusuutlik areng\"",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "be3f8b34-f6aa-4d7f-96c6-bd40418fb8cd"
+    },
+    {
+      "order": 2,
+      "title": "Kaitseväeteenistuse seaduse § 15 muutmise seaduse eelnõu (324 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "535a29e3-f2ac-47a3-90d9-8c7e01418c7b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RIKK 16.03.21 protokoll",
+      "uuid": "82686bcf-b993-4bca-a501-4d51597ba8a4",
+      "files": [
+        "Riigikaitsekomisjon_asendus_16.03.21.asice",
+        "Protokoll_nr_107__16.03.21.pdf",
+        "RIKK_16.03.21_protokoll.asice"
+      ]
+    }
+  ],
+  "uuid": "e985a46a-7124-4e6b-a92d-e769639a7e99",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e985a46a-7124-4e6b-a92d-e769639a7e99)",
+  "source": "https://api.riigikogu.ee/api/volumes/e985a46a-7124-4e6b-a92d-e769639a7e99",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-03-01&endDate=2021-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
