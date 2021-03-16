@@ -1,0 +1,48 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung teisipäev, 16.03.2021 kell 14.00",
+  "sitting_time": "2021-03-16T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Arvamuse andmine Euroopa Liidu asjade komisjonile: Eesti seisukohad Euroopa Liidu transpordistrateegia „Säästev ja arukas liikuvus“ kohta",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "11abed72-6738-4416-953c-0f54e4fc65c0"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade 2021. aasta teedeehituse objektidest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3d44515b-41c9-493a-aac1-af3113e04b15"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f81c9900-351b-42ff-8ef7-ab9c9ec8ecfd"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAJK protokoll nr 105 16.03.2021",
+      "uuid": "80f6a720-44dc-4b6a-9fba-814f0ab6cf41",
+      "files": [
+        "MAJK_protokoll_nr_105_16.03.2021.asice",
+        "Lisa_2_(2+2_projektid).pdf",
+        "Lisa_1_(ülevaade_teedehituse_objektidest).pdf",
+        "MAJK_protokoll_nr_105_16.03.2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "3a36e6db-95f5-43c7-8115-b4d7a6060a20",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3a36e6db-95f5-43c7-8115-b4d7a6060a20)",
+  "source": "https://api.riigikogu.ee/api/volumes/3a36e6db-95f5-43c7-8115-b4d7a6060a20",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-03-01&endDate=2021-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
