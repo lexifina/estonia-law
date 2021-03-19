@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung reede, 19.03.2021 kell 10.00, videosild",
+  "sitting_time": "2021-03-19T10:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vaktsiinidiplomaatia ja mõjutustegevus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f6fde1c8-7f70-41bb-a2d0-b2375a685aa1"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad 22. märtsil 2021 Brüsselis toimuval Euroopa Liidu välisasjade nõukogu istungil",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4fdd227d-d1a1-41df-a3e7-ec72cf85dcd7"
+    },
+    {
+      "order": 3,
+      "title": "Eesti seisukohad 23.-24 märtsil 2021 Brüsselis toimuval NATO välisministrite kohtumisel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d7b76278-16a0-49aa-95e2-5bda665923e8"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "56ed1c56-c59b-4a5b-b2c9-404a96808dd4"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 19.03.2021",
+      "uuid": "7884764a-f753-41da-8d16-30a02df03a6a",
+      "files": [
+        "VÄLK_protokoll_19.03.2021.asice",
+        "VÄLK_protokoll_19.03.2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "27afa6b5-eaff-40b2-b526-774af5f1fe24",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 27afa6b5-eaff-40b2-b526-774af5f1fe24)",
+  "source": "https://api.riigikogu.ee/api/volumes/27afa6b5-eaff-40b2-b526-774af5f1fe24",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-03-01&endDate=2021-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
