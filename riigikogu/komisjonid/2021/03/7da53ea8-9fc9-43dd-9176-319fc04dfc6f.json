@@ -1,0 +1,54 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung esmaspäev, 22.03.2021 kell 12.00",
+  "sitting_time": "2021-03-22T12:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8520a67d-2675-4dc8-a15c-ab74c610e32a"
+    },
+    {
+      "order": 2,
+      "title": "Atmosfääriõhu kaitse seaduse muutmise seaduse eelnõu (345 SE) ettevalmistamine esimeseks lugemiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d44a1633-5946-44ca-b015-842054a636b2"
+    },
+    {
+      "order": 3,
+      "title": "Ülevaade Keskkonnaministeeriumi kavandatavatest ettepanekutest riigi eelarvestrateegiasse",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9d68869c-e65d-40a7-ba5c-ec6c5f6bae83"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "23ae5e67-0234-4752-b467-d9146be0d605"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK protokoll 22.03.2021",
+      "uuid": "534681ad-8f87-461b-9c86-139ad9975764",
+      "files": [
+        "KeM_ettepanekud_riigi_eelarvestrateegiasse_22_03_2021_KK.pdf",
+        "KEKK_protokoll_22.03.2021.asice",
+        "KEKK_protokoll_22.03.2021.pdf",
+        "22032021_AÕKS_muudatused_keskkonnakomisjonile_v.pdf"
+      ]
+    }
+  ],
+  "uuid": "7da53ea8-9fc9-43dd-9176-319fc04dfc6f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7da53ea8-9fc9-43dd-9176-319fc04dfc6f)",
+  "source": "https://api.riigikogu.ee/api/volumes/7da53ea8-9fc9-43dd-9176-319fc04dfc6f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-03-01&endDate=2021-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
