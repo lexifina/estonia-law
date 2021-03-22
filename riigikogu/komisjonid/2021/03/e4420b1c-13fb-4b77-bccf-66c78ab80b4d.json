@@ -1,0 +1,59 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Korruptsioonivastane erikomisjon",
+  "committee_uuid": "e4f2977a-e8c3-4fa0-8f3d-9df9acd6377f",
+  "title": "Komisjoni istung esmaspäev, 22.03.2021 kell 13.30",
+  "sitting_time": "2021-03-22T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f111967c-fa1e-48de-97f3-8342e4710d59"
+    },
+    {
+      "order": 2,
+      "title": "15. märtsi 2021 avaliku istungi järgsed otsused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "85b67ad6-16aa-4216-9b92-549e9cfc1ed0"
+    },
+    {
+      "order": 3,
+      "title": "Euroopa Liidu vahendite jagamise (sh otsetoetuste ja investeeringukavade) läbipaistvus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e20e8c38-7e8d-4fa4-8414-a8b024fe2b1c"
+    },
+    {
+      "order": 4,
+      "title": "Komisjoni aprilli töökavast",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2845db1e-0ec9-4aba-920a-310e4062e28b"
+    },
+    {
+      "order": 5,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f0f85271-7f6e-4447-a09d-6e5fee5367ed"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KVEK protokoll 22.03.2021",
+      "uuid": "fff5e489-410c-4a4b-a176-bdd9d1f4a994",
+      "files": [
+        "RTK_slaidid_22.03.2021.pdf",
+        "KVEK_protokoll_22.03.2021.asice",
+        "KVEK_protokoll_22.03.2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "e4420b1c-13fb-4b77-bccf-66c78ab80b4d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e4420b1c-13fb-4b77-bccf-66c78ab80b4d)",
+  "source": "https://api.riigikogu.ee/api/volumes/e4420b1c-13fb-4b77-bccf-66c78ab80b4d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-03-01&endDate=2021-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
