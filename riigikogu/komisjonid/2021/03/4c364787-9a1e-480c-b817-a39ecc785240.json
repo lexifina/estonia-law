@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung esmaspäev, 22.03.2021 kell 11.15",
+  "sitting_time": "2021-03-22T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0244a143-8f0f-4625-b8e4-4fcdcbd9b820"
+    },
+    {
+      "order": 2,
+      "title": "Krediidiasutuste seaduse muutmise ja sellega seonduvalt teiste seaduste muutmise seaduse eelnõu (312 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2da77294-c666-4ff9-9644-1320f90eb079"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c50b45f1-1d0d-4d02-8448-16c5745ae01d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 22.03.2021",
+      "uuid": "fec5bb01-8167-4dc8-aa84-8ecaa199f012",
+      "files": [
+        "RAHK_protokoll_22.03.2021.asice",
+        "RAHK_protokoll_125_22_03_2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "4c364787-9a1e-480c-b817-a39ecc785240",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 4c364787-9a1e-480c-b817-a39ecc785240)",
+  "source": "https://api.riigikogu.ee/api/volumes/4c364787-9a1e-480c-b817-a39ecc785240",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-03-01&endDate=2021-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
