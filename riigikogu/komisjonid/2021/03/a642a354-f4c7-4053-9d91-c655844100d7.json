@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 22.03.2021 kell 11.10",
+  "sitting_time": "2021-03-22T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "78b67468-bde3-4041-99e8-4b80979e18a5"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine keskkonnaminister Tõnis Mölderiga",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ac202f22-7618-47d0-a1cb-9fd5e8cd82c2"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8afda13a-8730-48d8-9832-a5bdd7dcf8b4"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 22.03.2021",
+      "uuid": "0059b009-4d1c-4197-8835-bc1832d9903a",
+      "files": [
+        "MAEK_protokoll_22.03.2021.asice",
+        "095_protokoll_22.03.2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "a642a354-f4c7-4053-9d91-c655844100d7",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a642a354-f4c7-4053-9d91-c655844100d7)",
+  "source": "https://api.riigikogu.ee/api/volumes/a642a354-f4c7-4053-9d91-c655844100d7",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-03-01&endDate=2021-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
