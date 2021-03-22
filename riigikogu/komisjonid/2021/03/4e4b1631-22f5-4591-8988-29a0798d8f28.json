@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung esmaspäev, 22.03.2021 kell 12.00",
+  "sitting_time": "2021-03-22T12:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f90894ca-aaed-4921-9473-0cc9fa3b0122"
+    },
+    {
+      "order": 2,
+      "title": "Kaitseväeteenistuse seaduse § 15 muutmise seaduse eelnõu (324 SE II)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a1b37392-4d46-4bd0-9214-5bcffac389f7"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "150c648b-0b6f-4821-be25-17cca14cd86c"
+    },
+    {
+      "order": 4,
+      "title": "Eesti ja Läti rannikukaitse ühishange",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f1abf2fd-b541-40fc-ad1e-c0a15332a9b9"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RIKK 22.03.21 protokoll",
+      "uuid": "92665c64-0bc1-4e60-a82b-24eff486fe34",
+      "files": [
+        "RIKK_22.03.21_protokoll.asice",
+        "Protokoll_nr_108__22.03.2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "4e4b1631-22f5-4591-8988-29a0798d8f28",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 4e4b1631-22f5-4591-8988-29a0798d8f28)",
+  "source": "https://api.riigikogu.ee/api/volumes/4e4b1631-22f5-4591-8988-29a0798d8f28",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-03-01&endDate=2021-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
