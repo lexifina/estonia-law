@@ -1,0 +1,48 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 22.03.2021 kell 13.15",
+  "sitting_time": "2021-03-22T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "349a7154-01b9-4250-bf75-143a6e3b7a71"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli kontrolliaruande „Maakondlik ühistransport“ arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dc70869d-41ff-4e10-8677-dbe41f7e05c7"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "05e54cb0-57d5-4b3b-8c7d-71503c567790"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 22.03.2021",
+      "uuid": "8bcfc831-7981-4f4c-93ad-f4449e4c9714",
+      "files": [
+        "REKK_protokoll_22.03.2021.asice",
+        "Protokoll_nr_63._22.03.2021._.pdf",
+        "Asendusliige_H._Kütt_22032021.docx",
+        "80038_ühistransport_ETTEKANNE_20022020.pptx"
+      ]
+    }
+  ],
+  "uuid": "debd08d1-a00b-4e8f-bb73-b41f140047c1",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid debd08d1-a00b-4e8f-bb73-b41f140047c1)",
+  "source": "https://api.riigikogu.ee/api/volumes/debd08d1-a00b-4e8f-bb73-b41f140047c1",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-03-01&endDate=2021-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
