@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung teisipäev, 23.03.2021 kell 14.00, videosild",
+  "sitting_time": "2021-03-23T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kagu-Eesti elanike piiriülese liikumisega seotud probleemid",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "562d8c8d-2562-4f37-bf25-8f4c69704ea0"
+    },
+    {
+      "order": 2,
+      "title": "Eesti Vabariigi Riigikogu pöördumine Soome Vabariigi Eduskunta poole (322 PE) ettevalmistamine esimeseks lugemiseks – menetluslikud otsused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f3f06062-d430-4554-8313-2ac269b2f69a"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7bdd5ea9-a696-4b21-87c4-ccf849d8009e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 23.03.2021",
+      "uuid": "65d915e5-1c0e-4562-9c23-10a910fce000",
+      "files": [
+        "VÄLK_protokoll_23.03.2021.asice",
+        "VÄLK_protokoll_23.03.2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "078e1929-08ff-4a6b-b249-298dee825c6d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 078e1929-08ff-4a6b-b249-298dee825c6d)",
+  "source": "https://api.riigikogu.ee/api/volumes/078e1929-08ff-4a6b-b249-298dee825c6d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-03-01&endDate=2021-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
