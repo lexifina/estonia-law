@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 23.03.2021 kell 14.00",
+  "sitting_time": "2021-03-23T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade Rahandusministeeriumi tellitud toidukaupade hinnauuringust jaekaubanduskettides ja nende e-poodides: hinnavaatlus Eestis, Lätis ja Leedus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ff32a814-90c1-40fe-b81c-f483210cde98"
+    },
+    {
+      "order": 2,
+      "title": "info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "847c040b-dfb1-473b-943b-19dc187ea25c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 23.03.2021",
+      "uuid": "735c8161-05c3-44a9-b368-e7f3d3453db0",
+      "files": [
+        "MAEK_protokoll_23.03.2021.asice",
+        "096_protokolli_lisa_Toidukaupade_hinnauuringu_esitlus.pdf",
+        "096_protokoll_23.03.2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "0ce9d9b3-d079-4576-9272-47df00ef2468",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0ce9d9b3-d079-4576-9272-47df00ef2468)",
+  "source": "https://api.riigikogu.ee/api/volumes/0ce9d9b3-d079-4576-9272-47df00ef2468",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-03-01&endDate=2021-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
