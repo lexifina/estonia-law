@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Korruptsioonivastane erikomisjon",
+  "committee_uuid": "e4f2977a-e8c3-4fa0-8f3d-9df9acd6377f",
+  "title": "Komisjoni istung neljapäev, 25.03.2021 kell 10.45",
+  "sitting_time": "2021-03-25T10:45:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Komisjoni 15. märtsi 2021 avaliku istungi järeldused ja otsused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "153249be-251f-4b52-85ae-82c228fec068"
+    },
+    {
+      "order": 2,
+      "title": "Komisjoni aprilli töökavast",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4c618d95-3929-4265-9466-1eb85a6321fb"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6eda8bcf-8777-441a-b4b7-64a2149441ea"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KVEK protokoll 25.03.2021",
+      "uuid": "25521669-eaff-48c5-b617-be3302ecff65",
+      "files": [
+        "KVEK_protokoll_25.03.2021.asice",
+        "KVEK_protokoll_25.03.2021_erakorraline.pdf"
+      ]
+    }
+  ],
+  "uuid": "d706c191-a29a-4924-8b4a-2b24e2113382",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d706c191-a29a-4924-8b4a-2b24e2113382)",
+  "source": "https://api.riigikogu.ee/api/volumes/d706c191-a29a-4924-8b4a-2b24e2113382",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-03-01&endDate=2021-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
