@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung neljapäev, 25.03.2021 kell 14.00",
+  "sitting_time": "2021-03-25T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikontrolli ülevaate \"Olmejäätmete hulgas olevate biojäätmete ringlussevõtt\" ja auditi „Jäätmete taaskasutustoimingud prügilates ja järelevalve ladestamise üle“ aruannete tutvustamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a3460116-c880-4bfb-aeb7-5af275c33892"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b13c27aa-6d61-4ff8-b5db-b7420fc624ae"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK protokoll 25.03.2021",
+      "uuid": "cd7f233e-87db-47d1-ac30-8889a83e394d",
+      "files": [
+        "KEKK_protokoll_25.03.2021.asice",
+        "KKkom_250321_AAndresson_jäätmeauditid.pdf",
+        "KEKK_protokoll_25.03.2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "0a368a02-55a4-45c9-9d14-72711e7551b1",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0a368a02-55a4-45c9-9d14-72711e7551b1)",
+  "source": "https://api.riigikogu.ee/api/volumes/0a368a02-55a4-45c9-9d14-72711e7551b1",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-03-01&endDate=2021-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
