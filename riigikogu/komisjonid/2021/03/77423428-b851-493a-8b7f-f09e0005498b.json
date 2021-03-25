@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung neljapäev, 25.03.2021 kell 14.00",
+  "sitting_time": "2021-03-25T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Tervishoiuteenuste korraldamise seaduse muutmise seaduse eelnõu (355 SE) ettevalmistamine esimeseks lugemiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "528b23f7-70bb-49f3-9568-110704b5314e"
+    },
+    {
+      "order": 2,
+      "title": "Jätkuarutelu COVID-19 vaktsineerimisplaani täitmisest ja vaktsineerimine ajutistes keskustes",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a640fb20-5526-4f9d-9ba0-5188b4deb9cd"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cc3d8362-4b57-4b09-9a19-c1c549bf03ce"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "SOTK protokoll 25.03.2021",
+      "uuid": "d7b64207-9d46-47d5-9d62-c9e04fe2e6f0",
+      "files": [
+        "SOTK_protokoll_25.03.2021.asice",
+        "Protokoll.pdf",
+        "Asendus_sotsiaalkom.asice",
+        "Lisa4_A.Popov_(LTKH).pdf",
+        "Lisa3_A.Peedu_(PERH).pdf",
+        "Lisa2_K.Friedemann_(HK).pdf",
+        "Lisa1_M.Jesse_(SoM).pdf"
+      ]
+    }
+  ],
+  "uuid": "77423428-b851-493a-8b7f-f09e0005498b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 77423428-b851-493a-8b7f-f09e0005498b)",
+  "source": "https://api.riigikogu.ee/api/volumes/77423428-b851-493a-8b7f-f09e0005498b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-03-01&endDate=2021-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
