@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung neljapäev, 25.03.2021 kell 10.43",
+  "sitting_time": "2021-03-25T10:43:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigi 2021. aasta lisaeelarve seaduse eelnõu (357 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "719b9f81-61ca-4319-bfc7-080c8b75cfc8"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0a45cf5d-3b1f-4e7d-8962-0beebbc03027"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 25.03.2021",
+      "uuid": "0e274e90-4c6a-46a1-b664-64b029e16ded",
+      "files": [
+        "RAHK_protokoll_25.03.2021.asice",
+        "RAHK__protokoll_127_25_03_2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "df7ba3b9-cacb-4395-aca5-e79ead2d203b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid df7ba3b9-cacb-4395-aca5-e79ead2d203b)",
+  "source": "https://api.riigikogu.ee/api/volumes/df7ba3b9-cacb-4395-aca5-e79ead2d203b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-03-01&endDate=2021-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
