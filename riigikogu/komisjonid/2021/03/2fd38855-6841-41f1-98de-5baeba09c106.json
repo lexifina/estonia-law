@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung neljapäev, 25.03.2021 kell 14.00, videosild",
+  "sitting_time": "2021-03-25T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade Riigikogu välissuhtlemisest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0a64420b-da97-4221-90a8-f3b4294cd0d8"
+    },
+    {
+      "order": 2,
+      "title": "Eesti Vabariigi Riigikogu pöördumine Soome Vabariigi Eduskunta poole (322 PE) ettevalmistamine esimeseks lugemiseks – menetluslikud otsused, arutelu jätkamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c6fcd8c1-f146-469d-9ef0-612e60ed3ccc"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "58875571-acf4-4506-bbf0-c2b802bf5d32"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 25.03.2021",
+      "uuid": "4294e7b7-9193-480c-84e4-0cf4968615c0",
+      "files": [
+        "VÄLK_protokoll_25.03.2021.asice",
+        "VÄLK_protokoll_25.03.2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "2fd38855-6841-41f1-98de-5baeba09c106",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2fd38855-6841-41f1-98de-5baeba09c106)",
+  "source": "https://api.riigikogu.ee/api/volumes/2fd38855-6841-41f1-98de-5baeba09c106",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-03-01&endDate=2021-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
