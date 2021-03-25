@@ -1,0 +1,39 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Korruptsioonivastane erikomisjon",
+  "committee_uuid": "e4f2977a-e8c3-4fa0-8f3d-9df9acd6377f",
+  "title": "Komisjoni istung neljapäev, 25.03.2021 kell 09.00",
+  "sitting_time": "2021-03-25T09:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "COVID-19 vaktsineerimise korraldus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d563e049-c62a-4710-883b-08406ed65eec"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KVEK protokoll 25.03.2021",
+      "uuid": "b451450b-a1cc-4598-a6a8-9f711550e59b",
+      "files": [
+        "Riskirühma_vaktsineerimise_juhend_perearstidele_01.02.21.pdf",
+        "covid-19_vaktsineerimise_plaan_19.01_2021.pdf",
+        "Vaktsineerimise_korraldamisest_Narva_haiglas.pdf",
+        "Kantsleri_19.11.2020_kaskkirja_uuendus.pdf",
+        "kantsleri_käskkiri_19.11.2020.pdf",
+        "KVEK_protokoll_25.03.2021.asice",
+        "KVEK_protokoll_25.03.2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "1fb4c6c2-7991-467c-822b-16ad88adfdde",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 1fb4c6c2-7991-467c-822b-16ad88adfdde)",
+  "source": "https://api.riigikogu.ee/api/volumes/1fb4c6c2-7991-467c-822b-16ad88adfdde",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-03-01&endDate=2021-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
