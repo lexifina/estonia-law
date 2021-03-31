@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/110122020027> (version in force from 2021-01-01)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/130032021008> (version in force from 2021-03-31)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -202,6 +202,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/110122020027> (version in force 
 | [§ 174](para-174.md) | Euroopa Parlamendi ja nõukogu määruse (EÜ) nr 1371/2007 nõuete suhtes erandite rakendamine |
 | [§ 175](para-175.md) | Raudtee eriveeremi juhtimine |
 | [§ 176](para-176.md) | Erandid raudteetöötajale kehtestatud nõuetest Vabariigi Valitsuse 2020. aasta 12. märtsil väljakuulutatud eriolukorras |
+| [§ 176¹](para-176b1.md) | Euroopa Parlamendi ja nõukogu määrusest (EL) 2021/267 tuleneva ja nakkushaiguse levikuga seonduva erandi kohaldamine |
 | [§ 177](para-177.md) |  |
 | [§ 181](para-181.md) |  |
 | [§ 182](para-182.md) | Seaduse jõustumine |
