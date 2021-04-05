@@ -1,0 +1,53 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 5.04.2021 kell 13.15",
+  "sitting_time": "2021-04-05T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c1960bc1-cb0b-4189-8b3a-7489c02a9ef9"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli ülevaade „Olmejäätmete hulgas olevate biojäätmete ringlussevõtt“ arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0125e960-9b49-4d5c-a952-241dafbd6dac"
+    },
+    {
+      "order": 3,
+      "title": "Riigikontrolli kontrolliaruande „Jäätmete taaskasutustoimingud prügilates ja järelevalve ladestamise üle“ arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ab4d9325-cd0d-413e-94dd-6feb0cd365ab"
+    },
+    {
+      "order": 4,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "eb34c14d-dd14-4d50-b3f8-9be4165a210c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 5.04.2021",
+      "uuid": "7395e6ba-a2ec-43c4-986a-134226b46b5e",
+      "files": [
+        "REKK_protokoll_5.04.2021.asice",
+        "Protokoll_nr_65._05.04.2021._.pdf",
+        "REKK_istung_050421_AAndresson.pptx"
+      ]
+    }
+  ],
+  "uuid": "e11b63a0-63a0-4a36-8b34-a941a68380e3",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e11b63a0-63a0-4a36-8b34-a941a68380e3)",
+  "source": "https://api.riigikogu.ee/api/volumes/e11b63a0-63a0-4a36-8b34-a941a68380e3",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-04-01&endDate=2021-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
