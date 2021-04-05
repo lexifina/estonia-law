@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung esmaspäev, 5.04.2021 kell 13.30",
+  "sitting_time": "2021-04-05T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ec76006c-c9fb-47b0-8724-0ed2affd4a88"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade läbirääkimiste hetkeseisust Eesti jaoks olulistel Euroopa Liidu teemadel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "82b47ecc-9c0d-4d20-b25b-dd62fadbb820"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a70f3b2d-f938-4b97-b0f5-3e8a5e3ef93b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ELAK protokoll 05.04.2021",
+      "uuid": "e8e8b323-bc05-414a-9bfc-788c8ce45732",
+      "files": [
+        "ELAK_protokoll_05.04.2021.asice",
+        "ELAK_protokoll_5.04.2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "b02f4a51-976d-410c-8c04-f467c121c33d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b02f4a51-976d-410c-8c04-f467c121c33d)",
+  "source": "https://api.riigikogu.ee/api/volumes/b02f4a51-976d-410c-8c04-f467c121c33d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-04-01&endDate=2021-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
