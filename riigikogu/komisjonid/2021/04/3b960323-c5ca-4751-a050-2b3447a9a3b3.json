@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung esmaspäev, 5.04.2021 kell 11.15",
+  "sitting_time": "2021-04-05T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0d0f402f-5a10-483a-973f-4162412bc94d"
+    },
+    {
+      "order": 2,
+      "title": "Väärteomenetluse seadustiku § 62 muutmise seaduse eelnõu (215 SE II)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "baa16f98-265c-4dbd-9bf9-4db5b9088a6b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ÕIGK protokoll 05.04.2021",
+      "uuid": "5015eaca-2361-4204-91aa-d632ae382cba",
+      "files": [
+        "ÕIGK_protokoll_05.04.2021.asice",
+        "Õiguskomisjoni_05.04.2021_istungi_protokoll.pdf"
+      ]
+    }
+  ],
+  "uuid": "3b960323-c5ca-4751-a050-2b3447a9a3b3",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3b960323-c5ca-4751-a050-2b3447a9a3b3)",
+  "source": "https://api.riigikogu.ee/api/volumes/3b960323-c5ca-4751-a050-2b3447a9a3b3",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-04-01&endDate=2021-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
