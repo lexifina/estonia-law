@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung teisipäev, 6.04.2021 kell 14.00",
+  "sitting_time": "2021-04-06T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Karistusseadustiku muutmise seaduse eelnõu (331 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "22478d1f-9e11-4de9-b414-c0c990fdaee8"
+    },
+    {
+      "order": 2,
+      "title": "Karistusseadustiku muutmise seaduse eelnõu (339 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "80b2aaba-197e-4d18-bb8f-c30d7896ec2c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ÕIGK protokoll 06.04.2021",
+      "uuid": "d591a0bf-c179-4ed2-88e1-b19975699abd",
+      "files": [
+        "ÕIGK_protokoll_06.04.2021.asice",
+        "Õiguskomisjoni_06.04.2021_istungi_protokoll.pdf"
+      ]
+    }
+  ],
+  "uuid": "f185cae8-854e-48a1-8cf9-cb187e86f066",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f185cae8-854e-48a1-8cf9-cb187e86f066)",
+  "source": "https://api.riigikogu.ee/api/volumes/f185cae8-854e-48a1-8cf9-cb187e86f066",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-04-01&endDate=2021-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
