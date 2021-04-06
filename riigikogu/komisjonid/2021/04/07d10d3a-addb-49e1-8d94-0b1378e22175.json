@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung teisipäev, 6.04.2021 kell 14.00",
+  "sitting_time": "2021-04-06T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b3d78e7d-ee9d-4cc4-84b4-23d2b640f86d"
+    },
+    {
+      "order": 2,
+      "title": "Erakonnaseaduse ja täitemenetluse seadustiku muutmise seaduse eelnõu (321 SE) esimeseks lugemiseks ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c3d39275-121a-41aa-bb65-85854c5a7986"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "62937095-7a86-4757-a244-414639f28a8c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "PÕSK protokoll 06.04.2021",
+      "uuid": "934631f7-88bf-4d85-8f72-cef9ad95a402",
+      "files": [
+        "PÕSK_protokoll_06.04.2021.asice",
+        "PÕSK.protokoll.06.04.2021.pdf",
+        "Volikiri.06.04.Puustusmaa_asendusliikme_volitus.pdf"
+      ]
+    }
+  ],
+  "uuid": "07d10d3a-addb-49e1-8d94-0b1378e22175",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 07d10d3a-addb-49e1-8d94-0b1378e22175)",
+  "source": "https://api.riigikogu.ee/api/volumes/07d10d3a-addb-49e1-8d94-0b1378e22175",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-04-01&endDate=2021-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
