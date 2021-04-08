@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung neljapäev, 8.04.2021 kell 14.00",
+  "sitting_time": "2021-04-08T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Jäätmeseaduse ja pakendiseaduse muutmise seaduse eelnõu (190 SE) ettevalmistamine teiseks lugemiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5c32a05f-1481-4bbd-8f97-5309d695b138"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "37b3e344-7f37-4af8-b60a-5b0a27d748cf"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK protokoll 08.04.2021",
+      "uuid": "f34dd8af-bafa-4161-93b9-9bb8e14ea805",
+      "files": [
+        "KEKK_protokoll_08.04.2021.pdf",
+        "KEKK_protokoll_08.04.2021.asice"
+      ]
+    }
+  ],
+  "uuid": "0b597386-ff31-4cb4-8b12-67b28477b3d0",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0b597386-ff31-4cb4-8b12-67b28477b3d0)",
+  "source": "https://api.riigikogu.ee/api/volumes/0b597386-ff31-4cb4-8b12-67b28477b3d0",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-04-01&endDate=2021-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
