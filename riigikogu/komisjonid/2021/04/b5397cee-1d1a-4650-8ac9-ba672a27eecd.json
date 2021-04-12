@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung esmaspäev, 12.04.2021 kell 11.00, videosild",
+  "sitting_time": "2021-04-12T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8a5f6f04-09ee-4caa-b475-a05892fc5bab"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade arengutest Myanmaris",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d5f4c99e-38bd-4ed5-8295-d4ae75a7a54a"
+    },
+    {
+      "order": 3,
+      "title": "Ülevaade arengutest Ukrainas – arutelu jätkamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "513c4c8e-7328-4af3-ba04-ed5059bc3b41"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "76df9932-2762-482d-85a5-a14dda4200e4"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 12.04.2021",
+      "uuid": "1191f934-b012-4795-a70a-5939f7bfa1c9",
+      "files": [
+        "VÄLK_protokoll_12.04.2021.asice",
+        "VÄLK_protokoll_12.04.2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "b5397cee-1d1a-4650-8ac9-ba672a27eecd",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b5397cee-1d1a-4650-8ac9-ba672a27eecd)",
+  "source": "https://api.riigikogu.ee/api/volumes/b5397cee-1d1a-4650-8ac9-ba672a27eecd",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-04-01&endDate=2021-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
