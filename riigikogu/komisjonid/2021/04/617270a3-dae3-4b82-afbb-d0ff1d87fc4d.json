@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung esmaspäev, 12.04.2021 kell 11.15",
+  "sitting_time": "2021-04-12T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "526260ff-d1b8-423d-b535-e47eb0465dc4"
+    },
+    {
+      "order": 2,
+      "title": "Kriminaalmenetluse seadustiku muutmise ja sellega seonduvalt teiste seaduste muutmise seadus (kriminaalmenetluse seadustiku revisjon) (367 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "58916537-60a1-4d29-ad44-d8ca0fab606f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ÕIGK protokoll 12.04.2021",
+      "uuid": "b8ec1811-89d7-4e3f-a872-52baa1b4f935",
+      "files": [
+        "Õiguskomisjoni_12.04.2021_istungi_protokoll.pdf",
+        "ÕIGK_protokoll_12.04.2021.asice"
+      ]
+    }
+  ],
+  "uuid": "617270a3-dae3-4b82-afbb-d0ff1d87fc4d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 617270a3-dae3-4b82-afbb-d0ff1d87fc4d)",
+  "source": "https://api.riigikogu.ee/api/volumes/617270a3-dae3-4b82-afbb-d0ff1d87fc4d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-04-01&endDate=2021-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
