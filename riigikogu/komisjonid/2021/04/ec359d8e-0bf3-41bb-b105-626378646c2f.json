@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung esmaspäev, 12.04.2021 kell 11.15",
+  "sitting_time": "2021-04-12T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "531c758d-3895-4ab0-adc7-fdb91ca5e0ba"
+    },
+    {
+      "order": 2,
+      "title": "Riigi 2021. aasta lisaeelarve seaduse eelnõu (357 SE III)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9a533313-bd82-4785-b157-b7bb71b44d3c"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "115f9836-d700-4a0a-b9ea-6e367980188c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 12.04.2021",
+      "uuid": "a9fb0697-4337-4e87-8e16-632f976b0809",
+      "files": [
+        "RAHK_protokoll_12.04.2021.asice",
+        "RAHK_protokoll_133_12_04_2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "ec359d8e-0bf3-41bb-b105-626378646c2f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ec359d8e-0bf3-41bb-b105-626378646c2f)",
+  "source": "https://api.riigikogu.ee/api/volumes/ec359d8e-0bf3-41bb-b105-626378646c2f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-04-01&endDate=2021-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
