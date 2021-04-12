@@ -1,0 +1,53 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 12.04.2021 kell 13.15",
+  "sitting_time": "2021-04-12T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d7a3e53e-b791-4e20-af85-df99696f8a70"
+    },
+    {
+      "order": 2,
+      "title": "Vaktsineerimise korraldusest riigis",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "54041e61-fee8-4027-979e-3a25c0eba7ba"
+    },
+    {
+      "order": 3,
+      "title": "Piirangutest väljumise plaanist",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "597a741e-035f-4349-9050-9e9de0d69bf5"
+    },
+    {
+      "order": 4,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2b826c3a-633e-41f7-a925-5c22eebdd7bd"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 12.04.2021",
+      "uuid": "3a129853-0e40-400a-ab02-82015b7e5de1",
+      "files": [
+        "REKK_protokoll_12.04.2021.asice",
+        "Protokoll_nr_67._12.04.2021._.pdf",
+        "Asendusliige_J_0.docx"
+      ]
+    }
+  ],
+  "uuid": "9eb3d0b7-c8b9-479d-b8bf-e8c06507e82f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9eb3d0b7-c8b9-479d-b8bf-e8c06507e82f)",
+  "source": "https://api.riigikogu.ee/api/volumes/9eb3d0b7-c8b9-479d-b8bf-e8c06507e82f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-04-01&endDate=2021-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
