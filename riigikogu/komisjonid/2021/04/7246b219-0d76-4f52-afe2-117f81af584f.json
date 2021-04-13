@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 13.04.2021 kell 14.00",
+  "sitting_time": "2021-04-13T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine piimandussektori esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5531760b-a28c-4c18-a18a-a7852dd5f0da"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7c0b6049-7ef1-4a14-8dda-f1f3331fa9ec"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 13.04.2021",
+      "uuid": "006a15e9-0338-4f36-874a-51d56dbc4cd9",
+      "files": [
+        "MAEK_protokoll_13.04.2021.asice",
+        "099_protokolli_lisa_EPKK_piimandussektor.pdf",
+        "099_protokoll_13.04.2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "7246b219-0d76-4f52-afe2-117f81af584f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7246b219-0d76-4f52-afe2-117f81af584f)",
+  "source": "https://api.riigikogu.ee/api/volumes/7246b219-0d76-4f52-afe2-117f81af584f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-04-01&endDate=2021-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
