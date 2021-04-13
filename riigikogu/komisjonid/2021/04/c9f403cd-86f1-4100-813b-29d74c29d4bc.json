@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung teisipäev, 13.04.2021 kell 14.00",
+  "sitting_time": "2021-04-13T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Krediidiasutuste seaduse muutmise ja sellega seonduvalt teiste seaduste muutmise seaduse eelnõu (312 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3a7fd344-5457-40cd-b55e-4956193fea6b"
+    },
+    {
+      "order": 2,
+      "title": "Tulumaksuseaduse muutmise seaduse eelnõu (306 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "434dc893-df21-4eeb-a2a9-1fc72935c406"
+    },
+    {
+      "order": 3,
+      "title": "Arutelu kollektiivne pöördumine „Ei katuseraha jagamisele abordivastasele liikumisele“.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "acc4eb5c-d48f-44c8-8f4d-5946132c05e7"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ec8b7ffe-805f-4102-9955-ed74b36cf3e6"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 13.04.2021",
+      "uuid": "302f3755-98f1-4198-a9c6-bb215a956368",
+      "files": [
+        "RAHK_protokoll_13.04.2021.asice",
+        "RAHK_protokoll_134_13_04_2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "c9f403cd-86f1-4100-813b-29d74c29d4bc",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c9f403cd-86f1-4100-813b-29d74c29d4bc)",
+  "source": "https://api.riigikogu.ee/api/volumes/c9f403cd-86f1-4100-813b-29d74c29d4bc",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-04-01&endDate=2021-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
