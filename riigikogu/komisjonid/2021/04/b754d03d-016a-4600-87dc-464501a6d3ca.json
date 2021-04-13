@@ -1,0 +1,54 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung teisipäev, 13.04.2021 kell 14.00",
+  "sitting_time": "2021-04-13T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade Rail Balticu projekti hetkeseisust",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ab066ec9-c804-423b-b74b-ecb7c3db7bff"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade Tallinn-Helsingi tunneli projektist",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "64545ca0-a776-41ee-96b7-9fbc35d2ac18"
+    },
+    {
+      "order": 3,
+      "title": "Arvamuse andmine Euroopa Liidu asjade komisjonile: Eesti seisukohad Euroopa Liidu digiteenuste õigusakti eelnõu kohta",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "add0a2a1-d5c3-4914-8f0a-fbf66b5d5370"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7233a282-d820-42e0-b12b-a0a11b47be38"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAJK protokoll nr 110 13.04.2021",
+      "uuid": "9be7ae0d-6589-4070-a3c8-4d06a5ef3738",
+      "files": [
+        "MAJK_protokoll_nr_110_13.04.2021.asice",
+        "Lisa_2_(Tallinn-Helsingi_tunnel).pdf",
+        "Lisa_1_(Rail_Baltic).pdf",
+        "MAJK_protokoll_nr_110_13.04.2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "b754d03d-016a-4600-87dc-464501a6d3ca",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b754d03d-016a-4600-87dc-464501a6d3ca)",
+  "source": "https://api.riigikogu.ee/api/volumes/b754d03d-016a-4600-87dc-464501a6d3ca",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-04-01&endDate=2021-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
