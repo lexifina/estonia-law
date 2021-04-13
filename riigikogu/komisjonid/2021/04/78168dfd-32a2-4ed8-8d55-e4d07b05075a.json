@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung teisipäev, 13.04.2021 kell 14.03, videosild",
+  "sitting_time": "2021-04-13T14:03:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade arengutest Türgis",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e6b44e92-4696-4407-9d05-62263b7507f2"
+    },
+    {
+      "order": 2,
+      "title": "Eesti Vabariigi Riigikogu pöördumine Soome Vabariigi Eduskunta poole (322 PE) ettevalmistamine esimeseks lugemiseks – arutelu jätkamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f9c48f96-935c-453a-a29a-da539f8a5ed7"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c9d68dc7-f6a4-4624-8d7a-00b660e83873"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 13.04.2021",
+      "uuid": "bba9ceb7-7732-4cb2-9899-ed36ac3583a5",
+      "files": [
+        "VÄLK_protokoll_13.04.2021.asice",
+        "VÄLK_protokoll_13.04.2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "78168dfd-32a2-4ed8-8d55-e4d07b05075a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 78168dfd-32a2-4ed8-8d55-e4d07b05075a)",
+  "source": "https://api.riigikogu.ee/api/volumes/78168dfd-32a2-4ed8-8d55-e4d07b05075a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-04-01&endDate=2021-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
