@@ -1,0 +1,48 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung neljapäev, 15.04.2021 kell 14.00",
+  "sitting_time": "2021-04-15T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riiklikult tähtsate kultuuriehitiste menetlusprotsessi arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ac525504-471d-4260-9891-e018b874724c"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "69af0afa-4974-4c8a-80c4-1b0f6573180c"
+    },
+    {
+      "order": 3,
+      "title": "Riigikogu otsus \"Riigikogu liikmest Eesti Rahvusringhäälingu nõukogu liikme nimetamine\" (375 OE) eelnõu ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "721b0a4b-2bee-4056-b800-f87abbfe4004"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KULK protokoll 15.04.2021",
+      "uuid": "74d48ff2-c9c2-4b65-9c1d-0bb72434f747",
+      "files": [
+        "KULK_protokoll_15.04.2021.asice",
+        "L.Kunnas_15.04.21.asice",
+        "Protokoll_128_(15.04.2021).rtf",
+        "Asendus_kom.docx"
+      ]
+    }
+  ],
+  "uuid": "af331fcc-159d-4f9c-9817-faaa9d357e84",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid af331fcc-159d-4f9c-9817-faaa9d357e84)",
+  "source": "https://api.riigikogu.ee/api/volumes/af331fcc-159d-4f9c-9817-faaa9d357e84",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-04-01&endDate=2021-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
