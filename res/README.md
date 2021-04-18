@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/121042020030> (version in force from 2020-05-01)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/117042021004> (version in force from 2021-04-18)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -122,6 +122,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/121042020030> (version in force 
 | [§ 81](para-081.md) | 2014. aasta riigieelarvega seotud erisused |
 | [§ 81¹](para-081b1.md) | 2020. aasta riigieelarvega seotud erisused |
 | [§ 81²](para-081b2.md) | COVID-19 haigust põhjustava koroonaviiruse levikuga seotud kriisi leevendamiseks ettenähtud toetusmeetmete kehtestamine |
+| [§ 81³](para-081b3.md) | COVID-19 põhjustava viiruse levikuga seotud kriisi leevendamiseks ettenähtud toetusprogrammide kehtestamine |
 | **2. jagu Seaduste muutmine ja kehtetuks tunnistamine** | |
 | [§ 82](para-082.md) |  |
 | [§ 125](para-125.md) |  |
