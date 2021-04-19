@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 19.04.2021 kell 11.10",
+  "sitting_time": "2021-04-19T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c8cb9e64-c065-4088-bdd6-4ebf5937684b"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud kalandusturu korraldamise seaduse ja karistusregistri seaduse muutmise seaduse eelnõu 310 SE arutelu teisele lugemisele saatmiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "addc8a92-41dd-461a-aef0-fdfdf749ed25"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d2e8457c-b0e1-4e86-b861-2bec4aafe641"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 19.04.2021",
+      "uuid": "f0facbd3-9bef-4f5a-9d3d-adde4fcb5def",
+      "files": [
+        "MAEK_protokoll_19.04.2021.asice",
+        "100_protokoll_19.04.2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "1766c2cd-2154-40c0-a035-675b3982ea9e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 1766c2cd-2154-40c0-a035-675b3982ea9e)",
+  "source": "https://api.riigikogu.ee/api/volumes/1766c2cd-2154-40c0-a035-675b3982ea9e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-04-01&endDate=2021-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
