@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung esmaspäev, 19.04.2021 kell 11.00, videosild",
+  "sitting_time": "2021-04-19T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "affcd736-21c9-49e3-aedc-118bb4f1a714"
+    },
+    {
+      "order": 2,
+      "title": "„Inimõigusdiplomaatia alused ja tegevuskava“",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f4486597-6815-44a7-983c-1276cab09078"
+    },
+    {
+      "order": 3,
+      "title": "Eesti Vabariigi Riigikogu pöördumine Soome Vabariigi Eduskunta poole (322 PE I) ettevalmistamine esimeseks lugemiseks – eelnõu tekstide kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3b548daf-19a7-4f8f-970f-d950b80b22ea"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "65fcff97-34ce-4ac3-86ab-740273cf7e2e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 19.04.2021",
+      "uuid": "511babd8-3968-4800-8443-87d8483862bd",
+      "files": [
+        "VÄLK_protokoll_19.04.2021.asice",
+        "VÄLK_protokoll_19.04.2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "94ab1aaf-abd5-4e04-941b-7eb9b51afab4",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 94ab1aaf-abd5-4e04-941b-7eb9b51afab4)",
+  "source": "https://api.riigikogu.ee/api/volumes/94ab1aaf-abd5-4e04-941b-7eb9b51afab4",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-04-01&endDate=2021-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
