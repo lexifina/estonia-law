@@ -1,0 +1,53 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung esmaspäev, 19.04.2021 kell 11.00",
+  "sitting_time": "2021-04-19T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "42f4728b-1c59-4453-a73e-094829ecadf4"
+    },
+    {
+      "order": 2,
+      "title": "Riigi Infosüsteemi Ameti küberturvalisuse aastaraamat 2021",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "544579bd-b007-471e-95c5-31754a215a02"
+    },
+    {
+      "order": 3,
+      "title": "Arvamuse andmine hädaolukorra seaduse muutmise ja sellega seonduvalt teiste seaduste muutmise seaduse eelnõu (350 SE I) kohta",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "46a429c2-7023-4c9b-a974-a4fb2da634b2"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ca4db741-5bb1-4d55-a31b-bbf2de9b7128"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RIKK 19.04.2021protokoll",
+      "uuid": "afaf46b0-a3b1-449b-b55d-260c0352d430",
+      "files": [
+        "Protokoll_nr_113__19.04.2021.pdf",
+        "RIKK_protokoll.asice",
+        "SE_350_ME-d_Kunnas_ja_Laneman.pdf"
+      ]
+    }
+  ],
+  "uuid": "f939a610-c56b-4562-b107-2a4052238ffb",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f939a610-c56b-4562-b107-2a4052238ffb)",
+  "source": "https://api.riigikogu.ee/api/volumes/f939a610-c56b-4562-b107-2a4052238ffb",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-04-01&endDate=2021-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
