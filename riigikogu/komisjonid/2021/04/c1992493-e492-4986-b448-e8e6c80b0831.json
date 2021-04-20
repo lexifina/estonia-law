@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 20.04.2021 kell 14.00",
+  "sitting_time": "2021-04-20T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud kinnisasja omandamise kitsendamise seaduse muutmise seaduse eelnõu 365 SE arutelu juhtivkomisjoni ettekandja määramiseks ja esimesele lugemisele saatmiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2fb2cae3-454d-47d1-906e-0c4a26844d96"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6470bf92-c4a5-4eae-b39e-645f4cfa540d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 20.04.2021",
+      "uuid": "517735d9-f018-4a34-a337-896c317049c1",
+      "files": [
+        "MAEK_protokoll_20.04.2021.asice",
+        "101_protokolli_lisa_MeM_KAOKS_365_SE.pdf",
+        "101_protokoll_20.04.2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "c1992493-e492-4986-b448-e8e6c80b0831",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c1992493-e492-4986-b448-e8e6c80b0831)",
+  "source": "https://api.riigikogu.ee/api/volumes/c1992493-e492-4986-b448-e8e6c80b0831",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-04-01&endDate=2021-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
