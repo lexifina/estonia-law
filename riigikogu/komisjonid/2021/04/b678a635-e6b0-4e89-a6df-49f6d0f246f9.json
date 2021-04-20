@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung teisipäev, 20.04.2021 kell 14.00",
+  "sitting_time": "2021-04-20T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kaitseministri asutatud nõuandvast kojast riigikaitse küsimustes",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a987a039-3c07-4060-95d8-28328a311c79"
+    },
+    {
+      "order": 2,
+      "title": "Arvamuse andmine hädaolukorra seaduse muutmise ja sellega seonduvalt teiste seaduste muutmise seaduse eelnõu (350 SE I) kohta",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cabc6bba-dcd1-4e5e-ba3c-6262ab41650b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RIKK 20.04.2021 protokoll",
+      "uuid": "d2df5540-187d-4198-afae-b3ace2625a51",
+      "files": [
+        "Protokoll_nr_114__20.04.2021.pdf",
+        "RIKK_20.04.2021_protokoll.asice",
+        "Asendus_riigikaitsekom.asice"
+      ]
+    }
+  ],
+  "uuid": "b678a635-e6b0-4e89-a6df-49f6d0f246f9",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b678a635-e6b0-4e89-a6df-49f6d0f246f9)",
+  "source": "https://api.riigikogu.ee/api/volumes/b678a635-e6b0-4e89-a6df-49f6d0f246f9",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-04-01&endDate=2021-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
