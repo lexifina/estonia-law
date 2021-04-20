@@ -1,0 +1,53 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung teisipäev, 20.04.2021 kell 14.00",
+  "sitting_time": "2021-04-20T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Eelarvenõukogu esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "506dc7fc-d76c-4dad-9b54-ad02f63dfe93"
+    },
+    {
+      "order": 2,
+      "title": "Eesti Vabariigi ja Saksamaa Liitvabariigi vahelise 1996. aasta 29. novembril allakirjutatud tulu- ja kapitalimaksudega topeltmaksustamise vältimise lepingu muutmise protokolli ratifitseerimise seaduse eelnõu (352 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "71202559-07d3-4eca-8241-e924350a56a3"
+    },
+    {
+      "order": 3,
+      "title": "Riigikogu otsus \"Euroopa Liidu taaskäivitamise kava rahastamise ja Euroopa Liidu Nõukogu otsuse omavahendite süsteemi kohta heakskiitmine\" (353 OE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "11cf802c-d0a8-4c60-9797-c1982b66be8d"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "89c17456-6871-4c27-9c8d-578910e68857"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 20.04.2021",
+      "uuid": "864fc7a7-23a6-41a4-9660-a6a317f55a28",
+      "files": [
+        "RAHK_protokoll_20.04.2021.asice",
+        "eelarvenõukogu_(EAN)_ettekanne_20.04.2021.pptx",
+        "RAHK_protokoll_136_20_04_2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "2e0d26ed-96e5-4e95-a61e-a5e6dfb45882",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2e0d26ed-96e5-4e95-a61e-a5e6dfb45882)",
+  "source": "https://api.riigikogu.ee/api/volumes/2e0d26ed-96e5-4e95-a61e-a5e6dfb45882",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-04-01&endDate=2021-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
