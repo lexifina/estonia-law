@@ -1,0 +1,44 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung teisipäev, 20.04.2021 kell 14.00",
+  "sitting_time": "2021-04-20T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Arutelu rohehangete teemal",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e9006927-1367-479c-b127-ed938106c854"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c2eb695b-203a-48e8-a1af-b8a6ce2ac620"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK protokoll 20.04.2021",
+      "uuid": "2b5f4d7f-ef28-42be-aa77-d880e06fcc47",
+      "files": [
+        "KEKK_protokoll_20.04.2021.pdf",
+        "2021-04-20_Riigikogu_keskkonnakomisjon_-_MKM_-_Ehitiste_jalajälg.pdf",
+        "ELM_ja_kkmaja_20042021.pdf",
+        "Ülevaade_tegevusest_-_sekundaarmaterjalide_kasutamine_avalikes_hangetes_20-04-2021.pdf",
+        "KEKK_protokoll_20.04.2021.asice",
+        "Kinnisvarapoliitika.pdf"
+      ]
+    }
+  ],
+  "uuid": "0a254a13-c7d2-41e1-b450-257b0880f7f6",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0a254a13-c7d2-41e1-b450-257b0880f7f6)",
+  "source": "https://api.riigikogu.ee/api/volumes/0a254a13-c7d2-41e1-b450-257b0880f7f6",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-04-01&endDate=2021-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
