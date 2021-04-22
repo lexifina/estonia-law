@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Korruptsioonivastane erikomisjon",
+  "committee_uuid": "e4f2977a-e8c3-4fa0-8f3d-9df9acd6377f",
+  "title": "Komisjoni istung neljapäev, 22.04.2021 kell 13.00",
+  "sitting_time": "2021-04-22T13:07:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Komisjoni töökava mais 2021",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "078d1841-6b2b-4f9a-8653-f18f701e34e5"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2b4669b3-8935-4834-be7a-75611dfd13b7"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KVEK protokoll 22.04.2021",
+      "uuid": "98a761d7-8faf-48a8-aeb7-fc10c7cde779",
+      "files": [
+        "KVEK_protokoll_22.04.2021.asice",
+        "KVEK_protokoll_22.04.2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "485e3ce5-7f83-491a-a47c-a62138612b8b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 485e3ce5-7f83-491a-a47c-a62138612b8b)",
+  "source": "https://api.riigikogu.ee/api/volumes/485e3ce5-7f83-491a-a47c-a62138612b8b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-04-01&endDate=2021-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
