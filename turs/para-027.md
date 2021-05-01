@@ -6,7 +6,7 @@
 
 (2) Turismiinfokeskuse vastavust kohustuslikele nõuetele kinnitab selle tähistus vastavalt käesoleva seaduse § 26 lõigetes 3 ja 4 sätestatule.
 
-(3) Isikul on kohustus esitada enne turismiinfokeskuses tegevuse alustamist EAS-le teade, milles peavad sisalduma vähemalt järgmised andmed:
+(3) Isikul on kohustus esitada enne turismiinfokeskuses tegevuse alustamist käesoleva seaduse § 26 lõikes 1 nimetatud sihtasutusele teade, milles peavad sisalduma vähemalt järgmised andmed:
 
 1) turismiinfokeskuse nimi, asukoha aadress ja muud kontaktandmed;
 
@@ -18,4 +18,4 @@
 
 5) isiku nimi, registrikood ja kontaktandmed.
 
-(4) Isikul on kohustus käesoleva paragrahvi lõikes 3 nimetatud andmete muutumisest või tegevuse lõpetamisest teatada EAS-le viivitamata, kuid mitte hiljem kui viie tööpäeva jooksul.
+(4) Isikul on kohustus käesoleva paragrahvi lõikes 3 nimetatud andmete muutumisest või tegevuse lõpetamisest teatada käesoleva seaduse § 26 lõikes 1 nimetatud sihtasutusele viivitamata, kuid mitte hiljem kui viie tööpäeva jooksul.

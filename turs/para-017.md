@@ -2,7 +2,7 @@
 
 (1) Majutusettevõte on majandusüksus, mille kaudu ettevõtja oma majandus- või kutsetegevuse raames osutab majutusteenust.
 
-(2) Majutusteenus on ööbimisvõimaluse ning sellega kaasneva kauba või teenuse müügiks pakkumine ja müük.
+(2) Majutusteenus on ajutise ööbimisvõimaluse pakkumine.
 
 (3) Majutusteenuseks ei loeta:
 

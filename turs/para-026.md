@@ -1,8 +1,8 @@
 # § 26. Turismiinfokeskus
 
-(1) Turismiinfokeskus kogub ja korrastab erapooletut ja pädevat informatsiooni turismiteenuse ja selle osutamise ning huviväärsuste kohta enda asukohajärgse maakonna haldusterritooriumil ja edastab selle turismiinfost huvitatud isikutele ja teistele turismiinfokeskustele ning Ettevõtluse Arendamise Sihtasutusele (edaspidi *EAS*).
+(1) Turismiinfokeskus kogub ja korrastab erapooletut ja pädevat informatsiooni turismiteenuse ja selle osutamise ning huviväärsuste kohta enda asukohajärgse maakonna haldusterritooriumil ja edastab selle turismiinfost huvitatud isikutele ja teistele turismiinfokeskustele ning riigi poolt ettevõtluse arendamiseks loodud sihtasutusele, milles asutajaõigusi teostab turismivaldkonna eest vastutav minister.
 
-(2) EAS avaldab oma veebilehel majutusettevõtete ja turismiinfokeskustega seonduvaid andmeid, samuti andmeid giidide ja giid-tõlkide kohta ning turismiinfokeskuste poolt edastatud turismiinfot.
+(2) Käesoleva paragrahvi lõikes 1 nimetatud sihtasutus avaldab oma veebilehel majutusettevõtete ja turismiinfokeskustega seonduvaid andmeid, samuti andmeid giidide ja giid-tõlkide kohta ning turismiinfokeskuste poolt edastatud turismiinfot.
 
 (3) Turismiinfokeskus tähistatakse märgiga, kus rohelisel põhjal asetseb valget värvi täht «i» (edaspidi *i-märk*).
 
