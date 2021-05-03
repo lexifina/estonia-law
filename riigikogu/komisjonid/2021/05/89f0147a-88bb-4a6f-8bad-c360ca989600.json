@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung esmaspäev, 3.05.2021 kell 11.15",
+  "sitting_time": "2021-05-03T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d11ba53b-1906-4d8e-834a-5304d770e5c6"
+    },
+    {
+      "order": 2,
+      "title": "Karistusseadustiku muutmise seaduse eelnõu (348 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fd0166a6-f7be-4d12-945b-ebc17008eb60"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ÕIGK protokoll 03.05.2021",
+      "uuid": "f638fa25-1b56-42ef-8798-0db64b1df8c4",
+      "files": [
+        "ÕIGK_protokoll_03.05.2021.asice",
+        "Õiguskomisjoni_03.05.2021_istungi_protokoll.pdf"
+      ]
+    }
+  ],
+  "uuid": "89f0147a-88bb-4a6f-8bad-c360ca989600",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 89f0147a-88bb-4a6f-8bad-c360ca989600)",
+  "source": "https://api.riigikogu.ee/api/volumes/89f0147a-88bb-4a6f-8bad-c360ca989600",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-05-01&endDate=2021-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
