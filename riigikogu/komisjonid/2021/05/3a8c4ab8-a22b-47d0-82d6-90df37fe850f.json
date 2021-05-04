@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung teisipäev, 4.05.2021 kell 14.00",
+  "sitting_time": "2021-05-04T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Sideandmete kasutamine kriminaalmenetluses (2. märtsi 2021 Euroopa Kohtu eelotsuse raames).",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d106f837-79e8-4d19-935e-ad2ebc405072"
+    },
+    {
+      "order": 2,
+      "title": "Väärteomenetluse seadustiku ja liiklusseaduse muutmise seaduse eelnõu (216 SE II)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cb5bf4a9-2319-49cc-be6a-1e4af77252b3"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ÕIGK protokoll 04.05.2021",
+      "uuid": "8509a062-4c92-4c6f-b1a4-0b992fe82b4e",
+      "files": [
+        "Õiguskomisjoni_04.05.2021_istungi_protokoll.pdf",
+        "ÕIGK_protokoll_04.05.2021.asice"
+      ]
+    }
+  ],
+  "uuid": "3a8c4ab8-a22b-47d0-82d6-90df37fe850f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3a8c4ab8-a22b-47d0-82d6-90df37fe850f)",
+  "source": "https://api.riigikogu.ee/api/volumes/3a8c4ab8-a22b-47d0-82d6-90df37fe850f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-05-01&endDate=2021-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
