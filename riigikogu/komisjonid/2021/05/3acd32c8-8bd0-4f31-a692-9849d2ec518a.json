@@ -1,0 +1,48 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung teisipäev, 4.05.2021 kell 14.00",
+  "sitting_time": "2021-05-04T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade riigi eelarvestrateegiast 2022-2025. Osaleb Rahandusminister Keit Pentus - Rosimannus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c99f8c26-7859-4654-b69e-10c317b318f7"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu otsus ˮˮRiigi pikaajaline arengustrateegia ˮEesti 2035ˮˮ heakskiitmineˮ (262 OE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4b5e0721-705f-4bf5-bae8-e8b610cf43d3"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d164de89-ff56-4b03-a267-230e1d3ca1b7"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 04.05.2021",
+      "uuid": "1d67bdf9-7c10-4eb9-85d7-2ffff3c4ab4f",
+      "files": [
+        "RAHK_protokoll_04.05.2021.asice",
+        "RAHK_protokoll_138_04_05_2021.pdf",
+        "RAHK_protokoll_138_04_05_2021_262_OE_II_ME_loetelu_lisa_2.pdf",
+        "RAM_RES2022-2025__ettekanne__4.05.21.pdf"
+      ]
+    }
+  ],
+  "uuid": "3acd32c8-8bd0-4f31-a692-9849d2ec518a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3acd32c8-8bd0-4f31-a692-9849d2ec518a)",
+  "source": "https://api.riigikogu.ee/api/volumes/3acd32c8-8bd0-4f31-a692-9849d2ec518a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-05-01&endDate=2021-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
