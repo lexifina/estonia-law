@@ -1,0 +1,48 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 10.05.2021 kell 13.15",
+  "sitting_time": "2021-05-10T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c3075915-cfb5-4992-bdfc-28336a56e537"
+    },
+    {
+      "order": 2,
+      "title": "Riigikaitsekuludest riigi eelarvestrateegias 2022–2025",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d7f8c372-46cc-4b6d-91f8-2562c968c6e7"
+    },
+    {
+      "order": 3,
+      "title": "Parlamendi otsustuspädevus riigi raha protsessis",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e7303388-e268-42d6-b0a6-bf4145f7ec39"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 10.05.2021",
+      "uuid": "a93b1772-f57a-46ab-b494-1dc6e43ccce5",
+      "files": [
+        "REKK_protokoll_10.05.2021.asice",
+        "Protokoll_nr_73._10.05.2021._.pdf",
+        "REKKile_eelarvevastutusest_esitlus_06.05.2021.pptx",
+        "Asendusliige_L.Läänemets_10052021.docx"
+      ]
+    }
+  ],
+  "uuid": "04231df2-c319-4f0c-a785-4c43007e9fd3",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 04231df2-c319-4f0c-a785-4c43007e9fd3)",
+  "source": "https://api.riigikogu.ee/api/volumes/04231df2-c319-4f0c-a785-4c43007e9fd3",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-05-01&endDate=2021-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
