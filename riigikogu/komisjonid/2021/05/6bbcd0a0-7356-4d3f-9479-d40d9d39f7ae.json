@@ -1,0 +1,53 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung esmaspäev, 10.05.2021 kell 11.00",
+  "sitting_time": "2021-05-10T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2d75ec53-18b2-4ac9-971b-56b0d297a372"
+    },
+    {
+      "order": 2,
+      "title": "Eelarveliste kaitsekulude planeerimine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ce7f710a-e531-42ac-a3fe-c48631ad3b50"
+    },
+    {
+      "order": 3,
+      "title": "Ülevaade  k.a 6. mail Brüsselis toimunud Euroopa Liidu kaitseministrite kohtumisest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b5b0230b-5463-4828-a93c-842424e281c4"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a935f342-bdda-43c2-b859-bd7ac77656ae"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RIKK 10.05.2021 protokoll",
+      "uuid": "bd6a4c2f-c2e1-423c-8c9d-111717516c74",
+      "files": [
+        "Protokoll_nr_118__10.05.2021.pdf",
+        "RIKK_10.05.2021_protokoll.asice",
+        "Raivo_Tamme_asendusliige.pdf"
+      ]
+    }
+  ],
+  "uuid": "6bbcd0a0-7356-4d3f-9479-d40d9d39f7ae",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 6bbcd0a0-7356-4d3f-9479-d40d9d39f7ae)",
+  "source": "https://api.riigikogu.ee/api/volumes/6bbcd0a0-7356-4d3f-9479-d40d9d39f7ae",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-05-01&endDate=2021-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
