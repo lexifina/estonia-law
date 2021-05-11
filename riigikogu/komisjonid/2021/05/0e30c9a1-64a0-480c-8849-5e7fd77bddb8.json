@@ -1,0 +1,48 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung teisipäev, 11.05.2021 kell 14.00",
+  "sitting_time": "2021-05-11T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikontrolli auditi „Maakondlik ühistransport“ tutvustus ja arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "31f533b5-7051-4259-aea1-991195f73364"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade riigi eelarvestrateegia 2022-2025 MKMi osast",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a4210479-506e-4a51-b940-134b6a3b365f"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "942d6e8c-6c4e-48ec-9da5-1a9275fa8db7"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAJK protokoll nr 116 11.05.2021",
+      "uuid": "9632131d-3d77-4c36-ad83-5d6d91ba84ab",
+      "files": [
+        "lisa2.pdf",
+        "lisa1.pdf",
+        "MAJK_protokoll_nr_116_11.05.2021.pdf",
+        "MAJK_protokoll_nr_116_11.05.2021.asice"
+      ]
+    }
+  ],
+  "uuid": "0e30c9a1-64a0-480c-8849-5e7fd77bddb8",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0e30c9a1-64a0-480c-8849-5e7fd77bddb8)",
+  "source": "https://api.riigikogu.ee/api/volumes/0e30c9a1-64a0-480c-8849-5e7fd77bddb8",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-05-01&endDate=2021-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
