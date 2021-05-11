@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung teisipäev, 11.05.2021 kell 14.00, videosild",
+  "sitting_time": "2021-05-11T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade riigi eelarvestrateegia 2022-2025 välispoliitika valdkonnast",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5b95758f-d43d-42e7-8ed5-93fc38f3480a"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade Eesti tegevusest ÜRO Julgeolekunõukogu valitud liikmena",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8ec44fb3-5a01-4524-b191-6f2e055908b8"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7c24dcbe-14e8-4e25-9bcd-9c0e1e160603"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 11.05.2021",
+      "uuid": "e89b1ab5-933d-4efc-99f2-c3bf0dca7945",
+      "files": [
+        "VÄLK_protokoll_11.05.2021.asice",
+        "VÄLK_protokoll_11.05.2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "8dac8c37-441f-428f-b7da-77371120d3f7",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8dac8c37-441f-428f-b7da-77371120d3f7)",
+  "source": "https://api.riigikogu.ee/api/volumes/8dac8c37-441f-428f-b7da-77371120d3f7",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-05-01&endDate=2021-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
