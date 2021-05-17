@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 17.05.2021 kell 11.10",
+  "sitting_time": "2021-05-17T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "75ff417a-0b33-4201-ac84-388d75c8a098"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade tori tõugu hobuste säilitamisest ja aretamisest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "514bf344-c2db-4808-959e-0d66406bccae"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c691c765-6ad8-4c1f-a152-ad2b5a6c3067"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 17.05.2021",
+      "uuid": "89c9e103-e81b-4c56-afcd-3153762ead29",
+      "files": [
+        "MAEK_protokoll_17.05.2021.asice",
+        "106_protokolli_lisa_PTA_esitlus.pdf",
+        "106_protokoll_17.05.2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "2ad6ec7b-0634-49fa-b0e9-739037a8c642",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2ad6ec7b-0634-49fa-b0e9-739037a8c642)",
+  "source": "https://api.riigikogu.ee/api/volumes/2ad6ec7b-0634-49fa-b0e9-739037a8c642",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-05-01&endDate=2021-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
