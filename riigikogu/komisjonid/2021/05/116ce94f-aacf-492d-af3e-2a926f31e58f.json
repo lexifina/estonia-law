@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung esmaspäev, 17.05.2021 kell 11.15",
+  "sitting_time": "2021-05-17T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5871976d-014b-410b-8c10-6d87148c3862"
+    },
+    {
+      "order": 2,
+      "title": "Arutelu teemal eluasemelaenud regionaalses vaates. Osalevad MESi, Kredexi, Pangaliidu, Eesti Panga ja Maaeluministeeriumi esindajad.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "24659f94-d2aa-4d48-b56a-3a0c4f39beb6"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f1780a0a-e3bb-47c8-81c4-b5dd4dcb5d9f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 17.05.2021",
+      "uuid": "cfbd8a82-8fb7-4aed-9add-6dd3ec348f9c",
+      "files": [
+        "RAHK_protokoll_17.05.2021.asice",
+        "RAHK_protokoll_141_17_05_2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "116ce94f-aacf-492d-af3e-2a926f31e58f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 116ce94f-aacf-492d-af3e-2a926f31e58f)",
+  "source": "https://api.riigikogu.ee/api/volumes/116ce94f-aacf-492d-af3e-2a926f31e58f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-05-01&endDate=2021-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
