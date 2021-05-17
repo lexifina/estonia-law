@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung esmaspäev, 17.05.2021 kell 11.00, videosild",
+  "sitting_time": "2021-05-17T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "96510a8c-2758-4dc2-a1dc-10b99a6e6788"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade Iisraeli ja palestiinlaste konflikti arengutest ning küsimuse arutelust ÜRO Julgeolekunõukogus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8c966c1b-73b3-4510-b105-8ab7dab43fee"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ebbc0a60-eb53-41ff-9c6b-2da87171e28d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 17.05.2021",
+      "uuid": "b1fe3569-b307-4eac-92ca-b6eef69b2363",
+      "files": [
+        "VÄLK_protokoll_17.05.2021.asice",
+        "VÄLK_protokoll_17.05.2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "7dfe1b22-0570-477f-b1cc-246f1a84dc36",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7dfe1b22-0570-477f-b1cc-246f1a84dc36)",
+  "source": "https://api.riigikogu.ee/api/volumes/7dfe1b22-0570-477f-b1cc-246f1a84dc36",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-05-01&endDate=2021-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
