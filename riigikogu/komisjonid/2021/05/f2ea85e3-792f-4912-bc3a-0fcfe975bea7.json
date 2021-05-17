@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung esmaspäev, 17.05.2021 kell 11.00",
+  "sitting_time": "2021-05-17T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cfcfab47-8a7d-4255-8963-5ad8ab84b435"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine Eesti Meediaettevõtete Liidu esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3e21b388-7c1b-40ca-887b-c820e04d7180"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "73da121e-c635-41a8-952b-1077e4e5f162"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KULK protokoll 136 (17.05.2021)",
+      "uuid": "eb0e69d8-d56e-42b6-9d99-706466b380fb",
+      "files": [
+        "ERR_KulKom_mai_2021.pdf",
+        "KULK_protokoll_136_(17.05.2021).asice",
+        "Protokoll_136_(17.05.2021).pdf"
+      ]
+    }
+  ],
+  "uuid": "f2ea85e3-792f-4912-bc3a-0fcfe975bea7",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f2ea85e3-792f-4912-bc3a-0fcfe975bea7)",
+  "source": "https://api.riigikogu.ee/api/volumes/f2ea85e3-792f-4912-bc3a-0fcfe975bea7",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-05-01&endDate=2021-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
