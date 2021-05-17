@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung esmaspäev, 17.05.2021 kell 11.15",
+  "sitting_time": "2021-05-17T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0034ce68-a8e2-4630-b162-d8908315445e"
+    },
+    {
+      "order": 2,
+      "title": "Kriminaalmenetluse seadustiku muutmise seaduse eelnõu (392 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3b8aeeb5-c64c-4bd1-9c26-37996fbedce3"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ÕIGK protokoll 17.05.2021",
+      "uuid": "7820f3c0-62a4-44e5-b326-0d106d93701d",
+      "files": [
+        "ÕIGK_protokoll_17.05.2021.asice",
+        "Õiguskomisjoni_17.05.2021_istungi_protokoll.pdf"
+      ]
+    }
+  ],
+  "uuid": "cb9afedd-952f-4079-aa48-a07fdda35eb0",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid cb9afedd-952f-4079-aa48-a07fdda35eb0)",
+  "source": "https://api.riigikogu.ee/api/volumes/cb9afedd-952f-4079-aa48-a07fdda35eb0",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-05-01&endDate=2021-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
