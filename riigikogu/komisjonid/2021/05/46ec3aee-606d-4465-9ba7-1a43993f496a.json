@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Keskkonnakomisjoni ja majanduskomisjoni ühine istung esmaspäev, 17.05.2021 kell 11.10",
+  "sitting_time": "2021-05-17T11:10:00",
+  "sitting_type": "UHISISTUNG",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d61fbb2a-1755-4b79-a952-eeec7466a53f"
+    },
+    {
+      "order": 2,
+      "title": "Kollektiivne pöördumine „Kaitseme koos Eesti merd! Keelustame STS-operatsioonid Eesti merel“",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2e0e824e-5f48-4ec5-84a2-d354a4280165"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK ja MAJK protokoll 17.05.2021",
+      "uuid": "32550f40-b5a2-488b-b8bd-bfba201a8fdf",
+      "files": [
+        "KEKK_ja_MAJK_protokoll_17.05.2021.asice",
+        "KEKK_ja_MAJK_protokoll_17.05.2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "46ec3aee-606d-4465-9ba7-1a43993f496a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 46ec3aee-606d-4465-9ba7-1a43993f496a)",
+  "source": "https://api.riigikogu.ee/api/volumes/46ec3aee-606d-4465-9ba7-1a43993f496a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-05-01&endDate=2021-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
