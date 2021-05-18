@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung teisipäev, 18.05.2021 kell 14.00",
+  "sitting_time": "2021-05-18T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Päevakorra täiendamine.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "63f3e4c2-1d1e-4f59-86a1-413403ea1f94"
+    },
+    {
+      "order": 2,
+      "title": "Arutelu dekriminaliseerimise vajadusest karistusseadustikus.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "50147110-4c0c-4c4f-a7ae-f737cd581a27"
+    },
+    {
+      "order": 3,
+      "title": "Õiguskomisjoni esindajate määramine Balti Assamblee Eesti delegatsiooni liikmeteks.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0aaa6f0a-3ad2-4e6f-9fa1-4813593c8de4"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ÕIGK protokoll 18.05.2021",
+      "uuid": "0f313773-3995-4d9d-a820-139c574a2dab",
+      "files": [
+        "Õiguskomisjoni_18.05.2021_istungi_protokoll.pdf",
+        "ÕIGK_protokoll_18.05.2021.asice"
+      ]
+    }
+  ],
+  "uuid": "12a4c873-2b9b-42ae-881e-ca2ad9a84e4c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 12a4c873-2b9b-42ae-881e-ca2ad9a84e4c)",
+  "source": "https://api.riigikogu.ee/api/volumes/12a4c873-2b9b-42ae-881e-ca2ad9a84e4c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-05-01&endDate=2021-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
