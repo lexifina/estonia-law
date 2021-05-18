@@ -1,0 +1,54 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung teisipäev, 18.05.2021 kell 14.00",
+  "sitting_time": "2021-05-18T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti Vabariigi ja Mauritiuse Vabariigi vahelise tulumaksudega topeltmaksustamise vältimise ning maksudest hoidumise ja maksupettuste tõkestamise lepingu ja selle juurde kuuluva protokolli ratifitseerimise seaduse eelnõu (385 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "28bb4e01-afcb-4051-886d-07c08b2806bd"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine Eesti Panga esindajatega. Eesti Panga 2020 aasta aruanne.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "55ef32e6-f16e-4405-a17d-00679361a2e2"
+    },
+    {
+      "order": 3,
+      "title": "Kohtumine Finantsinspektsiooni esindajatega. Finantsinspektsiooni 2020 aasta aruanne.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "56173a8c-7307-4455-a2ad-65b19f3b2b55"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5d843d8b-9fd6-4019-ac29-a4d7fd1772ca"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 18.05.2021",
+      "uuid": "9944279b-8775-4590-a89a-15a9d8b9bb5d",
+      "files": [
+        "RAHK_protokoll_18.05.2021.asice",
+        "RAHK_protokoll_142_18_05_2021.pdf",
+        "FI_Kilvar_Kessleri_ettekanne_18.05.2021.pptx",
+        "Eesti_Pank_Madis_Mülleri_ettekanne_18.05.2021.pptx"
+      ]
+    }
+  ],
+  "uuid": "7f4a1ab1-ab8f-4643-9330-afa04575757c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7f4a1ab1-ab8f-4643-9330-afa04575757c)",
+  "source": "https://api.riigikogu.ee/api/volumes/7f4a1ab1-ab8f-4643-9330-afa04575757c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-05-01&endDate=2021-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
