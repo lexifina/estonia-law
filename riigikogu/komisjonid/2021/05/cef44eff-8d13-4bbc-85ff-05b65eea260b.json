@@ -1,0 +1,42 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung teisipäev, 18.05.2021 kell 14.00",
+  "sitting_time": "2021-05-18T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade erihoolekande olukorrast",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d9772761-eea3-411a-a8e3-ad374a31e955"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "517456a3-3666-447b-95ae-1b7299756717"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "SOTK protokoll 18.05.2021",
+      "uuid": "460345cf-47a3-416c-bc2b-52d9c2408746",
+      "files": [
+        "SOTK_protokoll_18.05.2021.asice",
+        "Protokoll_nr_150_(18.05.2021).pdf",
+        "Lisa1(erihoolekandest_SKA).pdf",
+        "Lisa2_erihoolekanne(SoM).pdf"
+      ]
+    }
+  ],
+  "uuid": "cef44eff-8d13-4bbc-85ff-05b65eea260b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid cef44eff-8d13-4bbc-85ff-05b65eea260b)",
+  "source": "https://api.riigikogu.ee/api/volumes/cef44eff-8d13-4bbc-85ff-05b65eea260b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-05-01&endDate=2021-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
