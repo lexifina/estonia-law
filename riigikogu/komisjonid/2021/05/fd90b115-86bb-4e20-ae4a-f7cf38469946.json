@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung neljapäev, 20.05.2021 kell 14.00",
+  "sitting_time": "2021-05-20T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eestimaa Looduse Fondi ja Estwatchi koostatud uuringu tutvustus, kui hästi on hoitud kaitsealused suure loodusväärtusega metsad.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b9072de0-9f44-4091-a1cc-7a6958c43034"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e80fb8ed-8fc2-4a10-972d-eb46c56f963c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK protokoll 20.05.2021",
+      "uuid": "cca907b1-b6a9-42b0-b919-300aa1fdf01f",
+      "files": [
+        "KEKK_protokoll_20.05.2021.asice",
+        "KEKK_protokoll_20.05.2021.pdf",
+        "2021-05-20_RK_KKK_kohtumine_-_Natura_2000_uuring.pdf"
+      ]
+    }
+  ],
+  "uuid": "fd90b115-86bb-4e20-ae4a-f7cf38469946",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid fd90b115-86bb-4e20-ae4a-f7cf38469946)",
+  "source": "https://api.riigikogu.ee/api/volumes/fd90b115-86bb-4e20-ae4a-f7cf38469946",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-05-01&endDate=2021-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
