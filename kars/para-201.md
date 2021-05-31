@@ -2,7 +2,7 @@
 
 (1) Valduses oleva võõra vallasasja või isikule usaldatud muu võõra vara ebaseaduslikult enda või kolmanda isiku kasuks pööramise eest –
 
-karistatakse rahalise karistuse või kuni üheaastase vangistusega.
+karistatakse rahalise karistuse või kuni kaheaastase vangistusega.
 
 (2) Sama teo eest, kui see on toime pandud:
 
