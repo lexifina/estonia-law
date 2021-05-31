@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 31.05.2021 kell 13.15",
+  "sitting_time": "2021-05-31T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9e728ba7-fd6c-4e1d-b7f9-17b945a105eb"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli ülevaate „Ettevõtete toetamisest covid-19 kriisi ajal“ arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a1aa496a-33da-4a3f-8280-316f3673927e"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8cebc20a-1dda-457f-aab6-2c33e98213ab"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 31.05.2021",
+      "uuid": "1b0c389e-e998-4164-8a1e-4b25ee47ac68",
+      "files": [
+        "REKK_protokoll_31.05.2021.asice",
+        "Protokoll_nr_77._31.05.2021._.pdf",
+        "Ettevotete_toetusmeetmed_REKK_31.05.2021.pptx"
+      ]
+    }
+  ],
+  "uuid": "d70766b7-c96e-4870-857d-395026ea82b8",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d70766b7-c96e-4870-857d-395026ea82b8)",
+  "source": "https://api.riigikogu.ee/api/volumes/d70766b7-c96e-4870-857d-395026ea82b8",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-05-01&endDate=2021-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
