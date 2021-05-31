@@ -1,0 +1,42 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung esmaspäev, 31.05.2021 kell 11.10",
+  "sitting_time": "2021-05-31T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9729f319-faf6-4a2b-aeb7-691a4195767c"
+    },
+    {
+      "order": 2,
+      "title": "Veeseaduse muutmise seaduse eelnõu (381 SE) ettevalmistamine teiseks lugemiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cb57f0e5-0fb0-4758-bbeb-285f7f009e16"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK protokoll 31.05.2021",
+      "uuid": "26f19e9e-2a10-49da-a486-8dd7a48b6c5b",
+      "files": [
+        "KEKK_protokoll_31.05.2021.pdf",
+        "KEKK_protokoll_31.06.2021.asice",
+        "Asendusliige_K.Kõva_31052021.asice",
+        "Asendusliige_K.Kõva_31052021.docx"
+      ]
+    }
+  ],
+  "uuid": "a6f91946-2b0d-4440-8d2e-b557b7f62935",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a6f91946-2b0d-4440-8d2e-b557b7f62935)",
+  "source": "https://api.riigikogu.ee/api/volumes/a6f91946-2b0d-4440-8d2e-b557b7f62935",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-05-01&endDate=2021-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
