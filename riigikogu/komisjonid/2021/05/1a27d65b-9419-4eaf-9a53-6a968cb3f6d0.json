@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung esmaspäev, 31.05.2021 kell 11.00",
+  "sitting_time": "2021-05-31T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6fad5af6-9b89-4c55-a7f1-1c25f3c3cc36"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade k.a 28. mail Lissabonis toimunud Euroopa Liidu kaitseministrite kohtumisest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "45be0c47-5846-40c6-9d33-f4354c163749"
+    },
+    {
+      "order": 3,
+      "title": "Tsiviil-militaarkoostöö Tapa linnas",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5c8a6588-d342-4183-a370-201d0e247cfc"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1b639e80-2a83-4a9d-90da-f7d3ff685bd1"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RIKK 31.05.2021 protokoll",
+      "uuid": "9d026ed7-454e-4e27-a8fe-4c207d31257a",
+      "files": [
+        "RIKK_31.05.2021_protokoll.asice",
+        "Protokoll_nr_122__31.05.2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "1a27d65b-9419-4eaf-9a53-6a968cb3f6d0",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 1a27d65b-9419-4eaf-9a53-6a968cb3f6d0)",
+  "source": "https://api.riigikogu.ee/api/volumes/1a27d65b-9419-4eaf-9a53-6a968cb3f6d0",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-05-01&endDate=2021-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
