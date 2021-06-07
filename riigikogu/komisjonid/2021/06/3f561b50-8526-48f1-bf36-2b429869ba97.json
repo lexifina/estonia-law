@@ -1,0 +1,53 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung esmaspäev, 7.06.2021 kell 11.00",
+  "sitting_time": "2021-06-07T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3825b70c-7dbb-4419-9023-3a7409f0e00f"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade NATO kaitseministrite 01.06.2021 kohtumisest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "27efc35b-ae0d-40b0-90c6-d1982d126a48"
+    },
+    {
+      "order": 3,
+      "title": "S. T. kiri maade ärandamisest (2-7/21-139)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3cb84238-c9f2-4e35-9e2d-dd0c93cfcea5"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6042d9ba-33a3-43c3-8049-d5b0479bb8fa"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RIKK 07.06.2021 protokoll",
+      "uuid": "76d70b40-f685-4947-9a68-304fd7a030a4",
+      "files": [
+        "Leo_Kunnase_asendusliige.pdf",
+        "RIKK_07.06.2021_protokoll.asice",
+        "Protokoll_nr_124__07.06.2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "3f561b50-8526-48f1-bf36-2b429869ba97",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3f561b50-8526-48f1-bf36-2b429869ba97)",
+  "source": "https://api.riigikogu.ee/api/volumes/3f561b50-8526-48f1-bf36-2b429869ba97",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-06-01&endDate=2021-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
