@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung esmaspäev, 7.06.2021 kell 11.15",
+  "sitting_time": "2021-06-07T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cd86be5e-86f4-454c-9d0a-4a072a4c5518"
+    },
+    {
+      "order": 2,
+      "title": "Tulumaksuseaduse muutmise seaduse eelnõu (402 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "45935209-9110-4738-8bb9-69a89a7f16da"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "932fc7d5-febe-4a58-9ac3-da2b68f249eb"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 07.06.2021",
+      "uuid": "73f410c4-9ab4-4814-b592-0c6b7542f7d2",
+      "files": [
+        "RAHK_protokoll_07.06.2021.asice",
+        "RAHK_protokoll_145_07_06_2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "7409596b-6019-47dc-9778-b2665beaee5e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7409596b-6019-47dc-9778-b2665beaee5e)",
+  "source": "https://api.riigikogu.ee/api/volumes/7409596b-6019-47dc-9778-b2665beaee5e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-06-01&endDate=2021-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
