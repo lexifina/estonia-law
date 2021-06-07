@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 7.06.2021 kell 11.10",
+  "sitting_time": "2021-06-07T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "65a5ad5c-0597-4266-b993-cab52b4a27bb"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine Eesti Leader Liidu esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6135300e-7667-43f5-8678-f65d6e26af68"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5c64b85e-766a-44fd-ad4e-4f573998ce0a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 07.06.2021",
+      "uuid": "29b65465-297b-4d21-8d22-6b39cb313e2f",
+      "files": [
+        "MAEK_protokoll_07.06.2021.asice",
+        "110_protokoll_07.06.2021.pdf",
+        "110_protokolli_lisa_LEADER.pdf"
+      ]
+    }
+  ],
+  "uuid": "961a1d9f-fad8-465e-9be0-33af255113b7",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 961a1d9f-fad8-465e-9be0-33af255113b7)",
+  "source": "https://api.riigikogu.ee/api/volumes/961a1d9f-fad8-465e-9be0-33af255113b7",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-06-01&endDate=2021-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
