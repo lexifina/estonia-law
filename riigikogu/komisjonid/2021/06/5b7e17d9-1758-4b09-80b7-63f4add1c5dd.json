@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Korruptsioonivastane erikomisjon",
+  "committee_uuid": "e4f2977a-e8c3-4fa0-8f3d-9df9acd6377f",
+  "title": "Komisjoni istung teisipäev, 8.06.2021 kell 08.00",
+  "sitting_time": "2021-06-08T08:00:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ajakirjanduses avaldatud väited peaminister Jüri Ratase poolt avalike vahendite erahuvides kasutamise kohta. Kutsutud peaministri büroo endised juhid Tanel Kiik ja Johannes Merilai",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d1ade4c5-36ad-4d45-b497-658fb9311c53"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3245ad2b-a0a8-4150-a516-4dcbc3bf2bbc"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KVEK protokoll 08.06.2021",
+      "uuid": "2068a142-30de-4644-9b49-d99b4d092f1f",
+      "files": [
+        "KVEK_protokoll_08.06.2021.pdf",
+        "KVEK_protokoll_08.06.2021.asice"
+      ]
+    }
+  ],
+  "uuid": "5b7e17d9-1758-4b09-80b7-63f4add1c5dd",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 5b7e17d9-1758-4b09-80b7-63f4add1c5dd)",
+  "source": "https://api.riigikogu.ee/api/volumes/5b7e17d9-1758-4b09-80b7-63f4add1c5dd",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-06-01&endDate=2021-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
