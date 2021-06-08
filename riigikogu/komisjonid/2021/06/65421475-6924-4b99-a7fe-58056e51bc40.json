@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung teisipäev, 8.06.2021 kell 14.00",
+  "sitting_time": "2021-06-08T14:07:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Arutelu õiguskantsleri kirja teemal otsustusõigus eelarve üle. Osaleb õiguskantsler Ülle Madise.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0845b5fe-2487-4fc6-8e32-b6e4f92540f2"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade Euroopa poolaasta kevadpaketist",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bd3cb09b-9b59-455c-a1f7-b49ea30813ae"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fef48192-caa8-4f67-a565-802bc5a7affc"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 08.06.2021",
+      "uuid": "56331d03-af9e-4335-8e26-50b45fd76772",
+      "files": [
+        "RAHK_protokoll_08.06.2021.asice",
+        "RAHK_protokoll_146_08_06_2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "65421475-6924-4b99-a7fe-58056e51bc40",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 65421475-6924-4b99-a7fe-58056e51bc40)",
+  "source": "https://api.riigikogu.ee/api/volumes/65421475-6924-4b99-a7fe-58056e51bc40",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-06-01&endDate=2021-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
