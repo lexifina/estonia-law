@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung neljapäev, 10.06.2021 kell 14.00",
+  "sitting_time": "2021-06-10T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töölepingu seaduse ja maksukorralduse seaduse muutmise seaduse eelnõu (403 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "32e361ef-8b4b-436f-9960-f877832917ed"
+    },
+    {
+      "order": 2,
+      "title": "Äriseadustiku ja raamatupidamise seaduse muutmise seadus (digilahendused äriühinguõiguses) (394 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2dce1841-127e-454c-8892-21309cd28c00"
+    },
+    {
+      "order": 3,
+      "title": "Riigikogu otsus \"Euroopa Liidu Õiguskaitsekoostöö Ameti tegevust kontrolliva parlamentaarse ühiskontrolli töörühma liikme nimetamine\" (405 OE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f47eeca3-7bf9-4f65-a509-bb81618ac05c"
+    },
+    {
+      "order": 4,
+      "title": "Kriminaalmenetluse seadustiku muutmise seaduse eelnõu (392 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "40dce65e-7981-425f-8928-71afc4223f5f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ÕIGK protokoll 10.06.2021",
+      "uuid": "a2aed09c-5467-402f-9676-0ddc9faa1c53",
+      "files": [
+        "ÕIGK_protokoll_10.06.2021.asice",
+        "Õiguskomisjoni_10.06.2021_istungi_protokoll.pdf"
+      ]
+    }
+  ],
+  "uuid": "69ee1ecd-a1df-4041-9535-3f05238ef5e9",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 69ee1ecd-a1df-4041-9535-3f05238ef5e9)",
+  "source": "https://api.riigikogu.ee/api/volumes/69ee1ecd-a1df-4041-9535-3f05238ef5e9",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-06-01&endDate=2021-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
