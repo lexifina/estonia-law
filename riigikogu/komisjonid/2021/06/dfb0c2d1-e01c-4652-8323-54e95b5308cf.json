@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung esmaspäev, 14.06.2021 kell 12.00",
+  "sitting_time": "2021-06-14T12:05:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti mereala planeeringu ja mõjude hindamise aruande eelnõude tutvustamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a24fb306-ab52-45a3-a506-832f33a23204"
+    },
+    {
+      "order": 2,
+      "title": "Keskkonnaseadustiku üldosa seaduse ja teiste seaduste muutmise seaduse (keskkonnaregistri seaduse kehtetuks tunnistamine) eelnõu (292 SE) ettevalmistamine teiseks lugemiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2a62c008-7092-491e-ad54-d1a6cabf969d"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "00bf2062-bb2e-421b-a39a-c31f94e34fa3"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK protokoll 14.06.2021",
+      "uuid": "0e880c4e-ee66-4e7e-aa7c-30337db47362",
+      "files": [
+        "KEKK_protokoll_14.06.2021.asice",
+        "2021-06-10_Riigikogu.pdf",
+        "KEKK_protokoll_14.06.2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "dfb0c2d1-e01c-4652-8323-54e95b5308cf",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid dfb0c2d1-e01c-4652-8323-54e95b5308cf)",
+  "source": "https://api.riigikogu.ee/api/volumes/dfb0c2d1-e01c-4652-8323-54e95b5308cf",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-06-01&endDate=2021-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
