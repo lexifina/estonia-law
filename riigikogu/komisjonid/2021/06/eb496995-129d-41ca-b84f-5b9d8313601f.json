@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung teisipäev, 15.06.2021 kell 13.00",
+  "sitting_time": "2021-06-15T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väljasõiduistung metsanduse teemal Padisele",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4fe11352-4733-45ec-9db1-e1d226ac7ba4"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e5965b95-19e8-433a-ba17-2fc065b1c441"
+    },
+    {
+      "order": 3,
+      "title": "Kollektiivne pöördumine \"Kohustuslik pesitsusrahu Looduskaitseseadusesse!\"",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f306e959-82dd-49ea-9ff3-ae054150b938"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK protokoll 15.06.2021",
+      "uuid": "0fd629ff-cc96-4de4-959d-b87cf8915296",
+      "files": [
+        "KEKK_protokoll_15.06.2021.asice",
+        "KEKK_protokoll_15.06.2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "eb496995-129d-41ca-b84f-5b9d8313601f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid eb496995-129d-41ca-b84f-5b9d8313601f)",
+  "source": "https://api.riigikogu.ee/api/volumes/eb496995-129d-41ca-b84f-5b9d8313601f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-06-01&endDate=2021-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
