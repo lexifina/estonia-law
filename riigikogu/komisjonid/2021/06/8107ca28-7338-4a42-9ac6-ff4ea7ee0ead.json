@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung neljapäev, 17.06.2021 kell 14.00, videosild",
+  "sitting_time": "2021-06-17T14:05:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kandidaat Eesti Vabariigi erakorralise ja täievolilise suursaadiku, alalise esindaja Põhja-Atlandi Lepingu Organisatsiooni (NATO) juures, ametikohale",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f7e58a77-ae2c-490c-aab4-382b459cf28c"
+    },
+    {
+      "order": 2,
+      "title": "Aktuaalsed välispoliitilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b70d160c-1398-413e-8474-4741533b783b"
+    },
+    {
+      "order": 3,
+      "title": "Väliskomisjoni töökava Riigikogu V ja VI istungjärgu vahelisel ajal",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d38b412b-0743-403e-a57e-5a21fd0dfb76"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "52362a17-9396-43a0-bfb9-0f66cd7d8ecd"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 17.06.2021",
+      "uuid": "d34b06af-e6d9-4f85-acf9-9e4a526f245e",
+      "files": [
+        "VÄLK_protokoll_17.06.2021.asice",
+        "VÄLK_protokoll_17.06.2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "8107ca28-7338-4a42-9ac6-ff4ea7ee0ead",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8107ca28-7338-4a42-9ac6-ff4ea7ee0ead)",
+  "source": "https://api.riigikogu.ee/api/volumes/8107ca28-7338-4a42-9ac6-ff4ea7ee0ead",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-06-01&endDate=2021-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
