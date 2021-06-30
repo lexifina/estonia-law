@@ -22,7 +22,7 @@
 
 (7) Kui Finantsinspektsioon või teine asjasse puutuv finantsjärelevalve asutus on käesoleva paragrahvi lõikes 4 nimetatud tähtaja jooksul pöördunud Euroopa Kindlustus- ja Tööandjapensionide Järelevalve Asutuse poole vastavalt Euroopa Parlamendi ja nõukogu määruse (EÜ) nr 1094/2010 artiklile 19 ja käesoleva paragrahvi lõikes 4 nimetatud tähtaja jooksul ei jõuta ühisotsusele, oodatakse ära Euroopa Kindlustus- ja Tööandjapensionide Järelevalve Asutuse otsus. Kui Finantsinspektsioon on kindlustusgrupi järelevalve teostaja, teeb ta otsuse kooskõlas Euroopa Kindlustus- ja Tööandjapensionide Järelevalve Asutuse otsusega.
 
-(8) Kui Euroopa Kindlustus- ja Tööandjapensionide Järelevalve Asutuse töörühma otsus lükatakse tagasi vastavalt Euroopa Parlamendi ja nõukogu määruse (EÜ) nr 1094/2010 artikli 44 lõikes 1 sätestatule, teeb lõpliku otsuse Finantsinspektsioon, kui ta on kindlustusgrupi finantsjärelevalve teostaja.
+(8) Kui Euroopa Kindlustus- ja Tööandjapensionide Järelevalve Asutus ei tee otsust vastavalt Euroopa Parlamendi ja nõukogu määruse (EÜ) nr 1094/2010 artikli 19 lõikes 3 sätestatule, teeb lõpliku otsuse Finantsinspektsioon, kui ta on kindlustusgrupi finantsjärelevalve teostaja.
 
 (9) Kui käesoleva paragrahvi lõikes 4 sätestatud tähtaja jooksul on asjasse puutuvad järelevalve asutused jõudnud ühisotsusele, ei ole Finantsinspektsioonil enam õigust Euroopa Kindlustus- ja Tööandjapensionide Järelevalve Asutuse poole pöörduda.
 

@@ -6,7 +6,7 @@
 
 (3) Kui Finantsinspektsioon on kindlustusgrupi järelevalve teostaja, hindab ta osaleva kindlustusandja taotlusel või omal algatusel, kas kolmanda riigi kehtestatud kindlustusandjate usaldatavusnõuded on samaväärsed käesolevas seaduses sätestatud usaldatavusnõuetega.
 
-(4) Finantsinspektsioon hindab käesoleva paragrahvi lõikes 3 sätestatud juhul samaväärsust koostöös Euroopa Kindlustus- ja Tööandjapensionide Järelevalve Asutusega vastavalt Euroopa Parlamendi ja nõukogu määruse (EÜ) nr 1094/2010, millega asutatakse Euroopa Järelevalveasutus (Euroopa Kindlustus- ja Tööandjapensionide Järelevalve), muudetakse otsust nr 716/2009/EÜ ning tunnistatakse kehtetuks komisjoni otsus 2009/79/EÜ (ELT L 331, 15.12.2010, lk 48–83), artikli 33 lõikele 2.
+(4) Finantsinspektsioon hindab käesoleva paragrahvi lõikes 3 sätestatud juhul samaväärsust koostöös Euroopa Kindlustus- ja Tööandjapensionide Järelevalve Asutusega vastavalt Euroopa Parlamendi ja nõukogu määruse (EÜ) nr 1094/2010 artikli 33 lõikele 2.
 
 (5) Käesoleva paragrahvi lõikes 3 sätestatud hinnangu kujundamisel võtab Finantsinspektsioon aluseks komisjoni delegeeritud määruse (EL) nr 2015/35 artiklis 379 sätestatud kriteeriumid ning konsulteerib teiste asjasse puutuvate finantsjärelevalve asutustega. Finantsinspektsioon ei või teha otsust, mis oleks vastuolus selle kolmanda riigi suhtes varem tehtud otsusega, välja arvatud, kui see on vajalik, et arvesse võtta olulisi muudatusi, mis on tehtud käesoleva seaduse usaldatavusnõuetes või kolmanda riigi kehtestatud kindlustusandjate usaldatavusnõuetes.
 
