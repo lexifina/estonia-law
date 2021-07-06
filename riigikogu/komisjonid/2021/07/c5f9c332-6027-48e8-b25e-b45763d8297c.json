@@ -1,0 +1,48 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni avalik istung teisipäev, 6.07.2021 kell 10.00",
+  "sitting_time": "2021-07-06T10:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1dcb6339-d79e-493f-b06f-fcf2dcc06595"
+    },
+    {
+      "order": 2,
+      "title": "Rail Balticu vahearuandega tutvumine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b83f5085-3d8e-4876-ad60-69c622e05044"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "35cba068-a385-4959-9364-be253f8444dd"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAJK protokoll nr 126 6.07.2021",
+      "uuid": "2976b7a5-2d19-4be1-9f82-ecdcd302ca21",
+      "files": [
+        "MAJK_protokoll_nr_126_6.07.2021.asice",
+        "RK_majkomisjon_RB_060721.pdf",
+        "Aruanne_RB_elluviimine_260521.pdf",
+        "MAJK_protokoll_nr_126_6.07.2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "c5f9c332-6027-48e8-b25e-b45763d8297c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c5f9c332-6027-48e8-b25e-b45763d8297c)",
+  "source": "https://api.riigikogu.ee/api/volumes/c5f9c332-6027-48e8-b25e-b45763d8297c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-07-01&endDate=2021-07-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
