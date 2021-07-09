@@ -1,0 +1,55 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung reede, 9.07.2021 kell 15.00",
+  "sitting_time": "2021-07-09T15:00:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a5e69d7b-ba9c-4687-a01a-af48e5e5af8e"
+    },
+    {
+      "order": 2,
+      "title": "Arutelu Terviseameti külmlaos kasutuskõlbmatuks muutunud vaktsiini- ja ravimivarudest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e5b20cab-69fa-4a69-bdc1-d0424f3bfadc"
+    },
+    {
+      "order": 3,
+      "title": "Ülevaade COVID-19 vaktsineerimisest, uute tüvede tuvastamisest ja leviku piiramisest Eestis",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dbafc823-6216-4bea-8e56-523f7a9df349"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "604d6bf8-3e73-4e6a-9498-2c0e3962b924"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "SOTK protokoll",
+      "uuid": "e85ad372-69dc-4128-9128-782b311c03a8",
+      "files": [
+        "Asendus09.07.2021.asice",
+        "COVID-19_vaktsineerimise_ülevaade_(M.Seer).pdf",
+        "SOTK_protokoll.asice",
+        "Protokoll_nr_160_(09.07.2021)_erakorraline.pdf",
+        "Terviseameti_vaktsiinilao_sündmuste_arengud_-_Sotsiaalkomisjon_09.07.2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "aaeb749e-c42e-41a3-8742-d6f1417dfb49",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid aaeb749e-c42e-41a3-8742-d6f1417dfb49)",
+  "source": "https://api.riigikogu.ee/api/volumes/aaeb749e-c42e-41a3-8742-d6f1417dfb49",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-07-01&endDate=2021-07-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
