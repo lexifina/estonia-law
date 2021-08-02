@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung esmaspäev, 2.08.2021 kell 12.00",
+  "sitting_time": "2021-08-02T12:00:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "94ab48d6-7c4d-4931-8e3d-7d5aa55239ef"
+    },
+    {
+      "order": 2,
+      "title": "Tutvumine Euroopa Komisjoni kliimapaketi \"Fit for 55\" algatustega (ETS, ESR ja LULUCF)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9e29b92f-e0e3-4d90-b0e9-dbde3f539a39"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7427d6ae-6185-4595-950d-8692890fe0eb"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK protokoll 02.08.2021",
+      "uuid": "3ba335a7-12aa-43ba-b440-014868962e5f",
+      "files": [
+        "KEKK_protokoll_02.08.2021.asice",
+        "KEKK_protokoll_02.08.2021.pdf",
+        "2021_08_02_Fit_for_55_-_erakorraline_keskkonnakomisjon_-_esitlus.pdf"
+      ]
+    }
+  ],
+  "uuid": "321c3898-d4ed-42d6-9331-607da53c7fb5",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 321c3898-d4ed-42d6-9331-607da53c7fb5)",
+  "source": "https://api.riigikogu.ee/api/volumes/321c3898-d4ed-42d6-9331-607da53c7fb5",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-08-01&endDate=2021-08-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
