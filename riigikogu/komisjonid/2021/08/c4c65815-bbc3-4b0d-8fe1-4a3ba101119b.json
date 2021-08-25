@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni avalik erakorraline istung kolmapäev, 25.08.2021 kell 15.00",
+  "sitting_time": "2021-08-25T15:00:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "68873fb0-fed3-4814-baf4-919212a8c2d2"
+    },
+    {
+      "order": 2,
+      "title": "Riigisekretäri komisjoni aruande „Terviseameti ravimite külmlao rikke põhjustanud asjaolude väljaselgitamise kohta“ kuulamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5f98a419-f972-4c19-8809-56ff99457ee5"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "547aba82-7b20-4093-b798-49646c3067e0"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "a3fb7e31-e5b6-4bd9-ba10-e11cd0735cb3",
+      "files": [
+        "Protokoll.asice",
+        "Protokoll_nr_162_(25.08.2021).docx",
+        "Dokument.pdf"
+      ]
+    }
+  ],
+  "uuid": "c4c65815-bbc3-4b0d-8fe1-4a3ba101119b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c4c65815-bbc3-4b0d-8fe1-4a3ba101119b)",
+  "source": "https://api.riigikogu.ee/api/volumes/c4c65815-bbc3-4b0d-8fe1-4a3ba101119b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-08-01&endDate=2021-08-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
