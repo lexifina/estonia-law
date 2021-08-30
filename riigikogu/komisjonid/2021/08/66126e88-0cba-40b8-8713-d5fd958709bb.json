@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung esmaspäev, 30.08.2021 kell 11.00",
+  "sitting_time": "2021-08-30T11:00:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "50dd6b89-c5a9-45d1-b27a-75d6f4e1d548"
+    },
+    {
+      "order": 2,
+      "title": "Õiguskomisjoni esimees teatab oma tagasiastumisest õiguskomisjoni esimehe kohalt seoses tema valimisega Eesti Keskerakonna fraktsiooni esimeheks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e7aa90f1-834f-4d7e-8bc8-975455979488"
+    },
+    {
+      "order": 3,
+      "title": "Õiguskomisjoni esimehe ja aseesimehe valimine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a81c648c-3ec8-4826-a454-6e4d457da521"
+    },
+    {
+      "order": 4,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "41bb52ef-7a6a-4612-9606-bcab9efb2bf3"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ÕIGK protokoll 30.08.2021",
+      "uuid": "3bbc481c-0920-4ad0-b097-bdc5e3e81066",
+      "files": [
+        "ÕIGK_protokoll_30.08.2021.asice",
+        "ÕIGK.protokoll.30.08.2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "66126e88-0cba-40b8-8713-d5fd958709bb",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 66126e88-0cba-40b8-8713-d5fd958709bb)",
+  "source": "https://api.riigikogu.ee/api/volumes/66126e88-0cba-40b8-8713-d5fd958709bb",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-08-01&endDate=2021-08-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
