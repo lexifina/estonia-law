@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung neljapäev, 2.09.2021 kell 12.00",
+  "sitting_time": "2021-09-02T12:00:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ac297c2c-6751-4ba9-9ca3-7d0d20d0b6dd"
+    },
+    {
+      "order": 2,
+      "title": "Tutvumine Euroopa Komisjoni poolt Eesti suhtes algatatud rikkumismenetlusega INFR(2021)4029 C(2021)2217 (Loodusdirektiivi ja keskkonnamõju hindamise direktiivi teatavate sätete mittevastav ülevõtmine ja halb kohaldamine)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c88b1b15-70ab-41a3-9424-df39ee97239f"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "730e2e0a-b3f6-4f63-9eac-8f56e7f1270a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK protokoll 02.09.2021",
+      "uuid": "562aef8d-6f40-441a-9a3c-e9a69a0d5f5d",
+      "files": [
+        "KEKK_protokoll_02.09.2021.asice",
+        "KEKK_protokoll_02.09.2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "fa4506d8-df78-49d8-ba76-2a1af3864263",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid fa4506d8-df78-49d8-ba76-2a1af3864263)",
+  "source": "https://api.riigikogu.ee/api/volumes/fa4506d8-df78-49d8-ba76-2a1af3864263",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-09-01&endDate=2021-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
