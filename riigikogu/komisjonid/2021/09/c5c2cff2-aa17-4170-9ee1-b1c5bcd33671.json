@@ -1,0 +1,43 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 6.09.2021 kell 10.00",
+  "sitting_time": "2021-09-06T10:00:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikontrolli kontrolliaruande „Riigi 2020. aasta raamatupidamise aastaaruande õigsus ja tehingute seaduslikkus“ arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "202068b8-68ee-47ec-9604-d06e553173e0"
+    },
+    {
+      "order": 2,
+      "title": "Terviseameti ravimite külmlao rikke põhjustanud asjaolude väljaselgitamise jätkuarutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7f4b1eb6-4d8e-4c6c-8e7d-e34173f50823"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 6.09.2021",
+      "uuid": "38e8bdd6-12d3-4a43-ab2c-64f6a4665cbd",
+      "files": [
+        "jürgenson.pdf",
+        "Asendusliige_J.Ossinovski_06092021.asice",
+        "REKK_protokoll_6.09.2021.asice",
+        "Protokoll_nr_86_06.09.2021.pdf",
+        "Asendusliige_J.Ossinovski_06092021.docx"
+      ]
+    }
+  ],
+  "uuid": "c5c2cff2-aa17-4170-9ee1-b1c5bcd33671",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c5c2cff2-aa17-4170-9ee1-b1c5bcd33671)",
+  "source": "https://api.riigikogu.ee/api/volumes/c5c2cff2-aa17-4170-9ee1-b1c5bcd33671",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-09-01&endDate=2021-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
