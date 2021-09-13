@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung esmaspäev, 13.09.2021 kell 11.00",
+  "sitting_time": "2021-09-13T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "69d8d9aa-2eee-416f-978e-955f91203ddd"
+    },
+    {
+      "order": 2,
+      "title": "Väliskomisjoni VI istungjärgu töökava arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "edbb6ad3-b8ed-44b9-998a-4e0edf0d3869"
+    },
+    {
+      "order": 3,
+      "title": "Informatsioon julgeolekuolukorra arengutest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1155ca0f-dff2-4554-b861-ed31a34a4963"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2f33def8-75f9-4dcf-aa6a-a1002bb7e28f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 13.09.2021",
+      "uuid": "9ed31fe2-401c-4eef-b53e-4b07d6524921",
+      "files": [
+        "VÄLK_protokoll_13.09.2021.asice",
+        "VÄLK_protokoll_13.09.2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "d5a13156-7c8a-4811-a8c2-e21db7355d9e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d5a13156-7c8a-4811-a8c2-e21db7355d9e)",
+  "source": "https://api.riigikogu.ee/api/volumes/d5a13156-7c8a-4811-a8c2-e21db7355d9e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-09-01&endDate=2021-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
