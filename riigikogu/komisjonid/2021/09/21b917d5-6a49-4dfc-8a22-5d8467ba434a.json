@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 13.09.2021 kell 11.10",
+  "sitting_time": "2021-09-13T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6f000c02-48e8-4e71-ae2f-f218877ea268"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade Maaeluministeeriumi tööplaanist",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4b8a957b-599d-4f91-b987-2c21755f4f55"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "eee35e53-35a6-4ff6-8a3c-e94646a5ee9f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 13.09.2021",
+      "uuid": "104abe27-c458-44c1-a352-19fe3cbdc4a9",
+      "files": [
+        "MAEK_protokoll_13.09.2021.asice",
+        "114_protokoll_13.09.2021.pdf",
+        "114_protokolli_lisa_MeM_esitlus.pdf"
+      ]
+    }
+  ],
+  "uuid": "21b917d5-6a49-4dfc-8a22-5d8467ba434a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 21b917d5-6a49-4dfc-8a22-5d8467ba434a)",
+  "source": "https://api.riigikogu.ee/api/volumes/21b917d5-6a49-4dfc-8a22-5d8467ba434a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-09-01&endDate=2021-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
