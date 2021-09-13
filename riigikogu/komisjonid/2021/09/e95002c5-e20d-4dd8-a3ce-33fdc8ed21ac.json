@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung esmaspäev, 13.09.2021 kell 11.10",
+  "sitting_time": "2021-09-13T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4045c1e3-df97-4dbb-802c-4be128b1115e"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade Sotsiaalministeeriumi töökavadest ja tegevusplaanidest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dbc63ad3-0b14-48b8-acf2-319118f6f8c5"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "845b6c6a-ad1c-494d-815b-600205c628db"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "SOTK protokoll",
+      "uuid": "a2076485-c5e5-4e87-af11-f47b837300fa",
+      "files": [
+        "SOTK_protokoll.asice",
+        "Protokoll_nr_164_(13.09.2021).pdf",
+        "Lisa_1.pptx"
+      ]
+    }
+  ],
+  "uuid": "e95002c5-e20d-4dd8-a3ce-33fdc8ed21ac",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e95002c5-e20d-4dd8-a3ce-33fdc8ed21ac)",
+  "source": "https://api.riigikogu.ee/api/volumes/e95002c5-e20d-4dd8-a3ce-33fdc8ed21ac",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-09-01&endDate=2021-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
