@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung teisipäev, 14.09.2021 kell 14.00",
+  "sitting_time": "2021-09-14T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Valgevene arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ec3c1652-3b80-43dc-92ad-347637c14164"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu liikmete algatatud Riigikogu avaldus \"Venemaa põlisrahvaste toetuseks\" (391 AE) - arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b9c27db9-ba5f-452e-b55e-1349f09c2227"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4d25da6e-b500-4100-809a-cb705a596c86"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 14.09.2021",
+      "uuid": "41848c92-9d33-4b3f-8b44-538573a56c1a",
+      "files": [
+        "VÄLK_protokoll_14.09.2021.asice",
+        "VÄLK_protokoll_14.09.2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "04e37a35-894f-4928-925c-fa05f8e1f393",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 04e37a35-894f-4928-925c-fa05f8e1f393)",
+  "source": "https://api.riigikogu.ee/api/volumes/04e37a35-894f-4928-925c-fa05f8e1f393",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-09-01&endDate=2021-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
