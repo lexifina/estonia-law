@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung teisipäev, 14.09.2021 kell 14.00",
+  "sitting_time": "2021-09-14T14:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Äriseadustiku ja raamatupidamise seaduse muutmise seadus (digilahendused äriühinguõiguses) (394 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8c0d317c-74ae-4676-ac34-bb58b28bbe58"
+    },
+    {
+      "order": 2,
+      "title": "Töölepingu seaduse ja maksukorralduse seaduse muutmise seaduse eelnõu (403 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "25c658b5-1b2a-4a09-8474-fe9f18cf31c1"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ÕiGK protokoll 14.09.2021",
+      "uuid": "186bbe7a-2c6f-489c-b34e-3282d98c6d6d",
+      "files": [
+        "ÕiGK_protokoll_14.09.2021.asice",
+        "ÕIGK.protokoll.14.09.2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "8bf8d605-6273-4d8e-9f09-00762e8573f1",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8bf8d605-6273-4d8e-9f09-00762e8573f1)",
+  "source": "https://api.riigikogu.ee/api/volumes/8bf8d605-6273-4d8e-9f09-00762e8573f1",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-09-01&endDate=2021-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
