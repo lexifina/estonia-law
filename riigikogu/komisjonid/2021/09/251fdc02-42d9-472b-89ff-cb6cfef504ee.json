@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung teisipäev, 14.09.2021 kell 14.00",
+  "sitting_time": "2021-09-14T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade julgeolekuolukorra arengutest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8c57f50d-9dbb-488c-a08a-a423385d6695"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade Eesti tegevusest ÜRO Julgeolekunõukogu valitud liikmena",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3ec8310c-7eb2-49c8-9d6e-8e24f0acd4c4"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RIKK 14.09.2021 protokoll",
+      "uuid": "3bc069bb-de0a-4ac2-b4ba-5a7b03c5be6d",
+      "files": [
+        "RIKK_14.09.2021_protokoll.asice",
+        "Protokoll_nr_130__14.09.2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "251fdc02-42d9-472b-89ff-cb6cfef504ee",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 251fdc02-42d9-472b-89ff-cb6cfef504ee)",
+  "source": "https://api.riigikogu.ee/api/volumes/251fdc02-42d9-472b-89ff-cb6cfef504ee",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-09-01&endDate=2021-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
