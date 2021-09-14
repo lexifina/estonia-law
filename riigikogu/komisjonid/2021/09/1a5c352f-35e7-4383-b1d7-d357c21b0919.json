@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 14.09.2021 kell 14.00",
+  "sitting_time": "2021-09-14T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade olukorrast põllumajanduses",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c4b8ca48-ecd6-4f62-9d32-e4a2fcfebb58"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6610ecd5-ca41-4326-ad90-a1756b8bea4e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 14.09.2021",
+      "uuid": "6bed0888-b0a6-4433-b612-c830aca1c098",
+      "files": [
+        "MAEK_protokoll_14.09.2021.asice",
+        "115_protokoll_14.09.2021.pdf",
+        "115_protokolli_lisa_EPKK.pdf"
+      ]
+    }
+  ],
+  "uuid": "1a5c352f-35e7-4383-b1d7-d357c21b0919",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 1a5c352f-35e7-4383-b1d7-d357c21b0919)",
+  "source": "https://api.riigikogu.ee/api/volumes/1a5c352f-35e7-4383-b1d7-d357c21b0919",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-09-01&endDate=2021-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
