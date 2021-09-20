@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung esmaspäev, 20.09.2021 kell 11.00",
+  "sitting_time": "2021-09-20T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "12a0d681-f6e2-4384-b3ed-7aa4e3ef76e0"
+    },
+    {
+      "order": 2,
+      "title": "Hiina arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "526497f3-e147-4c4b-8f4d-ef15464633d3"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b231d871-068c-4e3c-81aa-d07f26333207"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 20.09.2021",
+      "uuid": "59b74290-6128-46a2-b1af-acde4b35a080",
+      "files": [
+        "VÄLK_protokoll_20.09.2021.asice",
+        "VÄLK_protokoll_20.09.2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "4b1084a7-1830-4c74-9a08-95c7d1ac0085",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 4b1084a7-1830-4c74-9a08-95c7d1ac0085)",
+  "source": "https://api.riigikogu.ee/api/volumes/4b1084a7-1830-4c74-9a08-95c7d1ac0085",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-09-01&endDate=2021-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
