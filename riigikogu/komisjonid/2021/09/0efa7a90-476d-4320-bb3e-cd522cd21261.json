@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 20.09.2021 kell 13.15",
+  "sitting_time": "2021-09-20T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f8854926-4d89-404b-8be8-199e9331a370"
+    },
+    {
+      "order": 2,
+      "title": "CO2 kvoodi hinnatõusu mõju riigieelarvele ja ühiskonnale",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f828a7a4-ffc1-4492-8c68-5da346774743"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "485906bb-e34a-4821-ab07-d5072f7d0f18"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 20.09.2021",
+      "uuid": "d09c26fe-a83c-476f-acf3-337f31a45b50",
+      "files": [
+        "REKK_protokoll_20.09.2021.asice",
+        "Protokoll_nr_88_20.09.2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "0efa7a90-476d-4320-bb3e-cd522cd21261",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0efa7a90-476d-4320-bb3e-cd522cd21261)",
+  "source": "https://api.riigikogu.ee/api/volumes/0efa7a90-476d-4320-bb3e-cd522cd21261",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-09-01&endDate=2021-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
