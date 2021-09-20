@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung esmaspäev, 20.09.2021 kell 11.00",
+  "sitting_time": "2021-09-20T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1fca7e2e-b3f5-45ac-97f4-9b9c49cdce16"
+    },
+    {
+      "order": 2,
+      "title": "Kuulamine riigikaitse valdkonna aktuaalsetel teemadel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b5aa6e85-c509-4a88-8d02-244ca992f003"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a8bce69f-8148-422e-9e1b-f70ed1f29112"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RIKK 20.09.2021 protokoll",
+      "uuid": "0a31803e-0f3a-4e60-8b15-028e05fec17f",
+      "files": [
+        "RIKK_20.09.2021_protokoll.asice",
+        "Protokoll_nr_131__20.09.2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "cf4ce60d-cd4d-401d-b547-732b67d01190",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid cf4ce60d-cd4d-401d-b547-732b67d01190)",
+  "source": "https://api.riigikogu.ee/api/volumes/cf4ce60d-cd4d-401d-b547-732b67d01190",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-09-01&endDate=2021-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
