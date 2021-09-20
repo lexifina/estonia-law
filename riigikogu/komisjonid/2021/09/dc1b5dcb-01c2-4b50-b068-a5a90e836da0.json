@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 20.09.2021 kell 11.10",
+  "sitting_time": "2021-09-20T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "278220c5-fb1e-4439-904f-76073eb6e114"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine põllumeeste ühistu KEVILI juhtidega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4f2b8a80-8435-4ab2-bf91-d5dce67f9141"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "732b9787-5b1f-4e42-b9da-88dde5984e27"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 20.09.2021",
+      "uuid": "8f7e5f05-d749-430d-b1fd-84b5590c0fca",
+      "files": [
+        "116_protokoll_20.09.2021.pdf",
+        "MAEK_protokoll_20.09.2021.asice"
+      ]
+    }
+  ],
+  "uuid": "dc1b5dcb-01c2-4b50-b068-a5a90e836da0",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid dc1b5dcb-01c2-4b50-b068-a5a90e836da0)",
+  "source": "https://api.riigikogu.ee/api/volumes/dc1b5dcb-01c2-4b50-b068-a5a90e836da0",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-09-01&endDate=2021-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
