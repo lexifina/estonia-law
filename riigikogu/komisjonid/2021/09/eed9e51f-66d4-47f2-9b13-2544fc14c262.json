@@ -1,0 +1,49 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung teisipäev, 21.09.2021 kell 14.00",
+  "sitting_time": "2021-09-21T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti-Rootsi Vaimse Tervise ja Suitsidoloogia Instituudi raporti \"Enesetappude ja enesetapukatsete epidemioloogiline ülevaade Eestis\" tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8e2eefbe-7846-4d3a-969f-cbf5436b9766"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade COVID-19 hetkeolukorrast Eestis - avalik istung",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "43413deb-0318-4c6c-abb7-21629c5a7518"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b0f3c4e5-62c6-480a-ab9d-23e076456f46"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "SOTK protokoll",
+      "uuid": "47f92f4a-1f16-4937-9e0e-c8b39bec7e0b",
+      "files": [
+        "SOTK_protokoll.asice",
+        "Protokoll_nr_167_(21.09.2021)_(1).pdf",
+        "Lisa3_R.Sannik.pptx",
+        "Lisa2_M.-A.Härma.pptx",
+        "Lisa1_T.Kiik.pptx"
+      ]
+    }
+  ],
+  "uuid": "eed9e51f-66d4-47f2-9b13-2544fc14c262",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid eed9e51f-66d4-47f2-9b13-2544fc14c262)",
+  "source": "https://api.riigikogu.ee/api/volumes/eed9e51f-66d4-47f2-9b13-2544fc14c262",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-09-01&endDate=2021-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
