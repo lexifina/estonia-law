@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung teisipäev, 21.09.2021 kell 14.00",
+  "sitting_time": "2021-09-21T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikogu otsus \"Perioodi 2021-2027 Euroopa Liidu ühtekuuluvuspoliitika fondide rakendamise põhimõtete heakskiitmine regionaalse ebavõrdsuse vähendamiseks\" (390 OE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "202decbc-019a-4b20-bd77-a004536d199c"
+    },
+    {
+      "order": 2,
+      "title": "info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fef35af1-a694-4d2d-9e6e-d81d7518dce2"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 21.09.2021",
+      "uuid": "cff3c12e-490e-4d3b-bce9-83f15386679e",
+      "files": [
+        "RAHK_protokoll_21.09.2021.asice",
+        "RAHK_protokoll_152_21_09_2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "83b0f204-2a93-49ac-9dfc-0f6a454983c1",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 83b0f204-2a93-49ac-9dfc-0f6a454983c1)",
+  "source": "https://api.riigikogu.ee/api/volumes/83b0f204-2a93-49ac-9dfc-0f6a454983c1",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-09-01&endDate=2021-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
