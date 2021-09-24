@@ -1,0 +1,54 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung reede, 24.09.2021 kell 10.00",
+  "sitting_time": "2021-09-24T10:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c21c3131-7633-4a06-b2dc-99f59b179ead"
+    },
+    {
+      "order": 2,
+      "title": "Parlamentaarne arutelu: Euroopa Komisjoni keskkonnapaketi „Eesmärk 55“ sissejuhatav kuulamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "134a45e2-3156-4122-8aff-2e39ad80cefd"
+    },
+    {
+      "order": 3,
+      "title": "Ülevaade ELi heitkoguste kauplemissüsteemist ja selle muudatustest seoses „Eesmärk 55“ paketiga",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0f33b558-3c8f-45ef-9923-c7625984f205"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4483764c-858a-411f-889b-9c6927440447"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ELAK protokoll 24.09",
+      "uuid": "d373efe8-1458-4aeb-baaa-001421a5f8ed",
+      "files": [
+        "KEM_ELAK_24092021.pdf",
+        "GD_PPP_ET_240921.PPTX",
+        "ELAK_protokoll_24.09.asice",
+        "ELAK_protokoll_24.09.2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "43c574f7-eae9-44a7-a3ef-f52dad2a70c3",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 43c574f7-eae9-44a7-a3ef-f52dad2a70c3)",
+  "source": "https://api.riigikogu.ee/api/volumes/43c574f7-eae9-44a7-a3ef-f52dad2a70c3",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-09-01&endDate=2021-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
