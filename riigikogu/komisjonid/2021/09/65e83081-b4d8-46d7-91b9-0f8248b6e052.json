@@ -1,0 +1,34 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung esmaspäev, 27.09.2021 kell 11.00",
+  "sitting_time": "2021-09-27T11:05:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "42eb7921-858c-4616-b163-22a335789a22"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ÕIGK protokoll 27.09.2021",
+      "uuid": "a0afdeeb-8e39-419b-89dd-d991e0376719",
+      "files": [
+        "ÕIGK_protokoll_27.09.2021.asice",
+        "ÕIGK.protokoll.27.09.2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "65e83081-b4d8-46d7-91b9-0f8248b6e052",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 65e83081-b4d8-46d7-91b9-0f8248b6e052)",
+  "source": "https://api.riigikogu.ee/api/volumes/65e83081-b4d8-46d7-91b9-0f8248b6e052",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-09-01&endDate=2021-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
