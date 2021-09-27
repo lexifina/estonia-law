@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung esmaspäev, 27.09.2021",
+  "sitting_time": "2021-09-27T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d31016c7-456a-4bb4-9d7c-f335c28d0d06"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud töölepingu seaduse muutmise ja sellega seonduvalt teiste seaduste muutmise seaduse eelnõu 361 SE arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7c374c18-251b-4c7b-a55e-11eb89164a93"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4d03a8d4-904f-45c2-821b-381783e9876f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "SOTK protokoll",
+      "uuid": "14dfb226-bb92-4314-b2a6-4fd3ecf997af",
+      "files": [
+        "SOTK_protokoll.asice",
+        "Protokoll_nr_168_(27.09.2021).pdf"
+      ]
+    }
+  ],
+  "uuid": "bcf6c2fc-156f-4b7f-8a0c-bf638933fcda",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid bcf6c2fc-156f-4b7f-8a0c-bf638933fcda)",
+  "source": "https://api.riigikogu.ee/api/volumes/bcf6c2fc-156f-4b7f-8a0c-bf638933fcda",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-09-01&endDate=2021-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
