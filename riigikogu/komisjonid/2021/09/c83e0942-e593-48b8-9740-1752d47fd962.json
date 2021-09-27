@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung esmaspäev, 27.09.2021 kell 11.10",
+  "sitting_time": "2021-09-27T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8f372471-7de1-42c6-bf7c-1921064b9624"
+    },
+    {
+      "order": 2,
+      "title": "Kollektiivse pöördumise \"Kohustuslik pesitsusrahu Looduskaitseseadusesse!\" arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fee1867e-ae55-4f25-9edf-f4890d56ac32"
+    },
+    {
+      "order": 3,
+      "title": "Kollektiivse pöördumise \"Kaitseme koos Eesti merd! Keelustame STS-operatsioonid Eesti merel\" arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ca2ebfbb-8487-48f2-afc4-60424f17ce63"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK protokoll 27.09.2021",
+      "uuid": "90c01716-2c1c-4609-9a72-86b3cffc2686",
+      "files": [
+        "KEKK_protokoll_27.09.2021.asice",
+        "Petitsiooni_esitlus.pdf",
+        "KEKK_protokoll_27.09.2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "c83e0942-e593-48b8-9740-1752d47fd962",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c83e0942-e593-48b8-9740-1752d47fd962)",
+  "source": "https://api.riigikogu.ee/api/volumes/c83e0942-e593-48b8-9740-1752d47fd962",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-09-01&endDate=2021-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
