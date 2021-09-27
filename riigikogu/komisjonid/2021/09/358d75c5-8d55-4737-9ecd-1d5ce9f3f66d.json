@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 27.09.2021 kell 13.15",
+  "sitting_time": "2021-09-27T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bfdef093-065c-453d-bf22-6fa924fdf7da"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli ülevaate „Omavalitsuse teenuste korraldus endistes keskustes ja nende lähiümbruses pärast haldusreformi“ arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "75ae84e0-c6df-47c5-8c55-7035e58ea395"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "255cb9f3-9389-4878-a0bd-f2e921559da9"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 27.09.2021",
+      "uuid": "80e7d380-72e5-4370-b335-9e2cc3019817",
+      "files": [
+        "REKK_protokoll_27.09.2021.asice",
+        "Protokoll_nr_89_27.09.2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "358d75c5-8d55-4737-9ecd-1d5ce9f3f66d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 358d75c5-8d55-4737-9ecd-1d5ce9f3f66d)",
+  "source": "https://api.riigikogu.ee/api/volumes/358d75c5-8d55-4737-9ecd-1d5ce9f3f66d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-09-01&endDate=2021-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
