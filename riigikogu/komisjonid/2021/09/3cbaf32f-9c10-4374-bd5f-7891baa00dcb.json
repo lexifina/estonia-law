@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Korruptsioonivastane erikomisjon",
+  "committee_uuid": "e4f2977a-e8c3-4fa0-8f3d-9df9acd6377f",
+  "title": "Komisjoni istung esmaspäev, 27.09.2021 kell 13.30",
+  "sitting_time": "2021-09-27T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "07c4363a-4c80-478f-b4b3-0a6d7037b8a2"
+    },
+    {
+      "order": 2,
+      "title": "Huvide deklaratsioonide esitajate ringi arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "73585c11-a3b5-4781-9e0c-de8ca75751aa"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2cdf6e04-4758-4b19-8c2b-22cd1d7e8c1e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KVEK protokoll 27.09.2021",
+      "uuid": "605eeabb-760d-49f6-bf1c-6efa8482e6ae",
+      "files": [
+        "KVEK_protokoll_27.09.2021.asice",
+        "KVEK_protokoll_27.09.2021.pdf",
+        "HD_deklarantide_ringi_areng_2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "3cbaf32f-9c10-4374-bd5f-7891baa00dcb",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3cbaf32f-9c10-4374-bd5f-7891baa00dcb)",
+  "source": "https://api.riigikogu.ee/api/volumes/3cbaf32f-9c10-4374-bd5f-7891baa00dcb",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-09-01&endDate=2021-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
