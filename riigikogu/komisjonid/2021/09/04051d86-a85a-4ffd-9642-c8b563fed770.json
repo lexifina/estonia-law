@@ -1,0 +1,53 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 27.09.2021 kell 11.10",
+  "sitting_time": "2021-09-27T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b98c00f1-10a2-4da1-97e7-7f3326eb5ae1"
+    },
+    {
+      "order": 2,
+      "title": "Maareformi seaduse ja teiste seaduste muutmise seaduse eelnõu 418 SE arutelu esimesele lugemisele saatmiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "832d3fa5-a692-45a2-9c29-5f3c2720a9a9"
+    },
+    {
+      "order": 3,
+      "title": "Ülevaade Keskkonnainvesteeringute Keskuse ja Erametsakeskuse liitmise kavast",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e5e8358a-f5cb-4101-8503-550f60b9dffa"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c0ffea23-2573-4b07-b439-08aae2774da3"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 27.09.2021",
+      "uuid": "13384487-67b8-4a4a-9c99-29255ca88daf",
+      "files": [
+        "117_protokolli_lisa_MaaRS_muutmine.pdf",
+        "MAEK_protokoll_27.09.2021.asice",
+        "117_protokoll_27.09.2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "04051d86-a85a-4ffd-9642-c8b563fed770",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 04051d86-a85a-4ffd-9642-c8b563fed770)",
+  "source": "https://api.riigikogu.ee/api/volumes/04051d86-a85a-4ffd-9642-c8b563fed770",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-09-01&endDate=2021-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
