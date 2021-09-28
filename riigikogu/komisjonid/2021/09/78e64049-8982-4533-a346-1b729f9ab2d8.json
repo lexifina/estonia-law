@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 28.09.2021 kell 14.00",
+  "sitting_time": "2021-09-28T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Veterinaarseaduse eelnõu 384 SE arutelu teisele lugemisele saatmiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "93f48ffc-7d0e-4a52-a89b-57cad971da05"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0cfb0bc7-4839-4177-88f2-ef4b88809030"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 28.09.2021",
+      "uuid": "132dc945-5271-4316-99f0-e4a851c4e8d5",
+      "files": [
+        "118_protokoll_28.09.2021.pdf",
+        "MAEK_protokoll_28.09.2021.asice"
+      ]
+    }
+  ],
+  "uuid": "78e64049-8982-4533-a346-1b729f9ab2d8",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 78e64049-8982-4533-a346-1b729f9ab2d8)",
+  "source": "https://api.riigikogu.ee/api/volumes/78e64049-8982-4533-a346-1b729f9ab2d8",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-09-01&endDate=2021-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
