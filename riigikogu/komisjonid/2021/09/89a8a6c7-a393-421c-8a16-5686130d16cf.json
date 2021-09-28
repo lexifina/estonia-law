@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung teisipäev, 28.09.2021 kell 14.00",
+  "sitting_time": "2021-09-28T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Aktuaalsed välispoliitilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b1069cb3-4ef5-458c-91b1-d2be32696e61"
+    },
+    {
+      "order": 2,
+      "title": "Venemaa arutelu – ülevaade arengutest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0f157113-352a-49b2-b00a-6cab003ce606"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "57b2b25a-34aa-4928-aeba-0b217b210475"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 28.09.2021",
+      "uuid": "d43b60cd-59bf-420b-8c18-306ffed11b64",
+      "files": [
+        "VÄLK_protokoll_28.09.2021.asice",
+        "VÄLK_protokoll_28.09.2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "89a8a6c7-a393-421c-8a16-5686130d16cf",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 89a8a6c7-a393-421c-8a16-5686130d16cf)",
+  "source": "https://api.riigikogu.ee/api/volumes/89a8a6c7-a393-421c-8a16-5686130d16cf",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-09-01&endDate=2021-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
