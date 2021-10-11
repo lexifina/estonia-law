@@ -1,0 +1,43 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Keskkonnakomisjoni ja maaelukomisjoni ühine istung esmaspäev, 11.10.2021 kell 11.10",
+  "sitting_time": "2021-10-11T11:10:00",
+  "sitting_type": "UHISISTUNG",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c74b69d9-39cf-48ba-964f-b897d18d393e"
+    },
+    {
+      "order": 2,
+      "title": "Mahepõllumajandustoetuste kavandatavate toetusmäärade arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "02c1b348-fac1-46b5-9254-0836b16e95ce"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK ja MAEK protokoll 11.10.2021",
+      "uuid": "71d88346-b113-4531-a986-97049a91e426",
+      "files": [
+        "KEKK_ja_MAEK_protokoll_11.10.2021.asice",
+        "asendus11okt(Akkermann).asice",
+        "KEKK_ja_MAEK_protokoll_11.10.2021.pdf",
+        "asendus11okt.docx",
+        "riigikogu_mahetoetus_11102021_s.pdf"
+      ]
+    }
+  ],
+  "uuid": "1046d067-1f7e-46c4-8b22-d4288c2ee42c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 1046d067-1f7e-46c4-8b22-d4288c2ee42c)",
+  "source": "https://api.riigikogu.ee/api/volumes/1046d067-1f7e-46c4-8b22-d4288c2ee42c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-10-01&endDate=2021-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
