@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung esmaspäev, 11.10.2021 kell 11.15",
+  "sitting_time": "2021-10-11T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5f2a8231-881e-446b-b598-494c4b126848"
+    },
+    {
+      "order": 2,
+      "title": "2022. aasta riigieelarve seaduse eelnõu (464 SE). Osaleb kaitseminister Kalle Laanet.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c6841c07-3331-4ef4-93cd-ac562bdfa0f2"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "15edd577-ce66-4d72-bf55-1f06e49b62ce"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 11.10.2021",
+      "uuid": "4b80949f-051a-4f60-b6a4-5fbbe3214968",
+      "files": [
+        "RAHK_protokoll_11.10.2021.asice",
+        "RAHK_protokoll_156_11_10_2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "ea329c0c-9965-45dd-be76-c99e2c305775",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ea329c0c-9965-45dd-be76-c99e2c305775)",
+  "source": "https://api.riigikogu.ee/api/volumes/ea329c0c-9965-45dd-be76-c99e2c305775",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-10-01&endDate=2021-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
