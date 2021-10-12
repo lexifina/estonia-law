@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung teisipäev, 12.10.2021 kell 14.00",
+  "sitting_time": "2021-10-12T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Istungi päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f6f7db35-cacc-4541-85b2-6481d1cbd658"
+    },
+    {
+      "order": 2,
+      "title": "Keskkonnaseire seaduse muutmise seaduse eelnõu (440 SE) ettevalmistamine esimeseks lugemiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6855d550-2540-4d96-ac3e-fec901542aa9"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK protokoll 12.10.2021",
+      "uuid": "9d1f9941-5cdc-4fda-bb4e-6941878481ed",
+      "files": [
+        "KEKK_protokoll_12.10.2021.pdf",
+        "Tasulised_teenused_2021.pdf",
+        "KEKK_protokoll_12.10.2021.asice"
+      ]
+    }
+  ],
+  "uuid": "6708da36-4524-4e83-b3d7-ff763e31b405",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 6708da36-4524-4e83-b3d7-ff763e31b405)",
+  "source": "https://api.riigikogu.ee/api/volumes/6708da36-4524-4e83-b3d7-ff763e31b405",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-10-01&endDate=2021-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
