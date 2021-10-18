@@ -1,0 +1,42 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 18.10.2021 kell 13.15",
+  "sitting_time": "2021-10-18T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cd2116d9-23bd-45c6-8f77-cda76aaf05f5"
+    },
+    {
+      "order": 2,
+      "title": "Riigieelarve seaduse muutmise seaduse eelnõu (436 SE) ning 2022. aasta riigieelarve seaduse eelnõu (464 SE) tutvustus ning arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e24227f2-65a2-4938-abcc-fad73e7b3f8d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll_18.10.2021",
+      "uuid": "e5f8b164-7e98-48df-914d-2d9dece0d9b7",
+      "files": [
+        "Baasseadus_komisjonides.pptx",
+        "REKK_protokoll_18.10.2021.asice",
+        "Protokoll_nr_92_18.10.2021.pdf",
+        "2022RE_komisjonides.pptx"
+      ]
+    }
+  ],
+  "uuid": "8faedb8b-2ac5-4865-982d-7da4d8929c86",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8faedb8b-2ac5-4865-982d-7da4d8929c86)",
+  "source": "https://api.riigikogu.ee/api/volumes/8faedb8b-2ac5-4865-982d-7da4d8929c86",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-10-01&endDate=2021-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
