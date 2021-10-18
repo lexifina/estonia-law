@@ -1,0 +1,48 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 18.10.2021 kell 11.10",
+  "sitting_time": "2021-10-18T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "af7e5112-d8ed-4d54-9b8d-0adb402ad600"
+    },
+    {
+      "order": 2,
+      "title": "ÜPP strateegiakava põllumajanduse jaoks oluliste ja seniste läbirääkimiste käigus lahtiseks jäänud sõlmpunktide arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "02ab3203-909a-4417-9ac1-73f6ecc8d88d"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6632dfb8-9d2f-4ba5-b236-c92491e07d36"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 18.10.2021",
+      "uuid": "c38acdae-1baf-45da-bf85-3932c18ed11a",
+      "files": [
+        "MAEK_protokoll_18.10.2021.asice",
+        "120_protokoll_18.10.2021.pdf",
+        "120_protokolli_lisa_2_ÜPP_toetuste_jaotus_Viira.pdf",
+        "120_protokolli_lisa_1_ÜPP_strateegiakava_MEM.pdf"
+      ]
+    }
+  ],
+  "uuid": "94e19cc1-cf8d-4580-8ec9-81c954e9ae53",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 94e19cc1-cf8d-4580-8ec9-81c954e9ae53)",
+  "source": "https://api.riigikogu.ee/api/volumes/94e19cc1-cf8d-4580-8ec9-81c954e9ae53",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-10-01&endDate=2021-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
