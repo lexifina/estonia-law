@@ -1,0 +1,49 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung teisipäev, 19.10.2021 kell 14.00",
+  "sitting_time": "2021-10-19T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Maa hindamise seaduse, maamaksuseaduse ja teiste seaduste muutmise seaduse eelnõu (406 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "09e598c3-db6d-4203-b53f-9c9b8514627b"
+    },
+    {
+      "order": 2,
+      "title": "Pandikirjaseaduse ja teiste seaduste muutmise seaduse eelnõu (407 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "31d6b3fb-fd9f-4344-bca2-1255ec1d70ab"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fcc8b177-4e63-492c-8aec-9548d6391acf"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 19.10.2021",
+      "uuid": "46568893-cf71-40d4-8baa-fe6d15d41daa",
+      "files": [
+        "RAHK_protokoll_19.10.2021.asice",
+        "RAHK_protokoll_159_19_10_2021.pdf",
+        "RAM_406_SE_slaidid_19.10.2021.pdf",
+        "asendusRahanduskomisjon.docx",
+        "Asendusliikme_volikiri_19.10.2021_D.Dmitrijevi_asendusliige.asice"
+      ]
+    }
+  ],
+  "uuid": "a1c84092-1baa-4650-9e45-d1d063055a16",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a1c84092-1baa-4650-9e45-d1d063055a16)",
+  "source": "https://api.riigikogu.ee/api/volumes/a1c84092-1baa-4650-9e45-d1d063055a16",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-10-01&endDate=2021-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
