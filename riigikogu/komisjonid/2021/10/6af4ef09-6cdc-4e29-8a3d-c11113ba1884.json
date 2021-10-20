@@ -1,0 +1,34 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung kolmapäev, 20.10.2021 kell 08.30",
+  "sitting_time": "2021-10-20T08:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Koroonaviiruse levik",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "88c1b4fe-36ed-4488-8c29-88adb29bfb9c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 20.10.2021",
+      "uuid": "d3ea3e50-b29c-49cb-a5a8-b453c2be584f",
+      "files": [
+        "REKK_protokoll_20.10.2021.asice",
+        "Protokoll_nr_93_20.10.2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "6af4ef09-6cdc-4e29-8a3d-c11113ba1884",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 6af4ef09-6cdc-4e29-8a3d-c11113ba1884)",
+  "source": "https://api.riigikogu.ee/api/volumes/6af4ef09-6cdc-4e29-8a3d-c11113ba1884",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-10-01&endDate=2021-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
