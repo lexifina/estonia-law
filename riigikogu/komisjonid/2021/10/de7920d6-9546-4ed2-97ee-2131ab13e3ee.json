@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung esmaspäev, 25.10.2021 kell 11.00",
+  "sitting_time": "2021-10-25T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "02cbe608-9dba-48d4-8f1a-e8b003eaeb81"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7abe04c8-0a8a-43f0-9de0-95a580263977"
+    },
+    {
+      "order": 3,
+      "title": "Ülevaade k.a 21. -22. oktoobril Brüsselis toimunud NATO kaitseministrite kohtumisest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "549aaba2-6dbd-4312-908b-e1c1eafbfd59"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RIKK 25.10.2021 protokoll",
+      "uuid": "9899ead0-640a-4b24-b4c2-1b1d12237b38",
+      "files": [
+        "RIKK_25.10.2021_protokoll.asice",
+        "Protokoll_nr_140__25.10.2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "de7920d6-9546-4ed2-97ee-2131ab13e3ee",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid de7920d6-9546-4ed2-97ee-2131ab13e3ee)",
+  "source": "https://api.riigikogu.ee/api/volumes/de7920d6-9546-4ed2-97ee-2131ab13e3ee",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-10-01&endDate=2021-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
