@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung esmaspäev, 25.10.2021 kell 11.15",
+  "sitting_time": "2021-10-25T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8c4817fe-6012-4830-b7ca-03bdf34a450f"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu otsus \"Riigi 2020. aasta majandusaasta koondaruande kinnitamine\" (432 OE). Osalevad rahandusminister Keit Pentus- Rosimannus ja riigikontrolör Janar Holm.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "74a4285d-e07b-40f7-b5e8-e5a4518fd78a"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "de074fcb-4978-4215-b7bc-4f79f53d5d13"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 25.10.2021",
+      "uuid": "9daac3f3-a57d-4ee3-97f0-dfe20857c98c",
+      "files": [
+        "RAHK_protokoll_25.10.2021.asice",
+        "RAHK_protokoll_160_25_10_2021.pdf",
+        "RAM_432_OE_slaidid_25_10_2021.pptx"
+      ]
+    }
+  ],
+  "uuid": "4cfcb588-380d-4035-bcc7-e7bf9231c8e2",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 4cfcb588-380d-4035-bcc7-e7bf9231c8e2)",
+  "source": "https://api.riigikogu.ee/api/volumes/4cfcb588-380d-4035-bcc7-e7bf9231c8e2",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-10-01&endDate=2021-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
