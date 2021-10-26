@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung teisipäev, 26.10.2021 kell 14.00",
+  "sitting_time": "2021-10-26T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Pandikirjaseaduse ja teiste seaduste muutmise seaduse eelnõu (407 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b8cc9fd8-187e-4d28-ac1c-981978c077fb"
+    },
+    {
+      "order": 2,
+      "title": "2021. aasta riigieelarve seaduse muutmise seaduse eelnõu (431 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b91047a6-26b2-4d63-8d8c-4d52bca25458"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "14bf6dab-1571-4b75-ac72-a5cfc8a1e9db"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 26.10.2021",
+      "uuid": "55bf3acc-69c4-4fa9-aa32-b4450b61829b",
+      "files": [
+        "RAHK_protokoll_26.10.2021.asice",
+        "RAHK_protokoll_161_26_10_2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "750a0621-9e9b-4bb4-87e4-c1fc63655645",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 750a0621-9e9b-4bb4-87e4-c1fc63655645)",
+  "source": "https://api.riigikogu.ee/api/volumes/750a0621-9e9b-4bb4-87e4-c1fc63655645",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-10-01&endDate=2021-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
