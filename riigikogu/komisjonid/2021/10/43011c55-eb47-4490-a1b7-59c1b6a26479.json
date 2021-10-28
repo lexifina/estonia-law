@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung neljapäev, 28.10.2021 kell 14.00, A. Rei ruum",
+  "sitting_time": "2021-10-28T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti Rahvusraamatukogu aastaaruande tutvustamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4714cb6c-936b-487b-93bd-dbff13f3e4c8"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1624d826-176f-4e2f-a8dc-9df2de0dcf01"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KULK protokoll 162 (28.10.2021)",
+      "uuid": "93e5b15f-350f-4e75-8d5f-40c46d4c172e",
+      "files": [
+        "KULK_protokoll_162_(28.10.2021).asice",
+        "Protokoll_162_(28.10.2021).pdf",
+        "tegevusaruanne2020.pdf"
+      ]
+    }
+  ],
+  "uuid": "43011c55-eb47-4490-a1b7-59c1b6a26479",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 43011c55-eb47-4490-a1b7-59c1b6a26479)",
+  "source": "https://api.riigikogu.ee/api/volumes/43011c55-eb47-4490-a1b7-59c1b6a26479",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-10-01&endDate=2021-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
