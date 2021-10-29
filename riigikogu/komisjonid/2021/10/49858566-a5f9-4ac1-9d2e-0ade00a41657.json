@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Euroopa Liidu asjade komisjoni istung",
+  "sitting_time": "2021-10-29T10:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Parlamentaarne arutelu: rohepöörde mõju energeetikale ja Ida-Virumaale",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "191584fc-a8d7-4ef6-a73c-d72a03096598"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6e989cd9-6771-471b-8ed0-92d2abe1d6c2"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ELAK protokoll 29.10",
+      "uuid": "006d62c9-b887-4449-ac09-5cc42da5959b",
+      "files": [
+        "ELAK_protokoll_29.10.2021.pdf",
+        "ELAK_protokoll_29.10.asice"
+      ]
+    }
+  ],
+  "uuid": "49858566-a5f9-4ac1-9d2e-0ade00a41657",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 49858566-a5f9-4ac1-9d2e-0ade00a41657)",
+  "source": "https://api.riigikogu.ee/api/volumes/49858566-a5f9-4ac1-9d2e-0ade00a41657",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-10-01&endDate=2021-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
