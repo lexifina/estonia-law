@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung esmaspäev, 1.11.2021 kell 11.00",
+  "sitting_time": "2021-11-01T11:00:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2b4b5495-dd8f-4282-af99-39c734ca3131"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade ravimite varudest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d1e4de88-87fc-40d9-81fa-cea9ca2e3259"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "35c53c95-2873-4b3f-aab9-38787981ab9e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "SOTK protokoll",
+      "uuid": "d29b1dd3-c2bd-4846-adfb-a17688f42505",
+      "files": [
+        "SOTK_protokoll.asice",
+        "Protokoll_nr_178_(01.11.2021).pdf",
+        "Lisa1_EVK.pdf"
+      ]
+    }
+  ],
+  "uuid": "b73cdb8c-0b35-4103-8129-e7ff8ac0bdb2",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b73cdb8c-0b35-4103-8129-e7ff8ac0bdb2)",
+  "source": "https://api.riigikogu.ee/api/volumes/b73cdb8c-0b35-4103-8129-e7ff8ac0bdb2",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-11-01&endDate=2021-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
