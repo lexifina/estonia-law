@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung esmaspäev, 8.11.2021 kell 11.00",
+  "sitting_time": "2021-11-08T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7ad842a4-bfbc-444f-b119-cb277bd37973"
+    },
+    {
+      "order": 2,
+      "title": "Uue kaitsetööstuspoliitika tutvustamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a1cfdd30-b001-4819-85b2-0c95ac0f27e9"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "eead86cb-4e49-47aa-bc68-9faf009e28b8"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RIKK 8.11.2021 protokoll",
+      "uuid": "dbf29d0b-c09d-4db7-8df2-88268060e4ea",
+      "files": [
+        "RIKK_8.11.2021_protokoll.asice",
+        "Protokoll_nr_142__8.11.2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "0bc2aab4-4e2b-439f-815e-af2183c907e6",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0bc2aab4-4e2b-439f-815e-af2183c907e6)",
+  "source": "https://api.riigikogu.ee/api/volumes/0bc2aab4-4e2b-439f-815e-af2183c907e6",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-11-01&endDate=2021-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
