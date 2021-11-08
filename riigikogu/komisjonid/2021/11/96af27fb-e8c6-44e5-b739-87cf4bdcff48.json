@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 8.11.2021 kell 11.10",
+  "sitting_time": "2021-11-08T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7e80f9e7-a3f4-4258-892d-1fe90fab847d"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade Maaeluministeeriumi valitsemisala 2022. aasta eelarvest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "69e66d94-3b65-4b7e-b2ab-7daad27d1844"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "98f2671d-6e05-4e83-a014-b80434769bf4"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 08.11.2021",
+      "uuid": "11f1b750-2a4f-421f-bbc4-2e90df88fe80",
+      "files": [
+        "123_protokolli_lisa_MAEK_eelarve.pdf",
+        "MAEK_protokoll_08.11.2021.asice",
+        "123_protokoll_8.11.2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "96af27fb-e8c6-44e5-b739-87cf4bdcff48",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 96af27fb-e8c6-44e5-b739-87cf4bdcff48)",
+  "source": "https://api.riigikogu.ee/api/volumes/96af27fb-e8c6-44e5-b739-87cf4bdcff48",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-11-01&endDate=2021-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
