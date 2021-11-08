@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung esmaspäev, 8.11.2021 kell 11.10",
+  "sitting_time": "2021-11-08T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "200fe93e-b916-4918-a9d8-339bcf58a8f2"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad Euroopa Komisjoni teatise „Uus Euroopa Liidu metsastrateegia aastani 2030“ kohta - COM(2021) 572",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f8162081-a5a2-468e-80fc-658781ed628b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK protokoll 08.11.2021",
+      "uuid": "db0f10e7-b23a-4d2e-9cff-e2c3bb1b1666",
+      "files": [
+        "KEKK_protokoll_08.11.2021.asice",
+        "KEKK_protokoll_08.11.2021.pdf",
+        "EL_Metsastrateegia_seisukohad_ML_8.11.2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "754a6759-d48f-44db-b4bb-e2935f9aa6e5",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 754a6759-d48f-44db-b4bb-e2935f9aa6e5)",
+  "source": "https://api.riigikogu.ee/api/volumes/754a6759-d48f-44db-b4bb-e2935f9aa6e5",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-11-01&endDate=2021-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
