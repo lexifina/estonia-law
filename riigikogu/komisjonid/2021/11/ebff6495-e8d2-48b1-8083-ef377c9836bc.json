@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung teisipäev, 9.11.2021 kell 14.00",
+  "sitting_time": "2021-11-09T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "COVID-19 kriisi ajal erasektori kaasamine plaanilise arstiabi osutamisse",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3abb0ce3-4a89-4f41-829f-8b7d08ff0a50"
+    },
+    {
+      "order": 2,
+      "title": "Eesti Arstide Liidu volikogu avalik pöördumine riigikogu, valitsuse ja tööandjate poole - arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2a546ff9-3920-468b-8a2d-2b5c46c0316b"
+    },
+    {
+      "order": 3,
+      "title": "Eesti tervishoiusüsteemi jätkusuutlikkus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "46717dc5-a40b-4f4d-9d67-2aae03b157b0"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "db54664c-9b73-4d6a-a359-b02d6ee56a1b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "996d213f-cc4c-46e5-929c-5d99d0d034e2",
+      "files": [
+        "Protokoll.asice",
+        "Protokoll_nr_180_(09.11.2021).pdf"
+      ]
+    }
+  ],
+  "uuid": "ebff6495-e8d2-48b1-8083-ef377c9836bc",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ebff6495-e8d2-48b1-8083-ef377c9836bc)",
+  "source": "https://api.riigikogu.ee/api/volumes/ebff6495-e8d2-48b1-8083-ef377c9836bc",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-11-01&endDate=2021-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
