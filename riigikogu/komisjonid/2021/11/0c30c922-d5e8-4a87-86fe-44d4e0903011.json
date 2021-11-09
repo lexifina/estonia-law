@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 9.11.2021 kell 14.00",
+  "sitting_time": "2021-11-09T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud maareformi seaduse ja teiste seaduste muutmise seaduse eelnõu (418 SE) arutelu teise lugemise ettevalmistamiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9cb87dd8-6dde-4b52-9377-84a4ddc50af8"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6f092a02-913b-4e52-b7a3-d44d9741eed6"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 09.11.2021",
+      "uuid": "f0ee355f-02c8-4fc9-b1a3-04c1cb531674",
+      "files": [
+        "MAEK_protokoll_09.11.2021.asice",
+        "124_protokoll_lisa__ühisettepaneku_selgitus.pdf",
+        "124_protokoll_09.11.2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "0c30c922-d5e8-4a87-86fe-44d4e0903011",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0c30c922-d5e8-4a87-86fe-44d4e0903011)",
+  "source": "https://api.riigikogu.ee/api/volumes/0c30c922-d5e8-4a87-86fe-44d4e0903011",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-11-01&endDate=2021-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
