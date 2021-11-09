@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung teisipäev, 9.11.2021 kell 14.00, videosild",
+  "sitting_time": "2021-11-09T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade Eesti välisesinduste arengukavast",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "edd5b3f9-723e-4081-9e45-af64a734f03c"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad 11. novembril 2021 toimuval Euroopa Liidu välisasjade nõukogu kaubandusministrite istungil",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1f79d3eb-3849-4255-938c-b75fb42bbb88"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4f78bdf9-7506-4b35-9ce7-6fec9aea428e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 9.11.2021",
+      "uuid": "c0d13029-d3b7-4b3a-9ca8-39b53edcff44",
+      "files": [
+        "VÄLK_protokoll_9.11.2021.asice",
+        "VÄLK_protokoll_9.11.2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "5a2d8b52-6013-4fdd-88ce-a720d1b037c5",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 5a2d8b52-6013-4fdd-88ce-a720d1b037c5)",
+  "source": "https://api.riigikogu.ee/api/volumes/5a2d8b52-6013-4fdd-88ce-a720d1b037c5",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-11-01&endDate=2021-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
