@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung esmaspäev, 15.11.2021 kell 11.30",
+  "sitting_time": "2021-11-15T11:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b67e46dd-2fc9-411c-b904-2d091fbcf38b"
+    },
+    {
+      "order": 2,
+      "title": "Informatsioon julgeolekuolukorra arengutest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0256ee1e-ee88-4e74-af0d-c7dd83218b5b"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3a32abbb-0666-499d-a47e-45a348ed21a2"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Välk protokoll 15.11.2021",
+      "uuid": "bc42063d-d93a-4b88-a318-6d0c478c2b90",
+      "files": [
+        "Välk_protokoll_15.11.2021.asice",
+        "VÄLK_protokoll_15.11.2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "3cc4b16b-6a34-4da1-80c0-1273f62b4081",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3cc4b16b-6a34-4da1-80c0-1273f62b4081)",
+  "source": "https://api.riigikogu.ee/api/volumes/3cc4b16b-6a34-4da1-80c0-1273f62b4081",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-11-01&endDate=2021-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
