@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 15.11.2021 kell 13.15",
+  "sitting_time": "2021-11-15T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3fa3f924-fad7-44fc-a504-26bc5b21bf4f"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli kontrolliaruande „Vahekokkuvõte Rail Balticu elluviimise kohta“ arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7a0f9a17-36c7-4e73-87e7-664cf24a54ac"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "98c86002-26c7-43fb-966c-33d6a82cb2ed"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 15.11.2021",
+      "uuid": "08f56873-14e1-4ff9-9efa-3ab95c0f8396",
+      "files": [
+        "REKK_protokoll_15.11.2021.asice",
+        "Protokoll_nr_98_15.11.2021.pdf",
+        "RailBaltic_Ettekanne_15.11.2021.pptx"
+      ]
+    }
+  ],
+  "uuid": "9ad438ae-8a11-4481-a0de-16300d5549af",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9ad438ae-8a11-4481-a0de-16300d5549af)",
+  "source": "https://api.riigikogu.ee/api/volumes/9ad438ae-8a11-4481-a0de-16300d5549af",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-11-01&endDate=2021-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
