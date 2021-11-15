@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 15.11.2021 kell 11.10",
+  "sitting_time": "2021-11-15T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2d8c801b-d682-4f83-a257-8d6676899077"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad Euroopa Liidu maapiirkondade arengu pikaajalise visiooni aastani 2040 kohta - COM(2021) 345. Arvamuse andmine EL asjade komisjonile",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "58ab9d4a-024e-4945-b1ef-0c1c5de038f8"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "278f75f3-df31-470b-b43f-d65de222a39f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 15.11.2021",
+      "uuid": "476b2b8a-dd30-41fa-ba1d-e05c6285b0a5",
+      "files": [
+        "MAEK_protokoll_15.11.2021.asice",
+        "125_protokoll_15.11.2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "f3ee5364-582b-42a8-a592-966c67e2f2bf",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f3ee5364-582b-42a8-a592-966c67e2f2bf)",
+  "source": "https://api.riigikogu.ee/api/volumes/f3ee5364-582b-42a8-a592-966c67e2f2bf",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-11-01&endDate=2021-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
