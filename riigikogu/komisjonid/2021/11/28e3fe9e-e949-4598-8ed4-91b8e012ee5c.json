@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 16.11.2021 kell 14.00",
+  "sitting_time": "2021-11-16T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Arutelu lemmikloomade registri teemal",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "aa99bb7c-eb1d-467e-b659-76eac7b92be2"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1a0b02db-8f2c-4b94-af51-165bba6a75ef"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 16.11.2021",
+      "uuid": "22689686-fb35-45f6-9db3-182519449a89",
+      "files": [
+        "Asendus_16.11.2021.pdf",
+        "126_protokoll_16.11.2021.pdf",
+        "MAEK_protokoll_16.11.2021.asice"
+      ]
+    }
+  ],
+  "uuid": "28e3fe9e-e949-4598-8ed4-91b8e012ee5c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 28e3fe9e-e949-4598-8ed4-91b8e012ee5c)",
+  "source": "https://api.riigikogu.ee/api/volumes/28e3fe9e-e949-4598-8ed4-91b8e012ee5c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-11-01&endDate=2021-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
