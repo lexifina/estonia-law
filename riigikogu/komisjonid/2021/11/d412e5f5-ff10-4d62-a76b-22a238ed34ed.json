@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung neljapäev, 18.11.2021 kell 15.00, videosild",
+  "sitting_time": "2021-11-18T15:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väliskomisjoni Ameerika Ühendriikide töövisiidi ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "61c4b55a-d4ce-45ab-b33b-a7fb7313b3c3"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade Eesti tegevusest ÜRO Julgeolekunõukogu valitud liikmena",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "83c9480f-e95c-4b18-b361-b0fe35edb8a3"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2d9690c9-82d8-41cb-a1fc-f8e589317aa4"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 18.11.2021",
+      "uuid": "2adc0a96-3835-4bd1-9e59-a67ad3854e27",
+      "files": [
+        "VÄLK_protokoll_18.11.2021.asice",
+        "VÄLK_protokoll_18.11.2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "d412e5f5-ff10-4d62-a76b-22a238ed34ed",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d412e5f5-ff10-4d62-a76b-22a238ed34ed)",
+  "source": "https://api.riigikogu.ee/api/volumes/d412e5f5-ff10-4d62-a76b-22a238ed34ed",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-11-01&endDate=2021-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
