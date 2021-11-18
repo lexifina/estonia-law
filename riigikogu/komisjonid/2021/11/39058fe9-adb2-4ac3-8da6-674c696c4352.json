@@ -1,0 +1,42 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung neljapäev, 18.11.2021 kell 14.00",
+  "sitting_time": "2021-11-18T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Keeleseaduse muutmise seaduse eelnõu (463 SE) ettevalmistamine esimeseks lugemiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5cd73b92-1206-4278-8fc4-9c36df7b4d80"
+    },
+    {
+      "order": 2,
+      "title": "Info ja uud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "17340bfa-b954-4aca-9838-47a34e7cdfd4"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KULK protokoll (18.11.2021)",
+      "uuid": "0ba8c0fe-fdcb-480f-b265-04a591e8d7fc",
+      "files": [
+        "Kultuurikomisjon_asendus18.11.asice",
+        "Kultuurikomisjon_asendus18.11.docx",
+        "Protokoll_167_(18.11.2021).pdf",
+        "KULK_protokoll_(18.11.2021).asice"
+      ]
+    }
+  ],
+  "uuid": "39058fe9-adb2-4ac3-8da6-674c696c4352",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 39058fe9-adb2-4ac3-8da6-674c696c4352)",
+  "source": "https://api.riigikogu.ee/api/volumes/39058fe9-adb2-4ac3-8da6-674c696c4352",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-11-01&endDate=2021-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
