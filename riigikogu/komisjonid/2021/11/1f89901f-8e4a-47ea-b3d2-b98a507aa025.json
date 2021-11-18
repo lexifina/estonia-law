@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung neljapäev, 18.11.2021 kell 14.00",
+  "sitting_time": "2021-11-18T14:00:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bcd9682a-cf07-4a29-abdb-ffec70390c46"
+    },
+    {
+      "order": 2,
+      "title": "Ravikindlustuse seaduse muutmise seaduse eelnõu 467 SE ettevalmistamine teiseks lugemiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e10613f4-ff23-4090-8bd2-b63925511d43"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9c6a4920-fe02-47d6-ae66-c7681fc09f64"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "SOTK protokoll",
+      "uuid": "da5ad864-3dc8-4473-a896-f9ea106ef74c",
+      "files": [
+        "SOTK_protokoll.asice",
+        "Protokoll_nr_183_(18.11.2021).pdf"
+      ]
+    }
+  ],
+  "uuid": "1f89901f-8e4a-47ea-b3d2-b98a507aa025",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 1f89901f-8e4a-47ea-b3d2-b98a507aa025)",
+  "source": "https://api.riigikogu.ee/api/volumes/1f89901f-8e4a-47ea-b3d2-b98a507aa025",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-11-01&endDate=2021-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
