@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung esmaspäev, 22.11.2021 kell 13.00",
+  "sitting_time": "2021-11-22T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5def7e1e-c819-496d-8034-5532c2cac96a"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu täiskogu debati ettevalmistamine: Ülevaade Vabariigi Valitsuse tegevusest Euroopa Liidu poliitika teostamisel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d7a64f3c-097f-4fd7-bcaf-509fc9902dd8"
+    },
+    {
+      "order": 3,
+      "title": "Eesti seisukohad 25.-26. novembril 2021 toimuval Euroopa Liidu konkurentsivõime nõukogu istungil (siseturg, tööstus, teadus ja kosmos)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3ba07c9d-ee23-43f7-807b-5f9f751c1ebb"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "11ebf956-8e17-432c-9928-135b3e6c5211"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ELAK protokoll 22.11",
+      "uuid": "604bf114-acbc-49b0-b23e-92421d795523",
+      "files": [
+        "ELAK_protokoll_22.11.asice",
+        "ELAK_protokoll_22.11.2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "f9c574e8-3374-460e-8410-ce533c485b04",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f9c574e8-3374-460e-8410-ce533c485b04)",
+  "source": "https://api.riigikogu.ee/api/volumes/f9c574e8-3374-460e-8410-ce533c485b04",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-11-01&endDate=2021-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
