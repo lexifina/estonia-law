@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung esmaspäev, 22.11.2021 kell 11.10",
+  "sitting_time": "2021-11-22T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "81f86731-007c-40dc-8d82-0af9466cdce9"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade metsade inventeerimisest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b7421964-5027-4847-894b-0ef9552ffa67"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK protokoll 22.11.2021",
+      "uuid": "62ddedf6-0368-45ba-8752-ced98d2db532",
+      "files": [
+        "KEKK_protokoll_22.11.2021.asice",
+        "VEP_inventeerimine_2021_nov_vahearuanne_ja_tegevuskava.pdf",
+        "KEKK_protokoll_22.11.2021_.pdf"
+      ]
+    }
+  ],
+  "uuid": "7bd59931-79f3-459a-8c9a-59a389dce57b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7bd59931-79f3-459a-8c9a-59a389dce57b)",
+  "source": "https://api.riigikogu.ee/api/volumes/7bd59931-79f3-459a-8c9a-59a389dce57b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-11-01&endDate=2021-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
