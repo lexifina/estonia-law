@@ -1,0 +1,55 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung teisipäev, 23.11.2021 kell 14.00",
+  "sitting_time": "2021-11-23T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Esimehe ja aseesimehe valimised",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f8849ed4-3dc0-455f-a0c5-40c0349b43f6"
+    },
+    {
+      "order": 2,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "35eb1a8e-1bfc-4fe9-bb2e-4f71610593c5"
+    },
+    {
+      "order": 3,
+      "title": "2022. aasta riigieelarve seaduse eelnõu (464 SE II)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ebb38c03-9d6c-4afe-8e07-a9ac98b5438f"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "237259fe-f50f-4135-8de8-3be068c61c7e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 23.11.2021",
+      "uuid": "1b868a47-0b01-4211-9729-989784f89a25",
+      "files": [
+        "RAHK_protokoll_23.11.2021_(1).asice",
+        "Asendusliikme_volikiri_23_11_2021_I.Eenmaa_asendusliige.pdf",
+        "Asendusliikme_volikiri_23.11.2021_D.Dmitrijev.pdf",
+        "Lisa_1__protokoll_166_23_11_2021.pdf",
+        "RAHK_protokoll_166_11_2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "1eab2ef2-8a0e-4636-983a-b196e09593b9",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 1eab2ef2-8a0e-4636-983a-b196e09593b9)",
+  "source": "https://api.riigikogu.ee/api/volumes/1eab2ef2-8a0e-4636-983a-b196e09593b9",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-11-01&endDate=2021-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
