@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung teisipäev, 23.11.2021 kell 14.00",
+  "sitting_time": "2021-11-23T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade naistevastase vägivalla ennetamise hetkeseisust",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2cc4083b-6016-4d78-b353-5e168e34014b"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "577993e2-0bfd-418f-86fc-1555fee65ee0"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "SOTK protokoll 23.11.2021",
+      "uuid": "d55ee076-5e19-47ab-91c8-2046e051022d",
+      "files": [
+        "SOTK_protokoll_23.11.2021.asice",
+        "Protokoll_nr_185_(23.11.2021).pdf",
+        "Lisa1_K.Luht.pdf"
+      ]
+    }
+  ],
+  "uuid": "7cd4e541-8821-4790-b92e-450c44f0eca9",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7cd4e541-8821-4790-b92e-450c44f0eca9)",
+  "source": "https://api.riigikogu.ee/api/volumes/7cd4e541-8821-4790-b92e-450c44f0eca9",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-11-01&endDate=2021-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
