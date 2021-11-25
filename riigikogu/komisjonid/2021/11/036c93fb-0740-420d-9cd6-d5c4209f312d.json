@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung neljapäev, 25.11.2021 kell 14.00",
+  "sitting_time": "2021-11-25T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Tööandjate Keskliidu esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4941b672-3d4c-4c66-8077-2ca0dd124e3e"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d05759b1-774c-4e1f-9e1f-d8d1a29ff4b8"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KULK protokoll 170 (25.11.2021)",
+      "uuid": "b85a56a7-2960-4848-af87-d943cd4a7792",
+      "files": [
+        "KULK_protokoll_170_(25.11.2021).asice",
+        "Probleemid_ehitusvaldkonna_kutseõppes_(RK).pdf",
+        "Protokoll_170_(25.11.2021).pdf"
+      ]
+    }
+  ],
+  "uuid": "036c93fb-0740-420d-9cd6-d5c4209f312d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 036c93fb-0740-420d-9cd6-d5c4209f312d)",
+  "source": "https://api.riigikogu.ee/api/volumes/036c93fb-0740-420d-9cd6-d5c4209f312d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-11-01&endDate=2021-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
