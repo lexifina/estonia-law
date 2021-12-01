@@ -2,4 +2,4 @@
 
 (1) Ilmsete marutauditunnustega uluki võib surmata jahiloata.
 
-(2) Surmatud marutauditunnustega ulukist tuleb viivitamata teatada piirkonda teenindavale volitatud veterinaararstile või järelevalveametnikule. Kui marutauditunnustega uluki hukkamiseks puudus jahiluba, tuleb viivitamata informeerida ka Keskkonnaametit.
+(2) Surmatud marutauditunnustega ulukist tuleb viivitamata teatada Põllumajandus- ja Toiduametile. Kui marutauditunnustega uluki hukkamiseks puudus jahiluba, tuleb viivitamata informeerida ka Keskkonnaametit.
