@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 6.12.2021 kell 13.15",
+  "sitting_time": "2021-12-06T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2f15a01d-9bcc-4ed0-b207-45f3ba312ef7"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli kontrolliaruande „Täiskasvanute hambaravihüvitis“ arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c325a36d-bfba-48bc-8431-a722c7e47c8d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 06.12.2021",
+      "uuid": "33ebecbc-a4bf-423d-977a-353503f38bdd",
+      "files": [
+        "80067_HR_REKK_esitlus_6_12_2021.pptx",
+        "REKK_protokoll_06.12.2021.asice",
+        "Protokoll_nr_102_06.12.2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "ab8a0acd-a4ae-455b-9d2d-728373260b0f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ab8a0acd-a4ae-455b-9d2d-728373260b0f)",
+  "source": "https://api.riigikogu.ee/api/volumes/ab8a0acd-a4ae-455b-9d2d-728373260b0f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-12-01&endDate=2021-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
