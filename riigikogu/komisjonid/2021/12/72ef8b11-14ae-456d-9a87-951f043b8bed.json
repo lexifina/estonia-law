@@ -1,0 +1,42 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung teisipäev, 7.12.2021 kell 14.00",
+  "sitting_time": "2021-12-07T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Jätkuarutelu Eesti valmisolekust COVID-19 uute tüvedega tegelemiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c2a62f66-4816-4a40-8f9a-850486ca439a"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "abc87921-285c-48b6-9c6a-36879a01545a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "SOTK protokoll 07.12.2021",
+      "uuid": "970c7123-2d54-4df6-99ca-daa5ce1f7771",
+      "files": [
+        "SOTK_protokoll_07.12.2021.asice",
+        "Protokoll_nr_187_(07.12.2021).pdf",
+        "Lisa2_H.Sepp(Terviseamet).pdf",
+        "Lisa1_I.Lutsar.pdf"
+      ]
+    }
+  ],
+  "uuid": "72ef8b11-14ae-456d-9a87-951f043b8bed",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 72ef8b11-14ae-456d-9a87-951f043b8bed)",
+  "source": "https://api.riigikogu.ee/api/volumes/72ef8b11-14ae-456d-9a87-951f043b8bed",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-12-01&endDate=2021-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
