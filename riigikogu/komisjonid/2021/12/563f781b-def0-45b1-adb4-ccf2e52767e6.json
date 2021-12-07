@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung teisipäev, 7.12.2021 kell 14.00",
+  "sitting_time": "2021-12-07T14:03:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "de0006bc-c646-466b-ab93-01ed8df5def6"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu otsuse „Ülle Madise õiguskantsleri ametisse nimetamine“ eelnõu (488 OE) ettevalmistamine esimeseks lugemiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4e402bb1-fb1f-4933-81a1-484a40b994d1"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7492855c-5169-423d-968c-f9a313279756"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "PÕSK protokoll 07.12.2021",
+      "uuid": "5806ebb3-067d-4d48-936b-9f51356ecc03",
+      "files": [
+        "PÕSK_protokoll_07.12.2021.asice",
+        "PÕSK.protokoll.07.12.2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "563f781b-def0-45b1-adb4-ccf2e52767e6",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 563f781b-def0-45b1-adb4-ccf2e52767e6)",
+  "source": "https://api.riigikogu.ee/api/volumes/563f781b-def0-45b1-adb4-ccf2e52767e6",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-12-01&endDate=2021-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
