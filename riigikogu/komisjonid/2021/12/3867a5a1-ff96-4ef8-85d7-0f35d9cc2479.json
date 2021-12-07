@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung teisipäev, 7.12.2021 kell 14.00",
+  "sitting_time": "2021-12-07T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Maa hindamise seaduse, maamaksuseaduse ja teiste seaduste muutmise seaduse eelnõu (406 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e73f6974-df14-44b4-b087-a15e396c3f88"
+    },
+    {
+      "order": 2,
+      "title": "Tulumaksuseaduse muutmise seaduse eelnõu (402 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b1a0fc79-f81f-4c4f-b982-70461909f7ae"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e6e0498d-7a50-4c2c-b7df-f5187613975d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 07.12.2021",
+      "uuid": "ab6bbd0b-74f9-407c-a28b-072c555c5c6a",
+      "files": [
+        "RAHK_protokoll_07.12.2021.asice",
+        "RAHK_protokoll_168_07_12_2021.pdf",
+        "Maa_amet_406_SE_slaidid_7_12_2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "3867a5a1-ff96-4ef8-85d7-0f35d9cc2479",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3867a5a1-ff96-4ef8-85d7-0f35d9cc2479)",
+  "source": "https://api.riigikogu.ee/api/volumes/3867a5a1-ff96-4ef8-85d7-0f35d9cc2479",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-12-01&endDate=2021-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
