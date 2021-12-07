@@ -1,0 +1,42 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung teisipäev, 7.12.2021 kell 14.00",
+  "sitting_time": "2021-12-07T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kriminaalmenetluse seadustiku muutmise seaduse eelnõu (392 SE II) ettevalmistamine kolmandaks lugemiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9b1b7f0b-14ea-41d9-ae13-4e3e0e32311a"
+    },
+    {
+      "order": 2,
+      "title": "Politsei ja piirivalve seaduse täiendamise seaduse eelnõu (408 SE II) menetlusotsused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4649aba7-34a4-4587-9c6b-207008ca9d34"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ÕIGK protokoll 07.12.2021",
+      "uuid": "13699058-fd60-4698-8b46-ebda839d85c9",
+      "files": [
+        "Õiend_07.12.2021.asice",
+        "Õiend_07.12.2021.pdf",
+        "ÕIGK_protokoll_07.12.2021.asice",
+        "ÕIGK_protokoll_07.12.2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "2ff7cd53-f5c2-4048-a9b4-7c65cdc74fa3",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2ff7cd53-f5c2-4048-a9b4-7c65cdc74fa3)",
+  "source": "https://api.riigikogu.ee/api/volumes/2ff7cd53-f5c2-4048-a9b4-7c65cdc74fa3",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-12-01&endDate=2021-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
