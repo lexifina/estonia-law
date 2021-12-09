@@ -1,0 +1,48 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Korruptsioonivastane erikomisjon",
+  "committee_uuid": "e4f2977a-e8c3-4fa0-8f3d-9df9acd6377f",
+  "title": "Komisjoni istung neljapäev, 9.12.2021 kell 16.00",
+  "sitting_time": "2021-12-09T16:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "16a6d261-0c16-4944-ab30-8aad3c47d158"
+    },
+    {
+      "order": 2,
+      "title": "SA KredEx ja Porto Franco OÜ vahel sõlmitud investeerimislaenu lepingu ettevalmistamise asjaolude uurimise raporti arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f026fb50-ca5d-4e3f-9924-94a977388734"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2b91ab97-38c4-4f36-8ce3-b5624622126c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KVEK protokoll 09.12.2021",
+      "uuid": "e17ddc7e-8bfd-4bae-a2e6-589b98f72495",
+      "files": [
+        "Lisa2_AVALIK_Valitsuskomisjoni_raporti_kokkuvõte_2021.pdf",
+        "Lisa1_ministrite_osalemine_komisjonis.pdf",
+        "KVEK_protokoll_09.12.2021.asice",
+        "KVEK_protokoll_09.12.2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "373f8868-8510-40f9-bf38-c1c4d3c3e519",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 373f8868-8510-40f9-bf38-c1c4d3c3e519)",
+  "source": "https://api.riigikogu.ee/api/volumes/373f8868-8510-40f9-bf38-c1c4d3c3e519",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-12-01&endDate=2021-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
