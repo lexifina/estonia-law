@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung reede, 10.12.2021 kell 10.00, videosild",
+  "sitting_time": "2021-12-10T10:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 13. detsembril 2021 toimuval Euroopa Liidu välisasjade nõukogu istungil",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "737aab5c-a6fe-410e-9013-9e21f723bf84"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5bf62b7e-a0b4-45b1-9b1a-1f407e02fced"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 10.12.2021",
+      "uuid": "f9ef69ec-ee11-472c-b7d8-98f2cee8abec",
+      "files": [
+        "VÄLK_protokoll_10.12.2021.asice",
+        "VÄLK_protokoll_10.12.2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "50a623a8-fea2-454a-94d7-4448f3c427ab",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 50a623a8-fea2-454a-94d7-4448f3c427ab)",
+  "source": "https://api.riigikogu.ee/api/volumes/50a623a8-fea2-454a-94d7-4448f3c427ab",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-12-01&endDate=2021-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
