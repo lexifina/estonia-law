@@ -24,7 +24,9 @@
 
 8) kontrollijale teabe andmist ning temale dokumentidele ja infosüsteemidele juurdepääsu võimaldamist;
 
-9) pandikirjade või tagatisvara nüüdisväärtuse arvutamist vastavalt Finantsinspektsiooni määratud metoodikale.
+9) pandikirjade või tagatisvara nüüdisväärtuse arvutamist vastavalt Finantsinspektsiooni määratud metoodikale;
+
+10) sise-eeskirjade seadusega kooskõlla viimist.
 
 (5) Finantsinspektsioon võib käesoleva paragrahvi lõike 4 punktide 1 ja 2 alusel nõuda seaduses või pandikirjade tingimustes ette nähtust suuremal määral tagatiste lisamist, kui esineb oluline risk, et käesoleva seaduse § 33 lõikes 1 nimetatud sündmuse saabumisel oleks pandikirjaportfell maksejõuetu.
 

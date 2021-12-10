@@ -11,3 +11,5 @@
 (5) Pandikirja liigid on hüpoteekpandikiri ja segatud tagatisvaraga pandikiri. Pandikirja liik käesoleva seaduse tähenduses määratakse selle alusel, milliseid nõudeid võib kasutada pandikirjade põhilise tagatisena (edaspidi *esmastagatis*).
 
 (6) Sama liiki pandikirjade tagamiseks tagatisregistrisse kantud tagatiste kogum moodustab tagatisvara. Sama liiki pandikirjad, nende tagatisvara ja tagatisregistrisse kantud tuletisinstrumendid moodustavad pandikirjaportfelli.
+
+(7) Pandikirjade programm on pandikirjade emissioon või emissioonide seeria, mille struktuursed tunnused ja tingimused on samasugused või olulises osas sarnased ja mis on kindlaks määratud õigusaktide ning asjakohaste lepingutingimustega kooskõlas emitendile antud pandikirjade programmi heakskiitmise otsusega.

@@ -16,9 +16,11 @@
 
 - 3. jagu Segatud tagatisvaraga pandikirjade tagamine
 
+- 4. jagu Nõude loovutamine ja omandamine tagatisvara moodustamiseks
+
 4. peatükk Pandikirjaportfelli eraldatus
 
-- 1. jagu Täitemenetlus tagatisvara suhtes ja pandikirjaportfelli eraldumine
+- 1. jagu Tasaarvestus, täitemenetlus tagatisvara ja võlausaldaja suhtes, maksejõuetusmenetlus võlausaldaja suhtes ja pandikirjaportfelli eraldumine
 
 - 2. jagu Tagatisvara haldur
 

@@ -6,8 +6,6 @@
 
 2) moratooriumi väljakuulutamisel;
 
-3) suhtes kriisilahendusmenetluse algatamisel;
-
 4) täiendava tegevusloa või põhitegevusloa kehtivuse lõppemisel;
 
 5) sundlõpetamist ette nägeva kohtumääruse jõustumisel;

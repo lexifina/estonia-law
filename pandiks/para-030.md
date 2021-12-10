@@ -14,6 +14,8 @@
 
 6) lepinguriigi avalik-õiguslikule juriidilisele isikule antud krediidist või tema emiteeritud võlaväärtpaberitest;
 
+6¹) lepinguriigi osalusega äriühingule antud krediidist või lepinguriigi osalusega äriühingu poolt tagatud krediidist;
+
 7) lepinguriigi või tema piirkondliku valitsuse või kohaliku omavalitsuse üksuse tagatud krediidist või võlaväärtpaberitest.
 
 (2) Käesoleva paragrahvi lõike 1 punktis 4 nimetatud krediiti ja võlaväärtpabereid võib tagatisvarana kasutada juhul, kui on täidetud üks järgmistest tingimustest:
@@ -21,5 +23,13 @@
 1) avalik-õiguslikku juriidilist isikut ei saa pankroti- või muu maksejõuetusmenetluse tagajärjel likvideerida;
 
 2) avalik-õigusliku juriidilise isiku kohustused võtab tema pankroti- või muu maksejõuetusmenetluse või selle ohu korral täielikult üle isik, keda ei saa pankroti- või muu maksejõuetusmenetluse tagajärjel likvideerida.
+
+(2¹) Käesoleva paragrahvi lõike 1 punktis 6¹ nimetatud krediiti võib tagatisvarana kasutada üksnes juhul, kui sellise krediidi tagamiseks on seatud tagatis, mis vastab vähemalt 110 protsendile väljastatud krediidisummast, ning kui on täidetud kõik järgmised tingimused:
+
+1) lepinguriigi osalusega äriühing osutab olulist avalikku teenust litsentsi, kontsessioonilepingu või riigiasutuse antud muu volituse alusel;
+
+2) lepinguriigi osalusega äriühingu suhtes kohaldatakse avalikku järelevalvet;
+
+3) lepinguriigi osalusega äriühingul on oma finantsseisundi usaldusväärsuse ja maksevõime tagamiseks piisavad tuluallikad, mis on tagatud sellega, et lepinguriigi osalusega äriühingul on võimalik piisavalt paindlikult koguda ja suurendada osutatavate teenuste eest võetavaid tasusid ja esitatavaid nõudeid ning saada oluliste avalike teenuste osutamise eest seaduse järgi piisavalt toetusi või juhul, kui lepinguriigi osalusega äriühingu ja riigiasutuse vahel on sõlmitud kasumi ja kahjumi ülekandmise leping.
 
 (3) Käesoleva paragrahvi lõikes 1 nimetatud nõude tagatisregistrisse kandmise hetkel ei tohi võlgnik olla sellega makseviivituses.

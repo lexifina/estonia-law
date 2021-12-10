@@ -1,6 +1,6 @@
 # § 28. Hüpoteekkrediiti tagava vara hindamise nõuded ja hindaja kvalifikatsioon
 
-(1) Tagatisregistrisse võib kanda üksnes hüpoteekkrediidi, mille tagatiseks oleva vara turuväärtust on hinnanud krediidiandjate ja -vahendajate seaduse § 53 lõikes 2 sätestatud nõuetele vastav hindaja kooskõlas sama paragrahvi lõikes 3 ja lõike 4 alusel antud määruses sätestatud nõuetega.
+(1) Tagatisregistrisse võib kanda üksnes hüpoteekkrediidi, mille tagatiseks oleva vara turuväärtuse kohta on tagatisregistrisse kandmise ajal olemas ajakohane hinnang ja selle on andnud krediidiandjate ja -vahendajate seaduse § 53 lõikes 2 sätestatud nõuetele vastav hindaja kooskõlas sama paragrahvi lõikes 3 ja lõike 4 alusel antud määruses sätestatud nõuetega.
 
 (1¹) Käesoleva seaduse § 25 lõikes 3 sätestatud hüpoteekkrediiti võib tagatisregistrisse kanda, kui tagatiseks oleva vara turuväärtust on hinnanud teises lepinguriigis asjaomast kutsekvalifikatsiooni omav hindaja kooskõlas hindamise ajal kinnisasja asukohariigis kehtinud õigusaktidega, asjakohaste standardite ja heade tavadega ning täidetud on järgmised tingimused:
 

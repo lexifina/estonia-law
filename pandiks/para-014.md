@@ -12,7 +12,9 @@
 
 5) emitendi riskijuhtimise ja aruandluse nõuetele vastavust;
 
-6) pandikirjade tingimuste nõuetele vastavust.
+6) pandikirjade tingimuste nõuetele vastavust;
+
+7) ajakohastatud pandikirjaportfelli eraldumise kava olemasolu ja selle vastavust käesoleva seaduse nõuetele.
 
 (2) Kontrollijal on õigus määrata igakordse kontrolli ulatus ja kestus. Kontrollija võib viia emitendi asu- või tegevuskohas läbi kohapealset kontrolli, millest ta peab emitendile teatama vähemalt kaks tööpäeva ette.
 

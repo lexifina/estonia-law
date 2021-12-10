@@ -6,8 +6,6 @@
 
 1) määratakse tagatisvara haldur;
 
-2) algatatakse kriisilahendusmenetlus;
-
 3) kuulutatakse välja pandikirjaportfelli pankrot;
 
 4) üldkoosolek kutsub ta tagasi;

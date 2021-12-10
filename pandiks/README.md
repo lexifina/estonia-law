@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/104122019012> (version in force from 2019-12-14)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/130112021016> (version in force from 2021-12-10)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -13,6 +13,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/104122019012> (version in force 
 | **1. jagu Täiendav tegevusluba** | |
 | [§ 3](para-003.md) | Täiendav tegevusluba pandikirjade emiteerimiseks |
 | [§ 4](para-004.md) | Täiendava tegevusloa taotlemine |
+| [§ 4¹](para-004b1.md) | Pandikirjade programmi muudatuste heakskiitmine |
 | [§ 5](para-005.md) | Täiendava tegevusloa andmise või andmisest keeldumise otsus |
 | [§ 6](para-006.md) | Täiendava tegevusloa kehtetuks tunnistamine |
 | [§ 7](para-007.md) | Pandikirjade emiteerimise vabatahtlik lõpetamine |
@@ -45,8 +46,15 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/104122019012> (version in force 
 | **3. jagu Segatud tagatisvaraga pandikirjade tagamine** | |
 | [§ 30](para-030.md) | Segatud tagatisvaraga pandikirjade esmastagatis |
 | [§ 31](para-031.md) | Elamuehituskrediidile ja ärihüpoteekkrediidile kohaldatavad nõuded |
+| **4. jagu Nõude loovutamine ja omandamine tagatisvara moodustamiseks** | |
+| [§ 31¹](para-031b1.md) | Nõude loovutamine |
+| [§ 31²](para-031b2.md) | Tagatisvara moodustamise eesmärgil loovutatud nõudeid tagavate tagatiste ja kõrvalkohustuste üleminek |
 | **4. peatükk Pandikirjaportfelli eraldatus** | |
-| **1. jagu Täitemenetlus tagatisvara suhtes ja pandikirjaportfelli eraldumine** | |
+| **1. jagu Tasaarvestus, täitemenetlus tagatisvara ja võlausaldaja suhtes, maksejõuetusmenetlus võlausaldaja suhtes ja pandikirjaportfelli eraldumine** | |
+| [§ 31³](para-031b3.md) | Sätete kohaldamine |
+| [§ 31⁴](para-031b4.md) | Tasaarvestus tagatisvara suhtes |
+| [§ 31⁵](para-031b5.md) | Täitemenetlus nõude loovutanud võlausaldaja suhtes |
+| [§ 31⁶](para-031b6.md) | Pankrotimenetlus nõude loovutanud võlausaldaja suhtes |
 | [§ 32](para-032.md) | Täitemenetlus tagatisvara suhtes |
 | [§ 33](para-033.md) | Pandikirjaportfelli eraldumine |
 | [§ 34](para-034.md) | Pandikirjaportfellide eraldumise tagajärjed |
@@ -81,6 +89,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/104122019012> (version in force 
 | [§ 58](para-058.md) | Nimekiri |
 | **7. peatükk Vastutus** | |
 | [§ 59](para-059.md) | Pandikirjade tagamise nõuete rikkumine |
+| [§ 59¹](para-059b1.md) | Pandikirjade programmi muutmise korra rikkumine |
 | [§ 60](para-060.md) | Nimetuse kaitse nõuete rikkumine |
 | [§ 61](para-061.md) | Stressitesti tegemata jätmine |
 | [§ 62](para-062.md) | Pandikirjaportfellide eraldumise kavas puudulike andmete esitamine |
@@ -92,6 +101,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/104122019012> (version in force 
 | [§ 66](para-066.md) | Pandikirjade emiteerimise alustamine |
 | [§ 67](para-067.md) | Enne käesoleva seaduse jõustumist toimunud vara hindamine |
 | [§ 68](para-068.md) | Enne käesoleva seaduse jõustumist seatud hüpoteegi suhe krediidi suurusesse |
+| [§ 68¹](para-068b1.md) | Enne käesoleva seaduse 2021. aasta 17. novembril vastu võetud redaktsiooni jõustumist kehtinud nõuete kohaldamine ja tegevuse kooskõlla viimine |
 | **2. jagu Seaduste muutmine** | |
 | [§ 69](para-069.md) |  |
 | [§ 75](para-075.md) |  |

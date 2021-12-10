@@ -1,6 +1,6 @@
 # § 49. Eraldunud pandikirjaportfelli maksejõuetus
 
-(1) Maksejõuetule eraldunud pandikirjaportfellile kohaldatakse pankrotiseadust käesolevas seaduses sätestatud erisustega.
+(1) Maksejõuetule eraldunud pandikirjaportfellile kohaldatakse pankrotiseaduses pankrotivõlgniku ja tema pankrotimenetluse kohta sätestatut käesolevas seaduses sätestatud erisustega.
 
 (2) Eraldunud pandikirjaportfell on maksejõuetu, kui esineb üks järgmistest asjaoludest:
 
