@@ -6,4 +6,6 @@ Käesoleva seaduse ja selle alusel kehtestatud õigusaktide täitmise üle teost
 
 2) Riigi Infosüsteemi Amet;
 
-3) Statistikaamet.
+3) Statistikaamet;
+
+4) Tarbijakaitse ja Tehnilise Järelevalve Amet.

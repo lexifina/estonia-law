@@ -4,7 +4,7 @@
 
 1) teabenõuete täitmisel ja teabe avalikustamisel;
 
-1¹) veebilehe ja mobiilirakenduse pidamise nõuete täitmisel;
+1¹) veebilehe ja mobiilirakenduse pidamise nõuete täitmisel, välja arvatud ligipääsetavuse nõuete täitmisel;
 
 2) asutusesiseseks kasutamiseks ettenähtud teabe kaitsmisel;
 

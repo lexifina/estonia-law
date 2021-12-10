@@ -14,8 +14,6 @@
 
 (2) Kui isik taotleb teavet, milles sisalduvad tema või kolmandate isikute juurdepääsupiiranguga isikuandmed, tuvastab teabevaldaja teabenõudja isiku. Kui isik taotleb juurdepääsupiiranguga isikuandmeid kolmandate isikute kohta, teatab ta teabevaldajale teabele juurdepääsu aluse ja eesmärgi.
 
-(2¹) Kui teabenõudja taotleb teabele juurdepääsu taaskasutamise eesmärgil, teavitab ta sellest teabevaldajat.
-
 (3) Teabevaldajal on õigus nõuda kirjaliku teabenõude esitamist, kui teabenõudja ei ole rahul suuliselt antud teabega.
 
 (5) Teabenõudja ei tohi ameti- või tööülesannete täitmise ettekäändel või ametiseisundit kasutades taotleda teabele juurdepääsu isiklikul eesmärgil.

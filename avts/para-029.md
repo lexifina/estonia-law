@@ -12,10 +12,8 @@
 
 4) muul seadusega või selle alusel vastuvõetud õigusaktiga ettenähtud viisil.
 
-(3) Käesoleva seaduse § 28 lõike 1 punktides 1–4, 7, 8, 10–13, 15–24, 26, 27, 31¹ ja 31² nimetatud teave on avaandmed, mille peab teabevaldaja avalikustama käesoleva seaduse § 3¹ lõikes 4 sätestatud viisil.
-
-(4) Käesoleva seaduse § 28 lõike 1 punktides 5, 6, 9, 14, 25, 28, 29, 31 ja 32 nimetatud teabe üldisele kasutamisele piirangute seadmisel lähtub teabevaldaja käesoleva seaduse §-s 3¹ sätestatust ning avalikustab üldiseks kasutamiseks antava teabe käesoleva seaduse § 3¹ lõikes 4 sätestatud viisil.
+(3) Käesoleva seaduse § 28 lõike 1 punktides 1–4, 7, 8, 10–13, 15–24, 26, 27, 31¹ ja 31² nimetatud avaandmed avalikustab teabevaldaja § 3¹ lõikes 4 sätestatud viisil.
 
 (5) Käesoleva seaduse § 28 lõike 1 punktis 30 nimetatud teabe üldisele kasutamisele piirangute seadmisel lähtub käesoleva seaduse § 43⁴ lõikes 1 nimetatud teabevaldaja käesoleva seaduse §-s 3¹ sätestatust ning avalikustab üldiseks kasutamiseks antavad andmekogu andmed (edaspidi *andmekogu avaandmed*) juhul, kui see on võimalik ja asjakohane, ajakohasena ning viisil ja vormis, mis võimaldab andmekogu avaandmed alla laadida tervikliku andmekogumina koos metaandmetega masinloetaval kujul ning avatud vormingus. Kui andmekogu avaandmete masinloetavale kujule või avatud vormingusse viimine ei ole võimalik või see nõuab ebaproportsionaalselt suuri pingutusi, tagab teabevaldaja andmekogu avaandmete avalikustamise nende algkujul või mis tahes muus vormingus.
 
-(6) Käesoleva paragrahvi lõikes 5 nimetatud andmekogu avaandmed peavad olema juurdepääsetavad Eesti teabevärava kaudu.
+(6) Masinloetaval kujul avaandmed peavad olema juurdepääsetavad Eesti teabevärava kaudu.

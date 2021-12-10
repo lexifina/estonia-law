@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/115032019011> (version in force from 2019-04-01)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/130112021017> (version in force from 2021-12-10)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -12,6 +12,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/115032019011> (version in force 
 | [§ 3](para-003.md) | Avalik teave |
 | [§ 3¹](para-003b1.md) | Avaliku teabe taaskasutamine |
 | [§ 4](para-004.md) | Avalikule teabele juurdepääsu võimaldamise põhimõtted |
+| [§ 4¹](para-004b1.md) | Väärtuslikud andmestikud |
 | [§ 5](para-005.md) | Teabevaldaja |
 | [§ 6](para-006.md) | Teabenõue |
 | [§ 7](para-007.md) | Teabenõudja |
@@ -84,6 +85,9 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/115032019011> (version in force 
 | [§ 53](para-053.md) | Andmekaitse Inspektsiooni taotlus teenistusliku järelevalve korraldamiseks |
 | [§ 53¹](para-053b1.md) | Riigi Infosüsteemi Ameti järelevalve |
 | [§ 53²](para-053b2.md) | Statistikaameti järelevalve |
+| [§ 53³](para-053b3.md) | Tarbijakaitse ja Tehnilise Järelevalve Ameti järelevalve |
+| [§ 53⁴](para-053b4.md) | Tarbijakaitse ja Tehnilise Järelevalve Ameti ettekirjutuse täitmine |
+| [§ 53⁵](para-053b5.md) | Tarbijakaitse ja Tehnilise Järelevalve Ameti taotlus teenistusliku järelevalve korraldamiseks |
 | [§ 54](para-054.md) | Andmekaitse Inspektsiooni ettekanne seaduse täitmisest |
 | **6¹. peatükk VASTUTUS** | |
 | [§ 54¹](para-054b1.md) | Avaliku teabe avalikustamise ja väljastamise nõuete rikkumine |
@@ -95,6 +99,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/115032019011> (version in force 
 | [§ 58](para-058.md) | Asjaajamiskorra kooskõlla viimine käesoleva seadusega |
 | [§ 58¹](para-058b1.md) | Seaduse 5¹. peatüki rakendamine |
 | [§ 58²](para-058b2.md) | Avaliku teabe taaskasutamist reguleerivate sätete rakendamine |
+| [§ 58³](para-058b3.md) | Väärtuslike andmestike tasuta kättesaadavaks tegemine |
 | [§ 59](para-059.md) |  |
 | [§ 68](para-068.md) |  |
 | [§ 69](para-069.md) | Seaduse jõustumine |
