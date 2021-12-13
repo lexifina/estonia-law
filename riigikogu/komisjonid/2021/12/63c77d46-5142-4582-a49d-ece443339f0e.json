@@ -1,0 +1,53 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung esmaspäev, 13.12.2021 kell 13.30",
+  "sitting_time": "2021-12-13T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8b4eaa3a-147e-4caf-aa04-8ac211a5437a"
+    },
+    {
+      "order": 2,
+      "title": "Euroopa Liidu asjade komisjoni esimehe ja aseesimehe valimised",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6ea4896c-0dcf-4c4b-8606-9e2a5aba9306"
+    },
+    {
+      "order": 3,
+      "title": "Seisukoha andmine: Euroopa Komisjoni  määruse eelnõu ja teatise ettepanek alternatiivkütuste taristu kohta",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d0c1dd80-fe92-4b7d-a906-494176069fa4"
+    },
+    {
+      "order": 4,
+      "title": "Seisukoha andmine: Euroopa Komisjoni soovitus ühise küberüksuse loomise kohta",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "798adbe8-6e4e-4d81-9557-7468fe49924b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ELAK 13.12",
+      "uuid": "eb27f265-a550-46d7-927e-b80672138190",
+      "files": [
+        "Tarmo_Tamm_volitus_13.12.pdf",
+        "ELAK_13.12.asice",
+        "ELAK_protokoll_13.12.2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "63c77d46-5142-4582-a49d-ece443339f0e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 63c77d46-5142-4582-a49d-ece443339f0e)",
+  "source": "https://api.riigikogu.ee/api/volumes/63c77d46-5142-4582-a49d-ece443339f0e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-12-01&endDate=2021-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
