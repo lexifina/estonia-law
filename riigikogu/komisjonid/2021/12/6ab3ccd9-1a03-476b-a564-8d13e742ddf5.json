@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 13.12.2021 kell 13.15",
+  "sitting_time": "2021-12-13T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3be3b229-9e54-4c3c-b18e-0eb52a5a8e55"
+    },
+    {
+      "order": 2,
+      "title": "Hinnakriis elektriturul",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0ea1a436-24a6-4fee-bb34-5e0111f06d20"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6a945882-c303-4a30-8982-9f85eb775eb1"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 13.12.2021",
+      "uuid": "1dc7f581-1ab5-4718-a6ae-0365dbf9fbba",
+      "files": [
+        "Protokoll.asice",
+        "Protokoll_nr_104_13.12.2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "6ab3ccd9-1a03-476b-a564-8d13e742ddf5",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 6ab3ccd9-1a03-476b-a564-8d13e742ddf5)",
+  "source": "https://api.riigikogu.ee/api/volumes/6ab3ccd9-1a03-476b-a564-8d13e742ddf5",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-12-01&endDate=2021-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
