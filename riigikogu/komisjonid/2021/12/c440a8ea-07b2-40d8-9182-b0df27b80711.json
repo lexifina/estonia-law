@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Korruptsioonivastane erikomisjon",
+  "committee_uuid": "e4f2977a-e8c3-4fa0-8f3d-9df9acd6377f",
+  "title": "Komisjoni istung esmaspäev, 13.12.2021 kell 13.30",
+  "sitting_time": "2021-12-13T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "216cfb36-f2dc-482e-89ab-8e1a8ac23eba"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu liikme hea tava arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b50253ef-cc6c-48c0-bc4f-45921f035a09"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "26678bbc-4453-4a1e-b144-e69aedd09899"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KVEK protokoll 13.12.2021",
+      "uuid": "d7d90a70-4beb-419a-8a62-0ca5ede70aa9",
+      "files": [
+        "KVEK_protokoll_13.12.2021.pdf",
+        "KVEK_protokoll_13.12.2021.asice"
+      ]
+    }
+  ],
+  "uuid": "c440a8ea-07b2-40d8-9182-b0df27b80711",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c440a8ea-07b2-40d8-9182-b0df27b80711)",
+  "source": "https://api.riigikogu.ee/api/volumes/c440a8ea-07b2-40d8-9182-b0df27b80711",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-12-01&endDate=2021-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
