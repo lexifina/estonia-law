@@ -1,0 +1,54 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung esmaspäev, 13.12.2021 kell 11.15",
+  "sitting_time": "2021-12-13T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d12e1ee7-2c2c-43b3-a7d6-3831fad5ca51"
+    },
+    {
+      "order": 2,
+      "title": "Perioodi 2021–2027 Euroopa Liidu ühtekuuluvus- ja siseturvalisuspoliitika fondide rakendamise seaduse eelnõu (487 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "80512025-c5a3-49b6-9844-8571966d19bb"
+    },
+    {
+      "order": 3,
+      "title": "Eesti seisukohad Euroopa Liidu rahapesu ja terrorismi rahastamise tõkestamise eelnõude kohta - COM(2021) 420, COM(2021) 421, COM(2021) 422, COM(2021) 423 (1-2/21-827/1)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b800dfa4-4aea-453b-9d85-d97f969182e0"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9e903968-f5a0-4a65-b0fc-fc4d21780eb5"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 13.12.2021",
+      "uuid": "18670b03-0fa0-42cd-b62e-30c63a0e4cbd",
+      "files": [
+        "RAHK_protokoll_13.12.2021.asice",
+        "RAHK_protokoll_169_13_12_2021.pdf",
+        "RAM_rahapesu_tõkestamise_pakett_13.12.2021.pdf",
+        "RAM_487_SE_slaidid_13.12.2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "a76babd6-aff2-423b-8724-e788621bb4e7",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a76babd6-aff2-423b-8724-e788621bb4e7)",
+  "source": "https://api.riigikogu.ee/api/volumes/a76babd6-aff2-423b-8724-e788621bb4e7",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-12-01&endDate=2021-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
