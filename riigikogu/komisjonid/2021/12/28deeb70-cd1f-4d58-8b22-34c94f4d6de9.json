@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung teisipäev, 14.12.2021 kell 14.00",
+  "sitting_time": "2021-12-14T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kokkuvõte rahanduskomisjoni tegevusest VI istungjärgul",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "52a74865-dfdd-407c-9d48-b4684dd79ef4"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c618bc38-dbad-4289-a9d2-4027bc4446d3"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 14.12.2021",
+      "uuid": "914d505f-1d7d-42e5-bbc1-ed649dac558c",
+      "files": [
+        "RAHK_protokoll_14.12.2021.asice",
+        "RAHK_protokoll_170_14_12_2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "28deeb70-cd1f-4d58-8b22-34c94f4d6de9",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 28deeb70-cd1f-4d58-8b22-34c94f4d6de9)",
+  "source": "https://api.riigikogu.ee/api/volumes/28deeb70-cd1f-4d58-8b22-34c94f4d6de9",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2021-12-01&endDate=2021-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
