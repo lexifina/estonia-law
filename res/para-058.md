@@ -4,7 +4,7 @@
 
 (1¹) Vabariigi Valitsuse reservis võib ette näha sihtotstarbelisi vahendeid Vabariigi Valitsuse heakskiidetud tegevuste rahastamiseks.
 
-(2) Vabariigi Valitsuse reservist vahendite eraldamise otsustab Vabariigi Valitsus. Raha eraldamisel määrab Vabariigi Valitsus tulemusvaldkonna ja programmi, kus raha kasutatakse.
+(2) Vabariigi Valitsuse reservist vahendite eraldamise otsustab Vabariigi Valitsus. Raha eraldamisel kuludeks määrab Vabariigi Valitsus tulemusvaldkonna, kus raha kasutatakse.
 
 (3) Vabariigi Valitsuse reservist vahendite eraldamise ja eraldatud vahendite kasutamise korra kehtestab
 

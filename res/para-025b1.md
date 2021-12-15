@@ -18,7 +18,7 @@
 
 6) valitsussektori allsektorite või sinna kuuluvate üksuste eeldatavat eelarvepositsiooni ja muud finantsteavet koos olulisemate muudatustega finantseerimise ja finantsjuhtimise põhimõtetes;
 
-7) eelarvestrateegia perioodiks tulemusvaldkondadele ja programmidele kavandatud maksimaalsete vahendite mahtude jaotust ministeeriumi valitsemisalale;
+7) eelarvestrateegia perioodiks tulemusvaldkondadele kavandatud maksimaalsete vahendite mahtude jaotust ministeeriumi valitsemisalale;
 
 8) võrdlust eelmise ja uuendatud eelarvestrateegia vahel, kui poliitika eesmärgid on võrreldes eelmise eelarvestrateegiaga muutunud;
 

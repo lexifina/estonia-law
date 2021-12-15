@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/117042021004> (version in force from 2021-04-18)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/107122021004> (version in force from 2021-12-15)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -11,6 +11,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/117042021004> (version in force 
 | [§ 2](para-002.md) | Valitsussektor ja keskvalitsuse allsektor |
 | [§ 3](para-003.md) | Ministeeriumi valitsemisala |
 | [§ 4](para-004.md) | Eelarvenõukogu |
+| [§ 4¹](para-004b1.md) | Andmete esitamine |
 | **2. peatükk Eelarvereeglid** | |
 | [§ 5](para-005.md) | Eelarvepositsioon ja keskpika perioodi eelarve-eesmärk |
 | [§ 6](para-006.md) | Eelarvepositsiooni reeglid |
@@ -35,6 +36,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/117042021004> (version in force 
 | [§ 21](para-021.md) | Eelarvestrateegia sisu |
 | [§ 22](para-022.md) | Eelarvestrateegia koostamine |
 | [§ 23](para-023.md) | Stabiilsusprogramm |
+| [§ 23¹](para-023b1.md) | Stabiilsusprogrammi sisu |
 | [§ 24](para-024.md) | Eelarvestrateegia kinnitamine |
 | [§ 25](para-025.md) | Eelarvestrateegia ja stabiilsusprogrammi avalikustamine |
 | **4. peatükk Eelarvestrateegia ja riigieelarve** | |
@@ -123,6 +125,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/117042021004> (version in force 
 | [§ 81¹](para-081b1.md) | 2020. aasta riigieelarvega seotud erisused |
 | [§ 81²](para-081b2.md) | COVID-19 haigust põhjustava koroonaviiruse levikuga seotud kriisi leevendamiseks ettenähtud toetusmeetmete kehtestamine |
 | [§ 81³](para-081b3.md) | COVID-19 põhjustava viiruse levikuga seotud kriisi leevendamiseks ettenähtud toetusprogrammide kehtestamine |
+| [§ 81⁴](para-081b4.md) | 2022. aasta riigieelarvega seotud erisused |
 | **2. jagu Seaduste muutmine ja kehtetuks tunnistamine** | |
 | [§ 82](para-082.md) |  |
 | [§ 125](para-125.md) |  |

@@ -4,4 +4,4 @@
 
 (2) Stabiilsusprogramm koostatakse kooskõlas eelarvestrateegias esitatud eelarvepoliitiliste eesmärkide, Vabariigi Valitsuse üldeesmärkide ja nende rahastamiskavaga.
 
-(3) Stabiilsusprogrammi avalikustab Rahandusministeerium oma kodulehel viivitamata pärast selle kinnitamist.
+(3) Stabiilsusprogrammi kinnitab Vabariigi Valitsus hiljemalt kaheksa kuud enne järgmise eelarveaasta algust ja Rahandusministeerium avalikustab selle pärast kinnitamist oma kodulehel viivitamata.

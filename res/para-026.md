@@ -16,6 +16,10 @@
 
 4) finantseerimistehingud on tehingud finantsvarade või -kohustustega, mille puhul kahekordse kirjendamise põhimõttest tulenevalt tehakse mõlemad kirjed finantsvarades või -kohustustes ning mille tulemusena eelarvepositsioon ei muutu.
 
-(5) Riigieelarves liigendatakse kulud tulemusvaldkondade ja programmide kaupa.
+(5) Riigieelarves liigendatakse kulud tulemusvaldkondade ja programmi tegevuste kaupa.
 
 (6) Põhiseadusliku institutsiooni eelarve liigendamise käesoleva paragrahvi lõike 5 kohaselt otsustab Vabariigi Valitsus põhiseadusliku institutsiooni algatusel.
+
+(7) Investeeringud maksumusega kümme miljonit eurot või rohkem liigendatakse riigieelarves investeeringuobjektide kaupa.
+
+(8) Riigisaladusega seotud valdkondade eelarve liigendatakse käesoleva paragrahvi lõigete 5 ja 7 kohaselt ulatuses, mis ei ole vastuolus riigisaladuse ja salastatud välisteabe seaduse ning selle alusel kehtestatud õigusaktidega.

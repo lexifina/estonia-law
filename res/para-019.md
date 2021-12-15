@@ -1,6 +1,8 @@
 # § 19. Strateegilised arengudokumendid
 
-(1) Strateegilised arengudokumendid on poliitika põhialused, valdkonna arengukava ja programm.
+(1) Strateegilised arengudokumendid on riigi pikaajaline arengustrateegia, poliitika põhialused, valdkonna arengukava ja programm.
+
+(1¹) Riigi pikaajaline arengustrateegia on arengudokument, milles määratakse poliitikavaldkondade terviklik visioon, üleriigilised strateegilised sihid ja olulisemad muudatused nende elluviimiseks vähemalt 15 aastaks.
 
 (2) Poliitika põhialused on arengudokument, milles määratakse ühe või mitme omavahel seotud poliitikavaldkonna visioon, üleriigiline eesmärk ja prioriteetsed arengusuunad.
 
