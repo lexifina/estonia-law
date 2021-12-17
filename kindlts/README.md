@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/114042021005> (version in force from 2021-06-30)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/107122021011> (version in force from 2021-12-17)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -322,6 +322,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/114042021005> (version in force 
 | [§ 261](para-261.md) | Klientide huvide ohustamine |
 | [§ 262](para-262.md) | Vahendaja kasutamise ja kindlustuslepingute turustamise piirangu rikkumine |
 | [§ 263](para-263.md) | Vahendajale kindlustuslepingu turustamisel kehtestatud nõuete rikkumine |
+| [§ 263¹](para-263b1.md) | Euroopa Parlamendi ja nõukogu määruse (EL) 2020/852 nõuete rikkumine |
 | [§ 264](para-264.md) | Menetlus |
 | **14. peatükk Rakendussätted** | |
 | **1. jagu Üleminekusätted** | |

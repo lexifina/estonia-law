@@ -1,6 +1,6 @@
 # § 223. Finantsinspektsiooni järelevalve alused ja ulatus
 
-(1) Finantsinspektsioon teostab järelevalvet Eestis kindlustustegevuse ja kindlustuse turustamisega tegeleva isiku, samuti kindlustusandjas olulist osalust omava isiku ja kolmanda isiku, kellele on käesoleva seaduse §-s 104 või 182 sätestatud tingimustel tegevus edasi antud, tegevuse vastavuse üle käesolevas seaduses ja Finantsinspektsiooni seaduse § 2 lõikes 1 ja § 6 lõike 1 punktis 7 nimetatud seadustes või muudes õigusaktides nende suhtes kehtestatud nõuetele.
+(1) Finantsinspektsioon teostab järelevalvet Eestis kindlustustegevuse ja kindlustuse turustamisega tegeleva isiku, samuti kindlustusandjas olulist osalust omava isiku ja kolmanda isiku, kellele on käesoleva seaduse §-s 104 või 182 sätestatud tingimustel tegevus edasi antud, tegevuse vastavuse üle käesolevas seaduses ja Finantsinspektsiooni seaduse § 2 lõikes 1 ja § 6 lõike 1 punktis 7 nimetatud seadustes või muudes õigusaktides nende suhtes kehtestatud nõuetele. Finantsinspektsioonil on Euroopa Liidu määrustes sätestatud nõuete kohase täitmise üle järelevalve teostamisel kõik käesolevas seaduses ja Finantsinspektsiooni seaduses sätestatud õigused.
 
 (2) Järelevalve eesmärk on tagada kõigi kindlustusandjate ja vahendajate asutamise, tegevuse ja lõpetamise vastavus seadustele ja teistele õigusaktidele, pidades silmas kindlustusvõtjate, kindlustatute ning soodustatud isikute huvide ja õiguste kaitset.
 
