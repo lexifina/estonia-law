@@ -28,7 +28,7 @@
 
 4) küberturvalisuse tagamisele pädeva ametiasutuse juhtimisel;
 
-6) politsei ja piirivalve seaduse § 3 lõike 1 punktides 1, 4–6 ja 8 ning hädaolukorra seaduse § 16 lõikes 3 sätestatud politsei ülesannete täitmisse;
+6) politsei ja piirivalve seaduse § 3 lõike 1 punktides 1, 4–6 ja 8 ning hädaolukorra seaduse § 16 lõikes 3 sätestatud ülesannete täitmisse;
 
 7) riigikaitseobjektivastase ründe, riigipiiri või ajutise kontrolljoone ebaseadusliku ületamise ning kuritegude ennetamisse ja tõkestamisse korrakaitseseaduses sätestatud korras.
 
