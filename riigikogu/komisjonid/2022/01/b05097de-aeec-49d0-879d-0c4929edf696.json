@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 10.01.2022 kell 13.15",
+  "sitting_time": "2022-01-10T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "683b31db-47b5-4b7f-9324-bccd1e6bca64"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse kliimapaketi mõju riigieelarvele ja majandusele",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "48e78fd0-e6f5-4a58-af43-9ab18f4a503c"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d3dfbdbb-e6b9-4c86-b63a-7482bad6ba1a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 10.01.2022",
+      "uuid": "a7436856-cc6b-4f55-9f01-7ef4c1e7ae4c",
+      "files": [
+        "REKK_protokoll_10.01.2022.asice",
+        "Protokoll_nr_105_10.01.2022.pdf"
+      ]
+    }
+  ],
+  "uuid": "b05097de-aeec-49d0-879d-0c4929edf696",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b05097de-aeec-49d0-879d-0c4929edf696)",
+  "source": "https://api.riigikogu.ee/api/volumes/b05097de-aeec-49d0-879d-0c4929edf696",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-01-01&endDate=2022-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
