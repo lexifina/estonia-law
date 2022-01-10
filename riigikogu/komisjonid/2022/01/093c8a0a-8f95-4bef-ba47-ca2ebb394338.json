@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung esmaspäev, 10.01.2022 kell 11.15",
+  "sitting_time": "2022-01-10T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "89e5042e-c1d0-4759-a3df-3bd392c998cd"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine Rahapesu Andmebüroo esindajatega. Osaleb Rahapesu Andmebüroo juht Matis Mäeker.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "14c542ba-3323-4eae-9aa5-dfe53ac73d3e"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "125a2139-57d1-4103-bfdc-f4a308926352"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 10.01.2022",
+      "uuid": "611d313e-9fda-46e4-9a39-9a52863aa17e",
+      "files": [
+        "RAHK_protokoll_10.01.2022.asice",
+        "RAHK__protokoll_171_10_01_2022.pdf"
+      ]
+    }
+  ],
+  "uuid": "093c8a0a-8f95-4bef-ba47-ca2ebb394338",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 093c8a0a-8f95-4bef-ba47-ca2ebb394338)",
+  "source": "https://api.riigikogu.ee/api/volumes/093c8a0a-8f95-4bef-ba47-ca2ebb394338",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-01-01&endDate=2022-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
