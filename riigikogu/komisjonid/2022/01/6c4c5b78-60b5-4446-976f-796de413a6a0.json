@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung esmaspäev, 10.01.2022 kell 11.15",
+  "sitting_time": "2022-01-10T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f44ec897-ea09-468d-870b-3265618bb3c0"
+    },
+    {
+      "order": 2,
+      "title": "Arengutest Venemaa ja lääneriikide suhetes – arutelu jätkamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0fc42a97-bb43-4979-a3a7-2a0f65d472ce"
+    },
+    {
+      "order": 3,
+      "title": "Väliskomisjoni VII istungjärgu töökava arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "695f9664-c8d2-4d55-9961-644803fea950"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f96c489b-3b7a-411c-ab6f-75d54c7e93e3"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 10.01.2022",
+      "uuid": "17aabe3c-88bf-4c32-8ff8-f4ee4e560825",
+      "files": [
+        "VÄLK_protokoll_10.01.2022.asice",
+        "VÄLK_protokoll_10.01.2022.pdf"
+      ]
+    }
+  ],
+  "uuid": "6c4c5b78-60b5-4446-976f-796de413a6a0",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 6c4c5b78-60b5-4446-976f-796de413a6a0)",
+  "source": "https://api.riigikogu.ee/api/volumes/6c4c5b78-60b5-4446-976f-796de413a6a0",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-01-01&endDate=2022-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
