@@ -1,0 +1,53 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung esmaspäev, 10.01.2022 kell 11.10",
+  "sitting_time": "2022-01-10T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fa4258de-7951-4d4e-9b3f-e7b5d299e7a9"
+    },
+    {
+      "order": 2,
+      "title": "Keskkonnaministeeriumi 2022. a 1. poolaastal Riigikogule esitatava õigusloome ülevaade",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "543162d0-af89-481e-a535-e174eaa34781"
+    },
+    {
+      "order": 3,
+      "title": "Arvamuse andmine Euroopa Liidu asjade komisjonile: Eesti seisukohad avaliku konsultatsiooni „Õhukvaliteedi EL õigusnormide läbivaatamine“ kohta",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "17b55853-4773-4df4-97df-8669392e25bd"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c1834be3-d5ab-4502-b0f3-a5eac7994ae7"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK protokoll 10.01.2022",
+      "uuid": "17f948c4-a3f1-4868-96c3-5ec8367b20e9",
+      "files": [
+        "Seisukohad_õhukvaliteedi_direktiiv_2022.pdf",
+        "KEKK_protokoll_10.01.2022.asice",
+        "KEKK_protokoll_10.01.2022.pdf"
+      ]
+    }
+  ],
+  "uuid": "ee21f57e-e30f-40eb-b8d3-efe419a7bf1c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ee21f57e-e30f-40eb-b8d3-efe419a7bf1c)",
+  "source": "https://api.riigikogu.ee/api/volumes/ee21f57e-e30f-40eb-b8d3-efe419a7bf1c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-01-01&endDate=2022-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
