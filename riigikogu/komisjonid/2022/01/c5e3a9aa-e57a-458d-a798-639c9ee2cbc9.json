@@ -1,0 +1,53 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 10.01.2022 kell 11.10",
+  "sitting_time": "2022-01-10T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "03305cd1-6e7d-43ee-8772-bcd72a4fc321"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud Euroopa Liidu ühise põllumajanduspoliitika rakendamise seaduse muutmise seaduse eelnõu (439 SE I) arutelu teise lugemise ettevalmistamiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2bf0f9e1-af8a-4631-a6bd-3970f8f613db"
+    },
+    {
+      "order": 3,
+      "title": "Olukord põllumajanduses keskkonna võtmes (veekaitsenõuetest põllumajanduses)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fe6842b7-b9ae-451b-aacb-a088a85160e6"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d884ed60-edbf-4a3f-a495-06cfedd1ba9e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 10.01.2022",
+      "uuid": "9806b1cc-a256-4426-86e7-7ace5196a8d5",
+      "files": [
+        "MAEK_protokoll_10.01.2022.asice",
+        "129_protokoll_10.01.2022.pdf",
+        "129_protokolli_lisa__veeseadusest_tulenevad_nõuded_põllumajanduses.pdf"
+      ]
+    }
+  ],
+  "uuid": "c5e3a9aa-e57a-458d-a798-639c9ee2cbc9",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c5e3a9aa-e57a-458d-a798-639c9ee2cbc9)",
+  "source": "https://api.riigikogu.ee/api/volumes/c5e3a9aa-e57a-458d-a798-639c9ee2cbc9",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-01-01&endDate=2022-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
