@@ -1,0 +1,42 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung teisipäev, 11.01.2022 kell 14.00",
+  "sitting_time": "2022-01-11T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Looduskaitseseaduse ja sellega seotud seaduste muutmise seaduse eelnõu (483 SE) ettevalmistamine esimeseks lugemiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "326e965b-79f5-4db6-8710-793160bc1f75"
+    },
+    {
+      "order": 2,
+      "title": "Arvamuse andmine väliskomisjonile: Eesti seisukohad Euroopa Liidu Arktika-poliitika ühisteatise kohta",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "49855536-49b3-44a7-bb28-111150c28509"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK protokoll 11.01.2022",
+      "uuid": "274fdda2-f415-4eef-a761-3ff25fe20345",
+      "files": [
+        "KEKK_protokoll_11.01.2022.asice",
+        "KEKK_protokoll_11.01.2022.pdf",
+        "Asendusliige_L._Läänemets_11012022.docx",
+        "Asendusliige_L._Läänemets_11012022.asice"
+      ]
+    }
+  ],
+  "uuid": "f60ea1fe-9f62-43f7-b4ae-da5aed1c940c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f60ea1fe-9f62-43f7-b4ae-da5aed1c940c)",
+  "source": "https://api.riigikogu.ee/api/volumes/f60ea1fe-9f62-43f7-b4ae-da5aed1c940c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-01-01&endDate=2022-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
