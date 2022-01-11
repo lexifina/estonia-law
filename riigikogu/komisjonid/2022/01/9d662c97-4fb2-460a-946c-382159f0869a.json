@@ -1,0 +1,34 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung teisipäev, 11.01.2022 kell 14.30",
+  "sitting_time": "2022-01-11T14:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Informatsioon julgeolekuolukorra arengutest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f4aabcb0-4c01-4c9d-8ba3-9dc487bb0b7c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 11.01.2022",
+      "uuid": "4992c16b-944b-4693-b5bb-44a00173db71",
+      "files": [
+        "VÄLK_protokoll_11.01.2022.asice",
+        "VÄLK_protokoll_11.01.2022.pdf"
+      ]
+    }
+  ],
+  "uuid": "9d662c97-4fb2-460a-946c-382159f0869a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9d662c97-4fb2-460a-946c-382159f0869a)",
+  "source": "https://api.riigikogu.ee/api/volumes/9d662c97-4fb2-460a-946c-382159f0869a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-01-01&endDate=2022-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
