@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung neljapäev, 13.01.2022 kell 14.00",
+  "sitting_time": "2022-01-13T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade teadustegevuse arendamisest ja korraldamisest Aasia ja Venemaa suunal",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7cfff6e7-ff46-4def-8fae-eb40901e967f"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu liikmete algatatud Riigikogu avaldus \"Ukraina territoriaalse terviklikkuse toetuseks\" (501 AE) - arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "effe6e44-7c5b-4b19-8bb5-f0c8fda96884"
+    },
+    {
+      "order": 3,
+      "title": "Väliskomisjoni VII istungjärgu töökava arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e79e5491-e2dd-4a82-8630-8fa51402edf7"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e6dad9cd-5010-45ef-8c76-57a339dc5fd4"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 13.01.2022",
+      "uuid": "5da7786d-58c9-42d7-b778-2638fef50686",
+      "files": [
+        "VÄLK_protokoll_13.01.2022.asice",
+        "VÄLK_protokoll_13.01.2022.pdf"
+      ]
+    }
+  ],
+  "uuid": "ece3de83-7a77-4a91-989b-e5c2a906c3bc",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ece3de83-7a77-4a91-989b-e5c2a906c3bc)",
+  "source": "https://api.riigikogu.ee/api/volumes/ece3de83-7a77-4a91-989b-e5c2a906c3bc",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-01-01&endDate=2022-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
