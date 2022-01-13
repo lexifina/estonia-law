@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/130062020026> (version in force from 2020-07-01)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/103012022009> (version in force from 2022-01-13)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -41,6 +41,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/130062020026> (version in force 
 | [§ 30²](para-030b2.md) | Ehitusseadustiku §-s 65¹ sätestatud nõuete rakendamine |
 | [§ 30³](para-030b3.md) | Ehitusseadustiku §-s 65² sätestatud rekonstrueerimise toetusmeetmete nõuete rakendamine |
 | [§ 30⁴](para-030b4.md) | Ehitusseadustiku §-s 69¹ sätestatud tehnosüsteemide nõuete rakendamine |
+| [§ 30⁵](para-030b5.md) | Planeerimisseaduse § 131 lõike 2¹ rakendamine |
 | [§ 31](para-031.md) |  |
 | [§ 73](para-073.md) |  |
 | [§ 74](para-074.md) | Seaduste jõustumine |
