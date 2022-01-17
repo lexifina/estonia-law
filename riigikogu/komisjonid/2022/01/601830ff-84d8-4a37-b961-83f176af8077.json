@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 17.01.2022 kell 11.10",
+  "sitting_time": "2022-01-17T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d32bf4e4-d121-4bdc-b096-d5d01727c459"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine keskkonnaminister Erki Savisaarega (teemadeks loomühiku nõude muutmine, kalandus ja metsandus)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8b232ec4-68c9-4633-9620-7fc62d584b37"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3b969fe1-6147-4710-af2f-204653dc1a5d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 17.01.2022",
+      "uuid": "5242aa11-b51a-4776-be2b-2042eaf57dbd",
+      "files": [
+        "MAEK_protokoll_17.01.2022.asice",
+        "130_protokoll_17.01.2022.pdf"
+      ]
+    }
+  ],
+  "uuid": "601830ff-84d8-4a37-b961-83f176af8077",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 601830ff-84d8-4a37-b961-83f176af8077)",
+  "source": "https://api.riigikogu.ee/api/volumes/601830ff-84d8-4a37-b961-83f176af8077",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-01-01&endDate=2022-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
