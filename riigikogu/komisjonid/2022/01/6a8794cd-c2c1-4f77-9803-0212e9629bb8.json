@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung esmaspäev, 17.01.2022 kell 11.10",
+  "sitting_time": "2022-01-17T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f103f074-0454-4447-a0d4-ea8f3355c621"
+    },
+    {
+      "order": 2,
+      "title": "Arvamuse andmine Euroopa Liidu asjade komisjonile: Eesti seisukohad taastuvenergia direktiivi kohta - COM(2021) 557",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7d81e8b8-e546-4b7a-8e84-90c6c22072cb"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK protokoll 17.01.2022",
+      "uuid": "59fea6f8-26aa-4521-8054-cf7222e48e58",
+      "files": [
+        "KEKK_protokoll_17.01.2022.asice",
+        "KEKK_protokoll_17.01.2022.pdf",
+        "Eesti_seisukohad_ja_nende_põhjendused_taastuvenergia_direktiivi_(.pdf"
+      ]
+    }
+  ],
+  "uuid": "6a8794cd-c2c1-4f77-9803-0212e9629bb8",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 6a8794cd-c2c1-4f77-9803-0212e9629bb8)",
+  "source": "https://api.riigikogu.ee/api/volumes/6a8794cd-c2c1-4f77-9803-0212e9629bb8",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-01-01&endDate=2022-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
