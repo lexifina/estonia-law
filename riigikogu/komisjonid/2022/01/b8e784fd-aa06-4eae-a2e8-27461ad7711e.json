@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung esmaspäev, 17.01.2022 kell 11.15",
+  "sitting_time": "2022-01-17T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "81c468d4-f53a-494b-b292-4c8554ec61f6"
+    },
+    {
+      "order": 2,
+      "title": "Äriregistri seaduse eelnõu (493 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "442d069e-2626-4e0c-8008-f60e14583011"
+    },
+    {
+      "order": 3,
+      "title": "Rikkumisest teavitaja kaitse seaduse eelnõu (504 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c4fac0c2-9435-4c31-a2d9-1a48f16a97b8"
+    },
+    {
+      "order": 4,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "002d279a-9782-47f4-a96b-84c1b75e4d81"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ÕIGK 17.01.2022 protokoll",
+      "uuid": "c427fa35-723a-4906-a0ce-5d97ef1d0c5b",
+      "files": [
+        "ÕIGK_17.01.2022_protokoll.asice",
+        "ÕIGK_protokoll_17.01.2022.pdf"
+      ]
+    }
+  ],
+  "uuid": "b8e784fd-aa06-4eae-a2e8-27461ad7711e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b8e784fd-aa06-4eae-a2e8-27461ad7711e)",
+  "source": "https://api.riigikogu.ee/api/volumes/b8e784fd-aa06-4eae-a2e8-27461ad7711e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-01-01&endDate=2022-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
