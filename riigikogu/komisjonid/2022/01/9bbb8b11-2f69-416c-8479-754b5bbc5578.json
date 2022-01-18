@@ -1,0 +1,53 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung teisipäev, 18.01.2022 kell 14.00",
+  "sitting_time": "2022-01-18T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "44186db0-d9b5-42b5-a3d3-c97d343a2044"
+    },
+    {
+      "order": 2,
+      "title": "Meediateenuste seaduse muutmise ja sellega seonduvalt teiste seaduste muutmise seaduse eelnõu (327 SE I) ettevalmistamine teiseks lugemiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "12f30aca-d3f1-4311-af56-ec5121fcef6d"
+    },
+    {
+      "order": 3,
+      "title": "Loovisikute ja loomeliitude seaduse ning töövõimetoetuse seaduse muutmise seaduse eelnõu (517 SE) ettevalmistamine esimeseks lugemiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c194e8e9-10c6-4fc7-ae8c-372d3f590655"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a472da86-bca5-41c0-9760-bd0ae4859d73"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KULK protokoll 177 (18.01.2022)",
+      "uuid": "d5eafaed-4912-415b-a861-1ed4b242aed6",
+      "files": [
+        "KULK_protokoll_177_(18.01.2022).asice",
+        "LLSi_muudatuse_eelnõu.pdf",
+        "Protokoll_177_(18.01.2022).pdf"
+      ]
+    }
+  ],
+  "uuid": "9bbb8b11-2f69-416c-8479-754b5bbc5578",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9bbb8b11-2f69-416c-8479-754b5bbc5578)",
+  "source": "https://api.riigikogu.ee/api/volumes/9bbb8b11-2f69-416c-8479-754b5bbc5578",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-01-01&endDate=2022-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
