@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung teisipäev, 18.01.2022 kell 14.00",
+  "sitting_time": "2022-01-18T14:05:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0f7a6ae8-4343-4335-bbf4-8d685c61e382"
+    },
+    {
+      "order": 2,
+      "title": "Riigipiiri seaduse muutmise seaduse eelnõu (489 SE) ettevalmistamine esimeseks lugemiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1454e6fa-291b-466c-b4d2-8c2922a536ca"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "aeadc6be-b8e8-4630-8edc-36e16d0a4dde"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "PÕSK protokoll 18.01.2022",
+      "uuid": "80734f16-c2f3-4787-b68c-95139168a599",
+      "files": [
+        "PÕSK_protokoll_18.01.2022.asice",
+        "PÕSK.protokoll.18.01.2022.pdf"
+      ]
+    }
+  ],
+  "uuid": "ff674b49-ffee-43f8-893f-d67dce657a2e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ff674b49-ffee-43f8-893f-d67dce657a2e)",
+  "source": "https://api.riigikogu.ee/api/volumes/ff674b49-ffee-43f8-893f-d67dce657a2e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-01-01&endDate=2022-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
