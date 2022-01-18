@@ -1,0 +1,42 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 18.01.2022 kell 14.00",
+  "sitting_time": "2022-01-18T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Elektrihinna tõus ning selle mõju põllumajandusele ja toiduainetööstusele",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "253f4385-f6aa-4078-b387-e14f53895dab"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ab5c3bdc-0725-42e7-94f0-0ee4c0c8ae7c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 18.01.2022",
+      "uuid": "f3a31677-b75f-48c8-8031-af8bcfa47c84",
+      "files": [
+        "MAEK_protokoll_18.01.2022.asice",
+        "131__protokolli_lisa_2__Eesti_Põllumajandus-Kaubanduskoda.pdf",
+        "131_protokolli_lisa_1__Toiduliidu_ettepanekud_seoses_energiakriisiga.pdf",
+        "131_protokoll_18.01.2022.pdf"
+      ]
+    }
+  ],
+  "uuid": "be3ddd9a-3f7d-4e0f-81a9-5187fd4e6390",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid be3ddd9a-3f7d-4e0f-81a9-5187fd4e6390)",
+  "source": "https://api.riigikogu.ee/api/volumes/be3ddd9a-3f7d-4e0f-81a9-5187fd4e6390",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-01-01&endDate=2022-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
