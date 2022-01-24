@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 24.01.2022 kell 13.15",
+  "sitting_time": "2022-01-24T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "85499ed8-a7e6-40df-b397-025fd2c244e2"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli kontrolliaruande „Postiteenuse korraldus“ arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ba0012bb-c1a6-4c1d-bb0b-9b7dfc4acb70"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c5aebb53-d709-463d-8f28-61fa733c37ce"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 24.01.2022",
+      "uuid": "2dddd92b-a153-4705-864f-42e2fbbe6dc9",
+      "files": [
+        "REKK_protokoll_24.01.2022.asice",
+        "Postiteenuse_slaidid_REKK_24.01.2022.pptx",
+        "Protokoll_nr_108_24.01.2022.pdf"
+      ]
+    }
+  ],
+  "uuid": "fda02101-70ea-463e-a52a-756e4d372d7b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid fda02101-70ea-463e-a52a-756e4d372d7b)",
+  "source": "https://api.riigikogu.ee/api/volumes/fda02101-70ea-463e-a52a-756e4d372d7b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-01-01&endDate=2022-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
