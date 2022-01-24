@@ -1,0 +1,54 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 24.01.2022 kell 11.10",
+  "sitting_time": "2022-01-24T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e47d56cd-b595-4b21-9728-958dbef09663"
+    },
+    {
+      "order": 2,
+      "title": "Söödaseaduse muutmise seaduse eelnõu (499 SE) arutelu esimese lugemise ettevalmistamiseks ja juhtivkomisjoni ettekandja määramiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "514753d9-24e7-466b-83f1-2f2ca93da3ea"
+    },
+    {
+      "order": 3,
+      "title": "Maaeluministeeriumi järgmise poolaasta plaanid",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ed56e789-4291-4c00-b6ba-538ed52b63b6"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ca1cfc20-43c5-454d-bb52-2ecaa9707588"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 24.01.2022",
+      "uuid": "fc89edd2-47a4-462c-870c-144437fb8d58",
+      "files": [
+        "MAEK_protokoll_24.01.2022.asice",
+        "132_protokolli_lisa_2__MeM_järgmise_poolaasta_plaan.pdf",
+        "132_protokolli_lisa_1__499_SE.pdf",
+        "132_protokoll_24.01.2022.pdf"
+      ]
+    }
+  ],
+  "uuid": "5020c018-0bb4-4e73-a413-8435a0b69bc8",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 5020c018-0bb4-4e73-a413-8435a0b69bc8)",
+  "source": "https://api.riigikogu.ee/api/volumes/5020c018-0bb4-4e73-a413-8435a0b69bc8",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-01-01&endDate=2022-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
