@@ -1,0 +1,43 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung teisipäev, 25.01.2022 kell 14.00",
+  "sitting_time": "2022-01-25T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade elektri- ja sisendhindade suure kõikumise mõjust ja lahendusvõimalustest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4f0d8db7-dc3b-4e7a-85f1-0c7aba07d731"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bcd033cd-6186-417c-9f0b-4b0b28561e03"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAJK protokoll nr 154 25.01.2022",
+      "uuid": "1cbb63ce-97d1-4807-8734-600b65ac13c2",
+      "files": [
+        "MAJK_protokoll_nr_154_25.01.2022.asice",
+        "Energiatoetusest_RK_majanduskomisjon_Lees.pdf",
+        "Elektriturg_RK_25.01a1.pdf",
+        "Elektrivarustuskindlus_majanduskomisjon_21.1.2022Elering.pdf",
+        "MAJK_protokoll_nr_154_25.01.2022.pdf"
+      ]
+    }
+  ],
+  "uuid": "81d03767-f32d-4ecc-8a0e-4d00606a3be8",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 81d03767-f32d-4ecc-8a0e-4d00606a3be8)",
+  "source": "https://api.riigikogu.ee/api/volumes/81d03767-f32d-4ecc-8a0e-4d00606a3be8",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-01-01&endDate=2022-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
