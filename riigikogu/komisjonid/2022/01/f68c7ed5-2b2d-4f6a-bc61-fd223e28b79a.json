@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung teisipäev, 25.01.2022 kell 14.00",
+  "sitting_time": "2022-01-25T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Rahapesu ja terrorismi rahastamise tõkestamise seaduse ja teiste seaduste muutmise seaduse eelnõu (507 SE I). Kohtumine huvirühmadega.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "aba15973-d38e-461d-a7ea-37cd02b4ab97"
+    },
+    {
+      "order": 2,
+      "title": "Perioodi 2021–2027 Euroopa Liidu ühtekuuluvus- ja siseturvalisuspoliitika fondide rakendamise seaduse eelnõu (487 SE I). Kohtumine huvirühmadega.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "33f30729-d5f9-4c27-95ea-61e61bb06f70"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ca0a9528-7aa9-4eba-ae7e-c64b4fce1a7f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 25.01.2022",
+      "uuid": "b26dd777-b746-4e72-8611-566ad486e5c3",
+      "files": [
+        "RAHK_protokoll_25.01.2022.asice",
+        "RAHK_protokoll_177_25_01_2022.pdf",
+        "Asendusliikme_volikiri_25.01.22_U.Reitelmanni_asendusliige.pdf"
+      ]
+    }
+  ],
+  "uuid": "f68c7ed5-2b2d-4f6a-bc61-fd223e28b79a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f68c7ed5-2b2d-4f6a-bc61-fd223e28b79a)",
+  "source": "https://api.riigikogu.ee/api/volumes/f68c7ed5-2b2d-4f6a-bc61-fd223e28b79a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-01-01&endDate=2022-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
