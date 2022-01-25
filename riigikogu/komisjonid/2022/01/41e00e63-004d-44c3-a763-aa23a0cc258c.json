@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung teisipäev, 25.01.2022 kell 13.30",
+  "sitting_time": "2022-01-25T14:16:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väliskomisjoni väljasõiduistung Riigikantseleis: Riigikantselei rollist Eesti julgeolekus, riigikaitses ja kriisireguleerimises",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e9f02362-e298-410f-9465-2a215b5bb4c5"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bf71087c-889e-4577-b4ac-945ec7fc83f4"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 25.01.2022",
+      "uuid": "0fbf0f6e-b0e2-488b-93b4-e2c933f47dd4",
+      "files": [
+        "VÄLK_protokoll_25.01.2022.asice",
+        "VÄLK_protokoll_25.01.2022.pdf"
+      ]
+    }
+  ],
+  "uuid": "41e00e63-004d-44c3-a763-aa23a0cc258c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 41e00e63-004d-44c3-a763-aa23a0cc258c)",
+  "source": "https://api.riigikogu.ee/api/volumes/41e00e63-004d-44c3-a763-aa23a0cc258c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-01-01&endDate=2022-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
