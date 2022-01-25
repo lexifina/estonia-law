@@ -1,0 +1,54 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 25.01.2022 kell 14.00",
+  "sitting_time": "2022-01-25T14:05:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Arvamuse andmine rahanduskomisjonile vedelkütuse erimärgistamise seaduse ja Euroopa Liidu ühise põllumajanduspoliitika rakendamise seaduse muutmise seaduse eelnõu 495 SE kohta",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bdb90c15-a614-462c-8558-14e572bd3132"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad Euroopa Komisjoni avaliku konsultatsiooni „Loomade heaolu käsitlevate ELi õigusaktide läbivaatamine“ kohta. Arvamuse andmine EL asjade komisjonile",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0b3ca106-92f9-4466-80b1-c4a24a0499df"
+    },
+    {
+      "order": 3,
+      "title": "Kalapüügiseaduse muutmise seaduse eelnõu (136 SE I) edasise menetluse arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "17f93536-2d31-4d3a-aee3-381150066ea7"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b830420e-f6c3-4196-83bb-cb6e3fc8558d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 25.01.2022",
+      "uuid": "4a343549-07ce-41d8-811f-860b610f3b73",
+      "files": [
+        "MAEK_protokoll_25.01.2022.asice",
+        "133_protokolli_lisa_2__EEsti_seisukohad_loomade_heaolu_avaliku_konsultatsiooni_kohta.pdf",
+        "133_protokolli_lisa_1__495_SE.pdf",
+        "133_protokoll_25.01.2022.pdf"
+      ]
+    }
+  ],
+  "uuid": "596934aa-cb62-4924-890a-c080b7d2cca3",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 596934aa-cb62-4924-890a-c080b7d2cca3)",
+  "source": "https://api.riigikogu.ee/api/volumes/596934aa-cb62-4924-890a-c080b7d2cca3",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-01-01&endDate=2022-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
