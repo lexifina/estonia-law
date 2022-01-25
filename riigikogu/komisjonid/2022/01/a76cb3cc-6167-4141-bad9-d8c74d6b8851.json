@@ -1,0 +1,44 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung teisipäev, 25.01.2022 kell 14.00",
+  "sitting_time": "2022-01-25T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Võimalused tubakakahjude vähendamiseks arutelu ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3ed429a2-187d-4857-a19c-6887cdec0ce2"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "197fdc4d-ded7-474b-8931-64935d79c0f9"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "SOTK protokoll 25.01.2022",
+      "uuid": "c68951d5-79ca-4807-b184-f579f662d5d7",
+      "files": [
+        "SOTK_protokoll_25.01.2022.asice",
+        "Protokoll_nr_194_(25.01.2022).pdf",
+        "Lisa3_H.Vessel.pdf",
+        "Lisa4_SoM.pdf",
+        "Lisa2_K.Oselin.pdf",
+        "Lisa1_TAI.pdf"
+      ]
+    }
+  ],
+  "uuid": "a76cb3cc-6167-4141-bad9-d8c74d6b8851",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a76cb3cc-6167-4141-bad9-d8c74d6b8851)",
+  "source": "https://api.riigikogu.ee/api/volumes/a76cb3cc-6167-4141-bad9-d8c74d6b8851",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-01-01&endDate=2022-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
