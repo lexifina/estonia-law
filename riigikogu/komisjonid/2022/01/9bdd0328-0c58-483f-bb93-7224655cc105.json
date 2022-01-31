@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung esmaspäev, 31.01.2022",
+  "sitting_time": "2022-01-31T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2a1b6244-5d71-4944-a24e-e9adefa639f8"
+    },
+    {
+      "order": 2,
+      "title": "Informatsioon julgeolekuolukorra arengutest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0c49cbf3-e87f-4bfa-92f8-b2a5ae269ea0"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ede127e7-ede8-4fee-a8f4-b744d52b7d69"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 31.01.2022",
+      "uuid": "7a44cc69-1a19-4081-bb55-ce691f856c2d",
+      "files": [
+        "VÄLK_protokoll_31.01.2022.asice",
+        "VÄLK_protokoll_31.01.2022.pdf"
+      ]
+    }
+  ],
+  "uuid": "9bdd0328-0c58-483f-bb93-7224655cc105",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9bdd0328-0c58-483f-bb93-7224655cc105)",
+  "source": "https://api.riigikogu.ee/api/volumes/9bdd0328-0c58-483f-bb93-7224655cc105",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-01-01&endDate=2022-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
