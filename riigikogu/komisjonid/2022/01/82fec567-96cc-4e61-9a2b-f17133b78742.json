@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni erakorraline istung esmaspäev, 31.01.2022 kell 11.00",
+  "sitting_time": "2022-01-31T11:00:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud elektrituruseaduse ja riigivaraseaduse muutmise seaduse eelnõu (426 SE) arutelu koos huvigruppidega ELTS § 18 muutmiseks (jaotusvõrguettevõtja juhtimine ja nõukogu sõltumatus)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "18f5e4aa-92d9-4c33-8954-bc442e84301d"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c8380eb0-afdf-4e29-85d6-ef42eacea3a9"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAJK protokoll nr 155 31.01.2022",
+      "uuid": "da7adefd-5432-4636-be0a-aca49908838b",
+      "files": [
+        "MAJK_protokoll_nr_155_31.01.2022.pdf",
+        "MAJK_protokoll_nr_155_31.01.2022.asice",
+        "ELTS_ELV_eraldamine.pdf"
+      ]
+    }
+  ],
+  "uuid": "82fec567-96cc-4e61-9a2b-f17133b78742",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 82fec567-96cc-4e61-9a2b-f17133b78742)",
+  "source": "https://api.riigikogu.ee/api/volumes/82fec567-96cc-4e61-9a2b-f17133b78742",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-01-01&endDate=2022-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
