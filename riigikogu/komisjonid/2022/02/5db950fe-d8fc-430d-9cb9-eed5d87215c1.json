@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni erakorraline istung teisipäev, 1.02.2022 kell 10.00",
+  "sitting_time": "2022-02-01T10:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cfbf29ce-e091-44e9-9db9-5bbd0283a652"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud riikliku pensionikindlustuse seaduse ja teiste seaduste muutmise seaduse eelnõu 475 SE teise lugemise jätkamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "aed6d279-318c-491d-ba21-71e47397217c"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "514730b3-df5a-4340-815f-6c401bc5ab88"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "SOTK protokoll 01.02.2022",
+      "uuid": "a4a9c982-6b97-46e4-9745-917fd58c56a3",
+      "files": [
+        "SOTK_protokoll_01.02.2022.asice",
+        "Protokoll_nr_195_(01.02.2022).pdf"
+      ]
+    }
+  ],
+  "uuid": "5db950fe-d8fc-430d-9cb9-eed5d87215c1",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 5db950fe-d8fc-430d-9cb9-eed5d87215c1)",
+  "source": "https://api.riigikogu.ee/api/volumes/5db950fe-d8fc-430d-9cb9-eed5d87215c1",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-02-01&endDate=2022-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
