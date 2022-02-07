@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 7.02.2022 kell 13.15",
+  "sitting_time": "2022-02-07T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0ecb52b8-50c8-4e30-a8ea-e6cc1355311e"
+    },
+    {
+      "order": 2,
+      "title": "Olulistest uutest eelarve kuludest (riigikaitse ja energiahind)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "36f9f696-aff2-4e10-bfc3-a575e2a88e61"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6d907743-4d79-42e2-991b-c21fce772879"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 07.02.2022",
+      "uuid": "85cca517-94a8-4fc7-bbf3-d8de18f0e42e",
+      "files": [
+        "REKK_protokoll_07.02.2022.asice",
+        "Protokoll_nr_109_07.02.2022.pdf"
+      ]
+    }
+  ],
+  "uuid": "785f7fb7-eb9e-4706-8163-43e6ff61acee",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 785f7fb7-eb9e-4706-8163-43e6ff61acee)",
+  "source": "https://api.riigikogu.ee/api/volumes/785f7fb7-eb9e-4706-8163-43e6ff61acee",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-02-01&endDate=2022-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
