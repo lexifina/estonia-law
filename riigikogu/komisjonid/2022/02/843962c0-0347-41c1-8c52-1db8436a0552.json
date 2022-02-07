@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 7.02.2022 kell 11.10",
+  "sitting_time": "2022-02-07T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8d8d5593-a5fa-4484-9001-5362afdba2d1"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine Maaelu Edendamise Sihtasutuse uute juhtidega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "23eae61f-075c-4b6b-8a9e-2c2002383707"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1615355a-1d5f-46d3-aed4-cca7c3e7b938"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 07.02.2022",
+      "uuid": "1b0f0664-2cd6-4864-bf64-d0da841c0e4c",
+      "files": [
+        "MAEK_protokoll_07.02.2022.asice",
+        "134_protokoll_07.02.2022.pdf"
+      ]
+    }
+  ],
+  "uuid": "843962c0-0347-41c1-8c52-1db8436a0552",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 843962c0-0347-41c1-8c52-1db8436a0552)",
+  "source": "https://api.riigikogu.ee/api/volumes/843962c0-0347-41c1-8c52-1db8436a0552",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-02-01&endDate=2022-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
