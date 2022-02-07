@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung esmaspäev, 7.02.2022 kell 11.00",
+  "sitting_time": "2022-02-07T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e27b676b-bd76-4cf2-a862-b5baea6dcf53"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu ja Riigikogu Kantselei kriisivalmidus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ea9b121c-d82b-4205-8ccd-6019a02fe5e7"
+    },
+    {
+      "order": 3,
+      "title": "Riigikaitseseaduse muutmise ja sellega seonduvalt teiste seaduste muutmise seaduse eelnõu (417 SE II) ettevalmistamine teiseks lugemiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "60f7979d-93bb-4347-8e45-ab09e07b66b5"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "36a0dbb6-aade-4079-b3fc-8aab01d2ca94"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RIKK 07.02.2022 protokoll",
+      "uuid": "42a06d34-fa13-447f-bd30-fb9afce85c21",
+      "files": [
+        "RIKK_07.02.2022_protokoll.asice",
+        "Protokoll_nr_161__07.02.2022.pdf"
+      ]
+    }
+  ],
+  "uuid": "29d96d9d-250b-4bae-9bf9-f9d57268b7b4",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 29d96d9d-250b-4bae-9bf9-f9d57268b7b4)",
+  "source": "https://api.riigikogu.ee/api/volumes/29d96d9d-250b-4bae-9bf9-f9d57268b7b4",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-02-01&endDate=2022-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
