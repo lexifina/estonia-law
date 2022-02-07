@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung esmaspäev, 7.02.2022 kell 11.15",
+  "sitting_time": "2022-02-07T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "46b85413-8f89-4c2c-9582-4898cadec6a3"
+    },
+    {
+      "order": 2,
+      "title": "Töölepingu seaduse ja sellega seonduvalt teiste seaduste muutmise seaduse eelnõu (521 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2d9bdb4a-a0ed-4be2-89fa-902c45bfe5e0"
+    },
+    {
+      "order": 3,
+      "title": "Politsei ja piirivalve seaduse ning teiste seaduste muutmise seadus (eriteenistuste ühtlustamine) (508 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2bd60ae4-01a6-4ac4-838b-ea342abebdb0"
+    },
+    {
+      "order": 4,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "eda14772-a0e3-4c47-8f93-1462804055e3"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ÕIGK protokoll 07.02.2022",
+      "uuid": "07048fa7-8c63-477d-90a9-e71f2739d6e1",
+      "files": [
+        "ÕIGK_protokoll_07.02.2022.asice",
+        "ÕIGK_protokoll_07.02.2022.pdf"
+      ]
+    }
+  ],
+  "uuid": "c2f41dd5-aff7-4e9d-ae48-41dae050bd70",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c2f41dd5-aff7-4e9d-ae48-41dae050bd70)",
+  "source": "https://api.riigikogu.ee/api/volumes/c2f41dd5-aff7-4e9d-ae48-41dae050bd70",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-02-01&endDate=2022-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
