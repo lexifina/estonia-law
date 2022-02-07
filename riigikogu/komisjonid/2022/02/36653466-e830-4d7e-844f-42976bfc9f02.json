@@ -1,0 +1,53 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung esmaspäev, 7.02.2022 kell 11.10",
+  "sitting_time": "2022-02-07T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5c2d54b0-fa00-488e-94e8-cc3ef8d33046"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli auditi \"Täiskasvanute hambaravi hüvitis” arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1a33c90c-8ccd-4887-9f4b-edc8e74f6f0d"
+    },
+    {
+      "order": 3,
+      "title": "Arutelu perearsti teenuste osutamisest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f705b30e-f529-4fb6-99c5-1578f4b9a19b"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7b82b4a4-e78f-468a-bf39-2f7bc941cdea"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "SOTK protokoll 07.02.2022",
+      "uuid": "d8715403-a54c-4aae-864d-3bb08a66962b",
+      "files": [
+        "SOTK_protokoll_07.02.2022.asice",
+        "Protokoll_nr_196_(07.02.2022).pdf",
+        "Lisa_1_Täiskasvanute_hambaravihüvitis.pdf"
+      ]
+    }
+  ],
+  "uuid": "36653466-e830-4d7e-844f-42976bfc9f02",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 36653466-e830-4d7e-844f-42976bfc9f02)",
+  "source": "https://api.riigikogu.ee/api/volumes/36653466-e830-4d7e-844f-42976bfc9f02",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-02-01&endDate=2022-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
