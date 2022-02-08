@@ -1,0 +1,43 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni  avalik istung teisipäev, 8.02.2022 kell 14.00",
+  "sitting_time": "2022-02-08T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eelnõu 430 SE menetlusega seotud avalik arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "70c94842-0193-4a86-ac6e-e80b68949332"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d123755c-b7a6-4649-8266-ee745f6c20d3"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAJK protokoll nr 157 8.02.2022",
+      "uuid": "69a0c64a-3bf9-4934-8f9e-10430cd534db",
+      "files": [
+        "MAJK_protokoll_nr_157_8.02.2022.asice",
+        "2022-02-08_RahMin_MSP_ylevaade_Riigikogu.pdf",
+        "MKM_tuulikutasu_seaduseelnõu_EhS_eelnõu_muudatusettepanekud.pdf",
+        "08022022_RK_Nele_Kuidas_lepitada_kogukondi.pdf",
+        "MAJK_protokoll_nr_157_08.02.2022.pdf"
+      ]
+    }
+  ],
+  "uuid": "fbdb3401-c376-4bcb-988d-a980512b61a2",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid fbdb3401-c376-4bcb-988d-a980512b61a2)",
+  "source": "https://api.riigikogu.ee/api/volumes/fbdb3401-c376-4bcb-988d-a980512b61a2",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-02-01&endDate=2022-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
