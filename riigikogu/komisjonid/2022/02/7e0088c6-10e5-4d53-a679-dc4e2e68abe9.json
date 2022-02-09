@@ -1,0 +1,35 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung kolmapäev, 9.02.2022 kell 08.30",
+  "sitting_time": "2022-02-09T08:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikontrolli kontrolliaruande tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "af2f2a4c-861c-4c33-82ce-90b6ccc16d89"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 09.02.2022",
+      "uuid": "2c564d58-c2c1-4ac7-8f80-92b8eaabbcae",
+      "files": [
+        "REKK_protokoll_09.02.2022.asice",
+        "Volitus_09.02.22.pdf",
+        "Protokoll_nr_110_09.02.2022.pdf"
+      ]
+    }
+  ],
+  "uuid": "7e0088c6-10e5-4d53-a679-dc4e2e68abe9",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7e0088c6-10e5-4d53-a679-dc4e2e68abe9)",
+  "source": "https://api.riigikogu.ee/api/volumes/7e0088c6-10e5-4d53-a679-dc4e2e68abe9",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-02-01&endDate=2022-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
