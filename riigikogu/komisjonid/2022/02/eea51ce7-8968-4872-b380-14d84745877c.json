@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung neljapäev, 10.02.2022 kell 13.00, videosild",
+  "sitting_time": "2022-02-10T13:05:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "daee24c8-2e0f-4a8b-a8d4-1dfef87fa167"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade Riigikogus moodustatud välisdelegatsioonide tegevusest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0aadd4ee-e6a7-4054-bff4-d41370f68311"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9091aaf7-7f10-48b2-9549-053e2a395d87"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll nr 231 10.02.2022",
+      "uuid": "6f0b7d98-9c22-4fb0-9cb6-76cea3753b31",
+      "files": [
+        "VÄLK_protokoll_nr_231_10.02.2022.asice",
+        "VÄLK_protokoll_10.02.2021.pdf"
+      ]
+    }
+  ],
+  "uuid": "eea51ce7-8968-4872-b380-14d84745877c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid eea51ce7-8968-4872-b380-14d84745877c)",
+  "source": "https://api.riigikogu.ee/api/volumes/eea51ce7-8968-4872-b380-14d84745877c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-02-01&endDate=2022-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
