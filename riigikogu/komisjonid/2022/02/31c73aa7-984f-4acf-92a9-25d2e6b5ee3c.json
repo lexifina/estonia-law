@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung esmaspäev, 14.02.2022 kell 11.10",
+  "sitting_time": "2022-02-14T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b9c80d9d-e8e3-44bf-8e69-3055dd527fcd"
+    },
+    {
+      "order": 2,
+      "title": "Tehnoülevaatuspunktide töö ja järgmise perioodi lepingutingimuste tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "65b3ec5d-2c80-47e3-8edf-1e42a74006fa"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2e24458e-dab3-4b08-80c7-b5abc6c53fde"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAJK protokoll nr 159 14.02.2022",
+      "uuid": "d49d9e14-32fb-40d8-8560-f6eb372f4fb6",
+      "files": [
+        "MAJK_protokoll_nr_159_14.02.2022.asice",
+        "2022.02.14_TÜP_ja_lepingu_muudatused.pdf",
+        "MAJK_protokoll_nr_159_14.02.2022.pdf"
+      ]
+    }
+  ],
+  "uuid": "31c73aa7-984f-4acf-92a9-25d2e6b5ee3c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 31c73aa7-984f-4acf-92a9-25d2e6b5ee3c)",
+  "source": "https://api.riigikogu.ee/api/volumes/31c73aa7-984f-4acf-92a9-25d2e6b5ee3c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-02-01&endDate=2022-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
