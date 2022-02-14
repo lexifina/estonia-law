@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 14.02.2022 kell 11.10",
+  "sitting_time": "2022-02-14T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6151b7d8-ff7a-4aa9-a730-e4c11add3553"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine majandus- ja taristuminister Taavi Aasaga (teemadeks teede rahastamine ja päikeseenergia võrku ühendamine)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d1cec1a5-0208-4042-8e89-fc44dc8976ef"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b9f61c5f-6b00-41ac-9446-8adb3f59c782"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 14.02.2022",
+      "uuid": "bb054a09-dd9c-43b3-af9c-76f7e88fed11",
+      "files": [
+        "136_protokoll_14.02.2022.pdf",
+        "MAEK_protokoll_14.02.2022.asice"
+      ]
+    }
+  ],
+  "uuid": "e4a1a936-980a-4ba7-a913-c68a24744f67",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e4a1a936-980a-4ba7-a913-c68a24744f67)",
+  "source": "https://api.riigikogu.ee/api/volumes/e4a1a936-980a-4ba7-a913-c68a24744f67",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-02-01&endDate=2022-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
