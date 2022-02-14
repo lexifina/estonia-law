@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Korruptsioonivastane erikomisjon",
+  "committee_uuid": "e4f2977a-e8c3-4fa0-8f3d-9df9acd6377f",
+  "title": "Komisjoni istung esmaspäev, 14.02.2022 kell 13.30",
+  "sitting_time": "2022-02-14T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a02c29d6-6a4b-4c72-8483-037268321827"
+    },
+    {
+      "order": 2,
+      "title": "Justiitsministeeriumi tegevus ja plaanid riikliku korruptsioonivastase tegevuse koordineerimisel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d0772604-364c-49f6-b8b1-3239f3a70ebb"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "434a1bff-adc5-4810-bff8-cdb4424c0283"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KVEK 14.02.2022 protokoll",
+      "uuid": "05210d44-0e79-4686-99e1-c5242c9039a4",
+      "files": [
+        "KVEK_14.02.2022_protokoll.asice",
+        "KVEK_protokoll_14.02.22.pdf"
+      ]
+    }
+  ],
+  "uuid": "68b08e08-b080-4d1a-aa58-0b0303c13869",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 68b08e08-b080-4d1a-aa58-0b0303c13869)",
+  "source": "https://api.riigikogu.ee/api/volumes/68b08e08-b080-4d1a-aa58-0b0303c13869",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-02-01&endDate=2022-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
