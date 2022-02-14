@@ -1,0 +1,48 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 14.02.2022 kell 13.15",
+  "sitting_time": "2022-02-14T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d2a84c5c-e45a-44a6-8680-41ef5c924d60"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli kontrolliaruande „Eakate sotsiaalsete probleemide märkamine omavalitsustes“ arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ccafd262-5fbb-41d7-96ee-109c18787523"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "69e2cb5d-5c7e-42f5-a6cf-a89de24202f9"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 14.02.2022",
+      "uuid": "45603cfc-8123-4495-931b-9b4562cca9fd",
+      "files": [
+        "REKK_protokoll_14.02.2022.asice",
+        "Protokoll_nr_111_14.02.22.pdf",
+        "Volitus_14.02.22.pdf",
+        "Eakate_probleemid_14.02.2022_REK_Esitlus_TOIMETATUD.pptx"
+      ]
+    }
+  ],
+  "uuid": "c88ac266-31e0-44b4-9f0b-f97e1e85a2e4",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c88ac266-31e0-44b4-9f0b-f97e1e85a2e4)",
+  "source": "https://api.riigikogu.ee/api/volumes/c88ac266-31e0-44b4-9f0b-f97e1e85a2e4",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-02-01&endDate=2022-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
