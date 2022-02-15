@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung teisipäev, 15.02.2022 kell 14.00",
+  "sitting_time": "2022-02-15T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Maksukorralduse seaduse muutmise seadus (ehitustööde andmete esitamine) (506 SE I). Kohtumine huvigruppidega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d9c510be-8645-4959-ad27-7275e05db210"
+    },
+    {
+      "order": 2,
+      "title": "Vedelkütuse erimärgistamise seaduse ja Euroopa Liidu ühise põllumajanduspoliitika rakendamise seaduse muutmise seaduse eelnõu (495 SE I). Kohtumine huvigruppidega.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6e1d86de-2981-445d-88fb-d408f83777bc"
+    },
+    {
+      "order": 3,
+      "title": "Käibemaksuseaduse muutmise eelnõu (496 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "caef313f-69a1-4307-b23f-766fc337b35f"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "434becab-4e50-4082-a231-68dacec63145"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 15.02.2022",
+      "uuid": "363fbd33-54c7-4969-897a-e96d79a04158",
+      "files": [
+        "RAHK_protokoll_15.02.2022.asice",
+        "RAHK_protokoll_181_15_02_2022.pdf"
+      ]
+    }
+  ],
+  "uuid": "b55a6906-8062-4ffd-8c6a-e35d8e193bca",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b55a6906-8062-4ffd-8c6a-e35d8e193bca)",
+  "source": "https://api.riigikogu.ee/api/volumes/b55a6906-8062-4ffd-8c6a-e35d8e193bca",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-02-01&endDate=2022-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
