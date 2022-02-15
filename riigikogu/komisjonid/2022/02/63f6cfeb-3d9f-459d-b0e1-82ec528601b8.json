@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 15.02.2022 kell 14.00",
+  "sitting_time": "2022-02-15T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine ettevõtlus- ja infotehnoloogiaminister Andres Sutiga (teemadeks kiire interneti püsiühendus ja postiteenus maapiirkondades)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d8874e89-8a26-45f2-8c0f-0576682db54a"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "62478108-b8e7-4289-a823-845f73e50fe1"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 15.02.2022",
+      "uuid": "69f82804-14d6-4528-bbbf-644de54a06ac",
+      "files": [
+        "MAEK_protokoll_15.02.2022.asice",
+        "137_protokoll_15.02.2022.pdf"
+      ]
+    }
+  ],
+  "uuid": "63f6cfeb-3d9f-459d-b0e1-82ec528601b8",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 63f6cfeb-3d9f-459d-b0e1-82ec528601b8)",
+  "source": "https://api.riigikogu.ee/api/volumes/63f6cfeb-3d9f-459d-b0e1-82ec528601b8",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-02-01&endDate=2022-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
