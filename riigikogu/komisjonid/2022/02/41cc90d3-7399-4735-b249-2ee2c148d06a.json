@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 21.02.2022 kell 13.15",
+  "sitting_time": "2022-02-21T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d1b01839-193f-4e66-9f24-b5e140f3dba4"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli kontrolliaruande „Interneti juurdepääsuvõrkude rajamise tulemuslikkus“ arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d741a2fc-58aa-4130-8ba1-85621b0c51bf"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 21.02.2022",
+      "uuid": "3e704498-6fd6-4872-b6a4-9d4756101cfc",
+      "files": [
+        "Lairiba_esitlus_21.02.2022_REKK.pptx",
+        "REKK_protokoll_21.02.2022.asice",
+        "Protokoll_nr_112_21.02.2022.pdf"
+      ]
+    }
+  ],
+  "uuid": "41cc90d3-7399-4735-b249-2ee2c148d06a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 41cc90d3-7399-4735-b249-2ee2c148d06a)",
+  "source": "https://api.riigikogu.ee/api/volumes/41cc90d3-7399-4735-b249-2ee2c148d06a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-02-01&endDate=2022-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
