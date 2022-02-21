@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Korruptsioonivastane erikomisjon",
+  "committee_uuid": "e4f2977a-e8c3-4fa0-8f3d-9df9acd6377f",
+  "title": "Komisjoni istung esmaspäev, 21.02.2022 kell 13.30",
+  "sitting_time": "2022-02-21T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "53e15c2b-8210-47c4-8ac2-e4e0b9122fd6"
+    },
+    {
+      "order": 2,
+      "title": "Riigimetsa Majandamise Keskuse kestvuslepingutest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "966d4468-4688-4336-ba7e-b6f8dd409063"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8cbabf05-18cd-4f6a-bcdb-54153140ee92"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KVEK protokoll 21.02.2022",
+      "uuid": "2417030a-8705-42a7-bbd2-43c71a90408e",
+      "files": [
+        "Protokoll_21.02.2022.asice",
+        "KVEK_protokoll_21.2.22.pdf"
+      ]
+    }
+  ],
+  "uuid": "b7bf5bdc-8789-461f-91d2-011e43a9ad6e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b7bf5bdc-8789-461f-91d2-011e43a9ad6e)",
+  "source": "https://api.riigikogu.ee/api/volumes/b7bf5bdc-8789-461f-91d2-011e43a9ad6e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-02-01&endDate=2022-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
