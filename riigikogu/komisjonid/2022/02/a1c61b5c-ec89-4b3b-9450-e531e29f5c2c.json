@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung teisipäev, 22.02.2022 kell 14.00",
+  "sitting_time": "2022-02-22T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b51ac045-a959-4570-ad84-aa0eaf6a9f1e"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse seaduse muutmise seaduse eelnõu (500 SE) ettevalmistamine esimeseks lugemiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8572c0af-d200-4559-b45a-f98942426ce7"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4b0a151a-87ce-4802-a980-37c8de2ddfdb"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "PÕSK protokoll 22.02.2022",
+      "uuid": "c69d15ea-8ad8-4d63-a433-c09e311ada38",
+      "files": [
+        "Volikiri_U.Reinsalu_asendusliige_22.02.2022.pdf",
+        "PÕSK_protokoll_22.02.2022.asice",
+        "PÕSK.protokoll.22.02.2022.pdf"
+      ]
+    }
+  ],
+  "uuid": "a1c61b5c-ec89-4b3b-9450-e531e29f5c2c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a1c61b5c-ec89-4b3b-9450-e531e29f5c2c)",
+  "source": "https://api.riigikogu.ee/api/volumes/a1c61b5c-ec89-4b3b-9450-e531e29f5c2c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-02-01&endDate=2022-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
