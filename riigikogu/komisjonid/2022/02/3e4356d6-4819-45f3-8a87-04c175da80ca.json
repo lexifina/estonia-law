@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung teisipäev, 22.02.2022 kell 14.45",
+  "sitting_time": "2022-02-22T14:45:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Arvamuse andmine ELAKile - Eesti seisukohad Euroopa missioone käsitleva Euroopa Komisjoni teatise kohta",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a71bf552-8c19-4cda-b4f4-da1f44497b14"
+    },
+    {
+      "order": 2,
+      "title": "Põhikooli lõpetamise tingimused - arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a0ccd2bf-3c1a-408b-9c35-f514fdc3b596"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KULK protokoll 185 (21.02.2022)",
+      "uuid": "bfef55b6-5cf5-4960-99c1-51005659286f",
+      "files": [
+        "KULK_protokoll_185_(21.02.2022)_(1).asice",
+        "Protokoll_185_(22.02.2022).pdf",
+        "Põhikooli_lõpetamise_tingimused_M.Timakov.pdf"
+      ]
+    }
+  ],
+  "uuid": "3e4356d6-4819-45f3-8a87-04c175da80ca",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3e4356d6-4819-45f3-8a87-04c175da80ca)",
+  "source": "https://api.riigikogu.ee/api/volumes/3e4356d6-4819-45f3-8a87-04c175da80ca",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-02-01&endDate=2022-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
