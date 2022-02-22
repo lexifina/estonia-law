@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung teisipäev, 22.02.2022 kell 14.00",
+  "sitting_time": "2022-02-22T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikontrolli auditi “Pahaloomuliste kasvajate avastamine ja patsiendi ravile suunamine” arutelu ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ec5d9b95-1e80-483e-b3bc-0258f89690d4"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "37e642a0-2679-4273-9c79-69649a5cfa7b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "SOTK protokoll 22.02.2022",
+      "uuid": "ccd157d7-9295-4696-82f7-9457cc4c998e",
+      "files": [
+        "SOTK_protokoll_22.02.2022.asice",
+        "Protokoll_nr_202_(22.02.22).pdf",
+        "Lisa_1.pdf"
+      ]
+    }
+  ],
+  "uuid": "ff0a4259-d37c-4462-aaeb-9c1f017b69bc",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ff0a4259-d37c-4462-aaeb-9c1f017b69bc)",
+  "source": "https://api.riigikogu.ee/api/volumes/ff0a4259-d37c-4462-aaeb-9c1f017b69bc",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-02-01&endDate=2022-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
