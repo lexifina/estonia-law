@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung teisipäev, 22.02.2022 kell 16.36",
+  "sitting_time": "2022-02-22T16:36:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikogu Ukraina avalduse koostamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e14fd5e9-b3d3-4c84-8fb8-740a1f7c3de6"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "afceee1a-606f-499b-b366-ded21e0e9ddf"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll nr 237 22.02.2022",
+      "uuid": "5830af26-219b-41b6-974c-7d7e333968ec",
+      "files": [
+        "VÄLK_protokoll_nr_237_22.02.2022.asice",
+        "VÄLK_protokoll_22.02.2022.pdf"
+      ]
+    }
+  ],
+  "uuid": "12816cb3-9e16-46cc-a056-e745e280d986",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 12816cb3-9e16-46cc-a056-e745e280d986)",
+  "source": "https://api.riigikogu.ee/api/volumes/12816cb3-9e16-46cc-a056-e745e280d986",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-02-01&endDate=2022-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
