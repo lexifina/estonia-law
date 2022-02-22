@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 22.02.2022 kell 14.00",
+  "sitting_time": "2022-02-22T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Keskkonnaameti juhiga",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d3154e2b-fddb-45cf-b7d7-c98c5db56aed"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "823caecf-ca95-4078-9766-17a7c09cecf2"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 22.02.2022",
+      "uuid": "47e7fafa-7a16-4c7e-9db9-e32aba8b3e56",
+      "files": [
+        "139_protokoll_22.02.2022.pdf",
+        "MAEK_protokoll_22.02.2022.asice",
+        "Asendus_22.02.2022.pdf"
+      ]
+    }
+  ],
+  "uuid": "75f1cbe9-befd-40c8-983b-76d816ac6832",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 75f1cbe9-befd-40c8-983b-76d816ac6832)",
+  "source": "https://api.riigikogu.ee/api/volumes/75f1cbe9-befd-40c8-983b-76d816ac6832",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-02-01&endDate=2022-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
