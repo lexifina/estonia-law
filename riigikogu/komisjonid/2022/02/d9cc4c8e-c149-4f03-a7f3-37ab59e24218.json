@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Euroopa Liidu asjade komisjoni ja väliskomisjoni ühine istung esmaspäev, 28.02.2022 kell 15.00",
+  "sitting_time": "2022-02-28T15:00:00",
+  "sitting_type": "UHISISTUNG",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade 24. veebruaril toimunud erakorralisest Euroopa Ülemkogust",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "22b95275-0cbf-49ad-bb37-d29d9d34c141"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade 25. ja 27. veebruaril toimunud Euroopa Liidu välisasjade nõukogu erakorralistest kohtumistest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e7df79e4-b7e6-48f6-9b21-5463cef34c26"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ab4806b4-0c4a-4c55-aece-756331f40f31"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ELAK ja VÄLK ühine protokoll",
+      "uuid": "43f4f428-6886-40a6-becf-1ac235f953e2",
+      "files": [
+        "ELAK_VÄLK_protokoll_28.02.2022.pdf",
+        "ELAK_ja_VÄLK_ühine_protokoll.asice"
+      ]
+    }
+  ],
+  "uuid": "d9cc4c8e-c149-4f03-a7f3-37ab59e24218",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d9cc4c8e-c149-4f03-a7f3-37ab59e24218)",
+  "source": "https://api.riigikogu.ee/api/volumes/d9cc4c8e-c149-4f03-a7f3-37ab59e24218",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-02-01&endDate=2022-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
