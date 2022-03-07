@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 7.03.2022 kell 11.10",
+  "sitting_time": "2022-03-07T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "80bc24e9-05e4-4ed4-82d2-4a753684e74e"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade seakasvatussektori olukorrast. Eesti seakasvatussektori pöördumine (2-7/22-61)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "26aaf4cc-8f90-4c19-879d-a5e807e3351c"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ad126032-cacd-4fb4-ae15-8784e2209484"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 07.03.2022",
+      "uuid": "4a63142e-3ccf-4ea6-8aaa-e03ee4dada7c",
+      "files": [
+        "MAEK_protokoll_07.03.2022.asice",
+        "140_protokolli_lisa___ETSAÜ.pdf",
+        "140_protokoll_07.03.2022.pdf"
+      ]
+    }
+  ],
+  "uuid": "d9e52205-1dbe-4552-90ad-09f4aea99121",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d9e52205-1dbe-4552-90ad-09f4aea99121)",
+  "source": "https://api.riigikogu.ee/api/volumes/d9e52205-1dbe-4552-90ad-09f4aea99121",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-03-01&endDate=2022-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
