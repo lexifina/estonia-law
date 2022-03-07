@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung esmaspäev, 7.03.2022 kell 11.10",
+  "sitting_time": "2022-03-07T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "469a5367-1370-4f55-a5a1-73cfb2dd47ce"
+    },
+    {
+      "order": 2,
+      "title": "Ühisveevärgi ja -kanalisatsiooni seaduse eelnõu (523 SE) ettevalmistamine esimeseks lugemiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "17615c6b-c231-4d05-ae2f-10324e5e79c0"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a884c59b-3fb9-4dbd-aaf6-502326ad0cf8"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK protokoll 07.03.2022",
+      "uuid": "56d56ac4-108a-4d48-9778-b578d6d3558e",
+      "files": [
+        "YVVKS.pdf",
+        "KEKK_protokoll_07.03.2022.pdf",
+        "KEKK_protokoll_07.03.2022.asice"
+      ]
+    }
+  ],
+  "uuid": "d6fa0f18-b4c7-4311-bee8-15093f68eea0",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d6fa0f18-b4c7-4311-bee8-15093f68eea0)",
+  "source": "https://api.riigikogu.ee/api/volumes/d6fa0f18-b4c7-4311-bee8-15093f68eea0",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-03-01&endDate=2022-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
