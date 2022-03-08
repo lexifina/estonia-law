@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 8.03.2022 kell 14.00",
+  "sitting_time": "2022-03-08T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Arutelu teemal „Eesti seisukohad Euroopa missioone käsitleva Euroopa Komisjoni teatise kohta“",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b7457847-b973-4962-b618-a07e619e0967"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9b215639-b575-4346-9658-9203ed9ee67b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 08.03.2022",
+      "uuid": "bc350edc-7717-4db8-95c6-b9ec6a45a5fb",
+      "files": [
+        "MAEK_protokoll_08.03.2022.asice",
+        "141_protokolli_lisa__ELi_mullamissioonid.pdf",
+        "141_protokoll_08.03.2022.pdf"
+      ]
+    }
+  ],
+  "uuid": "90539643-4dff-420b-bd44-48a0feba4378",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 90539643-4dff-420b-bd44-48a0feba4378)",
+  "source": "https://api.riigikogu.ee/api/volumes/90539643-4dff-420b-bd44-48a0feba4378",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-03-01&endDate=2022-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
