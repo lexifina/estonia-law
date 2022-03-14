@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 14.03.2022 kell 13.15",
+  "sitting_time": "2022-03-14T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5b0d818b-bc3c-4d0d-982f-d50dda8df916"
+    },
+    {
+      "order": 2,
+      "title": "Ukraina sõjapõgenike vastuvõtmise korraldamisest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "22bca930-82b8-497e-a89f-aa2198d5612e"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c4939bea-6684-431e-b561-c57b02bbb16a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 14.03.22",
+      "uuid": "a0e465a5-65a9-4890-8acf-b62133ec7625",
+      "files": [
+        "Volitus_14.03.22.pdf",
+        "REKK_protokoll_14.03.22.asice",
+        "Protokoll_nr_113_14.03.22.pdf"
+      ]
+    }
+  ],
+  "uuid": "7e08835a-545b-41e9-88fd-793f8cd61a9a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7e08835a-545b-41e9-88fd-793f8cd61a9a)",
+  "source": "https://api.riigikogu.ee/api/volumes/7e08835a-545b-41e9-88fd-793f8cd61a9a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-03-01&endDate=2022-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
