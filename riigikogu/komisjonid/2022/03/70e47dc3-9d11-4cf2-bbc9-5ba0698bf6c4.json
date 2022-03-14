@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung esmaspäev, 14.03.2022 kell 11.15",
+  "sitting_time": "2022-03-14T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8135ae71-26fb-4a78-801b-ba8f517cd9a2"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Presidendi ametihüve seaduse muutmise seaduse eelnõu (525 SE) ettevalmistamine esimeseks lugemiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "90cdb72a-a843-4df7-99d4-b1b295bf060a"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b0e467f7-d32f-404e-a099-dfe2188750ba"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "PÕSK protokoll 14.03.2022",
+      "uuid": "13921cc6-9b53-400e-a638-d1714e28e03b",
+      "files": [
+        "PÕSK_protokoll_14.03.2022.asice",
+        "2022.03.14.protokoll.rtf"
+      ]
+    }
+  ],
+  "uuid": "70e47dc3-9d11-4cf2-bbc9-5ba0698bf6c4",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 70e47dc3-9d11-4cf2-bbc9-5ba0698bf6c4)",
+  "source": "https://api.riigikogu.ee/api/volumes/70e47dc3-9d11-4cf2-bbc9-5ba0698bf6c4",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-03-01&endDate=2022-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
