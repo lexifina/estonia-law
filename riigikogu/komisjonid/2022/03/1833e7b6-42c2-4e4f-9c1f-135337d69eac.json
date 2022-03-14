@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 14.03.2022 kell 11.10",
+  "sitting_time": "2022-03-14T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8b8e5540-fde9-4899-971e-b4ef432aa2c9"
+    },
+    {
+      "order": 2,
+      "title": "Arutelu teemal Venemaa Ukraina-vastase agressiooni mõjust ja ohtudest Eesti põllumajandusele",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "40472f84-7037-4167-8d09-09613642de84"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dc7f90ae-ec31-467a-b841-d5b03c7951cc"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 14.03.2022",
+      "uuid": "bc11a5d5-99ea-4918-8d68-24f3728c3aa3",
+      "files": [
+        "MAEK_protokoll_14.03.2022.asice",
+        "142_protokolli_lisa__EPKK.pdf",
+        "142_protokoll_14.03.2022.pdf"
+      ]
+    }
+  ],
+  "uuid": "1833e7b6-42c2-4e4f-9c1f-135337d69eac",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 1833e7b6-42c2-4e4f-9c1f-135337d69eac)",
+  "source": "https://api.riigikogu.ee/api/volumes/1833e7b6-42c2-4e4f-9c1f-135337d69eac",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-03-01&endDate=2022-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
