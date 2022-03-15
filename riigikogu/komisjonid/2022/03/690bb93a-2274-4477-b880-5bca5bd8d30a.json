@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung teisipäev, 15.03.2022 kell 14.00",
+  "sitting_time": "2022-03-15T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Arvamuse andmine Riigikogu majanduskomisjonile toodete ja teenuste ligipääsetavuse seaduse eelnõu 511 SE kohta",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8e2f2581-3332-42e4-8a55-0d6603e3ad90"
+    },
+    {
+      "order": 2,
+      "title": "Ukraina pagulaste laste haridus- ja kasvatustööga seonduvatest ülesannetest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "86e5182b-da19-4d47-8acb-94a07f2645cb"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KULK protokoll (15.03.2022)",
+      "uuid": "deb4e621-f9d5-4a79-bc42-df9ed88fb01b",
+      "files": [
+        "KULK_protokoll_(15.03.2022).asice",
+        "Protokoll_189_(15.03.2022).pdf"
+      ]
+    }
+  ],
+  "uuid": "690bb93a-2274-4477-b880-5bca5bd8d30a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 690bb93a-2274-4477-b880-5bca5bd8d30a)",
+  "source": "https://api.riigikogu.ee/api/volumes/690bb93a-2274-4477-b880-5bca5bd8d30a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-03-01&endDate=2022-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
