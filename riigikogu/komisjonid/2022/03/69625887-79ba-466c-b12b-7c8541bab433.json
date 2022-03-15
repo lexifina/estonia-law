@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung teisipäev, 15.03.2022 kell 14.00",
+  "sitting_time": "2022-03-15T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Arvamus juristieksami regulatsiooni väljatöötamise kavatsuse kohta.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dde9b28e-29c6-4fdc-bab3-d8f6c4696910"
+    },
+    {
+      "order": 2,
+      "title": "Arvamus ELAK-le Eesti seisukohad justiitsdigitaliseerimise paketi kohta.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6756e715-3f3a-42e1-bace-24840ffd1059"
+    },
+    {
+      "order": 3,
+      "title": "Arvamus ELAK-le Eesti seisukohad määruse eelnõu ettepaneku kohta, millega luuakse koostööplatvorm ühiste uurimisrühmade toimimise toetamiseks.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3d086224-48ed-475b-8329-faff0c49cfcf"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "15.03 protokoll",
+      "uuid": "4dca82e9-74d9-4d33-93c4-7a1c534ea6a7",
+      "files": [
+        "15.03_protokoll.asice",
+        "ÕIGUSK_15.03_protokoll.pdf"
+      ]
+    }
+  ],
+  "uuid": "69625887-79ba-466c-b12b-7c8541bab433",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 69625887-79ba-466c-b12b-7c8541bab433)",
+  "source": "https://api.riigikogu.ee/api/volumes/69625887-79ba-466c-b12b-7c8541bab433",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-03-01&endDate=2022-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
