@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung teisipäev, 15.03.2022 kell 14.00",
+  "sitting_time": "2022-03-15T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikaitsekohtu vajalikkusest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8b672616-f4e2-4317-9441-766127b70032"
+    },
+    {
+      "order": 2,
+      "title": "Kriisivarudest Majandus- ja Kommunikatsiooniministeeriumi valitsemisalas",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3148426c-fa8f-48c3-8071-f7b9e6d7a255"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RIKK 15.03.2022 protokoll",
+      "uuid": "e38f1d6c-9017-405c-88f3-78024ca182f1",
+      "files": [
+        "RIKK_15.03.2022_protokoll.asice",
+        "Protokoll_nr_174__15.03.2022.pdf"
+      ]
+    }
+  ],
+  "uuid": "192a5b2d-3331-4018-9fc2-ac5dde50ee07",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 192a5b2d-3331-4018-9fc2-ac5dde50ee07)",
+  "source": "https://api.riigikogu.ee/api/volumes/192a5b2d-3331-4018-9fc2-ac5dde50ee07",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-03-01&endDate=2022-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
