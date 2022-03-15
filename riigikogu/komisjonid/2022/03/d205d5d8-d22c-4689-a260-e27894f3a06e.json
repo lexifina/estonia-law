@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung teisipäev, 15.03.2022 kell 14.00",
+  "sitting_time": "2022-03-15T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud ehitusseadustiku ja sellega seonduvalt teiste seaduste muutmise seaduse eelnõu (430 SE) arutelu teisele lugemisele saatmiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0ec0d4cc-a1c1-463a-a67c-370b88214069"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud riigihangete seaduse muutmise ja sellega seonduvalt teiste seaduste muutmise seaduse eelnõu (491 SE) arutelu teisele lugemisele saatmiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9fbef172-2701-4e5e-a434-864e955d04eb"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "04d50d9c-898f-41fd-b155-028fbe3314c3"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAJK protokoll nr 166 15.03.2022",
+      "uuid": "f3f4a1f3-f511-49cb-a3de-158e0bfe4507",
+      "files": [
+        "MAJK_protokoll_nr_166_15.03.2022.asice",
+        "MAJK_protokoll_nr_166_15.03.2022.pdf"
+      ]
+    }
+  ],
+  "uuid": "d205d5d8-d22c-4689-a260-e27894f3a06e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d205d5d8-d22c-4689-a260-e27894f3a06e)",
+  "source": "https://api.riigikogu.ee/api/volumes/d205d5d8-d22c-4689-a260-e27894f3a06e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-03-01&endDate=2022-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
