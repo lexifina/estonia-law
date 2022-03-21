@@ -18,7 +18,7 @@
 
 5²) teabe politsei relvastuse hulga kohta, kui selline teave ei ole riigisaladus või salastatud välisteave;
 
-6) teabe riigikaitselise sundkoormise kohta;
+6) teabe riigikaitseseaduse alusel kohaldatud asja sundkasutusse võtmise ja asja sundvõõrandamise kohta;
 
 6¹) teabe, mille avalikuks tulek ohustaks riigikaitseobjekti või lihtsustaks selle vastase ründe toimepanemist;
 
