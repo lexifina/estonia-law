@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 21.03.2022 kell 11.10",
+  "sitting_time": "2022-03-21T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "68f0529a-2aeb-4a41-a353-0394c6b97eab"
+    },
+    {
+      "order": 2,
+      "title": "Kalapüügi individuaalkvootidele ülemineku regulatsiooni muudatusettepanekute koostamise ja parlamendile esitamise ajalise kava arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0e303e82-054a-44ea-9ee8-505924057744"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "67ea683c-0669-41b6-be84-481b05f29316"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 21.03.2022",
+      "uuid": "0b06f956-54f7-4c2c-8667-6667aad3a4ce",
+      "files": [
+        "Asendus_21.03.2022.pdf",
+        "MAEK_protokoll_21.03.2022.asice",
+        "143_protokoll_21.03.22.pdf"
+      ]
+    }
+  ],
+  "uuid": "d4c9079f-78f7-4f12-8951-c9cb78508e12",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d4c9079f-78f7-4f12-8951-c9cb78508e12)",
+  "source": "https://api.riigikogu.ee/api/volumes/d4c9079f-78f7-4f12-8951-c9cb78508e12",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-03-01&endDate=2022-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
