@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung esmaspäev, 21.03.2022 kell 12.00",
+  "sitting_time": "2022-03-21T12:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "05093c14-55ba-4220-91db-6090cf3f7084"
+    },
+    {
+      "order": 2,
+      "title": "Arstiabi kättesaadavus sõjapõgenikele",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5cbae62f-f0e7-4669-9a89-5c69d06f215b"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ddb093b1-841c-402d-957c-f09f88edac00"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "SOTK 21.03 protokoll",
+      "uuid": "1674c046-dc0c-4dff-8ddc-37e28ade478e",
+      "files": [
+        "SOTK_21.03_protokoll.asice",
+        "Protokoll_nr_207_(21.03.2022).pdf",
+        "Lisa1(EHK).pdf"
+      ]
+    }
+  ],
+  "uuid": "1257f712-8c5e-455a-9d01-2f42cf7c1b32",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 1257f712-8c5e-455a-9d01-2f42cf7c1b32)",
+  "source": "https://api.riigikogu.ee/api/volumes/1257f712-8c5e-455a-9d01-2f42cf7c1b32",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-03-01&endDate=2022-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
