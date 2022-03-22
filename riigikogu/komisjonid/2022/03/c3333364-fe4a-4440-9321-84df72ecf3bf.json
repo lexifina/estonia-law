@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung teisipäev, 22.03.2022 kell 14.00",
+  "sitting_time": "2022-03-22T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Istungi päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ee281773-1933-4d3b-8ba8-c97fe05d44d7"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu otsus \"Sihtasutuse Keskkonnainvesteeringute Keskus  nõukogu liikme tagasikutsumine ja uue liikme nimetamine\" (563 OE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "32037900-0859-4d49-943c-3cab05c6e9a1"
+    },
+    {
+      "order": 3,
+      "title": "Ühisveevärgi ja -kanalisatsiooni seaduse eelnõu (523 SE) huvigruppide ettepanekutega tutvumine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dbcea177-5dcc-445d-9b02-48724f8b7360"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK protokoll 22.03.2022",
+      "uuid": "b4d10ae1-d93d-4102-b714-3e7d30578f4d",
+      "files": [
+        "KEKK_protokoll_22.03.2022.pdf",
+        "KEKK_protokoll_22.03.2022.asice"
+      ]
+    }
+  ],
+  "uuid": "c3333364-fe4a-4440-9321-84df72ecf3bf",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c3333364-fe4a-4440-9321-84df72ecf3bf)",
+  "source": "https://api.riigikogu.ee/api/volumes/c3333364-fe4a-4440-9321-84df72ecf3bf",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-03-01&endDate=2022-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
