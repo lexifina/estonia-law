@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Korruptsioonivastane erikomisjon",
+  "committee_uuid": "e4f2977a-e8c3-4fa0-8f3d-9df9acd6377f",
+  "title": "Komisjoni istung esmaspäev, 28.03.2022 kell 11.00",
+  "sitting_time": "2022-03-28T11:00:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6451126a-bfbb-4e09-a98a-2459f8fd6302"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu liikme Martin Repinski kõrvaltegevuste ja avalike vahendite erahuvides kasutamise kohta avalikkuses esitatud teabe kontrollimine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "82f54023-6114-437e-9024-6bd9d3f1f09b"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "abda4055-96e7-418f-9129-552dccb69c8d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KVEK protokoll 28.03.2022",
+      "uuid": "7227c31f-9f92-488c-a2e3-251dc4fda3b3",
+      "files": [
+        "KVEK_protokoll_28.03.2022.asice",
+        "KVEK_protokoll_28.03.2022.pdf"
+      ]
+    }
+  ],
+  "uuid": "46a27e57-24ac-4098-9733-767bfe0fcea7",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 46a27e57-24ac-4098-9733-767bfe0fcea7)",
+  "source": "https://api.riigikogu.ee/api/volumes/46a27e57-24ac-4098-9733-767bfe0fcea7",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-03-01&endDate=2022-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
