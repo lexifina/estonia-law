@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/129122020018> (version in force from 2021-01-08)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/118032022002> (version in force from 2022-03-28)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -34,6 +34,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/129122020018> (version in force 
 | **2. jagu Reederi ja kapteni õiguste ja kohustuste erisus** | |
 | [§ 22](para-022.md) | Reederi kohustused |
 | [§ 23](para-023.md) | Töötasu maksmise viisi erisus |
+| [§ 23¹](para-023b1.md) | Töötasu maksmise kohustus laevapere liikme ebaseadusliku kinnipidamise korral |
 | [§ 24](para-024.md) | Kapteni õigus suurendada laevapere liikme töökoormust |
 | [§ 25](para-025.md) | Laevapere liikme sõit laeva asukohta ja meretöölepingu sõlmimise kohta |
 | [§ 26](para-026.md) | Laevapere liikme teavitamine töökorraldusest |
@@ -91,6 +92,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/129122020018> (version in force 
 | [§ 69](para-069.md) | Meretöölepingu erakorraline ülesütlemine laevapere liikme poolt |
 | [§ 69¹](para-069b1.md) | Meretöölepingu kollektiivsest ülesütlemisest teavitamine |
 | [§ 69²](para-069b2.md) | Meretöölepingu kehtivus ettevõtte ülemineku korral |
+| [§ 69³](para-069b3.md) | Meretöölepingu kehtivus laevapere liikme ebaseadusliku kinnipidamise korral |
 | **5. peatükk Laevapere liikme töövahendus** | |
 | [§ 70](para-070.md) | Laevapere liikme töövahendus |
 | [§ 71](para-071.md) | Tegutsemine töövahendusteenuse osutajana |
