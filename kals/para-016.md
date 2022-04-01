@@ -12,4 +12,4 @@
 
 (6) Kaitseliidus töölepingu alusel töötavale isikule hüvitatakse käesoleva paragrahvi lõikes 4 nimetatud juhul üle töölepingus kokkulepitud tööaja tehtud töö kas vaba aja andmisega või rahas Kaitseliidu ülema kehtestatud korras ja ulatuses.
 
-(7) Käesoleva paragrahvi lõiget 4 ei kohaldata alaealisele, rasedale ning töölepingu alusel töötavale isikule, kellel on õigus rasedus- ja sünnituspuhkusele, isa-, lapsendaja- või lapsehoolduspuhkusele.
+(7) Käesoleva paragrahvi lõiget 4 ei kohaldata alaealisele, rasedale ega töölepingu alusel töötavale isikule, kellel on õigus emapuhkusele, isapuhkusele, lapsendajapuhkusele või vanemapuhkusele.
