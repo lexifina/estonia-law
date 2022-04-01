@@ -18,6 +18,6 @@
 
 3) valdama eesti keelt keeleseaduses sätestatud keeleoskustasemel C1.
 
-(4) Kõrghariduse tasemel õpetajakoolituse lõpetamise aastal rasedus- ja sünnituspuhkusel viibiva isiku, ajateenistusse kutsutud kaitseväekohustuslase või välisriigis pedagoogilisel praktikal oleva isiku õigus taotleda lähtetoetust pikeneb vastavalt rasedus- ja sünnituspuhkuse ning lapsehoolduspuhkuse aja, aja- või asendusteenistuses viibimise aja või pedagoogilise praktika kestuse võrra.
+(4) Kõrghariduse tasemel toimuva õpetajakoolituse lõpetamise aastal emapuhkusel, isapuhkusel, lapsendajapuhkusel või vanemapuhkusel viibiva isiku, ajateenistusse kutsutud kaitseväekohustuslase või välisriigis pedagoogilisel praktikal oleva isiku õigus taotleda lähtetoetust pikeneb vastavalt emapuhkuse, isapuhkuse, lapsendajapuhkuse või vanemapuhkuse aja, aja- või asendusteenistuses viibimise aja või pedagoogilise praktika kestuse võrra.
 
 (5) Õpetaja lähtetoetust taotletakse, toetus makstakse välja ning see tagastatakse põhikooli- ja gümnaasiumiseaduse §-s 77 sätestatud alustel ja korras.
