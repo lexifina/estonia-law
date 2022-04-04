@@ -1,0 +1,60 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung esmaspäev, 4.04.2022 kell 11.15",
+  "sitting_time": "2022-04-04T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9a500c2c-ecfe-46cf-bc84-f415f0b671ff"
+    },
+    {
+      "order": 2,
+      "title": "Rahandusministeeriumi ülevaade taastekava (RRP) hetkeseisust.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f613d7a1-b63e-400e-b79d-c6f410197fd6"
+    },
+    {
+      "order": 3,
+      "title": "Rahandusministeeriumi ülevaade 2021. eelarve aasta täitmisest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2a527084-68b7-40ea-ad03-47ffcc0f7ef2"
+    },
+    {
+      "order": 4,
+      "title": "Alkoholi-, tubaka-, kütuse- ja elektriaktsiisi seaduse muutmise seaduse eelnõu (548 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5a622d74-17f9-4bcf-aac4-d293bb7203b6"
+    },
+    {
+      "order": 5,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "56dd8324-531f-4449-94f2-bf995a67a1e1"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 04.04.2022",
+      "uuid": "b1dc9a0a-9a8e-4c1c-b187-adcb062dfe90",
+      "files": [
+        "RAHK_protokoll_04.04.2022.asice",
+        "2021_riigieelaeve_täitmine.pdf",
+        "Taasterahastu_slaidid.pdf",
+        "RAHK_protokoll_186__04_04_2022.pdf"
+      ]
+    }
+  ],
+  "uuid": "559a4b9a-7d41-41a5-a248-c49d162581c9",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 559a4b9a-7d41-41a5-a248-c49d162581c9)",
+  "source": "https://api.riigikogu.ee/api/volumes/559a4b9a-7d41-41a5-a248-c49d162581c9",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-04-01&endDate=2022-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
