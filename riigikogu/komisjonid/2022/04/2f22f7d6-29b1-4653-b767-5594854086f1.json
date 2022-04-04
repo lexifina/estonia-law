@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Korruptsioonivastane erikomisjon",
+  "committee_uuid": "e4f2977a-e8c3-4fa0-8f3d-9df9acd6377f",
+  "title": "Komisjoni istung esmaspäev, 4.04.2022 kell 13.30",
+  "sitting_time": "2022-04-04T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Komisjoni esimehe ja aseesimehe erakorraline valimine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "967a37b7-21dc-4877-9b11-bcdbb83e5e75"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a65a5be1-2f5b-4321-9cd5-908b7e68328b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KVEK protokoll 04.04.2022",
+      "uuid": "ba575710-68d6-4cea-87fb-aedd7cb2386c",
+      "files": [
+        "KVEK_protokoll_04.04.2022.asice",
+        "KVEK_protokoll_04.04.2022.pdf"
+      ]
+    }
+  ],
+  "uuid": "2f22f7d6-29b1-4653-b767-5594854086f1",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2f22f7d6-29b1-4653-b767-5594854086f1)",
+  "source": "https://api.riigikogu.ee/api/volumes/2f22f7d6-29b1-4653-b767-5594854086f1",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-04-01&endDate=2022-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
