@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 4.04.2022 kell 13.15",
+  "sitting_time": "2022-04-04T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f393513a-045f-4a70-a13a-26e9e30a37ac"
+    },
+    {
+      "order": 2,
+      "title": "Ukraina abistamise olukord",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "78f35423-ed6e-4125-b292-4da64b09d3dd"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 04.04.22",
+      "uuid": "7e7aca3e-89d3-436f-8fe8-972100fa0ffb",
+      "files": [
+        "REKK_protokoll_04.04.22.asice",
+        "Protokoll_nr_115_04.04.22.pdf"
+      ]
+    }
+  ],
+  "uuid": "eff2532a-ac34-449e-aaac-b54533d60e4e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid eff2532a-ac34-449e-aaac-b54533d60e4e)",
+  "source": "https://api.riigikogu.ee/api/volumes/eff2532a-ac34-449e-aaac-b54533d60e4e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-04-01&endDate=2022-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
