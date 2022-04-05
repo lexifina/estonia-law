@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 5.04.2022 kell 14.00",
+  "sitting_time": "2022-04-05T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine maaeluministriga järgmiste teemade aruteluks: Maaeluministeeriumi kavandatavad ettepanekud 2022. aasta lisaeelarvesse, Euroopa Komisjoni otsused seoses toidutootmise ja toidutarneahelate toimimisega, seakasvatuse lisatoetuse võimalused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5491884e-f48e-4ec6-ad98-ba445b821593"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e5442a71-209e-438c-a6be-eb276f7b1955"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 05.04.2022",
+      "uuid": "d6b6eabd-33f4-4900-bdb0-9f84f676bf3b",
+      "files": [
+        "MAEK_protokoll_05.04.2022.asice",
+        "144_protokoll_05.04.2022.pdf",
+        "144_protokolli_lisa__MeM.pdf"
+      ]
+    }
+  ],
+  "uuid": "daaa4f4c-9f8b-40cf-9519-68ebd972cbae",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid daaa4f4c-9f8b-40cf-9519-68ebd972cbae)",
+  "source": "https://api.riigikogu.ee/api/volumes/daaa4f4c-9f8b-40cf-9519-68ebd972cbae",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-04-01&endDate=2022-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
