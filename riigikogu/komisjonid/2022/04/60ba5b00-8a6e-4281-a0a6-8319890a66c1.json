@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung kolmapäev, 6.04.2022 kell 08.30",
+  "sitting_time": "2022-04-06T08:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikontrolli kontrolliaruande tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1c51c676-ab92-4eee-89e3-7f7120c431e0"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e2f5b235-8063-497a-baad-ef6713c3a44f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 06.04.22",
+      "uuid": "2e597a50-7a9e-49ac-aba8-0f12bc529383",
+      "files": [
+        "REKK_protokoll_06.04.22.asice",
+        "Protokoll_nr_116_06.04.22.pdf"
+      ]
+    }
+  ],
+  "uuid": "60ba5b00-8a6e-4281-a0a6-8319890a66c1",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 60ba5b00-8a6e-4281-a0a6-8319890a66c1)",
+  "source": "https://api.riigikogu.ee/api/volumes/60ba5b00-8a6e-4281-a0a6-8319890a66c1",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-04-01&endDate=2022-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
