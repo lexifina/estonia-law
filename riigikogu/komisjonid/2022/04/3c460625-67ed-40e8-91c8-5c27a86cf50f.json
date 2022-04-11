@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Rahanduskomisjoni ja majanduskomisjoni ühine istung esmaspäev, 11.04.2022 kell 11.15",
+  "sitting_time": "2022-04-11T11:15:00",
+  "sitting_type": "UHISISTUNG",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e65d52d5-e631-4666-b6e5-a3a5857ff723"
+    },
+    {
+      "order": 2,
+      "title": "Rahandusministeeriumi ülevaade 2022. aasta kevadprognoosist. Osaleb rahandusminister Keit Pentus-Rosimannus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e2306f89-87c9-4268-b81f-2d9ae3f13e1d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 11.04.2022",
+      "uuid": "3a87a930-bc05-4cec-990f-3b311f688a6a",
+      "files": [
+        "Protokoll_11.04.2022.asice",
+        "RAHK_ja_MAJK_protokoll_72_11_04_2022.pdf",
+        "RAM_kevadprognoos_2022_-_RAHK+MAJK_11.04.2022.pdf"
+      ]
+    }
+  ],
+  "uuid": "3c460625-67ed-40e8-91c8-5c27a86cf50f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3c460625-67ed-40e8-91c8-5c27a86cf50f)",
+  "source": "https://api.riigikogu.ee/api/volumes/3c460625-67ed-40e8-91c8-5c27a86cf50f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-04-01&endDate=2022-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
