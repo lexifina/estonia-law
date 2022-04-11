@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Korruptsioonivastane erikomisjon",
+  "committee_uuid": "e4f2977a-e8c3-4fa0-8f3d-9df9acd6377f",
+  "title": "Komisjoni istung esmaspäev, 11.04.2022 kell 13.15",
+  "sitting_time": "2022-04-11T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1d46148e-1f2a-4c35-9ae5-e9463fe0f03e"
+    },
+    {
+      "order": 2,
+      "title": "Komisjoni kevadistungjärgu plaanide arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "38018c68-e527-49a2-8144-7129bdc50f8a"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0a80d352-aa4a-4144-8d87-d6c40afa6dc8"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KVEK protokoll 11.04.2022",
+      "uuid": "74397827-b531-4df6-84a4-8219d91a8ecb",
+      "files": [
+        "KVEK_protokoll_11.04.2022.asice",
+        "KVEK_protokoll_11.04.2022.pdf"
+      ]
+    }
+  ],
+  "uuid": "112f08d1-83e2-4412-b30d-1cff3816e543",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 112f08d1-83e2-4412-b30d-1cff3816e543)",
+  "source": "https://api.riigikogu.ee/api/volumes/112f08d1-83e2-4412-b30d-1cff3816e543",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-04-01&endDate=2022-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
