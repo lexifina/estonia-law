@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 11.04.2022 kell 11.10",
+  "sitting_time": "2022-04-11T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "87b6e455-39e1-4229-9cea-7a10ba11236c"
+    },
+    {
+      "order": 2,
+      "title": "Maaeluministri ülevaade valdkonna tegevusest ja tulemustest strateegia \"Eesti 2035\" raames",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5c3845e3-f891-4da6-8b16-c0c0811485bd"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "30bd9945-4903-4647-91d4-be1196daa33c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 11.04.2022",
+      "uuid": "69367637-0ca0-4aaf-bc48-0c27610bf9aa",
+      "files": [
+        "MAEK_protokoll_11.04.2022.asice",
+        "145_protokoll_11.04.2022.pdf"
+      ]
+    }
+  ],
+  "uuid": "a8ab50d6-9edd-498f-b2db-2dd5cfd98c10",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a8ab50d6-9edd-498f-b2db-2dd5cfd98c10)",
+  "source": "https://api.riigikogu.ee/api/volumes/a8ab50d6-9edd-498f-b2db-2dd5cfd98c10",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-04-01&endDate=2022-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
