@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 11.04.2022 kell 13.15",
+  "sitting_time": "2022-04-11T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a870f0ab-0e65-45e2-b2ea-4c9858504eab"
+    },
+    {
+      "order": 2,
+      "title": "Eesti lahti ühendamine Vene gaasist",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d45616b6-9b74-4a6c-b904-4280f8cebb46"
+    },
+    {
+      "order": 3,
+      "title": "Rahandusministeeriumi kevadine majandusprognoos",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "02647494-efc9-4b07-b3a6-e1c3356c4d46"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 11.04.22",
+      "uuid": "dfbe2f1c-d37a-4948-bc3c-8e67bb9a6620",
+      "files": [
+        "REKK_protokoll_11.04.22.asice",
+        "Protokoll_nr_117_11.04.22.pdf"
+      ]
+    }
+  ],
+  "uuid": "fbcf5fd0-939b-41e1-8f79-a0ba89032a37",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid fbcf5fd0-939b-41e1-8f79-a0ba89032a37)",
+  "source": "https://api.riigikogu.ee/api/volumes/fbcf5fd0-939b-41e1-8f79-a0ba89032a37",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-04-01&endDate=2022-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
