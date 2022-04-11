@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung esmaspäev, 11.04.2022 kell 11.15",
+  "sitting_time": "2022-04-11T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fd2a51cd-0b01-4be5-b47a-e38056c4ab16"
+    },
+    {
+      "order": 2,
+      "title": "Arengud Venemaal",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2a4d9835-f02c-497f-8f40-56308c45d3a9"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "60d19b02-c71e-4423-87af-7f62ccd7bf7f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 11.04.2022 nr 247",
+      "uuid": "adb0afb5-3883-4b99-8ffb-13cb9da4b3b1",
+      "files": [
+        "VÄLK_protokoll_11.04.2022_nr_247.asice",
+        "VÄLK_protokoll_11.04.2022.pdf"
+      ]
+    }
+  ],
+  "uuid": "12e094e3-c01c-4215-872c-238cd8a61c47",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 12e094e3-c01c-4215-872c-238cd8a61c47)",
+  "source": "https://api.riigikogu.ee/api/volumes/12e094e3-c01c-4215-872c-238cd8a61c47",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-04-01&endDate=2022-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
