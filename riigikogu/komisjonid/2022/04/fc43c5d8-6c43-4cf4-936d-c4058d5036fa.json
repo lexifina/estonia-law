@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung teisipäev, 12.04.2022 kell 14.00",
+  "sitting_time": "2022-04-12T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4691e81c-6757-42db-b5db-88c5940aef69"
+    },
+    {
+      "order": 2,
+      "title": "Riigipiiri seaduse muutmise ja sellega seonduvalt teiste seaduste muutmise seaduse eelnõu (577 SE) ettevalmistamine esimeseks lugemiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dba5e81a-9a16-421e-bf39-86f41c66f9d6"
+    },
+    {
+      "order": 3,
+      "title": "Isikut tõendavate dokumentide seaduse, konsulaarseaduse ja riigilõivuseaduse muutmise seaduse eelnõu (570 SE) ettevalmistamine esimeseks lugemiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "66c31e5d-a7be-4e7e-8367-390a7242d0bf"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9c61abd2-f32a-4e3b-9e07-c12468a4e40c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "PÕSK protokoll 12.04.2022",
+      "uuid": "b04c415b-de4c-47bd-993d-ae3cb03b5267",
+      "files": [
+        "PÕSK_protokoll_12.04.2022.asice",
+        "PÕSK.protokoll.12.04.2022.pdf"
+      ]
+    }
+  ],
+  "uuid": "fc43c5d8-6c43-4cf4-936d-c4058d5036fa",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid fc43c5d8-6c43-4cf4-936d-c4058d5036fa)",
+  "source": "https://api.riigikogu.ee/api/volumes/fc43c5d8-6c43-4cf4-936d-c4058d5036fa",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-04-01&endDate=2022-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
