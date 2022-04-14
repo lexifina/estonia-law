@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung neljapäev, 14.04.2022 kell 09.30",
+  "sitting_time": "2022-04-14T09:30:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Erakorralise istungi päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "07afed81-d363-4274-94c9-0a3821a0838e"
+    },
+    {
+      "order": 2,
+      "title": "Karistusseadustiku täiendamise seaduse eelnõu (585 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ba00586b-9c46-4ce8-9833-a68c06469cea"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Õiguskomisjoni protokoll 14.04.2022",
+      "uuid": "f425d9b0-7345-47d1-b144-dd91962e1b82",
+      "files": [
+        "Õiguskomisjoni_protokoll_14.04.2022.asice",
+        "OIGK.14.04.2022.pdf"
+      ]
+    }
+  ],
+  "uuid": "c6b7b6ca-cc76-4c37-be95-34e26405d813",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c6b7b6ca-cc76-4c37-be95-34e26405d813)",
+  "source": "https://api.riigikogu.ee/api/volumes/c6b7b6ca-cc76-4c37-be95-34e26405d813",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-04-01&endDate=2022-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
