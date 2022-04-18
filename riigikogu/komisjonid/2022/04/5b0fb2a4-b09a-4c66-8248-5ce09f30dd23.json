@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung esmaspäev, 18.04.2022 kell 11.15",
+  "sitting_time": "2022-04-18T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "13a410aa-4cd1-41c1-b9e5-54c8b04b78d9"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu avalduse „Venemaa Föderatsiooni sõjakuritegudest ja genotsiidist Ukrainas\" (584 AE) – ettevalmistamine esimeseks lugemiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ba7d496d-ae4e-4828-827e-1db8e126200b"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "27f991fb-70f4-4614-a18f-844ae0785900"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 18.04.2022 nr 250",
+      "uuid": "c549d094-cee7-41a4-8c25-fa81a3bf7a4b",
+      "files": [
+        "VÄLK_protokoll_18.04.2022_nr_250.asice",
+        "VÄLK_protokoll_18.04.2022.pdf"
+      ]
+    }
+  ],
+  "uuid": "5b0fb2a4-b09a-4c66-8248-5ce09f30dd23",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 5b0fb2a4-b09a-4c66-8248-5ce09f30dd23)",
+  "source": "https://api.riigikogu.ee/api/volumes/5b0fb2a4-b09a-4c66-8248-5ce09f30dd23",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-04-01&endDate=2022-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
