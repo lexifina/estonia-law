@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni väljasõiduistung esmaspäev, 18.04.2022 kell 11.20",
+  "sitting_time": "2022-04-18T11:20:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "86822b32-4a8e-4479-97d5-cf63689e586b"
+    },
+    {
+      "order": 2,
+      "title": "Sihtasutuse CR14 külastus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a9720a8d-1a39-4c6d-bbab-0499328beecb"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RIKK 18.04.2022 protokoll",
+      "uuid": "e7a5d608-8d31-4967-a423-2eeb8c8fec8e",
+      "files": [
+        "RIKK_18.04.2022_protokoll.asice",
+        "Protokoll_nr_185__18.04.2022.pdf"
+      ]
+    }
+  ],
+  "uuid": "2b4bf164-2047-4eac-b1b8-f5ec2c1124fc",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2b4bf164-2047-4eac-b1b8-f5ec2c1124fc)",
+  "source": "https://api.riigikogu.ee/api/volumes/2b4bf164-2047-4eac-b1b8-f5ec2c1124fc",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-04-01&endDate=2022-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
