@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung kolmapäev, 20.04.2022 kell 08.30",
+  "sitting_time": "2022-04-20T08:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikontrolli kontrolliaruande tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2b20c9d7-ffe9-4210-adc2-9fe65e0c6fce"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a4f84d7b-b714-4f6f-a17b-9b4d102cde4d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 20.04.22",
+      "uuid": "1cfd217e-f077-4691-8d40-8be9786a29a8",
+      "files": [
+        "REKK_protokoll_20.04.22.asice",
+        "REKK_asendus_20.4.22.pdf",
+        "Protokoll_nr_120_20.04.22.pdf"
+      ]
+    }
+  ],
+  "uuid": "0c5112d8-bb6a-43b6-b5de-67cbd1212996",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0c5112d8-bb6a-43b6-b5de-67cbd1212996)",
+  "source": "https://api.riigikogu.ee/api/volumes/0c5112d8-bb6a-43b6-b5de-67cbd1212996",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-04-01&endDate=2022-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
