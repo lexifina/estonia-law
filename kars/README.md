@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/121052021009> (version in force from 2021-05-31)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/128042022025> (version in force from 2022-04-29)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -232,6 +232,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/121052021009> (version in force 
 | **10. peatükk POLIITILISTE JA KODANIKUÕIGUSTE VASTASED SÜÜTEOD** | |
 | **1. jagu Süüteod võrdõiguslikkuse vastu** | |
 | [§ 151](para-151.md) | Vaenu õhutamine |
+| [§ 151¹](para-151b1.md) | Rahvusvahelise kuriteo toetamine ja õigustamine |
 | [§ 152](para-152.md) | Võrdõiguslikkuse rikkumine |
 | [§ 153](para-153.md) | Diskrimineerimine pärilikkusriskide alusel |
 | [§ 153¹](para-153b1.md) | Seksuaalne ahistamine |
