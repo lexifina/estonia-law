@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 2.05.2022 kell 13.15",
+  "sitting_time": "2022-05-02T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f5dd4292-2671-4306-bcfc-4439572ef9ca"
+    },
+    {
+      "order": 2,
+      "title": "Riigi 2022. aasta lisaeelarve",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1e0fbf0c-6587-409d-95b8-3878bbe93c25"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "14274fb5-6ae3-48a6-8657-18607d7e70af"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 02.05.22",
+      "uuid": "acee36ea-d9ea-4f0e-9089-0c392df9fdb3",
+      "files": [
+        "LEA2022_meetmed_komisjoni.pptx",
+        "SiM_valitsemisala_lisaeelarve_2022_REKK.pptx",
+        "20220502_SOM_valitsemisala_2022LEA.pptx",
+        "MKM_val-ala_2022._a_lisaeelarve_(02.05.22)_RK_riigieelarve_kontrolli_erikomisjonile.ppt",
+        "REKK_asendus_2.05.22_Akkermann-Jaanson.pdf",
+        "REKK_protokoll_02.05.22.asice",
+        "Protokoll_nr_121_02.05.22.pdf"
+      ]
+    }
+  ],
+  "uuid": "2ffb8e55-4192-472e-af78-6963ec7a8673",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2ffb8e55-4192-472e-af78-6963ec7a8673)",
+  "source": "https://api.riigikogu.ee/api/volumes/2ffb8e55-4192-472e-af78-6963ec7a8673",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-05-01&endDate=2022-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
