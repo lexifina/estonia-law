@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung teisipäev, 3.05.2022 kell 13.30",
+  "sitting_time": "2022-05-03T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade julgeolekuolukorra arengutest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5aaf4c8b-32d9-481f-a20d-dc810d7a2032"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2e4fde3a-c37a-4f1e-8ae5-3df80a2c5c24"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 3.05.2022 nr 253",
+      "uuid": "c657c8d5-59cf-4d5c-b571-ec38e622df5a",
+      "files": [
+        "VÄLK_protokoll_3.05.2022_nr_253.asice",
+        "VÄLK_protokoll_3.05.2022.pdf"
+      ]
+    }
+  ],
+  "uuid": "5e1fa4a1-ae28-400a-bf25-538317c7b340",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 5e1fa4a1-ae28-400a-bf25-538317c7b340)",
+  "source": "https://api.riigikogu.ee/api/volumes/5e1fa4a1-ae28-400a-bf25-538317c7b340",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-05-01&endDate=2022-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
