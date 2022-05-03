@@ -1,0 +1,43 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 3.05.2022 kell 14.00",
+  "sitting_time": "2022-05-03T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Arutelu põllu- ja maamajanduse nõuandeteenistuse hetkeseisust ning tulevikusuundadest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "034fc449-8f70-4056-b956-edd20dfaa38e"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4c02d774-d10a-4fa1-af92-4f9885ce54e9"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 03.05.2022",
+      "uuid": "4272da2a-ab7f-4e69-af96-e76e6477732f",
+      "files": [
+        "MAEK_protokoll_03.05.2022.asice",
+        "148_protokoll_03.05.2022.pdf",
+        "148_protokolli_lisa_3__e-Nõustamisteenuse_raamistik_2023+__PRIA.pdf",
+        "148_protokolli_lisa_2__põllu-_ja_maamajanduse_nõustamise_tulevikusuunad__MeM.pdf",
+        "148_protokolli_lisa_1__põllu-_ja_maamajanduse_nõustamise_hetkeseis__MES.pdf"
+      ]
+    }
+  ],
+  "uuid": "0bdaa91d-db37-4d15-aafe-1f2b6568d958",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0bdaa91d-db37-4d15-aafe-1f2b6568d958)",
+  "source": "https://api.riigikogu.ee/api/volumes/0bdaa91d-db37-4d15-aafe-1f2b6568d958",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-05-01&endDate=2022-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
