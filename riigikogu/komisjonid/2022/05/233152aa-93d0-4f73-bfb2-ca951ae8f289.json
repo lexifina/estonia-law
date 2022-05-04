@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung kolmapäev, 4.05.2022 kell 08.30",
+  "sitting_time": "2022-05-04T08:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti Metsa- ja Puidutööstuse Liidu poolt tõstatatud probleemist seoses Venemaa puidust loobumisega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c55c3d6c-a5be-4992-80f1-9ae477287f33"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fea6d63e-0a33-4ff1-957c-cf30d48dbc53"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 04.05.22",
+      "uuid": "70d691b9-8aed-41e4-9e06-2a89e6a36729",
+      "files": [
+        "REKK_protokoll_04.05.22.asice",
+        "Volitus_04.05.22.pdf",
+        "Protokoll_nr_122_04.05.22.pdf"
+      ]
+    }
+  ],
+  "uuid": "233152aa-93d0-4f73-bfb2-ca951ae8f289",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 233152aa-93d0-4f73-bfb2-ca951ae8f289)",
+  "source": "https://api.riigikogu.ee/api/volumes/233152aa-93d0-4f73-bfb2-ca951ae8f289",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-05-01&endDate=2022-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
