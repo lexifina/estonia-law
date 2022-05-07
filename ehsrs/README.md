@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/103012022009> (version in force from 2022-01-13)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/127042022004> (version in force from 2022-05-07)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -32,6 +32,8 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/103012022009> (version in force 
 | [§ 23](para-023.md) | Nõuded olemasolevatele ehitistele |
 | [§ 24](para-024.md) | Avalikuks kasutamiseks määratud eratee |
 | [§ 25](para-025.md) | Enne käesoleva seaduse jõustumist esitatud hoonestusloa taotluste menetlemine |
+| [§ 25¹](para-025b1.md) | Erisused enne ehitusseadustiku 12. peatüki 3. jao jõustumist esitatud hoonestusloa taotluse menetlemisel |
+| [§ 25²](para-025b2.md) | Ehitusseadustiku 12. peatüki 4. jao kohaldamine |
 | [§ 26](para-026.md) | Ehitisregistri andmete korrastamine ja elektroonilise menetluse rakendamine |
 | [§ 27](para-027.md) | Enne käesoleva seaduse jõustumist ehitatud ehitisregistrisse kandmata ehitiste väljaselgitamine |
 | [§ 28](para-028.md) | Enne ehitusseaduse jõustumist ehitatud ehitis |
