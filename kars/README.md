@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/128042022026> (version in force from 2022-05-07)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/128042022027> (version in force from 2022-05-08)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -141,6 +141,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/128042022026> (version in force 
 | [§ 90](para-090.md) | Genotsiid |
 | **3. jagu Süüteod rahu vastu** | |
 | [§ 91](para-091.md) | Agressioonikuritegu |
+| [§ 91¹](para-091b1.md) | Välisriigi agressiooniaktiga liitumine, selles osalemine ja selle toetamine |
 | [§ 92](para-092.md) | Sõjapropaganda |
 | [§ 93](para-093.md) | Keelatud relvade väljatöötamine ja käitlemine |
 | [§ 93¹](para-093b1.md) | Rahvusvahelise sanktsiooni ja Vabariigi Valitsuse sanktsiooni rikkumine |
