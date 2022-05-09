@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 9.05.2022 kell 13.15",
+  "sitting_time": "2022-05-09T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "57da62f5-dc44-495d-8726-2efdee3ac7a1"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli kontrolliaruande „Kohalike teede ehitus- ja remonditööde kvaliteedi tagamine“ arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1c73785d-ff8d-4a8f-80b8-c2529f3cfa7f"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c0a9d5ea-fc8e-42bd-8cce-8789386692d6"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 09.05.22",
+      "uuid": "2fa165b1-da16-44cf-af30-452124d434e4",
+      "files": [
+        "kohalikud_teed_09.05.2022.pptx",
+        "REKK_protokoll_09.05.22.asice",
+        "Protokoll_nr_123_09.05.22.pdf"
+      ]
+    }
+  ],
+  "uuid": "3fd44127-2f37-49f4-b6b2-27157077848d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3fd44127-2f37-49f4-b6b2-27157077848d)",
+  "source": "https://api.riigikogu.ee/api/volumes/3fd44127-2f37-49f4-b6b2-27157077848d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-05-01&endDate=2022-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
