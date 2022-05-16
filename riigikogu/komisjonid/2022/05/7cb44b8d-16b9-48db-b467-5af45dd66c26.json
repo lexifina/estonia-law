@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 16.05.2022 kell 13.15",
+  "sitting_time": "2022-05-16T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d88d6b04-ae08-4ac0-85d4-ba9c3307e651"
+    },
+    {
+      "order": 2,
+      "title": "Inflatsiooni mõjust ja selle leevendamise võimalustest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d816a659-fa0d-4ba7-a5ad-70ba05ef351e"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a94e9179-2cb8-4abd-872a-c2398ec7453b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 16.05.2022",
+      "uuid": "ea7f5d25-647b-46a8-b18e-7b3d29052f31",
+      "files": [
+        "REKK_protokoll_16.05.2022.asice",
+        "Inflatsiooniarutelu_REKK_16.05.2022.pdf",
+        "Protokoll_nr_125_16.05.22.pdf"
+      ]
+    }
+  ],
+  "uuid": "7cb44b8d-16b9-48db-b467-5af45dd66c26",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7cb44b8d-16b9-48db-b467-5af45dd66c26)",
+  "source": "https://api.riigikogu.ee/api/volumes/7cb44b8d-16b9-48db-b467-5af45dd66c26",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-05-01&endDate=2022-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
