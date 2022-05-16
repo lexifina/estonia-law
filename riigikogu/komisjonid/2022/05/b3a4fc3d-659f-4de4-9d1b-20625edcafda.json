@@ -1,0 +1,48 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 16.05.2022 kell 11.10",
+  "sitting_time": "2022-05-16T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4a706ec8-0148-4c63-ac10-3e0169320d76"
+    },
+    {
+      "order": 2,
+      "title": "Arutelu rändlindude tekitatud kahju teemal",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "58c3ccff-a2f4-429c-8972-5be744adfcf2"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f4407107-0c1f-4ad4-8b2b-4419c0b0585d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 16.05.2022",
+      "uuid": "a394d98f-d3f5-490f-8bac-160fe9889c8b",
+      "files": [
+        "MAEK_protokoll_16.05.2022.asice",
+        "151_protokolli_lisa_2__EPKK.pdf",
+        "151_protokolli_lisa_1__linnukahju_statistika.pdf",
+        "151_protokoll_16.05.2022.pdf"
+      ]
+    }
+  ],
+  "uuid": "b3a4fc3d-659f-4de4-9d1b-20625edcafda",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b3a4fc3d-659f-4de4-9d1b-20625edcafda)",
+  "source": "https://api.riigikogu.ee/api/volumes/b3a4fc3d-659f-4de4-9d1b-20625edcafda",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-05-01&endDate=2022-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
