@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung esmaspäev, 16.05.2022 kell 11.00",
+  "sitting_time": "2022-05-16T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3e73bacb-e70e-411d-8b96-64a0ecd6d494"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu ja Riigikogu Kantselei kriisivalmidus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "55cb6db7-caae-49e6-8f7c-8f5b28d5e51c"
+    },
+    {
+      "order": 3,
+      "title": "Küberturvalisuse seaduse,  avaliku teabe seaduse ja Eesti Rahvusringhäälingu seaduse muutmise seaduse eelnõu (531 SE I) ettevalmistamine teiseks lugemiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8426baa3-4148-4e4c-b964-cc283173f98b"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cabbcdca-b581-4544-86d2-f2eb91f10759"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RIKK protokoll 16.05.2022",
+      "uuid": "cdf48e86-f562-4c5f-b1f5-e3c1c8f35ded",
+      "files": [
+        "RIKK_protokoll_16.05.2022.asice",
+        "RIKK_protokoll_16.05.2022.pdf"
+      ]
+    }
+  ],
+  "uuid": "cc5b833a-da57-4479-87f6-a1681c3149d3",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid cc5b833a-da57-4479-87f6-a1681c3149d3)",
+  "source": "https://api.riigikogu.ee/api/volumes/cc5b833a-da57-4479-87f6-a1681c3149d3",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-05-01&endDate=2022-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
