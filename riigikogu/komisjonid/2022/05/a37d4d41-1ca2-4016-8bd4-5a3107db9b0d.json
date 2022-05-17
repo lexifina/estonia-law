@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 17.05.2022 kell 14.00",
+  "sitting_time": "2022-05-17T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade koolide mahetoidu pilootprojektist",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5bbb6819-90c5-4300-ad99-e8fcb156ec4e"
+    },
+    {
+      "order": 2,
+      "title": "Teravilja sügavtöötlemise projekti tutvustamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5c8cd493-f6db-4015-8eda-6ea5c84d131b"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d4fa45e0-3c81-4eda-95d9-209f467d6932"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 17.05.2022",
+      "uuid": "2fc00a53-2c66-469b-9abd-76dd5e5d7d4e",
+      "files": [
+        "MAEK_protokoll_17.05.2022.asice",
+        "152_protokolli_lisa__mahetoidu_pakkumise_suurendamine.pdf",
+        "152_protokoll_17.05.2022.pdf"
+      ]
+    }
+  ],
+  "uuid": "a37d4d41-1ca2-4016-8bd4-5a3107db9b0d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a37d4d41-1ca2-4016-8bd4-5a3107db9b0d)",
+  "source": "https://api.riigikogu.ee/api/volumes/a37d4d41-1ca2-4016-8bd4-5a3107db9b0d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-05-01&endDate=2022-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
