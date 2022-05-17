@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung teisipäev, 17.05.2022 kell 14.00",
+  "sitting_time": "2022-05-17T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Uuringu „COVID-19 haigusjuhtumite analüüs ja riskirühmade väljaselgitamine Eestis“ tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "680ba587-8f23-4697-80f5-09bd95d24be1"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "353e5801-1550-40d5-b800-9b1259c6cf0a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "SOTK protokoll 17.05.2022",
+      "uuid": "eb3721e8-2fb0-46ce-8f9e-d2587faf7940",
+      "files": [
+        "CORIVA_ettekanne_Sotsiaalkomisjonile_17.05.2022.pdf",
+        "SOTK_protokoll_17.05.2022.asice",
+        "Protokoll_nr_219_(17.05.2022).pdf"
+      ]
+    }
+  ],
+  "uuid": "885fe013-fab3-4494-b570-715804d42384",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 885fe013-fab3-4494-b570-715804d42384)",
+  "source": "https://api.riigikogu.ee/api/volumes/885fe013-fab3-4494-b570-715804d42384",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-05-01&endDate=2022-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
