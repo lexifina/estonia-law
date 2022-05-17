@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung teisipäev, 17.05.2022 kell 14.00",
+  "sitting_time": "2022-05-17T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade Eesti Panga 2021. aasta aruandest. Osaleb Eesti Panga president Madis Müller.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "402ac320-b9b6-4a9e-8206-dfa131157248"
+    },
+    {
+      "order": 2,
+      "title": "Rahapesu ning kriminaaltulu avastamise, arestimise ja konfiskeerimise ning terrorismi rahastamist käsitleva Euroopa Nõukogu konventsiooni ratifitseerimise seaduse eelnõu (583 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "13983060-3c1b-40d9-bed5-c3fbe5be99c3"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c9f41392-67b3-4326-803e-0b6936ddfbe2"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 17.05.2022",
+      "uuid": "01e9b0f6-caf2-494e-a741-7400f2f78f76",
+      "files": [
+        "Eesti_Pank_Madis_Müller.pdf",
+        "RAHK_protokoll_17.05.2022.asice",
+        "RAHK_protokoll_196_17_05_2022.pdf"
+      ]
+    }
+  ],
+  "uuid": "6b9024f2-4e66-4034-9c00-32e67d4e12ef",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 6b9024f2-4e66-4034-9c00-32e67d4e12ef)",
+  "source": "https://api.riigikogu.ee/api/volumes/6b9024f2-4e66-4034-9c00-32e67d4e12ef",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-05-01&endDate=2022-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
