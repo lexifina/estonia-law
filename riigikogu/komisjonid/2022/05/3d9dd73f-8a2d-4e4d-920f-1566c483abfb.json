@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung esmaspäev, 30.05.2022 kell 11.10",
+  "sitting_time": "2022-05-30T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8a3e16bd-024f-4ef9-a98d-64b7bd369027"
+    },
+    {
+      "order": 2,
+      "title": "Ühisveevärgi ja -kanalisatsiooni seaduse eelnõu (523 SE) ettevalmistamine teiseks lugemiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a413f56b-148d-4dcb-b8df-cbd4c7ed12b3"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK protokoll 30.05.2022",
+      "uuid": "b43d846e-1e00-43b3-ae54-1a723d062931",
+      "files": [
+        "KEKK_protokoll_30.05.2022.pdf",
+        "KEKK_protokoll_30.05.2022.asice"
+      ]
+    }
+  ],
+  "uuid": "3d9dd73f-8a2d-4e4d-920f-1566c483abfb",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3d9dd73f-8a2d-4e4d-920f-1566c483abfb)",
+  "source": "https://api.riigikogu.ee/api/volumes/3d9dd73f-8a2d-4e4d-920f-1566c483abfb",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-05-01&endDate=2022-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
