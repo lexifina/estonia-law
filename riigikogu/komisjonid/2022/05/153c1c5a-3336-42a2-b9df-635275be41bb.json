@@ -1,0 +1,53 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung esmaspäev, 30.05.2022 kell 11.15",
+  "sitting_time": "2022-05-30T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8b9515b8-c3f2-4738-99c9-e67f4cec5485"
+    },
+    {
+      "order": 2,
+      "title": "Väliskomisjoni tellitud uuringu „Kvalifitseeritud häälteenamus EL välis- ja julgeolekupoliitikas“ lõpparuande esitlus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b3d3e3d4-cf76-4a27-9be1-8a5f559bccb3"
+    },
+    {
+      "order": 3,
+      "title": "Ülevaade julgeolekuolukorra arengutest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8fa4896d-6ef1-40fa-aca1-fe5b646bdc11"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5d6b4e50-eb8d-46cf-b9f3-a98b97adc061"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 30.05.2022 nr 258",
+      "uuid": "d1fc4b9e-50f0-46f6-ae3a-bc901c9a86a2",
+      "files": [
+        "VÄLK_protokoll_30.05.2022_nr_258.asice",
+        "KHE_esitlus_30-05-22.pdf",
+        "VÄLK_protokoll_30.05.2022.pdf"
+      ]
+    }
+  ],
+  "uuid": "153c1c5a-3336-42a2-b9df-635275be41bb",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 153c1c5a-3336-42a2-b9df-635275be41bb)",
+  "source": "https://api.riigikogu.ee/api/volumes/153c1c5a-3336-42a2-b9df-635275be41bb",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-05-01&endDate=2022-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
