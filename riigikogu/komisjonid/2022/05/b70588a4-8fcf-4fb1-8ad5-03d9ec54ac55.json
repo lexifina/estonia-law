@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Korruptsioonivastane erikomisjon",
+  "committee_uuid": "e4f2977a-e8c3-4fa0-8f3d-9df9acd6377f",
+  "title": "Komisjoni istung esmaspäev, 30.05.2022 kell 13.15",
+  "sitting_time": "2022-05-30T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "50f01de2-22c5-4d15-8a82-010227435fcb"
+    },
+    {
+      "order": 2,
+      "title": "Lobi-ümarlaudade kokkuvõte ja teema käsitlemise edasiste plaanide arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d556a9a7-281d-425e-aedf-0e0760792fe7"
+    },
+    {
+      "order": 3,
+      "title": "Huvide deklaratsioonide kontrollimine 2022. aastal",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7504c9eb-85cd-488a-ae3f-5f6760561e83"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "39dbfaeb-1455-4f5e-be22-71736ab67580"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KVEK protokoll 30.05.2022",
+      "uuid": "dc7fbf17-17d1-4399-853a-c4c2fdc0b223",
+      "files": [
+        "KVEK_protokoll_98_30_05_2022.pdf",
+        "KVEK_protokoll_30.05.2022.asice"
+      ]
+    }
+  ],
+  "uuid": "b70588a4-8fcf-4fb1-8ad5-03d9ec54ac55",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b70588a4-8fcf-4fb1-8ad5-03d9ec54ac55)",
+  "source": "https://api.riigikogu.ee/api/volumes/b70588a4-8fcf-4fb1-8ad5-03d9ec54ac55",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-05-01&endDate=2022-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
