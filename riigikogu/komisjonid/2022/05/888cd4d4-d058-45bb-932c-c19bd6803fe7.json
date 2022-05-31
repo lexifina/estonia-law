@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung teisipäev, 31.05.2022 kell 14.00",
+  "sitting_time": "2022-05-31T14:05:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade Finantsinspektsiooni 2021. aasta aruandest. Osaleb Finantsinspektsiooni juhatuse esimees Kilvar Kessler.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "de58c09a-adc2-4f93-afd6-68e07f550e27"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "11952e35-e1ea-4b5f-bfe7-8286125e41a5"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 31.05.2022",
+      "uuid": "cbdf5bf9-92b8-4ea9-8bc8-5bbedc762aaa",
+      "files": [
+        "RAHK_protokoll_198_31_05_2022.pdf",
+        "RAHK_protokoll_198_31_05_2022.asice",
+        "Finantsinspektsiooni_ettekanne.pdf"
+      ]
+    }
+  ],
+  "uuid": "888cd4d4-d058-45bb-932c-c19bd6803fe7",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 888cd4d4-d058-45bb-932c-c19bd6803fe7)",
+  "source": "https://api.riigikogu.ee/api/volumes/888cd4d4-d058-45bb-932c-c19bd6803fe7",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-05-01&endDate=2022-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
