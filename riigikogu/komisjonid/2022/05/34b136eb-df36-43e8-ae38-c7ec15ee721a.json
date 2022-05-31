@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung teisipäev, 31.05.2022 kell 14.00",
+  "sitting_time": "2022-05-31T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kalapüügiseaduse muutmise seaduse eelnõu (136 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bd4e3456-46fe-478b-898d-c5fcdd4a6d07"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu otsuse „Riigikogu otsuse „Kliimapoliitika põhialused aastani 2050ˮ muutmine\" eelnõu (616 OE) ettevalmistamine teiseks lugemiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "07a09d07-ff24-4a43-a408-8a4dcd431be4"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK protokoll 31.05.2022",
+      "uuid": "90d71cdb-e7b6-4988-85ae-e257dc437a71",
+      "files": [
+        "KEKK_protokoll_31.05.2022.pdf",
+        "KEKK_protokoll_31.05.2022.asice"
+      ]
+    }
+  ],
+  "uuid": "34b136eb-df36-43e8-ae38-c7ec15ee721a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 34b136eb-df36-43e8-ae38-c7ec15ee721a)",
+  "source": "https://api.riigikogu.ee/api/volumes/34b136eb-df36-43e8-ae38-c7ec15ee721a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-05-01&endDate=2022-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
