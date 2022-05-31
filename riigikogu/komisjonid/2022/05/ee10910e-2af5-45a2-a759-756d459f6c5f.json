@@ -1,0 +1,42 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung teisipäev, 31.05.2022 kell 14.00",
+  "sitting_time": "2022-05-31T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade vähitõrje strateegia rakendustegevustest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "34681a1d-71e0-48c3-b2c4-3c2f7814ac92"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "12baf9ec-0894-49a0-998c-a0758f8caab4"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "SOTK protokoll 31.05.2022",
+      "uuid": "b97749a1-ec2c-407c-bd63-a768f3f3687e",
+      "files": [
+        "SOM_RPkoostamisest_mai2022.pdf",
+        "SOTK_31.05.22_TAI.pdf",
+        "SOTK_protokoll_31.05.2022.asice",
+        "Protokoll_nr_221_(31.05.2022).pdf"
+      ]
+    }
+  ],
+  "uuid": "ee10910e-2af5-45a2-a759-756d459f6c5f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ee10910e-2af5-45a2-a759-756d459f6c5f)",
+  "source": "https://api.riigikogu.ee/api/volumes/ee10910e-2af5-45a2-a759-756d459f6c5f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-05-01&endDate=2022-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
