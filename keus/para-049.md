@@ -9,3 +9,5 @@
 (3) Käesoleva seaduse § 52 lõike 1 punktides 1 ja 2 sätestatud juhtudel otsustatakse keskkonnaloa andmisest keeldumine 20 päeva jooksul nõuetekohase taotluse saamisest arvates.
 
 (4) Käesoleva paragrahvi lõikes 1 nimetatud tähtaega ei kohaldata, kui taotletav tegevus ei ole lubatav ilma planeeringu kehtestamiseta ja planeeringut ei ole kehtestatud 30 päeva jooksul keskkonnaloa taotluse esitamisest arvates. Sellisel juhul otsustatakse keskkonnaloa andmine 60 päeva jooksul pärast planeeringu kehtestamist. Kui nõutav planeering kehtestatakse hiljem kui 90 päeva pärast nõuetele vastava keskkonnaloa taotluse esitamist, otsustatakse keskkonnaloa andmine 30 päeva jooksul planeeringu kehtestamisest arvates.
+
+(5) Keskkonnaloa andja võib pikendada käesolevas paragrahvis sätestatud tähtaega, kui ilmnevad asjaolud, mis ei võimalda loa andmise otsustamist selle tähtaja jooksul.

@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/110072020047> (version in force from 2021-01-01)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/127052022003> (version in force from 2022-06-06)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -57,6 +57,11 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/110072020047> (version in force 
 | [§ 38](para-038.md) | Kallasrada |
 | [§ 39](para-039.md) | Kallasraja sulgemine ja sellest möödapääsu võimaldamine |
 | [§ 39¹](para-039b1.md) | Kallasraja puudumine |
+| **4¹. peatükk Keskkonnateabe kogumine ja avaldamine** | |
+| [§ 39²](para-039b2.md) | Keskkonnaportaal |
+| [§ 39³](para-039b3.md) | Keskkonnaseisundi andmete avalikustamine |
+| [§ 39⁴](para-039b4.md) | Juurdepääs andmekogudes hoitavale keskkonnateabele |
+| [§ 39⁵](para-039b5.md) | Eesti looduse infosüsteem |
 | **5. peatükk Loamenetlus** | |
 | [§ 40](para-040.md) | Keskkonnakaitseload |
 | [§ 40¹](para-040b1.md) | Keskkonnaotsuste infosüsteem |
@@ -96,4 +101,5 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/110072020047> (version in force 
 | **6. peatükk Rakendussätted** | |
 | [§ 62⁹](para-062b9.md) | Andmete üleviimine keskkonnaotsuste infosüsteemi |
 | [§ 62¹⁰](para-062b10.md) | Varem kehtinud lubade vormistamine keskkonnaloana |
+| [§ 62¹¹](para-062b11.md) | Keskkonnaregistri seaduse alusel kogutud andmete töötlemine |
 | [§ 63](para-063.md) | Seaduse jõustumine |

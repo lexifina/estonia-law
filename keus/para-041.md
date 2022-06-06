@@ -4,7 +4,7 @@
 
 1) vee erikasutus;
 
-2) saasteainete viimine paiksest saasteallikast välisõhku;
+2) saasteainete viimine paiksest heiteallikast välisõhku;
 
 3) jäätmete käitlemine;
 

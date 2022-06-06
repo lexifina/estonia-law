@@ -20,6 +20,8 @@
 
 - 2. jagu Õigus kasutada võõrast maatükki ja veekogu
 
+4¹. peatükk Keskkonnateabe kogumine ja avaldamine
+
 5. peatükk Loamenetlus
 
 5¹. peatükk Riiklik ja haldusjärelevalve
