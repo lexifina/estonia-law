@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung esmaspäev, 6.06.2022 kell 11.15",
+  "sitting_time": "2022-06-06T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e476441b-c621-404a-8d5e-810828abde54"
+    },
+    {
+      "order": 2,
+      "title": "Perekonnaseisutoimingute seaduse muutmise seaduse eelnõu (597 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bc319c8b-193e-4d05-b94e-a1002cc79ee5"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e0a5d52c-9fa1-4d70-8503-b37851fc8566"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ÕIGK protokoll 06.06.2022",
+      "uuid": "74b4e9c3-f61b-469c-80b8-86de4a2c5de7",
+      "files": [
+        "Riigikogu_õiguskomisjoni_istungi_protokoll_nr_152.pdf",
+        "ÕIGK_protokoll_06.06.2022.asice"
+      ]
+    }
+  ],
+  "uuid": "37039398-e14a-4691-bcd0-8fcafb58ddcf",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 37039398-e14a-4691-bcd0-8fcafb58ddcf)",
+  "source": "https://api.riigikogu.ee/api/volumes/37039398-e14a-4691-bcd0-8fcafb58ddcf",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-06-01&endDate=2022-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
