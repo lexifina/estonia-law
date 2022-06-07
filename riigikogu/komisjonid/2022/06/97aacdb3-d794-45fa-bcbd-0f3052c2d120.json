@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung teisipäev, 7.06.2022 kell 14.15",
+  "sitting_time": "2022-06-07T14:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väliskomisjoni väljasõiduistung Riigi Infosüsteemide Ametis",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "50e3892d-156b-44dc-9cf2-986054ea499e"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "23bf419f-5d26-47df-98c9-ea9d244a5f66"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 7.06.2022 nr 260",
+      "uuid": "98cfb841-ea78-4174-8750-3077f736f56b",
+      "files": [
+        "VÄLK_protokoll_7.06.2022_nr_260.asice",
+        "VÄLK_protokoll_7.06.2022.pdf"
+      ]
+    }
+  ],
+  "uuid": "97aacdb3-d794-45fa-bcbd-0f3052c2d120",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 97aacdb3-d794-45fa-bcbd-0f3052c2d120)",
+  "source": "https://api.riigikogu.ee/api/volumes/97aacdb3-d794-45fa-bcbd-0f3052c2d120",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-06-01&endDate=2022-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
