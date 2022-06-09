@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung neljapäev, 9.06.2022 kell 14.00",
+  "sitting_time": "2022-06-09T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9bc30845-f8bc-4f98-962d-f92d597ca4dd"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade julgeolekuolukorra arengutest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "37029be5-94bd-4b09-8faf-1ef1b4485db2"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RIKK 09.06.2022 protokoll",
+      "uuid": "65aa1c5a-1392-421b-bb2b-f71ffeb35ebf",
+      "files": [
+        "RIKK_09.06.2022_protokoll.asice",
+        "Protokoll_nr_199__09.06.2022.pdf"
+      ]
+    }
+  ],
+  "uuid": "b5cb1a49-ae1b-4379-9da6-c179c24c36b4",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b5cb1a49-ae1b-4379-9da6-c179c24c36b4)",
+  "source": "https://api.riigikogu.ee/api/volumes/b5cb1a49-ae1b-4379-9da6-c179c24c36b4",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-06-01&endDate=2022-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
