@@ -1,0 +1,53 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 13.06.2022 kell 11.10",
+  "sitting_time": "2022-06-13T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7f6c1692-0bb8-4a13-958b-865c0d353ca5"
+    },
+    {
+      "order": 2,
+      "title": "Maaelukomisjoni algatatud kalapüügiseaduse muutmise seaduse eelnõu 136 SE arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7ef8e353-abbd-480f-9804-9e229be81840"
+    },
+    {
+      "order": 3,
+      "title": "Ülevaade „Eesmärk 55“ Eesti seisukohtades tehtavatest muudatustest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "69b87d35-e840-43a6-aff8-e0442f95aa82"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "499e147c-59a9-4c65-8e48-93ba0213a621"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 13.06.2022",
+      "uuid": "16c1539a-04d1-4800-b5f5-1893121b0902",
+      "files": [
+        "MAEK_protokoll_13.06.2022.asice",
+        "155_protokoll_13.06.2022.pdf",
+        "155_protokolli_lisa__Kliimapakett_Eesmärk_55.pdf"
+      ]
+    }
+  ],
+  "uuid": "b93e034d-f6e0-4f59-821a-7812db20cc78",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b93e034d-f6e0-4f59-821a-7812db20cc78)",
+  "source": "https://api.riigikogu.ee/api/volumes/b93e034d-f6e0-4f59-821a-7812db20cc78",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-06-01&endDate=2022-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
