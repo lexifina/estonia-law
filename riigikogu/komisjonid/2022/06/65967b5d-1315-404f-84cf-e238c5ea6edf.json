@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Euroopa Liidu asjade komisjoni ja väliskomisjoni ühine istung esmaspäev, 20.06.2022",
+  "sitting_time": "2022-06-20T14:00:00",
+  "sitting_type": "UHISISTUNG",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 23.-24. juunil 2022 toimuval Euroopa Ülemkogul",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "79c70a03-2d05-4143-a996-4d78a442ec86"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "83fcdc7e-b432-450f-b7c2-938f716adb64"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ELAK ja VÄLK protokoll 20.06",
+      "uuid": "15197b5c-2d8e-495b-a7e8-dca97283651b",
+      "files": [
+        "ELAK_ja_VÄLK_protokoll_20.06.asice",
+        "ELAK_VÄLK_protokoll_20.06.2022.pdf"
+      ]
+    }
+  ],
+  "uuid": "65967b5d-1315-404f-84cf-e238c5ea6edf",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 65967b5d-1315-404f-84cf-e238c5ea6edf)",
+  "source": "https://api.riigikogu.ee/api/volumes/65967b5d-1315-404f-84cf-e238c5ea6edf",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-06-01&endDate=2022-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
