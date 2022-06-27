@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung esmaspäev, 27.06.2022 kell 11.00",
+  "sitting_time": "2022-06-27T11:00:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6326fc22-4576-4f21-a856-eee1a628844e"
+    },
+    {
+      "order": 2,
+      "title": "54 Riigikogu liikme algatatud perehüvitiste seaduse muutmise seaduse eelnõule (619 SE) esitatud protestide arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3234623b-f98b-4bca-b600-675d6355ac3f"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b5bd582f-d7cb-460b-9ae7-93464c23ba3d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "SOTK protokoll 27.06.2022",
+      "uuid": "87c60b78-b9e8-44f9-a0a7-0723fb205f71",
+      "files": [
+        "SOTK_protokoll_27.06.2022.asice",
+        "SOTK_protokoll_nr_228_(27.06.2022).pdf"
+      ]
+    }
+  ],
+  "uuid": "be7cb150-b20f-4ec3-a1e4-44101efcd262",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid be7cb150-b20f-4ec3-a1e4-44101efcd262)",
+  "source": "https://api.riigikogu.ee/api/volumes/be7cb150-b20f-4ec3-a1e4-44101efcd262",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-06-01&endDate=2022-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
