@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Erakorraline komisjoni istung neljapäev, 30.06.2022 kell 11.00",
+  "sitting_time": "2022-06-30T11:00:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ec4fcbfe-bb17-4c39-bf72-a92c40e107e4"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad komisjoni ettepaneku kohta RRF määruse muutmiseks REPowerEU peatükkide osas - COM(2022) 231 (1-2/22-387/3)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2d4862e8-f6d2-4901-ac24-6dbc19f79b5d"
+    },
+    {
+      "order": 3,
+      "title": "Info jamuud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f55bd7e2-3ec1-4763-ab50-770f5936ae31"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 30.06.2022",
+      "uuid": "18bc0ec0-19f1-4b44-ad3b-b1a7b6602656",
+      "files": [
+        "RAHK_protokoll_30.06.2022.asice",
+        "RAHK_protokoll_202_30_06_2022_erakorraline.pdf"
+      ]
+    }
+  ],
+  "uuid": "cd3b3fa5-94a9-445e-a0b1-7b48270afd26",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid cd3b3fa5-94a9-445e-a0b1-7b48270afd26)",
+  "source": "https://api.riigikogu.ee/api/volumes/cd3b3fa5-94a9-445e-a0b1-7b48270afd26",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-06-01&endDate=2022-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
