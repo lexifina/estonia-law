@@ -4,7 +4,7 @@
 
 (1¹) Kaitseliidu tegevliikmel, kes täidab valves osalemisega seotud teenistuskohustust ja saab vigastada või hukkub, on õigus käesoleva seaduse §-des 61, 64 ja 65 sätestatud tagatistele.
 
-(2) Kaitseliidu liikmel, kes Kaitseliidu koosseisus on kaasatud käesoleva seaduse § 4 lõike 2 punktides 1, 2, 4, 6 ja 7 nimetatud korrakaitseorgani ülesannete täitmisse, on vigastada saamise või hukkumise korral õigus ainult käesoleva seaduse §-des 61, 64 ja 65 sätestatud tagatistele.
+(2) Kaitseliidu liikmel, kes Kaitseliidu koosseisus on kaasatud käesoleva seaduse § 4 lõike 2 punktides 1, 2, 4, 6 ja 7 nimetatud korrakaitseorgani ülesannete täitmisse, on vigastada saamise, haigestumise või hukkumise korral õigus ainult käesoleva seaduse §-des 61, 64 ja 65 sätestatud tagatistele.
 
 (2¹) Noortejuhil, kes saab vigastada või hukkub õppetegevuse korraldamise ajal, on õigus käesoleva seaduse §-des 61, 64 ja 65 sätestatud tagatistele.
 

@@ -1,6 +1,6 @@
 # § 63. Hüvitise väljamaksmine
 
-(6) Kaitseliidu liikme hukkumise korral makstakse käesoleva seaduse § 61 lõikes 5 ettenähtud hüvitis välja järgmiselt:
+(6) Kaitseliidu liikme hukkumise korral makstakse käesoleva seaduse § 61 lõigetes 5–5² ettenähtud hüvitis välja järgmiselt:
 
 1) kuni 50 protsenti hüvitise summast hukkunu poolt käesoleva seaduse § 61 lõike 6 alusel nimetatud isikule või isikutele;
 

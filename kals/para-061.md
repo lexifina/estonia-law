@@ -6,31 +6,23 @@
 
 (3) Kaitseministeeriumil on õigus enne otsuse tegemist teha lisauurimine ja küsida otsuse tegemiseks vajalikku lisateavet. Lisauurimise ja teabe küsimise ajaks peatub käesoleva paragrahvi lõikes 2 sätestatud otsuse tegemise tähtaeg. Lisauurimine ja teabe küsimine vormistatakse kirjalikku taasesitamist võimaldavas vormis.
 
-(4) Kaitseliidu liikmele, kellel käesoleva seaduse § 4 lõike 1 punktis 4 sätestatud ülesande täitmise tõttu saadud vigastuse korral on Kaitseväe arstlik komisjon tuvastanud püsiva töövõimetuse, maksab Kaitseliit riigieelarvest eraldatud rahaliste vahendite arvelt ühekordset hüvitist Kaitseministeeriumi otsuse alusel:
+(4) Kui Kaitseliidu liikmel tuvastatakse käesoleva seaduse § 4 lõike 1 punktis 4 sätestatud ülesande täitmise tõttu saadud vigastuse tagajärjel püsiv töövõimetus, maksab Kaitseliit riigieelarvest eraldatud rahaliste vahendite arvelt ühekordset hüvitist Kaitseministeeriumi otsuse alusel kaitseväeteenistuse seaduse § 196 lõikes 7 sätestatud ulatuses.
 
-1) töövõime kaotuse korral 10–30 protsendi ulatuses – töövõime kaotuse tuvastamise kuule eelnenud viimase Statistikaameti avaldatud keskmise brutokuupalga kuuekordses ulatuses;
+(4¹) Kui Kaitseliidu liikmel tuvastatakse käesoleva seaduse § 4 lõike 2 punktis 1, 2, 4, 6 või 7 nimetatud ülesande täitmises osalemisega seotud teenistuskohustust täites õnnetusjuhtumi või tema vastu toimepandud ründe või tema poolt süüteo tõkestamise või ohu tõrjumise tagajärjel saadud vigastuse või tekkinud haiguse tõttu ajutine töövõimetus, osaline või puuduv töövõime, maksab Kaitseliit riigieelarvest eraldatud rahaliste vahendite arvelt ühekordset hüvitist Kaitseministeeriumi otsuse alusel avaliku teenistuse seaduse § 49 lõigetes 6–11 sätestatud ulatuses ja korras.
 
-2) töövõime kaotuse korral 40–50 protsendi ulatuses – töövõime kaotuse tuvastamise kuule eelnenud viimase Statistikaameti avaldatud keskmise brutokuupalga 24-kordses ulatuses;
+(4²) Kui Kaitseliidu liikmel tuvastatakse Kaitseliidu tegevliikmena valves osalemise või noortejuhina õppetegevuse korraldamisega seotud teenistuskohustust täites saadud vigastuse tagajärjel osaline või puuduv töövõime, maksab Kaitseliit riigieelarvest eraldatud rahaliste vahendite arvelt ühekordset hüvitist Kaitseministeeriumi otsuse alusel avaliku teenistuse seaduse § 49 lõigetes 6 ja 11 sätestatud ulatuses ja korras.
 
-3) töövõime kaotuse korral 60–70 protsendi ulatuses – töövõime kaotuse tuvastamise kuule eelnenud viimase Statistikaameti avaldatud keskmise brutokuupalga 48-kordses ulatuses;
+(5) Kui Kaitseliidu liige hukkub käesoleva seaduse § 4 lõike 1 punktis 4 sätestatud ülesande täitmisel, maksab Kaitseliit riigieelarvest eraldatud rahaliste vahendite arvelt ühekordset hüvitist Kaitseministeeriumi otsuse alusel kaitseväeteenistuse seaduse § 196 lõikes 1 sätestatud ulatuses.
 
-4) töövõime kaotuse korral 80–90 protsendi ulatuses – töövõime kaotuse tuvastamise kuule eelnenud viimase Statistikaameti avaldatud keskmise brutokuupalga 72-kordses ulatuses;
+(5¹) Kui Kaitseliidu liige hukkub käesoleva seaduse § 4 lõike 2 punktis 1, 2, 4, 6 või 7 nimetatud ülesande täitmises osalemisega seotud teenistuskohustust täites õnnetusjuhtumi või tema vastu toimepandud ründe või tema poolt süüteo tõkestamise või ohu tõrjumise tagajärjel, maksab Kaitseliit riigieelarvest eraldatud rahaliste vahendite arvelt ühekordset hüvitist Kaitseministeeriumi otsuse alusel avaliku teenistuse seaduse § 49 lõigetes 1, 2 ja 11 sätestatud ulatuses ja korras.
 
-5) töövõime kaotuse korral 100 protsendi ulatuses – töövõime kaotuse tuvastamise kuule eelnenud viimase Statistikaameti avaldatud keskmise brutokuupalga 96-kordses ulatuses.
+(5²) Kui Kaitseliidu liige hukkub Kaitseliidu tegevliikmena valves osalemise või noortejuhina õppetegevuse korraldamisega seotud teenistuskohustust täites, maksab Kaitseliit riigieelarvest eraldatud rahaliste vahendite arvelt ühekordset hüvitist Kaitseministeeriumi otsuse alusel avaliku teenistuse seaduse § 49 lõigetes 1 ja 11 sätestatud ulatuses ja korras.
 
-(4¹) Kaitseliidu liikmele, kellel käesoleva seaduse § 4 lõike 2 punktides 1, 2, 4, 6 ja 7 nimetatud korrakaitseorgani ülesannete täitmises osalemisel teenistuskohustuste täitmise tõttu saadud vigastuse korral on Eesti Töötukassa töövõimetoetuse seaduse alusel tuvastanud osalise või puuduva töövõime, maksab Kaitseliit riigieelarvest eraldatud rahaliste vahendite arvelt ühekordset hüvitist Kaitseministeeriumi otsuse alusel:
+(5³) Käesoleva paragrahvi lõigetes 4¹, 4², 5¹ ja 5² nimetatud hüvitise arvutamise aluseks võetakse Kaitseliidu liikme keskmine palk või töötasu, mida maksis või maksab talle tema tööandja. Kui Kaitseliidu liikme palk või töötasu oli väiksem kui töölepingu seaduse § 29 lõike 5 alusel kehtestatud töötasu alammäär, siis arvutatakse temale hüvis käesoleva paragrahvi lõikes 5⁴ sätestatud korras.
 
-1) osalise töövõime korral – töövõime hindamise kuule eelnenud viimase Statistikaameti avaldatud keskmise brutokuupalga 24-kordses ulatuses;
+(5⁴) Kui Kaitseliidu liige hukkumisele või vigastada saamisele eelnenud ajal ei töötanud, võetakse käesoleva paragrahvi lõigetes 4¹, 4², 5¹ ja 5² nimetatud hüvitise arvutamise aluseks hukkumise või vigastada saamise ajal kehtinud töölepingu seaduse § 29 lõike 5 alusel kehtestatud töötasu alammäär.
 
-2) puuduva töövõime korral – töövõime hindamise kuule eelnenud viimase Statistikaameti avaldatud keskmise brutokuupalga 96-kordses ulatuses.
-
-(4²) Noortejuhile, kellel on õppetegevuse korraldamise ajal saadud vigastus, mille tõttu on Eesti Töötukassa töövõimetoetuse seaduse alusel tuvastanud tal osalise või puuduva töövõime, maksab Kaitseliit riigieelarvest eraldatud rahalistest vahenditest ühekordset hüvitist Kaitseministeeriumi otsuse alusel käesoleva paragrahvi lõike 4¹ punktis 1 või 2 sätestatu kohaselt.
-
-(4³) Kaitseliidu tegevliikmele, kellel on valves osalemisega seotud teenistuskohustust täites saadud vigastuse tõttu Eesti Töötukassa tuvastanud töövõimetoetuse seaduse alusel osalise või puuduva töövõime, maksab Kaitseliit riigieelarvest eraldatud rahalistest vahenditest ühekordset hüvitist Kaitseministeeriumi otsuse alusel käesoleva paragrahvi lõike 4¹ punktis 1 või 2 sätestatu kohaselt.
-
-(5) Kaitseliidu liikme hukkumise korral maksab Kaitseliit riigieelarvest eraldatud rahaliste vahendite arvelt ühekordset hüvitist hukkumise kuule eelnenud viimase Statistikaameti avaldatud keskmise brutokuupalga 150-kordses ulatuses.
-
-(6) 18-aastasel ja vanemal Kaitseliidu liikmel on õigus nimetada käesoleva paragrahvi lõikes 5 sätestatud hüvitisest kuni 50 protsenti saav füüsiline isik või isikud.
+(6) 18-aastasel ja vanemal Kaitseliidu liikmel on õigus nimetada käesoleva paragrahvi lõigetes 5–5² sätestatud hüvitisest kuni 50 protsenti saav füüsiline isik või isikud.
 
 (7) Kaitseliidu liikme poolt hüvitise saamiseks õigustatud isikute nimetamise korra kehtestab
 
