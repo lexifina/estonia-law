@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung esmaspäev, 4.07.2022 kell 11.00",
+  "sitting_time": "2022-07-04T11:00:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0fa116b9-f2fe-4cbf-9353-bbafe72527f2"
+    },
+    {
+      "order": 2,
+      "title": "Tallinna Haigla ja meditsiinikopterite projektide rahastamise lõpetamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7cd7f49f-fbde-4c3c-9a0f-17957a412312"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e64660d6-5f42-479e-b166-b910dda74f1b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "SOTK protokoll 04.07.2022",
+      "uuid": "21b77d59-b78a-4bf7-93b2-2b2accc70e83",
+      "files": [
+        "SOTK_protokoll_04.07.2022.asice",
+        "Riigikontroll.pdf",
+        "SOTK_04.07.2022.pdf"
+      ]
+    }
+  ],
+  "uuid": "cc606174-f022-44a1-844b-672f9f3f25d1",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid cc606174-f022-44a1-844b-672f9f3f25d1)",
+  "source": "https://api.riigikogu.ee/api/volumes/cc606174-f022-44a1-844b-672f9f3f25d1",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-07-01&endDate=2022-07-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
