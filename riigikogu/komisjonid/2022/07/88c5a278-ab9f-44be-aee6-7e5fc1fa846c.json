@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni erakorraline istung kolmapäev, 6.07.2022 kell 11.00",
+  "sitting_time": "2022-07-06T11:00:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade valmisoleku seaduse eelnõu ettevalmistamisest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7cb8a248-a961-45d3-8a83-99532db3eb4a"
+    },
+    {
+      "order": 2,
+      "title": "Kaitseväeteenistuse seaduse ja teiste seaduste muutmise seaduse eelnõu (623 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9d8b1267-f309-4752-a5e9-8ec0919d627c"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "96e22bdf-8e51-472e-b683-d7b07956ef29"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RIKK 06.07.2022 protokoll",
+      "uuid": "cb39588c-e040-4fe4-9d38-6a7e7092a7ee",
+      "files": [
+        "RIKK_06.07.2022_protokoll.asice",
+        "Protokoll_nr_202_06.07.2022.pdf"
+      ]
+    }
+  ],
+  "uuid": "88c5a278-ab9f-44be-aee6-7e5fc1fa846c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 88c5a278-ab9f-44be-aee6-7e5fc1fa846c)",
+  "source": "https://api.riigikogu.ee/api/volumes/88c5a278-ab9f-44be-aee6-7e5fc1fa846c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-07-01&endDate=2022-07-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
