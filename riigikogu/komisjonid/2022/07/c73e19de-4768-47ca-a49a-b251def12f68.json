@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung reede, 22.07.2022 kell 10.00",
+  "sitting_time": "2022-07-22T10:00:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "978c81c5-65a0-4579-b996-9943dd38e057"
+    },
+    {
+      "order": 2,
+      "title": "Esimehe/aseesimehe tagasiastumine seoses parlamentaarse tavaga - uus koalitsioon valib komisjonides uued esimehed ja aseesimehed",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "388b1369-7495-4100-9cca-adca34915bb3"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ÕIGK protokoll 22.07.2022",
+      "uuid": "4d516fb0-caab-423b-9b99-17b1125a3d38",
+      "files": [
+        "Õigus_asendus_22.07.22_REF.asice",
+        "ÕIGK_protokoll_22.07.2022.asice",
+        "Riigikogu_õiguskomisjoni_erakorralise_istungi_protokoll_nr_154.pdf"
+      ]
+    }
+  ],
+  "uuid": "c73e19de-4768-47ca-a49a-b251def12f68",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c73e19de-4768-47ca-a49a-b251def12f68)",
+  "source": "https://api.riigikogu.ee/api/volumes/c73e19de-4768-47ca-a49a-b251def12f68",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-07-01&endDate=2022-07-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
