@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung esmaspäev, 25.07.2022 kell 11.18",
+  "sitting_time": "2022-07-25T11:18:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0c972bda-7949-4300-82fc-e2de100fe79c"
+    },
+    {
+      "order": 2,
+      "title": "Sotsiaalkomisjoni esimehe ja aseesimehe erakorraline valimine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a83496ad-c981-44b8-be32-3206f2d76ae1"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fcb3adc2-2220-450e-a9ae-53a1e1853057"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "SOTK protokoll 25.07.2022",
+      "uuid": "74e91549-ef29-416b-8c0b-d5a73dacf3cd",
+      "files": [
+        "SOTK_protokoll_25.07.2022.asice",
+        "SOTK_protokoll_nr_231_(25.07.2022).pdf"
+      ]
+    }
+  ],
+  "uuid": "93820310-6a47-4b88-8281-013cc6e67435",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 93820310-6a47-4b88-8281-013cc6e67435)",
+  "source": "https://api.riigikogu.ee/api/volumes/93820310-6a47-4b88-8281-013cc6e67435",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-07-01&endDate=2022-07-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
