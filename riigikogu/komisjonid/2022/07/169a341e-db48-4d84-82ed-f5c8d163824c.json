@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung esmaspäev, 25.07.2022 kell 13.00",
+  "sitting_time": "2022-07-25T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Euroopa Liidu asjade komisjoni esimehe ja aseesimehe erakorralised valimised",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e8eac674-60fb-4d58-9da1-6d63768e9822"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cdbc6732-1380-48a5-9e04-ac2794144d3c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ELAK protokoll 25.07",
+      "uuid": "8ea7c06e-33f6-4aa5-b308-7454dbf35a4e",
+      "files": [
+        "ELAK_protokoll_25.07.2022.pdf",
+        "ELAK_protokoll_25.07.asice"
+      ]
+    }
+  ],
+  "uuid": "169a341e-db48-4d84-82ed-f5c8d163824c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 169a341e-db48-4d84-82ed-f5c8d163824c)",
+  "source": "https://api.riigikogu.ee/api/volumes/169a341e-db48-4d84-82ed-f5c8d163824c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-07-01&endDate=2022-07-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
