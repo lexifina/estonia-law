@@ -1,0 +1,42 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni erakorraline istung esmaspäev, 25.07.2022 kell 11.40",
+  "sitting_time": "2022-07-25T11:40:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Erakorralise istungi töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "841d76db-b95a-42f1-ad81-f9a98ae75c00"
+    },
+    {
+      "order": 2,
+      "title": "Komisjoni esimehe ja aseesimehe erakorraline valimine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "83b8853f-3a0f-4351-b719-88cbb8abde09"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "PÕSK protokoll 25.07.2022",
+      "uuid": "8c7cfcf4-3311-4fbc-b21c-50f5db7a6aaa",
+      "files": [
+        "Volikiri_M.Võrklaev_asendusliige_25.07.2022.asice",
+        "PSK_asendus_25.07.22.docx",
+        "PÕSK_protokoll_25.07.2022.asice",
+        "PÕSK.protokoll.25.07.2022_(2).pdf"
+      ]
+    }
+  ],
+  "uuid": "a96bb427-0404-433e-935d-00e37adc5590",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a96bb427-0404-433e-935d-00e37adc5590)",
+  "source": "https://api.riigikogu.ee/api/volumes/a96bb427-0404-433e-935d-00e37adc5590",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-07-01&endDate=2022-07-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
