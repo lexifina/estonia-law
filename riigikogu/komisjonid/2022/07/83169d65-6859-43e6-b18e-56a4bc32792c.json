@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Korruptsioonivastane erikomisjon",
+  "committee_uuid": "e4f2977a-e8c3-4fa0-8f3d-9df9acd6377f",
+  "title": "Komisjoni erakorraline istung esmaspäev, 25.07.2022 kell 13.00",
+  "sitting_time": "2022-07-25T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Komisjoni esimehe ja aseesimehe erakorralised valimised",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "53bdc75d-37bb-4f3c-91ec-2c68a6bc802e"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5fca00ec-8b94-4016-9355-60d0e8aaa305"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KVEK protokoll 25.07.2022 nr 101",
+      "uuid": "16bbd248-d5c4-4385-9f43-d69ee9be13db",
+      "files": [
+        "082005.PDF",
+        "KVEK_protokoll_25.07.2022_nr_101.asice"
+      ]
+    }
+  ],
+  "uuid": "83169d65-6859-43e6-b18e-56a4bc32792c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 83169d65-6859-43e6-b18e-56a4bc32792c)",
+  "source": "https://api.riigikogu.ee/api/volumes/83169d65-6859-43e6-b18e-56a4bc32792c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-07-01&endDate=2022-07-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
