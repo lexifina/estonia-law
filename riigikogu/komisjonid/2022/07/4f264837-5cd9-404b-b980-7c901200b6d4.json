@@ -1,0 +1,48 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni erakorraline istung esmaspäev, 25.07.2022",
+  "sitting_time": "2022-07-25T11:10:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Erakorralise istungi päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c22fbb1e-140a-4779-bd07-9890e61bb040"
+    },
+    {
+      "order": 2,
+      "title": "Maaelukomisjoni esimehe ja aseesimehe erakorraline valimine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1864c48c-8ccc-4a85-9c00-f703c71814ad"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "78023642-2724-4b66-b8db-26e50c4269b5"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 25.07.2022",
+      "uuid": "64b11648-7a8b-4cc7-a8b3-fcbdcb014a6b",
+      "files": [
+        "Maaelukom._asendus_25.07.22.docx",
+        "Asendusliikmed_25.07.22.asice",
+        "MAEK_protokoll_25.07.2022.asice",
+        "156_protokoll_25.07.2022.pdf"
+      ]
+    }
+  ],
+  "uuid": "4f264837-5cd9-404b-b980-7c901200b6d4",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 4f264837-5cd9-404b-b980-7c901200b6d4)",
+  "source": "https://api.riigikogu.ee/api/volumes/4f264837-5cd9-404b-b980-7c901200b6d4",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-07-01&endDate=2022-07-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
