@@ -1,0 +1,42 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni erakorraline istung esmaspäev, 25.07.2022 kell 10.30",
+  "sitting_time": "2022-07-25T10:30:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Komisjoni esimehe ja aseesimehe valimine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ad056c90-c591-4a00-a8c1-7d238faa4466"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7d4b26c3-d614-4612-89f4-75558cf75f6b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 25.07.2022 nr 268",
+      "uuid": "f8c1da81-b968-4e95-8f7c-b4b7644385b0",
+      "files": [
+        "VÄLK_protokoll_25.07.2022_nr_268.asice",
+        "Väliskom._asendus_25.07.22.docx",
+        "Väliskom._asendus_25.07.22.asice",
+        "VÄLK_protokoll_25.07.2022.pdf"
+      ]
+    }
+  ],
+  "uuid": "985518a1-36e5-4236-9a44-a7c66f38843d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 985518a1-36e5-4236-9a44-a7c66f38843d)",
+  "source": "https://api.riigikogu.ee/api/volumes/985518a1-36e5-4236-9a44-a7c66f38843d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-07-01&endDate=2022-07-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
