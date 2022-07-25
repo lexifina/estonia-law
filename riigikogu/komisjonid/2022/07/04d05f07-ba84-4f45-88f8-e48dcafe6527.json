@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni erakorraline istung esmaspäev, 25.07.2022",
+  "sitting_time": "2022-07-25T12:00:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Majanduskomisjoni esimehe ja aseesimehe erakorraline valimine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4e09388a-ace6-4e63-9f32-f1ea118f0980"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cd96eafd-692b-4d5c-a859-76ac32ad6fff"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAJK protokoll nr 187 25.07.2022",
+      "uuid": "75275880-3d7c-4495-b8a9-8b64ecc39bfa",
+      "files": [
+        "MAJK_protokoll_nr_187_25.07.2022.asice",
+        "MAJK_protokoll_nr_187_25.07.2022.pdf"
+      ]
+    }
+  ],
+  "uuid": "04d05f07-ba84-4f45-88f8-e48dcafe6527",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 04d05f07-ba84-4f45-88f8-e48dcafe6527)",
+  "source": "https://api.riigikogu.ee/api/volumes/04d05f07-ba84-4f45-88f8-e48dcafe6527",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-07-01&endDate=2022-07-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
