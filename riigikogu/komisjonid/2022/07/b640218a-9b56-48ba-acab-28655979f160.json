@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 25.07.2022 kell 12.00",
+  "sitting_time": "2022-07-25T12:00:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigieelarve kontrolli erikomisjoni esimehe ja aseesimehe erakorraline valimine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6628dd9f-f222-4019-9206-07b5bbd574a7"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a20c61fe-1c19-4dc5-8221-0b53368d9941"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll nr 130 25.07.22",
+      "uuid": "1e86782f-7204-46ae-95dc-4e683934f027",
+      "files": [
+        "Protokoll_nr_130_25.07.2022.pdf",
+        "Volitus_25.07.22.pdf",
+        "REKK_protokoll_nr_130_25.07.22.asice"
+      ]
+    }
+  ],
+  "uuid": "b640218a-9b56-48ba-acab-28655979f160",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b640218a-9b56-48ba-acab-28655979f160)",
+  "source": "https://api.riigikogu.ee/api/volumes/b640218a-9b56-48ba-acab-28655979f160",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-07-01&endDate=2022-07-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
