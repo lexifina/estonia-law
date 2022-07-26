@@ -1,0 +1,43 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni erakorraline istung teisipäev, 26.07.2022 kell 14.00",
+  "sitting_time": "2022-07-26T14:00:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikaitsekomisjoni esimehe ja aseesimehe erakorraline valimine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1cc901e0-0b78-47a0-abf5-63eb66537011"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3159695a-d6c2-4f7b-9929-967d6c65f500"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RIKK 26.07.2022 protokoll",
+      "uuid": "f27eb1c1-650c-4add-b2a1-519f8ba05881",
+      "files": [
+        "Protokoll_nr_203__26.07.2022.pdf",
+        "RIKK_26.07.2022_protokoll.asice",
+        "Asendusliige_26.07.22.pdf",
+        "Riigikaitsekomisjon_asendus_26.07.22.asice",
+        "Riigikaitsekomisjon_asendus_26.07.22.docx"
+      ]
+    }
+  ],
+  "uuid": "c45774c6-fee6-4aef-939a-452868b59f07",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c45774c6-fee6-4aef-939a-452868b59f07)",
+  "source": "https://api.riigikogu.ee/api/volumes/c45774c6-fee6-4aef-939a-452868b59f07",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-07-01&endDate=2022-07-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
