@@ -1,0 +1,36 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 1.08.2022 kell 11.00",
+  "sitting_time": "2022-08-01T11:00:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti taaste- ja vastupidavuskava",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0fd6344b-2495-4682-a31d-f9ac34d9824d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 01.08.22",
+      "uuid": "435c2c22-7440-4d5f-987f-afa7ed738154",
+      "files": [
+        "asendus_01.08.22_REKK.docx",
+        "asendus_01.08.22_REKK.asice",
+        "REKK_protokoll_01.08.22.asice",
+        "Protokoll_nr_131_01.08.22.pdf"
+      ]
+    }
+  ],
+  "uuid": "86da582e-5f88-4e22-96cf-aa4e322f8cde",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 86da582e-5f88-4e22-96cf-aa4e322f8cde)",
+  "source": "https://api.riigikogu.ee/api/volumes/86da582e-5f88-4e22-96cf-aa4e322f8cde",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-08-01&endDate=2022-08-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
