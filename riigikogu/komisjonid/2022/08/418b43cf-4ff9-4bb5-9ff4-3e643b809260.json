@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung reede, 5.08.2022 kell 11.00",
+  "sitting_time": "2022-08-05T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "554562e2-e1bb-43f4-af46-a1936c6fe579"
+    },
+    {
+      "order": 2,
+      "title": "Euroopa Liidu asjade komisjoni esimehe välislähetuse kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2d2b8fa5-8685-4817-ae31-4d55b16d4e2d"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1f310354-daab-4e22-8d09-70289e20ee2a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ELAK protokoll 5.08",
+      "uuid": "4f427316-1d80-4cfc-9221-c3185d645a65",
+      "files": [
+        "ELAK_protokoll_5.08.2022.pdf",
+        "ELAK_protokoll_5.08.asice"
+      ]
+    }
+  ],
+  "uuid": "418b43cf-4ff9-4bb5-9ff4-3e643b809260",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 418b43cf-4ff9-4bb5-9ff4-3e643b809260)",
+  "source": "https://api.riigikogu.ee/api/volumes/418b43cf-4ff9-4bb5-9ff4-3e643b809260",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-08-01&endDate=2022-08-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
