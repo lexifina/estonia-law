@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung esmaspäev, 15.08.2022 kell 10.00",
+  "sitting_time": "2022-08-15T10:00:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7037868f-5046-4d17-9204-06c3b0c3361a"
+    },
+    {
+      "order": 2,
+      "title": "Arutelu jõereostusest Põltsamaa vallas Umbusi jõel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ae501743-ba1f-47a1-b645-8402128f6b33"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "00aec28d-0407-4b26-92b8-6d63d0643de7"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK protokoll 15.08.2022",
+      "uuid": "5d4b4f4c-c8a8-4e22-ba62-7ff916a63e7f",
+      "files": [
+        "KEKK_protokoll_15.08.2022.pdf",
+        "KEKK_protokoll_15.08.2022.asice"
+      ]
+    }
+  ],
+  "uuid": "73f3d9ce-6559-40ba-94c0-6952eaf90072",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 73f3d9ce-6559-40ba-94c0-6952eaf90072)",
+  "source": "https://api.riigikogu.ee/api/volumes/73f3d9ce-6559-40ba-94c0-6952eaf90072",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-08-01&endDate=2022-08-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
