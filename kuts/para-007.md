@@ -1,6 +1,6 @@
 # § 7. Teenuse osutaja süsteemi turvameetmed
 
-(1) Teenuse osutaja peab rakendama alaliselt organisatsioonilisi, füüsilisi ja infotehnilisi turvameetmeid:
+(1) Teenuse osutaja peab rakendama alaliselt turvameetmeid:
 
 1) küberintsidendi ennetamiseks;
 
@@ -16,14 +16,14 @@
 
 3) tagama süsteemi turvalisust ohustava tegevuse või tarkvara tuvastamiseks süsteemi seire ja edastama teavet süsteemi turvalisust ohustava tegevuse või tarkvara kohta Riigi Infosüsteemi Ametile;
 
-4) võtma kasutusele abinõud küberintsidendi mõju ja leviku vähendamiseks, sealhulgas vajaduse korral piirama süsteemi kasutamist või juurdepääsu süsteemile;
-
-5) kontrollima turvameetmete rakendamise piisavust ja vastavust ning dokumenteerima kontrolli tulemused;
-
-6) säilitama käesoleva lõike punktis 5 sätestatud dokumente vähemalt kolm aastat dokumendi loomisest arvates.
+4) võtma kasutusele abinõud küberintsidendi mõju ja leviku vähendamiseks, sealhulgas vajaduse korral piirama süsteemi kasutamist või juurdepääsu süsteemile.
 
 (3) Kui teenuse osutaja volitab süsteemi haldamise teisele isikule või majutab süsteemi teise isiku juures, vastutab teenuse osutaja selle eest, et teine isik tagab süsteemi turvameetmete rakendamise.
 
-(4) Teenuse osutamiseks kasutatava süsteemi turvameetmete kirjelduse ning riskianalüüsi koostamise nõuded kehtestab
+(5) kehtestab määrusega käesolevas paragrahvis sätestatud kohustuste täitmise ja süsteemide küberturvalisuse tagamiseks:
 
-määrusega.
+1) infoturbe halduse nõuded üldnimetusega Eesti infoturbestandard;
+
+2) turvameetmete üldnõuded;
+
+3) .

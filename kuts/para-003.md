@@ -8,7 +8,7 @@
 
 3) lennundusseaduses sätestatud lennuvälja käitaja, kelle käitatav lennuväli on avatud rahvusvaheliseks regulaarseks lennuliikluseks, samuti Tallinna lennuinfopiirkonnas lennuliikluse teenindamist tagav aeronavigatsiooniteenuse osutaja lennuvälja toimimise ja aeronavigatsiooni toimimise teenuse osutamisel;
 
-4) sadamateenuse osutaja, kellele kuulub sadamaseaduses sätestatud sadam, mis teenindab rahvusvahelises meresõidus sõitvaid reisilaevu või 500-se ja enama kogumahutavusega laevu, ning sadam, mis teenindab meresõiduohutuse seaduse kohaselt määratletud kohalikus rannasõidus sõitvaid I kategooria laevu või A-klassi reisilaevu sadama toimimise teenuse osutamisel;
+4) sadamateenuse osutaja, kes on sadamaseaduse tähenduses sellise sadama pidaja või sellise sadamarajatise valdaja, mis teenindab 500-se ja enama kogumahutavusega laevu või rahvusvahelises meresõidus sõitvaid reisilaevu sadama toimimise teenuse osutamisel;
 
 5) elektroonilise side seaduses sätestatud sideettevõtja, kes osutab kaabelleviteenust, mida tarbib vähemalt 10 000 lõppkasutajat, ja ringhäälinguvõrgu teenuse osutaja kaabelleviteenuse või ringhäälinguvõrgu teenuse osutamisel;
 
@@ -26,4 +26,32 @@
 
 (3) Riigi Infosüsteemi Amet tuvastab iga kahe aasta tagant käesoleva seaduse kohaldamisalas olevad teenuse osutajad, kes tegutsevad Euroopa Parlamendi ja nõukogu direktiivi (EL) 2016/1148 II lisas esitatud sektorites.
 
-(4) Käesolevas seaduses teenuse osutaja kohta sätestatut kohaldatakse ka riigi ja kohaliku omavalitsuse üksusele käesoleva seaduse §-s 9 sätestatud erisusega.
+(4) Käesolevas seaduses teenuse osutaja kohta sätestatut kohaldatakse ka:
+
+1) andmekogu vastutavale töötlejale ja volitatud töötlejale;
+
+2) Arenguseire Keskusele;
+
+3) Eesti Pangale;
+
+4) kohaliku omavalitsuse üksusele ja kohaliku omavalitsuse üksuste liidule;
+
+5) kohtuasutusele;
+
+6) riigi valimisteenistusele;
+
+7) Riigikogu Kantseleile;
+
+8) Riigikontrollile;
+
+9) Riigimetsa Majandamise Keskusele;
+
+10) seaduse alusel asutatud avalik-õiguslikule juriidilisele isikule;
+
+11) Vabariigi Presidendi Kantseleile;
+
+12) valitsusasutusele ja valitsusasutuse hallatavale riigiasutusele;
+
+13) valla või linna ametiasutusele, valla või linna ametiasutuse hallatavale asutusele, osavallale, linnaosale, osavalla või linnaosa ametiasutusele, osavalla või linnaosa ametiasutuse hallatavale asutusele ning kohaliku omavalitsuse üksuste ühisametile ja -asutusele;
+
+14) Õiguskantsleri Kantseleile.

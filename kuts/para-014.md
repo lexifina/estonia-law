@@ -10,4 +10,6 @@
 
 3) kolmanda riigi digitaalse teenuse osutaja, kellel on Eestis esindaja.
 
-(3) Käesoleva seaduse § 9 lõike 3 alusel kehtestatud määruses sätestatud süsteemide nõuete täitmise üle teevad haldusjärelevalvet Kaitseministeerium ja Kaitsevägi.
+(4) Tarbijakaitse ja Tehnilise Järelevalve Amet teeb riiklikku ja haldusjärelevalvet Euroopa Parlamendi ja nõukogu määruse (EL) 2019/881 artikli 58 lõikes 7 sätestatud ulatuses.
+
+(5) Käesolevas seaduses ja selle alusel kehtestatud õigusaktides julgeolekuasutuse süsteemidele sätestatud nõuete täitmise üle teeb haldusjärelevalvet asjakohane julgeolekuasutus.

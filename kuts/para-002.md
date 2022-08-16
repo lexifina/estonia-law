@@ -6,6 +6,8 @@ Käesolevas seaduses kasutatakse termineid järgmises tähenduses:
 
 2) süsteemi turvalisus – süsteemi võime osutada vastupanu mis tahes tegevusele, mis ohustab süsteemis töödeldavate andmete või süsteemi kaudu osutatavate või juurdepääsetavate teenuste käideldavust, autentsust, terviklust ja konfidentsiaalsust;
 
+2¹) turvameetmed – rakendatavad organisatsioonilised, füüsilised ja infotehnilised toimingud või vahendid andmete ja süsteemide turvalisuse saavutamiseks ning säilitamiseks;
+
 3) küberintsident – süsteemis toimuv sündmus, mis ohustab või kahjustab süsteemi turvalisust;
 
 4) digitaalse teenuse osutaja esindaja (edaspidi *esindaja*) – Euroopa Liidus asuv füüsiline või juriidiline isik, kes on määratud tegutsema väljaspool Euroopa Liitu asuva digitaalse teenuse osutaja nimel ja kelle poole võib liikmesriigi pädev asutus või küberturbe intsidentide lahendamise üksus pöörduda digitaalse teenuse osutaja asemel seoses digitaalse teenuse osutaja kohustusega, mis tuleneb käesolevast seadusest;

@@ -10,6 +10,8 @@
 
 4) küberintsidendist lähtuva kõrgendatud ohu tõrjumisega või korrarikkumise kõrvaldamisega ei tekitata isikule ebaproportsionaalset kahju.
 
+(1¹) Tarbijakaitse ja Tehnilise Järelevalve Amet võib riikliku järelevalve tegemiseks rakendada Euroopa Parlamendi ja nõukogu määruse (EL) 2019/881 artikli 58 lõikes 8 sätestatud meetmeid.
+
 (2) Käesolevas paragrahvis sätestatud meetme kohaldamisest tuleb adressaati ja käesoleva seaduse § 3 lõike 1 punktis 1 sätestatud teenuse osutaja puhul ka elutähtsa teenuse toimepidevust korraldavat asutust esimesel võimalusel teavitada.
 
 (3) Käesolevas paragrahvis sätestatud meetme protokollimine on kohustuslik.

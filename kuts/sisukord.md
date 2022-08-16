@@ -6,6 +6,8 @@
 
 3. peatükk Küberturvalisuse tagamine
 
+3¹. peatükk Küberturvalisuse sertifitseerimine
+
 4. peatükk Riiklik ja haldusjärelevalve
 
 5. peatükk Vastutus

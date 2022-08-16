@@ -6,6 +6,8 @@
 
 2) mille oluline mõju süsteemi turvalisusele või teenuse toimepidevusele ei ole ilmne, kuid seda võib mõistlikult eeldada.
 
+(1¹) Kui teenuse osutaja volitab süsteemi haldamise teisele isikule või majutab süsteemi teise isiku juures, vastutab teenuse osutaja selle eest, et teine isik teavitab teenuse osutajat hiljemalt 24 tundi pärast käesoleva paragrahvi lõikes 1 nimetatud küberintsidendist teada saamist.
+
 (2) Küberintsidendil on oluline mõju, kui on täidetud vähemalt üks järgmistest tingimustest:
 
 1) küberintsidendi mõju on käesoleva seaduse § 7 lõike 2 punkti 1 alusel koostatud süsteemi riskianalüüsis määratud tagajärgede raskusastme kohaselt vähemalt raske;
