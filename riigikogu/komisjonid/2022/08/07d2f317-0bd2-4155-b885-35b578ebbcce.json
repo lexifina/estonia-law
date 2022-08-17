@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung kolmapäev, 17.08.2022 kell 11.00",
+  "sitting_time": "2022-08-17T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade julgeolekuolukorra arengutest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fcaf54a5-f13b-4fd2-b7f0-84b3a92f81f0"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cd657448-179b-4854-bd80-feef393d1414"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RIKK 17.08.2022 protokoll",
+      "uuid": "0aa97462-d7f4-44bb-aa24-1ac00b8055bf",
+      "files": [
+        "Rikk_17.08.2022_protokoll.asice",
+        "Protokoll_nr_204__17.08.2022.pdf"
+      ]
+    }
+  ],
+  "uuid": "07d2f317-0bd2-4155-b885-35b578ebbcce",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 07d2f317-0bd2-4155-b885-35b578ebbcce)",
+  "source": "https://api.riigikogu.ee/api/volumes/07d2f317-0bd2-4155-b885-35b578ebbcce",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-08-01&endDate=2022-08-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
