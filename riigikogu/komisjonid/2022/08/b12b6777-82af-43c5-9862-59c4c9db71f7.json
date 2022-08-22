@@ -1,0 +1,36 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 22.08.2022 kell 12.00",
+  "sitting_time": "2022-08-22T12:00:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eestikeelne haridus ja kõrghariduse rahastamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b3e361ae-b848-4881-8103-4dcf8c4f2820"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 22.08.22",
+      "uuid": "b5e00080-1b7e-429e-ab45-953f4ee686d0",
+      "files": [
+        "REKK_asendus_22.08.22.docx",
+        "REKK_asendus_22.08.22.asice",
+        "REKK_protokoll_22.08.22.asice",
+        "Protokoll_nr_134_22.08.22.pdf"
+      ]
+    }
+  ],
+  "uuid": "b12b6777-82af-43c5-9862-59c4c9db71f7",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b12b6777-82af-43c5-9862-59c4c9db71f7)",
+  "source": "https://api.riigikogu.ee/api/volumes/b12b6777-82af-43c5-9862-59c4c9db71f7",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-08-01&endDate=2022-08-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
