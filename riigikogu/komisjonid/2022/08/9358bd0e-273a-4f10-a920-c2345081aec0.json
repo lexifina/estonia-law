@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung reede, 26.08.2022 kell 10.30",
+  "sitting_time": "2022-08-26T10:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 29. augustil 2022 Prahas toimuval Euroopa Liidu kaitseministrite mitteametlikul kohtumisel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7e6cf884-8a38-4342-b8ae-2e2301c93704"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "81e67aad-7fc8-4a77-9f73-2715698469e4"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 26.08.2022 nr 270",
+      "uuid": "adde3f60-cdf1-411b-a3a6-d7c98ec4368c",
+      "files": [
+        "VÄLK_protokoll_26.08.2022.asice",
+        "VÄLK_protokoll_26.08.2022.pdf"
+      ]
+    }
+  ],
+  "uuid": "9358bd0e-273a-4f10-a920-c2345081aec0",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9358bd0e-273a-4f10-a920-c2345081aec0)",
+  "source": "https://api.riigikogu.ee/api/volumes/9358bd0e-273a-4f10-a920-c2345081aec0",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-08-01&endDate=2022-08-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
