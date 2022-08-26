@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni erakorraline istung reede, 26.08.2022 kell 13.00",
+  "sitting_time": "2022-08-26T13:00:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0b3862ad-7714-4ce2-8da7-f81fea995032"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud elektrituruseaduse ja konkurentsiseaduse muutmise seaduse eelnõu (655 SE) ettevalmistamine esimeseks lugemiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "90529c37-4fcb-4854-98bd-c5d65fb1038e"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "786b90ac-e369-4026-a3e6-b4f034131969"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAJK protokoll nr 188 26.08.2022",
+      "uuid": "7020e74c-0efc-45fc-bc44-29bb1246693d",
+      "files": [
+        "MAJK_protokoll_nr_188_26.08.2022.asice",
+        "elektriturureform_MAJK.pdf",
+        "MAJK_protokoll_nr_188_26.08.2022.pdf"
+      ]
+    }
+  ],
+  "uuid": "faf51e4d-bf17-4ecc-a4c3-1b307fe5b259",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid faf51e4d-bf17-4ecc-a4c3-1b307fe5b259)",
+  "source": "https://api.riigikogu.ee/api/volumes/faf51e4d-bf17-4ecc-a4c3-1b307fe5b259",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-08-01&endDate=2022-08-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
