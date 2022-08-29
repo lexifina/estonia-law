@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni erakorraline istung esmaspäev, 29.08.2022 kell 13.00",
+  "sitting_time": "2022-08-29T13:00:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "44d0f6cc-95c7-46fa-a591-ea45f57805ca"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud energiamajanduse korralduse seaduse muutmise seaduse eelnõu (656 SE) ettevalmistamine esimeseks lugemiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0c335577-6784-4e09-93bf-eaf22d3a816f"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1e994979-208b-40b8-b11f-3870269bce57"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAJK protokoll nr 189 29.08.2022",
+      "uuid": "4a7abeaf-6e9c-4470-aa47-19267091cd71",
+      "files": [
+        "MAJK_protokoll_nr_189_29.08.2022.asice",
+        "MAJK_protokoll_nr_189_29.08.2022.pdf"
+      ]
+    }
+  ],
+  "uuid": "d24f8e3e-c98d-4415-9739-f4a09eaac007",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d24f8e3e-c98d-4415-9739-f4a09eaac007)",
+  "source": "https://api.riigikogu.ee/api/volumes/d24f8e3e-c98d-4415-9739-f4a09eaac007",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-08-01&endDate=2022-08-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
