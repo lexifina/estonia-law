@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung esmaspäev, 29.08.2022 kell 14.00",
+  "sitting_time": "2022-08-29T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 30.-31. augustil 2022 Prahas toimuval Euroopa Liidu välisministrite mitteametlikul kohtumisel (Gymnich)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0cbb500d-4e80-4c32-aeff-c536cdeb0ae1"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e521bfc2-75fe-4eee-b442-e46b56cdf964"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 29.08.2022 nr 271",
+      "uuid": "dff695b9-bd50-4194-8ff8-ce95363efd63",
+      "files": [
+        "Protokoll_29.08.2022_nr_271.asice",
+        "VÄLK_protokoll_29.08.2022.pdf"
+      ]
+    }
+  ],
+  "uuid": "c9f67974-ae8a-4c1d-9a19-01d45239c256",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c9f67974-ae8a-4c1d-9a19-01d45239c256)",
+  "source": "https://api.riigikogu.ee/api/volumes/c9f67974-ae8a-4c1d-9a19-01d45239c256",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-08-01&endDate=2022-08-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
