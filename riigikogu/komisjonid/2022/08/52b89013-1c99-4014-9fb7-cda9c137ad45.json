@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung esmaspäev, 29.08.2022 kell 10.00",
+  "sitting_time": "2022-08-29T10:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8cb27814-21f8-4b01-904d-0ea4d4f35a71"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad 30. augustil 2022 toimuval Euroopa Liidu välisasjade nõukogu mitteametlikul kohtumisel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8e98395a-09fb-48a1-9bc5-afac354af474"
+    },
+    {
+      "order": 3,
+      "title": "Eesti seisukohad 2. septembril 2022 toimuval Euroopa Liidu üldasjade (ühtekuuluvus) nõukogu mitteametlikul kohtumisel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ed4c4454-f2f8-45c4-8807-2f4682aaa864"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e9daff19-9f3b-48b9-b5e1-524f9c342aea"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ELAK protokoll 29.08",
+      "uuid": "e7bae349-e1b0-4f83-afc5-f91a9c80337b",
+      "files": [
+        "ELAK_protokoll_29.08.asice",
+        "ELAK_protokoll_29.08.2022.pdf"
+      ]
+    }
+  ],
+  "uuid": "52b89013-1c99-4014-9fb7-cda9c137ad45",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 52b89013-1c99-4014-9fb7-cda9c137ad45)",
+  "source": "https://api.riigikogu.ee/api/volumes/52b89013-1c99-4014-9fb7-cda9c137ad45",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-08-01&endDate=2022-08-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
