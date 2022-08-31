@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni erakorraline istung kolmapäeval, 31.08.2022 kell 15.00",
+  "sitting_time": "2022-08-31T15:00:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade aktuaalsetest arengutest Kaitseministeeriumi valitsemisalas",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fd3ac1bd-d6e5-4ae5-8c3d-aa8c9aa84dd6"
+    },
+    {
+      "order": 2,
+      "title": "Eesti vastu suunatud küberrünnakud",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a6da7cd6-6612-4ec8-bace-854f6b6cc2fb"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RIKK 31.08.2022 protokoll",
+      "uuid": "0925fb04-5e60-4240-9ba5-6733eee28c54",
+      "files": [
+        "RIKK_31.08.2022_protokoll.asice",
+        "Protokoll_nr_205__31.08.2022.pdf"
+      ]
+    }
+  ],
+  "uuid": "878aa783-23f2-4d38-a7b5-99384c1473f5",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 878aa783-23f2-4d38-a7b5-99384c1473f5)",
+  "source": "https://api.riigikogu.ee/api/volumes/878aa783-23f2-4d38-a7b5-99384c1473f5",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-08-01&endDate=2022-08-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
