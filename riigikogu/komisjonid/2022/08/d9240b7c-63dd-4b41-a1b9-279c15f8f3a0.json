@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni erakorraline istung kolmapäev, 31.08.2022 kell 13.00",
+  "sitting_time": "2022-08-31T13:00:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "abd4777d-364d-4620-b9c2-ab0799506071"
+    },
+    {
+      "order": 2,
+      "title": "Kohaliku omavalitsuse korralduse seaduse muutmise seaduse eelnõu (587 SE) ettevalmistamine esimeseks lugemiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e9ea4046-b76e-4447-a770-bc1a126ea666"
+    },
+    {
+      "order": 3,
+      "title": "Kohaliku omavalitsuse volikogu valimise seaduse muutmise seaduse eelnõu (594 SE ) esimeseks lugemiseks ettevalmistamise jätkamine (õiguskantsleri arvamuse arutelu)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e1c8d083-3e35-4d43-9c47-9d596bdbc107"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "80038139-df2e-4a48-8287-745e07eeec23"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "PÕSK protokoll 31.08.2022",
+      "uuid": "8ee942a3-7cb1-4c74-8cf6-c81e6298aeb6",
+      "files": [
+        "PÕSK_protokoll_31.08.2022.asice",
+        "PÕSK.protokoll.31.08.2022.pdf"
+      ]
+    }
+  ],
+  "uuid": "d9240b7c-63dd-4b41-a1b9-279c15f8f3a0",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d9240b7c-63dd-4b41-a1b9-279c15f8f3a0)",
+  "source": "https://api.riigikogu.ee/api/volumes/d9240b7c-63dd-4b41-a1b9-279c15f8f3a0",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-08-01&endDate=2022-08-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
