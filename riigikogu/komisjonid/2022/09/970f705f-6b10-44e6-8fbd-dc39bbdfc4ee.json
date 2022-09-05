@@ -1,0 +1,34 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 5.09.2022 kell 11.00",
+  "sitting_time": "2022-09-05T11:00:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Peretoetuste tõus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b4576171-3c9d-465b-b8d9-202ea53bfcc5"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 05.09.22",
+      "uuid": "09137299-5675-4de2-ac41-9d55bddef2be",
+      "files": [
+        "REKK_protokoll_05.09.22.asice",
+        "Protokoll_nr_136_05.09.22.pdf"
+      ]
+    }
+  ],
+  "uuid": "970f705f-6b10-44e6-8fbd-dc39bbdfc4ee",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 970f705f-6b10-44e6-8fbd-dc39bbdfc4ee)",
+  "source": "https://api.riigikogu.ee/api/volumes/970f705f-6b10-44e6-8fbd-dc39bbdfc4ee",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-09-01&endDate=2022-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
