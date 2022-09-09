@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung reede, 9.09.2022 kell 10.00",
+  "sitting_time": "2022-09-09T10:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a2990d49-2eeb-4d86-9063-d516d2b2cd5f"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad 9. septembril 2022 toimuval Euroopa Liidu energeetikaministrite erakorralisel nõukogul",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "167ac35e-4929-4005-aa38-6cf97e8f7e67"
+    },
+    {
+      "order": 3,
+      "title": "Eesti seisukohad 9.-10. septembril 2022 toimuval Euroopa Liidu majandus- ja rahandusnõukogu mitteametlikul kohtumisel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c7995585-7ce1-470a-a983-5b949b826e85"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1ba89f27-7d3f-42fa-9ecd-840aa474624c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ELAK protokoll 9.09",
+      "uuid": "806cd944-918b-4c55-90b4-d7fa022f9981",
+      "files": [
+        "ELAK_protokoll_09.09.2022.pdf",
+        "ELAK_protokoll_9.09.asice"
+      ]
+    }
+  ],
+  "uuid": "d205f8df-fa12-4a1a-a7c0-af61ae922b68",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d205f8df-fa12-4a1a-a7c0-af61ae922b68)",
+  "source": "https://api.riigikogu.ee/api/volumes/d205f8df-fa12-4a1a-a7c0-af61ae922b68",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-09-01&endDate=2022-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
