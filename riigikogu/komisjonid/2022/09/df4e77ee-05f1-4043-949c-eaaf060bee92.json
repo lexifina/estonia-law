@@ -1,0 +1,53 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 19.09.2022 kell 13.15",
+  "sitting_time": "2022-09-19T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8ab7a5a6-44bb-45c5-b9fc-cbb78207e2c2"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse esitatud Euroopa Kontrollikoja liikme kandidaadi Keit Pentus-Rosimannuse kuulamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bbea94a4-3b18-4c84-9d75-a8f279d60650"
+    },
+    {
+      "order": 3,
+      "title": "Riigikontrolli ülevaate \"Euroopa Liidu toetuste kasutamise riskid ja õppetunnid\" arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7266ad41-0f88-4a9d-95f9-4d7d4725f18c"
+    },
+    {
+      "order": 4,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0874f6a2-d780-486b-9272-f51ec207ae56"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 19.09.22",
+      "uuid": "0a99b26f-5568-4bf2-829f-07b18d3335c9",
+      "files": [
+        "REKK_protokoll_19.09.22.asice",
+        "REKK_Välistoetuste_ülevaade_19.09.2022_LOPP.pptx",
+        "Protokoll_nr_139_19.09.22.pdf"
+      ]
+    }
+  ],
+  "uuid": "df4e77ee-05f1-4043-949c-eaaf060bee92",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid df4e77ee-05f1-4043-949c-eaaf060bee92)",
+  "source": "https://api.riigikogu.ee/api/volumes/df4e77ee-05f1-4043-949c-eaaf060bee92",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-09-01&endDate=2022-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
