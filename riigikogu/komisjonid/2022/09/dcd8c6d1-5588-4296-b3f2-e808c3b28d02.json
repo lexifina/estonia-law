@@ -1,0 +1,48 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Korruptsioonivastane erikomisjon",
+  "committee_uuid": "e4f2977a-e8c3-4fa0-8f3d-9df9acd6377f",
+  "title": "Komisjoni istung esmaspäev, 19.09.2022 kell 13.30",
+  "sitting_time": "2022-09-19T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "22564f9b-6c85-42da-b137-373405807566"
+    },
+    {
+      "order": 2,
+      "title": "Eesti esindaja kandidaadi Euroopa Kontrollikoja liikme ametikohale nimetamise menetlus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d7c66d24-f7c6-46f4-bb7f-236f763a9bed"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7ff66698-ae57-4f07-b821-96f8232a5e22"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KVEK protokoll 19.09.2022",
+      "uuid": "f818865a-84d9-418c-a80a-ee4616265884",
+      "files": [
+        "KVEK_protokoll_19.09.2022_(1).asice",
+        "oiend1.pdf",
+        "KVEK_protokoll_19.09.2022.asice",
+        "KVEK_protokoll_19.09.2022.pdf"
+      ]
+    }
+  ],
+  "uuid": "dcd8c6d1-5588-4296-b3f2-e808c3b28d02",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid dcd8c6d1-5588-4296-b3f2-e808c3b28d02)",
+  "source": "https://api.riigikogu.ee/api/volumes/dcd8c6d1-5588-4296-b3f2-e808c3b28d02",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-09-01&endDate=2022-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
