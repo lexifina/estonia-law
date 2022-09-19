@@ -1,0 +1,42 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung esmaspäev, 19.09.2022 kell 11.10",
+  "sitting_time": "2022-09-19T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9d6c63eb-da32-433a-b746-38b8b4f9b50b"
+    },
+    {
+      "order": 2,
+      "title": "Metsanduse arengukava hetkeseisu tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cdedf10d-8ccf-42de-9cb0-d8a361a2a31e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK protokoll 19.09.2022",
+      "uuid": "c4497cf9-db3f-43f1-be71-670365c159cf",
+      "files": [
+        "MAK2030_KSH_RKKK_19.sept.22.pdf",
+        "KEKK_protokoll_19.09.2022.asice",
+        "KEKK_protokoll_19.09.2022.pdf",
+        "KSH_Riigikogu_Keskkonnakomisjonile.pdf"
+      ]
+    }
+  ],
+  "uuid": "2a5c09e3-0297-4931-b6ba-fbfc6d9b38b0",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2a5c09e3-0297-4931-b6ba-fbfc6d9b38b0)",
+  "source": "https://api.riigikogu.ee/api/volumes/2a5c09e3-0297-4931-b6ba-fbfc6d9b38b0",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-09-01&endDate=2022-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
