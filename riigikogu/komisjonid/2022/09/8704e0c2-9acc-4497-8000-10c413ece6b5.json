@@ -1,0 +1,48 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung teisipäev, 20.09.2022 kell 14.00",
+  "sitting_time": "2022-09-20T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Atmosfääriõhu kaitse seaduse ja tööstusheite seaduse muutmise seaduse eelnõu ettevalmistamine teiseks lugemiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "04fe2a0c-9468-4813-a89c-32feb06dc683"
+    },
+    {
+      "order": 2,
+      "title": "Jäätmeseaduse, pakendiseaduse ja tubakaseaduse muutmise seaduse eelnõu ettevalmistamine esimeseks lugemiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5aea7475-d0ea-445a-8370-81139abcb647"
+    },
+    {
+      "order": 3,
+      "title": "Ühisveevärgi ja -kanalisatsiooni seaduse eelnõu ettevalmistamine teiseks lugemiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0258d43b-0b6e-4065-aad5-0ee64fe666e3"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK protokoll 20.09.2022",
+      "uuid": "ea35fea7-5889-42af-ba20-61eb861b0d4d",
+      "files": [
+        "KEKK_protokoll_20.09.2022.pdf",
+        "Keskkonnakomisjon_20.09.22.pdf",
+        "Erki_Savisaar_asendus.pdf",
+        "KEKK_protokoll_20.09.2022.asice"
+      ]
+    }
+  ],
+  "uuid": "8704e0c2-9acc-4497-8000-10c413ece6b5",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8704e0c2-9acc-4497-8000-10c413ece6b5)",
+  "source": "https://api.riigikogu.ee/api/volumes/8704e0c2-9acc-4497-8000-10c413ece6b5",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-09-01&endDate=2022-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
