@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 20.09.2022 kell 14.00",
+  "sitting_time": "2022-09-20T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Maaelukomisjoni algatatud kalapüügiseaduse muutmise seaduse eelnõu 136 SE arutelu teise lugemise jätkamise ettevalmistamiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "33b91f48-bfa3-4268-8d05-f0ead7a014e4"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d1b658c5-c09c-4c57-9cdc-10981df32c77"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 20.09.2022",
+      "uuid": "78cb2145-57c3-4f92-ae5e-3231a69ed9d4",
+      "files": [
+        "MAEK_protokoll_20.09.2022.asice",
+        "160_protokoll_20.09.2022.pdf"
+      ]
+    }
+  ],
+  "uuid": "cb0aee16-3d73-4b5f-9601-fb2ab2d39e07",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid cb0aee16-3d73-4b5f-9601-fb2ab2d39e07)",
+  "source": "https://api.riigikogu.ee/api/volumes/cb0aee16-3d73-4b5f-9601-fb2ab2d39e07",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-09-01&endDate=2022-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
