@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung kolmapäev, 21.09.2022 kell 09.00",
+  "sitting_time": "2022-09-21T09:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikontrolli kontrolliaruande „Riigiteede rahastamise jätkusuutlikkus“ tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "99bbbb9a-a7df-48e2-9813-bc4d2f4c2fec"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "db49b6d2-4ad2-4bcb-80a0-539e2710d7cd"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 21.09.22",
+      "uuid": "bcdb6a5a-ac2f-47eb-b11f-2a4de9d0f6ca",
+      "files": [
+        "REKK_protokoll_21.09.22.asice",
+        "Protokoll_nr_140_21.09.22.pdf"
+      ]
+    }
+  ],
+  "uuid": "0a76b111-0b96-4bee-8c27-9b45c0ec82da",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0a76b111-0b96-4bee-8c27-9b45c0ec82da)",
+  "source": "https://api.riigikogu.ee/api/volumes/0a76b111-0b96-4bee-8c27-9b45c0ec82da",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-09-01&endDate=2022-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
