@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 26.09.2022 kell 13.15",
+  "sitting_time": "2022-09-26T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b2f925ad-8c26-4c4f-8097-8a08db45b06f"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli kontrolliaruande „Riigiteede rahastamise jätkusuutlikkus“ arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "187aff3d-9e5b-46ed-bfe8-18dbc0008c58"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d43c228b-723d-4bb8-b9ae-14c770fab169"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 26.09.22",
+      "uuid": "44443a33-fe92-4c62-973d-baa0ca0eea50",
+      "files": [
+        "REKK_protokoll_26.09.22.asice",
+        "Protokoll_nr_141_26.09.22.pdf",
+        "Riigiteede_rahastamine_ETTEKANNE_26092022_FINAL.pptx"
+      ]
+    }
+  ],
+  "uuid": "3b01e79a-6520-4cd9-8c24-ab22c9abd188",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3b01e79a-6520-4cd9-8c24-ab22c9abd188)",
+  "source": "https://api.riigikogu.ee/api/volumes/3b01e79a-6520-4cd9-8c24-ab22c9abd188",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-09-01&endDate=2022-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
