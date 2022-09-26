@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung esmaspäev, 26.09.2022 kell 11.10",
+  "sitting_time": "2022-09-26T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f6826123-8321-4eb1-bf92-dbf94c17cd13"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud ühisveevärgi ja -kanalisatsiooni seaduse eelnõu (523) ettevalmistamine teiseks lugemiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "619bbbfc-7646-4896-be83-76ed6204e1a1"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK protokoll 26.09.2022",
+      "uuid": "0d47a84c-fa2d-4712-a307-78a9bb980965",
+      "files": [
+        "KEKK_protokoll_26.09.2022.pdf",
+        "KEKK_protokoll_26.09.2022.asice"
+      ]
+    }
+  ],
+  "uuid": "b5642de5-7631-48db-8832-f77bacd6f7d5",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b5642de5-7631-48db-8832-f77bacd6f7d5)",
+  "source": "https://api.riigikogu.ee/api/volumes/b5642de5-7631-48db-8832-f77bacd6f7d5",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-09-01&endDate=2022-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
