@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung teisipäev, 27.09.2022 kell 14.00",
+  "sitting_time": "2022-09-27T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Arengud Venemaal",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6571a53e-f6e8-47f5-b39e-524907c61ee1"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade julgeolekuolukorra arengutest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9dffcc7b-bfeb-45c4-9c44-5c9274d6d9e8"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ef2874f0-c23f-4c0c-870f-178e29d3bb5d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 27.09.2022 nr 279",
+      "uuid": "cf06e584-a65c-4d7a-825d-2ecd73459f38",
+      "files": [
+        "VÄLK_protokoll_27.09.2022.pdf",
+        "VÄLK_protokoll_27.09.2022_nr_279.asice"
+      ]
+    }
+  ],
+  "uuid": "77993612-5418-4f0c-9acf-ed953abb324c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 77993612-5418-4f0c-9acf-ed953abb324c)",
+  "source": "https://api.riigikogu.ee/api/volumes/77993612-5418-4f0c-9acf-ed953abb324c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-09-01&endDate=2022-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
