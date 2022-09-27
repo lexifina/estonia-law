@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung teisipäev, 27.09.2022 kell 14.00",
+  "sitting_time": "2022-09-27T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade fiskaalpoliitikast ja majanduse tulevikuväljavaatest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ddd9c7f6-a193-45e1-9118-c182dd9a1145"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade energiajulgeolekust",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c5d4681b-cd4f-4299-b2d3-e4818c9267ef"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "77772c9d-1c25-4ffb-9b07-cc04a75950e1"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RIKK 27.09.2022 protokoll",
+      "uuid": "1ed3bca3-5a71-4420-b020-c346c57e0d6b",
+      "files": [
+        "RIKK_27.09.2022_protokoll.asice",
+        "Protokoll_nr_214__27.09.2022.pdf"
+      ]
+    }
+  ],
+  "uuid": "d48f49c4-8b48-4f5b-afbc-a250eb6a7424",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d48f49c4-8b48-4f5b-afbc-a250eb6a7424)",
+  "source": "https://api.riigikogu.ee/api/volumes/d48f49c4-8b48-4f5b-afbc-a250eb6a7424",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-09-01&endDate=2022-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
