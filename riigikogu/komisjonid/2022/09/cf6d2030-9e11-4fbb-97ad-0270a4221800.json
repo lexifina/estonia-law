@@ -1,0 +1,48 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung teisipäev, 27.09.2022 kell 14.00",
+  "sitting_time": "2022-09-27T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "acf3fbe3-391e-4678-b180-7d6c23728ec4"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fcfa0ba8-e08b-4d55-9448-66bb56e1c1ac"
+    },
+    {
+      "order": 3,
+      "title": "Õiguskantsleri ettepanek kinnisasja avalikes huvides omandamise seaduse põhiseadusega kooskõlla viimiseks - arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1df1eae3-7a10-4ac8-ba8a-a692f18e1550"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "PÕSK protokoll 27.09.2022",
+      "uuid": "04e3f210-617b-479e-a579-4ca9138312cc",
+      "files": [
+        "asendus_PSK_27.09.2022.docx",
+        "Volikiri_M.Võrklaev_asendusliige_27.09.2022.asice",
+        "PÕSK_protokoll_27.09.2022.asice",
+        "PÕSK.protokoll.27.09.2022.pdf"
+      ]
+    }
+  ],
+  "uuid": "cf6d2030-9e11-4fbb-97ad-0270a4221800",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid cf6d2030-9e11-4fbb-97ad-0270a4221800)",
+  "source": "https://api.riigikogu.ee/api/volumes/cf6d2030-9e11-4fbb-97ad-0270a4221800",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-09-01&endDate=2022-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
