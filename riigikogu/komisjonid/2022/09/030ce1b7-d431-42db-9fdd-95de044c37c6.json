@@ -1,0 +1,42 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung teisipäev, 27.09.2022 kell 14.00",
+  "sitting_time": "2022-09-27T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikontrolli auditiaruande “Ohtlike ja radioaktiivsete jäätmete käitlemise korraldus (järelaudit)” tutvustamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3f2cca24-5538-4229-b873-e212370ecee8"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli auditiaruande „Keskkonnaeesmärkidega vastuolus olevad majandusmeetmed“ tutvustamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1dec5b11-93c0-4a4d-b5db-05437d962a07"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK protokoll 27.09.2022",
+      "uuid": "23d8a1dc-c895-4fda-bc45-87199f0d75ef",
+      "files": [
+        "KKK_Riigikontroll_ohtlikud_ja_rad_jäätmed_27.09.2022_up.pdf",
+        "KEKK_protokoll_27.09.2022.pdf",
+        "KEKK_protokoll_27.09.2022.asice",
+        "Keskkonnaeesmarkidega_-_ESITLUS_27.09.2022_TOIM.pdf"
+      ]
+    }
+  ],
+  "uuid": "030ce1b7-d431-42db-9fdd-95de044c37c6",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 030ce1b7-d431-42db-9fdd-95de044c37c6)",
+  "source": "https://api.riigikogu.ee/api/volumes/030ce1b7-d431-42db-9fdd-95de044c37c6",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-09-01&endDate=2022-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
