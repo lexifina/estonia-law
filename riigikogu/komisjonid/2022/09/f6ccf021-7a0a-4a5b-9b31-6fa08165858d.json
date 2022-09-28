@@ -1,0 +1,35 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung kolmapäev, 28.09.2022 kell 09.00",
+  "sitting_time": "2022-09-28T09:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti Panga majandusprognoos",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f1cf117b-6ee1-4cc6-8f7d-e6a81d1db6a2"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 28.09.22",
+      "uuid": "765ca971-b72e-4693-addb-302b92e8700f",
+      "files": [
+        "REKK_protokoll_28.09.22.asice",
+        "2022_09_28_-_Riigieelarve_kontrolli_erikomisjon_-_Ülo_Kaasik__Rasmus_Kattai.pptx",
+        "Protokoll_nr_142_28.09.22.pdf"
+      ]
+    }
+  ],
+  "uuid": "f6ccf021-7a0a-4a5b-9b31-6fa08165858d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f6ccf021-7a0a-4a5b-9b31-6fa08165858d)",
+  "source": "https://api.riigikogu.ee/api/volumes/f6ccf021-7a0a-4a5b-9b31-6fa08165858d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-09-01&endDate=2022-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
