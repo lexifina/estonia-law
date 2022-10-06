@@ -1,0 +1,50 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung neljapäev, 6.10.2022 kell 10.00",
+  "sitting_time": "2022-10-06T10:00:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "04e7e201-cdcf-4a98-abc4-ec644cb79d69"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud töötervishoiu ja tööohutuse seaduse ning töölepingu seaduse muutmise seaduse eelnõu (615 SE) teise lugemise ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "968bfbcb-af75-4951-ac15-2bd462aec667"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0958df0e-5fe7-42ce-9be4-41b112899745"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "SOTK protokoll 06.10.2022",
+      "uuid": "ce1ca00a-12d7-4ec0-814e-49749716c8ff",
+      "files": [
+        "asendus2_SoK_06.10.2022.asice",
+        "asendus2_SoK_06.10.2022.docx",
+        "asendus_SoK_06.10.2022.docx",
+        "asendus_SoK_06.10.2022.asice",
+        "SOTK_protokoll_06.10.2022.asice",
+        "SOTK_protokoll_nr_239_(06.10.2022).pdf"
+      ]
+    }
+  ],
+  "uuid": "e5566e9f-70bf-448d-85af-0a1beb491130",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e5566e9f-70bf-448d-85af-0a1beb491130)",
+  "source": "https://api.riigikogu.ee/api/volumes/e5566e9f-70bf-448d-85af-0a1beb491130",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-10-01&endDate=2022-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
