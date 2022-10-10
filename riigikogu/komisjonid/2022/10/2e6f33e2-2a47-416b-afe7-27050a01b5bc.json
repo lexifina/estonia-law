@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung esmaspäev, 10.10.2022 kell 11.15",
+  "sitting_time": "2022-10-10T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0d00fa8d-8424-4f55-a89f-df09294cc977"
+    },
+    {
+      "order": 2,
+      "title": "Väliskomisjoni tellitud uuring „Kvalifitseeritud häälteenamus EL välis- ja julgeolekupoliitikas“ - arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dbe4449d-e83b-4315-ae63-db6670b790da"
+    },
+    {
+      "order": 3,
+      "title": "Ülevaade 4.-7. oktoobril 2022 toimunud väliskomisjoni töövisiidist Vabariiki",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "63f21885-2fa2-44eb-b565-9a985fa3cddd"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3fe15164-b008-4e71-90ff-615afe1545d6"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 10.10.2022 nr 280",
+      "uuid": "cf0d5ef4-8475-4d45-9a13-5599aea30bc5",
+      "files": [
+        "VÄLK_protokoll_10.10.2022_nr_280.asice",
+        "VÄLK_protokoll_10.10.2022.pdf"
+      ]
+    }
+  ],
+  "uuid": "2e6f33e2-2a47-416b-afe7-27050a01b5bc",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2e6f33e2-2a47-416b-afe7-27050a01b5bc)",
+  "source": "https://api.riigikogu.ee/api/volumes/2e6f33e2-2a47-416b-afe7-27050a01b5bc",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-10-01&endDate=2022-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
