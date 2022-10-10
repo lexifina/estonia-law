@@ -1,0 +1,48 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung esmaspäev, 10.10.2022 kell 11.10",
+  "sitting_time": "2022-10-10T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f85a5576-9d8f-4a69-8172-ebd8486ea9c6"
+    },
+    {
+      "order": 2,
+      "title": "Energia teekaardi 2021/2031/2040 tutvustamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "43ad8d53-4ea4-4458-9ecb-daba5c663b61"
+    },
+    {
+      "order": 3,
+      "title": "Arvamuse andmine Euroopa Liidu asjade komisjonile: Eesti seisukohad määruse (EL) nr 691/2011 muudatuse, mis käsitleb Euroopa keskkonnamajandusliku arvepidamise laiendamist, eelnõu kohta - COM(2022)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "318d6e17-8ac9-4ce3-96ea-101559c37798"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK protokoll 10.10.2022",
+      "uuid": "f3d7f1a9-e296-402a-9baf-d3909f715fb0",
+      "files": [
+        "Slaidid_691_2011_muudatuse_eelnõu_09_10.pdf",
+        "KEKK_protokoll_10.10.2022.asice",
+        "2023TEEKAARTESITLUS.pdf",
+        "KEKK_protokoll_10.10.2022.pdf"
+      ]
+    }
+  ],
+  "uuid": "72208e32-635a-4992-b9ec-a844c058cb8f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 72208e32-635a-4992-b9ec-a844c058cb8f)",
+  "source": "https://api.riigikogu.ee/api/volumes/72208e32-635a-4992-b9ec-a844c058cb8f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-10-01&endDate=2022-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
