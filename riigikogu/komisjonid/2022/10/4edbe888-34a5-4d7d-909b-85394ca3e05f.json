@@ -1,0 +1,42 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung kolmapäev, 12.10.2022 kell 09.00",
+  "sitting_time": "2022-10-12T09:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigi eelarvestrateegia 2023-2026",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9282c26f-d9cb-4971-9a24-dd666ef90dfe"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e156f475-c7c1-487f-9d9c-88f829b78f91"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 12.10.22",
+      "uuid": "62580412-2182-47b5-85be-186d9837bc5a",
+      "files": [
+        "REKK_protokoll_12.10.22.asice",
+        "EAN_esitlus_12.10.pptx",
+        "RES_2023-2026_Kontrollikomisjon_12.10.22_minister_avalik.pptx",
+        "Protokoll_nr_144_12.10.22.pdf"
+      ]
+    }
+  ],
+  "uuid": "4edbe888-34a5-4d7d-909b-85394ca3e05f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 4edbe888-34a5-4d7d-909b-85394ca3e05f)",
+  "source": "https://api.riigikogu.ee/api/volumes/4edbe888-34a5-4d7d-909b-85394ca3e05f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-10-01&endDate=2022-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
