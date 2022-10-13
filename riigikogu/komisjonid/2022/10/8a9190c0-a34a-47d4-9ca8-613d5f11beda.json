@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni erakorraline istung neljapäeval, 13.10.2022 kell 14.00",
+  "sitting_time": "2022-10-13T14:00:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "011538c2-7753-4cd6-a24b-c4a62225b1e1"
+    },
+    {
+      "order": 2,
+      "title": "Eesti Kultuurkapitali seaduse muutmise seaduse algatamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "59dce73e-1003-4a14-a3a7-5d7a60fa0e45"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KULK protokoll 220",
+      "uuid": "7e8ad2c5-a507-44d0-84f1-695f41b82854",
+      "files": [
+        "Protokoll_220_(13.10.2022).pdf",
+        "KULK_protokoll_220.asice"
+      ]
+    }
+  ],
+  "uuid": "8a9190c0-a34a-47d4-9ca8-613d5f11beda",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8a9190c0-a34a-47d4-9ca8-613d5f11beda)",
+  "source": "https://api.riigikogu.ee/api/volumes/8a9190c0-a34a-47d4-9ca8-613d5f11beda",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-10-01&endDate=2022-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
