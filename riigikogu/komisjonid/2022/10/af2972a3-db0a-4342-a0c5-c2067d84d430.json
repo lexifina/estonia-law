@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung neljapäev, 13.10.2022 kell 14.00",
+  "sitting_time": "2022-10-13T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Majanduskomisjoni algatatud elektrituruseaduse muutmise seaduse eelnõu (680 SE) teise lugemise ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "927414a2-a3f2-4108-afc5-99f25c22f18d"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "157dd10c-0107-4451-9963-39e63e3f3806"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAJK protokoll nr 200 13.10.2022",
+      "uuid": "4bccdcc4-814c-49e6-bf6b-6cb8a437b76c",
+      "files": [
+        "MAJK_protokoll_nr_200_13.10.2022.asice",
+        "MAJK_protokoll_nr_200_13.10.2022.pdf"
+      ]
+    }
+  ],
+  "uuid": "af2972a3-db0a-4342-a0c5-c2067d84d430",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid af2972a3-db0a-4342-a0c5-c2067d84d430)",
+  "source": "https://api.riigikogu.ee/api/volumes/af2972a3-db0a-4342-a0c5-c2067d84d430",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-10-01&endDate=2022-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
