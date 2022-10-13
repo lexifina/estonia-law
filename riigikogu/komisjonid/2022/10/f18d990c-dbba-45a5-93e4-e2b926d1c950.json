@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung neljapäev, 13.10.2022 kell 13.00",
+  "sitting_time": "2022-10-13T08:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "2023. aasta riigieelarve seaduse eelnõu (708 SE I). Osaleb majandus- ja taristuminister Riina Sikkut.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b0142a67-9f14-4533-8d33-03782fe0516e"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e5f21225-36df-4810-9bc1-773b5e11c096"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 13.10.2022",
+      "uuid": "53d31518-65c8-43f1-b618-80a59c0505e0",
+      "files": [
+        "RAHK_protokoll_13.10.2022.asice",
+        "MKM_Riina_Sikkuti_slaidid_2023_eelarve_tutvustus_13.10.2022.pdf",
+        "RAHK_protokoll_212_13_10_2022.pdf"
+      ]
+    }
+  ],
+  "uuid": "f18d990c-dbba-45a5-93e4-e2b926d1c950",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f18d990c-dbba-45a5-93e4-e2b926d1c950)",
+  "source": "https://api.riigikogu.ee/api/volumes/f18d990c-dbba-45a5-93e4-e2b926d1c950",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-10-01&endDate=2022-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
