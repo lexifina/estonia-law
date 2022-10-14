@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung reede, 14.10.2022 kell 10.00",
+  "sitting_time": "2022-10-14T10:00:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti gaasivarud",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9df63c45-efaf-447a-bc33-c631e3c18e43"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "571b73e3-c4a5-4d51-885e-5e55f8d43a1f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 14.10.22",
+      "uuid": "35807711-6533-4ee6-bc3f-2c28c7034f8e",
+      "files": [
+        "REKK_protokoll_14.10.22.asice",
+        "Gaasi_varustuskindlus_14.10.pdf",
+        "Protokoll_nr_145_14.10.22.pdf"
+      ]
+    }
+  ],
+  "uuid": "2d2eb58a-4893-484d-bf2e-b6f99b66ecc8",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2d2eb58a-4893-484d-bf2e-b6f99b66ecc8)",
+  "source": "https://api.riigikogu.ee/api/volumes/2d2eb58a-4893-484d-bf2e-b6f99b66ecc8",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-10-01&endDate=2022-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
