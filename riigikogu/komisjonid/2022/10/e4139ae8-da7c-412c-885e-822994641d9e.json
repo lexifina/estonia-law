@@ -1,0 +1,53 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung esmaspäev, 17.10.2022 kell 11.10",
+  "sitting_time": "2022-10-17T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dd193a73-a05d-427d-b7cf-28cdaab00d82"
+    },
+    {
+      "order": 2,
+      "title": "Tuumaenergia töörühma vahearuande tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f096b89e-beb7-4e75-9120-638e82b64743"
+    },
+    {
+      "order": 3,
+      "title": "Arvamuse andmine Euroopa Liidu asjade komisjonile: Eesti seisukohad Euroopa Liidu taastuvenergia, energiatõhususe ja hoonete energiatõhususe direktiivide muudatusettepaneku kohta (REPowerEU) - COM(2022) 222",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ca0df0bb-0d6a-4982-afa0-53a7d827fb81"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4f647557-84ba-429b-9c0b-eea1733440ab"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAJK protokoll nr 201 17.10.2022",
+      "uuid": "a9b162c6-6fc2-4e45-8413-8392f8d857f1",
+      "files": [
+        "MAJK_protokoll_nr_201_17.10.2022.pdf",
+        "17.10_TET_Vahearuanne_RKMK.pdf",
+        "MAJK_protokoll_nr_201_17.10.2022.asice"
+      ]
+    }
+  ],
+  "uuid": "e4139ae8-da7c-412c-885e-822994641d9e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e4139ae8-da7c-412c-885e-822994641d9e)",
+  "source": "https://api.riigikogu.ee/api/volumes/e4139ae8-da7c-412c-885e-822994641d9e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-10-01&endDate=2022-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
