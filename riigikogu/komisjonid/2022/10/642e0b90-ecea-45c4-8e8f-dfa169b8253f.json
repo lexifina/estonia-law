@@ -1,0 +1,42 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Korruptsioonivastane erikomisjon",
+  "committee_uuid": "e4f2977a-e8c3-4fa0-8f3d-9df9acd6377f",
+  "title": "Komisjoni istung esmaspäev, 17.10.2022 kell 13.30",
+  "sitting_time": "2022-10-17T13:35:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d3ce904d-9f79-4569-ae5d-e18a3f06359d"
+    },
+    {
+      "order": 2,
+      "title": "Eesti kandidaadi nimetamine Euroopa Kontrollikoja liikme ametikohale",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2a8a3cf2-3438-467c-b46a-4d337193de9b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KVEK protokoll 17.10.2022",
+      "uuid": "79972f70-80b4-47b6-a8cc-637dcad7cb4b",
+      "files": [
+        "KVEK_protokoll_17.10.2022.asice",
+        "KVEK_17.10.2022.pdf",
+        "asendus_KVEK_17.10.2022.docx",
+        "K.Laanet_asendusliige_17.10.2022.asice"
+      ]
+    }
+  ],
+  "uuid": "642e0b90-ecea-45c4-8e8f-dfa169b8253f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 642e0b90-ecea-45c4-8e8f-dfa169b8253f)",
+  "source": "https://api.riigikogu.ee/api/volumes/642e0b90-ecea-45c4-8e8f-dfa169b8253f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-10-01&endDate=2022-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
