@@ -1,0 +1,53 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 17.10.2022 kell 13.15",
+  "sitting_time": "2022-10-17T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d19feb42-b1fd-4acc-b0f9-c5b2e1f3e993"
+    },
+    {
+      "order": 2,
+      "title": "Eesti gaasivarudest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3a46c2f7-91c6-4dd8-8556-1a4b0513780a"
+    },
+    {
+      "order": 3,
+      "title": "„2023. aasta riigieelarve seaduseelnõu (708 SE)“ arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e1bfb781-2357-4eea-b04a-84f8fbfcd810"
+    },
+    {
+      "order": 4,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b554ecb1-963f-4a9a-92fb-e4d12f7da4fa"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 17.10.22",
+      "uuid": "2b0883a4-c437-4724-9365-1fb005e45781",
+      "files": [
+        "REKK_protokoll_17.10.22.asice",
+        "RE_2023_Kontrollikomisjon_17.10.22_avalik.pptx",
+        "Protokoll_nr_146_17.10.22.pdf"
+      ]
+    }
+  ],
+  "uuid": "679455eb-997a-4191-8d0b-44c3807b2ea0",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 679455eb-997a-4191-8d0b-44c3807b2ea0)",
+  "source": "https://api.riigikogu.ee/api/volumes/679455eb-997a-4191-8d0b-44c3807b2ea0",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-10-01&endDate=2022-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
