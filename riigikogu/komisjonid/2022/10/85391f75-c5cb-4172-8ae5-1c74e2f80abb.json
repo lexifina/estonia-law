@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 18.10.2022 kell 14.00",
+  "sitting_time": "2022-10-18T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Põllumajanduse Registrite ja Informatsiooni Ameti esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c794968f-5d2c-4d19-9330-133679840a16"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "58773e7d-6736-4325-b7f5-cd5f2f9f8b25"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 18.10.2022",
+      "uuid": "e442a965-7e4a-4a78-8073-a279fc4d1d4a",
+      "files": [
+        "MAEK_protokoll_18.10.2022.asice",
+        "166_protokolli_lisa__PRIA.pdf",
+        "166_protokoll_18.10.2022.pdf"
+      ]
+    }
+  ],
+  "uuid": "85391f75-c5cb-4172-8ae5-1c74e2f80abb",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 85391f75-c5cb-4172-8ae5-1c74e2f80abb)",
+  "source": "https://api.riigikogu.ee/api/volumes/85391f75-c5cb-4172-8ae5-1c74e2f80abb",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-10-01&endDate=2022-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
