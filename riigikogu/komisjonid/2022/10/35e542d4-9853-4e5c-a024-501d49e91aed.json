@@ -1,0 +1,43 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung kolmapäev, 19.10.2022 kell 09.00",
+  "sitting_time": "2022-10-19T09:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikontrolli ülevaate „Eesti Töötukassa koolitustest“ arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5c2c668f-ea96-46fb-90ff-98c65a592fbc"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1c218b67-1464-4243-b450-bd7b5a37d3c0"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 19.10.22",
+      "uuid": "d6a96194-a393-4279-9d57-79fd5a0622aa",
+      "files": [
+        "REKK_protokoll_19.10.22.asice",
+        "REKK_asendus_19.10.22.docx",
+        "REKK_asendus_19.10.22.asice",
+        "tootukassa_slaidid_17.10_rekk_up.pptx",
+        "Protokoll_nr_147_19.10.22.pdf"
+      ]
+    }
+  ],
+  "uuid": "35e542d4-9853-4e5c-a024-501d49e91aed",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 35e542d4-9853-4e5c-a024-501d49e91aed)",
+  "source": "https://api.riigikogu.ee/api/volumes/35e542d4-9853-4e5c-a024-501d49e91aed",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-10-01&endDate=2022-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
