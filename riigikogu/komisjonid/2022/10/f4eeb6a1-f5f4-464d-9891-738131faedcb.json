@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung esmaspäev, 24.10.2022 kell 11.00",
+  "sitting_time": "2022-10-24T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a00ef24d-4448-4bd3-b3a6-d90f2c7e5bb5"
+    },
+    {
+      "order": 2,
+      "title": "Julgeolekuasutuste seaduse ja Kaitseväe korralduse seaduse muutmise seaduse eelnõu (721 SE) esimese lugemise ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6ecb21b5-3b84-47a9-a669-2de7d0063945"
+    },
+    {
+      "order": 3,
+      "title": "Kaitseväeteenistuse seaduse ja teiste seaduste muutmise seaduse eelnõu (623 SE I) teise lugemise ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7ece2c47-f4e8-41e3-b436-96a876df817f"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "23fb42c5-9978-43db-8caa-db34e784c39e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RIKK 24.10.2022 protokoll",
+      "uuid": "b98c7a56-6a2b-4871-8b40-15aaad929145",
+      "files": [
+        "RIKK_24.10.2022_protokoll.asice",
+        "Protokoll_nr_220__24.10.2022.pdf"
+      ]
+    }
+  ],
+  "uuid": "f4eeb6a1-f5f4-464d-9891-738131faedcb",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f4eeb6a1-f5f4-464d-9891-738131faedcb)",
+  "source": "https://api.riigikogu.ee/api/volumes/f4eeb6a1-f5f4-464d-9891-738131faedcb",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-10-01&endDate=2022-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
