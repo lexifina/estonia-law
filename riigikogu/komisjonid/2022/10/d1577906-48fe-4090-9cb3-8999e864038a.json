@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung esmaspäev, 24.10.2022 kell 11.10",
+  "sitting_time": "2022-10-24T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e566dcd9-c1be-4cc2-983e-6acc87e6af16"
+    },
+    {
+      "order": 2,
+      "title": "Elektrituruseaduse ja teiste seaduste muutmise seaduse eelnõu (696 SEI) arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "eba210ae-402a-4e4c-b3d4-6986ece2e033"
+    },
+    {
+      "order": 3,
+      "title": "Riigikogu otsuse \"Sihtasutuse Keskkonnainvesteeringute Keskuse nõukogu liikmete tagasikutsumine ja uute liikmete nimetamine\" eelnõu (733 OE) esitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3a6d4c63-e392-4054-b2f0-448b304fcd92"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK protokoll 24.10.2022",
+      "uuid": "76e33299-8cb6-4e13-9a97-2cdc01a95791",
+      "files": [
+        "KEKK_protokoll_24.10.2022.pdf",
+        "KEKK_protokoll_24.10.2022.asice",
+        "Keskkonnakomisjon_696SE_24.10.pdf"
+      ]
+    }
+  ],
+  "uuid": "d1577906-48fe-4090-9cb3-8999e864038a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d1577906-48fe-4090-9cb3-8999e864038a)",
+  "source": "https://api.riigikogu.ee/api/volumes/d1577906-48fe-4090-9cb3-8999e864038a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-10-01&endDate=2022-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
