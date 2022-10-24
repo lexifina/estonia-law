@@ -1,0 +1,49 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 24.10.2022 kell 13.30",
+  "sitting_time": "2022-10-24T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ba32890e-3014-4b8e-8fe5-be56181680fa"
+    },
+    {
+      "order": 2,
+      "title": "Eesti gaasivarudest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "576598c0-8cff-4fdb-8046-32186c33be5f"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e3182dd0-3382-4476-a84c-4f3e5f5e72e1"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 24.10.22",
+      "uuid": "1b5827cb-5b02-423b-9d29-b94969b7a821",
+      "files": [
+        "asendus.docx",
+        "asendus_24.10.22.asice",
+        "REKK_protokoll_24.10.22.asice",
+        "LNG_kronoloogia_Riigikogu_REKK_MKM_Elering_Alexela_Riigikontroll_FINAL_21.10.2022.pdf",
+        "Protokoll_nr_148_24.10.22.pdf"
+      ]
+    }
+  ],
+  "uuid": "6df4fd4e-3c02-42df-a4f7-7013f5fda0d7",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 6df4fd4e-3c02-42df-a4f7-7013f5fda0d7)",
+  "source": "https://api.riigikogu.ee/api/volumes/6df4fd4e-3c02-42df-a4f7-7013f5fda0d7",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-10-01&endDate=2022-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
