@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung teisipäev, 25.10.2022 kell 14.00",
+  "sitting_time": "2022-10-25T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "84e45c64-5ca3-4615-938c-79a2d35509cc"
+    },
+    {
+      "order": 2,
+      "title": "Kohaliku omavalitsuse volikogu valimise seaduse muutmise seaduse eelnõu (663 SE) esimese lugemise ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4ff39f99-7c3a-4797-86a7-dd1d148a62e9"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0f06b575-0abb-485e-ab40-6056edaeda4b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "PÕSK protokoll 25.10.2022",
+      "uuid": "03180ac4-d95a-469a-ba85-26c8194b7b0e",
+      "files": [
+        "PÕSK_protokoll_25.10.2022.asice",
+        "PÕSK.protokoll.25.10.2022.pdf"
+      ]
+    }
+  ],
+  "uuid": "94d72fde-acac-47e7-af50-318302ac9c1c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 94d72fde-acac-47e7-af50-318302ac9c1c)",
+  "source": "https://api.riigikogu.ee/api/volumes/94d72fde-acac-47e7-af50-318302ac9c1c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-10-01&endDate=2022-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
