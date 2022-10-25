@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 25.10.2022 kell 14.00",
+  "sitting_time": "2022-10-25T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Eesti Linnade ja Valdade Liidu esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3917d043-1a0a-438d-9f40-cdde213a1d7b"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bc0fc92c-7dd9-4a66-8294-2c49375b0d20"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 25.10.2022",
+      "uuid": "627ec4b9-27ae-48a2-b565-e145863da0e8",
+      "files": [
+        "MAEK_protokoll_25.10.2022.asice",
+        "168_protokoll_25.10.2022.pdf"
+      ]
+    }
+  ],
+  "uuid": "911dadd1-e556-4fbc-8a04-c5d707af9208",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 911dadd1-e556-4fbc-8a04-c5d707af9208)",
+  "source": "https://api.riigikogu.ee/api/volumes/911dadd1-e556-4fbc-8a04-c5d707af9208",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-10-01&endDate=2022-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
