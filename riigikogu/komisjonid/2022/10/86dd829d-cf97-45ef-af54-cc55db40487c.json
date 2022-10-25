@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung teisipäev, 25.10.2022 kell 14.00",
+  "sitting_time": "2022-10-25T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Tuumaenergia töörühma vahearuande tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f9149cb1-ece5-4f43-b529-1e6273fdddaf"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu otsuse „Riigikogu otsuse „Kliimapoliitika põhialused aastani 2050ˮ muutmine\" eelnõu (616 OE) teise lugemise ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1d2c0877-18f7-4243-afe5-cbc4e92ded11"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK protokoll 25.10.2022",
+      "uuid": "a9984dab-39db-4f46-833e-94837c8c8ac2",
+      "files": [
+        "KEKK_protokoll_25.10.2022.asice",
+        "KEKK_protokoll_25.10.2022.pdf",
+        "25.10_Tuumaenergia_vahearuanne_RKKK.pdf"
+      ]
+    }
+  ],
+  "uuid": "86dd829d-cf97-45ef-af54-cc55db40487c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 86dd829d-cf97-45ef-af54-cc55db40487c)",
+  "source": "https://api.riigikogu.ee/api/volumes/86dd829d-cf97-45ef-af54-cc55db40487c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-10-01&endDate=2022-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
