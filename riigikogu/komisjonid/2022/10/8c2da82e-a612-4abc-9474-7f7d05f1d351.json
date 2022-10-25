@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni väljasõiduistung teisipäev, 25.10.2022",
+  "sitting_time": "2022-10-25T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väljasõiduistung Riigi Infosüsteemi Ametisse",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "151afd08-4554-4689-b108-cca4da3e03bc"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "65af3a76-a27c-47b5-b937-a41d34cfac17"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAJK protokoll nr 204 25.10.2022",
+      "uuid": "57561fe9-bd7e-4e50-af8b-a8185fa4d222",
+      "files": [
+        "MAJK_protokoll_nr_204_25.10.2022.asice",
+        "MAJK_protokoll_nr_204_25.10.2022.pdf"
+      ]
+    }
+  ],
+  "uuid": "8c2da82e-a612-4abc-9474-7f7d05f1d351",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8c2da82e-a612-4abc-9474-7f7d05f1d351)",
+  "source": "https://api.riigikogu.ee/api/volumes/8c2da82e-a612-4abc-9474-7f7d05f1d351",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-10-01&endDate=2022-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
