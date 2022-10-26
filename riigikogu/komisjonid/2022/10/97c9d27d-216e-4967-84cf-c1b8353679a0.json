@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung kolmapäev, 26.10.2022 kell 09.00",
+  "sitting_time": "2022-10-26T09:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Haiguslehtede hüvitamisest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2160cc77-4e92-4929-92b0-1b472b4585e5"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "46602872-a0b9-41ed-9127-a426860de2b3"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 26.10.2022",
+      "uuid": "e3235bb5-09bc-4515-9a73-2648d6f48798",
+      "files": [
+        "Protokoll_nr_149_26.10.2022.pdf",
+        "REKK_protokoll_26.10.2022.asice",
+        "Tervisekassa_esitlus_haigushüvitised_2023.pdf"
+      ]
+    }
+  ],
+  "uuid": "97c9d27d-216e-4967-84cf-c1b8353679a0",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 97c9d27d-216e-4967-84cf-c1b8353679a0)",
+  "source": "https://api.riigikogu.ee/api/volumes/97c9d27d-216e-4967-84cf-c1b8353679a0",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-10-01&endDate=2022-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
