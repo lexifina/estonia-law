@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Korruptsioonivastane erikomisjon",
+  "committee_uuid": "e4f2977a-e8c3-4fa0-8f3d-9df9acd6377f",
+  "title": "Komisjoni istung neljapäev, 27.10.2022 kell 09.00",
+  "sitting_time": "2022-10-27T09:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Euroopa Parlamendile Euroopa Kontrollikoja Eesti esindaja nimetamise menetluse osas tehtava pöördumise projekti arutelu.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ba266f8b-14b1-441b-90f8-d637aeb052b7"
+    },
+    {
+      "order": 2,
+      "title": "Valdo Randpere poolt esitatud eriarvamuse arutelu Euroopa Parlamendile Euroopa Kontrollikoja Eesti esindaja nimetamise menetluse osas tehtava pöördumise kohta",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "db77718d-a2f8-457a-bc6c-c637af6b59f8"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "69ac4e25-a7a6-40e2-addb-4275f5eafe49"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KVEK protokoll 27.10.2022",
+      "uuid": "5bd08031-f158-439d-b4e3-61f4a4162632",
+      "files": [
+        "KVEK_protokoll_27.10.2022_(1).asice",
+        "ÕIEND.docx",
+        "Asendusliige_E.Odinets_27102022.asice",
+        "KVEK_protokoll_27.10.2022.asice",
+        "asendus_KVEK_27.10.2022.docx",
+        "asendus_KVEK_27.10.2022.asice",
+        "KVEK_protokoll_27.10.2022.pdf",
+        "Asendusliige_E.Odinets_27102022.docx"
+      ]
+    }
+  ],
+  "uuid": "c63fb7ee-5b6d-45c9-b657-99d5a053ad98",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c63fb7ee-5b6d-45c9-b657-99d5a053ad98)",
+  "source": "https://api.riigikogu.ee/api/volumes/c63fb7ee-5b6d-45c9-b657-99d5a053ad98",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-10-01&endDate=2022-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
