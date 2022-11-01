@@ -1,6 +1,6 @@
 # § 178¹. Seksuaalse eesmärgiga kokkulepe lapseealisega kohtumiseks
 
-(1) Nooremale kui kaheksateistaastasele isikule, kes ei olnud võimeline toimunust aru saama, või nooremale kui neljateistaastasele isikule kohtumisettepaneku tegemise või temaga kohtumiskokkuleppe sõlmimise eest ning kohtumist ettevalmistava teo tegemise eest, kui kohtumise eesmärk on panna nimetatud isiku suhtes toime käesoleva seadustiku §-s 133, 133¹, 141–145¹, 175, 175¹, 178 või 179 sätestatud seksuaalse iseloomuga süütegu, –
+(1) Nooremale kui kaheksateistaastasele isikule, kes ei olnud võimeline toimunust aru saama, või nooremale kui kuueteistaastasele isikule kohtumisettepaneku tegemise või temaga kohtumiskokkuleppe sõlmimise eest ning kohtumist ettevalmistava teo tegemise eest, kui kohtumise eesmärk on panna nimetatud isiku suhtes toime käesoleva seadustiku §-s 133, 133¹, 141–145¹, 175, 175¹, 178 või 179 sätestatud seksuaalse iseloomuga süütegu, –
 
 karistatakse rahalise karistuse või kuni kolmeaastase vangistusega.
 

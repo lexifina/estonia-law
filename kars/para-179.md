@@ -1,6 +1,6 @@
 # § 179. Lapseealise seksuaalne ahvatlemine
 
-(1) Nooremale kui neljateistaastasele isikule pornograafilise teose või selle reproduktsiooni üleandmise, näitamise või muul viisil teadvalt kättesaadavaks tegemise või sellisele isikule seksuaalse kuritarvitamise näitamise või sellise isiku nähes suguühtesse astumise või muul viisil teadvalt tema seksuaalse ahvatlemise eest –
+(1) Nooremale kui kuueteistaastasele isikule pornograafilise teose või selle reproduktsiooni üleandmise, näitamise või muul viisil teadvalt kättesaadavaks tegemise või sellisele isikule seksuaalse kuritarvitamise näitamise või sellise isiku nähes suguühtesse astumise või muul viisil teadvalt tema seksuaalse ahvatlemise eest, välja arvatud juhul, kui noorema kui kuueteistaastase isiku ja teo toimepanija omavaheline suguühe või muu sugulise iseloomuga tegu ei ole kuriteona karistatav, –
 
 karistatakse rahalise karistuse või kuni kolmeaastase vangistusega.
 
