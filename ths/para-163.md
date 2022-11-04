@@ -6,4 +6,4 @@ karistatakse rahatrahviga kuni 200 trahviühikut.
 
 (2) Sama tegevuse eest, kui selle on toime pannud juriidiline isik, –
 
-karistatakse rahatrahviga kuni 20 000 eurot.
+karistatakse rahatrahviga kuni 200 000 eurot.
