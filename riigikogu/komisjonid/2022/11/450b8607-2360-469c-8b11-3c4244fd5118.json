@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung esmaspäev, 7.11.2022 kell 11.10",
+  "sitting_time": "2022-11-07T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cce71360-9e87-4e90-a101-fa2a82a50f0b"
+    },
+    {
+      "order": 2,
+      "title": "Veeseaduse muutmise seaduse eelnõu (709 SE) esimese lugemise ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6ba0c128-372a-4813-92fb-e660d8d891a7"
+    },
+    {
+      "order": 3,
+      "title": "Biotsiidiseaduse ja teiste seaduste muutmise seaduse eelnõu (700 SE) esimese lugemise ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "85923ddc-462b-4aa7-b3ab-83912356eee0"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK protokoll 07.11.2022",
+      "uuid": "c3be2d7f-530c-4945-a5b5-3c9dc461bdff",
+      "files": [
+        "KEKK_protokoll_07.11.2022.asice",
+        "KEKK_protokoll_07.11.2022.pdf"
+      ]
+    }
+  ],
+  "uuid": "450b8607-2360-469c-8b11-3c4244fd5118",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 450b8607-2360-469c-8b11-3c4244fd5118)",
+  "source": "https://api.riigikogu.ee/api/volumes/450b8607-2360-469c-8b11-3c4244fd5118",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-11-01&endDate=2022-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
