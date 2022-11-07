@@ -1,0 +1,53 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 7.11.2022 kell 11.10",
+  "sitting_time": "2022-11-07T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1cc0308a-07a5-44b0-a402-c7b1b84b91bf"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud loomakaitseseaduse ja geneetiliselt muundatud organismide keskkonda viimise seaduse muutmise seaduse eelnõu 677 SE arutelu teise lugemise ettevalmistamiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8b366537-686b-4027-84b5-35b77f4902f1"
+    },
+    {
+      "order": 3,
+      "title": "Maaparandusseaduse muutmise seaduse eelnõu väljatöötamiskavatsuse tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "62d1c256-0655-4b90-bfc1-73a11f7b348d"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3b204609-96fc-4fc6-9284-129f5e1d3eac"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 07.11.2022",
+      "uuid": "c7126bb8-996a-41e2-8acd-434196f38f8e",
+      "files": [
+        "MAEK_protokoll_07.11.2022.asice",
+        "169_protokoll_07.11.2022.pdf",
+        "169_protokolli_lisa__MPS_VTK.pptx"
+      ]
+    }
+  ],
+  "uuid": "8463e6cb-8ebe-4444-bd53-825a11b91f5e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8463e6cb-8ebe-4444-bd53-825a11b91f5e)",
+  "source": "https://api.riigikogu.ee/api/volumes/8463e6cb-8ebe-4444-bd53-825a11b91f5e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-11-01&endDate=2022-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
