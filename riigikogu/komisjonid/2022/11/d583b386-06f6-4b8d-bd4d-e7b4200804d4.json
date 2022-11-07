@@ -1,0 +1,48 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 7.11.2022 kell 13.15",
+  "sitting_time": "2022-11-07T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d4f59085-38b7-459a-9ab3-ee79e9973c09"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade Ukraina põgenike abistamisest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ce0c9126-0f75-4bd8-8a63-378ba16e39fa"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "75711daa-1144-4f1e-9a3c-f2b223bc9f81"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 07.11.22",
+      "uuid": "10da7329-64f0-4d22-89f9-d3848b672d70",
+      "files": [
+        "REKK_protokoll_07.11.22.asice",
+        "RK_Riigieelarve_kontrolli_erikomisjon_Ukraina_põgenike_abistamine_071122.pptx",
+        "Riigieelarve_kontrollierikomisjon_SOM_(1).pptx",
+        "Protokoll_nr_150_07.11.22.pdf"
+      ]
+    }
+  ],
+  "uuid": "d583b386-06f6-4b8d-bd4d-e7b4200804d4",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d583b386-06f6-4b8d-bd4d-e7b4200804d4)",
+  "source": "https://api.riigikogu.ee/api/volumes/d583b386-06f6-4b8d-bd4d-e7b4200804d4",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-11-01&endDate=2022-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
