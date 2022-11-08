@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung teisipäev, 8.11.2022 kell 14.00",
+  "sitting_time": "2022-11-08T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Ettevõtluse ja Innovatsiooni Sihtasutuse juhtidega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b0d5ce06-fd65-43c9-b44a-efd8b18bfdd6"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b9b15df8-9dc8-4c9c-b382-d30f7cf6f0b0"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAJK protokoll nr 206 08.11.2022",
+      "uuid": "b571fc24-9758-4b33-a9bc-3c93bee20195",
+      "files": [
+        "MAJK_protokoll_nr_206_08.11.2022.asice",
+        "Ülevaade_ühendasutusest_08.11.22.pdf",
+        "MAJK_protokoll_nr_206_08.11.2022.pdf"
+      ]
+    }
+  ],
+  "uuid": "d371cf80-6bbc-4982-b4f8-81d09ca729fb",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d371cf80-6bbc-4982-b4f8-81d09ca729fb)",
+  "source": "https://api.riigikogu.ee/api/volumes/d371cf80-6bbc-4982-b4f8-81d09ca729fb",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-11-01&endDate=2022-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
