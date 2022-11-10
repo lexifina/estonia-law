@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung neljapäev, 10.11.2022 kell 14.00",
+  "sitting_time": "2022-11-10T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikogule üle antud kollektiivse pöördumise „Peretoetused õiglaseks!“ – arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "32c5fdb9-1ead-4ef1-a9b8-7b480833ae5b"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "986d2246-8125-4152-8899-dd84d6fdb1f3"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "SOTK protokoll 10.11.2022",
+      "uuid": "dc1dad8c-51b2-400d-8dfe-c0f6429bf5a5",
+      "files": [
+        "Peretoetused_õiglaseks.pdf",
+        "SOTK_protokoll_10.11.2022.asice",
+        "SOTK_protokoll_nr_250_(10.11.2022).pdf"
+      ]
+    }
+  ],
+  "uuid": "e5478163-4e6f-4d52-9614-6b4076b7cd04",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e5478163-4e6f-4d52-9614-6b4076b7cd04)",
+  "source": "https://api.riigikogu.ee/api/volumes/e5478163-4e6f-4d52-9614-6b4076b7cd04",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-11-01&endDate=2022-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
