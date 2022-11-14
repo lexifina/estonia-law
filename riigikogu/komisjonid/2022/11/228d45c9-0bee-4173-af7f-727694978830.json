@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 14.11.2022 kell 11.10",
+  "sitting_time": "2022-11-14T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "503f376f-13ab-4ca9-930f-6bb4e4e8145b"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli auditi „Omavalitsuste teenuste korraldus endistes keskustes ja nende lähiümbruses pärast haldusreformi“ tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c81ed173-1c69-488b-ba1e-674ecc5c1bc5"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a4a07d78-0154-4791-ba44-252346218eef"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 14.11.2022",
+      "uuid": "671c7988-f85c-4d6c-8a67-2d7364729de2",
+      "files": [
+        "170_protokoll_14.11.2022.pdf",
+        "170_protokolli_lisa__riigikontrolli_audit_KOVi_teenuste_kättesaadavusest.pdf",
+        "MAEK_protokoll_14.11.2022.asice"
+      ]
+    }
+  ],
+  "uuid": "228d45c9-0bee-4173-af7f-727694978830",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 228d45c9-0bee-4173-af7f-727694978830)",
+  "source": "https://api.riigikogu.ee/api/volumes/228d45c9-0bee-4173-af7f-727694978830",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-11-01&endDate=2022-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
