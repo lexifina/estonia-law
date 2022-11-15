@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung teisipäev, 15.11.2022 kell 14.00",
+  "sitting_time": "2022-11-15T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade Riigi jäätmekava 2022-2028 koostamise hetkeseisust",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1cc71f2d-352c-44f9-b094-30f6a778e2ae"
+    },
+    {
+      "order": 2,
+      "title": "Kollektiivse pöördumise „Nõuame looduskaitseliste piirangute õiglast hüvitamist“ arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "95acc79a-e424-4945-a5df-657ce630a383"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK protokoll 15.11.2022",
+      "uuid": "2f17fb24-8a31-404d-aa2f-da219d018598",
+      "files": [
+        "KEKK_protokoll_15.11.2022.asice",
+        "KEKK_protokoll_15.11.2022.pdf",
+        "151122_jäätmekava_plaan.pdf"
+      ]
+    }
+  ],
+  "uuid": "7a20fb7f-be46-49da-bde5-832fd90ad6a2",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7a20fb7f-be46-49da-bde5-832fd90ad6a2)",
+  "source": "https://api.riigikogu.ee/api/volumes/7a20fb7f-be46-49da-bde5-832fd90ad6a2",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-11-01&endDate=2022-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
