@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung teisipäev, 15.11.2022 kell 14.00",
+  "sitting_time": "2022-11-15T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ohvriabi seaduse eelnõu (702 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "10a8bc99-27cc-4fda-a795-5a5f53bd0420"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c2dae007-142e-4324-a915-f29e540eab98"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ÕIGK protokoll 15.11.2022",
+      "uuid": "c70be528-4d91-475c-a710-aec4502a68de",
+      "files": [
+        "Riigikogu_õiguskomisjoni_istungi_protokoll_nr_167.pdf",
+        "ÕIGK_protokoll_15.11.2022.asice"
+      ]
+    }
+  ],
+  "uuid": "90696848-9aac-4dc7-96d9-5f956f04b50e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 90696848-9aac-4dc7-96d9-5f956f04b50e)",
+  "source": "https://api.riigikogu.ee/api/volumes/90696848-9aac-4dc7-96d9-5f956f04b50e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-11-01&endDate=2022-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
