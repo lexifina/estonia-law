@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung teisipäev, 15.11.2022 kell 14.00",
+  "sitting_time": "2022-11-15T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Olukord Ukrainas",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dc5c3a85-307d-4efe-b4a8-1b0dcd0f1ee0"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade 8. novembril 2022 toimunud Ameerika Ühendriikide vahevalimistest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0977a8f1-b7de-4d20-9ba2-b2ddb706df8c"
+    },
+    {
+      "order": 3,
+      "title": "Riigikogu otsuse ,,Eesti Vabariigi, Leedu Vabariigi ja Läti Vabariigi Parlamentidevahelise Assamblee Eesti delegatsiooni moodustamine’’ muutmise eelnõu esitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "21524b9f-17c1-42b1-9657-0310dfa9a88d"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7303feb8-ea02-491c-9c99-4939a87822aa"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 15.11.2022 nr 289",
+      "uuid": "f8f246f9-c67b-494f-b177-709382cf981f",
+      "files": [
+        "VÄLK_protokoll_15.11.2022_nr_289.asice",
+        "VÄLK_protokoll_15.11.2022_.pdf"
+      ]
+    }
+  ],
+  "uuid": "a63fceed-72ae-451b-bdb9-d45872770c84",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a63fceed-72ae-451b-bdb9-d45872770c84)",
+  "source": "https://api.riigikogu.ee/api/volumes/a63fceed-72ae-451b-bdb9-d45872770c84",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-11-01&endDate=2022-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
