@@ -1,0 +1,43 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung kolmapäev, 16.11.2022 kell 09.00",
+  "sitting_time": "2022-11-16T09:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Parvlaeva Estonia huku uurimise rahastamisest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7f65cb83-fecd-40f8-b4e1-7ebfd1f4c2d0"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "50b5107b-82a7-4846-944d-e4a56474a86a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 16.11.22",
+      "uuid": "296d5b46-7ccf-4fd1-b680-76ff0f7498b8",
+      "files": [
+        "REKK_asendus_16.11.22.docx",
+        "REKK_asendus_16.11.22.asice",
+        "Volitus_16.11.22.pdf",
+        "REKK_protokoll_16.11.22.asice",
+        "Protokoll_nr_152_16.11.22.pdf"
+      ]
+    }
+  ],
+  "uuid": "b0dd7724-80b3-4e2d-9a14-15f5f6284779",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b0dd7724-80b3-4e2d-9a14-15f5f6284779)",
+  "source": "https://api.riigikogu.ee/api/volumes/b0dd7724-80b3-4e2d-9a14-15f5f6284779",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-11-01&endDate=2022-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
