@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung neljapäev, 17.11.2022 kell 09.00",
+  "sitting_time": "2022-11-17T09:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti gaasivarudest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "abe3439f-df95-4c67-a659-36c887a70283"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "63e0b73c-a390-4856-a9a3-a31e23fb05c6"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 17.11.22",
+      "uuid": "9023ce8b-f1c1-4fc0-b1d8-98ba96dc59fb",
+      "files": [
+        "Protokoll_nr_153_17.11.22.pdf",
+        "Regionaalne_gaasi_tarnekindlus.pptx",
+        "REKK_protokoll_17.11.22.asice"
+      ]
+    }
+  ],
+  "uuid": "7f14b1b8-637d-4f1b-90ba-cb5752b5ec2e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7f14b1b8-637d-4f1b-90ba-cb5752b5ec2e)",
+  "source": "https://api.riigikogu.ee/api/volumes/7f14b1b8-637d-4f1b-90ba-cb5752b5ec2e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-11-01&endDate=2022-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
