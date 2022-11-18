@@ -1,0 +1,48 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni erakorraline istung reede, 18.11.2022 kell 9.30",
+  "sitting_time": "2022-11-18T09:30:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ff7a1f21-6295-48b9-8a15-857dbfdf4929"
+    },
+    {
+      "order": 2,
+      "title": "Majanduskomisjoni algatatud elektrituruseaduse muutmise seaduse eelnõu (740 SE) teise lugemise ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3e2a45ea-d697-497c-8a53-01ed1d731532"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d81906ee-65bb-49a6-ac35-12d2590c49a4"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAJK protokoll nr 18.11.2022",
+      "uuid": "0485eeec-fbbf-48da-aa7b-56338da25607",
+      "files": [
+        "MAJK_protokoll_nr_210_18.11.2022.pdf",
+        "MAJK_protokoll_nr_18.11.2022.asice",
+        "Asendusliikme_volikiri_Tamm.pdf",
+        "Asendusliikme_volikiri_Kallas.asice"
+      ]
+    }
+  ],
+  "uuid": "ce840cab-4c70-4f06-aa6f-5dec2aaa95f9",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ce840cab-4c70-4f06-aa6f-5dec2aaa95f9)",
+  "source": "https://api.riigikogu.ee/api/volumes/ce840cab-4c70-4f06-aa6f-5dec2aaa95f9",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-11-01&endDate=2022-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
