@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung esmaspäev, 21.11.2022 kell 11.15",
+  "sitting_time": "2022-11-21T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f8158288-7c2d-4258-a6e4-ca623f8ea33a"
+    },
+    {
+      "order": 2,
+      "title": "Kollektiivne pöördumine \"Palume aidata üliõpilastel Eestisse jääda!\"",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3766b5e9-be87-49c1-ade1-fc19f9e30ac3"
+    },
+    {
+      "order": 3,
+      "title": "Türgi parlamendi väliskomisjoni visiidi ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8e9e2a54-cee2-4127-acf0-a98847ec7884"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d40c0618-402d-492c-be33-f48d2b152817"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 21.11.2022 nr 290",
+      "uuid": "e96f0c1b-26ee-4542-b4b6-fdfbcc405a90",
+      "files": [
+        "VÄLK_protokoll_21.11.2022_nr_290.asice",
+        "VÄLK_protokoll_21.11.2022.pdf"
+      ]
+    }
+  ],
+  "uuid": "c0c65bad-0367-4ad1-8b3c-30cd37f30b22",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c0c65bad-0367-4ad1-8b3c-30cd37f30b22)",
+  "source": "https://api.riigikogu.ee/api/volumes/c0c65bad-0367-4ad1-8b3c-30cd37f30b22",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-11-01&endDate=2022-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
