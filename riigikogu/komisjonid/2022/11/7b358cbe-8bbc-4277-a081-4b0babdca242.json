@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 21.11.2022 kell 13.15",
+  "sitting_time": "2022-11-21T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "391a0d16-b987-4485-9c92-a1c876d5d46d"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli aruande „Ohtlike ja radioaktiivsete jäätmete käitlemise korraldus (järelaudit)“ arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "99be7dd5-f332-4aea-bcf9-1ad998d5754a"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bd7206b0-6b3d-405e-a166-ac6a6d4b5015"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 21.11.22",
+      "uuid": "8214bf67-a833-4743-b64c-a502b14b84dd",
+      "files": [
+        "REKK_protokoll_21.11.22.asice",
+        "REKK_Riigikontroll_ohtlikud_ja_rad_jäätmed_21.11.2022.pptx",
+        "Protokoll_nr_154_21.11.22.pdf"
+      ]
+    }
+  ],
+  "uuid": "7b358cbe-8bbc-4277-a081-4b0babdca242",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7b358cbe-8bbc-4277-a081-4b0babdca242)",
+  "source": "https://api.riigikogu.ee/api/volumes/7b358cbe-8bbc-4277-a081-4b0babdca242",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-11-01&endDate=2022-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
