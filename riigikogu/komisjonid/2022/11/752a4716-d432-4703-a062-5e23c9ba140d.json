@@ -1,0 +1,42 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 22.11.2022 kell 14.00",
+  "sitting_time": "2022-11-22T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Maaelu Edendamise Sihtasutuse esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b18e858e-b05e-4f74-9f41-15e20d27baec"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f84efeed-5510-47e6-88e5-f6d86e412449"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 22.11.2022",
+      "uuid": "b472acca-2490-4cc9-846c-51dcae1387f9",
+      "files": [
+        "MAEK_protokoll_22.11.2022.asice",
+        "172_protokoll_22.11.2022.pdf",
+        "Asendusliikme_volikiri_(Helme__Aart).pdf",
+        "172_protokolli_lisa__MES.pdf"
+      ]
+    }
+  ],
+  "uuid": "752a4716-d432-4703-a062-5e23c9ba140d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 752a4716-d432-4703-a062-5e23c9ba140d)",
+  "source": "https://api.riigikogu.ee/api/volumes/752a4716-d432-4703-a062-5e23c9ba140d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-11-01&endDate=2022-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
