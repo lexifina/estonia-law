@@ -1,0 +1,64 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung teisipäev, 22.11.2022 kell 14.00",
+  "sitting_time": "2022-11-22T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "2023. aasta riigieelarve seaduse eelnõu (708 SE II)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a800e61b-f295-4ca1-abf8-c743a31b05d2"
+    },
+    {
+      "order": 2,
+      "title": "Kogumispensionide seaduse ja väärtpaberite registri pidamise seaduse muutmise seaduse eelnõu (711 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "290f0d03-8989-4631-aad8-c2b2b127235f"
+    },
+    {
+      "order": 3,
+      "title": "Maksualase teabevahetuse seaduse ja maksukorralduse seaduse muutmise seadus (halduskoostöö direktiivi ülevõtmine) (732 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ffd140eb-d354-4f4b-86d1-f3e3bdc0d39c"
+    },
+    {
+      "order": 4,
+      "title": "Riigikogu otsus „Riigi 2021. aasta majandusaasta koondaruande kinnitamine\" (686 OE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b0e9991f-47a7-4440-a279-e16e0f7f441b"
+    },
+    {
+      "order": 5,
+      "title": "Riigikogu otsus „Riigigarantii andmine\" (750 OE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5b140482-1f07-4831-bb29-6d921e582025"
+    },
+    {
+      "order": 6,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5e0359cd-d533-4750-ae2e-cb32247ee473"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 22.11.2022",
+      "uuid": "bda47603-1f1d-406b-b017-cf077d977f42",
+      "files": [
+        "RAHK_protokoll_22.11.2022.asice",
+        "RAHK_protokoll_222_22_11_2022.pdf"
+      ]
+    }
+  ],
+  "uuid": "99e38f3e-b6c5-409f-93c9-d572e0cb0e88",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 99e38f3e-b6c5-409f-93c9-d572e0cb0e88)",
+  "source": "https://api.riigikogu.ee/api/volumes/99e38f3e-b6c5-409f-93c9-d572e0cb0e88",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-11-01&endDate=2022-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
