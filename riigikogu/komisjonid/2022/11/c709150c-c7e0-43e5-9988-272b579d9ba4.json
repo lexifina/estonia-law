@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Riigikaitsekomisjoni ja väliskomisjoni ühine istung teisipäev, 22.11.2022 kell 14.00",
+  "sitting_time": "2022-11-22T14:00:00",
+  "sitting_type": "UHISISTUNG",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade uue \"Eesti julgeolekupoliitika alused\" koostamisest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "929935b6-c06b-4335-984a-a0fc4a079daf"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "90fcfc73-c88a-4176-9a9d-74c9b16df3b9"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RIKK ja VÄLK 22.11.2022 protokoll",
+      "uuid": "49acfa4a-2f9f-48de-a5b8-6e7ff14ff4c0",
+      "files": [
+        "RIKK_ja_VÄLK_22.11.2022_protokoll.asice",
+        "RIKK_ja_VÄLK_protokoll_22.11.2022.pdf"
+      ]
+    }
+  ],
+  "uuid": "c709150c-c7e0-43e5-9988-272b579d9ba4",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c709150c-c7e0-43e5-9988-272b579d9ba4)",
+  "source": "https://api.riigikogu.ee/api/volumes/c709150c-c7e0-43e5-9988-272b579d9ba4",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-11-01&endDate=2022-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
