@@ -1,0 +1,42 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung kolmapäev, 23.11.2022 kell 09.00",
+  "sitting_time": "2022-11-23T09:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Haridus- ja Teadusministeeriumi kiirtestide hangete korralduse uurimisest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c7c4c0f2-d61d-4a75-b639-662d0ce50932"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli kontrolliaruande tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4df59fba-b2e7-43c9-b0ce-3fd7d0bc0d67"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 23.11.22",
+      "uuid": "bc9d6702-462f-4b1f-83f7-c01388e16cf6",
+      "files": [
+        "REKK_protokoll_23.11.22.asice",
+        "REKK_asendus_23.11.22.docx",
+        "REKK_asendus_23.11.22.asice",
+        "Protokoll_nr_155_23.11.22.pdf"
+      ]
+    }
+  ],
+  "uuid": "417a7fb5-c276-4254-a69b-edac8313b8f8",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 417a7fb5-c276-4254-a69b-edac8313b8f8)",
+  "source": "https://api.riigikogu.ee/api/volumes/417a7fb5-c276-4254-a69b-edac8313b8f8",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-11-01&endDate=2022-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
