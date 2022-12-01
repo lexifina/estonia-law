@@ -1,0 +1,54 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung neljapäev, 1.12.2022 kell 12.00",
+  "sitting_time": "2022-12-01T12:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "03128c3a-3ea6-4c32-9ce2-1a555432df7a"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad Euroopa Komisjoni ettepanekute kohta Ukraina rahaliseks abistamiseks 2023. aastal - COM(2022) 595, COM(2022) 596, COM(2022) 597 (1-2/22-741/1)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9e8047a5-d8d3-4e6b-97a0-2bb3c85059de"
+    },
+    {
+      "order": 3,
+      "title": "2023. aasta riigieelarve seaduse eelnõu (708 SE III)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0b2e8c42-4615-4243-9894-f79e0ed03f44"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "152b13d1-d540-4001-a831-b302475f6bcd"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 01.12.2022",
+      "uuid": "2b7f7050-5f9c-4254-86a9-378183d2fa9a",
+      "files": [
+        "RAHK_protokoll_01.12.2022.asice",
+        "RAHK_protokoll_223_01_12_2022.pdf",
+        "RAHK_protokoll_223_01_12_2022_region.investeeringute_tabel_lisa_1.xlsx",
+        "Asendusliikme_volikiri_01.12.2022_D.Dmitrijevi_asendusliige.pdf"
+      ]
+    }
+  ],
+  "uuid": "34f3a4ac-0685-4987-9776-65b8664ff4c3",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 34f3a4ac-0685-4987-9776-65b8664ff4c3)",
+  "source": "https://api.riigikogu.ee/api/volumes/34f3a4ac-0685-4987-9776-65b8664ff4c3",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-12-01&endDate=2022-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
