@@ -1,0 +1,58 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung esmaspäev, 5.12.2022",
+  "sitting_time": "2022-12-05T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d93b57a7-722a-4cc7-b97a-f61e8d50a018"
+    },
+    {
+      "order": 2,
+      "title": "Ohvriabi seaduse eelnõu (702 SE II)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8d6b95bb-839b-4482-9b0f-3ce5f17e1536"
+    },
+    {
+      "order": 3,
+      "title": "Relvaseaduse ja karistusregistri seaduse muutmise seaduse eelnõu (627 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ae74d651-f90a-4a1b-8786-12af8029f41d"
+    },
+    {
+      "order": 4,
+      "title": "Tsiviilkohtumenetluse seadustiku ja halduskohtumenetluse seadustiku muutmise seadus (paberivabale kohtumenetlusele üleminek) (723 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3ed52c3a-2666-4ddf-bb6e-3de3923892a7"
+    },
+    {
+      "order": 5,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a8296405-f8be-4b37-a2ce-b1f7fbbfa2b4"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ÕIGK protokoll 05.12.2022",
+      "uuid": "b52ad0d4-d224-4f8a-a0bf-d405c4c1e355",
+      "files": [
+        "ÕIGK_protokoll_05.12.2022.asice",
+        "Riigikogu_õiguskomisjoni_istungi_protokoll_nr_170.pdf"
+      ]
+    }
+  ],
+  "uuid": "b06a7563-6e0d-4882-82be-99faed108b49",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b06a7563-6e0d-4882-82be-99faed108b49)",
+  "source": "https://api.riigikogu.ee/api/volumes/b06a7563-6e0d-4882-82be-99faed108b49",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-12-01&endDate=2022-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
