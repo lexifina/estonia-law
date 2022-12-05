@@ -1,0 +1,54 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 5.12.2022 kell 11.10",
+  "sitting_time": "2022-12-05T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5cfed4ee-72a0-4eb1-abcc-8aa781b90be1"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud maaelu ja põllumajandusturu korraldamise seaduse ning veterinaarseaduse muutmise seaduse eelnõu 738 SE arutelu esimese lugemise ettevalmistamiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f54d99bf-098a-4d3f-a4e4-0d6354df1b54"
+    },
+    {
+      "order": 3,
+      "title": "Ülevaade maaelu, põllumajanduse ja kalanduse toetuste kasutamisest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "260e3c4a-5004-4c6e-9c5b-4d3a119a5ffb"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9cc5a43a-0ac1-4e3a-bc12-2f1ae4bb9470"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 05.12.2022",
+      "uuid": "77bcc101-5573-448a-9dee-c88ea11a851d",
+      "files": [
+        "MAEK_protokoll_05.12.2022.asice",
+        "173_protokoll_05.12.22.pdf",
+        "173_protokolli_lisa_2__ELi_toetused.pdf",
+        "173_protokolli_lisa_1__738_SE_.pdf"
+      ]
+    }
+  ],
+  "uuid": "51d8ca1c-543a-42d7-b133-0308c1795eb5",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 51d8ca1c-543a-42d7-b133-0308c1795eb5)",
+  "source": "https://api.riigikogu.ee/api/volumes/51d8ca1c-543a-42d7-b133-0308c1795eb5",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-12-01&endDate=2022-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
