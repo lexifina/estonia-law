@@ -1,0 +1,49 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung teisipäev, 6.12.2022 kell 14.00",
+  "sitting_time": "2022-12-06T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikaitsekomisjoni esimehe ja aseesimehe erakorraline valimine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "124a4d2b-23f6-409b-b86c-be2775fa9f98"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade võimearendusest ja kaitseinvesteeringutest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1bad4f82-89ff-4d8f-972e-e920c268d5f0"
+    },
+    {
+      "order": 3,
+      "title": "Kaitseväeteenistuse seaduse ja teiste seaduste muutmise seaduse eelnõu (623 SE II) teise lugemise ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5ba5f9ac-cd5a-4738-88b2-ab0200dc01ab"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RIKK 06.12.2022 protokoll",
+      "uuid": "cd5c4568-3be2-4725-9ee5-0f6173897da3",
+      "files": [
+        "RIKK_06.12.2022_protokoll.asice",
+        "Protokoll_nr_228__06.12.2022_(002).pdf",
+        "20221206_RKIK_hanked_rev.pdf",
+        "asendus_RiKa_06.12.2022.asice",
+        "asendus_RiKa_06.12.2022.docx"
+      ]
+    }
+  ],
+  "uuid": "dc1a0267-f1aa-4bce-ad7d-dc9fd7dd3834",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid dc1a0267-f1aa-4bce-ad7d-dc9fd7dd3834)",
+  "source": "https://api.riigikogu.ee/api/volumes/dc1a0267-f1aa-4bce-ad7d-dc9fd7dd3834",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-12-01&endDate=2022-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
