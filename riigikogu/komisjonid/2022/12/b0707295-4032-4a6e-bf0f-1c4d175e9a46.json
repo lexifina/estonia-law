@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung teisipäev, 6.12.2022 kell 14.00",
+  "sitting_time": "2022-12-06T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väliskomisjoni kohtumine Vabariigi Presidendiga",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "945f2df6-09fe-4327-a357-3601146a7532"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a3f3b2b3-4b79-4630-af68-605e40408b97"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 6.12.2022 nr 293",
+      "uuid": "0b7865cc-5081-4c81-9dba-fdf793c1b28d",
+      "files": [
+        "VÄLK_protokoll_6.12.2022_nr_293.asice",
+        "VÄLK_protokoll_6.12.2022.pdf"
+      ]
+    }
+  ],
+  "uuid": "b0707295-4032-4a6e-bf0f-1c4d175e9a46",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b0707295-4032-4a6e-bf0f-1c4d175e9a46)",
+  "source": "https://api.riigikogu.ee/api/volumes/b0707295-4032-4a6e-bf0f-1c4d175e9a46",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-12-01&endDate=2022-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
