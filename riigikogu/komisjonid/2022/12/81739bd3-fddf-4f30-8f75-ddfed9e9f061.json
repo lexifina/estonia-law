@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 6.12.2022 kell 14.00",
+  "sitting_time": "2022-12-06T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade põllumajandusettevõtete 2021. aasta majandusnäitajatest (FADN)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7a62dada-6c90-4fef-9107-0f2ad1a6d1d0"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "587d2997-3997-4082-8192-0979c3adc841"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 06.12.2022",
+      "uuid": "5c9235e6-f50c-42b2-9378-36b14b50c646",
+      "files": [
+        "MAEK_protokoll_06.12.2022.asice",
+        "174_protokoll_06.12.22.pdf",
+        "174_protokolli_lisa__PMK.pdf"
+      ]
+    }
+  ],
+  "uuid": "81739bd3-fddf-4f30-8f75-ddfed9e9f061",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 81739bd3-fddf-4f30-8f75-ddfed9e9f061)",
+  "source": "https://api.riigikogu.ee/api/volumes/81739bd3-fddf-4f30-8f75-ddfed9e9f061",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-12-01&endDate=2022-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
