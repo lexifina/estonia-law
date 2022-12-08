@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Korruptsioonivastane erikomisjon",
+  "committee_uuid": "e4f2977a-e8c3-4fa0-8f3d-9df9acd6377f",
+  "title": "Komisjoni istung neljapäev, 8.12.2022 kell 09.00",
+  "sitting_time": "2022-12-08T09:00:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Justiitsministeeriumi tegevus korruptsioonivastase tegevuse koordineerimisel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1aabd4b0-874a-4641-9798-52c0c78ecfcc"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f86764e1-3ab5-44a3-8f3c-b903499a14f7"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KVEK protokoll 8.12.2022",
+      "uuid": "612bd69a-ec38-4614-bb4d-d3e60f45d441",
+      "files": [
+        "Justiitsministri_ettekanne_8.12.22.pdf",
+        "KVEK_protokoll_8.12.2022.asice",
+        "KVEK_protokoll_8.12.2022.pdf"
+      ]
+    }
+  ],
+  "uuid": "315e90d3-8bcb-49a1-bc78-5493d680f607",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 315e90d3-8bcb-49a1-bc78-5493d680f607)",
+  "source": "https://api.riigikogu.ee/api/volumes/315e90d3-8bcb-49a1-bc78-5493d680f607",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-12-01&endDate=2022-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
