@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung reede, 9.12.2022 kell 10.00",
+  "sitting_time": "2022-12-09T10:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 12. detsembril 2022 toimuval Euroopa Liidu välisasjade nõukogu kohtumisel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4033d96f-b433-48f8-88e7-13bc177429d8"
+    },
+    {
+      "order": 2,
+      "title": "Aktuaalsed välispoliitilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e3cfe6f7-54e8-43df-ab69-fb415c606062"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "09bb47f3-6178-4b3c-bdd9-e43699430c7b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 9.12.2022 nr 294",
+      "uuid": "1afb6513-6f8c-4836-9607-c602104aa0ab",
+      "files": [
+        "VÄLK_protokoll_9.12.2022_nr_294.asice",
+        "VÄLK_protokoll_9.12.2022.pdf"
+      ]
+    }
+  ],
+  "uuid": "3fa1fd86-49b8-4b78-ba5f-fe12f83ab370",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3fa1fd86-49b8-4b78-ba5f-fe12f83ab370)",
+  "source": "https://api.riigikogu.ee/api/volumes/3fa1fd86-49b8-4b78-ba5f-fe12f83ab370",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-12-01&endDate=2022-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
