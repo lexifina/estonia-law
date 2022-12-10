@@ -4,7 +4,7 @@
 
 (2) Käesoleva seaduse § 43 lõikes 1 ja § 44 lõikes 1 nimetatud ajalisi piiranguid ei kohaldata, kui riigieelarve muutmise või lisaeelarve algatamise põhjuseks on:
 
-1) krediidiasutustele, kindlustusandjatele või finantseerimisasutustele (edaspidi *finantsasutused*) likviidsus- või maksevõimega seotud raskusi või makse- ja arveldussüsteemides olulisi tõrkeid põhjustada võiva finantskriisi lahendamine või ennetamine;
+1) krediidiasutustele, kindlustusandjatele või finantseerimisasutustele või kesksetele vastaspooltele (edaspidi *finantsasutused*) likviidsus- või maksevõimega seotud raskusi või makse- ja arveldussüsteemides või väärtpaberite arveldussüsteemides olulisi tõrkeid põhjustada võiva finantskriisi lahendamine või ennetamine;
 
 2) välisriigi, euroala või selle liikmesriigi finantsstabiilsuse tagamine;
 
