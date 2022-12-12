@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 12.12.2022 kell 11.10",
+  "sitting_time": "2022-12-12T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b23ed8d2-9fc5-4d97-afab-ed5f4766dbc2"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine Riigimetsa Majandamise Keskuse uue juhiga",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1efe7d76-b887-4891-aab9-2c4329712583"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "210369e2-4b4c-4f0a-a8f4-af1640b5179c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 12.12.2022",
+      "uuid": "e099dbf3-66a9-402c-aa32-c07b1bdd3a83",
+      "files": [
+        "MAEK_protokoll_12.12.2022.asice",
+        "175_protokoll_12.12.22.pdf",
+        "175_protokolli_lisa__RMK.pdf"
+      ]
+    }
+  ],
+  "uuid": "b44b0620-baba-4635-95fe-07856d2f67b1",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b44b0620-baba-4635-95fe-07856d2f67b1)",
+  "source": "https://api.riigikogu.ee/api/volumes/b44b0620-baba-4635-95fe-07856d2f67b1",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-12-01&endDate=2022-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
