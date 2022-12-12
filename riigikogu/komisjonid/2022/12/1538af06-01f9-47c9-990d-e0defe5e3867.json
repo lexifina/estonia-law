@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung esmaspäev, 12.12.2022 kell 11.10",
+  "sitting_time": "2022-12-12T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6ea98934-3c7a-4f38-bf0b-e6fe08858617"
+    },
+    {
+      "order": 2,
+      "title": "Keskkonnakomisjoni 8. istungjärgu kokkuvõtete tegemine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2fce77d1-b44d-4983-94f1-7cc90eb74141"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK protokoll 12.12.2022",
+      "uuid": "cc6591de-199b-43da-90fd-9992c1d180c3",
+      "files": [
+        "KEKK_protokoll_12.12.2022.pdf",
+        "KEKK_protokoll_12.12.2022.asice"
+      ]
+    }
+  ],
+  "uuid": "1538af06-01f9-47c9-990d-e0defe5e3867",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 1538af06-01f9-47c9-990d-e0defe5e3867)",
+  "source": "https://api.riigikogu.ee/api/volumes/1538af06-01f9-47c9-990d-e0defe5e3867",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-12-01&endDate=2022-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
