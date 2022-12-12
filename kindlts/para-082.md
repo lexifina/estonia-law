@@ -24,13 +24,13 @@
 
 (7) Miinimumkapitalinõude alammäär on:
 
-1) 3,7 miljonit eurot, kui kindlustusandjal on õigus tegeleda elukindlustuse, käesoleva seaduse § 12 lõike 1 punktides 10–15 nimetatud kahjukindlustuse liikide või edasikindlustusega;
+1) 4 miljonit eurot, kui kindlustusandjal on õigus tegeleda elukindlustuse, käesoleva seaduse § 12 lõike 1 punktides 10–15 nimetatud kahjukindlustuse liikide või edasikindlustusega;
 
-2) 2,5 miljonit eurot, kui kindlustusandjal on õigus tegeleda käesoleva lõike punktis 1 nimetamata kahjukindlustuse liikidega;
+2) 2,7 miljonit eurot, kui kindlustusandjal on õigus tegeleda käesoleva lõike punktis 1 nimetamata kahjukindlustuse liikidega;
 
-3) 1,2 miljonit eurot, kui tegemist on käesoleva seaduse § 8 lõikes 2 nimetatud kaptiivedasikindlustusandjaga;
+3) 1,3 miljonit eurot, kui tegemist on käesoleva seaduse § 8 lõikes 2 nimetatud kaptiivedasikindlustusandjaga;
 
-4) 6,2 miljonit eurot vastavalt komisjoni delegeeritud määruse (EL) nr 2015/35 artiklile 253, kui tegemist on käesoleva seaduse § 16 lõikes 6 nimetatud kindlustusandjaga.
+4) 6,7 miljonit eurot vastavalt komisjoni delegeeritud määruse (EL) 2015/35 artiklile 253, kui tegemist on käesoleva seaduse § 16 lõikes 6 nimetatud kindlustusandjaga.
 
 (8) Kui kindlustusandja saab miinimumkapitalinõude arvutamisel tulemuseks suuruse, mis on alla 25 protsendi või üle 45 protsendi kindlustusandja solventsuskapitalinõudest, millele on vajaduse korral juurde arvestatud lisakapitalinõue, on kindlustusandja miinimumkapitalinõudeks vastavalt 25 protsenti või 45 protsenti sellest solventsuskapitalinõudest, kui saadud suurus ei ole väiksem miinimumkapitalinõude alammäärast.
 

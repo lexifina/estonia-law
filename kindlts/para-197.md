@@ -25,3 +25,5 @@
 (6) Kui kindlustuse turustamine on kindlustusagentuuri kõrvaltegevus, peab käesoleva paragrahvi lõigetes 1, 3 ja 5 sätestatud tingimustele vastama juhatuse liige, kes vastutab kindlustuse turustamise eest.
 
 (7) Käesoleva seaduse §-s 178 sätestatud kindlustusalaste teadmiste omandamise võimaluse peab käesolevas paragrahvis nimetatud isikutele tagama kindlustusandja, kelle kindlustuslepinguid need isikud vahendavad.
+
+(8) Finantsinspektsioon teavitab kindlustusagendi nimekirja kandmisel ja edaspidi lepinguriigi finantsjärelevalveasutust käesoleva paragrahvi lõigetes 1 ja 2 sätestatust, kui see on asjakohane kindlustuse turustamise järelevalvega seotud ülesannete täitmiseks.

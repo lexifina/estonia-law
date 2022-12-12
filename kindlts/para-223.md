@@ -8,13 +8,13 @@
 
 (3¹) Finantsinspektsiooni ja teise lepinguriigi finantsjärelevalve asutuse kokkuleppel võib Eesti vahendaja teises lepinguriigis asutatud filiaali üle järelevalvet teostada selle lepinguriigi finantsjärelevalve asutus Euroopa Parlamendi ja nõukogu direktiivi (EL) 2016/97 IV–VII peatükis sätestatud nõuete ulatuses.
 
-(3²) Finantsinspektsioon teavitab käesoleva paragrahvi lõikes 3¹ nimetatud kokkuleppest kõnealust Eesti vahendajat ning Euroopa Kindlustus- ja Tööandjapensionide Järelevalve Asutust.
+(3²) Finantsinspektsioon teavitab käesoleva paragrahvi lõikes 3¹ nimetatud kokkuleppest viivitamata kõnealust Eesti vahendajat ning Euroopa Kindlustus- ja Tööandjapensionide Järelevalve Asutust.
 
 (4) Eesti kindlustusandja või vahendaja kolmandas riigis asutatud filiaali või piiriülese kindlustustegevuse või kindlustuse turustamise üle teostab järelevalvet Finantsinspektsioon, kui kolmanda riigi finantsjärelevalve asutuse ja Finantsinspektsiooni vahel ei ole kokku lepitud teisiti.
 
 (5) Teise lepinguriigi kindlustusandja või vahendaja Eestis asutatud filiaali või piiriülese kindlustustegevuse või kindlustuse turustamise üle teostab järelevalvet lepinguriigi finantsjärelevalve asutus.
 
-(5¹) Finantsinspektsioon teostab teise lepinguriigi filiaali üle järelevalvet käesoleva seaduse §-des 182, 184–186, 192 ja 198 sätestatud teenuse osutamisega seotud järelevalve ulatuses.
+(5¹) Finantsinspektsioon teostab teise lepinguriigi filiaali üle järelevalvet käesoleva seaduse §-s 177, § 181 lõikes 6, §-des 182, 182¹, 184–186, 192 ja 198 sätestatud teenuse osutamisega seotud järelevalve ulatuses.
 
 (6) Kolmanda riigi kindlustusandja või vahendaja Eestis asutatud filiaali või piiriülese kindlustustegevuse või kindlustuse turustamise üle teostab järelevalvet Finantsinspektsioon, kui kolmanda riigi finantsjärelevalve asutuse ja Finantsinspektsiooni vahel ei ole kokku lepitud teisiti.
 

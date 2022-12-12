@@ -23,3 +23,5 @@
 (5) Kindlustusmaakleri juhatuse liikmel, kes vastutab kindlustuse turustamise eest, peab lisaks käesoleva paragrahvi lõigetes 1, 2 ja 4 sätestatule olema kindlustusalase või muu finantsteenuse alase töö kogemus.
 
 (6) Käesoleva paragrahvi lõikes 1 nimetatud isik ei või teha tehinguid ega sõlmida kokkuleppeid, millest tulenevalt ei ole kindlustusmaakleril võimalik täita käesoleva seaduse §-s 177 sätestatud hoolsuskohustust või §-s 184 sätestatud lojaalsuskohustust.
+
+(7) Finantsinspektsioon teavitab kindlustusmaakleri nimekirja kandmisel ja edaspidi lepinguriigi finantsjärelevalveasutust käesoleva paragrahvi lõigetes 1 ja 5 sätestatust, kui see on asjakohane kindlustuse turustamise järelevalvega seotud ülesannete täitmiseks.
