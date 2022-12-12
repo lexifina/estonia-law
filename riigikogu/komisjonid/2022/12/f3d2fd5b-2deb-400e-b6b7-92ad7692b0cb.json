@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni väljasõiduistung esmaspäev, 12.12.2022 kell 13.00",
+  "sitting_time": "2022-12-12T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5b882d23-18c5-4ded-b68b-eb920ec2d1d2"
+    },
+    {
+      "order": 2,
+      "title": "Aasta kokkuvõtte tegemine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "36ba3e42-f765-4667-bce3-a63447aaa895"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 12.12.22",
+      "uuid": "ab73fbdb-63a7-4f68-86d6-2c0ba9701d04",
+      "files": [
+        "REKK_protokoll_12.12.22.asice",
+        "Protokoll_nr_158_12.12.22.pdf"
+      ]
+    }
+  ],
+  "uuid": "f3d2fd5b-2deb-400e-b6b7-92ad7692b0cb",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f3d2fd5b-2deb-400e-b6b7-92ad7692b0cb)",
+  "source": "https://api.riigikogu.ee/api/volumes/f3d2fd5b-2deb-400e-b6b7-92ad7692b0cb",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-12-01&endDate=2022-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
