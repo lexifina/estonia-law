@@ -1,0 +1,42 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Korruptsioonivastane erikomisjon",
+  "committee_uuid": "e4f2977a-e8c3-4fa0-8f3d-9df9acd6377f",
+  "title": "Komisjoni istung teisipäev, 13.12.2022 kell 13.00",
+  "sitting_time": "2022-12-13T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d6348599-d13b-44fe-a963-fe587e501e1d"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine riigi peaprokuröri Andres Parmasega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "155b58b2-91f7-43f5-bb24-5a46140b9207"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KVEK protokoll 13.12.2022",
+      "uuid": "8208a78f-fd53-4c49-afc8-017172923544",
+      "files": [
+        "KVEK_protokoll_13.12.2022.asice",
+        "Ülevaade_prokuratuuri_tegevusest_slaidid_2022.pptx",
+        "KVEK_protokoll_13.12.2022.pdf",
+        "Asendusliikme_volikiri.pdf"
+      ]
+    }
+  ],
+  "uuid": "aa2673ae-8112-4877-a8c6-0c81d9f70f06",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid aa2673ae-8112-4877-a8c6-0c81d9f70f06)",
+  "source": "https://api.riigikogu.ee/api/volumes/aa2673ae-8112-4877-a8c6-0c81d9f70f06",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-12-01&endDate=2022-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
