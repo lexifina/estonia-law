@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung teisipäev, 13.12.2022 kell 14.00",
+  "sitting_time": "2022-12-13T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Istungjärgu kokkuvõte ja komisjoni töö planeerimine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c84ec42c-aa04-4178-a0da-5c858c5676f7"
+    },
+    {
+      "order": 2,
+      "title": "Töötukassa tööturukoolitused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b7835fdf-602a-4231-8992-e64b04bcff39"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fad30ff8-5c77-4018-b764-93daee8cdf25"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KULK protokoll (13.12.2022)",
+      "uuid": "dcc8bfb0-0db1-4488-8f5c-5e2abee65f01",
+      "files": [
+        "KULK_protokoll_(13.12.2022).asice",
+        "Protokoll_220_(13.10.2022).pdf"
+      ]
+    }
+  ],
+  "uuid": "b8d18ef7-2399-4ef6-94b4-2d80414ff0d1",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b8d18ef7-2399-4ef6-94b4-2d80414ff0d1)",
+  "source": "https://api.riigikogu.ee/api/volumes/b8d18ef7-2399-4ef6-94b4-2d80414ff0d1",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-12-01&endDate=2022-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
