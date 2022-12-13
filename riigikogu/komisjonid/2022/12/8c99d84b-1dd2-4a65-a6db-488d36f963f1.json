@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 13.12.2022 kell 13.00",
+  "sitting_time": "2022-12-13T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kokkuvõte maaelukomisjoni sügisistungjärgu ja 2022. aasta töödest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "725483cd-43cb-4c6a-9098-37bcf949108d"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "39544a48-86e3-4dd4-928c-f0f938e65607"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 13.12.2022",
+      "uuid": "b6d55671-b638-4db9-ae85-c2377d971015",
+      "files": [
+        "MAEK_protokoll_13.12.2022.asice",
+        "Protokolli_lisa__MAEK_2022_ülevaade.pdf",
+        "176_protokoll_13.12.22.pdf"
+      ]
+    }
+  ],
+  "uuid": "8c99d84b-1dd2-4a65-a6db-488d36f963f1",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8c99d84b-1dd2-4a65-a6db-488d36f963f1)",
+  "source": "https://api.riigikogu.ee/api/volumes/8c99d84b-1dd2-4a65-a6db-488d36f963f1",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-12-01&endDate=2022-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
