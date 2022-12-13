@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung teisipäev, 13.12.2022 kell 14.00",
+  "sitting_time": "2022-12-13T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Rahanduskomisjoni tegevuse kokkuvõte VIII istungjärgul",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "50ab1451-9d1f-4d59-a0ab-f7dd73d5c67d"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f60b4297-41c7-432b-a9da-6f1c77f6068d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 13.12.2022",
+      "uuid": "271c7977-debd-4848-b3a8-a24b7416d37d",
+      "files": [
+        "RAHK_protokoll_13.12.2022.asice",
+        "RAHK_protokoll_228_13_12_2022.pdf",
+        "RAHK_protokoll_228_13_12_2022_aruanne_VIII_istungjärgul_12.09-15.12.22_lisa_1.pdf"
+      ]
+    }
+  ],
+  "uuid": "792d4eaf-036a-4731-a390-6b0aedc14008",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 792d4eaf-036a-4731-a390-6b0aedc14008)",
+  "source": "https://api.riigikogu.ee/api/volumes/792d4eaf-036a-4731-a390-6b0aedc14008",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-12-01&endDate=2022-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
