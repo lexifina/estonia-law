@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung kolmapäev, 14.12.2022 kell 09.00",
+  "sitting_time": "2022-12-14T09:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Universaalteenusest ettevõtjatele",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f7764c45-1aec-484e-9513-e7c001ec29f1"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3a5f232a-70fd-4621-bc42-5fbd2ba98369"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 14.12.22",
+      "uuid": "22bdfb80-8b48-438e-805a-f5c1ba72f57c",
+      "files": [
+        "REKK_protokoll_14.12.22.asice",
+        "Protokoll_nr_160_14.12.12.pdf"
+      ]
+    }
+  ],
+  "uuid": "b3791e92-191f-4794-9fb8-2edb2141d897",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b3791e92-191f-4794-9fb8-2edb2141d897)",
+  "source": "https://api.riigikogu.ee/api/volumes/b3791e92-191f-4794-9fb8-2edb2141d897",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2022-12-01&endDate=2022-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
