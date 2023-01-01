@@ -10,8 +10,6 @@
 
 (5) Direktiivi lisa 1 8. jao C jaotise punkti 17 alapunktis g sätestatud tingimustele vastav teabevahetusest välistatud muu kui direktiivis nimetatud finantskonto on:
 
-1) pensionileping kogumispensionide seaduse § 41 tähenduses;
-
-2) täiendava kogumispensioni kindlustusleping kogumispensionide seaduse § 62 tähenduses, mille tagastusväärtuse väljamaksmine kindlustusvõtjale on kogumispensionide seaduse § 63 lõike 5⁴ kohaselt välistatud või mille kindlustuspensioni maksmise tähtpäev on saabunud;
+1) pensionileping kogumispensionide seaduse § 45 lõike 1 tähenduses;
 
 3) väärtpaberikonto, kus ei ole registreeritud muid osakuid peale kogumispensionide seaduses nimetatud kohustusliku ja vabatahtliku pensionifondi osakute.

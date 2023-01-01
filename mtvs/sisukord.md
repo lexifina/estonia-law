@@ -12,6 +12,14 @@
 
 2³. peatükk Piiriüleste skeemide alane automaatne teabevahetus Euroopa Liidus
 
+2⁴. peatükk Platvormialase teabe automaatne vahetus
+
+- 1. jagu Terminid
+
+- 2. jagu Hoolsusmeetmed ja teabe esitamine
+
+- 3. jagu Liiduväline platvormihaldur
+
 3. peatükk Järelevalve
 
 4. peatükk Rakendussätted

@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/124112020007> (version in force from 2020-12-04)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/129122022028> (version in force from 2023-01-01)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -61,9 +61,25 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/124112020007> (version in force 
 | [§ 20¹⁷](para-020b17.md) | Asjaomase maksukohustuslase aruandekohustus |
 | [§ 20¹⁸](para-020b18.md) | Asjaomase maksukohustuslase aruande esitamise riik |
 | [§ 20¹⁹](para-020b19.md) | Asjaomaste maksukohustuslaste paljusus |
+| **2⁴. peatükk Platvormialase teabe automaatne vahetus** | |
+| **1. jagu Terminid** | |
+| [§ 20²⁰](para-020b20.md) | Platvorm |
+| [§ 20²¹](para-020b21.md) | Aruandekohustusega hõlmatud tegevus |
+| [§ 20²²](para-020b22.md) | Müüja |
+| [§ 20²³](para-020b23.md) | Platvormihaldur |
+| **2. jagu Hoolsusmeetmed ja teabe esitamine** | |
+| [§ 20²⁴](para-020b24.md) | Hoolsusmeetmete rakendamine |
+| [§ 20²⁵](para-020b25.md) | Aruandlusega hõlmatud müüja ja kinnisasja või selle osa kohta teabe esitamine |
+| [§ 20²⁶](para-020b26.md) | Hoolsusmeetmed ja esitatava teabe loetelu |
+| [§ 20²⁷](para-020b27.md) | Platvormihalduri vabastamine käesolevas peatükis sätestatud kohustustest |
+| **3. jagu Liiduväline platvormihaldur** | |
+| [§ 20²⁸](para-020b28.md) | Liiduvälise platvormihalduri registreerimiskohustus |
+| [§ 20²⁹](para-020b29.md) | Liiduvälise platvormihalduri registreeringu kehtetuks tunnistamine |
+| [§ 20³⁰](para-020b30.md) | Liiduvälise platvormihalduri vabastamine registreerimis- ja teabe esitamise kohustusest |
 | **3. peatükk Järelevalve** | |
 | [§ 21](para-021.md) | Järelevalveasutus |
 | [§ 22](para-022.md) | Sunniraha |
+| [§ 22¹](para-022b1.md) | Platvormile juurdepääsul hoiatuse kuvamine ja juurdepääsu piiramine teabe esitamata jätmise tõttu |
 | **4. peatükk Rakendussätted** | |
 | [§ 23](para-023.md) | Teabe töötlusest teavitamine ja maksukohustuslaste identifitseerimisnumbrite kogumine |
 | [§ 23¹](para-023b1.md) | Käesoleva seaduse 1¹. peatüki rakendamine |
@@ -71,6 +87,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/124112020007> (version in force 
 | [§ 23³](para-023b3.md) | Käesoleva seaduse 2¹. peatüki rakendamine |
 | [§ 23⁴](para-023b4.md) | Käesoleva seaduse 2². peatüki rakendamine |
 | [§ 23⁵](para-023b5.md) | Käesoleva seaduse 2³. peatüki rakendamine |
+| [§ 23⁶](para-023b6.md) | Käesoleva seaduse 2⁴. peatüki rakendamine |
 | [§ 24](para-024.md) |  |
 | [§ 28](para-028.md) |  |
 | [§ 29](para-029.md) | Seaduse jõustumine |

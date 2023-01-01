@@ -14,6 +14,8 @@
 
 4) makstud pension;
 
-5) kinnisvaratulu.
+5) kinnisvaratulu;
+
+6) litsentsitasu.
 
 (4) Maksuhaldur võib teabevahetuse toimimise täpsustamiseks sõlmida välisriigi pädeva ametiasutusega ametkondliku välislepingu.

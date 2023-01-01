@@ -4,7 +4,7 @@ Käesolevas seaduses kasutatakse termineid järgmises tähenduses:
 
 1) maksuhaldur on Maksu- ja Tolliamet;
 
-2) õiguslik moodustis on Eesti seaduste alusel asutatud juriidilise isiku staatuseta isikuteühendus või varakogum ning isiku või juriidilise isiku staatuseta välismaise isikuteühenduse või varakogumi Eesti filiaal;
+2) õiguslik moodustis on juriidilise isiku staatuseta isikuteühendus või varakogum ning isiku või juriidilise isiku staatuseta isikuteühenduse või varakogumi filiaal;
 
 3) teabeandjale andmete esitaja on isik või õiguslik moodustis, kes käesoleva seaduse või muu õigusakti alusel esitab teabeandjale käesoleva seaduse täitmiseks kasutatavaid andmeid;
 

@@ -4,7 +4,7 @@
 
 1) maksukohustuslast tuvastada võimaldavad andmed ning vajaduse korral andmed isikute grupi kohta, millesse isik kuulub;
 
-2) sisukokkuvõte, juhindudes ärisaladuse hoidmise kohustusest;
+2) sisukokkuvõte, sealhulgas asjakohase äritegevuse või tehingu või tehingute kogumi kirjeldus ja muu maksuriski hindamiseks oluline teave, juhindudes ärisaladuse hoidmise kohustusest;
 
 3) eelotsuse andmise kuupäev;
 
