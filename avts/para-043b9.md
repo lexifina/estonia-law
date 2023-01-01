@@ -8,15 +8,13 @@
 
 3) ;
 
-4) ;
-
 5) ;
 
 6) .
 
 (2) võib käesoleva paragrahvi lõikes 1 nimetatud kindlustavate süsteemide ja nende rakendamise korra kehtestamise õiguse anda asjaomasele ministrile.
 
-(3) Riigi infosüsteemi kindlustavate süsteemide kasutamine on kohustuslik kõigi riigi ja kohaliku omavalitsuse andmekogude pidamisel. Käesoleva seaduse § 43³ lõikes 4 nimetatud andmekogule on kohustuslikud käesoleva paragrahvi lõike 1 punktides 1, 2, 4 ja 6 nimetatud kindlustavad süsteemid.
+(3) Riigi infosüsteemi kindlustavate süsteemide kasutamine on kohustuslik kõigi riigi ja kohaliku omavalitsuse andmekogude pidamisel. Käesoleva seaduse § 43³ lõikes 4 nimetatud andmekogu pidamiseks on kohustuslikud käesoleva paragrahvi lõike 1 punktides 1, 2 ja 6 nimetatud kindlustavad süsteemid.
 
 (4) Riigi infosüsteemi kindlustavate süsteemide kasutamise kohustuse suhtes võib kooskõlastatult Majandus- ja Kommunikatsiooniministeeriumiga teha erandi rahvusvahelisest lepingust tulenevate ülesannete täitmiseks asutatud andmekogule.
 
