@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung esmaspäev, 9.01.2023 kell 11.10",
+  "sitting_time": "2023-01-09T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6053ceac-1c43-474d-958e-970a166edb1f"
+    },
+    {
+      "order": 2,
+      "title": "Ühisveevärgi ja -kanalisatsiooni seaduse eelnõu (523 SE) teise lugemise ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1d28aaac-088b-481d-b127-020a29e5f7ee"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK protokoll 09.01.2023",
+      "uuid": "b3e4f668-35ab-46ed-9667-5fa171b1c5e1",
+      "files": [
+        "KEKK_protokoll_09.01.2023.pdf",
+        "KEKK_protokoll_09.01.2023.asice"
+      ]
+    }
+  ],
+  "uuid": "40ff129f-d5f7-4902-8929-99a00968dca5",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 40ff129f-d5f7-4902-8929-99a00968dca5)",
+  "source": "https://api.riigikogu.ee/api/volumes/40ff129f-d5f7-4902-8929-99a00968dca5",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-01-01&endDate=2023-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
