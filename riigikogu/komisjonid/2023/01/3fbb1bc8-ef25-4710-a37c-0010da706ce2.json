@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung teisipäev, 10.01.2023 kell 14.00",
+  "sitting_time": "2023-01-10T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade kohalike omavalitsuste kriisivalmidusest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "42729bac-501c-400c-b877-a21a43ac8172"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad Euroopa Liidu küberkerksuse määruse kohta - COM(2022) 454 (1-2/22-661/3)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7783d1e4-8ea9-4f62-82a3-51212a1b5f13"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RIKK 10.01.2023 protokoll",
+      "uuid": "f52a44ab-d934-4b93-8d8e-82902eaad220",
+      "files": [
+        "RIKK_10.01.2023_protokoll.asice",
+        "Protokoll_nr_232__10.01.2023.pdf"
+      ]
+    }
+  ],
+  "uuid": "3fbb1bc8-ef25-4710-a37c-0010da706ce2",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3fbb1bc8-ef25-4710-a37c-0010da706ce2)",
+  "source": "https://api.riigikogu.ee/api/volumes/3fbb1bc8-ef25-4710-a37c-0010da706ce2",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-01-01&endDate=2023-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
