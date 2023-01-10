@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung teisipäev, 10.01.2023 kell 14.00",
+  "sitting_time": "2023-01-10T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Välisluureameti peadirektoriga",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c032a78f-7ec6-4078-b05c-66fec8ebb2f4"
+    },
+    {
+      "order": 2,
+      "title": "Informatsioon julgeolekuolukorra arengutest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d98b51a2-eede-41ed-b80d-494207313c37"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b26630c1-0b11-4758-84f8-1ceecabdd140"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 10.01.2023 nr 298",
+      "uuid": "30746e80-622f-4197-a4c6-4d11c934f730",
+      "files": [
+        "VÄLK_protokoll_10.01.2023_nr_298.asice",
+        "VÄLK_protokoll_10.01.2023.pdf"
+      ]
+    }
+  ],
+  "uuid": "fb5251f8-4d80-48c4-91f6-4ea9af2b0d10",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid fb5251f8-4d80-48c4-91f6-4ea9af2b0d10)",
+  "source": "https://api.riigikogu.ee/api/volumes/fb5251f8-4d80-48c4-91f6-4ea9af2b0d10",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-01-01&endDate=2023-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
