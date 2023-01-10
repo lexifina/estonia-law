@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung teisipäev, 10.01.2023 kell 14.00",
+  "sitting_time": "2023-01-10T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Õpetajate järelkasv",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4f086359-f94f-4777-818f-7c6d98047851"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu otsus „Ettepaneku tegemine Vabariigi Valitsusele\" (593 OE) esimese lugemise ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "97bb9496-1927-4f92-baf7-27ec76c4c920"
+    },
+    {
+      "order": 3,
+      "title": "Ülevaade riiklike õppekavade planeeritud muudatustest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "85a0b63a-77f3-47c7-a38f-15123165aa22"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a6eeaeb1-1a2f-4bdf-8fb5-de831793e266"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KULK protokoll (10.01.2023)",
+      "uuid": "313af013-50ef-4b31-9afe-35bad8ef8952",
+      "files": [
+        "KULK_protokoll_(10.01.2023).asice",
+        "Protokoll_240_(10.01.2023).pdf"
+      ]
+    }
+  ],
+  "uuid": "2d825be2-5951-4fda-9ebe-fec13ba4ba02",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2d825be2-5951-4fda-9ebe-fec13ba4ba02)",
+  "source": "https://api.riigikogu.ee/api/volumes/2d825be2-5951-4fda-9ebe-fec13ba4ba02",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-01-01&endDate=2023-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
