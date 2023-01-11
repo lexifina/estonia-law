@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung kolmapäev, 11.01.2023 kell 09.00",
+  "sitting_time": "2023-01-11T09:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ravimite kättesaadavus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "33eeee85-e6a9-4279-81d3-35c948635aa8"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "eb8df090-f799-4412-aae7-e9048c9fa9e4"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 11.01.23",
+      "uuid": "ebf21be9-3bc1-4245-9d28-6211141eeac1",
+      "files": [
+        "REKK_protokoll_11.01.23.asice",
+        "Protokoll_nr_162_11.01.23.pdf"
+      ]
+    }
+  ],
+  "uuid": "b2010f1a-7a49-48fd-9e9e-5d2264abc1e8",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b2010f1a-7a49-48fd-9e9e-5d2264abc1e8)",
+  "source": "https://api.riigikogu.ee/api/volumes/b2010f1a-7a49-48fd-9e9e-5d2264abc1e8",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-01-01&endDate=2023-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
