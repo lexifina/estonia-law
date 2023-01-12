@@ -1,0 +1,44 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung neljapäev, 12.01.2023 kell 14.00",
+  "sitting_time": "2023-01-12T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Majanduskomisjoni algatatud elektrituruseaduse ja teiste seaduste muutmise seaduse eelnõu (696 SE) teise lugemise ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cec9523a-f73f-4377-8d88-3522b44c21c7"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "57f219ba-8304-4fc7-8586-a0426b63173b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAJK protokoll nr 220 12.01.2023",
+      "uuid": "2760b3d9-0971-49d1-bf8f-b562fa4f0cde",
+      "files": [
+        "Komisjoni_asendamine_12.01.2023.doc",
+        "Asendusliikme_volikiri_Tamm.asice",
+        "asendus.docx",
+        "MAJK_protokoll_nr_220_12.01.2023.pdf",
+        "Asendusliikme_volikiri_Kallas.asice",
+        "MAJK_protokoll_nr_220_12.01.2023.asice"
+      ]
+    }
+  ],
+  "uuid": "b2ea6e0a-466b-401b-a277-5f3dc7237005",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b2ea6e0a-466b-401b-a277-5f3dc7237005)",
+  "source": "https://api.riigikogu.ee/api/volumes/b2ea6e0a-466b-401b-a277-5f3dc7237005",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-01-01&endDate=2023-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
