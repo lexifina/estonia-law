@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung esmaspäev, 16.01.2023 kell 11.15",
+  "sitting_time": "2023-01-16T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b0fe62da-7d3c-4822-8460-3b84c285f4ed"
+    },
+    {
+      "order": 2,
+      "title": "Makse- ja arveldussüsteemide seaduse eelnõu (743 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f02ce781-10b3-4812-aada-aefc11a4956a"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1b7be572-32fe-4c97-b697-8f5d0be1dfb5"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 16.01.2023",
+      "uuid": "f8bdda23-7f32-42e9-8d2d-da83bdef17f4",
+      "files": [
+        "RAHK_protokoll_16.01.2023.asice",
+        "RAHK_protokoll_230_16_01_2023.pdf"
+      ]
+    }
+  ],
+  "uuid": "e22a586d-5635-40a2-a417-3f534cc2e5f0",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e22a586d-5635-40a2-a417-3f534cc2e5f0)",
+  "source": "https://api.riigikogu.ee/api/volumes/e22a586d-5635-40a2-a417-3f534cc2e5f0",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-01-01&endDate=2023-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
