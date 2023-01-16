@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung esmaspäev, 16.01.2023 kell 11.10",
+  "sitting_time": "2023-01-16T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8c0cf635-d6ee-4969-8684-eb858c3a74f9"
+    },
+    {
+      "order": 2,
+      "title": "Atmosfääriõhu kaitse seaduse muutmise seaduse eelnõu (765 SE) esimese lugemise ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "197c1b3b-7a30-4199-ac94-44f83afe8cbd"
+    },
+    {
+      "order": 3,
+      "title": "Riigikogu otsus „Riigikogu otsuse „Kliimapoliitika põhialused aastani 2050ˮ muutmine\" (616 OE) teise lugemise ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "39c6eac0-c2da-49f2-b037-37a21deb701f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK protokoll 16.01.2023",
+      "uuid": "cde47c11-361a-474c-89a8-1459a1fe2b38",
+      "files": [
+        "KEKK_protokoll_16.01.2023.pdf",
+        "KEKK_protokoll_16.01.2023.asice"
+      ]
+    }
+  ],
+  "uuid": "91817d32-b6ee-402a-9ff2-29655fecfde3",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 91817d32-b6ee-402a-9ff2-29655fecfde3)",
+  "source": "https://api.riigikogu.ee/api/volumes/91817d32-b6ee-402a-9ff2-29655fecfde3",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-01-01&endDate=2023-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
