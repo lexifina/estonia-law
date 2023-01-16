@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung esmaspäev, 16.01.2023 kell 11.15",
+  "sitting_time": "2023-01-16T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "26185bea-35e3-49ab-bec8-c27485731e49"
+    },
+    {
+      "order": 2,
+      "title": "Välisteenistuse seaduse muutmise ja sellega seonduvalt teiste seaduste muutmise seaduse eelnõu (45 UA)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bd218f51-7bcc-4aa7-9b3d-65a3c218edc1"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7ac9b3f1-80fe-4e8f-ad7e-9c2e177da053"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 16.01.2023 nr 299",
+      "uuid": "32d0367d-9fa0-4398-a813-b1cdd82d3dce",
+      "files": [
+        "VÄLK_protokoll_16.01.2023_nr_299.asice",
+        "VÄLK_protokoll_16.01.2023.pdf"
+      ]
+    }
+  ],
+  "uuid": "d61bc458-ffaa-4004-8402-9b23e0977d3c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d61bc458-ffaa-4004-8402-9b23e0977d3c)",
+  "source": "https://api.riigikogu.ee/api/volumes/d61bc458-ffaa-4004-8402-9b23e0977d3c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-01-01&endDate=2023-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
