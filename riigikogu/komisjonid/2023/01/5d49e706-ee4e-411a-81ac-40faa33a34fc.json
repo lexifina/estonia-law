@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Korruptsioonivastane erikomisjon",
+  "committee_uuid": "e4f2977a-e8c3-4fa0-8f3d-9df9acd6377f",
+  "title": "Komisjoni istung esmaspäev, 16.01.2023 kell 13.30",
+  "sitting_time": "2023-01-16T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2b86b284-d20d-4a38-8f5d-912f2edd2335"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine Politsei- ja Piirivalveameti korruptsioonikuritegude büroo juhi Ats Kübarsepaga",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ab70bff5-cafd-44fb-ba9c-76a60baf92bf"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8c9f544a-a872-451d-adfe-4d4b328524e8"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KVEK protokoll 16.01.2023",
+      "uuid": "22d85b82-2e86-458d-9f1a-64b04308935f",
+      "files": [
+        "KVEK_protokoll_16.01.2023.asice",
+        "KVEK_protokoll_16.01.2023.pdf"
+      ]
+    }
+  ],
+  "uuid": "5d49e706-ee4e-411a-81ac-40faa33a34fc",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 5d49e706-ee4e-411a-81ac-40faa33a34fc)",
+  "source": "https://api.riigikogu.ee/api/volumes/5d49e706-ee4e-411a-81ac-40faa33a34fc",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-01-01&endDate=2023-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
