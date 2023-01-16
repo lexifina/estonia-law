@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Julgeolekuasutuste järelevalve erikomisjon",
+  "committee_uuid": "d3826f36-707d-17ad-41e8-8b99f9910b98",
+  "title": "Komisjoni istung esmaspäev, 16.01.2023 kell 13.30",
+  "sitting_time": "2023-01-16T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dfe6cb09-80d5-46a3-a2b5-243204c5d303"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine Välisluureameti peadirektoriga. Ülevaade julgeolekuolukorra arengutest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dd7c134c-cd77-4961-9240-ad2d4a87caf5"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "JAJK 16.01.2023 protokoll",
+      "uuid": "e1012228-7f31-4900-ada3-a97227ee54ac",
+      "files": [
+        "JAJK_16.01.2023_protokoll.pdf",
+        "JAJK_16.01.2023_protokoll.asice"
+      ]
+    }
+  ],
+  "uuid": "6db41f88-f02f-4462-894f-8a23b73b33ad",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 6db41f88-f02f-4462-894f-8a23b73b33ad)",
+  "source": "https://api.riigikogu.ee/api/volumes/6db41f88-f02f-4462-894f-8a23b73b33ad",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-01-01&endDate=2023-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
