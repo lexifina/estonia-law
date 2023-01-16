@@ -1,0 +1,53 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 16.01.2023 kell 11.10",
+  "sitting_time": "2023-01-16T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fdde7001-6ef4-4bfb-9526-edd99f75c1a4"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud kohanimeseaduse ja ruumiandmete seaduse muutmise seaduse eelnõu 768 SE arutelu esimese lugemise ettevalmistamiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6e8a1fe2-4b5b-495e-90f6-cd03a6385d9d"
+    },
+    {
+      "order": 3,
+      "title": "Vabariigi Valitsuse algatatud maakatastriseaduse, asjaõigusseaduse ja teiste seaduste muutmise seaduse eelnõu 761 SE arutelu esimese lugemise ettevalmistamiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5cc4bb3a-b5fc-4a1a-8eb6-3b24d45a4a70"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a0d3e3ee-7cd8-4197-9cd0-fd3cd8f05e28"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 16.01.2023",
+      "uuid": "b96a24dc-a3b1-4d7d-a4e4-1024ba609814",
+      "files": [
+        "MAEK_protokoll_16.01.2023.asice",
+        "178_protokolli_lisa__761_SE.pdf",
+        "178_protokoll_16.01.23.pdf"
+      ]
+    }
+  ],
+  "uuid": "6999e572-060b-40a4-af48-4485bf6db702",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 6999e572-060b-40a4-af48-4485bf6db702)",
+  "source": "https://api.riigikogu.ee/api/volumes/6999e572-060b-40a4-af48-4485bf6db702",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-01-01&endDate=2023-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
