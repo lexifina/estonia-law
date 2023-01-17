@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 17.01.2023 kell 14.00",
+  "sitting_time": "2023-01-17T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Toidu varustuskindlus kui elutähtis teenus ja kavandatav toetus toidujulgeoleku tagamiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b3de4b7e-9187-49e4-9198-707caac3cbdc"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c73cf867-5e13-4ea5-a1f7-88f0bbf19968"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 17.01.2023",
+      "uuid": "31456d43-8ff0-4636-9ece-19170a008c4c",
+      "files": [
+        "MAEK_protokoll_17.01.2023.asice",
+        "179_protokoll_17.01.23.pdf",
+        "179_protokolli_lisa__toidu_varustuskindlus.pdf"
+      ]
+    }
+  ],
+  "uuid": "fb1df82d-c95d-4387-9e80-f13851e81716",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid fb1df82d-c95d-4387-9e80-f13851e81716)",
+  "source": "https://api.riigikogu.ee/api/volumes/fb1df82d-c95d-4387-9e80-f13851e81716",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-01-01&endDate=2023-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
