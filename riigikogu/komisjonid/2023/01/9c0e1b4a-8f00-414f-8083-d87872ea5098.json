@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung teisipäev, 17.01.2023 kell 14.00",
+  "sitting_time": "2023-01-17T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigi Infosüsteemi Ameti ülevaade küberturvalisusest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "60e4dc6c-0170-4f05-a23c-061ecf8dffd3"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d8d5b905-20d8-4ddb-a547-05d281717d49"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 17.01.2023 nr 300",
+      "uuid": "ac1d651f-eed2-48ad-b719-ed194894fd0c",
+      "files": [
+        "VÄLK_protokoll_17.01.2023_nr_300.asice",
+        "VÄLK_protokoll_17.01.2022.pdf"
+      ]
+    }
+  ],
+  "uuid": "9c0e1b4a-8f00-414f-8083-d87872ea5098",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9c0e1b4a-8f00-414f-8083-d87872ea5098)",
+  "source": "https://api.riigikogu.ee/api/volumes/9c0e1b4a-8f00-414f-8083-d87872ea5098",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-01-01&endDate=2023-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
