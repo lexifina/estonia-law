@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung kolmapäev, 18.01.2023 kell 09.00",
+  "sitting_time": "2023-01-18T09:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikontrolli kontrolliaruande tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0c9369e2-3ddd-44f4-b094-34ba87386256"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "96533d52-5db6-4169-9025-712efafd7717"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 18.01.23",
+      "uuid": "f2210797-9f2a-4d7a-8861-c2a4804f823d",
+      "files": [
+        "REKK_protokoll_18.01.23.asice",
+        "Protokoll_nr_164_18.01.23.pdf"
+      ]
+    }
+  ],
+  "uuid": "bc90cc08-0245-4ddc-a093-cedf7d938b0e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid bc90cc08-0245-4ddc-a093-cedf7d938b0e)",
+  "source": "https://api.riigikogu.ee/api/volumes/bc90cc08-0245-4ddc-a093-cedf7d938b0e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-01-01&endDate=2023-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
