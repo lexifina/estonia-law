@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung neljapäev, 19.01.2023 kell 14.00",
+  "sitting_time": "2023-01-19T14:00:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Atmosfääriõhu kaitse seaduse muutmise seaduse eelnõu (765 SE) esimese lugemise ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3c698994-3673-45ed-831a-05094485dd96"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu otsuse „Metsanduse arengukava aastani 2030 kinnitamine“ eelnõu (774 OE) arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7eef08e3-e5aa-4520-b767-e8db6d398fd3"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK protokoll 19.01.2023",
+      "uuid": "61ea6e9f-aa5e-4ba8-8200-317af3e35156",
+      "files": [
+        "KEKK_protokoll_19.01.2023.pdf",
+        "KEKK_protokoll_19.01.2023.asice"
+      ]
+    }
+  ],
+  "uuid": "9fc572a9-f3dc-4932-b6ca-8d1136e391ff",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9fc572a9-f3dc-4932-b6ca-8d1136e391ff)",
+  "source": "https://api.riigikogu.ee/api/volumes/9fc572a9-f3dc-4932-b6ca-8d1136e391ff",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-01-01&endDate=2023-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
