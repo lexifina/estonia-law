@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Euroopa Liidu asjade komisjoni istung reede, 20.01.2023 kell 11.00",
+  "sitting_time": "2023-01-20T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "51df8986-9c06-49d7-bacd-f1f13f994e02"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad 23. jaanuaril 2023 toimuval Euroopa Liidu välisasjade nõukogu istungil",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "91255a91-df67-4814-aa76-fb23ceced972"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ff930d45-e30d-42ff-8771-d327c9533c72"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ELAK protokoll 20.01",
+      "uuid": "180ca135-9ac1-4d49-861e-59d2d4e643d5",
+      "files": [
+        "ELAK_protokoll_20.01.asice",
+        "ELAK_protokoll_20.01.2022.pdf"
+      ]
+    }
+  ],
+  "uuid": "f27d8e9e-b26a-4c04-ba6c-4eaf74716464",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f27d8e9e-b26a-4c04-ba6c-4eaf74716464)",
+  "source": "https://api.riigikogu.ee/api/volumes/f27d8e9e-b26a-4c04-ba6c-4eaf74716464",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-01-01&endDate=2023-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
