@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung esmaspäev, 23.01.2023 kell 11.10",
+  "sitting_time": "2023-01-23T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "93d11e5c-ea23-447b-9748-37bdccb27129"
+    },
+    {
+      "order": 2,
+      "title": "Peaministri ülevaade teadus- ja arendustegevuse olukorrast ja valitsuse poliitikast selles valdkonnas",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2a895d3d-9274-435b-bd28-6409b5b0ed27"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "50213110-e919-4eec-8ea8-9179e4b38556"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KULK protokoll (23.01.23)",
+      "uuid": "08acc08d-5292-4af3-890d-80030ef90182",
+      "files": [
+        "KULK_protokoll_(23.01.23).asice",
+        "TA_kõne_teesid_ja_taustainfo_(002).pdf",
+        "Protokoll_244_(23.01.2023).pdf"
+      ]
+    }
+  ],
+  "uuid": "66a9ab3a-e50f-4b57-947d-3c38d9dba43c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 66a9ab3a-e50f-4b57-947d-3c38d9dba43c)",
+  "source": "https://api.riigikogu.ee/api/volumes/66a9ab3a-e50f-4b57-947d-3c38d9dba43c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-01-01&endDate=2023-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
