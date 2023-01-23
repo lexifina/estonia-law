@@ -1,0 +1,53 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung esmaspäev, 23.01.2023 kell 11.10",
+  "sitting_time": "2023-01-23T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1353bb89-8dd6-4b67-9c65-1fc493a765ad"
+    },
+    {
+      "order": 2,
+      "title": "Maapõueseaduse ja sellega seonduvalt teiste seaduste muutmise seaduse eelnõu (745 SE) teise lugemise ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dc0a0f0f-946a-455a-a3fd-56eb4074070a"
+    },
+    {
+      "order": 3,
+      "title": "Ühekordsete pakendijäätmete vähendamise ja korduskasutussüsteemide edendamise uuringu ülevaade",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6299c0c6-9d3a-4f6e-a22a-654f03154689"
+    },
+    {
+      "order": 4,
+      "title": "Ühisveevärgi ja -kanalisatsiooni seaduse eelnõu (523 SE) kolmanda lugemise ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "57f34d89-b283-4e44-919a-697fe3125d92"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK protokoll 23.01.2023",
+      "uuid": "aa4e8663-8238-4c12-bdf7-66d594218ad4",
+      "files": [
+        "KEKK_protokoll_23.01.2023.pdf",
+        "2023_01_23_Pakenditest_Riigikogu_keskkonnakomisjonis.pdf",
+        "KEKK_protokoll_23.01.2023.asice"
+      ]
+    }
+  ],
+  "uuid": "bf0e8fc8-a835-4d62-80d8-c72486aab839",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid bf0e8fc8-a835-4d62-80d8-c72486aab839)",
+  "source": "https://api.riigikogu.ee/api/volumes/bf0e8fc8-a835-4d62-80d8-c72486aab839",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-01-01&endDate=2023-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
