@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung esmaspäev, 23.01.2023 kell 11.15",
+  "sitting_time": "2023-01-23T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ccafcd1f-3d80-42ea-8e43-abf2664942df"
+    },
+    {
+      "order": 2,
+      "title": "Makse- ja arveldussüsteemide seaduse eelnõu (743 SE II)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b2eb170d-2f84-41b1-97ae-351815adad0e"
+    },
+    {
+      "order": 3,
+      "title": "Eesti seisukohad Euroopa Komisjoni välkmaksete ettepaneku kohta - COM(2022) 546 (1-2/22-683/4)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "805e2046-c94e-4a20-8ec7-b08b77ecc299"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a8926e0e-6ccf-4985-90d1-17d0255076c8"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 23.01.2023",
+      "uuid": "12a69963-0d37-414f-adf6-3bddf58b17ae",
+      "files": [
+        "RAHK_protokoll_23.01.2023.asice",
+        "RAHK_protokoll_231_23_01_2023.pdf"
+      ]
+    }
+  ],
+  "uuid": "ff491305-5a1a-4e2f-a67f-fa38d2bae0cf",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ff491305-5a1a-4e2f-a67f-fa38d2bae0cf)",
+  "source": "https://api.riigikogu.ee/api/volumes/ff491305-5a1a-4e2f-a67f-fa38d2bae0cf",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-01-01&endDate=2023-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
