@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung esmaspäev, 23.01.2023 kell 13.30",
+  "sitting_time": "2023-01-23T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "56b4c6e8-47a7-4886-8551-ee79e91997fe"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad 25.-27. jaanuaril 2023 toimuval Euroopa Liidu justiits- ja siseasjade nõukogu mitteametlikul kohtumisel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1dfd4945-6580-449b-85ae-7a5c17e4d917"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a7b72aca-0677-4164-bf8e-e15cc755494d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ELAK protokoll 23.01",
+      "uuid": "fb5a3181-75ae-4597-83a7-354dbda34e5b",
+      "files": [
+        "ELAK_protokoll_23.01.2022.pdf",
+        "ELAK_protokoll_23.01.asice"
+      ]
+    }
+  ],
+  "uuid": "03844def-5e55-40c5-8fd8-18b83470834b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 03844def-5e55-40c5-8fd8-18b83470834b)",
+  "source": "https://api.riigikogu.ee/api/volumes/03844def-5e55-40c5-8fd8-18b83470834b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-01-01&endDate=2023-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
