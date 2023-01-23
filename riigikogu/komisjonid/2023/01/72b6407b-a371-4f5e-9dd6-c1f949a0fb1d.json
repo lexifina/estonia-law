@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 23.01.2023 kell 13.15",
+  "sitting_time": "2023-01-23T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "01e3796e-6286-43b2-9b82-4cafeaee0843"
+    },
+    {
+      "order": 2,
+      "title": "Universaalteenusest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3906bf1a-be43-4be6-8a7f-ef3ee96c288d"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ac67bbe3-0aeb-418a-84ab-0be6ba278be5"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 23.01.23",
+      "uuid": "4e9120db-78e3-42d6-a22e-745a512086ba",
+      "files": [
+        "REKK_protokoll_23.01.23.asice",
+        "Protokoll_nr_165_23.01.23.pdf"
+      ]
+    }
+  ],
+  "uuid": "72b6407b-a371-4f5e-9dd6-c1f949a0fb1d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 72b6407b-a371-4f5e-9dd6-c1f949a0fb1d)",
+  "source": "https://api.riigikogu.ee/api/volumes/72b6407b-a371-4f5e-9dd6-c1f949a0fb1d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-01-01&endDate=2023-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
