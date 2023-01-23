@@ -1,0 +1,54 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 23.01.2023 kell 11.10",
+  "sitting_time": "2023-01-23T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "44d61b84-a4ee-4124-adde-53840b53f168"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli auditi „Omavalitsuste rahastamine toetusfondist“ tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ede4b68c-d7cd-4fb4-a553-ce9258bfd53b"
+    },
+    {
+      "order": 3,
+      "title": "Riigikontrolli auditi „Riigiteede rahastamise jätkusuutlikkus“ tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a1b6720f-c532-4c9f-856f-a2f7dc8d8ad2"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1f664924-4059-4487-9430-1d46fd86ca0e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 23.01.2023",
+      "uuid": "3c17a196-5933-48fc-b265-4f0501d4321c",
+      "files": [
+        "MAEK_protokoll_23.01.2023.asice",
+        "180_protokoll_23.01.23.pdf",
+        "180_protokolli_lisa_2__riigiteede_rahastamine.pdf",
+        "180_protokolli_lisa_1__KOVide_toetusfond.pdf"
+      ]
+    }
+  ],
+  "uuid": "b95fc4ae-52b4-43d2-ae75-7f6168a305c9",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b95fc4ae-52b4-43d2-ae75-7f6168a305c9)",
+  "source": "https://api.riigikogu.ee/api/volumes/b95fc4ae-52b4-43d2-ae75-7f6168a305c9",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-01-01&endDate=2023-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
