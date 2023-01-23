@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung esmaspäev, 23.01.2023 kell 11.15",
+  "sitting_time": "2023-01-23T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1ca852ee-3c2a-4cfd-ac53-17f04aee562e"
+    },
+    {
+      "order": 2,
+      "title": "Eesti suhted Hiina Rahvavabariigiga ja Taiwani piirkonnaga",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "15cf4cca-8dad-4f05-9691-d037fe14be96"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "62a2a340-65d2-4aa9-916c-28fef7b2edb1"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 23.01.2023 nr 302",
+      "uuid": "b06902b1-6812-41b5-8792-e2d9daceefc9",
+      "files": [
+        "VÄLK_protokoll_23.01.2023_nr_302.asice",
+        "VÄLK_protokoll_23.01.2023.pdf"
+      ]
+    }
+  ],
+  "uuid": "ff3b40f9-5f54-4e69-81dc-91c8c0a2f526",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ff3b40f9-5f54-4e69-81dc-91c8c0a2f526)",
+  "source": "https://api.riigikogu.ee/api/volumes/ff3b40f9-5f54-4e69-81dc-91c8c0a2f526",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-01-01&endDate=2023-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
