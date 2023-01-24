@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung teisipäev, 24.01.2023",
+  "sitting_time": "2023-01-24T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Informatsioon Eesti ja Venemaa diplomaatilise esindatuse alandamisest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d932087b-6213-44aa-932e-0b70c7b3fbb1"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade arengutest Iraanis",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5d8ab194-90eb-4069-b13e-fc387ae061eb"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c91b7baa-d9ce-42af-a9a4-0a6159dda9fc"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 24.01.2023 nr 303",
+      "uuid": "bb7f685d-b3a1-4e6a-b3bf-6b995874583b",
+      "files": [
+        "VÄLK_protokoll_24.01.2023_nr_303.asice",
+        "VÄLK_protokoll_24.01.2023.pdf"
+      ]
+    }
+  ],
+  "uuid": "2971efec-8728-4649-bc9b-a516445249e1",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2971efec-8728-4649-bc9b-a516445249e1)",
+  "source": "https://api.riigikogu.ee/api/volumes/2971efec-8728-4649-bc9b-a516445249e1",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-01-01&endDate=2023-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
