@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 24.01.2023 kell 14.00",
+  "sitting_time": "2023-01-24T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Eesti Põllumajandus-Kaubanduskoja uue juhiga",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9dd85d29-fa25-4e74-b9a5-c9c15abfa7a8"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "33b0abba-0507-4f21-bcda-108d4d1e3ee4"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 24.01.2023",
+      "uuid": "0ec504ec-0d4d-48f4-874b-8fa9019d6ce8",
+      "files": [
+        "MAEK_protokoll_24.01.2023.asice",
+        "181_protokolli_lisa__EPKK.pdf",
+        "181-protokoll-24.01.23.pdf"
+      ]
+    }
+  ],
+  "uuid": "2934b92b-37b5-4e05-8b9a-cffad3dff550",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2934b92b-37b5-4e05-8b9a-cffad3dff550)",
+  "source": "https://api.riigikogu.ee/api/volumes/2934b92b-37b5-4e05-8b9a-cffad3dff550",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-01-01&endDate=2023-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
