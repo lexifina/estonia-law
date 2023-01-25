@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung kolmapäev, 25.01.2023 kell 09.00",
+  "sitting_time": "2023-01-25T09:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikontrolli kontrolliaruande „Toimetulekutoetuse kui riikliku sotsiaalabi korraldus“ arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cfccb6a9-d4b0-49e1-900f-80370bbe95df"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b081f80a-460f-4e7f-9826-2c0d508f2197"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 25.01.23",
+      "uuid": "4f8df4c4-4d80-4eb0-b1ab-f5a95a37ff5d",
+      "files": [
+        "REKK_protokoll_25.01.23.asice",
+        "toimetulekutoetus_REK_25.01.2023.pptx",
+        "Protokoll_nr_166_25.01.23.pdf"
+      ]
+    }
+  ],
+  "uuid": "47862992-f656-46be-9dfc-389a8d6a743a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 47862992-f656-46be-9dfc-389a8d6a743a)",
+  "source": "https://api.riigikogu.ee/api/volumes/47862992-f656-46be-9dfc-389a8d6a743a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-01-01&endDate=2023-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
