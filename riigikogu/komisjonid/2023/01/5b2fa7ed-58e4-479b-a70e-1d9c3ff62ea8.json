@@ -1,0 +1,42 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung neljapäev, 26.01.2023 kell 14.00",
+  "sitting_time": "2023-01-26T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Teadus- ja arendustegevuse ning innovatsiooni korralduse seaduse eelnõu (773 SE) esimese lugemise ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d405a724-2c79-41cb-b60d-385542593a28"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fe871736-5502-4b54-8417-4bf73a65430c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KULK protokoll (26.01.2023)",
+      "uuid": "b3b58ebb-0e75-4d5c-930f-0aeb443c28dd",
+      "files": [
+        "asendus_26.01.23_Sutt.asice",
+        "Protokoll_245_(26.01.2023).pdf",
+        "KULK_protokoll_(26.01.2023).asice",
+        "asendus.docx"
+      ]
+    }
+  ],
+  "uuid": "5b2fa7ed-58e4-479b-a70e-1d9c3ff62ea8",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 5b2fa7ed-58e4-479b-a70e-1d9c3ff62ea8)",
+  "source": "https://api.riigikogu.ee/api/volumes/5b2fa7ed-58e4-479b-a70e-1d9c3ff62ea8",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-01-01&endDate=2023-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
