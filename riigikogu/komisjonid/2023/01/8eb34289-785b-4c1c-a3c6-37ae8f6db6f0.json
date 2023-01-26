@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung neljapäev, 26.01.2023 kell 14.00",
+  "sitting_time": "2023-01-26T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade Riigikogus moodustatud välisdelegatsioonide tegevusest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c3f56a5f-ad0b-4bb0-87d8-48b9d119f979"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c6bbd078-0ef1-4d37-a8f1-e67a2cccf099"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 26.01.2023 nr 302",
+      "uuid": "12bd4726-d98f-4544-a3b0-cc2334541713",
+      "files": [
+        "VÄLK_protokoll_26.01.2023_nr_302.asice",
+        "VÄLK_protokoll_26.01.2023.pdf"
+      ]
+    }
+  ],
+  "uuid": "8eb34289-785b-4c1c-a3c6-37ae8f6db6f0",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8eb34289-785b-4c1c-a3c6-37ae8f6db6f0)",
+  "source": "https://api.riigikogu.ee/api/volumes/8eb34289-785b-4c1c-a3c6-37ae8f6db6f0",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-01-01&endDate=2023-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
