@@ -1,0 +1,42 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 30.01.2023 kell 12.00",
+  "sitting_time": "2023-01-30T12:00:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Parvlaev Estonia uurimise rahastamisest ja vahearuandest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3aff81d4-f8c4-4ff3-b6c9-cb7a341e95a6"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "51605ede-b83e-4930-9414-8763a728f349"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 30.01.23",
+      "uuid": "a73880cb-7c89-4bd3-84f1-9be590188511",
+      "files": [
+        "Riigieelarve_kontrolli_erikomisjon30.01.2023.docx",
+        "Riigieelarve_kontrolli_erikomisjon30.01.2023.asice",
+        "REKK_protokoll_30.01.23.asice",
+        "Protokoll_nr_167_30.01.23.pdf"
+      ]
+    }
+  ],
+  "uuid": "8cc64a26-38f6-4576-9627-9f15f6772632",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8cc64a26-38f6-4576-9627-9f15f6772632)",
+  "source": "https://api.riigikogu.ee/api/volumes/8cc64a26-38f6-4576-9627-9f15f6772632",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-01-01&endDate=2023-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
