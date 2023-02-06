@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung esmaspäev, 6.02.2023 kell 14.00",
+  "sitting_time": "2023-02-06T14:00:00",
+  "sitting_type": "UHISISTUNG",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Euroopa Liidu asjade komisjoni nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cd82c0c2-0881-49b4-aa9b-00ef001e2789"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad 9.-10. veebruaril 2023 toimuval Euroopa Ülemkogu erakorralisel kohtumisel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "09a76480-ec18-4ba4-a38d-cb7b809ab53c"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cda4c282-136f-4690-b5c2-9c9ba769b2ba"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK ja ELAK protokoll 6.02.2023 nr 92",
+      "uuid": "19e3a6b9-8903-41bf-9724-e4fdb1524b76",
+      "files": [
+        "VÄLK_ja_ELAK_protokoll_6.02.2023_nr_92.asice",
+        "ELAK_ja_VÄLK_protokoll_6.02.2023.pdf"
+      ]
+    }
+  ],
+  "uuid": "8865ad6b-4630-453f-aa4b-6593ef4c4679",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8865ad6b-4630-453f-aa4b-6593ef4c4679)",
+  "source": "https://api.riigikogu.ee/api/volumes/8865ad6b-4630-453f-aa4b-6593ef4c4679",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-02-01&endDate=2023-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
