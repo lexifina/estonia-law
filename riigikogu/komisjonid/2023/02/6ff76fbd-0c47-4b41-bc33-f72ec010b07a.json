@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Korruptsioonivastane erikomisjon",
+  "committee_uuid": "e4f2977a-e8c3-4fa0-8f3d-9df9acd6377f",
+  "title": "Komisjoni istung esmaspäev, 6.02.2023 kell 13.30",
+  "sitting_time": "2023-02-06T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e1ac2fa4-c07f-45b8-9431-9902890be6f1"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine Riigikogu liikme Liina Kersnaga Tartu Erakooliga seotud küsimustes",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "42a86f85-d89e-4909-8b74-f4b03a9c8fb3"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "428ff1c0-3641-45a3-9320-2644d3715648"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KVEK protokoll 06.02.2023",
+      "uuid": "35e66eee-ad8c-4b80-8387-85513a2f56d4",
+      "files": [
+        "Volikiri.pdf",
+        "KVEK_protokoll_06.02.2023.asice",
+        "KVEK_protokoll_06.02.2023.pdf"
+      ]
+    }
+  ],
+  "uuid": "6ff76fbd-0c47-4b41-bc33-f72ec010b07a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 6ff76fbd-0c47-4b41-bc33-f72ec010b07a)",
+  "source": "https://api.riigikogu.ee/api/volumes/6ff76fbd-0c47-4b41-bc33-f72ec010b07a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-02-01&endDate=2023-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
