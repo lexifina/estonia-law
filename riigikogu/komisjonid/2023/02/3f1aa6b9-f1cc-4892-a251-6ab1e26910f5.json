@@ -1,0 +1,53 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 6.02.2023 kell 13.15",
+  "sitting_time": "2023-02-06T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3b98e7be-f398-4848-a7ed-a4d6c8b365d6"
+    },
+    {
+      "order": 2,
+      "title": "Omavalitsuste finantsraskustest (saneerimistaotlustest)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "509b9553-d0d5-493b-811e-d985739b7305"
+    },
+    {
+      "order": 3,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "10901d06-1b65-4be2-b9e5-5925c5120c53"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 6.02.23",
+      "uuid": "52f5acd9-1bb1-47f3-a42c-45ff2c472306",
+      "files": [
+        "REKK_asendus_6.02.23.docx",
+        "REKK_asendus_6.02.23.asice",
+        "REKK_protokoll_6.02.23.asice",
+        "lisa_5.PNG",
+        "lisa_4.PNG",
+        "lisa_3.PNG",
+        "lisa_2.PNG",
+        "lisa_1.PNG",
+        "Protokoll_nr_168_6.02.23.pdf"
+      ]
+    }
+  ],
+  "uuid": "3f1aa6b9-f1cc-4892-a251-6ab1e26910f5",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3f1aa6b9-f1cc-4892-a251-6ab1e26910f5)",
+  "source": "https://api.riigikogu.ee/api/volumes/3f1aa6b9-f1cc-4892-a251-6ab1e26910f5",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-02-01&endDate=2023-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
