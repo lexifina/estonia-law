@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung esmaspäev, 6.02.2023 kell 11.15",
+  "sitting_time": "2023-02-06T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "280ee8e2-447d-4741-8362-193b3fe1af25"
+    },
+    {
+      "order": 2,
+      "title": "Informatsioon julgeolekuolukorra arengutest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d14c6b2b-be84-4b33-8522-dbd2f1fe3dab"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ce079522-1af8-418a-92e2-d4ca0008f67e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 6.02.2023 nr 305",
+      "uuid": "3b4c5248-3435-4b5b-a2e7-7faf23791b9c",
+      "files": [
+        "VÄLK_protokoll_6.02.2023_nr_305.asice",
+        "VÄLK_protokoll_6.02.2023.pdf"
+      ]
+    }
+  ],
+  "uuid": "7e8112f8-0a66-4216-9524-7c296017ba6d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7e8112f8-0a66-4216-9524-7c296017ba6d)",
+  "source": "https://api.riigikogu.ee/api/volumes/7e8112f8-0a66-4216-9524-7c296017ba6d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-02-01&endDate=2023-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
