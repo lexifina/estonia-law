@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung teisipäev, 7.02.2023 kell 14.00",
+  "sitting_time": "2023-02-07T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade Eesti tegevusest soome-ugri hõimurahvaste toetamisel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ee4bd63b-9ed4-4c89-941c-f863dc420581"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b55d35d3-f025-456f-8027-657a3b64cd52"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 7.02.2023 nr 306",
+      "uuid": "b3f10e2b-da0a-4009-b86c-16d04f67c46c",
+      "files": [
+        "VÄLK_protokoll_7.02.2023_nr_306.asice",
+        "VÄLK_protokoll_7.02.2023.pdf"
+      ]
+    }
+  ],
+  "uuid": "cbe5e105-9098-4a1c-80a8-ad55cf1f0246",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid cbe5e105-9098-4a1c-80a8-ad55cf1f0246)",
+  "source": "https://api.riigikogu.ee/api/volumes/cbe5e105-9098-4a1c-80a8-ad55cf1f0246",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-02-01&endDate=2023-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
