@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung kolmapäev, 8.02.2023 kell 09.00",
+  "sitting_time": "2023-02-08T09:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikontrolli kontrolliaruande tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d026562c-a4f5-413a-9157-a39b4e8d2f22"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5473d2fb-9f98-4eb5-956f-1149e1c90e92"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 8.02.23",
+      "uuid": "6e630518-3937-4e93-b499-1ab3e3280181",
+      "files": [
+        "REKK_protokoll_8.02.23.asice",
+        "Protokoll_nr_169_8.02.23.pdf"
+      ]
+    }
+  ],
+  "uuid": "68fc41ef-a697-4f90-99d5-533f6c5eb2e2",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 68fc41ef-a697-4f90-99d5-533f6c5eb2e2)",
+  "source": "https://api.riigikogu.ee/api/volumes/68fc41ef-a697-4f90-99d5-533f6c5eb2e2",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-02-01&endDate=2023-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
