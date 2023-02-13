@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung esmaspäev, 13.02.2023 kell 11.15",
+  "sitting_time": "2023-02-13T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8cf420d8-23fd-4ca4-8b1a-678140d40ea9"
+    },
+    {
+      "order": 2,
+      "title": "Välispoliitika arutelu olulise tähtsusega riikliku küsimusena Riigikogu täiskogul 14. veebruaril 2023 – Vabariigi Valitsuse ja väliskomisjoni ettekanded",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a1d6957f-88de-4ff8-8fe1-ba77c1d1694d"
+    },
+    {
+      "order": 3,
+      "title": "Ülevaade Eesti tegevus Ukraina abistamisel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c24ef872-9bb0-4fbc-aad1-3b3b9930a4f9"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "895ed4e6-e4fe-493c-b7d4-27ac0035a68b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 13.02.2023 nr 308",
+      "uuid": "dfcc0725-590e-41a9-b6f0-fc44762e15d3",
+      "files": [
+        "VÄLK_protokoll_13.02.2023_nr_308.asice",
+        "VÄLK_protokoll_13.02.2023.pdf"
+      ]
+    }
+  ],
+  "uuid": "863572b4-4e93-441f-9073-175af5990ec1",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 863572b4-4e93-441f-9073-175af5990ec1)",
+  "source": "https://api.riigikogu.ee/api/volumes/863572b4-4e93-441f-9073-175af5990ec1",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-02-01&endDate=2023-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
