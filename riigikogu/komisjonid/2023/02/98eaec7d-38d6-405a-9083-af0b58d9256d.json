@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Julgeolekuasutuste järelevalve erikomisjon",
+  "committee_uuid": "d3826f36-707d-17ad-41e8-8b99f9910b98",
+  "title": "Komisjoni istung esmaspäev, 13.02.2023 kell 14.00",
+  "sitting_time": "2023-02-13T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "421637ca-b1f5-4b11-8644-a4a6845fa84e"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade komisjoni tegevustest 2022-2023",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8a645dd3-d353-4e6a-9ed4-1f9a705e38ec"
+    },
+    {
+      "order": 3,
+      "title": "Tutvumine saabunud dokumentidega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4f1e79f5-94c3-4990-9dbc-a9461abbd3b9"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "JAJK 13.02.2023 protokoll",
+      "uuid": "71ba6f47-2b3e-4355-b1c7-28c8834c8aad",
+      "files": [
+        "JAJK_13.02.2023_protokoll.asice",
+        "JAJK_protokoll_13.02.2023.pdf"
+      ]
+    }
+  ],
+  "uuid": "98eaec7d-38d6-405a-9083-af0b58d9256d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 98eaec7d-38d6-405a-9083-af0b58d9256d)",
+  "source": "https://api.riigikogu.ee/api/volumes/98eaec7d-38d6-405a-9083-af0b58d9256d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-02-01&endDate=2023-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
