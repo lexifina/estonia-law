@@ -1,0 +1,49 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung esmaspäev, 13.02.2023 kell 11.10",
+  "sitting_time": "2023-02-13T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2af637bb-75e1-42f7-928a-528a5fb1e9b8"
+    },
+    {
+      "order": 2,
+      "title": "Atmosfääriõhu kaitse seaduse muutmise seaduse eelnõu (765 SE II)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4ac3f1f5-f04f-485a-bf16-b8157569daea"
+    },
+    {
+      "order": 3,
+      "title": "Riigikogu otsuse „Metsanduse arengukava aastani 2030 kinnitamine“ eelnõu (774 OE I) teise lugemise ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "55d25a5a-67bd-4867-84a2-4cbf2dd5d204"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK protokoll 13.02.2023",
+      "uuid": "dc8bd313-4622-46d0-9577-b52c86042d9e",
+      "files": [
+        "KEKK_protokoll_13.02.2023.asice",
+        "KEKK_protokoll_13.02.2023.pdf",
+        "13.02_keskkonnakomisjoni_asendus_RE.docx",
+        "13.02_keskkonnakomisjoni_asendus_RE.asice",
+        "Asendusliikme_volikiri_(Ott__Mölder.pdf"
+      ]
+    }
+  ],
+  "uuid": "d785b7b9-3e31-44c5-b0dc-e8d116ed1d8f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d785b7b9-3e31-44c5-b0dc-e8d116ed1d8f)",
+  "source": "https://api.riigikogu.ee/api/volumes/d785b7b9-3e31-44c5-b0dc-e8d116ed1d8f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-02-01&endDate=2023-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
