@@ -1,0 +1,43 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung kolmapäev, 15.02.2023 kell 09.00",
+  "sitting_time": "2023-02-15T09:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikontrolli kontrolliaruande „Andmekogude juurdepääsuhaldus“ arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e412a853-6f76-4e64-9284-10c5d98ef16b"
+    },
+    {
+      "order": 2,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "28ecc2e8-14de-4a5a-a0dc-12daf50e2b7e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 15.02.23",
+      "uuid": "958625f1-f0be-40d1-a310-ab70860835e4",
+      "files": [
+        "Õiguskantsleri_kiri.pdf",
+        "Euroopa_Kontrollikoja_kiri.pdf",
+        "Juurdepääs_esitlus_15022023.pptx",
+        "REKK_protokoll_15.02.23.asice",
+        "Protokoll_nr_171_15.02.23.pdf"
+      ]
+    }
+  ],
+  "uuid": "7c17428a-fabd-44f7-8eb7-3c1eadd28a3e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7c17428a-fabd-44f7-8eb7-3c1eadd28a3e)",
+  "source": "https://api.riigikogu.ee/api/volumes/7c17428a-fabd-44f7-8eb7-3c1eadd28a3e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-02-01&endDate=2023-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
