@@ -1,0 +1,60 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Korruptsioonivastane erikomisjon",
+  "committee_uuid": "e4f2977a-e8c3-4fa0-8f3d-9df9acd6377f",
+  "title": "Komisjoni istung esmaspäev 20.02.2023 kell 13.30",
+  "sitting_time": "2023-02-20T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7128e7c8-3def-4379-b690-cb8a19c228fa"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu korruptsioonivastase erikomisjoni tegevuse ülevaate (14.juuni 2022-20.veebruar 2023) kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ce513b40-c127-4d44-ac0b-3dabd4578fda"
+    },
+    {
+      "order": 3,
+      "title": "Euroopa õigusriigi raporti vastuse arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e6aa158a-3771-4e3d-b93b-12955db08baa"
+    },
+    {
+      "order": 4,
+      "title": "Komisjoni kirjavahetus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "db7467a4-31ff-41cf-960f-063e0d01ddd6"
+    },
+    {
+      "order": 5,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "abb05034-d703-4acf-8a83-718afd20ab92"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KVEK protokoll 20.02.2023",
+      "uuid": "7e5e0178-d41c-4352-ad7b-1d343aa362b4",
+      "files": [
+        "KVEK_protokoll_20.02.2023.asice",
+        "KVEK_töö_ülevaade_2022_kevad_-_XIV_koosseisu_lõpp.pdf",
+        "Õigusriigi_raportile.pdf",
+        "KVEK_protokoll_20.02.2023.pdf"
+      ]
+    }
+  ],
+  "uuid": "8eaf251c-7d07-454b-a2c0-04abb4b96329",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8eaf251c-7d07-454b-a2c0-04abb4b96329)",
+  "source": "https://api.riigikogu.ee/api/volumes/8eaf251c-7d07-454b-a2c0-04abb4b96329",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-02-01&endDate=2023-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
