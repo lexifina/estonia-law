@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 20.02.2023 kell 12.00",
+  "sitting_time": "2023-02-20T12:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3da900ce-002c-4a5c-800b-984adb14e1a0"
+    },
+    {
+      "order": 2,
+      "title": "Kokkuvõte Riigikogu XIV koosseisu maaelukomisjoni tööst",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "355effc6-d9db-48cb-8c92-3831b4b5771b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 20.02.2023",
+      "uuid": "ab21f354-65bf-483d-b9c0-16fe880cf585",
+      "files": [
+        "MAEK_protokoll_20.02.2023.asice",
+        "184-protokoll-20.02.23.pdf",
+        "XIV_koosseisu_MAEK_ülevaade.pdf"
+      ]
+    }
+  ],
+  "uuid": "c7b8a46a-df13-4165-9648-65b12cca6e93",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c7b8a46a-df13-4165-9648-65b12cca6e93)",
+  "source": "https://api.riigikogu.ee/api/volumes/c7b8a46a-df13-4165-9648-65b12cca6e93",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-02-01&endDate=2023-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
