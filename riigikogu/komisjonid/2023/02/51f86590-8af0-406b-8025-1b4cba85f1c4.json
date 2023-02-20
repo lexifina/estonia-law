@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung esmaspäev, 20.02.2023 kell 14.05",
+  "sitting_time": "2023-02-20T14:05:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "967b8f64-7cb5-4cee-b3c5-49fc7963a178"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad 27.-28. veebruaril 2023 toimuval Euroopa Liidu transpordi, telekommunikatsiooni ja energeetika nõukogu mitteametlikul kohtumisel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "afd50797-557b-47a5-9846-52fe38f5c067"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5ee8ff18-c18a-43ac-bf00-00f3cafbb1b9"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ELAK protokoll 20.02",
+      "uuid": "5fefde75-30e6-438c-8fae-5e02d4e4b1b8",
+      "files": [
+        "ELAK_protokoll_20.02.asice",
+        "ELAK_protokoll_20.02.2022.pdf"
+      ]
+    }
+  ],
+  "uuid": "51f86590-8af0-406b-8025-1b4cba85f1c4",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 51f86590-8af0-406b-8025-1b4cba85f1c4)",
+  "source": "https://api.riigikogu.ee/api/volumes/51f86590-8af0-406b-8025-1b4cba85f1c4",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-02-01&endDate=2023-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
