@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 20.02.2023 kell 13.15",
+  "sitting_time": "2023-02-20T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d4f42d2d-ea2b-4645-8281-6971ad48bc77"
+    },
+    {
+      "order": 2,
+      "title": "Eestis tegutsevate pankade kasumitest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "145a5320-6689-412f-b273-0d9d2edc2504"
+    },
+    {
+      "order": 3,
+      "title": "Riigikogu riigieelarve kontrolli erikomisjoni tegevuse aruande (16. juuni 2022–21. veebruar 2023) kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "00d571e2-3bee-483b-869f-ee9dba4ed157"
+    },
+    {
+      "order": 4,
+      "title": "Muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "49cbbd7a-d24e-4175-83d7-86fa0fda84a3"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 20.02.23",
+      "uuid": "dd4e64d0-b827-429b-abc5-ed14b5e6d7a8",
+      "files": [
+        "REKK_protokoll_20.02.23.asice",
+        "Protokoll_nr_172_20.02.23.pdf"
+      ]
+    }
+  ],
+  "uuid": "dec883d9-5847-49c2-ab9f-3494c0f37fa2",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid dec883d9-5847-49c2-ab9f-3494c0f37fa2)",
+  "source": "https://api.riigikogu.ee/api/volumes/dec883d9-5847-49c2-ab9f-3494c0f37fa2",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-02-01&endDate=2023-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
