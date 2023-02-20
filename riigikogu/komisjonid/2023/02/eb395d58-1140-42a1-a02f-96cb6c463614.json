@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung esmaspäev, 20.02.2023 kell 11.10",
+  "sitting_time": "2023-02-20T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "295343b8-a53e-4615-b21f-e78ecd39a7f0"
+    },
+    {
+      "order": 2,
+      "title": "Keskkonnakomisjoni XIV koosseisu kokkuvõtete tegemine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cfc8f8d5-9e5d-4b27-92c8-11d2e24d8018"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK protokoll 20.02.2023",
+      "uuid": "52b6125c-12e1-410c-91e5-8bc4695b98c0",
+      "files": [
+        "KEKK_protokoll_20.02.2023.asice",
+        "KEKK_protokoll_20.02.2023.pdf"
+      ]
+    }
+  ],
+  "uuid": "eb395d58-1140-42a1-a02f-96cb6c463614",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid eb395d58-1140-42a1-a02f-96cb6c463614)",
+  "source": "https://api.riigikogu.ee/api/volumes/eb395d58-1140-42a1-a02f-96cb6c463614",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-02-01&endDate=2023-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
