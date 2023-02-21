@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung teisipäev, 21.02.2023 kell 14.00",
+  "sitting_time": "2023-02-21T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7924e09d-52c6-42ce-a14a-c08d1bc7a969"
+    },
+    {
+      "order": 2,
+      "title": "Kokkuvõte komisjoni kevadistungjärgu tööst",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7c541d7e-e0a4-40e6-8edf-939787ff4176"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "SOTK protokoll 21.02.2023",
+      "uuid": "6b4ccfcf-a695-415c-9312-967323b08b4c",
+      "files": [
+        "SOTK_protokoll_21.02.2023.asice",
+        "SOTK_protokoll_nr_278_(21.02.2023).pdf"
+      ]
+    }
+  ],
+  "uuid": "2a85b664-4d2c-420a-8d22-5cc257e74fc5",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2a85b664-4d2c-420a-8d22-5cc257e74fc5)",
+  "source": "https://api.riigikogu.ee/api/volumes/2a85b664-4d2c-420a-8d22-5cc257e74fc5",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-02-01&endDate=2023-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
