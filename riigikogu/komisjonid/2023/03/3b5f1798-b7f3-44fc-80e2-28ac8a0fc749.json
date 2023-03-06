@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung esmaspäev, 6.03.2023 kell 13.00",
+  "sitting_time": "2023-03-06T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e09b9eb8-f888-40e7-8020-e4c84ec4421b"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad 7. märtsil 2023 toimuval Euroopa Liidu haridus-, noorte, kultuuri- ja spordinõukogu istungil",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f1009b3f-e5f2-4c77-851c-7e5880706dcb"
+    },
+    {
+      "order": 3,
+      "title": "Eesti seisukohad 9.-10. märtsil 2023 toimuval Euroopa Liidu justiits- ja siseasjade nõukogu istungil",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ecffd5e3-c67b-4a95-bb4a-6f1601a299aa"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cf451d74-ae5e-4e31-9d54-cc9f4d7e93a6"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ELAK protokoll 6.03",
+      "uuid": "ca1161af-0cd2-474c-b1df-de544e1e1cd1",
+      "files": [
+        "ELAK_protokoll_06.03.2023.pdf",
+        "ELAK_protokoll_6.03.asice"
+      ]
+    }
+  ],
+  "uuid": "3b5f1798-b7f3-44fc-80e2-28ac8a0fc749",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3b5f1798-b7f3-44fc-80e2-28ac8a0fc749)",
+  "source": "https://api.riigikogu.ee/api/volumes/3b5f1798-b7f3-44fc-80e2-28ac8a0fc749",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-03-01&endDate=2023-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
