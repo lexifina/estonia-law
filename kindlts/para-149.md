@@ -16,7 +16,7 @@
 
 (4) Erirežiimi ajal on kindlustusandjal või kolmanda riigi kindlustusandja Eesti filiaalil keelatud sõlmida uusi kindlustuslepinguid ja pikendada olemasolevaid, suurendada kindlustussummasid ning teha kindlustuslepingu alusel väljamakseid, kui erirežiimi kehtestamise otsuses ei ole sätestatud teisiti.
 
-(5) Erirežiimi kehtestamise otsus ei mõjuta niisuguse käsutustehingu kehtivust, mis on tehtud asjaõigusseaduse §-s 314¹ nimetatud finantstagatise kokkuleppest tuleneva õiguse teostamiseks või kohustuse täitmiseks, ega krediidiasutuste seaduse § 87 lõikes 2 nimetatud maksesüsteemi vahendusel ning väärtpaberituru seaduse § 213 lõikes 1 ja § 213¹ lõikes 1 nimetatud väärtpaberiarveldussüsteemi või süsteemiühenduse vahendusel teostatavaid tasaarvestusi.
+(5) Erirežiimi kehtestamise otsus ei mõjuta niisuguse käsutustehingu kehtivust, mis on tehtud asjaõigusseaduse §-s 314¹ nimetatud finantstagatise kokkuleppest tuleneva õiguse teostamiseks või kohustuse täitmiseks, samuti makse- ja arveldussüsteemide seaduses sätestatud arveldussüsteemi või süsteemiühenduse vahendusel tehtavaid tasaarvestusi.
 
 (6) Asjaõigusseaduse §-s 314¹ sätestatud finantstagatise seadmine ja finantstagatise eseme käsutamine pärast erirežiimi kehtestamist on kehtiv, kui see toimub erirežiimi väljakuulutamise päeval ning finantstagatise kokkuleppe teine pool tõendab, et ta ei teadnud ega pidanudki teadma erirežiimi kehtestamisest.
 
