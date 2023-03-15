@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung kolmapäev, 15.03.2023 kell 15.00",
+  "sitting_time": "2023-03-15T15:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Informatsioon julgeolekuolukorra arengutest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "270b5450-7615-4471-b557-6ff4723c3e48"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "000aa486-d571-4877-bf96-95423e94556d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 15.03.2023 nr 313",
+      "uuid": "8147e06c-b336-4ccb-abf8-cffbc2b33fbf",
+      "files": [
+        "VÄLK_protokoll_15.03.2023_nr_313.asice",
+        "VÄLK_protokoll_15.03.2023.pdf"
+      ]
+    }
+  ],
+  "uuid": "7e1e84dc-b0cb-4c3c-ba70-754cd2be8db9",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7e1e84dc-b0cb-4c3c-ba70-754cd2be8db9)",
+  "source": "https://api.riigikogu.ee/api/volumes/7e1e84dc-b0cb-4c3c-ba70-754cd2be8db9",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-03-01&endDate=2023-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
