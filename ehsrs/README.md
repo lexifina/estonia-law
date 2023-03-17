@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/127042022004> (version in force from 2022-05-07)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/107032023075> (version in force from 2023-03-17)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -44,6 +44,8 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/127042022004> (version in force 
 | [§ 30³](para-030b3.md) | Ehitusseadustiku §-s 65² sätestatud rekonstrueerimise toetusmeetmete nõuete rakendamine |
 | [§ 30⁴](para-030b4.md) | Ehitusseadustiku §-s 69¹ sätestatud tehnosüsteemide nõuete rakendamine |
 | [§ 30⁵](para-030b5.md) | Planeerimisseaduse § 131 lõike 2¹ rakendamine |
+| [§ 30⁶](para-030b6.md) | Planeerimisseaduse § 27¹, § 95 lõike 8² ning § 95¹ rakendamine |
+| [§ 30⁷](para-030b7.md) | Enne käesoleva paragrahvi jõustumist algatatud kohaliku omavalitsuse üksuse eriplaneeringute menetlemine |
 | [§ 31](para-031.md) |  |
 | [§ 73](para-073.md) |  |
 | [§ 74](para-074.md) | Seaduste jõustumine |
