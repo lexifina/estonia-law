@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung reede, 24.03.2023 kell 10.00",
+  "sitting_time": "2023-03-24T10:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 28. märtsil 2023 toimuval Euroopa Liidu transpordi, telekommunikatsiooni ja energeetika nõukogu energeetikaministrite kohtumisel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "57f5cbab-0080-4f41-a097-a3bc243cedcb"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f4a9bbc8-2e7a-4ee3-9d22-deca85454ef7"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ELAK protokoll 24.03",
+      "uuid": "eb36bc04-dcfe-461f-bc91-7509b65d915b",
+      "files": [
+        "ELAK_protokoll_24.03.2023.pdf",
+        "ELAK_protokoll_24.03.asice"
+      ]
+    }
+  ],
+  "uuid": "ff97f5fe-6789-4c79-a39f-8ce6f0807d3c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ff97f5fe-6789-4c79-a39f-8ce6f0807d3c)",
+  "source": "https://api.riigikogu.ee/api/volumes/ff97f5fe-6789-4c79-a39f-8ce6f0807d3c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-03-01&endDate=2023-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
