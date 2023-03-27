@@ -60,4 +60,6 @@
 
 (1⁶) Finantsinspektsioonil on õigus avalikkust hoiatada, kui kindlustuse turustaja on rikkunud investeerimisriskiga elukindlustuslepingu turustamisel huvide konflikti, kindlustuslepingu sobivuse või asjakohasuse hindamise, lepingueelse teabe esitamise, komplektis pakkumise, kindlustusteenuse väljatöötamise või tasustamise nõudeid, märkides ära rikkumise eest vastutava isiku ja rikkumise laadi.
 
+(1¹) Finantsinspektsioonil on õigus rakendada Euroopa Parlamendi ja nõukogu määruse (EL) 2019/1238 artiklites 63 ja 67 sätestatud meetmeid. Finantsinspektsioon avalikustab nimetatud artiklite kohaste meetmete alusel tehtud otsuse kohta teate oma veebilehel vastavalt nimetatud määruse artikli 63 lõikele 4 ja artiklile 67.
+
 (2) Finantsinspektsioon teostab käesoleva paragrahvi lõikes 1 nimetatud kontrolle ja hindamisi korrapäraselt.

@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/101032023047> (version in force from 2023-03-11)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/117032023010> (version in force from 2023-03-27)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -273,6 +273,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/101032023047> (version in force 
 | [§ 220¹](para-220b1.md) | Saladuses hoidmise kohustus |
 | [§ 221](para-221.md) | Kliendi kindlustushuvi ja nõudmiste väljaselgitamisega seotud kohustused |
 | [§ 221¹](para-221b1.md) | Investeerimistoote pakkumise ja nõustamisega seotud kohustused |
+| [§ 221²](para-221b2.md) | Üleeuroopalise personaalse pensionitoote pakkumise ja turustamisega seotud kohustused |
 | [§ 222](para-222.md) | Investeerimisriskiga elukindlustuslepingu sobivuse ja asjakohasuse hindamine |
 | [§ 222¹](para-222b1.md) | Investeerimisriskiga elukindlustuslepingu sobivuse ja asjakohasuse hindamata jätmine |
 | **12. peatükk Kindlustustegevuse ja kindlustuse turustamise järelevalve** | |
@@ -323,6 +324,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/101032023047> (version in force 
 | [§ 262](para-262.md) | Vahendaja kasutamise ja kindlustuslepingute turustamise piirangu rikkumine |
 | [§ 263](para-263.md) | Vahendajale kindlustuslepingu turustamisel kehtestatud nõuete rikkumine |
 | [§ 263¹](para-263b1.md) | Euroopa Parlamendi ja nõukogu määruse (EL) 2020/852 nõuete rikkumine |
+| [§ 263²](para-263b2.md) | Euroopa Parlamendi ja nõukogu määruse (EL) 2019/1238 nõuete rikkumine |
 | [§ 264](para-264.md) | Menetlus |
 | **14. peatükk Rakendussätted** | |
 | **1. jagu Üleminekusätted** | |
