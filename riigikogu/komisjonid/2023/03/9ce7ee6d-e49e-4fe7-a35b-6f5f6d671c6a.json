@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung kolmapäev, 29.03.2023 kell 14.00",
+  "sitting_time": "2023-03-29T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 4.-5. aprillil 2023 toimuval NATO välisministrite kohtumisel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fb5cc2fb-7ef3-4ab9-88bf-15df6acd2b11"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "80374ca3-bf78-4b21-bbff-7cdafd058bca"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 29.03.2023 nr 315",
+      "uuid": "4c1b33b8-b5fe-46ea-b2cc-e721d8ab8001",
+      "files": [
+        "VÄLK_protokoll_29.03.2023_nr_315.asice",
+        "VÄLK_protokoll_29.03.2023.pdf"
+      ]
+    }
+  ],
+  "uuid": "9ce7ee6d-e49e-4fe7-a35b-6f5f6d671c6a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9ce7ee6d-e49e-4fe7-a35b-6f5f6d671c6a)",
+  "source": "https://api.riigikogu.ee/api/volumes/9ce7ee6d-e49e-4fe7-a35b-6f5f6d671c6a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-03-01&endDate=2023-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
