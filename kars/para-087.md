@@ -10,7 +10,7 @@
 
 4) sõltuvus- või muu ravi;
 
-5) lepitusteenus;
+5) vahendusteenus;
 
 6) allutamine käitumiskontrollile vastavalt käesoleva seadustiku §-s 75 sätestatule;
 
@@ -32,7 +32,7 @@
 
 4) sõltuvus- või muu ravi;
 
-5) lepitusteenus;
+5) vahendusteenus;
 
 6) kuni 20 tundi üldkasulikku tööd;
 
