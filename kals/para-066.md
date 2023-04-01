@@ -30,4 +30,6 @@
 
 (3) Lisaks käesoleva paragrahvi lõigetes 1 ja 2 sätestatule peetakse käesoleva seaduse §-des 61, 64 ja 65 sätestatud hüvitise ja muu kulu katmise õiguse tekkimist välistavaks asjaoluks meditsiinilise seose puudumist teenistuskohustuse täitmise ja vigastuse saamise või hukkumise vahel.
 
-(4) Kaitseliidu liige, kes ei esita töövõime kaotuse määramiseks vajalikku teavet või jätab Kaitseväe arstlikku komisjoni mõjuva põhjuseta ilmumata, loetakse hüvitisest või kulu katmisest loobunuks.
+(4) Kaitseliidu liige, kes ei esita oma terviseseisundi hindamiseks vajalikku teavet või jätab püsiva töövõimetuse tuvastamiseks või teenistuskohustuse täitmisel saadud vigastuse raviks määratud toimingutele mõjuva põhjuseta ilmumata, loetakse hüvitisest või kulu katmisest loobunuks.
+
+(5) Käesoleva seaduse §-des 61, 64 ja 65 sätestatut ei kohaldata, kui teenistuskohustuse täitmise ajal Kaitseliidu liikmele tervishoiuteenuse osutamise käigus tekkinud kahju kuulub hüvitamisele tervishoiuteenuse osutaja kohustusliku vastutuskindlustuse seaduse alusel.

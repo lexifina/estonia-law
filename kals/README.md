@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/127052022031> (version in force from 2022-07-01)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/127012023002> (version in force from 2023-04-01)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -24,6 +24,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/127052022031> (version in force 
 | [§ 13](para-013.md) | Kaitseliidu ülem |
 | [§ 14](para-014.md) | Kaitseliidu ülema asendamine, puhkus ja ametikohalt vabastamine |
 | [§ 15](para-015.md) | Tegevteenistus Kaitseliidus |
+| [§ 15¹](para-015b1.md) | Tegevteenistus Kaitseliidus mobilisatsiooni ja sõjaseisukorra ajal |
 | [§ 16](para-016.md) | Kaitseliidus töölepingu alusel töötava isiku töö- ja puhkeaeg |
 | [§ 17](para-017.md) | Kollegiaalsed organid |
 | [§ 18](para-018.md) | Keskkogu |
@@ -42,7 +43,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/127052022031> (version in force 
 | [§ 30](para-030.md) | Liikmesuse muutmine ja lõppemine |
 | [§ 31](para-031.md) | Kaitseliidu liikme õigused |
 | [§ 32](para-032.md) | Kaitseliidu liikme kohustused |
-| [§ 32¹](para-032b1.md) | Kaitseliidu tegevliikme sõjaväelise auastmega sõjaaja ametikohale nimetamine ning kaitseväeteenistusse asumine mobilisatsiooni ja sõjaseisukorra ajal |
+| [§ 32¹](para-032b1.md) | Kaitseliidu tegevliikme sõjaaja ametikohale nimetamine ning kaitseväeteenistusse asumine mobilisatsiooni ja sõjaseisukorra ajal |
 | **4. peatükk Teenistuskohustuse täitmine ja käsk** | |
 | [§ 33](para-033.md) | Teenistuskohustuse täitmine |
 | [§ 34](para-034.md) | Käsk |
@@ -126,6 +127,8 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/127052022031> (version in force 
 | [§ 97](para-097.md) | Toetuse maksmine Kaitseliidu liikme mittesüülise invaliidistumise ja hukkumise korral |
 | [§ 97¹](para-097b1.md) | Hüvitise maksmine Kaitseliidu liikme vigastada saamise korral |
 | [§ 97²](para-097b2.md) | Püsiva töövõimetusega isik |
+| [§ 97³](para-097b3.md) | Arstliku komisjoni menetluses oleva asja lahendamine |
+| [§ 97⁴](para-097b4.md) | Hüvitise taotlemine |
 | [§ 98](para-098.md) | Kaitseliidu vara asendamine ja võõrandamine |
 | [§ 99](para-099.md) | Kollegiaalsete organite valitud liikmete volituste kehtivus |
 | [§ 100](para-100.md) | Rakendusaktide kehtivus |

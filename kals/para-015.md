@@ -22,6 +22,8 @@
 
 (8) Tegevväelase lähetamise kaitseväeteenistuse seaduse § 114 lõikes 1 sätestatud juhul otsustab Kaitseliidu ülem või tema volitatud struktuuriüksuse juht.
 
+(8¹) Tegevväelase lähetamise välisriiki kaitseväeteenistuse seaduse § 115 lõike 1 punktis 1 sätestatud juhul kuni 60 päevaks otsustab Kaitseliidu ülem.
+
 (9) Kaitseliidus oleva tegevväelase võib ressursimahukale koolitusele saata Kaitseväe juhataja kirjalikul nõusolekul.
 
 (10) Puuduvat tegevväelast võib asendada Kaitseliidus töölepingu alusel töötav isik juhul, kui Kaitseliidu töö oleks tegevväelase puudumise tõttu takistatud ja tegevväelasest asendaja määramine ei ole võimalik või otstarbekas.

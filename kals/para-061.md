@@ -1,6 +1,6 @@
 # § 61. Hüvitis Kaitseliidu liikme vigastada saamise ja hukkumise korral
 
-(1) Kaitseliidus või muus asjaomases asutuses tehtud uurimise tulemused ja Kaitseväe arstliku komisjoni otsuse püsiva töövõimetuse tuvastamise kohta või Eesti Töötukassa tehtud töövõime hindamise otsuse ja Sotsiaalkindlustusameti otsuse käesoleva seaduse § 60 lõikes 7 sätestatud seose tuvastamise kohta koos Kaitseliidu ülema arvamusega hüvitise maksmise kohta edastab Kaitseliit otsustamiseks Kaitseministeeriumile.
+(1) Kaitseliidus või muus asjaomases asutuses tehtud uurimise tulemused ning andmed Kaitseliidu liikme püsiva töövõimetuse tuvastamise või töövõime hindamise ja käesoleva seaduse § 60 lõikes 7 sätestatud seose tuvastamise kohta koos Kaitseliidu ülema arvamusega hüvitise maksmise kohta edastab Kaitseliit otsustamiseks Kaitseministeeriumile.
 
 (2) Kaitseministeerium teeb otsuse 60 päeva jooksul Kaitseliidult teabe saamisest arvates.
 

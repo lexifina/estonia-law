@@ -1,6 +1,6 @@
-# § 32¹. Kaitseliidu tegevliikme sõjaväelise auastmega sõjaaja ametikohale nimetamine ning kaitseväeteenistusse asumine mobilisatsiooni ja sõjaseisukorra ajal
+# § 32¹. Kaitseliidu tegevliikme sõjaaja ametikohale nimetamine ning kaitseväeteenistusse asumine mobilisatsiooni ja sõjaseisukorra ajal
 
-(1) Kaitseväekohustusega Kaitseliidu tegevliikmele kohaldatakse Kaitseväes olevale sõjaväelise auastmega sõjaaja ametikohale (edaspidi *sõjaaja ametikoht*) nimetamisel kaitseväeteenistuse seaduses ja riigikaitseseaduses sätestatut.
+(1) Kaitseväekohustusega Kaitseliidu tegevliikmele kohaldatakse Kaitseväes olevale sõjaaja ametikohale nimetamisel kaitseväeteenistuse seaduses sätestatut.
 
 (2) Kaitseväekohustuseta Kaitseliidu tegevliikme võib nimetada sõjaaja ametikohale tema eelneva kirjaliku nõusoleku alusel. Sõjaaja ametikohale nimetab Kaitseväe juhataja või tema volitatud isik kaitseväeteenistuse seaduse ja selle alusel antud õigusaktis sätestatud korras.
 
@@ -11,3 +11,5 @@
 (5) Sõjaaja ametikohale nimetatud kaitseväekohustuseta Kaitseliidu liige loetakse sellel ametikohal olemise ajal kaitseväekohustust võtta soovivaks isikuks ja tema andmed kantakse kaitseväekohustuslaste registrisse kaitseväekohustust võtta sooviva isiku andmetena.
 
 (6) Kaitseväekohustuseta Kaitseliidu tegevliikme sõjaaja ametikohale nimetamisest ja ametikohalt vabastamisest teavitab Kaitsevägi Kaitseressursside Ametit.
+
+(7) Mobilisatsiooni ja sõjaseisukorra ajal asub sõjaaja ametikohale nimetatud Kaitseliidu tegevliige sõjaaja ametikoha ülesandeid täitma kaitseväeteenistuse seaduses sätestatud korras.

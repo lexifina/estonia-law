@@ -8,7 +8,7 @@
 
 (2¹) Noortejuhil, kes saab vigastada või hukkub õppetegevuse korraldamise ajal, on õigus käesoleva seaduse §-des 61, 64 ja 65 sätestatud tagatistele.
 
-(3) Kaitseliidu liikmele, kes Kaitseliidu koosseisus on kaasatud käesoleva seaduse § 4 lõike 3¹ punkti 2 alusel õppekogunemisele, sealhulgas lisaõppekogunemisele, kohaldatakse kaitseväeteenistuse seaduse § 80 lõigetes 5 ja 7 ning §-des 193–196 sätestatud tagatisi. Kaitseliidu liikmel ei ole õigust saada käesoleva seaduse § 57 lõikes 4 sätestatud hüvitist ja kaitseväeteenistuse seaduse § 80 lõikes 5 sätestatud toetust samaaegselt.
+(3) Kaitseliidu liikmele, kes Kaitseliidu koosseisus on kaasatud käesoleva seaduse § 4 lõike 3¹ punkti 2 alusel õppekogunemisele või lisaõppekogunemisele kohaldatakse kaitseväeteenistuse seaduse § 80 lõigetes 5 ja 7 ning §-des 193–196 sätestatud tagatisi. Kaitseliidu liikmel ei ole õigust saada käesoleva seaduse § 57 lõikes 4 sätestatud hüvitist ja kaitseväeteenistuse seaduse § 80 lõikes 5 sätestatud toetust samaaegselt.
 
 (4) Kaitseliidu liikmele, kes Kaitseliidu koosseisus on kaasatud käesoleva seaduse § 4 lõike 2 punktis 3 sätestatud tegevusse, kohaldatakse kaitseväeteenistuse seaduse §-des 193–196 sätestatud tagatisi.
 
