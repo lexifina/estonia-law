@@ -7,3 +7,5 @@
 (3) Kui käesoleva paragrahvi lõikes 2 nimetatud PVT-järeldustes või PVT-viitedokumentides ei ole sätestatud heitetaset, mida on võimalik saavutada parima võimaliku tehnikaga, kohaldab loa andja käesoleva paragrahvi lõikes 2 nimetatud parimat võimalikku tehnikat vaid juhul, kui selle abil saavutatakse keskkonna kvaliteedinormatiivi tasemega vähemalt võrdne keskkonnakaitse tase.
 
 (4) Kui ükski PVT-järeldus ega PVT-viitedokument ei hõlma käitises toimuvat tegevust või tootmisprotsessi liiki või kui kõnealustes järeldustes ei käsitleta kõiki tegevuse või protsessi võimalikke mõjusid keskkonnale, määrab loa andja pärast käitajaga konsulteerimist loa nõuded parima võimaliku tehnika alusel, mis on asjaomase tegevuse või protsessi jaoks kindlaks määratud, pöörates erilist tähelepanu käesoleva seaduse §-s 43 sätestatud parima võimaliku tehnika määramise alustele.
+
+(5) Lisaks käesoleva paragrahvi lõikes 4 sätestatule võib parima võimaliku tehnika järeldused kehtestada valdkonna eest vastutav minister käskkirjaga.

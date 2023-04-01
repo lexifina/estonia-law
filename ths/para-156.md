@@ -10,10 +10,10 @@
 
 3) erakorralise keskkonnaalase kontrolli teostamise menetlusi;
 
-4) viidet Keskkonnaministeeriumi veebilehele, millel avaldatakse kompleksloa kohustusega käitiste loetelu;
+4) viidet keskkonnaotsuste infosüsteemi veebilehele, kust leiab kompleksluba omavad käitised;
 
 5) koostööpõhimõtteid keskkonnaalase kontrolli teostamisel.
 
-(3) Keskkonnaalase kontrolli üleriigilise kava koostamist korraldab Keskkonnaamet ja kava kinnitab Keskkonnaameti peadirektor. Kava avalikustatakse Keskkonnaministeeriumi ja Keskkonnaameti veebilehel.
+(3) Keskkonnaalase kontrolli üleriigilise kava koostamist korraldab Keskkonnaamet ja kava kinnitab Keskkonnaameti peadirektor. Kava avalikustatakse Keskkonnaameti veebilehel.
 
 (4) Keskkonnaalase kontrolli üleriigiline kava vaadatakse üle ja vajaduse korral ajakohastatakse vähemalt iga nelja aasta järel selle koostamisest või ülevaatamisest arvates.
