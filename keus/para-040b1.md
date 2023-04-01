@@ -6,7 +6,17 @@
 
 1¹) lihtsustada atmosfääriõhu kaitse seaduse, jäätmeseaduse, tööstusheite seaduse ja veeseaduse alusel tehtavate registreeringute taotlemist ja menetlemist ning nendega seotud aruandluskohustuste täitmist ning kogutud andmete säilitamist, kasutamist ja kättesaadavust;
 
-2) kiirgusallikate ja tuumamaterjali ohutuse ning füüsilise kaitse tagamine.
+2) kiirgusallikate ja tuumamaterjali ohutuse ning füüsilise kaitse tagamine;
+
+3) lihtsustada kaevise tarbimise või võõrandamise lubade ja maavara või maavarana arvele võtmata kivimi ja setendi võtmise lubade taotlemist ja menetlemist ning loaga seotud andmete säilitamist, kasutamist ja kättesaadavust;
+
+4) lihtsustada jahipiirkonna kasutusõiguse lubade taotlemist ja menetlemist ja lubadega seotud muude kohustuste täitmist ning kogutud andmete säilitamist, kasutamist ja kättesaadavust;
+
+5) lihtsustada keskkonnamõju hindamise ja keskkonnamõju strateegilise hindamise dokumentide kättesaadavust ja kasutamist ning kogutud andmete säilitamist;
+
+6) lihtsustada keskkonnatasude seaduse tähenduses tasukohustuse täitmist ning kogutud andmete säilitamist, kasutamist ja kättesaadavust;
+
+7) lihtsustada ohtlike jäätmete ja välislepinguga reguleeritavate jäätmete veolubade ja selliste jäätmete riikidevahelise veo, milleks veoluba ei ole vajalik, saatedokumentide taotlemist ja menetlemist ning kogutud andmete säilitamist, kasutamist ja kättesaadavust.
 
 (2) Keskkonnaotsuste infosüsteemi asutab ja selle põhimääruse kehtestab
 

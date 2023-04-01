@@ -24,7 +24,7 @@
 
 (2¹) Ajalehes avaldamise kulud tasub keskkonnaloa taotleja.
 
-(4) Valla- või linnavalitsus avaldab seitsme päeva jooksul keskkonnaloa taotluse saamisest arvates valla- või linnavalitsuse veebilehel lihtsalt juurdepääsetava teate keskkonnaloa taotluse saamise kohta, milles märgitakse vähemalt käesoleva paragrahvi lõike 1 punktides 1–3 ja 5 nimetatud andmed. Teade peab olema veebilehel kättesaadav kuni taotluse lahendamiseni.
+(4) Valla- või linnavalitsus avaldab seitsme päeva jooksul keskkonnaloa taotluse loa andja poolt nõuetekohaseks tunnistamisest arvates valla- või linnavalitsuse veebilehel lihtsalt juurdepääsetava teate keskkonnaloa taotluse saamise kohta, milles märgitakse vähemalt käesoleva paragrahvi lõike 1 punktides 1–3 ja 5 nimetatud andmed. Teade peab olema veebilehel kättesaadav kuni taotluse lahendamiseni.
 
 (5) Isikule, kes on avaldanud soovi saada teavet keskkonnaloa menetluse käigus toimuvatest avalikest väljapanekutest ja aruteludest, saadetakse nende kohta teade tema nimetatud elektronposti või postiaadressil.
 

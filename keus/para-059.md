@@ -28,6 +28,8 @@
 
 2) kui menetluse kiirem läbiviimine on vajalik keskkonnaohu vältimiseks;
 
+2¹) kui menetluse kiirem läbiviimine on vajalik, et ennetada elutähtsa teenuse katkemise ohtu;
+
 3) käesoleva paragrahvi lõike 1 punktis 1 sätestatud juhul.
 
 (6) Keskkonnaloa muutmine tehakse teatavaks keskkonnaloa teatavakstegemiseks ettenähtud korras.

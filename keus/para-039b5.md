@@ -10,7 +10,7 @@
 
 4) vääriselupaik metsaseaduse tähenduses;
 
-5) nitraaditundlik ala, sealhulgas olulised allikad ja karstilehtrid nitraaditundlikul alal, veeseaduse tähenduses;
+5) nitraaditundlik ala, sealhulgas olulised allika- ja karstialad, veeseaduse tähenduses;
 
 6) põhjavesi veeseaduse tähenduses;
 

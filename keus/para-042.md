@@ -36,7 +36,7 @@
 
 1) tegevuse asukoha plaan ja käitise asendiplaan;
 
-2) dokumendid, mis tõendavad käitise asukoha maatüki õiguspärast valdust või muud õiguslikku alust tegutseda käitise asukohas loa alusel;
+2) dokumendid, mis tõendavad käitise asukoha maatüki õiguspärast valdust või muud õiguslikku alust tegutseda käitise asukohas loa alusel, kui maatükk ei kuulu loa taotlejale;
 
 3) muud seadusega või käesoleva paragrahvi lõike 7 alusel kehtestatud õigusaktiga nõutavad andmed.
 
