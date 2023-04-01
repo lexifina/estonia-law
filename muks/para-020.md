@@ -6,6 +6,8 @@
 
 2) on arhivaal arhiiviseaduse tähenduses;
 
+2¹) on sõjahaud sõjahaudade kaitse seaduse alusel;
+
 3) on teise mälestise lahutamatu osa;
 
 4) ei vasta riikliku kaitse eeldusele;
