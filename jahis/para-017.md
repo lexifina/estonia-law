@@ -12,6 +12,6 @@
 
 4) jahipiirkond on juba kasutusel.
 
-(3) Loa andmise või sellest keeldumise otsus tehakse taotluse esitajale teatavaks posti teel seitsme päeva jooksul otsuse tegemisest arvates.
+(3) Jahipiirkonna kasutusõiguse luba ja selle andmise või sellest keeldumise otsus vormistatakse keskkonnaotsuste infosüsteemis elektrooniliselt digitaalselt allkirjastatuna.
 
-(4) Jahipiirkonna kasutusõiguse luba tehakse avalikult teatavaks 14 päeva jooksul loa andmisest arvates väljaandes Ametlikud Teadaanded ning Keskkonnaameti veebilehel.
+(4) Jahipiirkonna kasutusõiguse luba tehakse avalikult teatavaks 14 päeva jooksul loa andmisest arvates väljaandes Ametlikud Teadaanded ja avalikustatakse keskkonnaotsuste infosüsteemis.

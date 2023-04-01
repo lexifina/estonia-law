@@ -12,6 +12,6 @@
 
 (3) Loa andja vaatab käesoleva paragrahvi lõikes 1 nimetatud taotluse läbi ja teeb otsuse loa kehtivuse pikendamise kohta kahe kuu jooksul nõuetekohase taotluse saamisest arvates.
 
-(4) Loa kehtivuse pikendamise või sellest keeldumise otsus tehakse taotluse esitajale teatavaks posti teel seitsme päeva jooksul otsuse tegemisest arvates.
+(4) Jahipiirkonna kasutusõiguse loa kehtivuse pikendamise või sellest keeldumise otsus vormistatakse keskkonnaotsuste infosüsteemis elektrooniliselt digitaalselt allkirjastatuna.
 
-(5) Jahipiirkonna kasutusõiguse loa kehtivuse pikendamise otsus avalikustatakse 14 päeva jooksul loa kehtivuse pikendamise otsuse tegemisest arvates ametlikus väljaandes Ametlikud Teadaanded ning Keskkonnaameti veebilehel.
+(5) Jahipiirkonna kasutusõiguse loa kehtivuse pikendamise otsus tehakse avalikult teatavaks 14 päeva jooksul loa kehtivuse pikendamise otsuse tegemisest arvates väljaandes Ametlikud Teadaanded ja avalikustatakse keskkonnaotsuste infosüsteemis.

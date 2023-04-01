@@ -4,6 +4,8 @@
 
 (2) Jahilubadeks on suur- ja väikeuluki jahiluba.
 
+(2¹) Jahiluba põdra, punahirve, metssea ja metskitse küttimiseks väljastatakse pärast nende küttimismahu ja -struktuuri kokkuleppimist jahindusnõukogus, välja arvatud käesoleva seaduse § 22 lõikes 4 ja § 23 lõike 4 punktides 1, 3, 4 ja 5 sätestatud juhtudel.
+
 (3) Jahiloa annab ja selle kehtivusaja määrab:
 
 1) jahipiirkonna kasutaja jahipidamiseks jahipiirkonnas;

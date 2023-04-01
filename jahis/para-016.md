@@ -4,7 +4,7 @@
 
 (2) Käesoleva paragrahvi lõikes 1 nimetatud teadaandes avaldatakse:
 
-1) taotletava jahipiirkonna nimetus ning taotleja nimi, registrikood ja asukohaandmed;
+1) taotletava jahipiirkonna nimetus ning taotleja nimi, registrikood ja aadress;
 
 2) kohaliku omavalitsuse üksus, mille ala jahipiirkond hõlmab;
 

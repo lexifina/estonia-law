@@ -24,12 +24,14 @@
 
 7) jahipiirkonna kasutajal on rohkem kui üks karistatus käesoleva seaduse või selle alusel kehtestatud õigusakti nõuete rikkumise eest.
 
-(3) Käesoleva paragrahvi lõike 2 punktis 2 nimetatud juhul peab taotlus sisaldama:
+(3) Käesoleva paragrahvi lõike 2 punktis 2 nimetatud juhul märgitakse taotluses:
 
 1) jahipiirkonna nimetust;
 
-2) jahipiirkonna kasutusõiguse loa kehtetuks tunnistamist taotleva iga maaomaniku nime, ärinime, isiku- või registrikoodi, kontaktandmeid, kinnistu numbrit ning katastriüksuse numbrit ja pindala;
+2) iga maaomaniku nimi ja isikukood või registrikood, e-posti aadress ja telefoninumber;
 
-3) iga maaomaniku allkirja ja tema nõusoleku andmise kuupäeva.
+3) iga maaomaniku katastriüksuse number ja pindala;
+
+4) iga maaomaniku allkiri ja tema nõusoleku andmise kuupäev.
 
 (4) Jahipiirkonna kasutusõiguse loa kehtivuse lõppemise või loa kehtetuks tunnistamise kohta avaldab loa andja teate väljaandes Ametlikud Teadaanded ning vähemalt ühes üleriigilise levikuga ajalehes või kohalikus ajalehes. Loa kehtivuse lõppemise või kehtetuks tunnistamise teates avaldatakse muu hulgas teave vabanenud jahipiirkonna kasutusõiguse saamise taotluse esitamise võimaluste kohta.

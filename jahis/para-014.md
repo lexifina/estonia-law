@@ -16,20 +16,16 @@
 
 (6) Kui ühe ja sama jahipiirkonna kasutusõiguse saamiseks on esitatud kaks või enam taotlust ja kõik taotlejad ei nõustu nendele ühise kasutusõiguse andmisega, eelistatakse taotlejat, kellel on jahipiirkonna piires suurema pindala ulatuses kokkulepe maaomanikega jahipidamise korraldamiseks nende kinnisasjadel.
 
-(7) Jahipiirkonna kasutusõiguse loale kantakse:
+(7) Jahipiirkonna kasutusõiguse loas märgitakse:
 
-1) jahipiirkonna kasutaja nimi, registrikood, asukoha- ja kontaktandmed;
+1) loa omaja nimi ja registrikood;
 
-2) loa kehtivuse algus- ja lõpptähtaeg;
+2) loa omaja aadress ja e-posti aadress;
 
-3) seadusest või kaitstava loodusobjekti kaitse-eeskirjast tulenevad piirangud ja tingimused;
+3) jahipiirkonna nimetus ja asukoht;
 
-4) jahiulukite seire korraldamise kohustus;
+4) loa kehtivuse algus- ja lõpptähtaeg;
 
-5) jahiulukite teadusuuringute korraldamisega seotud piirangud ja tingimused.
+5) loa andja nimi, registrikood ja aadress.
 
-(8) Jahipiirkonna kasutusõiguse loale lisatakse jahipiirkonna piirikirjeldus ja kaart.
-
-(9) Jahipiirkonna kasutusõiguse loa vormi kehtestab
-
-määrusega.
+(8) Jahipiirkonna kasutusõiguse loale lisatakse jahipiirkonna kaart.

@@ -62,10 +62,12 @@ jahieeskirjas.
 
 11) tulirelvaga, mis ei ole jahitulirelv;
 
-12) vibuga, mis ei ole jahivibu käesoleva seaduse § 27 lõike 1 tähenduses.
+12) vibuga, mis ei ole jahivibu käesoleva seaduse § 27 lõike 1 tähenduses;
+
+13) Euroopa Parlamendi ja nõukogu määruse (EÜ) nr 1907/2006, mis käsitleb kemikaalide registreerimist, hindamist, autoriseerimist ja piiramist (REACH) ning millega asutatakse Euroopa Kemikaaliamet, muudetakse direktiivi 1999/45/EÜ ja tunnistatakse kehtetuks nõukogu määrus (EMÜ) nr 793/93 ja komisjoni määrus (EÜ) nr 1488/94 ning samuti nõukogu direktiiv 76/769/EMÜ ja komisjoni direktiivid 91/155/EMÜ, 93/67/EMÜ, 93/105/EÜ ja 2000/21/EÜ (ELT L 396, 30.12.2006, lk 1–850), XVII lisa kande 63 teise veeru punktides 11 ja 13 kehtestatud kohas ja vahendit kasutades.
 
 (5) Tasku- ja otsmikulampi võib kasutada lasketulemuse selgitamiseks ning haavatud ja surnud uluki otsimiseks.
 
-(6) Käesoleva paragrahvi lõike 4 punktis 4 sätestatud keeld ei laiene veelinnu-, kopra- ega mingijahile seisva mootoriga veesõidukist.
+(6) Käesoleva paragrahvi lõike 4 punktis 4 sätestatud keeld ei laiene veelinnu-, kopra-, hallhülge- ega mingijahile seisva mootoriga veesõidukist.
 
-(7) Keskkonnaametil on õigus kehtestada sigade Aafrika katku tõrjumise eesmärgil ajavahemik, mille jooksul on lubatud metssigade laskmine seisva mootoriga mootor- ja maastikusõidukist, mootor- ja maastikusõidukit muul viisil kasutades ning kunstliku valgusallika abil.
+(7) Keskkonnaametil on õigus kehtestada uluki kaudu leviva haiguse tõkestamiseks tingimused ja ajavahemik, mille jooksul on lubatud ulukite laskmine seisva mootoriga mootor- ja maastikusõidukist, mootor- ja maastikusõidukit muul viisil kasutades, kunstliku valgusallika abil ning öösihikut kasutades.
