@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung teisipäev, 18.04.2023 kell 14.00",
+  "sitting_time": "2023-04-18T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väliskomisjoni esimehe ja aseesimehe valimine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ca72fb34-478a-45cc-849c-7aef74da9eae"
+    },
+    {
+      "order": 2,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "707dcc29-0b24-4893-a87c-b75e90a945ca"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7a3d0c90-61e1-4848-92be-1418cd87a178"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 18.04.2023",
+      "uuid": "fb4d9499-ac46-45c5-b775-e3b7918792b5",
+      "files": [
+        "VÄLK_protokoll_18.04.2023.asice",
+        "VALK_protokoll_20230418.pdf"
+      ]
+    }
+  ],
+  "uuid": "ed62aace-5450-4666-94de-44f1d4b948a1",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ed62aace-5450-4666-94de-44f1d4b948a1)",
+  "source": "https://api.riigikogu.ee/api/volumes/ed62aace-5450-4666-94de-44f1d4b948a1",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-04-01&endDate=2023-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
