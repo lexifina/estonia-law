@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung teisipäev, 18.04.2023 kell 14.00",
+  "sitting_time": "2023-04-18T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikaitsekomisjoni esimehe ja aseesimehe valimine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cfd7942d-ecbb-406d-8a86-e5dc618b4dc6"
+    },
+    {
+      "order": 2,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8573ce25-bba7-4c0e-bdf5-a6553a353983"
+    },
+    {
+      "order": 3,
+      "title": "Balti riikide, Põhjamaade, Poola ja Saksamaa parlamentide kaitsekomisjonide iga-aastane julgeoleku ja riigikaitse foorum Berliinis k.a 14.-16. mail",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9b4e6bd0-7940-45b1-8b78-31f64f07c265"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3b8e01e0-7c3f-4f54-8d14-d7621639226f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Riigikaitsekomisjoni 18.04.2023 istungi protokoll",
+      "uuid": "8a855ee7-f0cc-47d6-835e-be524028d761",
+      "files": [
+        "Riigikaitsekomisjoni_18.04.23_protokoll.asice",
+        "2023-04-18_protokoll.pdf"
+      ]
+    }
+  ],
+  "uuid": "e74dd83d-ea53-434f-bb32-a2613e622fe7",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e74dd83d-ea53-434f-bb32-a2613e622fe7)",
+  "source": "https://api.riigikogu.ee/api/volumes/e74dd83d-ea53-434f-bb32-a2613e622fe7",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-04-01&endDate=2023-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
