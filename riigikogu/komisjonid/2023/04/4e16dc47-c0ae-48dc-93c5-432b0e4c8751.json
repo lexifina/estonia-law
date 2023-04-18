@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung teisipäev, 18.04.2023 kell 14.00",
+  "sitting_time": "2023-04-18T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kultuurikomisjoni esimehe ja aseesimehe valimine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a4f92315-a9b6-4875-aa0f-98eefd4528d1"
+    },
+    {
+      "order": 2,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8abd404f-9a7f-4f97-9200-74177f0f08c5"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e160b158-c4af-45e3-9f6f-37f3779004e9"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KULK protokoll 1 (18.04.23)",
+      "uuid": "6b9b53e9-3f00-4c8c-adaa-0bbd10d07981",
+      "files": [
+        "KULK_protokoll_1_(18.04.23).asice",
+        "Protokoll_1_(18.04.2023).pdf"
+      ]
+    }
+  ],
+  "uuid": "4e16dc47-c0ae-48dc-93c5-432b0e4c8751",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 4e16dc47-c0ae-48dc-93c5-432b0e4c8751)",
+  "source": "https://api.riigikogu.ee/api/volumes/4e16dc47-c0ae-48dc-93c5-432b0e4c8751",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-04-01&endDate=2023-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
