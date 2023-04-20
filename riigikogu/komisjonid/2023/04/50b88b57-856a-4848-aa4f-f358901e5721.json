@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung neljapäev, 20.04.2023 kell 12.00",
+  "sitting_time": "2023-04-20T12:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Põhiseaduskomisjoni esitatud Riigikogu otsuse „Julgeolekuasutuste järelevalve erikomisjoni moodustamine\" eelnõu (12 OE) esimese lugemise arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "394900fc-99b3-4968-92e0-335f4819f570"
+    },
+    {
+      "order": 2,
+      "title": "Põhiseaduskomisjoni esitatud Riigikogu otsuse „Riigieelarve kontrolli erikomisjoni moodustamine\" eelnõu (14 OE) esimese lugemise arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e79f0099-37b8-47ee-8053-17085715846c"
+    },
+    {
+      "order": 3,
+      "title": "Põhiseaduskomisjoni esitatud Riigikogu otsuse „Korruptsioonivastase erikomisjoni moodustamine\" eelnõu (13 OE) esimese lugemise arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ffeaf082-666b-43a0-8f85-88715bf4fae2"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "59886262-3264-4fea-b148-f048057c2bd3"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "PÕSK protokoll 20.04.2023",
+      "uuid": "eebdbc81-f41a-4e87-a826-89e565fb7ab9",
+      "files": [
+        "PÕSK_protokoll_20.04.2023.asice",
+        "PÕSK.protokoll.20.04.2023.pdf"
+      ]
+    }
+  ],
+  "uuid": "50b88b57-856a-4848-aa4f-f358901e5721",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 50b88b57-856a-4848-aa4f-f358901e5721)",
+  "source": "https://api.riigikogu.ee/api/volumes/50b88b57-856a-4848-aa4f-f358901e5721",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-04-01&endDate=2023-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
