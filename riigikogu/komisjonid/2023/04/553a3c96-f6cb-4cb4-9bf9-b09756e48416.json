@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung neljapäev, 20.04.2023 kell 13.00",
+  "sitting_time": "2023-04-20T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 24. aprillil 2023 toimuval Euroopa Liidu välisasjade nõukogu kohtumisel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "68f6f409-e025-4344-9efb-502ad1d786ce"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ece4414f-d2b5-429a-a08b-e1eeea708188"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 20.04.2023 nr 2",
+      "uuid": "a4dda323-786e-4fb3-aa7b-422b5a6221ce",
+      "files": [
+        "VÄLK_protokoll_20.04.2023_nr_2.asice",
+        "VÄLK_protokoll_20.04.2023.pdf"
+      ]
+    }
+  ],
+  "uuid": "553a3c96-f6cb-4cb4-9bf9-b09756e48416",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 553a3c96-f6cb-4cb4-9bf9-b09756e48416)",
+  "source": "https://api.riigikogu.ee/api/volumes/553a3c96-f6cb-4cb4-9bf9-b09756e48416",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-04-01&endDate=2023-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
