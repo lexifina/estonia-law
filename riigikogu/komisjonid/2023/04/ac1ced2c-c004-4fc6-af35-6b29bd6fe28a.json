@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Euroopa Liidu asjade komisjoni istung reede, 21.04.2023 kell 11.00",
+  "sitting_time": "2023-04-21T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Euroopa Liidu asjade komisjoni esimehe ja aseesimehe valimine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cdb148fa-4327-4f10-bafe-1688da5b4241"
+    },
+    {
+      "order": 2,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "408a419a-4019-4489-ae4b-b59bb17dd2f6"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a3a5bdf0-a437-4646-9113-b089e6c19701"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ELAK 21.04 protokoll",
+      "uuid": "79ff116d-a034-49aa-bf4e-469a6cb7b326",
+      "files": [
+        "ELAK_protokoll_21.04.2023.pdf",
+        "ELAK_21.04_protokoll.asice"
+      ]
+    }
+  ],
+  "uuid": "ac1ced2c-c004-4fc6-af35-6b29bd6fe28a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ac1ced2c-c004-4fc6-af35-6b29bd6fe28a)",
+  "source": "https://api.riigikogu.ee/api/volumes/ac1ced2c-c004-4fc6-af35-6b29bd6fe28a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-04-01&endDate=2023-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
