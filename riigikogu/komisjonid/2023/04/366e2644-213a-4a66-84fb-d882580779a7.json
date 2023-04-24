@@ -1,0 +1,42 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Rahanduskomisjoni ja majanduskomisjoni ühine istung esmaspäev, 24.04.2023 kell 11.15",
+  "sitting_time": "2023-04-24T11:15:00",
+  "sitting_type": "UHISISTUNG",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "58c63d46-77cb-46f6-83c6-46a3d8b0e422"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade Rahandusministeeriumi 2023. aasta kevadprognoosist",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6904a2a0-cf08-4fd0-92b5-14055cd4dbe3"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 24.04.2023",
+      "uuid": "8dc4629f-e707-43ab-83e5-cf9cba4937f5",
+      "files": [
+        "Protokoll_24.04.2023.asice",
+        "RAHK_ja_MAJK_ühise_istugi_protokoll_1_24_04_2023.pdf",
+        "Kevadprognoos_RAHK_24.04.2023.pptx",
+        "Asendusliikme_volikiri-Laats-Belobrovtsev_24.04.2023.pdf"
+      ]
+    }
+  ],
+  "uuid": "366e2644-213a-4a66-84fb-d882580779a7",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 366e2644-213a-4a66-84fb-d882580779a7)",
+  "source": "https://api.riigikogu.ee/api/volumes/366e2644-213a-4a66-84fb-d882580779a7",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-04-01&endDate=2023-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
