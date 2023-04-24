@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung esmaspäev, 24.04.2023 kell 12.30",
+  "sitting_time": "2023-04-24T12:33:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade Rahandusministeeriumi 2023. aasta I poolaastal ettevalmistavatest eelnõudest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "893888b1-30ba-4b77-974c-6b42fa582633"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "24f3c76d-e1da-4c4f-b3cd-024203441ba1"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 24.04.2023",
+      "uuid": "2c4fbb58-ace0-4db5-9643-89b610706a73",
+      "files": [
+        "RAHK_protokoll_24.04.2023.asice",
+        "RAHK_protokoll_2_24_04_2023.pdf",
+        "RAM__slaidid_2023_1.pa_24.04.2023.pptx"
+      ]
+    }
+  ],
+  "uuid": "363c52cf-33fa-447e-a8e8-b71ea8e2dd46",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 363c52cf-33fa-447e-a8e8-b71ea8e2dd46)",
+  "source": "https://api.riigikogu.ee/api/volumes/363c52cf-33fa-447e-a8e8-b71ea8e2dd46",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-04-01&endDate=2023-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
