@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 24.04.2023 kell 11.10",
+  "sitting_time": "2023-04-24T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "db9081e1-163f-49b7-9503-070ba18deb23"
+    },
+    {
+      "order": 2,
+      "title": "Maaelukomisjoni töö tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7d089f1c-cdf7-44b6-b7a9-8913c87f78b7"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "240bca97-8049-4d49-ab0e-dc54401552a1"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 24.04.2023",
+      "uuid": "00da3d44-b410-481a-ac7d-6ba27a5b4545",
+      "files": [
+        "MAEK_protokoll_24.04.2023.asice",
+        "2-protokoll-24.04.2023.pdf"
+      ]
+    }
+  ],
+  "uuid": "01222360-8a94-4ed9-bc3e-e323dac41c0b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 01222360-8a94-4ed9-bc3e-e323dac41c0b)",
+  "source": "https://api.riigikogu.ee/api/volumes/01222360-8a94-4ed9-bc3e-e323dac41c0b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-04-01&endDate=2023-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
