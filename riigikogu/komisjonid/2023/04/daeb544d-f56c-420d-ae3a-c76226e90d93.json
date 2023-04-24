@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung esmaspäev, 24.04.2023 kell 12.35",
+  "sitting_time": "2023-04-24T12:35:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Majanduskomisjoni töö ja töökorraldus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "46daf0cc-592c-46d6-8639-664789847b3c"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "46563401-23be-405a-bd99-1e79b6c5d2af"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAJK protokoll nr 2 24.04.2023",
+      "uuid": "a1dd7bb8-d051-412c-aaf7-7b070b324b22",
+      "files": [
+        "MAJK_protokoll_nr_2_24.04.2023.pdf",
+        "MAJK_protokoll_nr_2_24.04.2023.asice"
+      ]
+    }
+  ],
+  "uuid": "daeb544d-f56c-420d-ae3a-c76226e90d93",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid daeb544d-f56c-420d-ae3a-c76226e90d93)",
+  "source": "https://api.riigikogu.ee/api/volumes/daeb544d-f56c-420d-ae3a-c76226e90d93",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-04-01&endDate=2023-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
