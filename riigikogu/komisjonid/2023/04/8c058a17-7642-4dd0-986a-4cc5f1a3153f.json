@@ -1,0 +1,48 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung teisipäev, 25.04.2023 kell 14.00",
+  "sitting_time": "2023-04-25T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Majanduskomisjoni ja Arenguseire Keskuse koostööst. Ülevaade senisest tegevusest ja ettepanekud edasiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bd09ca67-a901-4172-8b35-7fdccdfc864f"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade tööstusomandi litsentsimise, pantimise ja registrikannete õigusliku tähenduse ühtlustamise seaduseelnõu väljatöötamiskavatsusest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0f1adea8-096a-40f2-9ae2-32bb26fc5da1"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f915385f-f04e-4762-8884-fe02914b018e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAJK protokoll nr 3 25.04.2023",
+      "uuid": "f8cad5ab-e3a4-49c1-96db-8810110ac33c",
+      "files": [
+        "ASK._majanduskomisjon_25.04.23.pdf",
+        "MAJK_protokoll_nr_3_25.04.2023.asice",
+        "Asendusliikme_volikiri.pdf",
+        "MAJK_protokoll_nr_3_25.04.2023.pdf"
+      ]
+    }
+  ],
+  "uuid": "8c058a17-7642-4dd0-986a-4cc5f1a3153f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8c058a17-7642-4dd0-986a-4cc5f1a3153f)",
+  "source": "https://api.riigikogu.ee/api/volumes/8c058a17-7642-4dd0-986a-4cc5f1a3153f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-04-01&endDate=2023-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
