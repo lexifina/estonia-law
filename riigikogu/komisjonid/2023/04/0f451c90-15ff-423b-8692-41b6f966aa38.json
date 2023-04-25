@@ -1,0 +1,48 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung teisipäev, 25.04.2023 kell 13.00",
+  "sitting_time": "2023-04-25T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade Eelarvenõukogu arvamusest 2023. aasta kevadise makromajandusprognoosi ja rahandusprognoosi kohta",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ff67316b-9dc0-4dbe-9452-5ccfebb290ad"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade Rahapesu Andmebüroo 2022. aasta tegevusest ja Moneyvali hindamise tulemustest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "91814ae6-76e9-425c-b658-e71550d62bb6"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a4cf0560-34f1-4e95-b60c-fff6d29e06f7"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 25.04.2023",
+      "uuid": "2ded5602-f6ca-410d-9e50-4b3211ef4fe4",
+      "files": [
+        "RAHK_protokoll_25.04.2023.asice",
+        "MONEYVAList_rahanduskomisjonis_25.04.2023.pptx",
+        "EAN_esitlus_rahanduskomisjonis_25.04.2023.pptx",
+        "RAHK_protokoll_3_25_04_2023.pdf"
+      ]
+    }
+  ],
+  "uuid": "0f451c90-15ff-423b-8692-41b6f966aa38",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0f451c90-15ff-423b-8692-41b6f966aa38)",
+  "source": "https://api.riigikogu.ee/api/volumes/0f451c90-15ff-423b-8692-41b6f966aa38",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-04-01&endDate=2023-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
