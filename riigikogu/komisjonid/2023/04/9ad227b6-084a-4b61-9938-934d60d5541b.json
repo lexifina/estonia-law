@@ -1,0 +1,49 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung teisipäev, 25.04.2023 kell 14.00",
+  "sitting_time": "2023-04-25T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikontrolli auditiaruande „Loodusväärtuste kaitse ja raied kaitstavates metsades“ arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6c49537d-3e31-49ff-a672-ac2d5fa1295b"
+    },
+    {
+      "order": 2,
+      "title": "Arvamuse andmine Riigikohtule põhiseaduslikkuse järelevalve asja nr 5-23-3",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "88611ffb-c0c5-4aad-b147-4c526c9ed5a1"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2717584a-a4b7-421a-81c9-5b8f8931b01f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK protokoll 25.04.2023",
+      "uuid": "491e1154-305a-4c45-9971-eb9e7e07141a",
+      "files": [
+        "KEKK_protokoll_25.04.2023_(1).pdf",
+        "KEKK_protokoll_25.04.2023.asice",
+        "KEKK_protokoll_25.04.2023.pdf",
+        "Ettekanne_kaitsemetsad_21.04.2023_LOPP.pdf",
+        "Looduskaitsest_RKKK_04.2023.pdf"
+      ]
+    }
+  ],
+  "uuid": "9ad227b6-084a-4b61-9938-934d60d5541b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9ad227b6-084a-4b61-9938-934d60d5541b)",
+  "source": "https://api.riigikogu.ee/api/volumes/9ad227b6-084a-4b61-9938-934d60d5541b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-04-01&endDate=2023-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
