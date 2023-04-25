@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 25.04.2023 kell 14.00",
+  "sitting_time": "2023-04-25T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Eesti Maaülikooli esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4d481e68-47e7-46a1-ba8f-ef33e0144a98"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e3f2ab37-0228-49f5-8cea-1ec792a3f729"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 25.04.2023",
+      "uuid": "fdb73652-dd79-4b16-9919-39f9b9457f9f",
+      "files": [
+        "MAEK_protokoll_25.04.2023.asice",
+        "3_protokoll_25.04.2023.pdf"
+      ]
+    }
+  ],
+  "uuid": "3abd3d2e-b33e-4e54-9881-7ad890459838",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3abd3d2e-b33e-4e54-9881-7ad890459838)",
+  "source": "https://api.riigikogu.ee/api/volumes/3abd3d2e-b33e-4e54-9881-7ad890459838",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-04-01&endDate=2023-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
