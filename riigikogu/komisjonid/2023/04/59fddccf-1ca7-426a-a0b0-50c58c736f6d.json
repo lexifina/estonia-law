@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Korruptsioonivastane erikomisjon",
+  "committee_uuid": "e4f2977a-e8c3-4fa0-8f3d-9df9acd6377f",
+  "title": "Komisjoni istung neljapäev, 27.04.2023 kell 16.00",
+  "sitting_time": "2023-04-27T16:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Komisjoni esimehe ja aseesimehe valimised",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "12cd6c5d-9f8e-43c5-b00e-cb76592f9e5f"
+    },
+    {
+      "order": 2,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "883a0d07-1e01-457e-a3de-96f1fad949ad"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e645d1a9-e40a-4f06-a74c-98fd74f76e21"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KVEK protokoll 27.04.2023",
+      "uuid": "20c45636-c282-4fdf-9b69-d625af5eef68",
+      "files": [
+        "KVEK_protokoll_1_(27.04.2023).asice",
+        "KVEK_protokoll_1_(27.04.2023)_5.5.23.pdf",
+        "Asendusliikme_volikiri.pdf"
+      ]
+    }
+  ],
+  "uuid": "59fddccf-1ca7-426a-a0b0-50c58c736f6d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 59fddccf-1ca7-426a-a0b0-50c58c736f6d)",
+  "source": "https://api.riigikogu.ee/api/volumes/59fddccf-1ca7-426a-a0b0-50c58c736f6d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-04-01&endDate=2023-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
