@@ -1,0 +1,36 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung neljapäev, 27.04.2023 kell 16.00",
+  "sitting_time": "2023-04-27T16:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigieelarve kontrolli erikomisjoni esimehe ja aseesimehe valimine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ff648d76-976b-412e-8614-ff5c4d79a743"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 27.04.23",
+      "uuid": "c51dc10d-136b-4705-860a-5991e3eb1ec0",
+      "files": [
+        "REKK_protokoll_27.04.23.asice",
+        "Volikiri_2_27.04.23.pdf",
+        "Volikiri_27.04.23.pdf",
+        "Protokoll_nr_1_27.04.23.pdf"
+      ]
+    }
+  ],
+  "uuid": "cfd6c269-bb40-4fd4-8471-b319c0e9db2f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid cfd6c269-bb40-4fd4-8471-b319c0e9db2f)",
+  "source": "https://api.riigikogu.ee/api/volumes/cfd6c269-bb40-4fd4-8471-b319c0e9db2f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-04-01&endDate=2023-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
