@@ -65,3 +65,5 @@
 4) tsiviilkohtumenetluses riigi kui menetlusosalise huvisid kahjustada võiva teabe kuni kohtulahendi tegemiseni;
 
 5) riigikaitseülesannete täitmiseks ja hädaolukorra tagajärgede leevendamiseks vajaliku varu moodustamise ning vahendite muretsemisega seotud teabe, kui selle avalikuks tulek võib mõjutada varu moodustamist ja vahendite muretsemist.
+
+(3) Välisriigi või rahvusvahelise organisatsiooni poolt edastatud juurdepääsupiirangu märkega teave, mida ei loeta vastavalt riigisaladuse ja salastatud välisteabe seadusele salastatud välisteabeks, loetakse asutusesiseseks kasutamiseks mõeldud teabeks.

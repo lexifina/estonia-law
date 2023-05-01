@@ -6,6 +6,6 @@
 
 (2) Kui teabekandja seda võimaldab, teeb asutusesiseseks kasutamiseks mõeldud teabeks tunnistatud dokumendile või dokumendi kogumile dokumendi vormistaja suurtähtedega märke «ASUTUSESISESEKS KASUTAMISEKS» või kasutab selle lühendit AK. Märkele lisatakse teabevaldaja nimi, juurdepääsupiirangu alus, lõpptähtpäev ja vormistamise kuupäev.
 
-(3) Teiste riikide või rahvusvaheliste organisatsioonide poolt edastatud juurdepääsupiirangu märkega dokumentidele, mida ei loeta vastavalt riigisaladuse ja salastatud välisteabe seadusele salastatud välisteabeks, märget ei tehta, välja arvatud juurdepääsupiirangu põhjuse äralangemisel sellise piirangu kehtetuks tunnistamiseks.
+(3) Välisriigi või rahvusvahelise organisatsiooni poolt edastatud juurdepääsupiirangu märkega dokumentidele, mis loetakse asutusesiseseks kasutamiseks mõeldud teabeks, lisatakse käesoleva paragrahvi lõikele 2 vastav eestikeelne märge juhul, kui teabe loonud riik või organisatsioon seda nõuab, kui see on ette nähtud välislepingus või kui see aitab selgitada juurdepääsupiirangut või selle tähtaega.
 
 (4) Teabe asutusesiseseks kasutamiseks tunnistanud teabevaldaja teavitab viivitamata teabe asutusesiseseks kasutamiseks tunnistamisest teabevaldajaid, kellele see teave on edastatud.
