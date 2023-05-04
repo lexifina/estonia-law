@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni erakorraline istung neljapäev, 4.05.2023 kell 12.00",
+  "sitting_time": "2023-05-04T12:00:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Arvamuse andmine Euroopa Liidu asjade komisjonile: Eesti seisukohad Euroopa Liidu puudega isiku kaardi avaliku konsultatsiooni kohta",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e99de2b7-ed5c-4a38-9f6c-530a33700781"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c0258f63-75da-452a-bd0d-9e706cc7b839"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "SOTK protokoll 4.05.2023",
+      "uuid": "39b731f3-c974-4a06-8947-59b98118c8a9",
+      "files": [
+        "SOTK_protokoll_4.05.2023.asice",
+        "SOTK_protokoll_nr_5_(04.05.2023).docx"
+      ]
+    }
+  ],
+  "uuid": "c06d70d8-3e96-4f41-86c1-3ad5831fdc14",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c06d70d8-3e96-4f41-86c1-3ad5831fdc14)",
+  "source": "https://api.riigikogu.ee/api/volumes/c06d70d8-3e96-4f41-86c1-3ad5831fdc14",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-05-01&endDate=2023-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
