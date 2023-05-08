@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 8.05.2023 kell 11.10",
+  "sitting_time": "2023-05-08T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "966e29bb-991f-4c57-b41a-13cd8bbf022b"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine Eestimaa Talupidajate Keskliidu esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "514534b1-7caf-4d0f-8530-72516410cd83"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3711dc24-9bd7-41e8-8afd-32c8635a9b69"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 08.05.2023",
+      "uuid": "0795fdbb-865c-4020-8103-2269c66c6b5d",
+      "files": [
+        "MAEK_protokoll_08.05.2023.asice",
+        "4_protokolli_lisa__ETKL.pdf",
+        "4_protokoll_8.5.2023.pdf"
+      ]
+    }
+  ],
+  "uuid": "7d5a84bb-a4ea-43c5-867d-1035847246f4",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7d5a84bb-a4ea-43c5-867d-1035847246f4)",
+  "source": "https://api.riigikogu.ee/api/volumes/7d5a84bb-a4ea-43c5-867d-1035847246f4",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-05-01&endDate=2023-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
