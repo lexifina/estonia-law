@@ -1,0 +1,48 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 8.05.2023 kell 13.15",
+  "sitting_time": "2023-05-08T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "29138eef-05f0-499c-aed2-549d8e925e95"
+    },
+    {
+      "order": 2,
+      "title": "Riigi rahanduse seis ja planeeritavad maksumuudatused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d9b607a6-5747-4402-8be7-01d93f54531f"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7e7699f6-de0c-4415-b30c-744980fa4947"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 8.05.23",
+      "uuid": "a5e08d9c-b6c5-42fc-962e-0d38caabb975",
+      "files": [
+        "REKK_protokoll_8.05.23.asice",
+        "Kevadprognoos_2023.pptx",
+        "RAM_maksude_briif_8.05.2023.pptx",
+        "Protokoll_nr_2_08.05.23.pdf"
+      ]
+    }
+  ],
+  "uuid": "173037d3-5b47-4e51-be82-8de418a47d52",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 173037d3-5b47-4e51-be82-8de418a47d52)",
+  "source": "https://api.riigikogu.ee/api/volumes/173037d3-5b47-4e51-be82-8de418a47d52",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-05-01&endDate=2023-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
