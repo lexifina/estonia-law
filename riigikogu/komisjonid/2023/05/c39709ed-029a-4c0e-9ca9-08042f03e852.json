@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung esmaspäev, 8.05.2023 kell 11.00",
+  "sitting_time": "2023-05-08T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "01712f55-b497-419b-b600-0e8d10b8a5b2"
+    },
+    {
+      "order": 2,
+      "title": "Riigikaitsekomisjoni liikmete nimetamine Balti Assamblee delegatsiooni",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "beeacf95-1363-46bc-a293-d96d5c12bca0"
+    },
+    {
+      "order": 3,
+      "title": "Kaitseministri ülevaade Vabariigi Valitsuse riigikaitsevaldkonna plaanidest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bcceab32-1db5-4c2d-bf52-f66edbf72497"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a84fd86b-8ace-4f01-8655-26c72d14ca2e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Riigikaitsekomisjoni 08.05.2023 istungi protokoll",
+      "uuid": "3dd1ccdc-70e4-4335-ab42-0e2002cab926",
+      "files": [
+        "Riigikaitsekomisjoni_08.05.2023_istungi_protokoll.asice",
+        "2023-05-08_protokoll.pdf"
+      ]
+    }
+  ],
+  "uuid": "c39709ed-029a-4c0e-9ca9-08042f03e852",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c39709ed-029a-4c0e-9ca9-08042f03e852)",
+  "source": "https://api.riigikogu.ee/api/volumes/c39709ed-029a-4c0e-9ca9-08042f03e852",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-05-01&endDate=2023-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
