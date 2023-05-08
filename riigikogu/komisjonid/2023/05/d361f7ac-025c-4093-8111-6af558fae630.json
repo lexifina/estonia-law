@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Korruptsioonivastane erikomisjon",
+  "committee_uuid": "e4f2977a-e8c3-4fa0-8f3d-9df9acd6377f",
+  "title": "Komisjoni istung esmaspäev, 8.05.2023",
+  "sitting_time": "2023-05-08T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "96cd61bc-2130-47bc-88eb-7f3fe88ba459"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade Riigikogu XIV koosseisu ajal komisjonis poolelijäänud teemadest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a57c0580-b76d-4d1c-9819-a7bc3f42246d"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3417ad7b-932f-4af5-84ee-a72f0015808f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KVEK protokoll 08.05.2023",
+      "uuid": "d62653ce-64a9-481a-98f2-1acd5b5c03ca",
+      "files": [
+        "KVEK_protokoll_2_(08.05.2023).pdf",
+        "KVEK_protokoll_2_(08.05.2023).asice"
+      ]
+    }
+  ],
+  "uuid": "d361f7ac-025c-4093-8111-6af558fae630",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d361f7ac-025c-4093-8111-6af558fae630)",
+  "source": "https://api.riigikogu.ee/api/volumes/d361f7ac-025c-4093-8111-6af558fae630",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-05-01&endDate=2023-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
