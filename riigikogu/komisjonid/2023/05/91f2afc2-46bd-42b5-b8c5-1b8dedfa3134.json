@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung teisipäev, 9.05.2023 kell 14.00",
+  "sitting_time": "2023-05-09T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti Panga ülevaade 2022. aasta aruandest ja 2023. aasta prognoosist. Kutsutud Eesti Panga president Madis Müller",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "73050234-6dc4-445d-8c74-4c15d21248c5"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud alkoholi-, tubaka-, kütuse- ja elektriaktsiisi seaduse ning teiste seaduste muutmise seaduse eelnõu esimeseks lugemiseks ettevalmistamine. Kutsutud rahandusminister Mart Võrklaev",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "414c42ef-fa89-4df7-abf6-13c7d82730b9"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5c8232b4-3051-4644-8719-9a9c14d9a7d8"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 09.05.2023",
+      "uuid": "ef648859-1b07-4258-8775-f8d6ef5913e4",
+      "files": [
+        "RAHK_protokoll_09.05.2023.asice",
+        "RAHK_protokoll_5_9_05_2023.pdf",
+        "RAM_maksuseaduste_tutvustus_09.05.2023.pptx"
+      ]
+    }
+  ],
+  "uuid": "91f2afc2-46bd-42b5-b8c5-1b8dedfa3134",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 91f2afc2-46bd-42b5-b8c5-1b8dedfa3134)",
+  "source": "https://api.riigikogu.ee/api/volumes/91f2afc2-46bd-42b5-b8c5-1b8dedfa3134",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-05-01&endDate=2023-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
