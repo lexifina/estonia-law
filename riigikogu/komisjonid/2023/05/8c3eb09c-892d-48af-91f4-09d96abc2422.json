@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 9.05.2023 kell 14.00",
+  "sitting_time": "2023-05-09T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Maaelu Edendamise Sihtasutuse esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3d4b845d-997b-474e-a2ea-d128642a6d05"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "413e6e21-1f30-4cf3-b25a-0245dd4a6307"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 09.05.2023",
+      "uuid": "a937c28c-49f3-4e3c-8592-72bf2b9ba140",
+      "files": [
+        "MAEK_protokoll_09.05.2023.asice",
+        "5_protokoll_9.5.2023.pdf",
+        "5_protokolli_lisa__MES.pdf"
+      ]
+    }
+  ],
+  "uuid": "8c3eb09c-892d-48af-91f4-09d96abc2422",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8c3eb09c-892d-48af-91f4-09d96abc2422)",
+  "source": "https://api.riigikogu.ee/api/volumes/8c3eb09c-892d-48af-91f4-09d96abc2422",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-05-01&endDate=2023-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
