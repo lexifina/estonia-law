@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung teisipäev, 9.05.2023 kell 13.00",
+  "sitting_time": "2023-05-09T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade 14. mail 2023 toimuvast Türgi parlamendi ja presidendi valimistest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2d4dbcb6-4118-48f2-9eb9-a3b9cb60955b"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "15ab5b38-5dc0-49cf-ab66-5f0bea5e277f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 9.05.2023 nr 5",
+      "uuid": "1e6c3c1c-85da-4e4a-b356-7cfe587bb3ff",
+      "files": [
+        "VÄLK_protokoll_9.05.2023_nr_5.asice",
+        "VÄLK_protokoll_9.05.2023.pdf"
+      ]
+    }
+  ],
+  "uuid": "5f0bfeca-0204-4ceb-8e21-75c7ac5cfe92",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 5f0bfeca-0204-4ceb-8e21-75c7ac5cfe92)",
+  "source": "https://api.riigikogu.ee/api/volumes/5f0bfeca-0204-4ceb-8e21-75c7ac5cfe92",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-05-01&endDate=2023-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
