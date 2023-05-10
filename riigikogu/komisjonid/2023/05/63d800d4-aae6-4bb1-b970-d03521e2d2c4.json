@@ -1,0 +1,48 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung kolmapäev, 10.05.2023 kell 08.30",
+  "sitting_time": "2023-05-10T08:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade komisjoni tööst",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0befc3de-2888-4dfe-91ff-138bf8709b00"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade Riigikontrolli tegevusest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d1c7b95b-a716-44d9-9b24-d31f99031ecb"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "68f4913d-0b7a-4eb5-8ecb-345f77789834"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 10.05.23",
+      "uuid": "df7490fb-389a-4caa-9539-9903de2de1f6",
+      "files": [
+        "REKK_protokoll_10.05.23.asice",
+        "Riigikontrolli_tööplaan_2023_up.pptx",
+        "Komisjoni_tutvustus.ppt",
+        "Protokoll_nr_3_10.05.23.pdf"
+      ]
+    }
+  ],
+  "uuid": "63d800d4-aae6-4bb1-b970-d03521e2d2c4",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 63d800d4-aae6-4bb1-b970-d03521e2d2c4)",
+  "source": "https://api.riigikogu.ee/api/volumes/63d800d4-aae6-4bb1-b970-d03521e2d2c4",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-05-01&endDate=2023-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
