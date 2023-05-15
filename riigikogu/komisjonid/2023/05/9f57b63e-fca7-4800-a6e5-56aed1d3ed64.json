@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Korruptsioonivastane erikomisjon",
+  "committee_uuid": "e4f2977a-e8c3-4fa0-8f3d-9df9acd6377f",
+  "title": "Komisjoni istung esmaspäev, 15.05.2023",
+  "sitting_time": "2023-05-15T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "694e8ef5-888f-41ea-9252-25d60d2804d2"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine MTÜ Korruptsioonivaba Eesti juhi Steven-Hristo Evestusega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "38e09af2-0947-4c5f-8fd9-9d8ebf048da1"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dab15363-0f53-4b34-85f9-935211c9c359"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KVEK protokoll 15.05.2023",
+      "uuid": "d831155f-518e-4e05-ac03-a1441c804893",
+      "files": [
+        "KVEK_protokoll_15.05.2023.asice",
+        "KVEK_protokoll_3_(15.05.2023).pdf"
+      ]
+    }
+  ],
+  "uuid": "9f57b63e-fca7-4800-a6e5-56aed1d3ed64",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9f57b63e-fca7-4800-a6e5-56aed1d3ed64)",
+  "source": "https://api.riigikogu.ee/api/volumes/9f57b63e-fca7-4800-a6e5-56aed1d3ed64",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-05-01&endDate=2023-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
