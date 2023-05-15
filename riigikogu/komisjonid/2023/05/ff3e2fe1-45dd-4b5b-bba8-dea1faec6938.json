@@ -1,0 +1,58 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung esmaspäev, 15.05.2023 kell 11.15",
+  "sitting_time": "2023-05-15T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a5ceab64-51b2-4aa6-95ca-a6340dee3adc"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu avaldus \"Ukraina NATO-liikmesuse toetuseks\" (90 AE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f198f7a7-3c22-4d05-be40-71d4a43b8736"
+    },
+    {
+      "order": 3,
+      "title": "Riigikogu otsuse „Eesti Vabariigi, Leedu Vabariigi ja Läti Vabariigi Parlamentidevahelise Assamblee Eesti delegatsiooni moodustamineˮ eelnõu esitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "78f55ef3-90f5-495a-aff4-23c53d0f8ebe"
+    },
+    {
+      "order": 4,
+      "title": "Ülevaade Eesti ja Hiina suhetest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "84c0d8ab-26be-4e91-beae-6f8a6d030b0d"
+    },
+    {
+      "order": 5,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f6e470dd-c7ad-4273-a784-22d5bd775724"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 15.05.2023 nr 8",
+      "uuid": "a16367f7-29cd-4039-a873-160f51f9d6ce",
+      "files": [
+        "VÄLK_protokoll_15.05.2023_nr_8.asice",
+        "VÄLK_protokoll_15.05.2023.pdf"
+      ]
+    }
+  ],
+  "uuid": "ff3e2fe1-45dd-4b5b-bba8-dea1faec6938",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ff3e2fe1-45dd-4b5b-bba8-dea1faec6938)",
+  "source": "https://api.riigikogu.ee/api/volumes/ff3e2fe1-45dd-4b5b-bba8-dea1faec6938",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-05-01&endDate=2023-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
