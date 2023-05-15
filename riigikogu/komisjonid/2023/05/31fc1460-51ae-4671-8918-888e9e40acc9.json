@@ -1,0 +1,53 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung esmaspäev, 15.05.2023 kell 11.10",
+  "sitting_time": "2023-05-15T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3195dded-9df0-4570-a884-00200886440e"
+    },
+    {
+      "order": 2,
+      "title": "Arvamuse andmine Euroopa Liidu asjade komisjonile: Eesti seisukohad juhilubade reeglite muutmise ja liiklusreeglite parema jõustamise eelnõude kohta (teeohutuse pakett) - COM(2023) 126, COM(2023) 127, COM(2023) 128",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2a6d2786-bc95-4804-9bfa-5584bbcb2d09"
+    },
+    {
+      "order": 3,
+      "title": "Kohtumine Riigi Infosüsteemi Ameti juhtidega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c30a6053-75c0-4c68-a1ec-db97708bd877"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "469c416c-708b-4b46-bca5-f559d3f19cb4"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAJK protokoll nr 6 15.05.2023",
+      "uuid": "970214db-1922-435d-9323-9685eb92dbd1",
+      "files": [
+        "MAJK_protokoll_nr_6_15.05.2023.asice",
+        "Riigikogu_15.05.2023_avalik.pdf",
+        "MAJK_protokoll_nr_6_15.05.2023.pdf"
+      ]
+    }
+  ],
+  "uuid": "31fc1460-51ae-4671-8918-888e9e40acc9",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 31fc1460-51ae-4671-8918-888e9e40acc9)",
+  "source": "https://api.riigikogu.ee/api/volumes/31fc1460-51ae-4671-8918-888e9e40acc9",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-05-01&endDate=2023-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
