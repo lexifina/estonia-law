@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 15.05.2023 kell 13.15",
+  "sitting_time": "2023-05-15T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "01742579-85ed-4484-9d1c-29f252776232"
+    },
+    {
+      "order": 2,
+      "title": "Riigi rahanduse seis – jätkuarutelu planeeritud OTRK korraldamiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "44ff40c9-ae03-4f5b-ae75-21f6d9b9bf2e"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "18e7a385-7cf8-4eab-a715-2cc4bfe4ec02"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 15.05.23",
+      "uuid": "0dd15024-2f34-434c-aabd-6de3cc45a6d3",
+      "files": [
+        "REKK_protokoll_15.05.23.asice",
+        "RAM_maksude_briif_8.05.2023.pptx",
+        "Protokoll_nr_4_15.05.23.pdf"
+      ]
+    }
+  ],
+  "uuid": "7987c79f-b02d-4db7-b8b2-09bfc900985c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7987c79f-b02d-4db7-b8b2-09bfc900985c)",
+  "source": "https://api.riigikogu.ee/api/volumes/7987c79f-b02d-4db7-b8b2-09bfc900985c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-05-01&endDate=2023-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
