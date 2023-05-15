@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 15.05.2023 kell 11.10",
+  "sitting_time": "2023-05-15T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "37f68724-1f7a-4f65-9f29-89029ff7790d"
+    },
+    {
+      "order": 2,
+      "title": "Arvamuse andmine Euroopa Liidu asjade komisjonile. Komisjoni teatised, mis käsitlevad kalanduspoliitika tulevikku ja kalandussektori energiaüleminekut - COM(2023) 100, COM(2023) 102, COM(2023) 103",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "26a41b86-c851-4113-b53d-9616f13c77cf"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "48543fef-c2de-477a-8807-5f3dd52e0e3d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 15.05.2023",
+      "uuid": "444dcc8f-fba4-4945-87d0-c002fe3cb148",
+      "files": [
+        "MAEK_protokoll_15.05.2023.asice",
+        "6_protokoll_15.05.2023.pdf"
+      ]
+    }
+  ],
+  "uuid": "8d41b515-3209-4459-b1ce-8662a63a1d4d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8d41b515-3209-4459-b1ce-8662a63a1d4d)",
+  "source": "https://api.riigikogu.ee/api/volumes/8d41b515-3209-4459-b1ce-8662a63a1d4d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-05-01&endDate=2023-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
