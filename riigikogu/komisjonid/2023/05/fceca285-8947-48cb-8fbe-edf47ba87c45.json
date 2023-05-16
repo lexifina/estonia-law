@@ -1,0 +1,49 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung teisipäev, 16.05.2023 kell 14.00",
+  "sitting_time": "2023-05-16T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0fd9ad6d-744b-45f3-b919-7df13ac17402"
+    },
+    {
+      "order": 2,
+      "title": "Perekonnaseaduse muutmise ja sellega seonduvalt teiste seaduste muutmise seaduse eelnõu (207 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b8abfab0-246a-43cb-9faa-b7de0014c618"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bbabe965-e00b-4898-905b-4b8f102d45da"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ÕIGK protokoll 16.05.2023",
+      "uuid": "1e812930-5e80-411c-af9a-bfb25f3e5105",
+      "files": [
+        "ÕIGK_protokoll_16.05.2023.asice",
+        "Kunstliku_viljastamise_tulemusel_põlvnemise_joonis_(Lisa_2).pdf",
+        "Jaanus_Karilaid_asendusliikme_volitus.pdf",
+        "Abieluvõrdsus_ja_KooSRS_esitlus_(Lisa_1).pptx",
+        "Riigikogu_õiguskomisjoni_istungi_protokoll_nr_4.pdf"
+      ]
+    }
+  ],
+  "uuid": "fceca285-8947-48cb-8fbe-edf47ba87c45",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid fceca285-8947-48cb-8fbe-edf47ba87c45)",
+  "source": "https://api.riigikogu.ee/api/volumes/fceca285-8947-48cb-8fbe-edf47ba87c45",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-05-01&endDate=2023-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
