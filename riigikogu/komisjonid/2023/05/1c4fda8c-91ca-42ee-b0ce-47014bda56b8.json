@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung teisipäev, 16.05.2023 kell 14.00",
+  "sitting_time": "2023-05-16T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Elektrilevi OÜ juhiga",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ad74e1ed-972b-4696-9e71-fe3a7af903a5"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ba749901-b26f-4dfb-9190-419dc0fe7050"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAJK protokoll nr 7 16.05.2023",
+      "uuid": "90b2d755-fa9a-404c-ba14-93009e69e843",
+      "files": [
+        "MAJK_protokoll_nr_7_16.05.2023.pdf",
+        "Elektrilevi_ülevaade_2023-05-16_MH.pdf",
+        "MAJK_protokoll_nr_7_16.05.2023.asice"
+      ]
+    }
+  ],
+  "uuid": "1c4fda8c-91ca-42ee-b0ce-47014bda56b8",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 1c4fda8c-91ca-42ee-b0ce-47014bda56b8)",
+  "source": "https://api.riigikogu.ee/api/volumes/1c4fda8c-91ca-42ee-b0ce-47014bda56b8",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-05-01&endDate=2023-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
