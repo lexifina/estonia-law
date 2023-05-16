@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 16.05.2023 kell 14.00",
+  "sitting_time": "2023-05-16T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine regionaalminister Madis Kallasega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "177aa8c7-9ac7-4ae5-804f-8b22a427834b"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "920af3e6-a7ea-4246-a428-bfec152527e3"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 16.05.2023",
+      "uuid": "678abf17-e8ad-4495-b05d-b953b1ba435c",
+      "files": [
+        "MAEK_protokoll_16.05.2023.asice",
+        "7_protokolli_lisa__MEM.pdf",
+        "7_protokoll_16.05.2023.pdf"
+      ]
+    }
+  ],
+  "uuid": "235b84d5-2e45-47f8-aef8-c84d92eec888",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 235b84d5-2e45-47f8-aef8-c84d92eec888)",
+  "source": "https://api.riigikogu.ee/api/volumes/235b84d5-2e45-47f8-aef8-c84d92eec888",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-05-01&endDate=2023-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
