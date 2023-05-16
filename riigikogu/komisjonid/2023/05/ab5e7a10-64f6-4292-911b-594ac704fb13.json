@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Erakorraline komisjoni istung teisipäev, 16.05.2023 kell 14.00",
+  "sitting_time": "2023-05-16T14:00:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Istungi päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "87f4cf8d-e897-4713-95b5-12bd96b46b0b"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu otsus „Urmas Varblase Eesti Panga nõukogu esimehe ametisse nimetamine\" (23 OE). Osaleb Urmas Varblane.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8005d0fa-d441-4ff0-b995-433548944b6e"
+    },
+    {
+      "order": 3,
+      "title": "Käibemaksuseaduse muutmise seaduse eelnõu (147 SE I). Arutelu teemal majutusteenuste käibemaksuerandi kaotamise ettepanek. Huvigruppide kaasamine.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7f1146a3-74ea-49a4-86e8-c36a3c12dc8b"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2cfdad55-b131-49e1-8c20-5fc3bd491873"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 16.05.2023",
+      "uuid": "463ae0d0-d69f-46c1-92fb-35786cd282da",
+      "files": [
+        "RAHK_protokoll_9_16_05_2023_erakorraline.pdf",
+        "RAHK_protokoll_16.05.2023.asice"
+      ]
+    }
+  ],
+  "uuid": "ab5e7a10-64f6-4292-911b-594ac704fb13",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ab5e7a10-64f6-4292-911b-594ac704fb13)",
+  "source": "https://api.riigikogu.ee/api/volumes/ab5e7a10-64f6-4292-911b-594ac704fb13",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-05-01&endDate=2023-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
