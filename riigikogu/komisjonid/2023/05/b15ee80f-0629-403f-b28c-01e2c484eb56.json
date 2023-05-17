@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung kolmapäev, 17.05.2023 kell 08.15",
+  "sitting_time": "2023-05-17T08:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikontrolli kontrolliaruande „Riigi kaitsetegevuse kava täitmise valmisolek“ arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "975486c2-e1d6-4c3c-a60a-00c198df05d3"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5a8b3d49-3af2-49cd-9218-005018b302b5"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 17.05.23",
+      "uuid": "ba7264ad-bbae-4011-97fd-77df2712754f",
+      "files": [
+        "REKK_protokoll_17.05.23.asice",
+        "Protokoll_nr_5_17.05.2023.pdf"
+      ]
+    }
+  ],
+  "uuid": "b15ee80f-0629-403f-b28c-01e2c484eb56",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b15ee80f-0629-403f-b28c-01e2c484eb56)",
+  "source": "https://api.riigikogu.ee/api/volumes/b15ee80f-0629-403f-b28c-01e2c484eb56",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-05-01&endDate=2023-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
