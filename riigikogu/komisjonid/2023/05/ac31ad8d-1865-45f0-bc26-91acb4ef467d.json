@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung neljapäev, 18.05.2023 kell 13.05",
+  "sitting_time": "2023-05-18T13:05:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7e1df8f6-6a4c-4f5a-868b-d2996f0aed88"
+    },
+    {
+      "order": 2,
+      "title": "Relvaseaduse muutmise ja sellega seonduvalt teiste seaduste muutmise seaduse eelnõu (144 SE) esimese lugemise ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "813bc78d-c76a-4dcc-a368-a9020fd1a705"
+    },
+    {
+      "order": 3,
+      "title": "Informatsioon julgeolekuolukorra arengutest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "42394581-4679-460b-b02c-6420de358502"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "46bdb05e-c62b-4d17-88c2-7f58f476ce80"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Riigikaitsekomisjoni 18.05.2023 istungi protokoll",
+      "uuid": "9bfaabbb-68f3-4ed1-b25b-e258c1c3a387",
+      "files": [
+        "Riigikaitsekomisjoni_18.05.2023_istungi_protokoll.asice",
+        "2023-05-18_protokoll.pdf"
+      ]
+    }
+  ],
+  "uuid": "ac31ad8d-1865-45f0-bc26-91acb4ef467d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ac31ad8d-1865-45f0-bc26-91acb4ef467d)",
+  "source": "https://api.riigikogu.ee/api/volumes/ac31ad8d-1865-45f0-bc26-91acb4ef467d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-05-01&endDate=2023-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
