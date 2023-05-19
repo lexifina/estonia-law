@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung reede, 19.05.2023 kell 10.00",
+  "sitting_time": "2023-05-19T10:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 22. mail 2023 toimuval Euroopa Liidu välisasjade nõukogu kohtumisel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f02ee7d2-d71f-4a1d-8eed-1bbdad43563e"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "030a3d0a-86a8-4441-a670-6a0600ccbe48"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 19.05.2023 nr 12",
+      "uuid": "81a67e16-85db-4317-8b33-e0facfee83a3",
+      "files": [
+        "VÄLK_protokoll_19.05.2023_nr_12.asice",
+        "VÄLK_protokoll_19.05.2023.pdf"
+      ]
+    }
+  ],
+  "uuid": "51fa5552-8466-4b8f-babd-dd01c8512481",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 51fa5552-8466-4b8f-babd-dd01c8512481)",
+  "source": "https://api.riigikogu.ee/api/volumes/51fa5552-8466-4b8f-babd-dd01c8512481",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-05-01&endDate=2023-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
