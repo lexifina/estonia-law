@@ -1,0 +1,53 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung esmaspäev, 22.05.2023 kell 11.10",
+  "sitting_time": "2023-05-22T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1877ceca-5257-4ada-a8ea-3aa1f5298e60"
+    },
+    {
+      "order": 2,
+      "title": "Spordiseaduse ja tulumaksuseaduse muutmise seaduse eelnõu väljatöötamiskavatsuse arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fd5eb5db-0de9-4623-b498-731bdc57e1a4"
+    },
+    {
+      "order": 3,
+      "title": "Riigikogu otsus „Eesti Rahvusraamatukogu nõukogu liikmete nimetamine\" (221 OE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "68ef57b9-117c-4d2d-a944-289932bbc226"
+    },
+    {
+      "order": 4,
+      "title": "Info ja küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6fba5f22-ef95-4c63-a110-f7b80b463bdc"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KULK protokoll (22.05.2023)",
+      "uuid": "fa4ecb1e-0e90-42ea-85e8-3ad51e553feb",
+      "files": [
+        "Protokoll_5_(22.05.2023).pdf",
+        "230522_spordiseadus_riigikogu.pdf",
+        "KULK_protokoll_(22.05.2023).asice"
+      ]
+    }
+  ],
+  "uuid": "b58b0529-3a5d-4262-8f74-4cddf699e55d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b58b0529-3a5d-4262-8f74-4cddf699e55d)",
+  "source": "https://api.riigikogu.ee/api/volumes/b58b0529-3a5d-4262-8f74-4cddf699e55d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-05-01&endDate=2023-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
