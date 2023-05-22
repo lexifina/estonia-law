@@ -1,0 +1,53 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Korruptsioonivastane erikomisjon",
+  "committee_uuid": "e4f2977a-e8c3-4fa0-8f3d-9df9acd6377f",
+  "title": "Komisjoni istung esmaspäev, 22.05.2023 kell 13.15",
+  "sitting_time": "2023-05-22T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "709617ec-a3c9-40d0-998b-c042faffe383"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine riigiprokurör Triinu Olevi ja riigi peaprokurör Andres Parmasega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8ccb9634-4a6b-4b29-a238-0d85957cdefa"
+    },
+    {
+      "order": 3,
+      "title": "Kohtumine KAPO peadirektori Arnold Sinisaluga",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8a6ec130-31aa-4af9-a001-64997c5bd90a"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e74c1826-d8c2-4054-bc8a-60e191184d9a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KVEK protokoll 22.05.2023",
+      "uuid": "75c3440d-1d13-4a7a-a7c5-fd84a73fdc03",
+      "files": [
+        "KVEK_protokoll_5_(22.05.2023).asice",
+        "Asendusliikme_volikiri_22.05.2023.pdf",
+        "KVEK_protokoll_5_(22.05.2023).pdf"
+      ]
+    }
+  ],
+  "uuid": "f824830c-2673-4a03-b987-b39c4b73c0ba",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f824830c-2673-4a03-b987-b39c4b73c0ba)",
+  "source": "https://api.riigikogu.ee/api/volumes/f824830c-2673-4a03-b987-b39c4b73c0ba",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-05-01&endDate=2023-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
