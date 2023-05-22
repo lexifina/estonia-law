@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 22.05.2023 kell 13.15",
+  "sitting_time": "2023-05-22T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7454ec9c-9a1e-4379-8c3d-cdc1200abf99"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli kontrolliaruande „Loodusväärtuste kaitse ja raied kaitsvates metsades“ arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "260006e1-0d6c-4573-b6bc-d93458699eb4"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b06f24f5-62cc-4c9d-a822-75262b017f40"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 22.05.23",
+      "uuid": "eae6a21a-f8ce-4c23-8e13-efca76ed4864",
+      "files": [
+        "REKK_protokoll_22.05.23.asice",
+        "Ettekanne_kaitsemetsad_21.04.2023_LOPP.pptx",
+        "Protokoll_nr_6_22.05.23.pdf"
+      ]
+    }
+  ],
+  "uuid": "a418023e-9989-4632-9f0c-9cbb9fd5093f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a418023e-9989-4632-9f0c-9cbb9fd5093f)",
+  "source": "https://api.riigikogu.ee/api/volumes/a418023e-9989-4632-9f0c-9cbb9fd5093f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-05-01&endDate=2023-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
