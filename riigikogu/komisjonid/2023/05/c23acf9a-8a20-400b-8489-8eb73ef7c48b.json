@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 22.05.2023 kell 11.10",
+  "sitting_time": "2023-05-22T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5d3c4152-9f89-471a-849e-4f4d23dcbfc5"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine MTÜ Eesti Noortalunikud esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dfe7554d-0e7c-4921-86f7-6f4245596ad8"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "963c2978-5249-4b0c-8a55-1e231f3adb95"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 22.05.2023",
+      "uuid": "6314e3d2-9af0-44fa-b493-3b479b7181d7",
+      "files": [
+        "8_protokoll_22.05.2023.pdf",
+        "Asendusliikme_volikiri_(A._Haugas).pdf",
+        "MAEK_protokoll_22.05.2023.asice"
+      ]
+    }
+  ],
+  "uuid": "c23acf9a-8a20-400b-8489-8eb73ef7c48b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c23acf9a-8a20-400b-8489-8eb73ef7c48b)",
+  "source": "https://api.riigikogu.ee/api/volumes/c23acf9a-8a20-400b-8489-8eb73ef7c48b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-05-01&endDate=2023-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
