@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung esmaspäev, 22.05.2023 kell 11.00",
+  "sitting_time": "2023-05-22T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b2b02e83-7334-44e0-ac63-482ebafa4dfc"
+    },
+    {
+      "order": 2,
+      "title": "Siseministeeriumi valitsemisala riigikaitselised ülesanded",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "57c3198b-05f6-4af8-b45e-2edec09b235d"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0db9c4a6-8dae-4490-ba71-4293e986ad14"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Riigikaitsekomisjoni 22.05.2023 istungi protokoll",
+      "uuid": "afbbe4ad-4eeb-470b-b9e9-2deaf0a8b682",
+      "files": [
+        "Riigikaitsekomisjoni_22.05.2023_istungi_protokoll.asice",
+        "2023-05-22_protokoll.pdf"
+      ]
+    }
+  ],
+  "uuid": "009f97ce-ceac-4f68-a8ea-4335a457eefd",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 009f97ce-ceac-4f68-a8ea-4335a457eefd)",
+  "source": "https://api.riigikogu.ee/api/volumes/009f97ce-ceac-4f68-a8ea-4335a457eefd",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-05-01&endDate=2023-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
