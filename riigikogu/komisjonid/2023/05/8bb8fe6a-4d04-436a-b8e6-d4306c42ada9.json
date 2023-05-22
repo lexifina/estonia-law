@@ -1,0 +1,48 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung esmaspäev, 22.05.2023 kell 11.15",
+  "sitting_time": "2023-05-22T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "616f61ef-1c32-4a0e-bb0a-c8c9a181046a"
+    },
+    {
+      "order": 2,
+      "title": "Tervishoiu rahastamise raporti tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5d5239c1-73f6-4da7-8107-e3790397c624"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9d2882fd-df2d-4275-afcd-04e55d22b9b5"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "SOTK protokoll 22.05.2023",
+      "uuid": "9d3ed1c9-d24c-4448-868c-a5d1c8ce2d49",
+      "files": [
+        "SOTK_protokoll_22.05.2023.asice",
+        "Lisa_2.pdf",
+        "Lisa_1.pdf",
+        "SOTK_protokoll_nr_9_(22.05.2023).pdf"
+      ]
+    }
+  ],
+  "uuid": "8bb8fe6a-4d04-436a-b8e6-d4306c42ada9",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8bb8fe6a-4d04-436a-b8e6-d4306c42ada9)",
+  "source": "https://api.riigikogu.ee/api/volumes/8bb8fe6a-4d04-436a-b8e6-d4306c42ada9",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-05-01&endDate=2023-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
