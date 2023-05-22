@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung esmaspäev, 22.05.2023 kell 11.15",
+  "sitting_time": "2023-05-22T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "65032f83-0c67-4177-b525-0e35943da12e"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad Euroopa Komisjoni ettepanekute kohta kapitaliturgude liidu edendamiseks ja atraktiivsemaks muutmiseks - SEC(2022) 760, SWD(2022) 762, SWD(2022) 763, COM(2022) 760 (1-2/22-794/3)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b7fddba1-ba2a-4727-82f8-954384956065"
+    },
+    {
+      "order": 3,
+      "title": "Hasartmängumaksu seaduse muutmise seaduse eelnõu (146 SE I) Huvigruppide kaasamine.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "275f0143-bbfe-4f36-a7bd-6f2abe73040e"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "946ea8bd-e4f4-4d1a-af87-28d75c049c76"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 22.05.2023",
+      "uuid": "44caaa2f-7e60-4b8c-910f-28b3a55253d4",
+      "files": [
+        "RAHK_protokoll_22.05.2023.asice",
+        "RAHK_protokoll_10_22_05_2023.pdf"
+      ]
+    }
+  ],
+  "uuid": "73c737bf-a58b-42ee-9d87-63c6fc380485",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 73c737bf-a58b-42ee-9d87-63c6fc380485)",
+  "source": "https://api.riigikogu.ee/api/volumes/73c737bf-a58b-42ee-9d87-63c6fc380485",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-05-01&endDate=2023-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
