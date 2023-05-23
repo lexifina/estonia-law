@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 23.05.2023 kell 14.00",
+  "sitting_time": "2023-05-23T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Eesti Põllumajandus-Kaubanduskoja esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d6f0b298-131d-4def-8064-f435fd2f86c8"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a4a65758-25bd-4c9a-8e70-0ca247bfa347"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 23.05.2023",
+      "uuid": "a38f5980-109e-448c-ab1e-272b9662df1a",
+      "files": [
+        "MAEK_protokoll_23.05.2023.asice",
+        "9_protokoll_23.05.2023.pdf",
+        "9_protokolli_lisa__EPKK.pdf"
+      ]
+    }
+  ],
+  "uuid": "fb1b4dff-8ede-4167-9515-0ada4025a7e5",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid fb1b4dff-8ede-4167-9515-0ada4025a7e5)",
+  "source": "https://api.riigikogu.ee/api/volumes/fb1b4dff-8ede-4167-9515-0ada4025a7e5",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-05-01&endDate=2023-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
