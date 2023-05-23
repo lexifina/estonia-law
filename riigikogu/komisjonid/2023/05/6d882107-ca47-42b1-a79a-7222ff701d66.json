@@ -1,0 +1,48 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung teisipäev, 23.05.2023 kell 14.00",
+  "sitting_time": "2023-05-23T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Omniva juhtidega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1d977bfb-9910-434c-b910-f4601e2bf15d"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine Riigilaevastiku juhtidega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "223ee410-66d6-4f20-8b2f-608eb59d73c0"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "76c06f29-603d-4f15-91d6-881c223358d3"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAJK protokoll nr 9 23.05.2023",
+      "uuid": "c91201b4-60e2-4783-98fd-ca953ceab7bd",
+      "files": [
+        "Esitlus_majanduskomisjonile_-_ASi_Eesti_Post_2022_majandustulemused_ja_tuleviku_eesmärgid.pdf",
+        "RIIGILAEVASTIKU_esitlus_23052023ALA.pdf",
+        "MAJK_protokoll_nr_9_23.05.2023.pdf",
+        "MAJK_protokoll_nr_9_23.05.2023.asice"
+      ]
+    }
+  ],
+  "uuid": "6d882107-ca47-42b1-a79a-7222ff701d66",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 6d882107-ca47-42b1-a79a-7222ff701d66)",
+  "source": "https://api.riigikogu.ee/api/volumes/6d882107-ca47-42b1-a79a-7222ff701d66",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-05-01&endDate=2023-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
