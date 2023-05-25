@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung neljapäev, 25.05.2023 kell 13.15",
+  "sitting_time": "2023-05-25T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse seaduse ja sellega seonduvalt teiste seaduste muutmise seaduse eelnõu (216 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "931e14ca-d487-4bcd-b012-ef3c33601baf"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e3f53fd5-fe60-4491-9414-6f690900da62"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "PÕSK protokoll 25.05.2023",
+      "uuid": "b22e9717-15a4-4d6d-b69f-34dbf5b64851",
+      "files": [
+        "PÕSK_protokoll_25.05.2023.asice",
+        "PÕSK.protokoll.25.05.2023.pdf"
+      ]
+    }
+  ],
+  "uuid": "5c01c5da-4f60-403f-b46e-e54c3e777c15",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 5c01c5da-4f60-403f-b46e-e54c3e777c15)",
+  "source": "https://api.riigikogu.ee/api/volumes/5c01c5da-4f60-403f-b46e-e54c3e777c15",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-05-01&endDate=2023-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
