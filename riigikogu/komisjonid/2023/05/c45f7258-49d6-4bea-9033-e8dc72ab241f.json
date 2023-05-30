@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung teisipäev, 30.05.2023 kell 14.00",
+  "sitting_time": "2023-05-30T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "34181970-41c4-48c3-b195-ab8d92356bfc"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad 31. mail -- 1. juunil 2023 Oslos toimuval NATO välisministrite mitteametlikul kohtumisel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cf71408e-128c-4da1-b3fa-3046cab6efd1"
+    },
+    {
+      "order": 3,
+      "title": "Riigikogu avalduse ettevalmistav arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2224333a-55c8-4fc5-8ba2-ecf0b03abfcd"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b570e9a4-0a53-478d-b0a3-9afd697a4f2d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 30.05.2023 nr 14",
+      "uuid": "d3d5b65c-ce22-46d5-bdc5-cdb3e7fa614b",
+      "files": [
+        "VÄLK_protokoll_30.05.2023_nr_14.asice",
+        "VÄLK_protokoll_30.05.2023.pdf"
+      ]
+    }
+  ],
+  "uuid": "c45f7258-49d6-4bea-9033-e8dc72ab241f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c45f7258-49d6-4bea-9033-e8dc72ab241f)",
+  "source": "https://api.riigikogu.ee/api/volumes/c45f7258-49d6-4bea-9033-e8dc72ab241f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-05-01&endDate=2023-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
