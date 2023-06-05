@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Korruptsioonivastane erikomisjon",
+  "committee_uuid": "e4f2977a-e8c3-4fa0-8f3d-9df9acd6377f",
+  "title": "Komisjoni istung esmaspäev, 5.06.2023 kell 13.30",
+  "sitting_time": "2023-06-05T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6b0ce28a-77d5-42f7-967b-110f72aaface"
+    },
+    {
+      "order": 2,
+      "title": "Varasemate istungite kokkuvõte ja arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "34e36639-16d8-4295-87fe-f3402410aaec"
+    },
+    {
+      "order": 3,
+      "title": "Kohtumine justiitsminister Kalle Laanetiga",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e7585b10-e2ac-43c4-89aa-af71a16bb78c"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8d65c9a6-013c-4eae-af77-85556786c192"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KVEK protokoll 05.06.2023",
+      "uuid": "c82b6983-1779-40f1-b449-e239098ec919",
+      "files": [
+        "KVEK_protokoll_05.06.2023.asice",
+        "KVEK_protokoll_6_(05.06.2023).pdf"
+      ]
+    }
+  ],
+  "uuid": "cdc24544-514e-4b17-b72b-cdd4dda83894",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid cdc24544-514e-4b17-b72b-cdd4dda83894)",
+  "source": "https://api.riigikogu.ee/api/volumes/cdc24544-514e-4b17-b72b-cdd4dda83894",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-06-01&endDate=2023-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
