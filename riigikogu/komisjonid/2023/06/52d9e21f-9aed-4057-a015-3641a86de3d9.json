@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 5.06.2023 kell 13.15",
+  "sitting_time": "2023-06-05T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "323fd17f-c282-4c0f-9363-7d70c0712de6"
+    },
+    {
+      "order": 2,
+      "title": "LNG vastuvõtmise võimekuse loomine Paldiskis",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "84595cbf-f77c-4e6d-b276-baa33c2f58fa"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "560cbf9b-a90d-4172-80c3-b26d07f22cbe"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 5.06.23",
+      "uuid": "7b6d4fa1-2cdb-4194-bf33-3c18b850de66",
+      "files": [
+        "REKK_protokoll_5.06.23.asice",
+        "Protokoll_nr_7_05.06.23.pdf"
+      ]
+    }
+  ],
+  "uuid": "52d9e21f-9aed-4057-a015-3641a86de3d9",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 52d9e21f-9aed-4057-a015-3641a86de3d9)",
+  "source": "https://api.riigikogu.ee/api/volumes/52d9e21f-9aed-4057-a015-3641a86de3d9",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-06-01&endDate=2023-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
