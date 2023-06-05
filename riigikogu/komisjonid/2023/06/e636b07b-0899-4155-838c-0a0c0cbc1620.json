@@ -1,0 +1,53 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 5.06.2023 kell 11.10",
+  "sitting_time": "2023-06-05T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bf169b61-7943-4a3a-963b-600bc4f1f913"
+    },
+    {
+      "order": 2,
+      "title": "Lühiajaline hooajatöötamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "acf9945f-241c-4237-8ca3-92ed21aff900"
+    },
+    {
+      "order": 3,
+      "title": "Kollektiivse pöördumise „Keelame koerte ketis pidamise“ arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "43206ca6-dac0-4ec9-b3bb-9a73f6b868e9"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d0d48203-50f7-46b1-b479-ae02a3618278"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 05.06.2023",
+      "uuid": "7a2561e5-dfb6-40f0-b849-e39d482c690e",
+      "files": [
+        "MAEK_protokoll_05.06.2023.asice",
+        "10_protokoll_05.06.2023.pdf",
+        "10_protokolli_lisa__MeM__loomaheaolu.pdf"
+      ]
+    }
+  ],
+  "uuid": "e636b07b-0899-4155-838c-0a0c0cbc1620",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e636b07b-0899-4155-838c-0a0c0cbc1620)",
+  "source": "https://api.riigikogu.ee/api/volumes/e636b07b-0899-4155-838c-0a0c0cbc1620",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-06-01&endDate=2023-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
