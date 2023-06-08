@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni erakorraline istung neljapäev, 8.06.2023 kell 13.00",
+  "sitting_time": "2023-06-08T13:00:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikogu 2023. aasta välislähetuste eelarve prognoos",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "575fd122-6658-4293-9bed-abc47b040b80"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "84d3e585-c052-4355-9317-1abeb4bd5370"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 8.06.2023 nr 16",
+      "uuid": "c1f36844-48fd-4dc6-b79a-5ac1785ace15",
+      "files": [
+        "VÄLK_protokoll_8.06.2023_nr_16.asice",
+        "VÄLK_protokoll_8.06.2023.pdf"
+      ]
+    }
+  ],
+  "uuid": "a97927ab-6e77-455f-9e62-d6beb7c004bc",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a97927ab-6e77-455f-9e62-d6beb7c004bc)",
+  "source": "https://api.riigikogu.ee/api/volumes/a97927ab-6e77-455f-9e62-d6beb7c004bc",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-06-01&endDate=2023-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
