@@ -1,0 +1,53 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung esmaspäev, 12.06.2023 kell 11.15",
+  "sitting_time": "2023-06-12T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "60af5017-4faf-4120-b5e4-ecb14bf03042"
+    },
+    {
+      "order": 2,
+      "title": "Käibemaksuseaduse ja maksukorralduse seaduse muutmise seaduse eelnõu (225 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d5894614-c385-48e0-bfdd-8dee6ac09d40"
+    },
+    {
+      "order": 3,
+      "title": "Riigikogu otsus „Ettepaneku tegemine Vabariigi Valitsusele toiduainete käibemaksu langetamiseks 5-le protsendile\" (10 OE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "59bc5085-fa58-40d3-a2c3-5a0c98ff37bb"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dd872a92-f486-4c86-b83c-958ed44095c3"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 12.06.2023",
+      "uuid": "11c384b3-b8dd-479f-a0f0-3b6f4a0e9471",
+      "files": [
+        "RAHK_protokoll_12.06.2023.asice",
+        "RAHK_protokoll_17_12_06_2023.pdf",
+        "Asendusliikme_volikiri_H.J.Terras-T.Tamm_12.06.2023.pdf"
+      ]
+    }
+  ],
+  "uuid": "e27d426d-af16-42dc-8959-350ca03e1e24",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e27d426d-af16-42dc-8959-350ca03e1e24)",
+  "source": "https://api.riigikogu.ee/api/volumes/e27d426d-af16-42dc-8959-350ca03e1e24",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-06-01&endDate=2023-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
