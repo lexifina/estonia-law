@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 12.06.2023 kell 13.15",
+  "sitting_time": "2023-06-12T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "98780b92-bf46-4353-8100-3f09b58f1867"
+    },
+    {
+      "order": 2,
+      "title": "Euroopa Liidu toetuste kasutamisest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "58768362-ef73-499e-9e51-6cbe134dbcf6"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "791235b8-e481-4107-887b-1c91b688e86f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 12.06.23",
+      "uuid": "7a1a4c86-305b-4beb-ba3b-130f964d8a05",
+      "files": [
+        "REKK_protokoll_12.06.23.asice",
+        "REKK_välisvahendid_120623.pdf",
+        "Protokoll_nr_9_12.06.23.pdf"
+      ]
+    }
+  ],
+  "uuid": "c9d3cb55-5bdf-40e3-a70d-01ccf9dbc980",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c9d3cb55-5bdf-40e3-a70d-01ccf9dbc980)",
+  "source": "https://api.riigikogu.ee/api/volumes/c9d3cb55-5bdf-40e3-a70d-01ccf9dbc980",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-06-01&endDate=2023-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
