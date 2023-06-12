@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung esmaspäev, 12.06.2023 kell 11.00",
+  "sitting_time": "2023-06-12T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ac821a78-979d-4a8b-b3b5-db158d9eeab7"
+    },
+    {
+      "order": 2,
+      "title": "Relvaseaduse muutmise ja sellega seonduvalt teiste seaduste muutmise seaduse eelnõu (144 SE III) kolmanda lugemise ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ed44cba3-5c53-49c7-a24f-1260fc99f66d"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2ac769f5-b253-4603-b8cd-e1f3560a671d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Riigikaitsekomisjoni 12.06.2023 istungi protokoll",
+      "uuid": "77af07c7-5aad-4ec7-9fc8-6a1ac771a444",
+      "files": [
+        "Riigikaitsekomisjoni_12.06.2023_istungi_protokoll.asice",
+        "2023-06-12_protokoll.pdf"
+      ]
+    }
+  ],
+  "uuid": "f6077a43-c6ba-4299-aa1e-3679b0001f8d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f6077a43-c6ba-4299-aa1e-3679b0001f8d)",
+  "source": "https://api.riigikogu.ee/api/volumes/f6077a43-c6ba-4299-aa1e-3679b0001f8d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-06-01&endDate=2023-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
