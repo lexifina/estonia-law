@@ -1,0 +1,54 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung esmaspäev, 12.06.2023 kell 11.10",
+  "sitting_time": "2023-06-12T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bb6ee934-7613-40c3-8125-f7cecaba04fd"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine Tallinna Lennujaama juhtidega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d7f5df4a-8dc2-4a9d-a483-f75b8cebea3e"
+    },
+    {
+      "order": 3,
+      "title": "Riikliku energia- ja kliimakava (REKK 2030) ajakohastamise versiooni kavandi tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1f327d4f-f5a9-4de9-9f16-98767a5d62fc"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6f75b450-2e7b-4b8d-a0c2-61093b1bf18a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAJK protokoll nr 12 12.06.2023",
+      "uuid": "ed800126-42ef-4868-8dd0-09f2cd1a5759",
+      "files": [
+        "MAJK_protokoll_nr_12_12.06.2023.pdf",
+        "MAJK_protokoll_nr_12_12.06.2023.asice",
+        "TLL_esitlus_majanduskomisjon_avalik_120623.pdf",
+        "REKK_2030_kavand_majanduskomisjon_120623.pdf"
+      ]
+    }
+  ],
+  "uuid": "60933b91-37c4-4628-afe1-6996bcdf35ea",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 60933b91-37c4-4628-afe1-6996bcdf35ea)",
+  "source": "https://api.riigikogu.ee/api/volumes/60933b91-37c4-4628-afe1-6996bcdf35ea",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-06-01&endDate=2023-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
