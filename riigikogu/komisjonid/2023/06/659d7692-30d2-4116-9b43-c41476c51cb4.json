@@ -1,0 +1,42 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung teisipäev, 13.06.2023 kell 14.00",
+  "sitting_time": "2023-06-13T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Perekonnaseaduse muutmise ja sellega seonduvalt teiste seaduste muutmise seaduse eelnõu (207 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "59c75be4-ca53-4af4-9aff-459eb00cfe13"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ee942163-476b-4a74-8f71-e1be83c316eb"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ÕIGK protokoll 13.06.2023",
+      "uuid": "7d3bf692-4d16-4d29-8b04-d084244af09b",
+      "files": [
+        "Kert_Kingo_asendusliikme_volitus_1.pdf",
+        "Riigikogu_õiguskomisjoni_istungi_protokoll_nr_9.pdf",
+        "ÕIGK_protokoll_13.06.2023.asice",
+        "Kert_Kingo_asendusliikme_volitus_2.pdf"
+      ]
+    }
+  ],
+  "uuid": "659d7692-30d2-4116-9b43-c41476c51cb4",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 659d7692-30d2-4116-9b43-c41476c51cb4)",
+  "source": "https://api.riigikogu.ee/api/volumes/659d7692-30d2-4116-9b43-c41476c51cb4",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-06-01&endDate=2023-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
