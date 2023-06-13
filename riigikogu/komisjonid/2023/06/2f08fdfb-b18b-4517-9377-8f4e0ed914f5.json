@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 13.06.2023 kell 14.00",
+  "sitting_time": "2023-06-13T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Põllumajanduse Registrite ja Informatsiooni Ameti esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "03fe9fb0-43e7-4a35-8870-c9d3847f07f8"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1fd4922e-f144-4614-8338-7c1321635ab7"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 13.06.2023",
+      "uuid": "3e309095-b9d7-446b-b86d-fbd8534bd37c",
+      "files": [
+        "MAEK_protokoll_13.06.2023.asice",
+        "13_protokoll_13.06.2023.pdf",
+        "13_protokolli_lisa__PRIA.pdf"
+      ]
+    }
+  ],
+  "uuid": "2f08fdfb-b18b-4517-9377-8f4e0ed914f5",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2f08fdfb-b18b-4517-9377-8f4e0ed914f5)",
+  "source": "https://api.riigikogu.ee/api/volumes/2f08fdfb-b18b-4517-9377-8f4e0ed914f5",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-06-01&endDate=2023-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
