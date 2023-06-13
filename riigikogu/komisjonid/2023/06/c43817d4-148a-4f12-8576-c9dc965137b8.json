@@ -1,0 +1,56 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung teisipäev, 13.06.2023 kell 14.00",
+  "sitting_time": "2023-06-13T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade hooldusreformi ettevalmistamisest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4e8f91b5-662f-46aa-acb3-1a89752ba1b1"
+    },
+    {
+      "order": 2,
+      "title": "Sotsiaalhoolekande seaduse ja teiste seaduste muutmise seaduse eelnõu väljatöötamise kavatsuse arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "22b57db1-8403-4775-a9a4-e7d065b0687c"
+    },
+    {
+      "order": 3,
+      "title": "Kokkuvõtete tegemine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "84a861bc-3534-4c09-85de-6d5142d9b052"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0b651df7-c767-41ba-bf84-312d4151ece3"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "SOTK protokoll 13.06",
+      "uuid": "787e0bda-72eb-45bc-9b22-4038f4503afb",
+      "files": [
+        "RE_volikiri_Siemann_13.06.2023.pdf",
+        "Lisa_3_(Sotsiaalministeeriumi_slaidid).pdf",
+        "Lisa_2_(VTK).pdf",
+        "Lisa_1_(Ülevaade_hooldereformi_ettevalmistusest).pdf",
+        "SOTK_protokoll_13.06.asice",
+        "SOTK_protokoll_nr_15_(13.06.2023).pdf"
+      ]
+    }
+  ],
+  "uuid": "c43817d4-148a-4f12-8576-c9dc965137b8",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c43817d4-148a-4f12-8576-c9dc965137b8)",
+  "source": "https://api.riigikogu.ee/api/volumes/c43817d4-148a-4f12-8576-c9dc965137b8",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-06-01&endDate=2023-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
