@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung teisipäev, 13.06.2023 kell 14.00",
+  "sitting_time": "2023-06-13T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kollektiivne pöördumine \"Ei Nursipalu harjutusväljaku laiendamisele!\"",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "df10405a-7b11-4fd7-a616-89af6ca3f7e0"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d620666e-5c0b-4179-b776-71dff12cca85"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Riigikaitsekomisjoni 13.06.2023 istungi protokoll",
+      "uuid": "a0070eb6-09ad-43c1-96a3-2e2a257345ef",
+      "files": [
+        "Riigikaitsekomisjoni_13.06.2023_istungi_protokoll.asice",
+        "2023-06-13_protokoll.pdf"
+      ]
+    }
+  ],
+  "uuid": "fdb7740f-e443-486e-97c4-c9e2b776b56f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid fdb7740f-e443-486e-97c4-c9e2b776b56f)",
+  "source": "https://api.riigikogu.ee/api/volumes/fdb7740f-e443-486e-97c4-c9e2b776b56f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-06-01&endDate=2023-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
