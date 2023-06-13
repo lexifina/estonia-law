@@ -1,0 +1,48 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung teisipäev, 13.06.2023 kell 14.00",
+  "sitting_time": "2023-06-13T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Euroopa Komisjoni esinduse Eestis ülevaade riigiraportist ja riigipõhistest soovitustest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a8ff3b9d-0ec3-4f69-bf63-1a8e70a3a29d"
+    },
+    {
+      "order": 2,
+      "title": "Rahanduskomisjoni 2023. aasta  I istungjärgu tegevuse ülevaade",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a153b719-b67e-490b-a600-51ff59ec2385"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5e855ab7-1782-409d-97a2-55432706c491"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 13.06.2023",
+      "uuid": "1845a401-b23f-40be-8ef9-da344ae3cbc8",
+      "files": [
+        "RAHK_protokoll_13.06.2023.asice",
+        "RAHK_protokoll_18_13_06_2023.pdf",
+        "EK_Eesti_esinduse_EGR_fiskaalpoliitika_ja_riigiraport_13.06.2023.pdf",
+        "Asendusliikme_volikiri_H.J.Terras-T.Tamm_13.06.2023.pdf"
+      ]
+    }
+  ],
+  "uuid": "54a99be1-cdc5-471c-87cb-11feb9020459",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 54a99be1-cdc5-471c-87cb-11feb9020459)",
+  "source": "https://api.riigikogu.ee/api/volumes/54a99be1-cdc5-471c-87cb-11feb9020459",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-06-01&endDate=2023-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
