@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung kolmapäev, 14.06.2023 kell 08.15",
+  "sitting_time": "2023-06-14T08:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikontrolli kontrolliaruande „Eesti keele õpe vene õppekeelega põhikoolis“ arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dd67076f-4459-4394-b486-3974fe68517b"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3344a0cc-a7a7-46c7-8f17-5bf252fcb5ad"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 14.06.23",
+      "uuid": "0d9650a5-31c4-4b5e-bc46-c70be0e61343",
+      "files": [
+        "REKK_protokoll_14.06.23.asice",
+        "E_keel_v_koolis_REKK_14.06.2023.pptx",
+        "Protokoll_nr_10_14.06.23.pdf"
+      ]
+    }
+  ],
+  "uuid": "d3ebb335-b3ae-4ff8-883a-3994f4a3c04d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d3ebb335-b3ae-4ff8-883a-3994f4a3c04d)",
+  "source": "https://api.riigikogu.ee/api/volumes/d3ebb335-b3ae-4ff8-883a-3994f4a3c04d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-06-01&endDate=2023-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
