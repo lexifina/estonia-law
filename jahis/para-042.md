@@ -16,7 +16,7 @@ määrusega.
 
 (7) Suuruluki laskekatse tunnistuse ja vibujahi laskekatse tunnistuse kaotamise või kasutamiskõlbmatuks muutumise korral antakse uus laskekatse tunnistus laskekatse sooritamist nõudmata pärast taotluse esitamist kümne päeva jooksul.
 
-(8) Suuruluki laskekatsete ja vibujahi laskekatsete läbiviimist korraldab ning suuruluki laskekatse tunnistusi ja vibujahi laskekatse tunnistusi annab paberil või elektrooniliselt Keskkonnaamet või käesoleva seaduse § 10 lõike 1 alusel Keskkonnaministeeriumiga halduslepingu sõlminud isik.
+(8) Suuruluki laskekatsete ja vibujahi laskekatsete läbiviimist korraldab ning suuruluki laskekatse tunnistusi ja vibujahi laskekatse tunnistusi annab paberil või elektrooniliselt Keskkonnaamet või käesoleva seaduse § 10 lõike 1 alusel Kliimaministeeriumiga halduslepingu sõlminud isik.
 
 (9) Suuruluki laskekatse tunnistuse ja vibujahi laskekatse tunnistuse andmise, kehtivusaja pikendamise ja laskekatse läbiviimise eest tasutakse riigilõivu riigilõivuseaduses sätestatud määrade järgi, või kui haldusülesande täitmine on halduslepinguga üle antud, siis halduslepingus sätestatud tasu.
 

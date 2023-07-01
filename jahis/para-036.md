@@ -12,13 +12,13 @@
 
 (5¹) Jahitunnistust ei anta isikule, kelle suhtes on jõustunud täitemenetluse seadustiku § 177² lõike 1 punkti 1 ja lõike 2 alusel tehtud kohtumäärus. Käesoleva lõike esimeses lauses nimetatud keeld lõpeb täitemenetluse seadustiku § 177⁵ lõike 1 alusel tehtud kohtumääruse jõustumisel.
 
-(5²) Jahitunnistust ei anta isikule, kelle suhtes on halduskohus andnud kaitseväeteenistuse seaduse § 33¹ lõikes 5 või § 71¹ lõikes 5 sätestatud taotluse alusel loa jahitunnistuse andmisest keelduda. Keskkonnaamet või käesoleva seaduse § 10 lõike 1 alusel Keskkonnaministeeriumiga halduslepingu sõlminud isik lõpetab käesoleva lõike esimeses lauses nimetatud keelu, kui isikule jahitunnistuse andmisest keeldumise asjaolud on ära langenud ja Kaitseressursside Amet või Kaitsevägi on sellest Keskkonnaametit või Keskkonnaministeeriumiga halduslepingu sõlminud isikut teavitanud ning halduskohtu määrusest ei tulene teisiti.
+(5²) Jahitunnistust ei anta isikule, kelle suhtes on halduskohus andnud kaitseväeteenistuse seaduse § 33¹ lõikes 5 või § 71¹ lõikes 5 sätestatud taotluse alusel loa jahitunnistuse andmisest keelduda. Keskkonnaamet või käesoleva seaduse § 10 lõike 1 alusel Kliimaministeeriumiga halduslepingu sõlminud isik lõpetab käesoleva lõike esimeses lauses nimetatud keelu, kui isikule jahitunnistuse andmisest keeldumise asjaolud on ära langenud ja Kaitseressursside Amet või Kaitsevägi on sellest Keskkonnaametit või Kliimaministeeriumiga halduslepingu sõlminud isikut teavitanud ning halduskohtu määrusest ei tulene teisiti.
 
 (6) Välisriigis antud kehtiva jahitunnistuse alusel antakse selle saanud isikule tema soovil, ilma et ta jahindusalase koolituse läbiks ning jahiteooriaeksami sooritaks, jahitunnistus kehtivusajaga kuni üks aasta kümne päeva jooksul pärast taotluse esitamist ja käesoleva paragrahvi lõikes 10 sätestatud riigilõivu või tasu tasumist.
 
 (7) Jahitunnistuse kehtivusaja pikendamise, andmete muutmise, jahitunnistuse kaotamise, kasutamiskõlbmatuks muutumise ja jahitunnistuse kehtivuse peatamise korral pikendatakse jahitunnistuse kehtivusaega või antakse uus jahitunnistus või taastatakse jahitunnistuse kehtivus kümne päeva jooksul pärast taotluse esitamist ja käesoleva paragrahvi lõikes 10 nimetatud riigilõivu või tasu tasumist.
 
-(8) Jahitunnistuse annab paberil või elektrooniliselt ja jahitunnistuse üle peab arvestust, samuti korraldab jahiteooriaeksami ja laskekatse läbiviimist Keskkonnaamet või käesoleva seaduse § 10 lõike 1 alusel Keskkonnaministeeriumiga halduslepingu sõlminud isik (edaspidi koos *tunnistuse andja*).
+(8) Jahitunnistuse annab paberil või elektrooniliselt ja jahitunnistuse üle peab arvestust, samuti korraldab jahiteooriaeksami ja laskekatse läbiviimist Keskkonnaamet või käesoleva seaduse § 10 lõike 1 alusel Kliimaministeeriumiga halduslepingu sõlminud isik (edaspidi koos *tunnistuse andja*).
 
 (9) Jahitunnistuse vormi, jahiteooriaeksami ja laskekatse sooritamise ning jahitunnistuse taotlemise ja andmise korra, samuti jahindusalasele koolitusele ja koolitajale esitatavad nõuded ning koolitamise korra kehtestab
 

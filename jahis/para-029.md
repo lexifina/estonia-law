@@ -6,7 +6,7 @@
 
 jahieeskirjas.
 
-(3) Jahikoerapassi annab ja antud jahikoerapasside arvestust peab Keskkonnaamet või käesoleva seaduse § 10 lõike 1 alusel Keskkonnaministeeriumiga halduslepingu sõlminud isik.
+(3) Jahikoerapassi annab ja antud jahikoerapasside arvestust peab Keskkonnaamet või käesoleva seaduse § 10 lõike 1 alusel Kliimaministeeriumiga halduslepingu sõlminud isik.
 
 (4) Jahikoerapassi taotlemise ja andmise korra ning passi vormi kehtestab
 

@@ -8,7 +8,7 @@
 
 (2¹) Täitemenetluse seadustiku § 177² lõike 1 punktis 1 sätestatud jahipidamisõiguse kehtivuse peatatus lõpeb täitemenetluse seadustiku § 177⁵ lõike 1 alusel tehtud kohtumääruse jõustumisel. Käesoleva lõike esimeses lauses nimetatud põhjusel jahipidamisõiguse kehtivuse peatatuse lõppemisel tagastab jahitunnistuse andja hoiulevõetud jahitunnistuse ja elektroonilise jahitunnistuse puhul eemaldab elektroonilises infosüsteemis kehtivuse peatamise märke.
 
-(2²) Käesoleva seaduse § 37 lõikes 4 sätestatud jahitunnistuse kehtivuse peatamine lõpetatakse, kui peatamise alused on ära langenud ja Kaitseressursside Amet või Kaitsevägi on sellest Keskkonnaametit või käesoleva seaduse § 10 lõike 1 alusel Keskkonnaministeeriumiga halduslepingu sõlminud isikut teavitanud ning halduskohtu määrusest ei tulene teisiti.
+(2²) Käesoleva seaduse § 37 lõikes 4 sätestatud jahitunnistuse kehtivuse peatamine lõpetatakse, kui peatamise alused on ära langenud ja Kaitseressursside Amet või Kaitsevägi on sellest Keskkonnaametit või käesoleva seaduse § 10 lõike 1 alusel Kliimaministeeriumiga halduslepingu sõlminud isikut teavitanud ning halduskohtu määrusest ei tulene teisiti.
 
 (3) Kui jahitunnistuse kehtivus on peatatud kauemaks kui 12 kuuks, saab isik jahitunnistuse kehtivuse taastada üksnes siis, kui sooritab edukalt jahiteooriaeksami.
 

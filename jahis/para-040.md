@@ -20,7 +20,7 @@
 
 (6¹) Välisriigis antud kehtiva jahitunnistuse alusel käesoleva seaduse § 36 lõike 6 kohaselt jahitunnistuse saanud isikule antakse veelinnujahiks väikeuluki jahiluba pärast jahindusalase koolituse läbimist.
 
-(6²) Käesoleva paragrahvi lõikes 6¹ nimetatud jahindusalase koolituse läbiviimist korraldab Keskkonnaamet või käesoleva seaduse § 10 lõike 1 alusel Keskkonnaministeeriumiga halduslepingu sõlminud isik.
+(6²) Käesoleva paragrahvi lõikes 6¹ nimetatud jahindusalase koolituse läbiviimist korraldab Keskkonnaamet või käesoleva seaduse § 10 lõike 1 alusel Kliimaministeeriumiga halduslepingu sõlminud isik.
 
 (7) Jahiloa andja peab jahilubade andmise ja tagastamise ning jahiloale kantud andmete arvestust.
 
