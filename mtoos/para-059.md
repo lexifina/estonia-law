@@ -6,4 +6,6 @@
 
 (3) Transpordiameti nõudel on reeder kohustatud teatama ametile laevapere liikmete arvu laevade kaupa.
 
-(4) kehtestab määrusega tagatise piisavuse hindamise ja suuruse arvutamise põhimõtted.
+(4) Tagatise piisavuse hindamise ja suuruse arvutamise põhimõtted kehtestab valdkonna eest vastutav
+
+määrusega.
