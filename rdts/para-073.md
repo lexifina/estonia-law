@@ -1,6 +1,6 @@
 # § 73. Avalikku raudteed majandava raudteeinfrastruktuuriettevõtja rahastamine
 
-(1) Majandus- ja Kommunikatsiooniministeerium koostab avaliku raudteeinfrastruktuuri arendamist suunava tegevuskava, mille eesmärk on tulevase liikumisvajaduse rahuldamiseks vajaliku infrastruktuuri hooldamise, uuendamise ja arendamise jätkusuutlik rahastamine.
+(1) Kliimaministeerium koostab avaliku raudteeinfrastruktuuri arendamist suunava tegevuskava, mille eesmärk on tulevase liikumisvajaduse rahuldamiseks vajaliku infrastruktuuri hooldamise, uuendamise ja arendamise jätkusuutlik rahastamine.
 
 (2) Vabariigi Valitsus kinnitab käesoleva paragrahvi lõikes 1 nimetatud tegevuskava, mis hõlmab vähemalt viieaastast perioodi.
 

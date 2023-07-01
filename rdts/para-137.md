@@ -14,6 +14,6 @@
 
 määrusega.
 
-(7) Raudteeliiklusregistri vastutav töötleja on Majandus- ja Kommunikatsiooniministeerium ning volitatud töötleja on Tarbijakaitse ja Tehnilise Järelevalve Amet.
+(7) Raudteeliiklusregistri vastutav töötleja on Kliimaministeerium ning volitatud töötleja on Tarbijakaitse ja Tehnilise Järelevalve Amet. Raudteeliiklusregistri põhimäärusega võib määrata täiendavaid volitatud töötlejaid.
 
 (8) Raudteeliiklusregistrit peetakse ühetasandilise elektroonilise andmebaasina.

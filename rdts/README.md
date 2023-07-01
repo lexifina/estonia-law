@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/130032021008> (version in force from 2021-03-31)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/130062023062> (version in force from 2023-07-01)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -170,7 +170,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/130032021008> (version in force 
 | [§ 144](para-144.md) | Riikliku järelevalve erimeetmed |
 | [§ 145](para-145.md) | Riikliku järelevalve erisused |
 | [§ 146](para-146.md) | Sunniraha määr |
-| [§ 147](para-147.md) | Majandus- ja Kommunikatsiooniministeeriumi, Tarbijakaitse ja Tehnilise Järelevalve Ameti, Konkurentsiameti, Transpordiameti ja Tööinspektsiooni õigus teabele ning juurdepääs järelevalveobjektidele |
+| [§ 147](para-147.md) | Kliimaministeeriumi, Tarbijakaitse ja Tehnilise Järelevalve Ameti, Konkurentsiameti, Transpordiameti ja Tööinspektsiooni õigus teabele ning juurdepääs järelevalveobjektidele |
 | [§ 148](para-148.md) | Äri- ja tehnikaalase teabe konfidentsiaalsus |
 | **14. peatükk Vastutus** | |
 | [§ 149](para-149.md) | Raudtee või raudteerajatise kahjustamine |

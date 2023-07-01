@@ -1,6 +1,6 @@
 # § 80. Pädeva asutuse ja raudteeinfrastruktuuriettevõtja vaheline leping
 
-(1) Majandus- ja Kommunikatsiooniministeerium raudteevaldkonna eest vastutava pädeva riigiasutusena ja raudteeinfrastruktuuriettevõtja sõlmivad vajaduse korral vähemalt viieaastase kehtivusajaga lepingu, mille eesmärk on vähendada raudteeinfrastruktuuri käigushoidmise kulusid ning juurdepääsutasusid, pidades seejuures silmas ohutust ja teenuse kvaliteedi parandamist.
+(1) Kliimaministeerium raudteevaldkonna eest vastutava pädeva riigiasutusena ja raudteeinfrastruktuuriettevõtja sõlmivad vajaduse korral vähemalt viieaastase kehtivusajaga lepingu, mille eesmärk on vähendada raudteeinfrastruktuuri käigushoidmise kulusid ning juurdepääsutasusid, pidades seejuures silmas ohutust ja teenuse kvaliteedi parandamist.
 
 (2) Käesoleva paragrahvi lõikes 1 nimetatud leping tuleb sõlmida, kui raudteeinfrastruktuuriettevõtjale eraldatakse riigieelarvest vahendeid käesoleva seaduse § 73 lõikes 5 nimetatud tasakaalu tagamiseks.
 
