@@ -4,7 +4,7 @@
 
 1) põletusseadme käitaja on Keskkonnaministeeriumile ja loa andjale hiljemalt 2014. aasta 1. jaanuariks kirjalikult kinnitanud ning loa andja on loas sätestanud, et käitaja kohustub käitama põletusseadet ajavahemikul 2016. aasta 1. jaanuarist kuni 2023. aasta 31. detsembrini mitte üle 17 500 töötunni;
 
-2) käitaja esitab alates 2016. aasta 1. jaanuarist igal aastal Keskkonnaministeeriumile ja loa andjale andmed põletusseadme kalendriaasta töötundide arvu kohta.
+2) käitaja esitab alates 2016. aasta 1. jaanuarist igal aastal Kliimaministeeriumile ja loa andjale andmed põletusseadme kalendriaasta töötundide arvu kohta.
 
 (2) Käesoleva paragrahvi lõikes 1 nimetatud põletusseadme järelejäänud tööea jooksul säilitatakse põletusseadme käitajale antud loas määratud vääveldioksiidi, lämmastikoksiidide ja tahkete osakeste heite piirväärtused, mida tuleb kohaldada 2015. aasta 31. detsembri seisuga.
 

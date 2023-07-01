@@ -1,6 +1,6 @@
 # § 63. Teade piiriülese mõjuga käitisele kompleksloa andmise ja muutmise kohta
 
-(1) Käesoleva seaduse § 61 lõikes 1 nimetatud juhul teavitab loa andja Keskkonnaministeeriumi taotluse kohta tehtud otsusest ning edastab järgmise teabe:
+(1) Käesoleva seaduse § 61 lõikes 1 nimetatud juhul teavitab loa andja Kliimaministeeriumi taotluse kohta tehtud otsusest ning edastab järgmise teabe:
 
 1) kompleksloa andmise otsuse tegemise põhjendused, sealhulgas enne otsustamist peetud konsultatsioonide ning kompleksloa taotluse ja kompleksloa eelnõu avalikustamise tulemused ja selgitus, kuidas neid tulemusi loa nõuete määramisel arvesse võeti;
 
@@ -10,6 +10,6 @@
 
 4) käitaja poolt kavandatava tehnoloogia, meetodite ja meetmete alternatiivide lühikirjeldus, kui käitaja on neid alternatiive uurinud.
 
-(2) Keskkonnaministeerium teavitab teise Euroopa Liidu liikmesriigi pädevat asutust tehtud otsusest ning edastab talle loa andjalt saadud teabe.
+(2) Kliimaministeerium teavitab teise Euroopa Liidu liikmesriigi pädevat asutust tehtud otsusest ning edastab talle loa andjalt saadud teabe.
 
-(3) Käesoleva seaduse § 61 lõikes 4 nimetatud juhul avalikustab Keskkonnaministeerium vastava teabe saamisel käesoleva paragrahvi lõikes 1 nimetatud teabe käesoleva seaduse §-des 40 ja 60 sätestatud viisil.
+(3) Käesoleva seaduse § 61 lõikes 4 nimetatud juhul avalikustab Kliimaministeerium vastava teabe saamisel käesoleva paragrahvi lõikes 1 nimetatud teabe käesoleva seaduse §-des 40 ja 60 sätestatud viisil.

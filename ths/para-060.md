@@ -8,4 +8,4 @@
 
 (4) Teave käitise projekti, tegevuse või teatava toorme, kemikaali või muu materjali või toote koostise ja kasutamise kohta võib olla käsitletav piiratud juurdepääsuga teabena, kui see on esitatud kompleksloa taotluse eraldi osana ning sellele on selgelt märgitud „Ärisaladus”. Teabe käsitlemise piiratud juurdepääsuga teabena otsustab loa andja, võttes muu hulgas arvesse avalikku huvi teabe avalikustamiseks. Loa andja avaldab teabe osas, mis ei sisalda ärisaladust, kui see on mõistlik ja teabest on võimalik aru saada.
 
-(5) Keskkonnaministeeriumi kodulehel tehakse kättesaadavaks kõik PVT-järeldused.
+(5) Kliimaministeeriumi kodulehel tehakse kättesaadavaks kõik PVT-järeldused.
