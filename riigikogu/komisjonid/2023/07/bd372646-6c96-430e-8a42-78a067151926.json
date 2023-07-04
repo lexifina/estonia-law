@@ -1,0 +1,54 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung teisipäev, 4.07.2023 kell 14.00",
+  "sitting_time": "2023-07-04T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7eb74d7c-ff5a-4e8a-898b-7e61db3265f4"
+    },
+    {
+      "order": 2,
+      "title": "Arvamuse andmine Euroopa Liidu asjade komisjonile: Eesti seisukohad Euroopa Liidu parandamisõiguse ettepaneku kohta - COM(2023) 155",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ab87389a-7726-4b2c-b051-3389df7f1f36"
+    },
+    {
+      "order": 3,
+      "title": "Arvamuse andmine Euroopa Liidu asjade komisjonile: Eesti seisukohad kliimaneutraalse tööstuse algatuse kohta - COM(2023) 161",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4d72bab2-f939-43b8-9e04-9e793f473137"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "89198b2b-00c8-4648-a075-48ecce2a2778"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAJK protokoll nr 15 04.07.2023",
+      "uuid": "51905390-f723-468c-922a-bcf6cbe81df3",
+      "files": [
+        "MAJK_protokoll_nr_15_04.07.2023.asice",
+        "MAJK_asendus_4.07.23.asice",
+        "MAJK_asendus_4.07.23.docx",
+        "MAJK_protokoll_nr_15_04.07.2023.pdf"
+      ]
+    }
+  ],
+  "uuid": "bd372646-6c96-430e-8a42-78a067151926",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid bd372646-6c96-430e-8a42-78a067151926)",
+  "source": "https://api.riigikogu.ee/api/volumes/bd372646-6c96-430e-8a42-78a067151926",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-07-01&endDate=2023-07-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
