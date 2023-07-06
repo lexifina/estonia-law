@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni väljasõiduistung neljapäev, 6.07.2023",
+  "sitting_time": "2023-07-06T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade julgeolekuolukorra arengutest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fb9966c4-e630-4db5-9ce7-503a03f68ea0"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "86d101c0-6054-46f5-b957-032a3407e8ce"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 06.07.2023",
+      "uuid": "78cbf2f9-d780-4cd0-b367-ea65ff19f58f",
+      "files": [
+        "VÄLK_protokoll_06.07.2023.asice",
+        "VÄLK_protokoll_06.07.2023.docx"
+      ]
+    }
+  ],
+  "uuid": "47e2649d-a535-48da-8f8d-06ebd78c0458",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 47e2649d-a535-48da-8f8d-06ebd78c0458)",
+  "source": "https://api.riigikogu.ee/api/volumes/47e2649d-a535-48da-8f8d-06ebd78c0458",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-07-01&endDate=2023-07-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
