@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 10.07.2023 kell 11.00",
+  "sitting_time": "2023-07-10T11:00:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Arutelu teemal tekkinud olukorrast põllumajandussektoris",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "948118e6-b22f-4a23-975f-07f3e2689d5c"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fbd3f5b1-c36d-4b77-ae54-643282a24ab8"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 10.07.2023",
+      "uuid": "c8dcc873-2914-4282-954d-59f4fe59642f",
+      "files": [
+        "MAEK_protokoll_10.07.2023.asice",
+        "14_protokoll_10.07.2023.pdf"
+      ]
+    }
+  ],
+  "uuid": "8966a55b-a146-430c-942c-6b0d170faee9",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8966a55b-a146-430c-942c-6b0d170faee9)",
+  "source": "https://api.riigikogu.ee/api/volumes/8966a55b-a146-430c-942c-6b0d170faee9",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-07-01&endDate=2023-07-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
