@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/116062020008> (version in force from 2022-04-01)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/128122022049> (version in force from 2023-08-01)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -75,9 +75,11 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/116062020008> (version in force 
 | [§ 53](para-053.md) | Haldusjärelevalvet teostava ametiisiku ülesanded |
 | [§ 54](para-054.md) | Haldusjärelevalvet teostava ametiisiku õigused |
 | [§ 55](para-055.md) | Haldusjärelevalve tulemused |
+| [§ 55¹](para-055b1.md) | Haldusjärelevalve keelenõuete täitmise üle |
 | **12. peatükk Rakendussätted** | |
 | [§ 56](para-056.md) | Kooli juhtimisega seotud üleminek |
 | [§ 57](para-057.md) | Eesti õppekeelele üleminek |
+| [§ 57¹](para-057b1.md) | Eesti keele oskuse nõude kvalifikatsiooninõudena kohaldamine õpetajatele ja tugispetsialistidele |
 | [§ 58](para-058.md) | Üleminek õppe läbiviimise õigusele |
 | [§ 59](para-059.md) | Üleminek uutele kutseõppe õppekavadele |
 | [§ 60](para-060.md) | Üleminek uutele õppevormidele |

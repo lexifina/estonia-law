@@ -1,12 +1,12 @@
 # § 39. Kvalifikatsiooninõuded
 
-(1) Direktori kvalifikatsiooninõuded on magistrikraad või sellele vastav kvalifikatsioon, juhtimiskompetentsus ja -kogemus ning pedagoogiline kompetentsus.
+(1) Direktori kvalifikatsiooninõuded on magistrikraad või sellele vastav kvalifikatsioon, juhtimiskompetentsus ja -kogemus, pedagoogiline kompetentsus ning C1-tasemel eesti keele oskus.
 
-(2) Õppekasvatusala juhtiva töötaja kvalifikatsiooninõuded on magistrikraad või sellele vastav kvalifikatsioon ja vähemalt kolmeaastane pedagoogilise töö kogemus ning pedagoogiline ja juhtimiskompetentsus.
+(2) Õppekasvatusala juhtiva töötaja kvalifikatsiooninõuded on magistrikraad või sellele vastav kvalifikatsioon, vähemalt kolmeaastane pedagoogilise töö kogemus, pedagoogiline ja juhtimiskompetentsus ning C1-tasemel eesti keele oskus.
 
-(3) Õpetaja kvalifikatsiooninõuded on esitatud õpetaja ja kutseõpetaja kutsestandardites. Kutseõpetaja kutsestandardi madalaimale tasemele vastavaid õpetajaid ei tohi koolis olla üle 20%. Piirang ei kehti õppe läbiviimisel sõjaväelisel erialal. Koolis töötavate kvalifikatsiooninõuetele vastavate õpetajate arv peab nende läbiviidava õppe- ja kasvatustegevuse mahust lähtuvalt olema piisav, et tagada õppekavas määratud õpieesmärkide ja ülesannete täitmine ning õpiväljundite saavutamine.
+(3) Õpetaja suhtes kohaldatakse põhikooli- ja gümnaasiumiseaduse § 74¹ lõikes 4 kehtestatud kvalifikatsiooninõudeid. Kutseõpetajate suhtes kohaldatavad nõuded on kehtestatud kutsestandardis. Kutseõpetaja kutsestandardi madalaimale tasemele vastavaid õpetajaid ei tohi koolis olla üle 20 protsendi. Käesoleva lõike kolmandas lauses sätestatud piirang ei kehti sõjaväelise eriala õppe puhul. Koolis töötavate kvalifikatsiooninõuetele vastavate õpetajate arv peab nende läbiviidava õppe- ja kasvatustegevuse mahust lähtudes olema piisav, et tagada õppekavas määratud õpieesmärkide ja ülesannete täitmine ning õpiväljundite saavutamine.
 
-(4) Tugispetsialisti suhtes kohaldatakse põhikooli- ja gümnaasiumiseaduse alusel kehtestatud valdkonna eest vastutava ministri määruses sätestatud kvalifikatsiooninõudeid.
+(4) Tugispetsialisti suhtes kohaldatakse põhikooli- ja gümnaasiumiseaduse § 74¹ lõigetes 7–10 sätestatud kvalifikatsiooninõudeid.
 
 (5) Õppekasvatusala töötaja vastavust kvalifikatsiooninõuetele hindab direktor. Välisriigi haridust tõendavat dokumenti hinnatakse Eesti Vabariigi haridusseaduse §-s 28¹ ja selle alusel kehtestatud tingimustel ja korras. Välisriigis õpetaja või tugispetsialisti kutsekvalifikatsiooni omandanud isiku kutsekvalifikatsiooni tunnustamisel lähtutakse välisriigi kutsekvalifikatsiooni tunnustamise seadusega kehtestatud tingimustest ja korrast. Välisriigi kutsekvalifikatsiooni tunnustamise seaduse § 7 lõikes 2 sätestatud pädev asutus on Haridus- ja Teadusministeerium.
 
