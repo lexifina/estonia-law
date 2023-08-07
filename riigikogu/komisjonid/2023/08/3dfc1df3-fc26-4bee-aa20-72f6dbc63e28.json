@@ -1,0 +1,48 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung esmaspäev, 7.08.2023 kell 11.00",
+  "sitting_time": "2023-08-07T11:00:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kultuurkapitali ülevaade riiklikult tähtsate kultuuriehitiste hetkeseisust ning hinnang rahastamise võimalustele tulevikus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1a5e69de-97bd-4be6-864f-abe545c8d674"
+    },
+    {
+      "order": 2,
+      "title": "Eesti Rahvusringhäälingu pöördumise (Eesti Rahvusringhäälingu uue kompleksi rajamisest) arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b0e4f5c5-a832-4f13-8807-5408f19cee5b"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e55de209-7ab9-4b75-8bdf-c88295b45ff6"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KULK protokoll 07.08.2023",
+      "uuid": "d2309962-4105-49d8-b890-d42871115594",
+      "files": [
+        "KULKA_Kultuurikomisjonis_07082023.pdf",
+        "ERR_slaidid_07.08.2023.pdf",
+        "KULK_protokoll_10__07.08.2023_erakorraline.pdf",
+        "KULK_protokoll_07.08.2023.asice"
+      ]
+    }
+  ],
+  "uuid": "3dfc1df3-fc26-4bee-aa20-72f6dbc63e28",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3dfc1df3-fc26-4bee-aa20-72f6dbc63e28)",
+  "source": "https://api.riigikogu.ee/api/volumes/3dfc1df3-fc26-4bee-aa20-72f6dbc63e28",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-08-01&endDate=2023-08-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
