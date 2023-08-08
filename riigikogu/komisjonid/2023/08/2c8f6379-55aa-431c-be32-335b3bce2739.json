@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung teisipäev, 8.08.2023 kell 10.00",
+  "sitting_time": "2023-08-08T10:00:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Presidendi Kantselei rahastamisest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c1fb21ad-6132-4732-8b80-117ed2876d34"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e90fcc24-4024-45db-86a6-4f54de82ecdd"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 8.08.23",
+      "uuid": "a1881e34-6255-44f8-85c2-4718c6355563",
+      "files": [
+        "REKK_protokoll_8.08.23.asice",
+        "Protokoll_nr_11_8.08.23.pdf"
+      ]
+    }
+  ],
+  "uuid": "2c8f6379-55aa-431c-be32-335b3bce2739",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2c8f6379-55aa-431c-be32-335b3bce2739)",
+  "source": "https://api.riigikogu.ee/api/volumes/2c8f6379-55aa-431c-be32-335b3bce2739",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-08-01&endDate=2023-08-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
