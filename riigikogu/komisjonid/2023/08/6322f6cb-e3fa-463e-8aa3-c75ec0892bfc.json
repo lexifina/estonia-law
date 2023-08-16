@@ -1,0 +1,42 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung kolmapäev, 16.08.2023 kell 08.30",
+  "sitting_time": "2023-08-16T08:30:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Pere Sihtkapitali SA rahastamine ja uuringud",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ca7f198c-0d7c-4ae5-99dd-a2f58786b33c"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1613299e-f0fa-4196-9b55-aa3caa1fba2d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 16.08.23",
+      "uuid": "5a04ac04-9525-4acd-87e7-168a023b6d82",
+      "files": [
+        "S._Riisalo_vastus_REKK_istungi_kutsele.asice",
+        "Vastus_kutsele_osaleda_Riigikogu_riigieelarve_kontrolli_erakorralisele_istungile.pdf",
+        "REKK_protokoll_16.08.23.asice",
+        "Protokoll_nr_13_16.08.23.pdf"
+      ]
+    }
+  ],
+  "uuid": "6322f6cb-e3fa-463e-8aa3-c75ec0892bfc",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 6322f6cb-e3fa-463e-8aa3-c75ec0892bfc)",
+  "source": "https://api.riigikogu.ee/api/volumes/6322f6cb-e3fa-463e-8aa3-c75ec0892bfc",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-08-01&endDate=2023-08-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
