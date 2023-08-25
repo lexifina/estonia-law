@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung reede, 25.08.2023 kell 10.45",
+  "sitting_time": "2023-08-25T10:45:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 29.-30. augustil 2023 toimuval Euroopa Liidu kaitseministrite mitteametlikul kohtumisel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0945f8b7-28df-4dc2-80c1-117d4362eaa4"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad 30.-31. augustil 2023 toimuval Euroopa Liidu välisministrite mitteametlikul kohtumisel (Gymnich)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9a431142-9d26-4b64-98d4-f35881a993ec"
+    },
+    {
+      "order": 3,
+      "title": "Eesti seisukohad 4.-5. septembril 2023 toimuval Euroopa Liidu arenguministrite mitteametlikul kohtumisel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a4107237-3f2a-4a02-a807-391d0701c073"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dd179b14-de1f-4ce2-9734-8232423955ab"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 25.08.2023",
+      "uuid": "d741444e-2e09-421a-92db-d2d9da64db53",
+      "files": [
+        "VÄLK_protokoll_25.08.2023.pdf",
+        "VÄLK_protokoll_25.08.2023.asice"
+      ]
+    }
+  ],
+  "uuid": "944affd0-a12d-4534-9b3e-09e8959c915a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 944affd0-a12d-4534-9b3e-09e8959c915a)",
+  "source": "https://api.riigikogu.ee/api/volumes/944affd0-a12d-4534-9b3e-09e8959c915a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-08-01&endDate=2023-08-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
