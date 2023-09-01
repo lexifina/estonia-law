@@ -1,6 +1,6 @@
 # § 15². Pakettreiside ja seotud reisikorraldusteenuste kogumüügi aruanne
 
-(1) Käesoleva seaduse §-s 6 nimetatud tegevusalal tegutsev reisiettevõtja esitab Tarbijakaitse ja Tehnilise Järelevalve Ametile tarbijakaitseseaduse §-s 22 nimetatud järelevalve infosüsteemi kaudu:
+(1) Käesoleva seaduse §-s 6 nimetatud tegevusalal tegutsev reisiettevõtja esitab Tarbijakaitse ja Tehnilise Järelevalve Ametile seadme ohutuse seaduse §-s 12 nimetatud järelevalve infosüsteemi kaudu:
 
 1) kord kvartalis aruandekvartalile järgneva kuu 20. kuupäevaks pakettreiside ja seotud reisikorraldusteenuste kogumüügi aruande, milles esitatakse ka järgneva kvartali täpsustatud planeeritav pakettreiside ja seotud reisikorraldusteenuste kogumüük;
 
