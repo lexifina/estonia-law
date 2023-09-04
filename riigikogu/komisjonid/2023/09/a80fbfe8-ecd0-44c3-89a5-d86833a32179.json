@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Korruptsioonivastane erikomisjon",
+  "committee_uuid": "e4f2977a-e8c3-4fa0-8f3d-9df9acd6377f",
+  "title": "Komisjoni erakorraline istung esmaspäev, 4.09.2023 kell 10.00",
+  "sitting_time": "2023-09-04T10:00:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Peaminister Kaja Kallase vara, tulud ja huvide deklaratsioonid. Kutsutud peaminister Kaja Kallas",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "df68afcb-09fa-4de1-88e9-d53556e10903"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2b57810d-f7a6-4b40-aeab-fced2ed31284"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KVEK protokoll 04.09.2023",
+      "uuid": "a1365469-3667-47e4-af8f-7721a05793b7",
+      "files": [
+        "KVEK_protokoll_8_(04.09.2023).asice",
+        "Asendusliikme_volikiri.asice",
+        "KVEK_protokoll_8_(04.09.2023).pdf"
+      ]
+    }
+  ],
+  "uuid": "a80fbfe8-ecd0-44c3-89a5-d86833a32179",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a80fbfe8-ecd0-44c3-89a5-d86833a32179)",
+  "source": "https://api.riigikogu.ee/api/volumes/a80fbfe8-ecd0-44c3-89a5-d86833a32179",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-09-01&endDate=2023-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
