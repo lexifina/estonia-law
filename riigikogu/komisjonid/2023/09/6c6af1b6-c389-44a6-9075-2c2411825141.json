@@ -1,0 +1,49 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung neljapäev, 7.09.2023 kell 12.00",
+  "sitting_time": "2023-09-07T12:00:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Jätkuarutelu Vabariigi Presidendi Kantselei rahastamisest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f1501f38-505c-4170-9296-ca33401295e4"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli kontrolliaruande „Riigi 2022. aasta raamatupidamise aastaaruande õigsus ja tehingute seaduslikkus“ töö kavandatavas mahus läbiviimise takistamisest Siseministeeriumi poolt ning auditi tähelepanekutest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2767bfcd-e53f-4c28-8bf0-13be06426c62"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0acbed60-121c-4f94-83b5-2908d4f80365"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 7.09.23",
+      "uuid": "35d42937-bdcd-4841-af1b-56bde9be8921",
+      "files": [
+        "REKK_protokoll_7.09.23.asice",
+        "Volikiri_7.09.23_M.Reinaas.pdf",
+        "Asendus07.09.23.docx",
+        "Asendus07.09.23_A.Korobeinik.asice",
+        "Protokoll_nr_14_7.09.23.pdf"
+      ]
+    }
+  ],
+  "uuid": "6c6af1b6-c389-44a6-9075-2c2411825141",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 6c6af1b6-c389-44a6-9075-2c2411825141)",
+  "source": "https://api.riigikogu.ee/api/volumes/6c6af1b6-c389-44a6-9075-2c2411825141",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-09-01&endDate=2023-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
