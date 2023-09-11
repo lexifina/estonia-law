@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung esmaspäev, 11.09.2023 kell 11.15",
+  "sitting_time": "2023-09-11T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "95e87caf-91ee-4a4f-8453-b6438cad9a24"
+    },
+    {
+      "order": 2,
+      "title": "Eesti prioriteedid algaval ÜRO 78. Peaassambleel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8978b41e-ddf5-469d-99ce-97cfdd890c8c"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f9f61942-b31b-4e69-a9f2-44823d58cec8"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 11.09.2023",
+      "uuid": "ef63fec1-3157-495f-b788-0f11e102e616",
+      "files": [
+        "VÄLK_protokoll_11.09.2023.asice",
+        "VÄLK_protokoll_11.09.2023.pdf"
+      ]
+    }
+  ],
+  "uuid": "fc8b1b5c-791d-49cc-9266-cfe683f47f05",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid fc8b1b5c-791d-49cc-9266-cfe683f47f05)",
+  "source": "https://api.riigikogu.ee/api/volumes/fc8b1b5c-791d-49cc-9266-cfe683f47f05",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-09-01&endDate=2023-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
