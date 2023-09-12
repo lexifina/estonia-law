@@ -1,0 +1,43 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung teisipäev, 12.09.2023 kell 14.00",
+  "sitting_time": "2023-09-12T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Puitehituste strateegia väljatöötamise arutelu loodusmuuseumi ja keskkonnamaja näitel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bb27ca09-c522-42ec-a44e-9e745c9611a6"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9a89eb8a-7a3b-4a4b-802a-8005278347c1"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK protokoll 12.09.2023",
+      "uuid": "082c9448-05c3-447f-9d82-6306d8a686ab",
+      "files": [
+        "KEKK_protokoll_12.09.2023.asice",
+        "KEKK_protokoll_12.09.2023.pdf",
+        "Keskkonnamaja_ja_Loodusmuuseum.pdf",
+        "Keskkonnasäästlikkus_Keskkonnamaja__RKAS.pdf",
+        "Puitehituse_strateegia.pptx"
+      ]
+    }
+  ],
+  "uuid": "c825234b-3495-4cf6-9f3d-c06a33bfabe5",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c825234b-3495-4cf6-9f3d-c06a33bfabe5)",
+  "source": "https://api.riigikogu.ee/api/volumes/c825234b-3495-4cf6-9f3d-c06a33bfabe5",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-09-01&endDate=2023-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
