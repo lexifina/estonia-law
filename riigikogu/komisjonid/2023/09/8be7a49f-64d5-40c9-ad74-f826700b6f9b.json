@@ -1,0 +1,34 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung teisipäev, 12.09.2023 kell 15.00",
+  "sitting_time": "2023-09-12T15:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Informatsioon julgeolekuolukorra arengutest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3bdb1a54-9e71-467e-83bb-a7c138541a0b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Riigikaitsekomisjoni 12.09.2023 protokoll",
+      "uuid": "930d37c1-c7f9-4358-bd8b-8cd1ddc2a1b5",
+      "files": [
+        "Riigikaitsekomisjoni_12.09.2023_protokoll.asice",
+        "2023-09-12_protokoll_16.pdf"
+      ]
+    }
+  ],
+  "uuid": "8be7a49f-64d5-40c9-ad74-f826700b6f9b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8be7a49f-64d5-40c9-ad74-f826700b6f9b)",
+  "source": "https://api.riigikogu.ee/api/volumes/8be7a49f-64d5-40c9-ad74-f826700b6f9b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-09-01&endDate=2023-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
