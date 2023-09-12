@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni väljasõiduistung teisipäev, 12.09.2023 kell 14.00",
+  "sitting_time": "2023-09-12T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade julgeolekuolukorra arengutest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3a99b453-4f9d-45f0-a823-75c093c21df4"
+    },
+    {
+      "order": 2,
+      "title": "Aktuaalsed välispoliitilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "42b28031-390d-403c-ac31-0d21a77f3e31"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e455654d-c805-425e-a00f-697da25c57d4"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 12.09.2023",
+      "uuid": "5b600793-f489-44ae-bbfb-33783ac68224",
+      "files": [
+        "VÄLK_protokoll_12.09.2023.pdf",
+        "VÄLK_protokoll_12.09.2023.asice"
+      ]
+    }
+  ],
+  "uuid": "5caf6676-c9c4-4b56-b25b-e4ce63508178",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 5caf6676-c9c4-4b56-b25b-e4ce63508178)",
+  "source": "https://api.riigikogu.ee/api/volumes/5caf6676-c9c4-4b56-b25b-e4ce63508178",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-09-01&endDate=2023-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
