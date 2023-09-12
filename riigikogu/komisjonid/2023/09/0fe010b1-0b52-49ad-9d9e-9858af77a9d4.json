@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 12.09.2023 kell 14.00",
+  "sitting_time": "2023-09-12T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade mesilaste hukkumise juhtumist Harjumaal ning Põllumajandus- ja Toiduameti tegevusest seoses sellega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "176153f2-d14c-40f0-8c3b-463964896645"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f0e14384-5d27-4e77-82be-7bf25136d763"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 12.09.2023",
+      "uuid": "044823a2-1771-4c38-a1a9-c76bc0183759",
+      "files": [
+        "MAEK_protokoll_12.09.2023.asice",
+        "MAEK_protokoll_12.09.2023.pdf"
+      ]
+    }
+  ],
+  "uuid": "0fe010b1-0b52-49ad-9d9e-9858af77a9d4",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0fe010b1-0b52-49ad-9d9e-9858af77a9d4)",
+  "source": "https://api.riigikogu.ee/api/volumes/0fe010b1-0b52-49ad-9d9e-9858af77a9d4",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-09-01&endDate=2023-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
