@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung neljapäev, 14.09.2023 kell 14.00",
+  "sitting_time": "2023-09-14T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade väliskomisjoni liikmete tegevusest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f6be1a30-bf6e-44f6-af94-e3746d9f2a47"
+    },
+    {
+      "order": 2,
+      "title": "Väliskomisjoni II istungjärgu töökava arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "93ca91cd-9203-486b-ab43-9db949bdc243"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f58d6106-85c7-4f8e-bcc9-edb93e1982d8"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 14.09.2023",
+      "uuid": "9d4f68b8-8445-46da-b606-75f0c49a0d01",
+      "files": [
+        "VÄLK_protokoll_14.09.2023.pdf",
+        "VÄLK_protokoll_14.09.2023.asice"
+      ]
+    }
+  ],
+  "uuid": "f0fa564f-baf6-4eac-a499-46b2545fa21f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f0fa564f-baf6-4eac-a499-46b2545fa21f)",
+  "source": "https://api.riigikogu.ee/api/volumes/f0fa564f-baf6-4eac-a499-46b2545fa21f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-09-01&endDate=2023-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
