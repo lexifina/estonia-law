@@ -1,0 +1,53 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Korruptsioonivastane erikomisjon",
+  "committee_uuid": "e4f2977a-e8c3-4fa0-8f3d-9df9acd6377f",
+  "title": "Komisjoni istung esmaspäev, 18.09.2023 kell 13.13",
+  "sitting_time": "2023-09-18T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "673ff479-d82e-49e1-8f5e-8fe69ba0491f"
+    },
+    {
+      "order": 2,
+      "title": "Peaminister Kaja Kallase tulu, vara, laenudokumentide ja huvide deklaratsioonide arutelu.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a239b0d1-80ff-426d-805f-6367e553de10"
+    },
+    {
+      "order": 3,
+      "title": "Kohtumine Välisluureameti juhi Kaupo Rosinaga",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4288b42a-ea0d-4b31-81ef-fbff8bbdfdf9"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f97391df-282f-4b95-96ba-f22090fb85de"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KVEK protokoll 18.09.2023",
+      "uuid": "38304a0f-aa4d-4a2d-9988-6c62ba7b74e7",
+      "files": [
+        "Asendusliikme_volikiri_18.09.2023.pdf",
+        "KVEK_protokoll_10.asice",
+        "KVEK_protokoll_nr_10.pdf"
+      ]
+    }
+  ],
+  "uuid": "8ba9bce1-773f-44a6-ba60-8ea9b12704e8",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8ba9bce1-773f-44a6-ba60-8ea9b12704e8)",
+  "source": "https://api.riigikogu.ee/api/volumes/8ba9bce1-773f-44a6-ba60-8ea9b12704e8",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-09-01&endDate=2023-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
