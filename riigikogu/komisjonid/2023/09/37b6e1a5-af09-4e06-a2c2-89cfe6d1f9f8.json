@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung esmaspäev, 18.09.2023 kell 11.15",
+  "sitting_time": "2023-09-18T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8393664a-5165-4ec5-ab61-82c864fac817"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade arengutest Valgevenes",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d4612796-14ec-4357-bca5-6a8838d36462"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a1b35326-e917-474d-9966-0befed7cf166"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 18.09.2023",
+      "uuid": "49213eb1-d31c-4545-8f75-d2432ecb95d4",
+      "files": [
+        "VÄLK_protokoll_18.09.2023.pdf",
+        "VÄLK_protokoll_18.09.2023.asice"
+      ]
+    }
+  ],
+  "uuid": "37b6e1a5-af09-4e06-a2c2-89cfe6d1f9f8",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 37b6e1a5-af09-4e06-a2c2-89cfe6d1f9f8)",
+  "source": "https://api.riigikogu.ee/api/volumes/37b6e1a5-af09-4e06-a2c2-89cfe6d1f9f8",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-09-01&endDate=2023-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
