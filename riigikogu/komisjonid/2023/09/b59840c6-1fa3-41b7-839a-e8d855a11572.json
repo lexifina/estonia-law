@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 18.09.2023 kell 13.15",
+  "sitting_time": "2023-09-18T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "71829c52-e09f-4e8f-886f-58069da0c22e"
+    },
+    {
+      "order": 2,
+      "title": "Rahandusministeeriumi 2023. aasta suvine majandusprognoos",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9f695647-d5dc-4095-97e9-0f351d8c9d26"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9de46b6a-c4ca-4c33-888a-c154101f6779"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 18.09.23",
+      "uuid": "3b4f8d62-fc70-4273-9ba6-d868cd353a1b",
+      "files": [
+        "REKK_protokoll_18.09.23.asice",
+        "2023.09.17_-_REKK.pdf",
+        "Protokoll_nr_16_18.09.23.pdf"
+      ]
+    }
+  ],
+  "uuid": "b59840c6-1fa3-41b7-839a-e8d855a11572",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b59840c6-1fa3-41b7-839a-e8d855a11572)",
+  "source": "https://api.riigikogu.ee/api/volumes/b59840c6-1fa3-41b7-839a-e8d855a11572",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-09-01&endDate=2023-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
