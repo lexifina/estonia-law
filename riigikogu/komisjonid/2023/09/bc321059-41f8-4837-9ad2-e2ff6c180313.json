@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Julgeolekuasutuste järelevalve erikomisjon",
+  "committee_uuid": "d3826f36-707d-17ad-41e8-8b99f9910b98",
+  "title": "Komisjoni istung esmaspäev, 18.09.2023 kell 13.30",
+  "sitting_time": "2023-09-18T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d1b085fd-7021-4f1f-b7cf-fa54b258c1e3"
+    },
+    {
+      "order": 2,
+      "title": "Jätkuarutelu Venemaa-suunalise äritegevuse ning kõrgemate ametiisikute julgeolekukontrolli ja järelevalvega seotud teemadel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a776eb35-aab8-4093-a236-900b81b4ca08"
+    },
+    {
+      "order": 3,
+      "title": "Rumeenia Parlamendi luureteenistuse järelevalve komisjoniga kohtumise asjaolude täpsustamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "582882ab-9870-4df6-893a-044a5d7bd763"
+    },
+    {
+      "order": 4,
+      "title": "Tutvumine saabunud dokumentidega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "410f29c5-8ea1-4e89-975b-b16ab7c04477"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "JAJK protokoll 18.09.2023",
+      "uuid": "8a2a64fc-a503-4be8-8507-aaac80f9cef1",
+      "files": [
+        "JAJK_protokoll_18.09.2023.pdf",
+        "JAJK_protokoll_18.09.2023.asice"
+      ]
+    }
+  ],
+  "uuid": "bc321059-41f8-4837-9ad2-e2ff6c180313",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid bc321059-41f8-4837-9ad2-e2ff6c180313)",
+  "source": "https://api.riigikogu.ee/api/volumes/bc321059-41f8-4837-9ad2-e2ff6c180313",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-09-01&endDate=2023-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
