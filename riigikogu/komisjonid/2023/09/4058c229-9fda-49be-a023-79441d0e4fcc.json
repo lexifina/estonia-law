@@ -1,0 +1,54 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung teisipäev, 19.09.2023 kell 14.00",
+  "sitting_time": "2023-09-19T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Isamaa fraktsiooni algatatud erastamisest laekuva raha kasutamise seaduse muutmise seaduse eelnõu (70 SE) esimese lugemise ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a0a91a4d-11d1-49d6-bcad-411b2fd6cdcd"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade planeerimisseaduse muutmise seaduse eelnõu väljatöötamiskavatsusest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f59cc7ab-05d9-43a0-a478-e32b4469fbf0"
+    },
+    {
+      "order": 3,
+      "title": "Ülevaade Liivi lahe meretuulepargi elektriühenduste riigi eriplaneeringu lähteseisukohtadest ja mõjude hindamise programmist",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d8c8e59a-c84a-46c0-977c-00e0294d756a"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dec6b1a6-9a8c-47ec-ba4f-58175c3f6a15"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAJK protokoll nr 19 19.09.2023",
+      "uuid": "19a01d16-2c4a-4d11-8599-799eb8898520",
+      "files": [
+        "20230919_PlanS_VTK_eelnõu_tutvustus.pdf",
+        "MAJK_protokoll_nr_19_19.09.2023.asice",
+        "MAJK_protokoll_nr_19_19.09.2023.pdf",
+        "Liivi_lahe_elektriühenduste_REP.pdf"
+      ]
+    }
+  ],
+  "uuid": "4058c229-9fda-49be-a023-79441d0e4fcc",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 4058c229-9fda-49be-a023-79441d0e4fcc)",
+  "source": "https://api.riigikogu.ee/api/volumes/4058c229-9fda-49be-a023-79441d0e4fcc",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-09-01&endDate=2023-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
