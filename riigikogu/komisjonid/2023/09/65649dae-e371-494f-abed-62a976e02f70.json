@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Korruptsioonivastane erikomisjon",
+  "committee_uuid": "e4f2977a-e8c3-4fa0-8f3d-9df9acd6377f",
+  "title": "Komisjoni istung esmaspäev, 25.09.2023 kell 13.30",
+  "sitting_time": "2023-09-25T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ee8ce348-f0ae-4868-8d5e-ddf37cf7bcce"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine Rahapesu Andmebürooga.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b7a1010d-234c-49a1-b7cf-4c1a46cd9678"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "41e5668e-496f-4e10-8011-2a97f8b12b41"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KVEK protokoll 25.09.2023",
+      "uuid": "74a2c303-4e52-43bd-ac03-f552d79a71a3",
+      "files": [
+        "230925_Rahapesu_Andmebüroo.pdf",
+        "KVEK_protokoll_12.asice",
+        "KVEK_protokoll_nr_12.pdf"
+      ]
+    }
+  ],
+  "uuid": "65649dae-e371-494f-abed-62a976e02f70",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 65649dae-e371-494f-abed-62a976e02f70)",
+  "source": "https://api.riigikogu.ee/api/volumes/65649dae-e371-494f-abed-62a976e02f70",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-09-01&endDate=2023-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
