@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung esmaspäev, 25.09.2023 kell 11.15",
+  "sitting_time": "2023-09-25T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "30ba0521-3164-4962-96ac-7eda4249c053"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade Eesti Venemaa saatkonna tegevusest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4398b4d1-79a8-4d3c-9020-daa2624adc9c"
+    },
+    {
+      "order": 3,
+      "title": "Riigikogu 2023. aasta välislähetuste eelarve täitmine ja välislähetuste sügisprognoos",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9197697b-f15f-4ba2-9392-eaa40682da6e"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a15d9ecf-c74c-4253-954a-1a5cc15e5281"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 25.09.2023",
+      "uuid": "ccd9d0b1-de76-438c-aea0-a493ecffbfea",
+      "files": [
+        "VÄLK_protokoll_25.09.2023.pdf",
+        "VÄLK_protokoll_25.09.2023.asice"
+      ]
+    }
+  ],
+  "uuid": "d795c315-2311-4794-b7de-1399b2a61a3d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d795c315-2311-4794-b7de-1399b2a61a3d)",
+  "source": "https://api.riigikogu.ee/api/volumes/d795c315-2311-4794-b7de-1399b2a61a3d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-09-01&endDate=2023-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
