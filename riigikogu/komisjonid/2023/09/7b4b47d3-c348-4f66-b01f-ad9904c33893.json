@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung esmaspäev, 25.09.2023",
+  "sitting_time": "2023-09-25T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "720fd2bf-59db-40ff-b44a-83690e6631cc"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu liikme Kalle Grünthali algatatud atmosfääriõhu kaitse seaduse muutmise seaduse eelnõu (160 SE) esimese lugemise ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9a18e284-db2f-4b96-bc31-12a080b946cf"
+    },
+    {
+      "order": 3,
+      "title": "Riigikogu liikmete Rain Epleri, Mart Helme ja Martin Helme algatatud maapõueseaduse muutmise seaduse eelnõu (121 SE) esimese lugemise ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "34da8587-58b0-45a7-89fb-912c8688e3c3"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "85812ea3-4dd5-43d2-84c6-0aec1f730ad8"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK protokoll 25.09.2023",
+      "uuid": "aea7e884-76f9-4160-b2f3-7d4434b68ccf",
+      "files": [
+        "KEKK_protokoll_25.09.2023.asice",
+        "KEKK_protokoll_25.09.2023.pdf"
+      ]
+    }
+  ],
+  "uuid": "7b4b47d3-c348-4f66-b01f-ad9904c33893",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7b4b47d3-c348-4f66-b01f-ad9904c33893)",
+  "source": "https://api.riigikogu.ee/api/volumes/7b4b47d3-c348-4f66-b01f-ad9904c33893",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-09-01&endDate=2023-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
