@@ -1,0 +1,53 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung esmaspäev, 25.09.2023 kell 11.10",
+  "sitting_time": "2023-09-25T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "84cd6c56-3b79-402a-bde9-4577582df450"
+    },
+    {
+      "order": 2,
+      "title": "Isamaa fraktsiooni algatatud erastamisest laekuva raha kasutamise seaduse muutmise seaduse eelnõu (70 SE) esimese lugemise ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5d7c5f47-8d13-4616-ac8d-46bd096cbd3c"
+    },
+    {
+      "order": 3,
+      "title": "Kohtumine Konkurentsiameti juhiga",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "12db9c88-ea2f-446f-bb59-4d8a4f65ca7a"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b2d96de5-6821-407c-8d74-1863a08f6ff6"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAJK protokoll nr 20 25.09.2023",
+      "uuid": "55d734f8-586d-4246-859d-af59dcf8b5c6",
+      "files": [
+        "Ettekanne_Majanduskomisjonis_25092023.pdf",
+        "MAJK_protokoll_nr_20_25.09.2023.asice",
+        "MAJK_protokoll_nr_20_25.09.2023.pdf"
+      ]
+    }
+  ],
+  "uuid": "05642e7e-e39a-4cac-a25b-111010fbcac4",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 05642e7e-e39a-4cac-a25b-111010fbcac4)",
+  "source": "https://api.riigikogu.ee/api/volumes/05642e7e-e39a-4cac-a25b-111010fbcac4",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-09-01&endDate=2023-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
