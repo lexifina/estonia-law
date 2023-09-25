@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 25.09.2023 kell 11.10",
+  "sitting_time": "2023-09-25T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d6719b25-c058-4e18-bc7e-e616b8a6cafd"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine Haridus- ja Teadusministeeriumi esindajatega veterinaarhariduse, maamajandusliku kutsehariduse ja koolitoidu teemadel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7ddf1b5e-633f-4787-8247-145652abf2df"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6eabf44f-4898-472b-a2b6-fbb01fd91114"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 25.09.2023",
+      "uuid": "22cd8410-5e1c-4524-ba7c-56620807a9d3",
+      "files": [
+        "MAEK_protokoll_25.09.2023.asice",
+        "MAEK_protokoll_25.09.2023.pdf"
+      ]
+    }
+  ],
+  "uuid": "de6c811f-9f02-44e5-a95a-1268d1dd509b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid de6c811f-9f02-44e5-a95a-1268d1dd509b)",
+  "source": "https://api.riigikogu.ee/api/volumes/de6c811f-9f02-44e5-a95a-1268d1dd509b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-09-01&endDate=2023-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
