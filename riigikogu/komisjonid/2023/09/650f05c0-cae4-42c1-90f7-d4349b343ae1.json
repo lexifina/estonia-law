@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung teisipäev, 26.09.2023 kell 14.00",
+  "sitting_time": "2023-09-26T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti Konservatiivse Rahvaerakonna fraktsiooni esitatud Riigikogu otsuse „Sündimuse kasvatamise meetodite väljatöötamisest“ (208 OE) eelnõu esimese lugemise ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "91ca4a95-c9f8-4b31-96c3-7ddba5ee90e5"
+    },
+    {
+      "order": 2,
+      "title": "Kollektiivse pöördumise „Lapsed ei tohi olla riigi kokkuhoiukoht“ arutelu jätkamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "063e2870-ae62-4f7b-a31b-f9c3768f35e5"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b32a2f7f-8992-40f1-a860-add960c5b1b1"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "SOTK protokoll 26.09.2023",
+      "uuid": "a9845a07-a528-4352-8f6a-ae434caad7d4",
+      "files": [
+        "SOM_syndimus_Komisjoni_istung_26.09.pdf",
+        "SOTK_protokoll_26.09.2023.asice",
+        "SOTK_protokoll_nr_22_(26.09.2023).pdf"
+      ]
+    }
+  ],
+  "uuid": "650f05c0-cae4-42c1-90f7-d4349b343ae1",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 650f05c0-cae4-42c1-90f7-d4349b343ae1)",
+  "source": "https://api.riigikogu.ee/api/volumes/650f05c0-cae4-42c1-90f7-d4349b343ae1",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-09-01&endDate=2023-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
