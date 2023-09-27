@@ -1,0 +1,34 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung kolmapäev, 27.09.2023 kell 08.30",
+  "sitting_time": "2023-09-27T08:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikontrolli kontrolliaruande tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "91967daf-0757-4567-b2c3-ef070d2d707d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 27.09.23",
+      "uuid": "49c9b507-3167-455b-a296-3917d6bc8277",
+      "files": [
+        "REKK_protokoll_27.09.23.asice",
+        "Protokoll_nr_19_27.09.23.pdf"
+      ]
+    }
+  ],
+  "uuid": "be9e03f6-5408-470a-a92b-9c43de0e20d4",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid be9e03f6-5408-470a-a92b-9c43de0e20d4)",
+  "source": "https://api.riigikogu.ee/api/volumes/be9e03f6-5408-470a-a92b-9c43de0e20d4",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-09-01&endDate=2023-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
