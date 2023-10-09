@@ -1,0 +1,48 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Korruptsioonivastane erikomisjon",
+  "committee_uuid": "e4f2977a-e8c3-4fa0-8f3d-9df9acd6377f",
+  "title": "Komisjoni istung esmaspäev, 9.10.2023",
+  "sitting_time": "2023-10-09T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "83772e20-1a58-4e4c-822b-a29a0e6b547a"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade huvide deklaratsioonide kontrollimisest ja arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b4de125b-de33-4a3c-8f73-8a99c7cfd890"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "71e5643f-9d50-46ec-b1e0-73d2ea67b772"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KVEK protokoll 09.10.2023",
+      "uuid": "c9eee186-e5c9-4734-87cb-e58bf04f9b7b",
+      "files": [
+        "KVEK_protokoll_13_(09.10.2023).asice",
+        "KVEK_protokoll_13_(09.10.2023).pdf",
+        "Huvide_dekl_kontrollimine_-_slaidid_9.10.23_istungil.pptx",
+        "Asendusliikme_volikiri_09.10.2023.pdf"
+      ]
+    }
+  ],
+  "uuid": "4a989dba-dcc2-46e8-a7a9-7e52363f7e32",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 4a989dba-dcc2-46e8-a7a9-7e52363f7e32)",
+  "source": "https://api.riigikogu.ee/api/volumes/4a989dba-dcc2-46e8-a7a9-7e52363f7e32",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-10-01&endDate=2023-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
