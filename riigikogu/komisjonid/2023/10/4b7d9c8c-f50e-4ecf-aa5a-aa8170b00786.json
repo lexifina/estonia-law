@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 9.10.2023 kell 13.15",
+  "sitting_time": "2023-10-09T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c910d3ee-9f84-4b1b-8194-e136dabb737d"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli kontrolliaruande „Töövõime vähenemise ennetamine“ arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0be9f950-7066-423f-9be7-72bac9691714"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c48478d6-ca04-4bac-bc61-6a8bc614d954"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 9.10.23",
+      "uuid": "fa3ed762-0863-4537-bb62-5cdbe8a39699",
+      "files": [
+        "TV_esitlus_REKKis_9-10-23.pptx",
+        "REKK_protokoll_9.10.23.asice",
+        "Protokoll_nr_20_9.10.23.pdf"
+      ]
+    }
+  ],
+  "uuid": "4b7d9c8c-f50e-4ecf-aa5a-aa8170b00786",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 4b7d9c8c-f50e-4ecf-aa5a-aa8170b00786)",
+  "source": "https://api.riigikogu.ee/api/volumes/4b7d9c8c-f50e-4ecf-aa5a-aa8170b00786",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-10-01&endDate=2023-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
