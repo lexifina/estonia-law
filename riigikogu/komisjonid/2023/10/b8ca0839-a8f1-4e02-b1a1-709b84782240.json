@@ -1,0 +1,54 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 9.10.2023 kell 11.10",
+  "sitting_time": "2023-10-09T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dc33dbfc-e27b-4576-b646-df16976e9a88"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade Regionaal- ja Põllumajandusministeeriumi valitsemisala 2024. a eelarvest ning riigi eelarvestrateegiast 2024-2027",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7f265acb-db86-4792-9288-7e011395e250"
+    },
+    {
+      "order": 3,
+      "title": "Eesti Konservatiivse Rahvaerakonna fraktsiooni esitatud Riigikogu otsuse „Putukate ja putukaid sisaldavate toitude ja toodete erimärgistamise ja müügi kohta\" eelnõu (222 OE) ettevalmistamine esimesele lugemisele saatmiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2ed9d8a4-e84f-4ad2-9118-17b8fdab6cf4"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b335ab39-b964-4082-ba45-0f5d9eb008be"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 09.10.2023",
+      "uuid": "4add183f-71f3-47fc-9211-b14216628114",
+      "files": [
+        "MAEK_protokoll_09.10.2023.asice",
+        "protokolli_lisa_2_REM_222OE.pdf",
+        "Protokolli_lisa_1_REM_RES_09.10.2023.pdf",
+        "019_MAEK_protokoll_09.10.2023.pdf"
+      ]
+    }
+  ],
+  "uuid": "b8ca0839-a8f1-4e02-b1a1-709b84782240",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b8ca0839-a8f1-4e02-b1a1-709b84782240)",
+  "source": "https://api.riigikogu.ee/api/volumes/b8ca0839-a8f1-4e02-b1a1-709b84782240",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-10-01&endDate=2023-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
