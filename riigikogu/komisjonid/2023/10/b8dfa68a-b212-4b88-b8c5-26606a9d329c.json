@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung esmaspäev, 9.10.2023 kell 11.00",
+  "sitting_time": "2023-10-09T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "725c3ef0-a895-4f86-85dd-b332a8022291"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade julgeolekuolukorra arengutest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8b516515-e6bc-4a47-a11a-23127b91f454"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "69478fab-09da-46f2-9208-88a866949cd2"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Riigikaitsekomisjoni 09.10.2023 istungi protokoll",
+      "uuid": "fe465521-ed90-4e1b-a4b2-9a54d8ac5203",
+      "files": [
+        "Riigikaitsekomisjoni_09.10.2023_istungi_protokoll.asice",
+        "2023-10-09_protokoll_21.pdf"
+      ]
+    }
+  ],
+  "uuid": "b8dfa68a-b212-4b88-b8c5-26606a9d329c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b8dfa68a-b212-4b88-b8c5-26606a9d329c)",
+  "source": "https://api.riigikogu.ee/api/volumes/b8dfa68a-b212-4b88-b8c5-26606a9d329c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-10-01&endDate=2023-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
