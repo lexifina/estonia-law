@@ -1,0 +1,48 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung teisipäev, 10.10.2023 kell 14.00",
+  "sitting_time": "2023-10-10T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Arvamuse andmine Euroopa Liidu asjade komisjonile. Euroopa Parlamendi ja nõukogu direktiivi eelnõu, mis käsitleb karistusi laevade põhjustatud merereostuse eest - COM(2023) 273",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "583130d1-dbeb-4384-90a8-98ff243a53a8"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine Statistikaameti juhiga",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "47ddded7-c818-4db3-af0b-3137c2ad141a"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5ff1c1e8-c97d-4734-aac6-70f458c72953"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAJK protokoll nr 22 10.10.2023",
+      "uuid": "fcc695cd-806d-4756-b0a7-b427969011c0",
+      "files": [
+        "MAJK_protokoll_nr_22_10.10.2023.asice",
+        "MAJK_protokoll_nr_22_10.10.2023.pdf",
+        "SA_tutvustus_roadshow_2023_Riigikogu_101023_MAJK.pdf",
+        "RK_Komisjonidele.pdf"
+      ]
+    }
+  ],
+  "uuid": "05a6384f-1aab-465d-b24a-7962ff1062bd",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 05a6384f-1aab-465d-b24a-7962ff1062bd)",
+  "source": "https://api.riigikogu.ee/api/volumes/05a6384f-1aab-465d-b24a-7962ff1062bd",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-10-01&endDate=2023-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
