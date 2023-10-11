@@ -1,0 +1,34 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung kolmapäev, 11.10.2023 kell 08.30",
+  "sitting_time": "2023-10-11T08:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikontrolli kontrolliaruande tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bb061b66-c1a4-409e-9f54-6d22e537981b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 11.10.23",
+      "uuid": "24d64504-96a9-4d2e-b359-9b5e8185d54e",
+      "files": [
+        "REKK_protokoll_11.10.23.asice",
+        "Protokoll_nr_21_11.10.23.pdf"
+      ]
+    }
+  ],
+  "uuid": "f5542d39-b5f3-4917-8d7c-3ca4ce734391",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f5542d39-b5f3-4917-8d7c-3ca4ce734391)",
+  "source": "https://api.riigikogu.ee/api/volumes/f5542d39-b5f3-4917-8d7c-3ca4ce734391",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-10-01&endDate=2023-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
