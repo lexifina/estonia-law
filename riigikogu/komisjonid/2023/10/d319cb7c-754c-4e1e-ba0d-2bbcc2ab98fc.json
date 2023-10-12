@@ -1,0 +1,42 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung neljapäev, 12.10.2023 kell 14.00",
+  "sitting_time": "2023-10-12T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Sotsiaalkomisjoni algatatud sotsiaalmaksuseaduse § 3 täiendamise seaduse eelnõu (260 SE) teise lugemise ettevalmistamine  ",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "12cc5e27-5116-4a7a-a192-b5219b8d2872"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5d952c27-2db9-49f6-b12d-223dd5562481"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "SOTK protokoll 12.10.2023",
+      "uuid": "213dd5c9-2439-4ea0-b4b6-62e976239fd2",
+      "files": [
+        "260SE-II-ME-2.pdf",
+        "SOTK_protokoll_12.10.2023.asice",
+        "Asendusliige_Põlluaas_12.10.2023.pdf",
+        "SOTK_protokoll_nr_25_(12.10.2023).pdf"
+      ]
+    }
+  ],
+  "uuid": "d319cb7c-754c-4e1e-ba0d-2bbcc2ab98fc",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d319cb7c-754c-4e1e-ba0d-2bbcc2ab98fc)",
+  "source": "https://api.riigikogu.ee/api/volumes/d319cb7c-754c-4e1e-ba0d-2bbcc2ab98fc",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-10-01&endDate=2023-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
