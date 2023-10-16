@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung esmaspäev, 16.10.2023 kell 11.30",
+  "sitting_time": "2023-10-16T11:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cad55621-70b9-4b6a-97a9-62243d8ce449"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad 19.-20. oktoobril 2023 toimuval Euroopa Liidu kaubandusministrite mitteametlikul kohtumisel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "53e3cdf3-dee5-4377-bba7-ddef95d0a8ad"
+    },
+    {
+      "order": 3,
+      "title": "Ülevaade 11.-12. oktoobril 2023 toimunud NATO kaitseministrite kohtumisest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "52883f5a-9b12-4f71-96db-2a6ff1ad9713"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dc812398-0954-4159-9a32-8cc8379947b9"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 16.10.2023",
+      "uuid": "f4dd7a47-2474-4e45-9154-366ffed6b570",
+      "files": [
+        "VÄLK_protokoll_16.10.2023.asice",
+        "VÄLK_protokoll_16.10.2023.pdf"
+      ]
+    }
+  ],
+  "uuid": "a0d612e4-8045-4343-9960-d3a28d52ef0d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a0d612e4-8045-4343-9960-d3a28d52ef0d)",
+  "source": "https://api.riigikogu.ee/api/volumes/a0d612e4-8045-4343-9960-d3a28d52ef0d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-10-01&endDate=2023-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
