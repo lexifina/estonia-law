@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung esmaspäev, 16.10.2023 kell 11.15",
+  "sitting_time": "2023-10-16T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "21519f98-345a-453a-9b5b-fac88203dd96"
+    },
+    {
+      "order": 2,
+      "title": "Elektroonilise hääletamise süsteem ja elektroonilise hääletamise vaatlemine: tutvustus ja arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "409285d8-396a-44c0-8067-5bf30e3b4500"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1777cdfb-ee3e-4361-90f6-676f6297cdfc"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "PÕSK protokoll 16.10.2023",
+      "uuid": "a580c458-c4cd-4451-b66f-d4c377d34a34",
+      "files": [
+        "e-hääletamine.pptx",
+        "PÕSK_protokoll_16.10.2023.asice",
+        "PÕSK.protokoll.16.10.2023.pdf"
+      ]
+    }
+  ],
+  "uuid": "625b05df-821c-4e5c-8dde-8ce4d79b1ee1",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 625b05df-821c-4e5c-8dde-8ce4d79b1ee1)",
+  "source": "https://api.riigikogu.ee/api/volumes/625b05df-821c-4e5c-8dde-8ce4d79b1ee1",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-10-01&endDate=2023-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
