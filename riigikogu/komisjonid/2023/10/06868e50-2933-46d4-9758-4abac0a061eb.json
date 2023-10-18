@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung kolmapäev, 18.10.2023 kell 08.30",
+  "sitting_time": "2023-10-18T08:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikontrolli kontrolliaruande „Pikaajaline vaade vanglasüsteemile“ arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "92bdbfc0-2490-4234-a356-9c5d5c6c0cae"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f23cd4ec-952d-4914-aaf4-0ef5f61aec51"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 18.10.23",
+      "uuid": "b993ca83-dec5-4a9e-830f-6f2495ab38fc",
+      "files": [
+        "REKK_protokoll_18.10.23.asice",
+        "Protokoll_nr_23_18.10.23.pdf",
+        "Pikaajaline_Vaade_Vanglasüsteemile_Esitlus_18.10.2023.pptx"
+      ]
+    }
+  ],
+  "uuid": "06868e50-2933-46d4-9758-4abac0a061eb",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 06868e50-2933-46d4-9758-4abac0a061eb)",
+  "source": "https://api.riigikogu.ee/api/volumes/06868e50-2933-46d4-9758-4abac0a061eb",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-10-01&endDate=2023-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
