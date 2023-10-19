@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung neljapäev, 19.10.2023 kell 14.00",
+  "sitting_time": "2023-10-19T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 23. oktoobril 2023 toimuval Euroopa Liidu välisasjade nõukogu kohtumisel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "03fb8ffc-d89c-451b-a4ba-ed5cc3b3f429"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f1fa410d-1c4e-4cb9-9163-409c56cbddd7"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 19.10.2023",
+      "uuid": "d160ffde-f7f0-4b02-8aab-1e75e22c7b18",
+      "files": [
+        "VÄLK_protokoll_19.10.2023.pdf",
+        "VÄLK_protokoll_19.10.2023.asice"
+      ]
+    }
+  ],
+  "uuid": "4e75a605-0f3c-4f02-9d74-dcd79b30c40d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 4e75a605-0f3c-4f02-9d74-dcd79b30c40d)",
+  "source": "https://api.riigikogu.ee/api/volumes/4e75a605-0f3c-4f02-9d74-dcd79b30c40d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-10-01&endDate=2023-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
