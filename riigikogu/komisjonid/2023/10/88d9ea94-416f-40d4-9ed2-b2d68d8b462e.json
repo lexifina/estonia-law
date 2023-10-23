@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung esmaspäev, 23.10.2023 kell 11.30",
+  "sitting_time": "2023-10-23T11:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1dafd08a-aa3c-4a90-8a50-a545a4c66fda"
+    },
+    {
+      "order": 2,
+      "title": "Komisjoni tööga seotud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4bf4a208-7041-47b6-9eee-691fa9e1deb3"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "44a7aba0-9433-4b50-b072-28c11bfd4657"
+    },
+    {
+      "order": 4,
+      "title": "Ülevaade Kaitseministeeriumi tegevusest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "02a16a29-08fa-4956-a973-e246c57c765f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Riigikaitsekomisjoni 23.10.2023 istungi protokoll",
+      "uuid": "6ddcc3a9-d570-444c-8762-0f127e942253",
+      "files": [
+        "Riigikaitsekomisjoni_23.10.2023_protokoll.asice",
+        "2023-10-23_protokoll_25.pdf"
+      ]
+    }
+  ],
+  "uuid": "88d9ea94-416f-40d4-9ed2-b2d68d8b462e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 88d9ea94-416f-40d4-9ed2-b2d68d8b462e)",
+  "source": "https://api.riigikogu.ee/api/volumes/88d9ea94-416f-40d4-9ed2-b2d68d8b462e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-10-01&endDate=2023-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
