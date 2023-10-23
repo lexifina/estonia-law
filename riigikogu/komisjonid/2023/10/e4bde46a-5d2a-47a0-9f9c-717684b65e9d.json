@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 23.10.2023 kell 11.10",
+  "sitting_time": "2023-10-23T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b0d8772d-5af1-4f61-a540-c094b8626563"
+    },
+    {
+      "order": 2,
+      "title": "Nõuandeteenuse korraldus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5edfecd5-0c49-48b4-b469-4c580dd66b0d"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "71bbbbfb-a174-474d-92a5-2185ded69c8d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 23.10.2023",
+      "uuid": "a5ad22f3-7e5c-4e69-91ff-ec924d55cfab",
+      "files": [
+        "MAEK_protokoll_23.10.2023.asice",
+        "022_protokolli_lisa_AKIS_Nõuanne.pdf",
+        "022_MAEK_protokoll_23.10.2023.pdf"
+      ]
+    }
+  ],
+  "uuid": "e4bde46a-5d2a-47a0-9f9c-717684b65e9d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e4bde46a-5d2a-47a0-9f9c-717684b65e9d)",
+  "source": "https://api.riigikogu.ee/api/volumes/e4bde46a-5d2a-47a0-9f9c-717684b65e9d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-10-01&endDate=2023-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
