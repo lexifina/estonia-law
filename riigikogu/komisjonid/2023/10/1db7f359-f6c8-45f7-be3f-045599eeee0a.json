@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Julgeolekuasutuste järelevalve erikomisjon",
+  "committee_uuid": "d3826f36-707d-17ad-41e8-8b99f9910b98",
+  "title": "Komisjoni istung esmaspäev, 23.10.2023 kell 13.30",
+  "sitting_time": "2023-10-23T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b753eab7-d53a-48f0-ad97-fd3541a79be1"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade julgeolekuolukorra arengutest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7e201a9a-541a-4b09-9922-883516cbca77"
+    },
+    {
+      "order": 3,
+      "title": "Tutvumine saabunud dokumentidega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8377be5f-7984-44e8-b846-4d45bf707274"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "JAJK protokoll 23.10.2023",
+      "uuid": "bd46a3f2-2e68-4e64-8801-5525e7476cc9",
+      "files": [
+        "JAJK_protokoll_23.10.2023.pdf",
+        "JAJK_protokoll_23.10.2023.asice"
+      ]
+    }
+  ],
+  "uuid": "1db7f359-f6c8-45f7-be3f-045599eeee0a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 1db7f359-f6c8-45f7-be3f-045599eeee0a)",
+  "source": "https://api.riigikogu.ee/api/volumes/1db7f359-f6c8-45f7-be3f-045599eeee0a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-10-01&endDate=2023-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
