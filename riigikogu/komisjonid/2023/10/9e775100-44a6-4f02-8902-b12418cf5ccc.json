@@ -1,0 +1,53 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung esmaspäev, 23.10.2023 kell 11.15",
+  "sitting_time": "2023-10-23T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2d4f7b91-3f99-4ea5-832c-b49cd087211c"
+    },
+    {
+      "order": 2,
+      "title": "Kollektiivne pöördumine \"Süüdistus Aivo Petersoni asjas peaks olema avatud! \" (1-6/23-96/1)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d4881dd9-bbed-4691-aad9-4f975fbd46e2"
+    },
+    {
+      "order": 3,
+      "title": "Kollektiivne pöördumine \"Keelustame Eestis zoofiilia\" (1-6/23-91/1)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c8d5b388-2002-4c78-a742-64e2e94335f4"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8518cc19-701f-49dc-9680-966a3a2a5733"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ÕIGK protokoll 23.10.2023",
+      "uuid": "fab5cc81-b7d4-4056-950a-c45968630550",
+      "files": [
+        "ÕIGK_protokoll_23.10.2023.asice",
+        "(Lisa_1)_MTÜ_Loomus_esitlus.pdf",
+        "Riigikogu_õiguskomisjoni_istungi_protokoll_nr_19.pdf"
+      ]
+    }
+  ],
+  "uuid": "9e775100-44a6-4f02-8902-b12418cf5ccc",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9e775100-44a6-4f02-8902-b12418cf5ccc)",
+  "source": "https://api.riigikogu.ee/api/volumes/9e775100-44a6-4f02-8902-b12418cf5ccc",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-10-01&endDate=2023-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
