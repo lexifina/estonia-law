@@ -1,0 +1,55 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung teisipäev, 24.10.2023 kell 15.30",
+  "sitting_time": "2023-10-24T15:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud 2023. aasta riigieelarve seaduse muutmise seaduse eelnõu (303 SE)  teiseks lugemiseks ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4ef916f9-ddf5-440d-95d7-afc42a15c1d2"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud Riigikogu otsuse „Ukraina laenu intressikulude katmine\"  eelnõu (258 OE) teiseks lugemiseks ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a9d2989c-87f8-4944-8a73-8d5562df67c7"
+    },
+    {
+      "order": 3,
+      "title": "Vabariigi Valitsuse algatatud Riigikogu otsuse „Eesti Vabariigi osaluse suurendamine Euroopa Nõukogu Arengupangas\" eelnõu (259 OE) teiseks lugemiseks ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "51fcc022-036c-4e8c-8674-a871e0651380"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "76014606-c38e-419a-ab45-3cb7c056bd8b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 24.10.2023",
+      "uuid": "69e2e260-0b39-4cc2-be57-6ae8e4083168",
+      "files": [
+        "RAHK_protokoll_24.10.2023.asice",
+        "303_SE_2023._RE_muut__RAM_ettepanekud_II_lugemisele.pdf",
+        "Asendusliikme_volikiri_M.Lauri-E.Merilind_24.10.2023.pdf",
+        "Asendusliikme_volikiri_S.Pohlak-R.Epler_24.10.2023.pdf",
+        "RAHK_protokoll_nr_31_24.10.2023.pdf"
+      ]
+    }
+  ],
+  "uuid": "da90b525-c9d4-422f-9a22-a87b70f9cbd6",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid da90b525-c9d4-422f-9a22-a87b70f9cbd6)",
+  "source": "https://api.riigikogu.ee/api/volumes/da90b525-c9d4-422f-9a22-a87b70f9cbd6",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-10-01&endDate=2023-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
