@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung teisipäev, 24.10.2023 kell 14.00",
+  "sitting_time": "2023-10-24T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "51de3735-4264-4c5b-b959-b00ff908383b"
+    },
+    {
+      "order": 2,
+      "title": "Eesti Kultuurkapitali seaduse ja hasartmängumaksu seaduse muutmise seaduse eelnõu algatamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6be0d9d4-ea03-486f-82e0-077971375a16"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "254a1f7e-48b1-44c9-8de7-1c2a04100684"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KULK protokoll 24.10.23",
+      "uuid": "8f3ae962-84ae-409b-add3-5994ca5d412e",
+      "files": [
+        "KULK_protokoll_24.10.23.asice",
+        "Protokoll_21_(24.10.2023).pdf",
+        "Dokument.pdf",
+        "asendus_KulK_24.10.2023_KV.docx",
+        "asendus_KulK_24.10.2023_KV.asice",
+        "asendus_KulK_24.10.2023.asice",
+        "asendus_KulK_24.10.2023.docx"
+      ]
+    }
+  ],
+  "uuid": "0afa8fd4-68cf-49d0-9a3e-5dd8736de247",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0afa8fd4-68cf-49d0-9a3e-5dd8736de247)",
+  "source": "https://api.riigikogu.ee/api/volumes/0afa8fd4-68cf-49d0-9a3e-5dd8736de247",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-10-01&endDate=2023-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
