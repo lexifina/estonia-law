@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni väljasõiduistung Välisluureametisse teisipäev, 24.10.2023 kell 14.30",
+  "sitting_time": "2023-10-24T14:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade julgeolekuolukorra arengutest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8245addf-2eb2-4584-b339-f5dd3e52530f"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f4ecccc1-7af2-4ee6-ab68-55f162e35ded"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 24.10.2023",
+      "uuid": "0426e5a2-01bb-4450-a24a-5113cd8e3a0a",
+      "files": [
+        "VÄLK_protokoll_24.10.2023.pdf",
+        "VÄLK_protokoll_24.10.2023.asice"
+      ]
+    }
+  ],
+  "uuid": "b8b37369-0d77-4ef8-9a1a-cba806c985d8",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b8b37369-0d77-4ef8-9a1a-cba806c985d8)",
+  "source": "https://api.riigikogu.ee/api/volumes/b8b37369-0d77-4ef8-9a1a-cba806c985d8",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-10-01&endDate=2023-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
