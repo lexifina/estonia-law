@@ -1,0 +1,43 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung kolmapäev, 25.10.2023 kell 08.30",
+  "sitting_time": "2023-10-25T08:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikontrolli ülevaate „Ülevaade riikliku lennuettevõtte Nordica tegevusest“ arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "69ba28a9-0fff-4dec-b2d5-4bc269474afc"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5590c16e-a425-4321-a809-4f277ebbfbff"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 25.10.23",
+      "uuid": "edb89af7-b287-44de-8868-38df3ad8d20e",
+      "files": [
+        "Asendusliikme_volikiri_25.10.23.pdf",
+        "REKK_protokoll_25.10.23.asice",
+        "Ülevaade_NAGi_olukorrast_25.10.pptx",
+        "Nordica_25102023_REKK.pptx",
+        "Protokoll_nr_24_25.10.23.pdf"
+      ]
+    }
+  ],
+  "uuid": "ed0b1611-bcfe-4443-b611-f4d63619c549",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ed0b1611-bcfe-4443-b611-f4d63619c549)",
+  "source": "https://api.riigikogu.ee/api/volumes/ed0b1611-bcfe-4443-b611-f4d63619c549",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-10-01&endDate=2023-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
