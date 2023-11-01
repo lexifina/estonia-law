@@ -1,3 +1,5 @@
 # § 73. Menetlus
 
-Käesolevas peatükis sätestatud väärtegude kohtuväline menetleja on Andmekaitse Inspektsioon.
+(1) Käesolevas peatükis sätestatud väärtegude aegumistähtaeg on kolm aastat.
+
+(2) Käesolevas peatükis sätestatud väärtegude kohtuväline menetleja on Andmekaitse Inspektsioon.
