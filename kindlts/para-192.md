@@ -48,6 +48,8 @@
 
 9³) teavitama klienti kindlustusühistu kindlustuslepingu turustamisel kindlustusühistu liikmesusega seotud asjaoludest, sealjuures, kui kindlustusühistu põhikirja kohaselt peab klient olema selle liige, tegema kindlaks kliendi liikmesuse ning teavitama teda sellest, et kindlustuslepingu saab sõlmida üksnes pärast kindlustusühistu liikmeks astumist;
 
+9⁴) esitama kliendile sidevahendi kaudu kindlustuslepingu turustamisel võlaõigusseaduse § 54¹ lõikes 5 sätestatud teabe sama paragrahvi lõike 8 kohaselt;
+
 10) teavitama klienti maakleritasu suurusest, sealhulgas kindlustusandjalt saadava maakleritasu suurusest iga turustatava kindlustuslepingu kohta eraldi;
 
 11) huvide konflikti olukorras avaldama kliendile võimaliku huvide konflikti üldise laadi ja konflikti allika;

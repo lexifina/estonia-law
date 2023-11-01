@@ -18,6 +18,8 @@
 
 8) esitama kliendile võlaõigusseaduse § 428 lõike 1 punktides 3–9 ning elukindlustuslepingu turustamisel sama paragrahvi lõike 2 punktides 1–4¹, 4³, 5 ja 6 ning lõikes 2¹ sätestatud teabe;
 
+9¹) esitama kliendile sidevahendi kaudu kindlustuslepingu turustamisel võlaõigusseaduse § 54¹ lõikes 5 sätestatud teabe sama paragrahvi lõike 8 kohaselt;
+
 10) teavitama klienti agenditasu suurusest, sealhulgas kindlustusandjalt saadava agenditasu suurusest, ja tasustamise alustest iga turustatava kindlustuslepingu kohta eraldi;
 
 11) viitama kindlustusandjale, kes on võtnud täieliku vastutuse kindlustusagendi tegevuse eest;

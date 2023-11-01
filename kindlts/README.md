@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/117032023010> (version in force from 2023-03-27)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/117032023011> (version in force from 2023-11-01)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -271,7 +271,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/117032023010> (version in force 
 | [§ 219](para-219.md) | Isikuandmete edastamine |
 | [§ 220](para-220.md) | Isikuandmete säilitamise tähtaeg |
 | [§ 220¹](para-220b1.md) | Saladuses hoidmise kohustus |
-| [§ 221](para-221.md) | Kliendi kindlustushuvi ja nõudmiste väljaselgitamisega seotud kohustused |
+| [§ 221](para-221.md) | Kliendi kindlustushuvi ja nõudmiste väljaselgitamisega ning kliendile teabe esitamisega seotud kohustused |
 | [§ 221¹](para-221b1.md) | Investeerimistoote pakkumise ja nõustamisega seotud kohustused |
 | [§ 221²](para-221b2.md) | Üleeuroopalise personaalse pensionitoote pakkumise ja turustamisega seotud kohustused |
 | [§ 222](para-222.md) | Investeerimisriskiga elukindlustuslepingu sobivuse ja asjakohasuse hindamine |
@@ -315,16 +315,24 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/117032023010> (version in force 
 | [§ 253](para-253.md) | Teabe avalikustamata ja esitamata jätmine |
 | [§ 254](para-254.md) | Kindlustuslepingut sõlmida soovivale isikule ja kindlustusvõtjale teabe esitamise kohustuse täitmata jätmine |
 | [§ 255](para-255.md) | Sooteguri kasutamise tingimuste rikkumine |
+| [§ 255¹](para-255b1.md) | Olulise osaluse omandamise korra rikkumine |
 | [§ 256](para-256.md) | Usaldatavusnõuete rikkumine |
+| [§ 256¹](para-256b1.md) | Vara investeerimise põhimõtete rikkumine |
+| [§ 256²](para-256b2.md) | Edasikindlustamise nõuete rikkumine |
+| [§ 256³](para-256b3.md) | Euroopa Parlamendi ja nõukogu määruses (EL) nr 1286/2014 sätestatud nõuete rikkumine |
 | [§ 257](para-257.md) | Juhtimissüsteemi nõuete rikkumine |
 | [§ 258](para-258.md) | Kliendi kindlustushuvi ja nõudmiste väljaselgitamisega seotud kohustuse rikkumine |
-| [§ 259](para-259.md) | Investeerimisriskiga elukindlustuslepingu sobivuse ja asjakohasuse hindamata jätmine |
-| [§ 260](para-260.md) | Kindlustuslepingu kohustusliku kogumispensioniga sidumise keelu rikkumine |
+| [§ 259](para-259.md) | Investeerimisriskiga elukindlustuslepingu sobivuse ja asjakohasuse hindamisega seotud nõuete rikkumine |
+| [§ 259¹](para-259b1.md) | Kindlustuslepingu komplektis pakkumise nõuete rikkumine |
+| [§ 260](para-260.md) | Kohustusliku kogumispensioni avalduste vastuvõtmisega seotud kohustuste rikkumine |
 | [§ 261](para-261.md) | Klientide huvide ohustamine |
+| [§ 261¹](para-261b1.md) | Klientide huvide ohustamine investeerimisriskiga elukindlustuslepingu turustamisel |
 | [§ 262](para-262.md) | Vahendaja kasutamise ja kindlustuslepingute turustamise piirangu rikkumine |
 | [§ 263](para-263.md) | Vahendajale kindlustuslepingu turustamisel kehtestatud nõuete rikkumine |
 | [§ 263¹](para-263b1.md) | Euroopa Parlamendi ja nõukogu määruse (EL) 2020/852 nõuete rikkumine |
 | [§ 263²](para-263b2.md) | Euroopa Parlamendi ja nõukogu määruse (EL) 2019/1238 nõuete rikkumine |
+| [§ 263³](para-263b3.md) | Juriidilise isiku ja konsolideerimisgrupi käive |
+| [§ 263⁴](para-263b4.md) | Aegumine |
 | [§ 264](para-264.md) | Menetlus |
 | **14. peatükk Rakendussätted** | |
 | **1. jagu Üleminekusätted** | |
