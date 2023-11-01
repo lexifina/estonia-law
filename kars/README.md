@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/106012023004> (version in force from 2023-04-01)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/111032023010> (version in force from 2023-11-01)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -603,6 +603,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/106012023004> (version in force 
 | [§ 397](para-397.md) | Ebaseaduslik investeerimine |
 | [§ 398](para-398.md) | Siseteabe väärkasutamine |
 | [§ 398¹](para-398b1.md) | Turumanipulatsioon |
+| [§ 398²](para-398b2.md) | Juriidilise isiku ja konsolideerimisgrupi käive |
 | **7. jagu Konkurentsialased süüteod** | |
 | [§ 399](para-399.md) | Turgu valitseva ettevõtja seisundi kuritarvitamine |
 | [§ 400](para-400.md) | Konkurentsi kahjustav kokkulepe, otsus ja kooskõlastatud tegevus |

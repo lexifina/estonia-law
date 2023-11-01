@@ -14,7 +14,7 @@
 
 2) käesoleva seadustiku §-s 73 või 74 sätestatu alusel määratud katseajaks;
 
-3) ajaks, mil isikule kohaldatud karistuse täitmisele pööramine on edasi lükatud või karistuse täitmise tähtaega on pikendatud;
+3) ajaks, mil isikule kohaldatud karistus on määratud tasumiseks või kandmiseks ositi, karistuse täitmisele pööramine on edasi lükatud või karistuse täitmise tähtaega on pikendatud või see on ajatatud;
 
 4) ajaks, mil isik on välisriigis ja teda ei anta välja või teda ei saa välja anda.
 

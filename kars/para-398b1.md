@@ -2,7 +2,7 @@
 
 (1) Turumanipulatsiooni eest –
 
-karistatakse rahatrahviga kuni 300 trahviühikut.
+karistatakse rahatrahviga kuni 5 000 000 eurot või kuni kolmekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas.
 
 (2) Sama teo eest, kui see on toime pandud:
 
@@ -14,7 +14,7 @@ karistatakse rahalise karistuse või kuni neljaaastase vangistusega.
 
 (3) Käesoleva paragrahvi lõikes 1 sätestatud teo eest, kui selle on toime pannud juriidiline isik, –
 
-karistatakse rahatrahviga kuni 400 000 eurot.
+karistatakse rahatrahviga kuni 15 000 000 eurot või kuni kolmekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas või kuni 15 protsenti juriidilise isiku või tema konsolideerimisgrupi konsolideeritud käibest.
 
 (4) Käesoleva paragrahvi lõikes 2 sätestatud teo eest, kui selle on toime pannud juriidiline isik, –
 

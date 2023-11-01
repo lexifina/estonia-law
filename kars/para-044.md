@@ -14,6 +14,6 @@
 
 (7) Rahalist karistust ei mõisteta lisakaristusena koos varalise karistusega.
 
-(8) Juriidilisele isikule võib kohus mõista rahalise karistuse 4000–16 000 000 eurot.
+(8) Juriidilisele isikule võib kohus mõista rahalise karistuse 4000–40 000 000 eurot, kui käesoleva paragrahvi lõikest 9 ei tulene teisiti.
 
-(9) Käesoleva seadustiku eriosas sätestatud juhtudel võib kohus juriidilisele isikule mõista rahalise karistuse, mille suurus arvutatakse protsendina juriidilise isiku käibest kriminaalmenetluse alustamise aastale vahetult eelneval majandusaastal või juhul, kui isik on tegutsenud alla aasta, siis kriminaalmenetluse alustamise aastal. Mõistetava rahalise karistuse ülemmäär ei tohi sel juhul ületada käesoleva paragrahvi lõikes 8 sätestatud rahalise karistuse ülemmäära.
+(9) Käesoleva seadustiku eriosas sätestatud juhtudel võib kohus juriidilisele isikule mõista rahalise karistuse, mille suurus arvutatakse protsendina juriidilise isiku käibest kriminaalmenetluse alustamise aastale vahetult eelneval majandusaastal või juhul, kui isik on tegutsenud alla aasta, siis kriminaalmenetluse alustamise aastal.

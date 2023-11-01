@@ -8,7 +8,7 @@
 
 (2) Agressioonikuritegu, genotsiidikuritegu, inimsusevastane kuritegu, sõjakuritegu ja kuritegu, mille eest on ette nähtud eluaegne vangistus, ei aegu.
 
-(3) Väärtegu on aegunud, kui selle lõpuleviimisest kuni selle kohta tehtud otsuse jõustumiseni on möödunud kaks aastat, kui seadus ei näe selle eest ette kolmeaastast aegumistähtaega.
+(3) Väärtegu on aegunud, kui selle lõpuleviimisest kuni selle kohta tehtud otsuse jõustumiseni on möödunud kaks aastat, kui seadus ei näe selle eest ette kuni viieaastast aegumistähtaega.
 
 (4) Jätkuva süüteo korral arvutatakse aegumise tähtaega viimase teo lõpuleviimisest. Vältava süüteo korral arvutatakse aegumise tähtaega vältava teo lõppemisest.
 
@@ -40,4 +40,4 @@
 
 3) tahtevastase abielu, naise suguelundite sandistava moonutamise, raseduse ebaseadusliku katkestamise ning seksuaalse enesemääramise vastase kuriteo korral noorema kui kaheksateistaastase isiku suhtes kuni kannatanu kaheksateistaastaseks saamiseni, kui kriminaalmenetluse ajend ei ilmnenud enne tema poolt nimetatud vanuse saavutamist.
 
-(8) Käesoleva paragrahvi lõike 7 punktides 1 ja 2 sätestatud juhtudel ei uuene aegumine, kui kuriteo lõpuleviimisest on möödunud viisteist aastat. Väärteo aegumine ei uuene, kui väärteo lõpuleviimisest on möödunud kolm aastat. Kui väärteo aegumistähtaeg on kolm aastat, ei uuene aegumine, kui väärteo lõpuleviimisest on möödunud neli aastat.
+(8) Käesoleva paragrahvi lõike 7 punktides 1 ja 2 sätestatud juhtudel ei uuene aegumine, kui kuriteo lõpuleviimisest on möödunud viisteist aastat. Väärteo aegumine ei uuene, kui väärteo lõpuleviimisest on möödunud käesoleva paragrahvi lõikes 3 sätestatust aasta võrra pikem aeg.
