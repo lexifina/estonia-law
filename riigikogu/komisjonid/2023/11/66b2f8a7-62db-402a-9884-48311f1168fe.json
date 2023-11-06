@@ -1,0 +1,54 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung esmaspäev, 6.11.2023 kell 11.10",
+  "sitting_time": "2023-11-06T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d6f7de81-ccc0-49be-a95d-f1776cbbedc0"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade üleminekust eestikeelsele haridusele Tallinnas",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "530967bc-f483-4ec0-8cfd-f1e717340c43"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3d4ed900-8d26-4bce-b1f7-9407372a84ac"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KULK protokoll 22 (06.11.2023)",
+      "uuid": "dbf71800-cfdf-4554-b062-bac050419980",
+      "files": [
+        "KULK_protokoll_22_(06.11.2023).asice",
+        "Protokoll_22_(06.11.2023).pdf",
+        "Ülemineku_tegevuskava_Tallinn.pdf"
+      ]
+    },
+    {
+      "title": "Lisa 1 (eestikeelsele õppele ülemineku tegevuskava)",
+      "uuid": "515375bb-747e-484e-842c-517b3b93856a",
+      "files": [
+        "Ülemineku_tegevuskava_Tallinn.pdf"
+      ]
+    }
+  ],
+  "uuid": "66b2f8a7-62db-402a-9884-48311f1168fe",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 66b2f8a7-62db-402a-9884-48311f1168fe)",
+  "source": "https://api.riigikogu.ee/api/volumes/66b2f8a7-62db-402a-9884-48311f1168fe",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-11-01&endDate=2023-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
