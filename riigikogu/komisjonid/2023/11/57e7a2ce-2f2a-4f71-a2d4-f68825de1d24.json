@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung esmaspäev, 6.11.2023 kell 11.00",
+  "sitting_time": "2023-11-06T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0dfd4882-ef07-4f4b-b602-406d024514a1"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade julgeolekuolukorra arengutest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "792e6d96-e78c-468b-83ec-b55350fcacfa"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "583f95ff-307b-41e7-8717-5aed5bbadccd"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Riigikaitsekomisjoni 06.11.2023 protokoll",
+      "uuid": "a5d7e3d2-245b-443c-9319-da8cfb175f9f",
+      "files": [
+        "Riigikaitsekomisjoni_06.11.2023_protokoll.asice",
+        "2023-11-6_protokoll_27.pdf"
+      ]
+    }
+  ],
+  "uuid": "57e7a2ce-2f2a-4f71-a2d4-f68825de1d24",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 57e7a2ce-2f2a-4f71-a2d4-f68825de1d24)",
+  "source": "https://api.riigikogu.ee/api/volumes/57e7a2ce-2f2a-4f71-a2d4-f68825de1d24",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-11-01&endDate=2023-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
