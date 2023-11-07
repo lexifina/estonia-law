@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung teisipäev, 7.11.2023 kell 14.00",
+  "sitting_time": "2023-11-07T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade Eesti-Hiina suhetest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "703bab21-dd26-431f-bb02-0994ded48c94"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "87cf1dd8-ff40-45c9-938a-2ceee2fc055e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 07.11.2023",
+      "uuid": "e1625411-9ab6-4a20-a732-b908b8801621",
+      "files": [
+        "VÄLK_protokoll_07.11.2023.pdf",
+        "VÄLK_protokoll_07.11.2023.asice"
+      ]
+    }
+  ],
+  "uuid": "385fb940-4fe7-4eef-bde5-1cc14403b52c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 385fb940-4fe7-4eef-bde5-1cc14403b52c)",
+  "source": "https://api.riigikogu.ee/api/volumes/385fb940-4fe7-4eef-bde5-1cc14403b52c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-11-01&endDate=2023-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
