@@ -1,0 +1,49 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 7.11.2023",
+  "sitting_time": "2023-11-07T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine kliimaministriga",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "78d3f5a0-a76f-4b94-92db-e2ae5ec564ed"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud Euroopa Liidu ühise põllumajanduspoliitika rakendamise seaduse muutmise seaduse eelnõu (341 SE) esimese lugemise ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6b58e0d0-52f0-473d-a230-45ea6a3ebbe5"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4cf723c0-8925-4506-a589-49863659b42a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 07.11.2023",
+      "uuid": "7805de7d-18bc-492a-b225-1614dcb7d086",
+      "files": [
+        "025_protokolli_lisa_2_Kliimaseaduse_protsess.pdf",
+        "025_protokolli_lisa_3_ELÜPS_muutmine_07.11.2023.pdf",
+        "025_protokoll_07.11.2023.pdf",
+        "025_protokolli_lisa_1_Kliimamin_eelarve.pdf",
+        "MAEK_protokoll_07.11.2023.asice"
+      ]
+    }
+  ],
+  "uuid": "4efe3ffd-078a-4bc1-9c10-51c06a01fc7a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 4efe3ffd-078a-4bc1-9c10-51c06a01fc7a)",
+  "source": "https://api.riigikogu.ee/api/volumes/4efe3ffd-078a-4bc1-9c10-51c06a01fc7a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-11-01&endDate=2023-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
