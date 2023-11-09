@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung neljapäev, 9.11.2023 kell 14.00",
+  "sitting_time": "2023-11-09T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 13. novembril 2023 toimuval Euroopa Liidu välisasjade nõukogu kohtumisel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6aa554cc-483f-4342-8edb-6e2ab89bb6fc"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "374af133-212a-45b0-9a89-15b01cc710eb"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 09.11.2023",
+      "uuid": "faa6f545-e3f1-4863-a3d6-0f4b2e47d15b",
+      "files": [
+        "VÄLK_protokoll_09.11.2023.asice",
+        "VÄLK_protokoll_09.11.2023.pdf",
+        "Asendusliikme_avaldus.pdf"
+      ]
+    }
+  ],
+  "uuid": "d2fac577-a6a7-4d7b-a098-38eb99e9f290",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d2fac577-a6a7-4d7b-a098-38eb99e9f290)",
+  "source": "https://api.riigikogu.ee/api/volumes/d2fac577-a6a7-4d7b-a098-38eb99e9f290",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-11-01&endDate=2023-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
