@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung esmaspäev, 13.11.2023 kell 11.00",
+  "sitting_time": "2023-11-13T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7347bd99-5679-45e3-9677-e27712958fe0"
+    },
+    {
+      "order": 2,
+      "title": "Kaitseliidu seaduse ja sellega seonduvalt teiste seaduste muutmise seaduse eelnõu (335 SE) esimese lugemise ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a9c79254-3276-4fc7-8664-019c8e10d0d4"
+    },
+    {
+      "order": 3,
+      "title": "Ülevaade Ühendkuningriigi ja Eesti kaitsekoostöö leppest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "402a8a0e-0ee7-49ad-9d54-650a6245767d"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "79dc60ed-8cb0-4c04-9a3e-08340579c6b1"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Riigikaitsekomisjoni 13.11.2023 istungi protokoll",
+      "uuid": "8f74ea00-23ab-4441-ab2d-c34a1262b4a9",
+      "files": [
+        "Riigikaitsekomisjoni_13.11.2023_istungi_protokoll.asice",
+        "2023-11-13_protokoll_29.pdf"
+      ]
+    }
+  ],
+  "uuid": "7e2137bb-ed3a-4f6f-bd79-3f8401cdf8d7",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7e2137bb-ed3a-4f6f-bd79-3f8401cdf8d7)",
+  "source": "https://api.riigikogu.ee/api/volumes/7e2137bb-ed3a-4f6f-bd79-3f8401cdf8d7",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-11-01&endDate=2023-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
