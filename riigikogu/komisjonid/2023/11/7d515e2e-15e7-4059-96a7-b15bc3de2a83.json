@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung esmaspäev, 13.11.2023 kell 11.15",
+  "sitting_time": "2023-11-13T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c6d25ecb-86c8-444c-83b8-791c7d300ba3"
+    },
+    {
+      "order": 2,
+      "title": "Kohaliku omavalitsuse korralduse seaduse muutmise seaduse eelnõu (289 SE) esimese lugemise ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7438c17f-ca63-424c-934b-b70afc2c87ff"
+    },
+    {
+      "order": 3,
+      "title": "Kohaliku omavalitsuse volikogu valimise seaduse muutmise seaduse eelnõu (287 SE) esimese lugemise ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e1d25d48-46b5-4eb9-b21e-699cd9b4d504"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9ee888b3-2e12-459b-87af-6737d2ab3cbe"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "PÕSK protokoll 13.11.2023",
+      "uuid": "ea2dda7d-62a6-487d-9711-3d41ed183f38",
+      "files": [
+        "PÕSK_protokoll_13.11.2023.asice",
+        "PÕSK.protokoll.13.11.2023.pdf"
+      ]
+    }
+  ],
+  "uuid": "7d515e2e-15e7-4059-96a7-b15bc3de2a83",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7d515e2e-15e7-4059-96a7-b15bc3de2a83)",
+  "source": "https://api.riigikogu.ee/api/volumes/7d515e2e-15e7-4059-96a7-b15bc3de2a83",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-11-01&endDate=2023-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
