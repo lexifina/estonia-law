@@ -1,0 +1,48 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 13.11.2023 kell 13.15",
+  "sitting_time": "2023-11-13T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6140a514-8053-422c-844f-651d69460758"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli kontrolliaruande „Serveri- ja kontoriruumide turvalisus“ arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "579a64f5-b582-4350-b18a-abcba7eba90e"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "47047929-a4a4-410f-85be-2801ad5a775c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 13.11.23",
+      "uuid": "5cb9e39b-977d-41fc-b6a0-afe13deb8f91",
+      "files": [
+        "REKK_protokoll_13.11.23.asice",
+        "Volikiri_13.11.23.pdf",
+        "Serveriruumid_esitlus_13112023_up.pptx",
+        "Protokoll_nr_26_13.11.23.pdf"
+      ]
+    }
+  ],
+  "uuid": "1e7e5c2e-2ffc-42c5-aa2e-ef686ab06901",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 1e7e5c2e-2ffc-42c5-aa2e-ef686ab06901)",
+  "source": "https://api.riigikogu.ee/api/volumes/1e7e5c2e-2ffc-42c5-aa2e-ef686ab06901",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-11-01&endDate=2023-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
