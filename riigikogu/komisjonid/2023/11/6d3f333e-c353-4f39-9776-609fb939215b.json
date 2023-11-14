@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 14.11.2023 kell 14.00",
+  "sitting_time": "2023-11-14T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Eesti Turbaliidu esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f4a52179-6d2f-4ccb-87b4-d7a53856ba39"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2fd61c26-668f-485a-a8cf-1ac5e1d155be"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 14.11.2023",
+      "uuid": "8c86fa74-08af-4036-a0da-ce62bee1f9fc",
+      "files": [
+        "MAEK_protokoll_14.11.2023.asice",
+        "028_protokoll_14.11.2023.pdf",
+        "028_protokolli_lisa_Turbasektori_tutvustus.pdf"
+      ]
+    }
+  ],
+  "uuid": "6d3f333e-c353-4f39-9776-609fb939215b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 6d3f333e-c353-4f39-9776-609fb939215b)",
+  "source": "https://api.riigikogu.ee/api/volumes/6d3f333e-c353-4f39-9776-609fb939215b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-11-01&endDate=2023-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
