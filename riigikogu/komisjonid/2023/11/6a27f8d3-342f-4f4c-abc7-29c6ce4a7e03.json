@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung teisipäev, 14.11.2023 kell 14.00",
+  "sitting_time": "2023-11-14T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Informatsioon julgeolekuolukorra arengutest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "49bad53a-d2a4-49f2-95b6-c17507e55318"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cb8d0dd9-25b1-4d0f-b8e2-210cb510a0c1"
+    },
+    {
+      "order": 3,
+      "title": "Eesti Rahvuskomitee Ühendriikides ettepanekud Eesti Vabariigi valitsusele USA konsulaatide töö jätkamiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fd8ce757-d78f-4bd7-a011-8c8e2186c4be"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 14.11.2023",
+      "uuid": "0ec8005b-c1f9-48a0-a70d-15e553e16bcf",
+      "files": [
+        "VÄLK_protokoll_14.11.2023.pdf",
+        "VÄLK_protokoll_14.11.2023.asice"
+      ]
+    }
+  ],
+  "uuid": "6a27f8d3-342f-4f4c-abc7-29c6ce4a7e03",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 6a27f8d3-342f-4f4c-abc7-29c6ce4a7e03)",
+  "source": "https://api.riigikogu.ee/api/volumes/6a27f8d3-342f-4f4c-abc7-29c6ce4a7e03",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-11-01&endDate=2023-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
