@@ -1,0 +1,42 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung neljapäev, 16.11.2023 kell 14.00",
+  "sitting_time": "2023-11-16T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud keskkonnatasude seaduse ja metsaseaduse muutmise seaduse eelnõu (300 SE) teise lugemise ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "eb09fc52-3bb7-4607-9e80-0ee3a24eb650"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6f94d073-635f-4ea1-aa80-39439cdb28b9"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK protokoll 16.11.2023",
+      "uuid": "d9fb5075-f092-4854-a858-ed4610bfcc47",
+      "files": [
+        "Lisa_muudatusettepanekute_tabel.pdf",
+        "KEKK_protokoll_16.11.2023.asice",
+        "KEKK_protokoll_16.11.2023.pdf",
+        "Asendusliikme_volikiri_(Vaga).pdf"
+      ]
+    }
+  ],
+  "uuid": "32ce0a21-0d6b-4002-b7ee-aefb54bac47a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 32ce0a21-0d6b-4002-b7ee-aefb54bac47a)",
+  "source": "https://api.riigikogu.ee/api/volumes/32ce0a21-0d6b-4002-b7ee-aefb54bac47a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-11-01&endDate=2023-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
