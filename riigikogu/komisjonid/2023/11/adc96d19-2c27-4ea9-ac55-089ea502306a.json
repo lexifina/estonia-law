@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 20.11.2023 kell 11.10",
+  "sitting_time": "2023-11-20T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "36d2c4f0-f939-47a1-9e32-fe35fabea15f"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seakasvatuse olevik ja tulevik",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "497d01ab-038a-4598-912b-6733de112f30"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7caae8d5-788e-4cc1-b638-0fea1f3da30f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 20.11.2023",
+      "uuid": "ee99deb6-66cb-424e-bb7d-cfb1aa53653f",
+      "files": [
+        "029_protokolli_lisa_ETSAÜ.pdf",
+        "029_MAEK_protokoll_20.11.2023.pdf",
+        "MAEK_protokoll_20.11.2023.asice"
+      ]
+    }
+  ],
+  "uuid": "adc96d19-2c27-4ea9-ac55-089ea502306a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid adc96d19-2c27-4ea9-ac55-089ea502306a)",
+  "source": "https://api.riigikogu.ee/api/volumes/adc96d19-2c27-4ea9-ac55-089ea502306a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-11-01&endDate=2023-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
