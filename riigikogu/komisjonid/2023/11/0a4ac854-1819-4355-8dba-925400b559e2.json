@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Julgeolekuasutuste järelevalve erikomisjon",
+  "committee_uuid": "d3826f36-707d-17ad-41e8-8b99f9910b98",
+  "title": "Komisjoni istung esmaspäev, 20.11.2023 kell 13.30",
+  "sitting_time": "2023-11-20T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e801fcef-5016-4f28-879d-2ee56605e76b"
+    },
+    {
+      "order": 2,
+      "title": "Politsei- ja Piirivalveameti ülevaade olukorrast",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "15236a91-ba4b-434c-b866-512a03d7a1b5"
+    },
+    {
+      "order": 3,
+      "title": "Tutvumine saabunud dokumentidega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c20ddac1-3b0c-43b8-8346-092145cc11b4"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "JAJK protokoll 20.11.2023",
+      "uuid": "f0b7d4c2-d4e8-483d-9b97-c7dfac555323",
+      "files": [
+        "JAJK_protokoll_20.11.2023.asice",
+        "JAJK_protokoll_20.11.2023.pdf"
+      ]
+    }
+  ],
+  "uuid": "0a4ac854-1819-4355-8dba-925400b559e2",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0a4ac854-1819-4355-8dba-925400b559e2)",
+  "source": "https://api.riigikogu.ee/api/volumes/0a4ac854-1819-4355-8dba-925400b559e2",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-11-01&endDate=2023-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
