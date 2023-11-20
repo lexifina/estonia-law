@@ -1,0 +1,55 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung esmaspäev, 20.11.2023 kell 11.10",
+  "sitting_time": "2023-11-20T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a5afa7f1-e125-437e-bf3d-378048e7e5aa"
+    },
+    {
+      "order": 2,
+      "title": "Kortermajade renoveerimisest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b043488a-0e46-4d8a-aee9-786f6a737bc1"
+    },
+    {
+      "order": 3,
+      "title": "Ülevaade audiitortegevuse seaduse ja vabariigi valitsuse seaduse muutmise seaduseelnõu väljatöötamiskavatsusest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ce9bac45-5862-46c3-ac05-decc0898390f"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7d02f664-76e0-418c-a78f-963201ff30e2"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAJK protokoll nr 30 20.11.2023",
+      "uuid": "a47ff74d-dbbe-4d56-9e5c-73339e54677b",
+      "files": [
+        "MAJK_protokoll_nr_30_20.11.2023.pdf",
+        "AudS-i_muutmise_VTK_20.11.2023.pdf",
+        "Eluase_AJ_1123.pdf",
+        "MAJK_protokoll_nr_30_20.11.2023.asice",
+        "231120_RK_MK.pdf"
+      ]
+    }
+  ],
+  "uuid": "ca847b0f-901e-435e-bfd8-e9e30a621025",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ca847b0f-901e-435e-bfd8-e9e30a621025)",
+  "source": "https://api.riigikogu.ee/api/volumes/ca847b0f-901e-435e-bfd8-e9e30a621025",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-11-01&endDate=2023-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
