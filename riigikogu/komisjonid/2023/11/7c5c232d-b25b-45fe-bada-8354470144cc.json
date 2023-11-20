@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung esmaspäev, 20.11.2023 kell 11.00",
+  "sitting_time": "2023-11-20T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "69b52431-3762-4c91-831a-c98b4057fb00"
+    },
+    {
+      "order": 2,
+      "title": "Asendustäitmise ja sunniraha seaduse ja teiste seaduste muutmise seaduse eelnõu (340 SE) esimese lugemise ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8afef219-74ff-41cf-9ab5-19b9adc3e1dc"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "93c36bee-0bf4-450a-977d-99747858b468"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Riigikaitsekomisjoni 20.11.2023 istungi protokoll",
+      "uuid": "878c1ebb-b1fa-40e4-bb52-a7cf2c2066ce",
+      "files": [
+        "Riigikaitsekomisjoni_20.11.2023_istungi_protokoll.asice",
+        "2023-11-20_protokoll_31.pdf"
+      ]
+    }
+  ],
+  "uuid": "7c5c232d-b25b-45fe-bada-8354470144cc",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7c5c232d-b25b-45fe-bada-8354470144cc)",
+  "source": "https://api.riigikogu.ee/api/volumes/7c5c232d-b25b-45fe-bada-8354470144cc",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-11-01&endDate=2023-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
