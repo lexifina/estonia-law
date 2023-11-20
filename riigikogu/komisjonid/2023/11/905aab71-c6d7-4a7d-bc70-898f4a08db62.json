@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni avalik istung esmaspäev, 20.11.2023",
+  "sitting_time": "2023-11-20T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "668e9a93-aa8b-4739-b70e-1688aa74f969"
+    },
+    {
+      "order": 2,
+      "title": "Erakondade sundlõpetamine - arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e2359ad8-e068-4932-933c-1ba9b6ec7d4d"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "43e0b184-de7a-4dde-9c9f-8681e58da124"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "PÕSK protokoll 20.11.2023",
+      "uuid": "5c850682-c700-4033-b522-60b18dcd1f49",
+      "files": [
+        "PÕSK_protokoll_20.11.2023.asice",
+        "PÕSK.protokoll.20.11.2023.pdf"
+      ]
+    }
+  ],
+  "uuid": "905aab71-c6d7-4a7d-bc70-898f4a08db62",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 905aab71-c6d7-4a7d-bc70-898f4a08db62)",
+  "source": "https://api.riigikogu.ee/api/volumes/905aab71-c6d7-4a7d-bc70-898f4a08db62",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-11-01&endDate=2023-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
