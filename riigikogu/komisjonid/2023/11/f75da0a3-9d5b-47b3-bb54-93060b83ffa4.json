@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 21.11.2023",
+  "sitting_time": "2023-11-21T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade Põllumajandus- ja Toiduameti taotluste ja väärtegude menetlemise protsessist",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a4a650c6-1c23-407d-b007-ece1d5eb91f4"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d881f245-47ac-49bd-b298-8ca09943d673"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 21.11.2023",
+      "uuid": "90f583fd-3b4b-49c7-87d4-32718eb97f1b",
+      "files": [
+        "030_MAEK_protokoll_21.11.2023.pdf",
+        "030_protokolli_lisa_PTA.pdf",
+        "MAEK_protokoll_21.11.2023.asice"
+      ]
+    }
+  ],
+  "uuid": "f75da0a3-9d5b-47b3-bb54-93060b83ffa4",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f75da0a3-9d5b-47b3-bb54-93060b83ffa4)",
+  "source": "https://api.riigikogu.ee/api/volumes/f75da0a3-9d5b-47b3-bb54-93060b83ffa4",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-11-01&endDate=2023-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
