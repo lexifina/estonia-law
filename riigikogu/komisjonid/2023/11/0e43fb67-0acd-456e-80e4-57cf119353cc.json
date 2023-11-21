@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni väljasõiduistung teisipäev, 21.11.2023 kell 14.30",
+  "sitting_time": "2023-11-21T14:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade julgeolekuolukorra arengutest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5d5a0e28-38d3-444d-be11-ea092c57b385"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "061b5769-40d1-40eb-b416-fe9381a349b5"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 21.11.2023",
+      "uuid": "308dbf93-5ff5-4730-9152-9a165f3c9eff",
+      "files": [
+        "VÄLK_protokoll_21.11.2023.pdf",
+        "VÄLK_protokoll_21.11.2023.asice"
+      ]
+    }
+  ],
+  "uuid": "0e43fb67-0acd-456e-80e4-57cf119353cc",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0e43fb67-0acd-456e-80e4-57cf119353cc)",
+  "source": "https://api.riigikogu.ee/api/volumes/0e43fb67-0acd-456e-80e4-57cf119353cc",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-11-01&endDate=2023-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
