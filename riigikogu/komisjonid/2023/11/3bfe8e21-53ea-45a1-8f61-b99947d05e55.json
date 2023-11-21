@@ -1,0 +1,43 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung teisipäev, 21.11.2023 kell 14.00",
+  "sitting_time": "2023-11-21T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Esmatasandi arstiabi korraldus ja kättesaadavus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ee5c6159-cf1a-45ba-870c-c3fbc23329f3"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1fdf6618-8619-44e4-852c-ecb0e8ad8f30"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "SOTK protokoll 21.11.2023",
+      "uuid": "a5225795-0956-4639-b32b-33f81b5f589f",
+      "files": [
+        "SOTK_protokoll_21.11.2023.asice",
+        "Lisa_3_(EEMAS_esitlus).pdf",
+        "Lisa_2_(EPS_esitlus)_.pdf",
+        "Lisa_1_(SOM_esitlus).pdf",
+        "SOTK_protokoll_34_(21.11.2023).pdf"
+      ]
+    }
+  ],
+  "uuid": "3bfe8e21-53ea-45a1-8f61-b99947d05e55",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3bfe8e21-53ea-45a1-8f61-b99947d05e55)",
+  "source": "https://api.riigikogu.ee/api/volumes/3bfe8e21-53ea-45a1-8f61-b99947d05e55",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-11-01&endDate=2023-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
