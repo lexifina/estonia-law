@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung teisipäev, 21.11.2023 kell 14.00",
+  "sitting_time": "2023-11-21T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Jäätmereformi tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "15e2d17e-8f7c-4bf2-b029-ed718424fca4"
+    },
+    {
+      "order": 2,
+      "title": "Arvamuse andmine Euroopa Liidu asjade komisjonile. Eesti seisukohad metsapaljundusmaterjali tootmise ja turustamise määruse kohta - COM(2023) 415",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "166ba79b-f55c-4535-9b56-578dd394c900"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fcade1e0-158a-4ed3-b697-bc9c8112418e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK protokoll 21.11.2023",
+      "uuid": "c9c70398-f65e-40ae-b720-d30f21e40b0a",
+      "files": [
+        "KEKK_protokoll_21.11.2023.asice",
+        "KEKK_protokoll_21.11.2023.pdf",
+        "Lisa__jäätmereform.pdf"
+      ]
+    }
+  ],
+  "uuid": "16993652-ec7c-4aac-adb3-dcb4589612a5",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 16993652-ec7c-4aac-adb3-dcb4589612a5)",
+  "source": "https://api.riigikogu.ee/api/volumes/16993652-ec7c-4aac-adb3-dcb4589612a5",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-11-01&endDate=2023-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
