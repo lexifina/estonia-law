@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung teisipäev, 21.11.2023 kell 14.00",
+  "sitting_time": "2023-11-21T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Elroni juhiga",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3f1cfb2c-67c7-4ffa-805d-3165b18fdd71"
+    },
+    {
+      "order": 2,
+      "title": "Arvamuse andmine väliskomisjonile Euroopa Liidu ja Tšiili Vabariigi vahelise kaubanduse vahelepingu läbirääkimiste lõpetamise ja allkirjastamise kohta - COM(2023) 434",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "071e1311-6185-445d-ad80-9cc55df34406"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e09b0262-19b4-44bc-93a7-6db36f8a41da"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAJK protokoll nr 31 21.11.2023",
+      "uuid": "d749c7a3-7535-4aac-a089-4f4fa6782d0d",
+      "files": [
+        "MAJK_protokoll_nr_31_21.11.2023.pdf",
+        "MAJK_protokoll_nr_31_21.11.2023.asice",
+        "Lisa_1_Elron_majanduskomisjon_21.11.2023_slaidid.pdf"
+      ]
+    }
+  ],
+  "uuid": "3f67f43c-5bc5-473d-8142-991be53e7748",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3f67f43c-5bc5-473d-8142-991be53e7748)",
+  "source": "https://api.riigikogu.ee/api/volumes/3f67f43c-5bc5-473d-8142-991be53e7748",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-11-01&endDate=2023-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
