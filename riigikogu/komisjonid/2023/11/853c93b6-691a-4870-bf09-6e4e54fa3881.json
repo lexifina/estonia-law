@@ -1,0 +1,34 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni väljasõiduistung teisipäev, 21.11.2023 kell 14.00",
+  "sitting_time": "2023-11-21T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine riigikaitse kõrgeima juhi, Vabariigi Presidendi Alar Karisega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "76bc8059-de9e-4a69-9642-c81b8d6b01c5"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Riigikaitsekomisjoni 21.11.2023 istungi protokoll",
+      "uuid": "489dfb65-fc53-4432-8b23-c0c69b0ebba9",
+      "files": [
+        "Riigikaitsekomisjoni_21.11.2023_istungi_protokoll.asice",
+        "2023-11-21_protokoll_32.pdf"
+      ]
+    }
+  ],
+  "uuid": "853c93b6-691a-4870-bf09-6e4e54fa3881",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 853c93b6-691a-4870-bf09-6e4e54fa3881)",
+  "source": "https://api.riigikogu.ee/api/volumes/853c93b6-691a-4870-bf09-6e4e54fa3881",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-11-01&endDate=2023-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
