@@ -1,0 +1,35 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung kolmapäev, 22.11.2023 kell 08.30",
+  "sitting_time": "2023-11-22T08:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikontrolli kontrolliaruande „Elektriga varustamise kindlus Eestis“ arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "32dcc124-e47a-4d20-8134-1ff4e0f48f3e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 22.11.23",
+      "uuid": "5555b574-256b-493b-a575-fcc1c241213e",
+      "files": [
+        "REKK_protokoll_22.11.23.asice",
+        "El_varustuskindlus_REKK_22112023_jane.pptx",
+        "Protokoll_nr_28_22.11.23.pdf"
+      ]
+    }
+  ],
+  "uuid": "9482b663-e263-430f-bd6d-21b8cbea4dfa",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9482b663-e263-430f-bd6d-21b8cbea4dfa)",
+  "source": "https://api.riigikogu.ee/api/volumes/9482b663-e263-430f-bd6d-21b8cbea4dfa",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-11-01&endDate=2023-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
