@@ -1,0 +1,54 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Keskkonnakomisjoni ja maaelukomisjoni ühisistung esmaspäev, 4.12.2023 kell 11.10",
+  "sitting_time": "2023-12-04T11:10:00",
+  "sitting_type": "UHISISTUNG",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Keskkonnakomisjoni nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b512e10a-1f1d-4433-ae1b-f047b8cbed31"
+    },
+    {
+      "order": 2,
+      "title": "Maaelukomisjoni nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "da430cb2-4b51-4ce2-8694-c67d426238f6"
+    },
+    {
+      "order": 3,
+      "title": "Liivi lahe kalapüügipiirangute ning püügiandmete digitaliseerimise arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f6584548-1a89-4ab5-8898-2c1a0b440d51"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ea8d0d2d-e3f9-43f0-af69-7d960c5a5f89"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK ja MAEK protokoll 04.12.2023",
+      "uuid": "707d10ad-ba7d-40c3-90ba-4d3d42c03508",
+      "files": [
+        "KEKK_ja_MAEK_protokoll_04.12.2023.asice",
+        "015_KEKK_ja_MAEK_ühine_istung_lisa_2_REM.pdf",
+        "015_KEKK_ja_MAEK_ühine_istung_lisa_1.pdf",
+        "015_KEKK_ja_MAEK_ühine_istung_04.12.2023.pdf"
+      ]
+    }
+  ],
+  "uuid": "e3eef9c3-db42-43af-a2d1-8cb18b535d84",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e3eef9c3-db42-43af-a2d1-8cb18b535d84)",
+  "source": "https://api.riigikogu.ee/api/volumes/e3eef9c3-db42-43af-a2d1-8cb18b535d84",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-12-01&endDate=2023-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
