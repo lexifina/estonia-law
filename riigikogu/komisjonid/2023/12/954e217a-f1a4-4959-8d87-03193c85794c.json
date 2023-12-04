@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 4.12.2023 kell 13.15",
+  "sitting_time": "2023-12-04T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9baa1e1d-b95c-4672-bbcd-5225d142d91f"
+    },
+    {
+      "order": 2,
+      "title": "Eesti riigipiiri ehitus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "075cbcd2-2938-4912-9192-47176195aa69"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5b181c01-1fce-42a4-a798-07370dc7fbd0"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 4.12.23",
+      "uuid": "2451e6b0-0c62-4d14-b58a-7d3e1ea8cd21",
+      "files": [
+        "REKK_protokoll_4.12.23.asice",
+        "Riigipiiri_ehitus_aruanne.pdf",
+        "Protokoll_nr_29_04.12.23.pdf"
+      ]
+    }
+  ],
+  "uuid": "954e217a-f1a4-4959-8d87-03193c85794c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 954e217a-f1a4-4959-8d87-03193c85794c)",
+  "source": "https://api.riigikogu.ee/api/volumes/954e217a-f1a4-4959-8d87-03193c85794c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-12-01&endDate=2023-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
