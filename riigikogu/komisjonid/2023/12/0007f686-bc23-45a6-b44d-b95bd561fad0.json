@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Julgeolekuasutuste järelevalve erikomisjon",
+  "committee_uuid": "d3826f36-707d-17ad-41e8-8b99f9910b98",
+  "title": "Komisjoni istung esmaspäev, 4.12.2023 kell 13.30",
+  "sitting_time": "2023-12-04T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cc6a4a48-3fac-4ae6-8953-ab790fa15d8c"
+    },
+    {
+      "order": 2,
+      "title": "Maksu- ja Tolliameti ülevaade olukorrast",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "59314e80-bed6-4b45-84bc-395a7acdc1fb"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6c6b430e-51ca-43f0-8e62-24220a738343"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "JAJK protokoll 04.12.2023",
+      "uuid": "338ee6fe-95ae-4fcb-b481-f83243f2fa1f",
+      "files": [
+        "RK_komisjonile_2023.pptx",
+        "JAJK_protokoll_04.12.2023.pdf",
+        "JAJK_protokoll_04.12.2023.asice"
+      ]
+    }
+  ],
+  "uuid": "0007f686-bc23-45a6-b44d-b95bd561fad0",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0007f686-bc23-45a6-b44d-b95bd561fad0)",
+  "source": "https://api.riigikogu.ee/api/volumes/0007f686-bc23-45a6-b44d-b95bd561fad0",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-12-01&endDate=2023-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
