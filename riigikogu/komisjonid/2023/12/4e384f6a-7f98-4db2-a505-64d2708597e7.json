@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung teisipäev, 5.12.2023 kell 14.00",
+  "sitting_time": "2023-12-05T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti Rahvusringhäälingu nõukogu ülevaade 2022. aasta tegevusest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "25b05f84-29bf-4249-8ced-8006b7a641ff"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade ERR uue telekompleksi ehitamise ettevalmistamisest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "03c09e97-bcab-47f8-9b70-765500ba0d11"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "02618ba2-1b69-4d55-bd4d-0d188ed55ff2"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KULK protokoll 28 (05.12.23)",
+      "uuid": "7b7ea79a-f4c2-4cb5-9a83-2f0e25b1fcdd",
+      "files": [
+        "Protokoll_28_(05.12.2023).pdf",
+        "KULK_protokoll_28_(05.12.23).asice",
+        "ERR_KulKom2023+.pdf"
+      ]
+    }
+  ],
+  "uuid": "4e384f6a-7f98-4db2-a505-64d2708597e7",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 4e384f6a-7f98-4db2-a505-64d2708597e7)",
+  "source": "https://api.riigikogu.ee/api/volumes/4e384f6a-7f98-4db2-a505-64d2708597e7",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-12-01&endDate=2023-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
