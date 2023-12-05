@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung teisipäev, 5.12.2023 kell 14.00",
+  "sitting_time": "2023-12-05T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kollektiivse pöördumise „Petitsioon automaksu kehtestamise vastu“ arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "80dbe081-972e-4ecd-927e-9cff03ac4821"
+    },
+    {
+      "order": 2,
+      "title": "Rahanduskomisjoni algatatud tulumaksuseaduse muutmise seaduse eelnõu (337 SE) teiseks lugemiseks ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "91757d38-f545-481a-91da-dbf0a71571a2"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "287cda46-2508-448b-be53-8e923f0b40fb"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 05.12.2023",
+      "uuid": "19ea9b16-e631-4ac9-9fd6-c995f8c002e1",
+      "files": [
+        "RAHK_protokoll_05.12.2023.asice",
+        "RAHK_protokoll_40_5_12_2023.pdf",
+        "Asendusliikme_volikiri_M.Helme-R.Epler_05.12.2023.pdf"
+      ]
+    }
+  ],
+  "uuid": "ebcbd085-9064-4122-8a24-3e8ab36c90da",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ebcbd085-9064-4122-8a24-3e8ab36c90da)",
+  "source": "https://api.riigikogu.ee/api/volumes/ebcbd085-9064-4122-8a24-3e8ab36c90da",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-12-01&endDate=2023-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
