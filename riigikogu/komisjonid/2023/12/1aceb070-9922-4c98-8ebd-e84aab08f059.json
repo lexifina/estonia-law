@@ -1,0 +1,36 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung kolmapäev, 6.12.2023 kell 08.30",
+  "sitting_time": "2023-12-06T08:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikontrolli kontrolliaruande „Koduteenuste korraldus“ tutvustus ja arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8cf58327-7891-4191-bca9-2ce178220efa"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 6.12.23",
+      "uuid": "c247414e-b001-4aae-94c6-eaff0f206f64",
+      "files": [
+        "REKK_protokoll_6.12.23.asice",
+        "koduteenus_REK_06.12.2023_up.pptx",
+        "Volikiri_6.12.23.pdf",
+        "Protokoll_nr_30_6.12.23.pdf"
+      ]
+    }
+  ],
+  "uuid": "1aceb070-9922-4c98-8ebd-e84aab08f059",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 1aceb070-9922-4c98-8ebd-e84aab08f059)",
+  "source": "https://api.riigikogu.ee/api/volumes/1aceb070-9922-4c98-8ebd-e84aab08f059",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-12-01&endDate=2023-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
