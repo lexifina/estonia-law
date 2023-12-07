@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung neljapäev, 7.12.2023 kell 14.00",
+  "sitting_time": "2023-12-07T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Auvere elektrijaama toimekindlusest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e7208f27-1400-48f8-8705-8ecd53e6fed4"
+    },
+    {
+      "order": 2,
+      "title": "Arvamuse andmine Euroopa Liidu asjade komisjonile. Ühisteatis Euroopa Parlamendile, Euroopa Ülemkogule ja nõukogule „Euroopa majandusjulgeoleku strateegia“ - JOIN(2023) 20",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "150a00d5-66b5-4f5b-9f17-ed57ce20297a"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "349076f2-4a95-4a04-bd38-10f07134feea"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAJK protokoll nr 34 07.12.2023",
+      "uuid": "3ee0f1c1-9447-4a33-9777-c218956abc64",
+      "files": [
+        "MAJK_protokoll_nr_34_07.12.2023.pdf",
+        "MAJK_protokoll_nr_34_07.12.2023.asice"
+      ]
+    }
+  ],
+  "uuid": "36946ecc-4f05-4efb-bbd5-59684a23696f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 36946ecc-4f05-4efb-bbd5-59684a23696f)",
+  "source": "https://api.riigikogu.ee/api/volumes/36946ecc-4f05-4efb-bbd5-59684a23696f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-12-01&endDate=2023-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
