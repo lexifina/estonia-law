@@ -1,0 +1,42 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni erakorraline istung neljapäev, 7.12.2023 kell 13.10",
+  "sitting_time": "2023-12-07T13:10:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud Riigikogu otsuse „Riigigarantii andmine Euroopa Investeerimispangale Ukraina ülesehitamise toetamiseks\" eelnõu (336 OE) esimeseks lugemiseks ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6f22101f-9e52-4829-897e-1a09422a296f"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "addddac6-b9ab-4dbb-9478-68e77191fd0a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 07.12.2023",
+      "uuid": "ca4bdf2a-eaa5-41c6-b594-ad07915db27b",
+      "files": [
+        "RAHK_protokoll_07.12.2023.asice",
+        "RAHK_protokoll_41_7_12_2023_erakorraline.pdf",
+        "Asendusliikme_volikiri_A.Kokk-H.V.Seeder_07.12.2023.pdf",
+        "Asendusliikme_volikiri_J.Ligi-U.Tiidus_07.12.2023.pdf"
+      ]
+    }
+  ],
+  "uuid": "a06f250e-95de-4433-a62b-2294554cd79d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a06f250e-95de-4433-a62b-2294554cd79d)",
+  "source": "https://api.riigikogu.ee/api/volumes/a06f250e-95de-4433-a62b-2294554cd79d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-12-01&endDate=2023-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
