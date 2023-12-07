@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung neljapäev, 7.12.2023 kell 14.00",
+  "sitting_time": "2023-12-07T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade julgeolekuolukorra arengutest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d019175a-1970-47ae-ab32-d72b9570b17b"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "52305146-a0aa-4c45-88b7-659bf7ac6625"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Riigikaitsekomisjoni 07.12.2023 istungi protokoll",
+      "uuid": "d77e5fc4-47cd-4333-bf97-c08e3d54edf1",
+      "files": [
+        "Riigikaitsekomisjoni_07.12.2023_istungi_protokoll.asice",
+        "2023-12-07_protokoll_36.pdf"
+      ]
+    }
+  ],
+  "uuid": "3c9e3854-9f0d-41e5-b7f8-77371d0bc4df",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3c9e3854-9f0d-41e5-b7f8-77371d0bc4df)",
+  "source": "https://api.riigikogu.ee/api/volumes/3c9e3854-9f0d-41e5-b7f8-77371d0bc4df",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-12-01&endDate=2023-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
