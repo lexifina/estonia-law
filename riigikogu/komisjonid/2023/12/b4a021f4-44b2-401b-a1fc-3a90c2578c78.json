@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung esmaspäev, 11.12.2023 kell 13.30",
+  "sitting_time": "2023-12-11T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Euroopa Liidu asjade komisjoni esimehe ja aseesimehe erakorralised valimised",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "800be493-ee99-45ae-b2d3-3525c3830b43"
+    },
+    {
+      "order": 2,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cdc85944-b01d-4468-bf3c-e3779c457240"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8796fce8-e6c7-4313-b7d9-bcd4f55b6149"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ELAK protokoll 11.12.2023",
+      "uuid": "c0246b42-f63e-46bb-ada5-f1286ccba8c7",
+      "files": [
+        "ELAK_protokoll_11.12.2023.pdf",
+        "ELAK_protokoll_11.12.2023.asice",
+        "Asendusliikme_volikiri_T.Tamm_-_T.Tein_11.12.23.pdf"
+      ]
+    }
+  ],
+  "uuid": "b4a021f4-44b2-401b-a1fc-3a90c2578c78",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b4a021f4-44b2-401b-a1fc-3a90c2578c78)",
+  "source": "https://api.riigikogu.ee/api/volumes/b4a021f4-44b2-401b-a1fc-3a90c2578c78",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-12-01&endDate=2023-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
