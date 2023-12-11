@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Euroopa Liidu asjade komisjoni ja väliskomisjoni ühine istung kell 14:30",
+  "sitting_time": "2023-12-11T14:00:00",
+  "sitting_type": "UHISISTUNG",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 13. detsembril 2023 toimuval EL-Lääne-Balkani tippkohtumisel ning 14.-15. detsembril 2023 toimuval Euroopa Ülemkogul",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b27788ff-05c2-4eb9-97ec-4074bf296b3d"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade Euroopa Liidu poliitika kõne teesidest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bc3ac64f-8869-4872-b421-a31970b08594"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "86a5f662-ad72-4e9a-bce8-b04cc8326961"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ELAK ja VÄLK protokoll 11.12.2023",
+      "uuid": "30f25c6d-1237-4f5f-a29a-615c5c9990e5",
+      "files": [
+        "ELAK_ja_VÄLK_protokoll_11.12.2023.asice",
+        "ELAK_ja_VÄLK_protokoll_11.12.2023.pdf"
+      ]
+    }
+  ],
+  "uuid": "ba15a767-f78b-47eb-a2bd-522c7ef05a79",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ba15a767-f78b-47eb-a2bd-522c7ef05a79)",
+  "source": "https://api.riigikogu.ee/api/volumes/ba15a767-f78b-47eb-a2bd-522c7ef05a79",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-12-01&endDate=2023-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
