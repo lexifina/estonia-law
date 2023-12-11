@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung esmaspäev, 11.12.2023 kell 11.00",
+  "sitting_time": "2023-12-11T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cfc8a130-47e5-4a3a-9709-c2904c8b5b22"
+    },
+    {
+      "order": 2,
+      "title": "Sõjapidamine tunnetuslikus lahinguruumis, NATO strateegiline kommunikatsioon ja Eesti valitsuskommunikatsiooni/strateegilise kommunikatsiooni  valmisolek",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9041458a-061d-4e27-bbe6-245071b2b635"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ecd069d8-72f5-40a8-8916-0f655cbf9fda"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Riigikaitsekomisjoni 11.12.2023 istungi protokoll",
+      "uuid": "d426ada6-4f53-45fc-bc44-41b4c8e9d2b2",
+      "files": [
+        "Riigikaitsekomisjoni_11.12.2023_istungi_protokoll.asice",
+        "2023-12-11_protokoll_37.pdf"
+      ]
+    }
+  ],
+  "uuid": "bc2d30de-6647-4b1f-b87a-b8b109e7c313",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid bc2d30de-6647-4b1f-b87a-b8b109e7c313)",
+  "source": "https://api.riigikogu.ee/api/volumes/bc2d30de-6647-4b1f-b87a-b8b109e7c313",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-12-01&endDate=2023-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
