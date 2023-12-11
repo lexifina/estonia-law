@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 11.12.2023 kell 12.00",
+  "sitting_time": "2023-12-11T12:14:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Veterinaarseaduse muutmise seaduse eelnõu väljatöötamiskavatsuse tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "015fece9-3bfb-4669-ac74-d8f46fbe90b8"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "515e65c1-d56a-45e7-8feb-135099c5c6b4"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 11.12.2023",
+      "uuid": "3bafb89f-bf2e-4f49-9bd3-14be2679307e",
+      "files": [
+        "MAEK_protokoll_11.12.2023.asice",
+        "032_protokolli_lisa_VS_VTK_11.12.2023.pdf",
+        "032_MAEK_protokoll_11.12.2023.pdf"
+      ]
+    }
+  ],
+  "uuid": "40db037d-0fe2-43a7-b90d-6c2867cf9f5a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 40db037d-0fe2-43a7-b90d-6c2867cf9f5a)",
+  "source": "https://api.riigikogu.ee/api/volumes/40db037d-0fe2-43a7-b90d-6c2867cf9f5a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-12-01&endDate=2023-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
