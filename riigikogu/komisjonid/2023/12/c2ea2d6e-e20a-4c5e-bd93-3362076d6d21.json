@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung esmaspäev, 18.12.2023 kell 11.00",
+  "sitting_time": "2023-12-18T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9a45c868-7e88-4d32-a423-d0d68808ae01"
+    },
+    {
+      "order": 2,
+      "title": "Eesti ja Ameerika Ühendriikide kaitsekoostöö",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "435f6479-9b1a-4423-b31e-61b5946e3c28"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "62ea603b-7357-4eeb-b827-b123e82314b3"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Riigikaitsekomisjoni 18.12.2023 istungi protokoll",
+      "uuid": "40cace25-9983-4823-a092-44de9ea5558c",
+      "files": [
+        "Riigikaitsekomisjoni_18.12.2023_istungi_protokoll.asice",
+        "2023-12-18_protokoll_39.pdf"
+      ]
+    }
+  ],
+  "uuid": "c2ea2d6e-e20a-4c5e-bd93-3362076d6d21",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c2ea2d6e-e20a-4c5e-bd93-3362076d6d21)",
+  "source": "https://api.riigikogu.ee/api/volumes/c2ea2d6e-e20a-4c5e-bd93-3362076d6d21",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-12-01&endDate=2023-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
