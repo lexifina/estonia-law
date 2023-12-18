@@ -1,0 +1,53 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung esmaspäev, 18.12.2023 kell 11.30",
+  "sitting_time": "2023-12-18T11:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "143ae300-1dda-4a21-8b82-fbd23aa84875"
+    },
+    {
+      "order": 2,
+      "title": "Keskkonnakomisjoni 2. istungjärgu töö kokkuvõtete tegemine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0aeefabb-faa8-43f6-a6e8-f070dda39c64"
+    },
+    {
+      "order": 3,
+      "title": "Arutelu teemal: taimetoit kui kliimamuutustuste leevendamise oluline meede",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cb29e99e-43ca-43c9-a240-317125ee9c0e"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "20b62c6e-a78a-4b56-bf1a-c5e8d4a0a1ae"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK protokoll 18.12.2023",
+      "uuid": "91d8d93b-af9f-4fe1-8256-d9c5cda6c1a1",
+      "files": [
+        "KEKK_protokoll_18.12.2023.asice",
+        "Lisa__keskkonnakomisjoni_tegevuse_ülevaade_II_istungjärk.pdf",
+        "KEKK_protokoll_18.12.2023.pdf"
+      ]
+    }
+  ],
+  "uuid": "444e501f-32a2-4c36-bcfa-d27436ede100",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 444e501f-32a2-4c36-bcfa-d27436ede100)",
+  "source": "https://api.riigikogu.ee/api/volumes/444e501f-32a2-4c36-bcfa-d27436ede100",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-12-01&endDate=2023-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
