@@ -1,0 +1,49 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung teisipäev, 19.12.2023 kell 14.00",
+  "sitting_time": "2023-12-19T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Nordica juhtidega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "aeb90c07-f503-4516-8105-b9cbf0380860"
+    },
+    {
+      "order": 2,
+      "title": "Kokkuvõte majanduskomisjoni sügisistungjärgu ja 2023. aasta töödest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2899bd2b-03c4-4414-a01e-d55011f6d3a5"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "07bf1d27-6bed-4ddb-9078-8c70f2e2a3fb"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAJK protokoll nr 38 19.12.2023",
+      "uuid": "f42cfcc7-0db6-47c8-a0d5-b73ad2181a7b",
+      "files": [
+        "Asendusliikme_volikiri.pdf",
+        "MAJK_protokoll_nr_38_19.12.2023.asice",
+        "MAJK_protokoll_nr_38_19.12.2023.pdf",
+        "Lisa_2_Majanduskomisjoni_tööst_2023._a_XV_koosseis_veebi.pdf",
+        "Lisa_1_Majanduskomisjoni_tööst_2023._a_sügisistungjärgul_XV_koosseis.pdf"
+      ]
+    }
+  ],
+  "uuid": "3cba6a06-ced4-401a-beaa-5c6512aef4e5",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3cba6a06-ced4-401a-beaa-5c6512aef4e5)",
+  "source": "https://api.riigikogu.ee/api/volumes/3cba6a06-ced4-401a-beaa-5c6512aef4e5",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-12-01&endDate=2023-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
