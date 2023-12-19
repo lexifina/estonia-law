@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung teisipäev, 19.12.2023 kell 14.00",
+  "sitting_time": "2023-12-19T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7ce17507-3269-4bf2-af9c-de0e5f428068"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade rahvusooperi praeguse hoone juurdeehituse hetkeseisust",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f65227ad-914c-4db5-8f1a-9ba8dc72e6c5"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "859c1f5a-7930-448f-9cc6-d7b6f681b713"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KULK protokoll 31 (19.12.2023)",
+      "uuid": "7fb6d83f-0264-4e6f-8ee2-2341ce96a85c",
+      "files": [
+        "KULK_protokoll_31_(19.12.2023).asice",
+        "KULK_protokoll_31_(19.12.23).pdf"
+      ]
+    }
+  ],
+  "uuid": "cb64069a-0b59-49d5-94aa-585a7ab312f2",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid cb64069a-0b59-49d5-94aa-585a7ab312f2)",
+  "source": "https://api.riigikogu.ee/api/volumes/cb64069a-0b59-49d5-94aa-585a7ab312f2",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-12-01&endDate=2023-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
