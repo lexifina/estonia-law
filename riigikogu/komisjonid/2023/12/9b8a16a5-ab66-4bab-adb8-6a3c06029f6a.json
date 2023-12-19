@@ -1,0 +1,34 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung teisipäev, 19.12.2023 kell 14.00",
+  "sitting_time": "2023-12-19T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Tsiviilajateenistuse loomise idee",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d9891d2f-6a85-4052-ad82-fa7788b895c8"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Riigikaitsekomisjoni 19.12.2023 istungi protokoll",
+      "uuid": "7fec1378-b663-4c69-baf8-943f258af74c",
+      "files": [
+        "Riigikaitsekomisjoni_19.12.2023_istungi_protokoll.asice",
+        "2023-12-19_protokoll_40.pdf"
+      ]
+    }
+  ],
+  "uuid": "9b8a16a5-ab66-4bab-adb8-6a3c06029f6a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9b8a16a5-ab66-4bab-adb8-6a3c06029f6a)",
+  "source": "https://api.riigikogu.ee/api/volumes/9b8a16a5-ab66-4bab-adb8-6a3c06029f6a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-12-01&endDate=2023-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
