@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung teisipäev, 19.12.2023 kell 14.00",
+  "sitting_time": "2023-12-19T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade rahanduskomisjoni tegevusest 2023. aasta sügisistungjärgul",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "52386a8c-e6bd-4e64-be59-bafd0784d62f"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fb248195-f573-426b-9e58-613c169d7a6b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 19.12.2023",
+      "uuid": "6e4b0869-f902-4f3a-89c4-a96feb3ca228",
+      "files": [
+        "RAHK_protokoll_nr_46_19.12.2023.pdf",
+        "RAHK_II_istungjärgul_11.09-21.12.23.pdf",
+        "RAHK_protokoll_19.12.2023.asice"
+      ]
+    }
+  ],
+  "uuid": "67ae75cb-0eec-4028-88ae-09bf2e819b71",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 67ae75cb-0eec-4028-88ae-09bf2e819b71)",
+  "source": "https://api.riigikogu.ee/api/volumes/67ae75cb-0eec-4028-88ae-09bf2e819b71",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-12-01&endDate=2023-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
