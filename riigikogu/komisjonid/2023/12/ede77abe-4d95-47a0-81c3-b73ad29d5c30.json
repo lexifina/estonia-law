@@ -1,0 +1,48 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 19.12.2023",
+  "sitting_time": "2023-12-19T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti linnukasvatuse olevik ja tulevik",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a85e1d2c-5938-4758-94c7-54533efacfbf"
+    },
+    {
+      "order": 2,
+      "title": "Kokkuvõte komisjoni sügisistungjärgu tööst",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "75bed3f7-35c8-415a-bd43-1471627da9f6"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8d6ed9eb-7c48-4158-8abf-0b3a57aa7abb"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 19.12.2023",
+      "uuid": "2df9f344-df51-4bf7-9cae-755b5ab0b35d",
+      "files": [
+        "MAEK_protokoll_19.12.2023.asice",
+        "035_MAEK_protokoll_19.12.2023.pdf",
+        "2023_MAEK_ülevaade.pdf",
+        "035_protokolli_lisa_Munatootjad_2023_12_19.pdf"
+      ]
+    }
+  ],
+  "uuid": "ede77abe-4d95-47a0-81c3-b73ad29d5c30",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ede77abe-4d95-47a0-81c3-b73ad29d5c30)",
+  "source": "https://api.riigikogu.ee/api/volumes/ede77abe-4d95-47a0-81c3-b73ad29d5c30",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2023-12-01&endDate=2023-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
