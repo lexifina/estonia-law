@@ -1,3 +1,3 @@
 # § 8. Kompenseerimismehhanism
 
-Kui riigieelarve koostamisele eelnenud aastal oli valitsussektori struktuurne eelarvepositsioon kumulatiivselt puudujäägis ja valitsussektori struktuurne eelarvepositsioon oli puudujäägis, tuleb eelarvepositsiooni parandada vähemalt 0,5 protsendi võrra SKP-st aastas kuni eelarvetasakaalu saavutamiseni. Pärast struktuurse eelarvetasakaalu saavutamist tuleb kavandada järgmistel aastatel valitsussektori struktuurset ülejääki kuni kumulatiivse struktuurse tasakaalu saavutamiseni. Kumulatiivse struktuurse tasakaalu saavutamiseni tuleb kumulatiivset eelarvepositsiooni parandada vähemalt 0,5 protsenti SKP-st aastas.
+
