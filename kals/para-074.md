@@ -6,7 +6,7 @@
 
 2) puuduva töövõime korral – valvuri kolme aasta töötasu.
 
-(2) Valvuri hukkumise korral tööülesande täitmisel maksab Kaitseliit ühekordse hüvitisena valvuri viie aasta töötasu, mis jaotatakse võrdselt toetust saama õigustatud isikute vahel. Toetust saama õigustatud isikud on valvuri lesk ja isik, kes oli perekonnaseaduse alusel valvuri ülalpidamisel.
+(2) Valvuri hukkumise korral tööülesande täitmisel maksab Kaitseliit ühekordse hüvitisena valvuri viie aasta töötasu, mis jaotatakse võrdselt toetust saama õigustatud isikute vahel. Toetust saama õigustatud isikud on valvuri lesk, registreeritud elukaaslane, kellega sõlmitud kooseluleping on lõppenud surma tõttu, ja isik, kes oli perekonnaseaduse alusel valvuri ülalpidamisel.
 
 (3) Hüvitis arvutatakse osalise või puuduva töövõimega või hukkunud valvuri viimase 12 kuu keskmise töötasu alusel.
 
