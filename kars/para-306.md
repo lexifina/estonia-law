@@ -8,4 +8,4 @@ karistatakse rahalise karistuse või kuni viieaastase vangistusega.
 
 karistatakse rahalise karistusega.
 
-(2) Kuriteo eelnevalt mittelubatud varjamine kuriteo toimepanija vanema, lapse, lapsendaja, lapsendatu, venna, õe, vanavanema, lapselapse, abikaasa või tema vanema poolt ei ole süüline.
+(2) Kuriteo eelnevalt mittelubatud varjamine kuriteo toimepanija vanema, lapse, lapsendaja, lapsendatu, venna, õe, vanavanema, lapselapse, abikaasa, registreeritud elukaaslase või tema vanema poolt ei ole süüline.
