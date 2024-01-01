@@ -9,3 +9,5 @@
 (5) Kümneaastasele või vanemale lapsele isikunime andmisel on vaja tema nõusolekut. Arvestada tuleb ka noorema kui kümneaastase lapse soovi, kui tema arengutase seda võimaldab. Alaealise nõusoleku selgitab välja ametnik ning kinnitab selle oma allkirjaga nime andmise taotlusel.
 
 (7) Isikunime kohaldav haldusorgan edastab nimeõigusliku muudatuse tegemiseks isikunime kohaldamise aluseks olevad dokumendid perekonnaseisuasutusele.
+
+(8) Käesolevas seaduses abikaasade ja abielu kohta sätestatut kohaldatakse ka registreeritud elukaaslaste ja registreeritud kooselu kohta.
