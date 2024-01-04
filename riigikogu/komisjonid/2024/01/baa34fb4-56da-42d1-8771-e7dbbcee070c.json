@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni erakorraline istung neljapäev, 4.01.2024 kell 14.00",
+  "sitting_time": "2024-01-04T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Istungi päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4916091f-1d26-4e9a-a473-1af9c681e0be"
+    },
+    {
+      "order": 2,
+      "title": "Rahanduskomisjoni arvamuse andmine Riigikohtule põhiseaduslikkuse järelevalve kohtuasja nr 5-23-41 kohta",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8ed44ebe-b0f9-4d3c-a77a-4021c1d92772"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "35522e26-c59b-4f74-80c6-23b82c5f978a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 04.01.2024",
+      "uuid": "474415a7-898c-4834-a892-a3486d711c02",
+      "files": [
+        "RAHK_protokoll_04.01.2024.asice",
+        "RAHK_protokoll_47_4_01_2024_erakorraline.pdf"
+      ]
+    }
+  ],
+  "uuid": "baa34fb4-56da-42d1-8771-e7dbbcee070c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid baa34fb4-56da-42d1-8771-e7dbbcee070c)",
+  "source": "https://api.riigikogu.ee/api/volumes/baa34fb4-56da-42d1-8771-e7dbbcee070c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-01-01&endDate=2024-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
