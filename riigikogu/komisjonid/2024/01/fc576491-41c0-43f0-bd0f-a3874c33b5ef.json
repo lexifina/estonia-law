@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 8.01.2024 kell 11.10",
+  "sitting_time": "2024-01-08T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4b066bc2-aa5d-4db6-9afe-35a22a7303e9"
+    },
+    {
+      "order": 2,
+      "title": "Elektrilevi ülevaade elektritaristu olukorrast ja tegevustest toimepidevuse tagamiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4e01f2c4-ef80-4a11-8b05-e3ee279c097e"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5d7cb899-1057-4bf8-84e4-a28907323ee2"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 08.01.2024",
+      "uuid": "2ac8366e-ff3a-405a-a2a4-f5081b9b0d21",
+      "files": [
+        "036_protokolli_lisa_Elektrilevi.pdf",
+        "MAEK_protokoll_08.01.2024.asice",
+        "MAEK_protokoll_08.01.2024.pdf"
+      ]
+    }
+  ],
+  "uuid": "fc576491-41c0-43f0-bd0f-a3874c33b5ef",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid fc576491-41c0-43f0-bd0f-a3874c33b5ef)",
+  "source": "https://api.riigikogu.ee/api/volumes/fc576491-41c0-43f0-bd0f-a3874c33b5ef",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-01-01&endDate=2024-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
