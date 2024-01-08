@@ -1,0 +1,49 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 8.01.2024 kell 13.15",
+  "sitting_time": "2024-01-08T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5517cb58-3741-4be2-b701-73bc3692b4e2"
+    },
+    {
+      "order": 2,
+      "title": "Olukord riigi rahanduses ja riigi eelarvestrateegia täitmine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "30223118-5ad4-46d2-8e7b-a3f2eca533f0"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "93f665e2-6cc3-4702-8021-64efceb6fd86"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 8.01.24",
+      "uuid": "f69117b7-b492-46a9-9b17-5a45485790d0",
+      "files": [
+        "Protokoll_nr_32_8.01.24.pdf",
+        "Volikiri_8.01.24.pdf",
+        "RR_ülevaade_REKK_08.01.2024.pptx",
+        "REKK_jaanuar_2024.pptx",
+        "REKK_protokoll_8.01.24.asice"
+      ]
+    }
+  ],
+  "uuid": "e738304f-1cad-4665-a3f8-b9176058a7bc",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e738304f-1cad-4665-a3f8-b9176058a7bc)",
+  "source": "https://api.riigikogu.ee/api/volumes/e738304f-1cad-4665-a3f8-b9176058a7bc",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-01-01&endDate=2024-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
