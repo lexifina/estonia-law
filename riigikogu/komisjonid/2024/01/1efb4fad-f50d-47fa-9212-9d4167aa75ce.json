@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung teisipäev, 9.01.2024 kell 14.00",
+  "sitting_time": "2024-01-09T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "968904d8-ae9e-4f7c-adf2-fb76d42b1c75"
+    },
+    {
+      "order": 2,
+      "title": "Rahvusvahelise Kriminaalkohtu Rooma statuudi muudatuste ratifitseerimise seaduse eelnõu (226 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ffc065bd-24b2-4617-aca8-05e2cfb434d8"
+    },
+    {
+      "order": 3,
+      "title": "Kriminaalmenetluse seadustiku muutmise seaduse eelnõu (320 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "51456725-0e7a-4e1f-ba29-93a67665a9fb"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1574802f-1ac9-4e91-93ba-bf0eae9b6ee4"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ÕIGK protokoll 09.01.2024",
+      "uuid": "e867efea-afe4-43be-a186-f4289e38d9b8",
+      "files": [
+        "Riigikogu_õiguskomisjoni_istungi_protokoll_nr_30.pdf",
+        "ÕIGK_protokoll_09.01.2024.asice"
+      ]
+    }
+  ],
+  "uuid": "1efb4fad-f50d-47fa-9212-9d4167aa75ce",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 1efb4fad-f50d-47fa-9212-9d4167aa75ce)",
+  "source": "https://api.riigikogu.ee/api/volumes/1efb4fad-f50d-47fa-9212-9d4167aa75ce",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-01-01&endDate=2024-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
