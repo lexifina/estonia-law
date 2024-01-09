@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 9.01.2024 kell 14.00",
+  "sitting_time": "2024-01-09T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "PRIA ülevaade toetuste väljamaksmisest 2023. aastal ja ettevalmistustest uueks perioodiks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "290d289a-6531-485d-9a68-e06ac1eb680a"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ab7df42a-fbee-47ad-82cd-7c03424b7abe"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 09.01.2024",
+      "uuid": "66653082-e680-496b-a9d3-3fbf83df0527",
+      "files": [
+        "MAEK_protokoll_09.01.2024.asice",
+        "037_protokolli_lisa_PRIA.pdf",
+        "037_MAEK_protokoll_09.01.2024.pdf"
+      ]
+    }
+  ],
+  "uuid": "c74879d3-bf01-4e24-a48c-5c99a9a95077",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c74879d3-bf01-4e24-a48c-5c99a9a95077)",
+  "source": "https://api.riigikogu.ee/api/volumes/c74879d3-bf01-4e24-a48c-5c99a9a95077",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-01-01&endDate=2024-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
