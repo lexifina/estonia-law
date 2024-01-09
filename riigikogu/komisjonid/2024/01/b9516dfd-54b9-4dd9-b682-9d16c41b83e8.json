@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung teisipäev, 9.01.2024 kell 14.00",
+  "sitting_time": "2024-01-09T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Maksu- ja Tolliameti esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4843298a-c231-497a-98b2-44e2193c0a87"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "960dab8f-116b-4be3-94e4-2642351964f7"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 09.01.2024",
+      "uuid": "5d758446-fea8-4744-b734-d9024a7e386b",
+      "files": [
+        "RAHK_protokoll_09.01.2024.asice",
+        "RAHK_protokoll_49_9_01_2024.pdf",
+        "MTA_Raigo_Uukkivi_ettekanne_09.01.2024.pdf"
+      ]
+    }
+  ],
+  "uuid": "b9516dfd-54b9-4dd9-b682-9d16c41b83e8",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b9516dfd-54b9-4dd9-b682-9d16c41b83e8)",
+  "source": "https://api.riigikogu.ee/api/volumes/b9516dfd-54b9-4dd9-b682-9d16c41b83e8",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-01-01&endDate=2024-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
