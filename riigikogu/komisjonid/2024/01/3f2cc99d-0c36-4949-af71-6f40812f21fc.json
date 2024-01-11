@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung neljapäev, 11.01.2024 kell 13.30",
+  "sitting_time": "2024-01-11T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5e43d6f0-6bf1-4079-932d-c4f72087ea92"
+    },
+    {
+      "order": 2,
+      "title": "Märt Põdra algatatud kollektiivse pöördumise „E-hääletus tuleb muuta vaadeldavaks!“ arutelu jätkamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "373ef4bf-986d-47d9-a07d-3457c6003e62"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "825d5b7a-daba-4dfd-bd1f-a048965c75f5"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "PÕSK protokoll 11.01.2024",
+      "uuid": "cbc8d54f-449e-4131-b014-8f0a97801b94",
+      "files": [
+        "PÕSK_protokoll_11.01.2024.asice",
+        "PÕSK_protokoll_11.01.2024.pdf"
+      ]
+    }
+  ],
+  "uuid": "3f2cc99d-0c36-4949-af71-6f40812f21fc",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3f2cc99d-0c36-4949-af71-6f40812f21fc)",
+  "source": "https://api.riigikogu.ee/api/volumes/3f2cc99d-0c36-4949-af71-6f40812f21fc",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-01-01&endDate=2024-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
