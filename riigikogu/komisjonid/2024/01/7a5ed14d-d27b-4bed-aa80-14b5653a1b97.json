@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Korruptsioonivastane erikomisjon",
+  "committee_uuid": "e4f2977a-e8c3-4fa0-8f3d-9df9acd6377f",
+  "title": "Komisjoni istung esmaspäev, 15.01.2024 kell 13.45",
+  "sitting_time": "2024-01-15T13:45:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f8407da2-7ebb-4d9b-8d88-ae61ddcae08c"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine siseministeeriumi nõuniku Mati Ombler’iga",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "78be6ec1-bbf7-403e-9b5a-02f7aadba77e"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5cd288fa-b1a3-4ff2-b485-ef8aac82b5ee"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KVEK protokoll 20 (15.01.2024)",
+      "uuid": "2000f398-deeb-49f5-aa40-af7e07b00bda",
+      "files": [
+        "KVEK_protokoll_20_(15.01.2024).pdf",
+        "KVEK_protokoll_20_(15.01.2024).asice"
+      ]
+    }
+  ],
+  "uuid": "7a5ed14d-d27b-4bed-aa80-14b5653a1b97",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7a5ed14d-d27b-4bed-aa80-14b5653a1b97)",
+  "source": "https://api.riigikogu.ee/api/volumes/7a5ed14d-d27b-4bed-aa80-14b5653a1b97",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-01-01&endDate=2024-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
