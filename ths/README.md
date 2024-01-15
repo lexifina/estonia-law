@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/121092023004> (version in force from 2023-07-01)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/105012024005> (version in force from 2024-01-15)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -230,6 +230,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/121092023004> (version in force 
 | [§ 167](para-167.md) | Heite piirväärtuse ja väävliärastuse astme nõuete järgimata jätmine suure põletusseadme piiratud tööea korral |
 | [§ 168](para-168.md) | Heite piirväärtuse ja väävliärastuse astme nõuete järgimata jätmine väikese eraldatud võrgu korral |
 | [§ 169](para-169.md) | Heite piirväärtuse ja väävliärastuse astme nõuete järgimata jätmine kaugküttekäitiste korral |
+| [§ 169¹](para-169b1.md) | Kompleksloa tähtajalisuse kohaldamine |
 | **2. jagu Muudatused teistes õigusaktides** | |
 | [§ 170](para-170.md) |  |
 | [§ 176](para-176.md) |  |

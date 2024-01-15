@@ -1,3 +1,5 @@
 # § 48. Kompleksloa kehtivus
 
-Kompleksluba antakse tähtajatult.
+(1) Kompleksluba antakse tähtajatult.
+
+(2) Kompleksloa võib anda tähtajaliselt, kui esinevad keskkonnakaitse seisukohalt põhjendatud asjaolud.
