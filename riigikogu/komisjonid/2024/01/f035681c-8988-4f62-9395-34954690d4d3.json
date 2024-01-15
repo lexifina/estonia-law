@@ -1,0 +1,53 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung esmaspäev, 15.01.2024 kell 11.15",
+  "sitting_time": "2024-01-15T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "81be01dd-3860-496d-9130-f9322d8a407c"
+    },
+    {
+      "order": 2,
+      "title": "Sotsiaalministeeriumi õigusloomeplaanide tutvustus terviseministri valdkonnas",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "80290c74-7882-4d48-849b-278bd8485e6a"
+    },
+    {
+      "order": 3,
+      "title": "Sotsiaalministeeriumi õigusloomeplaanide tutvustus sotsiaalkaitseministri valdkonnas",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "05ac3281-0c2e-4f49-b45e-5dd3f332c9e1"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "610f261a-73d4-4752-b598-94457d82ff97"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "SOTK protokoll 15.01.2024",
+      "uuid": "6140ee45-f288-4864-a500-0e5d0792c94f",
+      "files": [
+        "2024_SOM_tööplaani_slaidid.pdf",
+        "SOTK_protokoll_15.01.2024.asice",
+        "SOTK_protokoll_nr_39_(15.01.2024).pdf"
+      ]
+    }
+  ],
+  "uuid": "f035681c-8988-4f62-9395-34954690d4d3",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f035681c-8988-4f62-9395-34954690d4d3)",
+  "source": "https://api.riigikogu.ee/api/volumes/f035681c-8988-4f62-9395-34954690d4d3",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-01-01&endDate=2024-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
