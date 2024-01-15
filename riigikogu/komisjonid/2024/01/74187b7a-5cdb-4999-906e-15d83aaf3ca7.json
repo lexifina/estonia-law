@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 15.01.2024 kell 11.10",
+  "sitting_time": "2024-01-15T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f67d33c3-60b5-4065-bd69-d3ba1d2ea513"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade Regionaal- ja Põllumajandusministeeriumi 2024. aasta plaanidest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0574abf3-a9fe-4d8e-9c87-162324526db9"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "460e0c3c-c17b-4d6c-a41e-72b57b9de728"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 15.01.2024",
+      "uuid": "9ff6aac7-82d5-4aa4-bcb2-3e2af2ea04d3",
+      "files": [
+        "MAEK_protokoll_15.01.2024.asice",
+        "038_MAEK_protokoll_15.01.2024.pdf",
+        "038_protokolli_lisa_REM_2024_tegevused.pdf"
+      ]
+    }
+  ],
+  "uuid": "74187b7a-5cdb-4999-906e-15d83aaf3ca7",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 74187b7a-5cdb-4999-906e-15d83aaf3ca7)",
+  "source": "https://api.riigikogu.ee/api/volumes/74187b7a-5cdb-4999-906e-15d83aaf3ca7",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-01-01&endDate=2024-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
