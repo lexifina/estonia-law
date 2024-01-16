@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung teisipäev, 16.01.2024 kell 14.00",
+  "sitting_time": "2024-01-16T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade Nord Pool elektribörsist",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e3c75e5a-83c4-4c64-9ed6-dff3616c97e7"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud lennundusseaduse ja tervishoiuteenuste korraldamise seaduse muutmise seaduse eelnõu (347 SE) teise lugemise ettevalmistamine. Laekunud arvamuste ärakuulamine.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "856d37b0-422b-4524-b3c7-62a28105170a"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bdfdb002-63ed-41cd-b19f-5ffd85f700d0"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAJK protokoll nr 41 16.01.2024",
+      "uuid": "1b1682c5-85e5-4ae0-b294-ec47e857be1d",
+      "files": [
+        "Lisa_4_347_SE_majanduskomisjonile.pdf",
+        "MAJK_protokoll_nr_41_16.01.2024.pdf",
+        "Asendusliikme_volikiri.pdf",
+        "Lisa_1_KLIM_slaidid_majanduskomisjon_16.01.2024.pdf",
+        "Lisa_2_Nord_Pool_presentatsioon_2024_January.pdf",
+        "MAJK_protokoll_nr_41_16.01.2024.asice",
+        "Lisa_3_16.01.24_Riigikogu_majanduskomisjon.pdf"
+      ]
+    }
+  ],
+  "uuid": "47ef39a9-e8d3-423a-bf3d-025d2218a145",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 47ef39a9-e8d3-423a-bf3d-025d2218a145)",
+  "source": "https://api.riigikogu.ee/api/volumes/47ef39a9-e8d3-423a-bf3d-025d2218a145",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-01-01&endDate=2024-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
