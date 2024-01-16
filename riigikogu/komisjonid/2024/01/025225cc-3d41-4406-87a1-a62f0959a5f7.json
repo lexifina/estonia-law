@@ -1,0 +1,53 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung teisipäev, 16.01.2024 kell 14.00",
+  "sitting_time": "2024-01-16T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "90d4ddcd-11dd-4ea3-bfcc-b72071665c83"
+    },
+    {
+      "order": 2,
+      "title": "Välismaalaste seaduse muutmise seaduse (Euroopa Liidu sinine kaart) eelnõu (349 SE) esimese lugemise ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "417fcc0f-f9dd-4759-85cc-0425938b50b6"
+    },
+    {
+      "order": 3,
+      "title": "Riigikogu valimise seaduse muutmise ja sellega seonduvalt teiste seaduste muutmise seaduse eelnõu (344 SE) teise lugemise ettevalmistamine (huvigruppide kuulamine)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f926ef20-4740-41fa-a45c-1a630518c7e3"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9b30c476-c34d-4d8e-a72b-29da50961e30"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "PÕSK.protokoll16.01.2024",
+      "uuid": "44c506d1-3222-4a24-914f-9313cfc0403b",
+      "files": [
+        "PÕSK.protokoll16.01.2024.asice",
+        "PÕSK.protokoll.16.01.2024.pdf",
+        "Asendusliikme_volikiri_A.Seeme_16.01.2024.pdf"
+      ]
+    }
+  ],
+  "uuid": "025225cc-3d41-4406-87a1-a62f0959a5f7",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 025225cc-3d41-4406-87a1-a62f0959a5f7)",
+  "source": "https://api.riigikogu.ee/api/volumes/025225cc-3d41-4406-87a1-a62f0959a5f7",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-01-01&endDate=2024-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
