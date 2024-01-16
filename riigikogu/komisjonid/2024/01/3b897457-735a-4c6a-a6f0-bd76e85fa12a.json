@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung teisipäev, 16.01.2024 kell 14.00",
+  "sitting_time": "2024-01-16T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kollektiivse pöördumise „ Peatame Kopli päästekomando sulgemise!\" arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "448c4cf0-9a81-4bfe-9635-55a4fe45306e"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a668b152-828d-49f0-9da8-238245202411"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 16.01.2024",
+      "uuid": "b107e95d-9b92-483a-b2a8-7764f9b00880",
+      "files": [
+        "RAHK_protokoll_16.01.2024.asice",
+        "RAHK_protokoll_51_16_01_2024.pdf"
+      ]
+    }
+  ],
+  "uuid": "3b897457-735a-4c6a-a6f0-bd76e85fa12a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3b897457-735a-4c6a-a6f0-bd76e85fa12a)",
+  "source": "https://api.riigikogu.ee/api/volumes/3b897457-735a-4c6a-a6f0-bd76e85fa12a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-01-01&endDate=2024-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
