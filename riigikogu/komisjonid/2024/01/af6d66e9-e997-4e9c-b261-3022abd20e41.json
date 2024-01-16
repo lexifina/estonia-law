@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 16.01.2024 kell 14.00",
+  "sitting_time": "2024-01-16T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade tarbijahinnaindeksi dünaamikast 2023. aastal",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e2d6ec28-27e0-4d33-8a6c-3a1f3ced4a04"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9197bd6b-5a67-4e2b-8f23-757629957eff"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 16.01.2024",
+      "uuid": "3c425d4a-f19a-4d7b-b8f5-ec927e1a59fc",
+      "files": [
+        "MAEK_protokoll_16.01.2024.asice",
+        "039_MAEK_protokoll_16.01.2024.pdf",
+        "039_protokolli_lisa_tarbijahinnaindeksid.pdf"
+      ]
+    }
+  ],
+  "uuid": "af6d66e9-e997-4e9c-b261-3022abd20e41",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid af6d66e9-e997-4e9c-b261-3022abd20e41)",
+  "source": "https://api.riigikogu.ee/api/volumes/af6d66e9-e997-4e9c-b261-3022abd20e41",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-01-01&endDate=2024-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
