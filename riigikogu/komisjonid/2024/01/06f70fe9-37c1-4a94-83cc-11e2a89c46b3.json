@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni väljasõiduistung teisipäev, 16.01.2024 kell 14.30",
+  "sitting_time": "2024-01-16T14:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade julgeolekuolukorra arengutest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ebee7840-9ce0-4580-81a3-1fe33aebcbdc"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dca35cc8-caa0-4f17-b7a8-40af8fa34c53"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 16.01.2024",
+      "uuid": "d968ae07-0d1f-41b5-976f-03677bd7acf9",
+      "files": [
+        "VÄLK_protokoll_16.01.2024.pdf",
+        "VÄLK_protokoll_16.01.2024.asice"
+      ]
+    }
+  ],
+  "uuid": "06f70fe9-37c1-4a94-83cc-11e2a89c46b3",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 06f70fe9-37c1-4a94-83cc-11e2a89c46b3)",
+  "source": "https://api.riigikogu.ee/api/volumes/06f70fe9-37c1-4a94-83cc-11e2a89c46b3",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-01-01&endDate=2024-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
