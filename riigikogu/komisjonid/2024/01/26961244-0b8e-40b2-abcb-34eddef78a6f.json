@@ -1,0 +1,49 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung neljapäev, 18.01.2024 kell 14.00",
+  "sitting_time": "2024-01-18T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade Riigikogus moodustatud välisdelegatsioonide tegevusest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1193240f-5b75-4c77-a099-fe01a2fe706f"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad 22. jaanuaril 2024 toimuval Euroopa Liidu välisasjade nõukogu kohtumisel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6423cf9e-d689-4e19-b326-4a2cf1630578"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dc8e9f11-7dfe-4fa6-ad64-3c6636662aab"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 18.01.2024",
+      "uuid": "42bb924a-2279-401f-8794-8c20ac79f4a6",
+      "files": [
+        "VÄLK_protokoll_18.01.2024.asice",
+        "VÄLK_protokoll_18.01.2024.pdf",
+        "Asendus_(Lutsar).pdf",
+        "asendus.docx",
+        "asendus_Vaga.asice"
+      ]
+    }
+  ],
+  "uuid": "26961244-0b8e-40b2-abcb-34eddef78a6f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 26961244-0b8e-40b2-abcb-34eddef78a6f)",
+  "source": "https://api.riigikogu.ee/api/volumes/26961244-0b8e-40b2-abcb-34eddef78a6f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-01-01&endDate=2024-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
