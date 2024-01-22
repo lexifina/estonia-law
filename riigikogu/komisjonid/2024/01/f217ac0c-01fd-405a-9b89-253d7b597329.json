@@ -1,0 +1,54 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung esmaspäev, 22.01.2024 kell 11.10",
+  "sitting_time": "2024-01-22T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4a97eb8f-d039-4011-8282-f88986a8d3cd"
+    },
+    {
+      "order": 2,
+      "title": "Peaministri ülevaade teadus- ja arendustegevuse olukorrast ja valitsuse poliitikast selles valdkonnas",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "473e9966-db54-4bef-b1cb-2b660f096200"
+    },
+    {
+      "order": 3,
+      "title": "Autoriõiguse seaduse seaduseelnõu väljatöötamiskavatsuse tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "eeb29407-2e21-4a05-9857-485215c1fa3a"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5ce66ae4-f74c-4d14-8f3a-d354a21f7d1c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KULK protokoll",
+      "uuid": "3a1b529d-e0f2-4b2a-8bdb-d9dc18beee0f",
+      "files": [
+        "KULK_protokoll.asice",
+        "Protokoll_36_(22.01.2024).pdf",
+        "TA_kõne_teesid_ja_taustainfo.pdf",
+        "VTK_Autoriõiguse_seadus.pdf"
+      ]
+    }
+  ],
+  "uuid": "f217ac0c-01fd-405a-9b89-253d7b597329",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f217ac0c-01fd-405a-9b89-253d7b597329)",
+  "source": "https://api.riigikogu.ee/api/volumes/f217ac0c-01fd-405a-9b89-253d7b597329",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-01-01&endDate=2024-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
