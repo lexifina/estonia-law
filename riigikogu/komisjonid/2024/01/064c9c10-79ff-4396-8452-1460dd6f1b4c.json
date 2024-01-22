@@ -1,0 +1,55 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung esmaspäev, 22.01.2024 kell 11.15",
+  "sitting_time": "2024-01-22T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b50bc7af-dbf8-473d-9912-a1bd87049470"
+    },
+    {
+      "order": 2,
+      "title": "Rahanduskomisjoni arvamuse andmine Riigikohtule põhiseaduslikkuse järelevalve kohtuasja nr 5-24-1 kohta",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7d1a0ea7-d38a-46ae-ae23-500b2f5a795e"
+    },
+    {
+      "order": 3,
+      "title": "Rahandusministeeriumi ülevaade ettevalmistatavatest eelnõudest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6536b6b8-6876-4d36-9700-b73a58fd84c4"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9a661601-c0db-4944-ba30-58e3c6d8c243"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 22.01.2024",
+      "uuid": "833af168-06e9-4fde-82d3-9beaa8080ca7",
+      "files": [
+        "RAHK_protokoll_22.01.2024.asice",
+        "RAHK_protokoll_52_22_01_2024.pdf",
+        "RAHK_arvamus_kohtuasjas_5-24-1_22.01.2024_lisa_1.pdf",
+        "RAM_eelnõud_2024_I_pa_22.01.2024.pdf",
+        "Aivar_Koka_eriarvamus_lisa_2.pdf"
+      ]
+    }
+  ],
+  "uuid": "064c9c10-79ff-4396-8452-1460dd6f1b4c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 064c9c10-79ff-4396-8452-1460dd6f1b4c)",
+  "source": "https://api.riigikogu.ee/api/volumes/064c9c10-79ff-4396-8452-1460dd6f1b4c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-01-01&endDate=2024-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
