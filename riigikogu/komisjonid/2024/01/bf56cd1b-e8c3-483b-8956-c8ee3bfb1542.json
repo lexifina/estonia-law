@@ -1,0 +1,49 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 22.01.2024 kell 13.15",
+  "sitting_time": "2024-01-22T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "213afbab-fd51-4aaa-af2a-aa16806e21e9"
+    },
+    {
+      "order": 2,
+      "title": "Automaks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8ab4c15f-912f-4aa7-b08a-b33cca97c03d"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a451e7ea-aa0d-4dd7-bf0a-5c42c532f8ce"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 22.01.24",
+      "uuid": "6bc07898-9d4d-4265-bc17-ed2e8f41958b",
+      "files": [
+        "Protokoll_nr_36_22.01.24.pdf",
+        "MSmaks_22.01.2024.pptx",
+        "20240122_EAOL_ettekanne__Riigikogu_riigieelarve_kontrolli_erikomisjoni.pptx",
+        "Volikiri_22.01.24.pdf",
+        "REKK_protokoll_22.01.24.asice"
+      ]
+    }
+  ],
+  "uuid": "bf56cd1b-e8c3-483b-8956-c8ee3bfb1542",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid bf56cd1b-e8c3-483b-8956-c8ee3bfb1542)",
+  "source": "https://api.riigikogu.ee/api/volumes/bf56cd1b-e8c3-483b-8956-c8ee3bfb1542",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-01-01&endDate=2024-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
