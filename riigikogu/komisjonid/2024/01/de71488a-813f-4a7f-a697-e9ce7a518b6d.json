@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Korruptsioonivastane erikomisjon",
+  "committee_uuid": "e4f2977a-e8c3-4fa0-8f3d-9df9acd6377f",
+  "title": "Komisjoni istung esmaspäev, 22.01.2024 kell 13.30",
+  "sitting_time": "2024-01-22T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "84b13177-6083-4f76-9a09-8950b9751f44"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine riigikontrolliga",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "aec8a63e-fe16-4621-a82a-a94da543f4d3"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "33965b9a-48cc-4c20-8490-852ca50e1102"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KVEK protokoll 21 (22.01.2024)",
+      "uuid": "39cbf509-b78c-4839-89a4-97c5d6352dc7",
+      "files": [
+        "KVEK_protokoll_21_(22.01.2024).asice",
+        "KVEK_protokoll_21_(22.01.2024)_asendusliikme_volikiri.pdf",
+        "KVEK_protokoll_21_(22.01.2024).pdf"
+      ]
+    }
+  ],
+  "uuid": "de71488a-813f-4a7f-a697-e9ce7a518b6d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid de71488a-813f-4a7f-a697-e9ce7a518b6d)",
+  "source": "https://api.riigikogu.ee/api/volumes/de71488a-813f-4a7f-a697-e9ce7a518b6d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-01-01&endDate=2024-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
