@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung esmaspäev, 22.01.2024 kell 11.15",
+  "sitting_time": "2024-01-22T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "369dfa30-8ef5-4b50-836f-4bcabc167dac"
+    },
+    {
+      "order": 2,
+      "title": "Juurdepääs rahvastikuregistri andmetele uuringute teostamiseks (järelevalve tulemuste tutvustamine)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "226067ec-874a-4bb3-a813-218fe9d04fa6"
+    },
+    {
+      "order": 3,
+      "title": "Kollektiivne pöördumine \"Seadustada elanike esile kutsutud erakorralised KOV valimised\" (1-6/23-176/1)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "43eec0ea-f971-4457-b0c5-722205aee80e"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fe8466fd-f9d7-4eac-bc01-c381f5128061"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "PÕSK protokoll",
+      "uuid": "c7b3628d-e6a4-44c9-b4d2-88c642d720e0",
+      "files": [
+        "PÕSK_protokoll.asice",
+        "PÕSK_protokoll_nr_37_(22.01.2024).pdf"
+      ]
+    }
+  ],
+  "uuid": "5b39207d-3115-4292-a1f3-257c4ecabe85",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 5b39207d-3115-4292-a1f3-257c4ecabe85)",
+  "source": "https://api.riigikogu.ee/api/volumes/5b39207d-3115-4292-a1f3-257c4ecabe85",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-01-01&endDate=2024-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
