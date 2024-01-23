@@ -1,0 +1,49 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung teisipäev, 23.01.2024 kell 15.00",
+  "sitting_time": "2024-01-23T15:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Euroopa Komisjoni Eesti esinduse ülevaade Euroopa poolaasta teemadest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e5da5d9f-9646-4f9b-8196-06e1e14e0820"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu otsuse „Riigikogu liikmest Eesti Panga Nõukogu liikme tagasikutsumine ja uue liikme nimetamine“ esitamise ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d1bd72ba-d59e-4fd3-a1d0-1f80c47020cf"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4c26b4f3-68bb-4250-a2ca-586e21a88739"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 23.01.2024",
+      "uuid": "57cd302c-a9f8-4b0f-b426-83cefb812a6f",
+      "files": [
+        "EPN_liikme_kinnitus_Lauri_Laats_22.01.2024.pdf",
+        "FR_Kesk_ettepanek_EPN_liikmeks_Lauri_Laats_22.01.2024.pdf",
+        "RAHK_protokoll_23.01.2024_(1).asice",
+        "Lisa_1_(Euroopa_Komisjoni_Eesti_esinduse_ülevaade).pdf",
+        "RAHK_protokoll_nr_54_23.01.2024.pdf"
+      ]
+    }
+  ],
+  "uuid": "6ed96a0c-27cd-4e03-b9eb-9d7498a4244b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 6ed96a0c-27cd-4e03-b9eb-9d7498a4244b)",
+  "source": "https://api.riigikogu.ee/api/volumes/6ed96a0c-27cd-4e03-b9eb-9d7498a4244b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-01-01&endDate=2024-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
