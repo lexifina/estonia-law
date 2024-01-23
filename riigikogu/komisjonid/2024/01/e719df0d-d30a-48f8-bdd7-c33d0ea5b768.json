@@ -1,0 +1,54 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung teisipäev, 23.01.2024 kell 14.00",
+  "sitting_time": "2024-01-23T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Arenguseire Keskuse 2023. aasta tegevusaruande tutvustus. Arenguseire 2024. aasta tegevuskava kooskõlastamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "535ac963-493d-4cb9-a77b-cd23a12e666d"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud lennundusseaduse ja tervishoiuteenuste korraldamise seaduse muutmise seaduse eelnõu (347 SE) teise lugemise ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "961c1f88-90f5-47bc-afc7-ed8dc1c6093f"
+    },
+    {
+      "order": 3,
+      "title": "Tuumaenergia töörühma lõpparuande tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4a4b66f6-72ad-401a-a3bf-728881b4f99b"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8049aefd-f38e-4b40-ad88-f2e800119d5a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAJK protokoll nr 43 23.01.2024",
+      "uuid": "d5dca35d-f3e8-4ff6-a4dd-7dbeae088149",
+      "files": [
+        "MAJK_protokoll_nr_43_23.01.2024.pdf",
+        "Lisa_1_ASK2023_2024_TeaDanilov.pdf",
+        "MAJK_protokoll_nr_43_23.01.2024.asice",
+        "Lisa_2_TET_RKMK23.01.2024.pdf"
+      ]
+    }
+  ],
+  "uuid": "e719df0d-d30a-48f8-bdd7-c33d0ea5b768",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e719df0d-d30a-48f8-bdd7-c33d0ea5b768)",
+  "source": "https://api.riigikogu.ee/api/volumes/e719df0d-d30a-48f8-bdd7-c33d0ea5b768",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-01-01&endDate=2024-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
