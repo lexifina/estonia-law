@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 23.01.2024 kell 14.00",
+  "sitting_time": "2024-01-23T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kavandatavad muudatused kohalike omavalitsuste rahastamismudelis",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "13bdf4d4-2a49-4a50-99f0-a7ea8d203553"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2df08b1c-dd4d-43bf-801d-78fb3cd450ff"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 23.01.2024",
+      "uuid": "b0131bd2-ce7c-474e-98c1-fa51506dca64",
+      "files": [
+        "MAEK_protokoll_23.01.2024.asice",
+        "041_REM_23.01.2024.pdf",
+        "041_MAEK_protokoll_23.01.2024.pdf"
+      ]
+    }
+  ],
+  "uuid": "5be1e3e0-a555-4125-b33c-749387a6380d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 5be1e3e0-a555-4125-b33c-749387a6380d)",
+  "source": "https://api.riigikogu.ee/api/volumes/5be1e3e0-a555-4125-b33c-749387a6380d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-01-01&endDate=2024-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
