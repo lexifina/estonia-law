@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung neljapäev, 25.01.2024, 2 minutit pärast komisjoni korralise istungi lõppu",
+  "sitting_time": "2024-01-25T14:45:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "98ab058c-a8ad-44ac-96ea-f8adc04797d0"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu otsus „Riigikogu liikmest Eesti Rahvusringhäälingu nõukogu  liikme nimetamine\" (372 OE) eelnõu esitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fb09c169-ea0c-42cb-b041-4942074afeb0"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 39",
+      "uuid": "202bb42e-7764-4cfa-92a5-546c3a285a84",
+      "files": [
+        "Protokoll_39__erak_(25.01.2024).pdf",
+        "Protokoll_39.asice"
+      ]
+    }
+  ],
+  "uuid": "c5e64f73-f5b4-46e3-b18f-79510ae18d33",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c5e64f73-f5b4-46e3-b18f-79510ae18d33)",
+  "source": "https://api.riigikogu.ee/api/volumes/c5e64f73-f5b4-46e3-b18f-79510ae18d33",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-01-01&endDate=2024-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
