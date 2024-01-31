@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung kolmapäev, 31.01.2024 kell 12.15",
+  "sitting_time": "2024-01-31T12:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 2.-3. veebruaril 2024 toimuval Euroopa Liidu välisministrite mitteametlikul kohtumisel (Gymnich)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "49810ac2-c379-4287-b5ae-8e1522e3ee4d"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7e3366e9-878b-4660-8889-b0fd5bef0d06"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 31.01.2024",
+      "uuid": "e47c9cb8-da87-4a56-a13f-4952f7377dd6",
+      "files": [
+        "VÄLK_protokoll_31.01.2024.asice",
+        "VÄLK_protokoll_31.01.2024.pdf"
+      ]
+    }
+  ],
+  "uuid": "3ccd9646-8c49-4546-b5e9-01616744dcd3",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3ccd9646-8c49-4546-b5e9-01616744dcd3)",
+  "source": "https://api.riigikogu.ee/api/volumes/3ccd9646-8c49-4546-b5e9-01616744dcd3",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-01-01&endDate=2024-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
