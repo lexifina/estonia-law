@@ -1,0 +1,48 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung esmaspäev, 5.02.2024 kell 11.15",
+  "sitting_time": "2024-02-05T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c8f8c24b-ea66-4cca-af09-6d227c2fa7e7"
+    },
+    {
+      "order": 2,
+      "title": "Apteegireformi järelmite analüüs",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "18e02168-0ec9-491c-a0b6-fd19a889ba75"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bc47fd66-8e9c-4ca2-b6f8-dba766b2d310"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "SOTK protokoll 5.02.2024",
+      "uuid": "a81bbfb3-5fbf-4e9c-b6d4-9d2e9a30e088",
+      "files": [
+        "SOTK_protokoll_nr_43_(05.02.2024)_.pdf",
+        "Lisa_1_(Konkurentsiameti_slaidid).pdf",
+        "Lisa_2_(EAL_slaidid).pdf",
+        "SOTK_protokoll_5.02.2024.asice"
+      ]
+    }
+  ],
+  "uuid": "2223b4aa-1cf7-485a-b703-9c7dd5d17b30",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2223b4aa-1cf7-485a-b703-9c7dd5d17b30)",
+  "source": "https://api.riigikogu.ee/api/volumes/2223b4aa-1cf7-485a-b703-9c7dd5d17b30",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-02-01&endDate=2024-02-29",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
