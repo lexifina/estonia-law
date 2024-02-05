@@ -1,0 +1,49 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 5.02.2024 kell 11.10",
+  "sitting_time": "2024-02-05T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7517d0e8-a922-4bd0-b80b-114b7ce69b42"
+    },
+    {
+      "order": 2,
+      "title": "Kutselise kalapüügi korraldus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "eaf6ad54-8e70-49d1-a4e0-ba9ce214de69"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ff5000c1-74f4-48f2-978b-191e6749ba58"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 05.02.2024",
+      "uuid": "e39c552b-1d07-4ad3-a7c2-52329a088dec",
+      "files": [
+        "MAEK_protokoll_05.02.2024.asice",
+        "042_MAEK_protokoll_05.02.2024.pdf",
+        "042_protokolli_lisa_3_EE-RU_Peipsi_koostöö.pdf",
+        "042_protokolli_lisa_2_Järelevalvest_Peipsi_järvel_2023.pdf",
+        "042_protokolli_lisa_1_Peipsi_püügistatistika.pdf"
+      ]
+    }
+  ],
+  "uuid": "efbe3238-41fa-4db2-9665-5d9800caa059",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid efbe3238-41fa-4db2-9665-5d9800caa059)",
+  "source": "https://api.riigikogu.ee/api/volumes/efbe3238-41fa-4db2-9665-5d9800caa059",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-02-01&endDate=2024-02-29",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
