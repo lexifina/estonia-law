@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 6.02.2024 kell 14.00",
+  "sitting_time": "2024-02-06T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade Riigi Laboriuuringute ja Riskihindamise Keskuse (LABRIS) tegevusest ja perspektiividest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d3480a54-e842-4c7a-8e3e-606f8b8f31ed"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "880ec44d-5a14-432f-ab5b-a674835c935b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 06.02.2024",
+      "uuid": "796493f2-90f3-4b11-9db1-5a2229288eb7",
+      "files": [
+        "MAEK_protokoll_06.02.2024.asice",
+        "043_MAEK_protokoll_06.02.2024.pdf",
+        "043_protokolli_lisa_LABRIS_tutvustus.pdf"
+      ]
+    }
+  ],
+  "uuid": "b95d0494-534e-4a28-9ec8-bfd140ec2bbb",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b95d0494-534e-4a28-9ec8-bfd140ec2bbb)",
+  "source": "https://api.riigikogu.ee/api/volumes/b95d0494-534e-4a28-9ec8-bfd140ec2bbb",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-02-01&endDate=2024-02-29",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
