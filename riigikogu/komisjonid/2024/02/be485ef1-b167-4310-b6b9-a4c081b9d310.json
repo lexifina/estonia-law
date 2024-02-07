@@ -1,0 +1,42 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung kolmapäev, 7.02.2024 kell 08.30",
+  "sitting_time": "2024-02-07T08:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikontrolli kontrolliaruande „Riigi tegevus tuuleenergia edendamisel“ arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "989597db-8af4-4259-95bc-7a315bfc7130"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fb562b32-9d37-4dfc-b795-091657129b8e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 7.02.24",
+      "uuid": "e8c15a86-e09b-4ad2-940e-b342728bd5b6",
+      "files": [
+        "REKK_protokoll_7.02.24.asice",
+        "Riigieelarve_kontrolli_erikomisjon_07_02_2024.pptx",
+        "Tuuleenergiaaruande_ettekanne_REKK_07.02.2024_(002).pptx",
+        "Protokoll_nr_39_7.02.24.pdf"
+      ]
+    }
+  ],
+  "uuid": "be485ef1-b167-4310-b6b9-a4c081b9d310",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid be485ef1-b167-4310-b6b9-a4c081b9d310)",
+  "source": "https://api.riigikogu.ee/api/volumes/be485ef1-b167-4310-b6b9-a4c081b9d310",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-02-01&endDate=2024-02-29",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
