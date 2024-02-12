@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung esmaspäev, 12.02.2024 kell 11.00",
+  "sitting_time": "2024-02-12T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1f01b576-85d0-4c96-a1f3-b2a11c7e276e"
+    },
+    {
+      "order": 2,
+      "title": "Seisukoha andmine Kaitseväe juhataja kandidaadi kolonel Andrus Merilo ametisse nimetamise kohta",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4b440032-9d2b-4f37-8d6c-9b189c907512"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8efc34eb-a79c-4a41-a32a-ccc2d0eda946"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Riigikaitsekomisjoni 12.02.2024 istungi protokoll",
+      "uuid": "1c104a74-a690-4529-8260-0eeb87bb97ea",
+      "files": [
+        "Riigikaitsekomisjoni_12.02.2024_istungi_protokoll.asice",
+        "2024-02-12_protokoll_50.pdf"
+      ]
+    }
+  ],
+  "uuid": "9618d0dd-fe3f-4f98-b201-188833051526",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9618d0dd-fe3f-4f98-b201-188833051526)",
+  "source": "https://api.riigikogu.ee/api/volumes/9618d0dd-fe3f-4f98-b201-188833051526",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-02-01&endDate=2024-02-29",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
