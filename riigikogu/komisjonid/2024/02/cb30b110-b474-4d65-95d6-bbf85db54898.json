@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 12.02.2024 kell 13.15",
+  "sitting_time": "2024-02-12T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5ce17421-03bc-4a76-ba0d-e68ffde81afa"
+    },
+    {
+      "order": 2,
+      "title": "Rahanduspoliitika ülevaade",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bc568148-72d2-494d-898c-8c26a4702cf7"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "eb575c60-c8a8-4ae8-92d5-54a60c3cdccc"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 12.02.24",
+      "uuid": "67ce5e23-67b9-4ff9-99eb-06a57948ed4d",
+      "files": [
+        "REKK_protokoll_12.02.24.asice",
+        "Riigirahanduse_olukord_-_REKK_12.02.2024.pdf",
+        "Protokoll_nr_40_12.02.24.pdf"
+      ]
+    }
+  ],
+  "uuid": "cb30b110-b474-4d65-95d6-bbf85db54898",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid cb30b110-b474-4d65-95d6-bbf85db54898)",
+  "source": "https://api.riigikogu.ee/api/volumes/cb30b110-b474-4d65-95d6-bbf85db54898",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-02-01&endDate=2024-02-29",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
