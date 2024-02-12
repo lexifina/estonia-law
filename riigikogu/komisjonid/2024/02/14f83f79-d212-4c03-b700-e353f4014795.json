@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Korruptsioonivastane erikomisjon",
+  "committee_uuid": "e4f2977a-e8c3-4fa0-8f3d-9df9acd6377f",
+  "title": "Komisjoni istung esmaspäev, 12.02.2024 kell 14.30",
+  "sitting_time": "2024-02-12T14:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dbd5816a-a7d8-4b77-8fc3-f4c785c9a989"
+    },
+    {
+      "order": 2,
+      "title": "Euroopa Komisjoni õigusriigi raporti küsimustiku arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ae3a76d8-5ae6-452e-8a60-2cd45c5ae796"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4a48f89c-9dbe-405a-bd76-2f49ee86f310"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KVEK protokoll 23 (12.02.2024)",
+      "uuid": "e895a075-3c9c-437c-9a03-1077188ae34e",
+      "files": [
+        "KVEK_protokoll_23_(12.02.2024).asice",
+        "KVEK_protokoll_23_(12.02.2024).pdf"
+      ]
+    }
+  ],
+  "uuid": "14f83f79-d212-4c03-b700-e353f4014795",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 14f83f79-d212-4c03-b700-e353f4014795)",
+  "source": "https://api.riigikogu.ee/api/volumes/14f83f79-d212-4c03-b700-e353f4014795",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-02-01&endDate=2024-02-29",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
