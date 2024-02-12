@@ -1,0 +1,48 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung esmaspäev, 12.02.2024 kell 11.15",
+  "sitting_time": "2024-02-12T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "39dac64a-ddd6-4e52-91d0-10db16667052"
+    },
+    {
+      "order": 2,
+      "title": "Riigikaitsekomisjonile arvamuse andmine kaitseliidu seaduse ja sellega seonduvalt teiste seaduste muutmise seaduse eelnõu (335 SE) esitatud muudatusettepanekute kohta",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a29928a0-4de5-44ed-9974-4fc56092c526"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7f9a8bac-5de6-4b10-96dd-f4f212594a4c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 12.02.2024",
+      "uuid": "f0cacf95-69db-4435-9d51-8c05749c97a4",
+      "files": [
+        "RAHK_protokoll_12.02.2024.asice",
+        "RAHK_protokoll_57_12_02_2024.pdf",
+        "RAHK_arvamus_335_SE_kohta_.pdf",
+        "Asendusliikme_volikiri_J.Ligi-U.Tiidus_12.02.2024.pdf"
+      ]
+    }
+  ],
+  "uuid": "32389e61-b932-418b-80d1-691538215ee3",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 32389e61-b932-418b-80d1-691538215ee3)",
+  "source": "https://api.riigikogu.ee/api/volumes/32389e61-b932-418b-80d1-691538215ee3",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-02-01&endDate=2024-02-29",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
