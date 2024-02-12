@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung esmaspäev, 12.02.2024 kell 13.30",
+  "sitting_time": "2024-02-12T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1411ed5c-e413-409e-b5af-ee5563f218fe"
+    },
+    {
+      "order": 2,
+      "title": "Kollektiivse pöördumise \"EI WHO sunnimeetmete rakendamisele!\" menetlemise kohta otsuse tegemine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8a72d256-1b71-45cc-884f-9aa0046a7ba3"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5c830a07-6417-4cc9-907d-324255ab04a7"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ELAK protokoll 12.02.2024",
+      "uuid": "523a0367-fce2-4968-b59f-2340d75f9d11",
+      "files": [
+        "ELAK_protokoll_12.02.2024.asice",
+        "ELAK_protokoll_12.02.2024.pdf"
+      ]
+    }
+  ],
+  "uuid": "ab451150-9338-4a37-8ba5-86998b46fe45",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ab451150-9338-4a37-8ba5-86998b46fe45)",
+  "source": "https://api.riigikogu.ee/api/volumes/ab451150-9338-4a37-8ba5-86998b46fe45",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-02-01&endDate=2024-02-29",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
