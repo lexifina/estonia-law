@@ -1,0 +1,48 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 12.02.2024 kell 11.10",
+  "sitting_time": "2024-02-12T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9f5493e0-fbbb-4cc6-94f5-b689acad2718"
+    },
+    {
+      "order": 2,
+      "title": "Kollektiivne pöördumine \"Loom ei ole asi! Tema koht ei ole poeletil.\"",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cb064e27-a01a-4bde-93bf-51ccfd5a9a69"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "62246dd5-d213-43af-bff3-da97e3278df6"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 12.02.2024",
+      "uuid": "82f2105c-c964-4cf5-ae08-e131051fd26b",
+      "files": [
+        "044_MAEK_protokoll_12.02.24.pdf",
+        "044_Lemmikloomade_kaubandus_REM_12.02.2024.pdf",
+        "044_Loomus_Loomade_müük_kauplustes.pdf",
+        "MAEK_protokoll_12.02.2024.asice"
+      ]
+    }
+  ],
+  "uuid": "f8df5a2a-074c-41df-9919-8f2a9e04b28b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f8df5a2a-074c-41df-9919-8f2a9e04b28b)",
+  "source": "https://api.riigikogu.ee/api/volumes/f8df5a2a-074c-41df-9919-8f2a9e04b28b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-02-01&endDate=2024-02-29",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
