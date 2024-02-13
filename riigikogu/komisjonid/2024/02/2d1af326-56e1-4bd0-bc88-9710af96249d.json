@@ -1,0 +1,43 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 13.02.2024 kell 14.00",
+  "sitting_time": "2024-02-13T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Põllumajandus- ja Toiduameti järelevalve põllumajanduses ja toidutootmises",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b1f93ba2-0b3d-43fe-9600-5dec2ef833ab"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f0acf1eb-835b-40fa-ac3e-2ed691129399"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 13.02.2024",
+      "uuid": "1385b0f9-3f4c-469a-8fcc-812dc601da39",
+      "files": [
+        "045_protokolli_lisa_1_PTA_Lindude_puuris_pidamine.pdf",
+        "045_MAEK_protokoll_13.02.24.pdf",
+        "MAEK_protokoll_13.02.2024.asice",
+        "Asendusliige_13.02.2024.pdf",
+        "045_protokolli_lisa_2_PTA_Loomapoed.pdf"
+      ]
+    }
+  ],
+  "uuid": "2d1af326-56e1-4bd0-bc88-9710af96249d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2d1af326-56e1-4bd0-bc88-9710af96249d)",
+  "source": "https://api.riigikogu.ee/api/volumes/2d1af326-56e1-4bd0-bc88-9710af96249d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-02-01&endDate=2024-02-29",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
