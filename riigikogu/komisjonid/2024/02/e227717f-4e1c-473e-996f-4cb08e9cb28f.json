@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Korruptsioonivastane erikomisjon",
+  "committee_uuid": "e4f2977a-e8c3-4fa0-8f3d-9df9acd6377f",
+  "title": "Komisjoni väljasõiduistung kolmapäev, 14.02.2024",
+  "sitting_time": "2024-02-14T10:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Keskkriminaalpolitsei juhiga ja Keskkriminaalpolitsei korruptsioonikuritegude büroo juhiga",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e90dfa5d-0c8e-4ec2-af49-cfe140ab5a04"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5339c5ef-e69a-4815-b543-d8f1e759db6d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KVEK protokoll 24 (14.02.2024)",
+      "uuid": "eb283e5b-11bf-43d5-b6fd-f89ccbb9a749",
+      "files": [
+        "KVEK_protokoll_24_(14.02.2024).pdf",
+        "Asendusliikme_volikiri_14.02.2024.pdf",
+        "KVEK_protokoll_24_(14.02.2024).asice"
+      ]
+    }
+  ],
+  "uuid": "e227717f-4e1c-473e-996f-4cb08e9cb28f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e227717f-4e1c-473e-996f-4cb08e9cb28f)",
+  "source": "https://api.riigikogu.ee/api/volumes/e227717f-4e1c-473e-996f-4cb08e9cb28f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-02-01&endDate=2024-02-29",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
