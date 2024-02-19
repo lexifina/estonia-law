@@ -1,0 +1,54 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung esmaspäev, 19.02.2024 kell 11.10",
+  "sitting_time": "2024-02-19T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f862a287-b5c4-45aa-a32e-2600937ba8b6"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli auditiaruande \"Töövõime vähenemise ennetamine\" tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ed0067dd-77f3-492f-af2d-10926689b31c"
+    },
+    {
+      "order": 3,
+      "title": "Reklaamiseaduse muutmise seaduse eelnõu väljatöötamiskavatsuse arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c3d13a04-b6f7-4049-acfc-88933854538c"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "41f8e8d7-9edf-42cb-a2c1-1850cd5cb0d8"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "SOTK protokoll 19.02.2024",
+      "uuid": "f5f460d4-8c69-495a-afd6-3f15232c86c6",
+      "files": [
+        "Lisa_2_(MKM_slaidid).pdf",
+        "Lisa_1_(Riigikontrolli_slaidid).pdf",
+        "SOTK_protokoll_nr.asice",
+        "SOTK_protokoll_nr_47_(19.02.2024).pdf"
+      ]
+    }
+  ],
+  "uuid": "85a7e105-d4f4-45c6-9118-a503bde0851a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 85a7e105-d4f4-45c6-9118-a503bde0851a)",
+  "source": "https://api.riigikogu.ee/api/volumes/85a7e105-d4f4-45c6-9118-a503bde0851a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-02-01&endDate=2024-02-29",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
