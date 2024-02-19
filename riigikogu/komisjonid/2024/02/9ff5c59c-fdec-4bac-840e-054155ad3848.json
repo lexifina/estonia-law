@@ -1,0 +1,57 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung esmaspäev, 19.02.2024 kell 11.10",
+  "sitting_time": "2024-02-19T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a73a1a72-ee29-4f9e-b040-020f1414bdd9"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu otsus „Riigimetsa Majandamise Keskuse nõukogu liikme tagasikutsumine ja uue liikme nimetamine\" (386 OE) eelnõu esitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e02f9f3b-c0ab-43f2-853b-8f3285f1ab89"
+    },
+    {
+      "order": 3,
+      "title": "Mootorsõidukimaksu seaduse eelnõu (364 SE) tutvustamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6cb227c9-2e94-4b84-a441-a833ed0a78fe"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e28fc3ab-24c4-495d-a500-6195de192baa"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK protokoll 19.02.2024",
+      "uuid": "80a7c403-2ca7-46f9-96b4-419fff76dc24",
+      "files": [
+        "keskkonnakomisjonile_RMK_nõukogu_(07.02.2024).docx",
+        "RMK_nõukogu_uue_liikme_ettepanek.asice",
+        "KEKK_protokoll_19.02.2024.asice",
+        "KEKK_protokoll_19.02.2024.pdf",
+        "Lisa_3__sõidukite_heitgaasid_ja_nende_teke.pdf",
+        "Lisa_2__sõidukite_olelusring_ja_keskkonnamõju.pdf",
+        "Lisa_1__mootorsõidukimaks.pdf"
+      ]
+    }
+  ],
+  "uuid": "9ff5c59c-fdec-4bac-840e-054155ad3848",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9ff5c59c-fdec-4bac-840e-054155ad3848)",
+  "source": "https://api.riigikogu.ee/api/volumes/9ff5c59c-fdec-4bac-840e-054155ad3848",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-02-01&endDate=2024-02-29",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
