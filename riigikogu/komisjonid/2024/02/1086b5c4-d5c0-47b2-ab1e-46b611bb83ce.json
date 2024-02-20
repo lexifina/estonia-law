@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung teisipäev, 20.02.2024 kell 14.00",
+  "sitting_time": "2024-02-20T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Kaubandus-Tööstuskoja ja Tööandjate Keskliidu juhtidega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a44e0a9f-ab34-429b-897d-8faaebe5f221"
+    },
+    {
+      "order": 2,
+      "title": "Nordica erikontrolli tulemustest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1148da1c-0c3e-4a14-b16f-04c2923f3217"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bbea27a2-b70e-4263-a58c-8fdae8fefb07"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAJK protokoll nr 49 20.02.2024",
+      "uuid": "759e7865-a5b0-4de5-9cf0-7a949f4ae6df",
+      "files": [
+        "MAJK_protokoll_nr_49_20.02.2024.asice",
+        "MAJK_protokoll_nr_49_20.02.2024.pdf"
+      ]
+    }
+  ],
+  "uuid": "1086b5c4-d5c0-47b2-ab1e-46b611bb83ce",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 1086b5c4-d5c0-47b2-ab1e-46b611bb83ce)",
+  "source": "https://api.riigikogu.ee/api/volumes/1086b5c4-d5c0-47b2-ab1e-46b611bb83ce",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-02-01&endDate=2024-02-29",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
