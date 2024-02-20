@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung teisipäev, 20.02.2024 kell 14.00",
+  "sitting_time": "2024-02-20T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikogu korruptsioonivastase erikomisjoni kiri platvormist lobikohtumiste registreerimiseks ja avalikustamiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0100f529-1ae7-4073-adbb-456ca8632224"
+    },
+    {
+      "order": 2,
+      "title": "Riigikaitsekomisjoni esimehe Kalev Stoicescu lähetamine Brüsselisse Riigikogu liikmete ja arvamusliidrite visiidile 25.-26.03.2024",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "904e005e-6cf3-40b1-af0f-660ed6269044"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Riigikaitsekomisjoni 20.02.2024 istungi protokoll",
+      "uuid": "3fa74ddb-5b4c-4ee4-8d5b-400a02923aed",
+      "files": [
+        "Riigikaitsekomisjoni_20.02.2024_istungi_protokoll.asice",
+        "2024-02-20_protokoll_54.pdf"
+      ]
+    }
+  ],
+  "uuid": "41d99df7-638e-45d4-9a05-7e4efd2678e3",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 41d99df7-638e-45d4-9a05-7e4efd2678e3)",
+  "source": "https://api.riigikogu.ee/api/volumes/41d99df7-638e-45d4-9a05-7e4efd2678e3",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-02-01&endDate=2024-02-29",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
