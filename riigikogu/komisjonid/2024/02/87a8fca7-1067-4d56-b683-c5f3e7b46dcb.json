@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung teisipäev, 20.02.2024 kell 14.00",
+  "sitting_time": "2024-02-20T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigieelarve seaduse muutmise seaduse eelnõu algatamise ettevalmistamine. Osalevad põhiseaduslike institutsioonide esindajad",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0570b075-faf1-4aca-9326-93534bbc267e"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "922b5745-6a73-496a-960e-c6650bbe7444"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 20.02.2024",
+      "uuid": "a65b2f99-6205-476a-a5a2-ef0564213b09",
+      "files": [
+        "RAHK_protokoll_20.02.2024.asice",
+        "RAHK_protokoll_nr_59_20.02.2024.pdf"
+      ]
+    }
+  ],
+  "uuid": "87a8fca7-1067-4d56-b683-c5f3e7b46dcb",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 87a8fca7-1067-4d56-b683-c5f3e7b46dcb)",
+  "source": "https://api.riigikogu.ee/api/volumes/87a8fca7-1067-4d56-b683-c5f3e7b46dcb",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-02-01&endDate=2024-02-29",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
