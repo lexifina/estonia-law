@@ -1,0 +1,42 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 20.02.2024 kell 14.00",
+  "sitting_time": "2024-02-20T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kollektiivne pöördumine \"Loom ei ole asi! Tema koht ei ole poeletil.\" Kohtumine lemmikloomade ja -lindude jaemüügiga tegelevate ettevõtete esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6735fc8d-10bc-45d1-95fc-93ddf603522d"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "733d7585-084a-4e80-afa0-890baa699c86"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 20.02.2024",
+      "uuid": "74ef9413-5e43-44a6-9483-9929b053dc48",
+      "files": [
+        "MAEK_protokoll_20.02.2024.asice",
+        "047_MAEK_protokoll_20.02.2024.pdf",
+        "047_protokolli_lisa_2_DEPO_tagasiside_15.02.24.pdf",
+        "047_protokolli_lisa_1_Betta_zookauplused.pdf"
+      ]
+    }
+  ],
+  "uuid": "8bc305fe-dfe1-4700-adc6-81756efe437b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8bc305fe-dfe1-4700-adc6-81756efe437b)",
+  "source": "https://api.riigikogu.ee/api/volumes/8bc305fe-dfe1-4700-adc6-81756efe437b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-02-01&endDate=2024-02-29",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
