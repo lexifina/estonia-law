@@ -1,0 +1,48 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung teisipäev, 20.02.2024 kell 14.00",
+  "sitting_time": "2024-02-20T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "759d4b3c-cad2-41e5-93b8-b2b913747def"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad Euroopa Liidu välisasjade nõukogu kaubandusministrite 25.-29. veebruari 2024. a kohtumistel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4e1abe6c-a5b8-47fd-8366-2fcd4318f739"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a0af690e-a252-41c6-b18c-f687fc503ed6"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 20.02.2024",
+      "uuid": "80900dfb-c633-4653-bcbe-ec4b3956ecdd",
+      "files": [
+        "VÄLK_protokoll_20.02.2024.asice",
+        "VÄLK_protokoll_20.02.2024.pdf",
+        "Asendusliige_E.Odinets_20022024.docx",
+        "Asendusliige_E.Odinets_20022024.asice"
+      ]
+    }
+  ],
+  "uuid": "06403211-305c-44b6-9b71-2a15a7d3944b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 06403211-305c-44b6-9b71-2a15a7d3944b)",
+  "source": "https://api.riigikogu.ee/api/volumes/06403211-305c-44b6-9b71-2a15a7d3944b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-02-01&endDate=2024-02-29",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
