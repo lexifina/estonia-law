@@ -1,0 +1,42 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung teisipäev, 20.02.2024 kell 14.00",
+  "sitting_time": "2024-02-20T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Arutelu Rahvusooperi praeguse hoone juurdeehitusest Tallinna linna esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7362144c-5747-4622-8b30-c762d9b38593"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "19ec0ea6-b53c-45f6-885b-e10efd7e423a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KULK protokoll 44",
+      "uuid": "ddb63892-4bd9-46bb-8f67-41a56adde69d",
+      "files": [
+        "KULK_protokoll_44.asice",
+        "Protokoll_44_(20.02.2024).pdf",
+        "Mart_Helme_20.02.24.pdf",
+        "Tanel_Tein_20.02.24.pdf"
+      ]
+    }
+  ],
+  "uuid": "384ebbbe-8888-4db9-9238-2446e0f9e647",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 384ebbbe-8888-4db9-9238-2446e0f9e647)",
+  "source": "https://api.riigikogu.ee/api/volumes/384ebbbe-8888-4db9-9238-2446e0f9e647",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-02-01&endDate=2024-02-29",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
