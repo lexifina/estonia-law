@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung kolmapäev, 21.02.2024 kell 08.30",
+  "sitting_time": "2024-02-21T08:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikontrolli kontrolliaruande „Liiklusohutus maanteedel ja raudteel” arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f4ccaa3f-5eb6-43b1-ad79-a3dda03f3024"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a1a6fd90-f363-4f02-b6c9-f08297cbf62d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 21.02.24",
+      "uuid": "44d403f9-4722-4342-9936-e1575d1be492",
+      "files": [
+        "REKK_protokoll_21.02.24.asice",
+        "REKK_liiklusohutuse_audit_ettekanne_21022024.pptx",
+        "Protokoll_nr_43_21.02.24.pdf"
+      ]
+    }
+  ],
+  "uuid": "6084a155-a431-4ed0-945a-1ae100db3cd9",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 6084a155-a431-4ed0-945a-1ae100db3cd9)",
+  "source": "https://api.riigikogu.ee/api/volumes/6084a155-a431-4ed0-945a-1ae100db3cd9",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-02-01&endDate=2024-02-29",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
