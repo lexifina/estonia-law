@@ -1,0 +1,54 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung esmaspäev, 4.03.2024 kell 11.10",
+  "sitting_time": "2024-03-04T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e3d5fbc7-1ba5-463a-93f3-a7ccb03ff918"
+    },
+    {
+      "order": 2,
+      "title": "Eesti 2030. aasta taastuvelektri tootmise eesmärgi saavutamisest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "63d77735-ebdc-45c9-afa2-91b1f694e3d9"
+    },
+    {
+      "order": 3,
+      "title": "Riigikontrolli auditiaruande „Liiklusohutus maanteedel ja raudteel“ tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "de58498a-4db1-4247-81e9-7b8592600ca7"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ee0726f2-5ebc-4468-9a85-0a5b130afb7c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAJK protokoll nr 50 04.03.2024",
+      "uuid": "78243c1c-46d6-45b1-9c15-adcfd8a0e053",
+      "files": [
+        "MAJK_protokoll_nr_50_04.03.2024.pdf",
+        "2024.03.03_TE100_4-4_maj.kom.pdf",
+        "Ettekanne_majanduskomisjonis_04.03.2024_LOPP_SJ.pdf",
+        "MAJK_protokoll_nr_50_04.03.2024.asice"
+      ]
+    }
+  ],
+  "uuid": "1e4c674f-5261-434d-85cb-fe43dbbf6797",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 1e4c674f-5261-434d-85cb-fe43dbbf6797)",
+  "source": "https://api.riigikogu.ee/api/volumes/1e4c674f-5261-434d-85cb-fe43dbbf6797",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-03-01&endDate=2024-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
