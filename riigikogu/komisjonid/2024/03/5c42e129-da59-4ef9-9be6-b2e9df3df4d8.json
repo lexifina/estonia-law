@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung esmaspäev, 4.03.2024 kell 12.00",
+  "sitting_time": "2024-03-04T12:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "632483a1-249e-4ca0-a8b7-1953bbcaad49"
+    },
+    {
+      "order": 2,
+      "title": "Keskkonnakomisjoni algatatud atmosfääriõhu kaitse seaduse muutmise seaduse eelnõu (393 SE) esimese lugemise ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d1577c0c-3134-4eca-b475-8ef183ebda66"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "11b64a3b-daa2-40ca-a49b-9d45f749e55a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK protokoll 04.03.2024",
+      "uuid": "3730da9b-7283-4862-9f6a-96869c062b45",
+      "files": [
+        "KEKK_protokoll_04.03.2024.asice",
+        "KEKK_protokoll_04.03.2024.pdf"
+      ]
+    }
+  ],
+  "uuid": "5c42e129-da59-4ef9-9be6-b2e9df3df4d8",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 5c42e129-da59-4ef9-9be6-b2e9df3df4d8)",
+  "source": "https://api.riigikogu.ee/api/volumes/5c42e129-da59-4ef9-9be6-b2e9df3df4d8",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-03-01&endDate=2024-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
