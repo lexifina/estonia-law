@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 4.03.2024 kell 11.10",
+  "sitting_time": "2024-03-04T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "59d7342b-f054-44a4-b08b-4c7ac73ef60a"
+    },
+    {
+      "order": 2,
+      "title": "Konkurentsiameti toiduainehindade uuringu tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8f761995-2b22-49a3-beb3-b82d5102d147"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e6eb50a2-409e-4a3d-afe1-ae49e7024775"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 04.03.24",
+      "uuid": "fbb46d62-d075-4668-8e03-ba4f0b6c2fe5",
+      "files": [
+        "MAEK_protokoll_04.03.24.asice",
+        "048_MAEK_protokoll_04.03.2024.pdf",
+        "048_protokolli_lisa_Konkurentsiamet_toiduhindade_analüüs.pdf"
+      ]
+    }
+  ],
+  "uuid": "2727a3bf-6c88-42b6-ba27-4f166b108dc4",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2727a3bf-6c88-42b6-ba27-4f166b108dc4)",
+  "source": "https://api.riigikogu.ee/api/volumes/2727a3bf-6c88-42b6-ba27-4f166b108dc4",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-03-01&endDate=2024-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
