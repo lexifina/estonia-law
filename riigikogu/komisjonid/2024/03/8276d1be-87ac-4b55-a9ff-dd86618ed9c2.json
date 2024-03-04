@@ -1,0 +1,49 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 4.03.2024 kell 13.15",
+  "sitting_time": "2024-03-04T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "60193e31-faae-4a1a-a46d-a5abcf28fd10"
+    },
+    {
+      "order": 2,
+      "title": "Tuuleparkide toetamise kavast",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "875ba72c-4cfc-45d6-8869-9c2cee245186"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "076fd105-0195-467d-8a9f-3eb3d01be2c9"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 4.03.24",
+      "uuid": "30cf8a6a-29a3-49b7-9ee4-a8774e28ed3f",
+      "files": [
+        "REKK_protokoll_4.03.24.asice",
+        "Protokoll_nr_44_04.03.24.pdf",
+        "2024.03.03_TE100_4-4_RK2.pptx",
+        "2023_08_14_SWE_meretuulepargi_KMHA_FINAL.pdf",
+        "Riigi_eelarvekontroll_4.03.2024.pptx"
+      ]
+    }
+  ],
+  "uuid": "8276d1be-87ac-4b55-a9ff-dd86618ed9c2",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8276d1be-87ac-4b55-a9ff-dd86618ed9c2)",
+  "source": "https://api.riigikogu.ee/api/volumes/8276d1be-87ac-4b55-a9ff-dd86618ed9c2",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-03-01&endDate=2024-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
