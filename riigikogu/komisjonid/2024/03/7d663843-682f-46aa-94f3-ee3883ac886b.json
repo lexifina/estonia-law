@@ -1,0 +1,48 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung teisipäev, 5.03.2024 kell 14.00",
+  "sitting_time": "2024-03-05T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade reklaamiseaduse muutmise seaduse eelnõu väljatöötamiskavatsusest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ff51793d-99c4-4977-acc3-a54ad0f17208"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade Eesti-Läti neljanda elektriühenduse riigi eriplaneeringu ja keskkonnamõju strateegilise hindamise algatamisest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1aa17ce7-3822-470e-a166-1565eb58b3ca"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "35c78092-9fd3-45f4-9aa8-efc6e2398d0a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAJK protokoll nr 51 05.03.2024",
+      "uuid": "35fb90a5-f8af-46f8-9ee2-ea5e4b675b2e",
+      "files": [
+        "MAJK_protokoll_nr_51_05.03.2024.asice",
+        "Lisa_1_Reklaamiseaduse_VTK-st_majanduskomisjonis_05.03.2024.pdf",
+        "MAJK_protokoll_nr_51_05.03.2024.pdf",
+        "Lisa_2_20240305_REPalagatamine_ettekanne_j.pdf"
+      ]
+    }
+  ],
+  "uuid": "7d663843-682f-46aa-94f3-ee3883ac886b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7d663843-682f-46aa-94f3-ee3883ac886b)",
+  "source": "https://api.riigikogu.ee/api/volumes/7d663843-682f-46aa-94f3-ee3883ac886b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-03-01&endDate=2024-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
