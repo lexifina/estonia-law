@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung teisipäev, 5.03.2024 kell 14.00",
+  "sitting_time": "2024-03-05T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Arvamuse andmine rahanduskomisjonile mootorsõidukimaksu seaduse eelnõu (364 SE) kohta",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "205eca5c-19bf-4e8a-876a-6393fa15c7ba"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "468224c0-6a10-44dc-99c1-04564e2019b9"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK protokoll 05.03.2024",
+      "uuid": "37f2c093-5192-40d2-b952-44fb217426bf",
+      "files": [
+        "KEKK_protokoll_05.03.2024.pdf",
+        "KEKK_protokoll_05.03.2024.asice"
+      ]
+    }
+  ],
+  "uuid": "ea72a1c3-7e97-4888-9920-ab499c965bf1",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ea72a1c3-7e97-4888-9920-ab499c965bf1)",
+  "source": "https://api.riigikogu.ee/api/volumes/ea72a1c3-7e97-4888-9920-ab499c965bf1",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-03-01&endDate=2024-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
