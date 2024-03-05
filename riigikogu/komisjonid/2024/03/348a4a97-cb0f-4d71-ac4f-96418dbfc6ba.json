@@ -1,0 +1,42 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 5.03.2024 kell 14.00",
+  "sitting_time": "2024-03-05T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade tsiviilkriisi ja riigikaitse seaduse eelnõu toidujulgeolekut käsitlevast osast",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b5865195-1a36-4350-b601-b14cf7b67dd9"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5a22fc08-6f55-4c56-afa5-67a3cba7aa93"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 05.03.2024",
+      "uuid": "5202e801-84bd-4712-a6bb-4fabf61d4cef",
+      "files": [
+        "MAEK_protokoll_05.03.2024.asice",
+        "049_MAEK_protokoll_05.03.2024.pdf",
+        "049_protokolli_lisa._Toidu_varustuskindlus.pdf",
+        "Asendusliige_Kokk_Aller_05.03.24.pdf"
+      ]
+    }
+  ],
+  "uuid": "348a4a97-cb0f-4d71-ac4f-96418dbfc6ba",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 348a4a97-cb0f-4d71-ac4f-96418dbfc6ba)",
+  "source": "https://api.riigikogu.ee/api/volumes/348a4a97-cb0f-4d71-ac4f-96418dbfc6ba",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-03-01&endDate=2024-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
