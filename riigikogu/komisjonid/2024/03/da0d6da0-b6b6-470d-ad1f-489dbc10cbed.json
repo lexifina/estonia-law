@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Korruptsioonivastane erikomisjon",
+  "committee_uuid": "e4f2977a-e8c3-4fa0-8f3d-9df9acd6377f",
+  "title": "Komisjoni istung esmaspäev, 11.03.2024 kell 14.00",
+  "sitting_time": "2024-03-11T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fdec1832-0c27-43e3-8813-ee0244b61ac5"
+    },
+    {
+      "order": 2,
+      "title": "Komisjonile tulnud pöördumistele vastamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a82bf2bc-1deb-4aad-8b73-6a4290ec2164"
+    },
+    {
+      "order": 3,
+      "title": "Komisjoni tööplaani arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a90f1957-b939-4626-99c4-03e4c34bbb56"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "116838c9-95fd-4ead-9509-6982c36558ba"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KVEK protokoll 27 (11.03.2024)",
+      "uuid": "949a9587-a602-4c72-a307-a62dbcd697da",
+      "files": [
+        "KVEK_protokoll_27_(11.03.2024).pdf",
+        "KVEK_protokoll_27_(11.03.2024).asice"
+      ]
+    }
+  ],
+  "uuid": "da0d6da0-b6b6-470d-ad1f-489dbc10cbed",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid da0d6da0-b6b6-470d-ad1f-489dbc10cbed)",
+  "source": "https://api.riigikogu.ee/api/volumes/da0d6da0-b6b6-470d-ad1f-489dbc10cbed",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-03-01&endDate=2024-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
