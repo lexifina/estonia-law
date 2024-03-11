@@ -1,0 +1,54 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 11.03.2024 kell 11.10",
+  "sitting_time": "2024-03-11T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fe65e9b2-04bd-4d44-ae26-7b2466f704bc"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud toiduseaduse muutmise seaduse eelnõu (378 SE) esimese lugemise ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "55892be6-fe73-4ddf-9659-6b1060703e85"
+    },
+    {
+      "order": 3,
+      "title": "Arvamuse andmine Euroopa Liidu asjade komisjonile. Euroopa Parlamendi ja nõukogu määrus, milles käsitletakse mehhanismi õiguslike ja haldustakistuste kõrvaldamiseks piiriüleses kontekstis (COM(2023) 790)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7718c439-3e07-4819-acb5-a28bb727422d"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d30e7427-5ccc-4126-8a80-bebb6ab6bf86"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 11.03.2024",
+      "uuid": "7214180b-0aae-4230-a2ae-8637bb26d68f",
+      "files": [
+        "MAEK_protokoll_11.03.2024.asice",
+        "050_protokolli_lisa_2_REM_Piiriülene_koostöö.pdf",
+        "050_protokolli_lisa_1_REM_ToiduS_muutmise_eelnõu.pdf",
+        "050_MAEK_protokoll_11.03.24.pdf"
+      ]
+    }
+  ],
+  "uuid": "a4d6e468-e5a2-477f-b350-3275b1d866df",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a4d6e468-e5a2-477f-b350-3275b1d866df)",
+  "source": "https://api.riigikogu.ee/api/volumes/a4d6e468-e5a2-477f-b350-3275b1d866df",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-03-01&endDate=2024-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
