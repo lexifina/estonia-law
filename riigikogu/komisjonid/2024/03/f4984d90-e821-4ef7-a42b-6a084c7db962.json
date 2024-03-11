@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung esmaspäev, 11.03.2024 kell 11.15",
+  "sitting_time": "2024-03-11T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "29fe3340-ff5b-455f-bb30-b21b957df647"
+    },
+    {
+      "order": 2,
+      "title": "Olukord Ukrainas",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b1a07a15-3f03-44d2-a6c2-ead79d397c26"
+    },
+    {
+      "order": 3,
+      "title": "Ülevaade arengutest Moldovas",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0d9e28e0-8fc4-49cf-b754-3dd91d30c5ce"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2d191bcb-8efd-4a60-a155-5a35fee4ec26"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 11.03.2024",
+      "uuid": "daf966a7-3dce-45b7-a38b-a31f3bc4577c",
+      "files": [
+        "VÄLK_protokoll_11.03.2024.asice",
+        "VÄLK_protokoll_11.03.2024.pdf"
+      ]
+    }
+  ],
+  "uuid": "f4984d90-e821-4ef7-a42b-6a084c7db962",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f4984d90-e821-4ef7-a42b-6a084c7db962)",
+  "source": "https://api.riigikogu.ee/api/volumes/f4984d90-e821-4ef7-a42b-6a084c7db962",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-03-01&endDate=2024-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
