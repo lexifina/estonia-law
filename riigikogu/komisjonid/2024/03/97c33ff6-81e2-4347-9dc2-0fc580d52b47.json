@@ -1,0 +1,35 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung teisipäev, 12.03.2024 kell 13.00",
+  "sitting_time": "2024-03-12T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Euroopa Kontrollikoja presidendi Tony Murphyga",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "970c11a0-6931-403e-b2c8-dd1823bf893f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 12.03.2024",
+      "uuid": "a0192d10-4dde-4aff-845c-0621b22789cc",
+      "files": [
+        "RAHK_protokoll_12.03.2024.asice",
+        "RAHK_protokoll_64_12.03.2024.pdf",
+        "Presentation_to_the_EE_Finance_Committee_on_ECA_work_12.03.2024_lisa_1.pdf"
+      ]
+    }
+  ],
+  "uuid": "97c33ff6-81e2-4347-9dc2-0fc580d52b47",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 97c33ff6-81e2-4347-9dc2-0fc580d52b47)",
+  "source": "https://api.riigikogu.ee/api/volumes/97c33ff6-81e2-4347-9dc2-0fc580d52b47",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-03-01&endDate=2024-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
