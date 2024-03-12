@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung teisipäev, 12.03.2024 kell 14.00",
+  "sitting_time": "2024-03-12T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Informatsioon julgeolekuolukorra arengutest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a179707f-c66e-44bf-906a-f1e26d96b838"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "229ec8cd-ee30-430c-ad6e-da11c618a4a3"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 12.03.2024",
+      "uuid": "30bc9d50-0008-4b2f-a856-ecd463ddec26",
+      "files": [
+        "VÄLK_protokoll_12.03.2024.asice",
+        "VÄLK_protokoll_12.03.2024.pdf"
+      ]
+    }
+  ],
+  "uuid": "f3b75479-0277-4b7a-bca5-3687f963007b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f3b75479-0277-4b7a-bca5-3687f963007b)",
+  "source": "https://api.riigikogu.ee/api/volumes/f3b75479-0277-4b7a-bca5-3687f963007b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-03-01&endDate=2024-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
