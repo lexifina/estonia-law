@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung kolmapäev, 13.03.2024 kell 08.30",
+  "sitting_time": "2024-03-13T08:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikontrolli kontrolliaruande tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "46c29e7d-01a7-4ef1-9610-f29f675d4602"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9e599014-d0a2-454e-ab14-03f99357f94e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 13.03.24",
+      "uuid": "ee40f600-6492-4e56-bc09-eaba4e643d6f",
+      "files": [
+        "REKK_protokoll_13.03.24.asice",
+        "Protokoll_nr_46_13.03.24.pdf"
+      ]
+    }
+  ],
+  "uuid": "9b7e9ba0-c8d1-4de9-8986-24f4bd7fa73b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9b7e9ba0-c8d1-4de9-8986-24f4bd7fa73b)",
+  "source": "https://api.riigikogu.ee/api/volumes/9b7e9ba0-c8d1-4de9-8986-24f4bd7fa73b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-03-01&endDate=2024-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
