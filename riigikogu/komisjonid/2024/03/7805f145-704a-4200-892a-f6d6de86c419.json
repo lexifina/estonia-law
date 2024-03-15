@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung reede, 15.03.2024 kell 10.30",
+  "sitting_time": "2024-03-15T10:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 18. märtsil 2024 toimuval Euroopa Liidu välisasjade nõukogu kohtumisel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "80accc10-312f-45fb-b76c-3721ecb61d84"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "41007062-01dc-4d3e-9c9e-32db7c37afe5"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 15.03.2024",
+      "uuid": "bceac88d-d673-4419-bd2c-4f741bb1d3a5",
+      "files": [
+        "VÄLK_protokoll_15.03.2024.asice",
+        "VÄLK_protokoll_15.03.2024.pdf"
+      ]
+    }
+  ],
+  "uuid": "7805f145-704a-4200-892a-f6d6de86c419",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7805f145-704a-4200-892a-f6d6de86c419)",
+  "source": "https://api.riigikogu.ee/api/volumes/7805f145-704a-4200-892a-f6d6de86c419",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-03-01&endDate=2024-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
