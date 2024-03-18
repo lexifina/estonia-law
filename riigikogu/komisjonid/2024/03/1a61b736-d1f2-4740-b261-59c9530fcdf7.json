@@ -1,0 +1,48 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Julgeolekuasutuste järelevalve erikomisjon",
+  "committee_uuid": "d3826f36-707d-17ad-41e8-8b99f9910b98",
+  "title": "Komisjoni istung esmaspäev, 18.03.2024 kell 13.00",
+  "sitting_time": "2024-03-18T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2fd1340b-9562-43f2-b4bc-34b9dbf9f09f"
+    },
+    {
+      "order": 2,
+      "title": "Riigiprokuratuuri tegevuse seaduslikkus ja teenistuslik järelevalve",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "599e3ccf-305f-404e-ba6e-622cd868079a"
+    },
+    {
+      "order": 3,
+      "title": "Tutvumine saabunud dokumentidega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "eac66706-b773-42cf-849e-7a064270a1ef"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "JAJK 18.03.2024 protokoll",
+      "uuid": "51b1e322-1832-4041-a29d-5dde49f4f229",
+      "files": [
+        "KESK_asendusliikme_volikiri_18032024.pdf",
+        "JAJK_18.03.2024_protokoll.asice",
+        "JAJK_18.03.2024_protokoll.pdf",
+        "SDE_asendusliikme_volikiri_18032024.pdf"
+      ]
+    }
+  ],
+  "uuid": "1a61b736-d1f2-4740-b261-59c9530fcdf7",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 1a61b736-d1f2-4740-b261-59c9530fcdf7)",
+  "source": "https://api.riigikogu.ee/api/volumes/1a61b736-d1f2-4740-b261-59c9530fcdf7",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-03-01&endDate=2024-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
