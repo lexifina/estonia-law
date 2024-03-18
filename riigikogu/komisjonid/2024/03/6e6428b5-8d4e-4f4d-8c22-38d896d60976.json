@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 18.03.2024",
+  "sitting_time": "2024-03-18T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9dcfa572-5013-4796-8cb6-ff7f358d49ef"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli kontrolliaruande „Riigi tegevus tervishoiuteenuste kvaliteedi tagamisel“ arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f0d42838-bf1c-4501-9821-0eec724b6fab"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "40487a4f-ffbc-4f11-a8eb-aaa0e2608302"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 18.03.24",
+      "uuid": "d4392953-e06e-4629-977f-041bfa30f6b6",
+      "files": [
+        "REKK_protokoll_18.03.24.asice",
+        "18-03-24_REKK_kvaliteet.pptx",
+        "Protokoll_nr_47_18.03.24.pdf"
+      ]
+    }
+  ],
+  "uuid": "6e6428b5-8d4e-4f4d-8c22-38d896d60976",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 6e6428b5-8d4e-4f4d-8c22-38d896d60976)",
+  "source": "https://api.riigikogu.ee/api/volumes/6e6428b5-8d4e-4f4d-8c22-38d896d60976",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-03-01&endDate=2024-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
