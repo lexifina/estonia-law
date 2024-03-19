@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung teisipäev, 19.03.2024 kell 14.00",
+  "sitting_time": "2024-03-19T14:08:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "57e9b41c-8268-4dde-94b4-590954e27174"
+    },
+    {
+      "order": 2,
+      "title": "Politsei ja piirivalve seaduse muutmise seaduse eelnõu (370 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "307ef381-439e-4e21-aee3-2cc66ef53e54"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7ae1e770-81fd-4517-92e5-f094672f8dad"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ÕIGK protokoll 19.03.2024",
+      "uuid": "e6a42b48-8c67-4f57-92ed-0e0a83e23a0f",
+      "files": [
+        "ÕIGK_protokoll_19.03.2024.asice",
+        "Riigikogu_õiguskomisjoni_istungi_protokoll_nr_36.pdf"
+      ]
+    }
+  ],
+  "uuid": "0292e156-18e6-44a8-a0ce-22c5cffdbd91",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0292e156-18e6-44a8-a0ce-22c5cffdbd91)",
+  "source": "https://api.riigikogu.ee/api/volumes/0292e156-18e6-44a8-a0ce-22c5cffdbd91",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-03-01&endDate=2024-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
