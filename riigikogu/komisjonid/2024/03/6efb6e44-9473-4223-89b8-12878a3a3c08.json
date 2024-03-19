@@ -1,0 +1,42 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung teisipäev, 19.03.2024 kell 14.00",
+  "sitting_time": "2024-03-19T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kollektiivse pöördumise „Ilutulestiku laskmine ainult aastavahetusel!“ arutelu jätkamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b37c07b1-f9e6-40c2-9fea-50eccef5f09f"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "23ce32bd-b385-4e60-bd1f-85016b4c3a15"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAJK protokoll nr 54 19.03.2024",
+      "uuid": "b28c8a71-6437-47bc-9979-08e3c06a563e",
+      "files": [
+        "Lisa_1_20231212_ilutulestiku_kasutamine.pdf",
+        "MAJK_protokoll_nr_54_19.03.2024.asice",
+        "MAJK_protokoll_nr_54_19.03.2024.pdf",
+        "Lisa_2_Ilutulestiku_käitlemise_ülevaade_5veebr_2024.pdf"
+      ]
+    }
+  ],
+  "uuid": "6efb6e44-9473-4223-89b8-12878a3a3c08",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 6efb6e44-9473-4223-89b8-12878a3a3c08)",
+  "source": "https://api.riigikogu.ee/api/volumes/6efb6e44-9473-4223-89b8-12878a3a3c08",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-03-01&endDate=2024-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
