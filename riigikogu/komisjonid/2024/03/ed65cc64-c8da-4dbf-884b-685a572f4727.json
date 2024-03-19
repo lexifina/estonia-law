@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung teisipäev, 19.03.2024 kell 14.00",
+  "sitting_time": "2024-03-19T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikogu valimise seaduse muutmise ja sellega seonduvalt teiste seaduste muutmise seaduse eelnõu (344 SE) teise lugemise ettevalmistamine (muudatusettepanekute selgituste kuulamine)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1bb94028-72c1-4d81-9a05-9e79ec04c029"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "247a9c40-7b80-4d8d-be45-9d62d7687abf"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "PÕSK protokoll",
+      "uuid": "25f13cd1-eda1-486c-b949-2881c584f9f6",
+      "files": [
+        "PÕSK_protokoll.asice",
+        "PÕSK_protokoll_nr_46_(19.03.2024).pdf"
+      ]
+    }
+  ],
+  "uuid": "ed65cc64-c8da-4dbf-884b-685a572f4727",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ed65cc64-c8da-4dbf-884b-685a572f4727)",
+  "source": "https://api.riigikogu.ee/api/volumes/ed65cc64-c8da-4dbf-884b-685a572f4727",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-03-01&endDate=2024-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
