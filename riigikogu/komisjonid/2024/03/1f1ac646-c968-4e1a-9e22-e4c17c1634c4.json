@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Korruptsioonivastane erikomisjon",
+  "committee_uuid": "e4f2977a-e8c3-4fa0-8f3d-9df9acd6377f",
+  "title": "Komisjoni istung kolmapäev, 20.03.2024 kell 09.00",
+  "sitting_time": "2024-03-20T09:03:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikohtu suuniste rakendamine e-valimiste läbipaistvuse tagamiseks ja korruptsioonivõimaluste välistamiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "283154a2-5ae6-4fdb-b576-cd307e0f302c"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9f4b88e6-cd77-4565-a53d-68c94587d8c9"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KVEK protokoll",
+      "uuid": "0d87a97c-16d2-4fd5-b1cd-a93bb9bce539",
+      "files": [
+        "KVEK_protokoll.asice",
+        "KVEK_protokoll_29_(20.03.2024).pdf"
+      ]
+    }
+  ],
+  "uuid": "1f1ac646-c968-4e1a-9e22-e4c17c1634c4",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 1f1ac646-c968-4e1a-9e22-e4c17c1634c4)",
+  "source": "https://api.riigikogu.ee/api/volumes/1f1ac646-c968-4e1a-9e22-e4c17c1634c4",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-03-01&endDate=2024-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
