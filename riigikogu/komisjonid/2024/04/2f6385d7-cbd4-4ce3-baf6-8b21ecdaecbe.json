@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Korruptsioonivastane erikomisjon",
+  "committee_uuid": "e4f2977a-e8c3-4fa0-8f3d-9df9acd6377f",
+  "title": "Komisjoni istung esmaspäev, 1.04.2024 kell 13.30",
+  "sitting_time": "2024-04-01T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "20a14258-ceca-4eb4-974c-2590594516b8"
+    },
+    {
+      "order": 2,
+      "title": "Kokkuvõte komisjonide seisukohtadest Riigikogu liikmete, fraktsioonide, komisjonide lobikohtumiste registreerimisest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ad5145fc-fa60-4b71-a8e1-450c6bfeb0e5"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bac65868-1dfd-4f9a-98f3-3530974100d7"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KVEK protokoll 30 (01.04.2024)",
+      "uuid": "2125ece8-cda8-411a-a246-07679dbb04a3",
+      "files": [
+        "KVEK_protokoll_30_(01.04.2024).asice",
+        "KVEK_protokoll_30_(01.04.2024).pdf"
+      ]
+    }
+  ],
+  "uuid": "2f6385d7-cbd4-4ce3-baf6-8b21ecdaecbe",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2f6385d7-cbd4-4ce3-baf6-8b21ecdaecbe)",
+  "source": "https://api.riigikogu.ee/api/volumes/2f6385d7-cbd4-4ce3-baf6-8b21ecdaecbe",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-04-01&endDate=2024-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
