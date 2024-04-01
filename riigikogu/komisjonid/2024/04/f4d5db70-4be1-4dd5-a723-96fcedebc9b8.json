@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Julgeolekuasutuste järelevalve erikomisjon",
+  "committee_uuid": "d3826f36-707d-17ad-41e8-8b99f9910b98",
+  "title": "Komisjoni istung esmaspäev, 1.04.2024 kell 13.30",
+  "sitting_time": "2024-04-01T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cf7a1470-c2cb-4b70-96a6-32d5da997221"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade julgeolekuolukorra arengutest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7fe7068f-550a-4525-b77b-613aedacb8ed"
+    },
+    {
+      "order": 3,
+      "title": "Tutvumine saabunud dokumentidega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6c27d0f2-bdeb-4242-8022-946106832e4f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "JAJK 01.04.2024 protokoll",
+      "uuid": "10c04ff8-e5c1-4ddf-b6b5-93c106789d80",
+      "files": [
+        "JAJK_01.04.2024_protokoll.asice",
+        "JAJK_01.04.2024_protokoll.pdf"
+      ]
+    }
+  ],
+  "uuid": "f4d5db70-4be1-4dd5-a723-96fcedebc9b8",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f4d5db70-4be1-4dd5-a723-96fcedebc9b8)",
+  "source": "https://api.riigikogu.ee/api/volumes/f4d5db70-4be1-4dd5-a723-96fcedebc9b8",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-04-01&endDate=2024-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
