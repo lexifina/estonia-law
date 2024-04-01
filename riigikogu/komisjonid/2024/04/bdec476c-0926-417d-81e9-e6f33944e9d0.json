@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 1.04.2024 kell 11.10",
+  "sitting_time": "2024-04-01T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "04065e0f-aa57-4f54-8c35-0822fa59b2a5"
+    },
+    {
+      "order": 2,
+      "title": "Loomade heaolu vedamise ajal",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "50a54286-7e24-4671-b6ef-444368d6392f"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6d6125f5-b00a-4b1f-a834-833b6388c30b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 01.04.2024",
+      "uuid": "4a7456c2-b30b-40fb-bb2b-03a09c608296",
+      "files": [
+        "MAEK_protokoll_01.04.2024.asice",
+        "MAEK_protokoll_01.04.2024.pdf"
+      ]
+    }
+  ],
+  "uuid": "bdec476c-0926-417d-81e9-e6f33944e9d0",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid bdec476c-0926-417d-81e9-e6f33944e9d0)",
+  "source": "https://api.riigikogu.ee/api/volumes/bdec476c-0926-417d-81e9-e6f33944e9d0",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-04-01&endDate=2024-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
