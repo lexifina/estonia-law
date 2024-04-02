@@ -1,0 +1,42 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung teisipäev, 2.04.2024 kell 14.00",
+  "sitting_time": "2024-04-02T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kaitseväeteenistuse seaduse muutmise seaduse eelnõu väljatöötamise kavatsus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3cbd34a8-ecac-43ec-b0c2-ac1b684f0c50"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "396b4a1b-04ac-492c-89a3-87b6022b8f21"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Riigikaitsekomisjoni 02.04.2024 istungi protokoll",
+      "uuid": "20f47725-5984-4721-bb50-000e948f2354",
+      "files": [
+        "Riigikaitsekomisjoni_02.04.2024_istungi_protokoll.asice",
+        "2024-04-02_protokoll_63.pdf",
+        "KVTS_VTK.pdf",
+        "2024-04-02_KVTS_VTK.pdf"
+      ]
+    }
+  ],
+  "uuid": "9d400b61-fc5b-46b5-97a4-8e0e1969890b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9d400b61-fc5b-46b5-97a4-8e0e1969890b)",
+  "source": "https://api.riigikogu.ee/api/volumes/9d400b61-fc5b-46b5-97a4-8e0e1969890b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-04-01&endDate=2024-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
