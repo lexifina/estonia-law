@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung teisipäev, 2.04.2024 kell 14.00",
+  "sitting_time": "2024-04-02T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud mootorsõidukimaksu seaduse eelnõu (364 SE) teiseks lugemiseks ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e6533ead-ed21-4f64-82bb-ff26542184be"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f4b05fe2-d31e-4011-b443-f03097878cda"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 02.04.2024",
+      "uuid": "f43464dc-be3b-43fd-8279-890ed0cfa802",
+      "files": [
+        "RAHK_protokoll_nr_69_02.04.2024.pdf",
+        "Asendusliikme_volikiri_M.Reinaas-J-K.Raid_02.04.2024.pdf",
+        "RAHK_protokoll_02.04.2024.asice"
+      ]
+    }
+  ],
+  "uuid": "2145828c-db4c-4e98-ba3a-99c16c23b5c1",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2145828c-db4c-4e98-ba3a-99c16c23b5c1)",
+  "source": "https://api.riigikogu.ee/api/volumes/2145828c-db4c-4e98-ba3a-99c16c23b5c1",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-04-01&endDate=2024-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
