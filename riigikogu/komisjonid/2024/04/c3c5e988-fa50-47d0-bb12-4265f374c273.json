@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 8.04.2024 kell 13.15",
+  "sitting_time": "2024-04-08T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1b4059aa-84e8-4699-bc9f-44a33124319e"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade Rahandusministeeriumi 2024. aasta kevadprognoosist",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dbdf724d-7696-44b9-a205-758a113e119d"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ec195268-65e7-4b88-8c8f-a7f9468c8a46"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 8.04.24",
+      "uuid": "d3a8d596-187b-474e-b944-2233bb0e5f25",
+      "files": [
+        "REKK_protokoll_8.04.24.asice",
+        "2024.04.08_Kevadprognoos_2024_REKK.pdf",
+        "Protokoll_nr_49_8.04.24.pdf"
+      ]
+    }
+  ],
+  "uuid": "c3c5e988-fa50-47d0-bb12-4265f374c273",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c3c5e988-fa50-47d0-bb12-4265f374c273)",
+  "source": "https://api.riigikogu.ee/api/volumes/c3c5e988-fa50-47d0-bb12-4265f374c273",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-04-01&endDate=2024-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
