@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung esmaspäev, 8.04.2024 kell 11.15",
+  "sitting_time": "2024-04-08T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8a7552b4-6594-4337-804f-0013910ed9ee"
+    },
+    {
+      "order": 2,
+      "title": "Välissuhtlemisseaduse muutmise ja sellega seonduvalt teiste seaduste muutmise seaduse eelnõu (385 SE) ettevalmistamine esimeseks lugemiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "41a9849e-cb61-4722-b461-948737e7fa8d"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "536413c9-b791-4753-976d-4be3009afa37"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 08.04.2024",
+      "uuid": "17f24a8e-19a7-4b8a-ad15-1730682b93d4",
+      "files": [
+        "VÄLK_protokoll_08.04.2024.asice",
+        "VÄLK_protokoll_8.04.2024.pdf"
+      ]
+    }
+  ],
+  "uuid": "9a67f600-6484-444a-b10a-de23e00cd493",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9a67f600-6484-444a-b10a-de23e00cd493)",
+  "source": "https://api.riigikogu.ee/api/volumes/9a67f600-6484-444a-b10a-de23e00cd493",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-04-01&endDate=2024-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
