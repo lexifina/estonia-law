@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung teisipäev, 9.04.2024 kell 14.00",
+  "sitting_time": "2024-04-09T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine ELRONi esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "17fa2dde-80b0-4fcb-9d8b-f7b87d3c56aa"
+    },
+    {
+      "order": 2,
+      "title": "Kollektiivse pöördumise \"Jah hoiu-laenuühistutele, ei võõrpangastamisele!\" arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dcf05811-bb54-4a61-9507-7d9aa8c8330e"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cd3df1d3-e3ad-442e-80b8-ec9b6ec21f97"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 09.04.2024",
+      "uuid": "5152f816-e52c-40f3-b465-4b655e31af7d",
+      "files": [
+        "RAHK_protokoll_09.04.2024.asice",
+        "Elroni_ettekanne_09.04.2024.pdf",
+        "RAHK_protokoll_72_09_04_2024.pdf"
+      ]
+    }
+  ],
+  "uuid": "e150144f-bef4-4e41-b9ab-2a6e7dbcd1b7",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e150144f-bef4-4e41-b9ab-2a6e7dbcd1b7)",
+  "source": "https://api.riigikogu.ee/api/volumes/e150144f-bef4-4e41-b9ab-2a6e7dbcd1b7",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-04-01&endDate=2024-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
