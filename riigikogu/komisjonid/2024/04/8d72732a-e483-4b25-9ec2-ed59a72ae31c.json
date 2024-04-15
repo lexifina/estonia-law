@@ -1,0 +1,54 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung esmaspäev, 15.04.2024 kell 11.10",
+  "sitting_time": "2024-04-15T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cf5f0d21-0fc1-4afc-868d-477ce2318f3a"
+    },
+    {
+      "order": 2,
+      "title": "Kliimaseaduse väljatöötamise hetkeseisu tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2d53365f-8e75-435e-8171-d6d2422f0cd2"
+    },
+    {
+      "order": 3,
+      "title": "Arvamuse andmine Euroopa Liidu asjade komisjonile. Eesti seisukohad Euroopa Komisjoni väljaminevate investeeringute valge raamatu kohta - COM(2024) 24",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4b612647-2688-40a2-9bae-104d9c4b517c"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e711450d-4cdb-4eff-814a-6a12f1aa033f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAJK protokoll nr 59 15.04.2024",
+      "uuid": "c3f1fa80-9423-42f8-bcdd-2306381d6731",
+      "files": [
+        "MAJK_protokoll_nr_59_15.04.2024.pdf",
+        "Kliimaseadus_Majanduskomisjon_150424.pdf",
+        "Asendusliikme_volikiri_Jevgrafov_Laats.pdf",
+        "MAJK_protokoll_nr_59_15.04.2024.asice"
+      ]
+    }
+  ],
+  "uuid": "8d72732a-e483-4b25-9ec2-ed59a72ae31c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8d72732a-e483-4b25-9ec2-ed59a72ae31c)",
+  "source": "https://api.riigikogu.ee/api/volumes/8d72732a-e483-4b25-9ec2-ed59a72ae31c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-04-01&endDate=2024-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
