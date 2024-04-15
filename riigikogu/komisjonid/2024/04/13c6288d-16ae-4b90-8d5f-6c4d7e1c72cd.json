@@ -1,0 +1,48 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 15.04.2024 kell 11.10",
+  "sitting_time": "2024-04-15T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3afd3a3b-0f4d-41e3-a41f-21c24c0577b5"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade kliimaseaduse eelnõu väljatöötamise hetkeseisust",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1067adad-930a-4dc6-a02e-ad6fc86e0e5b"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "628b1cc0-21fc-43b2-a8ce-a2360619d364"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 15.04.2024",
+      "uuid": "2854545c-6c08-453a-8eba-a8fdaad8dd00",
+      "files": [
+        "MAEK_protokoll_15.04.2024.pdf",
+        "MAEK_protokoll_15.04.2024.asice",
+        "Protokolli_lisa_1__KliM.pdf",
+        "Protokolli_lisa_2__ReM.pdf"
+      ]
+    }
+  ],
+  "uuid": "13c6288d-16ae-4b90-8d5f-6c4d7e1c72cd",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 13c6288d-16ae-4b90-8d5f-6c4d7e1c72cd)",
+  "source": "https://api.riigikogu.ee/api/volumes/13c6288d-16ae-4b90-8d5f-6c4d7e1c72cd",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-04-01&endDate=2024-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
