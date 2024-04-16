@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung teisipäev, 16.04.2024 kell 14.00",
+  "sitting_time": "2024-04-16T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Tallinna Sadama juhiga",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cd232e5c-b49e-4394-aed7-8f3ca69a731b"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c4135e85-67f9-4d1b-a51b-4d7e86037627"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAJK protokoll nr 60 16.04.2024",
+      "uuid": "7efa1c28-596a-4694-9888-fdf3efb45f12",
+      "files": [
+        "MAJK_protokoll_nr_60_16.04.2024.pdf",
+        "MAJK_protokoll_nr_60_16.04.2024.asice",
+        "Lisa_1_TS_ülevaade_15.04.24.pdf"
+      ]
+    }
+  ],
+  "uuid": "f79507bd-2dc4-4c28-b86b-f9b38b4549d6",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f79507bd-2dc4-4c28-b86b-f9b38b4549d6)",
+  "source": "https://api.riigikogu.ee/api/volumes/f79507bd-2dc4-4c28-b86b-f9b38b4549d6",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-04-01&endDate=2024-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
