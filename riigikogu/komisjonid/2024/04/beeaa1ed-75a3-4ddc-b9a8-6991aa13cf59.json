@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 16.04.2024 kell 14.00",
+  "sitting_time": "2024-04-16T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohalike omavalitsuste rahastamine ja koolivõrk",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "beef08c2-57a5-4c1c-aeda-1368a4be733a"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "69984cde-2c60-41de-9fee-6bc98a676e75"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 16.04.2024",
+      "uuid": "d4de18eb-f730-444e-9295-df365f95f0ae",
+      "files": [
+        "Protokolli_lisa__ELVL.pdf",
+        "MAEK_protokoll_16.04.2024.asice",
+        "MAEK_protokoll_16.04.2024.pdf"
+      ]
+    }
+  ],
+  "uuid": "beeaa1ed-75a3-4ddc-b9a8-6991aa13cf59",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid beeaa1ed-75a3-4ddc-b9a8-6991aa13cf59)",
+  "source": "https://api.riigikogu.ee/api/volumes/beeaa1ed-75a3-4ddc-b9a8-6991aa13cf59",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-04-01&endDate=2024-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
