@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung teisipäev, 16.04.2024 kell 14.00",
+  "sitting_time": "2024-04-16T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade arengutest Gruusias ja Armeenias",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "488c1218-b7d5-4aeb-a8ee-23058b2e4871"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "558426ec-23c4-4ef8-8c68-947f1063d931"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 16.04.2024",
+      "uuid": "a8dbd42d-9bd5-4b62-adaf-8660af53aea1",
+      "files": [
+        "VÄLK_protokoll_16.04.2024.asice",
+        "VÄLK_16.04.2024_protokoll.pdf"
+      ]
+    }
+  ],
+  "uuid": "67f303de-7f0e-47a4-8a80-38c92018467c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 67f303de-7f0e-47a4-8a80-38c92018467c)",
+  "source": "https://api.riigikogu.ee/api/volumes/67f303de-7f0e-47a4-8a80-38c92018467c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-04-01&endDate=2024-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
