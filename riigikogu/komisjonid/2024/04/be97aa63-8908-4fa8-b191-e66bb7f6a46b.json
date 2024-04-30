@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 30.04.2024 kell 14.00",
+  "sitting_time": "2024-04-30T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade põllumajanduse, toidutootmise ja metsanduse konkurentsivõimest ning hindadest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "360025e0-11ad-42a2-8b27-3b5261ba2a37"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "45033f6f-3d73-4828-ae82-719c31484a3e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 30.04.2024",
+      "uuid": "856a0b17-3baf-42a2-a6a4-9d553d50c009",
+      "files": [
+        "MAEK_protokoll_30.04.2024.asice",
+        "MAEK_protokoll_30.04.2024.pdf",
+        "Protokolli_lisa.pdf"
+      ]
+    }
+  ],
+  "uuid": "be97aa63-8908-4fa8-b191-e66bb7f6a46b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid be97aa63-8908-4fa8-b191-e66bb7f6a46b)",
+  "source": "https://api.riigikogu.ee/api/volumes/be97aa63-8908-4fa8-b191-e66bb7f6a46b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-04-01&endDate=2024-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
