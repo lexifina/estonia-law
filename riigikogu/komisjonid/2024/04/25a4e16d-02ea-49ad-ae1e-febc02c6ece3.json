@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung teisipäev, 30.04.2024 kell 14.00",
+  "sitting_time": "2024-04-30T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade sanktsioonipoliitikast",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c9b0fa63-1dcb-4752-832d-ca191b1f8b2f"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu otsus „Ettepaneku tegemine Vabariigi Valitsusele mitte tunnustada Vene Föderatsiooni presidendivalimiste tulemusi\" (395 OE) ettevalmistamine esimeseks lugemiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2a722a9a-0c9e-4f2c-8976-727413e34333"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f369775c-0327-446f-886a-b8fc627bf199"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 30.04.2024",
+      "uuid": "f527ad40-e398-4ad9-a607-26bc7edf86ff",
+      "files": [
+        "VÄLK_protokoll_30.04.2024.asice",
+        "Venemaa_vastased_sanktsioonid.pdf",
+        "VÄLK_30.04.2024_protokoll.pdf"
+      ]
+    }
+  ],
+  "uuid": "25a4e16d-02ea-49ad-ae1e-febc02c6ece3",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 25a4e16d-02ea-49ad-ae1e-febc02c6ece3)",
+  "source": "https://api.riigikogu.ee/api/volumes/25a4e16d-02ea-49ad-ae1e-febc02c6ece3",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-04-01&endDate=2024-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
