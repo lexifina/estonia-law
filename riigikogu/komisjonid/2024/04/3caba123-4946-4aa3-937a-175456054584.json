@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung teisipäev, 30.04.2024 kell 14.00",
+  "sitting_time": "2024-04-30T14:05:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Õiguskantsleri kirja „Toimetulekutoetuse maksmise tingimused“ arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ebec3d6c-71d7-4513-b00c-33f5d0b1a0f5"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2742b8ea-73cd-46c5-940f-1d27f427ea87"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 30.04.2024",
+      "uuid": "bd38b0ac-2fe7-43fd-a00c-72587fac1bf9",
+      "files": [
+        "Protokoll_30.04.2024.asice",
+        "Lisa_(Õiguskantsleri_kiri).pdf",
+        "SOTK_protokoll_30.04.2024.pdf"
+      ]
+    }
+  ],
+  "uuid": "3caba123-4946-4aa3-937a-175456054584",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3caba123-4946-4aa3-937a-175456054584)",
+  "source": "https://api.riigikogu.ee/api/volumes/3caba123-4946-4aa3-937a-175456054584",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-04-01&endDate=2024-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
