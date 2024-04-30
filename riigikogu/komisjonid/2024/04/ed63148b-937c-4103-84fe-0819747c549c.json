@@ -1,0 +1,49 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung teisipäev, 30.04.2024 kell 14.00",
+  "sitting_time": "2024-04-30T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade E-riigieksamitest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f9180e03-59ab-42bf-8395-0e0d14872235"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud alusharidusseaduse eelnõu (419 SE) ettevalmistamine esimeseks lugemiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5473dcd6-14fa-481d-9b21-f6124cfac1dd"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6348bf89-2ee8-40d3-9bfd-b106e564a477"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KULK protokoll 54",
+      "uuid": "35a17414-9669-47ff-be7e-362a9d9560e9",
+      "files": [
+        "KULK_protokoll_54.asice",
+        "Protokoll_54_(30.04.2024).pdf",
+        "Irja_Lutsar_30.04.2024.pdf",
+        "Anti_Poolamets_30-04-2024.pdf",
+        "Liisa_pakosta_30.04.2024.pdf"
+      ]
+    }
+  ],
+  "uuid": "ed63148b-937c-4103-84fe-0819747c549c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ed63148b-937c-4103-84fe-0819747c549c)",
+  "source": "https://api.riigikogu.ee/api/volumes/ed63148b-937c-4103-84fe-0819747c549c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-04-01&endDate=2024-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
