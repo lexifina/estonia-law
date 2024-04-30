@@ -1,0 +1,49 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung teisipäev, 30.04.2024 kell 14.00",
+  "sitting_time": "2024-04-30T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a559ce8e-b540-48de-9b8e-8120159376d6"
+    },
+    {
+      "order": 2,
+      "title": "Kollektiivne pöördumine  \"JAH SAESAARE PAISJÄRVE SÄILITAMISELE TAEVASKOJAS!\"",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c47226ad-cd6d-41c1-b9ca-4a376340b2d7"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "52ab7c8e-4663-4f7d-9053-2f7812e8d26e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK protokoll 30.04.2024",
+      "uuid": "2bc4923f-689e-4888-b72c-3e9a2746241c",
+      "files": [
+        "KEKK_protokoll_30.04.2024.asice",
+        "Saesaare_keskkonnakomisjonis_30.04.24_Triin.pdf",
+        "KEKK_protokoll_30.04.2024.pdf",
+        "RAHVAALGATUS_RIIGIKOGUS.pdf",
+        "Asendusliikme_volikiri_(Kallas).pdf"
+      ]
+    }
+  ],
+  "uuid": "e8655ec7-8dac-4069-90e2-23ecc2164997",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e8655ec7-8dac-4069-90e2-23ecc2164997)",
+  "source": "https://api.riigikogu.ee/api/volumes/e8655ec7-8dac-4069-90e2-23ecc2164997",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-04-01&endDate=2024-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
