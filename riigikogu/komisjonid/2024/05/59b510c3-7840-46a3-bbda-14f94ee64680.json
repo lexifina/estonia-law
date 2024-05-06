@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 6.05.2024 kell 13.15",
+  "sitting_time": "2024-05-06T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0845d24b-6ea9-44d7-90d7-5ad893988ed3"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli kontrolliaruande „Omavalitsuste sisekontrolli arendamine Kohtla-Järve näitel“ arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c551981c-12c3-4388-b2e1-07a049ed7fb5"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "27db634a-510d-4d3e-9b28-564fb0afeb0d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 6.05.24",
+      "uuid": "31004994-f76a-4d5e-8c1d-d1e540e0e79e",
+      "files": [
+        "REKK_protokoll_6.05.24.asice",
+        "Kohtla-Järve_REK_slaidikava_jane.pptx",
+        "Protokoll_nr_52_6.05.24.pdf"
+      ]
+    }
+  ],
+  "uuid": "59b510c3-7840-46a3-bbda-14f94ee64680",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 59b510c3-7840-46a3-bbda-14f94ee64680)",
+  "source": "https://api.riigikogu.ee/api/volumes/59b510c3-7840-46a3-bbda-14f94ee64680",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-05-01&endDate=2024-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
