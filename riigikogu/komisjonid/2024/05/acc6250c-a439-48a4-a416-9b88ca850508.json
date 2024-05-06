@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Väliskomisjoni ja riigikaitsekomisjoni ühine istung esmaspäev, 6.05.2024 kell 11.00",
+  "sitting_time": "2024-05-06T11:00:00",
+  "sitting_type": "UHISISTUNG",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "89a9a15e-cb79-4016-b3c4-af52b69803c8"
+    },
+    {
+      "order": 2,
+      "title": "Eesti Ukraina vahelise julgeolekukoostöö ja pikaajalise toetuse kokkulepe",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "99cc945d-887f-4d39-86b4-a49a1b41ff13"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "581350a3-7661-46db-abb9-65ae0ce4cbb5"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK ja RIKK protokoll 6.05.2024",
+      "uuid": "e05e9b94-085c-4b84-9d70-58eb0ad823c8",
+      "files": [
+        "VÄLK_ja_RIKK_protokoll_6.05.2024.asice",
+        "VÄLK_ja_RIKK_protokoll_6.05.2024.pdf"
+      ]
+    }
+  ],
+  "uuid": "acc6250c-a439-48a4-a416-9b88ca850508",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid acc6250c-a439-48a4-a416-9b88ca850508)",
+  "source": "https://api.riigikogu.ee/api/volumes/acc6250c-a439-48a4-a416-9b88ca850508",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-05-01&endDate=2024-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
