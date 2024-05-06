@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/128122022049> (version in force from 2023-08-01)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/126042024006> (version in force from 2024-05-06)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -48,6 +48,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/128122022049> (version in force 
 | [§ 32](para-032.md) | Õppekorralduse erisused |
 | [§ 33](para-033.md) | Õppe erisused ühisõppekava korral |
 | [§ 34](para-034.md) | Õpingute lõpetamine |
+| [§ 34¹](para-034b1.md) | Õpilase koolist väljaarvamine |
 | [§ 35](para-035.md) | Õpingute jätkamine |
 | **7. peatükk Koolipere** | |
 | [§ 36](para-036.md) | Koolipere |
