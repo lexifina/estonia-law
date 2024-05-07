@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni väljasõiduistung teisipäev, 7.05.2024, kell 14.30",
+  "sitting_time": "2024-05-07T14:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade julgeolekuolukorra arengutest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "58d4740d-a68b-4e7f-b27f-8425df09d53a"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a44c9db6-b0c0-4850-887a-1df27618738b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK 7.05.2024 protokoll",
+      "uuid": "829a1095-4b06-4c1a-920b-f07a452c6713",
+      "files": [
+        "VÄLK_7.05.2024_protokoll.asice",
+        "VÄLK_protokoll_7.05.2024.pdf"
+      ]
+    }
+  ],
+  "uuid": "788a3f33-ed63-42b0-9abc-cc9861f24654",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 788a3f33-ed63-42b0-9abc-cc9861f24654)",
+  "source": "https://api.riigikogu.ee/api/volumes/788a3f33-ed63-42b0-9abc-cc9861f24654",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-05-01&endDate=2024-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
