@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 7.05.2024 kell 14.00",
+  "sitting_time": "2024-05-07T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kollektiivne pöördumine „Lõpetame kanade puurispidamise Eestis“. Kohtumine Eesti Maaülikooli eksperdiga",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "975c36c4-0098-40a3-8ba5-8ac6923fa480"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9fcbafe1-922f-4743-82cc-428d7bcac693"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 07.05.2024",
+      "uuid": "9ffa4566-ef6e-476e-91fd-73f7ffe5a2ea",
+      "files": [
+        "MAEK_protokoll_07.05.2024.asice",
+        "MAEK_protokoll_07.05.2024.pdf",
+        "Protokolli_lisa.pdf"
+      ]
+    }
+  ],
+  "uuid": "5f40d0db-2f3f-41e8-bfc9-f8bdfd46df89",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 5f40d0db-2f3f-41e8-bfc9-f8bdfd46df89)",
+  "source": "https://api.riigikogu.ee/api/volumes/5f40d0db-2f3f-41e8-bfc9-f8bdfd46df89",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-05-01&endDate=2024-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
