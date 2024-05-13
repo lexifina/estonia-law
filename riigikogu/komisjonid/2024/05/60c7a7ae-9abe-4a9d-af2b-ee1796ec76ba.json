@@ -1,0 +1,48 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 13.05.2024 kell 13.15",
+  "sitting_time": "2024-05-13T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a5a4fe83-bd12-46a8-828c-db40266643a6"
+    },
+    {
+      "order": 2,
+      "title": "Majanduse ja riigirahanduse olukord",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "adeba4a5-17d2-4087-aaad-8c763203d6f4"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0537066d-9eed-4ee9-9924-a799705d7758"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 13.05.24",
+      "uuid": "6ca683de-7dd8-43f7-9501-eed861dbfcde",
+      "files": [
+        "REKK_protokoll_13.05.24.asice",
+        "Lisa_2._13.05.24pptx.pptx",
+        "Lisa_1.13.05.24pptx.pptx",
+        "Protokoll_nr_54_13.05.24.pdf"
+      ]
+    }
+  ],
+  "uuid": "60c7a7ae-9abe-4a9d-af2b-ee1796ec76ba",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 60c7a7ae-9abe-4a9d-af2b-ee1796ec76ba)",
+  "source": "https://api.riigikogu.ee/api/volumes/60c7a7ae-9abe-4a9d-af2b-ee1796ec76ba",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-05-01&endDate=2024-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
