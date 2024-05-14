@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 14.05.2024 kell 14.00",
+  "sitting_time": "2024-05-14T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Veise- ja lambakasvatuse perspektiivid",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "df3bb094-11cd-427e-a201-52509b222be1"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "892f40d2-7b75-4351-904a-61ac1b76af79"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 14.05.2024",
+      "uuid": "7386770d-f8c5-439a-924e-31577f72552c",
+      "files": [
+        "MAEK_protokoll_14.05.2024.asice",
+        "MAEK_protokoll_14.05.2024.pdf"
+      ]
+    }
+  ],
+  "uuid": "9a0186c5-17a7-4f4d-b389-fa745735cdd0",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9a0186c5-17a7-4f4d-b389-fa745735cdd0)",
+  "source": "https://api.riigikogu.ee/api/volumes/9a0186c5-17a7-4f4d-b389-fa745735cdd0",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-05-01&endDate=2024-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
