@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung neljapäev, 16.05.2024 kell 09.00",
+  "sitting_time": "2024-05-16T09:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud tulumaksuseaduse muutmise seaduse eelnõu (416 SE) teiseks lugemiseks ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f3fafe35-59ed-4c2f-a336-1fe1149577ef"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0fbd3d1d-5f0a-496c-902e-483cada62ad0"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 16.05.2024",
+      "uuid": "a1ce7587-5add-46c2-ad90-5c07ad288394",
+      "files": [
+        "RAHK_protokoll_82_16_05_2024.pdf",
+        "RAHK_protokoll_16.05.2024.asice"
+      ]
+    }
+  ],
+  "uuid": "8e2af9f3-5822-4a00-aa91-9e1431014624",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8e2af9f3-5822-4a00-aa91-9e1431014624)",
+  "source": "https://api.riigikogu.ee/api/volumes/8e2af9f3-5822-4a00-aa91-9e1431014624",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-05-01&endDate=2024-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
