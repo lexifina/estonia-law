@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni erakorraline istung neljapäev, 16.05.2024 kell 09.10",
+  "sitting_time": "2024-05-16T09:07:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0c59ac1e-3a81-43c6-8fc9-d23fa4aab50c"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud maamaksuseaduse muutmise seaduse eelnõu (437 SE) esimeseks lugemiseks ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "54c14d87-88d8-441f-a673-70491eb74724"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 16.05.2024",
+      "uuid": "f51c387a-4ab6-4bdc-a0a4-09daa7f2b9ce",
+      "files": [
+        "RAHK_protokoll_83_16_05_2024_erakorraline.pdf",
+        "RAHK_protokoll_16.05.2024.asice"
+      ]
+    }
+  ],
+  "uuid": "42579c23-bbb1-456d-912a-c6334ae23613",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 42579c23-bbb1-456d-912a-c6334ae23613)",
+  "source": "https://api.riigikogu.ee/api/volumes/42579c23-bbb1-456d-912a-c6334ae23613",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-05-01&endDate=2024-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
