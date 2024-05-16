@@ -1,0 +1,48 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung neljapäev, 16.05.2024 kell 14.00",
+  "sitting_time": "2024-05-16T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8a2a7154-1fbe-445b-b6b2-6e21f6b2fa0a"
+    },
+    {
+      "order": 2,
+      "title": "Hädaolukorra seaduse muutmise ja sellega seonduvalt teiste seaduste muutmise seaduse eelnõu (426 SE) esimese lugemise ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7212d5b9-a33a-4ed6-8ad7-ca94c2113378"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a62a0754-535e-4f8d-a082-9c99be7a0c35"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Riigikaitsekomisjoni 16.05.2024 istungi protokoll",
+      "uuid": "379d2394-88d8-4a44-9cf8-1d92a3aa6de2",
+      "files": [
+        "Riigikaitsekomisjoni_16.05.2024_istungi_protokoll.asice",
+        "2024-05-16_protokoll_74.pdf",
+        "asendus_RiKa_16.05.2024.docx",
+        "asendus_RiKa_16.05.2024.asice"
+      ]
+    }
+  ],
+  "uuid": "7ca4502c-7f49-4364-bbc4-a099e5266797",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7ca4502c-7f49-4364-bbc4-a099e5266797)",
+  "source": "https://api.riigikogu.ee/api/volumes/7ca4502c-7f49-4364-bbc4-a099e5266797",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-05-01&endDate=2024-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
