@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung neljapäev, 23.05.2024 kell 13.15",
+  "sitting_time": "2024-05-23T13:16:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1e965679-2e20-4835-aeaa-357c4833a277"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad 27. mail 2024 toimuval Euroopa Liidu välisasjade nõukogu kohtumisel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "da5bb70f-3c45-452a-8c57-8b3cb97949c9"
+    },
+    {
+      "order": 3,
+      "title": "Eesti seisukohad 28. mail 2024 toimuval Euroopa Liidu välisasjade nõukogu kaitseministrite kohtumisel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c9573140-e118-4f14-8517-db8d3e23572e"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8f028dfe-f5be-416c-9830-8fd76e203177"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 23.05.2024",
+      "uuid": "e4c7517f-ce18-426d-bdcd-73f982c7a3e0",
+      "files": [
+        "VÄLK_protokoll_23.05.2024.asice",
+        "VÄLK_protokoll_23.05.2024.pdf"
+      ]
+    }
+  ],
+  "uuid": "512b6958-0b86-46d1-8607-35d568daae2a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 512b6958-0b86-46d1-8607-35d568daae2a)",
+  "source": "https://api.riigikogu.ee/api/volumes/512b6958-0b86-46d1-8607-35d568daae2a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-05-01&endDate=2024-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
