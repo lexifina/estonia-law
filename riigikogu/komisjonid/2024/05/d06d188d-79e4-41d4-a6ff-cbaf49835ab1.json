@@ -1,0 +1,48 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 27.05.2024 kell 13.15",
+  "sitting_time": "2024-05-27T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ff507152-9936-4318-8033-fb49e768dc5a"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli kontrolliaruannete „Riigi tegevus erivajadustega inimeste toetamisel“ ja „Omavalitsuste tegevus erivajadustega inimeste toetamisel“ arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4b228444-2c9e-4224-bcf3-080865cf5fe9"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ad75963f-0c5c-4c14-b5bb-37b57e4985a7"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 27.05.24",
+      "uuid": "614a3fbf-d1c4-40ad-bd67-ca0a4cb9d812",
+      "files": [
+        "REKK_protokoll_27.05.24.asice",
+        "ELVL_Rigikogu_riigieelarve_kontrolli_erikomisjon_270524.pptx",
+        "27_05_2024_Erivajadused_REKK.pptx",
+        "Protokoll_nr_55_27.05.24.pdf"
+      ]
+    }
+  ],
+  "uuid": "d06d188d-79e4-41d4-a6ff-cbaf49835ab1",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d06d188d-79e4-41d4-a6ff-cbaf49835ab1)",
+  "source": "https://api.riigikogu.ee/api/volumes/d06d188d-79e4-41d4-a6ff-cbaf49835ab1",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-05-01&endDate=2024-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
