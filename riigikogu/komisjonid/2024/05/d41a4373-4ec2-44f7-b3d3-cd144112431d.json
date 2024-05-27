@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 27.05.2024 kell 11.10",
+  "sitting_time": "2024-05-27T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bec35f89-8ee1-45f0-9564-c5d0477f2e34"
+    },
+    {
+      "order": 2,
+      "title": "Euroopa Liidu ühise põllumajanduspoliitika rakendamise seaduse muutmise seaduse eelnõu väljatöötamiskavatsuse tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0bd5e437-f691-4678-bf13-e7c2f8e7d7cf"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "069faf9f-4826-4d6c-820e-5b05b5c36e3e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 27.05.2024",
+      "uuid": "bd2201cd-db69-4bdc-8185-76a1e4905224",
+      "files": [
+        "MAEK_protokoll_27.05.2024.asice",
+        "MAEK_protokoll_27.05.2024.pdf",
+        "Lisa__ELÜPS.pdf"
+      ]
+    }
+  ],
+  "uuid": "d41a4373-4ec2-44f7-b3d3-cd144112431d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d41a4373-4ec2-44f7-b3d3-cd144112431d)",
+  "source": "https://api.riigikogu.ee/api/volumes/d41a4373-4ec2-44f7-b3d3-cd144112431d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-05-01&endDate=2024-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
