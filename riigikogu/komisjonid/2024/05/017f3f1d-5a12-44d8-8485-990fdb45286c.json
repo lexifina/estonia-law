@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung esmaspäev, 27.05.2024 kell 11.00",
+  "sitting_time": "2024-05-27T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f6471790-3a51-40af-a7cb-a8d96602f90c"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli ülevaade järelauditist \"Kaitseotstarbelised hanked\"",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6c817baa-984a-4d24-b0af-34b101892eb2"
+    },
+    {
+      "order": 3,
+      "title": "Riigikogu juhatuse kiri täiskogu päevakorra planeerimisest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5afd5814-f33b-47be-b6c9-58fb779be75b"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cf57a11f-da0c-4ad9-afa4-47362add36d2"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Riigikaitsekomisjoni 27.05.2024 istungi protokoll",
+      "uuid": "78b6289b-11f2-4a25-8777-023480fb08f0",
+      "files": [
+        "Riigikaitsekomisjoni_27.05.2024_istungi_protokoll.asice",
+        "2024-05-27_protokoll_75.pdf"
+      ]
+    }
+  ],
+  "uuid": "017f3f1d-5a12-44d8-8485-990fdb45286c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 017f3f1d-5a12-44d8-8485-990fdb45286c)",
+  "source": "https://api.riigikogu.ee/api/volumes/017f3f1d-5a12-44d8-8485-990fdb45286c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-05-01&endDate=2024-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
