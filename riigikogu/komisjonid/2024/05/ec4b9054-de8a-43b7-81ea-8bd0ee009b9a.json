@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung esmaspäev, 27.05.2024 kell 11.15",
+  "sitting_time": "2024-05-27T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0d3348c0-ed4b-4b3e-aa9a-af3fbcf5aa54"
+    },
+    {
+      "order": 2,
+      "title": "Andmekaitse Inspektsiooni peadirektori 2023. aasta tegevuse ülevaade",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9ce44b04-3c26-4273-9c9a-e37fd585eddf"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fe7399ad-bebd-45ae-8d96-4e27234c0029"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "PÕSK protokoll nr 58",
+      "uuid": "3a8ecca7-c578-4cc4-84b3-1539664fa71c",
+      "files": [
+        "PÕSK_protokoll_nr_58.asice",
+        "Slaidid_(AKI)_.pptx",
+        "PÕSK_protokoll_nr_58_(27.05.2024).pdf"
+      ]
+    }
+  ],
+  "uuid": "ec4b9054-de8a-43b7-81ea-8bd0ee009b9a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ec4b9054-de8a-43b7-81ea-8bd0ee009b9a)",
+  "source": "https://api.riigikogu.ee/api/volumes/ec4b9054-de8a-43b7-81ea-8bd0ee009b9a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-05-01&endDate=2024-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
