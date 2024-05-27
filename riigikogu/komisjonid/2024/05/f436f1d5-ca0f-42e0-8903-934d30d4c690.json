@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung esmaspäev, 27.05.2024 kell 11.15",
+  "sitting_time": "2024-05-27T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "222ad8b9-c28d-4593-b5cd-a1df26997a5d"
+    },
+    {
+      "order": 2,
+      "title": "Eesti Vabariigi erakorraliste ja täievoliliste suursaadikute kandidaadid",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "32f566bd-36dd-4a90-b493-70091fdfe91b"
+    },
+    {
+      "order": 3,
+      "title": "Aktuaalsed välispoliitilised küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1fedcb9d-1468-46b7-8fdc-b1bc3ec939a0"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b632f6a5-ceeb-460d-ab25-a226e3c496f7"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 27.05.2024",
+      "uuid": "2b5114aa-dbb1-4ee9-b89c-2ee0a430eaa9",
+      "files": [
+        "VÄLK_protokoll_27.05.2024.asice",
+        "VÄLK_27.05.2024_protokoll.pdf"
+      ]
+    }
+  ],
+  "uuid": "f436f1d5-ca0f-42e0-8903-934d30d4c690",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f436f1d5-ca0f-42e0-8903-934d30d4c690)",
+  "source": "https://api.riigikogu.ee/api/volumes/f436f1d5-ca0f-42e0-8903-934d30d4c690",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-05-01&endDate=2024-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
