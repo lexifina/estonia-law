@@ -1,0 +1,48 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung teisipäev, 28.05.2024 kell 14.00",
+  "sitting_time": "2024-05-28T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud konkurentsiseaduse muutmise ja sellega seonduvalt teiste seaduste muutmise seaduse eelnõu (384 SE) teise lugemise ettevalmistamine. Teema: ECN+ direktiivi ülevõtmine haldusmenetlusena (versus väärteomenetlusena)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "025587b4-eed0-4c4d-8af5-72d77fd215a4"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud liiklusseaduse ning politsei- ja piirivalve seaduse muutmise seaduse eelnõu (429 SE) teise lugemise ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d497adac-1514-4c7c-b267-7605cd677ef8"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b2e3f307-c62c-4a4a-bb83-3ac6aecc9698"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAJK protokoll nr 66 28.05.2024",
+      "uuid": "b4716334-ca7b-449b-bed3-a3b7286cf00f",
+      "files": [
+        "Lisa_1_Slaidid_ECN+_tutvustus_28.05.24.pdf",
+        "MAJK_protokoll_nr_66_28.05.2024.pdf",
+        "Lisa_2_ELEA_presentatsioon_28.05.2024_Riigikogu_majanduskomisjon429SE.pdf",
+        "MAJK_protokoll_nr_66_28.05.2024.asice"
+      ]
+    }
+  ],
+  "uuid": "ec4e632c-ff61-433a-9072-d3ebca45355b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ec4e632c-ff61-433a-9072-d3ebca45355b)",
+  "source": "https://api.riigikogu.ee/api/volumes/ec4e632c-ff61-433a-9072-d3ebca45355b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-05-01&endDate=2024-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
