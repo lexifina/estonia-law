@@ -1,0 +1,48 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung teisipäev, 28.05.2024 kell 14.00",
+  "sitting_time": "2024-05-28T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud magusa joogi maksu seaduse (418 SE) teiseks lugemiseks ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7b130e5d-2cc5-47c5-bd7f-03426ccccfc3"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud mootorsõidukimaksu seaduse eelnõu (364 SE) teiseks lugemiseks ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "55ff8e48-5a5a-4f41-ac42-51de7868c394"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3fbb786c-5cc7-45ac-a668-80d32882c7d3"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 28.05.2024",
+      "uuid": "5d58752d-b84e-46c4-8fcd-3f24b6efee99",
+      "files": [
+        "RAHK_protokoll_28.05.2024.asice",
+        "364_SE_ME_Riigikogust_loetelu_kavand_paragrahvide_kaupa_28.05.2024.pdf",
+        "364_SE_ME_loetelu_kavand_28.05.2024.pdf",
+        "RAHK_protokoll_nr_85_28.05.2024.pdf"
+      ]
+    }
+  ],
+  "uuid": "ef56b33e-6c74-4a90-9bbd-c2bc55f8418d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ef56b33e-6c74-4a90-9bbd-c2bc55f8418d)",
+  "source": "https://api.riigikogu.ee/api/volumes/ef56b33e-6c74-4a90-9bbd-c2bc55f8418d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-05-01&endDate=2024-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
