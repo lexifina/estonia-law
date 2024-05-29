@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung kolmapäev, 29.05.2024 kell 08.30",
+  "sitting_time": "2024-05-29T08:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikontrolli kontrolliaruande „Kaitseotstarbelised hanked (järelaudit)“ arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a8589fac-e7b5-4e6c-b9bc-4d0f39576c1a"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e92e68b1-13d4-4c3a-8317-e9120945b499"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 29.05.24",
+      "uuid": "313afbd5-cdae-471f-aaa4-a62a6434a279",
+      "files": [
+        "REKK_protokoll_29.05.24.asice",
+        "Protokoll_nr_56_29.05.24.pdf"
+      ]
+    }
+  ],
+  "uuid": "be3858ed-fc4d-4b1e-907f-801852859c35",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid be3858ed-fc4d-4b1e-907f-801852859c35)",
+  "source": "https://api.riigikogu.ee/api/volumes/be3858ed-fc4d-4b1e-907f-801852859c35",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-05-01&endDate=2024-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
