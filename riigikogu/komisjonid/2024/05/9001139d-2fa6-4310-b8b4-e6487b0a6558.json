@@ -1,0 +1,62 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni erakorraline istung neljapäev, 30.05.2024 kell 09.00",
+  "sitting_time": "2024-05-30T09:00:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a22ffdb3-c509-4bc0-92b1-5dde0642185b"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud mootorsõidukimaksu seaduse eelnõu (364 SE) teiseks lugemiseks ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "350d4c1a-0753-4892-b14a-5f30a544b7eb"
+    },
+    {
+      "order": 3,
+      "title": "Riigikogu otsus „Riigikogu liikmest Eesti Panga Nõukogu liikme nimetamine\" (446 OE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "454e2ede-c6ce-4def-8b02-138aaaacacfc"
+    },
+    {
+      "order": 5,
+      "title": "Vabariigi Valitsuse algatatud tulumaksuseaduse muutmise seaduse eelnõu (443 SE) esimeseks lugemiseks ettevalmistamine.  Osaleb regionaalminister Piret Hartman",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7b4db40c-24af-4c31-9d9c-363edc562b32"
+    },
+    {
+      "order": 6,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b5348a00-164d-4dcd-bd6d-789b28ee3063"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 30.05.2024",
+      "uuid": "8a205585-9c73-4519-b37d-0c7bfe965d5e",
+      "files": [
+        "Asendusliikme_volikiri_A.Kokk-R.Solman_30.05.2024.pdf",
+        "RAHK_protokoll_86_30_05_2024.pdf",
+        "Asendusliikme_volikiri_J.Ligi-M.Ruusmann_30.05.2024.asice",
+        "RAHK_protokoll_30.05.2024.asice",
+        "443_SE_ettekanne_30.05.2024.pdf",
+        "asendus_RahK_30.05.2024.docx"
+      ]
+    }
+  ],
+  "uuid": "9001139d-2fa6-4310-b8b4-e6487b0a6558",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9001139d-2fa6-4310-b8b4-e6487b0a6558)",
+  "source": "https://api.riigikogu.ee/api/volumes/9001139d-2fa6-4310-b8b4-e6487b0a6558",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-05-01&endDate=2024-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
