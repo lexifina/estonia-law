@@ -2,13 +2,19 @@
 
 (1) Riigi valimisteenistus teeb elektroonilise hääletamise tulemused kindlaks valimispäeval pärast kella 20.00.
 
+(1¹) Pärast elektroonilise hääletamise lõppemist ja enne elektrooniliselt antud häälte lugemist kontrollib riigi valimisteenistus infosüsteemide audiitori juuresolekul elektroonilise hääletamise süsteemis salvestatud elektrooniliste häälte kogumi terviklust, süsteemis salvestatud häälte vastavust registreeritud häältele, häälte digitaalallkirjade terviklust ning elektrooniliselt hääletanud valija kuuluvust valijate nimekirja.
+
 (2) Häälte lugemise juures peab viibima vähemalt kolm riigi valimisteenistuse juhi määratud isikut ja vähemalt pool Vabariigi Valimiskomisjoni koosseisust.
 
 (3) Enne elektrooniliste häälte lugemist riigi valimisteenistus:
 
 1) tühistab elektroonilised hääled, mida on hääletamissedeliga hääletamisel muudetud;
 
+1¹) jätab alles valija viimasena antud elektroonilise hääle ja jätab arvestamata varem antud elektroonilise hääle;
+
 2) eraldab lugemisele minevad elektroonilised hääled valijate isikuandmetest.
+
+(3¹) Elektrooniliselt antud häälte lugemisel loetakse ainult käesoleva seaduse § 44 lõike 2 punktis 4 ja lõikes 4 sätestatud eelhääletamise ajal antud elektroonilisi hääli.
 
 (4) Elektrooniliste häälte lugemiseks kasutavad Vabariigi Valimiskomisjoni liikmed ja riigi valimisteenistus Riigikogu valimise seaduse § 48³ lõikes 3 sätestatud ligipääsuvahendeid, mis tagavad juurdepääsu häälte avamise võtmele.
 
@@ -27,5 +33,7 @@
 (7) Elektrooniliselt antud häälte lugemine on avalik. Häälte lugemise juures viibivad isikud peavad täitma riigi valimisteenistuse juhi määratud isikute suulisi korraldusi.
 
 (9) Riigi valimisteenistus sisestab hääletamistulemused valimiste infosüsteemi viivitamata.
+
+(9¹) Valimispäevale järgneval päeval kontrollib riigi valimisteenistus elektroonilise hääletamise süsteemi andmete terviklust, sealhulgas elektrooniliste häälte lugemise tulemuse õigsust selliselt, et valija hääle salajasus on tagatud.
 
 (10) Riigi valimisteenistuse juht allkirjastab elektroonilise hääletamise tulemused pärast elektroonilise hääletamise süsteemi andmete tervikluse kontrolli.

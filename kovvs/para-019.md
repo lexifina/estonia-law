@@ -28,6 +28,8 @@
 
 5²) kehtestab valimisvahendite kasutamise ja säilitamise korra;
 
+5³) haldab valimiste infosüsteemi ning elektroonilise hääletamise süsteemi, sealhulgas elektroonilise hääletamise süsteemi alla kuuluvate elektrooniliste häälte salastamise võtme ja avamise võtme loomiseks ning häälte lugemiseks ja töötlemiseks kasutatavat riist- ja tarkvara;
+
 6) juhendab ja koolitab valimiste korraldajaid ning valla ja linna valimiskomisjone;
 
 7) võib seadust või riigi valimisteenistuse korraldust rikkunud valimisi korraldava isiku kõrvaldada valimiste korraldamiselt;

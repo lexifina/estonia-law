@@ -28,7 +28,11 @@
 
 (3) Euroopa Liidu kodanik esitab kandideerimisavalduses täiendavalt kodakondsuse andmed.
 
-(4) Riigi valimisteenistus avaldab käesoleva paragrahvi lõike 2 punktides 1, 3, 6, 7 ja 8 ning lõikes 3 sätestatud andmed.
+(4) Riigi valimisteenistus avaldab:
+
+1) käesoleva paragrahvi lõike 2 punktides 1–3 ja lõikes 3 sätestatud andmed tähtajatult, kusjuures isikukoodi asemel avaldatakse sünniaeg;
+
+2) käesoleva paragrahvi lõike 2 punktides 6–8 sätestatud andmed kuueks kuuks arvates valimispäevast.
 
 (5) Kandidaat kasutab kandideerimisel oma nimena üksnes ees- ja perekonnanime.
 
