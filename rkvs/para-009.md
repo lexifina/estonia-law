@@ -10,6 +10,6 @@
 
 - 3) tunnistada hääletamistulemused valimisjaoskonnas, vallas, linnas, valimisringkonnas või riigis kehtetuks või tunnistada elektroonilise hääletamise tulemused kehtetuks täies ulatuses või osaliselt ning korraldada kordushääletamine, kui seadusrikkumine mõjutas või võis mõjutada hääletamistulemusi oluliselt;
 
-- 4) mitte alustada elektroonilist hääletamist või peatada või lõpetada elektrooniline hääletamine, kui elektroonilise hääletamise süsteemi turvalisust või töökindlust ei ole võimalik tagada selliselt, et elektroonilist hääletamist saaks läbi viia käesoleva seaduse nõuete kohaselt.
+- 4) mitte alustada elektroonilist hääletamist või peatada või lõpetada elektrooniline hääletamine täies ulatuses või osaliselt, kui elektroonilise hääletamise süsteemi turvalisust või töökindlust ei ole võimalik tagada selliselt, et elektroonilist hääletamist saaks läbi viia käesoleva seaduse nõuete kohaselt.
 
 (3) Vabariigi Valimiskomisjoni pädevuses oleva küsimuse lahendamiseks võtab Vabariigi Valimiskomisjon vastu otsuse, millele kirjutab alla komisjoni esimees. Otsus jõustub allakirjutamisel.

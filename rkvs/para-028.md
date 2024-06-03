@@ -26,7 +26,11 @@
 
 - 8) töökoht ja amet.
 
-(3) Riigi valimisteenistus avaldab käesoleva paragrahvi lõike 2 punktides 1, 3, 6, 7 ja 8 sätestatud andmed.
+(3) Riigi valimisteenistus avaldab:
+
+- 1) käesoleva paragrahvi lõike 2 punktides 1–3 sätestatud andmed tähtajatult, kusjuures isikukoodi asemel avaldatakse sünniaeg;
+
+- 2) käesoleva paragrahvi lõike 2 punktides 6–8 sätestatud andmed kuueks kuuks arvates valimispäevast.
 
 (4) Kandidaat kasutab kandideerimisel oma nimena üksnes ees- ja perekonnanime.
 
