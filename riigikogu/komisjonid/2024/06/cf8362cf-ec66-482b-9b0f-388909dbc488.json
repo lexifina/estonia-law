@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 4.06.2024 kell 14.00",
+  "sitting_time": "2024-06-04T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kollektiivne pöördumine „Loom ei ole asi! Tema koht ei ole poeletil.“",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "74465cab-be56-4ea6-ab2c-3dd3c1b233e4"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "acc9c6d0-76a6-4678-b52f-deb401d261b1"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 04.06.2024",
+      "uuid": "cac529d3-b422-484b-856d-29761edf103f",
+      "files": [
+        "MAEK_protokoll_04.06.2024.asice",
+        "MAEK_protokoll_04.06.2024.pdf"
+      ]
+    }
+  ],
+  "uuid": "cf8362cf-ec66-482b-9b0f-388909dbc488",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid cf8362cf-ec66-482b-9b0f-388909dbc488)",
+  "source": "https://api.riigikogu.ee/api/volumes/cf8362cf-ec66-482b-9b0f-388909dbc488",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-06-01&endDate=2024-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
