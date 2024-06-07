@@ -28,7 +28,7 @@
 
 11) riigi rahavoogude prognoosi;
 
-12) põhiseaduslike institutsioonide poolt taotletud vahendite mahtude muutmise või vahendite väljajätmise korral Vabariigi Valitsuse tehtud muudatusi ja erimeelsusi koos põhjendustega;
+12) põhiseaduslike institutsioonide taotletud vahendeid, välja arvatud kinnisasjadega seotud investeeringud, mahus, mille Riigikogu rahanduskomisjon on makromajandusprognoosi arvestades heaks kiitnud;
 
 13) kavandatavaid välistoetuseid.
 
