@@ -1,0 +1,53 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 10.06.2024 kell 13.15",
+  "sitting_time": "2024-06-10T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "02faa122-da9f-4477-8b0f-eb970203eb1e"
+    },
+    {
+      "order": 2,
+      "title": "2024. aasta riigi lisaeelarve seaduse eelnõu, 2024. aasta riigieelarve täitmine, ülekantavad kulud",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d80a6c3b-e5d8-486d-a8e9-332a8c87e73d"
+    },
+    {
+      "order": 3,
+      "title": "Riigikogu riigieelarve kontrolli erikomisjoni tegevuse aruande (aprill 2023 – juuni 2024) kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "406ed6fb-e5f8-4cd9-a876-08b08e30166f"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "14354d8e-eed2-4664-9d94-910b3a45ebf8"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 10.06.24",
+      "uuid": "cc49840e-19db-43c2-93b2-dfda71d2b446",
+      "files": [
+        "REKK_protokoll_10.06.24.asice",
+        "SLAIDID_REKKi__10_06_2024.pdf",
+        "Protokoll_nr_58_10.06.24.pdf"
+      ]
+    }
+  ],
+  "uuid": "21e2ea39-f295-49cc-88d5-4ab886b72960",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 21e2ea39-f295-49cc-88d5-4ab886b72960)",
+  "source": "https://api.riigikogu.ee/api/volumes/21e2ea39-f295-49cc-88d5-4ab886b72960",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-06-01&endDate=2024-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
