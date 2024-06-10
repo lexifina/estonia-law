@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung esmaspäev, 10.06.2024 kell 11.15",
+  "sitting_time": "2024-06-10T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d0b7a435-15a6-40c3-9c4c-83942bd020e7"
+    },
+    {
+      "order": 2,
+      "title": "Korruptsioonivastase seaduse muutmise seaduse eelnõu (442 SE) esimese lugemise ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0dbe49d9-9897-484f-89dc-5cf5e965151d"
+    },
+    {
+      "order": 3,
+      "title": "Riigikohtu esimehe ülevaade kohtukorralduse, õigusemõistmise ja seaduste ühetaolise kohaldamise kohta",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "35561319-fdee-4aba-b435-451205c35bd4"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "742395a7-374d-4908-9878-53e6291c5932"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "PÕSK protokoll nr 63",
+      "uuid": "49c7e948-f920-4202-93ec-f408c4e6d921",
+      "files": [
+        "PÕSK_protokoll_nr_63.asice",
+        "PÕSK_protokoll_nr_63_(10.06.2024).pdf"
+      ]
+    }
+  ],
+  "uuid": "0ca8720e-25a1-4d23-9598-a109b0673721",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0ca8720e-25a1-4d23-9598-a109b0673721)",
+  "source": "https://api.riigikogu.ee/api/volumes/0ca8720e-25a1-4d23-9598-a109b0673721",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-06-01&endDate=2024-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
