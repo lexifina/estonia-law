@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung neljapäev, 13.06.2024 kell 09.00",
+  "sitting_time": "2024-06-13T09:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud 2024. aasta lisaeelarve eelnõu (456 SE) teiseks lugemiseks ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "aff5b4d4-be30-45b5-95d6-91136f1ebc57"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b43f5a2d-f42a-4549-8401-7d527707f60b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 13.06.2024",
+      "uuid": "115c2cbf-fd97-43bc-b074-56ddee9d4c23",
+      "files": [
+        "RAHK_protokoll_13.06.2024.asice",
+        "RAHK_protokoll_93_13_06_2024.pdf"
+      ]
+    }
+  ],
+  "uuid": "99641820-09c1-47ab-9693-d3c1e9fb274f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 99641820-09c1-47ab-9693-d3c1e9fb274f)",
+  "source": "https://api.riigikogu.ee/api/volumes/99641820-09c1-47ab-9693-d3c1e9fb274f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-06-01&endDate=2024-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
