@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni väljasõiduistung esmaspäev, 17.06.2024 11.00",
+  "sitting_time": "2024-06-17T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d22313d1-eb26-4517-b9c3-0a2c0f2713fb"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade kaitsekuludest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "70892098-8eba-43e5-928b-bbe431eec0af"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3431ada3-c6e8-406a-9700-414d2d7ac7e4"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Riigikaitsekomisjoni 17.06.2024 istungi protokoll",
+      "uuid": "70f56e4c-73d4-4890-a596-50af8206e7f0",
+      "files": [
+        "Riigikaitsekomisjoni_17.06.2024_istungi_protokoll.asice",
+        "2024-06-17_protokoll_80.pdf"
+      ]
+    }
+  ],
+  "uuid": "87afb4be-da3b-4c2f-b461-f2e36b0b1f0f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 87afb4be-da3b-4c2f-b461-f2e36b0b1f0f)",
+  "source": "https://api.riigikogu.ee/api/volumes/87afb4be-da3b-4c2f-b461-f2e36b0b1f0f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-06-01&endDate=2024-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
