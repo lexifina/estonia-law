@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/130062023004> (version in force from 2023-07-01)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/111062024003> (version in force from 2024-06-21)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -34,6 +34,8 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/130062023004> (version in force 
 | [§ 25](para-025.md) | Enne käesoleva seaduse jõustumist esitatud hoonestusloa taotluste menetlemine |
 | [§ 25¹](para-025b1.md) | Erisused enne ehitusseadustiku 12. peatüki 3. jao jõustumist esitatud hoonestusloa taotluse menetlemisel |
 | [§ 25²](para-025b2.md) | Ehitusseadustiku 12. peatüki 4. jao kohaldamine |
+| [§ 25³](para-025b3.md) | Ehitusseadustiku § 42 lõike 1 kohaldamine |
+| [§ 25⁴](para-025b4.md) | Ehitusseadustiku § 113¹ lõike 1² kohaldamine |
 | [§ 26](para-026.md) | Ehitisregistri andmete korrastamine ja elektroonilise menetluse rakendamine |
 | [§ 27](para-027.md) | Enne käesoleva seaduse jõustumist ehitatud ehitisregistrisse kandmata ehitiste väljaselgitamine |
 | [§ 28](para-028.md) | Enne ehitusseaduse jõustumist ehitatud ehitis |
