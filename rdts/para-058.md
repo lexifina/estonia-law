@@ -30,7 +30,7 @@
 
 5) taotleja raudteeveeremi juhtimise õigus on käesoleva seaduse § 69 lõike 1 punkti 2 kohaselt peatatud ning peatamise tähtaeg ei ole möödunud.
 
-(7) Vedurijuhiloa taotlemise või uuendamise taotluse läbivaatamise ja duplikaadi väljastamise eest tuleb tasuda riigilõivu riigilõivuseaduses sätestatud määras.
+(7) Vedurijuhiloa taotlemise või uuendamise taotluse läbivaatamise ja duplikaadi väljastamise eest ning vedurijuhi teooriaeksamile registreerimise ja eksami vastuvõtmise eest tuleb tasuda riigilõivu riigilõivuseaduses sätestatud määras.
 
 (8) Vedurijuhiloa väljaandmise, uuendamise ja duplikaadi väljastamise eeskirja, vedurijuhiloa vormi ning vedurijuhi eksamineerimise korra kehtestab
 
