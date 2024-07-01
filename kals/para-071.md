@@ -26,7 +26,9 @@ määrusega.
 
 7) kontrollida isiku sisenemisel valvatavale objektile ja sealt lahkumisel temaga kaasas olevat asja vaatlemise või tehnilise vahendi või väljaõppe saanud teenistuskoera abil, et kindlaks teha, kas isiku valduses ei ole eset või ainet, millega ta võib ohustada ennast või teisi isikuid või mille omamine valvataval objektil on keelatud;
 
-8) kinni pidada isik vahetult eesseisva kuriteo toimepanemise ärahoidmiseks või elu või kehalist puutumatust ähvardava vahetu ohu tõrjumiseks.
+8) kinni pidada isik vahetult eesseisva kuriteo toimepanemise ärahoidmiseks või elu või kehalist puutumatust ähvardava vahetu ohu tõrjumiseks;
+
+9) anda valvataval objektil sõidukile käega, sauaga, helkurkettaga või muu sarnase funktsiooniga vahendiga märguanne sõiduki või maastikusõiduki peatamiseks.
 
 (4) Isiku kinnipidamiseks võib valvur isiku sulgeda ruumi või sõidukisse ja muul viisil piirata olulisel määral isiku füüsilist vabadust. Isiku kinnipidamisest üleandmise eesmärgil teavitab valvur viivitamata asjaomast ametiasutust. Isikut ei või kinni pidada kauem kui kuus tundi.
 

@@ -22,6 +22,8 @@
 
 (3) Keskjuhatusse kuuluvad Kaitseliidu ülem ja Kaitseliidu peastaabi ülem valimiseta ning kolm kolmeks aastaks keskkogu valitud Kaitseliidu tegevliiget või käesoleva seaduse § 27 lõike 2 punktis 1 sätestatud alusel auliikmeks valitud isikut. Valitav liige peab olema vähemalt 21-aastane Eesti elanik, kes on olnud vähemalt ühe aasta struktuuri- või allüksuse juhatuse liige. Liikme võib tagasi valida.
 
+(3¹) Keskkogu valib keskjuhatusse ühe asendusliikme kolmeks aastaks. Asendusliikmele hakkavad kehtima keskjuhatuse liikme volitused, kui keskjuhatuse olemasoleva valitud liikme volitused lõppevad enne tähtaega, ning sellisel juhul kehtivad asendusliikme volitused asendatava keskjuhatuse liikme volituste algse kehtivusaja lõpuni.
+
 (4) Kaitseliitu esindab õigustoimingutes Kaitseliidu ülem või üks keskjuhatuse liige koos Kaitseliidu ülemaga.
 
 (5) Kaitseliidu ülema äraolekul esindab Kaitseliitu õigustoimingutes käesoleva seaduse § 14 lõikes 1 nimetatud isik koos ühe keskjuhatuse liikmega.

@@ -14,7 +14,7 @@ määrusega.
 
 (5) Valvelepingus peavad sisalduma vähemalt järgmised andmed:
 
-1) valvet korraldava Kaitseliidu maleva nimetus, selle esindaja nimi ja kontaktandmed;
+1) valvet korraldava Kaitseliidu struktuuriüksuse nimetus, selle esindaja nimi ja kontaktandmed;
 
 2) valve osutamise aeg ja kestus;
 
@@ -29,3 +29,7 @@ määrusega.
 7) valvelepingu muutmise tingimused.
 
 (6) Alaliselt valvatava objekti valve korraldamise tasu ja selle kasutamise tingimused määratakse kindlaks riigivara valitseja ja Kaitseliidu vahel sõlmitavas lepingus.
+
+(7) Kaitseliidu valvataval objektil võib lubada saatjata viibida füüsilisel isikul, kes täidab õigusaktist või tehingust tulenevat ülesannet. Kaitseliidu valvataval objektil saatjata viibimise õiguse andmise otsustab objekti valdaja. Kaitseliidu omandis oleva Kaitseliidu valvatava objekti puhul otsustab saatjata viibimise õiguse andmise Kaitseliidu ülem, struktuuriüksuse juht või tema volitatud isik.
+
+(8) Kaitseliidu valduses oleval valvataval objektil ei tohi viibida ilma Kaitseliidu loata. Isiku suhtes, kes viibib Kaitseliidu valduses oleval valvataval objektil ilma Kaitseliidu loata, võib kasutada käesoleva seaduse § 71 lõigetes 3–9 sätestatud meetmeid.

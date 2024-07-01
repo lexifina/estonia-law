@@ -4,11 +4,13 @@
 
 (2) Kaitseliidu relva võib kasutada teenistuskohustuse täitmisel, kui Kaitseliidu relva kaasavõtmine on ette nähtud teenistuskohustuse vormistamisel.
 
+(2¹) Kaitseliidu tegevliige, kellele on väljastatud Kaitseliidu relva kandmise luba, võib Kaitseliidu relva kasutada selle hoiukohas või teenistusülesannete täitmise käigus turvalisuse tagamiseks (enese ja vara kaitseks).
+
 (3) Kaitseliidu relva ja laskemoona on keelatud käidelda ja kasutada:
 
 1) alkoholijoobes, narkootilise või psühhotroopse aine mõju all;
 
-2) koosolekul, meeleavaldusel, piketil, pidustusel ja muul avalikul üritusel, välja arvatud nimetatud avalikel üritustel teenistuskohustuse täitmisel, kui relva kandmiseks on eelnevalt kirjaliku nõusoleku andnud Kaitseliidu ülem või malevapealik.
+2) koosolekul, meeleavaldusel, piketil, pidustusel ja muul avalikul üritusel, välja arvatud nimetatud avalikel üritustel teenistuskohustuse täitmisel, kui relva kandmiseks on eelnevalt kirjaliku nõusoleku andnud Kaitseliidu ülem või tema volitatud struktuuriüksuse juht.
 
 (4) Kaitseliidu relva ja laskemoona on keelatud üle anda alkoholijoobes või narkootilise või psühhotroopse aine tarvitamise tunnustega isikule.
 
@@ -16,7 +18,7 @@
 
 (6) Kaitseliidu relva käitlemise ja kasutamise koolituse nõuded kehtestab Kaitseliidu ülem.
 
-(7) Tegevliikmel on õigus Kaitseliidu relva, sealhulgas sõjarelva, või laskemoona anda ajutiselt hoida, kanda ja kasutada teenistuskohustuse täitmisel teisele Kaitseliidu liikmele vahetu juhi nõusolekul, muul ajal malevapealiku kirjalikku taasesitamist võimaldavas vormis antud nõusolekul. Kaitseliidu relva või laskemoona ei ole õigus anda noorliikmele, kui seaduses ei ole sätestatud teisiti.
+(7) Tegevliige võib teenistuskohustuse täitmisel anda Kaitseliidu relva, sealhulgas sõjarelva, või laskemoona või mõlemat ajutiselt hoida, kanda ja kasutada teisele Kaitseliidu liikmele enda vahetu juhi nõusolekul. Teenistuskohustuse täitmise välisel ajal võib tegevliige anda Kaitseliidu relva, sealhulgas sõjarelva, või laskemoona või mõlemat ajutiselt hoida, kanda ja kasutada teisele Kaitseliidu liikmele, kui selleks on Kaitseliidu ülema või tema volitatud struktuuriüksuse juhi kirjalikku taasesitamist võimaldavas vormis antud nõusolek. Kaitseliidu relva ega laskemoona ei ole õigus anda noorliikmele, kui seaduses ei ole sätestatud teisiti.
 
 (8) Tegevliikmele, kes ei ole läbi teinud Kaitseliidu relva käitlemise ja kasutamise koolitust, võib Kaitseliidu relva anda kasutada vaid lasketiirus kasutamiseks pärast relva kasutamise nõuetega tutvumist.
 

@@ -1,6 +1,6 @@
 # § 73. Vahetu sunni kasutamine
 
-(1) Vahetu sund käesoleva seaduse tähenduses on füüsilise isiku, looma või asja mõjutamine füüsilise jõu või tuli-, külm- või gaasirelva või erivahendi või enesekaitsevahendiga. Vahetu sunni kasutamisel tuleb hoiduda füüsilise isiku, looma või asja kahjustamisest suuremal määral, kui see on eesmärgi saavutamiseks vältimatu.
+(1) Vahetu sund käesoleva seaduse tähenduses on füüsilise isiku, looma või asja mõjutamine füüsilise jõu või tuli-, elektrišoki-, külm- või gaasirelva või erivahendi või enesekaitsevahendiga. Vahetu sunni kasutamisel tuleb hoiduda füüsilise isiku, looma või asja kahjustamisest suuremal määral, kui see on eesmärgi saavutamiseks vältimatu.
 
 (2) Füüsilist jõudu võib valvatava objekti kaitsmisel kasutada, kui ohu väljaselgitamine ja tõrjumine, isiku kinnipidamine ning isiku tegevuse tõkestamine valvuri suulise korraldusega ei ole võimalik või õigel ajal võimalik.
 
@@ -10,9 +10,9 @@
 
 (5) Sellekohase väljaõppe saanud teenistuskoera võib kasutada valvatava objekti valveks ja kaitsmiseks. Suukorvita teenistuskoeraga võib valvataval objektil liikuda, kui koer on rihma otsas või kui territoorium on aiaga piiratud ja teenistuskoera kasutamisest teavitavad asjakohased sildid. Teenistuskoera ei või jätta valvataval objektil järelevalveta.
 
-(6) Valvur võib kasutada kõrgendatud ohu tõrjumiseks tulirelva, kui ohu tõrjumine muu vahetu sunni vahendiga ei ole võimalik või ei ole õigel ajal võimalik, arvestusega, et tulirelva kasutamisel tehakse kõik võimalik, et sellega ei seataks ohtu muud kaalukat hüve.
+(6) Valvur võib kasutada kõrgendatud ohu tõrjumiseks tuli- ja elektrišokirelva, kui ohu tõrjumine muu vahetu sunni vahendiga ei ole võimalik või ei ole õigel ajal võimalik, arvestusega, et tuli- ja elektrišokirelva kasutamisel tehakse kõik võimalik, et sellega ei seataks ohtu muud kaalukat hüve.
 
-(7) Valvur võib kasutada isiku suhtes tulirelva ainult isiku ründamis-, vastupanu- või põgenemisvõimetuks muutmiseks äärmise abinõuna juhul, kui seda eesmärki ei ole võimalik saavutada looma kasutamisega ega asja vastu tulirelva kasutamisega ega muu vahetu sunni vahendiga ning kui see on ühtlasi vajalik, et:
+(7) Valvur võib kasutada isiku suhtes tuli- ja elektrišokirelva ainult isiku ründamis-, vastupanu- või põgenemisvõimetuks muutmiseks äärmise abinõuna juhul, kui seda eesmärki ei ole võimalik saavutada looma kasutamisega ega asja vastu tulirelva kasutamisega ega muu vahetu sunni vahendiga ning kui see on ühtlasi vajalik, et:
 
 1) tõrjuda vahetu oht elule või kehalisele puutumatusele;
 

@@ -22,6 +22,8 @@
 
 10) oli keeldunud osalemast tervisekahjustust ennetavas tegevuses või jättis selles osalemata;
 
+10¹) ei olnud esitanud Kaitseliidule käesoleva seaduse § 28 lõikes 2 sätestatud tõendit või see tõend ei olnud kahju tekkimise ajal kehtiv;
+
 11) oli sündmuse asetleidmise ajal teenistuskohustuse täitmiselt kõrvaldatud seoses distsiplinaarmenetlusega või mõnel muul seaduses sätestatud alusel;
 
 12) täitis sündmuse asetleidmise ajal avaliku teenistuse ametikohale nimetamisest, töölepingust või muust sellesarnasest lepingust tulenevaid tööülesandeid.

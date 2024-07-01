@@ -30,6 +30,10 @@
 
 4) on põhjendatud alus arvata, et isiku käitumine või eluviis võib ohustada tema enda ja teiste isikute turvalisust.
 
-(4) Tegevliikme tervisenõuded kehtestab
+(3¹) Kaitseliit keeldub isikut tegevliikmeks vastu võtmast käesoleva paragrahvi lõike 3 punkti 1 alusel, kui:
 
-määrusega.
+1) isiku tegevus on või on olnud suunatud Eesti Vabariigi, Kaitseväe üksuste või Kaitseliidu objektide julgeoleku vastu;
+
+2) isik on või on olnud kaasatud koostöösse välisriigi luure- või julgeolekuteenistusega;
+
+3) isik on seotud sellise organisatsiooni või liikumisega, mis oma tegevusega eirab avalikku korda või mille tegevus on suunatud Eesti Vabariigi iseseisvuse ja sõltumatuse vägivaldsele muutmisele, territoriaalse terviklikkuse vägivaldsele rikkumisele, vägivaldsele võimuhaaramisele või Eesti põhiseadusliku korra vägivaldsele muutmisele.

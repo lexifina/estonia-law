@@ -1,25 +1,23 @@
 # § 28. Kaitseliidu liikme ja liikmeks astuda soovija tervisekontroll
 
-(1) Kaitseliidu liikmeks astuda sooviv isik peab läbi tegema tervisekontrolli, mille eesmärgiks on teha kindlaks, kas isik vastab Kaitseliidu liikmele ettenähtud tervisenõuetele.
+(1) Kaitseliidu liige, kes täidab käesoleva seaduse § 58 lõigetes 1–4 viidatud ülesandeid, peab olema läbinud tervisekontrolli.
 
-(1¹) Struktuuriüksuse juht võib vabastada käesoleva paragrahvi lõikes 1 sätestatud tervisekontrollist:
+(2) Käesoleva paragrahvi lõikes 1 sätestatud tervisekontrolli läbimist tõendab:
 
-1) isiku, kellel on relvaseaduse §-s 35¹ sätestatud kehtiv tervisetõend;
+1) kehtiv mootorsõiduki juhtimisõigus või kehtiv tervisetõend liiklusseaduse §-s 101 sätestatud tervisekontrolli läbimise kohta;
 
-2) tegevväelase, kelle terviseseisund vastab tegevväelase tervisenõuetele ja kellel on sõjaväerelva kandmise õigus;
+2) kehtiv relvaluba või kehtiv tervisetõend relvaseaduse §-s 35¹ sätestatud tervisekontrolli läbimise kohta;
 
-3) politseiametniku, vanglateenistuse ametniku ja abipolitseiniku, kelle terviseseisund vastab politseiametniku, vanglateenistuse ametniku või abipolitseiniku tervisenõuetele ja kellel on tulirelva kandmise õigus.
+3) muu kehtiv tervisetõend, mis kinnitab, et füüsilise isiku terviseseisundit on kontrollitud vähemalt samaväärselt, kui seda tehakse mootorsõiduki juhtimisõiguse taotlemiseks vajaliku tervisetõendi väljastamisel;
 
-(2) Tervisekontroll tehakse ja tervisetõend väljastatakse Kaitseliidu liikme või liikmeks astuda soovija kulul.
+4) ametiasutuse kinnitus, mille kohaselt Kaitseliidu liige on läbinud tegevväelase, politseiametniku, päästeteenistuja, vanglateenistuse ametniku või abipolitseiniku tervisenõuetele vastava tervisekontrolli.
 
-(2¹) Kaitseliidu liige on kohustatud viivitamata teavitama Kaitseliitu oma terviseseisundi muutumisest, mille tõttu ta ei vasta Kaitseliidu liikmele ettenähtud tervisenõuetele.
+(3) Kaitseliit võib nõuda käesoleva paragrahvi lõikes 2 nimetatud tõendi esitamist Kaitseliidu liikmeks astuda soovijalt, kui Kaitseliidu liikmeks vastuvõtmisel asub see liige täitma käesoleva seaduse §-s 58 viidatud ülesandeid.
 
-(3) Kaitseliidu liige peab läbi tegema tervisekontrolli Kaitseliidu nõudmisel, kui on alust arvata, et tema terviseseisund ei vasta Kaitseliidu liikmele ettenähtud tervisenõuetele.
+(4) Kaitseliidu liige, kes täidab käesoleva seaduse § 58 lõigetes 1–4 viidatud ülesandeid, on kohustatud viivitamata teavitama Kaitseliitu oma terviseseisundi muutumisest, mille tõttu ta ei ole võimeline neid ülesandeid täitma, ja sellest, et käesoleva paragrahvi lõikes 2 nimetatud tõend on kaotanud kehtivuse.
 
-(4) Käesoleva paragrahvi lõikes 3 sätestatud juhul kannab tervisekontrolli ja tervisetõendi väljastamisega seotud kulu Kaitseliit.
+(5) Kui on alust arvata, et käesoleva seaduse § 58 lõigetes 1–4 viidatud ülesandeid täitva Kaitseliidu liikme terviseseisund ei võimalda tal neid ülesandeid täita, võib Kaitseliit kohustada teda läbima käesoleva paragrahvi lõike 2 punktis 1 või 2 sätestatud tõendile vastava tervisekontrolli.
 
-(5) Tervisekontrolli korraldab ja tervisetõendi väljastab perearst, kaasates vajaduse korral eriarste.
+(6) Käesoleva paragrahvi lõikes 5 sätestatud juhul kannab tervisekontrolliga seotud kulu Kaitseliit.
 
-(6) Tervisetõendil esitatavate andmete loetelu kehtestab
-
-määrusega.
+(7) Käesoleva paragrahvi lõikes 5 sätestatud tervisekontrolli korraldab ja tervisetõendi väljastab perearst, kaasates vajaduse korral eriarste.

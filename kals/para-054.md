@@ -12,7 +12,9 @@
 
 4) Kaitseliidu teenetemärgi andmine;
 
-5) hinnalise kingituse tegemine.
+5) hinnalise kingituse tegemine;
+
+6) rahalise preemia andmine.
 
 (3) Distsiplinaarkaristuse ennetähtaegse kustutamise õigus on distsiplinaarkaristuse määranud juhil ja distsiplinaarkaristuse määranud juhi otsesel juhil.
 
@@ -26,4 +28,4 @@
 
 (8) Hinnalise kingituse tegemise õigus on struktuuriüksuse juhil.
 
-(9) Kaitseliidu ülemal on õigus kohaldada käesoleva paragrahvi lõike 2 punktides 1–3 ja 5 sätestatud ergutusi.
+(9) Kaitseliidu ülemal on õigus kohaldada käesoleva paragrahvi lõike 2 punktides 1–3, 5 ja 6 sätestatud ergutusi.

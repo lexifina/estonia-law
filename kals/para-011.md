@@ -14,4 +14,4 @@
 
 (7) Otsene juht on vahetu juht ja vahetust juhist kõrgem juht, kellele Kaitseliidu liige teenistuskohustuse täitmisel allub.
 
-(8) Noortejuht on Kaitseliidu tegevliige, kes osaleb noorteorganisatsioonis noorliikmete õppetegevuse korraldamises.
+(8) Noortejuht on Kaitseliidu tegev-, toetaja- või auliige, kes osaleb noorteorganisatsioonis noorliikmete õppetegevuse korraldamises.

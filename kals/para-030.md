@@ -20,7 +20,7 @@
 
 (7) Kaitseliidust väljaastumiseks peab Kaitseliidu liige esitama kirjaliku avalduse.
 
-(8) Kaitseliidu liige, kes ei vasta käesoleva seaduse § 24 lõikes 2 sätestatud nõuetele või jätab täitmata Kaitseliidu liikmele ettenähtud kohustused, arvatakse Kaitseliidust välja. Kaitseliidu liikme võib arvata Kaitseliidust välja, kui esinevad § 24 lõikes 3 sätestatud asjaolud.
+(8) Kaitseliidu liige, kes ei vasta käesoleva seaduse § 24 lõikes 2 sätestatud nõuetele või jätab täitmata Kaitseliidu liikmele ettenähtud kohustused või kelle suhtes esinevad käesoleva seaduse § 24 lõike 3¹ punktides 1–3 loetletud asjaolud, arvatakse Kaitseliidust välja. Kaitseliidu liikme võib arvata Kaitseliidust välja, kui esinevad § 24 lõikes 3 sätestatud asjaolud.
 
 (9) Noorliige arvatakse pärast käesoleva paragrahvi lõikes 7 nimetatud avalduse esitamist Kaitseliidust välja, kui tema noorliikmeks astumise kohta nõusoleku andnud vanem või eestkostja võtab selle tagasi.
 

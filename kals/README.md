@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/106072023036> (version in force from 2024-01-01)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/130042024003> (version in force from 2024-07-01)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -25,6 +25,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/106072023036> (version in force 
 | [§ 14](para-014.md) | Kaitseliidu ülema asendamine, puhkus ja ametikohalt vabastamine |
 | [§ 15](para-015.md) | Tegevteenistus Kaitseliidus |
 | [§ 15¹](para-015b1.md) | Tegevteenistus Kaitseliidus mobilisatsiooni ja sõjaseisukorra ajal |
+| [§ 15²](para-015b2.md) | Kaitseliidu töötajale esitatavad nõuded |
 | [§ 16](para-016.md) | Kaitseliidus töölepingu alusel töötava isiku töö- ja puhkeaeg |
 | [§ 17](para-017.md) | Kollegiaalsed organid |
 | [§ 18](para-018.md) | Keskkogu |
@@ -59,7 +60,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/106072023036> (version in force 
 | [§ 43](para-043.md) | Kaitseliidu relva kandmise luba |
 | [§ 44](para-044.md) | Kaitseliidu relvaloa kehtivuse peatamine |
 | [§ 45](para-045.md) | Kaitseliidu relvaloa kehtetuks tunnistamine |
-| [§ 46](para-046.md) | Tegevliikme relva ja laskemoona soetamine |
+| [§ 46](para-046.md) | Tegevliikme relva ja laskemoona soetamine ning hoidmine |
 | [§ 47](para-047.md) | Tegevliikme relva käitlemine ja kasutamine |
 | [§ 48](para-048.md) | Tegevliikme relva võõrandamine |
 | [§ 49](para-049.md) | Tegevliikme relva käitlemise õiguse lõppemine |
@@ -72,7 +73,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/106072023036> (version in force 
 | [§ 55](para-055.md) | Distsiplinaarmenetlus ja distsiplinaarkaristused |
 | [§ 56](para-056.md) | Distsiplinaarkaristuse määramise õigus |
 | **7. peatükk Tagatised** | |
-| [§ 57](para-057.md) | Tegevliikme, auliikme ja noortejuhi õigus puhkusele |
+| [§ 57](para-057.md) | Tegevliikme, auliikme, toetajaliikme ja noortejuhi õigus puhkusele |
 | [§ 58](para-058.md) | Kaitseliidu liikme sotsiaalsete tagatiste alused |
 | [§ 59](para-059.md) | Ohutuse tagamine |
 | [§ 60](para-060.md) | Kaitseliidu liikme vigastuse ja hukkumise põhjuse kindlakstegemine |

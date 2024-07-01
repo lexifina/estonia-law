@@ -1,6 +1,6 @@
 # § 45. Kaitseliidu relvaloa kehtetuks tunnistamine
 
-(1) Kaitseliidu ülem või malevapealik tunnistab oma kirjaliku otsusega relvaloa kehtetuks, kui:
+(1) Kaitseliidu ülem või tema volitatud struktuuriüksuse juht tunnistab oma kirjaliku otsusega relvaloa kehtetuks, kui:
 
 1) tegevliikmeks olek lõpeb;
 

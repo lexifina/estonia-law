@@ -1,6 +1,6 @@
 # § 44. Kaitseliidu relvaloa kehtivuse peatamine
 
-(1) Kaitseliidu relvaloa kehtivuse peatab Kaitseliidu ülem või malevapealik oma otsusega:
+(1) Kaitseliidu relvaloa kehtivuse peatab Kaitseliidu ülem või tema volitatud struktuuriüksuse juht oma otsusega:
 
 1) ajaks, millal tegevliige kannab distsiplinaarkaristust, välja arvatud tegevliikme noomitusega karistamisel;
 
@@ -30,6 +30,6 @@
 
 (2) Tegevliige, kelle Kaitseliidu relvaloa kehtivus on peatatud, on kohustatud otsusest teadasaamisel viivitamata tooma tema valduses oleva Kaitseliidu relva ja talle väljastatud laskemoona Kaitseliitu hoiule.
 
-(3) Käesoleva paragrahvi lõikes 1 nimetatud asjaolu äralangemisel taastab Kaitseliidu ülem või malevapealik oma kirjaliku otsusega tegevliikme Kaitseliidu relvaloa kehtivuse.
+(3) Käesoleva paragrahvi lõikes 1 nimetatud asjaolu äralangemisel taastab Kaitseliidu ülem või tema volitatud struktuuriüksuse juht oma kirjaliku otsusega tegevliikme Kaitseliidu relvaloa kehtivuse.
 
 (4) Tegevliige, kelle Kaitseliidu relvaloa kehtivus on peatatud käesoleva paragrahvi lõike 1 punktide 3 ja 5 alusel, peab enne loa kehtivuse taastamist uuesti läbi tegema Kaitseliidu relva käitlemise ja kasutamise koolituse.
