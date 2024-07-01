@@ -12,6 +12,8 @@
 
 (4) Kindlustusandja teavitab Finantsinspektsiooni kindlustusandja juhi või vastutava isiku valimise või määramise kavatsusest, esitades Finantsinspektsioonile käesoleva paragrahvi lõikes 1 nimetatud andmed ja dokumendid ning juhatuse liikme puhul tema vastutusvaldkonna kirjelduse vähemalt 30 päeva enne nimetatud otsuse tegemist. Kindlustusandja teavitab Finantsinspektsiooni kavatsusest pikendada kindlustusandja juhi või vastutava isiku ametiaega, esitades käesoleva paragrahvi lõikes 1 nimetatud andmed ja dokumendid vähemalt kümme päeva enne nimetatud otsuse tegemist.
 
+(4¹) Käesoleva paragrahvi lõikes 4 sätestatud tähtaegu ei kohaldata, kui dokumentide tähtajaks esitamine ei ole mõjuval põhjusel võimalik.
+
 (5) Käesoleva paragrahvi lõikes 4 sätestatud tähtaega ei kohaldata tegevusloa taotlemise ajal.
 
 (6) Eriotstarbelise varakogumi juhi valimisele kohaldatakse komisjoni delegeeritud määruse (EL) nr 2015/35 artiklis 322 sätestatut.
