@@ -14,7 +14,7 @@
 
 6) tervishoiuteenuste korraldamise seaduses sätestatud haiglavõrku kuuluvate piirkondliku haigla ja keskhaigla pidaja statsionaarse eriarstiabi osutamisel ja kiirabibrigaadi pidaja kiirabi osutamisel;
 
-7) tervishoiuteenuste korraldamise seaduses sätestatud perearst üldarstiabi osutamisel;
+7) tervishoiuteenuste korraldamise seaduses sätestatud perearstiabi osutaja perearstiabi osutamisel;
 
 8) Eesti maatunnusega seotud tipptaseme domeeninimede registri haldaja registri pidamiseks kasutatava süsteemi ja tipptaseme nimeserveri teenuse osutamisel;
 
