@@ -1,0 +1,42 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung esmaspäev, 8.07.2024 kell 10.00",
+  "sitting_time": "2024-07-08T10:00:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Komisjoni esimehe ja aseesimehe erakorraline valimine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "170ba057-bfd5-4a68-a79e-17296d25dc07"
+    },
+    {
+      "order": 2,
+      "title": "Mootorsõidukimaksu seaduse eelnõu (364 UA)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c4e31466-0afc-4168-b199-ca4a7308fdb8"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "PÕSK protokoll nr 65",
+      "uuid": "1d778035-e329-44d1-90bc-e556c86f3d46",
+      "files": [
+        "PÕSK_protokoll_nr_65.asice",
+        "asendus_PSK_05.07.2024.docx",
+        "asendus_PSK_05.07.2024.asice",
+        "PÕSK_erakorr._protokoll_nr_65_(08.07.2024).pdf"
+      ]
+    }
+  ],
+  "uuid": "f2b8b449-c529-4106-a577-a08d08f81e47",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f2b8b449-c529-4106-a577-a08d08f81e47)",
+  "source": "https://api.riigikogu.ee/api/volumes/f2b8b449-c529-4106-a577-a08d08f81e47",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-07-01&endDate=2024-07-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
