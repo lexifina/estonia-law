@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni erakorraline istung esmaspäev, 8.07.2024 kell 11.15",
+  "sitting_time": "2024-07-08T11:15:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Istungi päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2df3d3cc-bdaf-49df-8b5d-f8287b38d2b0"
+    },
+    {
+      "order": 2,
+      "title": "Mootorsõidukimaksu seaduse (364 UA) uuesti arutamise ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9a7eb4d2-260f-405f-87af-bb5ab3b49298"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5cf04ec4-6d4a-46d7-b692-37d44c7bf77c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 08.07.2024",
+      "uuid": "a0aaf53f-a067-4c0e-8b8f-521943a1ed7c",
+      "files": [
+        "RAHK_protokoll_08.07.2024.asice",
+        "RAHK_protokoll_96_08_07_2024.pdf"
+      ]
+    }
+  ],
+  "uuid": "72efb9ec-cdfd-4f95-87df-4489129e2303",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 72efb9ec-cdfd-4f95-87df-4489129e2303)",
+  "source": "https://api.riigikogu.ee/api/volumes/72efb9ec-cdfd-4f95-87df-4489129e2303",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-07-01&endDate=2024-07-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
