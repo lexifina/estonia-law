@@ -6,7 +6,7 @@
 
 (3) Pandikirjast tuleneva maksekohustuse tähtaeg peab olema üheselt kindlaksmääratav pandikirjade tingimuste alusel.
 
-(4) Pandikirjade tingimustes ette nähtud edasilükkav tingimus, mille täitumise tagajärjel pikeneb pandikirjast tuleneva maksekohustuse tähtaeg, on tühine, välja arvatud käesoleva paragrahvi lõikes 4¹ nimetatud juhul ja kui täidetakse mõlemad järgmised nõuded:
+(4) Pandikirjade tingimustes ette nähtud edasilükkav tingimus, mille täitumise tagajärjel pikeneb pandikirjast tuleneva maksekohustuse tähtaeg, on tühine, välja arvatud käesoleva paragrahvi lõikes 4¹ nimetatud juhul või kui täidetakse mõlemad järgmised nõuded:
 
 1) edasilükkav tingimus ei võimalda emitendil pikendada maksekohustuse tähtaega oma äranägemise järgi;
 
