@@ -1,0 +1,35 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni erakorraline istung neljapäev, 25.07.2024 kell 14.00",
+  "sitting_time": "2024-07-25T14:00:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Mootorsõidukimaksu seaduse eelnõu (364 UA) ettevalmistamine teiseks lugemiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9c4445b1-4ab7-4459-8754-83a6273c541c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 25.07.2024",
+      "uuid": "5a20815c-b644-44da-8fe6-e64e296d2129",
+      "files": [
+        "RAHK_protokoll_25.07.2024.asice",
+        "RAHK_protokoll_100_25_07_2024_364_UA_ME_loetelu_lisa_1.pdf",
+        "RAHK_protokoll_100_25_07_2024_erakorraline.pdf"
+      ]
+    }
+  ],
+  "uuid": "dbed17b3-dacf-401b-ba40-76a79a7a4f76",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid dbed17b3-dacf-401b-ba40-76a79a7a4f76)",
+  "source": "https://api.riigikogu.ee/api/volumes/dbed17b3-dacf-401b-ba40-76a79a7a4f76",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-07-01&endDate=2024-07-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
