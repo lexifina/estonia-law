@@ -1,0 +1,42 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Julgeolekuasutuste järelevalve erikomisjon",
+  "committee_uuid": "d3826f36-707d-17ad-41e8-8b99f9910b98",
+  "title": "Komisjoni erakorraline istung esmaspäev, 29.07.2024 kell 9.00",
+  "sitting_time": "2024-07-29T09:00:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Komisjoni esimehe ja aseesimehe valimine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "474cefd8-b67e-40aa-b385-9f093ca02336"
+    },
+    {
+      "order": 2,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b8862ff0-414a-4e00-96bc-b5b39d024ddd"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "JAJK protokoll 29.07.2024",
+      "uuid": "5574cafc-0a6f-434a-b29a-3fad019659bd",
+      "files": [
+        "Asendusliige_R.Rand_29072024.docx",
+        "Asendus29.07.24.docx",
+        "Asendusliige_R.Rand_29072024.asice",
+        "Asendus29.07.24.asice"
+      ]
+    }
+  ],
+  "uuid": "f4b7e036-888f-4812-a8c6-417e8fd3460c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f4b7e036-888f-4812-a8c6-417e8fd3460c)",
+  "source": "https://api.riigikogu.ee/api/volumes/f4b7e036-888f-4812-a8c6-417e8fd3460c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-07-01&endDate=2024-07-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
