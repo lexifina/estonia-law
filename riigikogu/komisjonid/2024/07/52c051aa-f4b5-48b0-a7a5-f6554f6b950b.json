@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 29.07.2024 kell 09.00",
+  "sitting_time": "2024-07-29T09:11:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Komisjoni esimehe ja aseesimehe erakorraline valimine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "52598246-7a32-4232-9f87-53f0f8ea65ef"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8c2dc77b-58eb-4970-8718-17bee0f64b99"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 29.07.2024",
+      "uuid": "713563dd-6f47-483f-9d39-f4439b16a446",
+      "files": [
+        "MAEK_protokoll_29.07.2024.asice",
+        "MAEK_protokoll_29.07.2024.pdf"
+      ]
+    }
+  ],
+  "uuid": "52c051aa-f4b5-48b0-a7a5-f6554f6b950b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 52c051aa-f4b5-48b0-a7a5-f6554f6b950b)",
+  "source": "https://api.riigikogu.ee/api/volumes/52c051aa-f4b5-48b0-a7a5-f6554f6b950b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-07-01&endDate=2024-07-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
