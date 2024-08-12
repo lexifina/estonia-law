@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung esmaspäev, 12.08.2024",
+  "sitting_time": "2024-08-12T10:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Istungjärkude vahelise töökava muutmine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b756edca-786c-41d7-b024-d688c0429eba"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "df9f003d-e941-402d-ac7f-a7e2398b4827"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 12.08.2024",
+      "uuid": "ccd0ad3e-0919-49eb-8fc7-2a0b0b6b597e",
+      "files": [
+        "VÄLK_protokoll_12.08.2024.asice",
+        "VÄLK_protokoll_12.08.2024.pdf"
+      ]
+    }
+  ],
+  "uuid": "d4463871-0f72-4e7f-abe3-16b8f4920781",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d4463871-0f72-4e7f-abe3-16b8f4920781)",
+  "source": "https://api.riigikogu.ee/api/volumes/d4463871-0f72-4e7f-abe3-16b8f4920781",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-08-01&endDate=2024-08-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
