@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung teisipäev, 27.08.2024 kell 09.00",
+  "sitting_time": "2024-08-27T09:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 29. augustil 2024 toimuval Euroopa Liidu välisministrite mitteametlikul kohtumisel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "acfd1441-b9ab-4435-b391-fa92e36ce43c"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad 30. augustil 2024 toimuval Euroopa Liidu kaitseministrite mitteametlikul kohtumisel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d4314833-9f14-4a8d-88d2-73acf79981b6"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "eff32b68-86e1-4211-ba0b-0e6a093c3d3a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 27.08.2024",
+      "uuid": "d380d926-0a95-4ac9-bcb5-91b35168ac83",
+      "files": [
+        "VÄLK_protokoll_27.08.2024.asice",
+        "VÄLK_protokoll_27.08.2024.pdf"
+      ]
+    }
+  ],
+  "uuid": "8e249cf0-9c08-4a11-914e-fadb5f080d70",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8e249cf0-9c08-4a11-914e-fadb5f080d70)",
+  "source": "https://api.riigikogu.ee/api/volumes/8e249cf0-9c08-4a11-914e-fadb5f080d70",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-08-01&endDate=2024-08-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
