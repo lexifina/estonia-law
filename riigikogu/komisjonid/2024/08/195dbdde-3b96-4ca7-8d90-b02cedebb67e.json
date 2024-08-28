@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni erakorraline istung kolmapäev, 28.08.2024 kell 14.00",
+  "sitting_time": "2024-08-28T14:00:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ed207280-1986-4f9c-a70a-99547f316c0e"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade 2024.aasta suvisest majandusprognoosist. Osaleb rahandusminister Jürgen Ligi",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6b769238-5eb2-48ee-9f39-943ec6430dc3"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e97e2468-4ecb-4eb5-a2c9-7c8ab7bcb2e5"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 28.08.2024",
+      "uuid": "b9db41f5-5459-434d-acde-a9eaa50a9395",
+      "files": [
+        "RAHK_protokoll_28.08.2024.asice",
+        "RAHK_protokoll_101_28_08_2024_erakorraline.pdf",
+        "RAM_Suveprognoos_2024__28.08.2024.pdf"
+      ]
+    }
+  ],
+  "uuid": "195dbdde-3b96-4ca7-8d90-b02cedebb67e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 195dbdde-3b96-4ca7-8d90-b02cedebb67e)",
+  "source": "https://api.riigikogu.ee/api/volumes/195dbdde-3b96-4ca7-8d90-b02cedebb67e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-08-01&endDate=2024-08-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
