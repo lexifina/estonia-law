@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung reede, 30.08.2024 kell 14.30",
+  "sitting_time": "2024-08-30T14:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti Vabariigi erakorraliste ja täievoliliste suursaadikute kandidaadid",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9b82fec3-eda3-45f7-88b4-713611280ccc"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a210781b-f83e-4dc0-996e-77059ad0dd24"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 30.08.2024",
+      "uuid": "5479bb32-1162-415f-8a9c-ecf85b4d55ab",
+      "files": [
+        "VÄLK_protokoll_30.08.2024.asice",
+        "VÄLK_protokoll_30.08.2024.pdf"
+      ]
+    }
+  ],
+  "uuid": "09504887-b4c6-4157-bfab-94ce48d5c497",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 09504887-b4c6-4157-bfab-94ce48d5c497)",
+  "source": "https://api.riigikogu.ee/api/volumes/09504887-b4c6-4157-bfab-94ce48d5c497",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-08-01&endDate=2024-08-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
