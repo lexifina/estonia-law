@@ -32,4 +32,6 @@
 
 (4) Kui kindlustusandja rakendab käesoleva seaduse §-s 47 sätestatud volatiilsuse kohandamist, peab ta riskijuhtimise funktsiooni sise-eeskirjas muu hulgas määrama sellise kohandamise rakendamise kriteeriumid.
 
+(4¹) Kindlustusandja kehtestab oma töötajatele käesolevas seaduses sätestatud nõuete rikkumisest teavitamise korra ja loob vastavalt tööalasest Euroopa Liidu õiguse rikkumisest teavitaja kaitse seaduse §-le 8 teavituskanali, mis võimaldab asutusesisest õigusrikkumisest teavitamist. Õigusrikkumisest teavitamisel kohaldatakse teavitaja kaitset tööalasest Euroopa Liidu õiguse rikkumisest teavitaja kaitse seaduse ja selle alusel kehtestatud õigusaktide tähenduses.
+
 (5) Kindlustusandja peab hindama sise-eeskirjade ajakohasust vähemalt kord aastas ning vajaduse korral neid muutma.

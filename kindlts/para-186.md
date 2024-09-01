@@ -39,3 +39,5 @@
 16) kindlustuse turustamisega vahetult seotud isiku ja kindlustusmaakleri juhatuse liikme teadmiste ja oskuste hindamise ning turustamisega vahetult seotud isikule aastas vähemalt 15 tunni ulatuses kindlustusalase koolituse tagamise kord;
 
 17) kindlustusteenuse väljatöötamise ja teenuses oluliste muudatuste tegemise kord käesoleva seaduse § 185¹ rakendamiseks.
+
+(3) Kindlustusmaakler kehtestab oma töötajatele käesolevas seaduses sätestatud nõuete rikkumisest teavitamise korra ja loob vastavalt tööalasest Euroopa Liidu õiguse rikkumisest teavitaja kaitse seaduse §-le 8 teavituskanali, mis võimaldab sõltumatut õigusrikkumisest teavitamist. Õigusrikkumisest teavitamisel kohaldatakse teavitaja kaitset tööalasest Euroopa Liidu õiguse rikkumisest teavitaja kaitse seaduse ja selle alusel kehtestatud õigusaktide tähenduses.
