@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/107032023061> (version in force from 2023-04-01)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/111032023045> (version in force from 2024-09-01)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -100,6 +100,8 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/107032023061> (version in force 
 | **2. jagu Kultuurimälestiste register ja mälestise tähistamine** | |
 | [§ 78](para-078.md) | Kultuurimälestiste register |
 | [§ 79](para-079.md) | Mälestise tähistamine |
+| **3. jagu Rahvakultuuri andmekogu** | |
+| [§ 79¹](para-079b1.md) | Rahvakultuuri andmekogu |
 | **7. peatükk Riiklik ja haldusjärelevalve** | |
 | [§ 80](para-080.md) | Riikliku ja haldusjärelevalve teostamine |
 | [§ 81](para-081.md) | Riikliku järelevalve meetmed ja sunniraha määr |

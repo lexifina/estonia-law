@@ -30,6 +30,8 @@
 
 - 2. jagu Kultuurimälestiste register ja mälestise tähistamine
 
+- 3. jagu Rahvakultuuri andmekogu
+
 7. peatükk Riiklik ja haldusjärelevalve
 
 8. peatükk Vastutus
