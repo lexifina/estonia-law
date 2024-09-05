@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Erakorraline komisjoni istung neljapäev, 5.09.2024 kell 11.00",
+  "sitting_time": "2024-09-05T11:00:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c2d6c43c-cbc9-4e84-9faa-a342545c92c3"
+    },
+    {
+      "order": 2,
+      "title": "Põhiseaduslike institutsioonide eelarvete taotluste arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1c25e2be-f7d7-4450-bed5-79cb2cfbe200"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0db1012a-46b0-4a51-9b84-430a6328c90a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 05.09.2024",
+      "uuid": "e6f908e1-e49b-4f73-bc7b-4ead22f29bb3",
+      "files": [
+        "RAHK_protokoll_05.09.2024.asice",
+        "RAHK_protokoll_103_05_09_2024_erakorraline.pdf"
+      ]
+    }
+  ],
+  "uuid": "48a55832-1dff-4f0d-bddc-d5de8b9487f8",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 48a55832-1dff-4f0d-bddc-d5de8b9487f8)",
+  "source": "https://api.riigikogu.ee/api/volumes/48a55832-1dff-4f0d-bddc-d5de8b9487f8",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-09-01&endDate=2024-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
