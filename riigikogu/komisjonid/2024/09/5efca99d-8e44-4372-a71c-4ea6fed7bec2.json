@@ -1,0 +1,53 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 9.09.2024 kell 13.15",
+  "sitting_time": "2024-09-09T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6b79b0ae-ce2b-4752-bcc4-bfa108ccdd65"
+    },
+    {
+      "order": 2,
+      "title": "Riigi rahanduse olukord ja eelarve läbipaistvus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6a889f46-143c-4352-a84e-f26115b19946"
+    },
+    {
+      "order": 3,
+      "title": "Laekunud Riigikontrolli aruanded",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "222dd472-8f72-45b8-aefe-38c617b0b353"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d083bd3e-b27d-48b1-9b2f-8708f0b42614"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 9.09.24",
+      "uuid": "fc716451-f0d5-4635-a366-4b8d23003b2d",
+      "files": [
+        "REKK_protokoll_9.09.24.asice",
+        "Protokoll_nr_61_9.09.24.pdf",
+        "Suveprognoos_2024_PP_esitlus_27.08.24.pptx"
+      ]
+    }
+  ],
+  "uuid": "5efca99d-8e44-4372-a71c-4ea6fed7bec2",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 5efca99d-8e44-4372-a71c-4ea6fed7bec2)",
+  "source": "https://api.riigikogu.ee/api/volumes/5efca99d-8e44-4372-a71c-4ea6fed7bec2",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-09-01&endDate=2024-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
