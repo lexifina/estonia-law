@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 10.09.2024 kell 14.00",
+  "sitting_time": "2024-09-10T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade olukorrast põllumajanduses Maaelu Edendamise SA vaates",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8c4799b3-f997-42ed-84ea-11c7c22f47f8"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c94ca1a8-f1da-4d5e-a36d-24cde038d337"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 10.09.2024",
+      "uuid": "9e6acc43-e7e2-424f-b637-e4666b40e09e",
+      "files": [
+        "MAEK_protokoll_10.09.2024.asice",
+        "073_protokolli_lisa_MES.pdf",
+        "073_MAEK_protokoll_10.09.2024.pdf"
+      ]
+    }
+  ],
+  "uuid": "709a784e-e7db-4118-8164-24e9a8c92918",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 709a784e-e7db-4118-8164-24e9a8c92918)",
+  "source": "https://api.riigikogu.ee/api/volumes/709a784e-e7db-4118-8164-24e9a8c92918",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-09-01&endDate=2024-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
