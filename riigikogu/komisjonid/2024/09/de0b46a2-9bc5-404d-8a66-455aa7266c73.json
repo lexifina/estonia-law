@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung neljapäev, 12.09.2024 kell 13.00",
+  "sitting_time": "2024-09-12T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "19cdd7e5-a860-44bf-aa34-0451c92e3f77"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu otsus „Riigikogu otsuse ˮEuroopa Nõukogu Parlamentaarse Assamblee  Eesti delegatsiooni moodustamineˮ muutmine\" (491 OE) ettevalmistamine esimeseks lugemiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0f119bab-ddda-4d1c-ae90-539049cd54dd"
+    },
+    {
+      "order": 3,
+      "title": "Eesti prioriteedid algaval ÜRO 79. Peaassambleel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6a65d7f7-7588-4f83-9490-643696362b0c"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0940a345-1f99-416d-be37-bccb9f25b574"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 12.09.2024",
+      "uuid": "e24dddf8-a940-4519-8ccd-6589a43a2ad8",
+      "files": [
+        "VÄLK_protokoll_12.09.2024.asice",
+        "VÄLK_protokoll_12.09.2024.pdf"
+      ]
+    }
+  ],
+  "uuid": "de0b46a2-9bc5-404d-8a66-455aa7266c73",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid de0b46a2-9bc5-404d-8a66-455aa7266c73)",
+  "source": "https://api.riigikogu.ee/api/volumes/de0b46a2-9bc5-404d-8a66-455aa7266c73",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-09-01&endDate=2024-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
