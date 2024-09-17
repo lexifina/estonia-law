@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 17.09.2024 kell 14.00",
+  "sitting_time": "2024-09-17T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade ühistranspordikeskuste tegevusest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "256ca57b-a793-4711-8d96-b82c4a2a77ff"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "474665b3-4f06-4c9a-9624-9d2bd38b57a5"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 17.09.2024",
+      "uuid": "9ad49012-d5fa-41ed-874c-ce253fc52ae2",
+      "files": [
+        "075_MAEK_protokoll_17.09.2024.pdf",
+        "MAEK_protokoll_17.09.2024.asice",
+        "075_protokoll_lisa_Ühistranspordi_tutvustus.pdf"
+      ]
+    }
+  ],
+  "uuid": "2c43119a-6fe1-4118-8e31-07a74211e00b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2c43119a-6fe1-4118-8e31-07a74211e00b)",
+  "source": "https://api.riigikogu.ee/api/volumes/2c43119a-6fe1-4118-8e31-07a74211e00b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-09-01&endDate=2024-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
