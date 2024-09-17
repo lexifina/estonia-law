@@ -1,0 +1,49 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung teisipäev, 17.09.2024 kell 14.00",
+  "sitting_time": "2024-09-17T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade Rahandusministeeriumi 2024. aasta suvisest majandusprognoosist",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "72ca7cc0-28ef-45d2-962f-5a5b5f051aa2"
+    },
+    {
+      "order": 2,
+      "title": "Arenguseire Keskuse raporti „Aktiivsed tarbijad tuleviku energiasüsteemis“ tulemuste tutvustus ja arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "92594b1c-df22-4a68-bdcc-70b50ddeaab5"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "88a5f842-a70d-4673-9247-0b990890dd82"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAJK protokoll 17.09.2024",
+      "uuid": "02ce3af9-98da-4f79-972e-3428875536ab",
+      "files": [
+        "MAJK_protokoll_17.09.2024.asice",
+        "MAJK_protokoll_nr_79_17.09.2024.pdf",
+        "Lisa_2__Riigirahanduse_prognoos.pdf",
+        "Lisa_1__RAMi_2024._aasta_suvisest_majandusprognoosist.pdf",
+        "Lisa_3__ASK.pdf"
+      ]
+    }
+  ],
+  "uuid": "fe932499-f5df-4edb-a329-5c0870cd729e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid fe932499-f5df-4edb-a329-5c0870cd729e)",
+  "source": "https://api.riigikogu.ee/api/volumes/fe932499-f5df-4edb-a329-5c0870cd729e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-09-01&endDate=2024-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
