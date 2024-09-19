@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung neljapäev, 19.09.2024 kell 13.15",
+  "sitting_time": "2024-09-19T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kaitseväe juhataja sõjaline ülevaade",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bc7474ee-a93c-450c-a361-16392aeb3af2"
+    },
+    {
+      "order": 2,
+      "title": "Hädaolukorra seaduse muutmise ja sellega seonduvalt teiste seaduste muutmise seaduse eelnõu (426 SE II) kolmanda lugemise ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5a02a0fc-92f3-4cfd-af7f-ff6e6e0cf4da"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Riigikaitsekomisjoni 19.09.2024 istungi protokoll",
+      "uuid": "34a115f5-d5b8-4318-a20f-85dbbd860f24",
+      "files": [
+        "Riigikaitsekomisjoni_19.09.2024_istungi_protokoll.asice",
+        "2024-09-19_protokoll_88.pdf"
+      ]
+    }
+  ],
+  "uuid": "070b24df-a2c4-4fdb-81ab-9c32a95c5db4",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 070b24df-a2c4-4fdb-81ab-9c32a95c5db4)",
+  "source": "https://api.riigikogu.ee/api/volumes/070b24df-a2c4-4fdb-81ab-9c32a95c5db4",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-09-01&endDate=2024-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
