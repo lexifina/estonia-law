@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung neljapäev, 19.09.2024 kell 13.15",
+  "sitting_time": "2024-09-19T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 23. septembril 2024 ÜRO Peaassamblee raames toimuval Euroopa Liidu välisasjade nõukogu kohtumisel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "17c078c1-68d3-4bea-8d8d-17edab4cd776"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ea3cffb5-4c29-4b19-a4cc-b2c8f1e66b98"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK 19.09.2024 protokoll",
+      "uuid": "3fff3433-2a27-495d-8f5e-3f4e85feb584",
+      "files": [
+        "VÄLK_19.09.2024_protokoll.asice",
+        "VÄLK_protokoll_19.09.2024.pdf"
+      ]
+    }
+  ],
+  "uuid": "e09f47f4-67e4-4144-b4de-9fa6982d799b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e09f47f4-67e4-4144-b4de-9fa6982d799b)",
+  "source": "https://api.riigikogu.ee/api/volumes/e09f47f4-67e4-4144-b4de-9fa6982d799b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-09-01&endDate=2024-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
