@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 23.09.2024 kell 13.15",
+  "sitting_time": "2024-09-23T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3a940c10-8b06-4cf6-b5ec-72bfc934c273"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli kontrolliaruande „Riigi 2023. aasta raamatupidamise aastaaruande õigsus ja tehingute seaduslikkus“ arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bb0de83d-108e-4cc6-ab2d-1bc965825c8e"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7645c208-3e75-4693-b250-8cd99fcdf91e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 23.09.24",
+      "uuid": "3aeb4a4a-b13f-47e4-b4d9-d25d5eeaf15a",
+      "files": [
+        "REKK_protokoll_23.09.24.asice",
+        "Protokoll_nr_64_23.09.24.pdf",
+        "RMKA_2023_ettekanne_18.9.24.pptx"
+      ]
+    }
+  ],
+  "uuid": "43278b3f-495d-4308-98fa-f3fcd0435915",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 43278b3f-495d-4308-98fa-f3fcd0435915)",
+  "source": "https://api.riigikogu.ee/api/volumes/43278b3f-495d-4308-98fa-f3fcd0435915",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-09-01&endDate=2024-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
