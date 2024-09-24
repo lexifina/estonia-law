@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 24.09.2024 kell 14.00",
+  "sitting_time": "2024-09-24T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade olukorrast põllumajanduses Põllumajandus-Kaubanduskoja vaates",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7df91d26-e8c3-43b1-901d-53660c28f518"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "86730f76-50e3-45c3-8e8d-200342d48059"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 24.09.2024",
+      "uuid": "eca36488-8b6e-4bd0-9e2a-97d47f078b63",
+      "files": [
+        "MAEK_protokoll_24.09.2024.asice",
+        "077_MAEK_protokoll_24.09.2024.pdf"
+      ]
+    }
+  ],
+  "uuid": "61036398-b142-4e76-a627-bdd4f979fef6",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 61036398-b142-4e76-a627-bdd4f979fef6)",
+  "source": "https://api.riigikogu.ee/api/volumes/61036398-b142-4e76-a627-bdd4f979fef6",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-09-01&endDate=2024-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
