@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung teisipäev, 24.09.2024 kell 14.00",
+  "sitting_time": "2024-09-24T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikaitsekomisjoni töökava kuni 2025. aasta esimese kvartalini",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "80dd619b-6430-4752-90c1-bfa352627fb1"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d19146cc-9898-4209-a29c-914a8150cb82"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Riigikaitsekomisjoni 24.09.2024 istungi protokoll",
+      "uuid": "ac200f13-45a1-44db-ba0c-0ebce86b6a2f",
+      "files": [
+        "Riigikaitsekomisjoni_24.09.2024_istungi_protokoll.asice",
+        "2024-09-24_protokoll_90.pdf"
+      ]
+    }
+  ],
+  "uuid": "25cf7812-63b1-4e0e-b52c-1aa2e7bcdb0d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 25cf7812-63b1-4e0e-b52c-1aa2e7bcdb0d)",
+  "source": "https://api.riigikogu.ee/api/volumes/25cf7812-63b1-4e0e-b52c-1aa2e7bcdb0d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-09-01&endDate=2024-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
