@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Korruptsioonivastane erikomisjon",
+  "committee_uuid": "e4f2977a-e8c3-4fa0-8f3d-9df9acd6377f",
+  "title": "Komisjoni erakorraline istung kolmapäev, 25.09.2024 kell 11.30",
+  "sitting_time": "2024-09-25T11:30:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Komisjoni esimehe ja aseesimehe erakorralised valimised",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7b263c4c-289f-467f-9a23-305677c1c877"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b8f8a604-702d-49db-9e48-bee233a048ba"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KVEK protokoll 40 (25.09.2024)",
+      "uuid": "1000a356-5dc7-4f72-b1ff-a93f01230c9c",
+      "files": [
+        "KVEK_protokoll_40_(25.09.2024).asice",
+        "KVEK_protokoll_40_(25.09.2024).pdf"
+      ]
+    }
+  ],
+  "uuid": "22f4bb3e-1b81-4bf8-a4e0-1d1e3bbfc096",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 22f4bb3e-1b81-4bf8-a4e0-1d1e3bbfc096)",
+  "source": "https://api.riigikogu.ee/api/volumes/22f4bb3e-1b81-4bf8-a4e0-1d1e3bbfc096",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-09-01&endDate=2024-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
