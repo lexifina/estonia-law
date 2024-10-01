@@ -8,7 +8,7 @@
 
 (4) Enne elektroonilise hääletamise algust korraldab riigi valimisteenistus avalikult proovihääletamise. Proovihääletamise käigus testib riigi valimisteenistus elektroonilise hääle andmist, loodud ligipääsuvahendite kasutamist ja elektroonilise hääletamise tulemuste kindlakstegemist ning kontrollib elektroonilise hääletamise süsteemi terviklust. Pärast proovihääletamist viiakse elektroonilise hääletamise süsteem proovihääletamise-eelsesse seisu.
 
-(5) Valijarakendus luuakse levinumatele operatsioonisüsteemidele ja hääle kontrollrakendus levinumatele mobiilseadme operatsioonisüsteemidele. Operatsioonisüsteemid, millele rakendused luuakse, määrab riigi valimisteenistus kindlaks enne iga valimist.
+(5) Valijarakendus luuakse levinumatele arvuti operatsioonisüsteemidele ja hääle kontrollrakendus levinumatele mobiilseadme operatsioonisüsteemidele. Valijarakenduse võib luua ka mobiilseadme operatsioonisüsteemidele. Operatsioonisüsteemid, millele rakendused luuakse, kehtestab Vabariigi Valimiskomisjon otsusega enne iga valimist.
 
 (6) Valijarakendusel on tugi vaegnägijatele.
 

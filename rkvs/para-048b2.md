@@ -4,7 +4,11 @@
 
 (2) Valija hääletab ise. Käesoleva seaduse §-s 48⁹ ettenähtud tingimustel on valijal võimalik elektrooniliselt antud häält muuta.
 
-(3) Vabariigi Valimiskomisjon kehtestab otsusega elektroonilise hääletamise tehnilised nõuded.
+(3) Vabariigi Valimiskomisjon kehtestab otsusega:
+
+- 1) valija tuvastamiseks kasutatavad e-identimise süsteemid;
+
+- 2) elektroonilise hääletamise tehnilised nõuded.
 
 (4) Riigi valimisteenistus:
 

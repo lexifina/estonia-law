@@ -2,7 +2,7 @@
 
 (1) Iga valla ja linna ning Tallinnas linnaosa territooriumil moodustatakse vähemalt üks valimisjaoskond. Valimisjaoskonnal on hääletamisruum või hääletamisruumid, kus korraldab hääletamist jaoskonnakomisjon.
 
-(2) Valla- või linnavalitsus määrab hiljemalt 50. päeval enne valimispäeva määrusega kindlaks:
+(2) Valla- või linnavalitsus määrab hiljemalt 60. päeval enne valimispäeva määrusega kindlaks:
 
 - 1) valimisjaoskondade arvu ja numeratsiooni ning milliseid hääletamisliike iga jaoskond korraldab;
 
