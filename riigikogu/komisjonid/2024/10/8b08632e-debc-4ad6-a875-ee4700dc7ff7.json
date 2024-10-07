@@ -1,0 +1,51 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni avalik istung esmaspäev, 7.10.2024 kell 11.15",
+  "sitting_time": "2024-10-07T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "086b0a03-96e7-4d54-84f7-6a8fabfe5553"
+    },
+    {
+      "order": 2,
+      "title": "Euroopa Parlamendi valimise seaduse muutmise seaduse (valimis- ja kandideerimisea langetamine) eelnõu (414 SE) teise lugemise ettevalmistamine (ekspertide kuulamine)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f875a219-6e63-46eb-9504-fe95e3c78974"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "156c63a9-1744-4991-9cc2-c5568cd43db2"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "PÕSK protokoll nr 69",
+      "uuid": "72641cd0-628f-4071-9c66-c8acc1dbf1eb",
+      "files": [
+        "PÕSK_protokoll_nr_69.asice",
+        "põs_kom_Seeme_ja_Laanet.docx",
+        "põs_kom_Seeme_ja_Laanet.asice",
+        "Volikiri_M._Kallas_(07.10.2024).pdf",
+        "põs_kom_Pipi_ja_Joller.docx",
+        "põs_kom_Pipi_ja_Joller.asice",
+        "PÕSK_protokoll_nr_69_(07.10.2024).pdf"
+      ]
+    }
+  ],
+  "uuid": "8b08632e-debc-4ad6-a875-ee4700dc7ff7",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8b08632e-debc-4ad6-a875-ee4700dc7ff7)",
+  "source": "https://api.riigikogu.ee/api/volumes/8b08632e-debc-4ad6-a875-ee4700dc7ff7",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-10-01&endDate=2024-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
