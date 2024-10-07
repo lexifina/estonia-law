@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Korruptsioonivastane erikomisjon",
+  "committee_uuid": "e4f2977a-e8c3-4fa0-8f3d-9df9acd6377f",
+  "title": "Komisjoni väljasõiduistung esmaspäev, 7.10.2024 kell 13.30",
+  "sitting_time": "2024-10-07T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "22d45a4e-d25a-4c5a-9bed-0aa8ea0c940d"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine riigi peaprokuröri Andres Parmasega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fcd11823-3f64-492e-bf31-453427fb134a"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a0ee3c9f-5fa5-4cff-84f3-a5b1c44e4d1a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KVEK protokoll 41 (07.10.2024)",
+      "uuid": "156097d4-52ff-4733-a817-eb15d4e5147c",
+      "files": [
+        "KVEK_protokoll_41_(07.10.2024).asice",
+        "KVEK_protokoll_41_(07.10.24).pdf"
+      ]
+    }
+  ],
+  "uuid": "7ed3e650-10b3-4873-97c5-b7959b4a6e62",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7ed3e650-10b3-4873-97c5-b7959b4a6e62)",
+  "source": "https://api.riigikogu.ee/api/volumes/7ed3e650-10b3-4873-97c5-b7959b4a6e62",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-10-01&endDate=2024-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
