@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung esmaspäev, 7.10.2024 kell 11.10",
+  "sitting_time": "2024-10-07T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2e69e5e5-0aff-4a3c-a8fe-ba73827babb0"
+    },
+    {
+      "order": 2,
+      "title": "Riigikohtule arvamuse andmine põhiseaduslikkuse järelevalve asjas nr 5-24-25",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "eba5d97d-93c9-4c22-868d-ca34b1651bc1"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "48593c4d-836e-4752-8e3c-cd4d202fcade"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK protokoll 07.10.2024",
+      "uuid": "1598732a-ee00-46d4-a0b3-da2c4bf24a0d",
+      "files": [
+        "KEKK_protokoll_07.10.2024.asice",
+        "KEKK_protokoll_07.10.2024.pdf"
+      ]
+    }
+  ],
+  "uuid": "49b222c5-90ea-493f-8a89-21efe9eecb0e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 49b222c5-90ea-493f-8a89-21efe9eecb0e)",
+  "source": "https://api.riigikogu.ee/api/volumes/49b222c5-90ea-493f-8a89-21efe9eecb0e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-10-01&endDate=2024-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
