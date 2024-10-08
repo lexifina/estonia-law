@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 8.10.2024 kell 14.00",
+  "sitting_time": "2024-10-08T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade Eesti Ettevõtluse ja Innovatsiooni SA maaelu ning põllumajandust toetavatest tegevustest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c9598a77-f880-433c-a064-8845345e0ac5"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7189ee0e-7524-4f36-a806-4759f5b3bdbb"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 08.10.2024",
+      "uuid": "04b3e5c7-50f6-43d2-93f5-15ac1fe552e0",
+      "files": [
+        "MAEK_protokoll_08.10.2024.asice",
+        "079_protokolli_lisa_EIS_esitlus_241008.pdf",
+        "079_MAEK_protokoll_08.10.2024.pdf"
+      ]
+    }
+  ],
+  "uuid": "b604c98f-52b4-430a-8054-08b4929b2077",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b604c98f-52b4-430a-8054-08b4929b2077)",
+  "source": "https://api.riigikogu.ee/api/volumes/b604c98f-52b4-430a-8054-08b4929b2077",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-10-01&endDate=2024-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
