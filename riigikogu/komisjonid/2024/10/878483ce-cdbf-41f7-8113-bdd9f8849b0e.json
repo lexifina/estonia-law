@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung kolmapäev, 9.10.2024 kell 08.30",
+  "sitting_time": "2024-10-09T08:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikontrolli kontrolliaruande tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fb1daab3-9d59-4752-9a13-07a666d614b0"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7c8eb5ff-7cd9-4142-b31e-dc952776db07"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 9.10.24",
+      "uuid": "c71629dc-c6e9-4cd6-9143-8f37bcefb07e",
+      "files": [
+        "REKK_protokoll_9.10.24.asice",
+        "Protokoll_nr_67_9.10.24.pdf"
+      ]
+    }
+  ],
+  "uuid": "878483ce-cdbf-41f7-8113-bdd9f8849b0e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 878483ce-cdbf-41f7-8113-bdd9f8849b0e)",
+  "source": "https://api.riigikogu.ee/api/volumes/878483ce-cdbf-41f7-8113-bdd9f8849b0e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-10-01&endDate=2024-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
