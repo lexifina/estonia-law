@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung neljapäev, 10.10.2024 kell 13.15",
+  "sitting_time": "2024-10-10T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 14. oktoobril 2024 toimuval Euroopa Liidu välisasjade nõukogu kohtumisel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1c0befcf-869e-4e1f-960c-6419ef7d85b8"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "65f0e2cf-59d2-4114-a01f-65ff95f3fcca"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 10.10.2024",
+      "uuid": "90ec8c7f-4a85-4da9-a4ef-8a7ad68f1168",
+      "files": [
+        "VÄLK_protokoll_10.10.2024.asice",
+        "VÄLK_protokoll_10.10.2024.pdf"
+      ]
+    }
+  ],
+  "uuid": "8bb055e8-8b33-4edb-8f8e-f815a7a328ea",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8bb055e8-8b33-4edb-8f8e-f815a7a328ea)",
+  "source": "https://api.riigikogu.ee/api/volumes/8bb055e8-8b33-4edb-8f8e-f815a7a328ea",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-10-01&endDate=2024-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
