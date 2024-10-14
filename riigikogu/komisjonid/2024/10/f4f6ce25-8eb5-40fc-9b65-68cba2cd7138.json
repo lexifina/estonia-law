@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung esmaspäev, 14.10.2024 kell 14.30",
+  "sitting_time": "2024-10-14T14:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 17.-18. oktoobril toimuval Euroopa Ülemkogul",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "538f3053-53a3-45c7-9b5b-a6edecb80fb6"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "25ee6e8d-5094-487c-b5a1-965b8e1c3f45"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 14.10.2024",
+      "uuid": "f28cc203-9c9d-4810-8d5a-931f0af02c68",
+      "files": [
+        "Asendusliikme_volikiri_R._Solman_-_T._Lukas_14.10.2024.PDF",
+        "VÄLK_protokoll_14.10.2024.asice",
+        "VÄLK_protokoll_14.10.2024.pdf"
+      ]
+    }
+  ],
+  "uuid": "f4f6ce25-8eb5-40fc-9b65-68cba2cd7138",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f4f6ce25-8eb5-40fc-9b65-68cba2cd7138)",
+  "source": "https://api.riigikogu.ee/api/volumes/f4f6ce25-8eb5-40fc-9b65-68cba2cd7138",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-10-01&endDate=2024-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
