@@ -1,0 +1,44 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 15.10.2024 kell 14.00",
+  "sitting_time": "2024-10-15T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade riigi omanduses olevast maast, riigimaaga (sh põllumaaga) seotud kasutuslepingutest ning maa maksustamisest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ff8245e0-9638-4710-ab07-c323b5ca7cac"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "664d74b7-227e-4163-9d33-a0f48e59ff24"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 15.10.2024",
+      "uuid": "c60de359-770c-457a-9165-e31b5235941c",
+      "files": [
+        "081_protokolli_lisa_4_põllumaa_hinnad.pdf",
+        "081_protokolli_lisa_1_Põllumees_põline_rikas.pdf",
+        "081_protokolli_lisa_2_KOV_maamaksumäärad.xlsx",
+        "081_MAEK_protokoll_15.10.2024.pdf",
+        "MAEK_protokoll_15.10.2024.asice",
+        "081_protokolli_lisa_3_maamaks.pdf"
+      ]
+    }
+  ],
+  "uuid": "5056c8fd-3a51-4b52-9dae-67cf91a5b180",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 5056c8fd-3a51-4b52-9dae-67cf91a5b180)",
+  "source": "https://api.riigikogu.ee/api/volumes/5056c8fd-3a51-4b52-9dae-67cf91a5b180",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-10-01&endDate=2024-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
