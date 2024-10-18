@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/130122023005> (version in force from 2024-07-01)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/108102024016> (version in force from 2024-10-18)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -13,6 +13,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/130122023005> (version in force 
 | [§ 4](para-004.md) | Avalik raudtee |
 | [§ 5](para-005.md) | Ühendus teiste raudteedega |
 | [§ 6](para-006.md) | Avalik reisijatevedu |
+| [§ 6¹](para-006b1.md) | Elutähtsa teenuse osutaja |
 | [§ 7](para-007.md) | Reisijate õigused ja kohustused raudteel |
 | [§ 8](para-008.md) | Elektroonilise turvalisuse tagamine |
 | [§ 9](para-009.md) | Raamatupidamise eraldatuse nõuded |
