@@ -1,0 +1,54 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 21.10.2024 kell 13.15",
+  "sitting_time": "2024-10-21T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d0b88d0e-e153-44fe-b5d7-69fc9e24af4b"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli kontrolliaruande „Tervishoiutöötajate pädevushindamine“ arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "94d8b7b5-c7d3-4c22-85df-b5fc177db058"
+    },
+    {
+      "order": 3,
+      "title": "Ülevaade tervishoiutöötaja vastutuskindlustuse rakendusest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "edc6cc98-f47f-4244-987d-da177eaa52f7"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ab629db0-10f0-427c-bb11-ec0796358eb1"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 21.10.24",
+      "uuid": "7878997b-6d1a-4c1f-a180-86a15a9a1e92",
+      "files": [
+        "REKK_protokoll_21.10.24.asice",
+        "21.10.24_Perearstide_Selts.pptx",
+        "Pädevushindamine_REKK_slaidid_21.10.2024.pptx",
+        "Protokoll_nr_70_21.10.24.pdf"
+      ]
+    }
+  ],
+  "uuid": "ec2bc43b-3849-46e6-9f57-060f6a1ef6d4",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ec2bc43b-3849-46e6-9f57-060f6a1ef6d4)",
+  "source": "https://api.riigikogu.ee/api/volumes/ec2bc43b-3849-46e6-9f57-060f6a1ef6d4",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-10-01&endDate=2024-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
