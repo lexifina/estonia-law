@@ -12,7 +12,9 @@
 
 4) kindlustusandja nimel tegutsemiseks piisavat esindusõigust omava filiaali juhataja nimi, isikukood või selle puudumise korral sünniaeg ning esindusõigust tõendav dokument;
 
-5) äriseadustiku § 386 lõike 2 punktides 1, 4 ja 5 nimetatud andmed ja dokumendid;
+5) äriseadustiku § 386 lõike 2 punktides 1 ja 5 nimetatud andmed ja dokumendid;
+
+5¹) äriühingu põhikirja või ühingulepingu asukohariigi seaduste kohaselt tõestatud ärakiri, kui põhikiri või ühinguleping tuleb registrile esitada ka ühingu asukohariigis;
 
 6) kindlustusandja kolme viimase majandusaasta auditeeritud aruanded;
 

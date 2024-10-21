@@ -8,7 +8,9 @@
 
 3) käesoleva seaduse § 187 lõike 1 punktis 5 nimetatud andmed vahendaja nimel tegutsemiseks piisavat esindusõigust omava filiaali juhataja kohta, mille õigsust kinnitab nimetatud filiaali juhataja oma allkirjaga;
 
-4) äriseadustiku § 386 lõike 2 punktides 1 ja 3–5 sätestatud andmed ja dokumendid;
+4) äriseadustiku § 386 lõike 2 punktides 1, 3 ja 5 sätestatud andmed ja dokumendid;
+
+4¹) äriühingu põhikirja või ühingulepingu asukohariigi seaduste kohaselt tõestatud ärakiri, kui põhikiri või ühinguleping tuleb registrile esitada ka ühingu asukohariigis;
 
 5) vahendaja kahe viimase majandusaasta auditeeritud aruanded;
 
