@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Korruptsioonivastane erikomisjon",
+  "committee_uuid": "e4f2977a-e8c3-4fa0-8f3d-9df9acd6377f",
+  "title": "Komisjoni istung esmaspäev, 21.10.2024 kell 13.30",
+  "sitting_time": "2024-10-21T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4abefbe7-1d92-420f-928d-02ca7035cc98"
+    },
+    {
+      "order": 2,
+      "title": "RMK kestvuslepingute ja hinnakujunduse läbipaistvus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c3cf0f4a-d148-48ea-bff2-4b5550f754ce"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d4dc818b-1b04-4385-b8a2-50721e514f91"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KVEK protokoll 44 (21.10.2024)",
+      "uuid": "17d809b5-6291-4443-a7de-0fb400603555",
+      "files": [
+        "KVEK_protokoll_44_(21.10.2024).pdf",
+        "KVEK_protokoll_44_(21.10.2024).asice",
+        "RMK_esitlus_komisjonis_21102024.pptx"
+      ]
+    }
+  ],
+  "uuid": "0a97c753-9821-4a2c-bff4-a88108fe1908",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0a97c753-9821-4a2c-bff4-a88108fe1908)",
+  "source": "https://api.riigikogu.ee/api/volumes/0a97c753-9821-4a2c-bff4-a88108fe1908",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-10-01&endDate=2024-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
