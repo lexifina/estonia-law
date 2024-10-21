@@ -1,0 +1,53 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung esmaspäev, 21.10.2024 kell 11.10",
+  "sitting_time": "2024-10-21T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7f23c864-5625-4290-8e2a-0f36f657fc05"
+    },
+    {
+      "order": 2,
+      "title": "Meresõiduohutuse seaduse täiendamise seaduse eelnõu algatamise arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a997a7c6-3222-44e2-9b6c-42d7de55b4e1"
+    },
+    {
+      "order": 3,
+      "title": "Kohtumine Tallinna Lennujaama juhtidega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d6b7b442-4b37-4690-8237-5c549efad076"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5ebd1c97-352b-42b2-a462-0b77d8e3c244"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAJK protokoll nr 86 21.10.2024",
+      "uuid": "77a852b0-7568-4775-810c-3f8414113778",
+      "files": [
+        "MAJK_protokoll_nr_86_21.10.2024.asice",
+        "MAJK_protokoll_nr_86_21.10.2024.pdf",
+        "Tallinna_Lennujaam_Riigikogu_majanduskomisjon_22102024.pdf"
+      ]
+    }
+  ],
+  "uuid": "7dfa91aa-ca92-4351-a805-671a54e0084d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7dfa91aa-ca92-4351-a805-671a54e0084d)",
+  "source": "https://api.riigikogu.ee/api/volumes/7dfa91aa-ca92-4351-a805-671a54e0084d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-10-01&endDate=2024-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
