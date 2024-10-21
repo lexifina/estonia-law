@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 21.10.2024 kell 11.10",
+  "sitting_time": "2024-10-21T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9ef2627f-50c0-4b74-b378-368c5fc9701e"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade haridusleppest ja osapoolte seisukohtadest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dcb9a5c5-3baa-44d9-8650-e7baef8c7396"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ecb31fd4-f18b-430a-a79e-e1e1d297470d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 21.10.2024",
+      "uuid": "9392d620-4ba6-46d5-aada-5641b9547897",
+      "files": [
+        "MAEK_protokoll_21.10.2024.asice",
+        "082_MAEK_protokoll_21.10.2024.pdf"
+      ]
+    }
+  ],
+  "uuid": "6f409b27-69ae-4c4d-8e67-6451cecc0f8c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 6f409b27-69ae-4c4d-8e67-6451cecc0f8c)",
+  "source": "https://api.riigikogu.ee/api/volumes/6f409b27-69ae-4c4d-8e67-6451cecc0f8c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-10-01&endDate=2024-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
