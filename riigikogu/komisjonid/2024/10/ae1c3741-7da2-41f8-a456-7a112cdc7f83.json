@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung esmaspäev, 21.10.2024 kell 11.10",
+  "sitting_time": "2024-10-21T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "960d2b6d-1d8c-49ee-a6c7-c115ad6db069"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade uue Euroopa Komisjoni viie aasta plaanidest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dfdc7533-2b69-4507-b9d2-792a009733e6"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f0b8079b-67a7-4041-b282-ab2e59c39ec8"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK protokoll 21.10.2024",
+      "uuid": "69c9088c-2ccc-4ec1-ac70-0d3e080efb4e",
+      "files": [
+        "KEKK_protokoll_21.10.2024.asice",
+        "KEKK_protokoll_21.10.2024.pdf",
+        "EK_2024_2029_rohelepe__kliima__keskkond.pdf"
+      ]
+    }
+  ],
+  "uuid": "ae1c3741-7da2-41f8-a456-7a112cdc7f83",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ae1c3741-7da2-41f8-a456-7a112cdc7f83)",
+  "source": "https://api.riigikogu.ee/api/volumes/ae1c3741-7da2-41f8-a456-7a112cdc7f83",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-10-01&endDate=2024-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
