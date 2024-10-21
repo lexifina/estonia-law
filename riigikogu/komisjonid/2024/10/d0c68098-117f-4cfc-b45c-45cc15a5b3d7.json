@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung esmaspäev, 21.10.2024 kell 11.15",
+  "sitting_time": "2024-10-21T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8fb684e9-ef40-4757-87fa-cea8f490cf3b"
+    },
+    {
+      "order": 2,
+      "title": "Väliskomisjoni Aasia-töövisiidi ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "908fb406-8a03-4768-9af5-5ed0f45c9327"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "085695ec-9c5b-44f0-accd-724c3cb66461"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 21.10.2024",
+      "uuid": "c5afe9bc-e5b6-4f08-834f-e453bf9623e3",
+      "files": [
+        "VÄLK_protokoll_21.10.2024.asice",
+        "VÄLK_protokoll_21.10.2024.pdf"
+      ]
+    }
+  ],
+  "uuid": "d0c68098-117f-4cfc-b45c-45cc15a5b3d7",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d0c68098-117f-4cfc-b45c-45cc15a5b3d7)",
+  "source": "https://api.riigikogu.ee/api/volumes/d0c68098-117f-4cfc-b45c-45cc15a5b3d7",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-10-01&endDate=2024-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
