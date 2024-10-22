@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni väljasõiduistung teisipäev, 22.10.2024 kell 14.00",
+  "sitting_time": "2024-10-22T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Arutelu Riigimetsa Majandamise Keskuse arengutest ning metsaistutamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0d6b0d65-dbdb-47ba-a268-46ce5ba68a96"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "767cd529-a6bc-4e5f-ae1d-cdac2bb66220"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK protokoll 22.10.2024",
+      "uuid": "d6376779-33f7-49a3-9857-f9df98e76e38",
+      "files": [
+        "KEKK_protokoll_22.10.2024.asice",
+        "KEKK_protokoll_22.10.2024.pdf"
+      ]
+    }
+  ],
+  "uuid": "149d856e-a478-4dcf-85f1-0d2f685b4b7d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 149d856e-a478-4dcf-85f1-0d2f685b4b7d)",
+  "source": "https://api.riigikogu.ee/api/volumes/149d856e-a478-4dcf-85f1-0d2f685b4b7d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-10-01&endDate=2024-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
