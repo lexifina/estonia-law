@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 22.10.2024 kell 14.00",
+  "sitting_time": "2024-10-22T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade Eesti Varude Keskuse tegevusest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6b2a7585-8500-4cce-be10-1465bdda0747"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8cd1d22e-36ff-4b0e-be4b-405c1f5204c8"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 22.10.2024",
+      "uuid": "3beb1065-2ae9-4a23-b3e4-c92e10a54607",
+      "files": [
+        "083_protokolli_lisa_EVK_ja_toidujulgolek.pdf",
+        "083_MAEK_protokoll_22.10.2024.pdf",
+        "MAEK_protokoll_22.10.2024.asice"
+      ]
+    }
+  ],
+  "uuid": "13a4de3b-e1f8-4f4e-8083-2324fa57ab83",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 13a4de3b-e1f8-4f4e-8083-2324fa57ab83)",
+  "source": "https://api.riigikogu.ee/api/volumes/13a4de3b-e1f8-4f4e-8083-2324fa57ab83",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-10-01&endDate=2024-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
