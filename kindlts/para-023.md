@@ -26,7 +26,9 @@
 
 12) kohustusliku liikluskindlustusega tegelev kindlustusandja ei täida liikluskindlustuse seaduse §-s 10 nimetatud liikluskindlustuse fondi liikmesusest tulenevaid kohustusi;
 
-13) kindlustusandja, kes sõlmib pensionilepinguid, ei ole ettenähtud tähtajaks või täies ulatuses tasunud Tagatisfondi seaduse kohaseid pensionilepingute osafondi makseid.
+13) kindlustusandja, kes sõlmib pensionilepinguid, ei ole ettenähtud tähtajaks või täies ulatuses tasunud Tagatisfondi seaduse kohaseid pensionilepingute osafondi makseid;
+
+14) kindlustusandja, kes sõlmib tervishoiuteenuse osutaja kohustusliku vastutuskindlustuse seaduse § 4 lõikes 1 sätestatud vastutuskindlustuslepinguid, ei täida nimetatud seadusest tulenevaid kohustusi.
 
 (2) Finantsinspektsioon võib tegevusloa tunnistada kehtetuks täielikult või üksiku kindlustustegevuse liigi või alaliigi ulatuses, piiritledes õigused, mille tegevusloa omaja kaotab.
 
