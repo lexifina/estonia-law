@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Korruptsioonivastane erikomisjon",
+  "committee_uuid": "e4f2977a-e8c3-4fa0-8f3d-9df9acd6377f",
+  "title": "Komisjoni istung esmaspäev, 4.11.2024 kell 13.30",
+  "sitting_time": "2024-11-04T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9d9fa0ed-a309-46c7-adf1-1fc4f087c087"
+    },
+    {
+      "order": 2,
+      "title": "„Riigikogu liikme hea tava“ ülevaatamine ja uuendamise arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5c44b90a-6d43-47ca-aa0b-007a8f47130a"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9da9746c-7492-468e-a43c-9487e06e0b10"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KVEK protokoll 46 (4.11.2024)",
+      "uuid": "7b8f9b53-541e-4a6b-94bf-2f3a7d8073bd",
+      "files": [
+        "KVEK_protokoll_46_(4.11.2024).asice",
+        "KVEK_protokoll_46_(04.11.2024).pdf"
+      ]
+    }
+  ],
+  "uuid": "5e6bb3ef-9282-4d32-8580-61a6dde9affc",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 5e6bb3ef-9282-4d32-8580-61a6dde9affc)",
+  "source": "https://api.riigikogu.ee/api/volumes/5e6bb3ef-9282-4d32-8580-61a6dde9affc",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-11-01&endDate=2024-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
