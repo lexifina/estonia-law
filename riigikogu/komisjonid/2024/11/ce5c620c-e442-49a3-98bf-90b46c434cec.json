@@ -1,0 +1,36 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung teisipäev, 5.11.2024 kell 14.00",
+  "sitting_time": "2024-11-05T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikaitsekomisjoni kavandatav raport",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "166c18c4-929d-4550-a6dd-19fb8c7d7810"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Riigikaitsekomisjoni 5.11.2024 istungi protokoll",
+      "uuid": "2dbed1e9-0ff0-4664-acb5-a2fce7dd9443",
+      "files": [
+        "Riigikaitsekomisjoni_5.11.2024_istungi_protokoll.asice",
+        "2024-11-05_protokoll_98.pdf",
+        "asendus_RiKa_05.11.2024.docx",
+        "asendus_RiKa_05.11.2024.asice"
+      ]
+    }
+  ],
+  "uuid": "ce5c620c-e442-49a3-98bf-90b46c434cec",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ce5c620c-e442-49a3-98bf-90b46c434cec)",
+  "source": "https://api.riigikogu.ee/api/volumes/ce5c620c-e442-49a3-98bf-90b46c434cec",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-11-01&endDate=2024-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
