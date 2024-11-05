@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung teisipäev, 5.11.2024 kell 14.00",
+  "sitting_time": "2024-11-05T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade rakendusuuringute keskusest (RUK)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dc70462e-6dc4-444b-bc24-f7a796f89f73"
+    },
+    {
+      "order": 2,
+      "title": "Arenguseire Keskuse pöördumine. Ettepanekute kogumine Arenguseire Keskuse 2025. aasta arenguseire teemadeks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "71f50169-2acb-4150-b01b-463c0291777a"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7e879d6a-90e6-439f-8d00-ed597bb0621c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAJK protokoll 05.11.2024",
+      "uuid": "37e45bd2-e1dd-4ca9-b7a9-6f7e0ccdecc4",
+      "files": [
+        "MAJK_protokoll_05.11.2024.asice",
+        "MAJK_protokoll_nr_89_05.11.2024.pdf",
+        "2024-11-05_RUK_majanduskomisjon.pdf"
+      ]
+    }
+  ],
+  "uuid": "a44f1516-50a0-4224-8293-7f31efc8e936",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a44f1516-50a0-4224-8293-7f31efc8e936)",
+  "source": "https://api.riigikogu.ee/api/volumes/a44f1516-50a0-4224-8293-7f31efc8e936",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-11-01&endDate=2024-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
