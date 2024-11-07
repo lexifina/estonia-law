@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Erakorraline komisjoni istung neljapäev, 7.11.2024 kell 9.00",
+  "sitting_time": "2024-11-07T09:00:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "2024. aasta riigieelarve seaduse muutmise seaduse eelnõu (517 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "88f67610-c8c0-4a0b-b49d-d5c0c2e4564d"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "72c8d759-0591-4597-9cf2-ee530a884e02"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 07.11.2024",
+      "uuid": "206253c0-cc8a-4678-89c1-e14bc8a9f3a0",
+      "files": [
+        "RAHK_protokoll_07.11.2024.asice",
+        "RAHK_protokoll_119_07_11_2024_erakorraline.pdf",
+        "517_SE_ME_loetelu_07.11.2024_Lisa_1.pdf"
+      ]
+    }
+  ],
+  "uuid": "07462e55-e10c-45ca-90c2-9918da3183fb",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 07462e55-e10c-45ca-90c2-9918da3183fb)",
+  "source": "https://api.riigikogu.ee/api/volumes/07462e55-e10c-45ca-90c2-9918da3183fb",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-11-01&endDate=2024-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
