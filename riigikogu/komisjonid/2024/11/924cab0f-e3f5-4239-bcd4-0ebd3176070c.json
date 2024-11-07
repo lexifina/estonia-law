@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung neljapäev, 7.11.2024 kell 14.00",
+  "sitting_time": "2024-11-07T14:06:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade 5. novembril 2024 toimunud Ameerika Ühendriikide valimistest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "303d7d8b-c880-414c-aacd-a7e87fd3289f"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d17061af-9373-47f6-a313-93fa5d1dbc59"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 7.11.2024",
+      "uuid": "285c5fb5-e7fd-430b-aaa6-e0348a444c85",
+      "files": [
+        "VÄLK_protokoll_7.11.2024.asice",
+        "VÄLK_protokoll_7.11.2024.pdf"
+      ]
+    }
+  ],
+  "uuid": "924cab0f-e3f5-4239-bcd4-0ebd3176070c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 924cab0f-e3f5-4239-bcd4-0ebd3176070c)",
+  "source": "https://api.riigikogu.ee/api/volumes/924cab0f-e3f5-4239-bcd4-0ebd3176070c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-11-01&endDate=2024-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
