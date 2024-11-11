@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung esmaspäev, 11.11.2024 kell 11.15",
+  "sitting_time": "2024-11-11T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "338c228d-7f78-4e0f-9dfa-cce463d16618"
+    },
+    {
+      "order": 2,
+      "title": "Tsiviilkohtumenetluse seadustiku muutmise ja sellega seonduvalt tsiviilkohtumenetluse seadustiku ja täitemenetluse seadustiku rakendamise seaduse muutmise seaduse eelnõu (493 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "da2c7751-900f-4137-9b14-3ee3bc33c9e0"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a9d03747-7cfa-4469-ac90-b3e8e068b700"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ÕIGK protokoll 11.11.2024",
+      "uuid": "79cb15a9-9f85-4436-b846-debe045c90fb",
+      "files": [
+        "ÕIGK_protokoll_11.11.2024.asice",
+        "Riigikogu_õiguskomisjoni_istungi_protokoll_nr_58.pdf"
+      ]
+    }
+  ],
+  "uuid": "797aec91-3bb5-48a9-9bd2-c9e4cdb49b83",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 797aec91-3bb5-48a9-9bd2-c9e4cdb49b83)",
+  "source": "https://api.riigikogu.ee/api/volumes/797aec91-3bb5-48a9-9bd2-c9e4cdb49b83",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-11-01&endDate=2024-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
