@@ -1,0 +1,50 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni avalik istung teisipäev, 12.11.2024 kell 14.00",
+  "sitting_time": "2024-11-12T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti Vabariigi põhiseaduse muutmise seaduse eelnõu (536 SE) esimese lugemise ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "123b72e0-7b69-4ab5-b4bc-b407bfa8119f"
+    },
+    {
+      "order": 2,
+      "title": "Eesti Vabariigi põhiseaduse muutmise seaduse eelnõu (527 SE) esimese lugemise ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b8cfaf09-ef75-4c5d-be91-e9f4eaf370da"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f35128b8-7a81-41e4-806e-9fc39dda577d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "PÕSK protokoll nr 78",
+      "uuid": "f040d50e-4aa0-455d-9ab8-2f6ebe5158b9",
+      "files": [
+        "Volikiri_A._Seeme_(12.11.2024).pdf",
+        "Volikiri_E-N._Kross_(12.11.2024).pdf",
+        "Volikiri_A._Poolamets_(12.11.2024).pdf",
+        "Volikiri_P._Lomp_(11.11_ja_12.11.2024).pdf",
+        "PÕSK_protokoll_nr_78_(12.11.2024).pdf",
+        "PÕSK_protokoll_nr_78.asice"
+      ]
+    }
+  ],
+  "uuid": "d8eae169-a1e0-415d-b821-ece92e99a800",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d8eae169-a1e0-415d-b821-ece92e99a800)",
+  "source": "https://api.riigikogu.ee/api/volumes/d8eae169-a1e0-415d-b821-ece92e99a800",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-11-01&endDate=2024-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
