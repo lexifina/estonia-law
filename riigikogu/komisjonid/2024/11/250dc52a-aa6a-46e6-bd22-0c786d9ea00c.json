@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni avalik istung teisipäev, 12.11.2024 kell 14.30",
+  "sitting_time": "2024-11-12T14:38:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "29ffba17-8a32-4b21-ac0b-b709d008b198"
+    },
+    {
+      "order": 2,
+      "title": "Rahvusvaheline õigus ja väikeriigi välispoliitika",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "daf17654-9407-483f-b410-e650e9a0a5ec"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c93ca4dd-6b24-4a3f-b502-f50858c6b2a8"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 12.11.2024",
+      "uuid": "deb8f16d-e64b-4ca4-ae08-c2299d9d872f",
+      "files": [
+        "VÄLK_protokoll_12.11.2024.pdf",
+        "VÄLK_protokoll_12.11.2024.asice"
+      ]
+    }
+  ],
+  "uuid": "250dc52a-aa6a-46e6-bd22-0c786d9ea00c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 250dc52a-aa6a-46e6-bd22-0c786d9ea00c)",
+  "source": "https://api.riigikogu.ee/api/volumes/250dc52a-aa6a-46e6-bd22-0c786d9ea00c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-11-01&endDate=2024-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
