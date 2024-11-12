@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 12.11.2024 kell 14.00",
+  "sitting_time": "2024-11-12T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade riigimaa kasutuslepingute haldamisest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2c045323-8bf3-4fac-8609-a68f5c7ff744"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5550dec7-7355-49de-b6fe-7435c9ceb623"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 12.11.2024",
+      "uuid": "cfe22b9f-8aa1-473b-b849-9141c8e18afa",
+      "files": [
+        "MAEK_protokoll_12.11.2024.asice",
+        "085_MAEK_protokoll_12.11.2024.pdf"
+      ]
+    }
+  ],
+  "uuid": "770d6040-918d-4744-a06f-196e522d0ea6",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 770d6040-918d-4744-a06f-196e522d0ea6)",
+  "source": "https://api.riigikogu.ee/api/volumes/770d6040-918d-4744-a06f-196e522d0ea6",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-11-01&endDate=2024-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
