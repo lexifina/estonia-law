@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung kolmapäev, 13.11.2024 kell 08.30",
+  "sitting_time": "2024-11-13T08:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikontrolli kontrolliaruande „Elu- ja ärisündmusteenuste arendamine“ arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "361699ce-3ec7-43fc-b0b6-76271abf1230"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli ülevaate tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8280df0c-59e9-4d7b-b44d-e15ccecdea97"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b3e2e3f7-4be8-4488-b2cc-d482214d050a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 13.11.24",
+      "uuid": "2306fd9f-ecf5-431e-94f1-e547eb24d8c5",
+      "files": [
+        "REKK_protokoll_13.11.24.asice",
+        "Protokoll_nr_74_13.11.24.pdf",
+        "Sündmusteeenused_esitlus_13112024.pptx"
+      ]
+    }
+  ],
+  "uuid": "d8b07afa-c08e-481f-87f2-39bcd7c823cb",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d8b07afa-c08e-481f-87f2-39bcd7c823cb)",
+  "source": "https://api.riigikogu.ee/api/volumes/d8b07afa-c08e-481f-87f2-39bcd7c823cb",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-11-01&endDate=2024-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
