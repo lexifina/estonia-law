@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung neljapäev, 14.11.2024 kell 14.00",
+  "sitting_time": "2024-11-14T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud jäätmeseaduse muutmise seaduse eelnõu (430 SE) teise lugemise ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e72f80d6-4240-4f3e-b66b-41b210e4309b"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c7d84f7a-af53-43f0-8181-bc9008136411"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK protokoll 14.11.2024",
+      "uuid": "c8908bf3-3390-4a2a-8ee4-c8d4911e49be",
+      "files": [
+        "KEKK_protokoll_14.11.2024.asice",
+        "KEKK_protokoll_14.11.2024.pdf"
+      ]
+    }
+  ],
+  "uuid": "650319fb-f1c2-4959-a988-e44cabc06bf4",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 650319fb-f1c2-4959-a988-e44cabc06bf4)",
+  "source": "https://api.riigikogu.ee/api/volumes/650319fb-f1c2-4959-a988-e44cabc06bf4",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-11-01&endDate=2024-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
