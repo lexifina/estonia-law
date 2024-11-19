@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 19.11.2024 kell 14.00",
+  "sitting_time": "2024-11-19T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade olukorrast kalanduses",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "11f03d87-d417-4a8c-92e1-50a9af411813"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5973c7d3-2457-4826-843f-38dedccea6b4"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 19.11.2024",
+      "uuid": "8146975b-5692-448b-be12-f83d3fef4e98",
+      "files": [
+        "MAEK_protokoll_19.11.2024.asice",
+        "087_MAEK_protokoll_19.11.2024.pdf",
+        "087_Protokolli_lisa._ReM_kalandus.19.11.24.pdf"
+      ]
+    }
+  ],
+  "uuid": "1344a38d-a20b-4105-b542-24f0ad6c21fc",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 1344a38d-a20b-4105-b542-24f0ad6c21fc)",
+  "source": "https://api.riigikogu.ee/api/volumes/1344a38d-a20b-4105-b542-24f0ad6c21fc",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-11-01&endDate=2024-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
