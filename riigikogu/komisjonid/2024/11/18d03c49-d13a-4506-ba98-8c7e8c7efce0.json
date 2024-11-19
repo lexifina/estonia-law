@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung teisipäev, 19.11.2024 kell 14.00",
+  "sitting_time": "2024-11-19T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti ja Ühendkuningriigi poliitiline ning sõjaline koostöö",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a4cf0260-1b70-431e-9ac2-755dd1778aed"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "774f5771-1b69-47d9-89ac-1be5476541dd"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RIKK protokoll 19.11.2024",
+      "uuid": "536b737c-6b56-4294-93ab-443aa90867ef",
+      "files": [
+        "RIKK_protokoll_19.11.2024.asice",
+        "2024-11-19__protokoll_104.pdf"
+      ]
+    }
+  ],
+  "uuid": "18d03c49-d13a-4506-ba98-8c7e8c7efce0",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 18d03c49-d13a-4506-ba98-8c7e8c7efce0)",
+  "source": "https://api.riigikogu.ee/api/volumes/18d03c49-d13a-4506-ba98-8c7e8c7efce0",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-11-01&endDate=2024-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
