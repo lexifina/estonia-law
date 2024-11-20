@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung kolmapäev, 20.11.2024 kell 08.30",
+  "sitting_time": "2024-11-20T08:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikontrolli ülevaade „Auvere elektrijaama töökindlus“ arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "22a10f69-5cbc-4d04-a9b9-8a5ffad745df"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f76a75a4-c40d-43b7-ad12-cce9932ea6a7"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 20.11.24",
+      "uuid": "0a38cc85-f70d-4a86-a79f-a24834a21441",
+      "files": [
+        "REKK_protokoll_20.11.24.asice",
+        "Auvere_esitlus_20112024.pptx",
+        "Protokoll_nr_75_20.11.24.pdf"
+      ]
+    }
+  ],
+  "uuid": "50ba26e6-3343-4222-851d-71a99b27b68f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 50ba26e6-3343-4222-851d-71a99b27b68f)",
+  "source": "https://api.riigikogu.ee/api/volumes/50ba26e6-3343-4222-851d-71a99b27b68f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-11-01&endDate=2024-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
