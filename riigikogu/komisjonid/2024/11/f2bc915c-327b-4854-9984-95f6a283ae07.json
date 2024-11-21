@@ -1,0 +1,54 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung neljapäev, 21.11.2024 kell 09.00",
+  "sitting_time": "2024-11-21T09:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse esitatud Riigikogu otsuse „Riigi 2023. aasta majandusaasta koondaruande kinnitamine\" eelnõu (503 OE) teiseks lugemiseks ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b7c98a3e-41d4-4fa8-8d22-2a72b681ebed"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud 2024. aasta riigieelarve seaduse muutmise seaduse eelnõu (517 SE) kolmandaks lugemise ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "336b77a1-2cad-468d-912b-be0eb8660d2b"
+    },
+    {
+      "order": 3,
+      "title": "Vabariigi Valitsuse algatatud julgeolekumaksu seaduse eelnõu (512 SE) teiseks lugemiseks ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e4d71a39-5bf1-415e-af59-3e6909306879"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "56b271df-d96f-46e5-bf1b-daaea7c5ab26"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 21.11.2024",
+      "uuid": "71ee24a6-57de-48ce-9215-f766e9744ebb",
+      "files": [
+        "RAHK_protokoll_21.11.2024.asice",
+        "RAHK_protokoll_125_21_11_2024.pdf",
+        "512_SE_ME_RAM_ettepanekud_21.11.2024_Lisa_2.pdf",
+        "517_SE_ME_RAM_ettepanekud_21.11.2024_Lisa_1.pdf"
+      ]
+    }
+  ],
+  "uuid": "f2bc915c-327b-4854-9984-95f6a283ae07",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f2bc915c-327b-4854-9984-95f6a283ae07)",
+  "source": "https://api.riigikogu.ee/api/volumes/f2bc915c-327b-4854-9984-95f6a283ae07",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-11-01&endDate=2024-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
