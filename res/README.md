@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/128052024003> (version in force from 2024-06-07)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/128112024003> (version in force from 2024-11-29)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -126,6 +126,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/128052024003> (version in force 
 | [§ 81²](para-081b2.md) | COVID-19 haigust põhjustava koroonaviiruse levikuga seotud kriisi leevendamiseks ettenähtud toetusmeetmete kehtestamine |
 | [§ 81³](para-081b3.md) | COVID-19 põhjustava viiruse levikuga seotud kriisi leevendamiseks ettenähtud toetusprogrammide kehtestamine |
 | [§ 81⁴](para-081b4.md) | 2022. aasta riigieelarvega seotud erisused |
+| [§ 81⁵](para-081b5.md) | 2025. aasta riigieelarvega seotud erisused |
 | **2. jagu Seaduste muutmine ja kehtetuks tunnistamine** | |
 | [§ 82](para-082.md) |  |
 | [§ 125](para-125.md) |  |

@@ -18,8 +18,26 @@
 
 (5) Riigieelarves liigendatakse kulud tulemusvaldkondade ja programmi tegevuste kaupa.
 
+(5¹) Riigieelarves liigendatakse põhiseaduslike institutsioonide kulud ja ministeeriumi valitsemisala tulemusvaldkonna programmi tegevuse kulud täiendavalt riigiasutuste kaupa, eristades:
+
+1) tööjõukulud;
+
+2) majandamiskulud;
+
+3) sotsiaaltoetused, eristades seadusest tulenevad toetused;
+
+4) investeeringutoetused;
+
+5) muud toetused, eristades seadusest tulenevad toetused;
+
+6) finantskulud;
+
+7) muud kulud, sealhulgas amortisatsioonikulu.
+
+(5²) Kui riigieelarves on kulud liigendatud käesoleva paragrahvi lõike 5¹ alusel, siis esitatakse need vastavalt käesoleva seaduse §-s 32 toodud jaotuses või detailsemalt kooskõlas eelarveklassifikaatoriga.
+
 (6) Põhiseadusliku institutsiooni eelarve liigendamise käesoleva paragrahvi lõike 5 kohaselt otsustab Vabariigi Valitsus põhiseadusliku institutsiooni algatusel.
 
 (7) Investeeringud maksumusega kümme miljonit eurot või rohkem liigendatakse riigieelarves investeeringuobjektide kaupa.
 
-(8) Riigisaladusega seotud valdkondade eelarve liigendatakse käesoleva paragrahvi lõigete 5 ja 7 kohaselt ulatuses, mis ei ole vastuolus riigisaladuse ja salastatud välisteabe seaduse ning selle alusel kehtestatud õigusaktidega.
+(8) Riigisaladusega seotud valdkondade eelarve liigendatakse käesoleva paragrahvi lõigete 5, 5¹, 5² ja 7 kohaselt ulatuses, mis ei ole vastuolus riigisaladuse ja salastatud välisteabe seaduse ning selle alusel kehtestatud õigusaktidega.
