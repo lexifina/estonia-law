@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni erakorraline istung reede, 29.11.2024 kell 12.00",
+  "sitting_time": "2024-11-29T12:00:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cd53e212-e8a6-4452-b76d-f18cef22dd20"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud julgeolekumaksu seaduse eelnõu (512 SE) teiseks lugemiseks ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "680b6b8b-d7db-4b8c-8fc3-7c4689b77fc0"
+    },
+    {
+      "order": 3,
+      "title": "Vabariigi Valitsuse algatatud alkoholi-, tubaka-, kütuse- ja elektriaktsiisi seaduse ning teiste seaduste muutmise seaduse eelnõu (510 SE) teiseks lugemiseks ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8a70a96a-dcfb-4d3a-8f16-7e22faa319fd"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f51c8bcb-92d4-418c-8e4d-1f283ad83f8a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 29.11.2024",
+      "uuid": "b4357c1b-8a08-4b05-818f-dbdca66b00e2",
+      "files": [
+        "RAHK_protokoll_29.11.2024.asice",
+        "RAHK_protokoll_nr_126_29.11.2024.pdf"
+      ]
+    }
+  ],
+  "uuid": "5b31e6eb-b422-4b24-8145-6ea4319361b2",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 5b31e6eb-b422-4b24-8145-6ea4319361b2)",
+  "source": "https://api.riigikogu.ee/api/volumes/5b31e6eb-b422-4b24-8145-6ea4319361b2",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-11-01&endDate=2024-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
