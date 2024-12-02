@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 2.12.2024 kell 11.10",
+  "sitting_time": "2024-12-02T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cae7d69a-4daa-4139-9da8-b5b5df6cc62f"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b4d2d5ed-4451-40c8-af95-dd339b87621c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 02.12.2024",
+      "uuid": "a4b0e419-702c-4da7-b2c2-5153d3c340b0",
+      "files": [
+        "088_MAEK_protokoll_02.12.2024.pdf",
+        "MAEK_protokoll_02.12.2024.asice"
+      ]
+    }
+  ],
+  "uuid": "f678ef1a-5443-4e7d-b6c6-e0500aea8c8b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f678ef1a-5443-4e7d-b6c6-e0500aea8c8b)",
+  "source": "https://api.riigikogu.ee/api/volumes/f678ef1a-5443-4e7d-b6c6-e0500aea8c8b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-12-01&endDate=2024-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
