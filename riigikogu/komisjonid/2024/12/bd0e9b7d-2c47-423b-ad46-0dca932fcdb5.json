@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 2.12.2024 kell 13.15",
+  "sitting_time": "2024-12-02T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d33d6964-b72d-4279-a100-b6971b09e098"
+    },
+    {
+      "order": 2,
+      "title": "Eesti Energia erikontroll",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "da076354-f516-4fc0-b677-b3db27aa0b8b"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "116ed444-71bb-43c7-8e0b-526556174c7b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 2.12.24",
+      "uuid": "0945fe0b-aa95-497a-9c7e-a60f9fc352d7",
+      "files": [
+        "REKK_protokoll_2.12.24.asice",
+        "Protokoll_nr_76_2.12.24.pdf"
+      ]
+    }
+  ],
+  "uuid": "bd0e9b7d-2c47-423b-ad46-0dca932fcdb5",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid bd0e9b7d-2c47-423b-ad46-0dca932fcdb5)",
+  "source": "https://api.riigikogu.ee/api/volumes/bd0e9b7d-2c47-423b-ad46-0dca932fcdb5",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-12-01&endDate=2024-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
