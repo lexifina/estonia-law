@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung neljapäev, 5.12.2024 kell 09.00",
+  "sitting_time": "2024-12-05T09:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "2025. aasta riigieelarve seaduse eelnõu (513 SE II)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "78b818fe-d029-4647-acd8-12184aad569d"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fc4d64b9-2a2b-4dc2-9f41-4a7fe9a64e7b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 05.12.2024",
+      "uuid": "5c9a8f58-ea42-484c-9267-875ce4dd2ff8",
+      "files": [
+        "RAHK_protokoll_05.12.2024.asice",
+        "RAHK_protokoll_129_05_12_2024.pdf",
+        "513_SE_III_ME_loetelu_ISAMAA_FR_05.12.2024_Lisa_5.pdf",
+        "513_SE_III_ME_loetelu_KESK_FR_05.12.2024_Lisa_4_.pdf",
+        "513_SE_III_ME_loetelu_RAM_LISA_05.12.2024_Lisa_3_.xlsx",
+        "513_SE_III_ME_loetelu_05.12.2024_Lisa_2.pdf",
+        "513_SE_III_RAM_ME_loetelu_05.12.2024_Lisa_1.pdf"
+      ]
+    }
+  ],
+  "uuid": "13739a84-4f64-4168-8f32-d615f3e4a2e0",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 13739a84-4f64-4168-8f32-d615f3e4a2e0)",
+  "source": "https://api.riigikogu.ee/api/volumes/13739a84-4f64-4168-8f32-d615f3e4a2e0",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-12-01&endDate=2024-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
