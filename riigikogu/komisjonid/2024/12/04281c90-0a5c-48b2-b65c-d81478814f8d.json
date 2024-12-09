@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung esmaspäev, 9.12.2024 kell 11.15",
+  "sitting_time": "2024-12-09T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5bea5fc0-7e49-4d19-ad1f-759e720102ee"
+    },
+    {
+      "order": 2,
+      "title": "Eesti Vabariigi põhiseaduse muutmise seaduse eelnõu (536 SE) teise lugemise ettevalmistamine (Siseministeeriumi ja Kaitsepolitseiameti kuulamine)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1d6bb35b-1331-45fe-b40d-a30ba8a3d716"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "PÕSK protokoll nr 83",
+      "uuid": "fc35847e-5792-4451-8423-ff546cbbf4df",
+      "files": [
+        "PÕSK_protokoll_nr_83_(09.12.2024).pdf",
+        "PÕSK_protokoll_nr_83.asice"
+      ]
+    }
+  ],
+  "uuid": "04281c90-0a5c-48b2-b65c-d81478814f8d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 04281c90-0a5c-48b2-b65c-d81478814f8d)",
+  "source": "https://api.riigikogu.ee/api/volumes/04281c90-0a5c-48b2-b65c-d81478814f8d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-12-01&endDate=2024-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
