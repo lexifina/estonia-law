@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 10.12.2024 kell 14.00",
+  "sitting_time": "2024-12-10T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud Euroopa Liidu ühise põllumajanduspoliitika rakendamise seaduse ja söödaseaduse muutmise seaduse eelnõu (546 SE) esimese lugemise ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ca54c93f-0ff7-4d19-acec-e6d0ca9ee5c1"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3eb3a5eb-5d4d-4ae1-ab99-3e23ef88b0c1"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 10.12.2024",
+      "uuid": "a3a737eb-58df-4303-8faa-d620d51525d5",
+      "files": [
+        "090_MAEK_protokoll_10.12.24.pdf",
+        "090_protokolli_lisa_ELÜPS_tutvustus.pdf",
+        "MAEK_protokoll_10.12.2024.asice"
+      ]
+    }
+  ],
+  "uuid": "ab052ff7-dbbf-4083-b19e-9c11f1e31821",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ab052ff7-dbbf-4083-b19e-9c11f1e31821)",
+  "source": "https://api.riigikogu.ee/api/volumes/ab052ff7-dbbf-4083-b19e-9c11f1e31821",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-12-01&endDate=2024-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
