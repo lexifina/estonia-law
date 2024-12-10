@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni väljasõiduistung teisipäev, 10.12.2024 kell 14.00",
+  "sitting_time": "2024-12-10T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Väljasõiduistung Tallinna loomaaeda",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "629ba6a9-98ea-4e9e-8893-7b1df06135b7"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "71329ad0-cee5-4189-83e3-52b0d5a4e739"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK protokoll 10.12.2024",
+      "uuid": "70904a39-0881-42a1-bf1d-ed3390d872bc",
+      "files": [
+        "KEKK_protokoll_10.12.2024.pdf",
+        "KEKK_protokoll_10.12.2024.asice"
+      ]
+    }
+  ],
+  "uuid": "40dbf511-57df-4654-bfab-61c02dfe595d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 40dbf511-57df-4654-bfab-61c02dfe595d)",
+  "source": "https://api.riigikogu.ee/api/volumes/40dbf511-57df-4654-bfab-61c02dfe595d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-12-01&endDate=2024-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
