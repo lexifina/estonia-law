@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung neljapäev, 12.12.2024 kell 13.00",
+  "sitting_time": "2024-12-12T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "64da87b6-05f5-4dd5-82c2-201b8e28de07"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad 16. detsembril 2024 toimuval Euroopa Liidu välisasjade nõukogu istungil",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "965c2451-e792-441b-b45b-b9a50380adc2"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f7b96b5e-4652-487e-9f9e-e691f62cf69d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 12.12.2024",
+      "uuid": "4d5aa521-4da8-4675-bf9b-91eaf511fbf0",
+      "files": [
+        "VÄLK_protokoll_12.12.2024.asice",
+        "VÄLK_protokoll_12.12.2024.pdf"
+      ]
+    }
+  ],
+  "uuid": "a46b0fb4-9586-43ee-9993-edf2fbf3fc17",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a46b0fb4-9586-43ee-9993-edf2fbf3fc17)",
+  "source": "https://api.riigikogu.ee/api/volumes/a46b0fb4-9586-43ee-9993-edf2fbf3fc17",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-12-01&endDate=2024-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
