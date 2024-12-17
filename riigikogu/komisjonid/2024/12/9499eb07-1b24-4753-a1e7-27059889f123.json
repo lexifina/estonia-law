@@ -1,0 +1,49 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung teisipäev, 17.12.2024 kell 14.00",
+  "sitting_time": "2024-12-17T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti maine erinevates riikides. Maineuuringute rakendamine Eesti loo jutustamisel ja tööriistade tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "430c8b7d-02a9-44f3-8719-8c4d3018d898"
+    },
+    {
+      "order": 2,
+      "title": "Kokkuvõte majanduskomisjoni sügisistungjärgu ja 2024. aasta töödest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "117e5b2f-f8a6-441d-8169-c60ab0c3c802"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "14f01a77-6d78-4d5c-86e0-521dcca2bf0e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAJK protokoll 17.12.2024",
+      "uuid": "1e6d6eb7-e5e1-453c-abb4-664383cae411",
+      "files": [
+        "MAJK_protokoll_17.12.2024.asice",
+        "MAJK_protokoll_nr_101_17.12.2024.pdf",
+        "Majanduskomisjoni_tööst_2024._a_XV_koosseis_KOMISJON.pdf",
+        "Majanduskomisjoni_tööst_2024._a_sügisistungjärgul_XV_koosseis.pdf",
+        "Lisa_1__EIS.pdf"
+      ]
+    }
+  ],
+  "uuid": "9499eb07-1b24-4753-a1e7-27059889f123",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9499eb07-1b24-4753-a1e7-27059889f123)",
+  "source": "https://api.riigikogu.ee/api/volumes/9499eb07-1b24-4753-a1e7-27059889f123",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2024-12-01&endDate=2024-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
