@@ -6,6 +6,6 @@
 
 (1²) Planeerimisseaduse § 92 lõike 1 esimeses lauses sätestatud kohaliku omavalitsuse volikogu üldplaneeringu ülevaatamise kohustuse tähtaja kulgemine algab 2018. aasta 1. juulil.
 
-(2) Lisaks planeerimisseaduses üldplaneeringu ülevaatamise kohta sätestatule esitatakse koos käesoleva paragrahvi lõikes 1 nimetatud ülevaatega valdkonna eest vastutavale ministrile ülevaade ka üldplaneeringut muutvatest detailplaneeringutest. Kohaliku omavalitsuse üksus esitab ülevaates arvamuse, kas üldplaneeringut on detailplaneeringutega oluliselt muudetud ning kas üldplaneering on seetõttu terviklik ja elluviidav.
+(2) Lisaks planeerimisseaduses üldplaneeringu ülevaatamise kohta sätestatule esitatakse koos käesoleva paragrahvi lõikes 1 nimetatud ülevaatega Maa- ja Ruumiametile ülevaade ka üldplaneeringut muutvatest detailplaneeringutest. Kohaliku omavalitsuse üksus esitab ülevaates arvamuse, kas üldplaneeringut on detailplaneeringutega oluliselt muudetud ning kas üldplaneering on seetõttu terviklik ja elluviidav.
 
-(3) Valdkonna eest vastutav minister võib pärast käesoleva paragrahvi lõikes 2 nimetatud arvamuse saamist esitada kohaliku omavalitsuse üksusele ettepaneku uue üldplaneeringu koostamiseks, kui tema hinnangul on üldplaneeringut detailplaneeringutega oluliselt muudetud.
+(3) Maa- ja Ruumiamet võib pärast käesoleva paragrahvi lõikes 2 nimetatud arvamuse saamist esitada kohaliku omavalitsuse üksusele ettepaneku uue üldplaneeringu koostamiseks, kui tema hinnangul on üldplaneeringut detailplaneeringutega oluliselt muudetud.
