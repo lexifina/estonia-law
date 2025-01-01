@@ -8,7 +8,7 @@
 
 (4) Kaldaomanik peab igaühel lubama kallasrada kasutada.
 
-(5) Kalda omanik või valdaja võib kallasrada tõkestada kohaliku omavalitsuse üksuse või Põllumajandus- ja Toiduameti kirjalikul nõusolekul ja põhjendatud vajaduse korral, nagu seda on loomade karjatamine või maa kuivendamine, kuid ta peab tagama tõkkest üle- või läbipääsu kallasrada mööda liikumiseks.
+(5) Kalda omanik või valdaja võib kallasrada tõkestada kohaliku omavalitsuse üksuse või Maa- ja Ruumiameti kirjalikul nõusolekul ja põhjendatud vajaduse korral, nagu seda on loomade karjatamine või maa kuivendamine, kuid ta peab tagama tõkkest üle- või läbipääsu kallasrada mööda liikumiseks.
 
 (6) Kui ajutisel kallasrajal liikumine on takistatud, peab kaldaomanik tagama läbipääsu mujalt oma kinnisasjal, kui see ei ole talle ülemäära koormav.
 
