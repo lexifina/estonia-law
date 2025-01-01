@@ -4,7 +4,7 @@
 
 (2) Andmekaitse Inspektsiooni juhi kandidaadi julgeolekukontrolli teeb Kaitsepolitseiamet julgeolekuasutuste seaduses ettenähtud korras.
 
-(3) Julgeolekukontrolli läbimiseks täidab Andmekaitse Inspektsiooni juhi kandidaat riigisaladusele juurdepääsu loa taotleja ankeedi ja allkirjastab nõusoleku, millega lubab julgeolekukontrolli tegeval asutusel saada julgeolekukontrolli tegemise ajal enda kohta teavet füüsilistelt ja juriidilistelt isikutelt ning riigi- ja kohaliku omavalitsuse asutustelt ja organitelt, ning esitab need Justiitsministeeriumi kaudu Kaitsepolitseiametile.
+(3) Julgeolekukontrolli läbimiseks täidab Andmekaitse Inspektsiooni juhi kandidaat riigisaladusele juurdepääsu loa taotleja ankeedi ja allkirjastab nõusoleku, millega lubab julgeolekukontrolli tegeval asutusel saada julgeolekukontrolli tegemise ajal enda kohta teavet füüsilistelt ja juriidilistelt isikutelt ning riigi- ja kohaliku omavalitsuse asutustelt ja organitelt, ning esitab need Justiits- ja Digiministeeriumi kaudu Kaitsepolitseiametile.
 
 (4) Kaitsepolitseiamet edastab julgeolekukontrolli tulemusena kogutud andmed valdkonna eest vastutavale ministrile kolme kuu jooksul arvates käesoleva paragrahvi lõikes 3 nimetatud dokumentide saamisest, lisades oma arvamuse Andmekaitse Inspektsiooni juhi kandidaadi vastavuse kohta riigisaladusele juurdepääsu loa saamise tingimustele.
 
