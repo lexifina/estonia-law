@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/104072024025> (version in force from 2024-07-14)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/112122024006> (version in force from 2025-01-01)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -639,7 +639,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/104072024025> (version in force 
 | **5. jagu Tulirelva ja laskemoonaga seotud süüteod** | |
 | [§ 418](para-418.md) | Tulirelva, selle olulise osa ja laskemoona ebaseaduslik käitlemine |
 | [§ 418¹](para-418b1.md) | Tsiviilkäibes keelatud tulirelva, selle olulise osa ja laskemoona ebaseaduslik käitlemine |
-| [§ 418²](para-418b2.md) | Sõjarelva, selle olulise osa ja sõjalise otstarbega laskemoona ebaseaduslik käitlemine |
+| [§ 418²](para-418b2.md) | Sõjarelva, selle olulise osa ja sõjarelva laskemoona ebaseaduslik käitlemine |
 | [§ 419](para-419.md) | Tulirelva lohakas hoidmine |
 | [§ 420](para-420.md) | Tulirelva helisummuti, laser- ja öösihiku ebaseaduslik käitlemine |
 | [§ 421](para-421.md) | Konfiskeerimise kohaldamine |

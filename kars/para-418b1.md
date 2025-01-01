@@ -1,6 +1,6 @@
 # § 418¹. Tsiviilkäibes keelatud tulirelva, selle olulise osa ja laskemoona ebaseaduslik käitlemine
 
-(1) Tsiviilkäibes keelatud tulirelva, selle olulise osa või laskemoona ebaseadusliku käitlemise eest, välja arvatud laskemoona ebaolulises koguses ebaseaduslik käitlemine, –
+(1) Tsiviilkäibes keelatud tulirelva, selle olulise osa või laskemoona ebaseadusliku käitlemise eest, välja arvatud sõjarelva, selle olulise osa ja sõjarelva laskemoona ning laskemoona ebaolulises koguses ebaseaduslik käitlemine, –
 
 karistatakse ühe- kuni viieaastase vangistusega.
 

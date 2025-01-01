@@ -1,6 +1,6 @@
-# § 418². Sõjarelva, selle olulise osa ja sõjalise otstarbega laskemoona ebaseaduslik käitlemine
+# § 418². Sõjarelva, selle olulise osa ja sõjarelva laskemoona ebaseaduslik käitlemine
 
-(1) Sõjarelva, selle olulise osa või sõjalise otstarbega laskemoona ebaseadusliku valmistamise, omandamise, hoidmise, üleandmise, võõrandamise või muu ebaseadusliku käitlemise, sealhulgas laskekõlbmatuks muudetud sõjarelva laskekõlblikuks muutmise eest –
+(1) Sõjarelva, selle olulise osa või sõjarelva laskemoona ebaseadusliku valmistamise, omandamise, hoidmise, üleandmise, võõrandamise või muu ebaseadusliku käitlemise, sealhulgas laskekõlbmatuks muudetud sõjarelva laskekõlblikuks muutmise eest –
 
 karistatakse kahe- kuni kümneaastase vangistusega.
 
@@ -10,7 +10,7 @@ karistatakse kahe- kuni kümneaastase vangistusega.
 
 2) see on toime pandud grupi poolt;
 
-3) teo objektiks või vahendiks on olnud sõjarelvad, nende olulised osad või sõjalise otstarbega laskemoon suures koguses;
+3) teo objektiks või vahendiks on olnud sõjarelvad, nende olulised osad või sõjarelva laskemoon suures koguses;
 
 4) sellega on põhjustatud oht paljude inimeste elule või tervisele või
 
