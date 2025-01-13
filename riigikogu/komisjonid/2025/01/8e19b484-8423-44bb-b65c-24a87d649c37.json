@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung esmaspäev, 13.01.2025 kell 11.15",
+  "sitting_time": "2025-01-13T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4dda2586-0ce2-41d9-88e7-664233835b65"
+    },
+    {
+      "order": 2,
+      "title": "Karistusseadustiku muutmise ja sellega seonduvalt teiste seaduste muutmise seadus (sanktsiooniväärteod) (441 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b8144811-3816-4086-a2c6-a6e054f2c0cb"
+    },
+    {
+      "order": 3,
+      "title": "Riigi peaprokuröri kandidaadi suhtes arvamuse andmine.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0fdf80ac-c4f7-4376-94e3-25b827eff399"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "facf3737-17d7-46d4-8ef1-47bf21f54eef"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ÕIGK protokoll 13.01.2025",
+      "uuid": "007bf8ba-225b-4e98-91d1-a4389ddee4d7",
+      "files": [
+        "ÕIGK_protokoll_13.01.2025.asice",
+        "Riigikogu_õiguskomisjoni_istungi_protokoll_nr_62.pdf"
+      ]
+    }
+  ],
+  "uuid": "8e19b484-8423-44bb-b65c-24a87d649c37",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8e19b484-8423-44bb-b65c-24a87d649c37)",
+  "source": "https://api.riigikogu.ee/api/volumes/8e19b484-8423-44bb-b65c-24a87d649c37",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-01-01&endDate=2025-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
