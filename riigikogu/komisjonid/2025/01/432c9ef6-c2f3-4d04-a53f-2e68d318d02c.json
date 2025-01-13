@@ -1,0 +1,58 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung esmaspäev, 13.01.2025 kell 11.15",
+  "sitting_time": "2025-01-13T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7d75038c-f3a8-45dd-af43-cb105faa1d3f"
+    },
+    {
+      "order": 2,
+      "title": "Arengud Gruusias",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6f5874c5-784e-4927-a583-9c50aab97c81"
+    },
+    {
+      "order": 3,
+      "title": "Riigikogu Gruusia avalduse ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2377b1c3-f017-4e09-a03e-de6c172689f9"
+    },
+    {
+      "order": 4,
+      "title": "Väliskomisjoni V istungjärgu töökava arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a45d7b58-2b04-4d9c-8395-66977211234a"
+    },
+    {
+      "order": 5,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "17551d9b-c528-4a8c-92a0-150f8ee24b02"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 13.01.2025",
+      "uuid": "c228bc8e-c114-48a9-b537-178b8002b957",
+      "files": [
+        "VÄLK_protokoll_13.01.2025.asice",
+        "VÄLK_protokoll_13.01.2025.pdf"
+      ]
+    }
+  ],
+  "uuid": "432c9ef6-c2f3-4d04-a53f-2e68d318d02c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 432c9ef6-c2f3-4d04-a53f-2e68d318d02c)",
+  "source": "https://api.riigikogu.ee/api/volumes/432c9ef6-c2f3-4d04-a53f-2e68d318d02c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-01-01&endDate=2025-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
