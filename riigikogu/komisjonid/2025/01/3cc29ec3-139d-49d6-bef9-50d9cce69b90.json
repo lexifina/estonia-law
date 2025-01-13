@@ -1,0 +1,49 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung esmaspäev, 13.01.2025 kell 11.15",
+  "sitting_time": "2025-01-13T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8719a19d-4247-45b8-aab9-e27c1ab7e79f"
+    },
+    {
+      "order": 2,
+      "title": "Eesti Vabariigi põhiseaduse muutmise seaduse eelnõu (536 SE) teise lugemise ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4b3071b9-a854-45f2-9a97-2e9a2658d481"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "118f38e0-934a-4363-8b59-173e328dbacd"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "PÕSK protokoll nr 87",
+      "uuid": "0983952f-c544-4bca-80d8-963ad3c187b0",
+      "files": [
+        "PÕSK_protokoll_nr_87.asice",
+        "Lisa_2_(ÕAO).pptx",
+        "Volikiri_V._Belobrovtsev_(13.01.2025).pdf",
+        "Lisa_1_(P._Ehin).pptx",
+        "PÕSK_protokoll_nr_87_(13.01.2025).pdf"
+      ]
+    }
+  ],
+  "uuid": "3cc29ec3-139d-49d6-bef9-50d9cce69b90",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3cc29ec3-139d-49d6-bef9-50d9cce69b90)",
+  "source": "https://api.riigikogu.ee/api/volumes/3cc29ec3-139d-49d6-bef9-50d9cce69b90",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-01-01&endDate=2025-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
