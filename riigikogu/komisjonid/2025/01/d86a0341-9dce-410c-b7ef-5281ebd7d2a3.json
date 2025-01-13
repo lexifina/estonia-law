@@ -1,0 +1,53 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung esmaspäev, 13.01.2025 kell 11.10",
+  "sitting_time": "2025-01-13T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d80c8e77-5b05-4740-b1cf-c7cf73c01f59"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade Kliimaministeeriumi 2025. a 1. poolaasta õigusloome plaanist",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "03116121-4c50-43be-9414-17bab192e545"
+    },
+    {
+      "order": 3,
+      "title": "Arutelu Keskkonnaameti rahastamisest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "347c9933-59b9-4282-98a8-47356da93bea"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7a70f26a-c266-46b2-b5c4-b4bf0e7b8fc5"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK protokoll 13.01.2025",
+      "uuid": "0a21552d-04f3-4c2c-9759-cba9213fbc23",
+      "files": [
+        "RK_komisjon_13.01_rainervakra.pdf",
+        "KEKK_protokoll_13.01.2025.asice",
+        "KEKK_protokoll_13.01.2025.pdf"
+      ]
+    }
+  ],
+  "uuid": "d86a0341-9dce-410c-b7ef-5281ebd7d2a3",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d86a0341-9dce-410c-b7ef-5281ebd7d2a3)",
+  "source": "https://api.riigikogu.ee/api/volumes/d86a0341-9dce-410c-b7ef-5281ebd7d2a3",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-01-01&endDate=2025-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
