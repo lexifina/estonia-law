@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 13.01.2025 kell 13.15",
+  "sitting_time": "2025-01-13T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3949bc55-638b-410d-8b75-eb45e36cff96"
+    },
+    {
+      "order": 2,
+      "title": "Riigi energiapoliitilistest otsustest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "533578a8-36de-4ef8-9801-e2e21ef6dd2c"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "90c29a16-ad9b-4eb7-803a-a529ffe03f22"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 13.01.25",
+      "uuid": "12629539-941f-4883-98e2-6cf73443db64",
+      "files": [
+        "REKK_protokoll_13.01.25.asice",
+        "250113_Riigi_energiapoliitilised_otsused.pdf",
+        "Protokoll_nr_81_13.01.25.pdf"
+      ]
+    }
+  ],
+  "uuid": "90ed7faa-4c8e-4cc4-a487-1ace25c44095",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 90ed7faa-4c8e-4cc4-a487-1ace25c44095)",
+  "source": "https://api.riigikogu.ee/api/volumes/90ed7faa-4c8e-4cc4-a487-1ace25c44095",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-01-01&endDate=2025-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
