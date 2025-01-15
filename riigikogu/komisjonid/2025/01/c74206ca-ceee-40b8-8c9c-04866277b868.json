@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung kolmapäev, 15.01.2025 kell 08.30",
+  "sitting_time": "2025-01-15T08:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikontrolli kontrolliaruande tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bff6d6e1-0390-4ea2-9048-3f79a988dcd8"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli kontrolliaruande tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "99cdef71-2fd1-4c13-8389-f18193cc4ac4"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d3a1cb1a-ad9e-4e26-95ee-aaae0a4b2402"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 15.01.25",
+      "uuid": "76d8ca4a-449b-407c-ac55-e5df45bb6aec",
+      "files": [
+        "REKK_protokoll_15.01.25.asice",
+        "Protokoll_nr_82_15.01.25.pdf"
+      ]
+    }
+  ],
+  "uuid": "c74206ca-ceee-40b8-8c9c-04866277b868",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c74206ca-ceee-40b8-8c9c-04866277b868)",
+  "source": "https://api.riigikogu.ee/api/volumes/c74206ca-ceee-40b8-8c9c-04866277b868",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-01-01&endDate=2025-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
