@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni väljasõiduistung Välisluureametis neljapäev, 16.01.2025 kell 14.00",
+  "sitting_time": "2025-01-16T14:04:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade julgeolekuolukorra arengutest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "75f4966a-dc6b-442b-946b-dafd5e2e3285"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu avaldus „Gruusia rahva toetuseks\" (564 AE) ettevalmistamine esimeseks lugemiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5862b72b-082d-422d-8ac5-8b56077f8960"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "652295dc-9130-4452-9a88-7807544fcd8d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 16.01.2025",
+      "uuid": "56a1b70f-7ea5-446a-ac77-583f4583ea1f",
+      "files": [
+        "VÄLK_protokoll_16.01.2025.asice",
+        "VÄLK_protokoll_16.01.2025.pdf"
+      ]
+    }
+  ],
+  "uuid": "08bdbaae-1de6-4de3-989a-247483b7d193",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 08bdbaae-1de6-4de3-989a-247483b7d193)",
+  "source": "https://api.riigikogu.ee/api/volumes/08bdbaae-1de6-4de3-989a-247483b7d193",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-01-01&endDate=2025-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
