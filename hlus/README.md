@@ -2,13 +2,14 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/105052022012> (version in force from 2023-02-01)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/111102024006> (version in force from 2025-01-17)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
 | **1. peatükk ÜLDSÄTTED** | |
 | [§ 1](para-001.md) | Seaduse eesmärk |
 | [§ 2](para-002.md) | Seaduse kohaldamine |
+| [§ 2¹](para-002b1.md) | Euroopa Parlamendi ja nõukogu määruse (EL) 2022/2554 kohaldamata jätmine |
 | [§ 3](para-003.md) | Hoiu-laenuühistu mõiste |
 | [§ 4](para-004.md) | Hoiu-laenuühistu ärinimi |
 | [§ 5](para-005.md) | Hoiu-laenuühistu liikmeskonna moodustamise põhimõtted |
