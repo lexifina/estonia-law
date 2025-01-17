@@ -63,3 +63,5 @@
 (1¹) Finantsinspektsioonil on õigus rakendada Euroopa Parlamendi ja nõukogu määruse (EL) 2019/1238 artiklites 63 ja 67 sätestatud meetmeid. Finantsinspektsioon avalikustab nimetatud artiklite kohaste meetmete alusel tehtud otsuse kohta teate oma veebilehel vastavalt nimetatud määruse artikli 63 lõikele 4 ja artiklile 67.
 
 (2) Finantsinspektsioon teostab käesoleva paragrahvi lõikes 1 nimetatud kontrolle ja hindamisi korrapäraselt.
+
+(3) Finantsinspektsioonil on Euroopa Parlamendi ja nõukogu määruse (EL) 2022/2554 nõuete kohase täitmise üle järelevalve teostamisel kõik nimetatud määruses, käesolevas seaduses ja Finantsinspektsiooni seaduses sätestatud õigused. Finantsinspektsioon avalikustab nimetatud määruses sätestatud kohustuse rikkumise kohta tehtud otsuse oma veebilehel määruse artiklis 54 sätestatu kohaselt.

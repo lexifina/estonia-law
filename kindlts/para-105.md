@@ -6,7 +6,7 @@
 
 1) kindlustusandja juhtimissüsteem, sealhulgas iga võtmefunktsiooni ning teise olulise tähtsusega funktsiooni ja tegevuse rakendamise, kindlustusandja oma riski ja maksevõime hindamise ning kindlustustegevusega seotud tegevuse edasiandmise korrad ja teistele valdkondadele esitatavad nõuded kooskõlas komisjoni delegeeritud määrusega (EL) nr 2015/35;
 
-2) nõuded infotehnoloogilise korralduse, infoturbe tagamise ja talitluspidevuse kohta;
+2) nõuded info- ja kommunikatsioonitehnoloogilise korralduse, infoturbe tagamise ja talitluspidevuse kohta, mis peavad olema kooskõlas Euroopa Parlamendi ja nõukogu määruses (EL) 2022/2554 sätestatud info- ja kommunikatsioonitehnoloogia riskide juhtimise nõuetega;
 
 2¹) õiguslikud, tehnilised ja organisatsioonilised meetmed, et tuvastada, maandada ja vältida investeerimisriskiga elukindlustuslepingu pakkumisel kindlustusandja, sealhulgas selle juhatuse liikme ja töötaja või kontrollsuhet omava isiku huvide konflikti kindlustusandja kliendi huvidega ning klientide omavahelist huvide konflikti;
 

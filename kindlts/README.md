@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/103122024009> (version in force from 2024-12-13)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/103122024010> (version in force from 2025-01-17)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -134,6 +134,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/103122024009> (version in force 
 | [§ 103²](para-103b2.md) | Kindlustusteenuse sihtturule pakkumise nõuded |
 | [§ 104](para-104.md) | Kindlustustegevusega seotud tegevuse edasiandmine |
 | [§ 105](para-105.md) | Kindlustusandja sise-eeskirjad |
+| [§ 105¹](para-105b1.md) | Intsidendist ja küberohust teavitamine |
 | [§ 106](para-106.md) | Kindlustusandja juhtidele ja töötajatele esitatavad nõuded |
 | [§ 107](para-107.md) | Kindlustusandja juhi valimine ja vastutava isiku määramine |
 | [§ 108](para-108.md) | Kindlustusandja juhi tagasikutsumine ja vastutava isiku töölt kõrvaldamine |
@@ -223,6 +224,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/103122024009> (version in force 
 | [§ 179](para-179.md) | Vahendaja kohustuslik vastutuskindlustusleping |
 | [§ 180](para-180.md) | Vahendaja vara lahusus |
 | [§ 181](para-181.md) | Kliendi isikuandmete töötlemine ja teavitamise vorm |
+| [§ 181¹](para-181b1.md) | Nõuded vahendaja digitaalsele tegevuskerksusele |
 | [§ 182](para-182.md) | Vahendaja tegevuse edasiandmine ning kolmanda isiku abi kasutamine |
 | [§ 182¹](para-182b1.md) | Kindlustuslepingu komplektis pakkumise nõuded |
 | **2. jagu Kindlustusmaakler** | |
@@ -321,6 +323,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/103122024009> (version in force 
 | [§ 256²](para-256b2.md) | Edasikindlustamise nõuete rikkumine |
 | [§ 256³](para-256b3.md) | Euroopa Parlamendi ja nõukogu määruses (EL) nr 1286/2014 sätestatud nõuete rikkumine |
 | [§ 257](para-257.md) | Juhtimissüsteemi nõuete rikkumine |
+| [§ 257¹](para-257b1.md) | Digitaalse tegevuskerksuse nõuete rikkumine |
 | [§ 258](para-258.md) | Kliendi kindlustushuvi ja nõudmiste väljaselgitamisega seotud kohustuse rikkumine |
 | [§ 259](para-259.md) | Investeerimisriskiga elukindlustuslepingu sobivuse ja asjakohasuse hindamisega seotud nõuete rikkumine |
 | [§ 259¹](para-259b1.md) | Kindlustuslepingu komplektis pakkumise nõuete rikkumine |

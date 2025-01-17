@@ -30,7 +30,7 @@
 
 12) kliendi ees lojaalsus- ja hoolsuskohustuse täitmise tagamise kord;
 
-13) nõuded infotehnoloogilise korralduse, infoturbe tagamise ja talitluspidevuse kohta;
+13) nõuded info- ja kommunikatsioonitehnoloogilise korralduse, infoturbe tagamise ja talitluspidevuse kohta, mis peavad asjakohasel juhul olema kooskõlas Euroopa Parlamendi ja nõukogu määruses (EL) 2022/2554 sätestatud info- ja kommunikatsioonitehnoloogia riskide juhtimise nõuetega;
 
 14) sisemised protseduurireeglid rahvusvahelise sanktsiooni seaduse alusel kehtestatud rahvusvaheliste sanktsioonide rakendamiseks, sealhulgas tegevusjuhis juhuks, kui avastatakse rahvusvahelise sanktsiooni seaduses või selle alusel antud õigusaktides sätestatud tunnustele vastav olukord;
 
