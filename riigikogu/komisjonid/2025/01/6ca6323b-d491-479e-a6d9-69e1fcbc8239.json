@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung esmaspäev, 20.01.2025 kell 11.15",
+  "sitting_time": "2025-01-20T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1e279903-ad94-4c7a-8023-30a08bb7acec"
+    },
+    {
+      "order": 2,
+      "title": "Kohaliku omavalitsuse korralduse seaduse muutmise seaduse eelnõu (537 SE) esimese lugemise ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4209d505-2a90-4a43-a0bf-b5feca9db582"
+    },
+    {
+      "order": 3,
+      "title": "Õiguskantsleri ettepanek viia tööstusheite seaduse § 48 lõige 2 kooskõlla põhiseadusega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1f184ae1-2f90-419f-bf98-ce290c183071"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3e657838-6ee0-4acd-a894-cc667aa0607d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "PÕSK protokoll nr 89",
+      "uuid": "16080231-ae61-440b-8d80-4bca74c2619c",
+      "files": [
+        "PÕSK_protokoll_nr_89.asice",
+        "PÕSK_protokoll_nr_89_(20.01.2025).pdf"
+      ]
+    }
+  ],
+  "uuid": "6ca6323b-d491-479e-a6d9-69e1fcbc8239",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 6ca6323b-d491-479e-a6d9-69e1fcbc8239)",
+  "source": "https://api.riigikogu.ee/api/volumes/6ca6323b-d491-479e-a6d9-69e1fcbc8239",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-01-01&endDate=2025-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
