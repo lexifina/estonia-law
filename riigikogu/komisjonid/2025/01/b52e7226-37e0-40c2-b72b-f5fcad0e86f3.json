@@ -1,0 +1,54 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 20.01.2025 kell 11.10",
+  "sitting_time": "2025-01-20T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7394caec-e273-4d42-a4f5-1d28b9b70e01"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud põllumajandusloomade aretuse seaduse täiendamise seaduse eelnõu (551 SE) esimese lugemise ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ca9fa1a2-0600-47d6-a48a-3a9a44c8902a"
+    },
+    {
+      "order": 3,
+      "title": "Kohtumine Põllumajandus- ja Toiduameti peadirektoriga",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "62cfdee3-6f88-4946-8f90-e69689c907bf"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6cebf90f-d650-4887-beea-417611c701fc"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 20.01.2025",
+      "uuid": "d60110b7-b765-41c8-be8c-3aa1dbcf4d25",
+      "files": [
+        "094_protokolli_lisa_2_PTA_peadirektor.pdf",
+        "094_protokolli_lisa_1_REM_20.01.25.pdf",
+        "MAEK_protokoll_20.01.2025.asice",
+        "094_MAEK_Protokoll_20.01.2025.pdf"
+      ]
+    }
+  ],
+  "uuid": "b52e7226-37e0-40c2-b72b-f5fcad0e86f3",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b52e7226-37e0-40c2-b72b-f5fcad0e86f3)",
+  "source": "https://api.riigikogu.ee/api/volumes/b52e7226-37e0-40c2-b72b-f5fcad0e86f3",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-01-01&endDate=2025-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
