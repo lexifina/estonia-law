@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung esmaspäev, 20.01.2025 kell 11.15",
+  "sitting_time": "2025-01-20T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0da1d6d9-3e16-415b-b0bd-f74821a062b3"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu avaldus „Gruusia rahva toetuseks\" (564 AE I) ettevalmistamine esimeseks lugemiseks – muudatusettepanekute läbivaatamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "afd1a22b-20a0-4f02-af7b-f0f5db6544aa"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4d69162e-0862-4f10-a47b-702ea4d51e4b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 20.01.2025",
+      "uuid": "0de13b72-23bd-4db6-b5af-821d63916e59",
+      "files": [
+        "VÄLK_protokoll_20.01.2025.asice",
+        "VÄLK_protokoll_20.01.2025.pdf"
+      ]
+    }
+  ],
+  "uuid": "5b9e4976-c434-408e-9ea4-820f92a4e02d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 5b9e4976-c434-408e-9ea4-820f92a4e02d)",
+  "source": "https://api.riigikogu.ee/api/volumes/5b9e4976-c434-408e-9ea4-820f92a4e02d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-01-01&endDate=2025-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
