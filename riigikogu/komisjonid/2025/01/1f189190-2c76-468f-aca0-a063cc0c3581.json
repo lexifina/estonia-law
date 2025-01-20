@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 20.01.2025 kell 13.15",
+  "sitting_time": "2025-01-20T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0198e724-09ce-4b77-b577-fadedf15cc51"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli kontrolliaruande „Elektriga varustavate objektide turvalisus“ arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4711b539-1ee8-4a88-8253-bb5d78c0902f"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1f601782-05f1-4516-9c29-bcfbe916155d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 20.01.25",
+      "uuid": "864196cc-8346-4cce-80c7-d6c8f1e6d4ae",
+      "files": [
+        "REKK_protokoll_20.01.25.asice",
+        "Protokoll_nr_83_20.01.25.pdf"
+      ]
+    }
+  ],
+  "uuid": "1f189190-2c76-468f-aca0-a063cc0c3581",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 1f189190-2c76-468f-aca0-a063cc0c3581)",
+  "source": "https://api.riigikogu.ee/api/volumes/1f189190-2c76-468f-aca0-a063cc0c3581",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-01-01&endDate=2025-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
