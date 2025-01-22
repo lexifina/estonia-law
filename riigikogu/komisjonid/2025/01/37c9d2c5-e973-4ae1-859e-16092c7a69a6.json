@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung kolmapäev, 22.01.2025 kell 08.30",
+  "sitting_time": "2025-01-22T08:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikontrolli kontrolliaruande „Eesti riigi valmisolek võtta rahuajal vastu liitlaste sõjalisi üksusi“ arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "42434f62-a06c-4365-8284-62ca0901af60"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cc5cd645-f472-4b7a-8226-f5063edb93b6"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 22.01.25",
+      "uuid": "e92c5dcf-baed-49ac-aa44-42287f0739b5",
+      "files": [
+        "REKK_protokoll_22.01.25.asice",
+        "Protokoll_nr_84_22.01.25.pdf"
+      ]
+    }
+  ],
+  "uuid": "37c9d2c5-e973-4ae1-859e-16092c7a69a6",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 37c9d2c5-e973-4ae1-859e-16092c7a69a6)",
+  "source": "https://api.riigikogu.ee/api/volumes/37c9d2c5-e973-4ae1-859e-16092c7a69a6",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-01-01&endDate=2025-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
