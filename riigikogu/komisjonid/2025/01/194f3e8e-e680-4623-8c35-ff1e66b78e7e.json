@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung reede, 24.01.2025 kell 10.00",
+  "sitting_time": "2025-01-24T10:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Arengud Valgevenes",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "847fd12f-78ee-4088-8238-5ae0a9fa5f7f"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad 27. jaanuaril 2025 toimuval Euroopa Liidu välisasjade nõukogu istungil",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "42718374-af21-455a-93aa-0016cdf17921"
+    },
+    {
+      "order": 3,
+      "title": "Välispoliitika arutelu olulise tähtsusega riikliku küsimusena Riigikogu täiskogul 11. veebruaril 2025 – Vabariigi Valitsuse ettekande teesid",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8a9c7fb5-9f30-4dfe-9919-5e598aa3b8ea"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "704fef4a-5067-4ec1-9086-08a6b67e0ef3"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 24.01.2024",
+      "uuid": "44b1a35f-7ef8-4928-bd56-d18dfec72716",
+      "files": [
+        "VÄLK_protokoll_24.01.2024.asice",
+        "VÄLK_protokoll_24.01.2025.pdf"
+      ]
+    }
+  ],
+  "uuid": "194f3e8e-e680-4623-8c35-ff1e66b78e7e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 194f3e8e-e680-4623-8c35-ff1e66b78e7e)",
+  "source": "https://api.riigikogu.ee/api/volumes/194f3e8e-e680-4623-8c35-ff1e66b78e7e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-01-01&endDate=2025-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
