@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung reede, 24.01.2025 kell 09.00",
+  "sitting_time": "2025-01-24T09:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 28. jaanuaril 2025 toimuval üldasjade nõukogu istungil",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cc6834d7-4cd3-4300-a4b0-1dbd1256607f"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad 27. jaanuaril 2025 toimuval Euroopa Liidu põllumajandus- ja kalandusnõukogu istungil",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1fa5be92-503c-4c06-9c1a-bcbedab9c15f"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "49310d84-7572-4cbc-b3b6-914d495156e4"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ELAK protokoll 24.01.2025",
+      "uuid": "f7bb7900-5a51-4520-ab48-578d77a7420a",
+      "files": [
+        "ELAK_protokoll_24.01.2025.pdf",
+        "AGRIFISH_27.01.2025.pptx",
+        "ELAK_protokoll_24.01.2025.asice"
+      ]
+    }
+  ],
+  "uuid": "12b9bf39-b0c5-406e-b230-7fa74004f8fc",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 12b9bf39-b0c5-406e-b230-7fa74004f8fc)",
+  "source": "https://api.riigikogu.ee/api/volumes/12b9bf39-b0c5-406e-b230-7fa74004f8fc",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-01-01&endDate=2025-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
