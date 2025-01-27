@@ -1,0 +1,53 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung esmaspäev, 27.01.2025 kell 11.15",
+  "sitting_time": "2025-01-27T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "30d108ee-06c1-40b3-a534-de906a90d938"
+    },
+    {
+      "order": 2,
+      "title": "Arvamuse andmine Riigikohtule põhiseaduslikkuse järelevalve asjas nr 5-24-33",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2957cb89-4bb3-4330-a2c9-dbbb177ac89b"
+    },
+    {
+      "order": 3,
+      "title": "Ülevaade Riigi Kinnisvara AS tegevusest. Osalevad RKAS- e juhatuse esimees Tarmo Leppoja ja juhatuse liige Janek Lepp",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d7ac82c1-e012-4987-930e-6d4db85b2fdb"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4b987848-b89f-46c6-9443-4f87e0db1fd3"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 27.01.2025",
+      "uuid": "e762b323-db51-4fd6-a1f8-3d7d096ba310",
+      "files": [
+        "RAHK_protokoll_27.01.2025.asice",
+        "RKAS_2024._kokkuvõte_ja_2025-2028_kavandatud_tegevused.pdf",
+        "RAHK_protokoll_nr_135_27.01.2025.pdf"
+      ]
+    }
+  ],
+  "uuid": "3f4fbe6f-4e71-48ab-90ad-63e3264559db",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3f4fbe6f-4e71-48ab-90ad-63e3264559db)",
+  "source": "https://api.riigikogu.ee/api/volumes/3f4fbe6f-4e71-48ab-90ad-63e3264559db",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-01-01&endDate=2025-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
