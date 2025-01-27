@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 27.01.2025 kell 11.10",
+  "sitting_time": "2025-01-27T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a6752071-e561-4faf-a372-a92d0d36a01a"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade Eesti põllumajandustootjate 2023. aasta majandusnäitajatest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "62db78d9-9844-4d05-8aa9-9a06335df664"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dc61ab7b-d7cf-4445-9cc3-d1ba809cbbbe"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 27.01.2025",
+      "uuid": "906c38f6-c114-4791-a38a-7d5ab3cfd5bf",
+      "files": [
+        "MAEK_protokoll_27.01.2025.asice",
+        "095_protokolli_lisa_majandustulemused_2023.pdf",
+        "095_MAEK_Protokoll_27.01.2025.pdf"
+      ]
+    }
+  ],
+  "uuid": "0b8e61fa-2072-4563-aed6-4e9cf9d857d2",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0b8e61fa-2072-4563-aed6-4e9cf9d857d2)",
+  "source": "https://api.riigikogu.ee/api/volumes/0b8e61fa-2072-4563-aed6-4e9cf9d857d2",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-01-01&endDate=2025-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
