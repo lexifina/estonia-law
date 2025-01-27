@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung esmaspäev, 27.01.2025 kell 11.15",
+  "sitting_time": "2025-01-27T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0305f473-954d-49f6-9443-becc3d93074c"
+    },
+    {
+      "order": 2,
+      "title": "Informatsioon kahjustatud merekaabli kohta Läänemerel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b92dfa95-cca8-46d9-8817-9f244f2f7fbd"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 27.01.2025",
+      "uuid": "eda9ea16-607f-4ecf-acc6-8223e9537c76",
+      "files": [
+        "VÄLK_protokoll_27.01.2025.asice",
+        "VÄLK_protokoll_27.01.2024.pdf"
+      ]
+    }
+  ],
+  "uuid": "1794f313-84ba-4204-a90f-11e460b24cec",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 1794f313-84ba-4204-a90f-11e460b24cec)",
+  "source": "https://api.riigikogu.ee/api/volumes/1794f313-84ba-4204-a90f-11e460b24cec",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-01-01&endDate=2025-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
