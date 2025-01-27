@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung esmaspäev, 27.01.2025 kell 11.15",
+  "sitting_time": "2025-01-27T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "aab5377b-ba87-42de-a4d0-37c68ecafc76"
+    },
+    {
+      "order": 2,
+      "title": "Kriminaalmenetluse seadustiku ja teiste seaduste muutmise seadus (kohtumenetluse optimeerimine ja kohtulahendite avalikkus) (560 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "51050271-cb3c-49b7-96fd-87b2a677b2f2"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "999d71f9-8829-4c00-bd51-b48b9a924f60"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ÕIGK protokoll 27.01.2025",
+      "uuid": "726a3f29-9291-41d6-9483-9dee26c90d35",
+      "files": [
+        "Riigikogu_õiguskomisjoni_istungi_protokoll_nr_65.pdf",
+        "ÕIGK_protokoll_27.01.2025.asice"
+      ]
+    }
+  ],
+  "uuid": "834f843a-4c16-4c17-87dd-e24f08b720ad",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 834f843a-4c16-4c17-87dd-e24f08b720ad)",
+  "source": "https://api.riigikogu.ee/api/volumes/834f843a-4c16-4c17-87dd-e24f08b720ad",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-01-01&endDate=2025-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
