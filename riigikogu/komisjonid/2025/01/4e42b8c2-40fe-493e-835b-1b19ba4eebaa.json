@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 27.01.2025 kell 13.15",
+  "sitting_time": "2025-01-27T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "75d01f0b-522d-4088-97e4-e5771d5fa731"
+    },
+    {
+      "order": 2,
+      "title": "Riigi vahendite eraldamisest AS Nordicale",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a0749585-3c34-48b2-8f71-55ecd4e2695f"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d494c7a5-07f4-4f1d-8f3e-8791eef75626"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 27.01.25",
+      "uuid": "8148c605-a78a-4ffc-bfee-032d6db1808b",
+      "files": [
+        "Asendusliikme_volikiri_27.01.25.pdf",
+        "REKK_protokoll_27.01.25.asice",
+        "Protokoll_nr_85_27.01.25.pdf"
+      ]
+    }
+  ],
+  "uuid": "4e42b8c2-40fe-493e-835b-1b19ba4eebaa",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 4e42b8c2-40fe-493e-835b-1b19ba4eebaa)",
+  "source": "https://api.riigikogu.ee/api/volumes/4e42b8c2-40fe-493e-835b-1b19ba4eebaa",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-01-01&endDate=2025-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
