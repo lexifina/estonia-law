@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung esmaspäev, 27.01.2025 kell 11.15",
+  "sitting_time": "2025-01-27T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "425e8479-677e-468f-b426-b5fa63718fe9"
+    },
+    {
+      "order": 2,
+      "title": "Kohaliku omavalitsuse volikogu valimise seaduse muutmise seaduse eelnõu (544 SE) esimese lugemise ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e2be9c68-b77e-472e-b5e7-8ceb00a61b97"
+    },
+    {
+      "order": 3,
+      "title": "Riigikogu otsuse „Riigikogu uurimiskomisjoni moodustamine Nordica tegevuse lõpetamisega seonduvate asjaolude uurimiseks“ eelnõu (543 OE) esimese lugemise ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "257acc15-cd82-4bdb-8b94-753b0117e577"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "52521291-e464-4e93-b6d1-68132ecd74da"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "PÕSK protokoll nr 91",
+      "uuid": "cc27b4bd-d91b-46a3-ac55-5ac6b1b41422",
+      "files": [
+        "PÕSK_protokoll_nr_91.asice",
+        "PÕSK_protokoll_nr_91_(27.01.2025).pdf"
+      ]
+    }
+  ],
+  "uuid": "36935948-4ee4-4296-b9b0-639c6a9bc19a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 36935948-4ee4-4296-b9b0-639c6a9bc19a)",
+  "source": "https://api.riigikogu.ee/api/volumes/36935948-4ee4-4296-b9b0-639c6a9bc19a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-01-01&endDate=2025-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
