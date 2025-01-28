@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung teisipäev, 28.01.2025 kell 14.00",
+  "sitting_time": "2025-01-28T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "75623f8e-bacc-4786-b321-60a42d884a87"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud ehitusseadustiku, halduskoostöö seaduse ja veeseaduse muutmise seaduse eelnõu (531 SE) teise lugemise ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "46137dc9-930c-40f9-8ba7-345ae667e2d6"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "90635106-a00d-48e0-b7de-6aaf8a6fcbfc"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK protokoll 28.01.2025",
+      "uuid": "4fd63b3b-4cc8-4439-af8b-8f94871352c8",
+      "files": [
+        "KEKK_protokoll_28.01.2025.pdf",
+        "KEKK_protokoll_28.01.2025.asice"
+      ]
+    }
+  ],
+  "uuid": "9a024c84-4207-4a30-97d2-47337e866b00",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9a024c84-4207-4a30-97d2-47337e866b00)",
+  "source": "https://api.riigikogu.ee/api/volumes/9a024c84-4207-4a30-97d2-47337e866b00",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-01-01&endDate=2025-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
