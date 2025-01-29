@@ -1,0 +1,54 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung kolmapäev, 29.01.2025 kell 08.30",
+  "sitting_time": "2025-01-29T08:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikontrolli kontrolliaruande „Kiirabi korraldus“ arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "84a99c74-8510-4ba0-9c83-397d40f958cf"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli kontrolliaruande „Järelevalve tervishoiutöötajate üle ja nende tegutsemisõiguse piiramine“ arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fee6fb22-c02d-4b19-81dd-687eb2357337"
+    },
+    {
+      "order": 3,
+      "title": "Riigikontrolli kontrolliaruande tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e83ecf79-7a0b-42fd-b3f6-37ddb3606cd3"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d5672494-cb9b-4d2f-a8b2-6d4c47c1462a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 29.01.25",
+      "uuid": "af95ae0c-a9ba-43b2-878e-3aa351ae9a74",
+      "files": [
+        "REKK_protokoll_29.01.25.asice",
+        "109_Tervishoiutöötajate_järelevalve_esitlus.potx",
+        "REKK_Kiirabi_Esitlus_29.01.2025_up.pptx",
+        "Protokoll_nr_86_29.01.25.pdf"
+      ]
+    }
+  ],
+  "uuid": "a7636742-7f6f-4416-853e-304761a92403",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a7636742-7f6f-4416-853e-304761a92403)",
+  "source": "https://api.riigikogu.ee/api/volumes/a7636742-7f6f-4416-853e-304761a92403",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-01-01&endDate=2025-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
