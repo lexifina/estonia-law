@@ -1,0 +1,58 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung neljapäev, 30.01.2025 kell 14.00",
+  "sitting_time": "2025-01-30T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade Riigikogus moodustatud välisdelegatsioonide tegevusest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "af9325c6-7a8b-4375-a3a7-6facb7515af2"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu otsuse ,,Eesti Vabariigi, Leedu Vabariigi ja Läti Vabariigi Parlamentidevahelise Assamblee Eesti delegatsiooni moodustamine“ muutmise eelnõu esitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "873a785b-49e1-4338-9389-7bb82a5b61f3"
+    },
+    {
+      "order": 3,
+      "title": "Eesti seisukohad 3.-4. veebruaril 2025 toimuval Euroopa Liidu välisasjade nõukogu kaubandusministrite mitteametlikul kohtumistel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e1d007b9-172f-45ba-956a-1cd97dfc821e"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fb9ccbd4-605d-4901-b047-4a777dca4e9f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 30.01.2025",
+      "uuid": "a7f0acae-70d6-47f7-9789-f15afc065fa1",
+      "files": [
+        "VÄLK_protokoll_30.01.2025.asice",
+        "NATO_PA_Eesti_del._2024._aasta_tegevuse_ülevaade.pdf",
+        "ENPA_Eesti_delegatsiooni_2024._aasta_tegevuse_ülevaade_.pdf",
+        "OSCE_PA_ülevaade_2024.pdf",
+        "Ülevaade_BA_delegatsiooni_tööst_2024.pdf",
+        "EISC_2024._aasta_aruanne.pdf",
+        "IPU_delegatsiooni_tegevuse_ülevaade_2024.pdf",
+        "VÄLK_protokoll_30.01.2025.pdf"
+      ]
+    }
+  ],
+  "uuid": "42eb7653-2652-4228-92dd-87f7414315c9",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 42eb7653-2652-4228-92dd-87f7414315c9)",
+  "source": "https://api.riigikogu.ee/api/volumes/42eb7653-2652-4228-92dd-87f7414315c9",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-01-01&endDate=2025-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
