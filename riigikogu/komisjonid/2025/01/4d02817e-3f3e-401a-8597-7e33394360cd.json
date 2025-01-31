@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Euroopa Liidu asjade komisjoni ja väliskomisjoni ühine istung reede, 31.01.2025 kell 09.00",
+  "sitting_time": "2025-01-31T09:00:00",
+  "sitting_type": "UHISISTUNG",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Euroopa Liidu asjade komisjoni nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6ade0e52-caaa-46fb-8642-3d8b5e2907a3"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad 3. veebruaril 2025 toimuval Euroopa Ülemkogu mitteametlikul kohtumisel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "447f7704-4685-4f81-986b-a33809fc0673"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ELAK & VÄLK protokoll 31.01.2025",
+      "uuid": "a23b8cdc-011d-418a-95da-d5a34fe61154",
+      "files": [
+        "ELAK_&_VÄLK_protokoll_31.01.2025.asice",
+        "ELAK_ja_VÄLK_protokoll_31.01.2025.pdf"
+      ]
+    }
+  ],
+  "uuid": "4d02817e-3f3e-401a-8597-7e33394360cd",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 4d02817e-3f3e-401a-8597-7e33394360cd)",
+  "source": "https://api.riigikogu.ee/api/volumes/4d02817e-3f3e-401a-8597-7e33394360cd",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-01-01&endDate=2025-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
