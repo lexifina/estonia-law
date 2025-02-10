@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung esmaspäev, 10.02.2025 kell 11.10",
+  "sitting_time": "2025-02-10T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b527173e-bf30-497f-8953-f2a42e511e93"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu liikmete algatatud jahiseaduse muutmise seaduse eelnõu (567 SE) esimese lugemise ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "235644b5-66dc-439c-929d-6c4f565bdc9d"
+    },
+    {
+      "order": 3,
+      "title": "Vabariigi Valitsuse algatatud kiirgusseaduse muutmise ja sellega seonduvalt teiste seaduste muutmise seaduse eelnõu (573 SE) esimese lugemise ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "31a6c920-7849-4bd8-9313-9846ac8962ba"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7c6e3c13-f062-49f7-b146-f4251fb1b8bf"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK protokoll 10.02.2025",
+      "uuid": "e87d5253-aa28-4508-a387-851cb4fc61f3",
+      "files": [
+        "KEKK_protokoll_10.02.2025.pdf",
+        "KEKK_protokoll_10.02.2025.asice"
+      ]
+    }
+  ],
+  "uuid": "b66ecf74-f5df-45ad-824d-08a2e0dc7cf6",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b66ecf74-f5df-45ad-824d-08a2e0dc7cf6)",
+  "source": "https://api.riigikogu.ee/api/volumes/b66ecf74-f5df-45ad-824d-08a2e0dc7cf6",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-02-01&endDate=2025-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
