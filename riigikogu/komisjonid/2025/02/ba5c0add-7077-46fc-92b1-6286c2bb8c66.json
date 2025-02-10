@@ -1,0 +1,60 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 10.02.2025 kell 11.10",
+  "sitting_time": "2025-02-10T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "82d4129a-5ad2-4f21-a57e-74d022959861"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade Regionaal- ja Põllumajandusmajandusministeeriumi eelarvest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6faf499c-5355-4e4d-a64f-8ec522c7ebe7"
+    },
+    {
+      "order": 3,
+      "title": "Ülevaade pärandniitude hooldamise ja taastamise meetmest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "953ada92-74b3-4af8-8dac-a563457f6976"
+    },
+    {
+      "order": 4,
+      "title": "Eesti seisukohad Euroopa Liidu ühise põllumajanduspoliitika tuleviku kohta",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a0aead51-5c27-4e7a-9a9f-57b076ac0c99"
+    },
+    {
+      "order": 5,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "de7ce8f5-8773-46fd-b798-6f4549cb695d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 10.02.2025",
+      "uuid": "d36024cd-3d8e-4b9e-9c26-ce644c2b3c73",
+      "files": [
+        "MAEK_protokoll_10.02.2025.asice",
+        "096_protokolli_lisa_1_REM_eelarve.pdf",
+        "096_MAEK_protokoll_10.02.2025.pdf",
+        "096_protokolli_lisa_2_REM_pärandniidud.pdf"
+      ]
+    }
+  ],
+  "uuid": "ba5c0add-7077-46fc-92b1-6286c2bb8c66",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ba5c0add-7077-46fc-92b1-6286c2bb8c66)",
+  "source": "https://api.riigikogu.ee/api/volumes/ba5c0add-7077-46fc-92b1-6286c2bb8c66",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-02-01&endDate=2025-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
