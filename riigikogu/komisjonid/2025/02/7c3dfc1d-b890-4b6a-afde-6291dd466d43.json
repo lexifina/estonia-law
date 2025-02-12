@@ -1,0 +1,48 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung kolmapäev, 12.02.2025 kell 08.30",
+  "sitting_time": "2025-02-12T08:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikontrolli kontrolliaruande „Hooldereform“ arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5dc8929c-e177-4bde-8a86-c08a01333e66"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli kontrolliaruande „Transpordiameti loomine ja selle tulemused“ tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2545b2ee-5a8d-49db-9f59-2fd3f63d264b"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "00461ec6-fe4b-4586-a0d6-8a57209e38df"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 12.02.25",
+      "uuid": "3623bec7-7467-4fba-a252-c9ac7aabce46",
+      "files": [
+        "REKK_protokoll_12.02.25.asice",
+        "12.02.2025_Hooldereformi_audit_Riigikogu_riigieelarve_kontrolli_erikomisjon.11.02.pptx",
+        "hooldereform_REK_slaidikava_12.02.2025.pptx",
+        "Protokoll_nr_88_12.02.25.pdf"
+      ]
+    }
+  ],
+  "uuid": "7c3dfc1d-b890-4b6a-afde-6291dd466d43",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7c3dfc1d-b890-4b6a-afde-6291dd466d43)",
+  "source": "https://api.riigikogu.ee/api/volumes/7c3dfc1d-b890-4b6a-afde-6291dd466d43",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-02-01&endDate=2025-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
