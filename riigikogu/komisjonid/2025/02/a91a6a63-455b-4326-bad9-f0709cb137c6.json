@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Euroopa Liidu asjade komisjoni ja väliskomisjoni ühine istung kolmapäev, 12.02.2025 kell 08.30",
+  "sitting_time": "2025-02-12T08:30:00",
+  "sitting_type": "UHISISTUNG",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade 3. veebruaril 2025 toimunud Euroopa Ülemkogu mitteametlikust kohtumisest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3c07b076-7a96-4bb6-b3e4-77da1107aa29"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "10d02e4b-c691-4056-a179-e5f14cfba1be"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ELAK ja VÄLK protokoll 12.02.2025",
+      "uuid": "b8ac8720-4af3-4cda-88f5-661914e0654d",
+      "files": [
+        "ELAK_ja_VÄLK_protokoll_12.02.2025.pdf",
+        "ELAK_ja_VÄLK_protokoll_12.02.2025.asice"
+      ]
+    }
+  ],
+  "uuid": "a91a6a63-455b-4326-bad9-f0709cb137c6",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a91a6a63-455b-4326-bad9-f0709cb137c6)",
+  "source": "https://api.riigikogu.ee/api/volumes/a91a6a63-455b-4326-bad9-f0709cb137c6",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-02-01&endDate=2025-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
