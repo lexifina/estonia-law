@@ -1,0 +1,49 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 17.02.2025 kell 13.15",
+  "sitting_time": "2025-02-17T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6fe57db1-a0e5-4a30-a8e4-be84a929e8b6"
+    },
+    {
+      "order": 2,
+      "title": "Jätkusuutlik pensionisüsteem ja riigieelarve",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "44c70146-9db6-442e-995a-eec495e1f768"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1fa72314-980c-44e7-bdd8-59a6aee674c8"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 17.02.25",
+      "uuid": "7a90fac0-9494-4614-9b63-4a60d7a62c44",
+      "files": [
+        "REKK_protokoll_17.02.25.asice",
+        "FinanceEstonia_kogumispensioni_ülevaade_17.02.2025.pdf",
+        "Jätkusuutlik_pensionisüsteem_REKK.pdf",
+        "Pensionide_areng_2025_jagamiseks.pptx",
+        "Protokoll_nr_89_17.02.25.pdf"
+      ]
+    }
+  ],
+  "uuid": "9be9fb84-3340-4a0b-ba0a-8f343eb1b803",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9be9fb84-3340-4a0b-ba0a-8f343eb1b803)",
+  "source": "https://api.riigikogu.ee/api/volumes/9be9fb84-3340-4a0b-ba0a-8f343eb1b803",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-02-01&endDate=2025-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
