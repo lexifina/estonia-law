@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni avalik istung esmaspäev, 17.02.2025 kell 11.15",
+  "sitting_time": "2025-02-17T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "13b1652a-ef36-4a8f-ba5b-eca671d55378"
+    },
+    {
+      "order": 2,
+      "title": "Kriminaalkorras karistatud erakondadele riigieelarvest vahendite eraldamine - arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7738c09d-1dcc-426f-8da9-838005d3e1c3"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1d0282bf-ac69-4af9-93a0-952f74567b22"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "PÕSK protokoll nr 94",
+      "uuid": "82396897-6aa2-48e5-a581-865c86fca7fe",
+      "files": [
+        "PÕSK_protokoll_nr_94.asice",
+        "PÕSK_protokoll_nr_94_(17.02.2025).pdf"
+      ]
+    }
+  ],
+  "uuid": "afb2ca23-e105-42ba-b7c3-d7096e318e90",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid afb2ca23-e105-42ba-b7c3-d7096e318e90)",
+  "source": "https://api.riigikogu.ee/api/volumes/afb2ca23-e105-42ba-b7c3-d7096e318e90",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-02-01&endDate=2025-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
