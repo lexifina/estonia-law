@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung teisipäev, 18.02.2025 kell 14.00",
+  "sitting_time": "2025-02-18T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud ehitusseadustiku, ehitusseadustiku ja planeerimisseaduse rakendamise seaduse ning riigivaraseaduse muutmise seaduse eelnõu (746 UA) teise lugemise ettevalmistamine. Laekunud arvamuste ärakuulamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c94502bd-13d9-465a-b84f-6aee521bd3e3"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d6a0c2bd-73c0-49b4-9744-b9d3b18603a8"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAJK protokoll 18.02.2025",
+      "uuid": "a7d3456f-09c0-4ffe-9fb4-86a7ad37d703",
+      "files": [
+        "MAJK_protokoll_18.02.2025.asice",
+        "MAJK_protokoll_nr_111_18.02.2025.pdf"
+      ]
+    }
+  ],
+  "uuid": "59eea2b8-bea9-4af2-9b9d-b4ca2388b1bf",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 59eea2b8-bea9-4af2-9b9d-b4ca2388b1bf)",
+  "source": "https://api.riigikogu.ee/api/volumes/59eea2b8-bea9-4af2-9b9d-b4ca2388b1bf",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-02-01&endDate=2025-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
