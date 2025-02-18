@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung teisipäev, 18.02.2025 kell 14.00",
+  "sitting_time": "2025-02-18T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikontrolli kontrolliaruande „Kiirabi korraldus“ tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c247e9e5-5906-4e69-a4f8-fe83e1f8ba76"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "896a74aa-7f91-47b4-87ce-0a1b1e284107"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "SOTK protokoll 18.02.2025",
+      "uuid": "0a693c11-0c0f-4aea-bae1-31ceec30b239",
+      "files": [
+        "Lisa_(Riigikontrolli_slaidid).pdf",
+        "SOTK_protokoll_18.02.2025.asice",
+        "SOTK_protokoll_nr_103_(18.02.2025).pdf"
+      ]
+    }
+  ],
+  "uuid": "0d1a8b73-5bce-4d18-b97f-e1f232a060ea",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0d1a8b73-5bce-4d18-b97f-e1f232a060ea)",
+  "source": "https://api.riigikogu.ee/api/volumes/0d1a8b73-5bce-4d18-b97f-e1f232a060ea",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-02-01&endDate=2025-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
