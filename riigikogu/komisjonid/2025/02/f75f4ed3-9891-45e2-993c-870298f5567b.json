@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 18.02.2025 kell 14.00",
+  "sitting_time": "2025-02-18T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Arvamuse andmine Riigikohtule põhiseaduslikkuse järelevalve asjas nr 5-25-1 (kalapüügiseaduse § 56 lõiked 3 ja 4 osas, mis puudutab Põllumajandus- ja Toiduameti kaalutlusõigust)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "162914da-18f2-49c1-903b-4d2dd3a1f7e1"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "96b18939-2dcd-48f6-8222-07d91ebf74cb"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 18.02.2025",
+      "uuid": "cea94588-b663-4b22-b969-f24a420f6dc7",
+      "files": [
+        "098_MAEK_protokoll_18.02.2025.pdf",
+        "MAEK_protokoll_18.02.2025.asice"
+      ]
+    }
+  ],
+  "uuid": "f75f4ed3-9891-45e2-993c-870298f5567b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f75f4ed3-9891-45e2-993c-870298f5567b)",
+  "source": "https://api.riigikogu.ee/api/volumes/f75f4ed3-9891-45e2-993c-870298f5567b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-02-01&endDate=2025-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
