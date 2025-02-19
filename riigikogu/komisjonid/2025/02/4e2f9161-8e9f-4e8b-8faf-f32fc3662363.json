@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung kolmapäev, 19.02.2025 kell 08.30",
+  "sitting_time": "2025-02-19T08:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kavandatavad energia otsused ja mõju rahandusele ning majandusele",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "120ef3e4-ccd1-44b5-a0a5-f1b82a0aaa5a"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c6df4d54-9997-4202-8d45-ec3e24aead77"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 19.02.25",
+      "uuid": "dd83b3c2-a900-4e4a-ad20-172195aaf585",
+      "files": [
+        "REKK_protokoll_19.02.25.asice",
+        "20250219_riigieelarve_kontrolli_erikomisjon.pptx",
+        "Protokoll_nr_90_19.02.25.pdf"
+      ]
+    }
+  ],
+  "uuid": "4e2f9161-8e9f-4e8b-8faf-f32fc3662363",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 4e2f9161-8e9f-4e8b-8faf-f32fc3662363)",
+  "source": "https://api.riigikogu.ee/api/volumes/4e2f9161-8e9f-4e8b-8faf-f32fc3662363",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-02-01&endDate=2025-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
