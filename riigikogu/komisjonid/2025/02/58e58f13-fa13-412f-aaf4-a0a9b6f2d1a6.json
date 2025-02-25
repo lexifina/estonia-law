@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung teisipäev, 25.02.2025 10 minutit peale täiskogu istungit",
+  "sitting_time": "2025-02-25T15:19:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ce77294e-fe24-4de3-b279-1f8e4512b83c"
+    },
+    {
+      "order": 2,
+      "title": "Kutse EUFORESe 25ndale parlamentide vahelisele kohtumisele",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "20de8301-971f-49a0-8530-cc8b6b3d1d1b"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6a5d6e0f-8c0f-4ab1-81f6-c3233847d5f0"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK protokoll 25.02.2025",
+      "uuid": "8fba767a-0b7a-4d2b-b827-bf69047d7c14",
+      "files": [
+        "KEKK_protokoll_25.02.2025.asice",
+        "KEKK_protokoll_25.02.2025.pdf"
+      ]
+    }
+  ],
+  "uuid": "58e58f13-fa13-412f-aaf4-a0a9b6f2d1a6",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 58e58f13-fa13-412f-aaf4-a0a9b6f2d1a6)",
+  "source": "https://api.riigikogu.ee/api/volumes/58e58f13-fa13-412f-aaf4-a0a9b6f2d1a6",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-02-01&endDate=2025-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
