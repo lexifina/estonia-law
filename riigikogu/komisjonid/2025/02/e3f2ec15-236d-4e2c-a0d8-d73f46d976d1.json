@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung kolmapäev, 26.02.2025 kell 08.30",
+  "sitting_time": "2025-02-26T08:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5f73fa82-79ae-4018-80ef-9f2a66e6ceaf"
+    },
+    {
+      "order": 2,
+      "title": "2024. aasta eelarve täitmisest ning valitsemiskuludest 2025. aastal",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "febac07b-cf3c-4422-9723-1b99649ef2e5"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d8d3b451-c6ed-48de-97f0-e592ac5400ae"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 26.02.25",
+      "uuid": "80b20fff-69fd-428f-bc93-928633dd91de",
+      "files": [
+        "REKK_protokoll_26.02.25.asice",
+        "RR_ülevaade_26.02.2025.pptxx.pptx",
+        "Protokoll_nr_91_26.02.25.pdf"
+      ]
+    }
+  ],
+  "uuid": "e3f2ec15-236d-4e2c-a0d8-d73f46d976d1",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e3f2ec15-236d-4e2c-a0d8-d73f46d976d1)",
+  "source": "https://api.riigikogu.ee/api/volumes/e3f2ec15-236d-4e2c-a0d8-d73f46d976d1",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-02-01&endDate=2025-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
