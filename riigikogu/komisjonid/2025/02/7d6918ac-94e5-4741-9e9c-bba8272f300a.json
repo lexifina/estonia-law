@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung neljapäev, 27.02.2025 kell 14.00",
+  "sitting_time": "2025-02-27T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "385c3bb2-69a0-4494-8ff7-0f62edd18ea2"
+    },
+    {
+      "order": 2,
+      "title": "Droonivõime Eesti sõjalises kaitses",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0f58a239-e9d8-453b-8539-fc78f29bf9f8"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3b34afeb-9efa-48d4-ac98-42cfd4946ec2"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Riigikaitsekomisjoni 27.02.25 istungi protokoll",
+      "uuid": "d07acf8e-1c43-4fab-ab36-7c67869ec4f2",
+      "files": [
+        "Riigikaitsekomisjoni_27.02.25_istungi_protokoll.asice",
+        "2025-02-27_protokoll_126.pdf"
+      ]
+    }
+  ],
+  "uuid": "7d6918ac-94e5-4741-9e9c-bba8272f300a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7d6918ac-94e5-4741-9e9c-bba8272f300a)",
+  "source": "https://api.riigikogu.ee/api/volumes/7d6918ac-94e5-4741-9e9c-bba8272f300a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-02-01&endDate=2025-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
