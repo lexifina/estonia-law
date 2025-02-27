@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung neljapäev, 27.02.2025 kell 13.45",
+  "sitting_time": "2025-02-27T13:45:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "635d69ee-9a94-464f-899e-504757aca4f7"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad Euroopa Liidu maksustamisalase halduskoostöö direktiivi (2011/16/EL) muutmise kohta - COM(2024) 497",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1f4911c3-ca4f-4277-a697-7b4b87005e1d"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dd809d21-7992-455d-b63c-aa4e9795b2ba"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 27.02.2025",
+      "uuid": "902595e1-4961-4637-a92e-56dd3f0aea58",
+      "files": [
+        "RAHK_protokoll_27.02.2025.asice",
+        "RAHK_protokoll_139_27_02_2025.pdf"
+      ]
+    }
+  ],
+  "uuid": "bddb9e03-09ed-4ccb-8210-9be6b47de887",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid bddb9e03-09ed-4ccb-8210-9be6b47de887)",
+  "source": "https://api.riigikogu.ee/api/volumes/bddb9e03-09ed-4ccb-8210-9be6b47de887",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-02-01&endDate=2025-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
