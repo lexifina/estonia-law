@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung esmaspäev, 10.03.2025 kell 11.00",
+  "sitting_time": "2025-03-10T11:04:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c84ac87c-b660-4c06-b25b-f137af49e286"
+    },
+    {
+      "order": 2,
+      "title": "Välissuhtlemisseaduse muutmise ja sellega seonduvalt teiste seaduste muutmise seaduse eelnõu (385 SE I) teise lugemise ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fe774764-47d3-41d4-84ca-270843c6bca7"
+    },
+    {
+      "order": 3,
+      "title": "Rahvusvahelise Demokraatia ja Valimisabi Instituudi põhikirjaga ühinemise seaduse eelnõu (559 SE I) esimeseks lugemiseks ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "abaa1ad3-f9a1-4698-8907-0916872061f1"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b30a7943-9fc2-43aa-811d-b3a39e1d19f4"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 10.03.2025",
+      "uuid": "fe75e162-2179-4c5d-ad64-b7aacbe5ff6f",
+      "files": [
+        "VÄLK_protokoll_10.03.2025.asice",
+        "VÄLK_protokoll_10.03.2025.pdf"
+      ]
+    }
+  ],
+  "uuid": "55d52b05-9a6a-49a3-926d-b3ddaf791d4e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 55d52b05-9a6a-49a3-926d-b3ddaf791d4e)",
+  "source": "https://api.riigikogu.ee/api/volumes/55d52b05-9a6a-49a3-926d-b3ddaf791d4e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-03-01&endDate=2025-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
