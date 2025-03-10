@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung esmaspäev, 10.03.2025 kell 11.10",
+  "sitting_time": "2025-03-10T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a18e22cd-0a1a-41ff-8c55-aca8072b831b"
+    },
+    {
+      "order": 2,
+      "title": "Peaministri teadus- ja arendustegevuse ettekande teeside tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a5c7625c-0505-4ba7-b0f9-c250ef645eef"
+    },
+    {
+      "order": 3,
+      "title": "Rahvusooper Estonia juurdeehituse pärandimõju hinnangu esitamisest UNESCOle",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f68ddcda-be54-4fba-9d1e-d7e95156ce1c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KULK protokoll 93 (10.03.25)",
+      "uuid": "30b1f372-9b13-41a0-b3f8-5e71c295ad0a",
+      "files": [
+        "KULK_protokoll_93_(10.03.25).asice",
+        "KULK_protokoll_93_(10.03.2025).pdf",
+        "TA_kõne_teesid_2025.pdf"
+      ]
+    }
+  ],
+  "uuid": "402bc1d8-5d59-4e02-aac7-5fc1ec964d7a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 402bc1d8-5d59-4e02-aac7-5fc1ec964d7a)",
+  "source": "https://api.riigikogu.ee/api/volumes/402bc1d8-5d59-4e02-aac7-5fc1ec964d7a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-03-01&endDate=2025-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
