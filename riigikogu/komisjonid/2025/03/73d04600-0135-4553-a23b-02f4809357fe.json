@@ -1,0 +1,54 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung esmaspäev, 10.03.2025 kell 11.15",
+  "sitting_time": "2025-03-10T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fa5d61f1-9bea-4879-a592-10be6ca290c5"
+    },
+    {
+      "order": 2,
+      "title": "Rahandusministeeriumi ülevaade majanduse ja riigirahanduse olukorrast",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "65a6217d-223a-4f18-813c-5a8166d6a1ca"
+    },
+    {
+      "order": 3,
+      "title": "Rahandusministeeriumi ülevaade EL majanduse juhtimise raamistikust, Eesti keskpika perioodi eelarve- ja struktuurikavast",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "55913244-c059-4d77-bf5b-951086e49523"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "793e98a7-7934-417e-9fa1-110ec0652cb4"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 10.03.2025",
+      "uuid": "5bcb9181-6b2b-43a8-9b43-713135c651dd",
+      "files": [
+        "RAHK_protokoll_10.03.2025.asice",
+        "RAM_ülevaade_EL_majanduse_ja_juhtimise_raamistikust_10.03.2025.pdf",
+        "RAM_ülevaade_riigirahandusest_ja_majandusest_täpsustatud_10.03.2025.pdf",
+        "RAHK_protokoll_nr_140_10.03.2025.pdf"
+      ]
+    }
+  ],
+  "uuid": "73d04600-0135-4553-a23b-02f4809357fe",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 73d04600-0135-4553-a23b-02f4809357fe)",
+  "source": "https://api.riigikogu.ee/api/volumes/73d04600-0135-4553-a23b-02f4809357fe",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-03-01&endDate=2025-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
