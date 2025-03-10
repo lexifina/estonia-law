@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni väljasõiduistung esmaspäev, 10.03.2025 kell 11.15",
+  "sitting_time": "2025-03-10T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ec9e4498-6ba6-49b8-baac-bfb94303328a"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e7b93a0f-bfc4-4e2b-9bb7-52060c382903"
+    },
+    {
+      "order": 3,
+      "title": "Ülevaade Eesti sõjalisest riigikaitsest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "daa87d3a-6b52-45a7-9ab6-e3e98943917e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Riigikaitsekomisjoni 10.03.25 väljasõiduistungi protokoll",
+      "uuid": "15e21aff-3304-4210-a332-40a8886f85c5",
+      "files": [
+        "Riigikaitsekomisjoni_10.03.25_väljasõiduistungi_protokoll.asice",
+        "2025-03-10_protokoll_127.pdf"
+      ]
+    }
+  ],
+  "uuid": "5934f58e-838a-47ae-98a1-a92acb927a21",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 5934f58e-838a-47ae-98a1-a92acb927a21)",
+  "source": "https://api.riigikogu.ee/api/volumes/5934f58e-838a-47ae-98a1-a92acb927a21",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-03-01&endDate=2025-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
