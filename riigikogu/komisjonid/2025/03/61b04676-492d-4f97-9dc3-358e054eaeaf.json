@@ -1,0 +1,49 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Korruptsioonivastane erikomisjon",
+  "committee_uuid": "e4f2977a-e8c3-4fa0-8f3d-9df9acd6377f",
+  "title": "Komisjoni istung esmaspäev, 10.03.2025 kell 13.15",
+  "sitting_time": "2025-03-10T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "de6c4f43-eb10-4205-9dbf-2d98a16e5096"
+    },
+    {
+      "order": 2,
+      "title": "RMK puidumüük kestvuslepingutega ja kinniste läbirääkimiste käigus kokkulepitud hindadega. Advokaadibüroo COBALT riigiabi analüüs.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "353b48bf-64cb-40d2-9697-977a82e8e62d"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7f7cd17f-f5b8-4b64-b9d4-eaef28fc37bd"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KVEK protokoll 56 (10.03.2025)",
+      "uuid": "06ccc965-bf3f-4004-a3ae-a449475a5552",
+      "files": [
+        "Lisa_3_RMK_kestvuslepingute_analüüs_JP_Economics_28.02.25.pdf",
+        "Lisa_2_28.02.2025_Kestvuslepingute_riigiabi_tingimustele_vastavuse_analüüs_COBALT.pdf",
+        "Lisa_1_Riigikontrolli_esitlus.pptx",
+        "KVEK_protokoll_56_(10.03.2025).asice",
+        "KVEK_protokoll_56_(10.03.2025).pdf"
+      ]
+    }
+  ],
+  "uuid": "61b04676-492d-4f97-9dc3-358e054eaeaf",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 61b04676-492d-4f97-9dc3-358e054eaeaf)",
+  "source": "https://api.riigikogu.ee/api/volumes/61b04676-492d-4f97-9dc3-358e054eaeaf",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-03-01&endDate=2025-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
