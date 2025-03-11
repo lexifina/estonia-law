@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 11.03.2025 kell 14.00",
+  "sitting_time": "2025-03-11T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade lamba- ja kitsekasvatussektori olukorrast",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cdeda051-1759-4468-ada3-b102e47fce42"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bea1662b-7cf3-488a-8e3d-c3bb381c4c07"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 11.03.2025",
+      "uuid": "ae65e173-d779-4538-9aaf-60c4e59990c3",
+      "files": [
+        "100_MAEK_protokolli_lisa_ELKL_11.03.25.pdf",
+        "100_MAEK_protokoll_11.03.2025.pdf",
+        "MAEK_protokoll_11.03.2025.asice"
+      ]
+    }
+  ],
+  "uuid": "44ba380b-f88e-4865-9c74-0ab8694843b9",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 44ba380b-f88e-4865-9c74-0ab8694843b9)",
+  "source": "https://api.riigikogu.ee/api/volumes/44ba380b-f88e-4865-9c74-0ab8694843b9",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-03-01&endDate=2025-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
