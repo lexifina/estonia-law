@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung teisipäev, 11.03.2025 kell 14.00",
+  "sitting_time": "2025-03-11T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Õiguskantsleri ettepanek mootorsõidukimaksu seaduse ja liiklusseaduse põhiseadusega kooskõlla viimiseks. Osaleb õiguskantsler Ülle Madise",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a6eb6f90-9973-4d0d-bcfa-24476f38429b"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine Maksu- ja Tolliameti esindajatega. Osaleb peadirektor Raigo Uukkivi",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e4f211ca-aaaf-45cd-b871-c0ffda120363"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 11.03.2025",
+      "uuid": "bb60238b-5699-4cdf-9379-24631c938fc3",
+      "files": [
+        "Asendusliikme_volikiri_M.Helme-_A.Poolamets_11.03.2025.pdf",
+        "RAHK_protokoll_141_11_03_2025.pdf",
+        "RAHK_protokoll_11.03.2025.asice"
+      ]
+    }
+  ],
+  "uuid": "1835bff0-98f8-47cf-8dfe-2e5bede612b7",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 1835bff0-98f8-47cf-8dfe-2e5bede612b7)",
+  "source": "https://api.riigikogu.ee/api/volumes/1835bff0-98f8-47cf-8dfe-2e5bede612b7",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-03-01&endDate=2025-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
