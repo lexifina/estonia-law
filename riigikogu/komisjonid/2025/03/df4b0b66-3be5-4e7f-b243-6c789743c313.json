@@ -1,0 +1,42 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung teisipäev, 11.03.2025 kell 14.00",
+  "sitting_time": "2025-03-11T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti Rahvusringhäälingu nõukogu tegevuse aruande tutvustus ja arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b6828a31-ec15-4684-83e0-9292e6e1532e"
+    },
+    {
+      "order": 2,
+      "title": "Uuringu „Määratlemata kodakondsusega elanikud Eestis: hoiakud, identiteet ja takistused kodakondsuse omandamisel“ tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c4951321-bec4-4329-a94b-6e7459ed25d8"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KULK protokoll 94 (11.03.25)",
+      "uuid": "f3bf5512-2459-422b-9a08-3d8c732497e1",
+      "files": [
+        "INSA_MKI_11.03_(RK_kultuurikomisjon).pdf",
+        "KULK_protokoll_94_(11.03.2025).pdf",
+        "ERR_Kultuurikomisjon_11.03.2025_valmis.pdf",
+        "KULK_protokoll_94_(11.03.25).asice"
+      ]
+    }
+  ],
+  "uuid": "df4b0b66-3be5-4e7f-b243-6c789743c313",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid df4b0b66-3be5-4e7f-b243-6c789743c313)",
+  "source": "https://api.riigikogu.ee/api/volumes/df4b0b66-3be5-4e7f-b243-6c789743c313",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-03-01&endDate=2025-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
