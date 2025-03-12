@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung kolmapäev, 12.03.2025 kell 08.30",
+  "sitting_time": "2025-03-12T08:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Laskemoona hanked ja riigieelarve",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c695fd81-3b24-4523-9598-47be236ebbf3"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c5d1f8dc-3fcc-49a1-a37e-377ec34ca07f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 12.03.25",
+      "uuid": "7c0a7ff1-642f-49f7-9201-62475f8a6928",
+      "files": [
+        "REKK_protokoll_12.03.25.asice",
+        "Protokoll_nr_93_12.03.25.pdf"
+      ]
+    }
+  ],
+  "uuid": "0403d230-794a-4554-98ce-97363da2e5f9",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0403d230-794a-4554-98ce-97363da2e5f9)",
+  "source": "https://api.riigikogu.ee/api/volumes/0403d230-794a-4554-98ce-97363da2e5f9",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-03-01&endDate=2025-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
