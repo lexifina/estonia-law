@@ -1,0 +1,42 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung neljapäev, 13.03.2025 kell 11.00",
+  "sitting_time": "2025-03-13T12:05:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti Vabariigi põhiseaduse muutmise seaduse eelnõu (536 SE) kolmanda lugemise ettevalmistamine (muudatusettepanekute läbivaatamine ja menetlusotsuste tegemine)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dd18af5e-3ef1-400a-91a5-5407794e0764"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d59a89e5-b424-4f48-8154-273e1298731c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "PÕSK protokoll nr 99",
+      "uuid": "5d0f51ce-ce52-4745-b470-16eae0fb655e",
+      "files": [
+        "PÕSK_protokoll_nr_99.asice",
+        "Volikiri_M._Kallas_(13.03.2025).pdf",
+        "PÕSK_protokoll_nr_99_(13.03.2025).pdf",
+        "Volikiri_U._Reinsalu_(13.03.2025).pdf"
+      ]
+    }
+  ],
+  "uuid": "62d40c23-cd39-4946-a001-837bdacb5bd6",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 62d40c23-cd39-4946-a001-837bdacb5bd6)",
+  "source": "https://api.riigikogu.ee/api/volumes/62d40c23-cd39-4946-a001-837bdacb5bd6",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-03-01&endDate=2025-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
