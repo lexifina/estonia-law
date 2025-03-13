@@ -1,0 +1,34 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung neljapäev, 13.03.2025 algab 15 minutit pärast täiskogu lõppu",
+  "sitting_time": "2025-03-13T12:05:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kaitseväeteenistuse seaduse muutmise seaduse eelnõu (563 SE) esimese lugemise ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7f88ae8d-4e79-4c63-afca-c058f7fead3a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Riigikaitsekomisjoni 13.03.25 istungi protokoll",
+      "uuid": "500ca4f5-32c3-4fac-85e7-62c8c0061691",
+      "files": [
+        "Riigikaitsekomisjoni_13.03.25_istungi_protokoll.asice",
+        "2025-03-13_protokoll_129.pdf"
+      ]
+    }
+  ],
+  "uuid": "152f8ef1-a793-492e-9c11-4f239fd88815",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 152f8ef1-a793-492e-9c11-4f239fd88815)",
+  "source": "https://api.riigikogu.ee/api/volumes/152f8ef1-a793-492e-9c11-4f239fd88815",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-03-01&endDate=2025-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
