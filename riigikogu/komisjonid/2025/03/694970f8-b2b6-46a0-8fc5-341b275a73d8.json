@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Euroopa Liidu asjade komisjoni ja riigikaitsekomisjoni ühine avalik istung reede, 14.03.2025 kell 11.00",
+  "sitting_time": "2025-03-14T11:00:00",
+  "sitting_type": "UHISISTUNG",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Sauli Niinistö Euroopa tsiviilse ja sõjalise valmiduse raporti kuulamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "12d030ad-3ccf-4710-af38-b73e63a686ee"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "47841955-e769-41d3-8f7d-b0c7481096df"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ELAK ja RIKK protokoll 14.03.2025",
+      "uuid": "3d71ebd1-f012-4205-961a-0c6758b8e3b0",
+      "files": [
+        "ELAK_ja_RIKK_protokoll_14.03.2025.pdf",
+        "ELAK_ja_RIKK_protokoll_14.03.2025.asice"
+      ]
+    }
+  ],
+  "uuid": "694970f8-b2b6-46a0-8fc5-341b275a73d8",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 694970f8-b2b6-46a0-8fc5-341b275a73d8)",
+  "source": "https://api.riigikogu.ee/api/volumes/694970f8-b2b6-46a0-8fc5-341b275a73d8",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-03-01&endDate=2025-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
