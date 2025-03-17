@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 17.03.2025 kell 13.15",
+  "sitting_time": "2025-03-17T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ecbddd64-c725-47a0-9ee4-013fd0d76399"
+    },
+    {
+      "order": 2,
+      "title": "Eesti energiapoliitika arengud ja mõju eelarvele",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b4f1ad86-3fb2-4bb7-a186-2337bd7305eb"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "956e87ff-1fc9-437e-b0a1-0215143880a3"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 17.03.25",
+      "uuid": "9e475442-180b-4c66-b44f-b7b0a3f328e3",
+      "files": [
+        "REKK_protokoll_17.03.25.asice",
+        "Protokoll_nr_94_17.03.25.pdf"
+      ]
+    }
+  ],
+  "uuid": "601c9290-1e51-4d31-b884-ed5920fd9f7b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 601c9290-1e51-4d31-b884-ed5920fd9f7b)",
+  "source": "https://api.riigikogu.ee/api/volumes/601c9290-1e51-4d31-b884-ed5920fd9f7b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-03-01&endDate=2025-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
