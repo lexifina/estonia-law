@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Riigikaitsekomisjoni ja majanduskomisjoni ühine istung teisipäev, 18.03.2025 14.00",
+  "sitting_time": "2025-03-18T14:00:00",
+  "sitting_type": "UHISISTUNG",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Meretuulikute mõju riigikaitselistele süsteemidele käsitleva uuringu tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4e1b6469-b250-472a-ad3e-54c52a6dab54"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "84dc8edb-fe72-4692-a4b1-8492dd953eda"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RIKK ja MAJK protokoll nr 57 18.03.2025",
+      "uuid": "fac3c967-aee9-460d-a934-535d06e3eadf",
+      "files": [
+        "RIKK_ja_MAJK_protokoll_nr_57_18.03.2025.asice",
+        "RIKK_ja_MAJK_protokoll_nr_57_18.03.2025.pdf"
+      ]
+    }
+  ],
+  "uuid": "17093fa3-859f-4fe5-a83e-2e26c6ae8ca3",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 17093fa3-859f-4fe5-a83e-2e26c6ae8ca3)",
+  "source": "https://api.riigikogu.ee/api/volumes/17093fa3-859f-4fe5-a83e-2e26c6ae8ca3",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-03-01&endDate=2025-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
