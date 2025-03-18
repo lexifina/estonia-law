@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung teisipäev, 18.03.2025 kell 14.30",
+  "sitting_time": "2025-03-18T14:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade julgeolekuolukorra arengutest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b32c30ac-2905-40a5-87b6-f02a773468f8"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "36112c65-48b7-4a48-b271-c995c1eae424"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 18.03.2025",
+      "uuid": "0ce93f43-ffce-4f7c-92ae-cc2e30f9ef18",
+      "files": [
+        "VÄLK_protokoll_18.03.2025.asice",
+        "VÄLK_protokoll_18.03.2025.pdf"
+      ]
+    }
+  ],
+  "uuid": "63e8f9b4-471e-489e-882a-c206b7df3b49",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 63e8f9b4-471e-489e-882a-c206b7df3b49)",
+  "source": "https://api.riigikogu.ee/api/volumes/63e8f9b4-471e-489e-882a-c206b7df3b49",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-03-01&endDate=2025-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
