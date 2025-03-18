@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 18.03.2025 kell 14.00",
+  "sitting_time": "2025-03-18T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade Euroopa Komisjoni põllumajanduse ja toidutootmise visioonidokumendist",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "09d95b23-7d69-488d-9a04-b5cadd57a952"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "238619ba-205e-405c-ab87-0995fef9d3fe"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 18.03.2025",
+      "uuid": "79dd7256-c98f-4963-96d3-5dfc3a5b4551",
+      "files": [
+        "102_MAEK_protokoll_18.03.2025.pdf",
+        "102_protokolli_lisa_Põllumajanduse_visioon_18.03.25.pdf",
+        "MAEK_protokoll_18.03.2025.asice"
+      ]
+    }
+  ],
+  "uuid": "7d8136ba-d282-4347-abc6-0bc2b599ca5f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7d8136ba-d282-4347-abc6-0bc2b599ca5f)",
+  "source": "https://api.riigikogu.ee/api/volumes/7d8136ba-d282-4347-abc6-0bc2b599ca5f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-03-01&endDate=2025-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
