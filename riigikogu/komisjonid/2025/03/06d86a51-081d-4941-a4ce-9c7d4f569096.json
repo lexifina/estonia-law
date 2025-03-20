@@ -1,0 +1,53 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni erakorraline istung neljapäev, 20.03.2025 kell 08.45",
+  "sitting_time": "2025-03-20T08:45:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "512b5b21-036d-4782-80f8-a3449716a358"
+    },
+    {
+      "order": 2,
+      "title": "Õiguskantsleri ettepanek mootorsõidukimaksu seaduse ja liiklusseaduse põhiseadusega kooskõlla viimiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5b8dff68-67da-458d-850a-ff77dd5b298c"
+    },
+    {
+      "order": 3,
+      "title": "Eesti Konservatiivse Rahvaerakonna fraktsiooni algatatud tulumaksuseaduse muutmise seaduse eelnõu (566 SE) esimeseks lugemiseks ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "239adc85-5444-4479-a695-7c2a409e4add"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "557677e8-750c-4a3b-a39f-f5328d22869a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 20.03.2025",
+      "uuid": "46027ab2-bf78-445a-af03-d6cc8de51717",
+      "files": [
+        "RAHK_protokoll_nr_142_20.03.2025.pdf",
+        "Asendusliikme_volikiri_M._Helme-R._Epler_20.03.2025.pdf",
+        "RAHK_protokoll_20.03.2025.asice"
+      ]
+    }
+  ],
+  "uuid": "06d86a51-081d-4941-a4ce-9c7d4f569096",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 06d86a51-081d-4941-a4ce-9c7d4f569096)",
+  "source": "https://api.riigikogu.ee/api/volumes/06d86a51-081d-4941-a4ce-9c7d4f569096",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-03-01&endDate=2025-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
