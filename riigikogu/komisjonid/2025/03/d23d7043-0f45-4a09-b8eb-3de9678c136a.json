@@ -1,0 +1,49 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Korruptsioonivastane erikomisjon",
+  "committee_uuid": "e4f2977a-e8c3-4fa0-8f3d-9df9acd6377f",
+  "title": "Komisjoni istung esmaspäev, 24.03.2025 kell 13.15",
+  "sitting_time": "2025-03-24T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0a5c5dc8-2621-4acf-92f5-1731922f1275"
+    },
+    {
+      "order": 2,
+      "title": "Eesti metsade ja raiemahtude arvestamise aluste läbipaistvus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "122a1298-9f95-4bc4-936f-d0e0c6af6e73"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4a8d9a25-ed43-49f9-919a-b706c66730dd"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KVEK protokoll 58 (24.03.2025)",
+      "uuid": "31c33df7-76d6-42ea-8549-a12c37526eae",
+      "files": [
+        "Sotsiaaldemokraatliku_Erakonna_fraktsiooni_esindaja_volitus_(T.Maran).pdf",
+        "Metsamaa_vanuseline_jaotus_SMI.pptx",
+        "Loodusväärtuste_kaitse_ja_raied_kaitsealustes_metsades_(järeltegevused__2025).pdf",
+        "KVEK_protokoll_58_(24.03.2025).asice",
+        "KVEK_protokoll_58_(24.03.2025).pdf"
+      ]
+    }
+  ],
+  "uuid": "d23d7043-0f45-4a09-b8eb-3de9678c136a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d23d7043-0f45-4a09-b8eb-3de9678c136a)",
+  "source": "https://api.riigikogu.ee/api/volumes/d23d7043-0f45-4a09-b8eb-3de9678c136a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-03-01&endDate=2025-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
