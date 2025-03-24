@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 24.03.2025 kell 13.15",
+  "sitting_time": "2025-03-24T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9558519c-2e21-441b-a9f8-74611af797d4"
+    },
+    {
+      "order": 2,
+      "title": "Euroopa Liidu toetuste kasutamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "df088328-dff3-446c-a445-39d9d76f82f4"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "87409d73-6e0e-47da-831c-ab7255cd9478"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 24.03.25",
+      "uuid": "ffe54491-35b1-4ff4-b42d-dca5cefccc72",
+      "files": [
+        "REKK_protokoll_24.03.25.asice",
+        "REKK_24.03.25_slaidid.pdf",
+        "Protokoll_nr_96_24.03.25.pdf"
+      ]
+    }
+  ],
+  "uuid": "2b394d62-a489-42c2-b584-5e7edf4a9c8f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2b394d62-a489-42c2-b584-5e7edf4a9c8f)",
+  "source": "https://api.riigikogu.ee/api/volumes/2b394d62-a489-42c2-b584-5e7edf4a9c8f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-03-01&endDate=2025-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
