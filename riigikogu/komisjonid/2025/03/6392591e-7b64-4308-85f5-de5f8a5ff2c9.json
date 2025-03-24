@@ -1,0 +1,54 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung esmaspäev, 24.03.2025 kell 11.15",
+  "sitting_time": "2025-03-24T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "97a97679-0683-40ff-84c9-b63a7968077b"
+    },
+    {
+      "order": 2,
+      "title": "Siseministri kandidaadi Igor Taro kuulamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d0b44f9d-17ed-4e5b-a190-bc52e73764c0"
+    },
+    {
+      "order": 3,
+      "title": "Kohtumine Notarite Koja esindusega – arutelu notariteenuse maapiirkondades kättesaadavuse ja notariaati puudutavate protsesside lihtsustamise üle",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a790f418-f619-429a-866c-d235a2c332ec"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c0b918d5-14e4-488a-931e-9e5db0f249bc"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ÕIGK protokoll 24.03.2025",
+      "uuid": "34ae2bb7-ac58-4976-b3df-7134e8c65644",
+      "files": [
+        "Riigikogu_õiguskomisjoni_istungi_protokoll_nr_70.pdf",
+        "(Lisa_1)_Notarite_Koja_esitlus_õiguskomisjonis_24.03.2025_.pptx",
+        "ÕIGK_protokoll_24.03.2025.asice",
+        "Asendusliikme_volitus.pdf"
+      ]
+    }
+  ],
+  "uuid": "6392591e-7b64-4308-85f5-de5f8a5ff2c9",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 6392591e-7b64-4308-85f5-de5f8a5ff2c9)",
+  "source": "https://api.riigikogu.ee/api/volumes/6392591e-7b64-4308-85f5-de5f8a5ff2c9",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-03-01&endDate=2025-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
