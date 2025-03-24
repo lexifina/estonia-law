@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Julgeolekuasutuste järelevalve erikomisjon",
+  "committee_uuid": "d3826f36-707d-17ad-41e8-8b99f9910b98",
+  "title": "Komisjoni istung esmaspäev, 24.03.2025 kell 13.30",
+  "sitting_time": "2025-03-24T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f54e847e-a260-47db-8c69-99702b7deec9"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade Harju Maakohtu tegevusest jälitustoiminguteks kohtulubade andmisel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "20d996ab-b482-41d6-a729-10f3ebbe7d80"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b8edcef6-e771-4ccc-82a9-6f34e499d953"
+    },
+    {
+      "order": 4,
+      "title": "Tutvumine dokumentidega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0bca3ce1-5153-432d-b055-2f685c73c3fc"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "JAJK istungi protokoll",
+      "uuid": "21b27918-6327-4116-86e6-463b0be49df5",
+      "files": [
+        "JAJK_istungi_protokoll.asice",
+        "JAJK_protokoll_240325.pdf"
+      ]
+    }
+  ],
+  "uuid": "db1da221-9415-40d3-abc0-afa0db7794f1",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid db1da221-9415-40d3-abc0-afa0db7794f1)",
+  "source": "https://api.riigikogu.ee/api/volumes/db1da221-9415-40d3-abc0-afa0db7794f1",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-03-01&endDate=2025-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
