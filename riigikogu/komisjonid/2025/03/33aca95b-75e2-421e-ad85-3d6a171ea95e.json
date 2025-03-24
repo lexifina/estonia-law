@@ -1,0 +1,54 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung esmaspäev, 24.03.2025 kell 11.15",
+  "sitting_time": "2025-03-24T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3e74937b-2ce6-4868-a37d-704b6a7894b1"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine Sotsiaalkindlustusameti esindajatega. Osaleb peadirektor Maret Maripuu.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "124c61d0-81ac-4bbe-ad9a-92ba011dd9e9"
+    },
+    {
+      "order": 3,
+      "title": "Kohtumine Statistikaameti esindajatega. Osaleb peadirektor Urmet Lee.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b14a12b2-1f64-45b2-bf44-c980b6def3ec"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "81e68574-4796-4ba7-95a8-d724e8baa735"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 24.03.2025",
+      "uuid": "cc6386f5-dcef-4b38-b7ad-b0ce8499ac88",
+      "files": [
+        "RAHK_protokoll_24.03.2025.asice",
+        "RAHK_protokoll_143_24_03_2025.pdf",
+        "Statistikaameti_ettekanne_24.03.2025.pptx.pdf",
+        "SOTSIAALKINDLUSTUSAMETI_ettekanne_24.03.2025.pdf"
+      ]
+    }
+  ],
+  "uuid": "33aca95b-75e2-421e-ad85-3d6a171ea95e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 33aca95b-75e2-421e-ad85-3d6a171ea95e)",
+  "source": "https://api.riigikogu.ee/api/volumes/33aca95b-75e2-421e-ad85-3d6a171ea95e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-03-01&endDate=2025-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
