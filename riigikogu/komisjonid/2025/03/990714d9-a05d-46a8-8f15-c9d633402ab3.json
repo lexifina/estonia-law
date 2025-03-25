@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung teisipäev, 25.03.2025 kell 14.00",
+  "sitting_time": "2025-03-25T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti vanglapindade väljarentimise kavatsuse tutvustamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "40019cdd-38f0-4f23-8acc-6907167d9332"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b0bf55f1-5396-433c-9da7-192e7303f8ad"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ÕIGK protokoll 25.03.2025",
+      "uuid": "b7d9f749-7e12-480c-9997-eedcbdf58bf3",
+      "files": [
+        "(Lisa_1)_Justiitsministeeriumi_esitlus_õiguskomisjonis_25.03.2025.pdf",
+        "ÕIGK_protokoll_25.03.2025.asice",
+        "Riigikogu_õiguskomisjoni_istungi_protokoll_nr_71.pdf"
+      ]
+    }
+  ],
+  "uuid": "990714d9-a05d-46a8-8f15-c9d633402ab3",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 990714d9-a05d-46a8-8f15-c9d633402ab3)",
+  "source": "https://api.riigikogu.ee/api/volumes/990714d9-a05d-46a8-8f15-c9d633402ab3",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-03-01&endDate=2025-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
