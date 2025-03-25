@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 25.03.2025 kell 14.00",
+  "sitting_time": "2025-03-25T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade Maaelu Edendamise Sihtasutuse tegevustest ja 2024. aasta tulemustest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8364ed09-e281-4c87-9a7a-2542db429f64"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9d6e2d89-8e1a-4aac-af22-b331c0c431ce"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 25.03.2025",
+      "uuid": "531a4ba3-8db8-4930-b6b2-d28eb6bb2b7e",
+      "files": [
+        "104_protokolli_lisa_MES_25.03.25.pdf",
+        "104_MAEK_protokoll_25.03.25.pdf",
+        "MAEK_protokoll_25.03.2025.asice"
+      ]
+    }
+  ],
+  "uuid": "c86cb254-8957-44e4-97ce-4be16277043f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c86cb254-8957-44e4-97ce-4be16277043f)",
+  "source": "https://api.riigikogu.ee/api/volumes/c86cb254-8957-44e4-97ce-4be16277043f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-03-01&endDate=2025-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
