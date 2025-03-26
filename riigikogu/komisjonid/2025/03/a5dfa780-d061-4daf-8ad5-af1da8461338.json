@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung kolmapäev, 26.03.2025 kell 08.30",
+  "sitting_time": "2025-03-26T08:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikontrolli kontrolliaruande „Transpordiameti loomine ja selle tulemused“ tutvustus ja arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cc4ae976-064a-44ec-bafa-46460420d7b1"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "32a34b93-ad45-47a4-9adc-555e41a2beee"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 26.03.25",
+      "uuid": "26fedfcc-39f7-42a5-ba7f-f112848dd429",
+      "files": [
+        "REKK_protokoll_26.03.25.asice",
+        "Protokoll_nr_97_26.03.25.pdf",
+        "Esitlus_REKK_TRAM_26032025.potx"
+      ]
+    }
+  ],
+  "uuid": "a5dfa780-d061-4daf-8ad5-af1da8461338",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a5dfa780-d061-4daf-8ad5-af1da8461338)",
+  "source": "https://api.riigikogu.ee/api/volumes/a5dfa780-d061-4daf-8ad5-af1da8461338",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-03-01&endDate=2025-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
