@@ -1,0 +1,36 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni erakorraline istung neljapäev, 27.03.2025 15 minutit peale täiskogu lõppu",
+  "sitting_time": "2025-03-27T12:47:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Keskkonnakomisjoni esimehe ja aseesimehe erakorraline valimine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "555e6976-70a1-4de1-9aa7-689e841efcb3"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK protokoll 27.03.2025",
+      "uuid": "394fd46c-8db9-4226-90c1-44ecc0ba02bc",
+      "files": [
+        "KEKK_protokoll_27.03.2025.pdf",
+        "KEKK_protokoll_27.03.2025.asice",
+        "asendus_27.03.2025.Andrus_Semme_asice.asice",
+        "asendus_27.03.2025.docx"
+      ]
+    }
+  ],
+  "uuid": "95e8b23f-e5e7-499d-b889-c136f48b717a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 95e8b23f-e5e7-499d-b889-c136f48b717a)",
+  "source": "https://api.riigikogu.ee/api/volumes/95e8b23f-e5e7-499d-b889-c136f48b717a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-03-01&endDate=2025-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
