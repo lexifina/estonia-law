@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 7.04.2025 kell 13.15",
+  "sitting_time": "2025-04-07T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f595e4c5-c1db-4463-8619-b8522701527f"
+    },
+    {
+      "order": 2,
+      "title": "\"FIT for 55“ rakendamise mõju",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e8245454-b1d5-4bb5-9eda-ee424103540a"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b4cf99a2-02ac-4d19-ab99-bd1b566d112a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 07.04.25",
+      "uuid": "e702c8cc-6688-4cea-8d4f-0c9690839820",
+      "files": [
+        "REKK_protokoll_07.04.25.asice",
+        "Protokoll_nr_98_07.04.25.pdf"
+      ]
+    }
+  ],
+  "uuid": "69120de7-0907-48c3-a777-edadf8604992",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 69120de7-0907-48c3-a777-edadf8604992)",
+  "source": "https://api.riigikogu.ee/api/volumes/69120de7-0907-48c3-a777-edadf8604992",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-04-01&endDate=2025-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
