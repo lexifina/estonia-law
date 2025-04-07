@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 7.04.2025 kell 11.10",
+  "sitting_time": "2025-04-07T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "acda1d65-b359-4544-a3b6-c16e4392ff03"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade Põllumajanduse Registrite ja Informatsiooni Ameti tegevustest ning olulisematest arengutest põllumajandustoetuste vallas. Andmeanalüüsi töölaua tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dacea3e3-4b6e-4dce-b0e6-9cb848f04fa6"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6ba4e8fc-90ce-473c-b99e-e4d56898f524"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 07.04.2025",
+      "uuid": "5f9a8478-aa04-4845-a574-02dfb65bf3c1",
+      "files": [
+        "MAEK_protokoll_07.04.2025.asice",
+        "105_protokolli_lisa_PRIA_2025.pdf",
+        "105_MAEK_Protokoll_07.04.2025.pdf"
+      ]
+    }
+  ],
+  "uuid": "abe44396-27b3-4011-893f-ceea247289cc",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid abe44396-27b3-4011-893f-ceea247289cc)",
+  "source": "https://api.riigikogu.ee/api/volumes/abe44396-27b3-4011-893f-ceea247289cc",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-04-01&endDate=2025-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
