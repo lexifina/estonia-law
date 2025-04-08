@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung teisipäev, 08.04.2025 kell 14.00",
+  "sitting_time": "2025-04-08T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud kiirgusseaduse muutmise ja sellega seonduvalt teiste seaduste muutmise seaduse eelnõu (573 SE) teise lugemise ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f77f69b3-51dc-41fc-8ff1-c156a60aceb1"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "39154d07-ab05-4e51-bd98-6624a1e7081e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK protokoll 08.04.2025",
+      "uuid": "7b6dde06-9205-441e-97da-01033333e872",
+      "files": [
+        "EBMÜ_-_ettepanekud_kiirgusseaduse_muutmiseks_080425.pdf",
+        "KEKK_protokoll_08.04.2025.asice",
+        "KEKK_protokoll_08.04.2025.pdf"
+      ]
+    }
+  ],
+  "uuid": "766fd76b-6873-4a66-ab20-720cf4b21b44",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 766fd76b-6873-4a66-ab20-720cf4b21b44)",
+  "source": "https://api.riigikogu.ee/api/volumes/766fd76b-6873-4a66-ab20-720cf4b21b44",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-04-01&endDate=2025-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
