@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 8.04.2025 kell 14.00",
+  "sitting_time": "2025-04-08T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade riigi valmisolekust vältida loomataudide levikut",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ad7bdcc0-6eef-4059-a905-a0b6eeef47d2"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ab0dce07-3b3f-438c-abbb-7aebca38a790"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 08.04.2025",
+      "uuid": "3c8a3d8c-ca5e-495a-940d-bf48c4c2b6c6",
+      "files": [
+        "MAEK_protokoll_08.04.2025.asice",
+        "106_protokolli_lisa_PTA_taudialane_olukord.pdf",
+        "106_MAEK_protokoll_08.04.2025.pdf"
+      ]
+    }
+  ],
+  "uuid": "ebc31122-7e28-4a27-aa1d-9da3d6f6f04f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ebc31122-7e28-4a27-aa1d-9da3d6f6f04f)",
+  "source": "https://api.riigikogu.ee/api/volumes/ebc31122-7e28-4a27-aa1d-9da3d6f6f04f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-04-01&endDate=2025-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
