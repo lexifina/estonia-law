@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung kolmapäev, 9.04.2025 kell 08.30",
+  "sitting_time": "2025-04-09T08:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti Energia arengud seoses Enefit Green aktsiatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6b3ac6d9-1787-48d0-a6ff-b7590ded9ac6"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e727c37a-07df-45e4-b8da-604b7d21b466"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 09.04.25",
+      "uuid": "57846c7a-7156-4e9d-b359-b39b21dba4c0",
+      "files": [
+        "REKK_protokoll_09.04.25.asice",
+        "Protokoll_nr_99_09.04.25.pdf"
+      ]
+    }
+  ],
+  "uuid": "70f62576-ea2c-42ce-87e7-7e00da374ea5",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 70f62576-ea2c-42ce-87e7-7e00da374ea5)",
+  "source": "https://api.riigikogu.ee/api/volumes/70f62576-ea2c-42ce-87e7-7e00da374ea5",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-04-01&endDate=2025-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
