@@ -1,0 +1,59 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung esmaspäev, 14.04.2025 kell 11.15",
+  "sitting_time": "2025-04-14T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f9819d41-657d-4b56-8e2f-6474c19b64e2"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade Majandus- ja Kommunikatsiooniministeeriumi 2024. aasta eelarve jääkidest. Osaleb minister Erki Keldo.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "96079624-dd4e-4519-b547-686d0a0868b3"
+    },
+    {
+      "order": 3,
+      "title": "Ülevaade Kliimaministeeriumi 2024. aasta eelarve jääkidest. Osaleb minister Andres Sutt.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a60a28e9-dfc6-43b8-b850-2debee0f7a91"
+    },
+    {
+      "order": 4,
+      "title": "ELAK-le arvamuse andmine. Euroopa Parlamendi ja nõukogu määrus, millega muudetakse määrust (EL) nr 909/2014 seoses lühema arveldustsükliga liidus COM(2025) 38",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3f0fed39-5148-47df-990e-11b02ebd759c"
+    },
+    {
+      "order": 5,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "84cb1d94-1bba-43b1-8377-7272d8535af2"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 14.04.2025",
+      "uuid": "39fdb67b-c26e-4d8e-9ce2-5c8377f362f3",
+      "files": [
+        "RAHK_protokoll_14.04.2025.asice",
+        "MKM_E.Keldo_ettekande_slaidid_14.04.2025.pdf",
+        "RAHK_protokoll_147_14_04_2025.pdf"
+      ]
+    }
+  ],
+  "uuid": "203b5117-6ec8-4283-857a-ed76ce215427",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 203b5117-6ec8-4283-857a-ed76ce215427)",
+  "source": "https://api.riigikogu.ee/api/volumes/203b5117-6ec8-4283-857a-ed76ce215427",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-04-01&endDate=2025-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
