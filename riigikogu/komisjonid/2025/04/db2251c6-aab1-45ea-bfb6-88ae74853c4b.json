@@ -1,0 +1,48 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 14.04.2025 kell 11.10",
+  "sitting_time": "2025-04-14T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e1d9d5e9-c1cd-4bc1-a1a9-80135df6962f"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade piimaveisekasvatuse sektori olukorrast ja perspektiividest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6799c808-b620-486b-b551-593e4ed57738"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "42cb5fa2-daaf-4bbf-b917-6f9eb413099c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 14.04.2025",
+      "uuid": "0f0e7c53-92f2-4c8d-8d66-ad2da6629003",
+      "files": [
+        "MAEK_protokoll_14.04.2025.asice",
+        "107_protokolli_lisa_2_Piimasektori_ülevaade_14.04_Madis_Pärtel.pdf",
+        "107_protokolli_lisa_1_EPKK_14.04_maaelukomisjonile.pdf",
+        "107_MAEK_protokoll_14.04.2025.pdf"
+      ]
+    }
+  ],
+  "uuid": "db2251c6-aab1-45ea-bfb6-88ae74853c4b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid db2251c6-aab1-45ea-bfb6-88ae74853c4b)",
+  "source": "https://api.riigikogu.ee/api/volumes/db2251c6-aab1-45ea-bfb6-88ae74853c4b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-04-01&endDate=2025-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
