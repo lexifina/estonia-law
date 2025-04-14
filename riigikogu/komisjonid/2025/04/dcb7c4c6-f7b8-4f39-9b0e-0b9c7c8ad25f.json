@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung esmaspäev, 14.04.2025 kell 11.15",
+  "sitting_time": "2025-04-14T11:17:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1471978f-c849-4b9b-bece-ec80af3c1591"
+    },
+    {
+      "order": 2,
+      "title": "Olukord Ukrainas",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "650ec461-5bdf-4bd4-8f73-f95d38b07bf7"
+    },
+    {
+      "order": 3,
+      "title": "Gröönimaa teema rahvusvahelisel tasandil",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c4f5a51e-ccdd-41e7-a82c-e144a386ef2f"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7073e4c8-e4ad-4617-b0f7-ef590d478bf5"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 14.04.2025",
+      "uuid": "48403b11-c67a-41e2-b9d9-44fd7aeaf118",
+      "files": [
+        "VÄLK_protokoll_14.04.2025.pdf",
+        "VÄLK_protokoll_14.04.2025.asice"
+      ]
+    }
+  ],
+  "uuid": "dcb7c4c6-f7b8-4f39-9b0e-0b9c7c8ad25f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid dcb7c4c6-f7b8-4f39-9b0e-0b9c7c8ad25f)",
+  "source": "https://api.riigikogu.ee/api/volumes/dcb7c4c6-f7b8-4f39-9b0e-0b9c7c8ad25f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-04-01&endDate=2025-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
