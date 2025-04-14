@@ -1,0 +1,54 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung esmaspäev, 14.04.2025 kell 11.10",
+  "sitting_time": "2025-04-14T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d9e0d748-434b-47df-86cf-145fb6090060"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade e-residentsuse programmist",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3bb12f00-9757-4747-926a-deb7ce247ed3"
+    },
+    {
+      "order": 3,
+      "title": "Konkurentsivõime eksperdikogu tööst",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c299472b-11b5-4b4c-aa3c-152d09744b88"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fd48b151-2185-4478-a8a4-b1a25caa272f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAJK protokoll nr 120 14.04.2025",
+      "uuid": "af2058f3-cf02-4ef8-b320-64b8ccdaefc9",
+      "files": [
+        "Konkurentsivõime_raportist.pdf",
+        "MAJK_protokoll_nr_120_14.04.2025.asice",
+        "MAJK_protokoll_nr_120_14.04.2025.pdf",
+        "2025-04-14_majanduskomisjon__aval.pdf"
+      ]
+    }
+  ],
+  "uuid": "7c2d45a6-a01a-411c-aec2-8e8ab0666865",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7c2d45a6-a01a-411c-aec2-8e8ab0666865)",
+  "source": "https://api.riigikogu.ee/api/volumes/7c2d45a6-a01a-411c-aec2-8e8ab0666865",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-04-01&endDate=2025-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
