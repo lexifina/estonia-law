@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung esmaspäev, 14.04.2025 kell 14.30",
+  "sitting_time": "2025-04-14T14:32:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Seisukoha andmine: Eesti uuendatud seisukohad juhilubade direktiivi eelnõu kohta COM(2023) 127",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7d8f838b-f348-4217-9268-769a54b7d536"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4de49e1e-7ec4-48e0-9fd2-34d8676d9a91"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ELAK protokoll 14.04.2025",
+      "uuid": "6d328438-4901-48dd-ab04-116f1f54d4d1",
+      "files": [
+        "ELAK_protokoll_14.04.2025.asice",
+        "ELAK_protokoll_14.04.2025.pdf"
+      ]
+    }
+  ],
+  "uuid": "e489f24b-832b-49ac-a7b6-5207de0641f3",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e489f24b-832b-49ac-a7b6-5207de0641f3)",
+  "source": "https://api.riigikogu.ee/api/volumes/e489f24b-832b-49ac-a7b6-5207de0641f3",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-04-01&endDate=2025-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
