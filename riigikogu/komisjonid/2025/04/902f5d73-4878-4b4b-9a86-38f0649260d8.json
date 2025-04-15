@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung teisipäev, 15.04.2025 kell 14.00",
+  "sitting_time": "2025-04-15T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Perehüvitiste seaduse töötuse erisätte järelhindamise analüüsi tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1ddfa226-1792-4eda-8a8d-02a26065e24e"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e0a948b2-f993-4dd9-aad2-a94feaf0b3e6"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "SOTK protokoll 15.04.2025",
+      "uuid": "3dcef754-5997-4844-81e1-802f15407114",
+      "files": [
+        "SOTK_protokoll_15.04.2025.asice",
+        "Lisa_(SOMi_slaidid).pdf",
+        "SOTK_protokoll_nr_115_(15.04.2025).pdf"
+      ]
+    }
+  ],
+  "uuid": "902f5d73-4878-4b4b-9a86-38f0649260d8",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 902f5d73-4878-4b4b-9a86-38f0649260d8)",
+  "source": "https://api.riigikogu.ee/api/volumes/902f5d73-4878-4b4b-9a86-38f0649260d8",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-04-01&endDate=2025-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
