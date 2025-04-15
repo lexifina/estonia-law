@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Kultuurikomisjon",
+  "committee_uuid": "d8e4e49e-c184-7536-6e62-7ae3a4089893",
+  "title": "Komisjoni istung teisipäev, 15.04.2025 kell 14.00",
+  "sitting_time": "2025-04-15T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "db1bea54-3846-4d80-9fa5-d5b632c221ad"
+    },
+    {
+      "order": 2,
+      "title": "Eesti Rahvusringhäälingu tegevusvaldkonna tunnustatud asjatundjast Eesti Rahvusringhäälingu nõukogu liikme nimetamise otsuse eelnõu ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7eba90a4-d9ad-49de-9f9b-ad0055d95e5a"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d10dd327-5145-4d25-ac58-13076a7fbeb3"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KULK protokoll 97 (15.04.25)",
+      "uuid": "5da67728-4360-4f14-b73d-6c5a9bc7180d",
+      "files": [
+        "KULK_protokoll_98_(15.04.2025).pdf",
+        "KULK_protokoll_97_(15.04.25).asice"
+      ]
+    }
+  ],
+  "uuid": "2db78d71-c9f3-469e-b135-ec29429508b5",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2db78d71-c9f3-469e-b135-ec29429508b5)",
+  "source": "https://api.riigikogu.ee/api/volumes/2db78d71-c9f3-469e-b135-ec29429508b5",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-04-01&endDate=2025-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
