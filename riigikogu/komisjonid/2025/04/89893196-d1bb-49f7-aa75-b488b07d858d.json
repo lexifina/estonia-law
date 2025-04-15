@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 15.04.2025 kell 14.00",
+  "sitting_time": "2025-04-15T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade põllumajandussektori konkurentsivõimest ja ringbiomajandusest Eestis",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "55bf6017-2133-4b93-a3cd-a11f06ddc84c"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9c4cab44-5c4d-4199-8af3-4353de662a5d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 15.04.2025",
+      "uuid": "aa75b542-c557-487f-8f27-9f4dee5bb4ac",
+      "files": [
+        "108_protokolli_lisa_Pm_konkurentsivõime_ja_ringbiomajandus_15.04.25.pdf",
+        "108_MAEK_protokoll_15.04.2025.pdf",
+        "MAEK_protokoll_15.04.2025.asice"
+      ]
+    }
+  ],
+  "uuid": "89893196-d1bb-49f7-aa75-b488b07d858d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 89893196-d1bb-49f7-aa75-b488b07d858d)",
+  "source": "https://api.riigikogu.ee/api/volumes/89893196-d1bb-49f7-aa75-b488b07d858d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-04-01&endDate=2025-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
