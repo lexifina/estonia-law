@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung kolmapäev, 16.04.2025 kell 08.30",
+  "sitting_time": "2025-04-16T08:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Õiglase Ülemineku Fond",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a51405a0-0405-4b4a-8ad8-13e1e5620daf"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "aac4b47a-bc0c-4b10-9a82-87e695bc3c90"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 16.04.25",
+      "uuid": "e26428a0-5d67-46ee-9644-cc8ffb21b92a",
+      "files": [
+        "REKK_protokoll_16.04.25.asice",
+        "Protokoll_nr_101_16.04.25.pdf"
+      ]
+    }
+  ],
+  "uuid": "d185bff8-a8c1-4241-a5fb-57f4183c107f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d185bff8-a8c1-4241-a5fb-57f4183c107f)",
+  "source": "https://api.riigikogu.ee/api/volumes/d185bff8-a8c1-4241-a5fb-57f4183c107f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-04-01&endDate=2025-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
