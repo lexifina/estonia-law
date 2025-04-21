@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 21.04.2025 kell 11.10",
+  "sitting_time": "2025-04-21T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8cefb77a-7f6a-4032-b2d3-f770418213a5"
+    },
+    {
+      "order": 2,
+      "title": "Jaekaubanduse seis hinnatõusude valguses",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d9b7142d-c161-4d7d-8838-bd86f3af1605"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "80d82703-b823-49aa-9a8a-ce6ca637fb8d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 21.04.2025",
+      "uuid": "90a587f3-a143-4dc9-ad71-f1a5296f63a5",
+      "files": [
+        "MAEK_protokoll_21.04.2025.asice",
+        "109_MAEK_protokoll_21.04.2025.pdf",
+        "109_protokolli_lisa_Kaupmeeste_Liit_kaubanduse_olukord.pdf"
+      ]
+    }
+  ],
+  "uuid": "1ed0c30b-bb74-4776-bb20-75e79ec3144f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 1ed0c30b-bb74-4776-bb20-75e79ec3144f)",
+  "source": "https://api.riigikogu.ee/api/volumes/1ed0c30b-bb74-4776-bb20-75e79ec3144f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-04-01&endDate=2025-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
