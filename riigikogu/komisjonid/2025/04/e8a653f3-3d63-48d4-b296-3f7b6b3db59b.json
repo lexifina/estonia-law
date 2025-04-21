@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Rahanduskomisjoni ja majanduskomisjoni ühine istung esmaspäev, 21.04.2025 kell 11.15",
+  "sitting_time": "2025-04-21T11:15:00",
+  "sitting_type": "UHISISTUNG",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "22130368-bc39-4e75-8736-815fa5c3d090"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade Rahandusministeeriumi 2025. aasta kevadisest majandusprognoosist. Osaleb rahandusminister Jürgen Ligi.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ee0f4175-2e30-47b7-99a4-cc2bd1a4ac0c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAJK ja RAHK protokoll nr 61 21.04.2025",
+      "uuid": "7dbd1ddd-2c5d-431f-8fb7-45ce673d797c",
+      "files": [
+        "MAJK_ja_RAHK_protokoll_nr_61_21.04.2025.asice",
+        "MAJK_ja_RAHK_protokoll_nr_61_21.04.2025.pdf",
+        "Kevadprognoos_2025.pdf"
+      ]
+    }
+  ],
+  "uuid": "e8a653f3-3d63-48d4-b296-3f7b6b3db59b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e8a653f3-3d63-48d4-b296-3f7b6b3db59b)",
+  "source": "https://api.riigikogu.ee/api/volumes/e8a653f3-3d63-48d4-b296-3f7b6b3db59b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-04-01&endDate=2025-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
