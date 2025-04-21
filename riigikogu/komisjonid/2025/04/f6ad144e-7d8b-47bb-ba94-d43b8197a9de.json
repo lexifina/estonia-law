@@ -1,0 +1,53 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Korruptsioonivastane erikomisjon",
+  "committee_uuid": "e4f2977a-e8c3-4fa0-8f3d-9df9acd6377f",
+  "title": "Komisjoni istung esmaspäev, 21.04.2025 kell 13.15",
+  "sitting_time": "2025-04-21T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "962c82d5-f80c-487c-a70e-952d51f4fddf"
+    },
+    {
+      "order": 2,
+      "title": "Huvide deklaratsioonide kontrollimise järeldused ja arutelu, ettepanekud kitsaskohtade parandamiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ead7beb2-f044-4570-b6a9-05d3927afdcd"
+    },
+    {
+      "order": 3,
+      "title": "Riigikogu liikme hea tava uuendamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7240ed8c-a787-4878-ba85-a7201f1ae033"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1e313da5-f836-4bf3-bd79-6e9e95f92d7d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KVEK protokoll 62 (21.04.2025)",
+      "uuid": "9ef6da88-f252-45b3-810f-4d085be9ba67",
+      "files": [
+        "KVEK_protokoll_62_(21.04.2025).asice",
+        "Huvide_deklareerimise_kontrollimise_kokkuvõte_ja_ettepanekud_-_21.4.25.ppt",
+        "KVEK_protokoll_62_(21.04.2025).pdf"
+      ]
+    }
+  ],
+  "uuid": "f6ad144e-7d8b-47bb-ba94-d43b8197a9de",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f6ad144e-7d8b-47bb-ba94-d43b8197a9de)",
+  "source": "https://api.riigikogu.ee/api/volumes/f6ad144e-7d8b-47bb-ba94-d43b8197a9de",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-04-01&endDate=2025-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
