@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 21.04.2025 kell 13.15",
+  "sitting_time": "2025-04-21T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f9b3b57d-52ab-48bd-9b5f-cba631610105"
+    },
+    {
+      "order": 2,
+      "title": "Rahandusministeeriumi 2025. aasta kevadine majandusprognoos",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c6fdf71b-f7cd-43fd-aa22-e307b5ad994c"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ef9cafa9-84be-4bad-a560-51697872dc60"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 21.04.25",
+      "uuid": "a20ded07-04ad-4f45-9292-3d7745f19cb7",
+      "files": [
+        "REKK_protokoll_21.04.25.asice",
+        "Kevadprognoos_2025_pressikonverents.pptx",
+        "Protokoll_nr_102_21.04.25.pdf"
+      ]
+    }
+  ],
+  "uuid": "387eab67-59f8-47f1-b1dd-9010b3dc3291",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 387eab67-59f8-47f1-b1dd-9010b3dc3291)",
+  "source": "https://api.riigikogu.ee/api/volumes/387eab67-59f8-47f1-b1dd-9010b3dc3291",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-04-01&endDate=2025-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
