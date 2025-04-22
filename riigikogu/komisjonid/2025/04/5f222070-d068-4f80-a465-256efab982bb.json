@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 22.04.2025 kell 14.00",
+  "sitting_time": "2025-04-22T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Mida praktilist pakub Maaelu Teadmuskeskus täna klientidele ja mis on tuleviku suunad",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ca5a4c85-a284-4448-8a69-b3d15b553cd7"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3a2ddd96-fe86-4a23-90bf-17c7aa15f77b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 22.04.2025",
+      "uuid": "89fe0adf-57aa-432f-af09-6ec5d1b09a20",
+      "files": [
+        "110_protokolli_lisa_METK_22.04.2025.pdf",
+        "MAEK_protokoll_22.04.2025.asice",
+        "110_MAEK_Protokoll_22.04.2025.pdf"
+      ]
+    }
+  ],
+  "uuid": "5f222070-d068-4f80-a465-256efab982bb",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 5f222070-d068-4f80-a465-256efab982bb)",
+  "source": "https://api.riigikogu.ee/api/volumes/5f222070-d068-4f80-a465-256efab982bb",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-04-01&endDate=2025-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
