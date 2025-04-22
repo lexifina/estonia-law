@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Väliskomisjoni väljasõiduistung Välisluureametis teisipäev, 22.04.2025",
+  "sitting_time": "2025-04-22T14:35:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade julgeolekuolukorra arengutest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "670b51e7-4472-4307-9277-54f53b1566d1"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b9050f93-f062-4a88-9be8-b6595f428c51"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 22.04.2025",
+      "uuid": "01fb1552-f98a-43f3-a41d-4a51a2d02b98",
+      "files": [
+        "VÄLK_protokoll_22.04.2025.asice",
+        "VÄLK_protokoll_22.04.2025.pdf"
+      ]
+    }
+  ],
+  "uuid": "386c987d-2734-4aaf-a29b-8a1613e3c1c9",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 386c987d-2734-4aaf-a29b-8a1613e3c1c9)",
+  "source": "https://api.riigikogu.ee/api/volumes/386c987d-2734-4aaf-a29b-8a1613e3c1c9",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-04-01&endDate=2025-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
