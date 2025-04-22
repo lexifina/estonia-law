@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung teisipäev, 22.04.2025 kell 14.00",
+  "sitting_time": "2025-04-22T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti Laste Raport ÜRO Lapse Õiguste Komiteele tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "73002475-a6f1-4fa7-8152-056eb6770983"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "de0a9a69-368f-46d4-a4c6-e64359962d53"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "SOTK protokoll 22.04.2025",
+      "uuid": "44a1d2c7-9b31-4678-9c94-ff991d85eb09",
+      "files": [
+        "SOTK_protokoll_22.04.2025.asice",
+        "Lisa_(Lapse_õiguste_saadikute_slaidid).pdf",
+        "SOTK_protokoll_nr_117_(22.04.2025).pdf"
+      ]
+    }
+  ],
+  "uuid": "376fe1f3-ff0f-4c00-8f20-de8926167a67",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 376fe1f3-ff0f-4c00-8f20-de8926167a67)",
+  "source": "https://api.riigikogu.ee/api/volumes/376fe1f3-ff0f-4c00-8f20-de8926167a67",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-04-01&endDate=2025-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
