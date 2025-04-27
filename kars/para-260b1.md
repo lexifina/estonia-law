@@ -1,6 +1,6 @@
 # § 260¹. Eestis ilma seadusliku aluseta viibivale välismaalasele töötamise võimaldamine
 
-(1) Tööandja poolt Eestis viibimiseks seaduslikku alust mitteomavale välismaalasele Eestis töötamise võimaldamise eest, kui teos puudub käesoleva seadustiku §-s 133, 133¹ või 175 sätestatud süüteokoosseis ja:
+(1) Tööandja poolt või tema juhatuse liikme või muu esindaja poolt, kellele oli tööandja vastava kohustuse täitmise delegeerinud, Eestis viibimiseks seaduslikku alust mitteomavale välismaalasele Eestis töötamise võimaldamise eest, kui teos puudub käesoleva seadustiku §-s 133, 133¹ või 175 sätestatud süüteokoosseis ja:
 
 1) see on toime pandud süstemaatiliselt;
 

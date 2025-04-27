@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/112122024006> (version in force from 2025-01-01)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/117042025004> (version in force from 2025-04-27)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -145,6 +145,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/112122024006> (version in force 
 | [§ 92](para-092.md) | Sõjapropaganda |
 | [§ 93](para-093.md) | Keelatud relvade väljatöötamine ja käitlemine |
 | [§ 93¹](para-093b1.md) | Rahvusvahelise sanktsiooni ja Vabariigi Valitsuse sanktsiooni rikkumine |
+| [§ 93²](para-093b2.md) | Rahvusvahelise sanktsiooni ja Vabariigi Valitsuse sanktsiooni rikkumine ettevaatamatusest |
 | **4. jagu Sõjasüüteod** | |
 | [§ 94](para-094.md) | Karistamine käesolevas jaos sätestamata süüteo eest |
 | [§ 95](para-095.md) | Tsiviilelanikkonna vastu suunatud sõjategevus |
@@ -647,6 +648,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/112122024006> (version in force 
 | [§ 421¹](para-421b1.md) | Strateegilise kauba ebaseaduslik vedu ja strateegilise kaubaga seotud teenuse ebaseaduslik osutamine |
 | [§ 421²](para-421b2.md) | Keelatud strateegilise kauba vedu ja keelatud strateegilise kaubaga seotud teenuse osutamine |
 | [§ 421³](para-421b3.md) | Demilitariseeritud sõjalise kauba ebaseaduslik käitlemine |
+| [§ 421⁴](para-421b4.md) | Keelatud strateegilise kauba vedu ja keelatud strateegilise kaubaga seotud teenuse osutamine ettevaatamatusest |
 | **23. peatükk LIIKLUSSÜÜTEOD** | |
 | [§ 422](para-422.md) | Sõidukijuhi poolt liiklusnõuete ja sõiduki käitusnõuete rikkumine |
 | [§ 423](para-423.md) | Sõidukijuhi poolt liiklusnõuete ja sõiduki käitusnõuete rikkumine ettevaatamatusest |
