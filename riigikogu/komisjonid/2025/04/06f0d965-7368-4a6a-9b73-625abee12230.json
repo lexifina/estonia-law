@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung esmaspäev, 28.04.2025 kell 13.30",
+  "sitting_time": "2025-04-28T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "db34ede4-130c-4417-b59d-feff3faf43cc"
+    },
+    {
+      "order": 2,
+      "title": "Seisukoha andmine: Nõukogu määruse ettepaneku kohta, millega luuakse rahastamisvahend „Euroopa julgeolekumeetmed (SAFE) Euroopa kaitsetööstuse tugevdamiseks“ COM(2025) 122",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0db92da3-1f90-4fc7-9088-e022160495af"
+    },
+    {
+      "order": 3,
+      "title": "Arutelu Euroopa Liidu asjade komisjoni edasisest töökorraldusest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "25a38767-cbc9-45b0-af29-87d5b63bd4e6"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bd072a34-64ca-4ffd-9e6a-1410ea74e834"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ELAK protokoll 28.04.2025",
+      "uuid": "0e9fef58-623b-45bf-9fa1-16a2b92067bc",
+      "files": [
+        "ELAK_protokoll_28.04.2025.asice",
+        "ELAK_protokoll_28.04.2025.pdf"
+      ]
+    }
+  ],
+  "uuid": "06f0d965-7368-4a6a-9b73-625abee12230",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 06f0d965-7368-4a6a-9b73-625abee12230)",
+  "source": "https://api.riigikogu.ee/api/volumes/06f0d965-7368-4a6a-9b73-625abee12230",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-04-01&endDate=2025-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
