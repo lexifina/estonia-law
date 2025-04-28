@@ -1,0 +1,53 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni  istung esmaspäev, 28.04.2025 kell 10.00",
+  "sitting_time": "2025-04-28T10:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade Kaitseministeeriumi 2024. aasta eelarve jääkidest. Osaleb kaitseminister Hanno Pevkur.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9133cdbc-b12c-4098-8f14-e4c018b178a4"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade Kliimaministeeriumi 2024. aasta eelarve jääkidest. Osaleb taristuminister Kuldar Leis.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9d759868-b8c0-4b15-ab7a-439b1b32feea"
+    },
+    {
+      "order": 3,
+      "title": "Ülevaade Regionaal- ja Põllumajandusministeeriumi 2024. aasta eelarve jääkidest. Osaleb regionaal- ja põllumajandusminister Hendrik Johannes Terras.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6f171472-fdf8-4310-b4bd-7a662d1e73ef"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "15799fa2-6a95-4632-8cf7-45387d9d3822"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 28.04.2025",
+      "uuid": "d556e779-21bc-4c9b-a5f0-fc4ed3831956",
+      "files": [
+        "KLIM_K.Leis_ettekande_slaidid_28.04.2025.pdf",
+        "RAHK_protokoll_150_28_04_2025.pdf",
+        "RAHK_protokoll_28.04.2025.asice"
+      ]
+    }
+  ],
+  "uuid": "9301bb6b-c3cb-4365-a32e-8f0f7f1b3caa",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9301bb6b-c3cb-4365-a32e-8f0f7f1b3caa)",
+  "source": "https://api.riigikogu.ee/api/volumes/9301bb6b-c3cb-4365-a32e-8f0f7f1b3caa",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-04-01&endDate=2025-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
