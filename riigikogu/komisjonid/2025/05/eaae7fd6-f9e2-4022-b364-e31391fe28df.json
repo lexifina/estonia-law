@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 5.05.2025 kell 13.15",
+  "sitting_time": "2025-05-05T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bcdbe35a-f1e6-4735-bebc-8cfa2c464e5a"
+    },
+    {
+      "order": 2,
+      "title": "Rohepöörde finantsmajandusliku mõju hinnangud",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "abe4acc9-1b4c-417f-b293-e6bfe36db0d7"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6c101937-e649-4e8d-aa8f-c9caf5450535"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 05.05.25",
+      "uuid": "658c2920-b804-476a-9b06-024635f0e55e",
+      "files": [
+        "REKK_protokoll_05.05.25.asice",
+        "Protokoll_nr_103_05.05.25.pdf",
+        "Volikiri_05.05.25.pdf"
+      ]
+    }
+  ],
+  "uuid": "eaae7fd6-f9e2-4022-b364-e31391fe28df",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid eaae7fd6-f9e2-4022-b364-e31391fe28df)",
+  "source": "https://api.riigikogu.ee/api/volumes/eaae7fd6-f9e2-4022-b364-e31391fe28df",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-05-01&endDate=2025-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
