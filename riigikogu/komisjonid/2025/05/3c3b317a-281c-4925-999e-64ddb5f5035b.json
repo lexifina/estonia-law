@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung esmaspäev, 5.05.2025 kell 11.15",
+  "sitting_time": "2025-05-05T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "607b1060-ebf8-4f73-8580-e613f9758a8c"
+    },
+    {
+      "order": 2,
+      "title": "Korruptsioonivastase seaduse muutmise seaduse eelnõu (442 SE) teise lugemise ettevalmistamine (toimingupiirangud - arutelu)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "48c26b43-9fbd-4526-8d71-21391607d2ac"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8e318210-3ea2-4a47-b425-4a4763aaaa9e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "PÕSK protokoll nr 110",
+      "uuid": "c9febb8a-0338-4934-8927-10b1e628b94b",
+      "files": [
+        "PÕSK_protokoll_nr_110.asice",
+        "Volikiri_A._Kovalenko-Kõlvart_(05.05.2025).pdf",
+        "PÕSK_protokoll_nr_110_(05.05.2025).pdf"
+      ]
+    }
+  ],
+  "uuid": "3c3b317a-281c-4925-999e-64ddb5f5035b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3c3b317a-281c-4925-999e-64ddb5f5035b)",
+  "source": "https://api.riigikogu.ee/api/volumes/3c3b317a-281c-4925-999e-64ddb5f5035b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-05-01&endDate=2025-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
