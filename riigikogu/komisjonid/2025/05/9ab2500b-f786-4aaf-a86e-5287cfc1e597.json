@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung esmaspäev, 5.05.2025 kell 11.15",
+  "sitting_time": "2025-05-05T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b029ade6-c8f3-4825-9d80-c8f7045a2701"
+    },
+    {
+      "order": 2,
+      "title": "Hädaolukorra seaduse muutmise seaduse eelnõu (589 SE III) kolmanda lugemise ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d2ef027e-6699-4d65-8bfc-b19f7c8a157f"
+    },
+    {
+      "order": 3,
+      "title": "Valitsusleppe  riigikaitse osa tutvustamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e9f1e932-e065-4467-8b5b-f2842bf870ff"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "19b95bf8-66a7-498c-b776-39fdcbcd7c65"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Riigikaitsekomisjoni 5.05.2025 istungi protokoll",
+      "uuid": "ec66d54d-1608-4cd4-add4-d20d7e73e51b",
+      "files": [
+        "Riigikaitsekomisjoni_5.05.2025_istungi_protokoll.asice",
+        "2025-05-05_protokoll_142.pdf"
+      ]
+    }
+  ],
+  "uuid": "9ab2500b-f786-4aaf-a86e-5287cfc1e597",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9ab2500b-f786-4aaf-a86e-5287cfc1e597)",
+  "source": "https://api.riigikogu.ee/api/volumes/9ab2500b-f786-4aaf-a86e-5287cfc1e597",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-05-01&endDate=2025-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
