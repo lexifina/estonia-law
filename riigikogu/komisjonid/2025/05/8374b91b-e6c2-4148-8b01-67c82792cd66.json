@@ -1,0 +1,48 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 5.05.2025 kell 11.10",
+  "sitting_time": "2025-05-05T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b82f888e-5aaf-4e3f-8334-343b7a64a2f3"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade lihaveisekasvatussektori olukorrast ja perspektiividest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "faaeb250-32f4-4495-8e5e-1cfe97422c25"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "09d9206e-dc4a-4571-a76e-f93a7292a8ac"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 05.05.2025",
+      "uuid": "8df6dbca-4d28-4126-bdaa-53569d26868f",
+      "files": [
+        "111_protokolli_lisa_2_Eesti_Lihaveised__2025-mai.pdf",
+        "MAEK_protokoll_05.05.2025.asice",
+        "111_MAEK_protokoll_05.05.2025.pdf",
+        "111_protokolli_lisa_1_lihaveisesektori_ülevaade_05.05.25_Pärtel.pdf"
+      ]
+    }
+  ],
+  "uuid": "8374b91b-e6c2-4148-8b01-67c82792cd66",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8374b91b-e6c2-4148-8b01-67c82792cd66)",
+  "source": "https://api.riigikogu.ee/api/volumes/8374b91b-e6c2-4148-8b01-67c82792cd66",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-05-01&endDate=2025-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
