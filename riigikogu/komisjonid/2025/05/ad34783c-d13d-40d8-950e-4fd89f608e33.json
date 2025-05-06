@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung teisipäev, 6.05.2025 kell 14.00",
+  "sitting_time": "2025-05-06T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kaugmaa täppislöögi võimekus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c409d07a-5d6e-49ef-b349-07caaa3f3e4a"
+    },
+    {
+      "order": 2,
+      "title": "Kaitsetööstusparkide arendamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "119825de-431b-42da-aec3-41f31a60dbfa"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Riigikaitsekomisjoni 6.05.25 istungi protokoll",
+      "uuid": "a54f4f2b-a633-4b8a-9d3a-d68264cf4ac5",
+      "files": [
+        "Riigikaitsekomisjoni_6.05.25_istungi_protokoll.asice",
+        "2025-05-06_protokoll_143.pdf"
+      ]
+    }
+  ],
+  "uuid": "ad34783c-d13d-40d8-950e-4fd89f608e33",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ad34783c-d13d-40d8-950e-4fd89f608e33)",
+  "source": "https://api.riigikogu.ee/api/volumes/ad34783c-d13d-40d8-950e-4fd89f608e33",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-05-01&endDate=2025-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
