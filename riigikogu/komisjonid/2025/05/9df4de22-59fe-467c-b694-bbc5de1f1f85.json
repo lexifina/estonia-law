@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung teisipäev, 6.05.2025 kell 14.05",
+  "sitting_time": "2025-05-06T14:05:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti Vaimse Tervise ja Heaolu Koalitsiooni tegevuse ülevaade",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "da83e87e-f66f-4586-a183-e595cafd4e74"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6044c981-eb1f-48a2-9328-a52ff65c3e8c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "SOTK protokoll 06.05.2025",
+      "uuid": "320b6c94-b5b3-46c9-9d38-926f0cd86f75",
+      "files": [
+        "Lisa_(VATEK-i_slaidid).pdf",
+        "SOTK_protokoll_06.05.2025.asice",
+        "SOTK_protokoll_nr_119_(06.05.2025).pdf"
+      ]
+    }
+  ],
+  "uuid": "9df4de22-59fe-467c-b694-bbc5de1f1f85",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9df4de22-59fe-467c-b694-bbc5de1f1f85)",
+  "source": "https://api.riigikogu.ee/api/volumes/9df4de22-59fe-467c-b694-bbc5de1f1f85",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-05-01&endDate=2025-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
