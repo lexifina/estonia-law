@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung teisipäev, 6.05.2025 kell 14.00",
+  "sitting_time": "2025-05-06T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Riigilaevastiku juhiga",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e2233cab-1e52-463c-9790-36281be884d3"
+    },
+    {
+      "order": 2,
+      "title": "Arvamuse andmine Euroopa Liidu asjade komisjonile: Eesti uuendatud seisukohad Euroopa Liidu lennureisijate õiguste määruse eelnõu kohta - COM(2013) 130. Arutelu jätkamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7165b6de-416b-4e23-a6ea-30025f0a3b0f"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4e5a84c7-91ab-44bb-b973-dae9ca6948d5"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAJK protokoll nr 126 06.05.2025",
+      "uuid": "9612c92c-e7f9-41ea-8a11-fa2de07933dd",
+      "files": [
+        "MAJK_protokoll_nr_126_06.05.2025.asice",
+        "Riigilaevastik.pdf",
+        "MAJK_protokoll_nr_126_06.05.2025.pdf"
+      ]
+    }
+  ],
+  "uuid": "94c3f9b2-c089-4a5e-ab7c-0522f9d830c0",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 94c3f9b2-c089-4a5e-ab7c-0522f9d830c0)",
+  "source": "https://api.riigikogu.ee/api/volumes/94c3f9b2-c089-4a5e-ab7c-0522f9d830c0",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-05-01&endDate=2025-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
