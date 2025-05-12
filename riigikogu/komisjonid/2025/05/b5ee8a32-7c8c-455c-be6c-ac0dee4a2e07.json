@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Korruptsioonivastane erikomisjon",
+  "committee_uuid": "e4f2977a-e8c3-4fa0-8f3d-9df9acd6377f",
+  "title": "Komisjoni istung esmaspäev, 12.05.2025 kell 13.15",
+  "sitting_time": "2025-05-12T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "95539b77-2e54-419f-876b-14219281922b"
+    },
+    {
+      "order": 2,
+      "title": "Rail Balticu projekti rahvusvahelise koostöö riskide analüüs, läbipaistvus, rongide hange",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6571daf9-be0c-4842-ac0a-fd0aa74d7688"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b5e9c1d4-c6ee-4813-a7e2-4bb2e2863795"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KVEK protokoll 64 (12.05.2025)",
+      "uuid": "edee3e14-1eda-4b71-b07f-ae523a052ee0",
+      "files": [
+        "KVEK_protokoll_64_(12.05.2025).asice",
+        "EST_Riigikogu_RailBaltica_MAY2025.pptx",
+        "KVEK_protokoll_64_(12.05.2025).pdf"
+      ]
+    }
+  ],
+  "uuid": "b5ee8a32-7c8c-455c-be6c-ac0dee4a2e07",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b5ee8a32-7c8c-455c-be6c-ac0dee4a2e07)",
+  "source": "https://api.riigikogu.ee/api/volumes/b5ee8a32-7c8c-455c-be6c-ac0dee4a2e07",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-05-01&endDate=2025-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
