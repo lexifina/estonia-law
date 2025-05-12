@@ -1,0 +1,48 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 12.05.2025 kell 13.15",
+  "sitting_time": "2025-05-12T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2021a18d-ac2e-4dbc-adb9-2cfc0ff5dfe9"
+    },
+    {
+      "order": 2,
+      "title": "Mootorsõidukimaksu rakendumise mõju eelarvele ja tarbijakäitumisele",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "96934586-b278-4c45-a6b8-f4c3db00b283"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bc272c71-6a94-4f9c-a783-d37c6bd4c759"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 12.05.25",
+      "uuid": "0940e6b0-364f-4af9-859f-78ccd59eeaeb",
+      "files": [
+        "REKK_protokoll_12.05.2025.asice",
+        "20250512_EAOL_ettekanne.pptx",
+        "Autode_reg_maksu_ootuses_12.5.2025.pptx",
+        "Protokoll_nr_104_12.05.25.pdf"
+      ]
+    }
+  ],
+  "uuid": "da5d058c-9c81-49de-896c-6391763cb0d7",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid da5d058c-9c81-49de-896c-6391763cb0d7)",
+  "source": "https://api.riigikogu.ee/api/volumes/da5d058c-9c81-49de-896c-6391763cb0d7",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-05-01&endDate=2025-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
