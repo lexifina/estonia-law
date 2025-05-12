@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Julgeolekuasutuste järelevalve erikomisjon",
+  "committee_uuid": "d3826f36-707d-17ad-41e8-8b99f9910b98",
+  "title": "Komisjoni istung esmaspäev, 12.05.2025 kell 13.30",
+  "sitting_time": "2025-05-12T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8b35480d-cce9-4716-8612-43edcffd5765"
+    },
+    {
+      "order": 2,
+      "title": "Julgeolekuolukorra arengutest.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b1f7baab-19a1-43bb-beaa-c8845461f6a2"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8ea2e3bf-ce51-4241-92d5-4cfd341d4f91"
+    },
+    {
+      "order": 4,
+      "title": "Tutvumine dokumentidega.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "05532e61-0b09-40dd-8257-c941f7dfef48"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Istungi protokoll",
+      "uuid": "e9c36b6d-455f-4716-8e01-cfca388a646e",
+      "files": [
+        "JAJK_protokoll_120525.pdf",
+        "Istungi_protokoll.asice"
+      ]
+    }
+  ],
+  "uuid": "9c334657-f676-4a7a-ab44-5cf30abd8046",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9c334657-f676-4a7a-ab44-5cf30abd8046)",
+  "source": "https://api.riigikogu.ee/api/volumes/9c334657-f676-4a7a-ab44-5cf30abd8046",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-05-01&endDate=2025-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
