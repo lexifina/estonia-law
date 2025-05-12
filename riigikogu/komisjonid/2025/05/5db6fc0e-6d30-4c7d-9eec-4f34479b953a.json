@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung esmaspäev, 12.05.2025 kell 12.00",
+  "sitting_time": "2025-05-12T12:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7f4ee2cb-7fa7-499e-b50d-288bfec9da6d"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7246bde3-0e5c-4415-bfc1-5c65e65d20cc"
+    },
+    {
+      "order": 3,
+      "title": "Jalaväemiinide kasutamist, varumist, tootmist ja üleandmist keelustavast ja nende hävitamist nõudvast konventsioonist taganemise seaduse eelnõu (642 SE) esimese lugemise ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "46648f5b-5fc4-4686-9075-f154ccee34a7"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Riigikaitsekomisjoni 12.05.25 istungi protokoll",
+      "uuid": "f87e0b39-0382-41d5-9330-08743de8d4d4",
+      "files": [
+        "Riigikaitsekomisjoni_12.05.25_istungi_protokoll.asice",
+        "2025-05-12_protokoll_144.pdf"
+      ]
+    }
+  ],
+  "uuid": "5db6fc0e-6d30-4c7d-9eec-4f34479b953a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 5db6fc0e-6d30-4c7d-9eec-4f34479b953a)",
+  "source": "https://api.riigikogu.ee/api/volumes/5db6fc0e-6d30-4c7d-9eec-4f34479b953a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-05-01&endDate=2025-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
