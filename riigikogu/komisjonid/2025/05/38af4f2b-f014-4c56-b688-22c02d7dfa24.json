@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 13.05.2025 kell 14.00",
+  "sitting_time": "2025-05-13T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade Riigi Laboriuuringute ja Riskihindamise Keskuse (LABRIS) rollist ning väljakutsetest toidujulgeoleku tagamisel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b102721f-7ea8-4194-8d82-fc1dfe41f778"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "63c8b6a9-793d-4ca0-ac42-af43438cbae4"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 13.05.2025",
+      "uuid": "c128a8b5-d717-4737-ba7b-ab4a73bab6be",
+      "files": [
+        "MAEK_protokoll_13.05.2025.asice",
+        "114_MAEK_protokoll_13.05.2025.pdf",
+        "114_protokolli_lisa_LABRIS.pdf"
+      ]
+    }
+  ],
+  "uuid": "38af4f2b-f014-4c56-b688-22c02d7dfa24",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 38af4f2b-f014-4c56-b688-22c02d7dfa24)",
+  "source": "https://api.riigikogu.ee/api/volumes/38af4f2b-f014-4c56-b688-22c02d7dfa24",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-05-01&endDate=2025-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
