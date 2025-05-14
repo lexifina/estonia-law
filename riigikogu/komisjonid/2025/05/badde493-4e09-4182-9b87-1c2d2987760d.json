@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung kolmapäev, 14.05.2025 kell 08.30",
+  "sitting_time": "2025-05-14T08:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Täiendavate kaitsekulude rakendamine ja mõju eelarvele",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5b2de4d9-bb66-49aa-a4be-9b0b258acac6"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8f774f90-d566-4bc6-af47-47c2796a8856"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 14.05.25",
+      "uuid": "51ae06e3-bc75-4dba-ab84-a8e8f8852b93",
+      "files": [
+        "REKK_protokoll_14.05.25.asice",
+        "Protokoll_nr_105_14.05.25.pdf"
+      ]
+    }
+  ],
+  "uuid": "badde493-4e09-4182-9b87-1c2d2987760d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid badde493-4e09-4182-9b87-1c2d2987760d)",
+  "source": "https://api.riigikogu.ee/api/volumes/badde493-4e09-4182-9b87-1c2d2987760d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-05-01&endDate=2025-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
