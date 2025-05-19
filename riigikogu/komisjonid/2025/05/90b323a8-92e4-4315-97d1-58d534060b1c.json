@@ -1,0 +1,50 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 19.05.2025 kell 11.10",
+  "sitting_time": "2025-05-19T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1507901b-2625-4eb2-84fd-a8a40a045a98"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade aiandussektori olukorrast ja perspektiividest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1499a4cf-3b31-47ac-a802-3624dec8f725"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "54697646-80e0-476c-bd0e-4e5955a61b59"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 19.05.2025",
+      "uuid": "0bb70a65-2cc5-4f5c-a231-206f4335f20f",
+      "files": [
+        "MAEK_protokoll_19.05.2025_(1).asice",
+        "115_protokoll_19.05.25_ÕIEND.pdf",
+        "115_protokolli_lisa_1_REM_aiandus.pdf",
+        "MAEK_protokoll_19.05.2025.asice",
+        "115_protokolli_lisa_2_Aiandusliit.pdf",
+        "115_MAEK_protokoll_19.05.2025.pdf"
+      ]
+    }
+  ],
+  "uuid": "90b323a8-92e4-4315-97d1-58d534060b1c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 90b323a8-92e4-4315-97d1-58d534060b1c)",
+  "source": "https://api.riigikogu.ee/api/volumes/90b323a8-92e4-4315-97d1-58d534060b1c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-05-01&endDate=2025-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
