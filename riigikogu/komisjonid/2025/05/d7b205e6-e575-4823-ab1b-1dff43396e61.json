@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 19.05.2025 kell 13.15",
+  "sitting_time": "2025-05-19T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b782af4e-0982-4af6-bd57-13ff562b6c61"
+    },
+    {
+      "order": 2,
+      "title": "Jäätmereformi mõju maksudele ja eelarvele",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8f6c24e0-2e6a-4e68-a653-213b00b3c98d"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "aa0bc53d-dd31-43e1-aa63-1b9d36aa20df"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 19.05.25",
+      "uuid": "958747d0-7f7a-4984-a13d-01c540aa50cb",
+      "files": [
+        "REKK_protokoll_19.05.25.asice",
+        "2025-05-19_Jäätmereform.pptx",
+        "Protokoll_nr_106_19.05.25.pdf"
+      ]
+    }
+  ],
+  "uuid": "d7b205e6-e575-4823-ab1b-1dff43396e61",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d7b205e6-e575-4823-ab1b-1dff43396e61)",
+  "source": "https://api.riigikogu.ee/api/volumes/d7b205e6-e575-4823-ab1b-1dff43396e61",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-05-01&endDate=2025-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
