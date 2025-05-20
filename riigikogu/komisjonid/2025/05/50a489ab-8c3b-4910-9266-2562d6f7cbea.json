@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung teisipäev, 20.05.2025 kell 14.00",
+  "sitting_time": "2025-05-20T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud keskkonnaseadustiku üldosa seaduse ja teiste seaduste muutmise seaduse eelnõu (611 SE) teise lugemise ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "002a91d8-33d6-46e8-88f2-98d789d6618b"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "56e1c31f-26e9-42d6-a615-e67890e41516"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK protokoll 20.05.2025",
+      "uuid": "40c0efe6-b04b-4d55-b00b-48f68e814ac0",
+      "files": [
+        "KEKK_protokoll_20.05.2025.asice",
+        "KEKK_protokoll_20.05.2025.pdf"
+      ]
+    }
+  ],
+  "uuid": "50a489ab-8c3b-4910-9266-2562d6f7cbea",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 50a489ab-8c3b-4910-9266-2562d6f7cbea)",
+  "source": "https://api.riigikogu.ee/api/volumes/50a489ab-8c3b-4910-9266-2562d6f7cbea",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-05-01&endDate=2025-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
