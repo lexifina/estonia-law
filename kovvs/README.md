@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/124052024005> (version in force from 2024-10-01)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/120052025002> (version in force from 2025-05-21)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -118,6 +118,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/124052024005> (version in force 
 | [§ 70¹](para-070b1.md) |  |
 | [§ 70²](para-070b2.md) | Hääletamissedelite ja valimisdokumentide säilitamine |
 | [§ 70³](para-070b3.md) | Vabariigi Valitsuse algatatud haldusterritoriaalse korralduse muutmise käigus valimistoimingute tegemise erisused haldusreformi teostamisel |
+| [§ 70⁴](para-070b4.md) | Valimisringkondade moodustamine ja nende vahel mandaatide jaotamine 2025. aasta kohaliku omavalitsuse volikogu valimistel |
 | [§ 71](para-071.md) |  |
 | [§ 73](para-073.md) |  |
 | [§ 74](para-074.md) | Seaduse jõustumine |
