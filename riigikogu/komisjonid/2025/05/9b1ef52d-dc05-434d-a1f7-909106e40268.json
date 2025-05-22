@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung neljapäev, 22.05.2025 kell 09.00",
+  "sitting_time": "2025-05-22T09:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade ohuteavituse testi tulemustest ja õppetundidest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5a6c2ebd-6873-4bba-9c14-2a80a3efcae6"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c6e74a12-859a-42b1-96b6-e054a6ae6f4f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAJK protokoll nr 130 22.05.2025",
+      "uuid": "dd00ba7c-2753-4315-97aa-325bd6d40df9",
+      "files": [
+        "MAJK_protokoll_nr_130_22.05.2025.asice",
+        "MAJK_protokoll_nr_130_22.05.2025.pdf",
+        "EE-ALARM_22052025_RK.pdf"
+      ]
+    }
+  ],
+  "uuid": "9b1ef52d-dc05-434d-a1f7-909106e40268",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9b1ef52d-dc05-434d-a1f7-909106e40268)",
+  "source": "https://api.riigikogu.ee/api/volumes/9b1ef52d-dc05-434d-a1f7-909106e40268",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-05-01&endDate=2025-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
