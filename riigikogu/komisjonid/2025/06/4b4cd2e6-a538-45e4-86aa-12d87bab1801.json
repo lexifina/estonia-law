@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Majanduskomisjoni ja keskkonnakomisjoni ühine istung esmaspäev, 2.06.2025 kell 11.10",
+  "sitting_time": "2025-06-02T11:10:00",
+  "sitting_type": "UHISISTUNG",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Majanduskomisjoni nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3610a6e0-86e0-465a-b87a-768dc6cd0f93"
+    },
+    {
+      "order": 2,
+      "title": "Keskkonnakomisjoni nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "96d801ae-562e-4a4f-b6e8-190a7a0bf08d"
+    },
+    {
+      "order": 3,
+      "title": "Taristuministri ettekanne riigi pikaajalise arengustrateegia „Eesti 2035“ elluviimisest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7c07fb94-8810-4efe-89f9-4d0d73d342d6"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAJK ja KEKK protokoll nr 65 02.06.2025",
+      "uuid": "9f872a57-89b4-4e01-b583-5ef00f57977e",
+      "files": [
+        "MAJK_ja_KEKK_protokoll_nr_65_02.06.2025.pdf",
+        "Eesti_2035_teesid_02.06.2025_taristuminister.pdf",
+        "MAJK_ja_KEKK_protokoll_nr_65_02.06.2025.asice"
+      ]
+    }
+  ],
+  "uuid": "4b4cd2e6-a538-45e4-86aa-12d87bab1801",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 4b4cd2e6-a538-45e4-86aa-12d87bab1801)",
+  "source": "https://api.riigikogu.ee/api/volumes/4b4cd2e6-a538-45e4-86aa-12d87bab1801",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-06-01&endDate=2025-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
