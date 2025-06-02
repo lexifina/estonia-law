@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung esmaspäev, 2.06.2025 pärast ühisistungi lõppu",
+  "sitting_time": "2025-06-02T12:02:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Keskkonnaseadustiku üldosa seaduse ja teiste seaduste muutmise seaduse eelnõu (611 SE) teise lugemise ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e86d0971-6cdf-48e4-805a-446f95a8289c"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "00f2fed3-5564-40ea-87b5-e657dfe6b099"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK protokoll 02.06.2025",
+      "uuid": "21f7ebe1-2b1a-4d19-9ad5-d61c016bfa55",
+      "files": [
+        "KEKK_protokoll_02.06.2025.asice",
+        "KEKK_protokoll_02.06.2025.pdf"
+      ]
+    }
+  ],
+  "uuid": "a3e66668-bc6b-4ba0-af70-00de4bfdea5a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a3e66668-bc6b-4ba0-af70-00de4bfdea5a)",
+  "source": "https://api.riigikogu.ee/api/volumes/a3e66668-bc6b-4ba0-af70-00de4bfdea5a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-06-01&endDate=2025-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
