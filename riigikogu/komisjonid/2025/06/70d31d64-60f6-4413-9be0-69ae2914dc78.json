@@ -1,0 +1,54 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung esmaspäev, 2.06.2025 kell 11.15",
+  "sitting_time": "2025-06-02T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3eda44ed-85fe-4aca-b22a-f9a77fb58ef2"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine Eelarvenõukogu esindajatega. Osaleb EAN esimees Peter Lõhmus.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "31b07db5-522f-438d-a45a-5cb8882e7f87"
+    },
+    {
+      "order": 3,
+      "title": "Ülevaade Regionaal- ja Põllumajandusministeeriumi 2024. aasta eelarvejäägist. Osaleb regionaal- ja põllumajandusminister Henrik Johannes Terras.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "152f44ce-1335-4f4e-bcd8-012e46e86f0c"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fc5a8bd6-340b-4a95-b9cc-24b9c84c9595"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 02.06.2025",
+      "uuid": "c2467d31-8112-4a06-ab96-aeaa5c2309da",
+      "files": [
+        "RAHK_protokoll_02.06.2025.asice",
+        "RAHK_protokoll_158_02_06_2025.pdf",
+        "REGPÕM_H.J.Terras_ettekande_slaidid_02.06.2025_Lisa_2.pdf",
+        "Eelarvenõukogu_ettekande_slaidid_02.05.2025_Lisa_1.pdf"
+      ]
+    }
+  ],
+  "uuid": "70d31d64-60f6-4413-9be0-69ae2914dc78",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 70d31d64-60f6-4413-9be0-69ae2914dc78)",
+  "source": "https://api.riigikogu.ee/api/volumes/70d31d64-60f6-4413-9be0-69ae2914dc78",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-06-01&endDate=2025-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
