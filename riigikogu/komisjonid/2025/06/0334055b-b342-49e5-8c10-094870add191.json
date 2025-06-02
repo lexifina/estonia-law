@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 2.06.2025 kell 13.15",
+  "sitting_time": "2025-06-02T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e8d3edc8-0efd-4d0c-a165-9f641a8166c2"
+    },
+    {
+      "order": 2,
+      "title": "Riigi 2025. aasta lisaeelarve seaduse eelnõu, 2024. aasta ülekantavad vahendid ja 2025. aasta valitsemiskulud",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "526f0f62-8c73-4471-b835-f6e68c4570c0"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ec9c8015-939b-4fa6-85a3-fd594339ac07"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 02.06.2025",
+      "uuid": "772b6031-b867-466d-bfb3-321dcf0e9a0c",
+      "files": [
+        "REKK_protokoll_02.06.2025.asice",
+        "2025Lisaeelarve_riigikogus.pptx",
+        "Protokoll_nr_109_02.06.25.pdf"
+      ]
+    }
+  ],
+  "uuid": "0334055b-b342-49e5-8c10-094870add191",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0334055b-b342-49e5-8c10-094870add191)",
+  "source": "https://api.riigikogu.ee/api/volumes/0334055b-b342-49e5-8c10-094870add191",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-06-01&endDate=2025-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
