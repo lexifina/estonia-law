@@ -1,0 +1,44 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung teisipäev, 3.06.2025 kell 14.00",
+  "sitting_time": "2025-06-03T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "NEET noorte valdkonna väljakutsed - arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8b9c2971-eb04-449e-8631-6c6dbc35d7b3"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fea11272-bc60-435f-83c1-ba5598f0c3d5"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "SOTK protokoll 03.06.2025",
+      "uuid": "2607c308-d11d-43fc-995d-870e8b04cc6d",
+      "files": [
+        "SOTK_protokoll_03.06.2025.asice",
+        "SOTK_protokoll_nr_125_(03.06.2025).pdf",
+        "Lisa_1_(MKM__Töötukassa_ja_NGTS_slaidid)_.pdf",
+        "Lisa_4_(ELVL_slaidid).pdf",
+        "Lisa_3_(SOM_slaidid).pdf",
+        "Lisa_2_(HTM__Harno__Astangu_KRK_slaidid).pdf"
+      ]
+    }
+  ],
+  "uuid": "8fdc5296-0a68-4d41-abfb-754e4db8daf9",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8fdc5296-0a68-4d41-abfb-754e4db8daf9)",
+  "source": "https://api.riigikogu.ee/api/volumes/8fdc5296-0a68-4d41-abfb-754e4db8daf9",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-06-01&endDate=2025-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
