@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung kolmapäev, 4.06.2025 kell 08.30",
+  "sitting_time": "2025-06-04T08:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikontrolli kontrolliaruande „Haridusliku erivajadustega noorte kutseõpingute ja tööle siirdumise toetamine“ arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d25ac924-bc63-49bb-b003-6ef0096b70a5"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "84e06dca-b8c8-4d8c-8ebc-ff9824243864"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 04.06.2025",
+      "uuid": "32c0e474-0aa6-4bed-8181-818416876f60",
+      "files": [
+        "REKK_protokoll_04.06.2025.asice",
+        "HEVid_REKK_04.06.2025.pptx",
+        "Protokoll_nr_110_04.06.25.pdf"
+      ]
+    }
+  ],
+  "uuid": "d5934cb8-eb67-4ef1-89f1-098ba362db89",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d5934cb8-eb67-4ef1-89f1-098ba362db89)",
+  "source": "https://api.riigikogu.ee/api/volumes/d5934cb8-eb67-4ef1-89f1-098ba362db89",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-06-01&endDate=2025-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
