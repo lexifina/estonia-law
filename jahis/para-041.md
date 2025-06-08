@@ -8,7 +8,9 @@
 
 (2) Suuruluki haavamise korral märgitakse jahiloale viivitamata haavamise kuupäev ja kellaaeg. Kui haavatud suurulukit 24 tunni jooksul ei tabata, lõpetatakse jahiloa kehtivus märkega, et haavatud suurulukit ei leitud.
 
-(3) Haavatud suuruluki tabamise korral märgitakse jahiloale lisaks tabamise ajale ka jahipiirkond, kus suuruluk tabati.
+(3) Haavatud suuruluki jälitamine ja surmamine jahiloale märgitud jahipiirkonnast väljaspool on lubatud käesoleva paragrahvi lõikes 2 nimetatud jahiloa alusel ning haavatud uluki asukoha jahipiirkonna kasutaja enne antud nõusolekul. Haavatud suuruluki tabamise korral märgitakse jahiloale lisaks tabamise ajale ka jahipiirkond, kus suuruluk tabati.
+
+(3¹) Haavatud suuruluki jälitamine ja surmamine jahipiirkonnast väljaspool ilma jahiloale haavamise kuupäeva ja kellaaega märkimata ning haavatud uluki asukoha jahipiirkonna kasutaja enne antud nõusolekuta võrdsustatakse jahiloata jahipidamisega.
 
 (4) Suurulukit ei tohi enne jahiloale tabamise kohta märke tegemist tabamiskohast ära viia.
 

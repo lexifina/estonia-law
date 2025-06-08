@@ -26,7 +26,7 @@
 
 2) loodusesse sattunud jahieeskirjas nimetamata võõrliigi surmamiseks;
 
-3) uluki tekitatud kahjustuse vältimiseks väljaspool jahiaega;
+3) uluki tekitatud kahjustuse vältimiseks;
 
 4) vigastatud uluki hukkamiseks väljaspool jahiaega;
 
