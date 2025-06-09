@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung esmaspäev, 9.06.2025 kell 11.15",
+  "sitting_time": "2025-06-09T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "88d7ceb8-2057-4143-92e3-aacaaf85005f"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu otsus „Ettepaneku tegemine Vabariigi Valitsusele\" (630 OE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c70ce3c3-a98b-41c8-9858-d4de11599432"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "947a7c28-4089-46e3-a4ba-3905bb57d831"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ÕIGK protokoll 09.06.2025",
+      "uuid": "f352cc08-c42a-4c73-8e35-807e9e1f95fa",
+      "files": [
+        "ÕIGK_protokoll_09.06.2025.asice",
+        "Riigikogu_õiguskomisjoni_istungi_protokoll_nr_83.pdf"
+      ]
+    }
+  ],
+  "uuid": "63142bff-4d70-44bb-a5b7-c1d5f4497c3a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 63142bff-4d70-44bb-a5b7-c1d5f4497c3a)",
+  "source": "https://api.riigikogu.ee/api/volumes/63142bff-4d70-44bb-a5b7-c1d5f4497c3a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-06-01&endDate=2025-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
