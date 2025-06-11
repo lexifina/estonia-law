@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung kolmapäev, 11.06.2025 kell 08.30",
+  "sitting_time": "2025-06-11T08:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bced960c-84a7-40e0-8a60-e4338bf18558"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli kontrolliaruande \"Narva linna ühingute juhtimine ja järelevalve nende üle\" tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a2d6fb10-e48d-49f6-b046-66c1b847a50d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 11.06.25",
+      "uuid": "fc6adac1-3dc4-4ab8-a678-ea0f20b05562",
+      "files": [
+        "Volikiri_11.06.25.pdf",
+        "REKK_protokoll_11.06.25.asice",
+        "Protokoll_nr_111_11.06.25.pdf"
+      ]
+    }
+  ],
+  "uuid": "f0ce4f14-28a1-4dcc-af62-7a2e25a250d9",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f0ce4f14-28a1-4dcc-af62-7a2e25a250d9)",
+  "source": "https://api.riigikogu.ee/api/volumes/f0ce4f14-28a1-4dcc-af62-7a2e25a250d9",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-06-01&endDate=2025-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
