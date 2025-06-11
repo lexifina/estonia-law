@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung kolmapäev, 11.06.2025 kell 09.00",
+  "sitting_time": "2025-06-11T09:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti ja Rootsi vahelise vanglarendileppe projekti mõju eelarvele",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9304fd68-912c-4bfa-9919-e81d370d7ed9"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f11277c6-d89a-4dd3-9b5d-3ca5ed1e6706"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 11.06.25",
+      "uuid": "987bfa3f-b688-4223-a2bd-2535477e156a",
+      "files": [
+        "REKK_protokoll_11.06.25.asice",
+        "Protokoll_nr_112_11.06.25.pdf"
+      ]
+    }
+  ],
+  "uuid": "7e9a8c3d-9449-46c1-ae16-bcfd291ae6fb",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7e9a8c3d-9449-46c1-ae16-bcfd291ae6fb)",
+  "source": "https://api.riigikogu.ee/api/volumes/7e9a8c3d-9449-46c1-ae16-bcfd291ae6fb",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-06-01&endDate=2025-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
