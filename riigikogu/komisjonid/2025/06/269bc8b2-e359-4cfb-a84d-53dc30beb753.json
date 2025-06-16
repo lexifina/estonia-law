@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung esmaspäev, 16.06.2025 kell 11.15",
+  "sitting_time": "2025-06-16T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1c165d81-3ef2-405c-ac3c-ae2f6d61fd97"
+    },
+    {
+      "order": 2,
+      "title": "Riigi Valimisteenistuse külastus – e-hääletamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "94075452-f65a-41e4-8e3b-79e28b38a166"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "08510d38-3b46-41f8-aebc-4eb35b8b614f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "PÕSK protokoll 118 (16.06.2025)",
+      "uuid": "ce1f873b-140a-4ebc-9680-8e2b1a5635a6",
+      "files": [
+        "PÕSK_protokoll_118_(16.06.2025).pdf",
+        "PÕSK_protokoll_118_(16.06.2025).asice"
+      ]
+    }
+  ],
+  "uuid": "269bc8b2-e359-4cfb-a84d-53dc30beb753",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 269bc8b2-e359-4cfb-a84d-53dc30beb753)",
+  "source": "https://api.riigikogu.ee/api/volumes/269bc8b2-e359-4cfb-a84d-53dc30beb753",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-06-01&endDate=2025-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
