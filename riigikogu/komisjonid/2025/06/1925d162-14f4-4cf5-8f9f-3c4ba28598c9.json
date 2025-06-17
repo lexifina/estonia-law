@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung teisipäeval, 17.06.2025 kell 14.00",
+  "sitting_time": "2025-06-17T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kaitseväe suurõppuse Siil 2025 õppetundidest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ef8f8f14-1c8c-4ab6-9a1f-152e6ea7c637"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade julgeolekuolukorra arengutest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1f0907d2-36cd-49e4-841d-248bda174e24"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Riigikaitsekomisjoni 17.06.2025 istungi protokoll",
+      "uuid": "02a473a9-2fe8-4618-ae03-5da26cb58658",
+      "files": [
+        "2025-06-17_protokoll_152.pdf",
+        "Riigikaitsekomisjoni_17.06.2025_istungi_protokoll.asice"
+      ]
+    }
+  ],
+  "uuid": "1925d162-14f4-4cf5-8f9f-3c4ba28598c9",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 1925d162-14f4-4cf5-8f9f-3c4ba28598c9)",
+  "source": "https://api.riigikogu.ee/api/volumes/1925d162-14f4-4cf5-8f9f-3c4ba28598c9",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-06-01&endDate=2025-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
