@@ -1,0 +1,48 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung kolmapäev, 18.06.2025 kell 08.30",
+  "sitting_time": "2025-06-18T08:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikontrolli kontrolliaruande „Narva linna ühingute juhtimine ja järelevalve nende üle“ arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0f63f3d0-e5cc-42aa-a7ac-e5474678b0b1"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu riigieelarve kontrolli erikomisjoni tegevuse aruande (juuli 2024 – juuni 2025) kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b4ebd402-9b1c-4363-8572-f00840645cbd"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2f5c6c1b-cf80-49c1-9861-78092dbb2092"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 18.06.25",
+      "uuid": "4aff4f95-5f93-409f-8a5f-5e3dd6a81376",
+      "files": [
+        "Volikiri_18.06.25.pdf",
+        "REKK_protokoll_18.06.25.asice",
+        "Narva_slaidikava.pptx",
+        "Protokoll_nr_114_18.06.25.pdf"
+      ]
+    }
+  ],
+  "uuid": "d9681491-4a2f-476e-8d12-609ea9e2a6a4",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d9681491-4a2f-476e-8d12-609ea9e2a6a4)",
+  "source": "https://api.riigikogu.ee/api/volumes/d9681491-4a2f-476e-8d12-609ea9e2a6a4",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-06-01&endDate=2025-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
