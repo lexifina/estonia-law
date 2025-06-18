@@ -1,0 +1,42 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Korruptsioonivastane erikomisjon",
+  "committee_uuid": "e4f2977a-e8c3-4fa0-8f3d-9df9acd6377f",
+  "title": "Komisjoni istung kolmapäev, 18.06.2025 kell 10.00",
+  "sitting_time": "2025-06-18T10:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "OSCE raport Eesti e-valimistest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "90fd83f1-ac2b-438a-88ac-210cb509ff6e"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimised",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ae7c8499-459f-41b9-9d77-4f61a2a1d510"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KVEK protokoll 69 (18.06.2025)",
+      "uuid": "9f8ad015-3280-4d79-826a-43fa63cab4ef",
+      "files": [
+        "KVEK_protokoll_69_(18.06.2025).asice",
+        "Estonia_ODIHR_Opinion_internet_voting.pdf",
+        "Asendusliikme_volikiri.pdf",
+        "KVEK_protokoll_69_(18.06.2025).pdf"
+      ]
+    }
+  ],
+  "uuid": "37e8e51e-65c6-434d-bd6f-9420e2f5d435",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 37e8e51e-65c6-434d-bd6f-9420e2f5d435)",
+  "source": "https://api.riigikogu.ee/api/volumes/37e8e51e-65c6-434d-bd6f-9420e2f5d435",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-06-01&endDate=2025-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
