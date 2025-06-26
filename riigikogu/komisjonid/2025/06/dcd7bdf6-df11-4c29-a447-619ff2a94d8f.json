@@ -1,0 +1,42 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Väliskomisjoni istung neljapäev, 26.06.2025 kell 13.30",
+  "sitting_time": "2025-06-26T13:50:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade julgeolekuolukorra arengutest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b55137b1-4def-4a63-be44-f25024176302"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7e798b49-c273-4d00-8dd4-ed4b7d786852"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Väliskomisjoni 26.06.2025 istungi protokoll",
+      "uuid": "1c4b5836-5fe0-4135-9e97-7799374187fa",
+      "files": [
+        "Väliskomisjoni_26.06.2025_istungi_protokoll.asice",
+        "VÄLK_protokoll_26.06.2025.docx",
+        "komisjoni_asendus_(26.06).docx",
+        "komisjoni_asendus_(26.06).asice"
+      ]
+    }
+  ],
+  "uuid": "dcd7bdf6-df11-4c29-a447-619ff2a94d8f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid dcd7bdf6-df11-4c29-a447-619ff2a94d8f)",
+  "source": "https://api.riigikogu.ee/api/volumes/dcd7bdf6-df11-4c29-a447-619ff2a94d8f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-06-01&endDate=2025-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
