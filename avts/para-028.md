@@ -30,6 +30,8 @@
 
 14) riikliku järelevalve, haldusjärelevalve ja teenistusliku järelevalve käigus tehtud ettekirjutused ning otsused nende jõustumisest alates;
 
+14¹) konkurentsijärelevalvemenetluses tehtud jõustunud otsuse, millega tuvastatakse keelatud teo toimepanemine, kohustatakse see lõpetama või kiidetakse heaks kohustuse võtmine;
+
 15) ministeeriumides valminud seaduste ja Vabariigi Valitsuse määruste eelnõud koos seletuskirjadega nende kooskõlastamiseks saatmisel ja Vabariigi Valitsusele esitamisel;
 
 16) ministri ja kohaliku omavalitsuse organite määruste eelnõud koos seletuskirjadega enne nende vastuvõtmiseks esitamist;

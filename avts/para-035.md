@@ -6,6 +6,8 @@
 
 2) riikliku järelevalve, haldusjärelevalve ja teenistusliku järelevalve menetluse käigus kogutud teabe kuni selle kohta tehtud otsuse jõustumiseni;
 
+2¹) konkurentsijärelevalvemenetluse käigus kogutud teabe kuni selle kohta tehtud otsuse jõustumiseni;
+
 3) teabe, mille avalikuks tulek kahjustaks riigi välissuhtlemist;
 
 3¹) teabe sisejulgeoleku tagamise, riigikaitsepoliitika kujundamise, riigikaitse korraldamise, sealhulgas riigi sõjalise kaitse planeerimise, ettevalmistamise ja juhtimise, või riigisaladuse ja salastatud välisteabe kaitse korraldamisega tegeleva teabevaldaja struktuuriüksuse ülesannete ja koosseisu, ametniku ja töötaja ning tema ülesannete kohta, kui sellise teabe avalikuks tulek ohustaks riigi julgeolekut või riigisaladuse ja salastatud välisteabe kaitset;
