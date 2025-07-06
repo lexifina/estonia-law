@@ -8,7 +8,7 @@
 
 (2) Agressioonikuritegu, genotsiidikuritegu, inimsusevastane kuritegu, sõjakuritegu ja kuritegu, mille eest on ette nähtud eluaegne vangistus, ei aegu.
 
-(3) Väärtegu on aegunud, kui selle lõpuleviimisest kuni selle kohta tehtud otsuse jõustumiseni on möödunud kaks aastat, kui seadus ei näe selle eest ette kuni viieaastast aegumistähtaega.
+(3) Väärtegu on aegunud, kui selle lõpuleviimisest kuni selle kohta tehtud otsuse jõustumiseni on möödunud kaks aastat.
 
 (4) Jätkuva süüteo korral arvutatakse aegumise tähtaega viimase teo lõpuleviimisest. Vältava süüteo korral arvutatakse aegumise tähtaega vältava teo lõppemisest.
 

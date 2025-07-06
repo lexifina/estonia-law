@@ -1,6 +1,6 @@
 # § 50. Sõiduki juhtimise õiguse äravõtmine
 
-(1) Kui käesolevas seadustikus või muus seaduses ei ole sätestatud teisiti, võib mootor-, õhu- või veesõiduki, samuti trammi või raudteeveeremi ohutu liiklemise või käituseeskirjade rikkumisega seotud süüteo eest lisakaristusena kohaldada sõiduki juhtimise õiguse äravõtmist:
+(1) Mootor-, õhu- või veesõiduki, samuti trammi või raudteeveeremi ohutu liiklemise või käituseeskirjade rikkumisega seotud süüteo eest võib lisakaristusena kohaldada sõiduki juhtimise õiguse äravõtmist:
 
 1) kuriteo korral kuni kolmeks aastaks kohtu poolt;
 
