@@ -1,0 +1,3 @@
+# § 30⁹. Enne käesoleva paragrahvi jõustumist algatatud riigi eriplaneeringute ja kohaliku omavalitsuse eriplaneeringute menetlemine
+
+Enne käesoleva paragrahvi jõustumist algatatud riigi eriplaneeringute ja kohaliku omavalitsuse eriplaneeringute menetlusele kohaldatakse planeerimisseaduse redaktsiooni, mis jõustus samal ajal käesoleva paragrahviga. Koostamisel oleva riigi eriplaneeringu ja kohaliku omavalitsuse eriplaneeringu asukoha eelvaliku juba läbitud menetlust ei korrata, välja arvatud, kui avaliku väljapaneku ja avaliku arutelu tulemuste alusel tehtud muudatused muudavad riigi või kohaliku omavalitsuse eriplaneeringu asukoha eelvaliku põhilahendusi või toovad kaasa vajaduse keskkonnamõju strateegilise hindamise esimese etapi aruannet oluliselt muuta.

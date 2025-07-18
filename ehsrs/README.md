@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/130122024007> (version in force from 2025-01-01)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/108072025050> (version in force from 2025-07-18)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -48,6 +48,9 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/130122024007> (version in force 
 | [§ 30⁵](para-030b5.md) | Planeerimisseaduse § 131 lõike 2¹ rakendamine |
 | [§ 30⁶](para-030b6.md) | Planeerimisseaduse § 27¹, § 95 lõike 8² ning § 95¹ rakendamine |
 | [§ 30⁷](para-030b7.md) | Enne käesoleva paragrahvi jõustumist algatatud kohaliku omavalitsuse üksuse eriplaneeringute menetlemine |
+| [§ 30⁸](para-030b8.md) | Planeerimisseaduse § 27 lõike 7¹ ja § 55 lõike 5 rakendamine |
+| [§ 30⁹](para-030b9.md) | Enne käesoleva paragrahvi jõustumist algatatud riigi eriplaneeringute ja kohaliku omavalitsuse eriplaneeringute menetlemine |
+| [§ 30¹⁰](para-030b10.md) | Enne 2025. aasta 1. jaanuari heakskiitmiseks esitatud planeeringute heakskiitmine |
 | [§ 31](para-031.md) |  |
 | [§ 73](para-073.md) |  |
 | [§ 74](para-074.md) | Seaduste jõustumine |
