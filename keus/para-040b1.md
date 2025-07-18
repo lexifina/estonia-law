@@ -4,7 +4,7 @@
 
 1) lihtsustada keskkonnakomplekslubade, keskkonnalubade, kiirgustegevuslubade, üldgeoloogilise uurimistöö lubade ja geoloogilise uuringu lubade taotlemist ja menetlemist, loaga seotud seire-, aruandlus- ja muude kohustuste täitmist ning kogutud andmete säilitamist, kasutamist ja kättesaadavust;
 
-1¹) lihtsustada atmosfääriõhu kaitse seaduse, jäätmeseaduse, tööstusheite seaduse ja veeseaduse alusel tehtavate registreeringute taotlemist ja menetlemist ning nendega seotud aruandluskohustuste täitmist ning kogutud andmete säilitamist, kasutamist ja kättesaadavust;
+1¹) lihtsustada atmosfääriõhu kaitse seaduse, jäätmeseaduse, kiirgusseaduse, tööstusheite seaduse ja veeseaduse alusel tehtavate registreeringute taotlemist ja menetlemist ning nendega seotud aruandluskohustuste täitmist ning kogutud andmete säilitamist, kasutamist ja kättesaadavust;
 
 2) kiirgusallikate ja tuumamaterjali ohutuse ning füüsilise kaitse tagamine;
 
