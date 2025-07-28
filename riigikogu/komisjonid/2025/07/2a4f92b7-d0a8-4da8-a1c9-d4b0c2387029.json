@@ -1,0 +1,43 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 28.07.2025 kell 11.00",
+  "sitting_time": "2025-07-28T11:00:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade sigade Aafrika katku leviku hetkeseisust ning meetmetest taudi leviku tõkestamisel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "767c0d74-9009-4616-aa29-9f945c265f74"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "53d62659-62b2-485d-9c7f-efbc92610571"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 28.07.2025",
+      "uuid": "04329fb4-aa85-46b4-88d0-3d99e0c5df28",
+      "files": [
+        "MAEK_protokoll_28.07.2025.asice",
+        "121_protokolli_lisa_2_EJS_SAK.pdf",
+        "121_protokolli_lisa_3_ETSAÜ_Eesti_seakasvatuse_jatkusuutlikkuse_tagamine.pdf",
+        "121_MAEK_protokoll_28.07.2025.pdf",
+        "121_protokolli_lisa_1_PTA_Sigade_Aafrika_katku_leviku_hetkeseis_RK_280725.pdf"
+      ]
+    }
+  ],
+  "uuid": "2a4f92b7-d0a8-4da8-a1c9-d4b0c2387029",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2a4f92b7-d0a8-4da8-a1c9-d4b0c2387029)",
+  "source": "https://api.riigikogu.ee/api/volumes/2a4f92b7-d0a8-4da8-a1c9-d4b0c2387029",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-07-01&endDate=2025-07-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
