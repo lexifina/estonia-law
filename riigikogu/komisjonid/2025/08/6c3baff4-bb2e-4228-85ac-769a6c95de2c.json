@@ -1,0 +1,53 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung teisipäev, 5.08.2025 kell 10.30",
+  "sitting_time": "2025-08-05T10:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "11cd9b55-1eda-424b-8a8d-7579b299739b"
+    },
+    {
+      "order": 2,
+      "title": "Arvamuse andmine Euroopa Liidu asjade komisjonile: Eesti seisukohad avaliku konsultatsiooni kohta, mis käsitleb üldist majandushuvi pakkuvate teenuste (taskukohased eluasemed) riigiabieeskirjade läbivaatamist",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3f39aa75-55d6-4906-b3ee-e01b5009851e"
+    },
+    {
+      "order": 3,
+      "title": "Rail Balticu projekti Eesti osa vahearuande tutvustus ja ülevaade projekti hetkeseisust",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "66d3817d-e623-422b-ab5b-287f31b790bd"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "45d125df-a422-4113-96fd-02a517edffd9"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAJK protokoll nr 139 05.08.2025",
+      "uuid": "0b0929a0-a76a-4590-afac-9768a219b912",
+      "files": [
+        "Riigikogu_majanduskomisjon_05.08.2025.pdf",
+        "MAJK_protokoll_nr_139_05.08.2025.pdf",
+        "MAJK_protokoll_nr_139_05.08.2025.asice"
+      ]
+    }
+  ],
+  "uuid": "6c3baff4-bb2e-4228-85ac-769a6c95de2c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 6c3baff4-bb2e-4228-85ac-769a6c95de2c)",
+  "source": "https://api.riigikogu.ee/api/volumes/6c3baff4-bb2e-4228-85ac-769a6c95de2c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-08-01&endDate=2025-08-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
