@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni erakoraline istung esmaspäev, 18.08.2025 kell 10.15",
+  "sitting_time": "2025-08-18T10:15:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Olukord Ukrainas",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5ed499d2-5a77-42eb-a560-e43d61388ebb"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7ae94051-1417-489f-9ee9-358ab47c88b4"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 18.08.2025",
+      "uuid": "19ce163c-1166-421d-8cfa-c002fe197856",
+      "files": [
+        "VÄLK_protokoll_18.08.2025.asice",
+        "VÄLK_protokoll_18.08.2025.pdf"
+      ]
+    }
+  ],
+  "uuid": "00357dae-7383-4902-bb8c-234a7beac6a0",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 00357dae-7383-4902-bb8c-234a7beac6a0)",
+  "source": "https://api.riigikogu.ee/api/volumes/00357dae-7383-4902-bb8c-234a7beac6a0",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-08-01&endDate=2025-08-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
