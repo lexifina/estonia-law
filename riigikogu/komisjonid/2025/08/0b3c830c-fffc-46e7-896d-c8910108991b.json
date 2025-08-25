@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni erakorraline istung esmaspäev, 25.08.2025",
+  "sitting_time": "2025-08-25T13:00:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Sagedusreservide turu toimimine ja kulud",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "44c70de9-09a2-4edc-9c19-b267db2c464d"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "08ae8b9c-573a-49c1-bbf1-f83a3b3960d3"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 25.08.25",
+      "uuid": "d7ef2dbf-65a6-4002-bbde-f23e3dc9edc3",
+      "files": [
+        "REKK_protokoll_25.08.25.asice",
+        "Volikiri_25.08.25.pdf",
+        "Protokoll_nr_115__25.08.25.pdf"
+      ]
+    }
+  ],
+  "uuid": "0b3c830c-fffc-46e7-896d-c8910108991b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0b3c830c-fffc-46e7-896d-c8910108991b)",
+  "source": "https://api.riigikogu.ee/api/volumes/0b3c830c-fffc-46e7-896d-c8910108991b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-08-01&endDate=2025-08-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
