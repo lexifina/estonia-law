@@ -1,0 +1,48 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung esmaspäev, 25.08.2025 kell 11.00",
+  "sitting_time": "2025-08-25T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 28.-29. augustil 2025 toimuval Euroopa Liidu kaitseministrite mitteametlikul kohtumisel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8913aea8-7eea-48c4-a729-45a80d0b9e3c"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad 29.-30. augustil 2025 toimuval Euroopa Liidu välisministrite mitteametlikul kohtumisel (Gymnich)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7f567bca-7354-4495-843e-6569fbe889f2"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "320cff1f-4290-473a-900a-709feb6c27c2"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 25.08.2025",
+      "uuid": "4f00e585-b0d1-4d4a-bfec-bd6cd6972647",
+      "files": [
+        "asendus_VK_25.08.2025.docx",
+        "VÄLK_protokoll_25.08.2025.asice",
+        "Asendusliikme_volikiri.asice",
+        "VÄLK_protokoll_25.08.2025.pdf"
+      ]
+    }
+  ],
+  "uuid": "b878077a-6977-49b4-b633-f7e2b008c360",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b878077a-6977-49b4-b633-f7e2b008c360)",
+  "source": "https://api.riigikogu.ee/api/volumes/b878077a-6977-49b4-b633-f7e2b008c360",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-08-01&endDate=2025-08-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
