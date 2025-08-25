@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung esmaspäev, 25.08.2025 kell 11.00",
+  "sitting_time": "2025-08-25T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "64f31308-549d-418e-b7f0-25f36de8e323"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud atmosfääriõhu kaitse seaduse muutmise seaduse eelnõu (667 SE) teise lugemise ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "31e80a06-b1a8-4c0c-a306-eb1a540e69be"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ba4c165c-2095-43df-9e98-aaf357df1075"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK protokoll 25.08.2025",
+      "uuid": "e9f1f098-9b58-4462-adf6-47cc174c7478",
+      "files": [
+        "KEKK_protokoll_25.08.2025.pdf",
+        "KEKK_protokoll_25.08.2025.asice",
+        "Asendusliikme_volikiri_(Karilaid).pdf"
+      ]
+    }
+  ],
+  "uuid": "bdef75dd-a9f5-4417-8b60-8e4130407e27",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid bdef75dd-a9f5-4417-8b60-8e4130407e27)",
+  "source": "https://api.riigikogu.ee/api/volumes/bdef75dd-a9f5-4417-8b60-8e4130407e27",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-08-01&endDate=2025-08-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
