@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Rahanduskomisjoni ja majanduskomisjoni ühine istung kolmapäev, 27.08.2025 kell 10.00",
+  "sitting_time": "2025-08-27T10:00:00",
+  "sitting_type": "UHISISTUNG",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7eb496ef-cc2f-4b94-97ef-94d928a3ea09"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade Rahandusministeeriumi 2025.aasta suvisest majandusprognoosist",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d80356d3-a35d-4792-a4c7-9efd262b4dd7"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "20a0726c-ffd7-4c70-bf9f-ab5e3c9a1c0c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 27.08.2025",
+      "uuid": "7dc2f0f8-9d26-4816-aa28-9e39a493a160",
+      "files": [
+        "Protokoll_27.08.2025.asice",
+        "RAHK_ja_MAJK_ühise_istungi_protokoll_71_27.08.2025.pdf",
+        "RAM_2025._aasta_suvine_majandusprognoos_27.08.2025.pdf"
+      ]
+    }
+  ],
+  "uuid": "4fb3c293-15b2-45d2-afbc-84891c945a11",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 4fb3c293-15b2-45d2-afbc-84891c945a11)",
+  "source": "https://api.riigikogu.ee/api/volumes/4fb3c293-15b2-45d2-afbc-84891c945a11",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-08-01&endDate=2025-08-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
