@@ -8,13 +8,17 @@
 
 3) kui loa alusel lubatud tegevust ei alustata kahe aasta jooksul loa andmisest arvates.
 
-(2) Keskkonnaloa andja võib keskkonnaloa kehtetuks tunnistada:
+(2) Keskkonnaloa andja võib keskkonnaloa kehtetuks tunnistada, kui:
 
-1) käesoleva seaduse §-s 59 sätestatud alustel, kui avalikku või kolmanda isiku huvi ei ole võimalik tõhusalt kaitsta loa muutmisega;
+1) keskkonnaloa omaja ei ole taotlenud käesoleva seaduse § 59 lõike 1 punktis 1 viidatud andmete muutmist ning avalikku või kolmanda isiku huvi ei ole võimalik tõhusalt kaitsta loa muutmisega;
 
-2) kui loa omaja ei täida loaga või õigusaktiga sätestatud nõudeid ja loa kehtetuks tunnistamist nõuab oluline avalik huvi või loa omajat on sellise rikkumise eest karistatud;
+2) käesoleva seaduse § 59 lõike 1 punktis 2 nimetatud tingimustel selgub, et keskkonnaloaga lubatud tegevusega kaasneb keskkonnaoht või oluline keskkonnahäiring ning huvi jätta keskkonnaluba kehtetuks tunnistamata ei ole ülekaalukas ja avalikku või kolmanda isiku huvi ei ole võimalik tõhusalt kaitsta loa muutmisega;
 
-3) kui loa omaja on esitanud teadvalt valeandmeid, mis mõjutasid keskkonnaloa andmise otsustamist.
+3) keskkonnaloa andjal oleks olnud õigus jätta keskkonnaluba välja andmata käesoleva seaduse § 59 lõike 1 punktis 3 nimetatud asjaolude tõttu ning avalikku või kolmanda isiku huvi ei ole võimalik tõhusalt kaitsta loa muutmisega;
+
+4) loa omaja ei täida loas või õigusaktis sätestatud nõudeid ja luba tuleb kehtetuks tunnistada olulise avaliku huvi tõttu või loa omajat on karistatud karistusseadustikus sätestatud keskkonnavastase süüteo eest ning tema karistusandmed ei ole karistusregistrist karistusregistri seaduse kohaselt kustutatud;
+
+5) loa omaja on esitanud teadvalt valeandmeid, mis mõjutasid keskkonnaloa andmise otsustamist.
 
 (3) Keskkonnaloa kehtetuks tunnistamisel ei ole haldusmenetluse seaduse § 67 lõike 4 punkt 2 kohaldatav.
 

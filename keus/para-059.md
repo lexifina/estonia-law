@@ -14,9 +14,17 @@
 
 3) käesoleva seaduse § 53 lõike 1 punktides 5–11 nimetatud tingimuse aluseks olnud õigusnorm on kaotanud kehtivuse;
 
-4) muutub loa omaja keskkonnaloa alusel toimuv tegevus, kasutatav tehnoloogia või muutuvad seadmed.
+4) muutub loa omaja keskkonnaloa alusel toimuv tegevus, kasutatav tehnoloogia või muutuvad seadmed;
+
+5) õigusaktid on muutunud viisil, mis mõjutab loas kindlaksmääratud tingimusi ja toob kaasa vajaduse muuta tingimusi või määrata lisatingimused;
+
+6) seire, uuringute või muude meetodite rakendamise järel on ilmnenud asjaolud, mis viitavad vajadusele muuta loa tingimusi, et tagada nende vastavus keskkonnanõuetele, või leevendada loaga kehtestatud tingimusi.
+
+(2¹) Kui keskkonnaloa tingimuste muutmiseks on loa andjal vaja küsida lisaandmeid, teeb ta loa omajale kirjalikult teatavaks loa tingimuste muutmise põhjuse ning võib nõuda loa muutmiseks vajalike andmete esitamist keskkonnaotsuste infosüsteemi kaudu loa muutmise taotlusena või määrab andmete esitamise muu viisi ning andmete esitamise tähtaja.
 
 (3) Keskkonnaloa muutmisel ei ole haldusmenetluse seaduse § 67 lõike 4 punkt 2 kohaldatav.
+
+(3¹) Kui keskkonnaloa omaja kavandab käitise toimimisviisis muudatust, mille tõttu tema tegevus ei vasta enam loas kindlaksmääratud tingimustele või toob kaasa vajaduse määrata loas lisatingimused, esitab ta enne sellise tegevuse alustamist loa andjale keskkonnaotsuste infosüsteemi kaudu andmed loa muutmise taotlusena.
 
 (4) Keskkonnaloa muutmise taotluse vaatab keskkonnaloa andja läbi keskkonnaloa andmiseks sätestatud korras. Käesoleva paragrahvi lõike 1 punktis 1 sätestatud juhul muudetakse keskkonnaluba seitsme päeva jooksul taotluse saamisest arvates.
 

@@ -34,12 +34,30 @@
 
 (5) Käesoleva paragrahvi lõikes 1 nimetatud ruumiobjektide kohta, mille piire ei kehtestata, kogub andmeid Eesti looduse infosüsteemi vastutav või volitatud töötleja.
 
-(6) Eesti looduse infosüsteemi andmed avalikustatakse käesolevas seaduses sätestatud korras keskkonnaportaali kaudu.
+(6) Eesti looduse infosüsteemi andmed, välja arvatud isikuandmed, avalikustatakse käesolevas seaduses sätestatud korras keskkonnaportaali kaudu.
 
 (7) Käesolevas peatükis sätestatud ruumiandmete töötlemisele kohaldatakse ruumiandmete seadust.
 
 (8) Eesti looduse infosüsteemi kogutud keskkonnateavet säilitatakse tähtajatult.
 
-(9) Eesti looduse infosüsteemi asutab ja selle põhimääruse kehtestab
+(8¹) Eesti looduse infosüsteemis töödeldakse infosüsteemi andmed esitanud isiku nime, isikukoodi ja kontaktandmeid.
 
-määrusega.
+(8²) Eesti looduse infosüsteemi andmed esitanud registreeritud kasutajate nime ja isikukoodi säilitatakse tähtajatult ning kontaktandmed kustutatakse kasutajaõiguste peatamise korral või üks aasta pärast viimast andmete andmekogusse esitamist.
+
+(8³) Eesti looduse infosüsteemi vastutav töötleja on Kliimaministeerium.
+
+(9) Eesti looduse infosüsteemi põhimääruse kehtestab
+
+määrusega, milles sätestatakse:
+
+1) andmekogu volitatud töötlejad ning vastutava ja volitatud töötleja ülesanded;
+
+2) täpsem andmekoosseis;
+
+3) andmeandjad, nendelt saadavad andmed ja andmete infosüsteemi kandmise kord;
+
+4) andmetele juurdepääsu ja andmete väljastamise kord;
+
+5) andmete säilitamise tähtajad ning andmete täpsem säilitamise kord;
+
+6) muud korraldusküsimused.

@@ -1,6 +1,6 @@
 # § 48. Keskkonnaloa taotluse ja selle kohta antava haldusakti eelnõu avalik väljapanek avatud menetluse korral
 
-(1) Keskkonnaloa taotluse ja selle kohta antava haldusakti eelnõu paneb loa andja avalikkusele tutvumiseks välja haldusmenetluse seaduse §-s 48 sätestatud korras kavandatava tegevuse asukoha järgse valla, linna või muu asula vähemalt ühes üldkasutatavas hoones või kohas, keskkonnaloa andja asukohas või kavandatava tegevuse asukohas. Loa andja määrab väljapaneku asukoha, arvestades kavandatava tegevuse keskkonnahäiringu võimalikku ulatust ja suurust.
+(1) Keskkonnaloa taotluse ja selle kohta antava haldusakti eelnõu paneb loa andja avalikkusele tutvumiseks välja haldusmenetluse seaduse §-s 48 sätestatud korras kavandatava tegevuse lähimas loa andja kontoris.
 
 (2) Keskkonnaloa taotluse kohta antava haldusakti eelnõu ei panda käesoleva paragrahvi lõikes 1 nimetatud korras avalikkusele tutvumiseks välja, kui kavandatud tegevusega kaasnev keskkonnahäiring või keskkonnarisk on nii väike, et selleks puudub piisav avalik huvi.
 

@@ -4,6 +4,8 @@
 
 1) keskkonnaloa taotlust ei ole esitanud isik, kes taotlusest nähtuvalt loaga lubataval tegevusalal tegutseb;
 
+1¹) taotlejat on karistatud keskkonnavastase kuriteo eest ühe korra või väärteo eest kaks või enam korda käesoleva seaduse § 41 lõikes 1 ja tööstusheite seaduse § 2 lõikes 1 nimetatud valdkonnas ning tema karistusandmed ei ole karistusregistrist karistusregistri seaduse kohaselt kustutatud;
+
 2) keskkonnaloa taotlejal ei ole tegevuskoha omaniku nõusolekut viimase omandis oleva kinnisasja kasutamiseks või taotletava tegevuse mõjualal asuva kinnisasja omaniku nõusolekut, kui seaduse kohaselt on mõjualal asuva kinnisasja omaniku nõusolek nõutav või taotletav tegevus kahjustab oluliselt mõjualal asuva kinnisasja omaniku huve;
 
 3) taotletavas tegevuses ei rakendata parimat võimalikku tehnikat, kui selle rakendamise nõue on sätestatud õigusaktiga;
@@ -18,7 +20,7 @@
 
 8) keskkonnaloa alusel kavandatava tegevusega kaasnevate heidete lisandumisel oleks keskkonna kvaliteedi piirväärtus ületatud. Erandina võib keskkonnaloa anda juhul, kui keskkonna kvaliteedi piirväärtus ületatakse, kuid üksnes kuni kuue kuu vältel ning huvi loa andmiseks kaalub üles keskkonnariski;
 
-9) keskkonnaloa alusel kavandatava tegevusega kaasnevate heidete lisandumisel tekkiv keskkonnahäiring tooks kaasa vajaduse keskkonna kvaliteedi piirväärtuse järgimiseks edaspidi keelduda keskkonnaloa väljastamisest teisele isikule ning avalik huvi keskkonnahäiringu vältimiseks mitte anda taotletud luba on kaalukam kui huvi taotletava keskkonnaloa andmiseks;
+9) keskkonnaloa alusel kavandatava tegevusega kaasnevate heidete lisandumisel tekkiv keskkonnahäiring tooks kaasa vajaduse keskkonna kvaliteedi piirväärtuse järgimiseks edaspidi keelduda keskkonnaloa andmisest teisele isikule ning avalik huvi keskkonnahäiringu vältimiseks mitte anda taotletud luba on kaalukam kui huvi taotletava keskkonnaloa andmiseks;
 
 10) muul seadusega sätestatud alusel.
 

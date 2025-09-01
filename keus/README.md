@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/108072025025> (version in force from 2025-07-18)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/108072025068> (version in force from 2025-09-01)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -65,6 +65,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/108072025025> (version in force 
 | **5. peatükk Loamenetlus** | |
 | [§ 40](para-040.md) | Keskkonnakaitseload |
 | [§ 40¹](para-040b1.md) | Keskkonnaotsuste infosüsteem |
+| [§ 40²](para-040b2.md) | Keskkonnaotsuste infosüsteemis töödeldavad isikuandmed ja andmete säilitamise tähtaeg |
 | [§ 41](para-041.md) | Keskkonnaluba |
 | [§ 42](para-042.md) | Keskkonnaloa taotlus |
 | [§ 43](para-043.md) | Kohaliku omavalitsuse üksuse arvamus |
