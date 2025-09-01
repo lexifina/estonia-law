@@ -2,4 +2,4 @@
 
 (1) Kompleksluba antakse tähtajatult.
 
-(2) Kompleksloa võib anda tähtajaliselt, kui esinevad keskkonnakaitse seisukohalt põhjendatud asjaolud.
+(2) Kompleksloa võib anda tähtajaliselt keskkonnaseadustiku üldosa seaduse § 53 lõike 2 punktis 1 sätestatud juhul.

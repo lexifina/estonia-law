@@ -1,6 +1,6 @@
 # § 59. Kohustus säilitada dokumente ja esitada teavet
 
-(1) Käitaja peab kompleksloa kehtivuse ajal ja vähemalt viis aastat pärast kompleksloa kehtetuks tunnistamist säilitama kõik talle kuuluvad kompleksloa taotlemisega, kompleksloa andmisega, kompleksloaga määratud seirega ning nõuete täitmise kontrollimisega seotud dokumendid ja andmed.
+(1) Käitaja peab säilitama kõiki talle kuuluvaid kompleksloa taotlemise ja andmise, kompleksloaga määratud seire ning nõuete täitmise kontrollimisega seotud dokumente ja andmeid viis aastat alates nende tekkimisest.
 
 (2) Käesoleva paragrahvi lõikes 1 nimetatud dokumendid peavad olema kättesaadavad loa andja nõudmisel.
 

@@ -10,11 +10,13 @@
 
 4) käitise asukoha kirjeldus, asukoha kaart ja käitise asendiplaan;
 
-5) käitises kasutatavate seadmete ja tehnoloogia vastavus parimale võimalikule tehnikale ning viide kohaldatavatele PVT-järeldustele või heite vältimise või vähendamise meetmed ja tehnika;
+5) käitises kasutatavate seadmete ja tehnoloogia vastavus parimale võimalikule tehnikale ning viide kohaldatavatele PVT-järeldustele või nende puudumisel PVT-viitedokumentidele;
 
 6) toorme, abimaterjalide, pooltoodete ja kemikaalide, samuti energia, kütuste, vee ja puhastusainete kasutamise ja tootmise maht ja säilitamise tingimused ning säästliku kasutamise või taaskasutamise meetmed;
 
-7) käitise heiteallikad, heite vältimiseks või vähendamiseks kavandatavad meetmed ja tehnika, heite piirväärtused või heite piirväärtuste asemel määratavad võrdväärsed parameetrid või tehnilised meetmed ilma konkreetse tehnika või tehnoloogia kasutamise nõuet määramata;
+7) käitise heiteallikad, heite vältimiseks või vähendamiseks kavandatavad meetmed ja tehnika, heite piirväärtused käesoleva seaduse §-s 46 nimetatud asjakohaste ainete kohta või heite piirväärtuste asemel määratavad võrdväärsed parameetrid või tehnilised meetmed ilma konkreetse tehnika või tehnoloogia kasutamise nõuet määramata;
+
+7¹) heite piirväärtustele vastavuse hindamise tingimused;
 
 8) välisõhus leviva lõhna, müra ja vibratsiooni allikad, tase ja mõju ning nende vältimise või vähendamise meetmed võimaliku olulise või vähendamist vajava ebasoodsa mõju korral keskkonnale;
 

@@ -22,7 +22,7 @@
 
 9) pinnatöötlus või -viimistlus orgaaniliste lahustite abil;
 
-10) vineeri ja puitkiudplaatide tootmine;
+10) puitkiudplaatide tootmine;
 
 11) grafiidi ja elektrografiidi tootmine põletamise või grafiidistamise teel;
 

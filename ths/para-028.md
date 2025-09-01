@@ -2,7 +2,7 @@
 
 (1) Kompleksloa taotlus sisaldab keskkonnaseadustiku üldosa seaduse § 42 lõigetes 1 ja 3, atmosfääriõhu kaitse seaduse § 91 lõikes 2, jäätmeseaduse § 78 lõikes 1 ja veeseaduse § 190 lõikes 1 sätestatud andmeid ning lisasid.
 
-(3) Taotluse lisades peavad olema andmed, mis on loetletud käesoleva seaduse § 41 lõike 2 punktides 1–16.
+(3) Taotlusele lisatakse andmed, mis on loetletud käesoleva seaduse § 41 lõike 2 punktides 1–17.
 
 (4) Kui kavandatava käitise tegevust arvestades ei ole kõiki käesoleva paragrahvi lõikes 3 viidatud andmeid vaja esitada, lisab taotleja kirjaliku lühiselgituse puuduvate andmete esitamata jätmise kohta.
 

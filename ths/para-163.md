@@ -1,6 +1,6 @@
 # § 163. Avariist teatamata jätmine
 
-(1) Avariist, mis võib oluliselt mõjutada keskkonda, õigel ajal teatamata jätmise eest –
+(1) Avariist, mis võib oluliselt mõjutada keskkonda, viivitamata teatamata jätmise eest –
 
 karistatakse rahatrahviga kuni 200 trahviühikut.
 

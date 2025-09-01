@@ -5,5 +5,3 @@
 (2) Kui vähemalt ühes kompleksluba nõudvas käitise tegevusvaldkonnas ületab tegevus käesoleva seaduse § 19 lõike 3 alusel kehtestatud alltegevusvaldkonna künnisvõimsuse, on kompleksluba nõutav käitise kui terviku käitamiseks.
 
 (3) Kui käitaja tegutseb samas käitises või samas tegevuskohas mitmes käesoleva seaduse § 19 lõikes 2 nimetatud tegevusvaldkonnas, tuleb kompleksloa kohustuslikkuse üle otsustades käitise samasse alltegevusvaldkonda kuuluvate tegevuste tootmisvõimsused liita.
-
-(4) Käitaja taotluse alusel võib kompleksloa anda ka käitisele või selle osale, mille jaoks ei ole kompleksluba käesoleva seaduse kohaselt nõutav.

@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/105012024005> (version in force from 2024-01-15)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/108072025069> (version in force from 2025-09-01)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -222,6 +222,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/105012024005> (version in force 
 | **8. peatükk Vastutus** | |
 | [§ 162](para-162.md) | Kompleksloa kohustuse ja kompleksloa nõuete rikkumine |
 | [§ 163](para-163.md) | Avariist teatamata jätmine |
+| [§ 163¹](para-163b1.md) | Käitise tegevuse kavandatavast muutmisest ja laiendamisest teatamata jätmine |
 | [§ 164](para-164.md) | Menetlus |
 | **9. peatükk Rakendussätted** | |
 | **1. jagu Seaduse rakendamine** | |
@@ -231,6 +232,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/105012024005> (version in force 
 | [§ 168](para-168.md) | Heite piirväärtuse ja väävliärastuse astme nõuete järgimata jätmine väikese eraldatud võrgu korral |
 | [§ 169](para-169.md) | Heite piirväärtuse ja väävliärastuse astme nõuete järgimata jätmine kaugküttekäitiste korral |
 | [§ 169¹](para-169b1.md) | Kompleksloa tähtajalisuse kohaldamine |
+| [§ 169²](para-169b2.md) | Kompleksloa vormistamine keskkonnaloaks |
 | **2. jagu Muudatused teistes õigusaktides** | |
 | [§ 170](para-170.md) |  |
 | [§ 176](para-176.md) |  |
