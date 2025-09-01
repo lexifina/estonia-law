@@ -1,6 +1,6 @@
 # § 10. Õppe läbiviimise õiguse taotlemine õppe avamisel uues õppekavarühmas
 
-(1) Õppe läbiviimise õiguse saamiseks uues õppekavarühmas, välja arvatud isikuarengu õppekavarühmas, esitab kool taotluse Haridus- ja Teadusministeeriumile hiljemalt kuus kuud enne õppetöö kavandatavat algust. Munitsipaalkool kooskõlastab taotluse enne selle esitamist kooli pidajaga.
+(1) Õppe läbiviimise õiguse saamiseks uues õppekavarühmas esitab kool taotluse Haridus- ja Teadusministeeriumile hiljemalt kuus kuud enne õppetöö kavandatavat algust. Munitsipaalkool kooskõlastab taotluse enne selle esitamist kooli pidajaga.
 
 (2) Taotlusele lisatakse järgmised dokumendid:
 

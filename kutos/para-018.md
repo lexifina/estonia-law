@@ -16,7 +16,7 @@
 
 5) nimetab esindaja direktori vabale ametikohale korraldatava konkursi läbiviimiseks moodustatava konkursikomisjoni koosseisu;
 
-7) kooskõlastab koolituskohtade arvu kalendriaastaks õppevaldkonnas, õppekavarühmas või õppekaval, sealhulgas nende koolituskohtade arvu, mille õppekulusid ei hüvitata.
+7) kooskõlastab koolituskohtade arvu kalendriaastaks õppevaldkonnas, õppekavarühmas või õppekaval, sealhulgas nende käesoleva seaduse § 47¹ lõikes 3 nimetatud koolituskohtade arvu, mille õppekulusid riik ei hüvita.
 
 (4) Nõunike kogu esindajal on õigus osa võtta kooli nõukogu istungitest.
 

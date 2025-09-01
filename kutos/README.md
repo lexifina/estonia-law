@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/126042024008> (version in force from 2024-09-01)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/123122024003> (version in force from 2025-09-01)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -36,6 +36,9 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/126042024008> (version in force 
 | **5. peatükk Kutseharidusstandard, kutseõppe liigitus ja õppekavad** | |
 | [§ 22](para-022.md) | Kutseharidusstandard |
 | [§ 23](para-023.md) | Kutseõppe liigid |
+| [§ 23¹](para-023b1.md) | Ettevalmistav õpe |
+| [§ 23²](para-023b2.md) | Ettevalmistava õppe läbiviimine |
+| [§ 23³](para-023b3.md) | Ettevalmistava õppe korraldus |
 | [§ 24](para-024.md) | Õppekavad |
 | **6. peatükk Õppekorraldus** | |
 | [§ 25](para-025.md) | Kooli vastuvõtt |
@@ -45,6 +48,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/126042024008> (version in force 
 | [§ 29](para-029.md) | Õppekeel |
 | [§ 30](para-030.md) | Praktika |
 | [§ 31](para-031.md) | Hindamine |
+| [§ 31¹](para-031b1.md) | Õpilase arengu ja õppimise toetamine |
 | [§ 32](para-032.md) | Õppekorralduse erisused |
 | [§ 33](para-033.md) | Õppe erisused ühisõppekava korral |
 | [§ 34](para-034.md) | Õpingute lõpetamine |
@@ -66,11 +70,12 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/126042024008> (version in force 
 | [§ 46](para-046.md) | Muu koolitustellimus |
 | **9. peatükk Rahastamine** | |
 | [§ 47](para-047.md) | Kooli eelarve ja rahastamine |
+| [§ 47¹](para-047b1.md) | Kutseõppe tasuline tasemeõpe |
 | [§ 48](para-048.md) | Koolilõuna kulude katmise toetamine |
 | **10. peatükk Kooli ümberkorraldamine, pidamise erisused ja üleandmine ning tegevuse lõpetamine** | |
 | [§ 49](para-049.md) | Kooli ümberkorraldamine ja tegevuse lõpetamine |
 | [§ 50](para-050.md) | Kooli pidamise üleandmine |
-| [§ 51](para-051.md) | Kutseõppeasutuse ja üldhariduskooli tegutsemine ühe asutusena |
+| [§ 51](para-051.md) | Kutsehariduse ja üldhariduse pakkumine ühes asutuses |
 | **11. peatükk Haldusjärelevalve** | |
 | [§ 52](para-052.md) | Haldusjärelevalve teostamine |
 | [§ 53](para-053.md) | Haldusjärelevalvet teostava ametiisiku ülesanded |
@@ -83,10 +88,12 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/126042024008> (version in force 
 | [§ 57¹](para-057b1.md) | Eesti keele oskuse nõude kvalifikatsiooninõudena kohaldamine õpetajatele ja tugispetsialistidele |
 | [§ 58](para-058.md) | Üleminek õppe läbiviimise õigusele |
 | [§ 59](para-059.md) | Üleminek uutele kutseõppe õppekavadele |
+| [§ 59¹](para-059b1.md) | Üleminek kutsevaliku õppekavalt ettevalmistavale õppele |
 | [§ 60](para-060.md) | Üleminek uutele õppevormidele |
 | [§ 61](para-061.md) | Üleminek arvestuspunktile |
 | [§ 62](para-062.md) | Üleminek uutele õppekasvatusala töötajate kvalifikatsiooninõuetele |
 | [§ 63](para-063.md) | Kooli rahastamisega seotud üleminek |
+| [§ 63¹](para-063b1.md) | Tasulise kutseõppe rakendamine |
 | [§ 64](para-064.md) |  |
 | [§ 87](para-087.md) |  |
 | [§ 88](para-088.md) | Seaduse jõustumine |

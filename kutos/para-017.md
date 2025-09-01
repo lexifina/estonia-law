@@ -38,7 +38,7 @@
 
 11) kinnitab kooli õpilasesinduse põhikirja;
 
-11¹) kinnitab koolituskohtade arvu kalendriaastaks õppevaldkonnas, õppekavarühmas või õppekaval, sealhulgas nende koolituskohtade arvu, mille õppekulusid ei hüvitata;
+11¹) kinnitab koolituskohtade arvu kalendriaastaks õppevaldkonnas, õppekavarühmas või õppekaval, sealhulgas nende käesoleva seaduse § 47¹ lõikes 3 nimetatud koolituskohtade arvu, mille õppekulusid riik ei hüvita;
 
 13) lahendab teisi küsimusi, mis õigusaktide ja kooli põhimääruse alusel kuuluvad tema pädevusse.
 

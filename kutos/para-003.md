@@ -16,7 +16,7 @@
 
 3) teeb õpetatavates valdkondades pedagoogilist, metoodilist ja tehnoloogilist arendustööd;
 
-4) tagab õppe kättesaadavuse, luues paindlikud õppimisvõimalused erinevatele sihtrühmadele;
+4) tagab õppe kättesaadavuse ja ligipääsetavuse, luues paindlikud õppimisvõimalused erinevatele sihtrühmadele;
 
 5) loob tingimused õpilaste toitlustamiseks ja majutamiseks ning toetab asjaomaste teenuste kättesaadavust;
 

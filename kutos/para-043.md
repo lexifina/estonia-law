@@ -18,7 +18,7 @@
 
 5) saada õpilaspilet;
 
-6) saada toetusi ja õppelaenu õppetoetuste ja õppelaenu seadusega sätestatud tingimustel ja korras;
+6) saada toetusi ja õppelaenu õppetoetuste ja õppelaenu seadusega sätestatud tingimustel ja korras, välja arvatud ettevalmistava õppe õpilane;
 
 7) saada toetust koolilõuna kulude katmiseks käesoleva seadusega sätestatud tingimustel ja korras;
 
@@ -26,7 +26,7 @@
 
 9) saada akadeemilist puhkust;
 
-10) saada õppimise toetamiseks tasuta tugiteenuseid;
+10) saada õppimise toetamiseks tugiteenuseid ja -meetmeid;
 
 11) pöörduda tervislikel põhjustel õppetöö ajal tervishoiuteenuse osutaja poole;
 

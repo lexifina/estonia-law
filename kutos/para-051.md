@@ -1,17 +1,19 @@
-# § 51. Kutseõppeasutuse ja üldhariduskooli tegutsemine ühe asutusena
+# § 51. Kutsehariduse ja üldhariduse pakkumine ühes asutuses
 
-(1) Kutseõppeasutus ning põhikooli- ja gümnaasiumiseaduses sätestatud gümnaasium võivad tegutseda ühe asutusena. Põhikooli- ja gümnaasiumiseaduses sätestatud juhul võib kutseõppeasutusega ühe asutusena tegutseva gümnaasiumiga olla liidetud ka põhikool.
+(1) Kooli pidaja otsusega võib kool pakkuda lisaks kutseharidusele ka üldkeskharidust, kui koolis toimub õpe ka kutsekeskhariduse õppekava alusel.
 
-(2) Ühe asutusena tegutseva kutseõppeasutuse ja gümnaasiumi puhul kohaldatakse kutseõppeasutuse osa suhtes käesolevas seaduses sätestatut ning gümnaasiumiosa suhtes põhikooli- ja gümnaasiumiseaduses sätestatut.
+(2) Kooli pidaja otsusega võib kool pakkuda põhiharidust mittestatsionaarses ja käesoleva paragrahvi lõikes 3 nimetatud juhul ka statsionaarses õppevormis põhikooli- ja gümnaasiumiseaduse §-s 22 sätestatud korras.
 
-(3) Ühe asutusena tegutseva kutseõppeasutuse ja gümnaasiumi põhimäärus ja arengukava peavad lisaks käesolevas seaduses sätestatud andmetele sisaldama gümnaasiumiosa kohta ka põhikooli- ja gümnaasiumiseaduses sätestatud kohustuslikke andmeid. Põhimäärus ja arengukava kinnitatakse käesolevas seaduses sätestatud korras.
+(3) Koolis, kus toimub kutseõpe muusika ja esituskunstide õppekavarühmas, võib pakkuda üldharidusõpet, moodustades õppegruppe muusika alal alates põhikooli esimesest klassist ja koreograafia alal alates neljandast klassist.
 
-(4) Ühe asutusena tegutseval kutseõppeasutusel ja gümnaasiumil on hoolekogu, mille moodustamise ja tegevuse suhtes kohaldatakse põhikooli- ja gümnaasiumiseadust, ning nõunike kogu, mille moodustamise ja tegevuse suhtes kohaldatakse käesolevat seadust.
+(4) Käesoleva paragrahvi lõigetes 1 ja 2 nimetatud viisil tegutsevas koolis kohaldatakse üldharidusõppe õppekoormusele, hindamisele, õppekavadele, toetustele, koolivaheaegadele, kooli lõpetamise tingimustele ning õpilase õigustele ja kohustustele põhikooli- ja gümnaasiumiseaduses sätestatut, muus osas kohaldatakse käesolevat seadust.
 
-(5) Ühe asutusena tegutseva kutseõppeasutuse ja gümnaasiumi gümnaasiumiosal on õppenõukogu, mis tegutseb põhikooli- ja gümnaasiumiseaduse alusel.
+(5) Käesoleva paragrahvi lõigetes 1 ja 2 nimetatud viisil tegutseva kooli põhimäärus ja arengukava peavad lisaks käesolevas seaduses sätestatud andmetele sisaldama üldharidusõppe kohta ka põhikooli- ja gümnaasiumiseaduse §-des 66 ja 67 sätestatud kohustuslikke andmeid. Põhimäärus ja arengukava kinnitatakse käesolevas seaduses sätestatud korras.
 
-(6) Ühe asutusena tegutsevas kutseõppeasutuses ja gümnaasiumis moodustatakse nõukogu, mille moodustamise ja pädevuse suhtes kohaldatakse käesolevat seadust.
+(6) Käesoleva paragrahvi lõigetes 1 ja 2 nimetatud viisil tegutsevas koolis on hoolekogu, mille moodustamise ja tegevuse suhtes kohaldatakse põhikooli- ja gümnaasiumiseadust, ning nõunike kogu, mille moodustamise ja tegevuse suhtes kohaldatakse käesolevat seadust.
 
-(7) Ühe asutusena tegutseva kutseõppeasutuse ja gümnaasiumi direktori vaba ametikoha täitmisel lähtutakse käesolevas seaduses sätestatust. Ühe asutusena tegutseva kutseõppeasutuse ja gümnaasiumi direktoril on käesolevast seadusest ning põhikooli- ja gümnaasiumiseadusest tulenev pädevus.
+(7) Käesoleva paragrahvi lõigetes 1 ja 2 nimetatud viisil tegutsevas koolis on õppenõukogu, mis tegutseb põhikooli- ja gümnaasiumiseaduse alusel.
 
-(8) Kutseõppeasutuse ja gümnaasiumi liitmisel ning ühe asutusena tegutseva kutseõppeasutuse ja gümnaasiumi ümberkorraldamisel, pidamise üleandmisel ja tegevuse lõpetamisel kohaldatakse põhikooli- ja gümnaasiumiseaduses sätestatut.
+(8) Käesoleva paragrahvi lõigetes 1 ja 2 nimetatud viisil tegutsevas koolis on nõukogu, mille moodustamise ja pädevuse suhtes kohaldatakse käesolevat seadust.
+
+(9) Käesoleva paragrahvi lõigetes 1 ja 2 nimetatud viisil tegutseva kooli direktori vaba ametikoha täitmisel lähtutakse käesolevas seaduses sätestatust. Käesoleva paragrahvi lõikes 1 nimetatud viisil tegutseva kooli direktoril on käesolevast seadusest ning põhikooli- ja gümnaasiumiseadusest tulenev pädevus.

@@ -6,7 +6,7 @@ määrusega, kinnitades selles järgmised ühtsed nõuded kutseõppele:
 
 1) kutseõppe õpiväljundid, sealhulgas võtmepädevuste alal, ja nende seos Eesti kvalifikatsiooniraamistikuga;
 
-2) õppekava ning õppe ülesanded ja nõuded, sealhulgas õppe maht, õpingute alustamise ja lõpetamise nõuded, võtmepädevuste õppe struktuur ja mahud ning ühisõppekava ja kutsevaliku õppekava erisused;
+2) õppekava ning õppe ülesanded ja nõuded, sealhulgas õppe maht, õpingute alustamise ja lõpetamise nõuded, võtmepädevuste õppe struktuur ja mahud ning ühisõppekava;
 
 3) õppekava muutmise põhimõtted;
 

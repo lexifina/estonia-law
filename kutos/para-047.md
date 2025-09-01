@@ -32,7 +32,7 @@ määrusega.
 
 2) kooli ülesannetest ja riigi vajadustest lähtuvad kutseõppe läbiviimisega seotud kohustused;
 
-3) riigieelarvest rahastatavate hariduslike erivajadustega õpilaste ja kinnipidamisasutuses korraldatava kutseõppe koolituskohtade arv.
+3) riigieelarvest rahastatavate koolituskohtade arv, sealhulgas hariduslike erivajadustega õpilaste ja kinnipidamisasutuses korraldatava kutseõppe koolituskohtade arv, ning õppekavarühmad või õppekavad, mille alusel õppivalt õpilaselt ei ole koolil õigust tasu nõuda.
 
 (11) Munitsipaal- ja erakooli pidajale riigieelarvest tegevustoetuse ja vajaduse korral sihtotstarbelise toetuse eraldamine ning kooli kohustused kutseõppe korraldamisel lepitakse kokku kooli pidaja ja ministeeriumi vahel sõlmitava halduslepinguga, milles sätestatakse muu hulgas:
 
@@ -40,14 +40,12 @@ määrusega.
 
 2) riigi vajadustest lähtuvad kutseõppe läbiviimisega seotud ülesanded ja kohustused;
 
-3) riigieelarvest rahastatavate koolituskohtade arv, sealhulgas vajaduse korral eraldi hariduslike erivajadustega õpilaste ja kinnipidamisasutuses korraldatava kutseõppe koolituskohtade arv;
+3) riigieelarvest rahastatavate koolituskohtade arv, sealhulgas vajaduse korral eraldi hariduslike erivajadustega õpilaste ja kinnipidamisasutuses korraldatava kutseõppe koolituskohtade arv, ning õppekavarühmad või õppekavad, mille alusel õppivalt õpilaselt ei ole koolil õigust tasu nõuda;
 
 4) vajaduse korral muude vahendite määramise tingimused ja kord.
 
 (12) Käesoleva paragrahvi lõike 10 punktis 2 ja lõike 11 punktis 2 nimetatud ülesannete ja kohustuste määramisel koostöös sotsiaalpartneritega lähtutakse tööturu vajadustest, registreeritud kutse- ja erialaliitude ettepanekutest, riigi strateegilistest ja valdkondlikest arengukavadest, uuringutest ja prognoosidest ning väljakujunenud koolivõrgust.
 
-(13) Koolil on õigus nõuda õppekulude hüvitamist nõukogu kehtestatud tingimustel ja korras õpilaselt, kes ei õpi käesoleva paragrahvi lõike 8 alusel moodustatud koolituskohal. Õppekulude hüvitamise määra kehtestab nõukogu vähemalt neli kuud enne õppeaasta algust. Nõukogu võib õppekulude hüvitamise määra kehtestamisel tõsta määra kuni kümme protsenti võrreldes eelmise õppeaastaga.
-
-(14) Sisekaitselise rakenduskõrgkooli kutseõppe finantseerimise alused, tingimused ja korra kehtestab
+(14) Sisekaitselise rakenduskõrgkooli kutseõppe finantseerimise alused, tingimused ja korra ning õppekavarühmad ja õppekavad, mille alusel õppivalt õpilaselt ei ole õigust tasu nõuda, kehtestab
 
 määrusega.

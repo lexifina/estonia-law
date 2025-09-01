@@ -19,3 +19,5 @@
 (5) Kooli pidaja tagab tegevuse lõpetanud kooli õpilastele võimaluse õpinguid jätkata.
 
 (6) Kui koolil ei ole enam üheski õppekavarühmas õppe läbiviimise õigust, algatab kooli pidaja kooli tegevuse lõpetamise.
+
+(7) Kui kutseõppeasutus ja gümnaasium liidetakse või kool, kus pakutakse nii kutseõpet kui ka üldharidusõpet, korraldatakse ümber, selle pidamine antakse üle või tegevus lõpetatakse, kohaldatakse põhikooli- ja gümnaasiumiseaduses sätestatut.
