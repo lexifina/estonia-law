@@ -30,6 +30,6 @@ määrusega.
 
 1) meediateenust osutavale teabevaldajale;
 
-2) koolidele ja koolieelsetele lasteasutustele, välja arvatud üldinfo, sealhulgas vastuvõtuinfo, asukoha ja kontaktandmete avaldamisel;
+2) koolidele, lasteaedadele ja lastehoidudele, välja arvatud üldinfo, sealhulgas vastuvõtuinfo, asukoha ja kontaktandmete avaldamisel;
 
 3) käesoleva seaduse § 5 lõikes 3 nimetatud teabevaldajaga võrdsustatud isikule.
