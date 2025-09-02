@@ -1,0 +1,43 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung teisipäev, 2.09.2025 kell 11.00",
+  "sitting_time": "2025-09-02T11:00:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "2025. aasta riigi kulud ja tulud",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "474c94fa-9424-487e-a1e0-c4c009006fcd"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "00b63aea-9846-400f-ac9d-f9e5cd85f61c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 02.09.25",
+      "uuid": "734679a0-d261-47f7-bf63-0add50f64a45",
+      "files": [
+        "REKK_protokoll_02.09.25.asice",
+        "komisjoni_asendus_(02.09).docx",
+        "Volikiri_02.09.25.asice",
+        "2025pos_muutuse_selgitused_RAHK.docx",
+        "Protokoll_nr_116_02.09.25.pdf"
+      ]
+    }
+  ],
+  "uuid": "918c72ae-842b-4cbe-bc3d-c33375be0072",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 918c72ae-842b-4cbe-bc3d-c33375be0072)",
+  "source": "https://api.riigikogu.ee/api/volumes/918c72ae-842b-4cbe-bc3d-c33375be0072",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-09-01&endDate=2025-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
