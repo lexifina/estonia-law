@@ -1,0 +1,56 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung kolmapäev, 3.09.2025 kell 11.00",
+  "sitting_time": "2025-09-03T11:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e8859658-6b12-49bf-ac4a-2552ce4766f6"
+    },
+    {
+      "order": 2,
+      "title": "Rahandusministeeriumi ülevaade avaliku sektori personali- ja palgaandmetest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cbbdbaf5-30aa-439c-a31c-840b11fed3cb"
+    },
+    {
+      "order": 3,
+      "title": "Põhiseaduslike instutsioonide 2026. aasta eelarvetaotlused: Presidendi Kantselei,  Riigikogu Kantselei, Riigikohus ja Riigikontroll",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4191eb27-e696-430f-836b-60cc3f9b647d"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1af64154-79af-4543-a45c-a881347c76ea"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 03.09.2025",
+      "uuid": "610fbb96-e9ce-420e-851d-d710727e2d9d",
+      "files": [
+        "Asendusliikme_volikiri_A._Sõerd-_K.E._Vaga_03.09.2025.pdf",
+        "Riigikogu_valitsemisala_RES_2026-2029_03.09.2025.pdf",
+        "Riigikohus_2026+_kokkuvõtvad_kommentaarid.pdf",
+        "RAHK_protokoll_03.09.2025.asice",
+        "RAHK_protokoll_nr_166_03.09.2025.pdf",
+        "Riigikontrolli_eelarve_slaidid_RAHK_03.09.2025.pdf"
+      ]
+    }
+  ],
+  "uuid": "fa3deea4-cdde-41e3-b8db-eaac9968ccc5",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid fa3deea4-cdde-41e3-b8db-eaac9968ccc5)",
+  "source": "https://api.riigikogu.ee/api/volumes/fa3deea4-cdde-41e3-b8db-eaac9968ccc5",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-09-01&endDate=2025-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
