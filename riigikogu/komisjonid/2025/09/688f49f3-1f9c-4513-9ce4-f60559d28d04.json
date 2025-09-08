@@ -1,0 +1,54 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung esmaspäev, 8.09.2025 kell 13.30",
+  "sitting_time": "2025-09-08T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "80e7dfc2-7751-48d2-8638-e3801d8f774b"
+    },
+    {
+      "order": 2,
+      "title": "Seisukoha andmine: Avalik konsultatsioon, mis käsitleb Euroopa Komisjoni algatust, mille eesmärk on aidata kaasa ettevõtete sõiduparkide üleminekul nullheitega sõidukitele",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "761088fd-0aa8-4fec-8214-6636e9f5d74e"
+    },
+    {
+      "order": 3,
+      "title": "Eesti Euroopa Liidu poliitika prioriteedid 2025–2027",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "778f8619-0cd6-436a-8ad9-8cb8cc2e00ae"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "df783254-3e7c-4380-bd9a-d564602734fb"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ELAK protokoll 08.09.2025",
+      "uuid": "679087c6-0eb6-49ec-b9d7-11ca84efc3c2",
+      "files": [
+        "ELPOL_2025-2027.pdf",
+        "ELAK_protokoll_08.09.2025.pdf",
+        "Asendusliikme_volikiri_R.Solman_-_M._Maastik_08.09.2025.PDF",
+        "ELAK_protokoll_08.09.2025.asice"
+      ]
+    }
+  ],
+  "uuid": "688f49f3-1f9c-4513-9ce4-f60559d28d04",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 688f49f3-1f9c-4513-9ce4-f60559d28d04)",
+  "source": "https://api.riigikogu.ee/api/volumes/688f49f3-1f9c-4513-9ce4-f60559d28d04",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-09-01&endDate=2025-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
