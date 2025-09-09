@@ -1,0 +1,53 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung teisipäev, 9.09.2025 kell 14.00",
+  "sitting_time": "2025-09-09T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Arvamuse andmine riigikaitsekomisjonile VV algatatud tsiviilkriisi ja riigikaitse seaduse eelnõu 668 SE kohta",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ca4631da-2b16-4d3c-b441-b6cf4f2abd32"
+    },
+    {
+      "order": 2,
+      "title": "Justiits- ja digiministeeriumi koostatud väljatöötamiskavatsuse „Keskse teabe edastuse ja dokumentide kättetoimetamise tõhustamise lahendus“ tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "248d09a5-8eec-4a73-9922-66c921106738"
+    },
+    {
+      "order": 3,
+      "title": "Justiits- ja digiministeeriumi koostatud väljatöötamiskavatsuse „Perekonnaseaduse, tsiviilkohtumenetluse seadustiku ja tsiviilseadustiku üldosa eelnõu (eestkoste seadmise muudatused)\" tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4f9f0ffc-1b4b-42bc-a495-84f147cf4df0"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1c27f441-2e95-472a-bcd9-8a92abead160"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ÕIGK protokoll 09.09.2025",
+      "uuid": "5e48bcc8-5480-4533-927b-c221054ea575",
+      "files": [
+        "Riigikogu_õiguskomisjoni_istungi_protokoll_nr_88.pdf",
+        "ÕIGK_protokoll_09.09.2025.asice",
+        "(Lisa_1)_Keskse_teabe_edastuse_ja_dokumentide_kättetoimetamise_VTK_esitlus_26.05.25.pptx"
+      ]
+    }
+  ],
+  "uuid": "8cd5c98a-c4d8-4be9-ac77-f43baffc7394",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8cd5c98a-c4d8-4be9-ac77-f43baffc7394)",
+  "source": "https://api.riigikogu.ee/api/volumes/8cd5c98a-c4d8-4be9-ac77-f43baffc7394",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-09-01&endDate=2025-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
