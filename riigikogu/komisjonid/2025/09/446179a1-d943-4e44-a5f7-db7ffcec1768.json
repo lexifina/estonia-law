@@ -1,0 +1,35 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni väljasõiduistung teisipäev, 9.09.2025 kell 13.00",
+  "sitting_time": "2025-09-09T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Riigimetsa Majandamise Keskuse juhtkonnaga",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9607affb-5142-4470-b98b-32569aab78ea"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK protokoll 09.09.2025",
+      "uuid": "f861f787-073c-436d-82db-d78213d546a6",
+      "files": [
+        "KEKK_protokoll_09.09.2025.asice",
+        "2025-09-09_kohtumine_RMK_KEKK.pdf",
+        "KEKK_protokoll_nr_118_09.09.2025.pdf"
+      ]
+    }
+  ],
+  "uuid": "446179a1-d943-4e44-a5f7-db7ffcec1768",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 446179a1-d943-4e44-a5f7-db7ffcec1768)",
+  "source": "https://api.riigikogu.ee/api/volumes/446179a1-d943-4e44-a5f7-db7ffcec1768",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-09-01&endDate=2025-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
