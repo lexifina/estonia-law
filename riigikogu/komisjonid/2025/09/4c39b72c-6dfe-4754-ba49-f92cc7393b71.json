@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Väliskomisjoni väljasõiduistung Välisluureametis teisipäev, 9.09.2025",
+  "sitting_time": "2025-09-09T14:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade julgeolekuolukorra arengutest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "04d7d911-bfa8-45a3-a83e-a207f89adc37"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9b955a63-443d-4086-9c44-c43f28fd6959"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 09.09.2025",
+      "uuid": "79df5368-f3da-42cd-857b-bb78ef14b05c",
+      "files": [
+        "VÄLK_protokoll_09.09.2025.asice",
+        "VALK_protokoll_20250909.pdf"
+      ]
+    }
+  ],
+  "uuid": "4c39b72c-6dfe-4754-ba49-f92cc7393b71",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 4c39b72c-6dfe-4754-ba49-f92cc7393b71)",
+  "source": "https://api.riigikogu.ee/api/volumes/4c39b72c-6dfe-4754-ba49-f92cc7393b71",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-09-01&endDate=2025-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
