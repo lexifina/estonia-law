@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Korruptsioonivastane erikomisjon",
+  "committee_uuid": "e4f2977a-e8c3-4fa0-8f3d-9df9acd6377f",
+  "title": "Komisjoni istung esmaspäev, 15.09.2025 kell 13.15",
+  "sitting_time": "2025-09-15T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "12ac1bf5-453f-461c-9176-75fb7af84f0b"
+    },
+    {
+      "order": 2,
+      "title": "Enefit Green AS ülevõtmispakkumise käigus ilmnenud siseteabe tunnuste kriminaalmenetlemisest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bde30c53-49a1-4fcc-ba0b-210a74701221"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1bb4d333-2d96-4a09-af9e-ef542477dc93"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KVEK protokoll 71 (15.09.2025)",
+      "uuid": "fe8db85c-9b34-4f6e-8df8-609ddac31b01",
+      "files": [
+        "KVEK_protokoll_71_(15.09.2025).asice",
+        "KVEK_protokoll_71_(15.09.2025).pdf"
+      ]
+    }
+  ],
+  "uuid": "31d03bb8-236a-44b7-9373-e7db24f17cc2",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 31d03bb8-236a-44b7-9373-e7db24f17cc2)",
+  "source": "https://api.riigikogu.ee/api/volumes/31d03bb8-236a-44b7-9373-e7db24f17cc2",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-09-01&endDate=2025-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
