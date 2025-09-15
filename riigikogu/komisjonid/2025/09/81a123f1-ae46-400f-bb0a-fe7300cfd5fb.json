@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 15.09.2025 kell 13.15",
+  "sitting_time": "2025-09-15T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8e22fa81-cc3c-42b5-ad1f-dff75e0197f4"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli kontrolliaruande „Riigi 2024. aasta raamatupidamise aastaaruande õigsus ja tehingute seaduslikkus“ arutelu ja „2025. aasta riigi kulud ja tulud“ jätkuarutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "af750e65-c11d-4937-a252-15aeaea18e3c"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "69ce53ec-b826-43d0-a16e-133c1f63e376"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 15.09.25",
+      "uuid": "4a9dccc4-308d-48d3-bc49-32687b07d48d",
+      "files": [
+        "REKK_protokoll_15.09.25.asice",
+        "RMKA_2024_ettekanne_REKK_15.9_up.pptx",
+        "Protokoll_nr_118_15.09.25.pdf"
+      ]
+    }
+  ],
+  "uuid": "81a123f1-ae46-400f-bb0a-fe7300cfd5fb",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 81a123f1-ae46-400f-bb0a-fe7300cfd5fb)",
+  "source": "https://api.riigikogu.ee/api/volumes/81a123f1-ae46-400f-bb0a-fe7300cfd5fb",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-09-01&endDate=2025-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
