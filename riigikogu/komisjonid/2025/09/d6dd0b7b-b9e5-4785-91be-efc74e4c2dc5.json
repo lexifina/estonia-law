@@ -1,0 +1,53 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 15.09.2025 kell 11.10",
+  "sitting_time": "2025-09-15T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c2ad7f21-3b04-4603-b773-354de51d4033"
+    },
+    {
+      "order": 2,
+      "title": "Regionaal- ja põllumajandusministri ettekande „Riigi pikaajalise arengustrateegia „Eesti 2035“ elluviimisest“ teeside tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f24f02fe-2a6d-4a59-8b70-a3b82708ba12"
+    },
+    {
+      "order": 3,
+      "title": "Regionaal- ja põllumajandusministri ülevaade 2026. aasta riigieelarve ning 2026–2029 riigi eelarvestrateegia läbirääkimistest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "03ae322c-fac3-4898-b33b-ef081d8ae454"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "126b5058-7b58-4583-9ebe-1e0b4804d475"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 15.09.2025",
+      "uuid": "db9a1572-6bf6-4716-bcbb-70465d334a49",
+      "files": [
+        "124_protokolli_lisa_RES_EE2035_15.09.2025.pdf",
+        "MAEK_protokoll_15.09.2025.asice",
+        "124_MAEK_protokoll_15.09.2025.pdf"
+      ]
+    }
+  ],
+  "uuid": "d6dd0b7b-b9e5-4785-91be-efc74e4c2dc5",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d6dd0b7b-b9e5-4785-91be-efc74e4c2dc5)",
+  "source": "https://api.riigikogu.ee/api/volumes/d6dd0b7b-b9e5-4785-91be-efc74e4c2dc5",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-09-01&endDate=2025-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
