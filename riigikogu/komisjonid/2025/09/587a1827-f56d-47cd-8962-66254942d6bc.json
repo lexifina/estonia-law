@@ -1,0 +1,48 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung esmaspäev, 15.09.2025 kell 11.10",
+  "sitting_time": "2025-09-15T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fb0a70bf-9087-4f84-8480-e84eb4394925"
+    },
+    {
+      "order": 2,
+      "title": "Vähiravi kättesaadavus Eestis - arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6fb0fbda-3b94-40a6-b927-5eb4be5608e6"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7c9ab700-7ec4-4e72-a203-1778c46b0f68"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "SOTK protokoll 15.09.2025",
+      "uuid": "512124e2-eed9-4de5-89bf-d1dfc3ac423c",
+      "files": [
+        "Lisa_2_(Tervisekassa_slaidid).pdf",
+        "Lisa_1_(SOM_slaidid).pdf",
+        "SOTK_protokoll_15.09.2025.asice",
+        "SOTK_protokoll_nr_132_(15.09.2025).pdf"
+      ]
+    }
+  ],
+  "uuid": "587a1827-f56d-47cd-8962-66254942d6bc",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 587a1827-f56d-47cd-8962-66254942d6bc)",
+  "source": "https://api.riigikogu.ee/api/volumes/587a1827-f56d-47cd-8962-66254942d6bc",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-09-01&endDate=2025-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
