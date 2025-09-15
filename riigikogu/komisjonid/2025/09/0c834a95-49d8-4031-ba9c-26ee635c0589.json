@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung esmaspäev, 15.09.2025 kell 11.10",
+  "sitting_time": "2025-09-15T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c2d6d07a-f895-47aa-99a8-61efcda43ce9"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade Kliimaministeeriumi 2025. a 2. poolaasta õigusloome plaanist taristuministri valitsemisalas",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b4657ff2-28f1-45ee-aa15-e32f6ce02a55"
+    },
+    {
+      "order": 3,
+      "title": "Jäätmeseaduse muutmise seaduse eelnõu (676 SE) esimese lugemise ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "965d8539-1d1d-4c16-a74f-e3e35f6f99b9"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2f7e9940-4bd6-4e6a-8322-ce146a640dbe"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK protokoll 15.09.2025",
+      "uuid": "7a0acdbb-407a-4ac0-a7b5-1e2ec57dcd88",
+      "files": [
+        "KEKK_protokoll_15.09.2025.asice",
+        "KEKK_protokoll_nr_119_15.09.2025.pdf"
+      ]
+    }
+  ],
+  "uuid": "0c834a95-49d8-4031-ba9c-26ee635c0589",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0c834a95-49d8-4031-ba9c-26ee635c0589)",
+  "source": "https://api.riigikogu.ee/api/volumes/0c834a95-49d8-4031-ba9c-26ee635c0589",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-09-01&endDate=2025-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
