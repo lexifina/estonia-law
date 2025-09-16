@@ -1,0 +1,48 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni avalik istung teisipäev, 16.09.2025 kell 14.15",
+  "sitting_time": "2025-09-16T14:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Töölepingu seaduse ja teiste seaduste muutmise seaduse eelnõu (602 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d4cb96b0-4682-40a7-9ac2-966663fa85e2"
+    },
+    {
+      "order": 2,
+      "title": "Kollektiivne pöördumine \"“STOPP” töölepingu seaduse muudatustele!\" (1-6/25-108/1)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d3a4da8c-be85-47b4-b126-8ecd956cbc26"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ea62be28-9161-49a1-8a39-03994edba310"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ÕIGK protokoll 16.09.2025",
+      "uuid": "75ecaad8-17f2-4b3e-841b-5df0c0e01d80",
+      "files": [
+        "(Lisa_1)_MKM_Õiguskomisjon_16.09.2025.pptx",
+        "Riigikogu_õiguskomisjoni_istungi_protokoll_nr_90.pdf",
+        "ÕIGK_protokoll_16.09.2025.asice",
+        "(Lisa_2)_STOPP_töölepingu_seaduse_muudatustele!.pdf"
+      ]
+    }
+  ],
+  "uuid": "6fd463d1-4558-4067-9619-fb3af297a0fe",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 6fd463d1-4558-4067-9619-fb3af297a0fe)",
+  "source": "https://api.riigikogu.ee/api/volumes/6fd463d1-4558-4067-9619-fb3af297a0fe",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-09-01&endDate=2025-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
