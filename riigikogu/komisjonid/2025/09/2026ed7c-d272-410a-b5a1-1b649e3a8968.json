@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung kolmapäev, 17.09.2025 kell 08.30",
+  "sitting_time": "2025-09-17T08:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Seakatkust tingitud olukord põllumajanduses ning selle mõju majandusele ja riigieelarvele",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "222e4123-688a-48ee-8d94-ca81445494d1"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "80c1f944-abb9-4201-8325-857a43f362f0"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 17.09.25",
+      "uuid": "05491e12-9232-4f5a-8cb5-b90d6d2d7ed4",
+      "files": [
+        "REKK_protokoll_17.09.25.asice",
+        "SAK_mõjud_17092025.pptx",
+        "Protokoll_nr_119_17.09.25.pdf"
+      ]
+    }
+  ],
+  "uuid": "2026ed7c-d272-410a-b5a1-1b649e3a8968",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2026ed7c-d272-410a-b5a1-1b649e3a8968)",
+  "source": "https://api.riigikogu.ee/api/volumes/2026ed7c-d272-410a-b5a1-1b649e3a8968",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-09-01&endDate=2025-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
