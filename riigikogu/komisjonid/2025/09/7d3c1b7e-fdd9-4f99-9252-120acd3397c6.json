@@ -1,0 +1,48 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 22.09.2025 kell 11.10",
+  "sitting_time": "2025-09-22T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4da7fe82-cf26-4f6e-a785-7eaf3199ac9e"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade Eesti põllumajandussektori konkurentsivõime uuringust ning Eesti ÜPP strateegiakava 2023–2027 ja Eesti biomajanduse arengustsenaariumide (aastani 2050) vastavuse analüüsist",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b1d1426e-ef09-4716-af97-ce60375cc740"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c438a7db-14fa-4e53-bdd6-d6df018d7e11"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 22.09.2025",
+      "uuid": "c4c1c24e-c12d-4497-9aba-981d3941b86c",
+      "files": [
+        "125_MAEK_protokoll_22.09.2025.pdf",
+        "125_protokolli_lisa_1_R._Värnik_pm_konkurentsivõime.pdf",
+        "MAEK_protokoll_22.09.2025.asice",
+        "125_protokolli_lisa_2_E.Terk.pdf"
+      ]
+    }
+  ],
+  "uuid": "7d3c1b7e-fdd9-4f99-9252-120acd3397c6",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7d3c1b7e-fdd9-4f99-9252-120acd3397c6)",
+  "source": "https://api.riigikogu.ee/api/volumes/7d3c1b7e-fdd9-4f99-9252-120acd3397c6",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-09-01&endDate=2025-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
