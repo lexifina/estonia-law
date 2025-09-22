@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 22.09.2025 kell 13.15",
+  "sitting_time": "2025-09-22T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b6528e05-2bfd-4169-af12-03f89729fe41"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli ülevaate „Erihoolekandeteenuste kättesaadavusest“ arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8a74f4fa-2c45-4da5-a4c6-dab087a04ba9"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a4411a5f-8527-4ae9-90f0-c389e4f89a8c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 22.09.25",
+      "uuid": "5a955010-b952-4f0c-bef5-94200087f197",
+      "files": [
+        "REKK_protokoll_22.09.25.asice",
+        "Erihoolekanne_22.09.2025.pptx",
+        "Protokoll_nr_120_22.09.25.pdf"
+      ]
+    }
+  ],
+  "uuid": "a183a78f-fe6a-4bcc-bb51-9fddccf77196",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a183a78f-fe6a-4bcc-bb51-9fddccf77196)",
+  "source": "https://api.riigikogu.ee/api/volumes/a183a78f-fe6a-4bcc-bb51-9fddccf77196",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-09-01&endDate=2025-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
