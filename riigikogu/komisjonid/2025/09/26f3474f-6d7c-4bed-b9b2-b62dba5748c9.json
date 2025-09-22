@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Korruptsioonivastane erikomisjon",
+  "committee_uuid": "e4f2977a-e8c3-4fa0-8f3d-9df9acd6377f",
+  "title": "Komisjoni istung esmaspäev, 22.09.2025 kell 13.15",
+  "sitting_time": "2025-09-22T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b4def139-01c6-40cd-b4b0-bb7ea6bb53d5"
+    },
+    {
+      "order": 2,
+      "title": "Huvide deklaratsioonide kontrollimine 2025.a",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bcfae618-e365-49c8-a26d-1016fdc871d6"
+    },
+    {
+      "order": 3,
+      "title": "Komisjoni plaanid 2025.a sügisesel istungijärgul",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d04f5671-87cd-4acb-9709-247b9fff372c"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "323679b5-3627-4e46-a738-a4394b773c27"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KVEK protokoll 72 (22.09.2025)",
+      "uuid": "9518a1f4-7e6a-4dcf-ac74-62887f3da0d4",
+      "files": [
+        "KVEK_protokoll_72_(22.09.2025).asice",
+        "KVEK_protokoll_72_(22.09.2025).pdf"
+      ]
+    }
+  ],
+  "uuid": "26f3474f-6d7c-4bed-b9b2-b62dba5748c9",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 26f3474f-6d7c-4bed-b9b2-b62dba5748c9)",
+  "source": "https://api.riigikogu.ee/api/volumes/26f3474f-6d7c-4bed-b9b2-b62dba5748c9",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-09-01&endDate=2025-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
