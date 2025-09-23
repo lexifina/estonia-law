@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung teisipäev, 23.09.2025 kell 14.00",
+  "sitting_time": "2025-09-23T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad Euroopa Komisjoni avaliku konsultatsiooni „28. režiim – ELi äriühingute suhtes kohaldatav õigusraamistik“ kohta   (1-2/25-644/1)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7d89d348-aa88-4613-9e50-b665c196ede7"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "041cd982-10bc-46cd-a97b-b0d6eea10101"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ÕIGK protokoll 23.09.2025",
+      "uuid": "28cd1c7c-b523-4fdc-9a46-3e043a2e27f0",
+      "files": [
+        "ÕIGK_protokoll_23.09.2025.asice",
+        "(Lisa_1)_25-01408-3.pdf",
+        "Riigikogu_õiguskomisjoni_istungi_protokoll_nr_92.pdf"
+      ]
+    }
+  ],
+  "uuid": "017d9559-100f-4307-af5a-4af4bf8073cb",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 017d9559-100f-4307-af5a-4af4bf8073cb)",
+  "source": "https://api.riigikogu.ee/api/volumes/017d9559-100f-4307-af5a-4af4bf8073cb",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-09-01&endDate=2025-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
