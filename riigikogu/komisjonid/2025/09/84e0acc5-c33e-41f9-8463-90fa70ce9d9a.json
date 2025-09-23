@@ -1,0 +1,48 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung teisipäev, 23.09.2025 kell 14.00",
+  "sitting_time": "2025-09-23T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine humanitaarorganisatsiooni Piirideta Arstid esindajatega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "efef6ded-2572-4aeb-9887-05479e8994d3"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade EL töö-, tervise- ja sotsiaalvaldkonna teemadest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "31a1fcb3-3d3a-4fdd-81d0-8677ce2ab2d5"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "13f7ad94-528e-473f-ace5-4cb29b2dde9c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "SOTK protokoll 23.09.2025",
+      "uuid": "c08628e6-33c4-4662-8996-55b9d2fe05b0",
+      "files": [
+        "Lisa_1_(SOMi_slaidid).pdf",
+        "SOTK_protokoll_23.09.2025.asice",
+        "Lisa_2_(MKMi_slaidid).pdf",
+        "SOTK_protokoll_nr_135_(23.09.2025).pdf"
+      ]
+    }
+  ],
+  "uuid": "84e0acc5-c33e-41f9-8463-90fa70ce9d9a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 84e0acc5-c33e-41f9-8463-90fa70ce9d9a)",
+  "source": "https://api.riigikogu.ee/api/volumes/84e0acc5-c33e-41f9-8463-90fa70ce9d9a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-09-01&endDate=2025-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
