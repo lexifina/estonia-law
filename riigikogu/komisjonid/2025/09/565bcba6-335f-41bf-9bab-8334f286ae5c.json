@@ -1,0 +1,42 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung kolmapäev, 24.09.2025 kell 08.30",
+  "sitting_time": "2025-09-24T08:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikontrolli ülevaate „Kasvuhoonegaaside heite vähendamine riigi osalusega äriühingutes“ arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c8cc43cb-0322-4be4-85ae-940c5cf639f4"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2afd7781-539b-40b4-9809-331dd3b15933"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 24.09.25",
+      "uuid": "f0f57cac-fa32-4144-a2f9-bebd637cc0f2",
+      "files": [
+        "REKK_protokoll_24.09.25.asice",
+        "RKAS_kliimaeesmärgid_24.09.25.pptx",
+        "213_KHG_vähendamine_riigi_äriühingutes.pptx",
+        "Protokoll_nr_121_24.09.25.pdf"
+      ]
+    }
+  ],
+  "uuid": "565bcba6-335f-41bf-9bab-8334f286ae5c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 565bcba6-335f-41bf-9bab-8334f286ae5c)",
+  "source": "https://api.riigikogu.ee/api/volumes/565bcba6-335f-41bf-9bab-8334f286ae5c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-09-01&endDate=2025-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
