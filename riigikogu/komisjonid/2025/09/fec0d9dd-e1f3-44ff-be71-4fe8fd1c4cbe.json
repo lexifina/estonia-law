@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung neljapäev, 25.09.2025 kell 13.15",
+  "sitting_time": "2025-09-25T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud 2026. aasta riigieelarve seaduse eelnõu (737 SE) esimeseks lugemiseks ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "af59b015-c2fc-4511-a750-22242de5ec6e"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e935a150-8b50-4847-87e0-5bd91d3d0dff"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 25.09.2025",
+      "uuid": "85bb4fc1-24b4-4fe3-9e61-6a31b5c59e61",
+      "files": [
+        "RAHK_protokoll_25.09.2025.asice",
+        "RAHK_protokoll_nr_173_25.09.2025.pdf"
+      ]
+    }
+  ],
+  "uuid": "fec0d9dd-e1f3-44ff-be71-4fe8fd1c4cbe",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid fec0d9dd-e1f3-44ff-be71-4fe8fd1c4cbe)",
+  "source": "https://api.riigikogu.ee/api/volumes/fec0d9dd-e1f3-44ff-be71-4fe8fd1c4cbe",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-09-01&endDate=2025-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
