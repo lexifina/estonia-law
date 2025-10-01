@@ -12,8 +12,12 @@
 
 - 3) töödeldavate isikuandmete põhjal ei muudeta andmesubjekti kohustuste mahtu ega kahjustata muul viisil ülemäära andmesubjekti õigusi.
 
-(4) Kui teadus- või ajaloouuring põhineb eriliiki isikuandmetel, siis kontrollib asjaomase valdkonna eetikakomitee enne käesolevas paragrahvis sätestatud tingimuste täitmist. Kui teadusvaldkonnas puudub eetikakomitee, siis kontrollib nõuete täitmist Andmekaitse Inspektsioon. Rahvusarhiivis säilitatavate isikuandmete suhtes on eetikakomitee õigused Rahvusarhiivil.
+(4) Kui teadus- või ajaloouuring põhineb eriliiki isikuandmetel, kontrollib seadusega või selle alusel moodustatud asjaomase valdkonna eetikakomitee enne uuringu tegemist käesolevas paragrahvis sätestatud tingimuste täitmist. Kui teadusvaldkonnas puudub eetikakomitee, kontrollib nõuete täitmist Andmekaitse Inspektsioon. Rahvusarhiivis säilitatavate isikuandmete suhtes on eetikakomitee õigused Rahvusarhiivil.
 
 (5) Käesoleva seaduse tähenduses loetakse teadusuuringuks ka täidesaatva riigivõimu analüüsid ja uuringud, mis tehakse poliitika kujundamise eesmärgil. Nende koostamiseks on täidesaatval riigivõimul õigus teha päringuid teise vastutava või volitatud töötleja andmekogusse ning töödelda saadud isikuandmeid. Andmekaitse Inspektsioon kontrollib enne nimetatud isikuandmete töötlemise algust käesolevas paragrahvis sätestatud tingimuste täitmist, välja arvatud juhul, kui poliitika kujundamiseks tehtava uuringu eesmärgid ja isikuandmete töötlemise ulatus tulenevad õigusaktist.
+
+(5¹) Kui seaduses ei ole sätestatud teisiti, ei kohaldata käesoleva paragrahvi lõikes 4 sätestatud eetikakomitee kontrolli kohustust lõikes 5 nimetatud täidesaatva riigivõimu analüüsidele ja uuringutele, mis tehakse poliitika kujundamise eesmärgil. Andmekaitse Inspektsioon võib konsulteerida teadus- ja arendustegevuse ning innovatsiooni korralduse seaduse §-s 26 nimetatud eetikakomiteega, kui Andmekaitse Inspektsiooni hinnangul vajab poliitika kujundamiseks tehtav uuring või analüüs eetilisuse hindamist.
+
+(5²) Kui Andmekaitse Inspektsioon konsulteerib käesoleva paragrahvi lõike 5¹ kohaselt eetikakomiteega, tasub eetikakomitee poolt konsultatsiooni eest küsitava tasu täidesaatva riigivõimu analüüside ja uuringute tellija.
 
 (6) Kui isikuandmeid töödeldakse teadus- või ajaloouuringu või riikliku statistika eesmärgil, võib vastutav või volitatud töötleja Euroopa Parlamendi ja nõukogu määruse (EL) 2016/679 artiklites 15, 16, 18 ja 21 sätestatud andmesubjekti õigusi piirata niivõrd, kuivõrd nende õiguste teostamine tõenäoliselt muudab võimatuks teadus- või ajaloouuringu või riikliku statistika eesmärgi saavutamise või takistab seda oluliselt.
