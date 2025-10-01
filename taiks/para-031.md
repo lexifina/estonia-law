@@ -1,0 +1,3 @@
+# § 31. Asutuse teadus- ja arendustegevuse toetuse baasrahastuse arvestamine aastatel 2026–2028
+
+Käesoleva seaduse §-s 21 sätestatud asutuse teadus- ja arendustegevuse toetuse baasrahastuse arvestamisel aastateks 2026–2028 võetakse aluseks teadus- ja arendusasutusele, ülikoolile või evalveeritud rakenduskõrgkoolile asutuse teadus- ja arendustegevuse toetuse määramise kalendriaastale eelneva kolme kalendriaasta jooksul eraldatud sama liiki toetus ja baasfinantseerimine osakaaluna samal perioodil teadus- ja arendusasutustele, ülikoolidele või evalveeritud rakenduskõrgkoolidele eraldatud asutuse teadus- ja arendustegevuse toetuse ja baasfinantseerimise kogumahust.
