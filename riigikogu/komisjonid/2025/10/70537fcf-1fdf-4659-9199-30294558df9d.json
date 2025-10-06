@@ -1,0 +1,54 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung esmaspäev, 6.10.2025 kell 11.15",
+  "sitting_time": "2025-10-06T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0aa421c7-6321-46d4-8334-23872e99a6c2"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud 2026. aasta riigieelarve seaduse eelnõu (737 SE) esimeseks lugemiseks ettevalmistamine. Osaleb kliimaminister Andres Sutt.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e152d098-9938-4100-8de2-a2e8114c9747"
+    },
+    {
+      "order": 3,
+      "title": "Vabariigi Valitsuse algatatud 2026. aasta riigieelarve seaduse eelnõu (737 SE) esimeseks lugemiseks ettevalmistamine. Osaleb justiits- ja digiminister Liisa-Ly Pakosta",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8517d8db-91f5-4be5-a076-d9d50d2e31c0"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a4eab5e8-2ca6-47c5-841f-d5f8b842679e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 06.10.2025",
+      "uuid": "2fac1056-631f-4501-a2ae-9d183d85743a",
+      "files": [
+        "RAHK_protokoll_06.10.2025.asice",
+        "RAHK_protokoll_176_06.10.2025.pdf",
+        "LL.Pakosta_ettekanne_2026_eelarvele_06.10.2025_lisa_2.pdf",
+        "A.Sutt_ettekanne_2026_eelarvele_06.10.2025_lisa_1.pdf"
+      ]
+    }
+  ],
+  "uuid": "70537fcf-1fdf-4659-9199-30294558df9d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 70537fcf-1fdf-4659-9199-30294558df9d)",
+  "source": "https://api.riigikogu.ee/api/volumes/70537fcf-1fdf-4659-9199-30294558df9d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-10-01&endDate=2025-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
