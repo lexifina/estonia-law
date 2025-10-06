@@ -1,0 +1,48 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung esmaspäev, 6.10.2025 kell 12.00",
+  "sitting_time": "2025-10-06T12:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7061e1c1-c5ff-4dc5-a1bb-08d511ce3a9a"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade Riigi eelarvestrateegia 2026–2029 ja 2026. aasta riigieelarve seaduse eelnõu (737 SE) Kliimaministeeriumi valitsemisalast",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e4784f0a-2dbf-4a41-81c0-7527af2d9e1d"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5dc70bde-23c0-4a65-84db-287ad0bd9166"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK protokoll 06.10.2025",
+      "uuid": "0882c483-0f01-4e2c-bca0-a5c4e7a6f8ea",
+      "files": [
+        "KEKK_protokoll_nr_123_06.10.2025.pdf",
+        "RE2026_esitlus_KLIM_taristuministerPuhas.pdf",
+        "RE2026_esitlus_KLIM_energeetika_ja_keskk.minister_06.10.25.pdf",
+        "KEKK_protokoll_06.10.2025.asice"
+      ]
+    }
+  ],
+  "uuid": "c793870a-f862-4af0-a253-1d8e7b98d832",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c793870a-f862-4af0-a253-1d8e7b98d832)",
+  "source": "https://api.riigikogu.ee/api/volumes/c793870a-f862-4af0-a253-1d8e7b98d832",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-10-01&endDate=2025-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
