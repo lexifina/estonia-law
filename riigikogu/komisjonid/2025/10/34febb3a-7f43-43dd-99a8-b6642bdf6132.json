@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung esmaspäev, 6.10.2025 kell 11.15",
+  "sitting_time": "2025-10-06T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "39bd3a07-5251-4b5c-96cc-ba09ebe7e673"
+    },
+    {
+      "order": 2,
+      "title": "Arvamus Riigikogu põhiseaduskomisjonile VV algatatud perekonnaseisutoimingute seaduse, rahvastikuregistri seaduse ja riigilõivuseaduse muutmise seaduse eelnõu (687 SE) kohta",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cf78b48b-a8c5-48bb-ab00-b1b2b08975a0"
+    },
+    {
+      "order": 3,
+      "title": "Nimeseaduse ja riigilõivuseaduse muutmise seaduse eelnõu (719 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "18e7fda1-5cbd-45b5-9c40-d10c99adc11c"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0aff4bc8-6fdf-4743-958b-328a4e7d2877"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ÕIGK protokoll 06.10.2025",
+      "uuid": "f5108794-0560-4064-bdef-a3d6c7f6355f",
+      "files": [
+        "ÕIGK_protokoll_06.10.2025.asice",
+        "Riigikogu_õiguskomisjoni_istungi_protokoll_nr_93.pdf"
+      ]
+    }
+  ],
+  "uuid": "34febb3a-7f43-43dd-99a8-b6642bdf6132",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 34febb3a-7f43-43dd-99a8-b6642bdf6132)",
+  "source": "https://api.riigikogu.ee/api/volumes/34febb3a-7f43-43dd-99a8-b6642bdf6132",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-10-01&endDate=2025-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
