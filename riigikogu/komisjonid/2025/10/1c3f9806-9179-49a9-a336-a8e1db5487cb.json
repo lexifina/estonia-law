@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Korruptsioonivastane erikomisjon",
+  "committee_uuid": "e4f2977a-e8c3-4fa0-8f3d-9df9acd6377f",
+  "title": "Komisjoni istung esmaspäev, 6.10.2025 kell 13.15",
+  "sitting_time": "2025-10-06T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "014bf4d3-65d7-46db-8f42-d26f4d4432fa"
+    },
+    {
+      "order": 2,
+      "title": "Tervisekassa ülesannete täitmise ja vahendite kasutamise läbipaistvus.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b1f3be04-b188-40ac-9eb7-a0f5ac3b0bab"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e673fae5-2a79-4d1a-9612-d46267838c33"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KVEK protokoll 73 (06.10.2025)",
+      "uuid": "0908697b-3412-4741-9e96-d3d0ced07ef8",
+      "files": [
+        "KVEK_protokoll_73_(06.10.2025).asice",
+        "KVEK_protokoll_73_(06.10.2025).pdf"
+      ]
+    }
+  ],
+  "uuid": "1c3f9806-9179-49a9-a336-a8e1db5487cb",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 1c3f9806-9179-49a9-a336-a8e1db5487cb)",
+  "source": "https://api.riigikogu.ee/api/volumes/1c3f9806-9179-49a9-a336-a8e1db5487cb",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-10-01&endDate=2025-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
