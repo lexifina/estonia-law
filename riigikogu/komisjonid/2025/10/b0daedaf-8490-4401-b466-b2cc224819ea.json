@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung kolmapäev, 8.10.2025 kell 08.30",
+  "sitting_time": "2025-10-08T08:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Energiamajanduse arengukava aastani 2035 ja mõju eelarvele",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "12436b38-768d-44bc-b8cf-65cadaddd359"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dfb97f0d-24a6-497b-956c-91497b5ce47b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 08.10.25",
+      "uuid": "5fdc1285-1ed7-4fb3-9398-ec64b12e45fc",
+      "files": [
+        "REKK_protokoll_08.10.25.asice",
+        "Protokoll_nr_123_08.10.25.pdf"
+      ]
+    }
+  ],
+  "uuid": "b0daedaf-8490-4401-b466-b2cc224819ea",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b0daedaf-8490-4401-b466-b2cc224819ea)",
+  "source": "https://api.riigikogu.ee/api/volumes/b0daedaf-8490-4401-b466-b2cc224819ea",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-10-01&endDate=2025-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
