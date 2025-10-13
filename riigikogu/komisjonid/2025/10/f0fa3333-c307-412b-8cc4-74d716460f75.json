@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung esmaspäev, 13.10.2025 kell 11.10",
+  "sitting_time": "2025-10-13T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c6b5b0d5-c14f-41d6-9023-443b1f6cc3ef"
+    },
+    {
+      "order": 2,
+      "title": "Arvamuse andmine majanduskomisjonile atmosfääriõhu kaitse seaduse ja teiste seaduste muutmise seaduse eelnõu (taastuvenergia direktiivi muudatuste ülevõtmine) (697 SE) kohta",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0202b51d-423f-42d4-a473-0bac567e44f5"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c95b814a-865f-42f5-b137-aca838812e1a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK protokoll 13.10.2025",
+      "uuid": "1dee7ed7-c07a-4af3-af7a-9f25eb4e7bc7",
+      "files": [
+        "KEKK_protokoll_nr_124_13.10.2025.pdf",
+        "SE_697_keskkonnakomisjon_13.10.2025.pptx",
+        "KEKK_protokoll_13.10.2025.asice"
+      ]
+    }
+  ],
+  "uuid": "f0fa3333-c307-412b-8cc4-74d716460f75",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f0fa3333-c307-412b-8cc4-74d716460f75)",
+  "source": "https://api.riigikogu.ee/api/volumes/f0fa3333-c307-412b-8cc4-74d716460f75",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-10-01&endDate=2025-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
