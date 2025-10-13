@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 13.10.2025 kell 13.15",
+  "sitting_time": "2025-10-13T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6de127f0-9d51-4da4-9f43-085599ce3384"
+    },
+    {
+      "order": 2,
+      "title": "Riigieelarve seaduse ja riigieelarve seaduse muutmise seaduse muutmise seadus (736 SE) arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5a5fcf8d-7e4c-44e8-8aef-569f5dc7a047"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f75ae277-ac14-4453-bdc4-3996978e14f7"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 13.10.25",
+      "uuid": "cf92c9fa-5dd3-4a8c-9f3f-7e4d942d79c6",
+      "files": [
+        "REKK_protokoll_13.10.25.asice",
+        "Baasseaduse_muutmine_REKK.pptx",
+        "Protokoll_nr_124_13.10.25.pdf"
+      ]
+    }
+  ],
+  "uuid": "c43a5a01-5ac1-406a-bb34-da50c004f58a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c43a5a01-5ac1-406a-bb34-da50c004f58a)",
+  "source": "https://api.riigikogu.ee/api/volumes/c43a5a01-5ac1-406a-bb34-da50c004f58a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-10-01&endDate=2025-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
