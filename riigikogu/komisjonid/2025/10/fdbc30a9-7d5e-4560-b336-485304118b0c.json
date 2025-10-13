@@ -1,0 +1,48 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 13.10.2025 kell 11.10",
+  "sitting_time": "2025-10-13T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d73c5c96-338a-4dad-be9c-5eb91324e888"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade regionaalsetest ettevõtlustoetustest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c2256534-66b9-48e6-9e8e-8bb97c301497"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "41b8c1bf-103f-4307-ae64-75572bb26989"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 13.10.2025",
+      "uuid": "dff59a58-fbb9-46ed-ab98-dff6257963e4",
+      "files": [
+        "MAEK_protokoll_13.10.2025.asice",
+        "127_MAEK_protokoll_13.10.2025.pdf",
+        "127_protokolli_lisa_Regionaalne_ettevõtlus.pdf",
+        "Asendusliige_Seeme_Haugas_13.10.25.pdf"
+      ]
+    }
+  ],
+  "uuid": "fdbc30a9-7d5e-4560-b336-485304118b0c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid fdbc30a9-7d5e-4560-b336-485304118b0c)",
+  "source": "https://api.riigikogu.ee/api/volumes/fdbc30a9-7d5e-4560-b336-485304118b0c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-10-01&endDate=2025-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
