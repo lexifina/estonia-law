@@ -1,0 +1,42 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Keskkonnakomisjoni ja majanduskomisjoni ühine avalik istung teisipäev, 14.10.2025 kell 14.00",
+  "sitting_time": "2025-10-14T14:00:00",
+  "sitting_type": "UHISISTUNG",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Tuulikute tervisemõjud: süstemaatiline ülevaade viimasel viieteistkümnel aastal eelretsenseeritavates teadusajakirjades avaldatud uuringutest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c9dd675a-39ef-4811-b4bc-56fa5d8c239a"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1684a5d5-a470-4c5f-b1c4-ca3e3acd8112"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK protokoll 14.10.2025",
+      "uuid": "c400f008-b6da-4926-a388-dbcf453fb3ec",
+      "files": [
+        "TuulikudEttekanne.pptx",
+        "KEKK_protokoll_14.10.2025.asice",
+        "KEKK_ja_MAJK_protokoll_14.10.2025.pdf",
+        "Asendusliikme_volikiri_(Poolamets).pdf"
+      ]
+    }
+  ],
+  "uuid": "02d765bf-4b06-4114-8f24-44cf8fdc9361",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 02d765bf-4b06-4114-8f24-44cf8fdc9361)",
+  "source": "https://api.riigikogu.ee/api/volumes/02d765bf-4b06-4114-8f24-44cf8fdc9361",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-10-01&endDate=2025-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
