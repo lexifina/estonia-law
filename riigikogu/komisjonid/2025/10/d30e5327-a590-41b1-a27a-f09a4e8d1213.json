@@ -1,0 +1,54 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung teisipäev, 14.10.2025 kell 14.00",
+  "sitting_time": "2025-10-14T14:02:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "97c71a48-f2a9-4824-85a3-551fb7828f73"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade arengutest Hiina Rahvavabariigis",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d6b00b76-014d-40f1-99f8-d0ed9b1459a9"
+    },
+    {
+      "order": 3,
+      "title": "Ülevaade arengutest Ameerika Ühendriikides",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f2957432-1276-407e-87e2-efec66152f17"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0d73c65d-e5b4-4744-9305-6a0cc6c87fa0"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 14.10.2025",
+      "uuid": "f12fcf97-ff5f-4feb-b313-0e2d1bc48036",
+      "files": [
+        "asendus_VK_14.10.2025.docx",
+        "asendus_VK_14.10.2025.asice",
+        "VÄLK_protokoll_14.10.2025.asice",
+        "VÄLK_protokoll_14.10.2025.pdf"
+      ]
+    }
+  ],
+  "uuid": "d30e5327-a590-41b1-a27a-f09a4e8d1213",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d30e5327-a590-41b1-a27a-f09a4e8d1213)",
+  "source": "https://api.riigikogu.ee/api/volumes/d30e5327-a590-41b1-a27a-f09a4e8d1213",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-10-01&endDate=2025-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
