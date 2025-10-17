@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung reede, 17.10.2025 kell 10.00",
+  "sitting_time": "2025-10-17T10:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 20. oktoobril 2025 toimuval Euroopa Liidu välisasjade nõukogu istungil",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a4087e78-7355-4f08-8e6b-27bf26a9facf"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade 15. oktoobril 2025 toimunud NATO kaitseministrite kohtumisest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "86ee8444-3874-4816-be36-af70094d3833"
+    },
+    {
+      "order": 3,
+      "title": "Ülevaade 15. oktoobril 2025 toimunud Euroopa Liidu välisasjade nõukogu kaitseministrite istungist",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "af307468-bf49-4053-9930-0fd60521a495"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "63772859-3b19-4921-b604-34cd9a98b3f5"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 17.10.2025",
+      "uuid": "b70aafba-3f6f-4b2b-9f87-229d2ea86fbc",
+      "files": [
+        "VÄLK_protokoll_17.10.2025.asice",
+        "VÄLK_protokoll_17.10.2025.pdf"
+      ]
+    }
+  ],
+  "uuid": "5f7e7d01-4da6-4e97-b0fd-4bc206e65e9b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 5f7e7d01-4da6-4e97-b0fd-4bc206e65e9b)",
+  "source": "https://api.riigikogu.ee/api/volumes/5f7e7d01-4da6-4e97-b0fd-4bc206e65e9b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-10-01&endDate=2025-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
