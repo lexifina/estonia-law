@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung esmaspäev, 20.10.2025 kell 11.15",
+  "sitting_time": "2025-10-20T11:20:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a073a649-e046-4ec2-8e64-ad08eb381ca7"
+    },
+    {
+      "order": 2,
+      "title": "Väliskomisjoni 21. oktoobril - 3. novembril 2025 toimuva Austraalia ja Uus-Meremaa töövisiidi ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e75daddf-8ad5-46e2-b20a-ae018e311e4d"
+    },
+    {
+      "order": 3,
+      "title": "Riigikogu 2025. aasta välislähetuste sügisprognoos",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "941cb560-7bc2-4b9b-9932-0f053a2f6e3a"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "de62775c-5509-4b2a-8c04-c969ae75905d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 20.10.2025",
+      "uuid": "16d23820-1b4e-4564-89ab-977114f69b3f",
+      "files": [
+        "VÄLK_protokoll_20.10.2025.asice",
+        "VÄLK_protokoll_20.10.2025.pdf"
+      ]
+    }
+  ],
+  "uuid": "ec76e0ef-bc4d-47bd-ab4f-1faf29ad5727",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ec76e0ef-bc4d-47bd-ab4f-1faf29ad5727)",
+  "source": "https://api.riigikogu.ee/api/volumes/ec76e0ef-bc4d-47bd-ab4f-1faf29ad5727",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-10-01&endDate=2025-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
