@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung teisipäev, 21.10.2025 kell 15.00",
+  "sitting_time": "2025-10-21T15:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Ettevõtluse ja Innovatsiooni Sihtasutuse juhiga",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5109f17d-ac3a-4bf0-8024-a0fd7c0b952a"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b369aa6e-abea-4c64-892e-4e45559a070e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAJK protokoll nr 151 21.10.2025",
+      "uuid": "92ce8610-efab-45f5-b0d9-7e4f282e876d",
+      "files": [
+        "MAJK_protokoll_nr_151_21.10.2025.asice",
+        "MAJK_protokoll_nr_151_21.10.2025.pdf",
+        "EIS_majanduskomisjonis_211025.pdf"
+      ]
+    }
+  ],
+  "uuid": "f3349ff3-c415-49de-beff-862dd7d9a1ae",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f3349ff3-c415-49de-beff-862dd7d9a1ae)",
+  "source": "https://api.riigikogu.ee/api/volumes/f3349ff3-c415-49de-beff-862dd7d9a1ae",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-10-01&endDate=2025-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
