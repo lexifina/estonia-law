@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni väljasõiduistung teisipäev, 21.10.2025",
+  "sitting_time": "2025-10-21T14:37:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade julgeolekuolukorra arengutest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "abe00699-2a5a-4560-8061-7566b736177a"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1be8634c-8e6f-4825-874c-0e0bd885384c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 21.10.2025",
+      "uuid": "3382ad42-ae3e-4313-9a66-b1ed63770594",
+      "files": [
+        "VÄLK_protokoll_21.10.2025.asice",
+        "VALK_protokoll_20251021.pdf"
+      ]
+    }
+  ],
+  "uuid": "0e368772-baac-4ed9-80ef-6a10d02b1e99",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0e368772-baac-4ed9-80ef-6a10d02b1e99)",
+  "source": "https://api.riigikogu.ee/api/volumes/0e368772-baac-4ed9-80ef-6a10d02b1e99",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-10-01&endDate=2025-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
