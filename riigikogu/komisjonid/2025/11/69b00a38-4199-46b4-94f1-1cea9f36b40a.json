@@ -1,0 +1,59 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung esmaspäev, 3.11.2025 kell 11.15",
+  "sitting_time": "2025-11-03T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e700569f-5d02-43b1-a3db-d18449f7711d"
+    },
+    {
+      "order": 2,
+      "title": "Asjaõigusseaduse § 126 ja notari tasu seaduse muutmise seaduse eelnõu (691 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "85e0d332-dc97-4b3a-884e-945cbad3ac36"
+    },
+    {
+      "order": 3,
+      "title": "Riigikogu otsus „Ettepaneku tegemine Vabariigi Valitsusele sulgeda Eesti Vabariigi ja Vene Föderatsiooni ajutine kontrolljoon“ (722 OE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "03a156fc-e54c-4fad-ab35-9b25e4f7390e"
+    },
+    {
+      "order": 4,
+      "title": "Riigikogu otsus „Ettepaneku tegemine Vabariigi Valitsusele töötada välja kodulaenude refinantseerimist lihtsustav õigusraamistik\" (724 OE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7bd4859d-5f16-4564-8325-cd95f2f6d5ad"
+    },
+    {
+      "order": 5,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a73fa4d1-22df-434e-bea6-823bf2d4adb9"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ÕIGK protokoll 03.11.2025",
+      "uuid": "a88a0bb3-7316-4739-a162-1f54d76df6f0",
+      "files": [
+        "Riigikogu_õiguskomisjoni_istungi_protokoll_nr_95.pdf",
+        "ÕIGK_protokoll_03.11.2025.asice",
+        "(Lisa_1)_AÕS_eelnõu_tutvustus.pptx"
+      ]
+    }
+  ],
+  "uuid": "69b00a38-4199-46b4-94f1-1cea9f36b40a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 69b00a38-4199-46b4-94f1-1cea9f36b40a)",
+  "source": "https://api.riigikogu.ee/api/volumes/69b00a38-4199-46b4-94f1-1cea9f36b40a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-11-01&endDate=2025-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
