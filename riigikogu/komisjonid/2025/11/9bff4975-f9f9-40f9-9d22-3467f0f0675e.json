@@ -1,0 +1,48 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 03.11.2025 kell 13.15",
+  "sitting_time": "2025-11-03T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1dc5ebda-36a6-4b68-a2af-09bea2cf38b8"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade riigi vara kasutamisest ja säilimisest 2024.–2025. aastal – transpordi ja liikuvuse valdkonna eesmärgid ja tegelikkus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "38dfb9b7-ab31-4bd8-aae4-137d54711053"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b3f8e212-ed12-411f-94eb-1c82b6cf6091"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 03.11.2025",
+      "uuid": "3dc248f5-542b-41b5-9ca8-62e89df52219",
+      "files": [
+        "REKK_protokoll_03.11.2025.asice",
+        "Protokoll_nr_127_03.11.2025.pdf",
+        "2025.11.03_RVKS__REKK_esitlus_LOPP_(1).pptx",
+        "Riigikontrolli_audit__(002).pptx"
+      ]
+    }
+  ],
+  "uuid": "9bff4975-f9f9-40f9-9d22-3467f0f0675e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9bff4975-f9f9-40f9-9d22-3467f0f0675e)",
+  "source": "https://api.riigikogu.ee/api/volumes/9bff4975-f9f9-40f9-9d22-3467f0f0675e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-11-01&endDate=2025-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
