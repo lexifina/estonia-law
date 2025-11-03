@@ -1,0 +1,54 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung esmaspäev, 3.11.2025 kell 11.10",
+  "sitting_time": "2025-11-03T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "083f268e-50a7-45e4-a3ed-6488f71cce0d"
+    },
+    {
+      "order": 2,
+      "title": "Ortodontiateenuse kättesaadavus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "45c459de-b42f-464d-9c8f-d10eb698faa1"
+    },
+    {
+      "order": 3,
+      "title": "Tervishoiuteenuste tegevuslubade regulatsiooni ajakohastamise väljatöötamiskavatsuse arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "28fff445-971c-42a9-9e3c-160f4000a231"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f62a7ea4-fcdf-48ce-9187-bd65023e8001"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "SOTK protokoll 3.11.2025",
+      "uuid": "0b387dcb-7aef-41de-be2a-4c5de59000f8",
+      "files": [
+        "SOTK_protokoll_3.11.2025.asice",
+        "Lisa_2_(SOM_slaidid).pdf",
+        "Lisa_(Konkurentsiameti_slaidid).pdf",
+        "SOTK_protokoll_nr_141_(03.11.2025).pdf"
+      ]
+    }
+  ],
+  "uuid": "801c9c49-a91d-4426-bcf9-2490bca0568d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 801c9c49-a91d-4426-bcf9-2490bca0568d)",
+  "source": "https://api.riigikogu.ee/api/volumes/801c9c49-a91d-4426-bcf9-2490bca0568d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-11-01&endDate=2025-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
