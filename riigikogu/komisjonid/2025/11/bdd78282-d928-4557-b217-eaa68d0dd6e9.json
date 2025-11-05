@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung kolmapäev, 5.11.2025 kell 08.30",
+  "sitting_time": "2025-11-05T08:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikontrolli kontrolliaruande „Keskkonnatasude määramine ja järelevalve keskkonnakasutuse üle“ arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "322410ab-e4e8-4242-83ec-ebfcacdb5d8d"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ccc16dfc-658c-45bf-bee6-e4a55743fd55"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 05.11.2025",
+      "uuid": "141be3ce-f4e4-444c-9d59-30c29f1fb736",
+      "files": [
+        "REKK_protokoll_05.11.2025.asice",
+        "Protokoll_nr_128_05.11.2025.pdf",
+        "Ettekanne_REKK_KK_tasud_05112025.potx"
+      ]
+    }
+  ],
+  "uuid": "bdd78282-d928-4557-b217-eaa68d0dd6e9",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid bdd78282-d928-4557-b217-eaa68d0dd6e9)",
+  "source": "https://api.riigikogu.ee/api/volumes/bdd78282-d928-4557-b217-eaa68d0dd6e9",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-11-01&endDate=2025-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
