@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung neljapäev, 6.11.2025 kell 14.00",
+  "sitting_time": "2025-11-06T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Elanikkonnakaitse rahastamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "40bd46b9-629d-4ca3-873e-e78af8d5cac9"
+    },
+    {
+      "order": 2,
+      "title": "Riigikaitsekomisjoni raporti projekti „Riigi valmisolekust julgeolekuohtude ennetamiseks ja tõrjumiseks halvenevas julgeolekuolukorras\" tutvustamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c15473ca-c29e-417c-812b-4b035a4c38ee"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Riigikaitsekomisjoni 6.11.25 istungi protokoll",
+      "uuid": "b7c681a5-280b-419a-81fe-a0775c01399a",
+      "files": [
+        "asendus_RiKa_06.11.2025.asice",
+        "Riigikaitsekomisjoni_6.11.25_istungi_protokoll.asice",
+        "2025-11-06_protokoll_173.pdf"
+      ]
+    }
+  ],
+  "uuid": "f321111a-f35a-4956-90da-519b6e5ae8b3",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f321111a-f35a-4956-90da-519b6e5ae8b3)",
+  "source": "https://api.riigikogu.ee/api/volumes/f321111a-f35a-4956-90da-519b6e5ae8b3",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-11-01&endDate=2025-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
