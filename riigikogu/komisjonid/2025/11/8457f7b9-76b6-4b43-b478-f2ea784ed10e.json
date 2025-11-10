@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung esmaspäev, 10.11.2025 kell 11.15",
+  "sitting_time": "2025-11-10T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5a0b0aa6-afc2-412f-a472-90b7a28b1e5e"
+    },
+    {
+      "order": 2,
+      "title": "Põhiseaduslikkuse järelevalve kohtumenetluse seaduse võimalikud muudatused. Töögrupi vahekokkuvõte.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "778e65a7-98fd-4505-993b-280663b30d8a"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7a52dacd-df08-4d90-b4f6-682792d9e977"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Riigikogu põhiseaduskomisjoni istungi protokoll nr 134",
+      "uuid": "9fdfe219-2280-4e8b-888f-0d43c74bcaf7",
+      "files": [
+        "PÕSK_protokoll_nr_134_(10.11.2025).pdf",
+        "Riigikogu_põhiseaduskomisjoni_istungi_protokoll_nr_134.asice"
+      ]
+    }
+  ],
+  "uuid": "8457f7b9-76b6-4b43-b478-f2ea784ed10e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8457f7b9-76b6-4b43-b478-f2ea784ed10e)",
+  "source": "https://api.riigikogu.ee/api/volumes/8457f7b9-76b6-4b43-b478-f2ea784ed10e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-11-01&endDate=2025-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
