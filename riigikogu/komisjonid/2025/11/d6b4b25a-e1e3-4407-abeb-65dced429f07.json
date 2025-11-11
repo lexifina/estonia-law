@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung teisipäev, 11.11.2025 kell 15.15",
+  "sitting_time": "2025-11-11T15:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Kaitsepolitsei peadirektoriga",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "872b9e9c-6a20-4bdf-be2e-9a5c4c5a2391"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "34fe1a94-a12c-4908-94b5-2638f400d29e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Riigikogu põhiseaduskomisjoni istungi protokoll nr 135",
+      "uuid": "536dd572-9be8-49da-8796-6fa8c6ea4d6d",
+      "files": [
+        "PÕSK_protokoll_nr_135_(11.11.2025).pdf",
+        "Riigikogu_põhiseaduskomisjoni_istungi_protokoll_nr_135.asice"
+      ]
+    }
+  ],
+  "uuid": "d6b4b25a-e1e3-4407-abeb-65dced429f07",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d6b4b25a-e1e3-4407-abeb-65dced429f07)",
+  "source": "https://api.riigikogu.ee/api/volumes/d6b4b25a-e1e3-4407-abeb-65dced429f07",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-11-01&endDate=2025-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
