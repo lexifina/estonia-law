@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Majanduskomisjoni ja keskkonnakomisjoni ühine istung teisipäev, 11.11.2025 kell 14.00",
+  "sitting_time": "2025-11-11T14:00:00",
+  "sitting_type": "UHISISTUNG",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Energiamajanduse arengukava 2035 (ENMAK 2035) tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f907bba0-2b9d-4678-8bd7-1384810926c3"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "57bb4564-1048-440c-92cd-e37ca5826156"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAJK ja KEKK protokoll nr 79 11.11.2025",
+      "uuid": "f90d2223-e330-4f96-92fb-137f4718c672",
+      "files": [
+        "MAJK_ja_KEKK_protokoll_nr_79_11.11.2025.asice",
+        "MAJK_ja_KEKK_protokoll_nr_79_11.11.2025.pdf",
+        "ENMAK_2035_eelnõu_tutvustus_11112025.pdf"
+      ]
+    }
+  ],
+  "uuid": "67a99f05-fa97-4dbd-a5c5-5390d28d64eb",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 67a99f05-fa97-4dbd-a5c5-5390d28d64eb)",
+  "source": "https://api.riigikogu.ee/api/volumes/67a99f05-fa97-4dbd-a5c5-5390d28d64eb",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-11-01&endDate=2025-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
