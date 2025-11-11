@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung teisipäev, 11.11.2025 kell 14.30",
+  "sitting_time": "2025-11-11T14:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "eb606c83-3f45-4206-832b-b9617a81cb25"
+    },
+    {
+      "order": 2,
+      "title": "Team Estonia eksporditegevuste kava 2025–2028",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a2e26e02-55da-461a-915a-9a2ecab10ab4"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "88f39521-8fd1-46b8-8ccb-e56d9fdff494"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 11.11.2025",
+      "uuid": "76387fa6-39ff-4765-8350-d057e1939d13",
+      "files": [
+        "VÄLK_protokoll_11.11.2025.asice",
+        "VÄLK_protokoll_11.11.2025.pdf"
+      ]
+    }
+  ],
+  "uuid": "43a3d4d8-dd9d-48ce-8d06-02151d3ab601",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 43a3d4d8-dd9d-48ce-8d06-02151d3ab601)",
+  "source": "https://api.riigikogu.ee/api/volumes/43a3d4d8-dd9d-48ce-8d06-02151d3ab601",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-11-01&endDate=2025-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
