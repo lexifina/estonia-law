@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung esmaspäev, 17.11.2025 kell 11.11",
+  "sitting_time": "2025-11-17T11:22:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "aba4f5a7-a782-42f7-88ce-d2e709064d0c"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad 20. novembril 2025 toimuval Euroopa Liidu välisasjade nõukogu istungil",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9fdafd85-1694-457f-9513-495ba2ec8b5a"
+    },
+    {
+      "order": 3,
+      "title": "Eesti seisukohad 24. novembril 2025 toimuval välisasjade nõukogu kaubandusministrite kohtumisel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f48f5a11-30a0-48ce-8fc8-56a8154b7bf7"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "adb1f7a4-05f3-44fe-a91e-8c3d7239e444"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 17.11.2025",
+      "uuid": "30c92a53-d526-4efa-aad4-856ce9d10588",
+      "files": [
+        "VÄLK_protokoll_17.11.2025.asice",
+        "VÄLK_protokoll_17.11.2025.pdf"
+      ]
+    }
+  ],
+  "uuid": "6c4dc0fc-cdca-492d-8125-d3d758c1eff8",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 6c4dc0fc-cdca-492d-8125-d3d758c1eff8)",
+  "source": "https://api.riigikogu.ee/api/volumes/6c4dc0fc-cdca-492d-8125-d3d758c1eff8",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-11-01&endDate=2025-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
