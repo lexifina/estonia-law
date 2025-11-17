@@ -1,0 +1,54 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 17.11.2025 kell 11.10",
+  "sitting_time": "2025-11-17T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cd7f027e-9afe-45c2-bc41-730a5aca1f03"
+    },
+    {
+      "order": 2,
+      "title": "Sotsiaaldemokraatliku Erakonna fraktsiooni esitatud Riigikogu otsuse „Ettepaneku tegemine Vabariigi Valitsusele\" eelnõu (738 OE) esimese lugemise ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ee33faa4-bde4-4d8b-b6a2-66276fbeb1c3"
+    },
+    {
+      "order": 3,
+      "title": "Ülevaade Konkurentsiameti küsitlusuuringust ebaausate kaubandustavade kohta",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fff7f3c5-b33b-4e37-ab61-523066140c5c"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2b17668d-f51d-4328-b538-b0cf5a279d2c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 17.11.2025",
+      "uuid": "f0c733ca-3539-41e5-84df-a8385f49adc5",
+      "files": [
+        "131_protokolli_lisa_1_REM_SAK_meetmed_17.11.25.pdf",
+        "MAEK_protokoll_17.11.2025.asice",
+        "131_MAEK_protokoll_17.11.2025.pdf",
+        "131_protokolli_lisa_2_KA_Ebaausate_kaubandustavade_küsimustiku_kokkuvõte_2025.pdf"
+      ]
+    }
+  ],
+  "uuid": "3b0c383c-45c8-4758-8616-20fc8adbdde9",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3b0c383c-45c8-4758-8616-20fc8adbdde9)",
+  "source": "https://api.riigikogu.ee/api/volumes/3b0c383c-45c8-4758-8616-20fc8adbdde9",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-11-01&endDate=2025-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
