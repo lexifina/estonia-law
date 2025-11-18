@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 18.11.2025 kell 14.00",
+  "sitting_time": "2025-11-18T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade maatulundusmaa, metsamaa ja põllumajandusliku maa maksustamise eristamise analüüsist",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4be2febe-5177-4023-8a64-bff363b44a9b"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2935809b-5470-4ab6-b54b-dcba357b8810"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 18.11.2025",
+      "uuid": "99824eb4-4360-4624-837b-438620abb644",
+      "files": [
+        "132_MAEK_protokoll_18.11.2025.pdf",
+        "132_protokolli_lisa_Maamaksuanalüüs.pdf",
+        "MAEK_protokoll_18.11.2025.asice"
+      ]
+    }
+  ],
+  "uuid": "13a7fb61-cafe-49a0-bf30-54d18de2a08c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 13a7fb61-cafe-49a0-bf30-54d18de2a08c)",
+  "source": "https://api.riigikogu.ee/api/volumes/13a7fb61-cafe-49a0-bf30-54d18de2a08c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-11-01&endDate=2025-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
