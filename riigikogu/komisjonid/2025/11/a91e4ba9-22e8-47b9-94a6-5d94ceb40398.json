@@ -1,0 +1,43 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Korruptsioonivastane erikomisjon",
+  "committee_uuid": "e4f2977a-e8c3-4fa0-8f3d-9df9acd6377f",
+  "title": "Komisjoni istung kolmapäev, 19.11.2025 kell 10.30",
+  "sitting_time": "2025-11-19T10:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Rahapesu Andmebüroo juhi Matis Mäekeriga",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "95d98d2c-d339-4220-bd15-a8a5becf171c"
+    },
+    {
+      "order": 2,
+      "title": "Komisjoni liikmete ja esimehe poolt Tallinna linnale ja Maardu linnale tehtud teabenõue Oleg Bessedini ja teiste isikutega sõlmitud lepingute kohta",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7d697b74-ddb7-4f93-b5a6-399320352eb8"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KVEK protokoll 76 (19.11.2025)",
+      "uuid": "3c5bf267-1976-4030-8bda-9212d09d4b0f",
+      "files": [
+        "251119_korruptsioonivastane_erikomisjon.pdf",
+        "KVEK_protokoll_76_(19.11.2025).asice",
+        "Asendusliige_R._Rand_19112025.asice",
+        "Asendus_kor.kom_19.11.25.asice",
+        "KVEK_protokoll_76_(19.11.2025).pdf"
+      ]
+    }
+  ],
+  "uuid": "a91e4ba9-22e8-47b9-94a6-5d94ceb40398",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a91e4ba9-22e8-47b9-94a6-5d94ceb40398)",
+  "source": "https://api.riigikogu.ee/api/volumes/a91e4ba9-22e8-47b9-94a6-5d94ceb40398",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-11-01&endDate=2025-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
