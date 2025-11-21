@@ -16,9 +16,21 @@
 
 (4) Erirežiimi ajal on kindlustusandjal või kolmanda riigi kindlustusandja Eesti filiaalil keelatud sõlmida uusi kindlustuslepinguid ja pikendada olemasolevaid, suurendada kindlustussummasid ning teha kindlustuslepingu alusel väljamakseid, kui erirežiimi kehtestamise otsuses ei ole sätestatud teisiti.
 
-(5) Erirežiimi kehtestamise otsus ei mõjuta niisuguse käsutustehingu kehtivust, mis on tehtud asjaõigusseaduse §-s 314¹ nimetatud finantstagatise kokkuleppest tuleneva õiguse teostamiseks või kohustuse täitmiseks, samuti makse- ja arveldussüsteemide seaduses sätestatud arveldussüsteemi või süsteemiühenduse vahendusel tehtavaid tasaarvestusi.
+(5) Erirežiimi kehtestamise otsus ei takista ega piira:
 
-(6) Asjaõigusseaduse §-s 314¹ sätestatud finantstagatise seadmine ja finantstagatise eseme käsutamine pärast erirežiimi kehtestamist on kehtiv, kui see toimub erirežiimi väljakuulutamise päeval ning finantstagatise kokkuleppe teine pool tõendab, et ta ei teadnud ega pidanudki teadma erirežiimi kehtestamisest.
+1) lõpetamisel toimuva tasaarvestuse kohaldamist vastavalt tasaarvestuskokkuleppe või finantstagatise kokkuleppe tingimustele;
+
+2) finantstagatise kokkuleppest või väärtpaberituru seaduse § 229⁴ lõikes 1 nimetatud tasaarvestuskokkulepet või sellega hõlmatud kvalifitseeruvat finantstehingut tagavast tagatiskokkuleppest tulenevate õiguste kasutamist või kohustuste täitmist vastavalt tagatiskokkuleppe tingimustele;
+
+3) makse- ja arveldussüsteemide seaduses sätestatud arveldussüsteemi või süsteemiühenduse vahendusel tehtavaid tasaarvestusi.
+
+(6) Kui tagatiskokkuleppe või tasaarvestuskokkuleppe teine pool tõendab, et ta ei teadnud ega pidanudki teadma erirežiimi kehtestamisest, siis ei mõjuta erirežiimi kehtestamise otsus samal päeval pärast erirežiimi kehtestamist tehtud järgmiste tehingute või toimingute kehtivust:
+
+1) finantstagatise kokkuleppe sõlmimine ja finantstagatise seadmine, täiendamine või asendamine;
+
+2) tagatislepingu sõlmimine ja tagatise andmine, et tagada tasaarvestuskokkulepe väärtpaberituru seaduse § 229⁴ lõike 1 tähenduses või sellega hõlmatud kvalifitseeruv finantstehing;
+
+3) tasaarvestuskokkuleppe sõlmimine või mis tahes kvalifitseeruva finantstehingu lisamine tasaarvestuskokkuleppesse.
 
 (7) Erirežiimi kehtestamise otsus jõustub kõikides teistes lepinguriikides päeval, kui nimetatud otsus jõustub Eestis.
 
