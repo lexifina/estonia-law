@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung neljapäev, 27.11.2025 kell 12.30",
+  "sitting_time": "2025-11-27T12:39:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cb3f4b39-5b8b-4248-b2ac-c7fbc34f8f75"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad 1. detsembril 2025 toimuval Euroopa Liidu välisasjade nõukogu kaitseministrite istungil",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8ff34218-0ed9-4cea-a5bb-7233975f0672"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5c49a7f4-c5ac-4aec-8d1e-ed616f052c2c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 27.11.2025",
+      "uuid": "22c21378-96a6-42ed-ab98-c96f0e66f590",
+      "files": [
+        "VÄLK_protokoll_27.11.2025.pdf",
+        "VÄLK_protokoll_27.11.2025.asice"
+      ]
+    }
+  ],
+  "uuid": "e71e73cb-490c-4d47-be51-33eafc7c06de",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e71e73cb-490c-4d47-be51-33eafc7c06de)",
+  "source": "https://api.riigikogu.ee/api/volumes/e71e73cb-490c-4d47-be51-33eafc7c06de",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-11-01&endDate=2025-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
