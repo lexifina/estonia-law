@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Julgeolekuasutuste järelevalve erikomisjon",
+  "committee_uuid": "d3826f36-707d-17ad-41e8-8b99f9910b98",
+  "title": "Komisjoni väljasõiduistung esmaspäev, 1.12.2025 kell 13.00",
+  "sitting_time": "2025-12-01T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "84a7df99-9bc6-47dc-b857-481aa179a213"
+    },
+    {
+      "order": 2,
+      "title": "Politsei- ja Piirivalveameti lennuvõimekuse ülevaade",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "209ebff0-993b-44a2-a75c-1c6aed37b564"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "JAJK 01.12.25 istungi protokoll",
+      "uuid": "22beaeb2-9b9a-4739-8640-ae707a1312f5",
+      "files": [
+        "JAJK_01.12.25_istungi_protokoll.asice",
+        "JAJK_protokoll_01122025_(1).pdf"
+      ]
+    }
+  ],
+  "uuid": "c230b1bf-0c62-44f4-b35c-68f3e2f325e9",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c230b1bf-0c62-44f4-b35c-68f3e2f325e9)",
+  "source": "https://api.riigikogu.ee/api/volumes/c230b1bf-0c62-44f4-b35c-68f3e2f325e9",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-12-01&endDate=2025-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
