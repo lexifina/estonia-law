@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung teisipäev, 2.12.2025 kell 14.00",
+  "sitting_time": "2025-12-02T14:08:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Strateegilise ohuhinnangu tutvustamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "75092903-9a1e-4a9a-b734-acecc7f53f9f"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "92610974-5672-40bf-995a-dfae0988b5c4"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 02.12.2025",
+      "uuid": "794c5bc0-c98b-4eb2-bba3-e051ce97731d",
+      "files": [
+        "VÄLK_protokoll_02.12.2025.asice",
+        "VALK_protokoll_20251202.pdf"
+      ]
+    }
+  ],
+  "uuid": "9d1d490c-2c94-4fa7-9ada-e9a3564f5b59",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9d1d490c-2c94-4fa7-9ada-e9a3564f5b59)",
+  "source": "https://api.riigikogu.ee/api/volumes/9d1d490c-2c94-4fa7-9ada-e9a3564f5b59",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-12-01&endDate=2025-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
