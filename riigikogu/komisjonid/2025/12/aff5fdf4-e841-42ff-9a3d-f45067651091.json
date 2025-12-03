@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung kolmapäev, 3.12.2025 kell 08.30",
+  "sitting_time": "2025-12-03T08:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "80fed380-7ed4-4d47-81f6-6d903a59cffe"
+    },
+    {
+      "order": 2,
+      "title": "Kliimaseaduse eelnõu arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "12eaf107-861b-4a5e-959d-aad13edaa56c"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6156ecef-842b-4592-ac67-849b0979cab9"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 03.12.2025",
+      "uuid": "01679e3b-c29e-4b95-9fb6-5df8d7e54a39",
+      "files": [
+        "REKK_protokoll_03.12.2025.asice",
+        "Protokoll_nr_130_03.12.25.pdf"
+      ]
+    }
+  ],
+  "uuid": "aff5fdf4-e841-42ff-9a3d-f45067651091",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid aff5fdf4-e841-42ff-9a3d-f45067651091)",
+  "source": "https://api.riigikogu.ee/api/volumes/aff5fdf4-e841-42ff-9a3d-f45067651091",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-12-01&endDate=2025-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
