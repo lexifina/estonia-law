@@ -1,0 +1,48 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Korruptsioonivastane erikomisjon",
+  "committee_uuid": "e4f2977a-e8c3-4fa0-8f3d-9df9acd6377f",
+  "title": "Komisjoni istung esmaspäev, 8.12.2025 kell 13.15",
+  "sitting_time": "2025-12-08T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "af45780a-1a09-41aa-abbf-59142c7b6402"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine Kaitsepolitseiameti peadirektori Margo Pallosoniga",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a29020e8-a318-46b9-9967-0733166cfad6"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5970bbb4-fbe6-496c-8732-4db00e541992"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KVEK protokoll 79 (08.12.2025)",
+      "uuid": "dddb6625-6b6f-409e-8e4b-a4f92d8e8f1c",
+      "files": [
+        "KVEK_protokoll_79_(08.12.2025).asice",
+        "Asendus_kor.kom_08.12.25.asice",
+        "Asendusliikme_volikiri.pdf",
+        "KVEK_protokoll_79_(08.12.2025).pdf"
+      ]
+    }
+  ],
+  "uuid": "0b6c01ff-a388-49f7-b4c9-4770ecc2031a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0b6c01ff-a388-49f7-b4c9-4770ecc2031a)",
+  "source": "https://api.riigikogu.ee/api/volumes/0b6c01ff-a388-49f7-b4c9-4770ecc2031a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-12-01&endDate=2025-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
