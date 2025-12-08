@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Julgeolekuasutuste järelevalve erikomisjon",
+  "committee_uuid": "d3826f36-707d-17ad-41e8-8b99f9910b98",
+  "title": "Komisjoni väljasõiduistung esmaspäev, 8.12.2025 kell 13.05",
+  "sitting_time": "2025-12-08T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "501c37a8-e6db-42bd-88bf-e7cf57644d87"
+    },
+    {
+      "order": 2,
+      "title": "Julgeolekuolukorra arengutest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "aa28928d-0ba2-4ef5-9590-2b855debf686"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "JAJK 08.12.25 istungi protokoll",
+      "uuid": "104bb74a-0439-4321-9d83-6da7f92e5ab9",
+      "files": [
+        "JAJK_08.12.25_istungi_protokoll.asice",
+        "JAJK_protokoll_08122025.pdf"
+      ]
+    }
+  ],
+  "uuid": "6a4b4992-9951-46f1-b23e-a9c0f41d8902",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 6a4b4992-9951-46f1-b23e-a9c0f41d8902)",
+  "source": "https://api.riigikogu.ee/api/volumes/6a4b4992-9951-46f1-b23e-a9c0f41d8902",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-12-01&endDate=2025-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
