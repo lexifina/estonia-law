@@ -1,0 +1,54 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung teisipäev, 9.12.2025 kell 14.00",
+  "sitting_time": "2025-12-09T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikontrolli kontrolliaruande „Riigiasutuste infotehnoloogia investeeringud ja kulud“ tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "74118c9d-f4cd-4ada-9630-d7968a687c5d"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine Maksu- ja Tolliameti peadirektoriga",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d35c6d5b-23d7-469c-8dd3-4d635cb1f250"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8b5acd80-7248-4480-857a-ce5641bc82c7"
+    },
+    {
+      "order": 4,
+      "title": "Riigikogu liikme Mario Kadastiku algatatud elektrituruseaduse muutmise seaduse eelnõu (776 SE) saali saatmise menetlusliku ettepaneku tegemine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7eccc704-1759-4bf8-90a1-0b3197fbea9c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAJK protokoll nr 160 09.12.2025",
+      "uuid": "627d5d18-d585-421d-bf93-0145918304ae",
+      "files": [
+        "MAJK_protokoll_nr_160_09.12.2025.asice",
+        "MAJK_protokoll_nr_160_09.12.2025.pdf",
+        "Lisa_2_(MTA).pdf",
+        "Lisa_1_(Riigikontrolli_kontrolliaruande_tutvustus).pdf"
+      ]
+    }
+  ],
+  "uuid": "3c1a44f7-c081-4db7-8374-54c9224537c5",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3c1a44f7-c081-4db7-8374-54c9224537c5)",
+  "source": "https://api.riigikogu.ee/api/volumes/3c1a44f7-c081-4db7-8374-54c9224537c5",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-12-01&endDate=2025-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
