@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 9.12.2025 kell 14.00",
+  "sitting_time": "2025-12-09T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti piimanduse olevik ja tulevik",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "54246040-0d36-4f5b-adba-2e808634f61f"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "02b4a922-cce1-4a2f-adc3-08da5d054f6c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 09.12.2025",
+      "uuid": "a8c24ef9-1c0c-414f-a05f-75f2ba0ee60e",
+      "files": [
+        "134_MAEK_protokoll_09.12.25.pdf",
+        "134_protokolli_lisa_Piimanduse_olukord.pdf",
+        "MAEK_protokoll_09.12.2025.asice"
+      ]
+    }
+  ],
+  "uuid": "2a02f75a-9479-4a87-85b5-958580ed1b7b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2a02f75a-9479-4a87-85b5-958580ed1b7b)",
+  "source": "https://api.riigikogu.ee/api/volumes/2a02f75a-9479-4a87-85b5-958580ed1b7b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-12-01&endDate=2025-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
