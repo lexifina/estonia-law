@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung reede, 12.12.2025 kell 11.00",
+  "sitting_time": "2025-12-12T11:05:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "68f0db89-46d5-4faf-b6be-649fddd8158b"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad 15. detsembril 2025 toimuval Euroopa Liidu välisasjade nõukogu istungil",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a0cab172-3dc6-47cd-ac25-439c63839a9d"
+    },
+    {
+      "order": 3,
+      "title": "Informatsioon Ukraina kahjunõuete rahvusvahelise komisjoni asutamise konventsiooni eelnõu heakskiitmise kohta",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "247ce17c-b4b9-41a2-b30c-974153890c93"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2dbc94da-cc0a-451d-b5b2-eab0ef75e889"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 12.12.2025",
+      "uuid": "9ea1aea1-eeab-49ac-a516-752344446796",
+      "files": [
+        "VÄLK_protokoll_12.12.2025.pdf",
+        "VÄLK_protokoll_12.12.2025.asice"
+      ]
+    }
+  ],
+  "uuid": "13e8f56a-e17e-48d5-9541-795ad433aa2c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 13e8f56a-e17e-48d5-9541-795ad433aa2c)",
+  "source": "https://api.riigikogu.ee/api/volumes/13e8f56a-e17e-48d5-9541-795ad433aa2c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-12-01&endDate=2025-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
