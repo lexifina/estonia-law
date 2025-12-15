@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni väljasõiduistung esmaspäev, 15.12.2025 kell 11.30",
+  "sitting_time": "2025-12-15T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9047b225-92da-42b2-921f-7e249c495829"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine riigikaitse kõrgeima juhi, Eesti Vabariigi presidendi Alar Karisega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9e5e562d-5e12-4f51-9470-4eadc2b104a4"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cef9ea6d-6fb8-4162-9fb3-bd8d4d10f876"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Riigikaitsekomisjoni 15.12.25 väljasõiduistungi protokoll",
+      "uuid": "946e6d81-b0d6-45c3-ba84-84d6454a2741",
+      "files": [
+        "Riigikaitsekomisjoni_15.12.25_väljasõiduistungi_protokoll.asice",
+        "2025-12-15_protokoll_185.pdf"
+      ]
+    }
+  ],
+  "uuid": "59aacc57-44d1-4eba-b920-42a334a21a47",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 59aacc57-44d1-4eba-b920-42a334a21a47)",
+  "source": "https://api.riigikogu.ee/api/volumes/59aacc57-44d1-4eba-b920-42a334a21a47",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-12-01&endDate=2025-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
