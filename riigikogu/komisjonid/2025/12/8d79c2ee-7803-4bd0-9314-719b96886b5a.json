@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Väliskomisjoni ja Euroopa Liidu asjade komisjoni ühine istung esmaspäev, 15.12.2025 kell 13.00",
+  "sitting_time": "2025-12-15T13:01:00",
+  "sitting_type": "UHISISTUNG",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "695738f0-df02-4eda-8af2-4097d58721a8"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad 18.-19. detsembril 2025 toimuval Euroopa Ülemkogul",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "03b8a4f9-6ffd-4a23-ae78-8480df714222"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "51bc0223-9e0e-485f-ba6f-a7743452c99b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "fce48746-9eb6-4793-a8db-fd635ed78c75",
+      "files": [
+        "Protokoll.asice",
+        "ELAK.VÄLK_ühisistungi_protokoll_15.12.2025.pdf"
+      ]
+    }
+  ],
+  "uuid": "8d79c2ee-7803-4bd0-9314-719b96886b5a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8d79c2ee-7803-4bd0-9314-719b96886b5a)",
+  "source": "https://api.riigikogu.ee/api/volumes/8d79c2ee-7803-4bd0-9314-719b96886b5a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-12-01&endDate=2025-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
