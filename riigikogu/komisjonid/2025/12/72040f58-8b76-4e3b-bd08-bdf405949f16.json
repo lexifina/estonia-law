@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Julgeolekuasutuste järelevalve erikomisjon",
+  "committee_uuid": "d3826f36-707d-17ad-41e8-8b99f9910b98",
+  "title": "Komisjoni istung esmaspäev, 15.12.2025 kell 13.30",
+  "sitting_time": "2025-12-15T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "670a8d5f-87af-41c7-96ee-ec316c15fb00"
+    },
+    {
+      "order": 2,
+      "title": "Kokkuvõte komisjoni tööst sügisistungjärgul ning vaade aastasse 2026",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5787f6fa-2424-4e3c-897a-bfe1f14296f1"
+    },
+    {
+      "order": 3,
+      "title": "Tutvumine dokumentidega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f56a7e65-f822-406d-98ce-6eae07878370"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "JAJK istungi protokoll 15.12.2025",
+      "uuid": "1140e28b-219b-4b63-a9ca-9981221fe275",
+      "files": [
+        "JAJK_istungi_protokoll_15.12.2025.asice",
+        "JAJK_protokoll_15122025.pdf"
+      ]
+    }
+  ],
+  "uuid": "72040f58-8b76-4e3b-bd08-bdf405949f16",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 72040f58-8b76-4e3b-bd08-bdf405949f16)",
+  "source": "https://api.riigikogu.ee/api/volumes/72040f58-8b76-4e3b-bd08-bdf405949f16",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-12-01&endDate=2025-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
