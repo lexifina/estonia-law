@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 16.12.2025 kell 14.00",
+  "sitting_time": "2025-12-16T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "43676d41-7bbe-4f4c-82f7-6d64a489d149"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade Maaelu Edendamise Sihtasutuse tegevusest 2025. aastal",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "be565c87-95c2-4787-8d17-f1ee440b00c4"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e93fb95a-1fe3-4686-863b-a21482b86fb7"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 16.12.2025",
+      "uuid": "e934f980-390d-4410-9275-6850a36fcd27",
+      "files": [
+        "135_MAEK_protokoll_16.12.2025.pdf",
+        "MAEK_protokoll_16.12.2025.asice",
+        "135_protokolli_lisa_MES_16.12.25.pdf"
+      ]
+    }
+  ],
+  "uuid": "411c4b48-dd91-4ce9-a116-099fe10ed7e5",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 411c4b48-dd91-4ce9-a116-099fe10ed7e5)",
+  "source": "https://api.riigikogu.ee/api/volumes/411c4b48-dd91-4ce9-a116-099fe10ed7e5",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-12-01&endDate=2025-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
