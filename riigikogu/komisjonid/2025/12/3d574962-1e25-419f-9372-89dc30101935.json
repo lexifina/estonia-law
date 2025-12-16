@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung teisipäev, 16.12.2025 kell 14.00",
+  "sitting_time": "2025-12-16T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Presidendi poolt välja kuulutamata jäetud kaitseväeteenistuse seaduse muutmise ja sellega seonduvalt teiste seaduste muutmise seadus (664 UA)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "85d11f0c-4918-4a10-8935-aca3e2902c3d"
+    },
+    {
+      "order": 2,
+      "title": "Tsiviilkriisi ja riigikaitse seaduse eelnõu (668 SE) teise lugemise ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7aba44aa-0bab-443a-b317-39a1337f4e8a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Riigikaitsekomisjoni 16.12.25 istungi protokoll",
+      "uuid": "dc1b4349-ba13-46cc-9b43-6882780508d8",
+      "files": [
+        "Riigikaitsekomisjoni_16.12.25_istungi_protokoll.asice",
+        "2025-12-16_protokoll_186.pdf"
+      ]
+    }
+  ],
+  "uuid": "3d574962-1e25-419f-9372-89dc30101935",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3d574962-1e25-419f-9372-89dc30101935)",
+  "source": "https://api.riigikogu.ee/api/volumes/3d574962-1e25-419f-9372-89dc30101935",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-12-01&endDate=2025-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
