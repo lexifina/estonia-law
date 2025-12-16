@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung teisipäev, 16.12.2025 kell 14.30",
+  "sitting_time": "2025-12-16T14:40:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade julgeolekuolukorra arengutest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3a1904d7-aa81-4a5a-8881-44966672707e"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu otsus „Riigikogu otsuse „Eesti Vabariigi, Leedu Vabariigi ja Läti Vabariigi Parlamentidevahelise Assamblee Eesti delegatsiooni moodustamine” muutmine\" (768 OE) esimese lugemise ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "95bbfa2c-16d5-4bf5-9002-007bd716b59b"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7e43005d-941f-4581-a523-72b08b432861"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 16.12.2025",
+      "uuid": "34dab34a-a3ef-47f3-acee-c3bb356c7e9e",
+      "files": [
+        "VÄLK_protokoll_16.12.2025.asice",
+        "VÄLK_ptotokoll_16.12.2025.pdf"
+      ]
+    }
+  ],
+  "uuid": "129e6956-d3b1-453c-b69e-7bb1b931b42f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 129e6956-d3b1-453c-b69e-7bb1b931b42f)",
+  "source": "https://api.riigikogu.ee/api/volumes/129e6956-d3b1-453c-b69e-7bb1b931b42f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-12-01&endDate=2025-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
