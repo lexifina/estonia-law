@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung teisipäev, 16.12.2025 kell 14.00",
+  "sitting_time": "2025-12-16T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Hoiu-laenuühistu seaduse muutmise ja sellega seonduvalt teiste seaduste muutmise seaduse eelnõu (671 SE II)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "42f2ca16-1ee8-49a1-82a4-9d6b346d7c92"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade rahanduskomisjoni VI istungjärgu tööst",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "81f982f7-b062-431e-8d44-8cef45745191"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7981e3ef-1cdb-47f4-9ef3-a97c43dd8262"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 16.12.2025",
+      "uuid": "2c80898f-0440-45c9-b0da-a9f3e222b344",
+      "files": [
+        "RAHK_protokoll_16.12.2025.asice",
+        "RAHK_protokoll_195_16.12.2025.pdf"
+      ]
+    }
+  ],
+  "uuid": "89ce7a25-2efc-4209-bc00-4037ee4d989e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 89ce7a25-2efc-4209-bc00-4037ee4d989e)",
+  "source": "https://api.riigikogu.ee/api/volumes/89ce7a25-2efc-4209-bc00-4037ee4d989e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-12-01&endDate=2025-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
