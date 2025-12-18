@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung neljapäev, 18.12.2025 kell 13.05",
+  "sitting_time": "2025-12-18T13:05:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud kaitseväeteenistuse seaduse muutmise ja sellega seonduvalt teiste seaduste muutmise seaduse eelnõu (664 UA) teise lugemise ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ee7bb9eb-05cf-4a4e-be11-1634e3f7604e"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade julgeolekuolukorra arengutest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8afed2c6-077c-468b-a3c7-1cf128fb5d3c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Riigikaitsekomisjoni 18.12.25 istungi protokoll",
+      "uuid": "5fa89b90-6bbe-49bf-be84-1d8b7625d7c1",
+      "files": [
+        "Riigikaitsekomisjoni_18.12.25_istungi_protokoll.asice",
+        "2025-12-18_protokoll_187.pdf"
+      ]
+    }
+  ],
+  "uuid": "f6afc8e3-ccb2-4385-b379-8c8fc09d4aec",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f6afc8e3-ccb2-4385-b379-8c8fc09d4aec)",
+  "source": "https://api.riigikogu.ee/api/volumes/f6afc8e3-ccb2-4385-b379-8c8fc09d4aec",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2025-12-01&endDate=2025-12-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
