@@ -12,7 +12,7 @@
 
 3) riigi eelarvepoliitilisi eesmärke, sealhulgas valitsussektori eelarvepositsiooni ja prognoositavat võlakoormuse suurust;
 
-4) kirjeldust, milliste poliitikamuudatuste abil jõutakse prognoosidest riigi eelarvepoliitiliste eesmärkideni;
+4) kirjeldust, milliste poliitikamuudatuste, sealhulgas reformide ja investeeringute abil saavutatakse riigi eelarvepoliitilised eesmärgid;
 
 5) hinnangut kavandatavate poliitikamuudatuste mõju kohta valitsemissektori rahandusele keskpikas perspektiivis ja riigi rahanduse pikaajalisele jätkusuutlikkusele;
 
@@ -31,5 +31,7 @@
 12) põhiseaduslike institutsioonide taotletud vahendeid, välja arvatud kinnisasjadega seotud investeeringud, mahus, mille Riigikogu rahanduskomisjon on makromajandusprognoosi arvestades heaks kiitnud;
 
 13) kavandatavaid välistoetuseid.
+
+(3¹) Käesoleva paragrahvi lõike 3 punktis 4 nimetatud kirjeldus esitatakse valitsussektori suuremate tulu- ja kuluartiklite kaupa ning selles võrreldakse poliitikamuudatuste mõju sama lõike punktis 1 nimetatud prognoosidega, milles on eeldatud, et poliitikat ei muudeta. Eraldi tuuakse välja sellised poliitikamuudatused, mis mõjutavad riigi rahandust ning kestlikku ja kaasavat majanduskasvu.
 
 (4) Kui eelarvestrateegia koostamise ajal kehtib eriolukord, erakorraline seisukord või sõjaseisukord, võib Vabariigi Valitsus täita käesoleva paragrahvi lõikes 3 sätestatut osaliselt, põhjendades seda eelarvestrateegias.

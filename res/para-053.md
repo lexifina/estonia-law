@@ -7,5 +7,3 @@
 (5) Tuludest sõltuvaid vahendeid on õigus kasutada pärast tulu tekkimist, välja arvatud käesoleva seaduse § 54 lõikes 1 sätestatud juhul.
 
 (6) Tehtud kulude hüvitamiseks laekunud välistoetuse ja välistoetuse kaasrahastamise vahendeid võib riigiasutus kasutada otstarbel, mis oli vahenditel, mida hüvitatavate kulude tegemiseks kasutati.
-
-(7) Riigieelarves ministeeriumi valitsemisala täiendava eraldisena ettenähtud vahendite kasutamiseks sõlmitakse riigieelarve eraldise kasutamise leping riigiasutuse ning eraldist saava juriidilise isiku vahel, kui seaduses või selle alusel ei ole ette nähtud teisiti.

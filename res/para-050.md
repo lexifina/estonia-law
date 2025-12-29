@@ -1,29 +1,25 @@
 # § 50. Juhtumipõhine toetus
 
-(1) Ministeerium annab riigieelarvega ministeeriumi valitsemisalale ettenähtud vahenditest kohaliku omavalitsuse üksusele sihtotstarbelist toetust investeeringuteks või tegevuskuludeks juhtumipõhiselt.
+(1) Ministeerium annab riigieelarvega ministeeriumi valitsemisalale ettenähtud vahenditest kohaliku omavalitsuse üksusele ja tema valitseva mõju all olevale üksusele sihtotstarbelist juhtumipõhist toetust investeeringuteks või tegevuskuludeks.
 
-(2) Kohaliku omavalitsuse üksuse ja tema valitseva mõju all oleva üksuse investeeringu juhtumipõhiselt toetamisel, välja arvatud käesoleva seaduse § 53 lõikes 7 nimetatud juhul, peab olema õigusaktides määratud vähemalt:
+(2) määrusega juhtumipõhise tegevuskulutoetuse andmise tingimused ja korra, milles sätestatakse vähemalt toetuse andmise eesmärk ning jaotamise põhimõtted.
+
+(3) määrusega juhtumipõhise investeeringutoetuse andmise tingimused ja korra, milles sätestatakse vähemalt:
 
 1) toetuse andmise eesmärk;
 
 2) toetatavad tegevused;
 
-3) vajaduse korral omafinantseeringu määr;
+3) toetuse jaotamise või taotlemise põhimõtted;
 
-4) taotluse hindamise põhimõtted;
+4) taotluse esitamise korral selle hindamise põhimõtted;
 
-5) toetuse väljamaksete tegemise kord;
+5) toetuse väljamaksete tegemise kord.
 
-6) toetuse tagasinõudmise alused ja kord.
+(4) Riigieelarvest antakse kohaliku omavalitsuse üksusele ja tema valitseva mõju all olevale üksusele juhtumipõhist investeeringutoetust järgmistel tingimustel:
 
-(3) käesoleva paragrahvi lõikes 2 nimetatud tingimustele vastava määruse ministeeriumi valitsemisala eelarves ettenähtud vahenditest kohaliku omavalitsuse üksusele ja tema valitseva mõju all olevale üksusele juhtumipõhiselt investeeringutoetuse andmiseks.
+1) toetatava investeeringuga panustatakse üldjuhul kohaliku omavalitsuse üksuse arengukava valdkondliku eesmärgi täitmisse;
 
-(4) Riigieelarvest antakse kohaliku omavalitsuse üksusele juhtumipõhist investeeringutoetust järgmistel tingimustel:
+2) kohaliku omavalitsuse üksuse arengukava ja eelarvestrateegia peavad sisaldama vähemalt seaduses määratud perioodi;
 
-1) toetatava investeeringuga panustatakse kohaliku omavalitsuse üksuse arengukava või maakondliku arengudokumendi investeeringuga seotud valdkondliku eesmärgi täitmisse;
-
-2) kohaliku omavalitsuse üksuse arengukava ja eelarvestrateegia peavad hõlmama vähemalt seaduses määratud perioodi;
-
-3) omafinantseeringusse panustamisel peab kohaliku omavalitsuse üksus suutma tagada omafinantseeringut seaduses määratud tingimustel.
-
-(5) Kui kohaliku omavalitsuse üksuselt või tema valitseva mõju all olevalt sõltuvalt üksuselt nõutakse investeeringu omafinantseeringu katmist, on investeeringutoetuse andmise eelduseks seadusega kehtestatud finantsdistsipliini meetmete rakendamine.
+3) omafinantseeringusse panustamise korral peab kohaliku omavalitsuse üksus suutma tagada omafinantseeringut, arvestades finantsdistsipliini meetmeid seaduses määratud tingimustel.

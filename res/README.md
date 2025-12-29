@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/130042025004> (version in force from 2025-01-01)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/119122025002> (version in force from 2025-12-29)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -12,9 +12,10 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/130042025004> (version in force 
 | [§ 3](para-003.md) | Ministeeriumi valitsemisala |
 | [§ 4](para-004.md) | Eelarvenõukogu |
 | [§ 4¹](para-004b1.md) | Andmete esitamine |
-| **2. peatükk Eelarvereeglid** | |
-| [§ 5](para-005.md) | Eelarvepositsioon ja keskpika perioodi eelarve-eesmärk |
-| [§ 6](para-006.md) | Eelarvepositsiooni reeglid |
+| **2. peatükk Riigi eelarveraamistik** | |
+| [§ 5](para-005.md) | Eelarvepositsioon, netokulud ja eelarvepoliitiline eesmärk |
+| [§ 5¹](para-005b1.md) | Eelarvepoliitika piirmäärad |
+| [§ 6](para-006.md) | Eelarvepositsiooni reeglid keskvalitsuse juriidilisele isikule |
 | [§ 7](para-007.md) | Korrigeerimismehhanism |
 | [§ 8](para-008.md) | Kompenseerimismehhanism |
 | [§ 9](para-009.md) | Vabastusklausel |
@@ -23,15 +24,21 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/130042025004> (version in force 
 | [§ 12](para-012.md) | Keskvalitsuse juriidilise isiku finantsplaan |
 | [§ 13](para-013.md) | Keskvalitsuse juriidiliselt isikult lisaandmete saamine |
 | [§ 14](para-014.md) | Eelarvereeglite täitmise jälgimine |
-| **3. peatükk Riigieelarve raamistik ja lähtealused** | |
+| [§ 14¹](para-014b1.md) | Riigi eelarveraamistiku toimimise hindamine |
+| **3. peatükk Riigieelarve lähtealused** | |
 | **1. jagu Makromajandusprognoos ja rahandusprognoos** | |
 | [§ 15](para-015.md) | Makromajandusprognoos ja rahandusprognoos |
 | [§ 16](para-016.md) | Makromajandusprognoosile ja rahandusprognoosile esitatavad nõuded |
 | [§ 17](para-017.md) | Makromajandusprognoosi ja rahandusprognoosi koostamine |
 | [§ 18](para-018.md) | Makromajandusprognoosi ja rahandusprognoosi hindamine ning avalikustamine |
+| [§ 18¹](para-018b1.md) | Makromajandusprognoosi ja rahandusprognoosi järelhindamine |
 | **2. jagu Strateegilised arengudokumendid** | |
 | [§ 19](para-019.md) | Strateegilised arengudokumendid |
 | [§ 20](para-020.md) | Strateegiliste arengudokumentide koostamine, elluviimine ja muutmine |
+| **2¹. jagu Eelarvelise järelevalve dokumendid** | |
+| [§ 20¹](para-020b1.md) | Eelarve- ja struktuurikava |
+| [§ 20²](para-020b2.md) | Eelarve- ja struktuurikava eduaruanne |
+| [§ 20³](para-020b3.md) | Fiskaalriskide raport |
 | **3. jagu Stabiilsusprogramm** | |
 | [§ 21](para-021.md) | Eelarvestrateegia sisu |
 | [§ 22](para-022.md) | Eelarvestrateegia koostamine |
@@ -80,9 +87,13 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/130042025004> (version in force 
 | **5. peatükk Riigieelarve tulude laekumine, vahendite kasutamine ja kohustuste võtmine** | |
 | **1. jagu Riigieelarve vahendite kasutamine** | |
 | [§ 53](para-053.md) | Riigieelarve vahendite kasutamise eeldused |
-| [§ 53¹](para-053b1.md) | Riigisiseste toetusprogrammide vahendite kasutamine |
+| [§ 53¹](para-053b1.md) | Riigisisese projektipõhise toetuse andmine |
+| [§ 53²](para-053b2.md) | Riigisisese tegevustoetuse andmine |
+| [§ 53³](para-053b3.md) | Riigisisese sotsiaaltoetuse andmine |
 | [§ 54](para-054.md) | Välistoetuse ja välistoetuse kaasrahastamise vahendite kasutamine enne nende laekumist |
-| [§ 55](para-055.md) | Toetuse ja kaasrahastamise vahendite kasutamine |
+| [§ 55](para-055.md) | Riigisisese projektipõhise toetuse ja riigisisese tegevustoetuse ning välistoetuse kaasrahastamise eelarve kasutamine |
+| [§ 55¹](para-055b1.md) | Riigisisese projektipõhise toetuse tagasinõudmine |
+| [§ 55²](para-055b2.md) | Isikuandmete töötlemine toetuse taotluse menetlemise korral |
 | [§ 56](para-056.md) | Muudatused riigieelarve vahendite kasutamisel |
 | [§ 57](para-057.md) | Õppelaenude põhiosa kustutamisega seotud vahendite kasutamine |
 | [§ 58](para-058.md) | Vabariigi Valitsuse reservi vahendite kasutamine |
@@ -127,6 +138,8 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/130042025004> (version in force 
 | [§ 81³](para-081b3.md) | COVID-19 põhjustava viiruse levikuga seotud kriisi leevendamiseks ettenähtud toetusprogrammide kehtestamine |
 | [§ 81⁴](para-081b4.md) | 2022. aasta riigieelarvega seotud erisused |
 | [§ 81⁵](para-081b5.md) | 2025. aasta riigieelarvega seotud erisused |
+| [§ 81⁶](para-081b6.md) | 2026. aasta riigieelarvega seotud erisused |
+| [§ 81⁷](para-081b7.md) | Riigisiseste toetuste andmisega seotud erisused |
 | **2. jagu Seaduste muutmine ja kehtetuks tunnistamine** | |
 | [§ 82](para-082.md) |  |
 | [§ 125](para-125.md) |  |

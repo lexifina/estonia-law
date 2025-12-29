@@ -2,13 +2,15 @@
 
 1. peatükk Üldsätted
 
-2. peatükk Eelarvereeglid
+2. peatükk Riigi eelarveraamistik
 
-3. peatükk Riigieelarve raamistik ja lähtealused
+3. peatükk Riigieelarve lähtealused
 
 - 1. jagu Makromajandusprognoos ja rahandusprognoos
 
 - 2. jagu Strateegilised arengudokumendid
+
+- 2¹. jagu Eelarvelise järelevalve dokumendid
 
 - 3. jagu Stabiilsusprogramm
 

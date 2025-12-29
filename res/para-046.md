@@ -8,19 +8,17 @@
 
 3) juhtumipõhiselt konkreetse tegevuse või investeeringu toetamiseks.
 
-(2) Kohaliku omavalitsuse üksuste ning üleriigiliste kohaliku omavalitsuse üksuste liitude esindajad ja Vabariigi Valitsuse esindajad peavad läbirääkimisi eesmärgiga kokku leppida järgmistes küsimustes:
+(2) Kohaliku omavalitsuse üksuste ning üleriigilise kohaliku omavalitsuse üksuste liidu ja Vabariigi Valitsuse esindajad peavad enne eelarvestrateegia ja riigieelarve eelnõu koostamist läbirääkimisi eesmärgiga kokku leppida järgmistes küsimustes:
 
 1) edasiantavate maksude osa suurus ja laekumise põhimõtted;
 
-2) käesoleva paragrahvi lõikes 1 nimetatud toetuste jaotamise alused, kasutamise tingimused, suuruse kujunemise põhimõtted ning suurused eelarvestrateegia perioodiks ja eelarveaastaks;
+2) käesoleva paragrahvi lõike 1 punktides 1 ja 2 nimetatud toetuste jaotamise alused, kasutamise tingimused, suuruse kujunemise põhimõtted ning suurused eelarvestrateegia perioodiks ja eelarveaastaks;
 
 3) kohaliku omavalitsuse üksusele seadusega pandud riiklike ülesannete kulude katmise põhimõtted;
 
 4) käesoleva lõike punktides 1 ja 2 nimetatud informatsiooni eelarvestrateegias ja riigieelarve eelnõus kajastamise metoodika;
 
-5) finantsdistsipliini tagamise meetmed ja kohaliku omavalitsuse üksuste konsolideeritud eelarve puudujäägi või ülejäägi suurus eelarvestrateegia perioodiks;
-
-6) käesoleva seaduse § 7 lõikes 2 nimetatud olukorra ilmnemisel meetmed kohaliku omavalitsuse üksustele, mis parandavad valitsussektori struktuurset eelarvepositsiooni.
+5) finantsdistsipliini tagamise meetmed ja vajaduse korral kohaliku omavalitsuse üksuste konsolideeritud eelarvepositsiooni parandamise meetmed.
 
 (3) Käesoleva paragrahvi lõikes 2 nimetatud küsimustes saavutatud kokkulepped kajastuvad eelarvestrateegias, riigieelarve eelnõus, seaduseelnõus või mõnes muus õigusaktis. Küsimused, milles kokkulepet ei saavutata, otsustab Vabariigi Valitsus eelarvestrateegia ja riigieelarve eelnõu koostamisel.
 
