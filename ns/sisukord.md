@@ -10,7 +10,7 @@
 
 - 2. jagu Uue isikunime andmine isiku soovil
 
-- 3. jagu
+- 3. jagu Alaealisele uue perekonnanime andmine
 
 4. peatükk ISIKUNIMEDE KORRASTAMINE
 

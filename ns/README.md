@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/106072023057> (version in force from 2024-01-01)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/118122025015> (version in force from 2025-12-29)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -33,8 +33,9 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/106072023057> (version in force 
 | [§ 17](para-017.md) |  |
 | [§ 17¹](para-017b1.md) | Isiku soovil uue perekonnanime andmine |
 | [§ 18](para-018.md) |  |
-| [§ 19](para-019.md) | Isiku soovil uue eesnime taotlemise põhjused |
-| **3. jagu** | |
+| [§ 19](para-019.md) | Isiku soovil uue eesnime andmine |
+| **3. jagu Alaealisele uue perekonnanime andmine** | |
+| [§ 20](para-020.md) |  |
 | **4. peatükk ISIKUNIMEDE KORRASTAMINE** | |
 | [§ 21](para-021.md) | Välisriigis antud või kohaldatud isikunime kohaldamine Eestis |
 | [§ 22](para-022.md) | Isikunime asendamine kohaldatud isikunimega |
