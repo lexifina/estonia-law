@@ -12,8 +12,6 @@
 
 5) Tööinspektsioon;
 
-6) Riigi Infosüsteemi Amet.
-
 (2) Kliimaministeeriumi pädevuses on rahvusvahelistest lepingutest tulenevate ja raudteega seonduvate Eesti Vabariigi kohustuste täitmise tagamine ning vajaduse korral Eesti Vabariigi esindamine rahvusvahelistes raudteeorganisatsioonides, samuti avalikku raudteed majandava raudtee-ettevõtja poolt teiste riikide raudteed majandavate raudtee-ettevõtjate või raudteeorganisatsioonidega sõlmitud lepingutest kinnipidamise kontrollimine, kui need toovad kaasa õigusi ja kohustusi kolmandatele isikutele.
 
 (3) Konkurentsiameti pädevuses on:
@@ -43,7 +41,5 @@
 (6) Transpordiameti pädevuses on raudtee-ettevõtjatele kehtestatud nõuete täitmise kontrollimine, arvestades käesoleva seaduse §-s 7 sätestatut.
 
 (7) Tööinspektsiooni pädevuses on teha riiklikku järelevalvet käesoleva seaduse §-des 131–136 kehtestatud tingimuste üle.
-
-(8) Riigi Infosüsteemi Amet teeb riiklikku järelevalvet käesoleva seaduse §-s 8 sätestatud nõuete täitmise üle küberturvalisuse seaduses sätestatud pädevuse piires.
 
 (9) Et võimaldada Kliimaministeeriumil täita käesoleva paragrahvi lõikes 2 sätestatud ülesannet, esitab raudteeinfrastruktuuriettevõtja, kelle raudtee on määratud avalikuks kasutamiseks ja kes soovib sõlmida teise riigi raudtee-ettevõtja või raudteeorganisatsiooniga lepingu, mis toob kaasa õigusi või kohustusi kolmandatele isikutele, valdkonna eest vastutavale ministrile heakskiitmiseks lepingu kavandi.
