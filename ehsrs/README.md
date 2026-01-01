@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/108072025050> (version in force from 2025-07-18)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/121112025003> (version in force from 2026-01-01)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -51,6 +51,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/108072025050> (version in force 
 | [§ 30⁸](para-030b8.md) | Planeerimisseaduse § 27 lõike 7¹ ja § 55 lõike 5 rakendamine |
 | [§ 30⁹](para-030b9.md) | Enne käesoleva paragrahvi jõustumist algatatud riigi eriplaneeringute ja kohaliku omavalitsuse eriplaneeringute menetlemine |
 | [§ 30¹⁰](para-030b10.md) | Enne 2025. aasta 1. jaanuari heakskiitmiseks esitatud planeeringute heakskiitmine |
+| [§ 30¹¹](para-030b11.md) | Väga suure läbilaskevõimega sidevõrgu kasutuselevõtu soodustamine |
 | [§ 31](para-031.md) |  |
 | [§ 73](para-073.md) |  |
 | [§ 74](para-074.md) | Seaduste jõustumine |
