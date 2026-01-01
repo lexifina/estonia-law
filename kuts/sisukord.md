@@ -10,6 +10,8 @@
 
 4. peatükk Riiklik ja haldusjärelevalve
 
+4¹. peatükk Koostöö, teabevahetus ja vastastikune hindamine
+
 5. peatükk Vastutus
 
 6. peatükk Rakendussätted
