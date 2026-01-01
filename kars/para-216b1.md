@@ -1,6 +1,6 @@
 # § 216¹. Arvutikuriteo ettevalmistamine
 
-(1) Seadme või arvutiprogrammi, mis on loodud või kohandatud eelkõige käesoleva seadustiku §-s 206, 207, 213 või 217 sätestatud kuritegude toimepanemiseks, või kaitsevahendi, mille abil on võimalik hankida juurdepääs arvutisüsteemile, hankimise, valmistamise, valdamise, levitamise või muul viisil kättesaadavaks tegemise eest, et panna ise või võimaldada kolmandal isikul panna toime käesoleva seadustiku §-s 206, 207, 213 või 217 sätestatud kuritegu, –
+(1) Seadme või arvutiprogrammi, mis on loodud või kohandatud eelkõige käesoleva seadustiku §-s 137, 206, 207, 213 või 217 sätestatud kuritegude toimepanemiseks, või kaitsevahendi, mille abil on võimalik hankida juurdepääs arvutisüsteemile, hankimise, valmistamise, valdamise, levitamise või muul viisil kättesaadavaks tegemise eest, et panna ise või võimaldada kolmandal isikul panna toime käesoleva seadustiku §-s 137, 206, 207, 213 või 217 sätestatud kuritegu, –
 
 karistatakse rahalise karistuse või kuni kaheaastase vangistusega.
 
