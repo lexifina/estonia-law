@@ -1,0 +1,61 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung esmaspäev, 12.01.2026 kell 11.15",
+  "sitting_time": "2026-01-12T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "724d07d8-f245-45f9-a927-62582e96d5e8"
+    },
+    {
+      "order": 2,
+      "title": "Töölepingu seaduse ja teiste seaduste muutmise seaduse eelnõu (602 UA)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7fcccc7e-df3a-4f4e-ab81-c46be96500d5"
+    },
+    {
+      "order": 3,
+      "title": "Riigikogu otsus „Ettepaneku tegemine Vabariigi Valitsusele algatada Naistevastase vägivalla ja perevägivalla ennetamise ja tõkestamise Euroopa Nõukogu konventsiooni denonsseerimine“ (751 OE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "85e12f33-ae1f-40d7-a856-53f6549c731b"
+    },
+    {
+      "order": 4,
+      "title": "Õiguskomisjoni poolse esindaja määramine Riigikohtu põhiseaduslikkuse järelevalve kolleegiumi istungile 3. veebruaril 2026 kell 10.15",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "054f8e69-9306-462d-a62c-fd8100f4ef9c"
+    },
+    {
+      "order": 5,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "54f8ad27-06f7-47c7-9038-78ffa307f827"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ÕIGK protokoll 12.01.2026",
+      "uuid": "c7947509-2087-4127-98dc-5da235b038b8",
+      "files": [
+        "(Lisa_1)_EAKL_arvamus_RK_õk_TLS_602UA.pdf",
+        "Asendusliikme_volitus_(1).pdf",
+        "Asendusliikme_volitus_(2).pdf",
+        "ÕIGK_protokoll_12.01.2026.asice",
+        "Riigikogu_õiguskomisjoni_istungi_protokoll_nr_105.pdf"
+      ]
+    }
+  ],
+  "uuid": "99a49df3-770c-4ea1-8ec9-13518e3aeddd",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 99a49df3-770c-4ea1-8ec9-13518e3aeddd)",
+  "source": "https://api.riigikogu.ee/api/volumes/99a49df3-770c-4ea1-8ec9-13518e3aeddd",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-01-01&endDate=2026-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
