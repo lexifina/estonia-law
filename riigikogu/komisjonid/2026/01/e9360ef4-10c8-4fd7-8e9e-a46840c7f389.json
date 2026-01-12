@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Korruptsioonivastane erikomisjon",
+  "committee_uuid": "e4f2977a-e8c3-4fa0-8f3d-9df9acd6377f",
+  "title": "Komisjoni istung esmaspäev, 12.01.2026 kell 13.15",
+  "sitting_time": "2026-01-12T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2d881eff-9800-482b-811c-29ab97f8ba00"
+    },
+    {
+      "order": 2,
+      "title": "Huvide deklaratsioonide kontrollimise kokkuvõte",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c121621c-646f-4b82-826e-2962ae68c83e"
+    },
+    {
+      "order": 3,
+      "title": "Komisjonile saadetud pöördumistele vastamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6a365a69-5864-4f4c-bf23-601b71423878"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "97f4217f-d5b3-4a19-bda1-9e2627efbbcd"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KVEK protokoll 80 (12.01.2026)",
+      "uuid": "25b8a404-add0-4a77-a12d-90cb87851afd",
+      "files": [
+        "KVEK_protokoll_80_(12.01.2026).asice",
+        "KVEK_protokoll_80_(12.01.2026).pdf"
+      ]
+    }
+  ],
+  "uuid": "e9360ef4-10c8-4fd7-8e9e-a46840c7f389",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e9360ef4-10c8-4fd7-8e9e-a46840c7f389)",
+  "source": "https://api.riigikogu.ee/api/volumes/e9360ef4-10c8-4fd7-8e9e-a46840c7f389",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-01-01&endDate=2026-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
