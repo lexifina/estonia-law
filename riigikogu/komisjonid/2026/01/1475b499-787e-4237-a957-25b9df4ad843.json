@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 12.01.2026 kell 11.10",
+  "sitting_time": "2026-01-12T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a833efa3-7471-4c29-947f-d4abca5ff6d2"
+    },
+    {
+      "order": 2,
+      "title": "Maa- ja Ruumiameti tutvustus ning ülevaade maa hindamise metoodikast",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f437c8dc-ab61-48ab-a229-e1e379f8c4b2"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cf284c2b-616d-487a-9352-b95e99c01bc7"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 12.01.2026",
+      "uuid": "d3e16136-b733-4d95-b32c-6061509572ee",
+      "files": [
+        "MAEK_protokoll_12.01.2026.asice",
+        "136_MAEK_protokoll_12.01.26.pdf",
+        "136_MAEK_protokolli_lisa_MaRu.pdf"
+      ]
+    }
+  ],
+  "uuid": "1475b499-787e-4237-a957-25b9df4ad843",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 1475b499-787e-4237-a957-25b9df4ad843)",
+  "source": "https://api.riigikogu.ee/api/volumes/1475b499-787e-4237-a957-25b9df4ad843",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-01-01&endDate=2026-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
