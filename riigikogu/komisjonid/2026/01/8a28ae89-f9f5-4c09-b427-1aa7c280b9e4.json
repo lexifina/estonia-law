@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung esmaspäev, 12.01.2026 kell 11.10",
+  "sitting_time": "2026-01-12T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "65d74f47-42de-401d-8aad-386671309317"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade Balti kaitsevööndi arengutest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3a55d000-857b-459e-bb05-40582e54cb78"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "862ac001-182e-4764-97bd-f1a63ad2212c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Riigikaitsekomisjoni 12.01.26 istungi protokoll",
+      "uuid": "99d1882c-c0e9-4cec-b69a-7f4dff5caa1d",
+      "files": [
+        "Riigikaitsekomisjoni_12.01.26_istungi_protokoll.asice",
+        "2026-01-12_protokoll_188.pdf"
+      ]
+    }
+  ],
+  "uuid": "8a28ae89-f9f5-4c09-b427-1aa7c280b9e4",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8a28ae89-f9f5-4c09-b427-1aa7c280b9e4)",
+  "source": "https://api.riigikogu.ee/api/volumes/8a28ae89-f9f5-4c09-b427-1aa7c280b9e4",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-01-01&endDate=2026-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
