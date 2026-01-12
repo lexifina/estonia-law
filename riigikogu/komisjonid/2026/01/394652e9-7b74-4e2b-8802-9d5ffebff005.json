@@ -1,0 +1,49 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 5.01.2026 kell 13.15",
+  "sitting_time": "2026-01-12T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c131c857-13c1-47e4-bafc-e2d2bebeb673"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli kontrolliaruande „Riigieelarve raha kasutamata jäämise põhjused ja mõju ning raha kasutamine järgmisel eelarveaastal“ tutvustus ning arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "01caf6b4-47ab-4d07-a8a6-82e2d167b7fb"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1a5e487a-28fb-4bb7-9ea5-c08c96b6e3ff"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 12.01.2026",
+      "uuid": "035f3e8a-419c-415f-b2b8-b51396d7b873",
+      "files": [
+        "REKK_protokoll_12.01.2026.asice",
+        "Protokoll_nr_132_12.01.26.pdf",
+        "komisjoni_asendus_(12.01.2026).docx",
+        "komisjoni_asendus_(12.01.2026).asice",
+        "Riigieelarve_kasutamata_raha_12012026_REKK_toimetet.pptx"
+      ]
+    }
+  ],
+  "uuid": "394652e9-7b74-4e2b-8802-9d5ffebff005",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 394652e9-7b74-4e2b-8802-9d5ffebff005)",
+  "source": "https://api.riigikogu.ee/api/volumes/394652e9-7b74-4e2b-8802-9d5ffebff005",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-01-01&endDate=2026-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
