@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung teisipäev, 13.01.2026 kell 14.00",
+  "sitting_time": "2026-01-13T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Erihoolekandeteenuste hinnastamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ea271b93-f4ca-4905-938d-e98da84c8a1e"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5790d8fc-1baa-452d-bcb0-00abccacf01f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "SOTK protokoll 13.01.2026",
+      "uuid": "1530aad5-9ce3-4872-9c7f-93b8b390eb76",
+      "files": [
+        "SOTK_protokoll_13.01.2026.asice",
+        "SOTK_protokoll_nr_152_(13.01.2026).pdf"
+      ]
+    }
+  ],
+  "uuid": "d6dc5ac8-cf16-415b-ad3a-c425137e6d71",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d6dc5ac8-cf16-415b-ad3a-c425137e6d71)",
+  "source": "https://api.riigikogu.ee/api/volumes/d6dc5ac8-cf16-415b-ad3a-c425137e6d71",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-01-01&endDate=2026-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
