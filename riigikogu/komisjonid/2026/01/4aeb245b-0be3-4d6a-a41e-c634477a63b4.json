@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Väliskomisjoni väljasõiduistung Välisluureametis teisipäev, 13.01.2026",
+  "sitting_time": "2026-01-13T14:38:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade julgeolekuolukorra arengutest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "504de42a-b57b-41eb-9522-b0b1f95247b2"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "004c8ad5-0fd9-4937-8a7f-4b9910e6a262"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 13.02.2026",
+      "uuid": "c6ed6742-1b67-4ef7-8fc3-201fc0f42c28",
+      "files": [
+        "VÄLK_protokoll_13.01.2026.pdf",
+        "VÄLK_protokoll_13.02.2026.asice"
+      ]
+    }
+  ],
+  "uuid": "4aeb245b-0be3-4d6a-a41e-c634477a63b4",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 4aeb245b-0be3-4d6a-a41e-c634477a63b4)",
+  "source": "https://api.riigikogu.ee/api/volumes/4aeb245b-0be3-4d6a-a41e-c634477a63b4",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-01-01&endDate=2026-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
