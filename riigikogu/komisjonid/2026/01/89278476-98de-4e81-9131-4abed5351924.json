@@ -1,0 +1,44 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung teisipäeval, 13.01.2026 kell 14.00",
+  "sitting_time": "2026-01-13T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud planeerimisseaduse ja sellega seonduvalt teiste seaduste muutmise seaduse eelnõu (683 SE) teise lugemise ettevalmistamine: arutelu huvigruppidega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4b08ecf3-fb93-4476-b770-3e5ddf70efd7"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0903bdd0-9ecc-43b3-b08c-84d084d00b8c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAJK protokoll 13.01.2026",
+      "uuid": "76b5a813-a942-4cde-86d1-4dc2a026f1ce",
+      "files": [
+        "MAJK_protokoll_13.01.2026.asice",
+        "MAJK_protokoll_nr_164_13.01.2026.pdf",
+        "ELVL_seisukohad_683_SE.pdf",
+        "Eesti_Tööandjate_Keskliidu_seisukohad_PlanS.pdf",
+        "EPÜ__13.01.26_Riigikogu.pdf",
+        "MKM__majanduskomisjonis_683SE_kaasamisüritus.pdf"
+      ]
+    }
+  ],
+  "uuid": "89278476-98de-4e81-9131-4abed5351924",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 89278476-98de-4e81-9131-4abed5351924)",
+  "source": "https://api.riigikogu.ee/api/volumes/89278476-98de-4e81-9131-4abed5351924",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-01-01&endDate=2026-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
