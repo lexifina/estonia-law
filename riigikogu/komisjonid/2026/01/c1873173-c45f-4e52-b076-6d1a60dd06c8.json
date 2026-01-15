@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung neljapäeval, 15. jaanuaril 2026 kell 10.45",
+  "sitting_time": "2026-01-15T10:45:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikogu liikme Mario Kadastiku algatatud elektrituruseaduse muutmise seaduse eelnõu (776 SE) teise lugemise ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4894c128-8725-4dd8-849e-f4f1ae2196be"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "339e1ef8-d7b3-4320-b0f2-da873a000430"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAJK protokoll nr 165 15.01.2026",
+      "uuid": "7103d930-0c51-406f-b304-37a569109187",
+      "files": [
+        "MAJK_protokoll_nr_165_15.01.2026.asice",
+        "MAJK_protokoll_nr_165_15.01.2026.pdf"
+      ]
+    }
+  ],
+  "uuid": "c1873173-c45f-4e52-b076-6d1a60dd06c8",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c1873173-c45f-4e52-b076-6d1a60dd06c8)",
+  "source": "https://api.riigikogu.ee/api/volumes/c1873173-c45f-4e52-b076-6d1a60dd06c8",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-01-01&endDate=2026-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
