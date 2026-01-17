@@ -22,7 +22,9 @@
 
 10) biomassile kehtestatud säästlikkusnõuetele ja -kriteeriumidele vastavuse tõendamise auditi aruannete esitamine;
 
-11) keskkonnamõju hindamise ja keskkonnamõju strateegilise hindamise dokumentide avalikustamine ning kättesaadavuse ja kasutamise lihtsustamine.
+11) keskkonnamõju hindamise ja keskkonnamõju strateegilise hindamise dokumentide avalikustamine ning kättesaadavuse ja kasutamise lihtsustamine;
+
+12) jäätmeveo saatekirjade koostamine ja esitamine.
 
 (2) Keskkonnaotsuste infosüsteemi põhimääruse kehtestab
 
@@ -44,4 +46,4 @@ määrusega, milles sätestatakse:
 
 (3¹) Käesoleva paragrahvi lõikes 3 sätestatud teabele ning avaliku teabe seaduse § 35 lõike 1 punktide 9 ja 10 alusel kiirgusallikat või tuumamaterjali puudutavale teabele kehtestatava juurdepääsupiirangu puhul ei kohaldata avaliku teabe seaduse § 40 lõikes 1 sätestatud juurdepääsupiirangu tähtaega. Juurdepääsupiirang kehtestatakse kuni kiirgustegevuse lõppemiseni, esialgu maksimaalselt 75 aastaks. Asutuse juht võib juurdepääsupiirangu tähtaega pikendada viie aasta kaupa, kuni juurdepääsupiirangu kehtestamise põhjus püsib.
 
-(4) Keskkonnaotsuste infosüsteemi vastutav töötleja on Keskkonnaamet ja volitatud töötleja määratakse andmekogu põhimääruses.
+(4) Keskkonnaotsuste infosüsteemi kaasvastutavad töötlejad on Keskkonnaamet ja Keskkonnaagentuur ning volitatud töötleja määratakse andmekogu põhimääruses.
