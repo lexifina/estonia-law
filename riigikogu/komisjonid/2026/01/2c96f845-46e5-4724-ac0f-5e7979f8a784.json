@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Majanduskomisjoni ja riigikaitsekomisjoni ühine istung esmaspäeval, 19.01.2026 kell 11.10",
+  "sitting_time": "2026-01-19T11:10:00",
+  "sitting_type": "UHISISTUNG",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Majanduskomisjoni nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "77fde5ea-a9af-499f-a878-50714f18c3c8"
+    },
+    {
+      "order": 2,
+      "title": "Riigikaitsekomisjoni nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5a7a5c50-dd6d-49dd-82dc-799c00aca64e"
+    },
+    {
+      "order": 3,
+      "title": "Vabariigi Valitsuse algatatud ehitusseadustiku ja sellega seonduvalt teiste seaduste muutmise seaduse (riigikaitseliste ehitiste planeerimise ja ehitamise kiirendamine) eelnõu (789 SE) esimese lugemise ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dc6f0a2b-2aff-4caf-a47c-cc4783adab1b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAJK ja RIKK protokoll nr 86 19.01.2026",
+      "uuid": "8aa936cb-7a19-4e42-ab00-7db3bad5eb13",
+      "files": [
+        "19012026_789SE_ettekanne.pdf",
+        "MAJK_ja_RIKK_protokoll_nr_86_19.01.2026.pdf",
+        "MAJK_ja_RIKK_protokoll_nr_86_19.01.2026.asice"
+      ]
+    }
+  ],
+  "uuid": "2c96f845-46e5-4724-ac0f-5e7979f8a784",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2c96f845-46e5-4724-ac0f-5e7979f8a784)",
+  "source": "https://api.riigikogu.ee/api/volumes/2c96f845-46e5-4724-ac0f-5e7979f8a784",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-01-01&endDate=2026-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
