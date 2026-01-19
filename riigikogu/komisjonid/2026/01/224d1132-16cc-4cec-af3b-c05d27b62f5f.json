@@ -1,0 +1,48 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 19.01.2026 kell 11.30",
+  "sitting_time": "2026-01-19T11:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0a770ee0-2c03-4a35-99be-7204745dc34b"
+    },
+    {
+      "order": 2,
+      "title": "Angerjavarude kaitse ja 2026. aasta püügikitsendused Eesti veekogudel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e206b04e-193b-4cea-9ee0-be0829981066"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "76c1b12c-ddb9-414e-a1b2-1abad63fbea0"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 19.01.2026",
+      "uuid": "59038c78-f06c-419d-8582-02951d50f48e",
+      "files": [
+        "138_MAEK_protokolli_lisa_1._Võrtsjärve_angerjavaru_ja_väljaränne.pdf",
+        "138_MAEK_protokolli_lisa_2._ReM.pdf",
+        "MAEK_protokoll_19.01.2026.asice",
+        "138_MAEK_protokoll_19.01.2026.pdf"
+      ]
+    }
+  ],
+  "uuid": "224d1132-16cc-4cec-af3b-c05d27b62f5f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 224d1132-16cc-4cec-af3b-c05d27b62f5f)",
+  "source": "https://api.riigikogu.ee/api/volumes/224d1132-16cc-4cec-af3b-c05d27b62f5f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-01-01&endDate=2026-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
