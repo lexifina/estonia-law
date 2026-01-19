@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung esmaspäev, 19.01.2026 kell 11.10",
+  "sitting_time": "2026-01-19T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ccfc6a02-a94c-4fa5-b93d-8e40a27a9912"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine Tervisekassa juhatuse esimehega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "128f5170-c54b-484c-ac23-1c204a636630"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "604c4f13-ecea-4d4e-8b7f-0fb29100cf8e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "SOTK protokoll 19.01.2026",
+      "uuid": "97cf72ab-d360-4bf7-80d1-5a1751b4f6ef",
+      "files": [
+        "SOTK_protokoll_19.01.2026.asice",
+        "SOTK_protokoll_nr_153_(19.01.2026).pdf"
+      ]
+    }
+  ],
+  "uuid": "7b3c6e90-df97-4256-b75b-ac40326328c0",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7b3c6e90-df97-4256-b75b-ac40326328c0)",
+  "source": "https://api.riigikogu.ee/api/volumes/7b3c6e90-df97-4256-b75b-ac40326328c0",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-01-01&endDate=2026-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
