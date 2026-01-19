@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung esmaspäev, 19.01.2026 kell 11.15",
+  "sitting_time": "2026-01-19T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "10245e5e-5cfa-4246-8aa1-4249edc985c2"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud hoiu-laenuühistu seaduse muutmise ja sellega seonduvalt teiste seaduste muutmise seaduse eelnõu (671 SE) kolmandaks lugemiseks ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3a02ab37-8d4d-4ab2-a4d8-b7744e618ab4"
+    },
+    {
+      "order": 3,
+      "title": "Riigikogu liikme Tanel Teini algatatud hasartmängumaksu seaduse muutmise seaduse eelnõu (793 SE) esimeseks lugemiseks ettevalmistamine.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b69a0935-ea3d-465f-9151-ce84bdad3069"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "21a408ff-5c65-410a-9d5f-0d3dff65d844"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 19.01.2026",
+      "uuid": "0d5373db-e348-40fb-a77f-473748e93981",
+      "files": [
+        "RAHK_protokoll_19.01.2026.asice",
+        "RAHK_protokoll_nr_199_19.01.2026.pdf"
+      ]
+    }
+  ],
+  "uuid": "45d524df-901f-41e0-bb98-f737ad0617c8",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 45d524df-901f-41e0-bb98-f737ad0617c8)",
+  "source": "https://api.riigikogu.ee/api/volumes/45d524df-901f-41e0-bb98-f737ad0617c8",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-01-01&endDate=2026-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
