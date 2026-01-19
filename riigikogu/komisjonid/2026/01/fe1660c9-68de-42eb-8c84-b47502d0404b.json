@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni erakorraline istung esmaspäev, 19.01.2026 kell 13.01",
+  "sitting_time": "2026-01-19T13:01:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kaitseväeteenistuse seaduse muutmise ja sellega seonduvalt teiste seaduste muutmise seaduse eelnõu (664 UA) teise lugemise ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4d1505fc-e7ef-4992-b898-f1e897c6b625"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7ce9fe6a-3309-4ba8-8c20-42e245cabba0"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Riigikaitsekomisjoni 19.01.2026 erakorralise istungi protokoll",
+      "uuid": "179dc767-a60a-49ca-8f46-0878cd5f1d4e",
+      "files": [
+        "Riigikaitsekomisjoni_19.01.2026_erakorralise_istungi_protokoll.asice",
+        "2026-01-19_protokoll_192_erakorraline.pdf"
+      ]
+    }
+  ],
+  "uuid": "fe1660c9-68de-42eb-8c84-b47502d0404b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid fe1660c9-68de-42eb-8c84-b47502d0404b)",
+  "source": "https://api.riigikogu.ee/api/volumes/fe1660c9-68de-42eb-8c84-b47502d0404b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-01-01&endDate=2026-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
