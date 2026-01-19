@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung esmaspäev, 19.01.2026 kell 11.15",
+  "sitting_time": "2026-01-19T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4324ff51-25c5-4a88-a468-f7a368d37600"
+    },
+    {
+      "order": 2,
+      "title": "Justiits- ja Digiministeeriumi koostatud karistusseadustiku muutmise seaduse väljatöötamiskavatsuse (narkootikumidega seotud süüteod) tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f995ef35-0a5c-463f-9e49-790bcba7b338"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "325e0515-1228-4224-8590-c790a1e90201"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ÕIGK protokoll 19.01.2026",
+      "uuid": "85d1194b-e63d-4f7e-b488-3dd4716eb383",
+      "files": [
+        "(Lisa_1)_Karistusseadustiku_muutmise_seaduse_valjat....pdf",
+        "ÕIGK_protokoll_19.01.2026.asice",
+        "Riigikogu_õiguskomisjoni_istungi_protokoll_nr_107.pdf"
+      ]
+    }
+  ],
+  "uuid": "29e0c617-5374-4c01-93be-cb61b30b428b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 29e0c617-5374-4c01-93be-cb61b30b428b)",
+  "source": "https://api.riigikogu.ee/api/volumes/29e0c617-5374-4c01-93be-cb61b30b428b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-01-01&endDate=2026-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
