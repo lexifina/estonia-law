@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung teisipäev, 20.01.2026 kell 14.00",
+  "sitting_time": "2026-01-20T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Prokuratuuri töökorraldus ja toimimine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e379d045-a111-40aa-8b9e-67e7832f44cd"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6bfe48a5-a933-4f86-bb0b-c2e9d7388dcb"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ÕIGK protokoll 20.01.2026",
+      "uuid": "e4ea85df-482e-4b8c-b2eb-7ec5aa29bc03",
+      "files": [
+        "ÕIGK_protokoll_20.01.2026.asice",
+        "Riigikogu_õiguskomisjoni_istungi_protokoll_nr_108.pdf"
+      ]
+    }
+  ],
+  "uuid": "99a85390-6166-4476-a1b7-b3e230ffa100",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 99a85390-6166-4476-a1b7-b3e230ffa100)",
+  "source": "https://api.riigikogu.ee/api/volumes/99a85390-6166-4476-a1b7-b3e230ffa100",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-01-01&endDate=2026-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
