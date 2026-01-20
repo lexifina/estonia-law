@@ -1,0 +1,43 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung teisipäev, 20.01.2026 kell 14.00",
+  "sitting_time": "2026-01-20T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud krediiditeabe jagamise seaduse eelnõu (652 SE) teiseks lugemiseks ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "98cdafab-b95e-4987-8fe1-257a580ef2c9"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ff4abda8-ba1c-4cea-9202-d9ff79d21c0d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 20.01.2026",
+      "uuid": "659810be-342a-46ea-aa14-a10adc96a236",
+      "files": [
+        "RAHK_protokoll_20.01.2026.asice",
+        "RAHK_protokoll_200_20.01.2026.pdf",
+        "652_SE_RAM_ettekande_slaidid_20.01.2026.pptx",
+        "A.Akkermanni_tagasikutsumine_20.01.2026._Lisa.pdf",
+        "Asendusliikme_volikiri_M.Helme-A.Poolamets_20.01.2026.pdf"
+      ]
+    }
+  ],
+  "uuid": "72f4e832-d402-4324-8b91-73ba61d4eb78",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 72f4e832-d402-4324-8b91-73ba61d4eb78)",
+  "source": "https://api.riigikogu.ee/api/volumes/72f4e832-d402-4324-8b91-73ba61d4eb78",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-01-01&endDate=2026-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
