@@ -1,0 +1,36 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni erakorraline istung teisipäev, 20.01.2026 kell 14.55",
+  "sitting_time": "2026-01-20T14:55:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Komisjoni esimehe Annely Akkermanni tagasikutsumise ettepanek",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5b083810-d6f5-4aac-97a6-b09a2c327bc8"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 20.01.2026",
+      "uuid": "c61587d9-1a1b-4144-99a3-f790b51b214f",
+      "files": [
+        "RAHK_protokoll_20.01.2026.asice",
+        "RAHK_protokoll_201_20.01.2026_erakorraline.pdf",
+        "Asendusliikme_volikiri_A.Kokk-P.Sibul_20.01.2026_20.01.2026.pdf",
+        "Asendusliikme_volikiri_M.Helme-A.Poolamets_20.01.2026.pdf"
+      ]
+    }
+  ],
+  "uuid": "f48f78f3-6ac7-41c6-84b2-d44157ebe7c5",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f48f78f3-6ac7-41c6-84b2-d44157ebe7c5)",
+  "source": "https://api.riigikogu.ee/api/volumes/f48f78f3-6ac7-41c6-84b2-d44157ebe7c5",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-01-01&endDate=2026-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
