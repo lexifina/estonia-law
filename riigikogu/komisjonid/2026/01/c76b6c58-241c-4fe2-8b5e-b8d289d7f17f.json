@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Väliskomisjoni väljasõiduistung Kaitsepolitseiametis teisipäev, 20.01.2026 kell 14.15",
+  "sitting_time": "2026-01-20T14:29:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade julgeolekuolukorra arengutest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "94fb8a85-04f8-4d7d-b16f-a57e11d1dbe1"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3a3902e4-b63c-4cd1-b0a0-b7a6d15a1fe7"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 20.01.2026",
+      "uuid": "8b928d4b-8822-4b71-90a4-58c241e466f8",
+      "files": [
+        "VÄLK_protokoll_20.01.2026.asice",
+        "VALK_protokoll_20260120.pdf"
+      ]
+    }
+  ],
+  "uuid": "c76b6c58-241c-4fe2-8b5e-b8d289d7f17f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c76b6c58-241c-4fe2-8b5e-b8d289d7f17f)",
+  "source": "https://api.riigikogu.ee/api/volumes/c76b6c58-241c-4fe2-8b5e-b8d289d7f17f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-01-01&endDate=2026-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
