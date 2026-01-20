@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung teisipäev, 20.01.2026 kell 14.00",
+  "sitting_time": "2026-01-20T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud inimgeeniuuringute seaduse eelnõu (749 SE) teise lugemise ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c0f3a19b-0fb9-4858-995d-033613adfad0"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "53d5a12b-589f-43e3-9730-c39f76e0b84e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "SOTK protokoll 20.01.2026",
+      "uuid": "ee23fdb9-b360-4641-8ca1-df602d298a03",
+      "files": [
+        "SOTK_protokoll_20.01.2026.asice",
+        "SOTK_protokoll_nr_154_(20.01.2026).pdf"
+      ]
+    }
+  ],
+  "uuid": "d6485a76-5460-44e8-9e2d-fe8cc991b619",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d6485a76-5460-44e8-9e2d-fe8cc991b619)",
+  "source": "https://api.riigikogu.ee/api/volumes/d6485a76-5460-44e8-9e2d-fe8cc991b619",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-01-01&endDate=2026-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
