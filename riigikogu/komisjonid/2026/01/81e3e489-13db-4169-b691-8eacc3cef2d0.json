@@ -1,0 +1,42 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung kolmapäev, 21.01.2026 kell 8:30",
+  "sitting_time": "2026-01-21T08:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Hasartmängumaksu seaduse muudatuste mõju",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8099f41f-f8f6-44d8-b8a6-abea340bc301"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a27d3ffe-a204-4191-96a1-a051d3fe5472"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 21.01.2026",
+      "uuid": "ad11c290-790d-4be2-aa91-50bb2db1169e",
+      "files": [
+        "REKK_protokoll_21.01.2026.asice",
+        "Ülevaade_õppijate_toetamise_meetmete_rakendamise_olukorrast_kutsehariduses.pdf",
+        "Ülevaade_õppijate_toetamise_meetmete_rakendamise_olukorrast_kutsehariduses.asice",
+        "Protokoll_nr_134_21.02.26.pdf"
+      ]
+    }
+  ],
+  "uuid": "81e3e489-13db-4169-b691-8eacc3cef2d0",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 81e3e489-13db-4169-b691-8eacc3cef2d0)",
+  "source": "https://api.riigikogu.ee/api/volumes/81e3e489-13db-4169-b691-8eacc3cef2d0",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-01-01&endDate=2026-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
