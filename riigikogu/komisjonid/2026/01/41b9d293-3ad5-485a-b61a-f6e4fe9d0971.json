@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni erakorraline istung neljapäev, 22.01.2026 kell 8.45",
+  "sitting_time": "2026-01-22T08:45:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikogu avaldus „Iraani rahva toetuseks\" eelnõu (802 AE) ettevalmistamine esimeseks lugemiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "36330b54-b919-4740-8de5-ecd5e6dd968c"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8342d33d-a515-4215-8197-a66670cc9b13"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 22.01.2026",
+      "uuid": "08a28738-c3d5-485b-a147-31215facc090",
+      "files": [
+        "VÄLK_protokoll_22.01.2026.asice",
+        "VÄLK_protokoll_22.01.2026.pdf"
+      ]
+    }
+  ],
+  "uuid": "41b9d293-3ad5-485a-b61a-f6e4fe9d0971",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 41b9d293-3ad5-485a-b61a-f6e4fe9d0971)",
+  "source": "https://api.riigikogu.ee/api/volumes/41b9d293-3ad5-485a-b61a-f6e4fe9d0971",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-01-01&endDate=2026-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
