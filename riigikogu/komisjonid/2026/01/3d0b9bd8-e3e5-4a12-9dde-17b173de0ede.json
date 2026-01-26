@@ -1,0 +1,53 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung esmaspäev, 26.01.2026 kell 11.15",
+  "sitting_time": "2026-01-26T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "46b1e7b1-e908-4971-90fe-84beb915316b"
+    },
+    {
+      "order": 2,
+      "title": "Piiriülese asendusemaduse keelustamise seaduse eelnõu (762 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9a6a1c5f-67ea-4abb-9314-9d7169962818"
+    },
+    {
+      "order": 3,
+      "title": "„Euroopa Liidu Õiguskaitsekoostöö Ameti tegevust kontrolliva parlamentaarse ühiskontrolli töörühma liikmete nimetamine“ eelnõu algatamise otsustamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0702fbaa-8164-478c-9ec8-77631281f97f"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "732bbb22-5379-4460-8163-072eabbb17f3"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ÕIGK protokoll 26.01.2026",
+      "uuid": "32850e23-a2bd-4a20-a90b-a9909009cf09",
+      "files": [
+        "Asendusliikme_volikiri_(A._Poolamets).pdf",
+        "ÕIGK_protokoll_26.01.2026.asice",
+        "Riigikogu_õiguskomisjoni_istungi_protokoll_nr_109.pdf"
+      ]
+    }
+  ],
+  "uuid": "3d0b9bd8-e3e5-4a12-9dde-17b173de0ede",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3d0b9bd8-e3e5-4a12-9dde-17b173de0ede)",
+  "source": "https://api.riigikogu.ee/api/volumes/3d0b9bd8-e3e5-4a12-9dde-17b173de0ede",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-01-01&endDate=2026-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
