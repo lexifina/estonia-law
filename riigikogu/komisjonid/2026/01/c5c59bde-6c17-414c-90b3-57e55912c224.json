@@ -1,0 +1,48 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Korruptsioonivastane erikomisjon",
+  "committee_uuid": "e4f2977a-e8c3-4fa0-8f3d-9df9acd6377f",
+  "title": "Komisjoni istung esmaspäev, 26.01.2026 kell 13.15",
+  "sitting_time": "2026-01-26T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8fab2315-2e52-4d36-a03f-6fe0900bd11f"
+    },
+    {
+      "order": 2,
+      "title": "Lüngad ja turvaohud e-hääletamise auditeerimise süsteemis",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d1bc74ac-e794-4379-a309-d5c76d64c8bc"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "98438b5b-05d9-449e-a197-1a3b7bfa478e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KVEK protokoll 82 (26.01.2026)",
+      "uuid": "3cf2b10c-2d3e-41b3-af9d-ca0ac9b83d91",
+      "files": [
+        "KVEK_protokoll_82_(26.01.2026).pdf",
+        "Asendusliikme_volikiri_3.pdf",
+        "Asendus_kor.kom_26.01.26.asice",
+        "KVEK_protokoll_82_(26.01.2026).asice"
+      ]
+    }
+  ],
+  "uuid": "c5c59bde-6c17-414c-90b3-57e55912c224",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c5c59bde-6c17-414c-90b3-57e55912c224)",
+  "source": "https://api.riigikogu.ee/api/volumes/c5c59bde-6c17-414c-90b3-57e55912c224",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-01-01&endDate=2026-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
