@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung teisipäev, 27.01.2026 kell 14.00",
+  "sitting_time": "2026-01-27T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Raporti „Eesti sisejulgeolekut mõjutavate globaalsete arengutrendide viie aasta (2026−2030) prognoos.“ tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bc845b16-4464-4f6e-90ef-3a21450f282c"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e96ee07a-0383-4e06-bd24-cd0dbb76e09b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ÕIGK protokoll 26.01.2026",
+      "uuid": "7b729e83-eb40-43ac-8337-5fe8e46a21f0",
+      "files": [
+        "ÕIGK_protokoll_26.01.2026.asice",
+        "Riigikogu_õiguskomisjoni_istungi_protokoll_nr_110.pdf"
+      ]
+    }
+  ],
+  "uuid": "aebdcca3-c585-44a8-9455-1bf04e48cb4b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid aebdcca3-c585-44a8-9455-1bf04e48cb4b)",
+  "source": "https://api.riigikogu.ee/api/volumes/aebdcca3-c585-44a8-9455-1bf04e48cb4b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-01-01&endDate=2026-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
