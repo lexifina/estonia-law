@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung kolmapäev, 28.01.2026 kell 08.30",
+  "sitting_time": "2026-01-28T08:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikontrolli kontrolliaruande „Terviseandmete õigsuse, täpsuse ja ajakohasuse tagamine“ arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cacd3f5c-903e-4c4a-89ef-d2d5c9d900c5"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ea356ed1-6f27-49ad-ad50-5259c80a8865"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 28.01.2026",
+      "uuid": "cc433e54-a29a-4ade-9318-2ee57039ddbd",
+      "files": [
+        "Terviseandmed_REKK_28.01.2026.pptx",
+        "REKK_protokoll_28.01.2026.asice",
+        "Protokoll_nr_135_28.01.26.pdf"
+      ]
+    }
+  ],
+  "uuid": "4e5148c9-a024-4716-b3fd-89697866cc84",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 4e5148c9-a024-4716-b3fd-89697866cc84)",
+  "source": "https://api.riigikogu.ee/api/volumes/4e5148c9-a024-4716-b3fd-89697866cc84",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-01-01&endDate=2026-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
