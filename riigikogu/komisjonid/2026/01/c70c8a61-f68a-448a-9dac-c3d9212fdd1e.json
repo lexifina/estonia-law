@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung neljapäev, 29.01.2026 kell 13.00",
+  "sitting_time": "2026-01-29T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade julgeolekuolukorra arengutest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "79dcb37b-e3b7-4618-a94c-3cb12a1ff553"
+    },
+    {
+      "order": 2,
+      "title": "Tulevikuvõime ja innovatsiooni väejuhatuse tutvustamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4b44ed6d-d378-4519-9a9a-69572c017f51"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Riigikaitsekomisjoni 29.01.2026 istungi protokoll",
+      "uuid": "bf2d5789-47e6-4ee0-9391-5c506fc76970",
+      "files": [
+        "Riigikaitsekomisjoni_29.01.2026_istungi_protokoll.asice",
+        "2026-01-29_protokoll_196.pdf"
+      ]
+    }
+  ],
+  "uuid": "c70c8a61-f68a-448a-9dac-c3d9212fdd1e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c70c8a61-f68a-448a-9dac-c3d9212fdd1e)",
+  "source": "https://api.riigikogu.ee/api/volumes/c70c8a61-f68a-448a-9dac-c3d9212fdd1e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-01-01&endDate=2026-01-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
