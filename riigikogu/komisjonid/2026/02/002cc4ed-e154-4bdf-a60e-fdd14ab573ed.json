@@ -1,0 +1,42 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung neljapäev, 5.02.2026 kell 12.00",
+  "sitting_time": "2026-02-05T12:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikogu liikme Tanel Teini algatatud hasartmängumaksu seaduse muutmise seaduse eelnõu (793 SE) teiseks lugemiseks ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "465af85f-6fdb-4d4f-bf9f-610ed124359f"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cbd5fe04-c0d0-44f1-a904-9d7805560582"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 05.02.2026",
+      "uuid": "97ed5abb-4e9f-4960-b48c-5d5eea750802",
+      "files": [
+        "RAHK_protokoll_05.02.2026.asice",
+        "RAHK_protokoll_204_05.02.2026.pdf",
+        "komisjoni_asendus_(05.02).docx",
+        "Asendusliikme_volikiri_M.Võrklaev-Timo_Suslov_05.02.2026.asice"
+      ]
+    }
+  ],
+  "uuid": "002cc4ed-e154-4bdf-a60e-fdd14ab573ed",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 002cc4ed-e154-4bdf-a60e-fdd14ab573ed)",
+  "source": "https://api.riigikogu.ee/api/volumes/002cc4ed-e154-4bdf-a60e-fdd14ab573ed",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-02-01&endDate=2026-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
