@@ -26,13 +26,13 @@
 
 määrusega.
 
-(7) Vastutuskindlustuse poliisil või muul tagatise olemasolu tõendaval dokumendil, mis on väljastatud laevale, millele kohaldatakse käesolevas paragrahvis sätestatud tagatise nõuet, peavad lisaks kaubandusliku meresõidu seaduse § 77³ lõikes 2 nimetatud andmetele olema märgitud järgmised andmed:
+(7) Vastutuskindlustuse poliisil või muul tagatise olemasolu tõendaval dokumendil, mis on väljastatud laevale, millele kohaldatakse käesolevas paragrahvis sätestatud tagatise nõuet, peavad olema märgitud lisaks käesoleva seaduse § 39¹ lõike 3 punktides 1–6 sätestatud andmetele järgmised andmed:
 
-1) laeva kutsungsignaal;
+1) laevapere liikme abitaotlusega tegeleva tagatiseandja töötaja või üksuse telefoninumber ja e-posti aadress;
 
-2) laevapere liikmete abitaotlustega tegeleva tagatiseandja töötaja või üksuse kontaktandmed;
+2) tagatiseandja kinnitus, et tagatisleping vastab Rahvusvahelise Tööorganisatsiooni meretöö konventsiooni standardi A2.5.2 nõuetele.
 
-3) tagatiseandja kinnitus, et tagatisleping vastab Rahvusvahelise Tööorganisatsiooni meretöö konventsiooni standardi A2.5.2 nõuetele.
+(7¹) Käesoleva paragrahvi lõikes 7 nimetatud muu tagatise olemasolu tõendav dokument on kas inglis- või eesti- ja ingliskeelne.
 
 (8) Tagatise olemasolu tõendav vastutuskindlustuse poliis või muu kehtiv dokument peab olema laeva pardal laevapere liikmetele kättesaadav. Kui tagatiseandjaid on mitu, peavad laeva pardal laevapere liikmetele kättesaadavad olema kõigi tagatiseandjate väljastatud tagatise olemasolu tõendavad kehtivad dokumendid.
 

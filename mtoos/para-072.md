@@ -6,6 +6,8 @@
 
 2) veenduma, et laevapere liiget teavitatakse sõlmitavas meretöölepingus sisalduvatest õigustest ja kohustustest, tagades laevapere liikmele võimaluse tutvuda meretöölepinguga enne ja pärast selle allkirjastamist ning meretöölepingu saamise;
 
+2¹) teavitama laevapere liiget hiljemalt meretöölepingu sõlmimise ajal käesoleva paragrahvi lõikest 2 tulenevast õigusest;
+
 3) kontrollima, et laevapere liikmel on tööleasumiseks nõutav kvalifikatsioon ja vajalikud dokumendid;
 
 4) kontrollima, et meretööleping on kooskõlas kehtivate õigusnormide ja kollektiivlepinguga, kui laevapere liikme suhtes kohaldatakse kollektiivlepingut;

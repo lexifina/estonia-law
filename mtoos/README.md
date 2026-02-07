@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/102012025027> (version in force from 2025-09-01)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/128012026006> (version in force from 2026-02-07)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -21,7 +21,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/102012025027> (version in force 
 | [§ 11](para-011.md) | Tähtajalise meretöölepingu alusel töötava laevapere liikme töötingimustest teavitamise erisus |
 | [§ 12](para-012.md) | Meretöölepingu sõlmimine alaealisega |
 | [§ 13](para-013.md) | Tähtajalise meretöölepingu sõlmimise erisus |
-| **3. peatükk Laevapere liikme, reederi ja kapteni õigused ja kohustused** | |
+| **3. peatükk Laevapere liikme, reederi, kapteni ja riigi õigused ja kohustused** | |
 | **1. jagu Laevapere liikme õiguste ja kohustuste erisus** | |
 | [§ 14](para-014.md) | Laevapere liikme kohustused |
 | [§ 15](para-015.md) | Laeva ohutusega seotud korralduste täitmine |
@@ -43,7 +43,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/102012025027> (version in force 
 | [§ 29](para-029.md) | Majutus |
 | [§ 30](para-030.md) | Töötervishoiu- ja tööohutusnõuded |
 | [§ 31](para-031.md) | Laeva merekõlblikkuse kontroll laevapere liikme nõudel |
-| **3. jagu Laevapere liikme tervisekontroll ning reederi ja kapteni kohustused laevapere liikme haiguse, vigastuse ja surma korral** | |
+| **3. jagu Laevapere liikme tervisekontroll ning reederi, kapteni ja riigi kohustused laevapere liikme haiguse, vigastuse ja surma korral** | |
 | [§ 32](para-032.md) | Laevapere liikme tervisekontrolli ja laeval meditsiiniabi andmise nõuded |
 | [§ 33](para-033.md) | Haigele või vigastatud laevapere liikmele meditsiiniabi andmine |
 | [§ 34](para-034.md) | Reederi lisakohustused laevapere liikme haiguse või vigastuse korral |
@@ -51,8 +51,9 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/102012025027> (version in force 
 | [§ 36](para-036.md) | Laevapere liikme haigusest või vigastusest tingitud kulude hüvitamine reederile |
 | [§ 37](para-037.md) | Reederi vastutus tööõnnetusest ja kutsehaigestumisest põhjustatud tervisekahjustuse korral |
 | [§ 38](para-038.md) | Reederi ja kapteni kohustused laevapere liikme surma korral |
+| [§ 38¹](para-038b1.md) | Riigi kohustused laevapere liikme surma korral |
 | [§ 39](para-039.md) | Laevapere liikme surmaga kaasnevad kulud |
-| [§ 39¹](para-039b1.md) | Kutsehaigestumisest ja tööõnnetusest põhjustatud tervisekahjustuse ja surmaga seotud lepinguliste nõuete hüvitamise tagatis |
+| [§ 39¹](para-039b1.md) | Kutsehaigestumisest ja tööõnnetusest põhjustatud tervisekahjustuse ja surmaga seotud lepinguliste nõuete hüvitamine ja hüvitamise tagatis |
 | **4. jagu Töö- ja puhkeaja erisus** | |
 | [§ 40](para-040.md) | Töö tegemise aja piirangu erisus |
 | [§ 41](para-041.md) | Öötöö hüvitamise erisus |
@@ -79,6 +80,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/102012025027> (version in force 
 | [§ 60](para-060.md) | Riigi õigused ja kohustused laevapere liikme kojusõidu korraldamisel |
 | [§ 61](para-061.md) | Laevalt mahajäämine |
 | [§ 61¹](para-061b1.md) | Tagatis laevapere liikme hülgamise korral |
+| [§ 61²](para-061b2.md) | Laevapere liikme kulude hüvitamise nõue hülgamise korral |
 | **7. jagu Laevapere liikme kaebus** | |
 | [§ 62](para-062.md) | Laevapere liikme kaebuse menetlemine laeval |
 | **8. jagu Laevapere liikme töö- ja elamistingimuste vastavus nõuetele** | |

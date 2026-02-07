@@ -4,13 +4,13 @@
 
 2. peatükk Meretöölepingu sõlmimise erisus
 
-3. peatükk Laevapere liikme, reederi ja kapteni õigused ja kohustused
+3. peatükk Laevapere liikme, reederi, kapteni ja riigi õigused ja kohustused
 
 - 1. jagu Laevapere liikme õiguste ja kohustuste erisus
 
 - 2. jagu Reederi ja kapteni õiguste ja kohustuste erisus
 
-- 3. jagu Laevapere liikme tervisekontroll ning reederi ja kapteni kohustused laevapere liikme haiguse, vigastuse ja surma korral
+- 3. jagu Laevapere liikme tervisekontroll ning reederi, kapteni ja riigi kohustused laevapere liikme haiguse, vigastuse ja surma korral
 
 - 4. jagu Töö- ja puhkeaja erisus
 
