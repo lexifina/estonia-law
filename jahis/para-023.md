@@ -42,4 +42,6 @@ määrusega.
 
 (6) Käesoleva paragrahvi lõikes 5 nimetatud jahiloa hinna ülemmäär on 500 eurot ja alammäär 0,5 eurot.
 
+(6¹) Käesoleva paragrahvi lõike 4 punktides 1 ja 3–5 sätestatud juhul antakse jahiluba tasuta.
+
 (7) Suurulukitele jahipidamine on lubatud jahipiirkonnas, mille jahimaa pindala ühes ringpiiris on vähemalt 5000 hektarit, välja arvatud käesoleva seaduse § 11 lõikes 3 sätestatud juhul.

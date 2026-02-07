@@ -70,4 +70,4 @@ jahieeskirjas.
 
 (6) Käesoleva paragrahvi lõike 4 punktis 4 sätestatud keeld ei laiene veelinnu-, kopra-, hallhülge- ega mingijahile seisva mootoriga veesõidukist.
 
-(7) Keskkonnaametil on õigus kehtestada uluki kaudu leviva haiguse tõkestamiseks tingimused ja ajavahemik, mille jooksul on lubatud ulukite laskmine seisva mootoriga mootor- ja maastikusõidukist, mootor- ja maastikusõidukit muul viisil kasutades, kunstliku valgusallika abil ning öösihikut kasutades.
+(7) Keskkonnaametil on õigus kehtestada uluki kaudu leviva haiguse tõkestamiseks, inimese elule või tervisele tekkiva ohu vältimiseks, võõrliigi isendi surmamiseks, uluki tekitatud kahjustuse vältimiseks ja vigastatud uluki hukkamiseks tingimused ning ajavahemik, mille jooksul on lubatud ulukite laskmine seisva mootoriga mootor- ja maastikusõidukist, mootor- ja maastikusõidukit muul viisil kasutades, kunstliku valgusallika abil ning öösihikut kasutades.
