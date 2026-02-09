@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 9.02.2026 kell 12.15",
+  "sitting_time": "2026-02-09T12:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6b0294d0-6696-4165-877a-01c70b5b2be1"
+    },
+    {
+      "order": 2,
+      "title": "Riigikontrolli audit „Riigi tegevusvaru moodustamine ja kasutuselevõtt“. Küsimused ja arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d8c149d5-f4a9-4bc1-9f50-de43dd6f9932"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "80c3f193-f852-4ef7-ab16-dcf02281a12a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 09.02.2026",
+      "uuid": "257b953e-4eff-41d6-89f1-c358c4368b13",
+      "files": [
+        "MAEK_protokoll_09.02.2026.asice",
+        "139_MAEK_protokoll_09.02.2026.pdf"
+      ]
+    }
+  ],
+  "uuid": "d81abfe0-dfe7-460f-9c1c-05596a31f153",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d81abfe0-dfe7-460f-9c1c-05596a31f153)",
+  "source": "https://api.riigikogu.ee/api/volumes/d81abfe0-dfe7-460f-9c1c-05596a31f153",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-02-01&endDate=2026-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
