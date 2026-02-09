@@ -1,0 +1,48 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 9.02.2026 kell 13.15",
+  "sitting_time": "2026-02-09T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "621124b8-b2bd-4400-b35f-93459018e7bd"
+    },
+    {
+      "order": 2,
+      "title": "Euroopa Liidu järgmise eelarveperioodi rahaliste vahendite planeerimine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "66a4a08e-1ab9-4e03-baf5-78d38264f6d1"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6ccc2336-c429-4b75-b46a-22b6f989c5ce"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 09.02.2026",
+      "uuid": "85ed3dbb-4b63-4e64-ae0c-cccc1cb0fbb7",
+      "files": [
+        "tomingas_Esitlus.pptx",
+        "esitlus_viira.pdf",
+        "Protokoll_nr_136_09.02.26.pdf",
+        "REKK_protokoll_09.02.2026.asice"
+      ]
+    }
+  ],
+  "uuid": "8da856ba-b365-4efc-a647-7b3e6c66d546",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8da856ba-b365-4efc-a647-7b3e6c66d546)",
+  "source": "https://api.riigikogu.ee/api/volumes/8da856ba-b365-4efc-a647-7b3e6c66d546",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-02-01&endDate=2026-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
