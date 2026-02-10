@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 10.02.2026 kell 14.00",
+  "sitting_time": "2026-02-10T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kollektiivse pöördumise \"Peatame loomavaenuliku eelnõu ja nõuame loomade heaolu arvestavaid seadusemuudatusi!\" tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "24fa2341-d2de-4f91-a01b-1bd31116c8d7"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "14119d1a-e07e-4a04-944a-b17c1cf06f2a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 10.02.2026",
+      "uuid": "6cc7619d-76c7-4ec4-bb2c-d4912ba688b7",
+      "files": [
+        "140_MAEK_protokoll_10.02.2026.pdf",
+        "140_protokolli_lisa_REM_10.02.2026.pdf",
+        "MAEK_protokoll_10.02.2026.asice"
+      ]
+    }
+  ],
+  "uuid": "63bc36ad-4e39-4ccf-8a4f-98f7142b81c5",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 63bc36ad-4e39-4ccf-8a4f-98f7142b81c5)",
+  "source": "https://api.riigikogu.ee/api/volumes/63bc36ad-4e39-4ccf-8a4f-98f7142b81c5",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-02-01&endDate=2026-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
