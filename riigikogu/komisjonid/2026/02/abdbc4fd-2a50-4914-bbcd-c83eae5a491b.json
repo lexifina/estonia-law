@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni erakorraline istung kolmapäev, 11.02.2026 kell 08.30",
+  "sitting_time": "2026-02-11T08:30:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 12. veebruaril 2026 toimuval mitteametlikul Euroopa Ülemkogul",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e7f5624d-ce25-4ef2-9d5a-f37dde848bf3"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "05d6316a-1e58-4d3e-babb-472cf44848d0"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ELAK protokoll nr 148 11.02.2026",
+      "uuid": "a8877197-80be-447e-868a-49bb95765787",
+      "files": [
+        "ELAK_protokoll_11.02.2026.asice",
+        "ELAK_protokoll_11.02.2026.pdf"
+      ]
+    }
+  ],
+  "uuid": "abdbc4fd-2a50-4914-bbcd-c83eae5a491b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid abdbc4fd-2a50-4914-bbcd-c83eae5a491b)",
+  "source": "https://api.riigikogu.ee/api/volumes/abdbc4fd-2a50-4914-bbcd-c83eae5a491b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-02-01&endDate=2026-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
