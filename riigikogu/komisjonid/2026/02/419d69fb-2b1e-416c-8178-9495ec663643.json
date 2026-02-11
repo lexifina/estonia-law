@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung kolmapäev, 11.02.2026 kell 08.30",
+  "sitting_time": "2026-02-11T08:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikontrolli kontrolliaruande „Riigi teenuste toimimine andmeside katkemise korral“ tutvustus ja arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b6ce85f9-93f3-49c2-a62c-e2fe63cf80dc"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "feeecd9c-a54e-4dae-8b23-43224e73b002"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 11.02.2026",
+      "uuid": "573b0743-1a63-403d-8b9f-87d9ce718861",
+      "files": [
+        "REKK_protokoll_11.02.2026.asice",
+        "REKK_esitlus_11.02.pptx",
+        "Protokoll_nr_137_11.02.26.pdf"
+      ]
+    }
+  ],
+  "uuid": "419d69fb-2b1e-416c-8178-9495ec663643",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 419d69fb-2b1e-416c-8178-9495ec663643)",
+  "source": "https://api.riigikogu.ee/api/volumes/419d69fb-2b1e-416c-8178-9495ec663643",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-02-01&endDate=2026-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
