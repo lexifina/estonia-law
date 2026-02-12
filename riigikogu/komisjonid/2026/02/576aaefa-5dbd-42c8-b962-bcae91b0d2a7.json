@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung neljapäev, 12.02.2026 kell 14.00",
+  "sitting_time": "2026-02-12T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Rahanduskomisjoni OTRK „ Kuidas ohjeldada küberkuritegevust finantsvaldkonnas. Tasakaal turvalisuse ja põhiõiguste vahel.“ ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "26a7ce76-a762-4ded-9607-c295a023a16e"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c6a19b57-ca19-44f3-bfce-a92a36135920"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 12.02.2026",
+      "uuid": "a4d91491-2885-46d0-ba32-f95195ba61c7",
+      "files": [
+        "RAHK_protokoll_12.02.2026.asice",
+        "Asendusliikme_volikiri_T._Tein-K._Tali_12.02.2026.pdf",
+        "RAHK_protokoll_nr_207_12.02.2026.pdf"
+      ]
+    }
+  ],
+  "uuid": "576aaefa-5dbd-42c8-b962-bcae91b0d2a7",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 576aaefa-5dbd-42c8-b962-bcae91b0d2a7)",
+  "source": "https://api.riigikogu.ee/api/volumes/576aaefa-5dbd-42c8-b962-bcae91b0d2a7",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-02-01&endDate=2026-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
