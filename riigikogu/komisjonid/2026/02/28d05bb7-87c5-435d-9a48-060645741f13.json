@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 16.02.2026 kell 11.10",
+  "sitting_time": "2026-02-16T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b92a891a-058e-4de6-8b1d-f3340573cc21"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade SAK-i õpituvastustest ning kavandatavatest muudatustest Põllumajandus- ja Toiduameti juhtimismudelis ja teenuste korraldamises",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "549af9e1-8035-4848-a281-9b2c5c27e210"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "82cb7fa5-58b3-475f-84c6-792a1792af8f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 16.02.2026",
+      "uuid": "8e4b01e7-11af-4939-a8c8-b73b16f51fe5",
+      "files": [
+        "MAEK_protokoll_16.02.2026.asice",
+        "141_MAEK_protokoll_16.02.2026.pdf",
+        "141_MAEK_protokolli_lisa_PTA.pdf"
+      ]
+    }
+  ],
+  "uuid": "28d05bb7-87c5-435d-9a48-060645741f13",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 28d05bb7-87c5-435d-9a48-060645741f13)",
+  "source": "https://api.riigikogu.ee/api/volumes/28d05bb7-87c5-435d-9a48-060645741f13",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-02-01&endDate=2026-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
