@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 16.02.2026 kell 13.15",
+  "sitting_time": "2026-02-16T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bbfd2480-b039-42ba-b43e-383e323be08f"
+    },
+    {
+      "order": 2,
+      "title": "Olukord elektriturul ning mõju riigieelarvele",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b8eb565b-762f-4c11-8dff-c3cd8e10ed13"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "eef79cc3-87c6-41c3-a358-09543b77e2dc"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 16.02.2026",
+      "uuid": "ae60f5be-964b-4847-b68d-b632e5036d40",
+      "files": [
+        "REKK_protokoll_16.02.2026.asice",
+        "Protokoll_nr_138_16.02.26.pdf",
+        "asendusliikme_volikiri_Laats.pdf"
+      ]
+    }
+  ],
+  "uuid": "4f80aa25-c1c8-4e5e-8b92-53ca93e6d4bd",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 4f80aa25-c1c8-4e5e-8b92-53ca93e6d4bd)",
+  "source": "https://api.riigikogu.ee/api/volumes/4f80aa25-c1c8-4e5e-8b92-53ca93e6d4bd",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-02-01&endDate=2026-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
