@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni väljasõiduistung teisipäev, 17.02.2026",
+  "sitting_time": "2026-02-17T14:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "E-riigi Akadeemia tegevuse prioriteedid ja eesmärgid",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cfe6d82a-a965-4e50-b6f6-11d369932a9f"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4c67dd1c-30bb-4ae1-a411-69ff5ab36ab9"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 17.02.2026",
+      "uuid": "c0e2b3a3-52d8-4c3d-aca1-734ac0071f79",
+      "files": [
+        "EGA_esitlus.pdf",
+        "VÄLK_protokoll_17.02.2026.asice",
+        "VÄLK_protokoll_17.02.2025.pdf"
+      ]
+    }
+  ],
+  "uuid": "bf26ba83-52e7-4c5d-996a-eea380fed59f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid bf26ba83-52e7-4c5d-996a-eea380fed59f)",
+  "source": "https://api.riigikogu.ee/api/volumes/bf26ba83-52e7-4c5d-996a-eea380fed59f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-02-01&endDate=2026-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
