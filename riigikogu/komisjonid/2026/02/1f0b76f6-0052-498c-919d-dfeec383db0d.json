@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung kolmapäev, 18.02.2026 kell 08.30",
+  "sitting_time": "2026-02-18T08:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kõrghariduse rahastamisest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c17391d0-381b-4702-a28b-34cddae4d21d"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cb0709eb-2ecd-4f40-9bbe-2a17805d3cb1"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 18.02.2026",
+      "uuid": "ed77fdf2-e3f8-4aeb-b719-d84d0809525c",
+      "files": [
+        "REKK_protokoll_18.02.2026.asice",
+        "Protokoll_nr_139_18.02.26.pdf"
+      ]
+    }
+  ],
+  "uuid": "1f0b76f6-0052-498c-919d-dfeec383db0d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 1f0b76f6-0052-498c-919d-dfeec383db0d)",
+  "source": "https://api.riigikogu.ee/api/volumes/1f0b76f6-0052-498c-919d-dfeec383db0d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-02-01&endDate=2026-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
