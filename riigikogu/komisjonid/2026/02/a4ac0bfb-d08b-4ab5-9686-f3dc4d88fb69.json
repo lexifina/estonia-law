@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung neljapäev, 19.02.2026 kell 08.30",
+  "sitting_time": "2026-02-19T08:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade E-Piima tehases toimuvast",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "86eccbf0-057e-4462-a421-853fe43b0383"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "21a657e1-59be-4984-b83c-05bf77bde403"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 19.02.2026",
+      "uuid": "8161c222-35ac-40ab-a4ad-d5a8c656115d",
+      "files": [
+        "142_MAEK_protokoll_19.02.2026.pdf",
+        "MAEK_protokoll_19.02.2026.asice"
+      ]
+    }
+  ],
+  "uuid": "a4ac0bfb-d08b-4ab5-9686-f3dc4d88fb69",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a4ac0bfb-d08b-4ab5-9686-f3dc4d88fb69)",
+  "source": "https://api.riigikogu.ee/api/volumes/a4ac0bfb-d08b-4ab5-9686-f3dc4d88fb69",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-02-01&endDate=2026-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
