@@ -1,0 +1,49 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 23.02.2026 kell 13.15",
+  "sitting_time": "2026-02-23T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "237453ee-b95f-431c-b761-532bc7ad2852"
+    },
+    {
+      "order": 2,
+      "title": "Rail Balticu rahastamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e002b1d7-a802-4d7c-ac23-c4dc5bfef009"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b8b77e66-41c2-4864-ac23-2b792305cc47"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 23.02.2026",
+      "uuid": "2ab6ec9f-fb85-4c1a-ba44-aef4d7d369aa",
+      "files": [
+        "REKK_protokoll_23.02.2026.asice",
+        "Protokoll_nr_140_23.02.26.pdf",
+        "turtelboom_esitlus_23.02.pptx",
+        "asendusliikme_volikiri_Tali.pdf",
+        "asendusliikme_volikiri_Laats.pdf"
+      ]
+    }
+  ],
+  "uuid": "2e277fc7-fbed-4145-b069-43decfd69be1",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2e277fc7-fbed-4145-b069-43decfd69be1)",
+  "source": "https://api.riigikogu.ee/api/volumes/2e277fc7-fbed-4145-b069-43decfd69be1",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-02-01&endDate=2026-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
