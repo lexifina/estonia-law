@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 23.02.2026 kell 11.10",
+  "sitting_time": "2026-02-23T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "166edb41-2761-4182-894a-a516a8eb09d3"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad Euroopa Liidu mahemääruse (EL) 2018/848 muudatusettepaneku kohta (COM(2025) 780). Arvamuse andmine Euroopa Liidu asjade komisjonile",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "61b64098-1ed5-4a41-ab28-40988ca34956"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "08df6dcf-9bc5-4414-bedb-0e6428bf2a35"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 23.02.2026",
+      "uuid": "78517ae2-724f-4db3-ad62-0a901ba2fcbf",
+      "files": [
+        "143_MAEK_protokoll_23.02.2026.pdf",
+        "MAEK_protokoll_23.02.2026.asice",
+        "143_MAEK_protokolli_lisa_ReM.pdf"
+      ]
+    }
+  ],
+  "uuid": "7a3e70c3-9ec5-4552-b1ff-8faedfa2007e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7a3e70c3-9ec5-4552-b1ff-8faedfa2007e)",
+  "source": "https://api.riigikogu.ee/api/volumes/7a3e70c3-9ec5-4552-b1ff-8faedfa2007e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-02-01&endDate=2026-02-28",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
