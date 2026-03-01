@@ -1,23 +1,27 @@
-# § 6. Hoiu-laenuühistu tehingud
+# § 6. Hoiu-laenuühistu osutatavad teenused ja lubatud tehingud
 
-(1) Hoiu-laenuühistu peamine ja püsiv tegevus on oma liikmetega järgmiste tehingute tegemine:
+(1) Hoiu-laenuühistu peamine ja püsiv tegevus on oma liikmetele finantsteenuste osutamine, mis seisneb järgmiste tehingute tegemises:
 
 1) hoiustamistehingud hoiuste ja muude tagasimakstavate rahaliste vahendite kaasamiseks;
 
-2) laenutehingud, sealhulgas tarbijakrediit, hüpoteeklaenud ja faktooring;
+2) laenutehingud, sealhulgas tarbijakrediit, hüpoteeklaen, faktooring ja muud äriühingute finantseerimise tehingud;
 
-3) liisingutehingud;
+3) tagatis- ja garantiitehingud ning muud isikule tulevikus siduvaid kohustusi tekitavad tehingud;
 
-4) Euroopa Komisjoni ja Euroopa Liidu Majanduspiirkonna lepinguriigi (edaspidi *lepinguriik*) asutatud sihtasutuste, struktuurifondide, makseagentuuride või teiste sarnaste isikute poolt pakutavate tagatiste, garantiide, toetuste ja sihtotstarbeliste tagasimakstavate rahaliste vahendite kaasamine ja nende vahendamine;
+4) liisingutehingud.
 
-5) krediidiasutuse, finantseerimisasutuse või kindlustusandja poolt pakutavate tagatiste, garantiide ja muude tagasimakstavate rahaliste vahendite kaasamine ja nende vahendamine;
+(2) Lisaks käesoleva paragrahvi lõikes 1 sätestatule võib hoiu-laenuühistu oma liikmetele osutada järgmisi teenuseid:
 
-6) nõustamine majandustegevust puudutavates küsimustes;
+1) Euroopa Komisjoni ja Euroopa Liidu Majanduspiirkonna lepinguriigi (edaspidi *lepinguriik*) asutatud sihtasutuse, struktuurifondi, makseagentuuri või teise sellise isiku pakutavate tagatiste, garantiide, toetuste ja sihtotstarbeliste tagasimakstavate rahaliste vahendite kaasamine ja nende vahendamine;
 
-7) muud tehingud, mis on sisult sarnased käesoleva lõike punktides 1–6 loetletud finantsteenustega.
+2) nõustamine majandustegevust puudutavates küsimustes.
 
-(2) Kindlaksmääramata isikute ringile võib hoiu-laenuühistu osutada:
+(3) Hoiu-laenuühistu võib liikmetele ja muudele isikutele osutada:
 
 1) valuutavahetusteenuseid;
 
-2) rahasiiret ning teisi makseteenuseid vastavalt makseasutuste ja e-raha asutuste seaduses sätestatule.
+2) rahasiiret ning teisi makseteenuseid vastavalt makseasutuste ja e-raha asutuste seaduse § 3 lõikes 1 sätestatule.
+
+(4) Hoiu-laenuühistu võib teha käesoleva paragrahvi lõigetes 1–3 nimetamata tehinguid ja toiminguid üksnes juhul, kui need abistavad või täiendavad hoiu-laenuühistu osutatavaid teenuseid.
+
+(5) Hoiu-laenuühistu ei või osutada käesolevas paragrahvis nimetatud teenuseid välisriigis piiriüleselt ega filiaali kaudu.

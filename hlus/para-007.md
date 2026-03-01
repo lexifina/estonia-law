@@ -4,7 +4,7 @@
 
 (2) Asutamislepingus peab lisaks tulundusühistuseaduse § 5 lõikes 2 sätestatud andmetele olema märgitud:
 
-1) hoiu-laenuühistu liikmeskonna moodustamise põhimõte ning vastavalt sellele tegevuspiirkond, liikmeskonna moodustamise aluseks olev tegevus- või kutseala või milles seisneb ühine majanduslik huvi;
+1) hoiu-laenuühistu liikmeskonna moodustamise põhimõte ning vastavalt sellele liikmeskonna moodustamise aluseks olev tegevus- või kutseala või milles seisneb ühine majanduslik huvi;
 
 2) asutajate poolt tasutud sisseastumismaksu ja osamaksu jaotus asutajate vahel;
 
@@ -12,4 +12,4 @@
 
 4) kui moodustatakse laenukomitee, selle liikmete nimed;
 
-5) revisjonikomisjoni liikmete nimed.
+5) revisjonikomisjoni liikmete nimed, isikukoodid ja kontaktandmed.

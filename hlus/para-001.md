@@ -1,3 +1,3 @@
-# § 1. Seaduse eesmärk
+# § 1. Seaduse reguleerimisala
 
-Käesolev seadus määrab kindlaks hoiu-laenuühistu õigusliku seisundi, tegevuse alused ning asutamise ja lõpetamise korra.
+Käesolev seadus määrab kindlaks hoiu-laenuühistu õigusliku seisundi, tegevuse alused, asutamise ja lõpetamise korra ning teabe avalikustamise nõuded.

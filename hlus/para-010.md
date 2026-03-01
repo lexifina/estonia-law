@@ -2,7 +2,7 @@
 
 Hoiu-laenuühistu põhikirjas peab lisaks tulundusühistuseaduses sätestatud andmetele olema märgitud:
 
-1) hoiu-laenuühistu liikmeskonna moodustamise põhimõte ning vastavalt sellele tegevuspiirkond, liikmeskonna moodustamise aluseks olev tegevus- või kutseala või milles seisneb ühine majanduslik huvi;
+1) hoiu-laenuühistu liikmeskonna moodustamise põhimõte ja vastavalt sellele liikmeskonna moodustamise aluseks olev tegevus- või kutseala või ühine majandustegevus, milles liikmed osalevad ja millega hoiu-laenuühistu teenib oma liikmete ühiseid majanduslikke huve;
 
 2) sisseastumismaksu suurus ja tasumise kord;
 

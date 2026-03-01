@@ -4,8 +4,6 @@
 
 (2) Hoiu-laenuühistu osakapital moodustatakse liikmete osamaksudest.
 
-(3) Hoiu-laenuühistu osakapital peab olema vähemalt 31 950 eurot. Hoiu-laenuühistu netovara peab tegutsemise igal ajahetkel vastama vähemalt osakapitalile.
+(3) Hoiu-laenuühistu osakapital peab olema vähemalt 125 000 eurot. Hoiu-laenuühistu netovara peab tegutsemise igal ajahetkel vastama vähemalt osakapitalile.
 
-(4) Osakapitali suurendamisel kohaldatakse äriseadustiku §-des 192, 192¹ ja 195 ning § 196 lõike 1 punktides 1–5 ja 7 ning lõigetes 3–3² ja 4 ning §-des 196¹ ja 196² sätestatut.
-
-(5) Osakapitali vähendamisel kohaldatakse äriseadustiku §-des 197 ja 197¹ ning § 199 lõigetes 1 ja 2 ning §-des 199², 200 ja 200¹ sätestatut. Osakapitali ei või vähendada alla käesoleva paragrahvi lõikes 3 nimetatud miinimumi.
+(6) Hoiu-laenuühistu liikmed või volinikud otsustavad osakapitali suuruse muutmise 12 kuu jooksul osakapitali suuruse muutmise aluseks oleva asjaolu ilmnemisest arvates. Hoiu-laenuühistu juhatus esitab äriregistrile viivitamata üldkoosoleku või volinike koosoleku otsuse, millega otsustatakse hoiu-laenuühistu osakapitali suuruse muutmine.

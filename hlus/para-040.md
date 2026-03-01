@@ -1,10 +1,8 @@
-# § 40. Hoiu-laenuühistu revisjonikomisjoni tegevus hoiu-laenuühistu usaldusväärsuse tagamise nõuete rikkumise korral
+# § 40. Hoiu-laenuühistu revisjonikomisjoni tegevus riskide tuvastamisel ja nõuete rikkumise korral
 
-(1) Hoiu-laenuühistu usaldusväärsuse tagamise meetmete ja laenudele esitatavate nõuete rikkumisest teatab revisjonikomisjon juhatusele.
+(1) Revisjonikomisjon esitab hoiu-laenuühistu juhatusele ja nõukogule vähemalt kord aastas ülevaate tuvastatud riskide, läbiviidud analüüside ja kontrollide tulemuste ning muude käesoleva seaduse §-s 39 nimetatud ülesannete täitmisel tuvastatud asjaolude kohta nende olemasolu korral. Ülevaade peab sisaldama hinnangut ka õigusaktidest tulenevate kohustuste täitmata jätmise õigusriskide ning nendega seotud muude riskide ja potentsiaalsete riskide kohta.
 
-(2) Hoiu-laenuühistu juhatus on kohustatud võtma tarvitusele abinõud rikkumiste kõrvaldamiseks kahe kuu jooksul.
-
-(3) Kui käesoleva paragrahvi lõikes 2 nimetatud tähtaja jooksul rikkumisi ei kõrvaldata, kutsub revisjonikomisjon tulundusühistuseaduses määratud korras kokku hoiu-laenuühistu erakorralise üldkoosoleku.
+(2) Kui hoiu-laenuühistu juhatus ei ole võtnud kasutusele abinõusid käesoleva seaduse § 39 lõikes 2 nimetatud rikkumiste kõrvaldamiseks kahe kuu jooksul nendest teadasaamisest arvates, nõuab revisjonikomisjon vastavalt § 32¹ lõike 2 punktile 5 juhatuselt hoiu-laenuühistu erakorralise üldkoosoleku kokkukutsumist.
 
 (4) Revisjonikomisjon võib teha erakorralisele üldkoosolekule ettepaneku:
 

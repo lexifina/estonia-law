@@ -10,7 +10,15 @@
 
 3) tehingute tegemise korra hoiu-laenuühistu nimel ja arvel ning klientide nimel ja arvel;
 
-4) alluvussuhted ja õiguste üleandmise korra, sätestades funktsioonide lahususe hoiu-laenuühistu nimel kohustuste võtmisel, väljamaksete tegemisel, tehingute kajastamisel raamatupidamises ja aruandluses ning tehingute riskide hindamisel.
+4) alluvussuhted ja õiguste üleandmise korra, sätestades funktsioonide lahususe hoiu-laenuühistu nimel kohustuste võtmisel, väljamaksete tegemisel, tehingute kajastamisel raamatupidamises ja aruandluses ning tehingute riskide hindamisel;
+
+5) sisemised protseduurireeglid rahvusvahelise sanktsiooni seaduse alusel kehtestatud rahvusvaheliste sanktsioonide kohaldamiseks ning rahapesu ja terrorismi rahastamise tõkestamise seaduse rakendamiseks ning nende täitmise sisekontrollieeskirjad;
+
+6) hoiu-laenuühistu liikmete nimel ja arvel tehingute ja toimingute tegemise ning nõustamisteenuse osutamise korra, sealhulgas liikmele laenu andmisel tema krediidivõimelisuse hindamise ja laenulepingu tagatiseks oleva vara hindamise korra;
+
+7) liikmega vaidluste lahendamise üldise korra;
+
+8) hoiu-laenuühistu juhatuse ja nõukogu liikmete sobivuse hindamise korra.
 
 (3) Hoiu-laenuühistu nimel tegutsev isik ei või esindada hoiu-laenuühistut tehingute tegemisel ning õigusvaidluste pidamisel kolmanda isikuga, kelle suhtes hoiu-laenuühistu nimel tegutseval isikul või temaga samaväärset majanduslikku huvi omavatel isikutel on isiklikke majanduslikke huvisid.
 

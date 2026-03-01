@@ -1,7 +1,13 @@
 # § 39. Hoiu-laenuühistu revisjonikomisjoni ülesanded
 
-(1) Revisjonikomisjon viib läbi ühistu majandusaasta aruande revideerimise, koostab revisjoniaruande ja esitab selle üldkoosolekule kinnitamiseks.
+(1) Revisjonikomisjon revideerib hoiu-laenuühistu tegevust, sealhulgas:
 
-(2) Revisjonikomisjon analüüsib hoiu-laenuühistu töös ja majandustegevuses avastatud puudusi, koostab neist perioodilisi ülevaateid ja esitab need olenevalt tähtsuse astmest hoiu-laenuühistu juhatusele, nõukogule või üldkoosolekule arutamiseks ja puuduste kõrvaldamiseks.
+1) kontrollib hoiu-laenuühistu ning tema juhtorganite liikmete ja nende tegevuse vastavust käesolevas seaduses ja tulundusühistuseaduses sätestatule, juhtorganite otsustele, sise-eeskirjadele, hoiu-laenuühistu sõlmitud lepingutele ja heale tavale;
 
-(3) Revisjonikomisjon jälgib pidevalt hoiu-laenuühistu poolt käesoleva seaduse 5. peatükis sätestatud nõuete täitmist ja esitab vastava aruande üldkoosolekule kinnitamiseks koos majandusaasta revisjoniaruandega.
+2) kontrollib käesoleva seaduse §-des 5 ja 6 ettenähtud tegevuse aluste järgimist ning sise-eeskirjade ja hoiu-laenuühistu kohustuste täitmisel esinevate puuduste kõrvaldamiseks võetud meetmete asjakohasust ja tulemuslikkust ning hindab neid regulaarselt;
+
+3) nõustab hoiu-laenuühistu teenuste osutamise eest vastutavaid töötajaid ja juhtorgani liikmeid käesolevas seaduses sätestatud kohustuste täitmisega seotud küsimustes;
+
+4) esitab käesoleva seaduse kohaselt ettenähtud aruandeid.
+
+(2) Revisjonikomisjon on kohustatud talle hoiu-laenuühistu kohta teatavaks saanud teabe, mis osutab käesoleva seaduse nõuetele mittevastavusele või liikme huvide olulisele kahjustamisele, viivitamata edastama hoiu-laenuühistu nõukogule ja üldkoosolekule ning hoiu-laenuühistu volinikele nende olemasolu korral.

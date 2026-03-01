@@ -2,9 +2,9 @@
 
 (1) Hoiu-laenuühistu lõpetatakse:
 
-1) üldkoosoleku otsuse alusel;
+1) üldkoosoleku otsuse alusel (vabatahtlik lõpetamine);
 
-2) kohtumäärusega;
+2) kohtumääruse alusel (sundlõpetamine);
 
 3) kui hoiu-laenuühistusse on jäänud vähem kui 25 liiget ja liikmete arv ei ole kahe kuu jooksul suurenenud;
 
