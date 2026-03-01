@@ -10,7 +10,7 @@
 
 4) suhtes on algatatud likvideerimis- või pankrotimenetlus.
 
-(2) Minister võib kehtestada käesoleva seaduse § 53¹ lõikes 1 nimetatud määrusega riigisisese projektipõhise toetuse tagasinõude määrad ning toetuse täpsustavad või muud tagasinõudmise alused.
+(2) võib kehtestada käesoleva seaduse § 53¹ lõikes 1 nimetatud määrusega riigisisese projektipõhise toetuse tagasinõude määrad ning toetuse täpsustavad või muud tagasinõudmise alused.
 
 (3) Riigisisese projektipõhise toetuse käesoleva paragrahvi lõikes 1 nimetatud alustel tagasinõudmisest võib loobuda, kui:
 

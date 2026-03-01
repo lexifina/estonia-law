@@ -25,3 +25,7 @@
 (4) Läbirääkimistel sõlmitud kokkulepete ja poolte lahkarvamuste protokoll lisatakse eelarvestrateegiale või riigieelarve eelnõu seletuskirjale.
 
 (5) Eelarvestrateegias esitatakse informatsioon kohaliku omavalitsuse üksustele edasiantavate maksude ning tasandusfondist ja toetusfondist määratavate toetuste eeldatavate suuruste kohta.
+
+(6) Kui Riigikogu või Vabariigi Valitsus kehtestab pärast kohaliku omavalitsuse üksuse eelarveaasta algust kohaliku omavalitsuse üksuse ülesannetega seotud õigusakti, mille alusel vähenevad kohaliku omavalitsuse üksuse eelarve sissetulekud või suurenevad väljaminekud jooksval eelarveaastal, hüvitab riik õigusakti kehtestamisega kaasnevad lisakulud eelarvele samas ulatuses või vähendab kohaliku omavalitsuse üksusele pandud kohustusi proportsionaalselt. Hüvitist ei maksta, kui õigusakti kehtestamise tulemusena vähenevad kohaliku omavalitsuse üksuse eelarve sissetulekud või suurenevad väljaminekud vähem kui 1000 euro ulatuses.
+
+(7) Käesoleva paragrahvi lõikes 6 nimetatud õigusakti kehtestamisega kaasnevaid lisakulusid ei hüvitata, kui Vabariigi Valitsuse õigusakt on kehtestatud kahe või enama kohaliku omavalitsuse üksuse kokkuleppe alusel või kui kulusid ei hüvitata üleriigilise kohaliku omavalitsuse üksuste liidu ja Vabariigi Valitsuse esindajate vahelise kokkuleppe alusel.
