@@ -4,15 +4,19 @@
 
 1) Kliimaministeerium;
 
+1¹) Keeleamet;
+
 2) Konkurentsiamet;
 
 3) Tarbijakaitse ja Tehnilise Järelevalve Amet;
 
 4) Transpordiamet;
 
-5) Tööinspektsioon;
+5) Tööinspektsioon.
 
 (2) Kliimaministeeriumi pädevuses on rahvusvahelistest lepingutest tulenevate ja raudteega seonduvate Eesti Vabariigi kohustuste täitmise tagamine ning vajaduse korral Eesti Vabariigi esindamine rahvusvahelistes raudteeorganisatsioonides, samuti avalikku raudteed majandava raudtee-ettevõtja poolt teiste riikide raudteed majandavate raudtee-ettevõtjate või raudteeorganisatsioonidega sõlmitud lepingutest kinnipidamise kontrollimine, kui need toovad kaasa õigusi ja kohustusi kolmandatele isikutele.
+
+(2¹) Keeleameti pädevuses on vedurijuhtide eesti keele oskuse taseme kontrollimine vastavalt komisjoni määruse (EL) 2019/554, millega muudetakse Euroopa Parlamendi ja nõukogu direktiivi 2007/59/EÜ (ühenduse raudteesüsteemis vedureid ja ronge juhtivate vedurijuhtide sertifitseerimise kohta) (ELT L 97, 08.04.2019, lk 1–5), VI lisale.
 
 (3) Konkurentsiameti pädevuses on:
 

@@ -15,3 +15,5 @@
 (7) Ohutusloa ja tegutsemise ohutustunnistuse väljaandmise, muutmise ja uuendamise otsustab Tarbijakaitse ja Tehnilise Järelevalve Amet. Otsus ja positiivse otsuse korral ohutusluba või tegutsemise ohutustunnistus edastatakse taotlejale viivitamata taotluses valitud viisil.
 
 (8) Ohutusluba ja tegutsemise ohutustunnistus kehtivad viis aastat.
+
+(9) Tarbijakaitse ja Tehnilise Järelevalve Amet võib otsustada anda ohutusloa ja tegutsemise ohutustunnistuse lühemaks ajaks kui viis aastat, kui see on vajalik raudteeinfrastruktuuri majandamist kahjustavate riskide tõhusa kontrolli tagamiseks. Sel juhul lisab Tarbijakaitse ja Tehnilise Järelevalve Amet otsusesse põhjenduse.

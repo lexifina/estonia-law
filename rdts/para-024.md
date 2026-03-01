@@ -1,16 +1,10 @@
 # § 24. Tegutsemise ohutustunnistuse väljaandmise, muutmise ja uuendamise taotlemine
 
-(1) Mitteavalikku raudteed majandada sooviv raudtee valdaja peab tegutsemise ohutustunnistuse saamiseks esitama Tarbijakaitse ja Tehnilise Järelevalve Ametile vastava taotluse, millele lisatakse:
+(1) Mitteavalikku raudteed majandada sooviv raudtee valdaja peab tegutsemise ohutustunnistuse saamiseks esitama Tarbijakaitse ja Tehnilise Järelevalve Ametile asjakohase taotluse, millele lisatakse:
 
-1) raudteeohutuse ja -liikluse eest vastutavate töötajate nimekiri, milles esitatakse töötaja ees- ja perekonnanimi, isikukood või selle puudumise korral sünniaeg ning töötajale väljaantud kutsetunnistuse number;
+1) kõikide osaliste allkirjastatud kinnituskiri või leping, kus on märgitud raudteeohutuse eest vastutava töötaja ees- ja perekonnanimi, isikukood või selle puudumise korral sünniaeg ning töötajale väljaantud kutsetunnistuse number;
 
-2) nende raudteerajatiste nimekiri, mis raudteeliiklusregistris ei kajastu;
-
-3) raudteeinfrastruktuuri ja raudteeliikluse korralduse nõuetele vastavuse kontrollimise aruanded, kui neid ei ole käesoleva seaduse § 46 kohaselt esitatud;
-
-4) millisel viisil taotleja otsuse edastamist soovib;
-
-5) andmed riigilõivu tasumise kohta.
+2) raudteede skeem koos asjakohaste raudteerajatistega ning skeemile märgitud rööbasteede ja pöörmete numbritega.
 
 (2) Mitteavalikul raudteel kauba- või reisijateveoga tegeleda sooviv ettevõtja, kellel ei ole käesoleva seaduse § 27 kohast ühtset ohutustunnistust, peab tegutsemise ohutustunnistuse saamiseks esitama Tarbijakaitse ja Tehnilise Järelevalve Ametile vastava taotluse, millele lisatakse:
 
@@ -18,9 +12,7 @@
 
 2) ettevõtja vedurijuhiabide nimekiri, milles esitatakse vedurijuhiabi ees- ja perekonnanimi, isikukood või selle puudumise korral sünniaeg ning vedurijuhiabile väljaantud kutsetunnistuse number;
 
-3) selle raudteeveeremi liik, alaliik, raudteeliiklusregistri kood, tootjatehas ja väljalaskeaasta, mida ettevõtja kavatseb kasutada kauba- või reisijateveoga tegelemiseks;
-
-4) millisel viisil taotleja otsuse edastamist soovib;
+3) selle raudteeveeremi liik, alaliik, Euroopa raudteeveeremi number, tootjatehas ja väljalaskeaasta, mida ettevõtja kavatseb kasutada kauba- või reisijateveoga tegelemiseks;
 
 5) andmed riigilõivu tasumise kohta.
 

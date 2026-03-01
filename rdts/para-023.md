@@ -4,8 +4,6 @@
 
 1) raudteeohutuse ja -liikluse eest vastutavate töötajate nimekiri, milles esitatakse töötaja ees- ja perekonnanimi, isikukood või selle puudumise korral sünniaeg ning töötajale väljaantud kutsetunnistuse number;
 
-2) nende raudteerajatiste nimekiri, mis raudteeliiklusregistris ei kajastu;
-
 3) raudteeinfrastruktuuri ja raudteeliikluse korralduse nõuetele vastavuse kontrollimise aruanded, kui neid ei ole käesoleva seaduse § 46 kohaselt esitatud;
 
 4) käesoleva seaduse § 40 nõuetele vastava ohutusjuhtimise süsteemi dokumentatsioon;

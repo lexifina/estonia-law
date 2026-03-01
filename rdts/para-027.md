@@ -8,7 +8,7 @@
 
 (4) Tegevusliik võib olla reisijatevedu, kaubavedu või ainult rongide koostamise ja manööverdamise teenus, tegevusulatus on mõõdetav reisijate arvu või kaubavedude mahu või asjaomase raudteeveoettevõtja eeldatava suuruse järgi, mis määratakse raudteesektoris töötavate inimeste arvu järgi, ning tegevuspiirkond on raudteevõrgustik või raudteevõrgustikud ühes või mitmes liikmesriigis, kus raudteeveoettevõtjal on kavas tegutseda.
 
-(5) Ühtne ohutustunnistus kehtib viis aastat ja seda muudetakse raudteeveoettevõtja taotlusel tervikuna või osaliselt iga kord, kui tegevusliik või tegevusulatus muutub.
+(5) Ühtne ohutustunnistus kehtib kuni viis aastat ja seda muudetakse raudteeveoettevõtja taotlusel tervikuna või osaliselt iga kord, kui tegevusliik või tegevusulatus muutub.
 
 (6) Ühtse ohutustunnistusega seotud toimingud teostatakse Euroopa Parlamendi ja nõukogu määruse (EL) 2016/796, mis käsitleb Euroopa Liidu Raudteeametit ja millega tunnistatakse kehtetuks määrus (EÜ) nr 881/2004 (ELT L 138, 26.05.2016, lk 1–43), artiklis 12 käsitletud ühtse kontaktpunkti (edaspidi *ühtne kontaktpunkt*) kaudu.
 

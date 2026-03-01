@@ -6,7 +6,7 @@
 
 2) rööbastee ja muldkeha, mille hulka kuuluvad süvendid, veeviimarid, rennid, truubid, taimed mulde nõlvade kaitseks ning piirded, hekid, tarad ja tuletõkestusribad;
 
-3) oote- ja laadimisplatvormid, sealhulgas platvormid, mis asuvad reisi- ja kaubajaamades, teepeenrad, jalgteed ning seadmed pöörangute ja ristmete soojendamiseks;
+3) oote- ja laadimisplatvormid, sealhulgas platvormid, mis asuvad reisi- ja kaubajaamades, teepeenrad, jalgteed ning seadmed pöörmete ja ristmete soojendamiseks;
 
 4) raudteesillad, -truubid ja muud viaduktid, tunnelid, kaetud süvendid ja jalakäijate tunnelid ning tugiseinad ja -rajatised;
 

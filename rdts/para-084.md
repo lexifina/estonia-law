@@ -2,7 +2,7 @@
 
 (1) Raudteevõrgustiku teadaanne koosneb kuuest jaost, mille sisu on nimetatud käesoleva paragrahvi lõigetes 2–7, ning läbilaskevõime taotluse vormist. Raudteevõrgustiku teadaandele lisatakse käesoleva seaduse § 89 lõike 1 kohaselt sõlmitava raudteeinfrastruktuuriettevõtja ning läbilaskevõime taotleja vahelise raamkokkuleppe näidis.
 
-(2) Üks jagudest peab kirjeldama raudteeveoettevõtjatele pakutava infrastruktuuri tehnilisi näitajaid ning sellele juurdepääsu tingimusi. Selles jaos esitatav teave viiakse igal aastal kooskõlla raudteeliiklusregistri andmetega või viidatakse raudteeliiklusregistrile.
+(2) Üks jagudest peab kirjeldama raudteeveoettevõtjatele pakutava infrastruktuuri tehnilisi näitajaid ning sellele juurdepääsu tingimusi. Selles jaos esitatav teave viiakse igal aastal kooskõlla Euroopa raudteeinfrastruktuuri registri andmetega või viidatakse sellele registrile.
 
 (3) Üks jagudest peab sisaldama nõuetekohaseid üksikasju kasutustasude määramise põhimõtete kohta, teavet kasutustasude suuruse kohta ning muud asjakohast teavet seoses juurdepääsuga käesoleva seaduse §-s 94 nimetatud teenustele ja teenindusrajatises osutatavatele teenustele, mida pakub raudteeinfrastruktuuriettevõtja. Lisaks esitatakse selles jaos üksikasjalik teave otseste kulude, lisatasude, kasutustasude vähendamise, tulemuslikkuskava, reserveerimistasude kohaldamise meetodite ja eeskirjade ning vajaduse korral määrade kohta nii kulude kui ka tasude puhul. Jagu sisaldab teavet teadaolevate kasutustasude muudatuste kohta, mis on juba otsustatud või mida kavandatakse järgmisel viiel aastal.
 

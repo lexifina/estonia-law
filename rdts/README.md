@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/130122025024> (version in force from 2026-01-01)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/119022026002> (version in force from 2026-03-01)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -145,7 +145,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/130122025024> (version in force 
 | [§ 121](para-121.md) | Raudteeveeremi turule laskmise loa menetlus |
 | [§ 122](para-122.md) | Raudteeveeremi turule laskmise loa taotlemine raudteeveeremi uuendamise ja ümberehitamise korral |
 | [§ 123](para-123.md) | Raudteeveeremi kasutusala laiendamine |
-| [§ 124](para-124.md) | Raudteeveeremi registreerimine |
+| [§ 124](para-124.md) | Raudteeveeremi registreerimine ja registreerimata raudteeveeremi kasutamine |
 | [§ 125](para-125.md) | Raudteeveeremi kasutuseelne kontroll |
 | [§ 126](para-126.md) | Raudteeveeremi tüübiluba |
 | [§ 127](para-127.md) | Raudteeveeremi vastavus lubatud raudteeveeremi tüübile |
@@ -161,11 +161,13 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/130122025024> (version in force 
 | [§ 136](para-136.md) | Tööaja arvestus |
 | **12. peatükk Raudteeliiklusregister** | |
 | [§ 137](para-137.md) | Raudteeliiklusregister |
+| [§ 137¹](para-137b1.md) | Raudteeveeremi numeratsioon Euroopa Liidus ja kolmandates riikides |
 | [§ 138](para-138.md) | Raudteeliiklusregistri andmed |
+| [§ 138¹](para-138b1.md) | Raudteeliiklusregistri andmete arhiveerimine |
 | [§ 139](para-139.md) | Raudteeliiklusregistrisse andmete esitamine |
 | [§ 140](para-140.md) | Raudteeliiklusregistrisse andmete esitamise tähtajad |
 | [§ 141](para-141.md) | Registreerimisest keeldumine ja registreeringu kehtetuks tunnistamine |
-| [§ 142](para-142.md) | Raudteeliiklusregistris registreerimata raudteerajatise ja raudteeveeremi kasutamine |
+| [§ 142](para-142.md) | Raudteeliiklusregistris registreerimata raudteerajatise kasutamine |
 | **13. peatükk Riiklik järelevalve** | |
 | [§ 143](para-143.md) | Riiklik järelevalve |
 | [§ 144](para-144.md) | Riikliku järelevalve erimeetmed |

@@ -1,6 +1,6 @@
 # § 170. Puudega või piiratud liikumisvõimega reisijale teabe või abi andmata jätmine
 
-(1) Euroopa Parlamendi ja nõukogu määruse (EÜ) nr 1371/2007 artiklis 20, 22 või 23 sätestatud nõude täitmata jätmise eest –
+(1) Euroopa Parlamendi ja nõukogu määruse (EL) 2021/782 artiklis 22 või 23 sätestatud nõude täitmata jätmise eest –
 
 karistatakse rahatrahviga kuni 100 trahviühikut.
 

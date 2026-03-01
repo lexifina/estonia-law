@@ -1,19 +1,25 @@
 # § 137. Raudteeliiklusregister
 
-(1) Raudteeliiklusregistri eesmärgiks on pidada arvestust raudteerajatiste, raudteeveeremi, vedurijuhilubade, sertifikaatide, ühtsete ohutustunnistuste, tegutsemise ohutustunnistuste ja ohutuslubade üle.
+(1) Raudteeliiklusregistri eesmärk on pidada arvestust raudteerajatiste, vedurijuhilubade, sertifikaatide, tegutsemise ohutustunnistuste ja ohutuslubade üle, et tagada raudteeohutus ning käesolevast seadusest ja Euroopa Liidu õigusaktidest tulenevate nõuete ning riikliku järelevalve ülesannete täitmine.
 
 (2) Raudteeliiklusregistri andmetel on informatiivne ja statistiline tähendus ning andmete kandmine raudteeliiklusregistrisse ei too kaasa õiguslikke tagajärgi, kui seaduses ei ole sätestatud teisiti.
 
-(3) Omaniku või valdaja nõudmisel väljastab Tarbijakaitse ja Tehnilise Järelevalve Amet raudteeliiklusregistris registreerimisel raudteerajatise või raudteeveeremi kohta registreerimistunnistuse.
+(5) Enne raudteerajatise registreerimise taotluse või registrikande muutmise taotluse esitamist peab raudteerajatise omanik või valdaja tasuma selle raudteeliiklusregistrisse kandmise eest riigilõivu riigilõivuseaduses sätestatud määras ja esitama andmed tasumise kohta registreerimise taotluses.
 
-(4) Raudteeveeremi valdaja kannab raudteeveeremile, mis liigub ainult Euroopa Liidu territooriumil, Euroopa raudteeveeremi numbri. Euroopa Liidust kolmandatesse riikidesse mineva, kolmandatest riikidest tuleva või kolmandates riikides kasutamiseks ette nähtud 1520 või 1524 millimeetri laiusel rööbasteel liikuvale raudteeveeremile kantakse raudteeveeremi number „SRÜ liikmesriikide, Aserbaidžaani Vabariigi, Gruusia Vabariigi, Läti Vabariigi, Leedu Vabariigi, Eesti Vabariigi kaubavagunite ning konteinerite ühiskasutuse kokkuleppe” ning „Endise NSVL TM kaubavagunite ja konteinerite inventariparkide SRÜ liikmesriikide, Aserbaidžaani Vabariigi, Gruusia Vabariigi, Läti Vabariigi, Leedu Vabariigi ja Eesti Vabariigi vahel jagamise ning nende edaspidise ühiskasutuse kokkuleppe” nõuete alusel.
+(6) Raudteeliiklusregistri pidamise põhimääruse kehtestab
 
-(5) Enne raudteeveeremi või raudteerajatise registreerimise taotluse esitamist või registrikande muutmise taotluse esitamist peab raudteeveeremi või raudteerajatise omanik või valdaja tasuma selle raudteeliiklusregistrisse kandmise ning registreerimistunnistuse väljastamise eest riigilõivu riigilõivuseaduses sätestatud määras ja esitama andmed selle kohta taotluses.
+määrusega, milles sätestatakse:
 
-(6) Raudteeliiklusregistri asutab ja selle pidamise põhimääruse kehtestab
+1) registrisse kantavate andmete täpsem koosseis ja andmete registrisse esitamise kord;
 
-määrusega.
+2) registri andmetele juurdepääsu kord ja andmete väljastamise tingimused;
 
-(7) Raudteeliiklusregistri vastutav töötleja on Kliimaministeerium ning volitatud töötleja on Tarbijakaitse ja Tehnilise Järelevalve Amet. Raudteeliiklusregistri põhimäärusega võib määrata täiendavaid volitatud töötlejaid.
+3) andmete säilitamise ja arhiveerimise kord;
+
+4) volitatud töötleja ja tema ülesanded;
+
+5) muud olulised nõuded, mis on vajalikud registri pidamiseks.
+
+(7) Raudteeliiklusregistri vastutav töötleja on Tarbijakaitse ja Tehnilise Järelevalve Amet.
 
 (8) Raudteeliiklusregistrit peetakse ühetasandilise elektroonilise andmebaasina.

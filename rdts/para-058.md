@@ -8,7 +8,7 @@
 
 1) vähemalt 20-aastane;
 
-2) omandanud vähemalt põhihariduse ja läbinud vedurijuhi 3. taseme kutseõppe või läbinud keskhariduse baasil vedurijuhi väljaõppe üldkoolituse;
+2) omandanud vähemalt põhihariduse ja läbinud vedurijuhi 3. taseme kutseõppe või keskhariduse baasil vedurijuhi väljaõppe üldkoolituse;
 
 3) esitanud tõendi käesoleva seaduse §-s 37 sätestatud tervisekontrolli läbimise kohta;
 

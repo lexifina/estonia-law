@@ -12,7 +12,7 @@
 
 5) raudteeveoettevõtjale eraldatud läbilaskevõimeosa kasutamiseks vajaliku teabe edastamine, milleks on raudteeinfrastruktuuriettevõtja poolne raudteeveoettevõtja teavitamine infrastruktuuri liikluskorraldusest, eeskirjadest, liiklushäiretest ja teistest liiklusmuudatustest selle läbilaskevõimeosa ulatuses;
 
-6) raudteeinfrastruktuuri, sealhulgas pöörangute ja haruteede kasutamine;
+6) raudteeinfrastruktuuri, sealhulgas pöörmete ja haruteede kasutamine;
 
 7) veoalajaamade, kontaktvõrgu ja veoelektri ülekandeliinide kasutamise tagamine kohtades, kus see on võimalik.
 

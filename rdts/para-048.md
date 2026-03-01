@@ -28,4 +28,4 @@
 
 (8) Raudteeohutust mõjutava juhtumi tagajärjel raudteeliikluse katkemise korral kauemaks kui 12 tunniks võib Tarbijakaitse ja Tehnilise Järelevalve Amet nõuda raudteeinfrastruktuuriettevõtjalt või mitteavaliku raudtee valdajalt aruande esitamist raudteeliikluse taastamise ajakulu põhjuste, ohutusjuhtimise süsteemis kajastatud tegutsemisplaani ajakohasuse ning vajalike lisameetmete kohta.
 
-(9) Pärast tõsist õnnetusjuhtumit peab raudteeveoettevõtja abistama ohvreid, aidates neid eelkõige Euroopa Parlamendi ja nõukogu määruse (EÜ) nr 1371/2007 kohaste kaebuste esitamise menetlustes, ilma et see piiraks teiste poolte kohustusi. Selline abi hõlmab asjakohaste suhtluskanalite kasutamist ja psühholoogilist tuge tõsise õnnetusjuhtumi ohvritele ja nende pereliikmetele.
+(9) Pärast tõsist õnnetusjuhtumit peab raudteeveoettevõtja abistama ohvreid, aidates neid eelkõige Euroopa Parlamendi ja nõukogu määruse (EL) 2021/782 kohaste kaebuste esitamise menetlustes, ilma et see piiraks teiste poolte kohustusi. Selline abi hõlmab asjakohaste suhtluskanalite kasutamist ja psühholoogilist tuge tõsise õnnetusjuhtumi ohvritele ja nende pereliikmetele.

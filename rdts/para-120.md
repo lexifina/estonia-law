@@ -12,4 +12,4 @@
 
 3) kuidas on tagatud käesoleva lõike punktis 1 nimetatud allsüsteemide ohutu integreerimine raudteeveeremisse ja kuidas see vastab kohaldatavatele koostalitluse tehnilistele kirjeldustele ning kohaldatavatele riigisisestele eeskirjadele ning ühistele ohutusmeetoditele;
 
-4) kuidas on tagatud raudteeveeremi tehniline ühilduvus taotluses märgitud kasutusala raudteevõrgustikuga ja kuidas see vastab kohaldatavatele koostalitluse tehnilistele kirjeldustele ning kohaldatavatele riigisisestele eeskirjadele, raudteeliiklusregistrite andmetele ning Euroopa Parlamendi ja nõukogu direktiivi (EL) 2016/798 artiklis 6 käsitletud riskihindamise ühisele ohutusmeetodile.
+4) kuidas on tagatud raudteeveeremi tehniline ühilduvus taotluses märgitud kasutusala raudteevõrgustikuga ja kuidas see vastab kohaldatavatele koostalitluse tehnilistele kirjeldustele ning kohaldatavatele riigisisestele eeskirjadele, Euroopa raudteeveeremi registri andmetele ning Euroopa Parlamendi ja nõukogu direktiivi (EL) 2016/798 artiklis 6 käsitletud riskihindamise ühisele ohutusmeetodile.
