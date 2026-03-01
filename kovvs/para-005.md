@@ -2,8 +2,6 @@
 
 (1) Hääletamisõigus on Eesti kodanikul ja Euroopa Liidu kodanikul, kes on valimispäevaks saanud 16-aastaseks ja kelle püsiv elukoht, see tähendab õigusliku tähendusega elukoht rahvastikuregistri seaduse § 65 lõigete 1 või 2 tähenduses asub rahvastikuregistri andmetel vastavas vallas või linnas.
 
-(2) Hääletamisõigus on kodakondsuseta isikul, kes vastab käesoleva paragrahvi lõikes 1 nimetatud tingimustele ja elab Eestis pikaajalise elaniku elamisloa või alalise elamisõiguse alusel.
-
 (3) Hääleõiguslik ei ole isik, kes on valimisõiguse osas teovõimetuks tunnistatud.
 
 (4) Hääletamisest ei võta osa isik, kes on kohtu poolt süüdi mõistetud ja kannab karistust kinnipidamiskohas.

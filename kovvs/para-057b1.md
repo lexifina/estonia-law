@@ -2,7 +2,7 @@
 
 (1) Käesoleva seaduse § 4 lõikes 2 sätestatud juhul viiakse uue kohaliku omavalitsuse üksuse volikogu valimised läbi käesoleva seaduse kohaselt käesolevas peatükis ettenähtud erisusi arvestades.
 
-(2) Uue kohaliku omavalitsuse üksuse volikogu valimistel saavad hääletamisest osa võtta isikud, kes vastavad käesoleva seaduse § 5 lõigetes 1–4 ettenähtud tingimustele ja kelle püsiv elukoht, see tähendab elukoht, mille aadressiandmed on kantud rahvastikuregistrisse, asub ühineva kohaliku omavalitsuse üksuse territooriumil.
+(2) Uue kohaliku omavalitsuse üksuse volikogu valimistel saavad hääletamisest osa võtta isikud, kes vastavad käesoleva seaduse § 5 lõigetes 1, 3 ja 4 ettenähtud tingimustele ja kelle püsiv elukoht, see tähendab elukoht, mille aadressiandmed on kantud rahvastikuregistrisse, asub ühineva kohaliku omavalitsuse üksuse territooriumil.
 
 (3) Uue kohaliku omavalitsuse üksuse volikogu valimistel saavad kandideerida isikud, kes vastavad käesoleva seaduse § 5 lõigetes 5 ja 6 ettenähtud tingimustele ja kelle püsiv elukoht, see tähendab elukoht, mille aadressiandmed on kantud rahvastikuregistrisse, asub valimiste väljakuulutamise päeval ühineva kohaliku omavalitsuse üksuse territooriumil.
 

@@ -2,7 +2,7 @@
 
 (1) Täiendavad valimised viiakse läbi käesoleva seaduse kohaselt käesolevas peatükis ettenähtud erisusi arvestades.
 
-(2) Täiendavatel valimistel saavad hääletamisest osa võtta isikud, kes vastavad käesoleva seaduse § 5 lõigetes 1–4 ettenähtud tingimustele ja kelle püsiv elukoht, see tähendab elukoht, mille aadressiandmed on kantud rahvastikuregistrisse, asub valimiste väljakuulutamise päeval selles vallas või linnas.
+(2) Täiendavatel valimistel saavad hääletamisest osa võtta isikud, kes vastavad käesoleva seaduse § 5 lõigetes 1, 3 ja 4 ettenähtud tingimustele ja kelle püsiv elukoht, see tähendab elukoht, mille aadressiandmed on kantud rahvastikuregistrisse, asub valimiste väljakuulutamise päeval selles vallas või linnas.
 
 (3) Täiendavatel valimistel saavad kandideerida isikud, kes vastavad käesoleva seaduse § 5 lõigetes 5 ja 6 ettenähtud tingimustele ja kelle püsiv elukoht, see tähendab elukoht, mille aadressiandmed on kantud rahvastikuregistrisse, asub valimiste väljakuulutamise päeval selles vallas või linnas.
 
