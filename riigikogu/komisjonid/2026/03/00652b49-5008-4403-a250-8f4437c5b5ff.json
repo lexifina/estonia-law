@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung esmaspäev, 9.03.2026 kell 11.10",
+  "sitting_time": "2026-03-09T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a768b04a-6f1e-43f8-a520-ac180e6574e0"
+    },
+    {
+      "order": 2,
+      "title": "Keskkonnakomisjoni algatatud atmosfääriõhu kaitse seaduse muutmise seaduse eelnõu (393 SE) teise lugemise jätkamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d1f47277-f56a-4f18-a947-c0f6f31e5b58"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c7e3c1ef-d372-4c90-bfd0-4e38a6cf537e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK protokoll 09.03.2026",
+      "uuid": "0cedd3fe-59ed-4a90-9d6a-693d0801f65d",
+      "files": [
+        "KEKK_protokoll_09.03.2026.asice",
+        "KEKK_protokoll_nr_145_09.03.2026.pdf"
+      ]
+    }
+  ],
+  "uuid": "00652b49-5008-4403-a250-8f4437c5b5ff",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 00652b49-5008-4403-a250-8f4437c5b5ff)",
+  "source": "https://api.riigikogu.ee/api/volumes/00652b49-5008-4403-a250-8f4437c5b5ff",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-03-01&endDate=2026-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
