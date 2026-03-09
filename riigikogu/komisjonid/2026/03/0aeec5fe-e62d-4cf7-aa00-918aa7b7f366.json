@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung esmaspäev, 9.03.2026 kell 11.10",
+  "sitting_time": "2026-03-09T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d3cdec7b-7e8c-4619-a9f3-aa467fee7b28"
+    },
+    {
+      "order": 2,
+      "title": "Kaitseministeeriumi 2026. aasta õigusloome plaani tutvustamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "adefd2dd-9e12-4286-b04e-7fe7485c8ee2"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ebaaff0b-217e-43a2-9477-3cb9f13e73ea"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Riigikaitsekomisjoni 9.03.2026 istungi protokoll",
+      "uuid": "fb7427f3-be85-4e30-9935-6886e1f64527",
+      "files": [
+        "Riigikaitsekomisjoni_9.03.2026_istungi_protokoll.asice",
+        "2026-03-09_protokoll_205.pdf"
+      ]
+    }
+  ],
+  "uuid": "0aeec5fe-e62d-4cf7-aa00-918aa7b7f366",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0aeec5fe-e62d-4cf7-aa00-918aa7b7f366)",
+  "source": "https://api.riigikogu.ee/api/volumes/0aeec5fe-e62d-4cf7-aa00-918aa7b7f366",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-03-01&endDate=2026-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
