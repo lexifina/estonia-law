@@ -1,0 +1,53 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Korruptsioonivastane erikomisjon",
+  "committee_uuid": "e4f2977a-e8c3-4fa0-8f3d-9df9acd6377f",
+  "title": "Komisjoni istung esmaspäev, 9.03.2026 kell 13.15",
+  "sitting_time": "2026-03-09T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cef8b07e-105e-42db-8a45-a6fe9201d81b"
+    },
+    {
+      "order": 2,
+      "title": "Riigiettevõtetega (Enefit Green ja Enefit Power) seotud kriminaalmenetlused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d9d6af85-5589-4aca-a254-76aff3992e80"
+    },
+    {
+      "order": 3,
+      "title": "Euroopa Komisjoni õigusriigi raporti intervjuu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d053fbe4-5122-4bcf-9f56-dead266c7059"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6ee6a017-0e68-4ff7-9d3d-5b2fcc429bce"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KVEK protokoll 85 (09.03.2026)",
+      "uuid": "b5f72a3a-dba6-469f-8a02-5d608b4de81f",
+      "files": [
+        "KVEK_protokoll_85_(09.03.2026).pdf",
+        "Asendusliikme_volikiri_M._Kadastik_U._Tiidus.asice",
+        "KVEK_protokoll_85_(09.03.2026)_(1).asice"
+      ]
+    }
+  ],
+  "uuid": "8b654c46-be20-4bb8-886b-b4bc86f760db",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8b654c46-be20-4bb8-886b-b4bc86f760db)",
+  "source": "https://api.riigikogu.ee/api/volumes/8b654c46-be20-4bb8-886b-b4bc86f760db",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-03-01&endDate=2026-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
