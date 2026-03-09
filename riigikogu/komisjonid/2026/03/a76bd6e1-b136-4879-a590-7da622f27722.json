@@ -1,0 +1,53 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung esmaspäev, 9.03.2026 kell 11.15",
+  "sitting_time": "2026-03-09T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a923275d-b371-43a2-9b00-d363dd235b36"
+    },
+    {
+      "order": 2,
+      "title": "Kollektiivne pöördumine \"Rahvaalgatus toidukaupadele kehtiva käibemaksumäära vähendamiseks\"",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "622fe62c-cf80-450b-9da6-61a0ce093ec9"
+    },
+    {
+      "order": 3,
+      "title": "Rahandusministeeriumi ülevaade 2025. aasta riigieelarve täitmisest ja jääkidest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "88dff260-7ce1-4286-90e3-745cc1785078"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "22d5583b-46e3-42b1-86f8-20ae9436d401"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 09.03.2026",
+      "uuid": "dcc875bd-19fa-4ada-a211-cefb2c9d17bf",
+      "files": [
+        "RAHK_protokoll_09.03.2026.asice",
+        "RAHK_protokoll_211_09.03.2026.pdf",
+        "RAM_ülevaade_jääkidest_09_03_2026.pptx"
+      ]
+    }
+  ],
+  "uuid": "a76bd6e1-b136-4879-a590-7da622f27722",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a76bd6e1-b136-4879-a590-7da622f27722)",
+  "source": "https://api.riigikogu.ee/api/volumes/a76bd6e1-b136-4879-a590-7da622f27722",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-03-01&endDate=2026-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
