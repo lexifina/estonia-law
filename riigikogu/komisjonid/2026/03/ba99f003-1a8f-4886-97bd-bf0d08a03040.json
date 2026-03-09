@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 9.03.2026 kell 13.15",
+  "sitting_time": "2026-03-09T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "281845e3-1e9b-4533-bece-6e0984db1090"
+    },
+    {
+      "order": 2,
+      "title": "Valitsuse kavad energeetikas ja seisukohad ETS-süsteemi tuleviku kohta",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a7f678bc-1a07-4947-ac41-377eb121a6bd"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6ecd735c-c8ce-45e4-b63a-6043677ef9fa"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 09.03.2026",
+      "uuid": "716b31a4-e18e-480e-b0d6-2d3f679e514a",
+      "files": [
+        "REKK_protokoll_09.03.2026.asice",
+        "Protokoll_nr_141_09.03.26.pdf"
+      ]
+    }
+  ],
+  "uuid": "ba99f003-1a8f-4886-97bd-bf0d08a03040",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ba99f003-1a8f-4886-97bd-bf0d08a03040)",
+  "source": "https://api.riigikogu.ee/api/volumes/ba99f003-1a8f-4886-97bd-bf0d08a03040",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-03-01&endDate=2026-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
