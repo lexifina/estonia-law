@@ -1,0 +1,53 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 9.03.2026 kell 11.10",
+  "sitting_time": "2026-03-09T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "60cbe211-370b-4b78-92f9-1e54957ab681"
+    },
+    {
+      "order": 2,
+      "title": "Maakatastriseaduse, maakorraldusseaduse, kinnistusraamatuseaduse jt seaduste muutmise seaduse väljatöötamiskavatsuse tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "238119a9-04d5-4621-95b1-d53909d04939"
+    },
+    {
+      "order": 3,
+      "title": "Kalapüügiseaduse ja selle alusel kehtestatud ajutiste püügikitsenduste määruse rakendamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6ecff811-4fb2-435b-91b2-d51eaea8f623"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "29b49920-bb36-4e60-b93e-d543d6716221"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 09.03.2026",
+      "uuid": "617c03ea-efa2-4979-bedd-92a597048364",
+      "files": [
+        "MAEK_protokoll_09.03.2026.asice",
+        "144_MAEK_protokoll_09.03.2026.pdf",
+        "144_MAEK_protokolli_lisa_VTK_sisu_ja_tagasiside.pdf"
+      ]
+    }
+  ],
+  "uuid": "e77691d2-0571-4c04-af25-1dbd19c40df4",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e77691d2-0571-4c04-af25-1dbd19c40df4)",
+  "source": "https://api.riigikogu.ee/api/volumes/e77691d2-0571-4c04-af25-1dbd19c40df4",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-03-01&endDate=2026-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
