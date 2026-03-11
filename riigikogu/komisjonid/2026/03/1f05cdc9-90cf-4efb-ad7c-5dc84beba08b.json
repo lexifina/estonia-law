@@ -1,0 +1,42 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Korruptsioonivastane erikomisjon",
+  "committee_uuid": "e4f2977a-e8c3-4fa0-8f3d-9df9acd6377f",
+  "title": "Riigieelarve kontrolli erikomisjoni ja korruptsioonivastase erikomisjoni ühine istung kolmapäev, 11.03.2026 kell 08.30",
+  "sitting_time": "2026-03-11T08:30:00",
+  "sitting_type": "UHISISTUNG",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Auvere õlitehase staatuse allahindamisest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "eb2fc2d8-5559-4897-81b4-9ca9fa81a8e2"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b209b621-a701-44f1-9848-d8dd315a76e4"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 11.03.2026",
+      "uuid": "d4f7960a-c6c7-4aed-8172-b1b67c5b0407",
+      "files": [
+        "Protokoll_11.03.2026.asice",
+        "KVEK_ja_REKK_ühine_istung_11.03.26.pdf",
+        "Asendus2_KVEK_11.03.26(M.Võrklaev).docx",
+        "Asendus_KVEK_11.03.26(Y.Alender).docx"
+      ]
+    }
+  ],
+  "uuid": "1f05cdc9-90cf-4efb-ad7c-5dc84beba08b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 1f05cdc9-90cf-4efb-ad7c-5dc84beba08b)",
+  "source": "https://api.riigikogu.ee/api/volumes/1f05cdc9-90cf-4efb-ad7c-5dc84beba08b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-03-01&endDate=2026-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
