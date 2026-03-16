@@ -1,0 +1,53 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Maaelukomisjoni ja keskkonnakomisjoni ühine istung esmaspäev, 16.03.2026 kell 11.10",
+  "sitting_time": "2026-03-16T11:10:00",
+  "sitting_type": "UHISISTUNG",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Maaelukomisjoni nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "39fe0cf0-e399-45d4-9c6f-48e7e606d4e9"
+    },
+    {
+      "order": 2,
+      "title": "Keskkonnakomisjoni nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ecc0e105-763a-4b94-bd56-57163a7a4512"
+    },
+    {
+      "order": 3,
+      "title": "Eesti seisukohad Euroopa Liidu konkurentsivõimelise ja kestliku biomajanduse strateegilise raamistiku kohta - COM(2025) 960. Arvamuse andmine Euroopa Liidu asjade komisjonile",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "454a4841-f469-44ad-855c-0e8c3eeaf538"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fc74d343-795c-4ffc-b3b4-b1e27ff47e41"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll 16.03.2026",
+      "uuid": "39757fb7-c0d8-4bea-83cc-d620ef4e30b7",
+      "files": [
+        "094_MAEK_ja_KEKK_ühine_istung_16.03.2026.pdf",
+        "094_MAEK_ja_KEKK_protokolli_lisa_REM.pdf",
+        "Protokoll_16.03.2026.asice"
+      ]
+    }
+  ],
+  "uuid": "efed5b1e-98db-4ac4-b838-5a6830d42694",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid efed5b1e-98db-4ac4-b838-5a6830d42694)",
+  "source": "https://api.riigikogu.ee/api/volumes/efed5b1e-98db-4ac4-b838-5a6830d42694",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-03-01&endDate=2026-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
