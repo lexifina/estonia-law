@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung esmaspäev, 16.03.2026 kell 11.15",
+  "sitting_time": "2026-03-16T11:20:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5922394a-e493-4004-ba83-25c44cdb419a"
+    },
+    {
+      "order": 2,
+      "title": "Arengud Lähis-Idas",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7f871c3b-98ec-4fd6-a99d-4c978c02c470"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "753c71c7-d59e-4264-a7b4-71fd76484d3e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 16.03.2026",
+      "uuid": "751e397f-ac2b-47e1-86ba-52323852615f",
+      "files": [
+        "VÄLK_protokoll_16.03.2026.asice",
+        "VÄLK_protokoll_nr_182_16.03.2026.pdf"
+      ]
+    }
+  ],
+  "uuid": "cf1a1512-4b07-4867-a5f9-8157c7d2f152",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid cf1a1512-4b07-4867-a5f9-8157c7d2f152)",
+  "source": "https://api.riigikogu.ee/api/volumes/cf1a1512-4b07-4867-a5f9-8157c7d2f152",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-03-01&endDate=2026-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
