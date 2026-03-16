@@ -1,0 +1,49 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Korruptsioonivastane erikomisjon",
+  "committee_uuid": "e4f2977a-e8c3-4fa0-8f3d-9df9acd6377f",
+  "title": "Komisjoni istung esmaspäev, 16.03.2026 kell 13.15",
+  "sitting_time": "2026-03-16T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "03cc4b1e-6103-4f62-aad7-8da0b5404891"
+    },
+    {
+      "order": 2,
+      "title": "Kütuseturu hinnakujunduse läbipaistvus ning konkurentsi toimimine kütuseturul",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b2056bed-bea8-4bda-bc06-994a5919584a"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "286ede21-df6d-45ac-af0c-c03fadc48621"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KVEK protokoll 86 (16.03.2026)",
+      "uuid": "d43a01a7-57bd-4257-8293-c3b23813f464",
+      "files": [
+        "KVEK_protokoll_86_(16.03.2026).asice",
+        "Konkurentsiameti_graafik.pdf",
+        "Transpordikütuste_Ühing_slaidid.pdf",
+        "2024_Konkurentsiameti_analüüs.pdf",
+        "KVEK_protokoll_86_(16.03.2026).pdf"
+      ]
+    }
+  ],
+  "uuid": "909bcf39-640f-44af-bfb6-0a287cfcc1ee",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 909bcf39-640f-44af-bfb6-0a287cfcc1ee)",
+  "source": "https://api.riigikogu.ee/api/volumes/909bcf39-640f-44af-bfb6-0a287cfcc1ee",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-03-01&endDate=2026-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
