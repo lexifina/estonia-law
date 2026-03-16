@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/105072025003> (version in force from 2025-09-01)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/106032026003> (version in force from 2026-03-16)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -72,6 +72,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/105072025003> (version in force 
 | [§ 43⁷](para-043b7.md) | Andmekogu registreerimine |
 | [§ 43⁸](para-043b8.md) | Andmekogu avalikkus |
 | [§ 43⁹](para-043b9.md) | Riigi infosüsteemi kindlustavad süsteemid |
+| [§ 43¹⁰](para-043b10.md) | Andmenõusoleku ja volituste haldamise andmekogu |
 | **6. peatükk JÄRELEVALVE** | |
 | [§ 44](para-044.md) | Järelevalve seaduse täitmise üle |
 | [§ 45](para-045.md) | Andmekaitse Inspektsiooni järelevalvepädevus |
