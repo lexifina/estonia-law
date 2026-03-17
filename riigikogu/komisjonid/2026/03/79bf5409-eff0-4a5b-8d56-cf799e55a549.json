@@ -1,0 +1,42 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung teisipäev, 17.03.2026 kell 14.00",
+  "sitting_time": "2026-03-17T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kriminaalmenetluse seadustiku ja teiste seaduste muutmise seaduse (kohtumenetluse optimeerimine ja kohtulahendite avalikkus) eelnõu (560 SE I) kaasamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d44c484c-e47e-4432-a784-220f80887d72"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "16549a18-c04f-42a6-be77-7ebed5ec3e6e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ÕIGK protokoll 17.03.2026",
+      "uuid": "83b128e0-d00a-4572-96df-60c93f017124",
+      "files": [
+        "(Lisa_2)_Õiguslik_arvamus_KarRS_§_28_2024_06_25-5.pdf",
+        "(Lisa_1)_Ühispöördumine_Riigikogule.pdf",
+        "Riigikogu_õiguskomisjoni_istungi_protokoll_nr_118.pdf",
+        "ÕIGK_protokoll_17.03.2026.asice"
+      ]
+    }
+  ],
+  "uuid": "79bf5409-eff0-4a5b-8d56-cf799e55a549",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 79bf5409-eff0-4a5b-8d56-cf799e55a549)",
+  "source": "https://api.riigikogu.ee/api/volumes/79bf5409-eff0-4a5b-8d56-cf799e55a549",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-03-01&endDate=2026-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
