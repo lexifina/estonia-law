@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung neljapäev, 19.03.2026 5 minutit pärast ühise istungi lõppu",
+  "sitting_time": "2026-03-19T14:50:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 25.-29. märtsil 2026 toimuval Euroopa Liidu välisasjade nõukogu kaubandusministrite kohtumistel ja Maailma Kaubandusorganisatsiooni (WTO) 14. ministrite kohtumisel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4964943f-13ac-4020-9555-9af7ff7bd329"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1eb7f6e3-5411-4d74-be63-013ca8263349"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 19.03.2026",
+      "uuid": "940a29fa-75ec-40f7-89c8-fd1d961ea66a",
+      "files": [
+        "VÄLK_protokoll_19.03.2026.asice",
+        "VÄLK_protokoll_nr_183_19.03.2026.pdf"
+      ]
+    }
+  ],
+  "uuid": "96f264e1-92f4-4d14-bffc-d802d38d0e5b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 96f264e1-92f4-4d14-bffc-d802d38d0e5b)",
+  "source": "https://api.riigikogu.ee/api/volumes/96f264e1-92f4-4d14-bffc-d802d38d0e5b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-03-01&endDate=2026-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
