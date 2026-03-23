@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung esmaspäev, 23.03.2026 kell 13.30",
+  "sitting_time": "2026-03-23T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4aa01b2f-88b4-40a4-b4dc-4c103451f365"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade Euroopa Parlamendi tööst ja Arktika teemadest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b0dd4941-fbcb-45b3-9c82-0d757a0dcbd7"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cc0efe0f-3c06-4e88-be2e-17ac4466de22"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ELAK protokoll nr 155 23.03.2026",
+      "uuid": "83bf0169-1eb0-4548-858f-c7667e863b24",
+      "files": [
+        "ELAK_protokoll_nr_155_23.03.2026.pdf",
+        "ELAK_protokoll_nr_155_23.03.2026.asice"
+      ]
+    }
+  ],
+  "uuid": "d93a025e-1f49-4589-83a8-30284189e802",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d93a025e-1f49-4589-83a8-30284189e802)",
+  "source": "https://api.riigikogu.ee/api/volumes/d93a025e-1f49-4589-83a8-30284189e802",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-03-01&endDate=2026-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
