@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 23.03.2026 kell 13.15",
+  "sitting_time": "2026-03-23T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6d475076-49ce-4b6a-9fcd-f01d37295061"
+    },
+    {
+      "order": 2,
+      "title": "Kütusekriis ja selle mõju majandusele ja riigieelarvele",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f25f0969-2f44-418c-b331-35df34afee52"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c6249aa8-2041-442a-9589-741be1ef7c5d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 23.03.2026",
+      "uuid": "bda25efa-89f1-4a6a-a9f3-49d306465d35",
+      "files": [
+        "REKK_protokoll_23.03.2026.asice",
+        "Protokoll_nr_144_23.03.26.pdf",
+        "ram_slaidid_23.03.pptx"
+      ]
+    }
+  ],
+  "uuid": "2cacf05c-f0e5-4e5a-aea9-983c53fd443f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2cacf05c-f0e5-4e5a-aea9-983c53fd443f)",
+  "source": "https://api.riigikogu.ee/api/volumes/2cacf05c-f0e5-4e5a-aea9-983c53fd443f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-03-01&endDate=2026-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
