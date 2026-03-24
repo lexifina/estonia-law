@@ -1,0 +1,60 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 24.03.2026 kell 14.00",
+  "sitting_time": "2026-03-24T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8bbbc35b-4beb-4a1c-8b6b-b089f2e3c968"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade riigiplaani koostamise protsessist",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "03c4d0cb-1b5e-4c3c-8d78-b0fa1da93845"
+    },
+    {
+      "order": 3,
+      "title": "Erakorraline abi põllumajandussektorile",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5d0fc575-93db-4078-9857-d6e179064948"
+    },
+    {
+      "order": 4,
+      "title": "Kalapüügiseaduse muutmise seaduse eelnõu algatamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "20074ffb-bad4-43c7-b642-f100d8a51d37"
+    },
+    {
+      "order": 5,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7760482b-176f-462c-8faa-ae7c6023b087"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 24.03.2026",
+      "uuid": "2349f9bc-feca-4713-8989-ac97a7c5ed28",
+      "files": [
+        "146_MAEK_protokoll_24.03.26..pdf",
+        "MAEK_protokoll_24.03.2026.asice",
+        "146_MAEK_protokolli_lisa_1_Erakorraline_toetus.pdf",
+        "146_MAEK_protokolli_lisa_2_Riigiplaan.pdf"
+      ]
+    }
+  ],
+  "uuid": "28daed59-2cf3-4792-9a1b-980a9fc8a604",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 28daed59-2cf3-4792-9a1b-980a9fc8a604)",
+  "source": "https://api.riigikogu.ee/api/volumes/28daed59-2cf3-4792-9a1b-980a9fc8a604",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-03-01&endDate=2026-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
