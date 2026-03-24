@@ -1,0 +1,48 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung teisipäeval, 24.03.2026 kell 14.00",
+  "sitting_time": "2026-03-24T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud tuumaenergia ja -ohutuse seaduse eelnõu (856 SE) esimese lugemise ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0df4d608-0754-49a2-81c9-2df64d11a2d5"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud elektrituruseaduse, alkoholi-, tubaka-, kütuse- ja elektriaktsiisi seaduse ning tulumaksuseaduse muutmise seaduse eelnõu (787 SE) teise lugemise jätkamise ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4dcf5706-26ef-4f3c-b865-c8f909132dfa"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3b3c107f-08b1-40e3-91f1-62de1636cd2a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAJK protokoll nr 181 24.03.2026",
+      "uuid": "09662d71-fbac-4eba-8656-7daf6a0c2608",
+      "files": [
+        "MAJK_protokoll_nr_181_24.03.2026.asice",
+        "Majanduskomisjoni_istung_24.03.26_TEOS.pdf",
+        "MAJK_protokoll_nr_181_24.03.2026.pdf",
+        "Asendusliikme_volikiri_M.Reinaas_P.Tali.pdf"
+      ]
+    }
+  ],
+  "uuid": "4c040a1a-ecbb-4858-b7b2-bc3c43847f87",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 4c040a1a-ecbb-4858-b7b2-bc3c43847f87)",
+  "source": "https://api.riigikogu.ee/api/volumes/4c040a1a-ecbb-4858-b7b2-bc3c43847f87",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-03-01&endDate=2026-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
