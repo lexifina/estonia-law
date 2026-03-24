@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Väliskomisjoni väljasõiduistung Välisluureametis teisipäev, 24.03.2026 kell 14.30",
+  "sitting_time": "2026-03-24T14:35:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade julgeolekuolukorra arengutest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "550a5e5b-9145-4e15-ae53-99177a45309f"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "57fa9533-f3b8-46b9-a12b-f17da5979976"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 24.03.2026",
+      "uuid": "e7c75ec6-55fa-46e6-8a9f-4c6db0749b33",
+      "files": [
+        "VÄLK_protokoll_24.03.2026.asice",
+        "VALK_protokoll_20260324.pdf"
+      ]
+    }
+  ],
+  "uuid": "d9cd7feb-7b17-4b5b-9fac-9f39153c88ab",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d9cd7feb-7b17-4b5b-9fac-9f39153c88ab)",
+  "source": "https://api.riigikogu.ee/api/volumes/d9cd7feb-7b17-4b5b-9fac-9f39153c88ab",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-03-01&endDate=2026-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
