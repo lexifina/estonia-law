@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung teisipäev, 24.03.2026 kell 14.00",
+  "sitting_time": "2026-03-24T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "de57ebee-bdba-4454-899b-6295ae31c0da"
+    },
+    {
+      "order": 2,
+      "title": "Üleriigilise planeeringu „Eesti 2050“ tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "038424c1-e471-401c-8339-469cb9d534ed"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3e9a21a4-9833-4d3c-ba03-3a672fe40a7d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK protokoll 24.03.2026",
+      "uuid": "5a9b1cbc-9494-4f89-b408-f3b855e5f7be",
+      "files": [
+        "KEKK_protokoll_nr_147_24.03.2026.pdf",
+        "KEKK_protokoll_24.03.2026.asice"
+      ]
+    }
+  ],
+  "uuid": "340ca470-4a8a-4ebd-8489-e76e8f680a93",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 340ca470-4a8a-4ebd-8489-e76e8f680a93)",
+  "source": "https://api.riigikogu.ee/api/volumes/340ca470-4a8a-4ebd-8489-e76e8f680a93",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-03-01&endDate=2026-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
