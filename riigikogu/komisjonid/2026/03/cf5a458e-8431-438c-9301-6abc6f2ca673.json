@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung kolmapäev, 25.03.2026 kell 08.30",
+  "sitting_time": "2026-03-25T08:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikontrolli kontrolliaruande „Kõrgvererõhktõve kui kroonilise haigusega patsientide ravi ja jälgimine“ tutvustus ja arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "27da433a-466a-45b3-9449-1d24d603e94d"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6a89a974-82f2-4437-b1c1-f95b3ebc9540"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 25.03.2026",
+      "uuid": "a6c216b5-c329-4a46-90f7-d4d901a72115",
+      "files": [
+        "REKK_protokoll_25.03.2026.asice",
+        "Protokoll_nr_145_25.03.26.pdf",
+        "Kõrgvererõhu_ohjamine_25.03.2026.pptx"
+      ]
+    }
+  ],
+  "uuid": "cf5a458e-8431-438c-9301-6abc6f2ca673",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid cf5a458e-8431-438c-9301-6abc6f2ca673)",
+  "source": "https://api.riigikogu.ee/api/volumes/cf5a458e-8431-438c-9301-6abc6f2ca673",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-03-01&endDate=2026-03-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
