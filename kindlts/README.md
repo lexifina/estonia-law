@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/111112025005> (version in force from 2025-11-21)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/117032026005> (version in force from 2026-04-01)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -268,6 +268,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/111112025005> (version in force 
 | [§ 215¹](para-215b1.md) | Lepinguriigi vahendaja piiriülene vahendus Eestis |
 | **11. peatükk Kindlustusandja kohustused seoses klientide kaitsega** | |
 | [§ 216](para-216.md) | Sootegur kindlustusriski hindamisel |
+| [§ 216¹](para-216b1.md) | Geneetilised andmed ja omadused kindlustusriski hindamisel |
 | [§ 217](para-217.md) | Andmesubjekt ja tema nõusolek isikuandmete töötlemiseks |
 | [§ 218](para-218.md) | Isikuandmete töötlemine |
 | [§ 219](para-219.md) | Isikuandmete edastamine |
