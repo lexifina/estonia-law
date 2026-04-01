@@ -2,9 +2,9 @@
 
 (1) Vere kvaliteetse käitlemise ja ravi kvaliteedi tagamise eesmärgil on
 
-riiklik vereteenistuse infosüsteem (edaspidi *infosüsteem*), mille põhimääruses kehtestatakse:
+õigus asutada määrusega riiklik vereteenistuse infosüsteem (edaspidi *infosüsteem*), mille põhimääruses kehtestatakse:
 
-1) volitatud töötleja ja tema ülesanded;
+1) infosüsteemi kaasvastutavate töötlejate ja volitatud töötleja ülesanded;
 
 2) kogutavate andmete koosseis ja andmekogusse kandmise kord;
 
@@ -16,4 +16,4 @@ riiklik vereteenistuse infosüsteem (edaspidi *infosüsteem*), mille põhimää
 
 6) muud korraldusküsimused.
 
-(2) Infosüsteemi vastutav töötleja on Sotsiaalministeerium.
+(2) Infosüsteemi kaasvastutavad töötlejad on Sotsiaalministeerium ja Tervisekassa.
