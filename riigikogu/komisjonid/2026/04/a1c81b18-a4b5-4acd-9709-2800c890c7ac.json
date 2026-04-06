@@ -1,0 +1,61 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung esmaspäev, 6.04.2026 kell 11.15",
+  "sitting_time": "2026-04-06T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c7697ad5-d9a9-4457-887e-406175ed1f5b"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud sotsiaalmaksuseaduse muutmise ja sellega seonduvalt teiste seaduste muutmise seaduse eelnõu (860 SE) esimeseks lugemiseks ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f350599a-f03a-4a2a-9645-5cbb01a5d7cf"
+    },
+    {
+      "order": 3,
+      "title": "Rahandusministeeriumi valitsemisala ülevaade 2025. aasta eelarve täitmisest, eelarve jääkidest ja tulemuste hindamisest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4312d2eb-2bd5-43dd-90f4-97c5c4749c5a"
+    },
+    {
+      "order": 4,
+      "title": "Ülevaade Rahandusministeeriumi 2026. aasta kevadisest majandusprognoosist",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2dd9b134-f3b3-4a13-9782-b33221ab16ce"
+    },
+    {
+      "order": 5,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "28bce1e7-8ad8-4e6d-a61f-791f3aa2af1d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 06.04.2026",
+      "uuid": "9e279668-533c-4ea6-9fac-11cb04217284",
+      "files": [
+        "RAHK_protokoll_06.04.2026.asice",
+        "RAM_majandusprognoos_kevad_06.04.2026.pdf",
+        "RAM_ülevaade_2025._a_kasutamata_eelarvest_06.04.2025.pdf",
+        "RAM_860_SE_ettekande_slaidid_06.04.2026.pdf",
+        "RAHK_protokoll_nr_218_06.04.2026.pdf"
+      ]
+    }
+  ],
+  "uuid": "a1c81b18-a4b5-4acd-9709-2800c890c7ac",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a1c81b18-a4b5-4acd-9709-2800c890c7ac)",
+  "source": "https://api.riigikogu.ee/api/volumes/a1c81b18-a4b5-4acd-9709-2800c890c7ac",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-04-01&endDate=2026-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
