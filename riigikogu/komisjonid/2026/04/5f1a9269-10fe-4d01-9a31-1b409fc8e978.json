@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 7.04.2026 kell 14.00",
+  "sitting_time": "2026-04-07T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti Kalaliidu ettepanekud kalapüügiseaduse muutmiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "05817371-35fe-4869-8e79-7318287158f1"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d270a269-45db-4530-ab37-f90fcd7d04ff"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 07.04.2026",
+      "uuid": "6172bddb-8f2a-419a-a2ea-14748416c8f4",
+      "files": [
+        "148_MAEK_protokoll_07.04.2026.pdf",
+        "MAEK_protokoll_07.04.2026.asice",
+        "148_MAEK_protokolli_lisa_Kalaliit.pdf"
+      ]
+    }
+  ],
+  "uuid": "5f1a9269-10fe-4d01-9a31-1b409fc8e978",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 5f1a9269-10fe-4d01-9a31-1b409fc8e978)",
+  "source": "https://api.riigikogu.ee/api/volumes/5f1a9269-10fe-4d01-9a31-1b409fc8e978",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-04-01&endDate=2026-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
