@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung teisipäev, 7.04.2026 kell 14.00",
+  "sitting_time": "2026-04-07T14:05:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti Rahvusvahelise Arengukoostöö Keskuse (ESTDEV) tegevuse ülevaade ja tulevikuplaanid",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cccdf8bd-ddc6-47f5-9e2f-7bbd46949197"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2a689117-1812-4545-ba80-3dc6a48e4608"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 7.04.2026",
+      "uuid": "7d5f54b7-0de1-4998-9791-3348cce4eb0b",
+      "files": [
+        "VÄLK_protokoll_7.04.2026.asice",
+        "ESTDEV_UA_Aprill2026_Väliskomisjon.pptx",
+        "VÄLKprotokoll_nr_187_7.04.2026.pdf"
+      ]
+    }
+  ],
+  "uuid": "fa2de6b9-017c-42b6-a8fa-fe45fc64fd46",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid fa2de6b9-017c-42b6-a8fa-fe45fc64fd46)",
+  "source": "https://api.riigikogu.ee/api/volumes/fa2de6b9-017c-42b6-a8fa-fe45fc64fd46",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-04-01&endDate=2026-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
