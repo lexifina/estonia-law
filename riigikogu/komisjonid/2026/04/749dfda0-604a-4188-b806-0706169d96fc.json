@@ -1,0 +1,42 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung kolmapäev, 8.04.2026 kell 08.30",
+  "sitting_time": "2026-04-08T08:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eestikeelsele õppele üleminekul eelarvevahendite kasutamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "31a0a882-8588-4290-90c7-9c929b825652"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dfcdc93b-0218-4648-b5bc-47b979814d2e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 08.04.2026",
+      "uuid": "94ae5732-f76e-43f7-af59-a1359f16ef8a",
+      "files": [
+        "REKK_protokoll_08.04.2026.asice",
+        "Protokoll_nr_147_08.04.26.pdf",
+        "Eestikeelsele_õppele_üleminek_Tallinnas_-_riigieelarve_kontrolli_erikomisjon_08.04.2026_täiendatud.pptx",
+        "komisjoni_asendus_(08.04).pdf"
+      ]
+    }
+  ],
+  "uuid": "749dfda0-604a-4188-b806-0706169d96fc",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 749dfda0-604a-4188-b806-0706169d96fc)",
+  "source": "https://api.riigikogu.ee/api/volumes/749dfda0-604a-4188-b806-0706169d96fc",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-04-01&endDate=2026-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
