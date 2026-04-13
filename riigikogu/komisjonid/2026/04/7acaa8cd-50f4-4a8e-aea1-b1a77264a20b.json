@@ -1,0 +1,49 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 13.04.2026 kell 11.10",
+  "sitting_time": "2026-04-13T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "68b13310-de65-431e-b216-f578a534eb59"
+    },
+    {
+      "order": 2,
+      "title": "18 Riigikogu liikme algatatud loomakaitseseaduse muutmise seaduse eelnõu (828 SE) esimese lugemise ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "94abbbe2-24a3-464d-b7be-359fee36f6d7"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "23e56bd3-9aec-4837-983b-d9ca91ddd96f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 13.04.2026",
+      "uuid": "9859f51e-f90d-433e-9067-be501099842f",
+      "files": [
+        "149_MAEK_protokoll_13.04.2026.pdf",
+        "149_protokolli_lisa_2_EPKK_munakana_13.04.26_.pdf",
+        "MAEK_protokoll_13.04.2026.asice",
+        "149_MAEK_protokolli_lisa_1_Anepaio_13.04.2026.pdf",
+        "149_MAEK_protokolli_lisa_3_Nähtamatud_Loomad_13.04.2026.pdf"
+      ]
+    }
+  ],
+  "uuid": "7acaa8cd-50f4-4a8e-aea1-b1a77264a20b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7acaa8cd-50f4-4a8e-aea1-b1a77264a20b)",
+  "source": "https://api.riigikogu.ee/api/volumes/7acaa8cd-50f4-4a8e-aea1-b1a77264a20b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-04-01&endDate=2026-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
