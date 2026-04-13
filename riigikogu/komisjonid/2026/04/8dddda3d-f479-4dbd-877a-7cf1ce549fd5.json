@@ -1,0 +1,59 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung esmaspäev, 13.04.2026 kell 11.30",
+  "sitting_time": "2026-04-13T11:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4d516cce-93ad-492d-9240-39e0f0d49830"
+    },
+    {
+      "order": 2,
+      "title": "Tsiviilkohtumenetluse seadustiku ja võlaõigusseaduse muutmise seadus (vaigistushagi eest kaitsmise direktiivi ülevõtmine) (865 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "91b1175b-c877-4426-8c8b-71abe0da5e1d"
+    },
+    {
+      "order": 3,
+      "title": "Asjaõigusseaduse ja asjaõigusseaduse rakendamise seaduse muutmise seaduse eelnõu (864 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a6746b60-9cb7-4c73-843f-50c2c652d213"
+    },
+    {
+      "order": 4,
+      "title": "Arvamus Riigikohtule karistusregistri seaduse § 28 lõike 2 osas, mille kohaselt tuleb avalikustatud kohtulahendis jätta isiku nimi asendamata, kui ta on tunnistatud süüdi karistusseadustiku § 184 järgi põhiseaduspärasuse kohta",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "04033eeb-18e4-4ef2-8c94-f845385c7538"
+    },
+    {
+      "order": 5,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f9177346-8c62-4e40-90eb-3dd8eeefbdcf"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ÕIGK protokoll 13.04.2026",
+      "uuid": "434454c8-04dd-4b4b-bdc4-67ac89128865",
+      "files": [
+        "Riigikogu_õiguskomisjoni_istungi_protokoll_nr_123.pdf",
+        "ÕIGK_protokoll_13.04.2026.asice",
+        "(Lisa_1)_Arvamus_Riigikohtule_(KarRS_§_28_lg_2).pdf"
+      ]
+    }
+  ],
+  "uuid": "8dddda3d-f479-4dbd-877a-7cf1ce549fd5",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8dddda3d-f479-4dbd-877a-7cf1ce549fd5)",
+  "source": "https://api.riigikogu.ee/api/volumes/8dddda3d-f479-4dbd-877a-7cf1ce549fd5",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-04-01&endDate=2026-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
