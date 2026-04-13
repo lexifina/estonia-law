@@ -1,0 +1,48 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Korruptsioonivastane erikomisjon",
+  "committee_uuid": "e4f2977a-e8c3-4fa0-8f3d-9df9acd6377f",
+  "title": "Komisjoni istung esmaspäev, 13.04.2026 kell 13.15",
+  "sitting_time": "2026-04-13T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9b4a9a86-0946-4dba-ad17-c14ab3776308"
+    },
+    {
+      "order": 2,
+      "title": "Omniva/Eesti Post erikontrollide järeldused ja erastamise läbipaistvus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "00327e50-b9e1-406c-b489-bda444bcbc03"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "93407697-c3ae-499a-be91-e21f0b60da26"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KVEK protokoll 89 (13.04.2026)",
+      "uuid": "5cda1e4a-5302-444e-9fdb-6e1e316b11ea",
+      "files": [
+        "Lisa_1.pdf",
+        "KVEK_protokoll_89_(13.04.2026).pdf",
+        "Asendus_KVEK_13.04.26.asice",
+        "KVEK_protokoll_89_(13.04.2026)_(4)(1).asice"
+      ]
+    }
+  ],
+  "uuid": "6cef1a5b-841d-4c4e-8336-ebd2975c112a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 6cef1a5b-841d-4c4e-8336-ebd2975c112a)",
+  "source": "https://api.riigikogu.ee/api/volumes/6cef1a5b-841d-4c4e-8336-ebd2975c112a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-04-01&endDate=2026-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
