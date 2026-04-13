@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung esmaspäev, 13.04.2026 kell 11.10",
+  "sitting_time": "2026-04-13T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "37a6cb8c-9a84-4ab5-aea9-456daffada5b"
+    },
+    {
+      "order": 2,
+      "title": "Küberturvalisuse direktiivi NIS 2  ülevõtmise seaduse rakendamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "135dec32-ed11-4a86-be1f-776b38684d49"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6aeb7d27-8a4c-42e3-9a95-2b353aa80c90"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RIKK 13.04.2026 istungi protokoll",
+      "uuid": "b33b5a0d-4e38-4065-8eb8-3f3cd1708c0b",
+      "files": [
+        "RIKK_13.04.2026_istungi_protokoll.asice",
+        "2026-04-13_protokoll_212.pdf"
+      ]
+    }
+  ],
+  "uuid": "61e94b15-c303-4e0b-a75b-a8128b1ae755",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 61e94b15-c303-4e0b-a75b-a8128b1ae755)",
+  "source": "https://api.riigikogu.ee/api/volumes/61e94b15-c303-4e0b-a75b-a8128b1ae755",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-04-01&endDate=2026-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
