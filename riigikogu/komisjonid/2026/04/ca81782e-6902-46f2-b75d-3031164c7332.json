@@ -1,0 +1,54 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung teisipäeval, 14.04.2026",
+  "sitting_time": "2026-04-14T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud riigivaraseaduse muutmise seaduse eelnõu (772 SE) teise lugemise ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "50a3dc8c-ba12-401f-9e76-43bc7782112f"
+    },
+    {
+      "order": 2,
+      "title": "Audiitortegevuse seaduse eelnõu väljatöötamiskavatsuse tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b1e247d2-3963-467a-b44a-93bf862daada"
+    },
+    {
+      "order": 3,
+      "title": "Konkurentsiseaduse muutmise seaduse eelnõu väljatöötamiskavatsuse tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cc604c2c-8778-42a5-8ed9-710cc45b9adb"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "473178ed-82ec-4899-9cd0-2b1a096ed57e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAJK protokoll nr 186 14.04.2026",
+      "uuid": "018a6b1b-e148-4002-9f38-a2ad4c20bc66",
+      "files": [
+        "MAJK_protokoll_nr_186_14.04.2026.asice",
+        "MAJK_protokoll_nr_186_14.04.2026.pdf",
+        "KonkS_VTK_tutvustus_majanduskomisjonile_14.04.pdf",
+        "Asendusliikme_volikiri.pdf"
+      ]
+    }
+  ],
+  "uuid": "ca81782e-6902-46f2-b75d-3031164c7332",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ca81782e-6902-46f2-b75d-3031164c7332)",
+  "source": "https://api.riigikogu.ee/api/volumes/ca81782e-6902-46f2-b75d-3031164c7332",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-04-01&endDate=2026-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
