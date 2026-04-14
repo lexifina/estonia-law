@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung teisipäev, 14.04.2026 kell 14.00",
+  "sitting_time": "2026-04-14T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Üleriigiline planeering 2050",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b4cae96b-da21-465c-bb64-42792ce2df88"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud tuumaenergia ja -ohutuse seaduse eelnõu (856 SE) kohta majanduskomisjonile arvamuse andmine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "84aa6ff3-2993-4f20-901a-b88196c25320"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RIKK protokoll 213 (14.04.2026)",
+      "uuid": "6ab51291-5ee4-4166-99f3-602f982e1602",
+      "files": [
+        "RIKK_protokoll_213_(14.04.2026).asice",
+        "Lisa_1_(Üleriigiline_planeering_2050).pdf",
+        "RIKK_protokoll_213_(14.04.2026).pdf"
+      ]
+    }
+  ],
+  "uuid": "5ebed084-cec2-4f94-bc07-dc025bce61fc",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 5ebed084-cec2-4f94-bc07-dc025bce61fc)",
+  "source": "https://api.riigikogu.ee/api/volumes/5ebed084-cec2-4f94-bc07-dc025bce61fc",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-04-01&endDate=2026-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
