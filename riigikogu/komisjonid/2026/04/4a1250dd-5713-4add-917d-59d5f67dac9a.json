@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung teisipäev, 14.04.2026 kell 14.00",
+  "sitting_time": "2026-04-14T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti huvide kaitse muutuvas maailmakorras: Ukraina tuleviku arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ce7e6ef7-913a-4476-835d-4b435645b85f"
+    },
+    {
+      "order": 2,
+      "title": "Ühendkuningriigi juhitav Ühendekspeditsiooniväge kaitsekoostööformaat (The Joint Expeditionary Force, JEF)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5d0b914c-1fff-455d-8d45-4454f448ccea"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "44425d7b-81cf-4b51-8a55-50431b3a310f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll",
+      "uuid": "b0b828a0-600a-4e50-9ef4-6caf26e82f28",
+      "files": [
+        "VÄLK_protokoll.asice",
+        "VÄLK_protokoll_nr_189_14.04.2026.pdf"
+      ]
+    }
+  ],
+  "uuid": "4a1250dd-5713-4add-917d-59d5f67dac9a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 4a1250dd-5713-4add-917d-59d5f67dac9a)",
+  "source": "https://api.riigikogu.ee/api/volumes/4a1250dd-5713-4add-917d-59d5f67dac9a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-04-01&endDate=2026-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
