@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 14.04.2026 kell 14.00",
+  "sitting_time": "2026-04-14T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Regionaal- ja põllumajandusministri 2026. aasta ettekande „Riigi pikaajalise arengustrateegia „Eesti 2035“ elluviimisest“ teeside tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b7a39b00-4471-4e1b-b1d3-3d99e646b672"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d193732e-542b-4fcb-8ca4-c6a7276d6d91"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 14.04.2026",
+      "uuid": "40fa31d0-641f-4cc0-99b1-01bb4b70bf31",
+      "files": [
+        "MAEK_protokoll_14.04.2026.asice",
+        "150_MAEK_protokoll_14.04.2026.pdf",
+        "150_protokolli_lisa_REM.pdf"
+      ]
+    }
+  ],
+  "uuid": "0cb0f201-46a6-4d6d-b596-8c87e4fe43da",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0cb0f201-46a6-4d6d-b596-8c87e4fe43da)",
+  "source": "https://api.riigikogu.ee/api/volumes/0cb0f201-46a6-4d6d-b596-8c87e4fe43da",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-04-01&endDate=2026-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
