@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Korruptsioonivastane erikomisjon",
+  "committee_uuid": "e4f2977a-e8c3-4fa0-8f3d-9df9acd6377f",
+  "title": "Komisjoni istung kolmapäev, 15.04.2026 kell 08.45",
+  "sitting_time": "2026-04-15T08:45:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigile kuuluva põlevkivi kaevevälja müügi otsuse kujunemine ja läbipaistvus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "867f6937-7869-4616-9fd3-51c3a9a6f328"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dbbce72e-1bb3-4841-b18b-bc5b7e1d7dd9"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KVEK protokoll 90 (15.04.2026)",
+      "uuid": "3a1bc198-69d9-42da-a9d0-a1adf7a04cdd",
+      "files": [
+        "KVEK_protokoll_90_(15.04.2026).pdf",
+        "KVEK_protokoll_90_(15.04.2026)_(1).asice"
+      ]
+    }
+  ],
+  "uuid": "400d7bbc-2451-43c6-b1cd-1a99e802def8",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 400d7bbc-2451-43c6-b1cd-1a99e802def8)",
+  "source": "https://api.riigikogu.ee/api/volumes/400d7bbc-2451-43c6-b1cd-1a99e802def8",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-04-01&endDate=2026-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
