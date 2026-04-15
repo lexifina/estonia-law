@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung kolmapäev, 15.04.2026 kell 08.30",
+  "sitting_time": "2026-04-15T08:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikontrolli ülevaate „Tehisintellekti lahenduste loomisest avaliku sektori asutustes (kokkuvõtlik ülevaade rahvusvahelisse tehisintellektiteemalisse koostööauditisse)“ tutvustus ja arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7d7283e9-43f3-4ec2-969a-2b5c36a29df0"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9ba18b17-fca1-4d53-91ae-156ca018aae2"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 15.04.2026",
+      "uuid": "499d863b-e799-40f8-8501-204f2dd2e413",
+      "files": [
+        "REKK_protokoll_15.04.2026.asice",
+        "Protokoll_nr_149_15.04.26.pdf"
+      ]
+    }
+  ],
+  "uuid": "4470edb3-b92a-4de7-b459-9b64115c4ab6",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 4470edb3-b92a-4de7-b459-9b64115c4ab6)",
+  "source": "https://api.riigikogu.ee/api/volumes/4470edb3-b92a-4de7-b459-9b64115c4ab6",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-04-01&endDate=2026-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
