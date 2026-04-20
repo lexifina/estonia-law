@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni avalik istung esmaspäev, 20.04.2026",
+  "sitting_time": "2026-04-20T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "003a2a42-e9f7-4a53-8fc1-8f9ff1b49399"
+    },
+    {
+      "order": 2,
+      "title": "Toimingupiirangu rikkumise arutelu (karistusseadustiku § 300(1), huvigruppide ja ekspertide kuulamine)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d6e98beb-8df7-474b-bf66-3d3af2f349f1"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ecd3c642-62a5-46be-80df-3a1577b572b4"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Riigikogu põhiseaduskomisjoni istungi protokoll nr 162",
+      "uuid": "6d5565ee-db08-48d6-8ed4-b69aa9592b56",
+      "files": [
+        "PÕSK_protokoll_nr_162_20.04.2026.pdf",
+        "Asendusliikme_volikiri_(A._Poolamets).pdf",
+        "Riigikogu_põhiseaduskomisjoni_istungi_protokoll_nr_162.asice"
+      ]
+    }
+  ],
+  "uuid": "86fad645-4d7c-4f47-9b9d-c1855e6fabde",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 86fad645-4d7c-4f47-9b9d-c1855e6fabde)",
+  "source": "https://api.riigikogu.ee/api/volumes/86fad645-4d7c-4f47-9b9d-c1855e6fabde",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-04-01&endDate=2026-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
