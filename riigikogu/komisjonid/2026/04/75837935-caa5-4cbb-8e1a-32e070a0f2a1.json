@@ -1,0 +1,49 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung teisipäev, 21.04.2026 kell 14.00",
+  "sitting_time": "2026-04-21T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Õiguspoliitika põhialused ja kriminaalpoliitika põhialused ettekannete tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6a2b9df3-4e07-4b39-b41f-3865de27f907"
+    },
+    {
+      "order": 2,
+      "title": "Võlaõigusseaduse ja tarbijakaitseseaduse muutmise seaduse eelnõu (796 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6561d46c-3328-48e1-bfc0-4888fd627bac"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3dc689b4-8798-45fb-a9c2-70bb1fd2a7b9"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ÕIGK protokoll 21.04.2026",
+      "uuid": "daa78524-770a-4b90-a07e-e7acc5f7ce92",
+      "files": [
+        "ÕIGK_protokoll_21.04.2026.asice",
+        "(Lisa_1)_ÕPPA_2025._aasta_ülevaade.pdf",
+        "(Lisa_3)_Kriminaalpoliitika_2025._aasta_ülevaade.pdf",
+        "(Lisa_2)_ÕPPA_ekspertarvamus.pdf",
+        "Riigikogu_õiguskomisjoni_istungi_protokoll_nr_126.pdf"
+      ]
+    }
+  ],
+  "uuid": "75837935-caa5-4cbb-8e1a-32e070a0f2a1",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 75837935-caa5-4cbb-8e1a-32e070a0f2a1)",
+  "source": "https://api.riigikogu.ee/api/volumes/75837935-caa5-4cbb-8e1a-32e070a0f2a1",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-04-01&endDate=2026-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
