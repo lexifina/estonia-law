@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung teisipäev, 21.04.2026 kell 14.00",
+  "sitting_time": "2026-04-21T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kollektiivne pöördumine \"Eesti muutmise vastu tuumasihtmärgiks ja välisminister Margus Tsahkna tagasiastumise nõue\"",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "10d16b8e-e5e5-4a71-85e3-9020115e3f5f"
+    },
+    {
+      "order": 2,
+      "title": "Riigikaitsekomisjoni algatatav olulise tähtsusega riikliku küsimuse arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a4125485-69de-4b27-a7e5-d112564d3278"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RIKK protokoll 21.04.2026",
+      "uuid": "cad936c2-ae7a-43c1-9cb4-13cd82fba408",
+      "files": [
+        "RIKK_protokoll_21.04.2026.asice",
+        "RIKK_protokoll_216_(21.04.2026).pdf"
+      ]
+    }
+  ],
+  "uuid": "d4b39358-c3de-4c3e-8581-145e55ff222c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d4b39358-c3de-4c3e-8581-145e55ff222c)",
+  "source": "https://api.riigikogu.ee/api/volumes/d4b39358-c3de-4c3e-8581-145e55ff222c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-04-01&endDate=2026-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
