@@ -1,0 +1,43 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung teisipäev, 21.04.2026 kell 14.00",
+  "sitting_time": "2026-04-21T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti vähitõrje hetkeseis ja arenguperspektiivid",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1544fb68-8200-4182-820c-cd8f664871af"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9baea849-f2e0-4bd0-85ab-cdb6232b182e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Protokoll",
+      "uuid": "32d3a07f-f526-45ce-8f16-211296bf1bc8",
+      "files": [
+        "Lisa_1_(SOM_ettekanne).pdf",
+        "Lisa_2_(ESTCAN).pdf",
+        "SOTK_protokoll_nr_172_21.04.2026.pdf",
+        "Protokoll.asice",
+        "Lisa_3_(Eesti_Vähiliidu_ettekanne).pdf"
+      ]
+    }
+  ],
+  "uuid": "06ae6efd-7bc7-467f-bb52-84a1a515fcd4",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 06ae6efd-7bc7-467f-bb52-84a1a515fcd4)",
+  "source": "https://api.riigikogu.ee/api/volumes/06ae6efd-7bc7-467f-bb52-84a1a515fcd4",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-04-01&endDate=2026-04-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
