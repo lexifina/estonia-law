@@ -27,3 +27,5 @@
 (5) Käesoleva paragrahvi lõikes 3 sätestatud erisusi kohaldatakse kõigile aruandekohustusliku Eesti finantsasutuse peetavatele finantskontodele ühetaoliselt.
 
 (6) Käesoleva seaduse § 8¹ lõike 5 punktis 2 sätestatud teabevahetusest välistamata jäetud täiendava kogumispensioni kindlustuslepingu suhtes kohaldab aruandekohustuslik Eesti finantsasutus käesoleva seaduse 1¹. peatükis nimetatud aruandlus- ja hoolsusmeetmeid ning kogub teabe esmakordselt 2020. aasta 31. detsembriks.
+
+(7) Direktiivi lisast 1 tulenevaid muudatusi kohaldatakse käesoleva seaduse § 4¹ lõike 1 ja 1¹. peatüki rakendamisel alates 2026. aasta 1. jaanuarist.

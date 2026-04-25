@@ -10,12 +10,14 @@
 
 - 2) juriidilise isiku juhtimis- või kontrollorgani liikmetele makstud tasu;
 
-- 3) elukindlustuslepingu alusel makstud kindlustussumma ja -hüvitis;
+- 3) tulu elukindlustustoodetest, mille kohta ei vahetata teavet käesolevas seaduses sätestatud muul alusel;
 
 - 4) makstud pension;
 
-- 5) kinnisvaratulu;
+- 5) kinnisomand ja kinnisvaratulu;
 
-- 6) litsentsitasu.
+- 6) litsentsitasu;
+
+- 7) muu kui hoidmiskonto kaudu saadud dividenditulu, välja arvatud selline dividenditulu, mis on vabastatud äriühingu tulumaksust nõukogu direktiivi 2011/96/EL eri liikmesriikide ema- ja tütarettevõtjate suhtes kohaldatava ühise maksustamissüsteemi kohta (ELT L 345, 29.12.2011, lk 8–16) artikli 4, 5 või 6 kohaselt.
 
 (4) Maksuhaldur võib teabevahetuse toimimise täpsustamiseks sõlmida välisriigi pädeva ametiasutusega ametkondliku välislepingu.

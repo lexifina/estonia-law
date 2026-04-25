@@ -4,6 +4,8 @@
 
 1¹. peatükk Finantskontode maksualase teabe automaatne vahetus Euroopa Liidus
 
+1². peatükk Krüptovara teabe automaatne vahetus
+
 2. peatükk FATCA kokkuleppe täitmine
 
 2¹. peatükk Eelotsuste alane automaatne teabevahetus Euroopa Liidus

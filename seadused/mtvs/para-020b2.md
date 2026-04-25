@@ -20,4 +20,4 @@
 
 (2) Eelotsuses käsitletud toimingutega seotud füüsiliste isikute kohta automaatselt teavet ei vahetata.
 
-(3) Euroopa Komisjonile võib maksuhaldur eelotsuse kohta edastada käesoleva paragrahvi lõike 1 punktides 3–7 märgitud teavet.
+(3) Euroopa Komisjonile võib maksuhaldur eelotsuse kohta edastada käesoleva paragrahvi lõike 1 punktides 3–7 märgitud teavet, välja arvatud käesoleva seaduse § 20¹ lõigetes 4 ja 5 sätestatud juhtudel.
