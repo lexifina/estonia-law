@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/117032026008> (version in force from 2026-04-01)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/118032026017> (version in force from 2026-05-01)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -30,7 +30,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/117032026008> (version in force 
 | [§ 19](para-019.md) | Nõuded ning piirangud ilu- ja isikuteenuse osutamisele |
 | [§ 20](para-020.md) | Nõuded ujumis- ja suplemisteenuse osutamisele |
 | [§ 21](para-021.md) | Nõuded elukeskkonnale, kus osutatakse sotsiaalteenust |
-| [§ 22](para-022.md) | Nõuded toitlustamisele ja müügiks pakutavale toidule tervishoiu- ja haridusasutuses, noorte püsi- ja projektlaagris, kinnipidamisasutuses ning sotsiaalteenuse osutamisel |
+| [§ 22](para-022.md) | Nõuded toitlustamisele ja müügiks pakutavale toidule tervishoiu- ja haridusasutuses, kinnipidamisasutuses ning sotsiaalteenuse osutamisel |
 | **4. peatükk Rahvastiku tervise riiklikud andmekogud** | |
 | [§ 23](para-023.md) | Rahvastiku tervise riiklikud andmekogud |
 | [§ 24](para-024.md) | Vähiregister |

@@ -1,6 +1,6 @@
-# § 22. Nõuded toitlustamisele ja müügiks pakutavale toidule tervishoiu- ja haridusasutuses, noorte püsi- ja projektlaagris, kinnipidamisasutuses ning sotsiaalteenuse osutamisel
+# § 22. Nõuded toitlustamisele ja müügiks pakutavale toidule tervishoiu- ja haridusasutuses, kinnipidamisasutuses ning sotsiaalteenuse osutamisel
 
-(1) Toitlustamine sellise sotsiaalteenuse osutamise käigus, mille puhul on sotsiaalhoolekande seaduses või selle alusel kehtestatud määruses viidatud käesolevale seadusele, ning toitlustamine haiglas, lastehoius ja lasteaias, statsionaarse õppega üldhariduskoolis ja kutseõppeasutuses, noorte püsi- ja projektlaagris ning kinnipidamisasutuses peab olema eakohane, regulaarne ja toitlustatava inimese terviseseisundile vastav ning katma tema asutuses viibimise ajale vastava osa tema ööpäevasest toiduenergia- ja toitainevajadusest.
+(1) Toitlustamine sellise sotsiaalteenuse osutamise käigus, mille puhul on sotsiaalhoolekande seaduses või selle alusel kehtestatud määruses viidatud käesolevale seadusele, ning toitlustamine haiglas, lastehoius ja lasteaias, statsionaarse õppega üldhariduskoolis ja kutseõppeasutuses ning kinnipidamisasutuses peab olema eakohane, regulaarne ja toitlustatava inimese terviseseisundile vastav ning katma tema asutuses viibimise ajale vastava osa tema ööpäevasest toiduenergia- ja toitainevajadusest.
 
 (2) Käesoleva paragrahvi lõikes 1 nimetatud asutuses ja sotsiaalteenuse osutamise korral peab olema nähtavas kohas ja tasuta kättesaadav veeseaduse alusel kehtestatud nõuetele vastav joogivesi.
 
@@ -8,7 +8,7 @@
 
 määrusega.
 
-(4) Täpsemad nõuded toitlustamisele ja selle dokumenteerimisele lastehoius ja lasteaias, statsionaarse õppega üldhariduskoolis ja kutseõppeasutuses, lastele sotsiaalteenuse osutamisel ning püsi- ja projektlaagris kehtestab
+(4) Täpsemad nõuded toitlustamisele ja selle dokumenteerimisele lastehoius ja lasteaias, statsionaarse õppega üldhariduskoolis ja kutseõppeasutuses ning lastele sotsiaalteenuse osutamisel kehtestab
 
 määrusega.
 
