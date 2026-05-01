@@ -6,8 +6,6 @@
 
 1) Päästeamet majutusteenuse osutamisele kehtestatud tuleohutuse nõuete täitmise üle;
 
-2) Terviseamet majutusteenuse osutamisele kehtestatud terviseohutuse nõuete täitmise üle;
-
 3) Politsei- ja Piirivalveamet majutusteenuse kasutaja registreerimise nõude täitmise üle;
 
 4) valla- ja linnavalitsus oma haldusterritooriumil majutusteenuse osutamisele kehtestatud nõuete, välja arvatud käesoleva lõike punktides 1–3 nimetatud nõuded, täitmise üle.
