@@ -1,0 +1,60 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung esmaspäev, 4.05.2026 kell 11.15",
+  "sitting_time": "2026-05-04T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7ec131b6-d918-470d-a5c7-1cc1921e032c"
+    },
+    {
+      "order": 2,
+      "title": "Siseministeeriumi  valitsemisala ülevaade 2025. aasta eelarve täitmisest, eelarve jääkidest ja tulemuste hindamisest. Osaleb siseminister Igor Taro.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9f3d84be-300e-43b6-8268-5ce10d9aefab"
+    },
+    {
+      "order": 3,
+      "title": "Diislikütuse aktsiisi tähtajalise langetamise seaduse eelnõu (868 SE)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "93a185af-ff4e-45b4-b600-bbfb28933dc0"
+    },
+    {
+      "order": 4,
+      "title": "Ülevaade Eesti Panga 2025. aasta aruandest. Osaleb Eesti Panga president Madis Müller.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ea15ec22-c9a0-4130-a8b5-3163ac7ed6fb"
+    },
+    {
+      "order": 5,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e28fb904-0aed-455e-a732-580bf8bfb044"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 04.05.2026",
+      "uuid": "ddad2376-6851-482d-b19e-a93df32bfd7a",
+      "files": [
+        "RAHK_protokoll_04.05.2026.asice",
+        "RAHK_protokoll_226_04.05.2026.pdf",
+        "EESTI_PANGA_aastaaruande_tutvustus_04.05.2026.pdf",
+        "SIM_I._Taro_2025a_eelarve_ja_mõõdikute_täitmine_04.05.2026_Lisa_1.pdf"
+      ]
+    }
+  ],
+  "uuid": "1f65f7cf-2155-4aa5-9039-bcf95933034f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 1f65f7cf-2155-4aa5-9039-bcf95933034f)",
+  "source": "https://api.riigikogu.ee/api/volumes/1f65f7cf-2155-4aa5-9039-bcf95933034f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-05-01&endDate=2026-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
