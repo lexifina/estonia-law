@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 4.05.2026 kell 11.10",
+  "sitting_time": "2026-05-04T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "82dc77c2-5efb-4e75-a655-01688e6eea88"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud kalapüügiseaduse muutmise ja sellega seonduvalt teiste seaduste muutmise seaduse eelnõu (887 SE) esimese lugemise ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "02aa5731-5cd3-4470-b94b-3cc3e043c1ac"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3eed38dd-803b-47ab-88e9-17be0653edb3"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 04.05.2026",
+      "uuid": "aa433458-1bae-431a-8517-128a8a71d899",
+      "files": [
+        "MAEK_protokoll_04.05.2026.asice",
+        "152_MAEK_protokolli_lisa._887_SE.pdf",
+        "152_MAEK_protokoll_04.05.2026.pdf"
+      ]
+    }
+  ],
+  "uuid": "12cba3b6-b5d0-4537-af30-b45dabb7f46d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 12cba3b6-b5d0-4537-af30-b45dabb7f46d)",
+  "source": "https://api.riigikogu.ee/api/volumes/12cba3b6-b5d0-4537-af30-b45dabb7f46d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-05-01&endDate=2026-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
