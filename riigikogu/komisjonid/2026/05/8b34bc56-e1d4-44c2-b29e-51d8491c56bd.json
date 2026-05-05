@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung teisipäev, 5.05.2026 kell 14.00",
+  "sitting_time": "2026-05-05T14:04:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Karistusseadustiku ja kriminaalmenetluse seadustiku täiendamise seaduse eelnõu (773 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5852a9a2-a7d5-4484-bdb4-6b44549eab84"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "616fe5d0-c25f-4183-877f-cd4f6aa2559e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ÕIGK protokoll 05.05.2026",
+      "uuid": "fa2d175d-c808-40c3-bef1-ce3cb7f4260b",
+      "files": [
+        "ÕIGK_protokoll_05.05.2026.asice",
+        "Riigikogu_õiguskomisjoni_istungi_protokoll_nr_127.pdf"
+      ]
+    }
+  ],
+  "uuid": "8b34bc56-e1d4-44c2-b29e-51d8491c56bd",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8b34bc56-e1d4-44c2-b29e-51d8491c56bd)",
+  "source": "https://api.riigikogu.ee/api/volumes/8b34bc56-e1d4-44c2-b29e-51d8491c56bd",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-05-01&endDate=2026-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
