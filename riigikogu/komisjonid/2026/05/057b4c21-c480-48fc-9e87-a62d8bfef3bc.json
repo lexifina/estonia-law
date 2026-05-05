@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 5.05.2026 kell 14.00",
+  "sitting_time": "2026-05-05T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade aiandushariduse tulevikust Räpina Aianduskooli näitel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "36b3a002-3330-40bd-81e8-adeb59c1ac8c"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "597e21b9-944f-4e69-abd1-79c4579ca06f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 05.05.2026",
+      "uuid": "aea7ffd0-a41b-4287-b8f9-0a2672a468c4",
+      "files": [
+        "153_MAEK_protokoll_05.05.2026.pdf",
+        "MAEK_protokoll_05.05.2026.asice",
+        "153_MAEK_protokolli_lisa_Räpina_Aianduskool.pdf"
+      ]
+    }
+  ],
+  "uuid": "057b4c21-c480-48fc-9e87-a62d8bfef3bc",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 057b4c21-c480-48fc-9e87-a62d8bfef3bc)",
+  "source": "https://api.riigikogu.ee/api/volumes/057b4c21-c480-48fc-9e87-a62d8bfef3bc",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-05-01&endDate=2026-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
