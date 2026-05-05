@@ -1,0 +1,42 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni avalik istung teisipäeval, 5.05.2026 kell 14.00",
+  "sitting_time": "2026-05-05T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud tuumaenergia ja -ohutuse seaduse eelnõu (856 SE) teise lugemise ettevalmistamine: arutelu huvigruppidega julgeoleku ja pääste vaatest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "be567d31-b59c-4e81-a0ab-fba82b4f8274"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fd5d8d4b-2fcc-4fae-a67a-e7db504568d2"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAJK protokoll nr 190 5.05.2026",
+      "uuid": "c1ba0366-ae29-4c45-a040-bcfab845c7f0",
+      "files": [
+        "Keskkonnaamet.pdf",
+        "RK_TEOS_05.05.2026__SiM.pdf",
+        "MAJK_protokoll_nr_190_5.05.2026.asice",
+        "MAJK_protokoll_nr_190_5.05.2026.pdf"
+      ]
+    }
+  ],
+  "uuid": "02db98ae-bd84-4190-a2df-087a63776e88",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 02db98ae-bd84-4190-a2df-087a63776e88)",
+  "source": "https://api.riigikogu.ee/api/volumes/02db98ae-bd84-4190-a2df-087a63776e88",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-05-01&endDate=2026-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
