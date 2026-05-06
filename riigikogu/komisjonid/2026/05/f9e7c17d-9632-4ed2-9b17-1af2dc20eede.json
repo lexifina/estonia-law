@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung kolmapäev, 6.05.2026 kell 08.30",
+  "sitting_time": "2026-05-06T08:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Hormuzi kriisi mõju majandusele",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d8f75f2a-c50c-4646-a2a3-6f4a443b09bc"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "47fdf137-9693-42f2-b216-ce15631ac9c8"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 06.05.2026",
+      "uuid": "06a22957-f690-4710-9de0-82b0d88e97cd",
+      "files": [
+        "REKK_protokoll_06.05.2026.asice",
+        "Protokoll_nr_151_06.05.26.pdf",
+        "Hormuz_slaidid_06mai2026.pptx"
+      ]
+    }
+  ],
+  "uuid": "f9e7c17d-9632-4ed2-9b17-1af2dc20eede",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f9e7c17d-9632-4ed2-9b17-1af2dc20eede)",
+  "source": "https://api.riigikogu.ee/api/volumes/f9e7c17d-9632-4ed2-9b17-1af2dc20eede",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-05-01&endDate=2026-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
