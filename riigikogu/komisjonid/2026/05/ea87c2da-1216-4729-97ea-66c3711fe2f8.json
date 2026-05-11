@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung esmaspäev, 11.05.2026 kell 11.15",
+  "sitting_time": "2026-05-11T11:20:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "655d278c-2383-48ed-9f69-3de4acf1a9f2"
+    },
+    {
+      "order": 2,
+      "title": "Eesti Vabariigi erakorralise ja täievolilise suursaadiku kandidaadid",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3760024a-f04c-47b1-a73b-15780597c3de"
+    },
+    {
+      "order": 3,
+      "title": "Eesti seisukohad 12. mail 2026 toimuval Euroopa liidu välisasjade nõukogu kaitseministrite istungil",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3904dc65-d606-4760-8c34-1370893e256b"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3dbf8a9d-7aa1-481a-b7d5-bcd8a898061f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll",
+      "uuid": "45d45868-872c-4670-abd8-7b34f9a896db",
+      "files": [
+        "VÄLK_protokoll.asice",
+        "VÄLK_protokoll_nr_194_11.05.2026.pdf"
+      ]
+    }
+  ],
+  "uuid": "ea87c2da-1216-4729-97ea-66c3711fe2f8",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ea87c2da-1216-4729-97ea-66c3711fe2f8)",
+  "source": "https://api.riigikogu.ee/api/volumes/ea87c2da-1216-4729-97ea-66c3711fe2f8",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-05-01&endDate=2026-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
