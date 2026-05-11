@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 11.05.2026 kell 13:15",
+  "sitting_time": "2026-05-11T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5c75578a-f9e4-4a79-bb5b-253dfa4ee72d"
+    },
+    {
+      "order": 2,
+      "title": "Kaitseinvesteeringute olukord ja kaitsetööstuse areng",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "829ca79d-d864-4c1f-97a9-6671afe87c32"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f2b792e9-4997-42de-a94d-aa2ab9eafd1b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 11.05.2026",
+      "uuid": "691f44f1-3c98-4130-b1d3-1af8d7631e64",
+      "files": [
+        "REKK_protokoll_11.05.2026.asice",
+        "Protokoll_nr_152_11.05.26.pdf"
+      ]
+    }
+  ],
+  "uuid": "696694bb-4c81-49ab-8aa8-e7911e3d0016",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 696694bb-4c81-49ab-8aa8-e7911e3d0016)",
+  "source": "https://api.riigikogu.ee/api/volumes/696694bb-4c81-49ab-8aa8-e7911e3d0016",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-05-01&endDate=2026-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
