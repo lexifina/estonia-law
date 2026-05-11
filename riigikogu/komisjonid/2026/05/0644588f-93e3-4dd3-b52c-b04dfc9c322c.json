@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Korruptsioonivastane erikomisjon",
+  "committee_uuid": "e4f2977a-e8c3-4fa0-8f3d-9df9acd6377f",
+  "title": "Komisjoni istung esmaspäev, 11.05.2026 kell 13.15",
+  "sitting_time": "2026-05-11T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1cf9964f-a471-4142-88ed-ceeab3124198"
+    },
+    {
+      "order": 2,
+      "title": "Kohtumine Keskkriminaalpolitsei korruptsioonikuritegude büroo juhi Aivar Seppaga.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d543150a-4373-42f8-8b88-61c99a0f8a8e"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c7f2a3b3-172c-496b-a526-cb64457bfa7c"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KVEK protokoll 92 (11.05.2026)",
+      "uuid": "2d3c03f7-b5d9-4876-8168-23d77c51f582",
+      "files": [
+        "KVEK_protokoll_92_(11.05.2026).pdf",
+        "RK_Korruptsioonivastane_erikomisjon_KOKB_esitlus_11.05.26.pptx",
+        "KVEK_protokoll_92_(11.05.2026)_(2).asice"
+      ]
+    }
+  ],
+  "uuid": "0644588f-93e3-4dd3-b52c-b04dfc9c322c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0644588f-93e3-4dd3-b52c-b04dfc9c322c)",
+  "source": "https://api.riigikogu.ee/api/volumes/0644588f-93e3-4dd3-b52c-b04dfc9c322c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-05-01&endDate=2026-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
