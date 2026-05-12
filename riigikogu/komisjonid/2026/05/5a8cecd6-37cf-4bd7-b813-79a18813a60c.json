@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung teisipäev, 12.05.2026 kell 14.00",
+  "sitting_time": "2026-05-12T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti huvide kaitse muutuvas maailmakorras: Hiina ja Ida-Aasia julgeolekuruum",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ecd3e979-4b7f-4e6e-8d78-4c383e4575e3"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7cf609f0-bd0e-4e3f-aab6-27c9387e3402"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll",
+      "uuid": "fba2ed86-2058-4233-84ae-4193f9237308",
+      "files": [
+        "VÄLK_protokoll.asice",
+        "VÄLK_protokoll_nr_195_12.05.2026.pdf"
+      ]
+    }
+  ],
+  "uuid": "5a8cecd6-37cf-4bd7-b813-79a18813a60c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 5a8cecd6-37cf-4bd7-b813-79a18813a60c)",
+  "source": "https://api.riigikogu.ee/api/volumes/5a8cecd6-37cf-4bd7-b813-79a18813a60c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-05-01&endDate=2026-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
