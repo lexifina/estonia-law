@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 12.05.2026 kell 14.00",
+  "sitting_time": "2026-05-12T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud loomakaitseseaduse ja veterinaarseaduse muutmise seaduse eelnõu (899 SE) esimese lugemise ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6863403f-03af-4612-a7e3-7c82288bf893"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "49683ec9-a7a6-4002-8fa5-9e3d6507cedd"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 12.05.2026",
+      "uuid": "51f2097c-67a1-4bc3-be74-987a2951409e",
+      "files": [
+        "155_MAEK_protokoll_12.05.2026.pdf",
+        "155__MAEK_protokolli_lisa__899_SE.pdf",
+        "MAEK_protokoll_12.05.2026.asice"
+      ]
+    }
+  ],
+  "uuid": "f5123adb-3fda-431a-951c-92beeb82d50a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f5123adb-3fda-431a-951c-92beeb82d50a)",
+  "source": "https://api.riigikogu.ee/api/volumes/f5123adb-3fda-431a-951c-92beeb82d50a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-05-01&endDate=2026-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
