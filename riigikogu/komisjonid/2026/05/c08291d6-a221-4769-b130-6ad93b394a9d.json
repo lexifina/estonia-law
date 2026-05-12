@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung teisipäev, 12.05.2026 kell 14.00",
+  "sitting_time": "2026-05-12T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikaitsekomisjoni algatatud küberturvalisuse seaduse muutmise seaduse eelnõu (897 SE) esimese lugemise ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "23464d70-8b90-44cc-8a94-abd7d1df0d56"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud tsiviilkriisi ja riigikaitse seaduse eelnõu (668 SE) teise lugemise ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2d1a9072-fd06-45b7-92bc-0a051b590eaf"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d6a6fe41-abb9-483e-82e6-9e1743c301c9"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RIKK 12.05.2026 istungi protokoll",
+      "uuid": "4d774d5a-d74d-4404-be10-7193e1c57932",
+      "files": [
+        "RIKK_12.05.2026_istungi_protokoll.asice",
+        "Lisa_protokolli_nr_220_juurde.pdf",
+        "2026-05-12_protokoll_220.pdf"
+      ]
+    }
+  ],
+  "uuid": "c08291d6-a221-4769-b130-6ad93b394a9d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c08291d6-a221-4769-b130-6ad93b394a9d)",
+  "source": "https://api.riigikogu.ee/api/volumes/c08291d6-a221-4769-b130-6ad93b394a9d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-05-01&endDate=2026-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
