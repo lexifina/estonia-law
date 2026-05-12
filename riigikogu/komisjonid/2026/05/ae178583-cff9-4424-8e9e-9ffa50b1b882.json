@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung teisipäev, 12.05.2026 kell 14.00",
+  "sitting_time": "2026-05-12T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Karistusseadustiku muutmise seadus (nõusolekupõhine seksuaalvägivalla käsitlus) (727 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e0216bf4-3083-474e-ba12-2ebdeac7900a"
+    },
+    {
+      "order": 2,
+      "title": "Kriminaalmenetluse seadustiku ja teiste seaduste muutmise seadus (kohtumenetluse optimeerimine ja kohtulahendite avalikkus) (560 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "895e2d6a-d4ab-4401-b930-2b75cc4056ad"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "52693c9e-4ecc-4ca6-a244-afe448f4c901"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ÕIGK protokoll 12.05.2026",
+      "uuid": "43a0e09a-3490-4d0e-87ce-eeebd33262d1",
+      "files": [
+        "Riigikogu_õiguskomisjoni_istungi_protokoll_nr_129.pdf",
+        "ÕIGK_protokoll_12.05.2026.asice"
+      ]
+    }
+  ],
+  "uuid": "ae178583-cff9-4424-8e9e-9ffa50b1b882",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ae178583-cff9-4424-8e9e-9ffa50b1b882)",
+  "source": "https://api.riigikogu.ee/api/volumes/ae178583-cff9-4424-8e9e-9ffa50b1b882",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-05-01&endDate=2026-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
