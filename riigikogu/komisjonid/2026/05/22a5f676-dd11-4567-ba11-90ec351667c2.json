@@ -1,0 +1,43 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung teisipäev, 12.05.2026 kell 14.00",
+  "sitting_time": "2026-05-12T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud kohtute seaduse ja teiste seaduste muutmise seaduse (kohtumenetluse kiirendamine) eelnõu (854 SE) teise lugemise ettevalmistamine (JDM kuulamine)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fd69adeb-fd96-4efb-b695-d24bd65d8876"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "64f908f7-b159-4937-bfe6-4a2fa8f165fc"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Riigikogu põhiseaduskomisjoni protokoll nr 166",
+      "uuid": "f4b338f5-b331-4e32-ad51-77d3ae0757ec",
+      "files": [
+        "PÕSK_protokoll_nr_166_12.05.2026.pdf",
+        "854_SE_HKMS__RLS_jt_(kaasatavate_arvamuste_koond)_.docx",
+        "854_SE_TsMS_(kaasatavate_arvamuste_koond)_.docx",
+        "854_SE_Kohtukorraldus_(kaasatavate_arvamuste_koond).docx",
+        "Riigikogu_põhiseaduskomisjoni_protokoll_nr_166.asice"
+      ]
+    }
+  ],
+  "uuid": "22a5f676-dd11-4567-ba11-90ec351667c2",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 22a5f676-dd11-4567-ba11-90ec351667c2)",
+  "source": "https://api.riigikogu.ee/api/volumes/22a5f676-dd11-4567-ba11-90ec351667c2",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-05-01&endDate=2026-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
