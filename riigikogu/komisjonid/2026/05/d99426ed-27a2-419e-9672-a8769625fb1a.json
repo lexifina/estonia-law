@@ -1,0 +1,55 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung teisipäeval, 12.05.2026 kell 14.00",
+  "sitting_time": "2026-05-12T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud planeerimisseaduse muutmise ja sellega seonduvalt teiste seaduste muutmise seaduse (strateegiliste investeeringute ekspressrada) eelnõu (906 SE) esimese lugemise ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a555c6af-a5b7-4608-8a0f-80e70f090938"
+    },
+    {
+      "order": 2,
+      "title": "Maksejõuetuse teenistuse 2025. aasta tegevusaruande tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3cf6427e-13ac-446b-9538-ea65f126e56e"
+    },
+    {
+      "order": 3,
+      "title": "Kollektiivse pöördumise „Ilutulestiku kasutamise ja müügi piiramine – inimeste, loomade ja keskkonna hüvanguks“ arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fc7bce40-efa0-4c99-a7fc-88351ca07dfd"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4447270d-59fb-457f-9e6d-b6e5a7317f75"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAJK protokoll nr 193 12.05.2026",
+      "uuid": "fc6211c7-4ea3-4175-a599-32afb70c6deb",
+      "files": [
+        "Ilutulestiku_kasutamise_ja_müügi_piiramine_–_inimeste__loomade_ja_keskkonna_hüvanguks.pdf",
+        "2026-05-12_MAJK_Ekspressrada.pdf",
+        "Maksejõuetuse_teenistuse_2025_a_tegevusaruanne_Riigikogu_majanduskomisjonile_esitlus_12.05.2026.pdf",
+        "MAJK_protokoll_nr_193_12.05.2026.asice",
+        "MAJK_protokoll_nr_193_12.05.2026.pdf"
+      ]
+    }
+  ],
+  "uuid": "d99426ed-27a2-419e-9672-a8769625fb1a",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d99426ed-27a2-419e-9672-a8769625fb1a)",
+  "source": "https://api.riigikogu.ee/api/volumes/d99426ed-27a2-419e-9672-a8769625fb1a",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-05-01&endDate=2026-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
