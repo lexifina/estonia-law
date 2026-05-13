@@ -1,0 +1,42 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung kolmapäev, 13.05.2026 kell 08.30",
+  "sitting_time": "2026-05-13T08:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikontrolli kontrolliaruande „Regionaalarengu juhtimine Kagu-Eesti näitel“ tutvustus ja arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "56fe07cc-4358-4e66-8f1a-1733d755f86d"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e0c13868-3ea0-418b-a780-3826f8ae2703"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 13.05.2026",
+      "uuid": "ddbf93b6-94f2-4087-af36-4f70fb9cab38",
+      "files": [
+        "lisa1_13.05.pptx",
+        "REKK_protokoll_13.05.2026.asice",
+        "13.05_lisa.pptx",
+        "Protokoll_nr_153_13.05.26.pdf"
+      ]
+    }
+  ],
+  "uuid": "782f031b-6e2c-48b9-8e9d-c8c9b5451b79",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 782f031b-6e2c-48b9-8e9d-c8c9b5451b79)",
+  "source": "https://api.riigikogu.ee/api/volumes/782f031b-6e2c-48b9-8e9d-c8c9b5451b79",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-05-01&endDate=2026-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
