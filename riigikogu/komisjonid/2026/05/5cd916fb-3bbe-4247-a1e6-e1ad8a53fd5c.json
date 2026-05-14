@@ -1,0 +1,49 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Väliskomisjoni ja Euroopa Liidu asjade komisjoni ühine istung neljapäev, 14.05.2026 kell 15.00",
+  "sitting_time": "2026-05-14T15:00:00",
+  "sitting_type": "UHISISTUNG",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Euroopa Liidu asjade komisjoni nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c232bbeb-0020-4c00-8555-38c86d1eca0b"
+    },
+    {
+      "order": 2,
+      "title": "Aktuaalsed Euroopa Liidu välispoliitika küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "98812926-e97e-4d00-a697-d055b3834164"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4e9fbcab-dea5-47e5-86fc-2796c64bee20"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ELAK ja VÄLK protokoll nr 103 14.05.2026",
+      "uuid": "bab6290c-0eab-4daa-a1ef-7baecf14dc53",
+      "files": [
+        "asendus_ELAK_14.05.2026.asice",
+        "ELAK_ja_VÄLK_protokoll_nr_103_14.05.2026.pdf",
+        "asendus_ELAK_14.05.2026.docx",
+        "Asendusliikme_volikiri_T._Tamm_J.-K._Raid.PDF",
+        "ELAK_JA_VÄLK_protokoll_nr_103_14.05.2026.asice"
+      ]
+    }
+  ],
+  "uuid": "5cd916fb-3bbe-4247-a1e6-e1ad8a53fd5c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 5cd916fb-3bbe-4247-a1e6-e1ad8a53fd5c)",
+  "source": "https://api.riigikogu.ee/api/volumes/5cd916fb-3bbe-4247-a1e6-e1ad8a53fd5c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-05-01&endDate=2026-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
