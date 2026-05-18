@@ -1,0 +1,53 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung esmaspäeval, 18.05.2026 kell 11.10",
+  "sitting_time": "2026-05-18T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e05ee23f-538f-4316-b4f5-2e7cf75c8b47"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud elektrituruseaduse ja teiste seaduste muutmise seaduse eelnõu (892 SE) esimese lugemise ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bd2a9040-4b0b-488d-8b3c-80dd8f4c7c33"
+    },
+    {
+      "order": 3,
+      "title": "Vabariigi Valitsuse algatatud riigihangete seaduse ja teiste seaduste muutmise seaduse eelnõu (788 SE) teise lugemise ettevalmistamine: arutelu huvigruppidega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e4e3cf77-703a-418e-a6a3-b3a3fec603b8"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bfeba99e-91b9-41bf-8c0b-598c7b9563c8"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAJK protokoll nr 194 18.05.2026",
+      "uuid": "71bee9a3-e834-4916-ae56-7233c50622f8",
+      "files": [
+        "892SE_MAJK_ettekanne_180526.pdf",
+        "MAJK_protokoll_nr_194_18.05.2026.pdf",
+        "MAJK_protokoll_nr_194_18.05.2026.asice"
+      ]
+    }
+  ],
+  "uuid": "412f5341-eb8e-47b6-9971-cb48774e777b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 412f5341-eb8e-47b6-9971-cb48774e777b)",
+  "source": "https://api.riigikogu.ee/api/volumes/412f5341-eb8e-47b6-9971-cb48774e777b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-05-01&endDate=2026-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
