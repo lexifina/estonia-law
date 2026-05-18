@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Julgeolekuasutuste järelevalve erikomisjon",
+  "committee_uuid": "d3826f36-707d-17ad-41e8-8b99f9910b98",
+  "title": "Julgeolekuasutuste järelevalve erikomisjoni istung, 18.05.2026 kell 13.30",
+  "sitting_time": "2026-05-18T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "340c825a-ac92-4bf2-88f2-980c08f54443"
+    },
+    {
+      "order": 2,
+      "title": "Parlamentaarne järelevalve",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3ca007bf-ff8f-46c5-84e3-5173b7b2d9bc"
+    },
+    {
+      "order": 3,
+      "title": "Julgeolekuolukorrast",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fcb1b4bd-5453-468c-a932-8910782b39dc"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e986d6a8-b66e-41b3-8b1e-c84631f00431"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "JAJK 18.05.2026 istungi protokoll",
+      "uuid": "90f89d2d-2bac-404d-87d6-e7e6246800d1",
+      "files": [
+        "JAJK_protokoll_180526.pdf",
+        "JAJK_18.05.2026_istungi_protokoll.asice"
+      ]
+    }
+  ],
+  "uuid": "1fd9f55f-8021-4302-adac-4c75ba95f32f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 1fd9f55f-8021-4302-adac-4c75ba95f32f)",
+  "source": "https://api.riigikogu.ee/api/volumes/1fd9f55f-8021-4302-adac-4c75ba95f32f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-05-01&endDate=2026-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
