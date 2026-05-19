@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung teisipäev, 19.05.2026 kell 14.00",
+  "sitting_time": "2026-05-19T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kollektiivne pöördumine \"Nõuame Eesti õhuruumi sulgemist sõjalistele manöövritele!\"",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c6ceb08c-4e13-44e6-9793-0053df00a067"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "87b5aa3e-f5e8-4a13-af92-c86c8b478457"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RIKK 19.05.2026 istungi protokoll",
+      "uuid": "8aad61b2-8031-4f6b-a0be-54d404a6c46a",
+      "files": [
+        "RIKK_19.05.2026_istungi_protokoll.asice",
+        "2026-05-19_protokoll_223.pdf"
+      ]
+    }
+  ],
+  "uuid": "15466728-c41c-4c58-8bd2-62461d5d987b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 15466728-c41c-4c58-8bd2-62461d5d987b)",
+  "source": "https://api.riigikogu.ee/api/volumes/15466728-c41c-4c58-8bd2-62461d5d987b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-05-01&endDate=2026-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
