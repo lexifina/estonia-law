@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Julgeolekuasutuste järelevalve erikomisjon",
+  "committee_uuid": "d3826f36-707d-17ad-41e8-8b99f9910b98",
+  "title": "Julgeolekuasutuste järelevalve erikomisjoni istung, 20.05.2026 kell 08.30",
+  "sitting_time": "2026-05-20T08:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Parlamentaarne järelevalve",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cc8f352e-7814-4cbf-a3be-bef177768276"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "53811e14-8774-4858-ba5f-e33ea359fa52"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "JAJK 20.05.26 istungi protokoll",
+      "uuid": "a8038376-911a-45d2-ab87-b59a641d59b3",
+      "files": [
+        "JAJK_20.05.26_istungi_protokoll.asice",
+        "JAJK_protokoll_200526.pdf"
+      ]
+    }
+  ],
+  "uuid": "8b33cb7c-ebe8-458e-8bed-3f6fd79ecf01",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 8b33cb7c-ebe8-458e-8bed-3f6fd79ecf01)",
+  "source": "https://api.riigikogu.ee/api/volumes/8b33cb7c-ebe8-458e-8bed-3f6fd79ecf01",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-05-01&endDate=2026-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
