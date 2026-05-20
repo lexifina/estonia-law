@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung kolmapäev, 20.05.2026 kell 08.30",
+  "sitting_time": "2026-05-20T08:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikontrolli ülevaate „Asutuste võrk ja kinnisvara kohalikes omavalitsustes pärast haldusterritoriaalset reformi“ tutvustus ja arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ee9fe7a1-dee7-438a-b1e3-3da9dfa69163"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d4a2161c-f321-4592-92a2-ef01cebcdeca"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 20.05.2026",
+      "uuid": "c5a59de0-eb24-439a-9ad7-7096a311b917",
+      "files": [
+        "REKK_protokoll_20.05.2026.asice",
+        "Protokoll_nr_155_20.05.26.pdf",
+        "KOV-asutused_ja_kinnisvara_REK_20.05.2026.pptx"
+      ]
+    }
+  ],
+  "uuid": "968949b6-a568-41bd-babc-65d7e1f79da8",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 968949b6-a568-41bd-babc-65d7e1f79da8)",
+  "source": "https://api.riigikogu.ee/api/volumes/968949b6-a568-41bd-babc-65d7e1f79da8",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-05-01&endDate=2026-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
