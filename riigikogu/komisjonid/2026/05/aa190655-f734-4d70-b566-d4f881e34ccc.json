@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung neljapäev, 21.05.2026 kell 13.00",
+  "sitting_time": "2026-05-21T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Looduskaitseseaduse, jahiseaduse ja riigivaraseaduse muutmise seaduse eelnõu (612 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ff9badd3-29b1-4e97-bd0e-69e787872b14"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d02b142b-70c4-48c7-8d2b-ad56688e83fb"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK protokoll 21.05.2026",
+      "uuid": "eb87e732-2890-4dbf-97e9-30821ed4d3c1",
+      "files": [
+        "KEKK_protokoll_nr_156_21.05.2026_(1).pdf",
+        "KEKK_protokoll_21.05.2026.asice"
+      ]
+    }
+  ],
+  "uuid": "aa190655-f734-4d70-b566-d4f881e34ccc",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid aa190655-f734-4d70-b566-d4f881e34ccc)",
+  "source": "https://api.riigikogu.ee/api/volumes/aa190655-f734-4d70-b566-d4f881e34ccc",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-05-01&endDate=2026-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
