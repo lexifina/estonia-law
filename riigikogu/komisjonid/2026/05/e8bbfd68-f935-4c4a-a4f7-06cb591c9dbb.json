@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung esmaspäev, 25.05.2026 kell 15.00",
+  "sitting_time": "2026-05-25T15:09:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ef2458e7-b300-4912-8115-5489c2757dc0"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad 27.-28. mail 2026 toimuval Euroopa Liidu välisministrite mitteametlikul kohtumisel (Gymnich)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9e63e8cc-c0cf-4262-8c57-4b30569e7b8a"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "612009cc-076a-4482-a14f-8680d3b4a86d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll",
+      "uuid": "5ad306ac-2be3-4a2f-9f8d-5fc08df07850",
+      "files": [
+        "VÄLK_protokoll_nr_197_25.05.2026.pdf",
+        "VÄLK_protokoll.asice"
+      ]
+    }
+  ],
+  "uuid": "e8bbfd68-f935-4c4a-a4f7-06cb591c9dbb",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid e8bbfd68-f935-4c4a-a4f7-06cb591c9dbb)",
+  "source": "https://api.riigikogu.ee/api/volumes/e8bbfd68-f935-4c4a-a4f7-06cb591c9dbb",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-05-01&endDate=2026-05-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
