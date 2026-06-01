@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung esmaspäev, 1.06.2026 kell 11.15",
+  "sitting_time": "2026-06-01T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "eec83279-c24a-4778-94fe-2ca5994928c1"
+    },
+    {
+      "order": 2,
+      "title": "Tsiviilkohtumenetluse seadustiku ja võlaõigusseaduse muutmise seadus (vaigistushagi eest kaitsmise direktiivi ülevõtmine) (865 SE III)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bc2f4474-bce5-4f7f-9185-37265834d710"
+    },
+    {
+      "order": 3,
+      "title": "Korrakaitseseaduse muutmise ja sellest tulenevalt teiste seaduste muutmise seadus (mehitamata sõidukite seire ja tõrje rollijaotus) (902 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bd571bcb-af4d-4d5e-95d3-e3a4153ac525"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2079eff7-e036-433a-a09c-96c5441e782d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ÕIGK protokoll 01.06.2026",
+      "uuid": "45bf162f-0054-48a5-bdeb-067468d24bda",
+      "files": [
+        "ÕIGK_protokoll_01.06.2026.asice",
+        "Riigikogu_õiguskomisjoni_istungi_protokoll_nr_132.pdf"
+      ]
+    }
+  ],
+  "uuid": "4228e741-e985-425b-8e6c-43b77cda5566",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 4228e741-e985-425b-8e6c-43b77cda5566)",
+  "source": "https://api.riigikogu.ee/api/volumes/4228e741-e985-425b-8e6c-43b77cda5566",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-06-01&endDate=2026-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
