@@ -2,7 +2,7 @@
 
 Terviktekst (consolidated text) as published by Riigi Teataja, taken from the third-party mirror [legalize-ee](https://github.com/legalize-dev/legalize-ee) (built from Riigi Teataja's yearly XML archives); this record cannot read Riigi Teataja itself. Each version is checked against the Riigikogu's adopted texts in [`riigikogu/seadused/`](../riigikogu/seadused/) (see each commit's Check line).
 
-Riigi Teataja: <https://www.riigiteataja.ee/akt/107012026014> (version in force from 2026-01-17)
+Riigi Teataja: <https://www.riigiteataja.ee/akt/107012026015> (version in force from 2026-06-01)
 
 | Paragrahv | Pealkiri |
 | --- | --- |
@@ -59,7 +59,7 @@ Riigi Teataja: <https://www.riigiteataja.ee/akt/107012026014> (version in force 
 | [§ 37](para-037.md) | Töötajad |
 | [§ 38](para-038.md) | Õppekasvatusala töötajad |
 | [§ 39](para-039.md) | Kvalifikatsiooninõuded |
-| [§ 40](para-040.md) | Õpetaja tööaeg |
+| [§ 40](para-040.md) | Õpetaja tööaeg ja töötasu |
 | [§ 41](para-041.md) | Õpetaja lähtetoetus |
 | [§ 41¹](para-041b1.md) | Tugispetsialisti lähtetoetus |
 | [§ 42](para-042.md) | Õpilaskond |
