@@ -1,0 +1,43 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 2.06.2026 kell 14.00",
+  "sitting_time": "2026-06-02T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kohtumine Põllumajanduse Registrite ja Informatsiooni Ameti juhtkonnaga",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f9330331-381f-4378-9292-c230fac1ae4f"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "29a1b0a2-b814-4ba5-8c87-80cb8c6f04f0"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 02.06.2026",
+      "uuid": "c35751f4-9323-4ed5-90f4-0a9bf1df021b",
+      "files": [
+        "158_MAEK_protokolli_lisa_3._PRIA_TOETUSED.pdf",
+        "MAEK_protokoll_02.06.2026.asice",
+        "158_MAEK_protokolli_lisa_1._PRIA.pdf",
+        "158_MAEK_protokoll_02.06.2026.pdf",
+        "158_MAEK_protokolli_lisa_2._PRIA_Registrid_ja_teabeteenused.pdf"
+      ]
+    }
+  ],
+  "uuid": "024beb38-f5e3-408e-a69b-db3779a7e389",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 024beb38-f5e3-408e-a69b-db3779a7e389)",
+  "source": "https://api.riigikogu.ee/api/volumes/024beb38-f5e3-408e-a69b-db3779a7e389",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-06-01&endDate=2026-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
