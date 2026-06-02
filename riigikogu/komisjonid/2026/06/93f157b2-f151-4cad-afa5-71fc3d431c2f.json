@@ -1,0 +1,48 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung teisipäeval, 2.06.2026 kell 14.00",
+  "sitting_time": "2026-06-02T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud tuumaenergia ja -ohutuse seaduse eelnõu (856 SE) teise lugemise ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d78daea9-a72d-4c53-b8b3-657a6183cc45"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud ehitusseadustiku ja sellega seonduvalt teiste seaduste muutmise seaduse eelnõu (743 SE) teise lugemise ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6e792371-6d48-4ae2-9f13-1e07bfb9964d"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "98e40e84-db18-4290-8088-68179f0d89a1"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAJK protokoll nr 197 2.06.2026",
+      "uuid": "6504f50d-5fd0-451b-89fe-7a12370a9b97",
+      "files": [
+        "MAJK_protokoll_nr_197_2.06.2026.asice",
+        "MAJK_protokoll_nr_197_2.06.2026.pdf",
+        "Asendusliikme_volikiri_(R._Rand_R._Sikkut).pdf",
+        "Asendusliikme_volikiri_(A._Jevgrafov_L._Laats).pdf"
+      ]
+    }
+  ],
+  "uuid": "93f157b2-f151-4cad-afa5-71fc3d431c2f",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 93f157b2-f151-4cad-afa5-71fc3d431c2f)",
+  "source": "https://api.riigikogu.ee/api/volumes/93f157b2-f151-4cad-afa5-71fc3d431c2f",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-06-01&endDate=2026-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
