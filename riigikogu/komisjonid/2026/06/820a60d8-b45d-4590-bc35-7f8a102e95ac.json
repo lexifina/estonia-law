@@ -1,0 +1,49 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung esmaspäev, 8.06.2026 kell 13.15",
+  "sitting_time": "2026-06-08T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7f61f92f-0c3c-41e5-a1f3-479a53a13ec4"
+    },
+    {
+      "order": 2,
+      "title": "Rail Baltica hetkeseis, rahastamine ja tulevikuperspektiivid",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "77a32af8-034e-42a5-ae75-579add6a2816"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cd0b6887-afc4-4cc4-ae24-da7e445ede22"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 08.06.2026",
+      "uuid": "cae3340f-83f9-40fe-a7bd-3f8d791e365f",
+      "files": [
+        "REKK_protokoll_08.06.2026_(1).asice",
+        "REKK_protokoll_08.06.2026.asice",
+        "Protokoll_nr_158_08.06.26.pdf",
+        "asendusliikme_volikiri(Kadastik).pdf",
+        "asendusliikme_volikiri_epler_08.06.pdf"
+      ]
+    }
+  ],
+  "uuid": "820a60d8-b45d-4590-bc35-7f8a102e95ac",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 820a60d8-b45d-4590-bc35-7f8a102e95ac)",
+  "source": "https://api.riigikogu.ee/api/volumes/820a60d8-b45d-4590-bc35-7f8a102e95ac",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-06-01&endDate=2026-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
