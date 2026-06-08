@@ -1,0 +1,31 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Kohtumine",
+  "sitting_time": "2026-06-08T00:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Esmaspäeval, 8. juunil 2026 kell 14.00 toimub Eesti ja Türgi väliskomisjonide kohtumine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "4f909349-e9a4-4f48-b510-f3c579275fbb"
+    },
+    {
+      "order": 2,
+      "title": "8 - 9. juunil 2026 toimub Eesti, Läti, Leedu ja Türgi väliskomisjonide kohtumine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2c94d5c9-d63e-4578-9c58-55440a471f5c"
+    }
+  ],
+  "minutes": [],
+  "uuid": "db489cf7-cc4e-453a-9d86-4e9214027522",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid db489cf7-cc4e-453a-9d86-4e9214027522)",
+  "source": "https://api.riigikogu.ee/api/volumes/db489cf7-cc4e-453a-9d86-4e9214027522",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-06-01&endDate=2026-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
