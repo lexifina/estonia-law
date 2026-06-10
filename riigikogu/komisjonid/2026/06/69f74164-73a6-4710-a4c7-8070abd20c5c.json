@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni istung kolmapäev, 10.06.2026 kell 08.30",
+  "sitting_time": "2026-06-10T08:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kaitseinvesteeringute olukord ja kaitsetööstuse arengu jätkuarutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cb3a4dec-1244-45b7-829a-126642043596"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7ea85bc5-64de-42b5-ace3-f3e505034a34"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 10.06.2026",
+      "uuid": "a07795ca-420e-42e9-8d79-1874e4e9d439",
+      "files": [
+        "REKK_protokoll_10.06.2026.asice",
+        "Protokoll_nr_159_10.06.26.pdf"
+      ]
+    }
+  ],
+  "uuid": "69f74164-73a6-4710-a4c7-8070abd20c5c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 69f74164-73a6-4710-a4c7-8070abd20c5c)",
+  "source": "https://api.riigikogu.ee/api/volumes/69f74164-73a6-4710-a4c7-8070abd20c5c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-06-01&endDate=2026-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
