@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung reede, 12.06.2026 kell 08.30",
+  "sitting_time": "2026-06-12T08:33:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti seisukohad 15. juunil 2026 toimuval Euroopa Liidu välisasjade nõukogu istungil",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "931f0c83-bd39-4780-8701-3481f896518e"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "775e4fa5-0cb5-446a-af25-f5d76236a273"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll",
+      "uuid": "a0cfc30a-c00d-4c34-b52b-6a7522c25f72",
+      "files": [
+        "VÄLK_protokoll.asice",
+        "VÄLK_protokoll_nr_200_12.06.2026.pdf"
+      ]
+    }
+  ],
+  "uuid": "ac691557-1a15-4ced-9256-f7f1a05bb35d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid ac691557-1a15-4ced-9256-f7f1a05bb35d)",
+  "source": "https://api.riigikogu.ee/api/volumes/ac691557-1a15-4ced-9256-f7f1a05bb35d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-06-01&endDate=2026-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
