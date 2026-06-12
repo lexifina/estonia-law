@@ -1,0 +1,7 @@
+# § 76. Kättetoimetamine massmenetluses
+
+(1) Kui samad menetlusdokumendid tuleb kätte toimetada enam kui 50 isikule ning menetlusosalistel puudub ühine esindaja või ühised esindajad, võib kohus määrata, et järgnevas menetluses tehakse menetlusdokumendid teatavaks avalikult või muul käesolevas seadustikus sätestatust erineval ja lihtsamal viisil, kui see aitab kaasa asja kiiremale ja väiksemate kuludega lahendamisele ega ole menetlusosaliste jaoks asja iseloomu ja tähtsust arvestades ebamõistlikult koormav. Menetlusosalise taotlusel teeb kohus temale menetlusdokumendid isiklikult teatavaks lihtkirjaga või elektrooniliselt või tema enda kulul tsiviilkohtumenetluse seadustiku §-s 313 sätestatud viisil. Avaliku teatavakstegemise korral määratakse määruses kindlaks, millises ajalehes teated avaldatakse, teadete avaldamise täiendavad viisid ja tähtpäev, millal dokument loetakse kättetoimetatuks.
+
+(2) Käesoleva paragrahvi lõikes 1 nimetatud määrus toimetatakse menetlusosalistele isiklikult kätte. Määrus ei ole edasi kaevatav. Kohus võib määrust igal ajal muuta. Määrust tuleb muuta, kui käesoleva paragrahvi lõike 1 esimeses lauses sätestatud tingimused langevad ära.
+
+(3) Käesoleva paragrahvi lõike 1 esimeses lauses sätestatud tingimustel võib kohus määrusega panna menetlusdokumentide kättetoimetamise kohustuse menetlusosalise nõusolekul ka ühele või mitmele menetlusosalisele. Menetlusdokumentide kättetoimetamiseks antud nõusoleku saab menetlusosaline tagasi võtta üksnes menetlusolukorra olulise muutumise puhul.

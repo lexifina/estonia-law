@@ -1,0 +1,3 @@
+# § 236¹. Määruskaebuse menetlusse võtmise otsustamine
+
+Riigikohus otsustab määruskaebuse menetlusse võtmise käesoleva seadustiku §-s 219 sätestatut järgides. Riigikohus võtab määruskaebuse läbivaatamisel ringkonnakohtus tehtud määruse peale esitatud määruskaebuse või määruskaebuse, mille seadus võimaldab läbi vaadata lihtmenetluses, menetlusse üksnes juhul, kui Riigikohtu lahend selles asjas on oluline seaduse ühetaolise kohaldamise või õiguse edasiarendamise seisukohalt. Eelmises lauses sätestatut ei kohaldata haldustoiminguks loa andmise või sellest keeldumise määruse peale esitatud määruskaebuse korral.
