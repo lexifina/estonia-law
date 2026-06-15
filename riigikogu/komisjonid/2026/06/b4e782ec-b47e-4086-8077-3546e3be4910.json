@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung esmaspäeval, 15.06.2026 kell 11.10",
+  "sitting_time": "2026-06-15T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d0d928f5-8291-472a-b49a-14ebe94c324e"
+    },
+    {
+      "order": 2,
+      "title": "Kollektiivse pöördumise \"Taskukohane elekter kõigile Eestimaa inimestele\" arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0156f958-10ae-4fe2-a68f-6c1ecea843da"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e1ccff13-80c9-40c0-862e-20bdef64e610"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAJK protokoll nr 201 15.06.2026",
+      "uuid": "9fac5a63-b10d-4a2a-81c9-71c8a48b4fe6",
+      "files": [
+        "MAJK_protokoll_nr_201_15.06.2026.asice",
+        "MAJK_protokoll_nr_201_15.06.2026.pdf"
+      ]
+    }
+  ],
+  "uuid": "b4e782ec-b47e-4086-8077-3546e3be4910",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b4e782ec-b47e-4086-8077-3546e3be4910)",
+  "source": "https://api.riigikogu.ee/api/volumes/b4e782ec-b47e-4086-8077-3546e3be4910",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-06-01&endDate=2026-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
