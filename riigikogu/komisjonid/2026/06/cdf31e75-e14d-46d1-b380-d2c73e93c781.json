@@ -1,0 +1,60 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 15.06.2026 kell 11.10",
+  "sitting_time": "2026-06-15T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3a431b9b-7192-4c5f-925d-9fd7b4d52a09"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade riigiplaani 2028–2034 läbirääkimistest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cce7fe86-d02f-4f07-a4f5-8354bea9f9e2"
+    },
+    {
+      "order": 3,
+      "title": "Ülevaade Kagu-Eesti tegevuskava elluviimisest ja edasistest tegevustest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c0ad59da-843c-44d8-b1c7-10f1567a3c59"
+    },
+    {
+      "order": 4,
+      "title": "Ülevaade mahetoetuste rakendamisest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f614932f-edff-4bcb-817d-fdb395ef1530"
+    },
+    {
+      "order": 5,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "115ec3e9-8e44-47dd-9e2b-d78cc294d923"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 15.06.2026",
+      "uuid": "11917678-a4a8-4cf1-8575-04b2534e4cd8",
+      "files": [
+        "161_MAEK_protokolli_lisa_1._Kagu-Eesti_programm.pdf",
+        "161_MAEK_protokoll_15.06.2026.pdf",
+        "MAEK_protokoll_15.06.2026.asice",
+        "161_MAEK_protokolli_lisa_2._Mahetoetused.pdf"
+      ]
+    }
+  ],
+  "uuid": "cdf31e75-e14d-46d1-b380-d2c73e93c781",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid cdf31e75-e14d-46d1-b380-d2c73e93c781)",
+  "source": "https://api.riigikogu.ee/api/volumes/cdf31e75-e14d-46d1-b380-d2c73e93c781",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-06-01&endDate=2026-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
