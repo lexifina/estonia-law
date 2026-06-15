@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung esmaspäev, 15.06.2026 kell 11.15",
+  "sitting_time": "2026-06-15T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a75ef964-68a3-4e81-a64b-897a6c5d3153"
+    },
+    {
+      "order": 2,
+      "title": "Õiguskantsleri roll ettepaneku tegemisel anda nõusolek Riigikogu liikme kohta süüdistusakti koostamiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "85257470-6ead-4ee8-af40-34d0cb526afa"
+    },
+    {
+      "order": 3,
+      "title": "Töörühma töö kokkuvõtte tutvustamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f2e83eb5-0878-46ec-b60e-2fb042185dd8"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "768422bd-9eb9-486a-8b3a-7fe29b69068a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Riigikogu põhiseaduskomisjoni istungi protokoll nr 174",
+      "uuid": "b219b7ef-0c97-4b83-b70b-779a586eaaa8",
+      "files": [
+        "Riigikogu_põhiseaduskomisjoni_istungi_protokoll_nr_174.asice",
+        "PÕSK_protokoll_nr_174_15.06.2026.pdf"
+      ]
+    }
+  ],
+  "uuid": "1f042a08-9f22-4690-a82a-a14ba7077478",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 1f042a08-9f22-4690-a82a-a14ba7077478)",
+  "source": "https://api.riigikogu.ee/api/volumes/1f042a08-9f22-4690-a82a-a14ba7077478",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-06-01&endDate=2026-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
