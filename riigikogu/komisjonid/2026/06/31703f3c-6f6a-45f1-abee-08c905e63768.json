@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Komisjoni istung teisipäeval, 16.06.2026 kell 13.25",
+  "sitting_time": "2026-06-16T13:25:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kokkuvõte majanduskomisjoni kevadistungjärgu tööst",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f43c1d7f-c38d-457a-a943-a9d2c732999b"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "609a5f20-2eab-4655-bf1d-84562111da14"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAJK protokoll nr 202 16.06.2026",
+      "uuid": "95ba05b8-f051-4142-9eb4-f0e49bfa0007",
+      "files": [
+        "Majanduskomisjoni_tööst_2026._a_kevadistungjärgul_XV_koosseis.pdf",
+        "MAJK_protokoll_nr_202_16.06.2026.asice",
+        "MAJK_protokoll_nr_202_16.06.2026.pdf"
+      ]
+    }
+  ],
+  "uuid": "31703f3c-6f6a-45f1-abee-08c905e63768",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 31703f3c-6f6a-45f1-abee-08c905e63768)",
+  "source": "https://api.riigikogu.ee/api/volumes/31703f3c-6f6a-45f1-abee-08c905e63768",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-06-01&endDate=2026-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
