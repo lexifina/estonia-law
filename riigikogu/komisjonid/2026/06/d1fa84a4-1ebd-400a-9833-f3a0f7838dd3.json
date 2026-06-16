@@ -1,0 +1,45 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung teisipäev, 16.06.2026 kell 14.00",
+  "sitting_time": "2026-06-16T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud kliimakindla majanduse seaduse eelnõu (928 SE) teise lugemise ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "007f5d8b-a97e-4ba6-bfca-383643cce958"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1bd1c37b-b0c4-4ca3-906a-9c9951e690d6"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK protokoll 16.06.2026",
+      "uuid": "a9072274-f79a-41bd-8ef5-833cba5db534",
+      "files": [
+        "KliM_ettekanne.pdf",
+        "Keskkonnaõiguse_Keskus_ettekanne_Riigikogule.pdf",
+        "MLAnton_ELF_Kliimaseadus_16.06.pdf",
+        "KEKK_protokoll_nr_161_16.06.2026.pdf",
+        "KEKK_protokoll_16.06.2026.asice",
+        "Keskkonnaühenduste_Koda.pdf",
+        "Asendus_(Reinsalu).pdf"
+      ]
+    }
+  ],
+  "uuid": "d1fa84a4-1ebd-400a-9833-f3a0f7838dd3",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d1fa84a4-1ebd-400a-9833-f3a0f7838dd3)",
+  "source": "https://api.riigikogu.ee/api/volumes/d1fa84a4-1ebd-400a-9833-f3a0f7838dd3",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-06-01&endDate=2026-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
