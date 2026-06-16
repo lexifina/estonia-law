@@ -1,0 +1,48 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Põhiseaduskomisjon",
+  "committee_uuid": "38144a73-dde6-fd5e-68db-63e2736c85e2",
+  "title": "Komisjoni istung teisipäev, 16.06.2026 kell 14.00",
+  "sitting_time": "2026-06-16T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Õiguskantsleri roll ettepaneku tegemisel anda nõusolek Riigikogu liikme kohta süüdistusakti koostamiseks - arutelu koos õiguskantsleriga",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "10cf0c85-a606-47d6-bc7e-0955f64655b1"
+    },
+    {
+      "order": 2,
+      "title": "Andmekaitse Inspektsiooni peadirektori ülevaade avaliku teabe seaduse ja isikuandmete kaitse seaduse täitmise kohta eelmisel kalendriaastal",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f2aa0a9f-2a04-4d1b-ae6d-a50e41e84ce2"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "82f28581-6aa6-4b82-8dc0-db56aacd2106"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Riigikogu põhiseaduskomisjoni istungi protokoll nr 175",
+      "uuid": "d0595ebc-8b4a-4f69-bfdf-3862e05fcddd",
+      "files": [
+        "Riigikogu_põhiseaduskomisjoni_istung_nr_175.asice",
+        "PÕSK_protokoll_nr_175_16.06.2026.pdf",
+        "Asendusliikme_volikiri_(L._Laats).pdf",
+        "20260616_RK_PS_komisjon_AKI_ettekanne.pptx"
+      ]
+    }
+  ],
+  "uuid": "f7cb631c-fd3c-4e7c-8425-4b07f5fbdda7",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f7cb631c-fd3c-4e7c-8425-4b07f5fbdda7)",
+  "source": "https://api.riigikogu.ee/api/volumes/f7cb631c-fd3c-4e7c-8425-4b07f5fbdda7",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-06-01&endDate=2026-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
