@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni väljasõiduistung teisipäev, 16.06.2026 kell 14.00",
+  "sitting_time": "2026-06-16T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kokkuvõte rahanduskomisjoni tegevusest kevadistungjärgul 12.01- 19.06.2026",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8b02fc41-1c91-4642-9154-0c3028a88658"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2eb3c782-635b-4356-8350-2cd87f65745b"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 16.06.2026",
+      "uuid": "c10765b2-0638-4aea-a3b7-62ed1b644430",
+      "files": [
+        "RAHK_protokoll_16.06.2026.asice",
+        "RAHK_protokoll_nr_239_16.06.2026.pdf"
+      ]
+    }
+  ],
+  "uuid": "aed2db88-814a-40fa-9614-95855e4bd637",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid aed2db88-814a-40fa-9614-95855e4bd637)",
+  "source": "https://api.riigikogu.ee/api/volumes/aed2db88-814a-40fa-9614-95855e4bd637",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-06-01&endDate=2026-06-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
