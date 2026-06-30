@@ -10,6 +10,10 @@
 
 (4¹) Põhiharidusega õppimiskohustusliku lapse vastuvõtu korraldab kool hariduse infosüsteemi elektroonilises keskkonnas. Vastuvõtt, sealhulgas jätkuvastuvõtt, peab olema lõpetatud hiljemalt 31. augustiks. Pärast vastuvõttu vabaks jäänud koolituskohad avalikustab kool oma veebilehel.
 
+(4²) Õpilaskandidaat järjestab gümnaasiumid või nende õppesuunad ja kutseõppeasutuste õppekavad, millele ta esitab vastuvõtuavaldused, oma eelistustest lähtudes pingeritta. Kool võib õpilaskandidaadi eelistuste järjestust kooli vastuvõtmisel arvestada, kui kooli vastuvõtu tingimustes ja korras on sätestatud, et õpilaskandidaadi eelistuste järjestust arvestatakse.
+
+(4³) Õpilaskandidaat saab põhivastuvõtu käigus korraldataval konkursil ühes koolis kandideerida kuni kolmele õppekavale.
+
 (5) Õpilaste kooli vastuvõtu korra kehtestab valdkonna eest vastutav minister määrusega.
 
 (6) Kooli vastuvõtutingimusi ja -korda ning õppekorraldust reguleerivad dokumendid, sealhulgas kooli põhimääruse, õppekavad ning õppekorralduseeskirja ja sisekorraeeskirja avalikustab kool oma veebilehel.

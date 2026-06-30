@@ -6,6 +6,8 @@
 
 (3) Munitsipaalkooli direktori vaba ametikoha täitmiseks korraldatava konkursi korra kehtestab valla- või linnavalitsus.
 
+(3¹) Direktoriga sõlmitakse tähtajatu tööleping.
+
 (4) Riigikooli direktoriga sõlmib töölepingu, muudab seda ja ütleb selle üles valdkonna eest vastutav minister või tema volitatud esindaja.
 
 (5) Munitsipaalkooli direktoriga sõlmib töölepingu, muudab seda ja ütleb selle üles vallavanem või linnapea või tema volitatud esindaja.
