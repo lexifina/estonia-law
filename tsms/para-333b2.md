@@ -1,0 +1,7 @@
+# § 333². Avalikus arutelus osalemisest tulenevalt esitatud ilmselgelt põhjendamatu nõude rahuldamata jätmine
+
+(1) Kohus jätab käesoleva seadustiku § 4061 lõigete 2 ja 3 tingimustele vastava ilmselgelt põhjendamatu nõude kostja taotlusel esimesel võimalusel rahuldamata, kui käesoleva paragrahvi lõikes 2 sätestatud eeldused on täidetud.
+
+(2) Kui käesoleva seadustiku § 4061 lõigete 2 ja 3 tingimustele vastava nõude aluseks olevad asjaolud on kohtu arvates piisavalt välja selgitatud, kohus on arutanud vaidlusaluseid asjaolusid ja suhteid vajalikus ulatuses nii faktilisest kui ka õiguslikust küljest, andnud pooltele piisavad selgitused selle kohta, millest asja lahendamine sõltub ja kes menetlusosalistest peab vaidlusaluseid asjaolusid tõendama, ning hageja ei esita kohtu nõudmisel ja määratud tähtajaks nõude aluseks olevaid täiendavaid asjaolusid, selgitusi või tõendeid ning hageja esitatu alusel ei ole nõude rahuldamine õiguslikult põhjendatud, jätab kohus hagi rahuldamata ilma pooltele täiendavat tähtaega andmata. Enne hagi rahuldamata jätmise kohta otsuse tegemist selgitab kohus hagejale kohtu nõudmise täitmata jätmise õiguslikke tagajärgi.
+
+(3) Kui eelmenetluses selgub, et käesoleva seadustiku § 4061 lõigete 2 ja 3 tingimustele vastav nõue ei ole esitatud hageja seadusega kaitstud õiguse ega huvi kaitseks või eesmärgil, millele riik peaks andma õiguskaitset, jätab kohus nõude rahuldamata kohtuistungit pidamata.

@@ -1,0 +1,3 @@
+# § 602. Juriidilise isiku juhtorganite liikmete ja muude isikute määramine
+
+Kohus määrab seaduses sätestatud juhul huvitatud isiku avalduse alusel juriidilise isiku juhatusse või nõukogusse asendusliikme või audiitori, samuti erikontrolli läbiviimise ja läbiviija. Likvideerija võib kohus määrata ka omal algatusel, muu hulgas juriidilise isiku sundlõpetamise korral. Kohus võib juriidilisele isikule määrata juhtorgani asendusliikme omal algatusel, sõltumata juriidilise isiku põhikirja võimalikest piirangutest, kui kohtul ei ole õnnestunud juriidilisele isikule kätte toimetada menetlusdokumente põhjusel, et juhtorgani liikmed ei ole välismaal oleku tõttu või muul põhjusel kättesaadavad või ei ole nende viibimiskoht teada.
