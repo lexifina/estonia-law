@@ -12,4 +12,4 @@ Käesolevas seaduses kasutatakse mõisteid järgmises tähenduses:
 
 5) püsiasustus – alaliselt ja peamiselt väikesaarel elamine;
 
-6) püsielanik – isik, kes alaliselt ja peamiselt elab väikesaarel ja kelle elukoha andmed on kantud rahvastikuregistrisse väikesaarel asuva asustusüksuse täpsusega.
+6) püsielanik – isik, kelle rahvastikuregistrijärgne elukoht on väikesaarel.
