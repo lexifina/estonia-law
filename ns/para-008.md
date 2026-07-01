@@ -4,7 +4,7 @@
 
 1) vanemate perekonnanimi, kui vanemad kannavad ühist perekonnanime;
 
-2) erinevat perekonnanime kandvate vanemate kokkuleppel ühe vanema perekonnanimi. Kui nad kokkuleppele ei jõua, otsustab eestkosteasutus, kumma vanema perekonnanimi lapsele antakse;
+2) erinevat perekonnanime kandvate vanemate kokkuleppel ühe vanema perekonnanimi. Kui nad kokkuleppele ei jõua, otsustab valla- või linnavalitsus, kelle kohustus on vajaduse korral täita eestkostja ülesandeid, kumma vanema perekonnanimi lapsele antakse;
 
 3) ema perekonnanimi, kui isadus ei ole kindlaks tehtud.
 
@@ -12,6 +12,6 @@
 
 (2¹) Kui lapse õel või vennal on kahest nimest koosnev perekonnanimi, mis ühtib vanema kahest nimest koosneva perekonnanimega, võib lapsele erandina anda vanema kahest nimest koosneva perekonnanime. Mitmikutele antakse sama perekonnanimi.
 
-(3) Lapsele antakse eesnimi vanemate kokkuleppel või tema ainsa vanema või eestkostja ettepanekul. Kui lapse hooldusõigus kuulub ainult ühele vanematest, antakse lapsele eesnimi tema ettepanekul. Kui kokkulepet ei ole või ettepanekut ei tehta, otsustab eestkosteasutus, milline eesnimi lapsele antakse.
+(3) Lapsele antakse eesnimi vanemate kokkuleppel või tema ainsa vanema või eestkostja ettepanekul. Kui lapse hooldusõigus kuulub ainult ühele vanematest, antakse lapsele eesnimi tema ettepanekul. Kui kokkulepet ei ole või ettepanekut ei tehta, otsustab valla- või linnavalitsus, kelle kohustus on vajaduse korral täita eestkostja ülesandeid, milline eesnimi lapsele antakse.
 
-(4) Leidlapsele antakse eesnimi ja perekonnanimi eestkosteasutuse avalduse alusel.
+(4) Leidlapsele antakse eesnimi ja perekonnanimi selle valla- või linnavalitsuse, kelle kohustus on vajaduse korral täita eestkostja ülesandeid, avalduse alusel.
