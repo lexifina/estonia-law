@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung reede, 3.07.2026 kell 09.00",
+  "sitting_time": "2026-07-03T09:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2225ea7c-3f61-407a-978f-04edc0023578"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad 9. juulil 2026 toimuval eurorühma kohtumisel ja 10. juulil 2026 toimuval majandus- ja rahandusnõukogu istungil",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "52c0444d-42af-4621-b110-713a222ec73f"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "495c93d9-8330-4019-9fbe-a0450eece46e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ELAK protokoll nr 171 03.07.2026",
+      "uuid": "695d43b9-4873-4a59-a55b-ceec0f922f0c",
+      "files": [
+        "ELAK_protokoll_nr_171_03.07.2026.pdf",
+        "ELAK_protokoll_nr_171_03.07.2026.asice"
+      ]
+    }
+  ],
+  "uuid": "c131ab48-fdf6-44a9-a96b-ef0de38530be",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c131ab48-fdf6-44a9-a96b-ef0de38530be)",
+  "source": "https://api.riigikogu.ee/api/volumes/c131ab48-fdf6-44a9-a96b-ef0de38530be",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-07-01&endDate=2026-07-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
