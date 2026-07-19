@@ -1,6 +1,6 @@
 # § 14¹. Kutseõppe kvaliteedi hindamine
 
-(1) Kutseõppe kvaliteedi hindamine (edaspidi kvaliteedi hindamine) on sisehindamisel põhinev kooliväliste sõltumatute hindajate läbiviidav välishindamine, mis toimub üks kord kuue aasta jooksul. Selle käigus hinnatakse õppekasvatustöö toimivust ja jätkusuutlikkust, muu hulgas õppekavaarenduse, õppimise ja õpetamise, eestvedamise ja juhtimise ning ressursside kasutamise toimivust ja jätkusuutlikkust.
+(1) Kutseõppe kvaliteedi hindamine (edaspidi kvaliteedi hindamine) on sisehindamisel põhinev kooliväliste sõltumatute hindajate läbiviidav välishindamine, mis toimub üks kord seitsme aasta jooksul. Selle käigus hinnatakse õppekasvatustöö toimivust ja jätkusuutlikkust, muu hulgas õppekavaarenduse, õppimise ja õpetamise, eestvedamise ja juhtimise ning ressursside kasutamise toimivust ja jätkusuutlikkust.
 
 (2) Kvaliteedi hindamist korraldab Haridus- ja Noorteamet.
 
