@@ -32,11 +32,13 @@
 
 - 6) politsei ja piirivalve seaduse § 3 lõike 1 punktides 1, 4–6 ja 8 ning hädaolukorra seaduse § 16 lõikes 3 sätestatud ülesannete täitmisse;
 
-- 7) riigikaitseobjektivastase ründe, riigipiiri või ajutise kontrolljoone ebaseadusliku ületamise ning kuritegude ennetamisse ja tõkestamisse korrakaitseseaduses sätestatud korras.
+- 7) riigikaitseobjektivastase ründe, riigipiiri või ajutise kontrolljoone ebaseadusliku ületamise ning kuritegude ennetamisse ja tõkestamisse korrakaitseseaduses sätestatud korras;
+
+- 8) isikute ja vara kaitsesse mehitamata õhusõiduki eest korrakaitseseaduses sätestatud korras.
 
 (2¹) Käesoleva paragrahvi lõikes 1 nimetatud ülesandeid täites on tervishoiutöötajal õigus vajaduse korral osutada esmaabi oma pädevuse piires.
 
-(2²) Kui Kaitseliit on ülesande täitmisse kaasatud käesoleva paragrahvi lõike 2 alusel, on Kaitseliidul kaasava haldusorgani volitused nende ülesannete ulatuses, mille täitmisse ta kaasati.
+(2²) Kui Kaitseliit on kaasatud teise haldusorgani ülesannete täitmisse käesoleva paragrahvi lõike 2 alusel või kaasatud Kaitseväe ülesannete täitmisse lõike 3¹ alusel, on Kaitseliidul kaasava haldusorgani või Kaitseväe volitused nende ülesannete ulatuses, mille täitmisse ta kaasati, kui seaduses ei ole sätestatud teisiti. Käesolevas paragrahvis sätestatud juhul ei osale Kaitseliit vahetus lahingutegevuses.
 
 (3) Kaitseliidu käesoleva paragrahvi lõike 2 punktides 4 ja 6 sätestatud ülesannete täitmisse kaasamise korra kehtestab Vabariigi Valitsus määrusega.
 
