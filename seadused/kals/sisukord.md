@@ -16,6 +16,8 @@
 
 8. peatükk Valve
 
+8¹. peatükk Kaitseliidu julgeolekuala
+
 9. peatükk Vara ja õigusvõime
 
 10. peatükk Rahastamine ja kontroll

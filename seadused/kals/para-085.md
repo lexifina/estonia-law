@@ -6,6 +6,8 @@
 
 (2¹) Ravimiseaduses ning narkootiliste ja psühhotroopsete ainete ning nende lähteainete seaduses ja nende alusel antud õigusaktides sätestatud nõuete täitmise üle Kaitseliidus teostab haldusjärelevalvet Kaitsevägi.
 
+(2²) Meresõiduohutuse seaduses ning laeva lipuõiguse ja laevaregistrite seaduses ning nende alusel kehtestatud õigusaktides sätestatud nõuete täitmise üle Kaitseliidus teostab haldusjärelevalvet Kaitsevägi.
+
 (3) Käesoleva seaduse alusel Kaitseväe juhataja kehtestatud nõuete täitmise üle teostab haldusjärelevalvet Kaitsevägi.
 
 (4) Haldusjärelevalve teostajal on õigus:

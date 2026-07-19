@@ -6,7 +6,7 @@
 
 (2) Alaliselt valvatavate objektide loetelu kehtestab valdkonna eest vastutav minister määrusega.
 
-(2¹) Ajutiselt valvatav objekt võib olla sõjaväelise väljaõppe andmiseks ja korraldamiseks ajutiselt kasutatav territoorium, mis on Kaitseliidu omandis või mida Kaitseliit võib selle omaniku või seadusliku valdajaga taasesitatavas vormis sõlmitud kokkuleppe alusel kasutada.
+(2¹) Ajutiselt valvatav objekt on käesoleva paragrahvi lõikes 1 sätestatud tunnustele vastav territoorium või ehitis, mille valve on korraldatud ajutiselt käesoleva seaduse §-s 69¹ sätestatud korras ja käesoleva paragrahvi lõikes 5 sätestatud valvelepingu alusel.
 
 (3) [Kehtetu]
 
