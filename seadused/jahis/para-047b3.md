@@ -4,4 +4,4 @@
 
 (2) Keskkonnaameti erivahendid on käerauad.
 
-(3) Keskkonnaameti teenistusrelvad on tulirelv, gaasirelv ja külmrelv.
+(3) Keskkonnaameti teenistusrelvad on tulirelvad ja gaasirelvad.

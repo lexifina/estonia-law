@@ -12,7 +12,11 @@
 
 - 5) vibujahi laskekatse tunnistus.
 
-(2) Jahipidamisõigust tõendavad dokumendid peavad jahipidamise ajal kaasas olema või olema vormistatud elektrooniliselt, välja arvatud käesoleva seaduse § 31 lõikes 4 nimetatud juhul.
+(2) Jahipidamisõigust tõendavad dokumendid antakse või koostatakse elektrooniliselt isiku üheselt tuvastamist võimaldavas jahinduse infosüsteemis (edaspidi jahinduse infosüsteem).
+
+(2¹) Jahinduse infosüsteemi peab käesoleva seaduse § 10 lõike 1 alusel Kliimaministeeriumiga halduslepingu sõlminud isik või Keskkonnaamet.
+
+(2²) Jahipidamisõigust tõendatakse isikut tõendava dokumendi alusel, välja arvatud käesoleva seaduse § 31 lõikes 4 nimetatud juhul.
 
 (3) Jahist osavõtjate nimekiri on nõutav üksnes ühisjahi puhul.
 

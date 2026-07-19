@@ -2,17 +2,17 @@
 
 (1) Ühisjaht on suurulukitele peetav mitme isiku osavõtul toimuv jaht, mida korraldatakse vähemalt ühele jahist osavõtvale isikule antud jahiloa alusel.
 
-(2) Ühisjahi korraldamiseks valitakse jahist osavõtvate isikute hulgast jahijuhataja, kes koostab jahist osavõtjate nimekirja, mis peab jahipidamisel kaasas olema. Jahijuhatajal peab olema kehtiv jahitunnistus.
+(2) Ühisjahi korraldamiseks valitakse jahist osavõtvate isikute hulgast jahijuhataja, kes koostab käesoleva seaduse § 35 lõikes 2 nimetatud jahinduse infosüsteemis jahist osavõtjate nimekirja. Jahijuhatajal peab olema kehtiv jahitunnistus ja ta on kohustatud ühisjahis osalema.
 
 (3) Jahist osavõtjate nimekiri peab sisaldama:
 
 - 1) vähemalt ühe jahiloa numbrit;
 
-- 2) kõikide jahist osavõtjate nimesid ja allkirju;
+- 2) kõikide jahist osavõtjate nimesid;
 
 - 3) jahi toimumise aega ja kohta;
 
-- 4) jahijuhataja nime ja allkirja.
+- 4) jahijuhataja nime.
 
 (4) Jahist osavõtjate nimekirja kantud isikul ei pea olema jahipidamiseks vajalikke dokumente ja jahipidamisvahendi kasutamist tõendavaid dokumente, kui ta ei kasuta dokumendi olemasolu eeldavat jahipidamisvahendit või temale antud jahiluba ei ole lisatud jahist osavõtjate nimekirjale.
 
@@ -26,12 +26,12 @@
 
 - 4) võtma tarvitusele vajalikud abinõud õnnetusjuhtumite korral;
 
-- 5) tegema jahiuluki surmamise ja haavamise korral märke jahiloale;
+- 5) tegema jahiuluki surmamise ja haavamise korral märke jahiloale.
 
-- 6) esitama jahipiirkonna kasutajale jahist osavõtjate nimekirja jahiaasta lõpuks.
+- 6) [Kehtetu]
 
 (6) Ühisjahist osavõtja on kohustatud:
 
 - 1) täitma jahijuhataja õiguspäraseid korraldusi;
 
-- 2) andma jahist osavõtjate nimekirjale allkirja jahiohutuse ja jahipidamise nõuetest teadlik olemise kohta.
+- 2) andma jahist osavõtjate nimekirjale allkirja või kinnituse jahiohutuse ja jahipidamise nõuetest teadlik olemise kohta.

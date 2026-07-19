@@ -1,6 +1,6 @@
-# § 61. Keskkonnaameti kehtestatud küttimismahu ja -struktuuri rikkumine
+# § 61. Keskkonnaameti kehtestatud lisapiirangute, lisatingimuste, küttimismahu ja -struktuuri rikkumine
 
-(1) Keskkonnaameti kehtestatud küttimismahu või -struktuuri rikkumise eest –
+(1) Keskkonnaameti kehtestatud lisapiirangute, lisatingimuste, küttimismahu või -struktuuri rikkumise eest –
 
 karistatakse rahatrahviga kuni 300 trahviühikut.
 

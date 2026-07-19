@@ -12,7 +12,7 @@
 
 - 2) Keskkonnaamet käesoleva seaduse § 23 lõike 4 punktides 6 ja 7 sätestatud juhtudel.
 
-(4) Jahipiirkonna kasutaja on kohustatud kehtiva jahitunnistuse alusel andma tasuta jahiloa väikeulukite küttimiseks oma kinnisasjal jahti pidavale maaomanikule või tema määratud isikutele. Keskkonnaametil on õigus riikliku loomatauditõrje komisjoni ettepanekul kehtestada sigade Aafrika katku tõrjumise eesmärgil ajavahemik ja piirkond, mille jooksul ja kuhu jahipiirkonna kasutaja on kohustatud kehtiva jahitunnistuse alusel andma tasuta jahiloa metssigade küttimiseks oma kinnisasjal jahti pidavale maaomanikule.
+(4) Jahipiirkonna kasutaja on kohustatud kehtiva jahitunnistuse alusel andma tasuta jahiloa väikeulukite küttimiseks oma kinnisasjal jahti pidavale maaomanikule või tema määratud isikutele. Keskkonnaametil on õigus Põllumajandus- ja Toiduameti ettepanekul kehtestada sigade Aafrika katku tõrjumise eesmärgil ajavahemik ja piirkond, mille jooksul ja kuhu jahipiirkonna kasutaja on kohustatud kehtiva jahitunnistuse alusel andma tasuta jahiloa metssigade küttimiseks oma kinnisasjal jahti pidavale maaomanikule.
 
 (5) Käesoleva paragrahvi lõikes 4 nimetatud juhul määrab küttida lubatud jahiulukid ja loa kehtivusaja kuni üheks jahiaastaks maaomanik, välja arvatud maaomaniku määratud isikule antud jahiloa puhul, mille kehtivusaeg ei tohi olla lühem kui kümme päeva.
 
@@ -28,17 +28,17 @@
 
 - 1) jahiloa number;
 
-- 2) loa andja nimi ja asukoht;
+- 2) loa andja nimi;
 
-- 3) loa saaja ees- ja perekonnanimi;
+- 3) loa saaja nimi ja jahitunnistuse number;
 
 - 4) loa andmise aeg ning loa kehtivusaeg;
 
 - 5) ala, kus jahipidamine on lubatud;
 
-- 6) küttida lubatud uluki liik, suuruluki jahiloale vajaduse korral uluki vanus ja sugu;
+- 6) küttida lubatud uluki liik, suuruluki jahiloale vajaduse korral uluki vanus ja sugu.
 
-- 7) loa andnud isiku allkiri.
+- 7) [Kehtetu]
 
 (9) Jahiloale tohib kanda kuni kolm loa kasutajat.
 
@@ -48,6 +48,6 @@
 
 (12) Jahiluba annab jahipidamise õiguse ainult loale kantud isikule, välja arvatud käesoleva seaduse §-s 31 sätestatud ühisjahi puhul.
 
-(13) Jahiloa vormi kehtestab valdkonna eest vastutav minister määrusega.
+(13) [Kehtetu]
 
 (14) Välisriigis antud kehtiva jahitunnistuse alusel jahitunnistuse saanud isikule veelinnujahiks väikeuluki jahiloa andmisel läbitavale jahindusalasele koolitusele ja koolitajale esitatavad nõuded ning koolituse mahu ja läbiviimise korra kehtestab valdkonna eest vastutav minister määrusega.

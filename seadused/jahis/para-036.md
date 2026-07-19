@@ -1,6 +1,6 @@
 # § 36. Jahitunnistus
 
-(1) Jahitunnistus on paberil või elektrooniliselt vormistatud dokument, mis tõendab füüsilise isiku oskust jahti pidada.
+(1) Jahitunnistus tõendab füüsilise isiku oskust jahti pidada.
 
 (2) Jahitunnistuse tohib anda vähemalt 16-aastasele isikule, kes on läbi teinud jahindusalase koolituse ning edukalt sooritanud jahiteooriaeksami.
 
@@ -16,11 +16,11 @@
 
 (6) Välisriigis antud kehtiva jahitunnistuse alusel antakse selle saanud isikule tema soovil, ilma et ta jahindusalase koolituse läbiks ning jahiteooriaeksami sooritaks, jahitunnistus kehtivusajaga kuni üks aasta kümne päeva jooksul pärast taotluse esitamist ja käesoleva paragrahvi lõikes 10 sätestatud riigilõivu või tasu tasumist.
 
-(7) Jahitunnistuse kehtivusaja pikendamise, andmete muutmise, jahitunnistuse kaotamise, kasutamiskõlbmatuks muutumise ja jahitunnistuse kehtivuse peatamise korral pikendatakse jahitunnistuse kehtivusaega või antakse uus jahitunnistus või taastatakse jahitunnistuse kehtivus kümne päeva jooksul pärast taotluse esitamist ja käesoleva paragrahvi lõikes 10 nimetatud riigilõivu või tasu tasumist.
+(7) Jahitunnistuse kehtivusaja pikendamise, andmete muutmise ja jahitunnistuse kehtivuse peatamise korral pikendatakse jahitunnistuse kehtivusaega või antakse uus jahitunnistus või taastatakse jahitunnistuse kehtivus kümne päeva jooksul pärast taotluse esitamist ja käesoleva paragrahvi lõikes 10 nimetatud riigilõivu või tasu tasumist.
 
-(8) Jahitunnistuse annab paberil või elektrooniliselt ja jahitunnistuse üle peab arvestust, samuti korraldab jahiteooriaeksami ja laskekatse läbiviimist Keskkonnaamet või käesoleva seaduse § 10 lõike 1 alusel Kliimaministeeriumiga halduslepingu sõlminud isik (edaspidi koos tunnistuse andja).
+(8) Jahitunnistuse annab ja jahitunnistuse üle peab arvestust, samuti korraldab jahiteooriaeksami ja laskekatse läbiviimist Keskkonnaamet või käesoleva seaduse § 10 lõike 1 alusel Kliimaministeeriumiga halduslepingu sõlminud isik (edaspidi koos tunnistuse andja).
 
-(9) Jahitunnistuse vormi, jahiteooriaeksami ja laskekatse sooritamise ning jahitunnistuse taotlemise ja andmise korra, samuti jahindusalasele koolitusele ja koolitajale esitatavad nõuded ning koolitamise korra kehtestab valdkonna eest vastutav minister määrusega.
+(9) Jahitunnistuse andmekoosseisu, jahiteooriaeksami ja laskekatse sooritamise ning jahitunnistuse taotlemise ja andmise korra, samuti jahindusalasele koolitusele ja koolitajale esitatavad nõuded ning koolitamise korra kehtestab valdkonna eest vastutav minister määrusega.
 
 (10) Jahitunnistuse saamise, kehtivusaja pikendamise, vahetamise ja kehtivuse taastamise taotluse läbivaatamise, samuti jahiteooriaeksami ja laskekatse vastuvõtmise eest tasutakse riigilõivu riigilõivuseaduses sätestatud määrade järgi, või kui haldusülesande täitmine on halduslepinguga üle antud, siis halduslepingus sätestatud tasu.
 
