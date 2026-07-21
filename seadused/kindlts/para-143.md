@@ -14,7 +14,9 @@
 
 - 6) käesoleva seaduse § 17 lõike 1 punktides 7 ja 11 sätestatud andmed ja dokumendid;
 
-- 7) Konkurentsiameti otsus koondumiseks loa andmise kohta, kui kohustus selle taotlemiseks tuleneb konkurentsiseadusest, või kindlustusandja kinnitus, et ta on taotlenud Konkurentsiametilt luba koondumiseks ning on selle saanud konkurentsiseaduse § 27 lõike 5 alusel.
+- 7) Konkurentsiameti otsus koondumiseks loa andmise kohta, kui kohustus selle taotlemiseks tuleneb konkurentsiseadusest, või kindlustusandja kinnitus, et ta on taotlenud Konkurentsiametilt luba koondumiseks ning on selle saanud konkurentsiseaduse § 27 lõike 5 alusel;
+
+- 8) Tarbijakaitse ja Tehnilise Järelevalve Ameti otsus välisinvesteeringu loa andmise kohta, kui kohustus seda taotleda tuleneb välisinvesteeringu usaldusväärsuse hindamise seadusest, või ühendava kindlustusandja kinnitus, et ta on taotlenud Tarbijakaitse ja Tehnilise Järelevalve Ametilt välisinvesteeringu luba ning on selle saanud sama seaduse § 11 lõike 1 kohaselt.
 
 (2) Kindlustusandja ühinemisel tugiettevõtjaga esitab kindlustusandja käesoleva paragrahvi lõike 1 punktis 5 sätestatu asemel käesoleva seaduse § 18 lõike 1 punktides 3 ja 4 nimetatud andmed ning sama paragrahvi lõike 2 punktides 1, 5 ja 6 nimetatud andmed järgneva kolme aasta kohta.
 
