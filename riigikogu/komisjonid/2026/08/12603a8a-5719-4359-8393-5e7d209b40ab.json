@@ -1,0 +1,42 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni erakorraline istung esmaspäev, 31.08.2026 kell 14.00",
+  "sitting_time": "2026-08-31T14:00:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Hasartmängumaksu laekumisest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c67aa902-3cce-4062-95b7-7728bafbce51"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "8f48e098-9292-40f8-bdf5-b8c533605a74"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 31.08.2026",
+      "uuid": "79e785f2-86f9-43c1-b626-554d1f591587",
+      "files": [
+        "REKK_protokoll_31.08.2026.asice",
+        "Tanel_Teini_küsimused_31.08.26_istungi_kohta.pdf",
+        "Riigieelarve_kontrolli_erikomisjonis_esitamiseks.pptx",
+        "Protokoll_nr_162_31.08.26.pdf"
+      ]
+    }
+  ],
+  "uuid": "12603a8a-5719-4359-8393-5e7d209b40ab",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 12603a8a-5719-4359-8393-5e7d209b40ab)",
+  "source": "https://api.riigikogu.ee/api/volumes/12603a8a-5719-4359-8393-5e7d209b40ab",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-08-01&endDate=2026-08-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
