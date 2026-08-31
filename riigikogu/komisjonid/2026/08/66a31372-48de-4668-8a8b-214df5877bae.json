@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Majanduskomisjon",
+  "committee_uuid": "c1ea2082-ab92-e19b-4cf2-aa4fa10779ea",
+  "title": "Rahanduskomisjoni ja majanduskomisjoni ühine istung esmaspäeval, 31.08.2026 kell 11.30",
+  "sitting_time": "2026-08-31T11:30:00",
+  "sitting_type": "UHISISTUNG",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "35b13d7d-044e-4b5c-9d51-e8f69a8455db"
+    },
+    {
+      "order": 2,
+      "title": "Rahandusministeeriumi 2026. aasta suvine majandusprognoos",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ad4a73aa-be32-4958-a62d-c53ab7d67e02"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9db5b59d-e1ac-4d6a-adbe-22e069c16dd9"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK ja MAJK ühise istungi protokoll 105 31.08.2026",
+      "uuid": "a36d8087-3f77-47c8-ac11-da9aff317b4e",
+      "files": [
+        "RAHK_ja_MAJK_ühise_istungi_protokoll_105_31.08.2026.asice",
+        "RAHK_ja_MAJK_ühise_istungi_protokoll_105_31.08.2026.pdf",
+        "Suvine_majandusprognoos_2026__RAM.pdf"
+      ]
+    }
+  ],
+  "uuid": "66a31372-48de-4668-8a8b-214df5877bae",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 66a31372-48de-4668-8a8b-214df5877bae)",
+  "source": "https://api.riigikogu.ee/api/volumes/66a31372-48de-4668-8a8b-214df5877bae",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-08-01&endDate=2026-08-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
