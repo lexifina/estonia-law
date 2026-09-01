@@ -1,0 +1,3 @@
+# § 877¹. Vastutus broneerimisvigade eest
+
+Ettevõtja, kes tegutseb reisikorraldajana, vahendajana, seotud reisikorraldusteenuste sõlmimist hõlbustava ettevõtjana või üksiku reisiteenuse osutajana, vastutab kõigi broneerimissüsteemi vigade eest, mis tulenevad temast tingitud tehnilistest puudustest, ja broneerimistoimingu käigus tehtud vigade eest, kui ettevõtja on nõustunud tegema pakettreisi või seotud reisikorraldusteenuste osaks oleva reisiteenuse broneeringu. Ettevõtja ei vastuta broneerimisvigade eest, mis tulenevad reisijast või mis on tingitud vältimatutest ja erakorralistest asjaoludest.

@@ -1,0 +1,5 @@
+# § 43. Erisused krediidiasutuste suhtes
+
+(1) Käesoleva seaduse § 42 lõike 3 punktis 14 nimetatud tingimust ei loeta teist lepingupoolt ebamõistlikult kahjustavaks, kui krediidiasutus või muu finantsteenuste osutaja jätab endale tüüptingimusega õiguse põhjendatud juhtudel ette teatamata muuta teise lepingupoole poolt või teisele lepingupoolele makstavat intressimäära või muud tasu finantsteenuste eest tingimusel, et ta on kohustatud teist lepingupoolt või teisi lepingupooli viivitamata sellest teavitama ning teisel lepingupoolel on õigus leping kohe lõpetada.
+
+(2) Käesoleva seaduse § 42 lõike 3 punktis 14 nimetatud tingimust ei loeta teist lepingupoolt ebamõistlikult kahjustavaks, kui krediidiasutus või muu finantsteenuse osutaja jätab endale tüüptingimustega õiguse muuta ühepoolselt ilma lepingus nimetatud mõjuva põhjuseta kestvuslepingu tingimusi, kui tingimuste muutmine ei ole teise lepingupoole suhtes ebamõistlik ja krediidiasutus või muu finantsteenuse osutaja kohustub teist lepingupoolt tingimuste muutmisest eelnevalt teavitama ning andma talle õiguse leping kohe lõpetada.

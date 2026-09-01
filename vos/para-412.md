@@ -1,0 +1,5 @@
+# § 412. Tarbijakrediidilepingust tulenevate krediidiandja nõuete loovutamine
+
+(1) Kui krediidiandja loovutab tarbijakrediidilepingust tulenevad nõuded või õigused kolmandale isikule, sealhulgas krediidiinkassole või krediidiostjale krediidiinkassode ja -ostjate seaduse tähenduses, võib tarbija esitada selle kolmanda isiku vastu tarbijakrediidilepingust tulenevalt kõik vastuväited, mis tal olid senise võlausaldaja vastu nõude loovutamise ajal, muu hulgas on tal õigus nõuda oma nõuete tasaarvestamist. Kokkulepe, millega välistatakse käesoleva lõike esimeses lauses sätestatud tarbija õigus või piiratakse seda, on tühine.
+
+(2) Käesoleva paragrahvi lõikes 1 nimetatud loovutamise korral tuleb tarbijat sellest teavitada, välja arvatud juhul, kui krediidiandja jääb kokkuleppel uue võlausaldajaga tarbija suhtes ise edasi tegelema krediidiinkassode ja -ostjate seaduse § 3 lõikes 2 nimetatud krediidihaldustegevusega. Kui krediidiandja on krediidiostjaga kokku leppinud tarbija teavitamise korra krediidiinkassode ja -ostjate seaduse § 59 kohaselt, ei ole krediidiandja kohustatud tarbijat enam eraldi teavitama.

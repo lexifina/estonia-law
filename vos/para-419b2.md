@@ -1,0 +1,13 @@
+# § 419². Välisriigi vääringus elamukinnisvaraga seotud tarbijakrediidileping
+
+(1) Kui elamukinnisvaraga seotud tarbijakrediidileping ei ole sõlmitud selle Euroopa Liidu liikmesriigi vääringus (välisriigi vääring), kus oli tarbija alaline elukoht lepingu sõlmimise ajal (tarbija omavääring), võib tarbija nõuda tarbijakrediidilepingu ümberarvestamist tarbija omavääringusse või selle Euroopa Liidu liikmesriigi vääringusse, kus on tarbija alaline elukoht praegu, kui tarbija makstava kogusumma jäägi või perioodiliste maksete suurus tõuseb vahetuskursi muutuse tõttu üle 20 protsendi võrreldes sellega, mis see oleks olnud tarbijakrediidilepingu sõlmimise ajal kehtinud vahetuskursi järgi.
+
+(2) Pooled võivad elamukinnisvaraga seotud tarbijakrediidilepingus kokku leppida, et tarbija omavääring on lisaks käesoleva paragrahvi lõikes 1 sätestatule või selle asemel vääring, milles tarbija saab oma peamise sissetuleku või omab varasid, millest krediit tagasi makstakse, ja mis on kindlaks määratud ajal, kui toimus viimane tarbija krediidivõimelisuse hindamine. Eelmises lauses nimetatud juhul on tarbijal õigus nõuda lepingu ümberarvestamist tarbija omavääringusse käesoleva paragrahvi lõikes 1 nimetatud tingimustel.
+
+(3) Ümberarvestamisel kasutatav vahetuskurss on ümberarvestamise päeval kehtiv Eesti Panga avaldatud vahetuskurss, kui elamukinnisvaraga seotud tarbijakrediidilepingus ei ole sätestatud teisiti.
+
+(4) Pooled võivad elamukinnisvaraga seotud tarbijakrediidilepingus kokku leppida, et lisaks käesoleva paragrahvi lõigetes 1 ja 2 sätestatud ümberarvestamise õigusele või selle asemel kehtib tarbijakrediidilepingu alusel tarbijale tekkiva vahetuskursiriski piiramiseks mõni muu kord.
+
+(5) Välisriigi vääringus sõlmitud elamukinnisvaraga seotud tarbijakrediidilepingu korral hoiatab krediidiandja iga kuu tarbijat püsival andmekandjal, kui tarbija makstava kogusumma jäägi või perioodiliste maksete suurus tõuseb rohkem kui 20 protsenti võrreldes sellega, mis oleks tarbija kogusumma jääk või perioodiliste maksete suurus tarbija omavääringus tarbijakrediidilepingu sõlmimise ajal kehtinud vahetuskursi järgi. Hoiatuses teavitatakse tarbijat tema poolt tasumisele kuuluva kogusumma jäägi tõusust, asjakohasel juhul lepingu ümberarvestamise õigusest ja ümberarvestamise tingimustest ning selgitatakse mis tahes muud kohaldatavat mehhanismi, mille eesmärk on piirata tarbijat mõjutavat vahetuskursiriski.
+
+(6) Käesoleva paragrahvi lõigetes 1, 2 ja 4 sätestatud võimalusest teavitatakse tarbijat käesoleva seaduse § 403³ lõike 3 alusel kehtestatud Euroopa standardinfo teabelehel ja elamukinnisvaraga seotud tarbijakrediidilepingus.

@@ -1,0 +1,5 @@
+# § 767. Tervishoiuteenuse osutamine otsustusvõimetule patsiendile
+
+(1) Kui patsient on teadvuseta või ei ole muul põhjusel võimeline tahet avaldama (otsusevõimetu patsient) ning tal ei ole seaduslikku esindajat või seaduslikku esindajat ei ole võimalik kätte saada, on tervishoiuteenuse osutamine lubatud ka patsiendi nõusolekuta, kui see on patsiendi huvides ja vastab tema poolt varem avaldatud või tema eeldatavale tahtele ja tervishoiuteenuse viivitamatu osutamata jätmine oleks ohtlik patsiendi elule või kahjustaks oluliselt patsiendi tervist. Patsiendi varem avaldatud või eeldatav tahe tuleb vastavalt võimalustele selgitada välja patsiendi omaste kaudu. Patsiendi omakseid tuleb teavitada patsiendi tervise seisundist, tervishoiuteenuse osutamisest ja sellega kaasnevatest ohtudest, kui see on asjaolude kohaselt võimalik.
+
+(2) Omasteks käesoleva peatüki tähenduses loetakse patsiendi abikaasat, registreeritud elukaaslast, vanemaid, lapsi, õdesid ja vendi. Omasteks võib lugeda ka muid patsiendile lähedasi isikuid, kui see tuleneb patsiendi elukorraldusest.
