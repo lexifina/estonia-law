@@ -24,7 +24,7 @@
 
 - 11) keskkonnaseire jaam, ala ja koht keskkonnaseire seaduse tähenduses;
 
-- 12) keskkonnakaitseloaga määratud käitis või muu loaga määratud ruumiobjekt, kui õigusakt näeb ette sellise ruumiobjekti andmete kandmise Eesti looduse infosüsteemi, ning sellele seadusega või seaduse alusel määratud kaitsevööndi või eriliste kasutusnõuetega ala ulatus.
+- 12) keskkonnakaitseloaga määratud käitis või õigusaktiga määratud ruumiobjekt, kui õigusakt näeb ette sellise ruumiobjekti andmete kandmise Eesti looduse infosüsteemi, ning sellele seadusega või seaduse alusel määratud kaitsevööndi või eriliste kasutusnõuetega ala ulatus.
 
 (2) Eesti looduse infosüsteemi kantud ruumiobjektile võib vajaduse korral või Euroopa Liidu õigusaktist või rahvusvahelisest õigusest tulenevalt lisada kirjeldavaid andmeid, nagu objekti erinimetus või -liigitus, või muid objektiga seotud andmeid.
 
