@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigieelarve kontrolli erikomisjon",
+  "committee_uuid": "1c539a07-8d36-a4a4-91e7-fbfe72e9e3fb",
+  "title": "Komisjoni erakorraline istung kolmapäev, 2.09.2026 kell 9.00",
+  "sitting_time": "2026-09-02T09:00:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Riigikontrolli kontrolliaruande \"Riigi 2025. aasta raamatupidamise aastaaruande õigsus ja tehingute seaduslikkus (Kaitseministeeriumi osa)\" arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e4784f5e-0f05-4404-b920-56d1af672707"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "03cd17ae-be24-4c31-964e-34756fa4888a"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "REKK protokoll 02.09.2026",
+      "uuid": "4fc0dd46-e61c-4b16-b0ad-7496798659a9",
+      "files": [
+        "REKK_protokoll_02.09.2026.asice",
+        "RMKA2025_Esitlus01.09.2026_REKK.pptx",
+        "Protokoll_nr_163_02.09.26.pdf"
+      ]
+    }
+  ],
+  "uuid": "d4651f9e-ff48-4104-9c7c-3648acf18f48",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d4651f9e-ff48-4104-9c7c-3648acf18f48)",
+  "source": "https://api.riigikogu.ee/api/volumes/d4651f9e-ff48-4104-9c7c-3648acf18f48",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-09-01&endDate=2026-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
