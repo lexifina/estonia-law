@@ -1,0 +1,48 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni erakorraline istung esmaspäev, 7.09.2026 kell 9.30",
+  "sitting_time": "2026-09-07T09:30:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Päevakorra kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7d301dd4-985f-4102-b545-362a6915b47b"
+    },
+    {
+      "order": 2,
+      "title": "Põhiseaduslike institutsioonide 2027. aasta eelarved",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fb162a0c-f7fc-432c-a212-6b9973bbf314"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "38726834-bd8f-4d59-a643-31c8f6f0a010"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 07.09.2026",
+      "uuid": "5cb4d7dd-7938-4f42-9df9-e9a21d87b005",
+      "files": [
+        "RAHK_protokoll_07.09.2026.asice",
+        "RAHK_protokoll_nr_241_07.09.2026.pdf",
+        "Asendusliige_M._Kallas_07092026.docx",
+        "Asendusliikme_volikiri_R._Sikkut-M._Kallas_07.09.2026asice.asice"
+      ]
+    }
+  ],
+  "uuid": "d6307b26-1dfc-4dd6-852c-59c1c394bc9b",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d6307b26-1dfc-4dd6-852c-59c1c394bc9b)",
+  "source": "https://api.riigikogu.ee/api/volumes/d6307b26-1dfc-4dd6-852c-59c1c394bc9b",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-09-01&endDate=2026-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
