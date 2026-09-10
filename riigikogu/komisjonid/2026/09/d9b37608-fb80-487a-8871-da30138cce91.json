@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni erakorraline istung neljapäev, 10.09.2026 kell 8.30",
+  "sitting_time": "2026-09-10T08:30:00",
+  "sitting_type": "ERAKORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Põhiseaduslike institutsioonide 2027. aasta eelarved",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bc6d6706-3085-4c23-8afe-e3d121934466"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ba134780-6aea-480f-8348-2fdea45c5ac4"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 10.09.2026",
+      "uuid": "3839cc14-f7ad-4151-afe5-7bdfa203d929",
+      "files": [
+        "RAHK_protokoll_10.09.2026.asice",
+        "RAHK_protokoll_242_10.09.2026.pdf",
+        "PSI_eelarvemahtude_koondtabel_10.09.2026.xlsx"
+      ]
+    }
+  ],
+  "uuid": "d9b37608-fb80-487a-8871-da30138cce91",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid d9b37608-fb80-487a-8871-da30138cce91)",
+  "source": "https://api.riigikogu.ee/api/volumes/d9b37608-fb80-487a-8871-da30138cce91",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-09-01&endDate=2026-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
