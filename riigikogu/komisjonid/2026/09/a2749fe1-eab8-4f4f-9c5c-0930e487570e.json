@@ -1,0 +1,53 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung esmaspäev, 14.09.2026 kell 11.15",
+  "sitting_time": "2026-09-14T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "234ba27d-6bf2-4bcc-9ead-fd75b95c4f4d"
+    },
+    {
+      "order": 2,
+      "title": "Eesti Panga seaduse muutmise seaduse eelnõu algatamine. Osaleb Eesti Panga president Ülo Kaasik.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c0fc58ba-1b4d-4b65-9233-204e252e859f"
+    },
+    {
+      "order": 3,
+      "title": "Riigikogu otsuse eelnõu „ Audiitori nimetamine Riigikontrolli 2026.–2028. aasta tegevuse kontrollimiseks“ esitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cd3cf216-a701-4244-baa8-76c7c935f489"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "dca022e9-8429-413d-b9fd-a769fe17ca63"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 14.09.2026",
+      "uuid": "9727650b-8345-4ac3-8a09-5a7b30341dc5",
+      "files": [
+        "RAHK_protokoll_14.09.2026.asice",
+        "Eesti_Pank_seaduse_muutmine_(lõplik)_14.09.2026.pdf",
+        "RAHK_protokoll_nr_243_14.09.2026.pdf"
+      ]
+    }
+  ],
+  "uuid": "a2749fe1-eab8-4f4f-9c5c-0930e487570e",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid a2749fe1-eab8-4f4f-9c5c-0930e487570e)",
+  "source": "https://api.riigikogu.ee/api/volumes/a2749fe1-eab8-4f4f-9c5c-0930e487570e",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-09-01&endDate=2026-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
