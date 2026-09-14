@@ -1,0 +1,55 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 14.09.2026 kell 11.10",
+  "sitting_time": "2026-09-14T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "80399e9e-80f6-4351-a448-53780515b46c"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud veterinaarseaduse ja sellega seonduvalt teiste seaduste muutmise seaduse eelnõu (918 SE) esimese lugemise ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "58145786-7d1d-4e1f-9dcf-45434e739d1b"
+    },
+    {
+      "order": 3,
+      "title": "Vabariigi Valitsuse algatatud loomakaitseseaduse ja veterinaarseaduse muutmise seaduse eelnõu (899 SE) teise lugemise ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "12a7576c-b826-415a-80c3-2363d43e4e81"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ced4db05-3b1f-40c9-8a1c-ae8c104e2b50"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 14.09.2026",
+      "uuid": "42a7e79e-72ca-470b-823a-3259c65bd9d8",
+      "files": [
+        "MAEK_protokoll_14.09.2026.asice",
+        "163_MAEK_protokolli_lisa_1._Uus_loomakaitseseadus.pdf",
+        "163_MAEK_protokolli_lisa_2._EPKK.pdf",
+        "163_MAEK_protokolli_lisa_3._REM.pdf",
+        "163_MAEK_protokoll_14.09.2026.pdf"
+      ]
+    }
+  ],
+  "uuid": "b2961758-b2ee-4558-9015-5f0f98eba909",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b2961758-b2ee-4558-9015-5f0f98eba909)",
+  "source": "https://api.riigikogu.ee/api/volumes/b2961758-b2ee-4558-9015-5f0f98eba909",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-09-01&endDate=2026-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
