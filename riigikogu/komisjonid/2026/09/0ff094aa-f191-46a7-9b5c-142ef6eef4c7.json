@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Õiguskomisjon",
+  "committee_uuid": "dfac6020-b820-8d8d-06a6-90cc2672eb49",
+  "title": "Komisjoni istung teisipäev, 15.09.2026 kell 14.00",
+  "sitting_time": "2026-09-15T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Relvaseaduse ja lõhkematerjaliseaduse muutmise seaduse eelnõu (855 SE I)",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "b774c74a-dfa3-4638-b953-8a8ce3f853be"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "be41f653-444f-4bc5-8858-404e58b6aac0"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ÕIGK protokoll 15.09.2026",
+      "uuid": "83c772a6-b06b-4fc7-83c9-4a8eb4b3abab",
+      "files": [
+        "Riigikogu_õiguskomisjoni_istungi_protokoll_nr_138.pdf",
+        "ÕIGK_protokoll_15.09.2026.asice"
+      ]
+    }
+  ],
+  "uuid": "0ff094aa-f191-46a7-9b5c-142ef6eef4c7",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 0ff094aa-f191-46a7-9b5c-142ef6eef4c7)",
+  "source": "https://api.riigikogu.ee/api/volumes/0ff094aa-f191-46a7-9b5c-142ef6eef4c7",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-09-01&endDate=2026-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
