@@ -1,0 +1,42 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 15.09.2026 kell 14.00",
+  "sitting_time": "2026-09-15T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud kalapüügiseaduse muutmise ja sellega seonduvalt teiste seaduste muutmise seaduse eelnõu (887 SE) teise lugemise ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5fcbfefc-3c4e-4d30-ba8f-1ac79fc256cb"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "03875b87-e5ba-4aa6-ad07-c15e9071809e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 15.09.2026",
+      "uuid": "4c1ca0f9-f616-4893-ac1d-d24c7ba92e9d",
+      "files": [
+        "MAEK_protokoll_15.09.2026.asice",
+        "164_MAEK_protokoll_15.09.2026.pdf",
+        "164_MAEK_protokolli_lisa_1._REM.pdf",
+        "164_MAEK_protokolli_lisa_2._KPS_ettekanne.pdf"
+      ]
+    }
+  ],
+  "uuid": "2d1a0dad-b2f8-406d-936f-9028756c21a1",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 2d1a0dad-b2f8-406d-936f-9028756c21a1)",
+  "source": "https://api.riigikogu.ee/api/volumes/2d1a0dad-b2f8-406d-936f-9028756c21a1",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-09-01&endDate=2026-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
