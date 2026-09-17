@@ -1,0 +1,52 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung neljapäev, 17.09.2026 kell 13.00",
+  "sitting_time": "2026-09-17T13:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Arengud Venemaal",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "95c2cfab-8a2b-4689-8706-bd8a26bc0a05"
+    },
+    {
+      "order": 2,
+      "title": "Riigikogu avaldus „Ukraina võidu ja Euroopa julgeoleku tagamiseks\" (1015 AE) ettevalmistamine esimeseks lugemiseks",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "5a11a81a-5478-4bd1-ad2c-fb6a66cbeaba"
+    },
+    {
+      "order": 3,
+      "title": "Tallinnas toimuva Ukraina ülesehituskonverentsi (28.-29. jaanuar 2027) ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f470f077-103b-4a29-8638-e3b140f4036f"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2edea129-bd60-496f-94af-161ef8c44986"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 17.09.2026",
+      "uuid": "fbe08524-6aab-4ec2-a999-e9b277230421",
+      "files": [
+        "VÄLK_protokoll_17.09.2026.asice",
+        "VÄLK_protokoll_nr_206_17.09.2026.pdf"
+      ]
+    }
+  ],
+  "uuid": "77783214-5fc5-48aa-b4f0-3a972536973d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 77783214-5fc5-48aa-b4f0-3a972536973d)",
+  "source": "https://api.riigikogu.ee/api/volumes/77783214-5fc5-48aa-b4f0-3a972536973d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-09-01&endDate=2026-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
