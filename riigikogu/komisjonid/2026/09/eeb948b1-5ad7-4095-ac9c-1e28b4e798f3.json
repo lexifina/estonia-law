@@ -1,0 +1,53 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 21.09.2026 kell 11.10",
+  "sitting_time": "2026-09-21T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c2a74917-2e6a-4243-89bc-abe3971afa86"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud kalapüügiseaduse muutmise ja sellega seonduvalt teiste seaduste muutmise seaduse eelnõu (887 SE) teise lugemise ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "32cf20e4-719c-4b44-a862-f20195a59b9e"
+    },
+    {
+      "order": 3,
+      "title": "Kohtumine regionaal- ja põllumajandusministriga",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "364fd7ee-a76d-49d8-97a3-fbe807b95b9c"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "ddc87327-0c53-4753-902e-129e46f95345"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 21.09.2026",
+      "uuid": "b8d868f0-1418-438b-8f36-9716688a813b",
+      "files": [
+        "MAEK_protokoll_21.09.2026.asice",
+        "165_MAEK_protokoll_21.09.2026.pdf",
+        "165_MAEK_protokolli_lisa_REM.pdf"
+      ]
+    }
+  ],
+  "uuid": "eeb948b1-5ad7-4095-ac9c-1e28b4e798f3",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid eeb948b1-5ad7-4095-ac9c-1e28b4e798f3)",
+  "source": "https://api.riigikogu.ee/api/volumes/eeb948b1-5ad7-4095-ac9c-1e28b4e798f3",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-09-01&endDate=2026-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
