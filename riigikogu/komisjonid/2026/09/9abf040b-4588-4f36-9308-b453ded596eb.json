@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Euroopa Liidu asjade komisjon",
+  "committee_uuid": "fe0c2235-8e81-7b79-a0b3-37936a362e52",
+  "title": "Komisjoni istung esmaspäev, 21.09.2026 kell 13.30",
+  "sitting_time": "2026-09-21T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3ec255d2-378e-4024-8d62-9ccb6df875a0"
+    },
+    {
+      "order": 2,
+      "title": "Arutelu Montenegro parlamendi Euroopa integratsiooni komisjoniga",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6fab19a1-97be-439d-9ab6-3e9f3d78011d"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bd3c4742-a9b7-4b22-a027-523b25721a83"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "ELAK protokoll nr 176 21.09.2026",
+      "uuid": "d8a7f5cb-7961-480b-8144-43323502572f",
+      "files": [
+        "ELAK_protokoll_nr_176_21.09.2026.asice",
+        "ELAK_protokoll_nr_176_21.09.2026.pdf"
+      ]
+    }
+  ],
+  "uuid": "9abf040b-4588-4f36-9308-b453ded596eb",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9abf040b-4588-4f36-9308-b453ded596eb)",
+  "source": "https://api.riigikogu.ee/api/volumes/9abf040b-4588-4f36-9308-b453ded596eb",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-09-01&endDate=2026-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
