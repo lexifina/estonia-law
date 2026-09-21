@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Korruptsioonivastane erikomisjon",
+  "committee_uuid": "e4f2977a-e8c3-4fa0-8f3d-9df9acd6377f",
+  "title": "Komisjoni istung esmaspäev, 21.09.2026 kell 13.15",
+  "sitting_time": "2026-09-21T13:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e858d02a-ab94-469a-b405-8e334d84eb3f"
+    },
+    {
+      "order": 2,
+      "title": "Korruptsiooniohud kaitsevaldkonnas. Jätkuarutelu.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c103b06c-a494-430b-a597-041c3ce43eec"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "913d945c-8f75-445f-ae73-f81154f2b07f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KVEK protokoll 100 (21.09.2026)",
+      "uuid": "2ec2e16d-e8a8-4864-a286-a3eb585473d2",
+      "files": [
+        "Asendusliikme_volikiri_M._Kadastik_A.Sutt.pdf",
+        "KVEK_protokoll_100_(21.09.2026).asice",
+        "KVEK_protokoll_100_(21.09.2026).pdf"
+      ]
+    }
+  ],
+  "uuid": "3223ccc0-96e0-4853-ac1a-fdbc8c6b6142",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 3223ccc0-96e0-4853-ac1a-fdbc8c6b6142)",
+  "source": "https://api.riigikogu.ee/api/volumes/3223ccc0-96e0-4853-ac1a-fdbc8c6b6142",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-09-01&endDate=2026-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
