@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 22.09.2026 kell 14.00",
+  "sitting_time": "2026-09-22T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud loomakaitseseaduse ja veterinaarseaduse muutmise seaduse eelnõu (899 SE) teise lugemise ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fa39d71e-da51-4829-8309-4cbda4f04f98"
+    },
+    {
+      "order": 2,
+      "title": "Maareformi seaduse ja teiste seaduste muutmise väljatöötamiskavatsuse tutvustus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bfd5236a-7f92-43e3-9932-b49b125a373c"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "076e0a52-18d5-488c-b3e0-1d9a81179012"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 22.09.2026",
+      "uuid": "37db7b97-e2e5-4ac8-b13f-45b3064780d0",
+      "files": [
+        "MAEK_protokoll_22.09.2026.asice",
+        "166_MAEK_protokoll_22.09.2026.pdf",
+        "166_MAEK_protokolli_lisa_Maareformi_VTK_ja_tagasiside.pdf"
+      ]
+    }
+  ],
+  "uuid": "cdec9b4d-0347-4ff3-a2c6-eae5aec86506",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid cdec9b4d-0347-4ff3-a2c6-eae5aec86506)",
+  "source": "https://api.riigikogu.ee/api/volumes/cdec9b4d-0347-4ff3-a2c6-eae5aec86506",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-09-01&endDate=2026-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
