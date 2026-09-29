@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 29.09.2026 kell 14.00",
+  "sitting_time": "2026-09-29T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade liiklusväliste teabevahendite paigaldamise korrast ja elektrikaubikute juhtimisõigusest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "54c339a8-81af-4d62-90d0-80dd174ec3ae"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9bfe2788-98f6-488b-a718-ae380e978c6e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 29.09.2026",
+      "uuid": "ba8e334a-2dd6-4350-ab5f-734d6f70c84f",
+      "files": [
+        "168_MAEK_protokoll_29.09.2026.pdf",
+        "MAEK_protokoll_29.09.2026.asice"
+      ]
+    }
+  ],
+  "uuid": "53b0cb06-1d09-4613-9bde-0065c3726275",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 53b0cb06-1d09-4613-9bde-0065c3726275)",
+  "source": "https://api.riigikogu.ee/api/volumes/53b0cb06-1d09-4613-9bde-0065c3726275",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-09-01&endDate=2026-09-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
