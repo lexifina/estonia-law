@@ -38,7 +38,7 @@
 
 10) alluma alkoholi tarvitamise keelu täitmist kontrolliva elektroonilise seadme valvele, kui ta on selleks eelnevalt nõusoleku andnud.
 
-(3) Kohus võib kergendada või tühistada süüdlasele käitumiskontrolli ajaks määratud kohustusi või panna süüdlasele täiendavaid kohustusi vastavalt käesoleva paragrahvi lõikes 2 sätestatule.
+(3) Kohus võib kergendada või tühistada süüdlasele käitumiskontrolli ajaks määratud kohustusi või panna süüdlasele täiendavaid kohustusi vastavalt käesoleva paragrahvi lõikes 2 sätestatule.
 
 (4) Kui süüdlane lubab oma käitumist parandada ja võtab endale käesoleva paragrahvi lõikes 2 loetlemata kohustusi, võib kohus need kohustustena kinnitada.
 

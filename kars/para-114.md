@@ -18,14 +18,6 @@
 
 8) kättemaksuks ametialase tegevuse eest;
 
-9) isiku poolt, keda on varem korduvalt karistatud tahtliku esimese astme kuriteo eest, mille süüteokoosseisu kuuluvaks tagajärjeks on raske tervisekahjustus, –
+9) isiku poolt, keda on varem korduvalt karistatud tahtliku esimese astme kuriteo eest, mille süüteokoosseisu kuuluvaks tagajärjeks on raske tervisekahjustus, – [ RT I, 19.03.2019, 3 - jõust. 01.07.2019]karistatakse kaheksa- kuni kahekümneaastase või eluaegse vangistusega.
 
-[
-
-- jõust. 01.07.2019]
-
-karistatakse kaheksa- kuni kahekümneaastase või eluaegse vangistusega.
-
-(2) Sama teo eest, kui selle on toime pannud juriidiline isik, –
-
-karistatakse rahalise karistusega.
+(2) Sama teo eest, kui selle on toime pannud juriidiline isik, –karistatakse rahalise karistusega.

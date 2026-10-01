@@ -4,8 +4,6 @@
 
 1) katkestab teise isiku kuriteole kihutamise ja hoiab ära teo toimepanemise võimaliku ohu;
 
-2) loobub kuriteo toimepanemiseks antud nõusolekust või
-
-3) hoiab ära kokkulepitud kuriteo toimepanemise.
+2) loobub kuriteo toimepanemiseks antud nõusolekust või 3) hoiab ära kokkulepitud kuriteo toimepanemise.
 
 (2) Kui kuritegu pannakse toime või jääb toime panemata sõltumata isiku tegutsemisest, loetakse isik loobunuks, kui ta tõsimeeli püüab takistada kuriteo toimepanemist.

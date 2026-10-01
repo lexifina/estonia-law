@@ -12,9 +12,9 @@
 
 (4) Jätkuva süüteo korral arvutatakse aegumise tähtaega viimase teo lõpuleviimisest. Vältava süüteo korral arvutatakse aegumise tähtaega vältava teo lõppemisest.
 
-(4¹) Väärteo aegumine katkeb väärteomenetluse seadustiku § 166¹ lõikes 1 sätestatud taotluse esitamisel.
+(4¹) Väärteo aegumine katkeb väärteomenetluse seadustiku § 1661 lõikes 1 sätestatud taotluse esitamisel.
 
-(4²) Kui väärteo aegumine on katkenud, algab aegumine uuesti väärteomenetluse seadustiku § 166¹ lõikes 1 sätestatud taotluse esitamisest arvates. Isikut ei tohi väärteos siiski süüdi mõista ega karistada, kui väärteo lõpuleviimisest kuni selle kohta tehtud kohtuotsuse jõustumiseni on möödunud käesoleva paragrahvi lõikes 3 sätestatust kahe aasta võrra pikem aeg.
+(4²) Kui väärteo aegumine on katkenud, algab aegumine uuesti väärteomenetluse seadustiku § 1661 lõikes 1 sätestatud taotluse esitamisest arvates. Isikut ei tohi väärteos siiski süüdi mõista ega karistada, kui väärteo lõpuleviimisest kuni selle kohta tehtud kohtuotsuse jõustumiseni on möödunud käesoleva paragrahvi lõikes 3 sätestatust kahe aasta võrra pikem aeg.
 
 (5) Kuriteo aegumine katkeb kriminaalmenetluses järgmiste menetlustoimingute tegemisega:
 
@@ -28,9 +28,9 @@
 
 5) kohtulikul arutamisel ekspertiisi või täiendavate tõendite kogumise määramisega.
 
-(6) Kui kuriteo aegumine on katkenud, algab aegumine uuesti käesoleva paragrahvi lõikes 5 sätestatud menetlustoimingu tegemisest. Isikut ei tohi kuriteos siiski süüdi mõista ega karistada, kui selle lõpuleviimisest kuni selle kohta tehtud kohtuotsuse jõustumiseni on möödunud käesoleva paragrahvi lõikes 1 sätestatust viie aasta võrra pikem aeg.
+(6) Kui kuriteo aegumine on katkenud, algab aegumine uuesti käesoleva paragrahvi lõikes 5 sätestatud menetlustoimingu tegemisest. Isikut ei tohi kuriteos siiski süüdi mõista ega karistada, kui selle lõpuleviimisest kuni selle kohta tehtud kohtuotsuse jõustumiseni on möödunud käesoleva paragrahvi lõikes 1 sätestatust viie aasta võrra pikem aeg.
 
-(6¹) Kuriteo aegumise peatumise erisused seoses Riigikogu liikme immuniteediga on sätestatud Riigikogu liikme staatuse seaduse §-s 18¹.
+(6¹) Kuriteo aegumise peatumise erisused seoses Riigikogu liikme immuniteediga on sätestatud Riigikogu liikme staatuse seaduse §-s 181.
 
 (7) Süüteo aegumine peatub:
 
@@ -38,6 +38,8 @@
 
 2) väärteo tunnustega teo kohta kriminaalmenetluse alustamisel kuni kriminaalmenetluse lõpetamiseni;
 
-3) tahtevastase abielu, naise suguelundite sandistava moonutamise, raseduse ebaseadusliku katkestamise ning seksuaalse enesemääramise vastase kuriteo korral noorema kui kaheksateistaastase isiku suhtes kuni kannatanu kaheksateistaastaseks saamiseni, kui kriminaalmenetluse ajend ei ilmnenud enne tema poolt nimetatud vanuse saavutamist.
+3) tahtevastase abielu, naise suguelundite sandistava moonutamise, raseduse ebaseadusliku katkestamise ning seksuaalse enesemääramise vastase kuriteo korral noorema kui kaheksateistaastase isiku suhtes kuni kannatanu kaheksateistaastaseks saamiseni, kui kriminaalmenetluse ajend ei ilmnenud enne tema poolt nimetatud vanuse saavutamist;
 
-(8) Käesoleva paragrahvi lõike 7 punktides 1 ja 2 sätestatud juhtudel ei uuene aegumine, kui kuriteo lõpuleviimisest on möödunud viisteist aastat. Väärteo aegumine ei uuene, kui väärteo lõpuleviimisest on möödunud käesoleva paragrahvi lõikes 3 sätestatust aasta võrra pikem aeg.
+4) väärteo korral erakorralise või sõjaseisukorra ajaks.
+
+(8) Käesoleva paragrahvi lõike 7 punktides 1 ja 2 sätestatud juhtudel ei uuene aegumine, kui kuriteo lõpuleviimisest on möödunud viisteist aastat. Väärteo aegumine ei uuene, kui väärteo lõpuleviimisest on möödunud käesoleva paragrahvi lõikes 3 sätestatust aasta võrra pikem aeg.

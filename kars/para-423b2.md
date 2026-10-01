@@ -1,5 +1,3 @@
 # § 423². Sõidukijuhi poolt liiklusnõuete ja sõiduki käitusnõuete rikkumise järgselt alkoholi, narkootilise või psühhotroopse aine tarvitamine ja sündmuskohalt põgenemine
 
-Mootor-, õhu-, vee- või maastikusõiduki või trammi või raudteeveeremi juhi poolt vahetult pärast liiklus- või käitusnõuete rikkumist alkoholi, narkootilise või psühhotroopse aine tarvitamise eest, kui liiklus- või käitusnõuete rikkumisega on ettevaatamatusest tekitatud inimesele raske tervisekahjustus või põhjustatud inimese surm ning juhil tuvastatakse joobeseisund, samuti sellise tagajärjega õnnetuse põhjustanud juhi poolt sündmuskohalt põgenemise eest enne õnnetuse asjaolude väljaselgitamist –
-
-karistatakse kuni viieaastase vangistusega.
+Mootor-, õhu-, vee- või maastikusõiduki või trammi või raudteeveeremi juhi poolt vahetult pärast liiklus- või käitusnõuete rikkumist alkoholi, narkootilise või psühhotroopse aine tarvitamise eest, kui liiklus- või käitusnõuete rikkumisega on ettevaatamatusest tekitatud inimesele raske tervisekahjustus või põhjustatud inimese surm ning juhil tuvastatakse joobeseisund, samuti sellise tagajärjega õnnetuse põhjustanud juhi poolt sündmuskohalt põgenemise eest enne õnnetuse asjaolude väljaselgitamist –karistatakse kuni viieaastase vangistusega.

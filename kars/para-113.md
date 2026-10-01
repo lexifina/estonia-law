@@ -1,9 +1,5 @@
 # § 113. Tapmine
 
-(1) Teise inimese tapmise eest –
+(1) Teise inimese tapmise eest –karistatakse kuue- kuni viieteistaastase vangistusega.
 
-karistatakse kuue- kuni viieteistaastase vangistusega.
-
-(2) Sama teo eest, kui selle on toime pannud juriidiline isik, –
-
-karistatakse rahalise karistusega.
+(2) Sama teo eest, kui selle on toime pannud juriidiline isik, –karistatakse rahalise karistusega.

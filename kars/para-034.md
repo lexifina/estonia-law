@@ -8,6 +8,4 @@ Isik ei ole süüdiv, kui ta teo toimepanemise ajal ei olnud võimeline aru saam
 
 3) nõrgamõistuslikkusega;
 
-4) nõdrameelsusega või
-
-5) muu raske psüühikahäirega.
+4) nõdrameelsusega või 5) muu raske psüühikahäirega.

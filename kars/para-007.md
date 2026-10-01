@@ -2,9 +2,7 @@
 
 (1) Eesti karistusseadus kehtib väljaspool Eesti territooriumi toimepandud teo kohta, mis on Eestis karistusseaduse järgi kuritegu, kui teo toimepanemise kohas on selline tegu karistatav või seal ei kehti ükski karistusõigus ning:
 
-1) tegu on toime pandud Eesti kodaniku või Eestis registreeritud juriidilise isiku vastu või
-
-2) teo toimepanija oli teo toimepanemise ajal Eesti kodanik või sai selleks pärast teo toimepanemist või välismaalane, kes on Eestis kinni peetud ja keda ei anta välja.
+1) tegu on toime pandud Eesti kodaniku või Eestis registreeritud juriidilise isiku vastu või 2) teo toimepanija oli teo toimepanemise ajal Eesti kodanik või sai selleks pärast teo toimepanemist või välismaalane, kes on Eestis kinni peetud ja keda ei anta välja.
 
 (2) Eesti karistusseadus kehtib:
 

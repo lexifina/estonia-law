@@ -16,9 +16,11 @@
 
 3) ajaks, mil isikule kohaldatud karistus on määratud tasumiseks või kandmiseks ositi, karistuse täitmisele pööramine on edasi lükatud või karistuse täitmise tähtaega on pikendatud või see on ajatatud;
 
-4) ajaks, mil isik on välisriigis ja teda ei anta välja või teda ei saa välja anda.
+4) ajaks, mil isik on välisriigis ja teda ei anta välja või teda ei saa välja anda;
 
-(2¹) Otsuse täitmise aegumine ei takista sellega mõistetud karistuse ärakandmata osa liitmist uue kuriteo eest mõistetavale karistusele käesoleva seadustiku § 65 lõike 2 alusel.
+5) väärteo korral erakorralise või sõjaseisukorra ajaks, kuid mitte kauemaks kui üheks aastaks.
+
+(2¹) Otsuse täitmise aegumine ei takista sellega mõistetud karistuse ärakandmata osa liitmist uue kuriteo eest mõistetavale karistusele käesoleva seadustiku § 65 lõike 2 alusel.
 
 (3) Süüdimõistva kohtuotsuse täitmine ei aegu, kui karistuseks on mõistetud eluaegne vangistus.
 

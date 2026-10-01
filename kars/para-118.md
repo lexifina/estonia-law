@@ -12,14 +12,8 @@
 
 5) nägu oluliselt moonutav ravimatu vigastus;
 
-6) elundi kaotus või selle tegevuse lakkamine või
+6) elundi kaotus või selle tegevuse lakkamine või 7) surm, –karistatakse nelja- kuni kaheteistaastase vangistusega.
 
-7) surm, –
+(2) Käesolevas paragrahvis sätestatud teo eest, kui selle on toime pannud juriidiline isik, –karistatakse rahalise karistusega.
 
-karistatakse nelja- kuni kaheteistaastase vangistusega.
-
-(2) Käesolevas paragrahvis sätestatud teo eest, kui selle on toime pannud juriidiline isik, –
-
-karistatakse rahalise karistusega.
-
-(3) Kohus võib kohaldada käesolevas paragrahvis sätestatud kuriteo eest kuriteoga saadud vara laiendatud konfiskeerimist vastavalt käesoleva seadustiku §-s 83² sätestatule.
+(3) Kohus võib kohaldada käesolevas paragrahvis sätestatud kuriteo eest kuriteoga saadud vara laiendatud konfiskeerimist vastavalt käesoleva seadustiku §-s 832 sätestatule.

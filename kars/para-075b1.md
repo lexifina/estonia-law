@@ -8,6 +8,6 @@
 
 (4) Elektroonilise valve tähtaeg hakkab kulgema päevast, kui elektroonilise valve seade kinnitatakse süüdlase keha külge.
 
-(5) Kohus võib pikendada või lühendada süüdlasele esialgselt määratud elektroonilise valve tähtaega, arvestades käesoleva paragrahvi lõikes 3 sätestatud tähtaega.
+(5) Kohus võib pikendada või lühendada süüdlasele esialgselt määratud elektroonilise valve tähtaega, arvestades käesoleva paragrahvi lõikes 3 sätestatud tähtaega.
 
 (6) Kui süüdlane võtab enne elektroonilise valve tähtaja lõppemist tagasi elektroonilise valve kohaldamise nõusoleku, pöörab kohus kandmata jäänud karistuse osa täitmisele.

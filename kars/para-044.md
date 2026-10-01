@@ -2,7 +2,7 @@
 
 (1) Kohus võib kuriteo eest mõista rahalise karistuse kolmkümmend kuni viissada päevamäära.
 
-(2) Rahalise karistuse päevamäära suuruse arvutab kohus süüdlase keskmise päevasissetuleku alusel. Kohus võib päevamäära suurust vähendada erandlike asjaolude tõttu või suurendada süüdlase elatustasemest lähtudes. Arvestatud päevamäära suurus ei või olla väiksem kui miinimumpäevamäär. Miinimumpäevamäära suurus on 10 eurot.
+(2) Rahalise karistuse päevamäära suuruse arvutab kohus süüdlase keskmise päevasissetuleku alusel. Kohus võib päevamäära suurust vähendada erandlike asjaolude tõttu või suurendada süüdlase elatustasemest lähtudes. Arvestatud päevamäära suurus ei või olla väiksem kui miinimumpäevamäär. Miinimumpäevamäära suurus on 10 eurot.
 
 (3) Keskmine päevasissetulek arvutatakse, lähtudes süüdlase suhtes kriminaalmenetluse alustamise aastale vahetult eelnenud aasta või, kui nimetatud aasta andmed ei ole kättesaadavad, sellele aastale eelnenud aasta tulumaksuga maksustatavast tulust, millest on maha arvatud tulumaks.
 

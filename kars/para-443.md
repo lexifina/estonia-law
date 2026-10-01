@@ -6,8 +6,4 @@ Laevajuhtimisnõuete rikkumise eest, kui sellega on ettevaatamatusest:
 
 2) tekitatud inimesele raske tervisekahjustus;
 
-3) põhjustatud laeva hukkumine või
-
-4) tekitatud suur kahju, –
-
-karistatakse kahe- kuni kümneaastase vangistusega.
+3) põhjustatud laeva hukkumine või 4) tekitatud suur kahju, –karistatakse kahe- kuni kümneaastase vangistusega.

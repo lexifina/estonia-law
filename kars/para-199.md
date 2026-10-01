@@ -1,8 +1,6 @@
 # § 199. Vargus
 
-(1) Võõra vallasasja äravõtmise eest selle ebaseadusliku omastamise eesmärgil –
-
-karistatakse rahalise karistuse või kuni kolmeaastase vangistusega.
+(1) Võõra vallasasja äravõtmise eest selle ebaseadusliku omastamise eesmärgil –karistatakse rahalise karistuse või kuni kolmeaastase vangistusega.
 
 (2) Sama teo eest, kui:
 
@@ -22,10 +20,8 @@ karistatakse rahalise karistuse või kuni kolmeaastase vangistusega.
 
 8) see on toime pandud sissetungimisega;
 
-9) see on toime pandud süstemaatiliselt –
+9) see on toime pandud süstemaatiliselt –karistatakse rahalise karistuse või kuni viieaastase vangistusega.
 
-karistatakse rahalise karistuse või kuni viieaastase vangistusega.
+(3) [Kehtetu]
 
-(4) Käesoleva paragrahvi lõikes 1 või 2 sätestatud teo eest, kui selle on toime pannud juriidiline isik, –
-
-karistatakse rahalise karistusega.
+(4) Käesoleva paragrahvi lõikes 1 või 2 sätestatud teo eest, kui selle on toime pannud juriidiline isik, –karistatakse rahalise karistusega.
