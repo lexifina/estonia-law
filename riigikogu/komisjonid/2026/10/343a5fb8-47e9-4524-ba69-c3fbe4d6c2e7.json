@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Korruptsioonivastane erikomisjon",
+  "committee_uuid": "e4f2977a-e8c3-4fa0-8f3d-9df9acd6377f",
+  "title": "Komisjoni istung neljapäev, 1.10.2026 kell 14.00",
+  "sitting_time": "2026-10-01T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Rail Balticu uutest tähtaegadest tulenevad riskid ja otsustusprotsessi läbipaistvus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c45ecb27-ce92-440c-bebc-a19624a70678"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d92bc7e4-335c-4e9e-ae9c-aa09b8b73133"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KVEK protokoll 103 (01.10.2026)",
+      "uuid": "58a521cf-ead4-40cf-8d9e-2f061e4a89d1",
+      "files": [
+        "KVEK_protokoll_103_(01.10.2026).asice",
+        "KVEK_protokoll_103_(01.10.2026).pdf"
+      ]
+    }
+  ],
+  "uuid": "343a5fb8-47e9-4524-ba69-c3fbe4d6c2e7",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 343a5fb8-47e9-4524-ba69-c3fbe4d6c2e7)",
+  "source": "https://api.riigikogu.ee/api/volumes/343a5fb8-47e9-4524-ba69-c3fbe4d6c2e7",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-10-01&endDate=2026-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
