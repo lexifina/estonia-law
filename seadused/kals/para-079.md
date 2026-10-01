@@ -24,7 +24,7 @@
 
 (3) Kaitseliidul on õigus võtta laenu Vabariigi Valitsuse loal.
 
-(4) Kaitseliidul on õigus käesoleva seaduse § 4 lõike 1 punktides 1–5 ja 7 sätestatud Kaitseliidu ülesannete täitmiseks ning lõike 2 punktides 1–4, 6 ja 7 nimetatud korrakaitseorgani ülesannete ja lõikes 3¹ nimetatud Kaitseväe ülesannete täitmises osalemiseks kasutada tasuta, Kaitseväe nõusolekul ja kokkulepitud ajal Kaitseväe harjutusvälju, lasketiire, sõjarelvi, lahingutehnikat, vormiriietust, muud sõjalist varustust ja vajalikke kinnistuid ning neil paiknevaid ehitisi. Kaitsevägi ja Kaitseliit võivad vara kasutamisel kokku leppida riigivaraseaduse § 18 lõigetes 3, 5 ja 6 sätestatust erinevalt. Riigivara valitseja kehtestatud korras võib kinnisvara kasutamise kokkuleppe sõlmida valitsemisalas taristu arendamise ja korrashoiu teenuseid osutav riigiasutus.
+(4) Kaitseliidul on õigus käesoleva seaduse § 4 lõike 1 punktides 1–5 ja 7 sätestatud Kaitseliidu ülesannete täitmiseks ning lõike 2 alusel riiklikus järelevalves ja lõikes 3¹ nimetatud Kaitseväe ülesannete täitmises osalemiseks kasutada tasuta, Kaitseväe nõusolekul ja kokkulepitud ajal Kaitseväe harjutusvälju, lasketiire, sõjarelvi, lahingutehnikat, vormiriietust, muud sõjalist varustust ja vajalikke kinnistuid ning neil paiknevaid ehitisi. Kaitsevägi ja Kaitseliit võivad vara kasutamisel kokku leppida riigivaraseaduse § 18 lõigetes 3, 5 ja 6 sätestatust erinevalt. Riigivara valitseja kehtestatud korras võib kinnisvara kasutamise kokkuleppe sõlmida valitsemisalas taristu arendamise ja korrashoiu teenuseid osutav riigiasutus.
 
 (5) Kaitseliidul ei ole õigust:
 

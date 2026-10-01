@@ -51,3 +51,5 @@
 (8) [Kehtetu]
 
 (9) Et võimaldada Kliimaministeeriumil täita käesoleva paragrahvi lõikes 2 sätestatud ülesannet, esitab raudteeinfrastruktuuriettevõtja, kelle raudtee on määratud avalikuks kasutamiseks ja kes soovib sõlmida teise riigi raudtee-ettevõtja või raudteeorganisatsiooniga lepingu, mis toob kaasa õigusi või kohustusi kolmandatele isikutele, valdkonna eest vastutavale ministrile heakskiitmiseks lepingu kavandi.
+
+(10) Riiklikku järelevalvet käesoleva seaduse § 6 lõikes 3 ja § 6¹ lõikes 2 sätestatud püsiva kriisiülesande täitmise ning selleks valmistumise üle tehakse kriisiolukorra ja riigikaitse seaduses sätestatud alustel ja korras.

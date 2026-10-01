@@ -10,8 +10,8 @@
 
 (5) Kollegiaalse organi liige peab oma seadusest ja kodukorrast tulenevaid kohustusi täitma juhtorgani liikmelt tavaliselt oodatava hoolega ja olema Kaitseliidule lojaalne.
 
-(6) Kui kõrgendatud kaitsevalmiduse, eriolukorra, erakorralise seisukorra, sõjaseisukorra, mobilisatsiooni ning demobilisatsiooni ajal ei ole võimalik keskkogu kokku kutsuda, siis läheb keskkogu pädevus üle keskjuhatusele kuni keskkogu kokkukutsumist takistavate asjaolude äralangemiseni.
+(6) Kui eriolukorra ja riigikaitselise kriisiolukorra ajal ei ole võimalik keskkogu kokku kutsuda, siis läheb keskkogu pädevus üle keskjuhatusele kuni keskkogu kokkukutsumist takistavate asjaolude äralangemiseni.
 
 (7) Kollegiaalse organi liige ei või oma hääle andmisel kasutada esindajat.
 
-(8) Kui keskkogu, keskjuhatuse ja vanematekogu valitud liikme volitused lõpevad kõrgendatud kaitsevalmiduse, eriolukorra, erakorralise seisukorra, sõjaseisukorra, mobilisatsiooni ja demobilisatsiooni ajal, pikenevad volitused automaatselt kuni järgmiste valimisteni. Valimised peavad toimuma kuue kuu jooksul arvates kõrgendatud kaitsevalmiduse, eriolukorra, erakorralise seisukorra, sõjaseisukorra, mobilisatsiooni või demobilisatsiooni lõppemisest.
+(8) Kui keskkogu, keskjuhatuse ja vanematekogu valitud liikme volitused lõpevad eriolukorra ja riigikaitselise kriisiolukorra ajal, pikenevad volitused automaatselt kuni järgmiste valimisteni. Valimised peavad toimuma kuue kuu jooksul arvates eriolukorra või riigikaitselise kriisiolukorra lõppemisest.

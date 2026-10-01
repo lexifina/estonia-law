@@ -8,6 +8,6 @@
 
 (4) Rahandusministeerium juhib riigi võlakohustustega kaasnevaid finantsriske. Rahandusministeeriumil on õigus riigi võlakohustustega seotud tuletistehingute tegemisel finantsriskide juhtimise eesmärgil nõuda ja anda tagatisi.
 
-(5) Riigile võlakohustuste võtmise tingimused kehtestab Vabariigi Valitsus määrusega.
+(5) Riigile võlakohustuste võtmise tingimused kehtestab Vabariigi Valitsus või tema volitatud minister määrusega.
 
 (6) Riigi võlakohustustega seotud finantsriskide juhtimise põhimõtted kehtestab Vabariigi Valitsus käesoleva seaduse § 66 lõikes 5 nimetatud määrusega.

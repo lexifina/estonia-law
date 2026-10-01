@@ -12,7 +12,7 @@
 
 (6) Valdkonna eest vastutav minister kehtestab käesoleva paragrahvi lõikes 4 nimetatud määrusega riigieelarve väljamaksete tingimused arveldussüsteemide häirete korral ja käesoleva seaduse § 66 lõikes 4 nimetatud juhul selliselt, et on tagatud:
 
-- 1) riigi toimimine hädaolukorras ja selle lahendamiseks väljakuulutatud eriolukorras;
+- 1) riigi toimimine tsiviilkriisi lahendamiseks;
 
 - 2) riigi võlakohustuste ja muude selliste kohustuste täitmine, mille täitmata jätmine võib kaasa tuua riigi võlakohustuste ennetähtaegse tagasimaksmise kohustuse või ohustada riigile võlakohustuste võtmist;
 
@@ -22,4 +22,4 @@
 
 - 5) väljamaksed põhiseaduslikele institutsioonidele ja nende haldusala asutustele.
 
-(7) Kui kõrgendatud kaitsevalmiduse, erakorralise seisukorra, sõjaseisukorra, mobilisatsiooni või demobilisatsiooni ajal on vaja kasutada täiendavaid riigi rahalisi vahendeid kaitseolukorra lahendamiseks, sealhulgas riigi eelarvelise jätkusuutlikkuse tagamiseks, võib Vabariigi Valitsus määrata riigieelarve ja käesoleva seaduse § 67 lõikes 1 nimetatud isikute väljamaksete tingimused.
+(7) Kui riigikaitselise kriisiolukorra ajal on vaja kasutada täiendavaid riigi rahalisi vahendeid olukorra lahendamiseks, sealhulgas riigi eelarvelise jätkusuutlikkuse tagamiseks, võib Vabariigi Valitsus määrata riigieelarve ja käesoleva seaduse § 67 lõikes 1 nimetatud isikute väljamaksete tingimused.

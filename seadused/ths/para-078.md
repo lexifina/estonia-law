@@ -4,4 +4,4 @@
 
 (2) Käesoleva paragrahvi lõikes 1 nimetatud kümnepäevane ajapiirang ei kehti juhul, kui energiavarustuse säilitamine on hädavajalik. Sellistest juhtudest peab käitaja viivitamata teavitama loa andjat. Loa andja otsustab viivitamata energiavarustuse säilitamise hädavajalikkuse üle ja teatab sellest käitajale.
 
-(3) Loa andja võib kuni kuueks kuuks kirjalikult peatada kohustuse järgida vääveldioksiidi heite piirväärtust suure põletusseadme puhul, mis tavaliselt kasutab vähese väävlisisaldusega kütust, kui seadme käitaja ei suuda täita vääveldioksiidi piirväärtuse nõuet hädaolukorra seaduse tähenduses hädaolukorra tagajärjel vähese väävlisisaldusega kütuse tarnete katkemise tõttu.
+(3) Loa andja võib kuni kuueks kuuks kirjalikult peatada kohustuse järgida vääveldioksiidi heite piirväärtust suure põletusseadme puhul, mis tavaliselt kasutab vähese väävlisisaldusega kütust, kui seadme käitaja ei suuda täita vääveldioksiidi piirväärtuse nõuet vähese väävlisisaldusega kütuse tarnete katkemise või katkemise ohu tõttu, kui see on vajalik kriisiolukorra ja riigikaitse seaduse tähenduses elutähtsa teenuse kättesaadavuse ja toimepidevuse tagamiseks.

@@ -14,6 +14,8 @@
 
 - 5) [Kehtetu]
 
+(2¹) Käesoleva seaduse § 4 lõike 2 alusel riiklikku järelevalvesse kaasamisel võib kasutada kaasava korrakaitseorgani erivahendeid korrakaitseseaduses sätestatud tingimustel ja korras.
+
 (3) Kaitseliidu enesekaitsevahendite loetelu ja nõuded nendele kehtestab valdkonna eest vastutav minister määrusega.
 
 (4) Kaitseliidu erivahendit ja enesekaitsevahendit võib tegevliige hoida oma elukohas, kui see on vajalik teenistuskohustuse täitmiseks.

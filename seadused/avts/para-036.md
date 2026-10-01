@@ -33,3 +33,5 @@
 - 1) selle mittetulundusühingu, sihtasutuse või äriühingu suhtes, mille asutajaks või milles osalejaks on riik, kohaliku omavalitsuse üksus või avalik-õiguslik juriidiline isik;
 
 - 2) teabe suhtes, mis puudutab eraõiguslikule juriidilisele isikule riigi või kohaliku omavalitsuse üksuse eelarvest eraldatud vahendite ja üleantud vara kasutamist.
+
+(3) Käesoleva paragrahvi lõikes 1 sätestatud keeld ei kehti, kui teabele juurdepääsu piiratakse kriisiolukorra ja riigikaitse seaduse § 70 lõike 1 alusel.

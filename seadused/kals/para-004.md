@@ -14,33 +14,17 @@
 
 - 6) arendab ja väärtustab kehakultuuri ja sporti elanikkonna hulgas;
 
-- 7) tagab vajaduse korral riigikaitseobjektide ja riigikaitse eesmärgil kasutatava vara ning Eesti välisesinduste valve;
+- 7) tagab vajaduse korral alaliselt või ajutiselt kaitstava olulise tähtsusega objekti ja riigikaitse eesmärgil kasutatava vara valve;
 
 - 8) täidab teisi talle seaduste ja nende alusel kehtestatud õigusaktidega antud ülesandeid.
 
-(2) Kaitseliit kaasatakse vajaduse korral:
-
-- 1) päästesündmuse lahendamisele päästeseaduses sätestatud korras;
-
-- 2) eriolukorra tööde tegemisele ning liikluse korraldamisele ja turvalisuse tagamisele eriolukorra piirkonnas hädaolukorra seaduses sätestatud korras;
-
-- 3) erakorralise seisukorra lahendamisele erakorralise seisukorra seaduses sätestatud korras;
-
-- 4) küberturvalisuse tagamisele pädeva ametiasutuse juhtimisel;
-
-- 5) [Kehtetu]
-
-- 6) politsei ja piirivalve seaduse § 3 lõike 1 punktides 1, 4–6 ja 8 ning hädaolukorra seaduse § 16 lõikes 3 sätestatud ülesannete täitmisse;
-
-- 7) riigikaitseobjektivastase ründe, riigipiiri või ajutise kontrolljoone ebaseadusliku ületamise ning kuritegude ennetamisse ja tõkestamisse korrakaitseseaduses sätestatud korras;
-
-- 8) isikute ja vara kaitsesse mehitamata õhusõiduki eest korrakaitseseaduses sätestatud korras.
+(2) Kaitseliitu võib kaasata riiklikku järelevalvesse korrakaitseseaduses sätestatud tingimustel ja korras.
 
 (2¹) Käesoleva paragrahvi lõikes 1 nimetatud ülesandeid täites on tervishoiutöötajal õigus vajaduse korral osutada esmaabi oma pädevuse piires.
 
 (2²) Kui Kaitseliit on kaasatud teise haldusorgani ülesannete täitmisse käesoleva paragrahvi lõike 2 alusel või kaasatud Kaitseväe ülesannete täitmisse lõike 3¹ alusel, on Kaitseliidul kaasava haldusorgani või Kaitseväe volitused nende ülesannete ulatuses, mille täitmisse ta kaasati, kui seaduses ei ole sätestatud teisiti. Käesolevas paragrahvis sätestatud juhul ei osale Kaitseliit vahetus lahingutegevuses.
 
-(3) Kaitseliidu käesoleva paragrahvi lõike 2 punktides 4 ja 6 sätestatud ülesannete täitmisse kaasamise korra kehtestab Vabariigi Valitsus määrusega.
+(3) [Kehtetu]
 
 (3¹) Kaitseliitu võib tema nõusolekul kaasata järgmiste Kaitseväe ülesannete täitmisse:
 
@@ -55,3 +39,5 @@
 (4) Kaitseliidu ülesanne ei ole oma liikmetele tulu teenimine.
 
 (5) Kaitseliit teeb oma ülesannete täitmiseks koostööd teiste Eestis ning välisriigis asuvate isikute ja asutustega.
+
+(6) Kaitseliidu püsivad kriisiülesanded on käesoleva paragrahvi lõike 1 punktides 2–4 ja 7 nimetatud ülesanded.

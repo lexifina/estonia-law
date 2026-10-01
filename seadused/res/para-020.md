@@ -4,6 +4,8 @@
 
 (2) Valdkonna arengukava koostatakse vähemalt eelarvestrateegia perioodiks. Valdkonna arengukava kinnitab Vabariigi Valitsus, kui seadusest ei tulene teisiti. Valdkonna arengukava esitatakse enne kinnitamist Riigikogule arutamiseks.
 
+(2¹) Riigisaladust sisaldavat valdkonna arengukava ei esitata Riigikogule arutamiseks. Enne sellise arengukava või selle muutmise eelnõu esitamist Vabariigi Valitsusele esitatakse eelnõu arvamuse andmiseks Riigikogu riigikaitsekomisjonile ja vajaduse korral ka teisele asjaomasele komisjonile.
+
 (3) [Kehtetu]
 
 (4) Programm koostatakse kooskõlas eelarvestrateegia perioodiga. Programmi kinnitab minister. Kui programmi eesmärgi saavutamisse panustavad mitu ministeeriumi, kinnitavad ministrid kogu programmi või jaotatakse programm osadeks, mille ministrid kinnitavad.

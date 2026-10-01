@@ -6,7 +6,7 @@
 
 - 1) domeeninimede süsteemi teenuse osutaja;
 
-- 2) elutähtsa teenuse osutaja hädaolukorra seaduse tähenduses;
+- 2) elutähtsa teenuse osutaja kriisiolukorra ja riigikaitse seaduse tähenduses;
 
 - 3) keskvalitsuse avaliku halduse üksus;
 

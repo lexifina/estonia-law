@@ -8,4 +8,4 @@
 
 (4) Ulatusliku või kiire majanduslanguse korral, finantskriisi ajal või tulude kavandatust väiksema laekumise korral on valdkonna eest vastutaval ministril õigus ajutiselt piirata väljamaksete tegemist ja kohustuste võtmist, teavitades sellest Vabariigi Valitsust. Väljamaksete tegemisel lähtutakse sellisel juhul käesoleva seaduse § 64 lõikes 6 sätestatud maksete tingimustest.
 
-(5) Riigi rahavoo juhtimise põhimõtted kehtestab Vabariigi Valitsus määrusega.
+(5) Riigi rahavoo juhtimise põhimõtted kehtestab Vabariigi Valitsus või tema volitatud minister määrusega.

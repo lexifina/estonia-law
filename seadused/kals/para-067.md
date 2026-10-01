@@ -8,7 +8,7 @@
 
 (4) Päevaraha makstakse töölepingu seaduse § 40 lõike 3 alusel kehtestatud määruses sätestatud tingimustel ja alammääras, kui pooled ei ole kokku leppinud hüvitamist suuremas määras.
 
-(5) Eriolukorra ja erakorralise seisukorra ajal võib Kaitseliidu liikmele, kes osaleb Kaitseliidu koosseisus eriolukorra väljakuulutamise põhjustanud hädaolukorra lahendamisel hädaolukorra seaduse § 34 lõike 1 alusel, avaliku korra tagamisel korrakaitseseaduse § 16¹ lõike 1 alusel või erakorralise seisukorra lahendamisel erakorralise seisukorra seaduse § 15 lõike 1 alusel, maksta tasu.
+(5) Eriolukorra ja erakorralise seisukorra ajal võib Kaitseliidu liikmele, kes osaleb Kaitseliidu koosseisus kriisiolukorra lahendamisel korrakaitseseaduse § 82¹ lõike 2 punkti 2 alusel, maksta tasu.
 
 (6) Käesoleva paragrahvi lõikes 5 sätestatud tasu maksmise ulatuse ja korra kehtestab Vabariigi Valitsus määrusega.
 

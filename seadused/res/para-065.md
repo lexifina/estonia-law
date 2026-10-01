@@ -4,4 +4,4 @@
 
 (2) Riigi likviidsed finantsvarad on riigile kuuluv või riigi hoitav raha, väärtpaberid ja muu finantsvara, mis ei kuulu stabiliseerimisreservi.
 
-(3) Riigi rahavoogu juhib Rahandusministeerium.
+(3) Riigi rahavoogu juhib Rahandusministeerium. Kriisiolukorra ajal võib Rahandusministeerium kaasata Eesti Panga riigi rahavoo juhtimisse, sealhulgas käesoleva seaduse § 70 lõigetes 3 ja 4 nimetatud toimingutesse.

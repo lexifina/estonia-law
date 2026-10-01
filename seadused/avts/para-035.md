@@ -20,11 +20,11 @@
 
 - 5²) teabe politsei relvastuse hulga kohta, kui selline teave ei ole riigisaladus või salastatud välisteave;
 
-- 6) teabe riigikaitseseaduse alusel kohaldatud asja sundkasutusse võtmise ja asja sundvõõrandamise kohta;
+- 6) [Kehtetu]
 
-- 6¹) teabe, mille avalikuks tulek ohustaks riigikaitseobjekti või lihtsustaks selle vastase ründe toimepanemist;
+- 6¹) [Kehtetu]
 
-- 6²) teabe riigikaitseülesannete täitmiseks ja hädaolukorra tagajärgede leevendamiseks vajaliku varu suuruse ja vahendite koguse kohta ning selle kasutusele võtmise ulatuse ja tingimuste kohta;
+- 6²) [Kehtetu]
 
 - 7) teabe, mille avalikuks tulek ohustaks muinsuskaitse all olevat objekti või muuseumikogusse kuuluvat museaali;
 
@@ -66,8 +66,8 @@
 
 - 3) põhjendatud juhtudel asutusesiseselt adresseeritud dokumendid, mida dokumendiregistris ei registreerita (arvamused, teated, memod, õiendid, nõuanded jm);
 
-- 4) tsiviilkohtumenetluses riigi kui menetlusosalise huvisid kahjustada võiva teabe kuni kohtulahendi tegemiseni;
+- 4) tsiviilkohtumenetluses riigi kui menetlusosalise huvisid kahjustada võiva teabe kuni kohtulahendi tegemiseni.
 
-- 5) riigikaitseülesannete täitmiseks ja hädaolukorra tagajärgede leevendamiseks vajaliku varu moodustamise ning vahendite muretsemisega seotud teabe, kui selle avalikuks tulek võib mõjutada varu moodustamist ja vahendite muretsemist.
+- 5) [Kehtetu]
 
 (3) Välisriigi või rahvusvahelise organisatsiooni poolt edastatud juurdepääsupiirangu märkega teave, mida ei loeta vastavalt riigisaladuse ja salastatud välisteabe seadusele salastatud välisteabeks, loetakse asutusesiseseks kasutamiseks mõeldud teabeks.
