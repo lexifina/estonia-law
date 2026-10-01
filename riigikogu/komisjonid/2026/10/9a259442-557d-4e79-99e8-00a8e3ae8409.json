@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Väliskomisjon",
+  "committee_uuid": "356a272f-ee00-4e88-31c9-8ab5c460efbf",
+  "title": "Komisjoni istung neljapäev, 1.10.2026 kell 14.00",
+  "sitting_time": "2026-10-01T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Eesti Vabariigi erakorralise ja täievolilise suursaadiku kandidaadid",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "cb45ed79-c112-4d69-b1d5-c9c7c6c9a360"
+    },
+    {
+      "order": 2,
+      "title": "Eesti seisukohad Euroopa Liidu välisasjade nõukogu arenguministrite 8.-9. oktoobri 2026. a toimuval mitteametlikul kohtumisel",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "0255321c-d386-463d-bfbc-917a3e619297"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "fcf82328-7333-4973-a818-f89ee6ecc6ce"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "VÄLK protokoll 1.10.2026",
+      "uuid": "45a2f39e-9685-403c-bada-5cad527188fd",
+      "files": [
+        "VÄLK_protokoll_1.10.2026.asice",
+        "VÄLK_protokoll_nr_209_01.10.2026.pdf"
+      ]
+    }
+  ],
+  "uuid": "9a259442-557d-4e79-99e8-00a8e3ae8409",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 9a259442-557d-4e79-99e8-00a8e3ae8409)",
+  "source": "https://api.riigikogu.ee/api/volumes/9a259442-557d-4e79-99e8-00a8e3ae8409",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-10-01&endDate=2026-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
