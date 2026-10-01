@@ -1,0 +1,3 @@
+# § 211. Kriminaal-, haldus- ja väärteoasjas kohaldatud avalik-õiguslike rahaliste sissenõuete laekumise korra kehtestamine
+
+Kriminaalasjas kohaldatud rahalise karistuse, varalise karistuse, kriminaalmenetluse kulude ja muude avalik-õiguslike rahaliste sissenõuete riigieelarvesse laekumise korra, halduskohtumenetluses kohtuotsuse või määrusega kohaldatud rahatrahvi, menetluskulude ja muude avalik-õiguslike rahaliste sissenõuete riigieelarvesse laekumise korra ning väärteoasjas kohaldatud rahatrahvi, hoiatustrahvi, menetluskulude ja muude avalik-õiguslike rahaliste sissenõuete riigieelarvesse laekumise korra kehtestab valdkonna eest vastutav minister .

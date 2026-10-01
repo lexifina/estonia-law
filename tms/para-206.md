@@ -1,0 +1,9 @@
+# § 206. Rahalise karistuse ja varalise karistuse tasumata jätmise tagajärjed
+
+(1) Kui võlgnik ei ole tasunud rahalise karistusena või varalise karistusena mõistetud rahasummat või rahalise karistuse osa määratud tähtaja jooksul, selgitab kohtutäitur võlgnikule tema õigust taotleda kohtult rahalise karistuse või varalise karistuse täitmise pikendamist kriminaalmenetluse seadustiku § 424 kohaselt. Kohtutäitur teeb võlgnikule teatavaks rahalise karistusena või varalise karistusena mõistetud summa tasumata jätmise tagajärjed.
+
+(2) Kui rahalise karistusena või varalise karistusena mõistetud rahasummat määratud tähtpäevaks ei tasuta või kui osastatud rahalise karistuse tasumise tähtaega ei järgita ja rahalise karistusena või varalise karistusena mõistetud rahasumma tasumise tähtaega ei ole pikendatud ning võlgnikul ei ole vara, millele sissenõuet pöörata, teatab kohtutäitur kolme aasta möödumisel rahalise karistuse või varalise karistuse kohtutäituri menetlusse võtmisest, kuid mitte hiljem kui seitsme aasta möödumisel kohtuotsuse jõustumisest, sissenõudjale täitmise võimatusest. Kui puuduvad karistuse asendamist välistavad asjaolud, saadab sissenõudja avalduse rahalise karistuse või varalise karistuse asendamiseks vangistusega vastavalt karistusseadustiku §-des 70 ja 71 sätestatule kohtuotsuse täitmisele pööranud maakohtule. Sissenõudja teatab avalduse esitamisest võlgnikule ja kohtutäiturile.
+
+(3) Kui võlgnik on enne asenduskaristuse kohaldamist rahalise karistuse ja varalise karistuse summa täies ulatuses tasunud, lõpetab kohtutäitur menetluse rahalise karistuse ja varalise karistuse sissenõudes, teatades maakohtule viivitamata kirjalikult rahalise karistuse ja varalise karistuse tasumisest.
+
+(4) Kui kohus on teinud määruse asenduskaristuse mõistmise kohta, lõpetab kohtutäitur asenduskaristuse mõistmise määruse alusel täitemenetluse rahalise karistuse ja varalise karistuse sissenõudes.
