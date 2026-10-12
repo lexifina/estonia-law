@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Keskkonnakomisjon",
+  "committee_uuid": "4f907fd8-ace5-c3eb-d50a-b65606cd3621",
+  "title": "Komisjoni istung esmaspäev, 12.10.2026 kell 11.10",
+  "sitting_time": "2026-10-12T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "6659f2a8-3065-4251-a6c8-a84b1c3b9508"
+    },
+    {
+      "order": 2,
+      "title": "Ehitusseadustiku muutmise seaduse eelnõu algatamise arutelu",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "48e8a4f1-47bf-4742-a3de-ccc5f8eb8770"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "bdb87ee9-8959-4e63-9795-6b170556b6a1"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "KEKK protokoll 12.10.2026",
+      "uuid": "ac47c401-2acd-48de-9779-f34a9e6740bb",
+      "files": [
+        "KEKK_protokoll_12.10.2026.asice",
+        "KEKK_protokoll_nr_167_(12.10.2026).pdf"
+      ]
+    }
+  ],
+  "uuid": "55b0298b-841b-4dd4-976f-b8dc94fefcf4",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 55b0298b-841b-4dd4-976f-b8dc94fefcf4)",
+  "source": "https://api.riigikogu.ee/api/volumes/55b0298b-841b-4dd4-976f-b8dc94fefcf4",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-10-01&endDate=2026-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
