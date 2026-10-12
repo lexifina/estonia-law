@@ -1,0 +1,54 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung esmaspäev, 12.10.2026 kell 11.15",
+  "sitting_time": "2026-10-12T11:15:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "51d42a6f-05cc-4cf2-9774-d95ee3e3b357"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud 2027. aasta riigieelarve eelnõu (1037 SE) esimeseks lugemiseks ettevalmistamine. Osaleb haridus- ja teadusminister Kristina Kallas.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "980c59ac-ca49-44a5-adb2-c68a508af5c8"
+    },
+    {
+      "order": 3,
+      "title": "Vabariigi Valitsuse algatatud 2027. aasta riigieelarve eelnõu (1037 SE) esimeseks lugemiseks ettevalmistamine. Osaleb regionaal- ja põllumajandusminister Hendrik Johannes Terras.",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "7d77edea-5231-4a07-873b-6ce764072b4d"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "774c3344-e6e2-4dda-8777-1c2d0a14d51e"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 12.10.2026",
+      "uuid": "ea6c6cee-8cf6-4c28-b388-1d527aeb7ff1",
+      "files": [
+        "RAHK_protokoll_12.10.2026.asice",
+        "RAHK_protokoll_nr_251_12.10.2026.pdf",
+        "RE_eelarve_12.10.2026.pdf",
+        "HTM_2027_eelarve_12.10.2026.pdf"
+      ]
+    }
+  ],
+  "uuid": "c8e25551-ab93-4263-931e-5af5eb239831",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c8e25551-ab93-4263-931e-5af5eb239831)",
+  "source": "https://api.riigikogu.ee/api/volumes/c8e25551-ab93-4263-931e-5af5eb239831",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-10-01&endDate=2026-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
