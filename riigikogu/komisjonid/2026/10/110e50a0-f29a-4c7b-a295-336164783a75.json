@@ -1,0 +1,46 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Julgeolekuasutuste järelevalve erikomisjon",
+  "committee_uuid": "d3826f36-707d-17ad-41e8-8b99f9910b98",
+  "title": "Komisjoni istung esmaspäev, 12.10.2026 kell 13.30",
+  "sitting_time": "2026-10-12T13:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c78fd765-9890-4eda-9498-99b075f0e3f7"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "509747b2-47c2-44a4-81bd-06c27fe79ce6"
+    },
+    {
+      "order": 4,
+      "title": "Tutvumine dokumentidega",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "915c696a-fd6f-446e-818e-b6a2da304e6f"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "JAJK istungi protokoll 12.10.2026",
+      "uuid": "f3fcef11-63f3-44ed-a347-9e6aac85b687",
+      "files": [
+        "JAJK_istungi_protokoll_12.10.2026.asice",
+        "JAJK_protokoll_121026.pdf"
+      ]
+    }
+  ],
+  "uuid": "110e50a0-f29a-4c7b-a295-336164783a75",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 110e50a0-f29a-4c7b-a295-336164783a75)",
+  "source": "https://api.riigikogu.ee/api/volumes/110e50a0-f29a-4c7b-a295-336164783a75",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-10-01&endDate=2026-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
