@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Riigikaitsekomisjoni ja majanduskomisjoni ühine istung esmaspäev, 12.10.2026 kell 11.15",
+  "sitting_time": "2026-10-12T11:15:00",
+  "sitting_type": "UHISISTUNG",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Majanduskomisjoni nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "be0059ed-fe76-42f6-9528-355dc3efa772"
+    },
+    {
+      "order": 2,
+      "title": "Eesti energiataristu toimepidevus",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "902edfb7-92c2-42a4-b58f-545827e5c812"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Majanduskomisjoni ja riigikaitsekomisjoni 12.10.2026 ühise istungi protokoll",
+      "uuid": "c4d30394-9294-4931-996c-5c212d6f1899",
+      "files": [
+        "Majanduskomisjoni_ja_riigikaitsekomisjoni_12.10.2026_ühise_istungi_protokoll.asice",
+        "2026-10-12_protokoll_yhine.pdf",
+        "Energiajulgeoleku_tugevdamine_RK_komisjon.pptx"
+      ]
+    }
+  ],
+  "uuid": "5b4db5a9-89bb-49f8-9e40-1d90b4db45f4",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 5b4db5a9-89bb-49f8-9e40-1d90b4db45f4)",
+  "source": "https://api.riigikogu.ee/api/volumes/5b4db5a9-89bb-49f8-9e40-1d90b4db45f4",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-10-01&endDate=2026-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
