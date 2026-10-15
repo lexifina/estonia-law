@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung neljapäev, 15.10.2026 kell 14.00",
+  "sitting_time": "2026-10-15T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade julgeolekuolukorra arengutest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a90376d0-45b8-4cc8-895e-4fc27d902799"
+    },
+    {
+      "order": 2,
+      "title": "Riigi Kaitseinvesteeringute Keskuse ja Dataseli vahelistest tehingutest tulenenud võimalik Euroopa finantshuvide kahjustamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2dd1ce85-f993-4104-820e-408b97f55222"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Riigikaitsekomisjoni 15.10.2026 istungi protokoll",
+      "uuid": "91b2c4a1-d37b-416f-a6e1-1f567aff882a",
+      "files": [
+        "Riigikaitsekomisjoni_15.10.2026_istungi_protokoll.asice",
+        "2026-10-15_protokoll_241.pdf"
+      ]
+    }
+  ],
+  "uuid": "c4c60d08-5461-477b-aa95-ca513038aa52",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c4c60d08-5461-477b-aa95-ca513038aa52)",
+  "source": "https://api.riigikogu.ee/api/volumes/c4c60d08-5461-477b-aa95-ca513038aa52",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-10-01&endDate=2026-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
