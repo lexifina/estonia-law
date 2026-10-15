@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Rahanduskomisjon",
+  "committee_uuid": "527a03f5-d564-70f2-6266-70c1cdb5535f",
+  "title": "Komisjoni istung neljapäev, 15.10.2026 kell 08.30",
+  "sitting_time": "2026-10-15T08:30:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Vabariigi Valitsuse algatatud riigi 2026. aasta teise lisaeelarve seaduse eelnõu (1019 SE) teiseks lugemiseks ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "3faac1a7-9dc2-4826-9c9f-2cd9b76f5fc4"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "2c4d2112-e9f9-4e40-bf19-129de70c8196"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "RAHK protokoll 15.10.2026",
+      "uuid": "30d877f4-c4df-4144-959d-0fee526d52a6",
+      "files": [
+        "RAHK_protokoll_15.10.2026.asice",
+        "1019_SE_rahanduskomisjoni_ME.pdf",
+        "RAHK_protokoll_nr_253_15.10.2026.pdf"
+      ]
+    }
+  ],
+  "uuid": "acb94c51-9114-4a49-92c7-9db445707419",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid acb94c51-9114-4a49-92c7-9db445707419)",
+  "source": "https://api.riigikogu.ee/api/volumes/acb94c51-9114-4a49-92c7-9db445707419",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-10-01&endDate=2026-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
