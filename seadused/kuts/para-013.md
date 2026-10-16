@@ -1,8 +1,8 @@
 # § 13. Küberintsidentide register
 
-(1) Küberintsidentide register (edaspidi register) on Riigi Infosüsteemi Ameti peetav andmekogu, kuhu kantakse küberintsidendi toimumist, küberohte ja turvahaavatavust kirjeldavad andmed eesmärgiga pidada küberintsidentide, küberohtude ja turvahaavatavuste üle arvestust ning analüüsida registrisse esitatud teavet küberintsidentide, küberohtude ja turvahaavatavuse ennetamiseks või lahendamiseks, ohuteadete edastamiseks ning järelevalvetoimingute tegemiseks.
+(1) Küberintsidentide register (edaspidi register) on Riigi Infosüsteemi Ameti peetav andmekogu, kuhu kantakse napilt toimumata jäänud küberintsidendi, küberintsidendi ja olulise mõjuga küberintsidendi toimumist ning küberohte ja turvahaavatavust kirjeldavad andmed eesmärgiga hallata ja analüüsida registrisse esitatud teavet napilt toimumata jäänud küberintsidentide, küberintsidentide, olulise mõjuga küberintsidentide, küberohtude ja turvahaavatavuste kohta, et neid ennetada või vastavalt kas lahendada või kõrvaldada, ohuteateid edastada ning järelevalvetoiminguid teha.
 
-(1¹) Registrisse kantakse küberintsidendist, küberohust või turvahaavatavusest teataja (edaspidi koos andmeandja) nimi ja kontaktandmed.
+(1¹) Registrisse kantakse napilt toimumata jäänud küberintsidendist, küberintsidendist, olulise mõjuga küberintsidendist, küberohust või turvahaavatavusest teataja (edaspidi koos andmeandja) nimi ja kontaktandmed.
 
 (2) Register on piiratud juurdepääsuga ja registriandmed on mõeldud asutusesiseseks kasutamiseks, kui õigusaktis ei ole sätestatud teisiti.
 
@@ -26,7 +26,7 @@
 
 (5) Registrisse kantud või registriga seotud andmeid säilitatakse järgmiselt:
 
-- 1) registrisse kantud andmeid küberintsidentide kohta säilitatakse viis aastat arvates küberintsidendi lahendamisest;
+- 1) registrisse kantud andmeid küberintsidentide ja olulise mõjuga küberintsidentide kohta säilitatakse viis aastat arvates küberintsidendi lahendamisest;
 
 - 2) registrisse kantud muid andmeid säilitatakse viis aastat arvates registrisse kandmisest;
 

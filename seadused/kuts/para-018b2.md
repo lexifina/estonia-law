@@ -1,6 +1,6 @@
 # § 18². Seaduse nõuete rikkumine üliolulise üksuse poolt
 
-(1) Käesoleva seaduse § 7 lõikes 1, 2, 3, 5 või 7 või § 8 lõikes 1, 1¹, 4¹, 4², 4³, 5, 7 või 8¹ sätestatud nõuete rikkumise eest üliolulise üksuse poolt, kui puudub käesoleva seaduse §-s 18⁴ sätestatud väärteokoosseis, –
+(1) Käesoleva seaduse § 7 lõikes 1, 2, 3 või 5 või § 8 lõikes 1, 1¹, 4¹, 4², 4³, 5, 7 või 8¹ sätestatud nõuete rikkumise eest üliolulise üksuse poolt, kui puudub käesoleva seaduse §-s 18⁴ sätestatud väärteokoosseis, –
 
 karistatakse rahatrahviga kuni 10 000 000 eurot.
 

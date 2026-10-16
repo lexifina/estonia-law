@@ -12,6 +12,6 @@
 
 (4) Riigi Infosüsteemi Ametil on õigus edastada välisriigile või Euroopa Liidu Küberturvalisuse Ametile või muule organisatsioonile küberintsidendi ennetamise ja lahendamisega seotud teavet käesoleva seaduse §-s 5 sätestatud ülesannete või Euroopa Liidu õigusest tuleneva kohustuse täitmiseks või välislepinguga ettenähtud juhtudel ja korras, kui edastatav teave ei kahjusta riigi julgeolekut või kriminaalmenetlust. Nimetatud teabe edastamine on kohustuslik ennekõike siis, kui olulise mõjuga küberintsident puudutab kahte või enamat Euroopa Liidu liikmesriiki, millisel juhul tuleb asjakohane olulise mõjuga küberintsidendi kohta käiv teave edastada puudutatud välisriigile ja Euroopa Liidu Küberturvalisuse Ametile.
 
-(4¹) Riigi Infosüsteemi Amet esitab Euroopa Liidu Küberturvalisuse Ametile iga kolme kuu tagant koondaruande, mis sisaldab anonüümseid koondandmeid küberohtude, küberintsidentide ja olulise mõjuga küberintsidentide kohta.
+(4¹) Riigi Infosüsteemi Amet esitab Euroopa Liidu Küberturvalisuse Ametile iga kolme kuu tagant koondaruande, mis sisaldab anonüümseid koondandmeid küberohtude, napilt toimumata jäänud küberintsidentide, küberintsidentide ja olulise mõjuga küberintsidentide kohta.
 
 (5) Riigi Infosüsteemi Amet edastab käesoleva paragrahvi lõigetes 4 ja 4¹ nimetatud teavet üksnes teabevahetuse eesmärgi seisukohast vajalikus ja proportsionaalses ulatuses, kaitstes teenuseosutaja turvalisust ja ärihuve ning juhindudes ärisaladuse hoidmise kohustusest.

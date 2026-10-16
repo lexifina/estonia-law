@@ -12,9 +12,13 @@
 
 (1¹) Riigi Infosüsteemi Ametil on haldusjärelevalve ülesannete täitmisel õigus teha:
 
-- 1) teenuseosutaja suhtes kohapealset kontrolli ja kaugjärelevalvet, lähtudes käesoleva seaduse § 14 lõike 6 punktidest 2 ja 3, sealhulgas teha üliolulise üksuse suhtes pistelist järelevalvet, mis võib olla muu hulgas ajendatud olulise mõjuga küberintsidendist või käesolevas seaduses, selle alusel või Euroopa Parlamendi ja nõukogu direktiivi (EL) 2022/2555 artikli 21 lõike 5 või artikli 23 lõike 11 alusel vastu võetud rakendusaktis sätestatud nõude rikkumisest;
+- 1) teenuseosutaja suhtes kohapealset kontrolli ja kaugjärelevalvet, lähtudes käesoleva seaduse § 14 lõike 6 punktidest 2 ja 3, sealhulgas teha üliolulise üksuse suhtes pistelist kontrolli;
+
+- 1¹) üliolulise üksuse suhtes vajaduspõhist turvaauditit, mis võib olla muu hulgas ajendatud olulise mõjuga küberintsidendist või käesolevas seaduses, selle alusel või Euroopa Parlamendi ja nõukogu direktiivi (EL) 2022/2555 artikli 21 lõike 5 või artikli 23 lõike 11 alusel vastu võetud rakendusaktis sätestatud nõude rikkumisest;
 
 - 2) teenuseosutaja suhtes sihipäraseid turvaauditeid, mis põhinevad Riigi Infosüsteemi Ameti või auditeeritava teenuseosutaja tehtud riskihindamisel või muul kättesaadaval riskiteabel ning mille kulu kannab muudel kui käesoleva paragrahvi lõike 1² alusel kehtestatud määruses nimetatud juhtudel teenuseosutaja;
+
+- 2¹) üliolulise üksuse suhtes regulaarseid turvaauditeid üks kord kolme aasta jooksul, välja arvatud juhul, kui ülioluline üksus on kohustatud regulaarselt auditeerima käesoleva seaduse § 7 lõike 5 alusel kehtestatud küberturvalisuse nõuete täitmise raames;
 
 - 3) vajaduse korral koostöös asjaomase teenuseosutajaga objektiivsetel, mittediskrimineerivatel, õiglastel ja läbipaistvatel riskihindamise kriteeriumidel põhinevaid turvalisuse kontrolle;
 

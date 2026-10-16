@@ -34,4 +34,4 @@
 
 (6) Käesoleva paragrahvi lõike 5 alusel kehtestatud määruses võib täpsustada alalisi asjakohaseid ja proportsionaalseid tehnilisi, tegevuslikke ja korralduslikke turvameetmeid ning rakendamise nõudeid ja tingimusi, sealhulgas võib võtta arvesse käesoleva seaduse § 3 lõigetes 2–5 nimetatud tegevusalasid.
 
-(7) Teenuseosutaja, kes on nimetatud Euroopa Parlamendi ja nõukogu direktiivi (EL) 2022/2555 artikli 21 lõikes 5 osutatud rakendusaktis, millega sätestatakse tehnilised, metoodilised ja vajaduse korral valdkondlikud nõuded turvameetmete rakendamiseks teenuseosutaja poolt, lähtub rakendusaktis sätestatud teenuse puhul sama rakendusaktiga kehtestatud nõuetest.
+(7) [Kehtetu]

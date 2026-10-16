@@ -2,9 +2,9 @@
 
 (1) Riigi Infosüsteemi Ametit võib:
 
-- 1) teenuseosutaja teavitada küberintsidendist, turvahaavatavusest ja küberohust;
+- 1) teenuseosutaja teavitada napilt toimumata jäänud küberintsidendist, küberintsidendist, turvahaavatavusest ja küberohust;
 
-- 2) muu isik kui teenuseosutaja teavitada olulise mõjuga küberintsidendist, turvahaavatavusest ja küberohust.
+- 2) muu isik kui teenuseosutaja teavitada napilt toimumata jäänud küberintsidendist, küberintsidendist, olulise mõjuga küberintsidendist, turvahaavatavusest ja küberohust.
 
 (2) Potentsiaalsest turvahaavatavusest või turvahaavatavusest teavitav füüsiline või juriidiline isik võib esitada teate anonüümselt. Teate esitaja isiku andmed on asutusesiseseks kasutamiseks mõeldud teave avaliku teabe seaduse tähenduses.
 

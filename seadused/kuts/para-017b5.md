@@ -1,6 +1,6 @@
 # § 17⁵. Küberturvalisusalase teabevahetuse kokkulepped
 
-(1) Teenuseosutajad ja muud isikud võivad omavahel vabatahtlikult vahetada asjakohast teavet küberturvalisuse kohta, sealhulgas teavet, mis on seotud küberohtude, turvahaavatavuse, meetodite ja menetluste, turvarikkemärkide, kahjulike taktikate, üksikute ohusubjektide ja küberturvalisuse hoiatustega ning soovitustega küberturvalisuse vahendite konfigureerimise kohta küberrünnete tuvastamiseks, kui selline teabevahetus:
+(1) Teenuseosutajad ja muud isikud võivad omavahel vabatahtlikult vahetada asjakohast teavet küberturvalisuse kohta, sealhulgas teavet, mis on seotud küberohtude, napilt toimumata jäänud küberintsidentide, turvahaavatavuse, meetodite ja menetluste, turvarikkemärkide, kahjulike taktikate, üksikute ohusubjektide ja küberturvalisuse hoiatustega ning soovitustega küberturvalisuse vahendite konfigureerimise kohta küberrünnete tuvastamiseks, kui selline teabevahetus:
 
 - 1) toimub küberintsidentide ennetamise, tuvastamise, lahendamise või nende tagajärgede leevendamise eesmärgil või
 

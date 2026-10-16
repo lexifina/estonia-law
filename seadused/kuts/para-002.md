@@ -38,7 +38,7 @@ Käesolevas seaduses kasutatakse termineid järgmises tähenduses:
 
 - 18) küberintsidendi käsitlemine – toimingud ja menetlused, mille eesmärk on küberintsidenti ennetada, tuvastada, analüüsida, ohjata või lahendada ja sellest taastuda;
 
-- 19) küberintsident – võrgu- ja infosüsteemis toimuv sündmus, mis ohustab või kahjustab võrgu- ja infosüsteemi turvalisust;
+- 19) küberintsident – sündmus, mis kahjustab salvestatavate, edastatavate või töödeldavate andmete või võrgu- ja infosüsteemi kaudu pakutavate või juurdepääsetavate teenuste kättesaadavust, autentsust, terviklust või konfidentsiaalsust;
 
 - 20) küberintsidentide käsitlemise üksus – ekspertide grupp, kelle ülesanne on teha küberintsidendi käsitlemist toetavaid toiminguid;
 
@@ -46,13 +46,15 @@ Käesolevas seaduses kasutatakse termineid järgmises tähenduses:
 
 - 22) küberturvalisus – Euroopa Parlamendi ja nõukogu määruse (EL) 2019/881 artikli 2 punktis 1 määratletud küberturvalisus;
 
+- 22¹) napilt toimumata jäänud küberintsident – sündmus, mis oleks võinud kahjustada salvestatavate, edastatavate või töödeldavate andmete või võrgu- ja infosüsteemi kaudu pakutavate või juurdepääsetavate teenuste kättesaadavust, autentsust, terviklust või konfidentsiaalsust, kuid mis õnnestus ära hoida või mis ei tekkinud;
+
 - 23) oluline küberoht – küberoht, mille tehniliste näitajate põhjal on võimalik eeldada, et sellel võib olla suur mõju üksuse võrgu- ja infosüsteemile või üksuse võrgu- ja infosüsteemi kasutajatele, tekitades märkimisväärset varalist või mittevaralist kahju;
 
 - 24) pilvandmetöötlusteenus – infoühiskonna teenus, mis võimaldab nõude põhjal hallata skaleeritavaid ja paindlikke jagatavaid andmetöötlusressursse ning ulatuslikku kaugpääsu neile, sealhulgas juhul, kui need ressursid paiknevad hajutatult eri kohtades;
 
 - 25) risk – küberintsidendist tingitud kahju või häire tekke võimalus, mis väljendub kahju või häire ulatuse ja küberintsidendi esinemise tõenäosuse kombineeritud näitajana;
 
-- 26) sihipärane turvaaudit – võrgu- ja infosüsteemi andmike ja toimingute sõltumatu läbivaatus ning uurimine, et kontrollida võrgu- ja infosüsteemi turvameetmete adekvaatsust ning vastavust kehtivale infoturvapoliitikale ja tööprotseduuridele, avastada turvarikkeid ning soovitada võimalikke järelduvaid meetme-, poliitika- ja protseduurimuudatusi;
+- 26) turvaaudit – võrgu- ja infosüsteemi andmike ja toimingute sõltumatu läbivaatus ning uurimine, et kontrollida üksuse võrgu- ja infosüsteemi turvameetmete adekvaatsust ning vastavust kehtivale infoturvapoliitikale ja tööprotseduuridele, avastada turvarikkeid ning soovitada võimalikke järelduvaid meetme-, poliitika- ja protseduurimuudatusi;
 
 - 27) sisulevivõrk – geograafiliselt hajutatud serverite võrk, mille eesmärk on tagada digisisu ja infoühiskonna teenuste laialdane kättesaadavus, juurdepääsetavus või kiire edastamine internetikasutajatele sisu- ja teenusepakkujate nimel;
 
@@ -64,7 +66,7 @@ Käesolevas seaduses kasutatakse termineid järgmises tähenduses:
 
 - 31) turvahaavatavus – IKT-toote või IKT-teenuse nõrkus, vastuvõtlikkus või viga, mida küberoht võib ära kasutada;
 
-- 32) turvalisuse kontroll – võrgu- ja infosüsteemi tehniline ning korralduslik uurimine, et tuvastada võrgu- ja infosüsteemi turvahaavatavust või võrgu- ja infosüsteemi turvameetmete nõuetele mittevastavust;
+- 32) [Kehtetu]
 
 - 33) turvameetmed – rakendatavad organisatsioonilised, füüsilised ja infotehnilised toimingud või vahendid andmete ning võrgu- ja infosüsteemide turvalisuse saavutamiseks ning säilitamiseks;
 
