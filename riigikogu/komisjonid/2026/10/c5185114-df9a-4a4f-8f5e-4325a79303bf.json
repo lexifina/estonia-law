@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 19.10.2026 kell 11.10",
+  "sitting_time": "2026-10-19T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "718ff48d-7c63-4ae2-8c4a-16e66b5b5c0d"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud maaparandusseaduse muutmise ja sellega seonduvalt teiste seaduste muutmise seaduse eelnõu (1042 SE) esimese lugemise ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d9530686-777b-486c-ab75-4eef8112ac14"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "476f370e-48a7-4f05-8646-6ae9922d76cf"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 19.10.2026",
+      "uuid": "2e5fed35-e084-4f40-98e2-8ead948e3529",
+      "files": [
+        "171_MAEK_protokoll_19.10.2026.pdf",
+        "MAEK_protokoll_19.10.2026.asice",
+        "171_MAEK_protokolli_lisa_MaaParS_1042_SE.pdf"
+      ]
+    }
+  ],
+  "uuid": "c5185114-df9a-4a4f-8f5e-4325a79303bf",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid c5185114-df9a-4a4f-8f5e-4325a79303bf)",
+  "source": "https://api.riigikogu.ee/api/volumes/c5185114-df9a-4a4f-8f5e-4325a79303bf",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-10-01&endDate=2026-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
