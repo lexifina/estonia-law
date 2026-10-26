@@ -1,0 +1,55 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 26.10.2026 kell 11.10",
+  "sitting_time": "2026-10-26T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1682661c-9fa8-41fa-b05c-ae6b4f3c3a51"
+    },
+    {
+      "order": 2,
+      "title": "17 Riigikogu liikme algatatud loomakaitseseaduse muutmise seaduse eelnõu (970 SE) esimese lugemise ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "d800832f-8757-4a23-81f9-9ca687e4e3b3"
+    },
+    {
+      "order": 3,
+      "title": "Ülevaade ebaausate kaubandustavade järelevalvest ja ennetusest ning põllumajandustoote ja toidu tarneahelas ebaausa kaubandustava tõkestamise seaduse järelhindamisest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "a675f3da-369b-4e46-8fb1-2a1934ccaaab"
+    },
+    {
+      "order": 4,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c8257c60-0382-482f-81b4-906ebfdbcfe9"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 26.10.2026",
+      "uuid": "2bb147b6-f9a3-4f1c-99c6-a00d963cd454",
+      "files": [
+        "173_MAEK_protokolli_lisa_3._EPKK_esitlus.pdf",
+        "173_MAEK_protokolli_lisa_2._REM_esitlus.pdf",
+        "MAEK_protokoll_26.10.2026.asice",
+        "173_MAEK_protokoll_26.10.2026.pdf",
+        "173_MAEK_protokolli_lisa_1._Konkurentsiamet_esitlus.pdf"
+      ]
+    }
+  ],
+  "uuid": "86d7c2b2-4459-456b-aa02-e15d6ffededb",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 86d7c2b2-4459-456b-aa02-e15d6ffededb)",
+  "source": "https://api.riigikogu.ee/api/volumes/86d7c2b2-4459-456b-aa02-e15d6ffededb",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-10-01&endDate=2026-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
