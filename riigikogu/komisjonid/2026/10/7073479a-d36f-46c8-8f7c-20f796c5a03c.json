@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Sotsiaalkomisjon",
+  "committee_uuid": "44584179-67a8-ce54-da37-569f1a480919",
+  "title": "Komisjoni istung esmaspäev, 26.10.2026 kell 11.10",
+  "sitting_time": "2026-10-26T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "567fb975-8676-4558-9a18-8a9204fc54d7"
+    },
+    {
+      "order": 2,
+      "title": "Vabariigi Valitsuse algatatud tervishoiuteenuste korraldamise seaduse ja teiste seaduste muutmise seaduse eelnõu (951 SE) teise lugemise ettevalmistamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "1bd16b96-a280-4d01-8b83-20c357cf38f1"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "e749f4b5-4bdb-4f29-85fd-ad1e9ff97757"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "SOTK protokoll 26.10.2026",
+      "uuid": "4725abd6-6375-48cd-8463-8961ccd1a0db",
+      "files": [
+        "SOTK_protokoll_26.10.2026.asice",
+        "SOTK_protokoll_nr_195_(26.10.2026).pdf",
+        "Lisa_1_(SOM_ettekanne).pdf"
+      ]
+    }
+  ],
+  "uuid": "7073479a-d36f-46c8-8f7c-20f796c5a03c",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 7073479a-d36f-46c8-8f7c-20f796c5a03c)",
+  "source": "https://api.riigikogu.ee/api/volumes/7073479a-d36f-46c8-8f7c-20f796c5a03c",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-10-01&endDate=2026-10-31",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
