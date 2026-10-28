@@ -29,5 +29,9 @@
   },
   "tool": "tools/seisuga.py",
   "in_force_trailer": "In-force",
-  "record_to": "2026-10-01"
+  "record_to": "2026-10-01",
+  "citation": {
+    "file": "([a-z]+)/para-0*([0-9]+[a-z0-9]*)\\.md",
+    "cites": "§ ?{n}([^0-9]|$)"
+  }
 }
