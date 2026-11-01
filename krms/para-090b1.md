@@ -1,0 +1,19 @@
+# § 90¹. Andmete nõudmine sideettevõtjalt
+
+(1) Menetleja võib teha elektroonilise side ettevõtjale päringu identifitseerimistunnustega seotud andmete kohta, mida kasutatakse üldkasutatavas elektroonilise side võrgus lõppkasutaja tuvastamiseks, välja arvatud sõnumi edastamise faktiga seotud andmed.
+
+(2) Uurimisasutus võib teha prokuratuuri taotlusel ja eeluurimiskohtuniku loal kohtueelses menetluses või kohtu loal kohtumenetluses päringu elektroonilise side ettevõtjale elektroonilise side seaduse § 1111 lõigetes 2 ja 3 loetletud andmete kohta, mida ei ole nimetatud käesoleva paragrahvi lõikes 1.
+
+(3) Käesoleva paragrahvi lõikes 2 ettenähtud päringu võib teha, kui tegemist on käesoleva seadustiku § 1262 lõikes 2 nimetatud kuriteoga ning kui see on vältimatult vajalik kriminaalmenetluse eesmärgi saavutamiseks. Loetelus nimetamata kuritegude korral on sideandmete päring lubatud siis, kui see on vältimatult vajalik kriminaalmenetluse eesmärgi saavutamiseks ning seda õigustab kuriteo raskus ja laad ning kui päringuga ei riivata põhjendamatult isikuõigusi.
+
+(4) Sideandmete päringu loas märgitakse:
+
+1) andmed, mida päringuga on lubatud koguda;
+
+2) andmete kogumise põhjendus;
+
+3) ajavahemik, mille kohta andmeid on lubatud koguda.
+
+(5) [Kehtetu]
+
+(6) Edasilükkamatul juhul, kui eeluurimiskohtuniku või kohtu loa vormistamine ei ole õigel ajal võimalik, võib käesoleva paragrahvi lõikes 2 nimetatud päringu teha prokuratuuri loa alusel, mis on antud taasesitamist võimaldaval viisil ning mis sisaldab vähemalt käesoleva paragrahvi lõike 4 punktides 1 ja 3 sätestatud andmeid. Sellisel juhul tuleb päringu tegemisele järgneva esimese tööpäeva jooksul esitada kohtule põhjendatud taotlus päringu lubatavaks tunnistamiseks.

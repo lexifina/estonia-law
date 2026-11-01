@@ -1,0 +1,9 @@
+# § 417. Rahalise karistuse täitmisele pööramine ja täitmine
+
+(1) Jõustunud kohtuotsus rahalise karistuse mõistmise kohta saadetakse valdkonna eest vastutava ministri käskkirjaga määratud asutusele.
+
+(2) Kui süüdimõistetu ei ole rahalise või varalise karistusena mõistetud rahasummat täies ulatuses tasunud kohtuotsuse jõustumisest alates ühe kuu jooksul või määratud tähtpäevaks selleks ettenähtud kontole või kui osastatud rahalise karistuse tähtaegu ei ole järgitud ning rahalise või varalise karistuse tasumise tähtaega ei ole käesolevas seadustikus sätestatud korras pikendatud ega ajatatud, saadetakse kohtuotsuse ärakiri kümne päeva jooksul selle saamisest arvates kohtutäiturile.
+
+(3) Kui süüdimõistetu ei ole tasunud rahalist või varalist karistust määratud tähtpäevaks või osastatud rahalise karistuse tähtaegu ei ole järgitud ja rahalise või varalise karistuse tasumise tähtaega ei ole käesoleva seadustiku §-s 424 sätestatud korras pikendatud ega ajatatud ning süüdimõistetul ei ole vara, millele sissenõuet pöörata, teatab kohtutäitur hiljemalt kolme aasta möödumisel rahalise või varalise karistuse kohtutäituri menetlusse võtmisest, kuid hiljemalt seitsme aasta möödumisel kohtuotsuse jõustumisest maakohtule täitmise võimatusest. Kui puuduvad karistuse asendamist välistavad asjaolud, otsustab täitmiskohtunik rahalise või varalise karistuse asendamise karistusseadustiku §-des 70 ja 71 sätestatud korras. Rahalise või varalise karistuse asendamisest teavitab kohus süüdimõistetut ja kohtutäiturit.
+
+(4) Rahalise karistuse osalise tasumise korral arvestatakse tasutud osa asenduskaristuse pikkuse määramisel võrdeliselt tasutud summa suurusega. Asenduskaristuse mõistmise lahendab täitmiskohtunik käesoleva seadustiku § 432 lõigetes 1 ja 3 sätestatud korras. Määruse koopia saadetakse menetlusosalistele, keda see puudutab, ja kohtutäiturile.

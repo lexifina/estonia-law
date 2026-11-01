@@ -1,0 +1,11 @@
+# § 244¹. Tsiviilhagi ja avalik-õigusliku nõudeavalduse läbi vaatamata jätmine kokkuleppemenetluses
+
+(1) Leides, et tsiviilhagi või avalik-õiguslik nõudeavaldus on tervikuna või olulises osas lubamatu või põhjendamatu, tagastab prokuratuur selle määrusega kannatanule. Avalik-õigusliku nõudeavalduse võib prokuratuur kannatanule tagastada ka siis, kui see on vajalik kriminaalasja kiire lahendamise huvides. Käesoleva lõike alusel tsiviilhagi või avalik-õigusliku nõudeavalduse läbi vaatamata jätmise määrus ei ole vaidlustatav.
+
+(1¹) Kui tsiviilhagi või avalik-õiguslik nõudeavaldus takistaks oluliselt kriminaalasja kiiret lahendamist ja prokuratuuri hinnangul on kannatanu võimeline oma huve kaitsma muus menetluses, võib prokuratuur tsiviilhagi või avalik-õigusliku nõudeavalduse kannatanule tagastada. Käesoleva lõike alusel tsiviilhagi või avalik-õigusliku nõudeavalduse läbi vaatamata jätmise määrus ei ole vaidlustatav.
+
+(2) Tsiviilhagi või avalik-õigusliku nõudeavalduse, mis on esitatud pärast käesoleva seadustiku § 240 punktis 4 nimetatud tähtaega, tagastab prokuratuur määrusega. Prokuratuuri määruse peale võib esitada kaebuse käesoleva seadustiku 8. peatüki 5. jaos sätestatud korras. Muu hulgas võib kannatanu vaidlustada prokuratuuri määratud tähtaja mõistlikkuse.
+
+(3) Tsiviilhagi või avalik-õigusliku nõudeavalduse läbi vaatamata jätmine ei välista sama hagi esitamist tsiviilkohtumenetluse või halduskohtumenetluse korras või avalik-õigusliku nõudeavalduse aluseks olnud kohustuse sissenõudmist haldusmenetluses, mida prokuratuur oma määruses selgitab. Kui vastavalt käesoleva seadustiku § 381 lõikele 4 on kannatanul õigus esitada tsiviilhagi riigilõivuvabalt, on tal õigus esitada samal alusel tsiviilhagi või kaebus riigilõivuvabalt ka tsiviil- ja halduskohtumenetluses.
+
+(4) Kui pärast tsiviilhagi või avalik-õigusliku nõudeavalduse läbi vaatamata jätmist käesoleva paragrahvi alusel jätkub samas asjas menetlus muus menetlusliigis kui kokkuleppemenetluses, lisatakse tsiviilhagi või avalik-õiguslik nõudeavaldus süüdistusaktile käesoleva seadustiku § 226 lõikes 7 sätestatud korras, juhul kui sama tsiviilhagi ei ole esitatud juba tsiviil- või halduskohtumenetluse korras või haldusorgan ei ole avalik-õiguslikus nõudeavalduses esitatud nõuet haldusaktiga lahendanud.

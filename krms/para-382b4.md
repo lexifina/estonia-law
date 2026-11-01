@@ -1,0 +1,9 @@
+# § 382⁴. Tallinna Ringkonnakohtu esimehe, Riigikogu põhiseaduskomisjoni või õiguskantsleri nõusolek mõnede menetlustoimingute tegemiseks ning selle tagajärjed
+
+(1) Tallinna Ringkonnakohtu esimehe määrus, millega antakse nõusolek käesoleva seadustiku § 3822 lõikes 1 nimetatud menetlustoimingute tegemiseks Riigikogu liikme suhtes enne süüdistusakti koostamist, jõustub selle allakirjutamisega. Nimetatud määrus saadetakse viivitamatult riigi peaprokurörile. Määrust, millega antakse nõusolek menetlustoimingu tegemiseks, tutvustatakse enne menetlustoimingu tegemist isikule, kelle suhtes menetlustoimingut tehakse. Määrust, millega antakse nõusolek jälitustoimingu tegemiseks, ei tutvustata isikule, kelle suhtes jälitustoimingut tehakse.
+
+(2) Riigikogu põhiseaduskomisjoni otsus anda nõusolek käesoleva seadustiku § 3822 lõikes 3 nimetatud menetlustoimingute tegemiseks Riigikogu liikme suhtes enne süüdistusakti koostamist jõustub selle vastuvõtmisega. Põhiseaduskomisjoni protokollilise otsuse väljavõte saadetakse viivitamata riigi peaprokurörile, kes tutvustab seda enne menetlustoimingu tegemist isikule, kelle suhtes menetlustoimingut tehakse.
+
+(3) Õiguskantsleri otsus anda nõusolek käesoleva seadustiku § 3822 lõikes 4 nimetatud menetlustoimingute tegemiseks Riigikogu liikme suhtes enne süüdistusakti koostamist jõustub selle allakirjutamisega. Õiguskantsler teavitab oma otsusest kirjalikult viivitamata riigi peaprokuröri, kes tutvustab seda enne menetlustoimingu tegemist isikule, kelle suhtes menetlustoimingut tehakse.
+
+(4) Kui Tallinna Ringkonnakohtu esimees, Riigikogu põhiseaduskomisjon või õiguskantsler on andnud oma määruse või otsusega nõusoleku Riigikogu liikme suhtes menetlustoimingute tegemiseks enne süüdistusakti koostamist, menetletakse kriminaalasja käesolevas seadustikus ettenähtud üldkorras.
