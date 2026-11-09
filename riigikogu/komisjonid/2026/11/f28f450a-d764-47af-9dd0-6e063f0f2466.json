@@ -1,0 +1,47 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung esmaspäev, 9.11.2026 kell 11.10",
+  "sitting_time": "2026-11-09T11:10:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Nädala töökava kinnitamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "c085aff7-32ed-42fb-a240-1011de33cc3c"
+    },
+    {
+      "order": 2,
+      "title": "Ülevaade  \"Põllumajanduse ja kalanduse valdkonna arengukava aastani 2030\" (PõKa 2030) vahehindamisest ja uuendamisest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "49af9016-2d5a-4292-9aa6-bde16a77f79b"
+    },
+    {
+      "order": 3,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "9701e1c9-81e0-4f52-b13f-4a0d135060be"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 09.11.2026",
+      "uuid": "58fad03f-53f6-42bc-983a-eddd7c9f37b5",
+      "files": [
+        "MAEK_protokoll_09.11.2026.asice",
+        "175_MAEK_protokolli_lisa_PÕKA_uuendamine.pdf",
+        "175_MAEK_protokoll_09.11.2026.pdf"
+      ]
+    }
+  ],
+  "uuid": "f28f450a-d764-47af-9dd0-6e063f0f2466",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid f28f450a-d764-47af-9dd0-6e063f0f2466)",
+  "source": "https://api.riigikogu.ee/api/volumes/f28f450a-d764-47af-9dd0-6e063f0f2466",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-11-01&endDate=2026-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
