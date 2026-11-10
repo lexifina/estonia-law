@@ -1,0 +1,41 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Maaelukomisjon",
+  "committee_uuid": "b40076b0-a453-4efb-acda-2554015471d1",
+  "title": "Komisjoni istung teisipäev, 10.11.2026 kell 14.00",
+  "sitting_time": "2026-11-10T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Kollektiivne pöördumine \"Kasside heaolu ei saa tagada maagiliste arvude abil – uued nõuded teaduspõhiseks!\"",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "25098cf4-1d45-4bdd-9aed-868c5e86218e"
+    },
+    {
+      "order": 2,
+      "title": "Info ja muud küsimused",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "86cfe8c0-5b94-4da5-987d-2611093c5733"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "MAEK protokoll 10.11.2026",
+      "uuid": "b1d971df-1e09-4855-8fd1-7945b1573c26",
+      "files": [
+        "176_MAEK_protokolli_lisa_Tammiste_Kassid.pdf",
+        "MAEK_protokoll_10.11.2026.asice",
+        "176_MAEK_protokoll_10.11.2026.pdf"
+      ]
+    }
+  ],
+  "uuid": "b47b70d1-3dca-4547-a4b7-3d0479516253",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid b47b70d1-3dca-4547-a4b7-3d0479516253)",
+  "source": "https://api.riigikogu.ee/api/volumes/b47b70d1-3dca-4547-a4b7-3d0479516253",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-11-01&endDate=2026-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
