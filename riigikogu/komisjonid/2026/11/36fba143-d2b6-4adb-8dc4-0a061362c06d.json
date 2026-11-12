@@ -1,0 +1,40 @@
+{
+  "record_type": "committee sitting with agenda",
+  "jurisdiction": "EE",
+  "body": "Riigikogu",
+  "committee": "Riigikaitsekomisjon",
+  "committee_uuid": "0ec16e07-01d7-d638-0022-32c19031a915",
+  "title": "Komisjoni istung neljapäev, 12.11.2026 kell 14.00",
+  "sitting_time": "2026-11-12T14:00:00",
+  "sitting_type": "KORRALINE",
+  "agenda": [
+    {
+      "order": 1,
+      "title": "Ülevaade julgeolekuolukorra arengutest",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "f499acbc-aabc-485c-b036-ce29c69d4aa5"
+    },
+    {
+      "order": 2,
+      "title": "Riigihangete seaduse muutmise seaduse eelnõu algatamine",
+      "document_type": "unitAgendaItemDocument",
+      "uuid": "461a542a-11cb-4f94-83dc-6c7635f48b2d"
+    }
+  ],
+  "minutes": [
+    {
+      "title": "Riigikaitsekomisjoni 12.11.2026 istungi protokoll",
+      "uuid": "aecb5f54-fde3-4a60-b1f9-70f26025f789",
+      "files": [
+        "Riigikaitsekomisjoni_12.11.2026_istungi_protokoll.asice",
+        "2026-11-12_protokoll_249.pdf"
+      ]
+    }
+  ],
+  "uuid": "36fba143-d2b6-4adb-8dc4-0a061362c06d",
+  "file": "riigikogu/toimikud/unitSittingVolume (uuid 36fba143-d2b6-4adb-8dc4-0a061362c06d)",
+  "source": "https://api.riigikogu.ee/api/volumes/36fba143-d2b6-4adb-8dc4-0a061362c06d",
+  "listing": "https://api.riigikogu.ee/api/events?startDate=2026-11-01&endDate=2026-11-30",
+  "retrieved": "2026-11-16",
+  "text_status": "metadata only (agenda and minutes titles); reporters left out; minutes files at the source"
+}
