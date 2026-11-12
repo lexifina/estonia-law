@@ -1,5 +1,10 @@
 # Estonian law, change by change
 
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="data/effort-dark.svg">
+<img alt="Estonian law in this repository: what it holds, changes by the year they took effect, completeness against the official sources, and the correctness of what is held" src="data/effort-light.svg" width="880">
+</picture>
+
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Estonia's national law, which global-law reads at `estonia/national/acts/`.
 
 Three Estonian acts as a git repository: the Constitution (Eesti Vabariigi põhiseadus, PS), the Riigikogu Election Act (Riigikogu valimise seadus, RKVS) and the Personal Data Protection Act (Isikuandmete kaitse seadus, IKS). Each amending act is one commit, credited to that act and dated the day its changes took effect, at noon in Tallinn. The text is the Estonian consolidated text (terviktekst) published in [Riigi Teataja](https://www.riigiteataja.ee), the official online publication of the Republic of Estonia.
