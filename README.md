@@ -1,69 +1,69 @@
-# Estonian law, change by change
+# Eesti õigus muudatus muudatuse haaval
+
+**Eesti** · [English](README.en.md)
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="data/effort-dark.svg">
-<img alt="Estonian law in this repository: what it holds, changes by the year they took effect, completeness against the official sources, and the correctness of what is held" src="data/effort-light.svg" width="880">
+<source media="(prefers-color-scheme: dark)" srcset="data/et/effort-dark.svg">
+<img alt="Eesti õigusaktid selles repositooriumis: sisu, muudatused jõustumisaasta järgi, täielikkus võrreldes ametlike allikatega ja sisu õigsus" src="data/et/effort-light.svg" width="880">
 </picture>
 
-Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Estonia's national law, which global-law reads at `estonia/national/acts/`.
+Osa repositooriumist [lexifina/global-law](https://github.com/lexifina/global-law), mis on kõigi riikide õiguse ühine git-ajalugu: siin on Eesti riigisisene õigus, mida global-law loeb kaustast `estonia/national/acts/`.
 
-Three Estonian acts as a git repository: the Constitution (Eesti Vabariigi põhiseadus, PS), the Riigikogu Election Act (Riigikogu valimise seadus, RKVS) and the Personal Data Protection Act (Isikuandmete kaitse seadus, IKS). Each amending act is one commit, credited to that act and dated the day its changes took effect, at noon in Tallinn. The text is the Estonian consolidated text (terviktekst) published in [Riigi Teataja](https://www.riigiteataja.ee), the official online publication of the Republic of Estonia.
+Kolm Eesti õigusakti git-repositooriumina: Eesti Vabariigi põhiseadus (PS), Riigikogu valimise seadus (RKVS) ja isikuandmete kaitse seadus (IKS). Iga muutmisakt on üks commit, mille autoriks on see akt ja mille kuupäev on päev, mil akti muudatused jõustusid, keskpäeval Tallinna aja järgi. Tekst on Eesti Vabariigi ametlikus võrguväljaandes [Riigi Teatajas](https://www.riigiteataja.ee) avaldatud terviktekst.
 
-*Eesti keeles: [allpool](#eesti-keeles).*
+## Juristi küsimused git-käskudena
 
-## The questions a lawyer asks, as git commands
-
-| Question | Command |
+| Küsimus | Käsk |
 | --- | --- |
-| What did § 156 of the Constitution say on 1 January 2010? | `python tools/seisuga.py 2010-01-01 ps 156` |
-| What did the whole Election Act say on 1 March 2015? | `python tools/seisuga.py 2015-03-01 rkvs` |
-| Which act wrote each paragraph of § 48⁴ RKVS? | `git blame rkvs/para-048b4.md` |
-| Every change to a section, with the act behind it | `git log -p ps/para-156.md` |
-| Everything one amending act changed | `git show akt/103012020002` (tags are `akt/<Riigi Teataja id>`) |
-| The act as it stood on a day | `git checkout ps/2015-08-13` (a tag per act per day it changed) |
-| Every act that amended these laws, with its dates | [`muutmisaktid.csv`](muutmisaktid.csv) |
-| Changes adopted but not yet in force | `git log main..tulevik` (empty today) |
+| Mida ütles põhiseaduse § 156 1. jaanuaril 2010? | `python tools/seisuga.py 2010-01-01 ps 156` |
+| Mida ütles kogu Riigikogu valimise seadus 1. märtsil 2015? | `python tools/seisuga.py 2015-03-01 rkvs` |
+| Milline akt kirjutas RKVS § 48⁴ iga lõike? | `git blame rkvs/para-048b4.md` |
+| Paragrahvi kõik muudatused koos neid teinud aktiga | `git log -p ps/para-156.md` |
+| Kõik, mida üks muutmisakt muutis | `git show akt/103012020002` (sildid on kujul `akt/<Riigi Teataja id>`) |
+| Akt sellisena, nagu see kehtis teatud päeval | `git checkout ps/2015-08-13` (iga akti kohta üks silt iga päeva kohta, mil akt muutus) |
+| Kõik nende seaduste muutmisaktid koos kuupäevadega | [`muutmisaktid.csv`](muutmisaktid.csv) |
+| Vastu võetud, kuid veel jõustumata muudatused | `git log main..tulevik` (praegu tühi) |
 
-## Dates
+## Kuupäevad
 
-An Estonian act has several dates: adopted (vastu võetud), proclaimed by the President (välja kuulutatud), published in Riigi Teataja (avaldatud) and in force (jõustunud). The date that decides which text applies to a case is the day the change took effect, so **the author and committer date of each commit is that day, at noon in Tallinn**. The other dates are trailers in the commit message: `Adopted:`, `Proclaimed:`, `Published:`, `In-force:`. The day a change took effect is read from the amendment mark (muutmismärge) Riigi Teataja prints under each changed provision, and it is the day the consolidated version containing the change became valid.
+Eesti õigusaktil on mitu kuupäeva: vastuvõtmise, Vabariigi Presidendi poolt väljakuulutamise, Riigi Teatajas avaldamise ja jõustumise kuupäev. Kuupäev, mis määrab, milline tekst juhtumile kohaldub, on muudatuse jõustumise päev, seega **on iga commit'i autori ja committer'i kuupäev see päev, keskpäeval Tallinna aja järgi**. Teised kuupäevad on commit'i sõnumis trailer'itena: `Adopted:`, `Proclaimed:`, `Published:`, `In-force:`. Muudatuse jõustumise päev loetakse muutmismärkest, mille Riigi Teataja trükib iga muudetud sätte alla, ja see on päev, mil muudatust sisaldav terviktekst hakkas kehtima.
 
-## Who the author is
+## Kes on autor
 
-The author of a commit is the amending act, named by its Riigi Teataja reference (`RT I, 03.01.2020, 2`) at an address that cannot exist (`akt-103012020002@riigiteataja.invalid`, from the act's Riigi Teataja id), so `git blame` names the act that wrote each line. The committer is `Lexifina <estonia-law@lexifina.com>`. The first commit of each act is by the act as enacted (`RT 1992, 26, 349` for the Constitution).
+Commit'i autor on muutmisakt, mida nimetatakse selle Riigi Teataja viitega (`RT I, 03.01.2020, 2`) aadressil, mida ei saa olemas olla (`akt-103012020002@riigiteataja.invalid`, akti Riigi Teataja id põhjal), nii et `git blame` nimetab akti, mis iga rea kirjutas. Committer on `Lexifina <estonia-law@lexifina.com>`. Iga akti esimese commit'i autor on akt algsel kujul (põhiseaduse puhul `RT 1992, 26, 349`).
 
-A change is credited to an act only when Riigi Teataja's own marks say so: a mark on the changed section (or on its chapter heading, where a chapter was replaced whole) names the act and the day. Changes no mark explains are committed by `Riigi Teataja` and say so: spacing, corrupted characters in Riigi Teataja's own files for three 2004–2006 versions, and editorial changes such as dropping lists of publication references. One section that two acts changed on the same day, with marks that do not say which wrote which line, is a labelled commit by `Riigi Teataja` naming both.
+Muudatus omistatakse aktile ainult siis, kui seda ütlevad Riigi Teataja enda märked: muudetud paragrahvi juures olev märge (või peatüki pealkirja juures olev märge, kui peatükk asendati tervikuna) nimetab akti ja päeva. Muudatused, mida ükski märge ei selgita, on commit'itud nimega `Riigi Teataja` ja seda ka öeldakse: tühikute muudatused, rikutud märgid Riigi Teataja enda failides kolme 2004–2006 redaktsiooni puhul ning toimetuslikud muudatused, näiteks avaldamisviidete loendite eemaldamine. Üks paragrahv, mida kaks akti muutsid samal päeval ja mille märked ei ütle, kumb akt millise rea kirjutas, on märgistatud commit nimega `Riigi Teataja`, mis nimetab mõlemat akti.
 
-## How it is checked
+## Kuidas seda kontrollitakse
 
-`tools/check_repo.py` reads every act back from git on every day its text changed (each of the 42 consolidated versions on its first day, plus two days inside a version) and compares every file with the text of that version in Riigi Teataja's XML: 0 mismatches in 4,670 files. It also compares the XML reading of each version with Riigi Teataja's own plain-text rendering of the same version (`/txt`), character by character apart from whitespace and Riigi Teataja's bracketed amendment notes: all 42 versions match. And it checks the sha256 of every source file against `data/versioonid.json`. Two builds from the same data give the same hashes for every commit and tag. Details in [`REPRODUCE.md`](REPRODUCE.md).
+`tools/check_repo.py` loeb iga akti git'ist tagasi iga päeva seisuga, mil selle tekst muutus (kõik 42 terviktekstiredaktsiooni nende esimesel päeval ning lisaks kaks päeva redaktsioonide sees), ja võrdleb iga faili selle redaktsiooni tekstiga Riigi Teataja XML-is: 4 670 failis 0 erinevust. Samuti võrdleb see iga redaktsiooni XML-ist loetud teksti Riigi Teataja enda lihttekstikujuga samast redaktsioonist (`/txt`) märk-märgilt, välja arvatud tühimärgid ja Riigi Teataja nurksulgudes muudatusmärkused: kõik 42 redaktsiooni ühtivad. Lisaks kontrollib see iga lähtefaili sha256-räsi faili `data/versioonid.json` alusel. Kaks ehitust samadest andmetest annavad igale commit'ile ja sildile samad räsid. Üksikasjad on failis [`REPRODUCE.md`](REPRODUCE.md).
 
-## What it does not show
+## Mida see ei näita
 
-- Versions before Riigi Teataja's electronic consolidated texts (2002). The Constitution was not amended before 2003, so its first commit is the 1992 text.
-- Annexes, signatures and the publisher's notes (the "Õiend" at the end of the Constitution, error-correction notes); these are listed in REPRODUCE.md.
-- Provisions of an act as enacted that came into force later than the act itself, unless Riigi Teataja published a separate version for them.
-- Russian and English translations. Only the Estonian text has legal force.
+- Redaktsioone, mis eelnevad Riigi Teataja elektroonilistele terviktekstidele (2002). Põhiseadust ei muudetud enne 2003. aastat, seega on selle esimene commit 1992. aasta tekst.
+- Lisasid, allkirju ja väljaandja märkusi (põhiseaduse lõpus olev „Õiend“, veaparanduse märkused); need on loetletud failis REPRODUCE.md.
+- Akti algse teksti sätteid, mis jõustusid hiljem kui akt ise, välja arvatud juhul, kui Riigi Teataja avaldas nende jaoks eraldi redaktsiooni.
+- Vene- ja ingliskeelseid tõlkeid. Õigusjõud on ainult eestikeelsel tekstil.
 
-Only Riigi Teataja is authoritative. This repository is a research aid.
+Autoriteetne allikas on ainult Riigi Teataja. See repositoorium on uurimistöö abivahend.
 
-## How it is built
+## Kuidas see on ehitatud
 
-`tools/build.py` reads Riigi Teataja's public API (`https://www.riigiteataja.ee/public-api/api/v1`), one request at a time with a pause between requests, and writes this repository from scratch. With the same data and the same `--today` it gives the same commits with the same hashes. No AI model runs when the history is built.
+`tools/build.py` loeb Riigi Teataja avalikku API-t (`https://www.riigiteataja.ee/public-api/api/v1`), üks päring korraga ja päringute vahel pausiga, ning kirjutab selle repositooriumi nullist. Samade andmete ja sama `--today` väärtusega annab see samad commit'id samade räsidega. Ajaloo ehitamisel ei kasutata ühtegi tehisintellekti mudelit.
 
-## Licence
+## Litsents
 
-The legal text is not protected by copyright (Autoriõiguse seadus § 5 p 3). Source: Riigi Teataja, https://www.riigiteataja.ee, published by the Ministry of Justice and Digital Affairs (Justiits- ja Digiministeerium). The history, messages, tables and tools are released under [CC0 1.0](LICENSE).
+Õigusakti tekst ei ole autoriõigusega kaitstud (Autoriõiguse seadus § 5 p 3). Allikas: Riigi Teataja, https://www.riigiteataja.ee, väljaandja Justiits- ja Digiministeerium. Ajalugu, sõnumid, tabelid ja tööriistad on avaldatud litsentsi [CC0 1.0](LICENSE) alusel.
 
----
+See on ingliskeelse versiooni ([README.en.md](README.en.md)) tõlge; erinevuste korral kehtib ingliskeelne versioon.
 
-## Eesti keeles
+## Veel
 
-Kolm Eesti seadust git-hoidlana: põhiseadus, Riigikogu valimise seadus ja isikuandmete kaitse seadus, Riigi Teatajas avaldatud terviktekstide põhjal.
+Repositooriumist [lexifina/global-law](https://github.com/lexifina/global-law) (inglise keeles):
 
-- **Iga commit on üks muutmisakt**, autoriks akt ise (`RT I, 03.01.2020, 2`), nii et `git blame` näitab, milline akt millise lõike kirjutas. Akti nimetab Riigi Teataja muutmismärge.
-- **Iga commit kannab jõustumise kuupäeva**, keskpäeval Tallinna aja järgi. Vastuvõtmise, väljakuulutamise ja avaldamise kuupäevad on commit'i sõnumis.
-- **Iga paragrahv on eraldi fail**, iga lõige ja punkt eraldi real.
-- **Toimetuslikud muudatused ei ole seadused.** Muudatus, mida ükski muutmismärge ei selgita, on Riigi Teataja nimel ja nii ka märgitud.
-
-Ametlik on ainult Riigi Teataja.
+- [FEATURES.md](https://github.com/lexifina/global-law/blob/main/FEATURES.md): kõik funktsioonid ja mida iga korpus peab toetama (`git blame`, `law.py`, MCP-tööriistad)
+- [FAQ.md](https://github.com/lexifina/global-law/blob/main/FAQ.md): küsimused ja vastused · [CONTRIBUTING.md](https://github.com/lexifina/global-law/blob/main/CONTRIBUTING.md): muudatuste ettepanekud · [MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md): MCP-server · [REPRODUCE.md](https://github.com/lexifina/global-law/blob/main/REPRODUCE.md): kuidas see on tehtud · [CHANGELOG.md](https://github.com/lexifina/global-law/blob/main/CHANGELOG.md)
+- [FRESHNESS.md](https://github.com/lexifina/global-law/blob/main/FRESHNESS.md): kui ajakohane iga korpus on · [Seire](https://github.com/lexifina/global-law/tree/main/monitoring): kas uuendused töötavad · [WATCHING.md](https://github.com/lexifina/global-law/blob/main/WATCHING.md): kuidas iga ametlikku allikat muudatuste suhtes jälgitakse
+- [performance/](https://github.com/lexifina/global-law/tree/main/performance): kui kiired tööriistad on, mõõdetud
+- [visualisations/](https://github.com/lexifina/global-law/tree/main/visualisations): graafikud ja seosed kogu maailma õiguses
+- [Haavatavused](https://github.com/lexifina/global-law/tree/main/vulnerabilities): vead õigusaktides avaldatud kujul
