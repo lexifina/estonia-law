@@ -1,59 +1,83 @@
-# Estonian law, change by change
+# Estonia: law history in git
 
-[Eesti](README.md) · **English**
+**English** · **[Või lugege eesti keeles](README.md)**
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="data/effort-dark.svg">
 <img alt="Estonian law in this repository: what it holds, changes by the year they took effect, completeness against the official sources, and the correctness of what is held" src="data/effort-light.svg" width="880">
 </picture>
 
+The law of Estonia as a git history: one file per section (§), one commit per amending act on the day its changes took effect, and that act as the commit's author. `git blame` names the act behind every line; `git log` lists every change to a section; picking a date gives the text in force that day.
+
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Estonia's national law, which global-law reads at `estonia/national/acts/`.
 
-Three Estonian acts as a git repository: the Constitution (Eesti Vabariigi põhiseadus, PS), the Riigikogu Election Act (Riigikogu valimise seadus, RKVS) and the Personal Data Protection Act (Isikuandmete kaitse seadus, IKS). Each amending act is one commit, credited to that act and dated the day its changes took effect, at noon in Tallinn. The text is the Estonian consolidated text (terviktekst) published in [Riigi Teataja](https://www.riigiteataja.ee), the official online publication of the Republic of Estonia.
+**What is in it now:** three acts from Riigi Teataja, the Constitution (Eesti Vabariigi põhiseadus), the Riigikogu Election Act (Riigikogu valimise seadus) and the Personal Data Protection Act (Isikuandmete kaitse seadus), with their 42 consolidated versions since 2002 and the Constitution's 1992 text, in 58 commits: the three first texts, 44 changes by 40 amending acts, and 11 labelled changes no amending act explains. [`muutmisaktid.csv`](muutmisaktid.csv) lists every amending act with its dates; each act's README ([`ps/README.md`](ps/README.md)) lists its sections.
 
-## The questions a lawyer asks, as git commands
+Each act is a folder named by its abbreviation (`ps`, `rkvs`, `iks`), with one file per section after Riigi Teataja's element id (`ps/para-156.md` is § 156 of the Constitution, `rkvs/para-048b4.md` is § 48⁴ of the Election Act); `preambul.md` is the preamble and `sisukord.md` the chapter headings.
+
+The text is in Estonian, as Riigi Teataja publishes it; only the Estonian text has legal force. The English and Russian translations are not part of this record.
+
+## Questions as git commands
 
 | Question | Command |
 | --- | --- |
-| What did § 156 of the Constitution say on 1 January 2010? | `python tools/seisuga.py 2010-01-01 ps 156` |
-| What did the whole Election Act say on 1 March 2015? | `python tools/seisuga.py 2015-03-01 rkvs` |
-| Which act wrote each paragraph of § 48⁴ RKVS? | `git blame rkvs/para-048b4.md` |
-| Every change to a section, with the act behind it | `git log -p ps/para-156.md` |
-| Everything one amending act changed | `git show akt/103012020002` (tags are `akt/<Riigi Teataja id>`) |
-| The act as it stood on a day | `git checkout ps/2015-08-13` (a tag per act per day it changed) |
-| Every act that amended these laws, with its dates | [`muutmisaktid.csv`](muutmisaktid.csv) |
-| Changes adopted but not yet in force | `git log main..tulevik` (empty today) |
+| Every change to § 156 of the Constitution | `git log -p --word-diff -- ps/para-156.md` |
+| Which act wrote each line of § 156? | `git blame ps/para-156.md` |
+| Every version of the Constitution, with the day each took effect | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- ps ":!ps/README.md"` |
+| § 156 as in force on 1 January 2010 | `python tools/seisuga.py 2010-01-01 ps 156` |
+
+**Outside git**, we also host this record publicly, for free:
+
+- **[Ask Claude about Estonian law](https://global-law.lexifina.com/v1/try_claude?country=estonia)**: opens Claude with a first question ready.
+- **[Ask ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=estonia)**: the same question in ChatGPT.
+- **[Call the API in your browser](https://global-law.lexifina.com/v1/search_law?query=isikuandmed&jurisdictions=estonia)**: a search of Estonian law for "isikuandmed" (personal data), returned as JSON. See the [documentation here](https://lexifina.com/api/global-law).
+
+Both assistants read the record through the free Global law connector (MCP, `https://global-law.lexifina.com/mcp`); the first time, the chat gives you the link that adds it. Ask in Estonian or in English.
+
+**Host it yourself easily.** All it takes is git and Python, and the tools run on your machine:
+
+```sh
+git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
+python3 tools/countries.py add estonia/national/acts
+python3 tools/law.py show 2026-01-01 estonia/national/acts/ps/para-156.md
+```
+
+Opened in Claude Code, Cursor, VS Code or Codex, the clone also starts a local MCP server with the same tools ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
 
 ## Dates
 
-An Estonian act has several dates: adopted (vastu võetud), proclaimed by the President (välja kuulutatud), published in Riigi Teataja (avaldatud) and in force (jõustunud). The date that decides which text applies to a case is the day the change took effect, so **the author and committer date of each commit is that day, at noon in Tallinn**. The other dates are trailers in the commit message: `Adopted:`, `Proclaimed:`, `Published:`, `In-force:`. The day a change took effect is read from the amendment mark (muutmismärge) Riigi Teataja prints under each changed provision, and it is the day the consolidated version containing the change became valid.
+Each commit is dated at noon, Europe/Tallinn, on the day the change took effect, and carries it in its `In-force:` trailer, beside `Adopted:`, `Proclaimed:` and `Published:`:
 
-## Who the author is
+- the day is the one in the amendment mark (muutmismärge) Riigi Teataja prints under each changed provision, which is the day the consolidated version holding the change became valid;
+- the first commit of each act is its original text on the day the act came into force (the Constitution's on 1992-07-03, ten years before Riigi Teataja's first consolidated version);
+- two changes take effect inside a version (Constitution § 156 on 2005-10-17, Election Act § 7 on 2014-07-01) and are committed on the day their mark gives.
 
-The author of a commit is the amending act, named by its Riigi Teataja reference (`RT I, 03.01.2020, 2`) at an address that cannot exist (`akt-103012020002@riigiteataja.invalid`, from the act's Riigi Teataja id), so `git blame` names the act that wrote each line. The committer is `Lexifina <estonia-law@lexifina.com>`. The first commit of each act is by the act as enacted (`RT 1992, 26, 349` for the Constitution).
-
-A change is credited to an act only when Riigi Teataja's own marks say so: a mark on the changed section (or on its chapter heading, where a chapter was replaced whole) names the act and the day. Changes no mark explains are committed by `Riigi Teataja` and say so: spacing, corrupted characters in Riigi Teataja's own files for three 2004–2006 versions, and editorial changes such as dropping lists of publication references. One section that two acts changed on the same day, with marks that do not say which wrote which line, is a labelled commit by `Riigi Teataja` naming both.
+Each change is credited to the amending act Riigi Teataja's marks name, by its reference (`RT I, 03.01.2020, 2`). Changes no mark explains (spacing, characters corrupted in Riigi Teataja's own files for three 2004–2006 versions, editorial changes) are committed by `Riigi Teataja` and labelled.
 
 ## How it is checked
 
-`tools/check_repo.py` reads every act back from git on every day its text changed (each of the 42 consolidated versions on its first day, plus two days inside a version) and compares every file with the text of that version in Riigi Teataja's XML: 0 mismatches in 4,670 files. It also compares the XML reading of each version with Riigi Teataja's own plain-text rendering of the same version (`/txt`), character by character apart from whitespace and Riigi Teataja's bracketed amendment notes: all 42 versions match. And it checks the sha256 of every source file against `data/versioonid.json`. Two builds from the same data give the same hashes for every commit and tag. Details in [`REPRODUCE.md`](REPRODUCE.md).
+- `tools/check_repo.py` reads every act back from git on every day its text changed and compares every file with that version's text in Riigi Teataja's XML: 0 mismatches in 4,670 files.
+- The XML reading of each version equals Riigi Teataja's own plain text of it (`/txt`), apart from whitespace and its bracketed amendment notes: all 42 versions match.
+- Every source file's sha256 is checked against `data/versioonid.json`, and two builds from the same data give the same hashes for every commit and tag. Details in [`REPRODUCE.md`](REPRODUCE.md).
 
 ## What it does not show
 
-- Versions before Riigi Teataja's electronic consolidated texts (2002). The Constitution was not amended before 2003, so its first commit is the 1992 text.
-- Annexes, signatures and the publisher's notes (the "Õiend" at the end of the Constitution, error-correction notes); these are listed in REPRODUCE.md.
-- Provisions of an act as enacted that came into force later than the act itself, unless Riigi Teataja published a separate version for them.
-- Russian and English translations. Only the Estonian text has legal force.
+- **The rest of Estonian law.** Only these three acts are here: no other laws (such as the Employment Contracts Act), regulations, local acts or case law.
+- **Versions before 2002**, when Riigi Teataja's electronic consolidated texts begin.
+- **Annexes, signatures and the publisher's notes** (the Constitution's closing "Õiend", error-correction notes).
+- **Provisions that came into force later than their act**, unless Riigi Teataja published a separate version for them.
 
-Only Riigi Teataja is authoritative. This repository is a research aid.
+## Sources
 
-## How it is built
-
-`tools/build.py` reads Riigi Teataja's public API (`https://www.riigiteataja.ee/public-api/api/v1`), one request at a time with a pause between requests, and writes this repository from scratch. With the same data and the same `--today` it gives the same commits with the same hashes. No AI model runs when the history is built.
+| Source | Kind | Past versions | Notes |
+| --- | --- | --- | --- |
+| [Riigi Teataja](https://www.riigiteataja.ee) (Justiits- ja Digiministeerium) | Official online publication of the Republic of Estonia | yes, every consolidated version since 2002 | Read through its public API: each version's text, validity dates, amendment marks and amending acts |
 
 ## Licence
 
-The legal text is not protected by copyright (Autoriõiguse seadus § 5 p 3). Source: Riigi Teataja, https://www.riigiteataja.ee, published by the Ministry of Justice and Digital Affairs (Justiits- ja Digiministeerium). The history, messages, tables and tools are released under [CC0 1.0](LICENSE).
+See [`LICENSE`](LICENSE). The legal text is not protected by copyright (Autoriõiguse seadus § 5 p 3); the history, commit messages, tables and tools are CC0 1.0.
+
+No AI model wrote or changed legal text, and none runs when the history is built; the scripts were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
 
 ## More
 
