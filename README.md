@@ -30,7 +30,8 @@ Tekst on eesti keeles, nii nagu Riigi Teataja selle avaldab; õigusjõud on ainu
 
 - **[Küsige Claude'ilt Eesti õiguse kohta](https://global-law.lexifina.com/v1/try_claude?country=estonia)**: avab Claude'i valmis esimese küsimusega.
 - **[Küsige ChatGPT-lt](https://global-law.lexifina.com/v1/try_chatgpt?country=estonia)**: sama küsimus ChatGPT-s.
-- **[Kutsuge API-t brauseris](https://global-law.lexifina.com/v1/search_law?query=isikuandmed&jurisdictions=estonia)**: Eesti õigusest sõna „isikuandmed“ otsing, vastus JSON-vormingus. Dokumentatsioon on [siin](https://lexifina.com/api/global-law).
+- **[Otsige Eesti õigusest meie veebilehel](https://lexifina.com/law?country=estonia&q=isikuandmed)**: „isikuandmed“ otsing, iga sätte teksti ja selle redaktsioonidega, ilma kontota.
+- **[REST API arendajatele](https://global-law.lexifina.com/v1/search_law?query=isikuandmed&jurisdiction=estonia)**: sama otsing JSON-vormingus, ilma võtmeta. Dokumentatsioon on [siin](https://lexifina.com/api/global-law).
 
 Mõlemad assistendid loevad andmeid tasuta Global law konnektori kaudu (MCP, `https://global-law.lexifina.com/mcp`); esimesel korral annab vestlus lingi, millega konnektor lisada. Küsige eesti või inglise keeles.
 
