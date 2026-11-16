@@ -11,7 +11,7 @@ Eesti õigus git-ajaloona: üks fail paragrahvi kohta, üks commit iga muutmisak
 
 Osa repositooriumist [lexifina/global-law](https://github.com/lexifina/global-law), mis on kõigi riikide õiguse ühine git-ajalugu: siin on Eesti riigisisene õigus, mida global-law loeb kaustast `estonia/national/acts/`.
 
-**Mis siin praegu on:** kolm Riigi Teatajast pärit akti, Eesti Vabariigi põhiseadus, Riigikogu valimise seadus ja isikuandmete kaitse seadus, nende 42 terviktekstiredaktsiooniga alates 2002. aastast ning põhiseaduse 1992. aasta tekstiga, 58 commit'is: kolm algteksti, 44 muudatust 40 muutmisaktilt ja 11 märgistatud muudatust, mida ükski muutmisakt ei selgita. [`muutmisaktid.csv`](muutmisaktid.csv) loetleb kõik muutmisaktid koos kuupäevadega; iga akti README ([`ps/README.md`](ps/README.md)) loetleb selle paragrahvid.
+**Mis siin praegu on:** põhiseadus ja veel kaks Riigi Teatajast pärit akti koos 42 terviktekstiredaktsiooniga alates 2002. aastast; 13 seadust Riigikogus vastuvõetud kujul, neist 6 seadustikku, Riigikogu avaandmetest kaustas [`riigikogu/seadused/`](riigikogu/seadused/) (vastuvõetud tekst, mitte tervikteksti); ning metaandmete kirje iga Riigikogu eelnõu kohta alates 1992. aastast (8967) kaustas [`riigikogu/eelnoud/`](riigikogu/eelnoud/). [`muutmisaktid.csv`](muutmisaktid.csv) loetleb kõik muutmisaktid; iga akti README ([`ps/README.md`](ps/README.md)) loetleb selle paragrahvid.
 
 Iga akt on lühendi järgi nimetatud kaust (`ps`, `rkvs`, `iks`), milles on üks fail paragrahvi kohta Riigi Teataja elemendi id järgi (`ps/para-156.md` on põhiseaduse § 156, `rkvs/para-048b4.md` on Riigikogu valimise seaduse § 48⁴); `preambul.md` on preambul ja `sisukord.md` peatükkide pealkirjad.
 
@@ -64,7 +64,7 @@ Iga muudatus omistatakse muutmisaktile, mille Riigi Teataja märked nimetavad, s
 
 ## Mida see ei näita
 
-- **Ülejäänud Eesti õigust.** Siin on ainult need kolm akti: muid seadusi (näiteks töölepingu seadust), määrusi, kohalikke õigusakte ega kohtupraktikat ei ole.
+- **Terviktekste peale nende kolme akti.** Riigi Teataja, kes neid avaldab, ei luba automaatset juurdepääsu, seega on teised seadused siin ainult Riigikogus vastuvõetud kujul, hilisemaid muudatusi sisse viimata. Seadused, millel puudub kontrollitav vastuvõetud teksti fail (enamik aastatest 1992–1995 ja mõned teised), on kõrvale jäetud. Määrusi, kohalikke õigusakte ega kohtupraktikat siin ei ole.
 - **Redaktsioone enne 2002. aastat**, mil algavad Riigi Teataja elektroonilised terviktekstid.
 - **Lisasid, allkirju ja väljaandja märkusi** (põhiseaduse lõpus olev „Õiend“, veaparanduse märkused).
 - **Sätteid, mis jõustusid hiljem kui akt ise**, välja arvatud juhul, kui Riigi Teataja avaldas nende jaoks eraldi redaktsiooni.

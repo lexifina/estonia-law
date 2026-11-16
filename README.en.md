@@ -11,7 +11,7 @@ The law of Estonia as a git history: one file per section (§), one commit per a
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Estonia's national law, which global-law reads at `estonia/national/acts/`.
 
-**What is in it now:** three acts from Riigi Teataja, the Constitution (Eesti Vabariigi põhiseadus), the Riigikogu Election Act (Riigikogu valimise seadus) and the Personal Data Protection Act (Isikuandmete kaitse seadus), with their 42 consolidated versions since 2002 and the Constitution's 1992 text, in 58 commits: the three first texts, 44 changes by 40 amending acts, and 11 labelled changes no amending act explains. [`muutmisaktid.csv`](muutmisaktid.csv) lists every amending act with its dates; each act's README ([`ps/README.md`](ps/README.md)) lists its sections.
+**What is in it now:** the Constitution and two other acts from Riigi Teataja with their 42 consolidated versions since 2002; 13 acts as the Riigikogu adopted them, 6 of them codes, from the Riigikogu's open data in [`riigikogu/seadused/`](riigikogu/seadused/) (the adopted text, not consolidated); and a metadata entry for each of the 8,967 Riigikogu drafts since 1992 in [`riigikogu/eelnoud/`](riigikogu/eelnoud/). [`muutmisaktid.csv`](muutmisaktid.csv) lists every amending act; each act's README ([`ps/README.md`](ps/README.md)) lists its sections.
 
 Each act is a folder named by its abbreviation (`ps`, `rkvs`, `iks`), with one file per section after Riigi Teataja's element id (`ps/para-156.md` is § 156 of the Constitution, `rkvs/para-048b4.md` is § 48⁴ of the Election Act); `preambul.md` is the preamble and `sisukord.md` the chapter headings.
 
@@ -64,7 +64,7 @@ Each change is credited to the amending act Riigi Teataja's marks name, by its r
 
 ## What it does not show
 
-- **The rest of Estonian law.** Only these three acts are here: no other laws (such as the Employment Contracts Act), regulations, local acts or case law.
+- **Consolidated texts beyond these three acts.** Riigi Teataja, which publishes them, does not allow automated access, so other acts are here only as the Riigikogu adopted them, without later amendments merged in. Acts without a checkable adopted-text file (most of 1992–1995, and some others) are held back. Regulations, local acts and case law are not here.
 - **Versions before 2002**, when Riigi Teataja's electronic consolidated texts begin.
 - **Annexes, signatures and the publisher's notes** (the Constitution's closing "Õiend", error-correction notes).
 - **Provisions that came into force later than their act**, unless Riigi Teataja published a separate version for them.
