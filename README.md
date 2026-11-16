@@ -60,6 +60,7 @@ Iga muudatus omistatakse muutmisaktile, mille Riigi Teataja märked nimetavad, s
 - `tools/check_repo.py` loeb iga akti git'ist tagasi iga päeva seisuga, mil selle tekst muutus, ja võrdleb iga faili selle redaktsiooni tekstiga Riigi Teataja XML-is: 4 670 failis 0 erinevust.
 - Iga redaktsiooni XML-ist loetud tekst ühtib Riigi Teataja enda lihttekstiga samast redaktsioonist (`/txt`), välja arvatud tühimärgid ja nurksulgudes muudatusmärkused: kõik 42 redaktsiooni ühtivad.
 - Iga lähtefaili sha256-räsi kontrollitakse faili `data/versioonid.json` alusel ning kaks ehitust samadest andmetest annavad igale commit'ile ja sildile samad räsid. Üksikasjad on failis [`REPRODUCE.md`](REPRODUCE.md).
+- [vulnerabilities/](vulnerabilities/): võimalikud sõnastusvead selles õiguses, mille leiavad global-law detektorid ja mida kontrollitakse käsitsi. Pole veel käivitatud.
 
 ## Mida see ei näita
 
@@ -81,6 +82,10 @@ Vt [`LICENSE`](LICENSE). Õigusakti tekst ei ole autoriõigusega kaitstud (autor
 Ükski tehisintellekti mudel ei kirjutanud ega muutnud õigusakti teksti ning ajaloo ehitamisel ei kasutata ühtegi mudelit; skriptid kirjutas tehisintellekti mudel (vt [`REPRODUCE.md`](REPRODUCE.md)).
 
 See on ingliskeelse versiooni ([README.en.md](README.en.md)) tõlge; erinevuste korral kehtib ingliskeelne versioon.
+
+## Visualiseeringud
+
+- [visualisations/](visualisations/): selle hoidla põhjal joonistatud diagrammid. Pole veel joonistatud.
 
 ## Veel
 

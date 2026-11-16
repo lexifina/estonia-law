@@ -60,6 +60,7 @@ Each change is credited to the amending act Riigi Teataja's marks name, by its r
 - `tools/check_repo.py` reads every act back from git on every day its text changed and compares every file with that version's text in Riigi Teataja's XML: 0 mismatches in 4,670 files.
 - The XML reading of each version equals Riigi Teataja's own plain text of it (`/txt`), apart from whitespace and its bracketed amendment notes: all 42 versions match.
 - Every source file's sha256 is checked against `data/versioonid.json`, and two builds from the same data give the same hashes for every commit and tag. Details in [`REPRODUCE.md`](REPRODUCE.md).
+- [vulnerabilities/](vulnerabilities/README.en.md): possible drafting mistakes in this law, found by global-law's detectors and checked by hand. Not run yet.
 
 ## What it does not show
 
@@ -79,6 +80,10 @@ Each change is credited to the amending act Riigi Teataja's marks name, by its r
 See [`LICENSE`](LICENSE). The legal text is not protected by copyright (Autoriõiguse seadus § 5 p 3); the history, commit messages, tables and tools are CC0 1.0.
 
 No AI model wrote or changed legal text, and none runs when the history is built; the scripts were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
+
+## Visualisations
+
+- [visualisations/](visualisations/README.en.md): charts drawn from this repository. Not drawn yet.
 
 ## More
 
