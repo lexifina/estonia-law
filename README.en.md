@@ -11,7 +11,7 @@ The law of Estonia as a git history: one file per section (§), one commit per a
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Estonia's national law, which global-law reads at `estonia/national/acts/`.
 
-**What is in it now:** the Constitution and two other acts from Riigi Teataja with their 42 consolidated versions since 2002; from the Riigikogu's open data, 3,258 acts as the Riigikogu adopted them since 1997, among them the main codes (the adopted text, not consolidated), in [`riigikogu/seadused/`](riigikogu/seadused/), a metadata entry for each of the 9,041 Riigikogu drafts since 1992 in [`riigikogu/eelnoud/`](riigikogu/eelnoud/), 22,676 plenary votings (for 4,185 of them, from December 2017, how each member voted), 4,618 sitting transcripts, 15,456 committee sittings since 2007 with their agendas, about 42,000 Riigikogu files and about 105,000 official documents (committee agendas, EU documents, minutes, decisions, interpellations and written questions with their answers); 5,349 acts of the Tartu city council since 1993; and about 4,000 EU transposition records. [`muutmisaktid.csv`](muutmisaktid.csv) lists every amending act; each act's README ([`ps/README.md`](ps/README.md)) lists its sections.
+**What is in it now:** Estonian law as the Riigikogu adopted it, not consolidated: 3,402 acts since 1997 in [`riigikogu/seadused/`](riigikogu/seadused/), with the original text of about 310 of the 392 laws in force and, for about 226, every amending act as well (of the main codes, the General Part of the Civil Code Act is complete; the Penal Code, the codes of criminal and civil procedure and the Law of Obligations Act each lack a few amending acts). The Constitution and two other acts also with Riigi Teataja's 42 consolidated versions since 2002. Riigikogu records (drafts, votes, transcripts, committee sittings, documents), Tartu city council acts and EU transposition records. What is counted and what is missing: [PLAN.md](PLAN.md).
 
 Each act is a folder named by its abbreviation (`ps`, `rkvs`, `iks`), with one file per section after Riigi Teataja's element id (`ps/para-156.md` is § 156 of the Constitution, `rkvs/para-048b4.md` is § 48⁴ of the Election Act); `preambul.md` is the preamble and `sisukord.md` the chapter headings.
 
@@ -64,7 +64,7 @@ Each change is credited to the amending act Riigi Teataja's marks name, by its r
 
 ## What it does not show
 
-- **Consolidated texts beyond these three acts.** Riigi Teataja, which publishes them, does not allow automated access, so other acts are here only as the Riigikogu adopted them, without later amendments merged in. Acts without a checkable adopted-text file (most of 1992–1995, and some others) are held back. Regulations, local acts and case law are not here.
+- **Consolidated texts beyond these three acts.** Riigi Teataja, which publishes them, does not allow automated access, so other acts are here only as the Riigikogu adopted them, without later amendments merged in. Acts without a checkable adopted-text file (most of 1992–1999, and some others) are held back. Regulations, local acts and case law are not here.
 - **Versions before 2002**, when Riigi Teataja's electronic consolidated texts begin.
 - **Annexes, signatures and the publisher's notes** (the Constitution's closing "Õiend", error-correction notes).
 - **Provisions that came into force later than their act**, unless Riigi Teataja published a separate version for them.
