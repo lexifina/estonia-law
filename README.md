@@ -64,7 +64,7 @@ Iga muudatus omistatakse muutmisaktile, mille Riigi Teataja märked nimetavad, s
 
 ## Mida see ei näita
 
-- **Terviktekste peale nende kolme akti.** Riigi Teataja, kes neid avaldab, ei luba automaatset juurdepääsu, seega on teised seadused siin ainult Riigikogus vastuvõetud kujul, hilisemaid muudatusi sisse viimata. Seadused, millel puudub kontrollitav vastuvõetud teksti fail (enamik aastatest 1992–1999 ja mõned teised), on kõrvale jäetud. Määrusi, kohalikke õigusakte ega kohtupraktikat siin ei ole.
+- **Enamiku seaduste terviktekste.** Terviktekstina on siin 36 seadust, põhiseadus kaustas `ps/` ja 35 kaustas `seadused/`. Riigi Teataja, kes ülejäänuid avaldab, ei luba automaatset juurdepääsu, seega on teised kehtivad seadused (2024. aasta lõpus 392) siin ainult Riigikogus vastuvõetud kujul, hilisemaid muudatusi sisse viimata. Seadused, millel puudub kontrollitav vastuvõetud teksti fail (enamik aastatest 1992–1999 ja mõned teised), on kõrvale jäetud. Määrusi, kohalikke õigusakte peale Tartu Linnavolikogu omade ega kohtupraktikat siin ei ole.
 - **Redaktsioone enne 2002. aastat**, mil algavad Riigi Teataja elektroonilised terviktekstid.
 - **Lisasid, allkirju ja väljaandja märkusi** (põhiseaduse lõpus olev „Õiend“, veaparanduse märkused).
 - **Sätteid, mis jõustusid hiljem kui akt ise**, välja arvatud juhul, kui Riigi Teataja avaldas nende jaoks eraldi redaktsiooni.

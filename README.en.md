@@ -64,7 +64,7 @@ Each change is credited to the amending act Riigi Teataja's marks name, by its r
 
 ## What it does not show
 
-- **Consolidated texts beyond these three acts.** Riigi Teataja, which publishes them, does not allow automated access, so other acts are here only as the Riigikogu adopted them, without later amendments merged in. Acts without a checkable adopted-text file (most of 1992–1999, and some others) are held back. Regulations, local acts and case law are not here.
+- **Consolidated texts of most laws.** 36 laws are here as consolidated texts, the Constitution in `ps/` and 35 in `seadused/`. Riigi Teataja, which publishes the rest, does not allow automated access, so the other laws in force (392 at the end of 2024) are here only as the Riigikogu adopted them, without later amendments merged in. Acts without a checkable adopted-text file (most of 1992–1999, and some others) are held back. Regulations, local acts other than the Tartu city council's, and case law are not here.
 - **Versions before 2002**, when Riigi Teataja's electronic consolidated texts begin.
 - **Annexes, signatures and the publisher's notes** (the Constitution's closing "Õiend", error-correction notes).
 - **Provisions that came into force later than their act**, unless Riigi Teataja published a separate version for them.
