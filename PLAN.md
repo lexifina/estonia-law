@@ -19,7 +19,7 @@ So a law in force counts as held when either:
 | Laws that may be in force, from the Riigikogu record ([`data/voimalikud-kehtivad-seadused.csv`](data/voimalikud-kehtivad-seadused.csv)) | 458 (an upper bound) |
 | Laws in force with their original text here, as adopted | about 310 |
 | Laws in force complete as adopted (original text and every amending act in force) | about 226 |
-| Laws in force held by either rule | about 227 |
+| Laws in force held by either rule | about 229 (233 with unvalidated texts) |
 | Laws with consolidated versions from legalize-ee | 27 (388 versions) |
 | Amending acts in force that amend those laws: here / all | 9,150 / 9,459 |
 | Acts adopted by the Riigikogu: here / accepted bills in its record since 1992 | 3,402 / 4,644 |
@@ -58,6 +58,20 @@ So a law in force counts as held when either:
 Only laws whose newest legalize-ee version passes are taken, so no folder ends on an outdated text: 27 laws, 388 versions. Each commit says `Source: legalize-ee (upstream Riigi Teataja XML, RT id …)` and links the official page. As a test, all five versions of the Personal Data Protection Act in legalize-ee, once restored, equal `iks/` (read from Riigi Teataja) in every section.
 
 The Code of Criminal Procedure, the Employment Contracts Act and the Code of Enforcement Procedure are in legalize-ee, but their newest versions fail the check, so they are not taken. The Law of Obligations Act, the General Part of the Civil Code Act, the Code of Civil Procedure and the Commercial Code are not in legalize-ee.
+
+## Main codes from other sources (2026-11-17)
+
+On 2026-11-17 the main codes were taken from any reachable source, to be validated later:
+
+| Code | Folder | Version in force from | Source | Status |
+| --- | --- | --- | --- | --- |
+| Tsiviilseadustiku üldosa seadus | `riigikogu/seadused/` | as adopted + 40 amending acts | Riigikogu | checked |
+| Võlaõigusseadus | `vos/` | 2026-09-01 | Riigi Teataja XML 120062026018, copied by a third party | checked against the adopted texts (92% of lines) |
+| Karistusseadustik | `kars/` | 2026-10-01 | lahend.ee | **not yet validated** (legalize-ee versions up to 2026-01-01 are checked) |
+| Kriminaalmenetluse seadustik | `krms/` | 2026-11-01 | lahend.ee | **not yet validated** |
+| Tsiviilkohtumenetluse seadustik | `tsms/` | 2026-06-30 | lahend.ee | **not yet validated** |
+
+Also from lahend.ee and not yet validated: Täitemenetluse seadustik (`tms/`, 2026-10-01) and Halduskohtumenetluse seadustik (`hkms/`, 2026-06-12). Also from Riigi Teataja XML: Perekonnaseadus (`pks/`, 2025-01-01). lahend.ee drops superscripts in section numbers (restored here by order) and in references inside the text (`§-s 1331` stands for § 133¹; not restored). Each such commit carries `Validation: pending - not yet checked against Riigi Teataja`. The Commercial Code is not taken: lahend.ee's newest version is from 2024.
 
 ## What is missing, and why
 
