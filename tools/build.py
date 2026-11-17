@@ -541,6 +541,11 @@ def amending_act(act_id: str, offline: bool) -> dict:
 
 # ---------------------------------------------------------------- files
 
+def act_folder(slug: str) -> str:
+    """An act's folder: the Constitution in ps/, every other act in seadused/<slug>/ (the layout since 2026-11-17)."""
+    return slug if slug == 'ps' else f'seadused/{slug}'
+
+
 def file_name(key: str) -> str:
     return f'{key}.md' if key in ('preambul', 'sisukord') else f'para-{key}.md'
 
@@ -714,7 +719,7 @@ def write_repo(repo: Path, built: list[dict], acts: dict[str, dict], docs: Path,
             git(repo, 'checkout', '-q', '-b', FUTURE_BRANCH)
             switched = True
         for slug, key, state, c in items:
-            folder = repo / slug
+            folder = repo / act_folder(slug)
             if c is None:       # the act's first text: every file
                 folder.mkdir(parents=True, exist_ok=True)
                 for name, text in tree_of(state).items():
@@ -862,7 +867,7 @@ def write_repo(repo: Path, built: list[dict], acts: dict[str, dict], docs: Path,
 
 
 def write_tables(repo: Path, built: list[dict], acts: dict[str, dict], short: dict[str, str], today: str):
-    """muutmisaktid.csv (the amending acts and what they changed) and a README per act listing its sections."""
+    """data/muutmisaktid.csv (the amending acts and what they changed) and a README per act listing its sections."""
     touched: dict[str, set] = {}
     days: dict[str, set] = {}
     for b in built:
@@ -882,7 +887,8 @@ def write_tables(repo: Path, built: list[dict], acts: dict[str, dict], short: di
     w = csv.DictWriter(buf, fieldnames=list(rows[0]), lineterminator='\n')
     w.writeheader()
     w.writerows(rows)
-    (repo / 'muutmisaktid.csv').write_text(buf.getvalue(), encoding='utf-8', newline='\n')
+    (repo / 'data').mkdir(exist_ok=True)
+    (repo / 'data' / 'muutmisaktid.csv').write_text(buf.getvalue(), encoding='utf-8', newline='\n')
 
     for b in built:
         slug = b['act']['slug']
@@ -907,7 +913,7 @@ def write_tables(repo: Path, built: list[dict], acts: dict[str, dict], short: di
                 out.append(f'| **{sec}** | | | |')
                 section = sec
             out.append(f'| [{u["label"]}]({file_name(key)}) | {u["title"]} | {counts.get(key, 0)} | {lasts.get(key, "")} |')
-        (repo / slug / 'README.md').write_text('\n'.join(out) + '\n', encoding='utf-8', newline='\n')
+        (repo / act_folder(slug) / 'README.md').write_text('\n'.join(out) + '\n', encoding='utf-8', newline='\n')
 
 
 # ---------------------------------------------------------------- main

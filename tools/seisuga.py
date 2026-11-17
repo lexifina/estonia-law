@@ -35,13 +35,17 @@ def main():
     branch = 'tulevik' if day > dt.date.today().isoformat() and future else 'main'
     # %ad with a format shows each commit's day in its own time zone (Tallinn), which is the day it took effect.
     commit = ''
-    for line in git('log', '--format=%H %ad', '--date=format:%Y-%m-%d', branch, '--', f'{act}/').splitlines():
+    # Since 2026-11-17 acts are in seadused/<act>/ (the Constitution stays in ps/); before, at the top (data/paths.json).
+    for line in git('log', '--format=%H %ad', '--date=format:%Y-%m-%d', branch, '--', f'{act}/',
+                    f'seadused/{act}/').splitlines():
         h, d = line.split()
         if d <= day:
             commit = h
             break
     if not commit:
         sys.exit(f'{act} is not in the record on {day}.')
+    if git('ls-tree', '--name-only', commit, f'seadused/{act}/').strip():
+        act = f'seadused/{act}'
     if len(sys.argv) > 3:
         name = file_name(sys.argv[3])
         try:

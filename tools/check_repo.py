@@ -35,7 +35,9 @@ def git(repo: str, *args: str) -> str:
 
 def commit_on(repo: str, slug: str, day: str, branches: list[str]) -> str | None:
     branch = 'tulevik' if day > TODAY and 'tulevik' in branches else 'main'
-    for line in git(repo, 'log', '--format=%H %ad', '--date=format:%Y-%m-%d', branch, '--', f'{slug}/').splitlines():
+    # since 2026-11-17 acts are in seadused/<act>/ (ps/ stays); before, at the top (data/paths.json)
+    for line in git(repo, 'log', '--format=%H %ad', '--date=format:%Y-%m-%d', branch, '--', f'{slug}/',
+                    f'seadused/{slug}/').splitlines():
         h, d = line.split()
         if d <= day:
             return h
@@ -133,8 +135,9 @@ def main():
             h = commit_on(repo, slug, day, branches)
             have = {}
             if h:
-                for f in git(repo, 'ls-tree', '--name-only', h, f'{slug}/').split():
-                    name = f.split('/', 1)[1]
+                folder = f'seadused/{slug}' if git(repo, 'ls-tree', '--name-only', h, f'seadused/{slug}/').strip()                     else slug
+                for f in git(repo, 'ls-tree', '--name-only', h, f'{folder}/').split():
+                    name = f[len(folder) + 1:]
                     if name != 'README.md':
                         have[name] = git(repo, 'show', f'{h}:{f}')
             files += len(want)
