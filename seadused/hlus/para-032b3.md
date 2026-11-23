@@ -1,6 +1,6 @@
 # § 32³. Erikontroll
 
-(1) Hoiu-laenuühistu erikontrolli korraldamisele kohaldatakse tulundusühistuseaduse §-s 71 sätestatut, kui käesolevas paragrahvis ei ole sätestatud teisiti.
+(1) Hoiu-laenuühistu erikontrolli korraldamisele kohaldatakse tulundusühistuseaduse §-s 71 sätestatut, kui käesolevas paragrahvis ei ole sätestatud teisiti.
 
 (2) Vähemalt kümme hoiu-laenuühistu liiget võivad nõuda hoiu-laenuühistu juhtimise või varalise seisundiga seotud küsimustes erikontrolli korraldamise otsustamist ja erikontrolli tegija määramist üldkoosoleku poolt.
 

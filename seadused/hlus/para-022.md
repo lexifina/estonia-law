@@ -6,4 +6,8 @@
 
 (3) Hoiu-laenuühistu osakapital peab olema vähemalt 125 000 eurot. Hoiu-laenuühistu netovara peab tegutsemise igal ajahetkel vastama vähemalt osakapitalile.
 
-(6) Hoiu-laenuühistu liikmed või volinikud otsustavad osakapitali suuruse muutmise 12 kuu jooksul osakapitali suuruse muutmise aluseks oleva asjaolu ilmnemisest arvates. Hoiu-laenuühistu juhatus esitab äriregistrile viivitamata üldkoosoleku või volinike koosoleku otsuse, millega otsustatakse hoiu-laenuühistu osakapitali suuruse muutmine.
+(4) [Kehtetu]
+
+(5) [Kehtetu]
+
+(6) Hoiu-laenuühistu liikmed või volinikud otsustavad osakapitali suuruse muutmise 12 kuu jooksul osakapitali suuruse muutmise aluseks oleva asjaolu ilmnemisest arvates. Hoiu-laenuühistu juhatus esitab äriregistrile viivitamata üldkoosoleku või volinike koosoleku otsuse, millega otsustatakse hoiu-laenuühistu osakapitali suuruse muutmine.

@@ -1,6 +1,6 @@
 # § 29. Laenukomitee moodustamine ja liikmed
 
-(1) Hoiu-laenuühistul peab olema laenukomitee, kui hoiu-laenuühistus on vähemalt 50 liiget. Kui hoiu-laenuühistus on vähem kui 50 liiget, võib põhikirjaga ette näha, et hoiu-laenuühistul on laenukomitee.
+(1) Hoiu-laenuühistul peab olema laenukomitee, kui hoiu-laenuühistus on vähemalt 50 liiget. Kui hoiu-laenuühistus on vähem kui 50 liiget, võib põhikirjaga ette näha, et hoiu-laenuühistul on laenukomitee.
 
 (2) Laenukomitee moodustatakse hoiu-laenuühistu põhikirjas ettenähtud korras.
 

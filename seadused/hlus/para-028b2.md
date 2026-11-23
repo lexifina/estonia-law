@@ -10,23 +10,23 @@
 
 (5) Krediiditoimik peab sisaldama krediidi andmise, jälgimise ja hindamise kohta järgmist teavet ja järgmisi dokumente:
 
-1) andmed liikme kohta, füüsilisest isikust liikme puhul tema nimi, isikukood või selle puudumise korral sünniaeg ja -koht ning elukoht, juriidilisest isikust liikme puhul tema ärinimi, registrikood ja asukoht;
+- 1) andmed liikme kohta, füüsilisest isikust liikme puhul tema nimi, isikukood või selle puudumise korral sünniaeg ja -koht ning elukoht, juriidilisest isikust liikme puhul tema ärinimi, registrikood ja asukoht;
 
-2) krediiditaotlused;
+- 2) krediiditaotlused;
 
-3) krediidi andmise või krediidi andmisest keeldumise otsused;
+- 3) krediidi andmise või krediidi andmisest keeldumise otsused;
 
-4) krediidi taotlemise ja krediidiperioodi jooksul krediidilepingu täitmisega seotud dokumendid;
+- 4) krediidi taotlemise ja krediidiperioodi jooksul krediidilepingu täitmisega seotud dokumendid;
 
-5) liikme krediidivõimelisuse hindamise analüüsi tulemused;
+- 5) liikme krediidivõimelisuse hindamise analüüsi tulemused;
 
-6) liikmega sõlmitud krediidi- ja tagatislepingud;
+- 6) liikmega sõlmitud krediidi- ja tagatislepingud;
 
-7) liikmega peetud krediidi andmise või krediidilepingu täitmisega seotud kirjavahetus;
+- 7) liikmega peetud krediidi andmise või krediidilepingu täitmisega seotud kirjavahetus;
 
-8) dokumendid liikme krediidivõimelisuse hindamise aluseks olevate andmete kontrollimise kohta;
+- 8) dokumendid liikme krediidivõimelisuse hindamise aluseks olevate andmete kontrollimise kohta;
 
-9) hüpoteekkrediidi puhul dokumendid tagatiseks oleva kinnisvara kontrollimise, kindlustamise ja hindamise kohta, sealhulgas asjakohasel juhul kinnisvara hindaja hinnang tagatise maksumuse kohta.
+- 9) hüpoteekkrediidi puhul dokumendid tagatiseks oleva kinnisvara kontrollimise, kindlustamise ja hindamise kohta, sealhulgas asjakohasel juhul kinnisvara hindaja hinnang tagatise maksumuse kohta.
 
 (6) Hoiu-laenuühistu peab täitma krediiditoimiku täitmise kohustust sõltumata toimiku mahu suurusest.
 

@@ -4,4 +4,4 @@
 
 (2) Raamatupidamisega tagatakse tõese teabe saamine hoiu-laenuühistu finantsseisundi ja majandustegevuse kohta.
 
-(3) võib määrusega kehtestada täpsemad nõuded hoiu-laenuühistute raamatupidamisarvestusele ja aruandluse korraldamisele.
+(3) Valdkonna eest vastutav minister võib määrusega kehtestada täpsemad nõuded hoiu-laenuühistute raamatupidamisarvestusele ja aruandluse korraldamisele.

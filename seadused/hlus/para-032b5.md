@@ -12,13 +12,13 @@
 
 (6) Nõukogu nõusolek on vajalik hoiu-laenuühistu nimel selliste tehingute tegemiseks, mis väljuvad igapäevasest majandustegevusest, sealhulgas tehingud, millega kaasneb:
 
-1) osaluse omandamine või lõppemine teistes ühingutes;
+- 1) osaluse omandamine või lõppemine teistes ühingutes;
 
-2) tütarettevõtja asutamine või lõpetamine;
+- 2) tütarettevõtja asutamine või lõpetamine;
 
-3) ettevõtte üleminek, võõrandamine või selle tegevuse lõpetamine;
+- 3) ettevõtte üleminek, võõrandamine või selle tegevuse lõpetamine;
 
-4) kinnisasjade ja registrisse kantud vallasasjade võõrandamine või koormamine.
+- 4) kinnisasjade ja registrisse kantud vallasasjade võõrandamine või koormamine.
 
 (7) Põhikirjaga võib ette näha, et käesoleva paragrahvi lõikes 6 nimetatud tehingute tegemiseks ei ole nõukogu nõusolekut vaja või on see vajalik ainult põhikirjas nimetatud juhtudel. Põhikirjaga võib nõukogule anda õiguse otsustada ka muid küsimusi, mille otsustamine ei kuulu vastavalt seadusele või põhikirjale juhatuse või üldkoosoleku pädevusse.
 

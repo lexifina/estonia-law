@@ -1,16 +1,18 @@
 # § 17. Hoiu-laenuühistu liikmeks astumise tingimused
 
+(1) [Kehtetu]
+
 (2) Hoiu-laenuühistu liikmeks võivad astuda:
 
-1) füüsilised isikud, kes tegutsevad või töötavad samal tegevus- või kutsealal või keda seovad ühised majanduslikud huvid;
+- 1) füüsilised isikud, kes tegutsevad või töötavad samal tegevus- või kutsealal või keda seovad ühised majanduslikud huvid;
 
-2) füüsilisest isikust ettevõtjad, kelle põhitegevusala on käesoleva lõike punktis 1 nimetatud isikutega sama tegevusvaldkond;
+- 2) füüsilisest isikust ettevõtjad, kelle põhitegevusala on käesoleva lõike punktis 1 nimetatud isikutega sama tegevusvaldkond;
 
-3) äriühingud, kelle põhitegevusala on käesoleva lõike punktis 1 nimetatud isikutega sama tegevusvaldkond;
+- 3) äriühingud, kelle põhitegevusala on käesoleva lõike punktis 1 nimetatud isikutega sama tegevusvaldkond;
 
-4) mittetulundusühingud, kelle liikmeteks on käesoleva lõike punktides 1–3 nimetatud isikud;
+- 4) mittetulundusühingud, kelle liikmeteks on käesoleva lõike punktides 1–3 nimetatud isikud;
 
-5) sihtasutused, mille asutajateks on käesoleva lõike punktides 1–3 nimetatud isikud.
+- 5) sihtasutused, mille asutajateks on käesoleva lõike punktides 1–3 nimetatud isikud.
 
 (3) Käesoleva paragrahvi lõike 2 punktis 3 nimetatud liikmete osakaal ei või olla suurem kui 25 protsenti liikmete koguarvust.
 

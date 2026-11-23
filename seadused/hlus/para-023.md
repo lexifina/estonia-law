@@ -1,6 +1,6 @@
 # § 23. Hoiu-laenuühistu liikme osamaks
 
-(1) Hoiu-laenuühistu liikme osamaksu suurus peab olema vähemalt 50 eurot.
+(1) Hoiu-laenuühistu liikme osamaksu suurus peab olema vähemalt 50 eurot.
 
 (2) Hoiu-laenuühistu liikme osamaks tasutakse ainult rahas.
 

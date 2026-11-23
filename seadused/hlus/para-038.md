@@ -4,4 +4,4 @@
 
 (2) Revisjonikomisjoni liikmel on õigus jälgida hoiu-laenuühistu tööd ja majandustegevust mis tahes lõigus.
 
-(3) Hoiu-laenuühistu juhatus võimaldab revisjonikomisjonile käesoleva paragrahvi lõikes 1 nimetatud õiguste kasutamise ja kohustuste täitmise ning tagab kõik revisjonikomisjoni ülesannete täitmiseks vajalikud töötingimused, sealhulgas õiguse saada selgitusi ja teavet hoiu-laenuühistu juhtorganite liikmetelt ja töötajatelt ning võimaluse jälgida avastatud puuduste kõrvaldamist ja tehtud ettepanekute arvestamist.
+(3) Hoiu-laenuühistu juhatus võimaldab revisjonikomisjonile käesoleva paragrahvi lõikes 1 nimetatud õiguste kasutamise ja kohustuste täitmise ning tagab kõik revisjonikomisjoni ülesannete täitmiseks vajalikud töötingimused, sealhulgas õiguse saada selgitusi ja teavet hoiu-laenuühistu juhtorganite liikmetelt ja töötajatelt ning võimaluse jälgida avastatud puuduste kõrvaldamist ja tehtud ettepanekute arvestamist.

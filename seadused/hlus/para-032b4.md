@@ -1,6 +1,6 @@
 # § 32⁴. Volinike valimine
 
-(1) Hoiu-laenuühistu volinike valimisele kohaldatakse tulundusühistuseaduse §-s 54 sätestatut, kui käesolevas paragrahvis ei ole sätestatud teisiti.
+(1) Hoiu-laenuühistu volinike valimisele kohaldatakse tulundusühistuseaduse §-s 54 sätestatut, kui käesolevas paragrahvis ei ole sätestatud teisiti.
 
 (2) Ühe voliniku võib valida kuni 25 liikme kohta.
 
