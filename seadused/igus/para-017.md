@@ -4,4 +4,4 @@
 
 (2) Geenidoonoril endal on õigus avaldada ja avalikustada geenidoonoriks olemise või mitteolemise fakti ja asjaolusid.
 
-(3) Geenivaramu vastutav töötleja võib avaldada geenidoonoriks olemise või mitteolemise fakti käesoleva seaduse §-s 10 sätestatud andmevahetuse käigus, sealhulgas andmeandjatele geenidoonorite isikukoodide edastamisel, andmete väljastamisel geenidoonorile endale või tema määratud kolmandale isikule või muu käesoleva seaduse alusel lubatud andmete väljastamise raames.
+(3) Geenivaramu vastutav töötleja võib avaldada geenidoonoriks olemise või mitteolemise fakti käesoleva seaduse §-s 10 sätestatud andmevahetuse käigus, sealhulgas andmeandjatele geenidoonorite isikukoodide edastamisel, andmete väljastamisel geenidoonorile endale või tema määratud kolmandale isikule või muu käesoleva seaduse alusel lubatud andmete väljastamise raames.

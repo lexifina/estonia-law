@@ -1,6 +1,6 @@
 # § 21. Geenidoonoriks saamise tahteavalduse säilitamine ja hävitamine
 
-(1) Geenidoonoriks saamise tahteavaldust säilitatakse geenivaramusse kantud andmete olemasolu korral käesoleva seaduse § 11 lõikes 1 nimetatud tähtajani.
+(1) Geenidoonoriks saamise tahteavaldust säilitatakse geenivaramusse kantud andmete olemasolu korral käesoleva seaduse § 11 lõikes 1 nimetatud tähtajani.
 
 (2) Geenivaramusse kandmata tahteavaldused hävitatakse viivitamata, kui geenidoonor on esitanud kirjaliku tahteavalduse geenidoonorlusest loobumiseks enne andmete kandmist geenivaramusse.
 

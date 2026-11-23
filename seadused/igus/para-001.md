@@ -2,9 +2,9 @@
 
 (1) Käesoleva seadusega reguleeritakse:
 
-1) Eesti geenivaramu pidamist ning selleks vajalike koeproovide ja isikuandmete töötlemist, tagades seejuures geenidoonorluse vabatahtlikkuse ja geenidoonori õiguste kaitse;
+- 1) Eesti geenivaramu pidamist ning selleks vajalike koeproovide ja isikuandmete töötlemist, tagades seejuures geenidoonorluse vabatahtlikkuse ja geenidoonori õiguste kaitse;
 
-2) koeproovide ja geneetiliste andmete töötlemise nõudeid teadusuuringute, sealhulgas inimgeeniuuringute tegemisel ning nende nõuete täitmise üle järelevalve tegemise korda.
+- 2) koeproovide ja geneetiliste andmete töötlemise nõudeid teadusuuringute, sealhulgas inimgeeniuuringute tegemisel ning nende nõuete täitmise üle järelevalve tegemise korda.
 
 (2) Käesoleva seaduse alusel koeproovi võtmisele kohaldatakse tervishoiuteenuste korraldamise seadust.
 
