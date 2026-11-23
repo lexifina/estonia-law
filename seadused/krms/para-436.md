@@ -2,11 +2,11 @@
 
 (1) Eesti Vabariik keeldub rahvusvahelisest koostööst, kui:
 
-1) see võib ohustada Eesti Vabariigi julgeolekut, avalikku korda või muid olulisi huve;
+- 1) see võib ohustada Eesti Vabariigi julgeolekut, avalikku korda või muid olulisi huve;
 
-2) see on vastuolus Eesti õiguse üldpõhimõtetega;
+- 2) see on vastuolus Eesti õiguse üldpõhimõtetega;
 
-3) on alust arvata, et abi taotletakse isiku süüdistamiseks või karistamiseks tema rassi, rahvuse, usuliste või poliitiliste tõekspidamiste pärast või kui isiku seisund võib halveneda mõnel nimetatud põhjusel.
+- 3) on alust arvata, et abi taotletakse isiku süüdistamiseks või karistamiseks tema rassi, rahvuse, usuliste või poliitiliste tõekspidamiste pärast või kui isiku seisund võib halveneda mõnel nimetatud põhjusel.
 
 (1¹) Eesti Vabariik ei või keelduda rahvusvahelisest koostööst Euroopa Liidu liikmesriigiga põhjusel, et tegu on poliitilise kuriteoga, poliitilise kuriteoga seotud kuriteoga või poliitiliselt motiveeritud kuriteoga, kui seaduses või välislepingus ei ole sätestatud teisiti.
 

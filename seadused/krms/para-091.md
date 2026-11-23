@@ -4,15 +4,15 @@
 
 (2) Kui käesolev seadustik ei sätesta teisiti, võib läbiotsimist toimetada prokuratuuri taotlusel eeluurimiskohtuniku määruse või kohtumääruse alusel.
 
-(3) Läbiotsimist võib toimetada prokuratuuri määruse alusel, välja arvatud läbiotsimine notari- või advokaadibüroos või ajakirjanduslikul eesmärgil informatsiooni töötleva isiku juures, kui on alust arvata, et kahtlustatav kasutab või kasutas läbiotsitavat kohta või sõidukit kuriteosündmuse või kohtueelse menetluse ajal, ning isikut kahtlustatakse käesoleva seadustiku § 1262 lõikes 2 nimetatud kuriteo toimepanemises.
+(3) Läbiotsimist võib toimetada prokuratuuri määruse alusel, välja arvatud läbiotsimine notari- või advokaadibüroos või ajakirjanduslikul eesmärgil informatsiooni töötleva isiku juures, kui on alust arvata, et kahtlustatav kasutab või kasutas läbiotsitavat kohta või sõidukit kuriteosündmuse või kohtueelse menetluse ajal, ning isikut kahtlustatakse käesoleva seadustiku § 126² lõikes 2 nimetatud kuriteo toimepanemises.
 
 (4) Läbiotsimismääruses märgitakse:
 
-1) mida läbiotsimise eesmärgina otsitakse (edaspidi otsitav objekt);
+- 1) mida läbiotsimise eesmärgina otsitakse (edaspidi otsitav objekt);
 
-2) läbiotsimise põhjendus;
+- 2) läbiotsimise põhjendus;
 
-3) koht, kus läbiotsimist toimetatakse.
+- 3) koht, kus läbiotsimist toimetatakse.
 
 (5) Edasilükkamatul juhul, kui läbiotsimismääruse vormistamine ei ole õigel ajal võimalik, võib käesoleva paragrahvi lõikes 3 nimetatud tingimustel toimetada läbiotsimist prokuratuuri loa alusel, mis on antud taasesitamist võimaldaval viisil.
 

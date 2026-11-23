@@ -6,31 +6,31 @@
 
 (2) Kohtuistungi protokolli kantakse:
 
-1) istungi kuupäev ja koht ning istungi algus- ja lõpuaeg;
+- 1) istungi kuupäev ja koht ning istungi algus- ja lõpuaeg;
 
-2) kohtu nimetus ja kohtukoosseis;
+- 2) kohtu nimetus ja kohtukoosseis;
 
-3) kohtumenetluse poolte ning kohtuistungi sekretäri, tõlgi ja eksperdi nimed;
+- 3) kohtumenetluse poolte ning kohtuistungi sekretäri, tõlgi ja eksperdi nimed;
 
-4) arutatava kriminaalasja nimetus;
+- 4) arutatava kriminaalasja nimetus;
 
-5)
+- 5) [Kehtetu]
 
-6) kohtutoimingute nimetused ajalises järjestuses;
+- 6) kohtutoimingute nimetused ajalises järjestuses;
 
-7) ristküsitlusel kohtumenetluse poole esitatud küsimused ja ülekuulatava ütlused;
+- 7) ristküsitlusel kohtumenetluse poole esitatud küsimused ja ülekuulatava ütlused;
 
-8) avaldused ja taotlused ning nende lahendused;
+- 8) avaldused ja taotlused ning nende lahendused;
 
-9) kohtuistungil tehtud määruste nimetused;
+- 9) kohtuistungil tehtud määruste nimetused;
 
-10) kohtuvaidluses poolte esitatud taotlused;
+- 10) kohtuvaidluses poolte esitatud taotlused;
 
-11) süüdistatava viimases sõnas esitatud taotlus;
+- 11) süüdistatava viimases sõnas esitatud taotlus;
 
-12) kohtuotsuse või -määruse tegemine nõupidamistoas;
+- 12) kohtuotsuse või -määruse tegemine nõupidamistoas;
 
-13) kohtuotsuse või -määruse kuulutamine ning edasikaebamise korra ja tähtaja selgitamine.
+- 13) kohtuotsuse või -määruse kuulutamine ning edasikaebamise korra ja tähtaja selgitamine.
 
 (2¹) Kohtuistungi sekretär protokollib istungi selle sujuvat kulgemist katkestamata.
 

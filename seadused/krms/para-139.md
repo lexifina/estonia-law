@@ -4,21 +4,21 @@
 
 (2) Sundtoomist võib kohaldada, kui:
 
-1) kutse saanud isik ei ole ilmunud käesoleva seadustiku §-s 170 nimetatud mõjuva põhjuseta;
+- 1) kutse saanud isik ei ole ilmunud käesoleva seadustiku §-s 170 nimetatud mõjuva põhjuseta;
 
-1¹) on alust arvata, et isik hoiab kriminaalmenetlusest kõrvale;
+- 1¹) on alust arvata, et isik hoiab kriminaalmenetlusest kõrvale;
 
-2) isiku varasem väljakutsumine võib takistada kriminaalmenetlust ja kui ta keeldub uurimisasutuse või prokuratuuri korraldusel vabatahtlikult kaasa tulemast;
+- 2) isiku varasem väljakutsumine võib takistada kriminaalmenetlust ja kui ta keeldub uurimisasutuse või prokuratuuri korraldusel vabatahtlikult kaasa tulemast;
 
-3) isik hoidub kohtuotsuse täitmisest kõrvale.
+- 3) isik hoidub kohtuotsuse täitmisest kõrvale.
 
 (3) Prokuratuuri või kohtusse toimetatakse isik prokuratuuri määruse või kohtumääruse alusel, milles märgitakse:
 
-1) sundtoomisele allutatud isiku nimi, menetlusseisund ning elu- ja töökoht või õppeasutuse nimetus;
+- 1) sundtoomisele allutatud isiku nimi, menetlusseisund ning elu- ja töökoht või õppeasutuse nimetus;
 
-2) sundtoomise põhjus;
+- 2) sundtoomise põhjus;
 
-3) määruse täitmise aeg ja koht, kuhu isik toimetada.
+- 3) määruse täitmise aeg ja koht, kuhu isik toimetada.
 
 (3¹) Süüdimõistetule võib kohaldada sundtoomist vanglasse või arestimajja käesoleva seadustiku § 414 lõikes 3 sätestatud alustel ja korras.
 

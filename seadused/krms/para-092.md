@@ -2,15 +2,15 @@
 
 (1) Läbiotsimisprotokolli kantakse:
 
-1) ettepanek välja anda otsitav objekt või näidata laiba või tagaotsitava asukoht;
+- 1) ettepanek välja anda otsitav objekt või näidata laiba või tagaotsitava asukoht;
 
-2) vabatahtlikult väljaantud objekti nimetus;
+- 2) vabatahtlikult väljaantud objekti nimetus;
 
-3) otsingute tingimused, käik ja tulemused;
+- 3) otsingute tingimused, käik ja tulemused;
 
-4) leitud objekti nimetus ja objekti tunnused, millel on tähtsust kriminaalasja lahendamiseks;
+- 4) leitud objekti nimetus ja objekti tunnused, millel on tähtsust kriminaalasja lahendamiseks;
 
-5) tabatud tagaotsitava isiku tuvastamise andmed.
+- 5) tabatud tagaotsitava isiku tuvastamise andmed.
 
 (1¹) Käesoleva seadustiku § 91 lõikes 5 nimetatud juhul märgitakse läbiotsimisprotokolli sissejuhatuses § 91 lõikes 4 nimetatud asjaolud ning põhjendus, miks läbiotsimine on edasilükkamatu.
 

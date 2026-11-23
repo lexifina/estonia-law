@@ -2,27 +2,27 @@
 
 (1) Ekspertiisiaktis märgitakse:
 
-1) akti koostamise kuupäev ja koht;
+- 1) akti koostamise kuupäev ja koht;
 
-2) ekspertiisi määramise andmed;
+- 2) ekspertiisi määramise andmed;
 
-3) ekspertiisiks vajalikud lähteandmed;
+- 3) ekspertiisiks vajalikud lähteandmed;
 
-4) ekspertiisi liik;
+- 4) ekspertiisi liik;
 
-5) andmed eksperdi kohta;
+- 5) andmed eksperdi kohta;
 
-6) ekspertiisiobjekti nimetus või selle isiku nimi, kellele ekspertiis tehti;
+- 6) ekspertiisiobjekti nimetus või selle isiku nimi, kellele ekspertiis tehti;
 
-7) ekspertiisimaterjali täiendamise andmed;
+- 7) ekspertiisimaterjali täiendamise andmed;
 
-8) viide ekspertiisi tegemise juures viibinud isikutele;
+- 8) viide ekspertiisi tegemise juures viibinud isikutele;
 
-9) ekspertiisiks esitatud asitõendi, võrdlusmaterjali, ekspertiisimaterjali või -objekti suhtes võetavad meetmed;
+- 9) ekspertiisiks esitatud asitõendi, võrdlusmaterjali, ekspertiisimaterjali või -objekti suhtes võetavad meetmed;
 
-10) ekspertiisiakti põhistus ehk uuringute, analüüside, testide või muu eksperdiarvamuse kujunemiseks vajaliku kirjeldus;
+- 10) ekspertiisiakti põhistus ehk uuringute, analüüside, testide või muu eksperdiarvamuse kujunemiseks vajaliku kirjeldus;
 
-11) eksperdiarvamus.
+- 11) eksperdiarvamus.
 
 (2) Kui ekspertiis tehakse riiklikus ekspertiisiasutuses, võib koostada põhistamata ekspertiisiakti, milles viidatakse kasutatud metoodikatele või ekspertiisiasutuses selle ekspertiisiliigi kohta kehtestatud korrale. Menetlusosalise põhjendatud taotlusel või menetleja omal algatusel koostatakse menetleja määruse alusel põhistatud ekspertiisiakt või lisatakse koostatud ekspertiisiaktile põhistus.
 

@@ -4,21 +4,21 @@
 
 (2) Isik peetakse kahtlustatavana kinni, kui:
 
-1) ta on tabatud kuriteo toimepanemiselt või vahetult pärast seda;
+- 1) ta on tabatud kuriteo toimepanemiselt või vahetult pärast seda;
 
-2) kuriteo pealtnägija või kannatanu osutab temale kui kuriteo toimepanijale;
+- 2) kuriteo pealtnägija või kannatanu osutab temale kui kuriteo toimepanijale;
 
-3) kuriteojäljed viitavad temale kui kuriteo toimepannud isikule.
+- 3) kuriteojäljed viitavad temale kui kuriteo toimepannud isikule.
 
 (3) Kuriteole viitavate muude andmete põhjal võib isiku kahtlustatavana kinni pidada, kui:
 
-1) ta püüab põgeneda;
+- 1) ta püüab põgeneda;
 
-2) ei ole tuvastatud tema isikut;
+- 2) ei ole tuvastatud tema isikut;
 
-3) ta võib jätkuvalt toime panna kuritegusid;
+- 3) ta võib jätkuvalt toime panna kuritegusid;
 
-4) ta võib kriminaalmenetlusest kõrvale hoiduda või seda muul viisil takistada.
+- 4) ta võib kriminaalmenetlusest kõrvale hoiduda või seda muul viisil takistada.
 
 (4) Kuriteo toimepanemisel või vahetult pärast seda põgenemiskatselt tabatud isiku võib igaüks toimetada politseisse kahtlustatavana kinnipidamiseks.
 

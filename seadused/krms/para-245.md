@@ -2,31 +2,31 @@
 
 (1) Kokkuleppes märgitakse:
 
-1) kokkuleppe sõlmimise aeg;
+- 1) kokkuleppe sõlmimise aeg;
 
-2) prokuröri ametinimetus ning nimi;
+- 2) prokuröri ametinimetus ning nimi;
 
-3) süüdistatava nimi, elu- või asukoht ja aadress, isikukood või selle puudumisel sünniaeg, kodakondsus, haridus, emakeel ning töökoht või õppeasutus;
+- 3) süüdistatava nimi, elu- või asukoht ja aadress, isikukood või selle puudumisel sünniaeg, kodakondsus, haridus, emakeel ning töökoht või õppeasutus;
 
-4) kaitsja nimi;
+- 4) kaitsja nimi;
 
-5) süüdistatava karistatus;
+- 5) süüdistatava karistatus;
 
-6) süüdistatavale kohaldatud tõkend ja selle kestus;
+- 6) süüdistatavale kohaldatud tõkend ja selle kestus;
 
-6¹) märkus selle kohta, et kahtlustatavale või süüdistatavale on selgitatud tema õigusi kokkuleppemenetluses ja kokkuleppemenetluse tagajärgi;
+- 6¹) märkus selle kohta, et kahtlustatavale või süüdistatavale on selgitatud tema õigusi kokkuleppemenetluses ja kokkuleppemenetluse tagajärgi;
 
-7) kuriteo asjaolud;
+- 7) kuriteo asjaolud;
 
-8) kuriteo kvalifikatsioon ning kuriteoga tekitatud kahju laad ja suurus;
+- 8) kuriteo kvalifikatsioon ning kuriteoga tekitatud kahju laad ja suurus;
 
-9) karistuse liik ja määr;
+- 9) karistuse liik ja määr;
 
-10) konfiskeerimisele kuuluv vara;
+- 10) konfiskeerimisele kuuluv vara;
 
-11) süüdistatava vastu esitatud tsiviilhagi või avalik-õigusliku nõudeavalduse alus ja ese;
+- 11) süüdistatava vastu esitatud tsiviilhagi või avalik-õigusliku nõudeavalduse alus ja ese;
 
-12) süüdistatava poolt hüvitatavad kriminaalmenetluse kulud võimaluse korral absoluutsummana.
+- 12) süüdistatava poolt hüvitatavad kriminaalmenetluse kulud võimaluse korral absoluutsummana.
 
 (2) Kui süüdistatavale mõistetakse karistus mitme kuriteo eest, märgitakse kokkuleppes iga karistuse liik ja määr ning üldkaristuse liik ja määr.
 

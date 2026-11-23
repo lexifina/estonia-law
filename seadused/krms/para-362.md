@@ -2,6 +2,6 @@
 
 Kohtuotsuse kassatsiooni korras tühistamise alused on:
 
-1) materiaalõiguse ebaõige kohaldamine;
+- 1) materiaalõiguse ebaõige kohaldamine;
 
-2) kriminaalmenetlusõiguse oluline rikkumine.
+- 2) kriminaalmenetlusõiguse oluline rikkumine.

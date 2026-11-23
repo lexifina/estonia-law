@@ -4,11 +4,11 @@
 
 (2) Posti- või telegraafisaadetise aresti määruses märgitakse:
 
-1) arestitava saadetise saatja või saaja nimi ning elu- või asukoht ja aadress;
+- 1) arestitava saadetise saatja või saaja nimi ning elu- või asukoht ja aadress;
 
-2) aresti põhjendus;
+- 2) aresti põhjendus;
 
-3) arestitud posti- või telegraafisaadetisest uurimisasutusele teatamise kord.
+- 3) arestitud posti- või telegraafisaadetisest uurimisasutusele teatamise kord.
 
 (3) Posti- või telegraafisaadetise aresti määruse koopia saadetakse täitmiseks posti- või telekommunikatsiooniteenuse osutaja juhile.
 

@@ -4,15 +4,15 @@
 
 (2) Määruses märgitakse:
 
-1) üleantava vara nimetus ja asukoht ning võimaluse korral vara omaniku või valdaja nimi;
+- 1) üleantava vara nimetus ja asukoht ning võimaluse korral vara omaniku või valdaja nimi;
 
-2) läbivaadatud taotluse sisu;
+- 2) läbivaadatud taotluse sisu;
 
-3) määruse sisu ja põhjendus;
+- 3) määruse sisu ja põhjendus;
 
-4) menetlusõiguslik alus;
+- 4) menetlusõiguslik alus;
 
-5) kohtu otsustus ja edasikaebamise kord.
+- 5) kohtu otsustus ja edasikaebamise kord.
 
 (3) Jõustunud määruse koopia saadab kohus Justiits- ja Digiministeeriumile, kes teavitab taotlevat riiki taotluse täitmisest või sellest keeldumisest.
 

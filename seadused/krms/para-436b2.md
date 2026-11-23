@@ -2,15 +2,15 @@
 
 (1) Kui paralleelsete kriminaalmenetluste läbiviimise korral on ühendust võtvaks riigiks Eesti, esitab prokuratuur või kohtumenetluses kohus kirjalikult esmasel ühenduse võtmisel järgmised andmed:
 
-1) pädeva õigusasutuse nimetus ja kontaktandmed;
+- 1) pädeva õigusasutuse nimetus ja kontaktandmed;
 
-2) kriminaalmenetluse esemeks olevate tegude asjaolude kirjeldus;
+- 2) kriminaalmenetluse esemeks olevate tegude asjaolude kirjeldus;
 
-3) kahtlustatava või süüdistatava ning vajaduse korral kannatanu nimi, elu- või asukoht ja aadress, sünniaeg, kodakondsus, isikut tõendava dokumendi nimetus ja number ning emakeel;
+- 3) kahtlustatava või süüdistatava ning vajaduse korral kannatanu nimi, elu- või asukoht ja aadress, sünniaeg, kodakondsus, isikut tõendava dokumendi nimetus ja number ning emakeel;
 
-4) andmed kahtlustatava või süüdistatava kinnipidamise või vahistamise kohta;
+- 4) andmed kahtlustatava või süüdistatava kinnipidamise või vahistamise kohta;
 
-5) kriminaalmenetluse menetlusstaadium.
+- 5) kriminaalmenetluse menetlusstaadium.
 
 (2) Esmasel ühenduse võtmisel tuleb märkida vastamise tähtaeg. Kui kahtlustatav või süüdistatav viibib vahi all, tuleb taotleda kiireloomulist vastust.
 

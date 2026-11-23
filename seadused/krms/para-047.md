@@ -2,21 +2,21 @@
 
 (1) Kaitsjal on õigus:
 
-1) saada juriidiliselt või füüsiliselt isikult ning riigi- ja kohaliku omavalitsuse asutusest kaitseülesande täitmiseks vajalikke andmeid ja dokumente;
+- 1) saada juriidiliselt või füüsiliselt isikult ning riigi- ja kohaliku omavalitsuse asutusest kaitseülesande täitmiseks vajalikke andmeid ja dokumente;
 
-2) esitada tõendeid;
+- 2) esitada tõendeid;
 
-3) esitada taotlusi ja kaebusi;
+- 3) esitada taotlusi ja kaebusi;
 
-4) tutvuda menetlustoimingu protokolliga ning teha menetlustoimingu tingimuste, käigu ja tulemuste ning protokolli kohta avaldusi, mis protokollitakse;
+- 4) tutvuda menetlustoimingu protokolliga ning teha menetlustoimingu tingimuste, käigu ja tulemuste ning protokolli kohta avaldusi, mis protokollitakse;
 
-5) menetleja teadmisel kasutada kaitsekohustust täites tehnikavahendeid, kui see ei sega menetlustoimingut;
+- 5) menetleja teadmisel kasutada kaitsekohustust täites tehnikavahendeid, kui see ei sega menetlustoimingut;
 
-6) osaleda kohtueelses menetluses kaitsealuse osavõtul tehtavates uurimistoimingutes õigusega esitada menetleja kaudu küsimusi;
+- 6) osaleda kohtueelses menetluses kaitsealuse osavõtul tehtavates uurimistoimingutes õigusega esitada menetleja kaudu küsimusi;
 
-7) kriminaalmenetlusse astumisest alates tutvuda kaitsealuse ülekuulamise protokolliga ja kahtlustatavana kinnipidamise protokolliga ning kohtueelse menetluse lõpuleviimisel kogu kriminaaltoimikuga;
+- 7) kriminaalmenetlusse astumisest alates tutvuda kaitsealuse ülekuulamise protokolliga ja kahtlustatavana kinnipidamise protokolliga ning kohtueelse menetluse lõpuleviimisel kogu kriminaaltoimikuga;
 
-8) kohtuda kaitsealusega kõrvaliste isikute juuresolekuta, ilma et kohtumiste arv ja kestus oleks piiratud, kui kohtumise kestus ei ole käesolevas seadustikus sätestatud teisiti.
+- 8) kohtuda kaitsealusega kõrvaliste isikute juuresolekuta, ilma et kohtumiste arv ja kestus oleks piiratud, kui kohtumise kestus ei ole käesolevas seadustikus sätestatud teisiti.
 
 (2) Kaitsja on kohustatud kasutama kõiki kaitsmisvahendeid ja -viise, mis ei ole seadusega keelatud, et selgitada kaitsealust õigustavad, mittesüüstavad ja karistust kergendavad asjaolud, ning andma talle muud kriminaalasjas vajalikku õigusabi.
 

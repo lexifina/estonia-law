@@ -16,6 +16,6 @@
 
 (7) Abistamistaotlust on välisriigile pädevad esitama:
 
-1) kohtueelses menetluses prokurör, kelle menetluses on kriminaalasi;
+- 1) kohtueelses menetluses prokurör, kelle menetluses on kriminaalasi;
 
-2) kohtumenetluses olevas asjas kohus või prokurör, kes esindab riiklikku süüdistust kohtus.
+- 2) kohtumenetluses olevas asjas kohus või prokurör, kes esindab riiklikku süüdistust kohtus.

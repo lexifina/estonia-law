@@ -1,8 +1,8 @@
 # § 382¹. Peatüki kohaldamisala
 
-(1) Käesoleva peatüki sätteid järgitakse Riigikogu liikme suhtes käesoleva seadustiku §-s 3822 sätestatud menetlustoimingute tegemisel ning süüdistusakti koostamisel.
+(1) Käesoleva peatüki sätteid järgitakse Riigikogu liikme suhtes käesoleva seadustiku §-s 382² sätestatud menetlustoimingute tegemisel ning süüdistusakti koostamisel.
 
-(2) Käesoleva peatüki sätteid järgitakse käesoleva seadustiku §-s 3822 sätestatud menetlustoimingute tegemisel ning süüdistusakti koostamisel isikute suhtes, kes on käesoleva seadustiku §-des 3822 ja 3829 sätestatud nõusoleku andmise otsustamise ajal Riigikogu liikme staatuses, sõltumata sellest, kas tegu on pandud toime enne Riigikogu liikmeks asumist või Riigikogu liikmeks oleku ajal.
+(2) Käesoleva peatüki sätteid järgitakse käesoleva seadustiku §-s 382² sätestatud menetlustoimingute tegemisel ning süüdistusakti koostamisel isikute suhtes, kes on käesoleva seadustiku §-des 382² ja 382⁹ sätestatud nõusoleku andmise otsustamise ajal Riigikogu liikme staatuses, sõltumata sellest, kas tegu on pandud toime enne Riigikogu liikmeks asumist või Riigikogu liikmeks oleku ajal.
 
 (3) Käesolevas peatükis Riigikogu liikme kohta sätestatut kohaldatakse ka Riigikogu asendusliikmele, kes täidab Riigikogu liikme kohustusi.
 

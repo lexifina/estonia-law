@@ -10,15 +10,15 @@
 
 (5) Käesoleva paragrahvi lõike 4 alusel võib piirata järgmisi andmesubjekti õigusi:
 
-1) õigust saada teada tema isikuandmete töötlemisest, sealhulgas sellest, milliseid isikuandmeid töödeldakse, samuti töötlemise viisi, meetodit, eesmärki, õiguslikku alust, ulatust või põhjust;
+- 1) õigust saada teada tema isikuandmete töötlemisest, sealhulgas sellest, milliseid isikuandmeid töödeldakse, samuti töötlemise viisi, meetodit, eesmärki, õiguslikku alust, ulatust või põhjust;
 
-2) õigust saada teada tema isikuandmete vastuvõtjaid ja avaldatavate isikuandmete kategooriaid ning teavet selle kohta, kas tema isikuandmed edastatakse välisriigile või rahvusvahelisele organisatsioonile;
+- 2) õigust saada teada tema isikuandmete vastuvõtjaid ja avaldatavate isikuandmete kategooriaid ning teavet selle kohta, kas tema isikuandmed edastatakse välisriigile või rahvusvahelisele organisatsioonile;
 
-3) õigust nõuda tema isikuandmete töötlemise piiramist;
+- 3) õigust nõuda tema isikuandmete töötlemise piiramist;
 
-4) õigust esitada vastuväiteid tema isikuandmete töötlemise kohta;
+- 4) õigust esitada vastuväiteid tema isikuandmete töötlemise kohta;
 
-5) õigust saada teada tema isikuandmetega seotud rikkumisest.
+- 5) õigust saada teada tema isikuandmetega seotud rikkumisest.
 
 (6) Kriminaalmenetluses töödeldavate isikuandmete kaasvastutavad töötlejad on menetlejad vastavalt oma pädevusele.
 

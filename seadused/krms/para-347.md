@@ -4,25 +4,25 @@
 
 (2) Kassatsioonis märgitakse:
 
-1) kassaatori nimi, menetlusseisund ja asukoha aadress ning telefoni- ja muu sidevahendi number;
+- 1) kassaatori nimi, menetlusseisund ja asukoha aadress ning telefoni- ja muu sidevahendi number;
 
-2) selle kohtu nimetus, kelle lahend vaidlustatakse, ja kohtulahendi kuupäev;
+- 2) selle kohtu nimetus, kelle lahend vaidlustatakse, ja kohtulahendi kuupäev;
 
-3) selle kohtumenetluse poole nimi, kelle huvides või kelle vastu kassatsioon esitatakse, tema elu- või asukoha aadress ning telefoni- ja muu sidevahendi number;
+- 3) selle kohtumenetluse poole nimi, kelle huvides või kelle vastu kassatsioon esitatakse, tema elu- või asukoha aadress ning telefoni- ja muu sidevahendi number;
 
-4) kassatsiooni alus käesoleva seadustiku § 346 järgi ja viide materiaalõiguse või kriminaalmenetlusõiguse asjakohasele sättele;
+- 4) kassatsiooni alus käesoleva seadustiku § 346 järgi ja viide materiaalõiguse või kriminaalmenetlusõiguse asjakohasele sättele;
 
-5) kohtuotsusega tuvastatud faktilised asjaolud või kohtus uuritud tõendid, millele tuginedes kassaator põhjendab materiaalõiguse ebaõiget kohaldamist või kriminaalmenetlusõiguse olulist rikkumist;
+- 5) kohtuotsusega tuvastatud faktilised asjaolud või kohtus uuritud tõendid, millele tuginedes kassaator põhjendab materiaalõiguse ebaõiget kohaldamist või kriminaalmenetlusõiguse olulist rikkumist;
 
-6) dokumentide loetelu, mida kassaator peab vajalikuks kassatsioonimenetluses täiendavalt esitada kriminaalmenetlusõiguse olulise rikkumise tuvastamiseks;
+- 6) dokumentide loetelu, mida kassaator peab vajalikuks kassatsioonimenetluses täiendavalt esitada kriminaalmenetlusõiguse olulise rikkumise tuvastamiseks;
 
-7) kassaatori taotluse sisu ja taotluse põhjendus;
+- 7) kassaatori taotluse sisu ja taotluse põhjendus;
 
-8)
+- 8) [Kehtetu]
 
-9) põhjendus suulise menetluse vajalikkuse kohta, kui kassaator taotleb suulist menetlust;
+- 9) põhjendus suulise menetluse vajalikkuse kohta, kui kassaator taotleb suulist menetlust;
 
-10) kassatsioonile lisatud dokumentide loetelu.
+- 10) kassatsioonile lisatud dokumentide loetelu.
 
 (3) Kassatsioonile lisatakse kassaatori volitusi tõendav dokument, kui kassaator on advokaat ja tema volikirja ei ole kohtutoimikus.
 

@@ -6,11 +6,11 @@
 
 (3) Objektikogumit ei moodustata, kui äratundmiseks esitatakse:
 
-1) laip;
+- 1) laip;
 
-2) paikkond, hoone, ruum või muu objekt, mille puhul ei ole võimalik objekte ühel ajal esitada;
+- 2) paikkond, hoone, ruum või muu objekt, mille puhul ei ole võimalik objekte ühel ajal esitada;
 
-3) oma tunnustelt teistest oluliselt erinev objekt, mille puhul ei ole võimalik moodustada omavahel sarnanevate objektide kogumit.
+- 3) oma tunnustelt teistest oluliselt erinev objekt, mille puhul ei ole võimalik moodustada omavahel sarnanevate objektide kogumit.
 
 (4) Vajaduse korral esitatakse isik, asi või muu objekt äratundmiseks foto, filmi või heli- või videosalvestise järgi.
 
@@ -20,6 +20,6 @@
 
 (7) Objekti või objektikogumi äratundmiseks esitamisel seda pildistatakse või see videosalvestatakse.
 
-(8) Äratundmiseks esitamise käigus ütluste võtmisel järgitakse käesoleva seadustiku § 66 lõiget 21 ja § 68 lõikeid 2–6.
+(8) Äratundmiseks esitamise käigus ütluste võtmisel järgitakse käesoleva seadustiku § 66 lõiget 2¹ ja § 68 lõikeid 2–6.
 
 (9) Menetleja võib korraldada äratundja osavõtu äratundmiseks esitamisest tehnilise lahenduse abil, mis vastab käesoleva seadustiku § 69 lõike 2 punktis 1 nimetatud nõuetele.

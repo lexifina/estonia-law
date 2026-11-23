@@ -2,15 +2,15 @@
 
 (1) Euroopa vahistamismääruses märgitakse:
 
-1) asjaomase isiku andmed ja kodakondsus;
+- 1) asjaomase isiku andmed ja kodakondsus;
 
-2) vahistamismääruse teinud õigusasutuse nimi ja kontaktandmed;
+- 2) vahistamismääruse teinud õigusasutuse nimi ja kontaktandmed;
 
-3) märge jõustunud kohtuotsuse või vahi alla võtmise määruse kohta;
+- 3) märge jõustunud kohtuotsuse või vahi alla võtmise määruse kohta;
 
-4) kuriteo asjaolud ja kvalifikatsioon;
+- 4) kuriteo asjaolud ja kvalifikatsioon;
 
-5) jõustunud kohtuotsuse korral määratud karistus või määruse sisuks oleva kuriteo eest ettenähtud karistusmäär määruse teinud riigi õiguse alusel.
+- 5) jõustunud kohtuotsuse korral määratud karistus või määruse sisuks oleva kuriteo eest ettenähtud karistusmäär määruse teinud riigi õiguse alusel.
 
 (2) Euroopa vahistamismääruse vormi kehtestab valdkonna eest vastutav minister määrusega.
 

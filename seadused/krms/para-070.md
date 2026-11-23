@@ -4,9 +4,11 @@
 
 (2) Kui menetlejal endal asjakohane väljaõpe puudub, siis on lastekaitsetöötaja, sotsiaaltöötaja, õpetaja või psühholoogi kaasamine alaealise ülekuulamisse kohustuslik, kui:
 
-1) tunnistaja on noorem kui kümneaastane ja korduv ülekuulamine võib mõjuda kahjulikult alaealise psüühikale 2) tunnistaja on noorem kui neljateistaastane ja ülekuulamine on seotud perevägivalla või seksuaalse väärkohtlemisega;
+- 1) tunnistaja on noorem kui kümneaastane ja korduv ülekuulamine võib mõjuda kahjulikult alaealise psüühikale
 
-3) tunnistaja on kõne-, meele-, vaimupuudega või psüühikahäiretega.
+- 2) tunnistaja on noorem kui neljateistaastane ja ülekuulamine on seotud perevägivalla või seksuaalse väärkohtlemisega;
+
+- 3) tunnistaja on kõne-, meele-, vaimupuudega või psüühikahäiretega.
 
 (3) Vajaduse korral alaealise ülekuulamine videosalvestatakse. Käesoleva paragrahvi lõikes 2 nimetatud juhul alaealise ülekuulamine videosalvestatakse, kui on kavas kasutada seda ülekuulamist tõendina kohtumenetluses, sest alaealise vahetu ülekuulamine kohtus ei ole võimalik tema vanuse või vaimse seisundi tõttu.
 

@@ -2,10 +2,10 @@
 
 Riigikohtus vaatab kriminaalasja kassatsiooni korras läbi:
 
-1) kriminaalkolleegiumi kolmeliikmeline koosseis;
+- 1) kriminaalkolleegiumi kolmeliikmeline koosseis;
 
-2) kriminaalkolleegiumi kogu koosseis;
+- 2) kriminaalkolleegiumi kogu koosseis;
 
-3) Riigikohtu erikogu;
+- 3) Riigikohtu erikogu;
 
-4) Riigikohtu üldkogu.
+- 4) Riigikohtu üldkogu.

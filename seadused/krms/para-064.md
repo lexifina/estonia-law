@@ -10,4 +10,4 @@
 
 (5) Vajaduse korral hoiatatakse menetlustoimingus osalejaid, et käesoleva seadustiku § 214 kohaselt ei ole lubatud kohtueelse menetluse andmeid avaldada.
 
-(6) Jälitustoiminguga tõendite kogumine on reguleeritud käesoleva seadustiku peatükis 31.
+(6) Jälitustoiminguga tõendite kogumine on reguleeritud käesoleva seadustiku peatükis 3¹.

@@ -4,9 +4,9 @@
 
 (2) Tagaotsitavaks kuulutamise määruses märgitakse:
 
-1) kuriteo asjaolud;
+- 1) kuriteo asjaolud;
 
-2) tagaotsitava nimi, menetlusseisund ning elu- ja töökoht või õppeasutuse nimetus.
+- 2) tagaotsitava nimi, menetlusseisund ning elu- ja töökoht või õppeasutuse nimetus.
 
 (2¹) Vajaduse korral märgib menetleja tagaotsitavaks kuulutamise määrusesse kohustuse toimetada tagaotsitav tabamisel menetleja juurde, järgides sundtoomise kohta sätestatut.
 

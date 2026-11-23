@@ -2,11 +2,11 @@
 
 (1) Ülekuulamisprotokolli kantakse:
 
-1) tunnistaja nimi, isikukood või selle puudumisel sünniaeg, kodakondsus, haridus, elu- ja töökoht või õppeasutuse nimetus;
+- 1) tunnistaja nimi, isikukood või selle puudumisel sünniaeg, kodakondsus, haridus, elu- ja töökoht või õppeasutuse nimetus;
 
-2) mis laadi suhted on ülekuulataval kahtlustatava või kannatanuga;
+- 2) mis laadi suhted on ülekuulataval kahtlustatava või kannatanuga;
 
-3) ütlused.
+- 3) ütlused.
 
 (2) Täiend- või kordusülekuulamisel koostatavas ülekuulamisprotokollis ei korrata ülekuulatava isiku andmeid ega andmeid tema ja kahtlustatava või kannatanu suhete kohta, vaid viidatakse esmaülekuulamise protokollile.
 

@@ -10,11 +10,11 @@
 
 (5) Pärast kohtuotsuse või selle resolutiivosa kuulutamist kohtunik või eesistuja:
 
-1) teatab kohtuotsuse resolutiivosa kuulutades päeva, millal kohtuotsus on kohtumenetluse pooltele kohtus tutvumiseks kättesaadav, tehes sellekohase märke kohtuistungi protokolli;
+- 1) teatab kohtuotsuse resolutiivosa kuulutades päeva, millal kohtuotsus on kohtumenetluse pooltele kohtus tutvumiseks kättesaadav, tehes sellekohase märke kohtuistungi protokolli;
 
-2) teatab kohtuotsuse peale edasikaebamise tähtaja ning selgitab käesoleva seadustiku §-s 318 sätestatud edasikaebamise korda ja apellatsiooniõigusest loobumise võimalust;
+- 2) teatab kohtuotsuse peale edasikaebamise tähtaja ning selgitab käesoleva seadustiku §-s 318 sätestatud edasikaebamise korda ja apellatsiooniõigusest loobumise võimalust;
 
-3) selgitab, et apellatsiooniõiguse kasutamise soovist tuleb maakohtule kirjalikult teatada seitsme päeva jooksul alates kohtuotsuse resolutiivosa kuulutamisest, ja selgitab selle õiguse kasutamise soovist teatamise tagajärgi käesoleva seadustiku § 319 lõike 1 teise lause kohaselt.
+- 3) selgitab, et apellatsiooniõiguse kasutamise soovist tuleb maakohtule kirjalikult teatada seitsme päeva jooksul alates kohtuotsuse resolutiivosa kuulutamisest, ja selgitab selle õiguse kasutamise soovist teatamise tagajärgi käesoleva seadustiku § 319 lõike 1 teise lause kohaselt.
 
 (6) Apellatsiooniõigusest loobumine kantakse kohtuistungi protokolli. Kaitsja võib apellatsiooniõigusest loobuda üksnes kaitsealuse kirjalikul nõusolekul.
 

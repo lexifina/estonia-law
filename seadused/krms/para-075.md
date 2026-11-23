@@ -8,4 +8,4 @@
 
 (3¹) Kahtlustataval ja tema kaitsjal on õigus saada ülekuulamise käigus koopia kahtlustatava ülekuulamise protokollist käesoleva seadustiku § 76 lõike 1 punktides 1–3 sätestatud ulatuses.
 
-(4) Kahtlustatava ülekuulamisel järgitakse käesoleva seadustiku § 66 lõiget 21, § 68 lõikeid 3–6 ning § 69 lõikeid 1 ja 2. Vajaduse korral alaealise kahtlustatava ülekuulamine salvestatakse.
+(4) Kahtlustatava ülekuulamisel järgitakse käesoleva seadustiku § 66 lõiget 2¹, § 68 lõikeid 3–6 ning § 69 lõikeid 1 ja 2. Vajaduse korral alaealise kahtlustatava ülekuulamine salvestatakse.

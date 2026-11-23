@@ -1,10 +1,10 @@
 # § 137¹. Vahistamise asendamine elektroonilise valvega
 
-(1) Kahtlustatava, süüdistatava või prokuröri taotlusel võib eeluurimiskohtunik või kohus vahistatu nõusolekul asendada vahistamise kohustusega alluda karistusseadustiku § 751 lõikes 1 sätestatud elektroonilisele valvele. Elektroonilise valve all olemise aega ei loeta eelvangistuseks või kinnipidamiseks ning seda ei arvestata karistusaja hulka.
+(1) Kahtlustatava, süüdistatava või prokuröri taotlusel võib eeluurimiskohtunik või kohus vahistatu nõusolekul asendada vahistamise kohustusega alluda karistusseadustiku § 75¹ lõikes 1 sätestatud elektroonilisele valvele. Elektroonilise valve all olemise aega ei loeta eelvangistuseks või kinnipidamiseks ning seda ei arvestata karistusaja hulka.
 
-(1¹) Elektroonilisele valvele määratud tähtaja või karistusseadustiku §-s 751 sätestatud tähtaja saabumisel otsustab eeluurimiskohtunik prokuratuuri taotlusel või kohus edasise tõkendi kohaldamise.
+(1¹) Elektroonilisele valvele määratud tähtaja või karistusseadustiku §-s 75¹ sätestatud tähtaja saabumisel otsustab eeluurimiskohtunik prokuratuuri taotlusel või kohus edasise tõkendi kohaldamise.
 
-(1²) Kohtueelses menetluses isiku suhtes elektroonilise valve kohaldamise tähtajale kohaldatakse karistusseadustiku § 751 lõikes 3 sätestatut.
+(1²) Kohtueelses menetluses isiku suhtes elektroonilise valve kohaldamise tähtajale kohaldatakse karistusseadustiku § 75¹ lõikes 3 sätestatut.
 
 (2) [Kehtetu]
 

@@ -4,9 +4,9 @@
 
 (2) Kaitsja määrab uurimisasutus, prokuratuur või kohus, kui:
 
-1) kahtlustatav või süüdistatav ei ole endale kaitsjat valinud, kuid on taotlenud kaitsja määramist;
+- 1) kahtlustatav või süüdistatav ei ole endale kaitsjat valinud, kuid on taotlenud kaitsja määramist;
 
-2) kahtlustatav või süüdistatav ei ole endale kaitsjat taotlenud, kuid kaitsja osavõtt on kohustuslik käesoleva seadustiku § 45 järgi.
+- 2) kahtlustatav või süüdistatav ei ole endale kaitsjat taotlenud, kuid kaitsja osavõtt on kohustuslik käesoleva seadustiku § 45 järgi.
 
 (3) Menetleja teavitab kahtlustatavat või süüdistatavat viivitamata talle kaitsja määramisest ning edastab talle Eesti Advokatuuri nimetatud riigi õigusabi osutava advokaadi kontaktandmed.
 

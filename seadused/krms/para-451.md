@@ -2,21 +2,21 @@
 
 (1) Välisriigile isiku väljaandmise taotluse lahendamisel teeb kohus ühe järgmistest määrustest:
 
-1) tunnistab väljaandmise õiguslikult lubatavaks;
+- 1) tunnistab väljaandmise õiguslikult lubatavaks;
 
-2) tunnistab väljaandmise õiguslikult lubamatuks.
+- 2) tunnistab väljaandmise õiguslikult lubamatuks.
 
 (2) Määruses märgitakse:
 
-1) väljaandmismenetlusele allutatud isiku nimi ning isikukood või selle puudumisel sünniaeg ja -koht;
+- 1) väljaandmismenetlusele allutatud isiku nimi ning isikukood või selle puudumisel sünniaeg ja -koht;
 
-2) läbivaadatud taotluse sisu;
+- 2) läbivaadatud taotluse sisu;
 
-3) kohtuistungil osalenud isikute seisukohad;
+- 3) kohtuistungil osalenud isikute seisukohad;
 
-4) kohtu otsustus ja põhjendused väljaandmise õigusliku lubatavuse kohta;
+- 4) kohtu otsustus ja põhjendused väljaandmise õigusliku lubatavuse kohta;
 
-5) kohtu otsustus ja põhjendused väljaandmisvahistuse kohta.
+- 5) kohtu otsustus ja põhjendused väljaandmisvahistuse kohta.
 
 (3) Määruse koopia edastatakse viivitamata väljaandmismenetlusele allutatud isikule, tema kaitsjale, Riigiprokuratuurile ja Justiits- ja Digiministeeriumile.
 

@@ -2,15 +2,15 @@
 
 (1) Kohus jätab tsiviilhagi või avalik-õigusliku nõudeavalduse läbi vaatamata, kui:
 
-1) isik, kelle huvides või kelle vastu tsiviilhagi või avalik-õiguslik nõudeavaldus on esitatud, või nõue, mis selles on esitatud, ei vasta käesoleva seadustiku § 381 lõikes 1 või 2, §-s 371 või § 39 lõikes 1 sätestatud tingimustele;
+- 1) isik, kelle huvides või kelle vastu tsiviilhagi või avalik-õiguslik nõudeavaldus on esitatud, või nõue, mis selles on esitatud, ei vasta käesoleva seadustiku § 38¹ lõikes 1 või 2, §-s 37¹ või § 39 lõikes 1 sätestatud tingimustele;
 
-2) kannatanu on võtnud tsiviilhagi tagasi;
+- 2) kannatanu on võtnud tsiviilhagi tagasi;
 
-3) kannatanu ei ole tasunud riigilõivu, kui riigilõivu tasumine on seaduse järgi kohustuslik;
+- 3) kannatanu ei ole tasunud riigilõivu, kui riigilõivu tasumine on seaduse järgi kohustuslik;
 
-4) kriminaalmenetlus lõpetatakse;
+- 4) kriminaalmenetlus lõpetatakse;
 
-5) esineb muu seaduses nimetatud alus.
+- 5) esineb muu seaduses nimetatud alus.
 
 (2) Tsiviilhagi või avalik-õigusliku nõudeavalduse läbi vaatamata jätmine vormistatakse kohtumäärusega.
 

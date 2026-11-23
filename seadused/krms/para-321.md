@@ -4,23 +4,23 @@
 
 (2) Apellatsioonis märgitakse:
 
-1) selle ringkonnakohtu nimetus, kellele apelleeritakse;
+- 1) selle ringkonnakohtu nimetus, kellele apelleeritakse;
 
-2) apellandi nimi, menetlusseisund ning elu- või asukoht, aadress ja telefoninumber;
+- 2) apellandi nimi, menetlusseisund ning elu- või asukoht, aadress ja telefoninumber;
 
-3) kohtuotsuse teinud kohtu nimetus, otsuse kuupäev ning süüdistatava nimi, kelle suhtes kohtuotsus vaidlustatakse;
+- 3) kohtuotsuse teinud kohtu nimetus, otsuse kuupäev ning süüdistatava nimi, kelle suhtes kohtuotsus vaidlustatakse;
 
-4) millises osas kohtuotsus vaidlustatakse, apellandi nõuete sisu ja motiivid ning apellandi taotlused;
+- 4) millises osas kohtuotsus vaidlustatakse, apellandi nõuete sisu ja motiivid ning apellandi taotlused;
 
-5) tõendid, mida apellandi taotlusel on vaja ringkonnakohtus uurida, ja selle isiku nimi ning elu- või asukoht ja aadress, kelle kutsumist apellatsioonikohtu istungile taotletakse;
+- 5) tõendid, mida apellandi taotlusel on vaja ringkonnakohtus uurida, ja selle isiku nimi ning elu- või asukoht ja aadress, kelle kutsumist apellatsioonikohtu istungile taotletakse;
 
-5¹) kas apellant taotleb suulist menetlust;
+- 5¹) kas apellant taotleb suulist menetlust;
 
-6) kas süüdistatav soovib ringkonnakohtus kriminaalasja arutamises osaleda või taotleb, et kriminaalasja arutataks tema osavõtuta;
+- 6) kas süüdistatav soovib ringkonnakohtus kriminaalasja arutamises osaleda või taotleb, et kriminaalasja arutataks tema osavõtuta;
 
-7) kas süüdistatav valib endale apellatsioonimenetluseks kaitsja ise või taotleb kohtult kaitsja määramist;
+- 7) kas süüdistatav valib endale apellatsioonimenetluseks kaitsja ise või taotleb kohtult kaitsja määramist;
 
-8) apellatsioonile lisatud dokumentide loetelu.
+- 8) apellatsioonile lisatud dokumentide loetelu.
 
 (3) Apellatsiooni allkirjastab ja kuupäevastab apellant.
 

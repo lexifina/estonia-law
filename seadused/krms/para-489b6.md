@@ -2,69 +2,69 @@
 
 (1) Euroopa Liidu kriminaalmenetlusalase koostöö sätete alusel on kohtuotsuse või muu asutuse otsuse tunnustamine ja täitmine lubatud, sõltumata teo karistatavusest Eesti seaduste järgi, kui taotlevas riigis on karistuse ülemmäärana ette nähtud vähemalt kolmeaastane vangistus järgmiste kuritegude toimepanemise eest:
 
-1) kuritegelikus ühenduses osalemine;
+- 1) kuritegelikus ühenduses osalemine;
 
-2) terrorism;
+- 2) terrorism;
 
-3) inimkaubandus;
+- 3) inimkaubandus;
 
-4) lapse seksuaalne ärakasutamine ja lapsporno;
+- 4) lapse seksuaalne ärakasutamine ja lapsporno;
 
-5) narkootilise ja psühhotroopse ainega ebaseaduslik kauplemine ning nende ebaseaduslik sisse- ja väljavedu;
+- 5) narkootilise ja psühhotroopse ainega ebaseaduslik kauplemine ning nende ebaseaduslik sisse- ja väljavedu;
 
-6) relva, laskemoona ja lõhkeainega ebaseaduslik kauplemine ning nende ebaseaduslik sisse- ja väljavedu;
+- 6) relva, laskemoona ja lõhkeainega ebaseaduslik kauplemine ning nende ebaseaduslik sisse- ja väljavedu;
 
-7) korruptsioon;
+- 7) korruptsioon;
 
-8) pettus, sealhulgas pettus Euroopa ühenduste 26. juuli 1995. aasta Euroopa ühenduste finantshuvide kaitse konventsiooni tähenduses;
+- 8) pettus, sealhulgas pettus Euroopa ühenduste 26. juuli 1995. aasta Euroopa ühenduste finantshuvide kaitse konventsiooni tähenduses;
 
-9) rahapesu;
+- 9) rahapesu;
 
-10) raha võltsimine;
+- 10) raha võltsimine;
 
-11) arvutikuritegu;
+- 11) arvutikuritegu;
 
-12) keskkonnavastane kuritegu, sealhulgas ohustatud looma- ja taimeliikide ning taimesortidega ebaseaduslik kauplemine ning nende ebaseaduslik sisse- ja väljavedu;
+- 12) keskkonnavastane kuritegu, sealhulgas ohustatud looma- ja taimeliikide ning taimesortidega ebaseaduslik kauplemine ning nende ebaseaduslik sisse- ja väljavedu;
 
-13) ebaseaduslikule piiriületamisele ja ebaseaduslikule riigis viibimisele kaasaaitamine;
+- 13) ebaseaduslikule piiriületamisele ja ebaseaduslikule riigis viibimisele kaasaaitamine;
 
-14) tapmine, raske tervisekahjustuse tekitamine;
+- 14) tapmine, raske tervisekahjustuse tekitamine;
 
-15) inimorganite ja -kudedega ebaseaduslik kauplemine;
+- 15) inimorganite ja -kudedega ebaseaduslik kauplemine;
 
-16) inimrööv, ebaseaduslik vabaduse võtmine ja pantvangi võtmine;
+- 16) inimrööv, ebaseaduslik vabaduse võtmine ja pantvangi võtmine;
 
-17) rassism ja ksenofoobia;
+- 17) rassism ja ksenofoobia;
 
-18) organiseeritud või relvastatud vargus või röövimine;
+- 18) organiseeritud või relvastatud vargus või röövimine;
 
-19) kultuuriväärtustega ebaseaduslik kauplemine ning nende ebaseaduslik sisse- ja väljavedu;
+- 19) kultuuriväärtustega ebaseaduslik kauplemine ning nende ebaseaduslik sisse- ja väljavedu;
 
-20) kelmus;
+- 20) kelmus;
 
-21) väljapressimine;
+- 21) väljapressimine;
 
-22) piraatkoopia ja võltsitud kauba valmistamine ning nendega kauplemine;
+- 22) piraatkoopia ja võltsitud kauba valmistamine ning nendega kauplemine;
 
-23) haldusdokumendi võltsimine ja sellega kauplemine;
+- 23) haldusdokumendi võltsimine ja sellega kauplemine;
 
-24) maksevahendi võltsimine;
+- 24) maksevahendi võltsimine;
 
-25) hormoonpreparaatide ja kasvukiirendajatega ebaseaduslik kauplemine ning nende ebaseaduslik sisse- ja väljavedu;
+- 25) hormoonpreparaatide ja kasvukiirendajatega ebaseaduslik kauplemine ning nende ebaseaduslik sisse- ja väljavedu;
 
-26) tuumamaterjali ja radioaktiivse ainega ebaseaduslik kauplemine ning nende ebaseaduslik sisse- ja väljavedu;
+- 26) tuumamaterjali ja radioaktiivse ainega ebaseaduslik kauplemine ning nende ebaseaduslik sisse- ja väljavedu;
 
-27) varastatud sõidukitega kauplemine;
+- 27) varastatud sõidukitega kauplemine;
 
-28) vägistamine;
+- 28) vägistamine;
 
-29) süütamine;
+- 29) süütamine;
 
-30) Rahvusvahelisele Kriminaalkohtule alluvad kuriteod;
+- 30) Rahvusvahelisele Kriminaalkohtule alluvad kuriteod;
 
-31) õhusõiduki või laeva kaaperdamine;
+- 31) õhusõiduki või laeva kaaperdamine;
 
-32) sabotaaž.
+- 32) sabotaaž.
 
 (2) Muude kui käesoleva paragrahvi lõikes 1 nimetatud kuritegude puhul on Euroopa Liidu kriminaalmenetlusalase koostöö sätete alusel kohtuotsuse või muu asutuse otsuse tunnustamine ja täitmine lubatud üksnes juhul, kui vastav tegu on Eestis kuriteona karistatav.
 

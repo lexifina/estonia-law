@@ -1,6 +1,6 @@
 # § 431. Kohtulahendi täitmisel tekkivate küsimuste lahendamine
 
-(1) Käesoleva seadustiku §-des 424–4281 ja 430 reguleerimata küsimused ning muud kohtulahendi täitmisel ilmnevad kahtlused ja ebaselgused lahendab lahendi teinud kohus või kohtulahendit täitmisele pöörava maakohtu täitmiskohtunik määrusega.
+(1) Käesoleva seadustiku §-des 424–428¹ ja 430 reguleerimata küsimused ning muud kohtulahendi täitmisel ilmnevad kahtlused ja ebaselgused lahendab lahendi teinud kohus või kohtulahendit täitmisele pöörava maakohtu täitmiskohtunik määrusega.
 
 (2) Käesoleva paragrahvi lõikes 1 sätestatut kohaldatakse ka karistusseadustiku § 5 lõikes 2 sätestatust tulenevalt.
 

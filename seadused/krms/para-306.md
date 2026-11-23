@@ -2,43 +2,43 @@
 
 (1) Kohtuotsuse tegemisel lahendab kohus järgmised küsimused:
 
-1) kas leidis aset tegu, milles süüdistatavat süüdistatakse;
+- 1) kas leidis aset tegu, milles süüdistatavat süüdistatakse;
 
-2) kas teo on toime pannud süüdistatav;
+- 2) kas teo on toime pannud süüdistatav;
 
-3) kas tegu on kuritegu ning millise paragrahvi, lõike ja punkti järgi karistusseadustikus tuleb see kvalifitseerida;
+- 3) kas tegu on kuritegu ning millise paragrahvi, lõike ja punkti järgi karistusseadustikus tuleb see kvalifitseerida;
 
-4) kas süüdistatav on süüdi kuriteo toimepanemises;
+- 4) kas süüdistatav on süüdi kuriteo toimepanemises;
 
-5) kas on kergendavaid ja raskendavaid asjaolusid;
+- 5) kas on kergendavaid ja raskendavaid asjaolusid;
 
-6) milline karistus tuleb süüdistatavale mõista;
+- 6) milline karistus tuleb süüdistatavale mõista;
 
-6¹) kas karistust tuleb mõistliku menetlusaja ületamise tõttu kergendada;
+- 6¹) kas karistust tuleb mõistliku menetlusaja ületamise tõttu kergendada;
 
-7) kas süüdistatav tuleb karistusest vabastada või tuleb talle kohaldada asenduskaristust;
+- 7) kas süüdistatav tuleb karistusest vabastada või tuleb talle kohaldada asenduskaristust;
 
-7¹)
+- 7¹) [Kehtetu]
 
-8) kas alaealist süüdistatavat tuleb toimepandud kuriteo eest karistada või tuleb talle kohaldada mittekaristuslikku mõjutusvahendit;
+- 8) kas alaealist süüdistatavat tuleb toimepandud kuriteo eest karistada või tuleb talle kohaldada mittekaristuslikku mõjutusvahendit;
 
-9) kas süüdimõistmise korral tuleb valida uus tõkend, jätta tõkend muutmata, tõkend muuta või tühistada;
+- 9) kas süüdimõistmise korral tuleb valida uus tõkend, jätta tõkend muutmata, tõkend muuta või tühistada;
 
-10) milliseid meetmeid on vaja süüdistatava süüdimõistmise ja vangistusega karistamise korral võtta tema järelevalveta jäävate alaealiste laste ja vara suhtes;
+- 10) milliseid meetmeid on vaja süüdistatava süüdimõistmise ja vangistusega karistamise korral võtta tema järelevalveta jäävate alaealiste laste ja vara suhtes;
 
-11) kas ja millises ulatuses rahuldada tsiviilhagi või avalik-õiguslik nõudeavaldus või hüvitada kuriteoga tekitatud kahju;
+- 11) kas ja millises ulatuses rahuldada tsiviilhagi või avalik-õiguslik nõudeavaldus või hüvitada kuriteoga tekitatud kahju;
 
-12) kas on vaja võtta meetmeid tsiviilhagi või avalik-õigusliku nõudeavalduse, konfiskeerimise või selle asendamise tagamiseks;
+- 12) kas on vaja võtta meetmeid tsiviilhagi või avalik-õigusliku nõudeavalduse, konfiskeerimise või selle asendamise tagamiseks;
 
-12¹) kas konfiskeerimise asendamise korras väljamõistetav summa tuleb tasuda korraga või ositi, kusjuures arvestades süüdimõistetu varalist seisundit ja resotsialiseerumisväljavaateid võib kohus ajatada kuni kahe aasta võrra väljamõistetud summa tervikuna või ositi tasumise tähtaega või määrata selle tasumise kindlaksmääratud tähtaegadel osade kaupa;
+- 12¹) kas konfiskeerimise asendamise korras väljamõistetav summa tuleb tasuda korraga või ositi, kusjuures arvestades süüdimõistetu varalist seisundit ja resotsialiseerumisväljavaateid võib kohus ajatada kuni kahe aasta võrra väljamõistetud summa tervikuna või ositi tasumise tähtaega või määrata selle tasumise kindlaksmääratud tähtaegadel osade kaupa;
 
-13) kuidas toimida asitõendite ja kriminaalmenetluses äravõetud, arestitud või konfiskeerimisele kuuluvate muude objektidega;
+- 13) kuidas toimida asitõendite ja kriminaalmenetluses äravõetud, arestitud või konfiskeerimisele kuuluvate muude objektidega;
 
-14) millised on kriminaalmenetluse kulud ja kelle kanda need jäävad;
+- 14) millised on kriminaalmenetluse kulud ja kelle kanda need jäävad;
 
-15) kas kohtulahendi lisaks on § 145 lõikes 41 või § 159 lõikes 3 nimetatud dokument, mis sisaldab nõude tasumiseks vajalikke andmeid;
+- 15) kas kohtulahendi lisaks on § 145 lõikes 4¹ või § 159 lõikes 3 nimetatud dokument, mis sisaldab nõude tasumiseks vajalikke andmeid;
 
-16) kas ja millises ulatuses rahuldada isiku taotlus hüvitada talle süüteomenetluses tekitatud kahju süüteomenetluses tekitatud kahju hüvitamise seaduse kohaselt.
+- 16) kas ja millises ulatuses rahuldada isiku taotlus hüvitada talle süüteomenetluses tekitatud kahju süüteomenetluses tekitatud kahju hüvitamise seaduse kohaselt.
 
 (2) Käesoleva paragrahvi lõikes 1 loetletud küsimused lahendatakse iga süüdistatava ja kuriteo puhul eraldi.
 

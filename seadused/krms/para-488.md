@@ -2,11 +2,11 @@
 
 (1) Eesti võib välisriigilt taotleda isikule Eesti karistusseadustiku või muu seaduse alusel mõistetud karistuse või muu mõjutusvahendi täitmist, kui:
 
-1) süüdimõistetu on täitva riigi kodanik või alaline elanik või kui ta viibib täitvas riigis ja teda ei anta välja;
+- 1) süüdimõistetu on täitva riigi kodanik või alaline elanik või kui ta viibib täitvas riigis ja teda ei anta välja;
 
-1¹) süüdimõistetu on juriidiline isik, kelle registrijärgne asukoht on täitvas riigis;
+- 1¹) süüdimõistetu on juriidiline isik, kelle registrijärgne asukoht on täitvas riigis;
 
-2) karistuse täitmist välisriigis nõuavad süüdimõistetu või avalikkuse huvid.
+- 2) karistuse täitmist välisriigis nõuavad süüdimõistetu või avalikkuse huvid.
 
 (2) Kui süüdimõistetu viibib Eestis, võib taotleda välisriigilt ka vangistuse täitmist, kui süüdimõistetu on enda üleandmisega nõus. Nõusolek on kirjalik ja seda ei saa tagasi võtta.
 

@@ -4,17 +4,17 @@
 
 (2) Kui prokuratuur leiab, et isikut, kes pani kuriteo toime vähemalt neljateist-, kuid alla kaheksateistaastasena, saab mõjutada karistust või karistusseadustiku §-s 87 ettenähtud mõjutusvahendit kohaldamata, võib prokuratuur kriminaalmenetluse lõpetada, isikut hoiatada ning vajaduse korral kohaldada tema nõusolekul järgmisi kohustusi:
 
-1) 10–60 tundi üldkasulikku tööd;
+- 1) 10–60 tundi üldkasulikku tööd;
 
-2) kuriteoga tekitatud kahju hüvitamine või heastamine;
+- 2) kuriteoga tekitatud kahju hüvitamine või heastamine;
 
-3) sotsiaalprogramm;
+- 3) sotsiaalprogramm;
 
-4) sõltuvus- või muu ravi;
+- 4) sõltuvus- või muu ravi;
 
-5) vahendusteenus;
+- 5) vahendusteenus;
 
-6) muu asjakohane kohustus.
+- 6) muu asjakohane kohustus.
 
 (3) Prokuratuur määrab käesoleva paragrahvi lõike 2 alusel kohustuse täitmiseks tähtaja, mis ei või olla pikem kui kümme kuud. Kui isik ei täida määratud tähtaja jooksul talle pandud kohustust, võib prokuratuur kriminaalmenetluse määrusega uuendada.
 

@@ -6,10 +6,10 @@
 
 (3) Riigikohtu erikogu koosseisu kuuluvad:
 
-1) Riigikohtu esimees eesistujana;
+- 1) Riigikohtu esimees eesistujana;
 
-2) kaks riigikohtunikku kriminaalkolleegiumist;
+- 2) kaks riigikohtunikku kriminaalkolleegiumist;
 
-3) kaks riigikohtunikku sellest kolleegiumist, kelle seisukoha seaduse kohaldamise kohta on kriminaalkolleegium vaidlustanud.
+- 3) kaks riigikohtunikku sellest kolleegiumist, kelle seisukoha seaduse kohaldamise kohta on kriminaalkolleegium vaidlustanud.
 
 (4) Erikogu istungil on ettekandja kriminaalkolleegiumi liige.

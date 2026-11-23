@@ -2,15 +2,15 @@
 
 (1) Käskmenetluses koostab prokuratuur süüdistusakti, mille põhiosas esitatakse:
 
-1) kuriteo asjaolud;
+- 1) kuriteo asjaolud;
 
-2) kuriteo kvalifikatsioon;
+- 2) kuriteo kvalifikatsioon;
 
-3) kuriteoga tekitatud kahju laad ja suurus;
+- 3) kuriteoga tekitatud kahju laad ja suurus;
 
-4) süüdistust kinnitavad tõendid;
+- 4) süüdistust kinnitavad tõendid;
 
-5) ettepanek karistuse liigi ja määra kohta.
+- 5) ettepanek karistuse liigi ja määra kohta.
 
 (2) Süüdistusakt ja kriminaalasja materjalid saadetakse kohtusse ning akti koopiad edastatakse süüdistatavale ja tema kaitsjale.
 

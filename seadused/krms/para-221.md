@@ -1,6 +1,6 @@
 # § 221. Andmete nõudmine varalise karistuse mõistmiseks ja kuriteoga saadud vara konfiskeerimiseks
 
-(1) Kui isikut kahtlustatakse või süüdistatakse kuriteos, mille eest võib seaduse kohaselt mõista varalise karistuse või kohaldada konfiskeerimist karistusseadustiku § 832 alusel, võib uurimisasutus määrusega teha vajalike andmete kogumise ülesandeks kohtutäiturile.
+(1) Kui isikut kahtlustatakse või süüdistatakse kuriteos, mille eest võib seaduse kohaselt mõista varalise karistuse või kohaldada konfiskeerimist karistusseadustiku § 83² alusel, võib uurimisasutus määrusega teha vajalike andmete kogumise ülesandeks kohtutäiturile.
 
 (2) Prokuratuur ja kohus võivad vajaduse korral nõuda varalise karistuse arvutamiseks vajalikke või konfiskeerimisega seotud täiendavaid andmeid.
 

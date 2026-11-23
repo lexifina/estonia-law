@@ -2,25 +2,25 @@
 
 (1) Menetluskulud on:
 
-1) valitud kaitsjale või esindajale makstud mõistliku suurusega tasu ja muud menetlusosalise vajalikud kulud, mis on tekkinud seoses kriminaalmenetlusega;
+- 1) valitud kaitsjale või esindajale makstud mõistliku suurusega tasu ja muud menetlusosalise vajalikud kulud, mis on tekkinud seoses kriminaalmenetlusega;
 
-2) kannatanule, tunnistajale, eksperdile ja asjatundjale käesoleva seadustiku § 178 kohaselt makstavad summad, välja arvatud käesoleva seadustiku § 176 lõike 1 punktis 1 nimetatud kulud;
+- 2) kannatanule, tunnistajale, eksperdile ja asjatundjale käesoleva seadustiku § 178 kohaselt makstavad summad, välja arvatud käesoleva seadustiku § 176 lõike 1 punktis 1 nimetatud kulud;
 
-3) riiklikul ekspertiisiasutusel, muul riigiasutusel või juriidilisel isikul seoses ekspertiisi tegemise või joobe tuvastamisega tekkinud kulud;
+- 3) riiklikul ekspertiisiasutusel, muul riigiasutusel või juriidilisel isikul seoses ekspertiisi tegemise või joobe tuvastamisega tekkinud kulud;
 
-4) määratud kaitsjale määratud tasu ja kulud kuni nende põhjendatud ja vajalikus ulatuses;
+- 4) määratud kaitsjale määratud tasu ja kulud kuni nende põhjendatud ja vajalikus ulatuses;
 
-5) käesoleva seadustiku § 224 lõike 1 kohaselt kaitsjale kriminaaltoimiku materjalist koopia tegemise kulud riigilõivuseaduse § 61 lõikes 1 sätestatud määras;
+- 5) käesoleva seadustiku § 224 lõike 1 kohaselt kaitsjale kriminaaltoimiku materjalist koopia tegemise kulud riigilõivuseaduse § 61 lõikes 1 sätestatud määras;
 
-6) asitõendite hoiutasu, saate- ja hävitamiskulud;
+- 6) asitõendite hoiutasu, saate- ja hävitamiskulud;
 
-7) konfiskeeritud vara hoiu-, võõrandamis- ning hävitamiskulud;
+- 7) konfiskeeritud vara hoiu-, võõrandamis- ning hävitamiskulud;
 
-8) tsiviilhagi või avalik-õigusliku nõudeavalduse tagamisest tingitud kulud;
+- 8) tsiviilhagi või avalik-õigusliku nõudeavalduse tagamisest tingitud kulud;
 
-9) süüdimõistva kohtuotsusega kaasnev sundraha;
+- 9) süüdimõistva kohtuotsusega kaasnev sundraha;
 
-10) muud menetlejal kriminaalasja menetlemisega tekkinud kulud, välja arvatud need, mida käesoleva seadustiku järgi loetakse eri- või lisakuludeks.
+- 10) muud menetlejal kriminaalasja menetlemisega tekkinud kulud, välja arvatud need, mida käesoleva seadustiku järgi loetakse eri- või lisakuludeks.
 
 (2) Kui menetlusosalisel on mitu kaitsjat või esindajat, arvatakse menetluskulude hulka neile makstud tasu suuruses, mis ei ületa ühele kaitsjale või esindajale tavapäraselt makstavat mõistliku suurusega tasu.
 

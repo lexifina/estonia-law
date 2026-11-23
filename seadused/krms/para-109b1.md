@@ -6,9 +6,9 @@
 
 (3) Asjatundja võib kuulata üle järgmiste asjaolude kohta:
 
-1) asjatundja osavõtul tehtud menetlustoimingu käik;
+- 1) asjatundja osavõtul tehtud menetlustoimingu käik;
 
-2) muud asjaolud, mille kohta asjatundja oskab anda selgitusi oma eriteadmiste tõttu, kui see on vajalik tõendamiseseme asjaolude paremaks mõistmiseks.
+- 2) muud asjaolud, mille kohta asjatundja oskab anda selgitusi oma eriteadmiste tõttu, kui see on vajalik tõendamiseseme asjaolude paremaks mõistmiseks.
 
 (4) Asjatundja kuulatakse üle tunnistaja ülekuulamise kohta kehtivate sätete kohaselt, arvestades käesolevast paragrahvist tulenevaid erisusi.
 

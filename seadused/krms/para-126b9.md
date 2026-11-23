@@ -1,6 +1,6 @@
 # § 126⁹. Politseiagendi kasutamine
 
-(1) Politseiagent käesoleva seaduse tähenduses on isik, kes muudetud identiteeti kasutades kogub käesoleva seaduse § 1262 lõike 1 punktides 1, 3 või 4 nimetatud alusel teavet.
+(1) Politseiagent käesoleva seaduse tähenduses on isik, kes muudetud identiteeti kasutades kogub käesoleva seaduse § 126² lõike 1 punktides 1, 3 või 4 nimetatud alusel teavet.
 
 (2) Politseiagendi kasutamiseks annab kirjaliku loa prokuratuur. Politseiagendi kasutamiseks antakse luba kuni kuueks kuuks ning seda tähtaega võib pikendada korraga kuni kuue kuu võrra.
 

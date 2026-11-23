@@ -4,9 +4,9 @@
 
 (2) Edasilükkamatul juhul võib eeluurimiskohtunik prokuratuuri taotlusel kohaldada väljaandmisvahistust enne väljaandmistaotluse saabumist, kui taotlev riik on:
 
-1) kinnitanud, et isiku suhtes on taotlevas riigis tehtud vahistamismäärus või jõustunud süüdimõistev kohtuotsus;
+- 1) kinnitanud, et isiku suhtes on taotlevas riigis tehtud vahistamismäärus või jõustunud süüdimõistev kohtuotsus;
 
-2) kohustunud viivitamata välja saatma väljaandmistaotluse.
+- 2) kohustunud viivitamata välja saatma väljaandmistaotluse.
 
 (3) Isiku võib Rahvusvahelise Kriminaalpolitsei Organisatsiooni (Interpol) kaudu esitatud vahistamistaotluse või Schengeni infosüsteemis oleva tagaotsimisteate alusel kinni pidada käesoleva seadustiku § 217 lõikes 1 sätestatud korras enne väljaandmistaotluse saabumist.
 

@@ -8,9 +8,9 @@
 
 (3¹) Käesoleva paragrahvi lõike 1 kohaselt loovutamisvahistuse otsustamiseks korraldataval istungil küsib kohus isiku seisukohta loovutamisega nõustumise kohta. Antud nõusolekust ei saa loobuda.
 
-(3²) Kui isik on käesoleva paragrahvi lõike 31 kohaselt teatanud loovutamisega nõustumisest, võib kohus loovutamisvahistuse otsustamisega samal ajal otsustada Rahvusvahelise Kriminaalpolitsei Organisatsiooni (Interpol) kaudu esitatud vahistamistaotluse või Schengeni infosüsteemis oleva tagaotsimisteate alusel ka käesoleva seadustiku §-s 502 sätestatut järgides loovutamise.
+(3²) Kui isik on käesoleva paragrahvi lõike 3¹ kohaselt teatanud loovutamisega nõustumisest, võib kohus loovutamisvahistuse otsustamisega samal ajal otsustada Rahvusvahelise Kriminaalpolitsei Organisatsiooni (Interpol) kaudu esitatud vahistamistaotluse või Schengeni infosüsteemis oleva tagaotsimisteate alusel ka käesoleva seadustiku §-s 502 sätestatut järgides loovutamise.
 
-(4) Isikut teavitatakse, et tal on kinnipidamisest alates õigus tasuta õigusabile ja tõlgi abile nii täitvas kui ka taotlevas riigis. Isikule kohaldatakse käesolevas seadustikus ja vangistusseaduses kahtlustatavale, süüdistatavale ja vahistatule sätestatud õigusi, kohustusi ning piiranguid. Alaealisele isikule kohaldatakse õigusi, mis on alaealisel kahtlustataval või süüdistataval, välja arvatud käesoleva seadustiku § 34 lõike 11 punktis 3 sätestatut.
+(4) Isikut teavitatakse, et tal on kinnipidamisest alates õigus tasuta õigusabile ja tõlgi abile nii täitvas kui ka taotlevas riigis. Isikule kohaldatakse käesolevas seadustikus ja vangistusseaduses kahtlustatavale, süüdistatavale ja vahistatule sätestatud õigusi, kohustusi ning piiranguid. Alaealisele isikule kohaldatakse õigusi, mis on alaealisel kahtlustataval või süüdistataval, välja arvatud käesoleva seadustiku § 34 lõike 1¹ punktis 3 sätestatut.
 
 (4¹) Kui isik soovib kaitsjat taotlevas riigis, kus kaitsjat ei ole veel nimetatud, teavitab prokuratuur sellest soovist kohe taotleva riigi pädevat asutust. Taotleva riigi poolt edastatud teave selles riigis kaitsja nimetamise tingimuste kohta edastatakse kohe isikule.
 

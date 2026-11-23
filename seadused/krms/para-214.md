@@ -4,13 +4,13 @@
 
 (2) Kohtueelse menetluse andmete avaldamine on lubatud kriminaalmenetluse, avalikkuse või andmesubjekti huvides, kui see ülemäära:
 
-1) ei soodusta kuritegevust ega raskenda kuriteo avastamist;
+- 1) ei soodusta kuritegevust ega raskenda kuriteo avastamist;
 
-2) ei kahjusta Eesti Vabariigi või kriminaalmenetluse huve;
+- 2) ei kahjusta Eesti Vabariigi või kriminaalmenetluse huve;
 
-3) ei sea ohtu ärisaladust ega kahjusta juriidilise isiku tegevust;
+- 3) ei sea ohtu ärisaladust ega kahjusta juriidilise isiku tegevust;
 
-4) ei kahjusta andmesubjekti ega kolmandate isikute õigusi, eriti eriliiki isikuandmete avaldamise puhul.
+- 4) ei kahjusta andmesubjekti ega kolmandate isikute õigusi, eriti eriliiki isikuandmete avaldamise puhul.
 
 (2¹) Kohtueelses menetluses menetluse tagamise meetmete kohaldamise küsimuses määruskaebemenetluses avalikku istungit pidamata tehtud ringkonnakohtu määrusest, millega ringkonnakohus kaebaja olukorda võrreldes maakohtu määrusega kergendas, avaldab prokuratuur käesoleva paragrahvi lõikes 2 sätestatud tingimustele vastava kokkuvõtte, kui seda taotletakse ajakirjanduslikul eesmärgil.
 

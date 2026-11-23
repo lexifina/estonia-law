@@ -2,9 +2,11 @@
 
 (1) Täitmiskohtunik võib vangistuse täitmisele pööramise lükata oma määrusega edasi:
 
-1) kuni kuue kuu võrra, kui süüdimõistetu on raskelt haigestunud ja vanglas ei ole võimalik teda ravida;
+- 1) kuni kuue kuu võrra, kui süüdimõistetu on raskelt haigestunud ja vanglas ei ole võimalik teda ravida;
 
-2) kuni ühe aasta võrra, kui süüdimõistetu on kohtuotsuse täitmise ajal rase. 3)
+- 2) kuni ühe aasta võrra, kui süüdimõistetu on kohtuotsuse täitmise ajal rase.
+
+- 3)
 
 (2) Kui naissoost süüdimõistetul on väike laps, võib täitmiskohtunik vangistuse täitmisele pööramise lükata oma määrusega edasi kuni lapse kolmeaastaseks saamiseni.
 

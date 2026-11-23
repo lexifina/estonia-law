@@ -4,7 +4,7 @@
 
 (2) Kahtlustatava või süüdistatava võib vahistada prokuratuuri taotlusel ja eeluurimiskohtuniku määruse alusel või kohtumääruse alusel, kui ta võib kriminaalmenetlusest kõrvale hoiduda või jätkuvalt toime panna kuritegusid ning vahistamine on vältimatult vajalik.
 
-(3) Kohtueelses menetluses võib kahtlustatav või süüdistatav olla vahistatud üksnes käesoleva seadustiku §-s 1311 sätestatud tähtaegade piires.
+(3) Kohtueelses menetluses võib kahtlustatav või süüdistatav olla vahistatud üksnes käesoleva seadustiku §-s 131¹ sätestatud tähtaegade piires.
 
 (3¹) [Kehtetu]
 

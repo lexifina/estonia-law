@@ -8,7 +8,7 @@
 
 (4) Jälitustoiminguga saadud teave on tõend, kui jälitustoimingu loa taotlemisel ja andmisel ning jälitustoimingu tegemisel on järgitud seaduse nõudeid.
 
-(5) Jälitustoiminguid teevad vahetult käesoleva seadustiku § 1262 lõikes 1 nimetatud asutused ja jälitustoimingute tegemiseks volitatud asutused või neid tehakse nende vahendusel, kaasates vajaduse korral teisi isikuid.
+(5) Jälitustoiminguid teevad vahetult käesoleva seadustiku § 126² lõikes 1 nimetatud asutused ja jälitustoimingute tegemiseks volitatud asutused või neid tehakse nende vahendusel, kaasates vajaduse korral teisi isikuid.
 
 (6) Käesolevas peatükis sätestatud toimingutesse võib kaasata Riigikogu ning valla- ja linnavolikogu liikme, kohtuniku, prokuröri, advokaadi ja vaimuliku, Riigikogu valitava ja nimetatava ametiisiku nende nõusolekul ning alaealise isiku tema seadusliku esindaja nõusolekul eeluurimiskohtuniku loal üksnes juhul, kui nad on samas kriminaalasjas menetlusosalised või tunnistajad või kui kuritegu on suunatud nende või nende lähedase vastu.
 

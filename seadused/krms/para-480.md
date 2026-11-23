@@ -2,12 +2,12 @@
 
 (1) Kaitsja osavõtt välisriigi kohtuotsuse tunnustamise ja täitmise menetlusest on kohustuslik, kui otsustatakse:
 
-1) konfiskeerimisotsuse tunnustamist;
+- 1) konfiskeerimisotsuse tunnustamist;
 
-2) isiku vahistamist või vahistuses pidamist välisriigi kohtuotsuse täitmiseks;
+- 2) isiku vahistamist või vahistuses pidamist välisriigi kohtuotsuse täitmiseks;
 
-3) isikule mõistetud vabadusekaotusliku karistuse tunnustamist;
+- 3) isikule mõistetud vabadusekaotusliku karistuse tunnustamist;
 
-4) isiku üleandmist karistuse kandmiseks.
+- 4) isiku üleandmist karistuse kandmiseks.
 
 (2) Isikul on õigus taotleda kaitsja osalemist ka käesoleva paragrahvi lõikes 1 nimetamata juhtudel.

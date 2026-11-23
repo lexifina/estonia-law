@@ -2,15 +2,15 @@
 
 (1) Kiirmenetluse protokollis märgitakse:
 
-1) kahtlustatava ütlused ja muud ülekuulamise andmed vastavalt käesoleva seadustiku § 76 lõikele 1 või viide kahtlustatava ülekuulamisele eraldi protokollis;
+- 1) kahtlustatava ütlused ja muud ülekuulamise andmed vastavalt käesoleva seadustiku § 76 lõikele 1 või viide kahtlustatava ülekuulamisele eraldi protokollis;
 
-2) kahtlustatava seisukoht, kas ta soovib kriminaalasja arutamist tunnistajaid välja kutsumata;
+- 2) kahtlustatava seisukoht, kas ta soovib kriminaalasja arutamist tunnistajaid välja kutsumata;
 
-3) tunnistaja ütlused ja muud ülekuulamise andmed vastavalt käesoleva seadustiku §-le 74 või viide tunnistaja ülekuulamisele eraldi protokollis;
+- 3) tunnistaja ütlused ja muud ülekuulamise andmed vastavalt käesoleva seadustiku §-le 74 või viide tunnistaja ülekuulamisele eraldi protokollis;
 
-4) muude tõendite loetelu;
+- 4) muude tõendite loetelu;
 
-5) käesoleva seadustiku § 218 lõikes 1 sätestatud andmed, kui isik on kahtlustatavana kinni peetud.
+- 5) käesoleva seadustiku § 218 lõikes 1 sätestatud andmed, kui isik on kahtlustatavana kinni peetud.
 
 (2) Kiirmenetluse protokoll edastatakse viivitamata prokuratuurile. Kiirmenetluse protokollile lisatakse muud tõendid ja käesoleva seadustiku § 222 lõikes 3 nimetatud õiend.
 

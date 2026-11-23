@@ -16,9 +16,11 @@
 
 (6¹) Kui füüsilisest isikust kannatanu ei valda eesti keelt, võib ta kümne päeva jooksul taotleda kriminaalmenetluse lõpetamise määruse või kohtuotsuse sisust arusaamise või menetluse õigluse tagamise seisukohast olulise teksti tõlkimist kannatanu emakeelde või keelde, mida ta valdab. Füüsilisest isikust kannatanu võib taotleda ka muu tema menetlusõiguste tagamiseks olulise dokumendi tõlkimist. Kui menetleja leiab, et muu dokumendi tõlkimise taotlus ei ole tervikuna või osaliselt põhjendatud, vormistab ta keeldumise määrusega.
 
-(7) Käesoleva paragrahvi lõigetes 5–61 loetletud dokumentide kirjaliku tõlke asemel võib need tõlkida suuliselt või teha nendest suulise kokkuvõtte, kui:
+(7) Käesoleva paragrahvi lõigetes 5–6¹ loetletud dokumentide kirjaliku tõlke asemel võib need tõlkida suuliselt või teha nendest suulise kokkuvõtte, kui:
 
-1) sellega ei mõjutata menetluse õiglust, või 2) kahtlustatav või süüdistatav, keda on teavitatud käesoleva paragrahvi lõigetes 5 ja 6 loetletud dokumentide kirjalikust tõlkest loobumise tagajärgedest, on esitanud kirjalikust tõlkest loobumise taotluse kirjalikku taasesitamist võimaldaval viisil või see on muul viisil protokollitud.
+- 1) sellega ei mõjutata menetluse õiglust, või
+
+- 2) kahtlustatav või süüdistatav, keda on teavitatud käesoleva paragrahvi lõigetes 5 ja 6 loetletud dokumentide kirjalikust tõlkest loobumise tagajärgedest, on esitanud kirjalikust tõlkest loobumise taotluse kirjalikku taasesitamist võimaldaval viisil või see on muul viisil protokollitud.
 
 (8) Suuline tõlge tagatakse kahtlustatavale ja süüdistatavale viivitamata, dokumentide kirjalik tõlge tagatakse kahtlustatavale ja süüdistatavale mõistliku aja jooksul nii, et see ei halvenda nende kaitseõiguse teostamist.
 

@@ -4,11 +4,11 @@
 
 (2) Eelmenetluses võib kohus:
 
-1) nõuda pooltelt eelmenetluses lahendatava küsimuse kohta kirjalikke seisukohti, andes nende esitamiseks vajaduse korral tähtaja ja kehtestades vajaduse korral mahupiirangu;
+- 1) nõuda pooltelt eelmenetluses lahendatava küsimuse kohta kirjalikke seisukohti, andes nende esitamiseks vajaduse korral tähtaja ja kehtestades vajaduse korral mahupiirangu;
 
-2) määrata, mis ajaks ja mil viisil peab pool teistele kohtumenetluse pooltele tutvumiseks esitama tõendid, mida neile varem tutvustatud ei ole;
+- 2) määrata, mis ajaks ja mil viisil peab pool teistele kohtumenetluse pooltele tutvumiseks esitama tõendid, mida neile varem tutvustatud ei ole;
 
-3) pidada eelistungeid, küsitleda kohtumenetluse pooli ja vastu võtta tõendeid, sealhulgas korraldada tunnistaja ristküsitlust, eelmenetluse küsimuse lahendamiseks.
+- 3) pidada eelistungeid, küsitleda kohtumenetluse pooli ja vastu võtta tõendeid, sealhulgas korraldada tunnistaja ristküsitlust, eelmenetluse küsimuse lahendamiseks.
 
 (3) Kohus planeerib koostöös kohtumenetluse pooltega kohtuliku arutamise sellisel viisil, mis aitab vältida tarbetut ajakulu, isikute korduvat kohtusse kutsumist ja kohtuistungi edasilükkamist.
 

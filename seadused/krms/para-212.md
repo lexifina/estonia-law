@@ -4,19 +4,19 @@
 
 (2) Lisaks käesoleva paragrahvi lõikes 1 nimetatud uurimisasutustele toimetavad kohtueelset menetlust ka:
 
-1)
+- 1) [Kehtetu]
 
-2) Maksu- ja Tolliamet maksu- ja tollialases kuriteos, narkootilise ja psühhotroopse aine üle piiri toimetamisega seotud kuriteos ning karistusseadustiku §-s 4211 nimetatud kuriteos, välja arvatud juhul, kui kuriteo objektiks oli radioaktiivne aine, lõhkeaine või laskemoon koguses, mis ületab relvaseaduse § 46 lõikes 5 sätestatud piirmäära, või relvade laskekõlbmatuks muutmise tehnilistele nõuetele täielikult mittevastav tulirelv, karistusseadustiku §-des 4212 ja 4214 nimetatud kuriteos, kui kuriteo objektiks oli inimõiguste rikkumiseks kasutatav kaup või sellega seotud teenus, ning karistusseadustiku §-des 931 ja 932 nimetatud kuriteos, kui kuriteo objektiks oli kauba või sularaha sisse- ja väljaveo keelu rikkumine;
+- 2) Maksu- ja Tolliamet maksu- ja tollialases kuriteos, narkootilise ja psühhotroopse aine üle piiri toimetamisega seotud kuriteos ning karistusseadustiku §-s 421¹ nimetatud kuriteos, välja arvatud juhul, kui kuriteo objektiks oli radioaktiivne aine, lõhkeaine või laskemoon koguses, mis ületab relvaseaduse § 46 lõikes 5 sätestatud piirmäära, või relvade laskekõlbmatuks muutmise tehnilistele nõuetele täielikult mittevastav tulirelv, karistusseadustiku §-des 421² ja 421⁴ nimetatud kuriteos, kui kuriteo objektiks oli inimõiguste rikkumiseks kasutatav kaup või sellega seotud teenus, ning karistusseadustiku §-des 93¹ ja 93² nimetatud kuriteos, kui kuriteo objektiks oli kauba või sularaha sisse- ja väljaveo keelu rikkumine;
 
-3) Sõjaväepolitsei kaitseväeteenistusalases kuriteos ja sõjakuriteos;
+- 3) Sõjaväepolitsei kaitseväeteenistusalases kuriteos ja sõjakuriteos;
 
-4)
+- 4) [Kehtetu]
 
-5)
+- 5) [Kehtetu]
 
-6) Justiits- ja Digiministeeriumi vanglate osakond ja vangla vanglas toimepandud ja kinnipeetava poolt toimepandud kuriteos;
+- 6) Justiits- ja Digiministeeriumi vanglate osakond ja vangla vanglas toimepandud ja kinnipeetava poolt toimepandud kuriteos;
 
-7) Keskkonnaamet keskkonna ja loodusvarade kaitse ning kasutamise nõuete rikkumise kuriteos.
+- 7) Keskkonnaamet keskkonna ja loodusvarade kaitse ning kasutamise nõuete rikkumise kuriteos.
 
 (3) [Kehtetu]
 

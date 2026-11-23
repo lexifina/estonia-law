@@ -8,6 +8,6 @@
 
 (4) Kohtumäärus jõustub, kui määruskaebuse esitamise tähtaeg on möödunud. Määruskaebuse esitamise korral jõustub kohtumäärus, kui selle on läbi vaadanud kohtumääruse koostanud kohus või kõrgema astme kohus. Kui kohtumääruse vaidlustamise tähtaeg ennistatakse, loetakse, et kohtumäärus ei ole jõustunud.
 
-(5) Vahistamise, vahistamise tähtaja pikendamise, väljaandmisvahistamise, isiku raviasutusse sundpaigutamise, vara arestimise, posti- või telegraafisaadetise arestimise, ametist kõrvaldamise ja ajutise lähenemiskeelu kohaldamise määrused, käesoleva seadustiku §-s 12 ja §-s 50898 nimetatud määrused ning kohtumäärus, mida ei saa vaidlustada, jõustuvad nende tegemisest.
+(5) Vahistamise, vahistamise tähtaja pikendamise, väljaandmisvahistamise, isiku raviasutusse sundpaigutamise, vara arestimise, posti- või telegraafisaadetise arestimise, ametist kõrvaldamise ja ajutise lähenemiskeelu kohaldamise määrused, käesoleva seadustiku §-s 12 ja §-s 508⁹⁸ nimetatud määrused ning kohtumäärus, mida ei saa vaidlustada, jõustuvad nende tegemisest.
 
 (6) Kohtuotsuse osalise vaidlustamise korral jõustub kohtuotsus vaidlustamata osas.

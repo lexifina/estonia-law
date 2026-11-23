@@ -2,8 +2,8 @@
 
 Vahistatud süüdistatav vabastatakse istungisaalis viivitamata, kui:
 
-1) ta mõistetakse õigeks;
+- 1) ta mõistetakse õigeks;
 
-2) ta vabastatakse karistusest;
+- 2) ta vabastatakse karistusest;
 
-3) teda ei ole karistatud vangistusega.
+- 3) teda ei ole karistatud vangistusega.

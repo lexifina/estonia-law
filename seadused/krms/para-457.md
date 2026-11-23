@@ -6,11 +6,11 @@
 
 (3) Järgides käesoleva seadustiku § 458 nõudeid, koostab välisriigile esitatava taotluse isik välja anda:
 
-1) prokuratuur kohtueelses menetluses;
+- 1) prokuratuur kohtueelses menetluses;
 
-2) kohus kohtumenetluses;
+- 2) kohus kohtumenetluses;
 
-3) Riigiprokuratuur kohtuotsuse täitmise staadiumis.
+- 3) Riigiprokuratuur kohtuotsuse täitmise staadiumis.
 
 (4) Kohtueelses menetluses võib eeluurimiskohtunik prokuratuuri taotlusel enne väljaandmistaotluse esitamist määrusega kohaldada väljaandmisvahistust.
 

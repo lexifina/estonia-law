@@ -8,7 +8,7 @@
 
 (3¹) [Kehtetu]
 
-(3²) Alaealise isiku vahistamise korral võib kohus määrata, et vahistamine asendatakse alaealise kinnisesse lasteasutusse paigutamisega, märkides vahistamismääruses kinnise lasteasutuse, kuhu alaealine vahistatu paigutatakse. Alaealise vahistatu saatmist väljaspool kinnist lasteasutust teostatakse politsei ja piirivalve seaduse §-s 741 sätestatud korras.
+(3²) Alaealise isiku vahistamise korral võib kohus määrata, et vahistamine asendatakse alaealise kinnisesse lasteasutusse paigutamisega, märkides vahistamismääruses kinnise lasteasutuse, kuhu alaealine vahistatu paigutatakse. Alaealise vahistatu saatmist väljaspool kinnist lasteasutust teostatakse politsei ja piirivalve seaduse §-s 7⁴¹ sätestatud korras.
 
 (3³) Alaealise vahistatu, kes rikub kinnises lasteasutuses viibimise tingimusi, võib kinnise lasteasutuse juhi ettekande alusel ja kohtu loal viia üle vanglasse vahistust kandma.
 

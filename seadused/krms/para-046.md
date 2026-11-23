@@ -2,11 +2,11 @@
 
 (1) Kaitsja võib omal algatusel ja advokaadibüroo pidaja nõusolekul keelduda kaitsekohustuse võtmisest või loobuda võetud kaitsekohustusest, kui:
 
-1) ta on advokatuuriseaduse § 45 lõikes 5 sätestatud korras vabastatud kutsesaladuse hoidmisest või kui kahtlustatav või süüdistatav on esitanud nõude, mille täitmiseks peab kaitsja rikkuma seadust või kutse-eetika nõudeid;
+- 1) ta on advokatuuriseaduse § 45 lõikes 5 sätestatud korras vabastatud kutsesaladuse hoidmisest või kui kahtlustatav või süüdistatav on esitanud nõude, mille täitmiseks peab kaitsja rikkuma seadust või kutse-eetika nõudeid;
 
-2) kaitsekohustuste täitmine selle kaitsja poolt rikuks kaitseõigust;
+- 2) kaitsekohustuste täitmine selle kaitsja poolt rikuks kaitseõigust;
 
-3) kaitsealune on rikkunud kliendilepingu olulist tingimust.
+- 3) kaitsealune on rikkunud kliendilepingu olulist tingimust.
 
 (1¹) [Kehtetu]
 

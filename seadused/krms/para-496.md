@@ -4,8 +4,8 @@
 
 (2) Läbisõidutaotlus peab sisaldama:
 
-1) asjaomase isiku andmeid ja kodakondsust;
+- 1) asjaomase isiku andmeid ja kodakondsust;
 
-2) märget selle kohta, et isiku suhtes on tehtud Euroopa vahistamismäärus;
+- 2) märget selle kohta, et isiku suhtes on tehtud Euroopa vahistamismäärus;
 
-3) teavet kuriteo asjaolude ja kvalifikatsiooni kohta.
+- 3) teavet kuriteo asjaolude ja kvalifikatsiooni kohta.

@@ -2,7 +2,7 @@
 
 (1) Kahtlustatavale ja süüdistatavale tutvustatakse viivitamata tema õigusi suuliselt või kirjalikult lihtsas ja arusaadavas keeles. Õiguste selgitamise kohta võetakse allkiri.
 
-(1¹) Alaealise kahtlustatava ja süüdistatava õigusi tutvustatakse ka tema seaduslikule esindajale ja käesoleva seadustiku § 352 lõikes 2 nimetatud isikule.
+(1¹) Alaealise kahtlustatava ja süüdistatava õigusi tutvustatakse ka tema seaduslikule esindajale ja käesoleva seadustiku § 35² lõikes 2 nimetatud isikule.
 
 (2) Kahtlustatavale või süüdistatavale, kes on kinni peetud või vahistatud, antakse viivitamata kirjalik õiguste deklaratsioon tema õiguste kohta kriminaalmenetluses. Kahtlustataval ja süüdistataval on õigus hoida deklaratsiooni enda valduses kinnipidamise või vahistamise aja jooksul.
 

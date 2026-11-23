@@ -6,8 +6,10 @@
 
 (2) Lühimenetlust ei kohaldata:
 
-1) kuriteole, mille eest karistusseadustik näeb karistusena ette eluaegse vangistuse;
+- 1) kuriteole, mille eest karistusseadustik näeb karistusena ette eluaegse vangistuse;
 
-2) mitme süüdistatavaga kriminaalasjas, kui vähemalt üks süüdistatav ei nõustu lühimenetluse kohaldamisega. 3)
+- 2) mitme süüdistatavaga kriminaalasjas, kui vähemalt üks süüdistatav ei nõustu lühimenetluse kohaldamisega.
+
+- 3) [Kehtetu]
 
 (3) Lühimenetlust kohaldades juhindutakse käesoleva seadustiku 10. peatüki 2., 3., 5 ja 6. jaos sätestatust, arvestades käesolevas jaos sätestatud erisusi.

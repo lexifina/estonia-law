@@ -4,4 +4,4 @@
 
 (2) Kohtumenetluse poole taotlusel võib kohus määrata eksperdi ülekuulamise ekspertiisiakti sisu selgitamiseks või täiendamiseks.
 
-(3) Eksperdi ülekuulamisel kohtus juhindutakse käesoleva seadustiku § 109 lõikest 2 ning §-dest 2862–2891 ja 291.
+(3) Eksperdi ülekuulamisel kohtus juhindutakse käesoleva seadustiku § 109 lõikest 2 ning §-dest 286²–289¹ ja 291.

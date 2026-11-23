@@ -2,9 +2,9 @@
 
 (1) Kohtumenetluse poolel on kassatsiooniõigus käesoleva seadustiku §-s 346 sätestatud alusel, kui:
 
-1) tema huvides või tema vastu on kasutatud apellatsiooniõigust;
+- 1) tema huvides või tema vastu on kasutatud apellatsiooniõigust;
 
-2) ringkonnakohus on maakohtu otsust muutnud või on selle tühistanud.
+- 2) ringkonnakohus on maakohtu otsust muutnud või on selle tühistanud.
 
 (2) Tsiviilhagi ja avalik-õigusliku nõudeavalduse esitajal ning tsiviilkostjal on kassatsiooniõigus tsiviilhagisse või avalik-õiguslikku nõudeavaldusse puutuvas osas.
 
@@ -14,11 +14,11 @@
 
 (3) Kassatsiooni esitamise õigus on:
 
-1) prokuratuuril;
+- 1) prokuratuuril;
 
-2) advokaadist kaitsjal;
+- 2) advokaadist kaitsjal;
 
-3) teistel kohtumenetluse pooltel advokaadi vahendusel.
+- 3) teistel kohtumenetluse pooltel advokaadi vahendusel.
 
 (4) Kassaator on kassatsiooni esitanud või seda Riigikohtu istungil toetav prokurör ja advokaat.
 

@@ -4,16 +4,16 @@
 
 (2) Uurimiseksperimendis osaleb kahtlustatav, süüdistatav, kannatanu või tunnistaja, kui:
 
-1) tema abi vajatakse sündmuse olustiku taastamiseks;
+- 1) tema abi vajatakse sündmuse olustiku taastamiseks;
 
-2) uurimiseksperimendi tulemused võimaldavad kontrollida tema ütlusi;
+- 2) uurimiseksperimendi tulemused võimaldavad kontrollida tema ütlusi;
 
-3) katsete tulemused sõltuvad selles osaleja omadustest, võimetest või oskustest.
+- 3) katsete tulemused sõltuvad selles osaleja omadustest, võimetest või oskustest.
 
 (3) Uurimiseksperimendis on lubatud kasutada asitõendit, kui:
 
-1) selle asendamine võib mõjutada uurimistoimingu tulemusi ja kui on välistatud asitõendi hävimine;
+- 1) selle asendamine võib mõjutada uurimistoimingu tulemusi ja kui on välistatud asitõendi hävimine;
 
-2) asitõendit ei ole vaja äratundmiseks esitada uurimiseksperimendis osalevale isikule.
+- 2) asitõendit ei ole vaja äratundmiseks esitada uurimiseksperimendis osalevale isikule.
 
 (4) Uurimiseksperimendi tulemusi selgitades ei ole lubatud teha eriteadmistele tuginevaid järeldusi.

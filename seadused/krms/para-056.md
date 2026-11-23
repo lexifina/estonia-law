@@ -2,11 +2,11 @@
 
 (1) Kaitsja taandamise menetlust toimetab:
 
-1) kohtueelses menetluses eeluurimiskohtunik;
+- 1) kohtueelses menetluses eeluurimiskohtunik;
 
-2) maakohtus kohtunik ainuisikuliselt või kohtukoosseisu üks kohtunik;
+- 2) maakohtus kohtunik ainuisikuliselt või kohtukoosseisu üks kohtunik;
 
-3) ringkonnakohtus või Riigikohtus kohtukoosseisu üks kohtunik.
+- 3) ringkonnakohtus või Riigikohtus kohtukoosseisu üks kohtunik.
 
 (2) Kaitsja taandamise menetluse taotlus ei takista kohtueelset menetlust.
 

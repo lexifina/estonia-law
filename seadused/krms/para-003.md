@@ -6,4 +6,4 @@
 
 (3) Välisriigis kogutud tõendite Eesti kriminaalmenetluses kasutamise nõuded on sätestatud käesoleva seadustiku §-s 65.
 
-(4) Erakorralise ja sõjaseisukorra ajal kohaldatakse käesolevat seadustikku, arvestades käesoleva seadustiku 142. peatükis sätestatud erandeid.
+(4) Erakorralise ja sõjaseisukorra ajal kohaldatakse käesolevat seadustikku, arvestades käesoleva seadustiku 14². peatükis sätestatud erandeid.

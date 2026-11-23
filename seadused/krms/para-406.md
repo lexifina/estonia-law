@@ -6,7 +6,9 @@
 
 (3) Taotluse lahendamiseks teeb kohus:
 
-1) alaealise enne tähtaega kinnisest lasteasutusest vabastamise määruse või 2) taotluse rahuldamata jätmise määruse.
+- 1) alaealise enne tähtaega kinnisest lasteasutusest vabastamise määruse või
+
+- 2) taotluse rahuldamata jätmise määruse.
 
 (4) Käesoleva paragrahvi lõikes 3 nimetatud määrus peab olema põhjendatud.
 

@@ -4,21 +4,21 @@
 
 (2) Kriminaalmenetluse lõpetamise korral võib kohus prokuratuuri taotlusel ja kahtlustatava või süüdistatava nõusolekul panna talle kohustuse määratud tähtajaks:
 
-1) tasuda kriminaalmenetluse kulud ja hüvitada kuriteoga tekitatud kahju menetleja määratud ulatuses;
+- 1) tasuda kriminaalmenetluse kulud ja hüvitada kuriteoga tekitatud kahju menetleja määratud ulatuses;
 
-2) maksta kindel summa riigituludesse või sihtotstarbeliseks kasutamiseks üldsuse huvides;
+- 2) maksta kindel summa riigituludesse või sihtotstarbeliseks kasutamiseks üldsuse huvides;
 
-3) teha 10–240 tundi üldkasulikku tööd. Üldkasuliku töö tegemisele kohaldatakse karistusseadustiku § 69 lõikes 2, lõike 4 teises lauses ja lõikes 5 sätestatut;
+- 3) teha 10–240 tundi üldkasulikku tööd. Üldkasuliku töö tegemisele kohaldatakse karistusseadustiku § 69 lõikes 2, lõike 4 teises lauses ja lõikes 5 sätestatut;
 
-4) alluda ettenähtud ravile;
+- 4) alluda ettenähtud ravile;
 
-4¹) mitte tarvitada narkootilisi või psühhotroopseid aineid või alkoholi;
+- 4¹) mitte tarvitada narkootilisi või psühhotroopseid aineid või alkoholi;
 
-5) osaleda sotsiaalprogrammis;
+- 5) osaleda sotsiaalprogrammis;
 
-6) alluda karistusseadustiku § 751 lõikes 1 sätestatud alkoholi tarvitamise keelu täitmist kontrolliva elektroonilise seadme valvele;
+- 6) alluda karistusseadustiku § 75¹ lõikes 1 sätestatud alkoholi tarvitamise keelu täitmist kontrolliva elektroonilise seadme valvele;
 
-7) täita muu asjakohane kohustus.
+- 7) täita muu asjakohane kohustus.
 
 (3) Käesoleva paragrahvi lõike 2 punktides 1–3 ja 6 loetletud kohustuste täitmise tähtaeg ei või olla pikem kui kuus kuud. Käesoleva paragrahvi lõike 2 punktides 4–5 ja 7 nimetatud kohustuste täitmise tähtaeg ei või olla pikem kui kaheksateist kuud.
 

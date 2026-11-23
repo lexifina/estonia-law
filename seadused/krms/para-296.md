@@ -1,6 +1,6 @@
 # § 296. Teabesalvestise, asitõendi või dokumendi esitamine tõendina
 
-(1) Kohtumenetluse pool võib taotleda, et kohus võtaks tõendina vastu teabesalvestise, asitõendi või dokumendi, arvestades käesoleva seadustiku §-des 2891, 2901, 291, 292 ja 294 sätestatud piiranguid.
+(1) Kohtumenetluse pool võib taotleda, et kohus võtaks tõendina vastu teabesalvestise, asitõendi või dokumendi, arvestades käesoleva seadustiku §-des 289¹, 290¹, 291, 292 ja 294 sätestatud piiranguid.
 
 (2) Uurimistoimingu protokolli või kriminaaltoimiku muu dokumendi avaldamiseks esitab prokurör selle omal algatusel või teise kohtumenetluse poole taotlusel kohtule.
 

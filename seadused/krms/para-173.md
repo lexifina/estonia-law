@@ -2,11 +2,11 @@
 
 (1) Kriminaalmenetluse kulud on:
 
-1) menetluskulud;
+- 1) menetluskulud;
 
-2) erikulud;
+- 2) erikulud;
 
-3) lisakulud.
+- 3) lisakulud.
 
 (2) Menetluskulud hüvitab käesoleva seadustiku järgi kohustatud isik menetleja määratud ulatuses.
 

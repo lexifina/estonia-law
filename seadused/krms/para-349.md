@@ -6,9 +6,9 @@
 
 (3) Kassatsioon võetakse menetlusse, kui vähemalt üks riigikohtunik leiab, et:
 
-1) kassatsioonis esitatud väited võimaldavad arvata, et ringkonnakohus on ebaõigesti kohaldanud materiaalõigust või oluliselt rikkunud kriminaalmenetlusõigust;
+- 1) kassatsioonis esitatud väited võimaldavad arvata, et ringkonnakohus on ebaõigesti kohaldanud materiaalõigust või oluliselt rikkunud kriminaalmenetlusõigust;
 
-2) kassatsioonis vaidlustatakse materiaalõiguse kohaldamise õigsus või taotletakse ringkonnakohtu otsuse tühistamist kriminaalmenetlusõiguse olulise rikkumise tõttu ja Riigikohtu otsus on oluline seaduse ühetaolise kohaldamise või õiguse edasiarendamise seisukohalt.
+- 2) kassatsioonis vaidlustatakse materiaalõiguse kohaldamise õigsus või taotletakse ringkonnakohtu otsuse tühistamist kriminaalmenetlusõiguse olulise rikkumise tõttu ja Riigikohtu otsus on oluline seaduse ühetaolise kohaldamise või õiguse edasiarendamise seisukohalt.
 
 (4) Kassatsiooni menetlusse võtmine või sellest keeldumine vormistatakse Riigikohtu määrusega, esitamata põhjendusi.
 

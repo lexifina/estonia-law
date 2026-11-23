@@ -8,7 +8,7 @@
 
 (4) Käesoleva paragrahvi lõikes 3 sätestatud juhul jätkab kohus samas või kohtu esimehe otsusel teises kohtukoosseisus pärast süüdimõistva osaotsuse jõustumist tsiviilhagi või avalik-õigusliku nõudeavalduse menetlemist. Süüdimõistvas osaotsuses tuvastatud faktilised asjaolud loetakse tsiviilhagi või nõudeavalduse lahendamisel tõendatuks.
 
-(5) Käesoleva paragrahvi lõikes 4 sätestatud kohtumenetluse pooled on kannatanu, süüdimõistetu, tsiviilkostja ja kolmas isik, kelle õiguste või kohustuste üle selles menetluses võidakse otsustada, ning prokuratuur, kui kannatanu on riik, kohaliku omavalitsuse üksus või muu avaliku võimu kandja ja tema esindaja asemel on vastavalt käesoleva seadustiku § 381 lõikele 31, 32 või 33 tsiviilhagi või avalik-õigusliku nõudeavalduse esitanud prokuratuur.
+(5) Käesoleva paragrahvi lõikes 4 sätestatud kohtumenetluse pooled on kannatanu, süüdimõistetu, tsiviilkostja ja kolmas isik, kelle õiguste või kohustuste üle selles menetluses võidakse otsustada, ning prokuratuur, kui kannatanu on riik, kohaliku omavalitsuse üksus või muu avaliku võimu kandja ja tema esindaja asemel on vastavalt käesoleva seadustiku § 38¹ lõikele 3¹, 3² või 3³ tsiviilhagi või avalik-õigusliku nõudeavalduse esitanud prokuratuur.
 
 (6) Kui apellatsiooni- või kassatsioonimenetluse tulemusena süüdimõistev osaotsus tühistatakse ja kriminaalasi saadetakse isiku süüküsimust puudutavas osas uuesti arutamiseks madalama astme kohtule, kelle menetluses on eraldatud tsiviilhagi või avalik-õiguslik nõudeavaldus, liidetakse tsiviilhagi või nõudeavalduse ja kriminaalasja arutamine uuesti ühte menetlusse.
 

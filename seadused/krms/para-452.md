@@ -8,7 +8,7 @@
 
 (4) Otsuse koopia edastatakse kinnipidamisasutusele, kus väljaantavat isikut väljaandmisvahistuses peetakse, ja tehakse talle allkirja vastu teatavaks.
 
-(5) Isiku väljaandmise otsus jõustub, kui seda ei ole edasi kaevatud käesoleva seadustiku § 4521 kohaselt või kui kohtumenetluse tulemusena on jäetud otsus muutmata ning kohtulahend on jõustunud. Isiku väljaandmisest keeldumise otsus jõustub selle tegemisest.
+(5) Isiku väljaandmise otsus jõustub, kui seda ei ole edasi kaevatud käesoleva seadustiku § 452¹ kohaselt või kui kohtumenetluse tulemusena on jäetud otsus muutmata ning kohtulahend on jõustunud. Isiku väljaandmisest keeldumise otsus jõustub selle tegemisest.
 
 (6) Isiku väljaandmise jõustunud otsus edastatakse viivitamata Politsei- ja Piirivalveametile täitmise korraldamiseks.
 

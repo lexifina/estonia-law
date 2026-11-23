@@ -6,6 +6,6 @@
 
 (3) Alaealise kahtlustatava või süüdistatava soovil võib seaduslik esindaja ning käesoleva paragrahvi lõikes 2 nimetatud isik viibida alaealise juures:
 
-1) kohtuistungil;
+- 1) kohtuistungil;
 
-2) menetlustoimingute tegemise ajal, kui see on menetleja hinnangul alaealise huvides ega takista viivitusi põhjustades või muul viisil kriminaalmenetlust.
+- 2) menetlustoimingute tegemise ajal, kui see on menetleja hinnangul alaealise huvides ega takista viivitusi põhjustades või muul viisil kriminaalmenetlust.

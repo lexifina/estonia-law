@@ -8,17 +8,17 @@
 
 (4) Kaebuses märgitakse:
 
-1) prokuratuuri nimetus, kellele kaebus esitatakse;
+- 1) prokuratuuri nimetus, kellele kaebus esitatakse;
 
-2) kaebuse esitaja ees- ja perekonnanimi, menetlusseisund ning elu- või asukoht ja aadress;
+- 2) kaebuse esitaja ees- ja perekonnanimi, menetlusseisund ning elu- või asukoht ja aadress;
 
-3) määrus või menetlustoiming, mida vaidlustatakse; määruse või menetlustoimingu tegemise kuupäev ja selle isiku nimi, kelle osas menetlustoiming või määrus vaidlustatakse;
+- 3) määrus või menetlustoiming, mida vaidlustatakse; määruse või menetlustoimingu tegemise kuupäev ja selle isiku nimi, kelle osas menetlustoiming või määrus vaidlustatakse;
 
-4) millises osas määrus või menetlustoiming vaidlustatakse;
+- 4) millises osas määrus või menetlustoiming vaidlustatakse;
 
-5) kaebuses esitatud taotluste sisu ja põhjendus;
+- 5) kaebuses esitatud taotluste sisu ja põhjendus;
 
-6) kaebusele lisatud dokumentide loetelu.
+- 6) kaebusele lisatud dokumentide loetelu.
 
 (5) Uurimisasutuse või prokuratuuri tegevuse peale kaebuse esitamine ei peata vaidlustatud määruse täitmist ega menetlustoimingut.
 

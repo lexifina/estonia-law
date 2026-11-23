@@ -4,13 +4,13 @@
 
 (2) Euroopa arestimistunnistuse alusel võib arestida või hoiule võtta:
 
-1) kuriteoga saadud vara või kuriteoga saadud vara väärtusele vastava vara;
+- 1) kuriteoga saadud vara või kuriteoga saadud vara väärtusele vastava vara;
 
-2) kuriteo toimepanemise vahendi;
+- 2) kuriteo toimepanemise vahendi;
 
-3) kuriteo vahetu objekti;
+- 3) kuriteo vahetu objekti;
 
-4) muu asitõendi, dokumendi või teabesalvestise, mis on kriminaalmenetluses kasutatav tõendina.
+- 4) muu asitõendi, dokumendi või teabesalvestise, mis on kriminaalmenetluses kasutatav tõendina.
 
 (3) Euroopa arestimistunnistusele lisatakse taotleva riigi pädeva õigusasutuse tehtud vara arestimise või tõendi hoiulevõtmise otsuse koopia.
 

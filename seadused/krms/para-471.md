@@ -12,10 +12,10 @@
 
 (5) Teavet, mida ühise uurimisrühma liige on saanud ja mis ei ole osalevate riikide pädevatele asutustele teisiti kättesaadav, võib kasutada:
 
-1) tingimusteta eesmärgil, mille saavutamiseks on ühine uurimisrühm moodustatud;
+- 1) tingimusteta eesmärgil, mille saavutamiseks on ühine uurimisrühm moodustatud;
 
-2) teavet edastanud riigi nõusolekul asjaolude selgitamiseks ka muudes kuritegudes, mille menetlemiseks uurimisrühm moodustati. Nõusolekust võib loobuda, kui teave kahjustab ühist uurimist või kui ilmnevad asjaolud, mis välistavad vastastikuse õigusabi andmise;
+- 2) teavet edastanud riigi nõusolekul asjaolude selgitamiseks ka muudes kuritegudes, mille menetlemiseks uurimisrühm moodustati. Nõusolekust võib loobuda, kui teave kahjustab ühist uurimist või kui ilmnevad asjaolud, mis välistavad vastastikuse õigusabi andmise;
 
-3) selleks, et ära hoida vahetu ja suur oht avalikule julgeolekule, ning kui kriminaalmenetlust on juba alustatud ja teabe kasutamine ei ole vastuolus käesoleva lõike punktis 2 märgitud tingimustega;
+- 3) selleks, et ära hoida vahetu ja suur oht avalikule julgeolekule, ning kui kriminaalmenetlust on juba alustatud ja teabe kasutamine ei ole vastuolus käesoleva lõike punktis 2 märgitud tingimustega;
 
-4) ühise uurimisrühma moodustanud riikide kokkuleppe kohaselt teistel eesmärkidel.
+- 4) ühise uurimisrühma moodustanud riikide kokkuleppe kohaselt teistel eesmärkidel.

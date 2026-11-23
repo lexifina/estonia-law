@@ -8,16 +8,16 @@
 
 (4) Edasilükkamatul juhul taasesitamist võimaldaval viisil antud luba peab sisaldama järgmisi andmeid:
 
-1) loa andja;
+- 1) loa andja;
 
-2) loa andmise kuupäev ja kellaaeg;
+- 2) loa andmise kuupäev ja kellaaeg;
 
-3) jälitustoiming, milleks luba antakse;
+- 3) jälitustoiming, milleks luba antakse;
 
-4) kui on teada, siis selle isiku nimi, kelle suhtes jälitustoiming tehakse;
+- 4) kui on teada, siis selle isiku nimi, kelle suhtes jälitustoiming tehakse;
 
-5) jälitustoimingu loa tähtaeg.
+- 5) jälitustoimingu loa tähtaeg.
 
 (5) Kui jälitustoimingu tegemiseks või selleks vajalike tehniliste abivahendite paigaldamiseks ja eemaldamiseks on vaja varjatult siseneda hoonesse, ruumi, sõidukisse, piirdega alale või arvutisüsteemi, taotleb prokuratuur selleks eraldi eeluurimiskohtuniku loa.
 
-(6) Käesoleva seadustiku § 1262 lõike 1 punktides 1, 3 ja 4 sätestatud alusel tehtud jälitustoimingute kestus konkreetse isiku suhtes samas menetluses ei tohi ületada ühte aastat. Erandjuhul võib riigi peaprokurör anda loa või taotleda kohtult luba jälitustoimingu tegemiseks isiku suhtes kestusega üle ühe aasta. Nõukogu määruse (EL) 2017/1939 alusel menetletavas kriminaalasjas annab eelnimetatud loa või esitab taotluse Euroopa prokurör või Euroopa delegaatprokurör.
+(6) Käesoleva seadustiku § 126² lõike 1 punktides 1, 3 ja 4 sätestatud alusel tehtud jälitustoimingute kestus konkreetse isiku suhtes samas menetluses ei tohi ületada ühte aastat. Erandjuhul võib riigi peaprokurör anda loa või taotleda kohtult luba jälitustoimingu tegemiseks isiku suhtes kestusega üle ühe aasta. Nõukogu määruse (EL) 2017/1939 alusel menetletavas kriminaalasjas annab eelnimetatud loa või esitab taotluse Euroopa prokurör või Euroopa delegaatprokurör.

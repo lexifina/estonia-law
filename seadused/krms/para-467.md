@@ -4,10 +4,10 @@
 
 (2) Taotluses märgitakse:
 
-1) taotluse koostamise aeg ja koht;
+- 1) taotluse koostamise aeg ja koht;
 
-2) ajutiselt ületoodava isiku nimi ning isikukood või selle puudumisel sünniaeg ja -koht;
+- 2) ajutiselt ületoodava isiku nimi ning isikukood või selle puudumisel sünniaeg ja -koht;
 
-3) menetlustoimingu nimetus, millega seoses isikut Eestis vajatakse;
+- 3) menetlustoimingu nimetus, millega seoses isikut Eestis vajatakse;
 
-4) taotluse menetlusõiguslik alus.
+- 4) taotluse menetlusõiguslik alus.

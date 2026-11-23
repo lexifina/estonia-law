@@ -4,10 +4,10 @@
 
 (2) Ettekandja esitab kokkuvõtlikult:
 
-1) kriminaalasja asjaolud;
+- 1) kriminaalasja asjaolud;
 
-2) kassatsiooni sisu ja põhjenduse;
+- 2) kassatsiooni sisu ja põhjenduse;
 
-3) kassaatori taotluse;
+- 3) kassaatori taotluse;
 
-4) kassatsioonivastuses sisalduvad seletused ja vastuväited.
+- 4) kassatsioonivastuses sisalduvad seletused ja vastuväited.

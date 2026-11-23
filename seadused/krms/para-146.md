@@ -4,23 +4,23 @@
 
 (2) Protokolli sissejuhatuses märgitakse:
 
-1) uurimis- või muu menetlustoimingu kuupäev ja koht;
+- 1) uurimis- või muu menetlustoimingu kuupäev ja koht;
 
-2) protokolli koostaja ametinimetus ning nimi;
+- 2) protokolli koostaja ametinimetus ning nimi;
 
-3) kriminaalasja number ja uurimis- või muu menetlustoimingu nimetus;
+- 3) kriminaalasja number ja uurimis- või muu menetlustoimingu nimetus;
 
-4) seaduses sätestatud juhtudel viide uurimis- või muu menetlustoimingu aluseks olnud määrusele;
+- 4) seaduses sätestatud juhtudel viide uurimis- või muu menetlustoimingu aluseks olnud määrusele;
 
-5) uurimis- või muule menetlustoimingule allutatud isiku menetlusseisund, nimi ning elu- või asukoht ja aadress ning sidevahendi number või elektronposti aadress;
+- 5) uurimis- või muule menetlustoimingule allutatud isiku menetlusseisund, nimi ning elu- või asukoht ja aadress ning sidevahendi number või elektronposti aadress;
 
-6) uurimis- või muus menetlustoimingus osalenud muu isiku menetlusseisund, nimi ning elu- või asukoht ja aadress;
+- 6) uurimis- või muus menetlustoimingus osalenud muu isiku menetlusseisund, nimi ning elu- või asukoht ja aadress;
 
-7) uurimis- või muu menetlustoimingu algus- ja lõpuaeg ning muud andmed;
+- 7) uurimis- või muu menetlustoimingu algus- ja lõpuaeg ning muud andmed;
 
-8) uurimis- või muu menetlustoimingu rakendus vastavalt käesoleva seadustiku §-le 8;
+- 8) uurimis- või muu menetlustoimingu rakendus vastavalt käesoleva seadustiku §-le 8;
 
-9) uurimis- või muu menetlustoimingu menetlusõiguslikud alused.
+- 9) uurimis- või muu menetlustoimingu menetlusõiguslikud alused.
 
 (3) Kui uurimistoimingus annab ütlusi vähemalt neljateistaastane või vanem tunnistaja, märgitakse protokolli sissejuhatuses, et teda on hoiatatud kriminaalkaristuse eest, mille võib karistusseadustiku järgi kaasa tuua ütluse andmisest seadusliku aluseta keeldumine või teadvalt vale ütluse andmine.
 
@@ -28,17 +28,17 @@
 
 (5) Protokolli põhiosas talletatakse:
 
-1) uurimis- või muu menetlustoimingu käik ja tulemused tõendamiseks vajaliku üksikasjalikkusega, järgides käesolevas seadustikus menetlustoimingute sisu kohta esitatud lisanõudeid;
+- 1) uurimis- või muu menetlustoimingu käik ja tulemused tõendamiseks vajaliku üksikasjalikkusega, järgides käesolevas seadustikus menetlustoimingute sisu kohta esitatud lisanõudeid;
 
-2) tehnikavahendite kasutamine.
+- 2) tehnikavahendite kasutamine.
 
 (6) Protokolli lõpposas märgitakse:
 
-1) uurimis- või muus menetlustoimingus äravõetud objektide nimetused ja nende pakkimise moodus;
+- 1) uurimis- või muus menetlustoimingus äravõetud objektide nimetused ja nende pakkimise moodus;
 
-2) protokolli tutvustamine uurimis- või muus menetlustoimingus osalenud isikutele;
+- 2) protokolli tutvustamine uurimis- või muus menetlustoimingus osalenud isikutele;
 
-3) protokolli lisad.
+- 3) protokolli lisad.
 
 (7) Kui protokollis on esitatud järeldusi, mille mõistmiseks on vaja eriteadmisi, siis märgitakse protokollis järeldusteni jõudmise viis ja selle isiku andmed, kes on eriteadmistele tuginevad järeldused teinud.
 

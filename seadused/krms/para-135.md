@@ -20,10 +20,10 @@
 
 (7) Kautsjon tagastatakse, kui:
 
-1) kahtlustatav või süüdistatav ei riku kautsjoni tingimusi;
+- 1) kahtlustatav või süüdistatav ei riku kautsjoni tingimusi;
 
-2) kriminaalmenetlus lõpetatakse;
+- 2) kriminaalmenetlus lõpetatakse;
 
-3) süüdistatav mõistetakse õigeks.
+- 3) süüdistatav mõistetakse õigeks.
 
 (8) Kohtumäärus, millega lahendatakse kautsjoni kohaldamise küsimus, on vaidlustatav määruskaebuse korras.

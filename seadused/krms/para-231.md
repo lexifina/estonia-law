@@ -6,11 +6,11 @@
 
 (3) Kaebust lahendades võib kohus:
 
-1) jätta kaebuse rahuldamata või läbi vaatamata;
+- 1) jätta kaebuse rahuldamata või läbi vaatamata;
 
-2) rahuldada kaebuse täielikult või osaliselt ja kui õiguste rikkumist ei saa enam kõrvaldada, tunnistada õiguste rikkumist;
+- 2) rahuldada kaebuse täielikult või osaliselt ja kui õiguste rikkumist ei saa enam kõrvaldada, tunnistada õiguste rikkumist;
 
-3) tühistada vaidlustatud määruse või peatada vaidlustatud menetlustoimingu täielikult või osaliselt, kõrvaldades õiguste rikkumise.
+- 3) tühistada vaidlustatud määruse või peatada vaidlustatud menetlustoimingu täielikult või osaliselt, kõrvaldades õiguste rikkumise.
 
 (4) Kaebuse saanud kohus võib vaidlustatud määruse või menetlustoimingu täitmise peatada.
 

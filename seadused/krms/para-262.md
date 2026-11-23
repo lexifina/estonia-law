@@ -2,21 +2,21 @@
 
 (1) Eelmenetluses võib kohtunik teha määruse:
 
-1) süüdistatava kohtu alla andmiseks;
+- 1) süüdistatava kohtu alla andmiseks;
 
-2) prokuratuurile süüdistusakti tagastamiseks, kui süüdistusakt ei vasta käesoleva seadustiku § 154 nõuetele;
+- 2) prokuratuurile süüdistusakti tagastamiseks, kui süüdistusakt ei vasta käesoleva seadustiku § 154 nõuetele;
 
-2¹) kaitseakti täiendamiseks või uue kaitseakti koostamiseks viie tööpäeva jooksul eelistungi toimumisest arvates, kui kaitseakt ei vasta käesoleva seadustiku § 227 lõikes 3 sätestatud nõuetele;
+- 2¹) kaitseakti täiendamiseks või uue kaitseakti koostamiseks viie tööpäeva jooksul eelistungi toimumisest arvates, kui kaitseakt ei vasta käesoleva seadustiku § 227 lõikes 3 sätestatud nõuetele;
 
-3) kriminaalmenetluse osaliseks või täielikuks lõpetamiseks käesoleva seadustiku § 199 lõike 1 punktides 2–6 ja §-des 201–2031 loetletud juhtudel;
+- 3) kriminaalmenetluse osaliseks või täielikuks lõpetamiseks käesoleva seadustiku § 199 lõike 1 punktides 2–6 ja §-des 201–203¹ loetletud juhtudel;
 
-4) tõkendi kohaldamiseks või muutmiseks;
+- 4) tõkendi kohaldamiseks või muutmiseks;
 
-4¹) tsiviilhagi või avalik-õigusliku nõudeavalduse menetlusse võtmiseks või tähtaja määramiseks selles puuduste kõrvaldamiseks või tsiviilhagi või avalik-õigusliku nõudeavalduse läbi vaatamata jätmiseks;
+- 4¹) tsiviilhagi või avalik-õigusliku nõudeavalduse menetlusse võtmiseks või tähtaja määramiseks selles puuduste kõrvaldamiseks või tsiviilhagi või avalik-õigusliku nõudeavalduse läbi vaatamata jätmiseks;
 
-5) menetlusosalise taotluse lahendamiseks;
+- 5) menetlusosalise taotluse lahendamiseks;
 
-6) asjaolu omaks võetuks tunnistamise kohta.
+- 6) asjaolu omaks võetuks tunnistamise kohta.
 
 (2) Kui kohus leiab, et asja lahendamine kuulub halduskohtu pädevusse, kuid halduskohus on eelnevalt leidnud, et sama asja lahendamine ei kuulu tema pädevusse, määrab asja lahendamiseks pädeva kohtu Riigikohtu kriminaal- ja halduskolleegiumi vaheline erikogu tsiviilkohtumenetluse seadustiku §-s 711 sätestatud korras.
 

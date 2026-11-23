@@ -6,21 +6,21 @@
 
 (3) Määrusest peab nähtuma:
 
-1) koostaja ametinimetus ja nimi;
+- 1) koostaja ametinimetus ja nimi;
 
-2) määruse tegemise kuupäev;
+- 2) määruse tegemise kuupäev;
 
-3) millises kriminaalasjas on määrus tehtud;
+- 3) millises kriminaalasjas on määrus tehtud;
 
-4) millises küsimuses on määrus tehtud;
+- 4) millises küsimuses on määrus tehtud;
 
-5) menetleja otsustuse sisu ja selle menetlusõiguslik alus;
+- 5) menetleja otsustuse sisu ja selle menetlusõiguslik alus;
 
-6) määruse vaidlustamise kord, kui määrust saab kriminaalasja lõpplahendist eraldi vaidlustada;
+- 6) määruse vaidlustamise kord, kui määrust saab kriminaalasja lõpplahendist eraldi vaidlustada;
 
-7) määruse aluseks olevad asjaolud;
+- 7) määruse aluseks olevad asjaolud;
 
-8) määruse õiguslikud põhjendused.
+- 8) määruse õiguslikud põhjendused.
 
 (4) Kui eeluurimiskohtunik või kohus lahendab määrusega taotlust menetlustoiminguks loa andmiseks, otsustab menetlustoimingu lubatavaks tunnistamist või lahendab kohtuliku eelmenetluse küsimusi, võib määruse teha pealdisena või viitega lahendatavale taotlusele, milles sisalduvad andmed ja põhjendused loetakse määruse osaks, kui määrusest ei tulene teisiti.
 
@@ -28,11 +28,13 @@
 
 (6) Kui määrusest ei nähtu käesoleva paragrahvi lõike 3 punktides 7 ja 8 nimetatud andmed, peab menetleja menetlusosalise ja kohus ka prokuratuuri sellekohase taotluse saamisest kümne päeva või käesolevas seadustikus ettenähtud muu tähtaja jooksul vormistama määruse koos nende andmetega, kui käesolev seadustik ei näe ette teisiti ja kõnealune määrus:
 
-1) on kriminaalasja lõpplahendiks;
+- 1) on kriminaalasja lõpplahendiks;
 
-2) on vaidlustatav määruskaebuse korras;
+- 2) on vaidlustatav määruskaebuse korras;
 
-3) on vaidlustatav käesoleva seadustiku § 228 kohaselt või 4) peab sisaldama käesoleva paragrahvi lõike 3 punktides 7 ja 8 nimetatud andmeid selleks, et seda oleks võimalik täita.
+- 3) on vaidlustatav käesoleva seadustiku § 228 kohaselt või
+
+- 4) peab sisaldama käesoleva paragrahvi lõike 3 punktides 7 ja 8 nimetatud andmeid selleks, et seda oleks võimalik täita.
 
 (7) Määrusele, millega kohustatakse menetlusosalist tasuma Eesti Vabariigile rahasumma sellise nõude alusel, mis ei ole tekkinud riigi ega riigi haldusorgani osalemisest kohtus menetlusosalisena, võib eraldi dokumendis lisada nõude tasumiseks vajalikud andmed.
 

@@ -2,11 +2,11 @@
 
 (1) Kohtunik, avanud kohtuistungi:
 
-1) teatab, milline kriminaalasi tuleb arutusele;
+- 1) teatab, milline kriminaalasi tuleb arutusele;
 
-2) selgitab, kes kohtumenetluse pooltest on ilmunud;
+- 2) selgitab, kes kohtumenetluse pooltest on ilmunud;
 
-3) selgitab, kas kutsed on kätte saadud ja millised on ilmumata jäämise põhjused.
+- 3) selgitab, kas kutsed on kätte saadud ja millised on ilmumata jäämise põhjused.
 
 (2) Kohtuistungi sekretär kannab kohtule ette, kas kutsutud tunnistajad, ekspert, asjatundja ja tõlk on kohtuistungile ilmunud.
 

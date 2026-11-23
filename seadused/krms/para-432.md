@@ -2,9 +2,9 @@
 
 (1) Kohtulahendi täitmisega seonduvad küsimused lahendab täitmiskohtunik määrusega kirjalikus menetluses kohtumenetluse pooli kohtusse kutsumata, kui käesoleva paragrahvi lõikest 3 ei tulene teisiti.
 
-(2) Kui küsimus puudutab kohtuotsuse täitmist tsiviilhagi või avalik-õigusliku nõudeavalduse osas, teatab täitmiskohtunik sellest eelnevalt kannatanule ja tsiviilkostjale ning neil on õigus esitada oma kirjalikud arvamused kohtu määratud tähtajaks. Käesoleva seadustiku § 2031 lõikes 3 sätestatud alustel pandud kohustuse muutmise või kohustusest vabastamise taotluse esitamise korral teatab täitmiskohtunik sellest kannatanule, kes peab kohtu määratud tähtajaks esitama kirjalikult oma arvamuse.
+(2) Kui küsimus puudutab kohtuotsuse täitmist tsiviilhagi või avalik-õigusliku nõudeavalduse osas, teatab täitmiskohtunik sellest eelnevalt kannatanule ja tsiviilkostjale ning neil on õigus esitada oma kirjalikud arvamused kohtu määratud tähtajaks. Käesoleva seadustiku § 203¹ lõikes 3 sätestatud alustel pandud kohustuse muutmise või kohustusest vabastamise taotluse esitamise korral teatab täitmiskohtunik sellest kannatanule, kes peab kohtu määratud tähtajaks esitama kirjalikult oma arvamuse.
 
-(3) Käesoleva seadustiku §-des 425–4261 sätestatud küsimused ja süüdimõistetult vabaduse võtmisega seotud küsimused lahendab täitmiskohtunik süüdimõistetu osavõtul. Täitmiskohtuniku juurde kutsutakse prokurör, välja arvatud käesoleva seadustiku § 417 lõikes 3, § 427 lõigetes 1 ja 2 ja §-s 428 sätestatud juhul, ja süüdimõistetu taotlusel kaitsja ning kuulatakse ära nende arvamus. Süüdimõistetu haiguse tõttu enne tähtaega karistusest vabastamise küsimuse lahendamisel on arvamuse andnud tervishoiutöötaja osavõtt kohustuslik. Karistusjärgse käitumiskontrolli kohaldamise küsimust otsustades võib kohus kaasata vajaduse korral muid isikuid või määrata ekspertiisi.
+(3) Käesoleva seadustiku §-des 425–426¹ sätestatud küsimused ja süüdimõistetult vabaduse võtmisega seotud küsimused lahendab täitmiskohtunik süüdimõistetu osavõtul. Täitmiskohtuniku juurde kutsutakse prokurör, välja arvatud käesoleva seadustiku § 417 lõikes 3, § 427 lõigetes 1 ja 2 ja §-s 428 sätestatud juhul, ja süüdimõistetu taotlusel kaitsja ning kuulatakse ära nende arvamus. Süüdimõistetu haiguse tõttu enne tähtaega karistusest vabastamise küsimuse lahendamisel on arvamuse andnud tervishoiutöötaja osavõtt kohustuslik. Karistusjärgse käitumiskontrolli kohaldamise küsimust otsustades võib kohus kaasata vajaduse korral muid isikuid või määrata ekspertiisi.
 
 (3¹) Kui väljaspool Eesti Vabariigi territooriumi viibiv süüdimõistetu on kuulutatud tagaotsitavaks, võib käesoleva seadustiku §-s 427 või 428 sätestatud alustel vangistuse täitmisele pööramise ja käesoleva seadustiku § 131 lõikes 4 sätestatud alustel vahistamise otsustada kirjalikus menetluses kohtumenetluse pooli kohtusse kutsumata. Hiljemalt ülejärgmisel päeval pärast isiku Eestisse toimetamist viiakse süüdimõistetu küsitlemiseks täitmiskohtuniku juurde.
 
@@ -20,4 +20,4 @@
 
 (5) Määruse peale, millega täitmiskohtunik lahendab süüdimõistva otsuse täitmisel tekkinud küsimused, võivad prokuratuur ja muu menetlusosaline, keda määrus puudutab, esitada määruskaebuse.
 
-(6) Määrus, millega täitmiskohtunik lahendab süüdimõistva otsuse täitmisel tekkinud küsimused, avalikustatakse käesoleva seadustiku §-s 4081 sätestatud korras.
+(6) Määrus, millega täitmiskohtunik lahendab süüdimõistva otsuse täitmisel tekkinud küsimused, avalikustatakse käesoleva seadustiku §-s 408¹ sätestatud korras.

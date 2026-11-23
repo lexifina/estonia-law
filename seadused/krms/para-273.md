@@ -2,13 +2,13 @@
 
 (1) Kriminaalasja kohtulik arutamine lükatakse määrusega edasi, kui:
 
-1) kohtuistungile on jäänud ilmumata käesoleva seadustiku §-des 269–271 nimetamata isik, kelle osavõtt on vajalik;
+- 1) kohtuistungile on jäänud ilmumata käesoleva seadustiku §-des 269–271 nimetamata isik, kelle osavõtt on vajalik;
 
-2) on vaja koguda täiendavaid tõendeid;
+- 2) on vaja koguda täiendavaid tõendeid;
 
-2¹) kohtuistungil ilmnenud teise kuriteo kahtluse tõttu on kriminaalasja igakülgne, täielik ja objektiivne arutamine raskendatud;
+- 2¹) kohtuistungil ilmnenud teise kuriteo kahtluse tõttu on kriminaalasja igakülgne, täielik ja objektiivne arutamine raskendatud;
 
-3) kohtuistungit ei ole võimalik muul põhjusel jätkata.
+- 3) kohtuistungit ei ole võimalik muul põhjusel jätkata.
 
 (2) Enne kohtuliku arutamise edasilükkamist võidakse kohtuistungile ilmunud tunnistaja, kannatanu, asjatundja, ekspert või tsiviilkostja üle kuulata ja jätta ta teist korda kohtuistungile kutsumata.
 

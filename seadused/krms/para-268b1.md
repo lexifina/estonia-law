@@ -4,9 +4,9 @@
 
 (2) Kohus, lähtudes kriminaalasjade üldmenetluses arutamiseks koostatud ajakavast, leiab võimaluse paralleelselt arutada üldmenetluses arutamiseks kohtusse saadetud kriminaalasja, kui:
 
-1) kriminaalasjas süüdistatakse isikut alaealisena kuriteo toimepanemises;
+- 1) kriminaalasjas süüdistatakse isikut alaealisena kuriteo toimepanemises;
 
-2) kriminaalasjas on süüdistatavale kohaldatud tõkendina vahistamist ja kohus peab vajalikuks jätkata nimetatud tõkendi kohaldamist.
+- 2) kriminaalasjas on süüdistatavale kohaldatud tõkendina vahistamist ja kohus peab vajalikuks jätkata nimetatud tõkendi kohaldamist.
 
 (3) Üldmenetluses arutatava kriminaalasja kohtumenetluse vältimatul edasilükkamisel või kohtumenetluse ajakavas tekkinud arutamise vaheaegade tõttu on kohtul õigus alustada teise üldmenetluses arutamiseks kohtusse saadetud kriminaalasja arutamist, kui see ei kahjusta eelmise asja kohtuliku arutamise ajakava. Samuti on arutatava kriminaalasja kohtumenetluse vältimatu edasilükkamise korral kohtul õigus alustada järgmise üldmenetluses arutamiseks planeeritud kriminaalasja arutamist selle ajakava kohaselt.
 

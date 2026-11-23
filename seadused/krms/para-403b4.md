@@ -4,14 +4,14 @@
 
 (2) Prokuratuuri korraldusel esitab ta prokuratuurile konfiskeerimismenetluse kokkuvõtte, milles märgitakse:
 
-1) süüdistatava või süüdimõistetu nimi, elu- või asukoht ja aadress, isikukood või selle puudumisel sünniaeg;
+- 1) süüdistatava või süüdimõistetu nimi, elu- või asukoht ja aadress, isikukood või selle puudumisel sünniaeg;
 
-2) kolmanda isiku nimi, elu- või asukoht ja aadress, isikukood või selle puudumisel sünniaeg;
+- 2) kolmanda isiku nimi, elu- või asukoht ja aadress, isikukood või selle puudumisel sünniaeg;
 
-3) viide konfiskeerimise aluseks oleva kuriteo kriminaalasja nimetusele ja kohtuotsusele, kui konfiskeerimise aluseks olevas kuriteos on kohtuotsus tehtud;
+- 3) viide konfiskeerimise aluseks oleva kuriteo kriminaalasja nimetusele ja kohtuotsusele, kui konfiskeerimise aluseks olevas kuriteos on kohtuotsus tehtud;
 
-4) andmed konfiskeeritava vara arestimise ja teiste konfiskeerimist või selle asendamist tagavate abinõude kohta;
+- 4) andmed konfiskeeritava vara arestimise ja teiste konfiskeerimist või selle asendamist tagavate abinõude kohta;
 
-5) konfiskeeritava vara kirjeldus ja asukoht;
+- 5) konfiskeeritava vara kirjeldus ja asukoht;
 
-6) tõendite loetelu.
+- 6) tõendite loetelu.

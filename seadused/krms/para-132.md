@@ -2,13 +2,13 @@
 
 (1) Vahistamismääruses märgitakse:
 
-1) vahistatava isiku nimi ja isikukood või selle puudumise korral sünniaeg;
+- 1) vahistatava isiku nimi ja isikukood või selle puudumise korral sünniaeg;
 
-2) selle kuriteo asjaolud, mille toimepanemises isikut kahtlustatakse või süüdistatakse, ja teo kvalifikatsioon;
+- 2) selle kuriteo asjaolud, mille toimepanemises isikut kahtlustatakse või süüdistatakse, ja teo kvalifikatsioon;
 
-3) vahistamise alus viitega käesoleva seadustiku §-le 130 või 429;
+- 3) vahistamise alus viitega käesoleva seadustiku §-le 130 või 429;
 
-4) vahistamise põhjendus.
+- 4) vahistamise põhjendus.
 
 (2) Vahistamismäärus lisatakse kriminaaltoimikusse ning määruse koopia edastatakse vahistatule.
 

@@ -8,4 +8,4 @@
 
 (4) Käesoleva paragrahvi lõikes 3 sätestatud prokuratuuri keeldumise määruse peale võib esitada kaebuse vastavalt käesoleva seadustiku § 228 sätetele.
 
-(5) Kahtlustataval on õigus tutvuda lõpetatud kriminaalasja kriminaaltoimiku materjalidega pärast seda, kui kannatanu ei ole menetluse lõpetamist tähtajaks vaidlustanud, välja arvatud juhul, kui käesolevas seadustikus on kriminaaltoimiku materjalidega tutvumiseks sätestatud varasem aeg. Erandjuhul võib piirata tutvumist ulatuses, mis on vajalik ülekaaluka käesoleva seadustiku § 152 lõikes 4 nimetatud huvi kaitseks.
+(5) Kahtlustataval on õigus tutvuda lõpetatud kriminaalasja kriminaaltoimiku materjalidega pärast seda, kui kannatanu ei ole menetluse lõpetamist tähtajaks vaidlustanud, välja arvatud juhul, kui käesolevas seadustikus on kriminaaltoimiku materjalidega tutvumiseks sätestatud varasem aeg. Erandjuhul võib piirata tutvumist ulatuses, mis on vajalik ülekaaluka käesoleva seadustiku § 15² lõikes 4 nimetatud huvi kaitseks.

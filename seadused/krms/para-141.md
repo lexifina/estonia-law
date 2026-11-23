@@ -2,9 +2,9 @@
 
 (1) Kahtlustatav või süüdistatav kõrvaldatakse ametist prokuratuuri taotlusel eeluurimiskohtuniku määruse või kohtumääruse alusel, kui:
 
-1) ta edasi töötades võib jätkuvalt toime panna kuritegusid;
+- 1) ta edasi töötades võib jätkuvalt toime panna kuritegusid;
 
-2) edasitöötamine võib kahjustada kriminaalmenetlust.
+- 2) edasitöötamine võib kahjustada kriminaalmenetlust.
 
 (2) Kahtlustatava või süüdistatava ametist kõrvaldamise määruse koopia antakse kahtlustatavale või süüdistatavale ja saadetakse tema töökoha juhile.
 

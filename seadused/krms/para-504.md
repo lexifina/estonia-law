@@ -10,6 +10,6 @@
 
 (4¹) Euroopa vahistamismääruse täitmiseks pädevad asutused ja Justiits- ja Digiministeerium peavad loovutamismenetluses oma töö korraldama selliselt, et kohtul oleks võimalik jõuda jõustunud kohtulahendini 10 päeva jooksul, kui isik on teatanud loovutamisega nõustumisest, ning 60 päeva jooksul, kui isik ei ole teatanud loovutamisega nõustumisest.
 
-(4²) Kui käesoleva paragrahvi lõikes 41 sätestatud tähtaegadest ei ole erakorralistel asjaoludel võimalik kinni pidada, võib loovutamisotsuse tegemiseks ettenähtud aeg pikeneda kuni kolmekümne päeva võrra. Loovutamismenetluse tähtaja pikenemisest ja selle põhjustest teavitatakse viivitamata taotluse esitajat ja Eurojusti.
+(4²) Kui käesoleva paragrahvi lõikes 4¹ sätestatud tähtaegadest ei ole erakorralistel asjaoludel võimalik kinni pidada, võib loovutamisotsuse tegemiseks ettenähtud aeg pikeneda kuni kolmekümne päeva võrra. Loovutamismenetluse tähtaja pikenemisest ja selle põhjustest teavitatakse viivitamata taotluse esitajat ja Eurojusti.
 
 (5) Isik, kelle kohus otsustas välisriigile loovutada, võib kaebeõigusest loobuda, tehes selle kohta kirjaliku avalduse. Sellisel juhul jõustub kohtumäärus kaebeõigusest loobumise päeval.

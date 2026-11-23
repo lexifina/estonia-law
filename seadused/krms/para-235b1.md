@@ -1,7 +1,11 @@
-# § 235¹. Tsiviilhagi ja avalik-õigusliku nõudeavalduse läbi vaatamata jätmine lühimenetluses
+# § 235¹. Kohtu alla andmine lühimenetluses
 
-(1) Tsiviilhagi või avalik-õigusliku nõudeavalduse võib kohus jätta lühimenetluses läbi vaatamata lisaks käesoleva seadustiku § 2962 lõikes 1 nimetatud alustele ka põhjusel, et see oma mahukuse või keerukuse tõttu takistaks kriminaalasja kiiret lahendamist, kui kohtu hinnangul on kannatanu võimeline enda huve kaitsma muus menetluses.
+(1) Kriminaaltoimiku saanud kohtunik kontrollib käesoleva seadustiku §-de 24–27 sätteid järgides kriminaalasja kohtualluvust ning teeb määruse:
 
-(2) Tsiviilhagi või avalik-õigusliku nõudeavalduse läbi vaatamata jätmine ei välista sama nõude esitamist tsiviil- või halduskohtumenetluse korras või avalik-õigusliku nõudeavalduse aluseks olnud kohustuse sissenõudmist haldusmenetluses.
+- 1) süüdistatava kohtu alla andmiseks, järgides käesoleva seadustiku § 263 sätteid;
 
-(3) Kui pärast tsiviilhagi või avalik-õigusliku nõudeavalduse läbi vaatamata jätmist käesoleva paragrahvi alusel jätkub samas asjas menetlus muus menetlusliigis kui lühimenetluses, lisatakse tsiviilhagi või avalik-õiguslik nõudeavaldus süüdistusaktile, kui sama nõuet ei ole esitatud juba tsiviil- või halduskohtumenetluse korras ja haldusorgan ei ole avalik-õiguslikus nõudeavalduses esitatud nõuet haldusaktiga lahendanud.
+- 2) kriminaaltoimiku prokuratuurile tagastamiseks, kui puuduvad lühimenetluse kohaldamise alused;
+
+- 3) kriminaaltoimiku prokuratuurile tagastamiseks ja menetluse jätkamiseks, kui kohus ei nõustu kriminaalasja lahendamisega lühimenetluses.
+
+(2) Kohtuliku eelmenetluse läbiviimisel juhindutakse käesoleva seadustiku §-dest 257²–262, arvestades lühimenetluse erisusi.

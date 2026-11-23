@@ -10,15 +10,15 @@
 
 (2¹) Poolte vahel teistsuguse kokkuleppe puudumise korral on teisesküsitlemise järjekord järgmine:
 
-1) prokuratuuri tunnistajaid küsitleb esimesena kannatanu, seejärel kaitsja, tsiviilkostja ja kolmas isik;
+- 1) prokuratuuri tunnistajaid küsitleb esimesena kannatanu, seejärel kaitsja, tsiviilkostja ja kolmas isik;
 
-2) kaitse tunnistajaid küsitlevad esimesena ülejäänud kaitsjad, seejärel prokurör, kannatanu, tsiviilkostja ja kolmas isik;
+- 2) kaitse tunnistajaid küsitlevad esimesena ülejäänud kaitsjad, seejärel prokurör, kannatanu, tsiviilkostja ja kolmas isik;
 
-3) kannatanu tunnistajaid küsitlevad esimesena ülejäänud kannatanud, seejärel prokurör, kaitsja, tsiviilkostja ja kolmas isik;
+- 3) kannatanu tunnistajaid küsitlevad esimesena ülejäänud kannatanud, seejärel prokurör, kaitsja, tsiviilkostja ja kolmas isik;
 
-4) tsiviilkostja tunnistajaid küsitlevad esimesena ülejäänud tsiviilkostjad, seejärel kaitsja, kolmas isik, kannatanu ja prokurör;
+- 4) tsiviilkostja tunnistajaid küsitlevad esimesena ülejäänud tsiviilkostjad, seejärel kaitsja, kolmas isik, kannatanu ja prokurör;
 
-5) kolmanda isiku tunnistajaid küsitlevad esimesena ülejäänud kolmandad isikud, seejärel tsiviilkostja, kaitsja, prokurör ja kannatanu.
+- 5) kolmanda isiku tunnistajaid küsitlevad esimesena ülejäänud kolmandad isikud, seejärel tsiviilkostja, kaitsja, prokurör ja kannatanu.
 
 (3) Teisesküsitlusel võib esmasküsitlusel antud ütluste kontrollimiseks esitada suunavaid küsimusi. Teisesküsitlusel ei ole lubatud kohtu loata suunavaid küsimusi esitada uute asjaolude kohta.
 
@@ -28,7 +28,7 @@
 
 (5) Kohus võib kohtumenetluse poole taotlusel jätta ristküsitluse käigus kõrvale tunnistajale esitatud küsimuse, mis on lubamatu või asjakohatu. Kohus võib omal algatusel jätta kõrvale küsimuse, mis alandab tunnistaja väärikust.
 
-(5¹) Ristküsitlusel suunavate küsimuste esitamisel ning kohtu poolt loa andmisel arvestatakse käesoleva seadustiku §-s 2881 sätestatut.
+(5¹) Ristküsitlusel suunavate küsimuste esitamisel ning kohtu poolt loa andmisel arvestatakse käesoleva seadustiku §-s 288¹ sätestatut.
 
 (6) Kohtul on õigus kriminaalmenetluse asjaolude kohta küsitleda tunnistajat pärast seda, kui pooled on tunnistajat küsitlenud.
 
@@ -38,12 +38,12 @@
 
 (9) Ristküsitluse käigus võib kohtumenetluse pool:
 
-1) kasutada näitlikke abivahendeid, mis ei ole tõendiks, kuid aitavad tunnistaja ütlusi esitada, olemata samas eksitavad;
+- 1) kasutada näitlikke abivahendeid, mis ei ole tõendiks, kuid aitavad tunnistaja ütlusi esitada, olemata samas eksitavad;
 
-2) esitada kohtule asitõendeid ja dokumente;
+- 2) esitada kohtule asitõendeid ja dokumente;
 
-2¹) näidata kohtu poolt vastu võetud asitõendeid ja dokumente ning esitada tunnistajale nende kohta küsimusi;
+- 2¹) näidata kohtu poolt vastu võetud asitõendeid ja dokumente ning esitada tunnistajale nende kohta küsimusi;
 
-3) võimaldada tunnistajal, kes ei mäleta tõendamiseseme asjaolusid, tutvuda dokumendi või muu esemega, mis võib aidata tunnistajal neid meenutada, olenemata selle dokumendi või eseme lubatavusest tõendina.
+- 3) võimaldada tunnistajal, kes ei mäleta tõendamiseseme asjaolusid, tutvuda dokumendi või muu esemega, mis võib aidata tunnistajal neid meenutada, olenemata selle dokumendi või eseme lubatavusest tõendina.
 
 (10) [Kehtetu]

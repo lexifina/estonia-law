@@ -2,9 +2,9 @@
 
 (1) Kannatanul on õigus esitada kahtlustatava, süüdistatava või tsiviilkostja vastu tsiviilhagi, mille kohus vaatab läbi kriminaalmenetluses. Kannatanu võib tsiviilhagis esitada nõude, kui:
 
-1) nõude eesmärk on kriminaalmenetluse esemeks oleva teoga rikutud kannatanu hüveolukorra taastamine või heastamine, kui selle nõude aluseks olevad faktilised asjaolud kattuvad olulises osas menetletava kuriteo tehioludega ja kui sellist nõuet oleks võimalik läbi vaadata ka tsiviilkohtumenetluses;
+- 1) nõude eesmärk on kriminaalmenetluse esemeks oleva teoga rikutud kannatanu hüveolukorra taastamine või heastamine, kui selle nõude aluseks olevad faktilised asjaolud kattuvad olulises osas menetletava kuriteo tehioludega ja kui sellist nõuet oleks võimalik läbi vaadata ka tsiviilkohtumenetluses;
 
-2) tegemist on kahjuhüvitisnõudega avaliku võimu kandja vastu, mida oleks võimalik esitada halduskohtumenetluses.
+- 2) tegemist on kahjuhüvitisnõudega avaliku võimu kandja vastu, mida oleks võimalik esitada halduskohtumenetluses.
 
 (2) Avaliku võimu kandja võib lisaks käesoleva paragrahvi lõikes 1 sätestatule esitada kannatanuna ka avalik-õigusliku nõudeavalduse süüdistatavalt nõutava avalik-õigusliku rahalise kohustuse kindlaksmääramiseks, kui sellise kohustuse tekkimise aluseks olevad faktilised asjaolud kattuvad olulises osas menetletava kuriteo tehioludega. Avalik-õigusliku nõudeavalduse võib esitada haldusorgan, kes oleks õigustatud sama rahalise kohustuse kindlaks määrama haldusmenetluses. Avalik-õigusliku nõudeavalduse esitamine kriminaalmenetluses välistab sama nõude maksmapaneku muus menetluses, välja arvatud juhul, kui taotlus jäetakse kriminaalmenetluses läbi vaatamata.
 
@@ -16,7 +16,7 @@
 
 (3³) Kui kriminaalmenetlusse on kannatanuna kaasatud riigi, kohaliku omavalitsuse üksuse või muu avaliku võimu kandja ja tema esindaja võtab tsiviilhagi või avalik-õigusliku nõudeavalduse enne kohtuliku arutamise algust tagasi, võib prokuratuur esitada tsiviilhagi või avalik-õigusliku nõudeavalduse riigi, kohaliku omavalitsuse üksuse või muu avaliku võimu kandja esindaja asemel.
 
-(3⁴) Käesoleva paragrahvi lõigetes 31–33 nimetatud juhtudel esitab prokuratuur tsiviilhagi või avalik-õigusliku nõudeavalduse riigi kasuks.
+(3⁴) Käesoleva paragrahvi lõigetes 3¹–3³ nimetatud juhtudel esitab prokuratuur tsiviilhagi või avalik-õigusliku nõudeavalduse riigi kasuks.
 
 (4) Tsiviilhagi läbivaatamine kriminaalmenetluses on riigilõivuvaba, välja arvatud tsiviilhagi mittevaralise kahju hüvitamise nõudes, kui mittevaralise kahju hüvitamise nõue ei tulene kehavigastuse või muu terviserikke tekitamisest, vägistamisest või toitja surma põhjustamisest.
 
