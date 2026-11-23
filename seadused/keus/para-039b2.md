@@ -8,4 +8,4 @@
 
 (4) Keskkonnaportaali haldamise ja arendamise tagab valdkonna eest vastutava ministri käskkirjaga määratud asutus.
 
-(5) võib määrusega kehtestada keskkonnaportaali haldamise, arendamise ja kasutamise, teabe kättesaadavaks tegemise ning andmekogu keskkonnaportaaliga liidestamise nõuded ja korra.
+(5) Valdkonna eest vastutav minister võib määrusega kehtestada keskkonnaportaali haldamise, arendamise ja kasutamise, teabe kättesaadavaks tegemise ning andmekogu keskkonnaportaaliga liidestamise nõuded ja korra.

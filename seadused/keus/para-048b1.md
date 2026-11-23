@@ -1,6 +1,6 @@
 # § 48¹. Avalik arutelu ja avatud menetluse tulemuste arvesse võtmine
 
-(1) Keskkonnaloa andja otsustab loa andmise pärast asja arutamist avalikul arutelul, mille käigus on igaühel õigus avaldada suuliselt arvamust keskkonnaloa eelnõu ja selle andmise menetluse kohta. Keskkonnaloa andmise võib otsustada arutelu korraldamata, kui see võimalus on ette nähtud seadusega või menetlusosalised on haldusmenetluse seaduse § 50 lõike 3 kohaselt loobunud asja arutamisest avalikul istungil.
+(1) Keskkonnaloa andja otsustab loa andmise pärast asja arutamist avalikul arutelul, mille käigus on igaühel õigus avaldada suuliselt arvamust keskkonnaloa eelnõu ja selle andmise menetluse kohta. Keskkonnaloa andmise võib otsustada arutelu korraldamata, kui see võimalus on ette nähtud seadusega või menetlusosalised on haldusmenetluse seaduse § 50 lõike 3 kohaselt loobunud asja arutamisest avalikul istungil.
 
 (2) Kui arutelu toimumise aega ei ole teatavaks tehtud koos väljapanekust teatamisega, teavitab keskkonnaloa andja avalikkust arutelu toimumisest vähemalt kümme päeva enne arutelu toimumist käesoleva seaduse §-s 47 sätestatud korras.
 

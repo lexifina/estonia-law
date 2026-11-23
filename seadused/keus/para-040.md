@@ -2,13 +2,13 @@
 
 (1) Keskkonnakaitseluba on:
 
-1) keskkonnaluba;
+- 1) keskkonnaluba;
 
-2) keskkonnakompleksluba;
+- 2) keskkonnakompleksluba;
 
-3) kui seadusega ei ole ette nähtud keskkonnaloa ega keskkonnakompleksloa nõuet, muu luba, mille nõue nähakse seadusega ette keskkonnariski vähendamise eesmärgil mõnel tegevusalal tegutsemiseks.
+- 3) kui seadusega ei ole ette nähtud keskkonnaloa ega keskkonnakompleksloa nõuet, muu luba, mille nõue nähakse seadusega ette keskkonnariski vähendamise eesmärgil mõnel tegevusalal tegutsemiseks.
 
-(2) Keskkonnaluba annab õiguse vähemalt üheks käesoleva seaduse § 41 lõikes 1 nimetatud tegevuseks. Keskkonnaloa andmise menetlus sätestatakse käesolevas peatükis ja loa tegevusvaldkondi reguleerivates seadustes.
+(2) Keskkonnaluba annab õiguse vähemalt üheks käesoleva seaduse § 41 lõikes 1 nimetatud tegevuseks. Keskkonnaloa andmise menetlus sätestatakse käesolevas peatükis ja loa tegevusvaldkondi reguleerivates seadustes.
 
 (3) Keskkonnakompleksluba annab õiguse tegevuseks seaduse alusel määratud tegevusvaldkonnas või allvaldkonnas viisil, mis tagab keskkonnahäiringute vähendamise võimalikult suures ulatuses.
 

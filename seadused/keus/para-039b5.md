@@ -2,29 +2,29 @@
 
 (1) Eesti looduse infosüsteem on riigi infosüsteemi kuuluv andmekogu, mille eesmärk on koguda ja avalikustada süstematiseeritult teavet järgmiste keskkonnaga seotud ruumiobjektide kohta:
 
-1) kaitstav loodusobjekt ja Natura 2000 võrgustiku ala looduskaitseseaduse tähenduses;
+- 1) kaitstav loodusobjekt ja Natura 2000 võrgustiku ala looduskaitseseaduse tähenduses;
 
-2) lõhe, jõeforelli, meriforelli ja harjuse kudemis- ja elupaik looduskaitseseaduse tähenduses;
+- 2) lõhe, jõeforelli, meriforelli ja harjuse kudemis- ja elupaik looduskaitseseaduse tähenduses;
 
-3) jahipiirkond jahiseaduse tähenduses;
+- 3) jahipiirkond jahiseaduse tähenduses;
 
-4) vääriselupaik metsaseaduse tähenduses;
+- 4) vääriselupaik metsaseaduse tähenduses;
 
-5) nitraaditundlik ala, sealhulgas olulised allika- ja karstialad, veeseaduse tähenduses;
+- 5) nitraaditundlik ala, sealhulgas olulised allika- ja karstialad, veeseaduse tähenduses;
 
-6) põhjavesi veeseaduse tähenduses;
+- 6) põhjavesi veeseaduse tähenduses;
 
-7) üleujutusega seotud oluline riskipiirkond veeseaduse tähenduses;
+- 7) üleujutusega seotud oluline riskipiirkond veeseaduse tähenduses;
 
-8) suur üleujutusala looduskaitseseaduse tähenduses;
+- 8) suur üleujutusala looduskaitseseaduse tähenduses;
 
-9) geneetiliselt muundatud organismi keskkonda viimise ala;
+- 9) geneetiliselt muundatud organismi keskkonda viimise ala;
 
-10) veekogu veeseaduse tähenduses;
+- 10) veekogu veeseaduse tähenduses;
 
-11) keskkonnaseire jaam, ala ja koht keskkonnaseire seaduse tähenduses;
+- 11) keskkonnaseire jaam, ala ja koht keskkonnaseire seaduse tähenduses;
 
-12) keskkonnakaitseloaga määratud käitis või muu loaga määratud ruumiobjekt, kui õigusakt näeb ette sellise ruumiobjekti andmete kandmise Eesti looduse infosüsteemi, ning sellele seadusega või seaduse alusel määratud kaitsevööndi või eriliste kasutusnõuetega ala ulatus.
+- 12) keskkonnakaitseloaga määratud käitis või muu loaga määratud ruumiobjekt, kui õigusakt näeb ette sellise ruumiobjekti andmete kandmise Eesti looduse infosüsteemi, ning sellele seadusega või seaduse alusel määratud kaitsevööndi või eriliste kasutusnõuetega ala ulatus.
 
 (2) Eesti looduse infosüsteemi kantud ruumiobjektile võib vajaduse korral või Euroopa Liidu õigusaktist või rahvusvahelisest õigusest tulenevalt lisada kirjeldavaid andmeid, nagu objekti erinimetus või -liigitus, või muid objektiga seotud andmeid.
 
@@ -46,18 +46,16 @@
 
 (8³) Eesti looduse infosüsteemi vastutav töötleja on Kliimaministeerium.
 
-(9) Eesti looduse infosüsteemi põhimääruse kehtestab
+(9) Eesti looduse infosüsteemi põhimääruse kehtestab valdkonna eest vastutav minister määrusega, milles sätestatakse:
 
-määrusega, milles sätestatakse:
+- 1) andmekogu volitatud töötlejad ning vastutava ja volitatud töötleja ülesanded;
 
-1) andmekogu volitatud töötlejad ning vastutava ja volitatud töötleja ülesanded;
+- 2) täpsem andmekoosseis;
 
-2) täpsem andmekoosseis;
+- 3) andmeandjad, nendelt saadavad andmed ja andmete infosüsteemi kandmise kord;
 
-3) andmeandjad, nendelt saadavad andmed ja andmete infosüsteemi kandmise kord;
+- 4) andmetele juurdepääsu ja andmete väljastamise kord;
 
-4) andmetele juurdepääsu ja andmete väljastamise kord;
+- 5) andmete säilitamise tähtajad ning andmete täpsem säilitamise kord;
 
-5) andmete säilitamise tähtajad ning andmete täpsem säilitamise kord;
-
-6) muud korraldusküsimused.
+- 6) muud korraldusküsimused.

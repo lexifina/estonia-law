@@ -6,16 +6,16 @@
 
 (3) Avalikustatav keskkonnateave hõlmab vähemalt järgmise teabe:
 
-1) keskkonnaga seonduvate rahvusvaheliste lepete, Euroopa Liidu ja riigisiseste õigusaktide elluviimise aruanded;
+- 1) keskkonnaga seonduvate rahvusvaheliste lepete, Euroopa Liidu ja riigisiseste õigusaktide elluviimise aruanded;
 
-2) keskkonnaga seonduvad programmid ja kavad, sealhulgas valdkonna arengukavad ja strateegiad ning nende elluviimise aruanded;
+- 2) keskkonnaga seonduvad programmid ja kavad, sealhulgas valdkonna arengukavad ja strateegiad ning nende elluviimise aruanded;
 
-3) keskkonnaseire andmed;
+- 3) keskkonnaseire andmed;
 
-4) aruanded keskkonnaseisundi kohta;
+- 4) aruanded keskkonnaseisundi kohta;
 
-5) keskkonnakaitseload ja muud haldusaktid, mis annavad aluse olulise keskkonnamõjuga tegevusele, ning keskkonnaalased halduslepingud ja vaba tahte lepingud;
+- 5) keskkonnakaitseload ja muud haldusaktid, mis annavad aluse olulise keskkonnamõjuga tegevusele, ning keskkonnaalased halduslepingud ja vaba tahte lepingud;
 
-6) keskkonnamõju hindamise aruanded, keskkonnamõju strateegilise hindamise aruanded ning keskkonnaalased riskianalüüsid.
+- 6) keskkonnamõju hindamise aruanded, keskkonnamõju strateegilise hindamise aruanded ning keskkonnaalased riskianalüüsid.
 
 (4) Käesoleva paragrahvi lõike 3 alusel ei avalikustata juurdepääsupiiranguga teavet.

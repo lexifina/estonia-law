@@ -1,6 +1,6 @@
 # § 58. Keskkonnaloa teatavakstegemine
 
-(1) Keskkonnaluba või keskkonnaloa andmisest keeldumise otsus toimetatakse loa taotlejale ja teistele isikutele, kelle õigusi keskkonnaluba või selle andmisest keeldumise otsus piirab, kätte vastavalt haldusmenetluse seaduse §-dele 25–30 ja 32 postiga, keskkonnaloa andja poolt või elektrooniliselt.
+(1) Keskkonnaluba või keskkonnaloa andmisest keeldumise otsus toimetatakse loa taotlejale ja teistele isikutele, kelle õigusi keskkonnaluba või selle andmisest keeldumise otsus piirab, kätte vastavalt haldusmenetluse seaduse §-dele 25–30 ja 32 postiga, keskkonnaloa andja poolt või elektrooniliselt.
 
 (2) Kui käesoleva paragrahvi lõikes 1 nimetatud isikute arv on suurem kui 100, toimetatakse keskkonnaluba või keskkonnaloa andmisest keeldumise otsus kätte ainult keskkonnaloa taotlejale.
 
@@ -10,15 +10,15 @@
 
 (4) Käesoleva paragrahvi lõikes 3 nimetatud teade peab sisaldama vähemalt järgmisi andmeid:
 
-1) millist käesoleva seaduse § 41 lõikes 1 nimetatud tegevust kavandatakse;
+- 1) millist käesoleva seaduse § 41 lõikes 1 nimetatud tegevust kavandatakse;
 
-2) käesoleva seaduse § 42 lõike 1 punktis 1 nimetatud andmed;
+- 2) käesoleva seaduse § 42 lõike 1 punktis 1 nimetatud andmed;
 
-3) andmed kavandatud tegevuse asukoha kohta;
+- 3) andmed kavandatud tegevuse asukoha kohta;
 
-4) tegevuse ning sellega kaasneva võimaliku keskkonnahäiringu lühikirjeldus;
+- 4) tegevuse ning sellega kaasneva võimaliku keskkonnahäiringu lühikirjeldus;
 
-5) andmed selle kohta, kus saab keskkonnaloa või sellest keeldumise otsusega ja otsuse aluseks olnud andmetega tutvuda.
+- 5) andmed selle kohta, kus saab keskkonnaloa või sellest keeldumise otsusega ja otsuse aluseks olnud andmetega tutvuda.
 
 (5) Keskkonnaluba või keskkonnaloa andmisest keeldumise otsus avalikustatakse keskkonnaotsuste infosüsteemis.
 

@@ -1,6 +1,6 @@
 # § 32. Võõral maatükil viibimine
 
-(1) Teise isiku omandis oleval maatükil (edaspidi *võõras maatükk*) võib viibida üksnes omaniku loal.
+(1) Teise isiku omandis oleval maatükil (edaspidi võõras maatükk) võib viibida üksnes omaniku loal.
 
 (2) Luba viibida võõral maatükil, välja arvatud õuemaal, eeldatakse olevat, kui omanik ei ole maatükki piiranud või tähistanud viisil, millest ilmneb tahe piirata võõraste viibimist maatükil, või kui tahe piirata viibimist ei ilmne muudest asjaoludest.
 

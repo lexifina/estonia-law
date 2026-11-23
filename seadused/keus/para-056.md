@@ -6,6 +6,6 @@
 
 (3) Keskkonnaloa osalisel andmisel määratakse käesoleva seaduse § 53 lõikes 1 nimetatud tingimused lubatava tegevuse õiguspärasuse tagamiseks.
 
-(4) Keskkonnaloa osalisel andmisel võib ette näha, et taotluse läbivaatamisel muudetakse käesoleva seaduse § 53 lõike 1 punktides 5–11 nimetatud tingimusi, mis on loa osalisel andmisel kindlaks määratud. Sellisel juhul ei saa loa omaja tugineda usaldusele, et selliseid keskkonnaloa kõrvaltingimusi ei muudeta.
+(4) Keskkonnaloa osalisel andmisel võib ette näha, et taotluse läbivaatamisel muudetakse käesoleva seaduse § 53 lõike 1 punktides 5–11 nimetatud tingimusi, mis on loa osalisel andmisel kindlaks määratud. Sellisel juhul ei saa loa omaja tugineda usaldusele, et selliseid keskkonnaloa kõrvaltingimusi ei muudeta.
 
-(5) Keskkonnaloa osaline andmine otsustatakse keskkonnaloa andmist käsitlevate sätete järgi. Loa osaline andmine ei välista käesoleva seaduse §-s 49 sätestatud menetlustähtaegade järgimise nõuet keskkonnaloa taotluse läbivaatamisel muus osas.
+(5) Keskkonnaloa osaline andmine otsustatakse keskkonnaloa andmist käsitlevate sätete järgi. Loa osaline andmine ei välista käesoleva seaduse §-s 49 sätestatud menetlustähtaegade järgimise nõuet keskkonnaloa taotluse läbivaatamisel muus osas.

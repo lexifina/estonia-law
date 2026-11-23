@@ -2,9 +2,9 @@
 
 (1) Keskkonnaamet võib tähistatud kinnisasjale siseneda valdaja või muu õigustatud isiku juuresolekuta, kui:
 
-1) see on vajalik olulise ohu väljaselgitamiseks või tõrjumiseks ja nimetatud isikute kaasamisega kaasneks viivitus, mis seaks ohtu meetme kohaldamise eesmärgi saavutamise;
+- 1) see on vajalik olulise ohu väljaselgitamiseks või tõrjumiseks ja nimetatud isikute kaasamisega kaasneks viivitus, mis seaks ohtu meetme kohaldamise eesmärgi saavutamise;
 
-2) valdusesse sisenemise eesmärk on läbipääsu tagamine teisele kinnisasjale või veekogule.
+- 2) valdusesse sisenemise eesmärk on läbipääsu tagamine teisele kinnisasjale või veekogule.
 
 (2) Käesoleva paragrahvi lõike 1 punktis 2 sätestatud alusel valdusesse sisenemisest ei pea hiljem valdajat teavitama, kui valduses ei tehtud pärast sisenemist järelevalve- või süüteomenetluse toiminguid.
 

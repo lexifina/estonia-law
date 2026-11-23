@@ -4,7 +4,7 @@
 
 (2) Kallasraja laius on laevatatavatel veekogudel kümme meetrit ning teistel veekogudel neli meetrit. Kallasraja laiust arvestatakse lamekaldal põhikaardile kantud veekogu piirist ja kõrgkaldal kaldanõlva ülemisest servast, arvates viimasel juhul kallasrajaks ka vee piirjoone ja kaldanõlva ülemise serva vahelise maariba.
 
-(3) Kui kallasrada on üle ujutatud, on kallasrajaks kahe meetri laiune kaldariba veeseisu piirjoonest (edaspidi *ajutine kallasrada*).
+(3) Kui kallasrada on üle ujutatud, on kallasrajaks kahe meetri laiune kaldariba veeseisu piirjoonest (edaspidi ajutine kallasrada).
 
 (4) Kaldaomanik peab igaühel lubama kallasrada kasutada.
 
