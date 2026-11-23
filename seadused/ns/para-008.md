@@ -2,11 +2,11 @@
 
 (1) Elusalt sündinud lapsele antakse:
 
-1) vanemate perekonnanimi, kui vanemad kannavad ühist perekonnanime;
+- 1) vanemate perekonnanimi, kui vanemad kannavad ühist perekonnanime;
 
-2) erinevat perekonnanime kandvate vanemate kokkuleppel ühe vanema perekonnanimi. Kui nad kokkuleppele ei jõua, otsustab valla- või linnavalitsus, kelle kohustus on vajaduse korral täita eestkostja ülesandeid, kumma vanema perekonnanimi lapsele antakse;
+- 2) erinevat perekonnanime kandvate vanemate kokkuleppel ühe vanema perekonnanimi. Kui nad kokkuleppele ei jõua, otsustab valla- või linnavalitsus, kelle kohustus on vajaduse korral täita eestkostja ülesandeid, kumma vanema perekonnanimi lapsele antakse;
 
-3) ema perekonnanimi, kui isadus ei ole kindlaks tehtud.
+- 3) ema perekonnanimi, kui isadus ei ole kindlaks tehtud.
 
 (2) Lapsele ei või perekonnanimeks anda vanemale abiellumisel või perekonnanime muutmise korras antud kahest nimest koosnevat perekonnanime. Kui mõlema vanema perekonnanimi koosneb perekonnanime muutmise korras antud kahest nimest, antakse lapsele vanemate kokkuleppel ühe vanema perekonnanimi. Käesolevat lõiget ei kohaldata kahest nimest koosneva nime suhtes, mis on saadud § 8 lõike 1 punktis 3 sätestatud juhul.
 
