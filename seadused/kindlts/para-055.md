@@ -4,11 +4,11 @@
 
 (2) Põhiomavahendite suurus võrdub järgmiste komponentide summaga:
 
-1) summa, mille võrra kindlustusandja varad ületavad kohustisi ning millest on maha arvatud kindlustusandja valduses olevate omaaktsiate või oma osade summa;
+- 1) summa, mille võrra kindlustusandja varad ületavad kohustisi ning millest on maha arvatud kindlustusandja valduses olevate omaaktsiate või oma osade summa;
 
-2) allutatud kohustised.
+- 2) allutatud kohustised.
 
-(3) Käesoleva paragrahvi lõike 2 punktis 1 nimetatud varad ja kohustised hinnatakse vastavalt käesoleva peatüki 1. jaos sätestatule.
+(3) Käesoleva paragrahvi lõike 2 punktis 1 nimetatud varad ja kohustised hinnatakse vastavalt käesoleva peatüki 1. jaos sätestatule.
 
 (4) Lisaomavahendid on omavahendid, mida ei arvata põhiomavahendite hulka, kuid mida võib kahjumi katmiseks sisse nõuda.
 

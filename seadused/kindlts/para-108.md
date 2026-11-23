@@ -2,13 +2,13 @@
 
 (1) Finantsinspektsioonil on õigus kindlustusandjalt ettekirjutusega nõuda kindlustusandja juhi tagasikutsumist või vastutava isiku töölt kõrvaldamist, kui:
 
-1) kindlustusandja juht või vastutav isik ei vasta käesoleva seaduse nõuetele;
+- 1) kindlustusandja juht või vastutav isik ei vasta käesoleva seaduse nõuetele;
 
-2) kindlustusandja juht või vastutav isik on rikkunud käesolevas seaduses või muudes tema ametialast tegevust reguleerivates õigusaktides sätestatud nõudeid;
+- 2) kindlustusandja juht või vastutav isik on rikkunud käesolevas seaduses või muudes tema ametialast tegevust reguleerivates õigusaktides sätestatud nõudeid;
 
-3) kindlustusandja juhi valimisel või vastutava isiku määramisel esitati eksitavaid, puudulikke või ebaõigeid andmeid või dokumente;
+- 3) kindlustusandja juhi valimisel või vastutava isiku määramisel esitati eksitavaid, puudulikke või ebaõigeid andmeid või dokumente;
 
-4) kindlustusandja juhi või vastutava isiku tegevus on näidanud, et ta ei ole suuteline korraldama vastavalt kindlustusandja juhtimist või võtmefunktsioonide täitmist selliselt, et kindlustusvõtjate, kindlustatute, soodustatud isikute ja teiste võlausaldajate õigustatud huvid oleksid piisavalt kaitstud.
+- 4) kindlustusandja juhi või vastutava isiku tegevus on näidanud, et ta ei ole suuteline korraldama vastavalt kindlustusandja juhtimist või võtmefunktsioonide täitmist selliselt, et kindlustusvõtjate, kindlustatute, soodustatud isikute ja teiste võlausaldajate õigustatud huvid oleksid piisavalt kaitstud.
 
 (2) Kui kindlustusandja ei ole täielikult või tähtaegselt täitnud käesoleva paragrahvi lõikes 1 nimetatud ettekirjutust, on Finantsinspektsioonil muu hulgas õigus nõuda kindlustusandja juhi tagasikutsumist või vastutava isiku töölt kõrvaldamist kohtu poolt.
 

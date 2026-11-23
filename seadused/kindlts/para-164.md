@@ -2,17 +2,17 @@
 
 (1) Likvideerijad on kohustatud:
 
-1) teostama kindlustusandja või kolmanda riigi kindlustusandja Eesti filiaali kõigi varade täieliku inventuuri lõpetamisotsuse jõustumise päeva seisuga;
+- 1) teostama kindlustusandja või kolmanda riigi kindlustusandja Eesti filiaali kõigi varade täieliku inventuuri lõpetamisotsuse jõustumise päeva seisuga;
 
-2) avaldama kindlustusandja või kolmanda riigi kindlustusandja Eesti filiaali likvideerimismenetluse teate vähemalt ühes üleriigilise levikuga päevalehes;
+- 2) avaldama kindlustusandja või kolmanda riigi kindlustusandja Eesti filiaali likvideerimismenetluse teate vähemalt ühes üleriigilise levikuga päevalehes;
 
-3) teatama kõigile teadaolevatele võlausaldajatele likvideerimismenetlusest kirjalikult;
+- 3) teatama kõigile teadaolevatele võlausaldajatele likvideerimismenetlusest kirjalikult;
 
-4) teatama kindlustusandja või kolmanda riigi kindlustusandja Eesti filiaali likvideerimisest väärtpaberite keskdepositooriumile ja pensioniregistri pidajale, kinnistusraamatu pidajale, laevakinnistusraamatu pidajale ja vajaduse korral, või kui seda näevad ette teise lepinguriigi õigusaktid, nendesarnaste registrite pidajatele teistes lepinguriikides, kus on asutatud Eesti kindlustusandja filiaalid;
+- 4) teatama kindlustusandja või kolmanda riigi kindlustusandja Eesti filiaali likvideerimisest väärtpaberite keskdepositooriumile ja pensioniregistri pidajale, kinnistusraamatu pidajale, laevakinnistusraamatu pidajale ja vajaduse korral, või kui seda näevad ette teise lepinguriigi õigusaktid, nendesarnaste registrite pidajatele teistes lepinguriikides, kus on asutatud Eesti kindlustusandja filiaalid;
 
-5) andma kindlustusportfelli käesolevas seaduses kehtestatud korras üle, lõpetama kindlustuslepingud või täitma kõik kindlustuslepingutest tulenevad kohustused;
+- 5) andma kindlustusportfelli käesolevas seaduses kehtestatud korras üle, lõpetama kindlustuslepingud või täitma kõik kindlustuslepingutest tulenevad kohustused;
 
-6) esitama tegevusaruanded ja lõppbilansi.
+- 6) esitama tegevusaruanded ja lõppbilansi.
 
 (2) Likvideerijate volitusi teises lepinguriigis tõendab Eesti kindlustusandja vabatahtliku lõpetamise loa või sundlõpetamise otsuse kinnitatud ärakiri koos loa või otsuse tõlkega lepinguriigi ametlikku keelde või ühte ametlikest keeltest.
 

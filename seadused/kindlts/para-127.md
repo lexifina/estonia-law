@@ -4,7 +4,7 @@
 
 (2) Kindlustusandja majandusaasta on kalendriaasta.
 
-(3) Kindlustusandja koostab ja avalikustab raamatupidamise vahearuanded majandusaasta 3, 6, 9 ja 12 kuu kohta kahe kuu jooksul pärast aruandeperioodi lõppu.
+(3) Kindlustusandja koostab ja avalikustab raamatupidamise vahearuanded majandusaasta 3, 6, 9 ja 12 kuu kohta kahe kuu jooksul pärast aruandeperioodi lõppu.
 
 (4) Kindlustusandja veebilehel peavad olema kättesaadavad vähemalt viimase viie aasta majandusaasta aruanded ja vähemalt viimase kolme aasta raamatupidamise vahearuanded.
 

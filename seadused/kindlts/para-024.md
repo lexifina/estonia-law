@@ -10,7 +10,7 @@
 
 (5) Käesoleva seaduse §-des 32–35 sätestatut ei kohaldata Eesti edasikindlustusandjale, kes soovib tegeleda välisriigis piiriülese kindlustustegevusega. Eesti edasikindlustusandja, kes soovib tegeleda välisriigis piiriülese kindlustustegevusega, teavitab sellest Finantsinspektsiooni.
 
-(6) Kui kindlustusandjat alaliselt esindama volitatud isik tegeleb välisriigis püsivalt kindlustusagendi tegevuse või kindlustustegevusega, loetakse volitatud isiku tegevus Eesti kindlustusandja välisriigi filiaali tegevuseks ning sellise tegevuse jätkamiseks peab kindlustusandja käesoleva seaduse §-de 25–31 kohaselt asutama filiaali.
+(6) Kui kindlustusandjat alaliselt esindama volitatud isik tegeleb välisriigis püsivalt kindlustusagendi tegevuse või kindlustustegevusega, loetakse volitatud isiku tegevus Eesti kindlustusandja välisriigi filiaali tegevuseks ning sellise tegevuse jätkamiseks peab kindlustusandja käesoleva seaduse §-de 25–31 kohaselt asutama filiaali.
 
 (7) Piiriülene kindlustustegevus käesoleva jao tähenduses on Eesti kindlustusandja kindlustustegevus, mis on seotud välisriigis asuva kindlustusriskiga.
 

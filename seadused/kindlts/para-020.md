@@ -6,8 +6,8 @@
 
 (3) Kui Finantsinspektsioonil on tekkinud põhjendatud kahtlus, et taotleja ei vasta kõigile käesolevast seadusest ja muudest õigusaktidest tulenevatele nõuetele, teavitab ta sellest taotlejat, kes on kohustatud esitama Finantsinspektsioonile kahtluse kõrvaldamiseks vajaliku teabe omal initsiatiivil.
 
-(4) Finantsinspektsioon võib tegevusloa andmisel kehtestada taotlejale kohustuslikke kõrvaltingimusi, lähtudes käesoleva seaduse §-s 21 nimetatud asjaoludest.
+(4) Finantsinspektsioon võib tegevusloa andmisel kehtestada taotlejale kohustuslikke kõrvaltingimusi, lähtudes käesoleva seaduse §-s 21 nimetatud asjaoludest.
 
 (5) Äriseadustiku § 250 lõikes 4 ja tulundusühistuseaduse § 7 lõikes 3 sätestatud tähtaega arvestatakse tegevusloa andmise otsuse taotlejale kättetoimetamisest arvates.
 
-(6) Finantsinspektsioon annab eriotstarbelisele varakogumile tegevusloa, kui varakogum vastab komisjoni delegeeritud määruse (EL) nr 2015/35 artiklis 318 sätestatud tingimustele.
+(6) Finantsinspektsioon annab eriotstarbelisele varakogumile tegevusloa, kui varakogum vastab komisjoni delegeeritud määruse (EL) nr 2015/35 artiklis 318 sätestatud tingimustele.

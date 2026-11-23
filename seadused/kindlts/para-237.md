@@ -12,16 +12,16 @@
 
 (5) Kui käesoleva paragrahvi lõikes 4 nimetatud lepinguriigi kindlustusandja jätkab õigusaktides sätestatud nõuete rikkumist, teavitab Finantsinspektsioon sellest vastava lepinguriigi finantsjärelevalve asutust.
 
-(5¹) Kui Finantsinspektsiooni hinnangul rikub teise lepinguriigi vahendaja seadustes või nende alusel antud õigusaktides sätestatud nõudeid ja Finantsinspektsioonil ei ole käesoleva seaduse § 223 lõikest 5¹ tulenevaid kohustusi, teavitab Finantsinspektsioon sellest vastava lepinguriigi finantsjärelevalve asutust.
+(5¹) Kui Finantsinspektsiooni hinnangul rikub teise lepinguriigi vahendaja seadustes või nende alusel antud õigusaktides sätestatud nõudeid ja Finantsinspektsioonil ei ole käesoleva seaduse § 223 lõikest 5¹ tulenevaid kohustusi, teavitab Finantsinspektsioon sellest vastava lepinguriigi finantsjärelevalve asutust.
 
 (6) Kui lepinguriigi finantsjärelevalve asutuse rakendatud abinõud ei ole piisavad ja lepinguriigi kindlustusandja või vahendaja jätkab õigusaktides sätestatud nõuete rikkumist, võib Finantsinspektsioon oma ettekirjutusega rakendada käesolevas seaduses sätestatud meetmeid rikkumise lõpetamiseks või keelata oma ettekirjutusega lepinguriigi kindlustusandjal või vahendajal Eestis kindlustustegevuse või kindlustuse turustamisega tegelemise, teavitades sellest eelnevalt lepinguriigi finantsjärelevalve asutust.
 
 (6¹) Erinevalt käesoleva paragrahvi lõigetes 4–5¹ sätestatust võib Finantsinspektsioon viivitamata keelata teise lepinguriigi kindlustusandjal või vahendajal Eestis kindlustustegevuse või kindlustuse turustamisega tegelemise, kui selline tegevus on vastuolus klientide huvidega.
 
-(7) Kui teise lepinguriigi kindlustusandja või vahendaja tegeleb Eestis kindlustustegevuse või kindlustuse turustamisega või ta on asutanud Eesti filiaali, on Finantsinspektsioonil õigus lisaks käesoleva paragrahvi lõikes 6 sätestatule pöörduda Euroopa Kindlustus- ja Tööandjapensionide Järelevalve Asutuse poole vastavalt Euroopa Parlamendi ja nõukogu määruse (EL) nr 1094/2010 artiklile 19.
+(7) Kui teise lepinguriigi kindlustusandja või vahendaja tegeleb Eestis kindlustustegevuse või kindlustuse turustamisega või ta on asutanud Eesti filiaali, on Finantsinspektsioonil õigus lisaks käesoleva paragrahvi lõikes 6 sätestatule pöörduda Euroopa Kindlustus- ja Tööandjapensionide Järelevalve Asutuse poole vastavalt Euroopa Parlamendi ja nõukogu määruse (EL) nr 1094/2010 artiklile 19.
 
 (8) Finantsinspektsioon teeb enda võetud meetmed teatavaks lepinguriigi kindlustusandjale ja vahendajale.
 
-(9) Kui teise lepinguriigi finantsjärelevalve asutus teostab kindlustusandja või vahendaja Eestis asuva filiaali kohapealset kontrolli, on Finantsinspektsioonil õigus nimetatud kontrollis osaleda. Kui teise lepinguriigi finantsjärelevalve asutus ei võimalda Finantsinspektsioonil kindlustusandja Eestis asuva filiaali kohapealses kontrollis osaleda, on Finantsinspektsioonil õigus pöörduda Euroopa Kindlustus- ja Tööandjapensionide Järelevalve Asutuse poole vastavalt Euroopa Parlamendi ja nõukogu määruse (EL) nr 1094/2010 artiklile 19.
+(9) Kui teise lepinguriigi finantsjärelevalve asutus teostab kindlustusandja või vahendaja Eestis asuva filiaali kohapealset kontrolli, on Finantsinspektsioonil õigus nimetatud kontrollis osaleda. Kui teise lepinguriigi finantsjärelevalve asutus ei võimalda Finantsinspektsioonil kindlustusandja Eestis asuva filiaali kohapealses kontrollis osaleda, on Finantsinspektsioonil õigus pöörduda Euroopa Kindlustus- ja Tööandjapensionide Järelevalve Asutuse poole vastavalt Euroopa Parlamendi ja nõukogu määruse (EL) nr 1094/2010 artiklile 19.
 
 (10) Välisriigi kindlustusandja ja vahendaja Eestis asuv filiaal, samuti välisriigi kindlustusandja ja vahendaja, kes tegelevad Eestis piiriülese kindlustustegevuse või kindlustuse turustamisega, esitavad Finantsinspektsiooni nõudmisel andmed ja dokumendid koos vandetõlgi tehtud eestikeelse tõlkega.

@@ -6,6 +6,6 @@
 
 (3) Väga olulistest kindlustusgrupisisestest tehingutest tuleb kindlustusgrupi järelevalve teostajat teavitada esimesel võimalusel.
 
-(4) Kui Finantsinspektsioon on kindlustusgrupi järelevalve teostaja, määrab ta pärast konsulteerimist teiste asjasse puutuvate finantsjärelevalve asutuste ja kindlustusgrupiga vastavalt komisjoni delegeeritud määruse (EL) nr 2015/35 artiklis 377 sätestatule kindlaks tehingud, mille kohta tuleb igal juhul käesoleva paragrahvi lõikes 2 nimetatud aruanne esitada. Tehingute määramisel võetakse arvesse kindlustusgrupi eripära ja riskijuhtimissüsteemi.
+(4) Kui Finantsinspektsioon on kindlustusgrupi järelevalve teostaja, määrab ta pärast konsulteerimist teiste asjasse puutuvate finantsjärelevalve asutuste ja kindlustusgrupiga vastavalt komisjoni delegeeritud määruse (EL) nr 2015/35 artiklis 377 sätestatule kindlaks tehingud, mille kohta tuleb igal juhul käesoleva paragrahvi lõikes 2 nimetatud aruanne esitada. Tehingute määramisel võetakse arvesse kindlustusgrupi eripära ja riskijuhtimissüsteemi.
 
 (5) Kui Eesti kindlustusandjas osalev ettevõtja on segakindlustusvaldusettevõtja, teostab Finantsinspektsioon üldist järelevalvet Eesti kindlustusandja, segakindlustusvaldusettevõtja ja tema seotud ettevõtjate vaheliste tehingute üle.

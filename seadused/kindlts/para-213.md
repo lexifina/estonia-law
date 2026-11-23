@@ -2,15 +2,15 @@
 
 (1) Finantsinspektsioon võib tunnistada filiaali asutamise loa kehtetuks ja kustutada vahendaja vahendajate nimekirjast, kui äriühingust vahendaja:
 
-1) on filiaali asutamise loa taotlemisel esitanud valeandmeid, millel oli loa andmise otsustamisel oluline tähtsus;
+- 1) on filiaali asutamise loa taotlemisel esitanud valeandmeid, millel oli loa andmise otsustamisel oluline tähtsus;
 
-2) on korduvalt või olulisel määral rikkunud Eesti õigusaktides sätestatud nõudeid ja see võib kahjustada klientide huve;
+- 2) on korduvalt või olulisel määral rikkunud Eesti õigusaktides sätestatud nõudeid ja see võib kahjustada klientide huve;
 
-3) filiaal ei vasta kehtivatele filiaali asutamise loa andmise nõuetele;
+- 3) filiaal ei vasta kehtivatele filiaali asutamise loa andmise nõuetele;
 
-4) ei esita filiaali kohta nõuetekohaseid aruandeid;
+- 4) ei esita filiaali kohta nõuetekohaseid aruandeid;
 
-5) ei ole ettenähtud tähtpäevaks või ulatuses täitnud Finantsinspektsiooni ettekirjutust seoses filiaali tegevusega.
+- 5) ei ole ettenähtud tähtpäevaks või ulatuses täitnud Finantsinspektsiooni ettekirjutust seoses filiaali tegevusega.
 
 (2) Filiaali asutamise loa kehtetuks tunnistamise ja vahendaja vahendajate nimekirjast kustutamise otsuse toimetab Finantsinspektsioon lisaks äriühingust vahendajale kolmanda riigi finantsjärelevalve asutusele viivitamata kätte.
 

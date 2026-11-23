@@ -8,8 +8,8 @@
 
 (4) Kindlustusandjal on õigus avaldada klienti puudutavaid andmeid kolmandatele isikutele, kui:
 
-1) kindlustusandja õigus või kohustus andmete avaldamiseks tuleneb käesolevast seadusest või muust õigusaktist;
+- 1) kindlustusandja õigus või kohustus andmete avaldamiseks tuleneb käesolevast seadusest või muust õigusaktist;
 
-2) klient on andnud selleks nõusoleku.
+- 2) klient on andnud selleks nõusoleku.
 
 (5) Saladuses hoidmise kohustus ei puuduta andmeid, mis pärinevad avalikult kättesaadavatest allikatest.

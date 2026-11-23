@@ -1,6 +1,6 @@
 # § 251. Tütarettevõtjast kindlustusandja finantsseisundi halvenemine
 
-(1) Kui tütarettevõtjast Eesti kindlustusandja, kelle üle teostatakse käesolevas jaotises sätestatud järelevalvet, on esitanud Finantsinspektsioonile käesoleva seaduse § 93 lõikes 3 nimetatud finantsseisundi taastamise kava, edastab Finantsinspektsioon selle viivitamata kindlustusgrupi kolleegiumile.
+(1) Kui tütarettevõtjast Eesti kindlustusandja, kelle üle teostatakse käesolevas jaotises sätestatud järelevalvet, on esitanud Finantsinspektsioonile käesoleva seaduse § 93 lõikes 3 nimetatud finantsseisundi taastamise kava, edastab Finantsinspektsioon selle viivitamata kindlustusgrupi kolleegiumile.
 
 (2) Kindlustusgrupi kolleegium peab finantsseisundi taastamise kava heaks kiitma nelja kuu jooksul nõuete mittetäitmise tuvastamisest arvates.
 
@@ -14,20 +14,20 @@
 
 (7) Kui kindlustusgrupi kolleegium ei jõua meetmetes kokkuleppele, teeb lõpliku otsuse plaanitavate meetmete kohta Finantsinspektsioon, arvestades kindlustusgrupi kolleegiumi kuuluvate finantsjärelevalve asutuste seisukohti ja reservatsioone.
 
-(8) Kui käesoleva paragrahvi lõikes 1 nimetatud kindlustusandja on esitanud Finantsinspektsioonile käesoleva seaduse § 93 lõikes 5 nimetatud lühiajalise finantseerimisskeemi, edastab Finantsinspektsioon selle kindlustusgrupi kolleegiumile. Finantsinspektsioon teavitab kindlustusgrupi kolleegiumi kõikidest meetmetest, mida kindlustusandja rakendab, et taastada omavahendite nõuetekohane tase.
+(8) Kui käesoleva paragrahvi lõikes 1 nimetatud kindlustusandja on esitanud Finantsinspektsioonile käesoleva seaduse § 93 lõikes 5 nimetatud lühiajalise finantseerimisskeemi, edastab Finantsinspektsioon selle kindlustusgrupi kolleegiumile. Finantsinspektsioon teavitab kindlustusgrupi kolleegiumi kõikidest meetmetest, mida kindlustusandja rakendab, et taastada omavahendite nõuetekohane tase.
 
-(9) Finantsinspektsioonil on õigus pöörduda käesoleva paragrahvi lõikes 2 või 6 sätestatud tähtaja jooksul Euroopa Kindlustus- ja Tööandjapensionide Järelevalve Asutuse poole vastavalt Euroopa Parlamendi ja nõukogu määruse (EÜ) nr 1094/2010 artiklile 19, kui tema ja kindlustusgrupi järelevalve teostaja hinnangud finantsseisundi taastamise kava, sealhulgas finantsseisundi taastamise perioodi pikendamine, või plaanitavate meetmete kohta erinevad. Finantsinspektsioon teeb lõpliku otsuse kooskõlas Euroopa Kindlustus- ja Tööandjapensionide Järelevalve Asutuse otsusega.
+(9) Finantsinspektsioonil on õigus pöörduda käesoleva paragrahvi lõikes 2 või 6 sätestatud tähtaja jooksul Euroopa Kindlustus- ja Tööandjapensionide Järelevalve Asutuse poole vastavalt Euroopa Parlamendi ja nõukogu määruse (EÜ) nr 1094/2010 artiklile 19, kui tema ja kindlustusgrupi järelevalve teostaja hinnangud finantsseisundi taastamise kava, sealhulgas finantsseisundi taastamise perioodi pikendamine, või plaanitavate meetmete kohta erinevad. Finantsinspektsioon teeb lõpliku otsuse kooskõlas Euroopa Kindlustus- ja Tööandjapensionide Järelevalve Asutuse otsusega.
 
-(10) Kui Finantsinspektsioon on kindlustusgrupi finantsjärelevalve teostaja ja teise lepinguriigi finantsjärelevalve asutus on esitanud kindlustusgrupi kolleegiumile arutamiseks käesoleva paragrahvi lõikes 1 nimetatud finantsseisundi taastamise kava või lõikes 5 nimetatud plaanitavad meetmed selle lepinguriigi kindlustusandja kohta ning Finantsinspektsioonil ja lepinguriigi finantsjärelevalve asutusel on erinevad hinnangud finantsseisundi taastamise kava või plaanitavate meetmete kohta, võib Finantsinspektsioon käesoleva paragrahvi lõikes 2 või 6 sätestatud tähtaja jooksul pöörduda Euroopa Kindlustus- ja Tööandjapensionide Järelevalve Asutuse poole vastavalt Euroopa Parlamendi ja nõukogu määruse (EÜ) nr 1094/2010 artiklile 19.
+(10) Kui Finantsinspektsioon on kindlustusgrupi finantsjärelevalve teostaja ja teise lepinguriigi finantsjärelevalve asutus on esitanud kindlustusgrupi kolleegiumile arutamiseks käesoleva paragrahvi lõikes 1 nimetatud finantsseisundi taastamise kava või lõikes 5 nimetatud plaanitavad meetmed selle lepinguriigi kindlustusandja kohta ning Finantsinspektsioonil ja lepinguriigi finantsjärelevalve asutusel on erinevad hinnangud finantsseisundi taastamise kava või plaanitavate meetmete kohta, võib Finantsinspektsioon käesoleva paragrahvi lõikes 2 või 6 sätestatud tähtaja jooksul pöörduda Euroopa Kindlustus- ja Tööandjapensionide Järelevalve Asutuse poole vastavalt Euroopa Parlamendi ja nõukogu määruse (EÜ) nr 1094/2010 artiklile 19.
 
 (11) Euroopa Kindlustus- ja Tööandjapensionide Järelevalve Asutuse poole ei ole õigust pöörduda järgmistel juhtudel:
 
-1) kindlustusgrupi kolleegiumis on jõutud ühisotsusele;
+- 1) kindlustusgrupi kolleegiumis on jõutud ühisotsusele;
 
-2) käesoleva paragrahvi lõikes 2 või 6 nimetatud tähtaeg on möödas;
+- 2) käesoleva paragrahvi lõikes 2 või 6 nimetatud tähtaeg on möödas;
 
-3) plaanitavaid meetmeid ei arutata kindlustusgrupi kolleegiumis eriolukorra tõttu.
+- 3) plaanitavaid meetmeid ei arutata kindlustusgrupi kolleegiumis eriolukorra tõttu.
 
 (12) Finantsinspektsioon edastab otsuse koos põhjendustega tütarettevõtjast kindlustusandjale ja kindlustusgrupi kolleegiumile.
 
-(13) Finantsinspektsioon lähtub käesolevas paragrahvis nimetatud eriolukorra hindamisel komisjoni delegeeritud määruse (EL) nr 2015/35 artiklis 353 sätestatud kriteeriumitest.
+(13) Finantsinspektsioon lähtub käesolevas paragrahvis nimetatud eriolukorra hindamisel komisjoni delegeeritud määruse (EL) nr 2015/35 artiklis 353 sätestatud kriteeriumitest.

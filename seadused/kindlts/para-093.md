@@ -14,18 +14,18 @@
 
 (7) Finantsseisundi taastamise kava ja finantseerimisskeem peavad sisaldama vähemalt järgmist informatsiooni:
 
-1) prognoositavad tulud ja kulud otsese kindlustuse ning sissetuleva ja väljamineva edasikindlustuse kaupa;
+- 1) prognoositavad tulud ja kulud otsese kindlustuse ning sissetuleva ja väljamineva edasikindlustuse kaupa;
 
-2) kindlustusandja bilansiprognoos;
+- 2) kindlustusandja bilansiprognoos;
 
-3) hinnang kindlustusandja tehniliste eraldiste, solventsuskapitalinõude ja miinimumkapitalinõude katteks kavandatud rahaliste vahendite kohta;
+- 3) hinnang kindlustusandja tehniliste eraldiste, solventsuskapitalinõude ja miinimumkapitalinõude katteks kavandatud rahaliste vahendite kohta;
 
-4) kindlustusandja edasikindlustusprogramm;
+- 4) kindlustusandja edasikindlustusprogramm;
 
-5) hinnang tegevuskuludele, eraldi jooksvad üldkulud ja komisjonitasud.
+- 5) hinnang tegevuskuludele, eraldi jooksvad üldkulud ja komisjonitasud.
 
 (8) Kui finantsseisundi taastamise kava esitab edasikindlustusandja, peab see edasikindlustusprogrammi asemel sisaldama edasikindlustusandja retrotsessiooniprogrammi.
 
 (9) Kindlustusandja finantsseisundi jätkuva halvenemise korral võib Finantsinspektsioon rakendada kõiki meetmeid, mis on vajalikud kindlustusvõtjate, kindlustatute ja soodustatud isikute kindlustuslepingutest tulenevate huvide kaitseks või edasikindlustuslepingutest tulenevate kohustuste täitmiseks.
 
-(10) Kui käesoleva seaduse § 16 lõikes 6 nimetatud kindlustusandja nõuetekohased põhiomavahendid vähenevad alla § 82 lõike 3 kohaselt arvutatud elukindlustuse tinglikku miinimumkapitalinõuet või kahjukindlustuse tinglikku miinimumkapitalinõuet, võib Finantsinspektsioon kindlustusandja vastava tegevuse suhtes rakendada kõiki käesolevast seadusest tulenevaid meetmeid. Finantsinspektsiooni nõusolekul võib kindlustusandja käesolevas lõikes sätestatud juhul kasutada nõuetekohaste põhiomavahendite ülekandmist ühelt tegevuselt teisele.
+(10) Kui käesoleva seaduse § 16 lõikes 6 nimetatud kindlustusandja nõuetekohased põhiomavahendid vähenevad alla § 82 lõike 3 kohaselt arvutatud elukindlustuse tinglikku miinimumkapitalinõuet või kahjukindlustuse tinglikku miinimumkapitalinõuet, võib Finantsinspektsioon kindlustusandja vastava tegevuse suhtes rakendada kõiki käesolevast seadusest tulenevaid meetmeid. Finantsinspektsiooni nõusolekul võib kindlustusandja käesolevas lõikes sätestatud juhul kasutada nõuetekohaste põhiomavahendite ülekandmist ühelt tegevuselt teisele.

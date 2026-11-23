@@ -1,6 +1,6 @@
 # § 132. Kindlustusportfelli üleandmise leping
 
-(1) Kindlustusportfelli üleandmiseks sõlmivad üleandja ja vastuvõtja lepingu (edaspidi käesolevas peatükis *leping*), milles sätestatakse mõlema poole õigused ja kohustused. Leping ei või olla sõlmitud äramuutva tingimusega ega kahjustada kindlustusvõtjate, kindlustatute ja soodustatud isikute huve.
+(1) Kindlustusportfelli üleandmiseks sõlmivad üleandja ja vastuvõtja lepingu (edaspidi käesolevas peatükis leping), milles sätestatakse mõlema poole õigused ja kohustused. Leping ei või olla sõlmitud äramuutva tingimusega ega kahjustada kindlustusvõtjate, kindlustatute ja soodustatud isikute huve.
 
 (2) Kui üleandja suhtes on kehtestatud erirežiim või algatatud sundlõpetamine, sõlmib lepingu erirežiimihaldur või sõlmivad lepingu likvideerijad.
 

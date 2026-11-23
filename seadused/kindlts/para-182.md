@@ -1,16 +1,16 @@
 # § 182. Vahendaja tegevuse edasiandmine ning kolmanda isiku abi kasutamine
 
-(1) Käesolevast seadusest tulenevate kohustuste paremaks täitmiseks võib vahendaja oma tegevusega seotud tegevusi edasi anda (edaspidi *tegevuse edasiandmine*), kui on täidetud käesolevast seadusest tulenevad nõuded ja kui:
+(1) Käesolevast seadusest tulenevate kohustuste paremaks täitmiseks võib vahendaja oma tegevusega seotud tegevusi edasi anda (edaspidi tegevuse edasiandmine), kui on täidetud käesolevast seadusest tulenevad nõuded ja kui:
 
-1) ei kahjustata kliendi huve;
+- 1) ei kahjustata kliendi huve;
 
-2) ei takistata vahendaja tegevust ja tema kohustuste täitmist vajalikul tasemel;
+- 2) ei takistata vahendaja tegevust ja tema kohustuste täitmist vajalikul tasemel;
 
-3) ei takistata vahendaja üle järelevalve teostamist;
+- 3) ei takistata vahendaja üle järelevalve teostamist;
 
-4) on tagatud, et isikul, kellele tegevus edasi antakse, on vajalikud teadmised ja oskused, mis võimaldavad võetud kohustusi täita;
+- 4) on tagatud, et isikul, kellele tegevus edasi antakse, on vajalikud teadmised ja oskused, mis võimaldavad võetud kohustusi täita;
 
-5) ei põhjustata olukorda, kus vahendaja ei tegele reaalselt kindlustuse turustamisega.
+- 5) ei põhjustata olukorda, kus vahendaja ei tegele reaalselt kindlustuse turustamisega.
 
 (2) Vahendaja on kohustatud hindama igakülgselt ja põhjalikult tegevuse edasiandmise vajalikkust ja vastavust käesolevas paragrahvis sätestatule.
 
@@ -26,14 +26,14 @@
 
 (8) Kindlustusmaakleril on lubatud kasutada kindlustuse turustamisel kolmanda isiku abi üksnes siis, kui on täidetud kõik järgmised tingimused:
 
-1) kolmas isik on kindlustusmaakler või kindlustusmaakleri kindlustuse turustamiseks vajalik ekspert;
+- 1) kolmas isik on kindlustusmaakler või kindlustusmaakleri kindlustuse turustamiseks vajalik ekspert;
 
-2) täidetud on käesoleva paragrahvi lõikes 1 sätestatud tingimused;
+- 2) täidetud on käesoleva paragrahvi lõikes 1 sätestatud tingimused;
 
-3) kliendi juhistest, kindlustusriski eripärast, kindlustusandjate pakkumuste vähesusest või nende puudumisest või muust sarnasest põhjusest tulenevalt ei ole kolmanda isiku abi kasutamata võimalik mõistlikke jõupingutusi tehes ja kindlustusmaaklerilt oodatavat hoolsust rakendades turustada kliendi kindlustushuvile ja nõudmistele vastavat kindlustuslepingut.
+- 3) kliendi juhistest, kindlustusriski eripärast, kindlustusandjate pakkumuste vähesusest või nende puudumisest või muust sarnasest põhjusest tulenevalt ei ole kolmanda isiku abi kasutamata võimalik mõistlikke jõupingutusi tehes ja kindlustusmaaklerilt oodatavat hoolsust rakendades turustada kliendi kindlustushuvile ja nõudmistele vastavat kindlustuslepingut.
 
 (9) Kindlustusagendil on lubatud kasutada kindlustuse turustamisel kolmanda isiku abi üksnes järgmistel tingimustel:
 
-1) kolmas isik on kindlustusagent või kindlustusagendi kindlustuse turustamiseks vajalik ekspert;
+- 1) kolmas isik on kindlustusagent või kindlustusagendi kindlustuse turustamiseks vajalik ekspert;
 
-2) täidetud on käesoleva paragrahvi lõikes 1 sätestatud tingimused.
+- 2) täidetud on käesoleva paragrahvi lõikes 1 sätestatud tingimused.

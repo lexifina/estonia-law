@@ -1,3 +1,3 @@
 # § 263⁴. Aegumine
 
-
+[Kehtetu]

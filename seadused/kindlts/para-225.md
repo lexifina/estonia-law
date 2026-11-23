@@ -1,6 +1,6 @@
 # § 225. Sobivuskontroll
 
-(1) Kui seadus annab Finantsinspektsioonile õiguse hinnata isiku ärialast mainet (edaspidi *sobivuskontroll*), võib Finantsinspektsioon seda teha igal ajal.
+(1) Kui seadus annab Finantsinspektsioonile õiguse hinnata isiku ärialast mainet (edaspidi sobivuskontroll), võib Finantsinspektsioon seda teha igal ajal.
 
 (2) Sobivuskontrolli korral on menetlusosaliseks kindlustusandja või kindlustusmaakler või üheks neist saada sooviv isik, kes korraldab suhtlemise füüsilise isikuga, kelle suhtes sobivuskontrolli teostatakse.
 

@@ -10,10 +10,10 @@
 
 (5) Finantsinspektsioon võib jätta ühise audiitorettevõtja määramata, kui selle on juba määranud lepinguriigi ühineva kindlustusandja asukohariigi kohus või haldusasutus.
 
-(6) Ühine audiitorettevõtja koostab ühinemislepingu ja -aruande kontrollimise kohta aruande, andes lisaks äriseadustiku §-s 396 sätestatule oma arvamuse selle kohta, kas ühendava või asutatava kindlustusandja tehnilised eraldised ja kattevara vastavad õigusaktidest tulenevatele nõuetele.
+(6) Ühine audiitorettevõtja koostab ühinemislepingu ja -aruande kontrollimise kohta aruande, andes lisaks äriseadustiku §-s 396 sätestatule oma arvamuse selle kohta, kas ühendava või asutatava kindlustusandja tehnilised eraldised ja kattevara vastavad õigusaktidest tulenevatele nõuetele.
 
 (7) Finantsinspektsioon ei määra audiitorettevõtjat ja audiitorettevõtja ei pea ühinemislepingut kontrollima, kui:
 
-1) ühendatava kindlustusandja aktsiad kuuluvad ühendavale kindlustusandjale ja kindlustusandjaid auditeerib sama audiitorettevõtja või
+- 1) ühendatava kindlustusandja aktsiad kuuluvad ühendavale kindlustusandjale ja kindlustusandjaid auditeerib sama audiitorettevõtja või
 
-2) tugiettevõtja aktsiad kuuluvad ühendavale kindlustusandjale ning tugiettevõtjat ja ühendavat kindlustusandjat auditeerib sama audiitorettevõtja.
+- 2) tugiettevõtja aktsiad kuuluvad ühendavale kindlustusandjale ning tugiettevõtjat ja ühendavat kindlustusandjat auditeerib sama audiitorettevõtja.

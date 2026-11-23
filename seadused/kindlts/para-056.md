@@ -4,9 +4,9 @@
 
 (2) Finantsinspektsioon peab heaks kiitma:
 
-1) lisaomavahendite iga komponendi väärtuse või
+- 1) lisaomavahendite iga komponendi väärtuse või
 
-2) lisaomavahendite iga komponendi väärtuse määramisel kasutatava meetodi ja selle kasutamise perioodi.
+- 2) lisaomavahendite iga komponendi väärtuse määramisel kasutatava meetodi ja selle kasutamise perioodi.
 
 (3) Finantsinspektsioon lähtub loa andmisel komisjoni delegeeritud määruse (EL) nr 2015/35 artiklites 62–67 sätestatud korrast.
 

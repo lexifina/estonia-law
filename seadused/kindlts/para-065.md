@@ -4,19 +4,19 @@
 
 (2) Standardvalemi elukindlustuse kindlustusriski mooduli alammoodulid moodustuvad vähemalt järgmistest alamriskidest:
 
-1) suremusrisk;
+- 1) suremusrisk;
 
-2) üleelamisrisk;
+- 2) üleelamisrisk;
 
-3) töövõimetus-haigestumusrisk;
+- 3) töövõimetus-haigestumusrisk;
 
-4) elukindlustuskulude risk;
+- 4) elukindlustuskulude risk;
 
-5) ümberhindamise risk;
+- 5) ümberhindamise risk;
 
-6) elukindlustuslepingute katkemisrisk;
+- 6) elukindlustuslepingute katkemisrisk;
 
-7) elukindlustuse katastroofirisk.
+- 7) elukindlustuse katastroofirisk.
 
 (3) Suremusrisk on kahju saamise või kindlustuslepingutest tulenevate kohustuste väärtuse ebasoodsa muutuse oht, mille põhjuseks on muutus suremusmääras, selle määra suundumuses või kõikumises, mille korral suremusmäära suurenemine põhjustab kindlustuslepingutest tulenevate kohustuste väärtuse kasvu.
 
@@ -32,4 +32,4 @@
 
 (9) Elukindlustuse katastroofirisk on kahju saamise või kindlustuslepingutest tulenevate kohustuste väärtuse ebasoodsa muutuse oht, mille põhjuseks on selgusetus ekstreemsete ja erandlike sündmuste hinnastamises ja tehniliste eraldiste moodustamise eeldustes.
 
-(10) Elukindlustuse kindlustusriski ja selle alamriskide kapitalinõuete määramisel tuleb aluseks võtta komisjoni delegeeritud määruse (EL) nr 2015/35 artiklites 136–143 sätestatu.
+(10) Elukindlustuse kindlustusriski ja selle alamriskide kapitalinõuete määramisel tuleb aluseks võtta komisjoni delegeeritud määruse (EL) nr 2015/35 artiklites 136–143 sätestatu.

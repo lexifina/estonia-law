@@ -8,4 +8,4 @@
 
 (4) Lisaks pankrotiseaduse §-s 68 sätestatule vabastab kohus pankrotihalduri Finantsinspektsiooni ettepanekul.
 
-(5) Kui pankrotihaldur vabastatakse, nimetatakse uus pankrotihaldur käesoleva paragrahvi lõikes 2 sätestatud korras.
+(5) Kui pankrotihaldur vabastatakse, nimetatakse uus pankrotihaldur käesoleva paragrahvi lõikes 2 sätestatud korras.

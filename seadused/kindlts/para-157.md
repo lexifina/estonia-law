@@ -1,6 +1,6 @@
 # § 157. Teise lepinguriigi kindlustusandja lõpetamismenetlus
 
-(1) Lõpetamismenetlus käesoleva seaduse tähenduses on teise lepinguriigi kindlustusandja või selles lepinguriigis asutatud kolmanda riigi kindlustusandja filiaali võlausaldajaid puudutav ning selle lepinguriigi volitatud haldusasutuse või kohtu (edaspidi käesolevas jaos *lepinguriigi volitatud asutus*) sekkumist eeldav menetlus.
+(1) Lõpetamismenetlus käesoleva seaduse tähenduses on teise lepinguriigi kindlustusandja või selles lepinguriigis asutatud kolmanda riigi kindlustusandja filiaali võlausaldajaid puudutav ning selle lepinguriigi volitatud haldusasutuse või kohtu (edaspidi käesolevas jaos lepinguriigi volitatud asutus) sekkumist eeldav menetlus.
 
 (2) Lõpetamismenetlus võib olla vabatahtlik või kohustuslik või tuleneda teise lepinguriigi kindlustusandja või selles lepinguriigis asutatud kolmanda riigi kindlustusandja filiaali maksejõuetusest ning selle käigus viiakse läbi lõpetamiseks vajalikud tehingud ja toimingud, sealhulgas kompromissi tegemine või muu sellesarnase kokkuleppe sõlmimine.
 

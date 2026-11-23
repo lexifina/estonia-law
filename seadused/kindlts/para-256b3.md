@@ -1,6 +1,6 @@
 # § 256³. Euroopa Parlamendi ja nõukogu määruses (EL) nr 1286/2014 sätestatud nõuete rikkumine
 
-(1) Euroopa Parlamendi ja nõukogu määruse (EL) nr 1286/2014 artiklis 5–10, 13, 14 või 19 sätestatud nõuete rikkumise eest –
+(1) Euroopa Parlamendi ja nõukogu määruse (EL) nr 1286/2014 artiklis 5–10, 13, 14 või 19 sätestatud nõuete rikkumise eest –
 
 karistatakse rahatrahviga kuni 700 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas.
 

@@ -20,13 +20,13 @@
 
 - 4. jagu Kindlustusandja kapitalinõuded
 
-- 1. jaotis Solventsuskapitalinõude üldpõhimõtted
+  - 1. jaotis Solventsuskapitalinõude üldpõhimõtted
 
-- 2. jaotis Standardvalemi alusel arvutatav solventsuskapitalinõue
+  - 2. jaotis Standardvalemi alusel arvutatav solventsuskapitalinõue
 
-- 3. jaotis Sisemudel
+  - 3. jaotis Sisemudel
 
-- 4. jaotis Kindlustusandja miinimumkapitalinõue
+  - 4. jaotis Kindlustusandja miinimumkapitalinõue
 
 - 5. jagu Edasikindlustamise nõuded ja eriotstarbelise varakogumi usaldatavusnõuded
 
@@ -78,9 +78,9 @@
 
 - 2. jagu Kindlustusgrupi järelevalve
 
-- 1. jaotis Kindlustusgrupi järelevalve üldpõhimõtted
+  - 1. jaotis Kindlustusgrupi järelevalve üldpõhimõtted
 
-- 2. jaotis Tsentraliseeritud riskijuhtimisega kindlustusgrupi maksevõime järelevalve
+  - 2. jaotis Tsentraliseeritud riskijuhtimisega kindlustusgrupi maksevõime järelevalve
 
 13. peatükk Vastutus
 

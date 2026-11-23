@@ -2,13 +2,13 @@
 
 (1) Lisaks pankrotiseaduse §-s 55 sätestatule pankrotihaldur:
 
-1) avaldab kindlustusandja pankrotiteate vähemalt ühes üleriigilise levikuga päevalehes ja kindlustusandja veebilehel;
+- 1) avaldab kindlustusandja pankrotiteate vähemalt ühes üleriigilise levikuga päevalehes ja kindlustusandja veebilehel;
 
-2) võimaldab Finantsinspektsioonil, liikluskindlustuse seaduse §-s 10 nimetatud liikluskindlustuse fondil ja Tagatisfondil tutvuda kindlustusandja pankrotimenetlust puudutava dokumentatsiooniga;
+- 2) võimaldab Finantsinspektsioonil, liikluskindlustuse seaduse §-s 10 nimetatud liikluskindlustuse fondil ja Tagatisfondil tutvuda kindlustusandja pankrotimenetlust puudutava dokumentatsiooniga;
 
-3) teatab vajaduse korral, või kui seda näevad ette teise lepinguriigi õigusaktid, kindlustusandja pankrotimäärusest äriregistri pidajale, kinnistusraamatu pidajale või nendesarnaste registrite pidajatele lepinguriigis, kus on asutatud Eesti kindlustusandja filiaal.
+- 3) teatab vajaduse korral, või kui seda näevad ette teise lepinguriigi õigusaktid, kindlustusandja pankrotimäärusest äriregistri pidajale, kinnistusraamatu pidajale või nendesarnaste registrite pidajatele lepinguriigis, kus on asutatud Eesti kindlustusandja filiaal.
 
-(2) Kindlustusandja teadaolevate võlausaldajate teavitamise suhtes ei kohaldata pankrotiseaduse § 34 lõiget 2.
+(2) Kindlustusandja teadaolevate võlausaldajate teavitamise suhtes ei kohaldata pankrotiseaduse § 34 lõiget 2.
 
 (3) Teise lepinguriigi pankrotihalduri volitusi Eestis tõendab tema ametisse nimetamise otsuse kinnitatud ärakiri või lepinguriigi volitatud asutuse väljastatud muu tõend koos eestikeelse tõlkega.
 

@@ -1,6 +1,6 @@
 # § 11¹. Kindlustusühistule kohaldatavad erisused
 
-(1) Tulundusühistuna tegutsev kindlustusandja (edaspidi *kindlustusühistu*) asutatakse määramata tähtajaks.
+(1) Tulundusühistuna tegutsev kindlustusandja (edaspidi kindlustusühistu) asutatakse määramata tähtajaks.
 
 (2) Kui kindlustusühistu kavandatav tegevus näeb ette võlaõigusseaduse §-s 520 sätestatud kohustusliku vastutuskindlustuse pakkumise, ei tohi kindlustusühistu põhikirjaga ette näha tingimusi, mis piiravad kindlustusvõtja õigust sõlmida kindlustusühistuga kindlustusleping, kui kindlustusvõtja vastab tüüptingimustes ettenähtud tingimustele.
 

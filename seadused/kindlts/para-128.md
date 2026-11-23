@@ -4,9 +4,7 @@
 
 (2) Kindlustusandja esitab majandusaasta aruande koostamisel oma raamatupidamise aastaaruande lisas pensionilepingute aruande.
 
-(3) Käesoleva paragrahvi lõikes 2 nimetatud aruande vormi ja koostamise juhendi kehtestab
-
-määrusega.
+(3) Käesoleva paragrahvi lõikes 2 nimetatud aruande vormi ja koostamise juhendi kehtestab valdkonna eest vastutav minister määrusega.
 
 (4) Kindlustusandja selgitab oma raamatupidamise aastaaruande lisas pensionilepingute ja teiste kindlustuslepingute vahel kulude jaotamise põhimõtteid.
 

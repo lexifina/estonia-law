@@ -1,6 +1,6 @@
 # § 256². Edasikindlustamise nõuete rikkumine
 
-(1) Käesoleva seaduse § 83 lõikes 1 või 2 sätestatud edasikindlustuslepingute sõlmimise piirangu rikkumise eest –
+(1) Käesoleva seaduse § 83 lõikes 1 või 2 sätestatud edasikindlustuslepingute sõlmimise piirangu rikkumise eest –
 
 karistatakse rahatrahviga kuni 5 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas.
 

@@ -6,13 +6,13 @@
 
 (3) Erirežiimihaldur on kohustatud kahe tööpäeva jooksul pärast enda määramist:
 
-1) paigutama Eesti kindlustusandja ja tema välisriigi filiaali või kolmanda riigi kindlustusandja Eesti filiaali asukohta ning igasse nende tegevuskohta teate erirežiimihalduri määramise kohta, tuues teates ära isikute nimed, kelle volitused kindlustusandja ja tema filiaali või kolmanda riigi kindlustusandja Eesti filiaali nimel tehinguid sooritada on peatunud;
+- 1) paigutama Eesti kindlustusandja ja tema välisriigi filiaali või kolmanda riigi kindlustusandja Eesti filiaali asukohta ning igasse nende tegevuskohta teate erirežiimihalduri määramise kohta, tuues teates ära isikute nimed, kelle volitused kindlustusandja ja tema filiaali või kolmanda riigi kindlustusandja Eesti filiaali nimel tehinguid sooritada on peatunud;
 
-2) avaldama käesoleva lõike punktis 1 sätestatud sisuga teate vähemalt ühes üleriigilise levikuga päevalehes;
+- 2) avaldama käesoleva lõike punktis 1 sätestatud sisuga teate vähemalt ühes üleriigilise levikuga päevalehes;
 
-3) teavitama registrisse sellekohase märke tegemiseks väärtpaberite keskdepositooriumi ja pensioniregistri pidajat, kinnistusraamatu pidajat ja laevakinnistusraamatu pidajat, samuti teadaolevaid nendesarnaste registrite pidajaid teistes lepinguriikides, kus on asutatud Eesti kindlustusandja filiaalid, isikutest, kes ei oma enam volitusi kindlustusandja nimel käsutada kindlustusandja vara või volituse alusel valitsetavat vara, ja isikutest, kellele on need volitused antud.
+- 3) teavitama registrisse sellekohase märke tegemiseks väärtpaberite keskdepositooriumi ja pensioniregistri pidajat, kinnistusraamatu pidajat ja laevakinnistusraamatu pidajat, samuti teadaolevaid nendesarnaste registrite pidajaid teistes lepinguriikides, kus on asutatud Eesti kindlustusandja filiaalid, isikutest, kes ei oma enam volitusi kindlustusandja nimel käsutada kindlustusandja vara või volituse alusel valitsetavat vara, ja isikutest, kellele on need volitused antud.
 
-(4) Erirežiimihaldur võib Eesti kindlustusandja või kolmanda riigi kindlustusandja Eesti filiaali kindlustusportfelli või osa sellest üle anda teisele kindlustusandjale käesoleva seaduse 6. peatükis sätestatud korras.
+(4) Erirežiimihaldur võib Eesti kindlustusandja või kolmanda riigi kindlustusandja Eesti filiaali kindlustusportfelli või osa sellest üle anda teisele kindlustusandjale käesoleva seaduse 6. peatükis sätestatud korras.
 
 (5) Erirežiimihaldur saab Eesti kindlustusandja või kolmanda riigi kindlustusandja Eesti filiaali arvel tasu, mis on vastavuses tema töö iseloomu ja mahuga, kuid mis ei ole suurem sellest, mida saavad tegutseva kindlustusandja juhatuse liikmed või kolmanda riigi kindlustusandja Eesti filiaali juhataja keskmiselt. Erirežiimihalduri tasu määrab Finantsinspektsioon.
 

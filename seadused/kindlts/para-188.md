@@ -4,7 +4,7 @@
 
 (2) Otsuse vahendajate nimekirja kandmise või sellest keeldumise kohta teeb Finantsinspektsioon kolme kuu jooksul kõigi nõutud andmete ja dokumentide esitamisest arvates. Taotlejat teavitatakse tehtud otsusest viivitamata.
 
-(3) Finantsinspektsioon kannab taotleja vahendajate nimekirja viivitamata pärast vastava otsuse tegemist ja käesoleva seaduse §-s 179 sätestatud tingimustele vastava kehtiva vastutuskindlustuslepingu või garantiilepingu koopia saamist.
+(3) Finantsinspektsioon kannab taotleja vahendajate nimekirja viivitamata pärast vastava otsuse tegemist ja käesoleva seaduse §-s 179 sätestatud tingimustele vastava kehtiva vastutuskindlustuslepingu või garantiilepingu koopia saamist.
 
 (4) Füüsilisest isikust taotleja kohta kantakse vahendajate nimekirja nimi, isikukood või selle puudumise korral sünniaeg ja kontaktandmed, sealhulgas elektronposti aadress.
 

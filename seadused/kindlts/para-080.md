@@ -8,4 +8,4 @@
 
 (4) Kindlustusandja peab sisemudeli valideerimisel kasutatud statistiliste meetoditega hindama muu hulgas tõenäosusjaotuse prognoosi asjakohasust, võttes arvesse lisaks kindlustusandja kahjude ajaloole ka kõiki olulisi uusi andmeid ja uut teavet.
 
-(5) Kindlustusandja kehtestab valideerimisprotsessi ja võtab kasutusele vastavad vahendid, lähtudes komisjoni delegeeritud määruse (EL) nr 2015/35 artiklites 241 ja 242 sätestatust.
+(5) Kindlustusandja kehtestab valideerimisprotsessi ja võtab kasutusele vastavad vahendid, lähtudes komisjoni delegeeritud määruse (EL) nr 2015/35 artiklites 241 ja 242 sätestatust.

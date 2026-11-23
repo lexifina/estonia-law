@@ -14,19 +14,19 @@
 
 (7) Erirežiimi ja saneerimismeetmete rakendamisel reguleeritud väärtpaberituru osaliste õigustele ja kohustustele kohaldatakse selle riigi õigust, mida kohaldatakse reguleeritud väärtpaberiturule.
 
-(8) Erirežiimi ja saneerimismeetmete rakendamisel kindlustusandja või kolmanda riigi kindlustusandja filiaali õigusele käsutada registreeritud väärtpaberit pärast tema suhtes erirežiimi kehtestamist või saneerimismeetmete rakendamist kohaldatakse rahvusvahelise eraõiguse seaduse §-s 23¹ sätestatut.
+(8) Erirežiimi ja saneerimismeetmete rakendamisel kindlustusandja või kolmanda riigi kindlustusandja filiaali õigusele käsutada registreeritud väärtpaberit pärast tema suhtes erirežiimi kehtestamist või saneerimismeetmete rakendamist kohaldatakse rahvusvahelise eraõiguse seaduse §-s 23¹ sätestatut.
 
 (9) Erirežiimi kehtestamine või saneerimismeetmete rakendamine ei mõjuta võlausaldaja õigust oma nõuet kindlustusandja või kolmanda riigi kindlustusandja filiaali nõudega tasaarvestada, kui tasaarvestus on lubatud kindlustusandja või kolmanda riigi kindlustusandja filiaali nõudele kohaldatava õiguse kohaselt.
 
 (10) Erirežiimi kehtestamine või saneerimismeetmete rakendamine ei mõjuta võlausaldaja või kolmanda isiku asjaõigust, mis koormab erirežiimi kehtestamise algatamise ajal teises lepinguriigis või saneerimismeetmete rakendamise algatamise ajal Eestis asuvat kindlustusandja või kolmanda riigi kindlustusandja filiaali eset, sealhulgas:
 
-1) pandiõigusest tulenevat eseme müügiõigust;
+- 1) pandiõigusest tulenevat eseme müügiõigust;
 
-2) nõude rahuldamise eesõigust, mis tuleneb näiteks pandiõigusest või tagatisloovutamise kokkuleppest;
+- 2) nõude rahuldamise eesõigust, mis tuleneb näiteks pandiõigusest või tagatisloovutamise kokkuleppest;
 
-3) õigust asi välja nõuda igaühelt, kes seda õigusliku aluseta valdab;
+- 3) õigust asi välja nõuda igaühelt, kes seda õigusliku aluseta valdab;
 
-4) õigust eseme viljadele.
+- 4) õigust eseme viljadele.
 
 (11) Käesoleva paragrahvi lõikes 10 sätestatut kohaldatakse ka nimetatud lõikes sätestatud asjaõiguse omandamise õigusele, mis on kantud avalikku registrisse ja mis kehtib kolmandate isikute kohta.
 
