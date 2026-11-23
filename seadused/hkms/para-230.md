@@ -10,16 +10,16 @@
 
 (5) Riigikohtul on kassatsioonkaebuse läbivaatamisel õigus:
 
-1) jätta kassatsioonkaebus rahuldamata ja ringkonnakohtu otsus muutmata;
+- 1) jätta kassatsioonkaebus rahuldamata ja ringkonnakohtu otsus muutmata;
 
-2) tühistada ringkonnakohtu otsus täies ulatuses või osaliselt ja saata asi tühistatud osas uueks läbivaatamiseks samale või teisele ringkonnakohtule;
+- 2) tühistada ringkonnakohtu otsus täies ulatuses või osaliselt ja saata asi tühistatud osas uueks läbivaatamiseks samale või teisele ringkonnakohtule;
 
-3) tühistada halduskohtu ja ringkonnakohtu otsus ja saata asi uueks läbivaatamiseks halduskohtule või jätta kaebus läbi vaatamata või lõpetada asja menetlus;
+- 3) tühistada halduskohtu ja ringkonnakohtu otsus ja saata asi uueks läbivaatamiseks halduskohtule või jätta kaebus läbi vaatamata või lõpetada asja menetlus;
 
-4) tühistada ringkonnakohtu otsus ja jätta jõusse halduskohtu otsus;
+- 4) tühistada ringkonnakohtu otsus ja jätta jõusse halduskohtu otsus;
 
-5) muuta ringkonnakohtu või halduskohtu otsust või teha uus otsus asja uueks arutamiseks saatmata, kui asjas ei ole vaja täiendavaid tõendeid koguda või neile apellatsioonis antud hinnangut muuta;
+- 5) muuta ringkonnakohtu või halduskohtu otsust või teha uus otsus asja uueks arutamiseks saatmata, kui asjas ei ole vaja täiendavaid tõendeid koguda või neile apellatsioonis antud hinnangut muuta;
 
-6) muuta ringkonnakohtu või halduskohtu otsuse põhjendusi, jättes otsuse resolutsiooni muutmata.
+- 6) muuta ringkonnakohtu või halduskohtu otsuse põhjendusi, jättes otsuse resolutsiooni muutmata.
 
 (6) Kui halduskohus või ringkonnakohus tegi otsuse, kuigi oleks pidanud jätma kaebuse või apellatsioonkaebuse läbi vaatamata või asja menetluse lõpetama, tühistab Riigikohus ringkonnakohtu või mõlema kohtu otsused määrusega, millega ühtlasi jätab kaebuse läbi vaatamata või lõpetab asja menetluse.

@@ -2,11 +2,11 @@
 
 (1) Menetlusosalisele toimetatakse kätte:
 
-1) täitedokumendiks olev määrus;
+- 1) täitedokumendiks olev määrus;
 
-2) määrus, mille peale saab esitada määruskaebuse;
+- 2) määrus, mille peale saab esitada määruskaebuse;
 
-3) määrus, millega isikule määratakse tähtaeg menetlustoimingu tegemiseks või millega määratakse kohtuotsuse avalikult teatavakstegemise aeg ja koht.
+- 3) määrus, millega isikule määratakse tähtaeg menetlustoimingu tegemiseks või millega määratakse kohtuotsuse avalikult teatavakstegemise aeg ja koht.
 
 (2) Kohtuotsuse avalikult teatavaks tegemise korras tehakse avalikuks määrus, millega kohus tagastab kaebuse, jätab kaebuse läbi vaatamata või lõpetab menetluse.
 

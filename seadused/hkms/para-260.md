@@ -2,9 +2,9 @@
 
 (1) Halduslepingu pooleks olev või teda esindav haldusorgan võib füüsilise isiku või eraõigusliku juriidilise isiku vastu esitatud kaebuses eelkõige nõuda:
 
-1) halduslepingust tuleneva kohustuse täitmist;
+- 1) halduslepingust tuleneva kohustuse täitmist;
 
-2) halduslepingu rikkumisega tekitatud kahju hüvitamist.
+- 2) halduslepingu rikkumisega tekitatud kahju hüvitamist.
 
 (2) Seaduses sätestatud juhtudel võib haldusorgan esitada kaebuse ametniku või muu avalikke ülesandeid täitnud isiku poolt tekitatud kahju hüvitamiseks, sealhulgas kaebuse regressinõude rahuldamiseks.
 

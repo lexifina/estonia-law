@@ -10,19 +10,19 @@
 
 (5) Tasutud riigilõiv tagastatakse:
 
-1) enam tasutud osas, kui riigilõivu on tasutud ettenähtust rohkem;
+- 1) enam tasutud osas, kui riigilõivu on tasutud ettenähtust rohkem;
 
-2) kui kohus tagastab kaebuse selle esitajale, välja arvatud juhul, kui see toimub käesoleva seadustiku § 121 lõike 2 alusel;
+- 2) kui kohus tagastab kaebuse selle esitajale, välja arvatud juhul, kui see toimub käesoleva seadustiku § 121 lõike 2 alusel;
 
-3) kui kohus jätab kaebuse läbi vaatamata, välja arvatud juhul, kui see toimub käesoleva seadustiku § 151 lõike 1 punkti 2 või 3 või lõike 2 alusel;
+- 3) kui kohus jätab kaebuse läbi vaatamata, välja arvatud juhul, kui see toimub käesoleva seadustiku § 151 lõike 1 punkti 2 või 3 või lõike 2 alusel;
 
-4) kui kohus lõpetab menetluse käesoleva seadustiku § 152 lõike 1 punkti 2 või 4 alusel.
+- 4) kui kohus lõpetab menetluse käesoleva seadustiku § 152 lõike 1 punkti 2 või 4 alusel.
 
 (6) Kui tasutud riigilõivu suurus ületab 50 eurot, tagastatakse pool asjas tasutud riigilõivust, kui:
 
-1) pooled sõlmivad kompromissi;
+- 1) pooled sõlmivad kompromissi;
 
-2) kaebaja loobub kaebusest.
+- 2) kaebaja loobub kaebusest.
 
 (7) Tasutud riigilõivu ei tagastata käesoleva seadustiku § 121 lõikes 3 ja § 155 lõikes 2 nimetatud juhul.
 

@@ -2,17 +2,17 @@
 
 (1) Kaebuse rahuldamisel on kohtul otsuse resolutsioonis õigus:
 
-1) tühistada haldusakt osaliselt või täielikult;
+- 1) tühistada haldusakt osaliselt või täielikult;
 
-2) kohustada haldusakti andma või toimingut tegema;
+- 2) kohustada haldusakti andma või toimingut tegema;
 
-3) keelata haldusakti andmine või toimingu tegemine;
+- 3) keelata haldusakti andmine või toimingu tegemine;
 
-4) mõista välja hüvitis avalik-õiguslikus suhtes tekitatud kahju eest;
+- 4) mõista välja hüvitis avalik-õiguslikus suhtes tekitatud kahju eest;
 
-5) teha ettekirjutus haldusakti või toimingu tagajärgede kõrvaldamise kohta;
+- 5) teha ettekirjutus haldusakti või toimingu tagajärgede kõrvaldamise kohta;
 
-6) teha kindlaks haldusakti tühisus, haldusakti või toimingu õigusvastasus või avalik-õiguslikus suhtes tähtsust omav faktiline asjaolu.
+- 6) teha kindlaks haldusakti tühisus, haldusakti või toimingu õigusvastasus või avalik-õiguslikus suhtes tähtsust omav faktiline asjaolu.
 
 (2) Kui haldusaktis sisaldub või haldusakti alusel on tehtud vastustaja eraõiguslik tahteavaldus, võib kohus koos haldusakti tühistamisega teha otsuse resolutsioonis kindlaks ka sellise tehingu tühisuse, mille tegemisele see tahteavaldus oli suunatud.
 

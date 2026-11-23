@@ -2,27 +2,27 @@
 
 (1) Kaebuses märgitakse:
 
-1) kaebaja nimi, isikukood või selle puudumisel sünniaeg või registrikood, aadress ja sidevahendite andmed;
+- 1) kaebaja nimi, isikukood või selle puudumisel sünniaeg või registrikood, aadress ja sidevahendite andmed;
 
-2) teiste menetlusosaliste nimed, aadressid ja sidevahendite andmed;
+- 2) teiste menetlusosaliste nimed, aadressid ja sidevahendite andmed;
 
-3) kaebaja esindaja nimi, aadress ja sidevahendite andmed, kui kaebajal on esindaja;
+- 3) kaebaja esindaja nimi, aadress ja sidevahendite andmed, kui kaebajal on esindaja;
 
-4) halduskohtu nimetus;
+- 4) halduskohtu nimetus;
 
-5) kaebuse nõue vastavalt käesoleva seadustiku §-le 37;
+- 5) kaebuse nõue vastavalt käesoleva seadustiku §-le 37;
 
-6) vaidlusaluse haldusakti või toimingu sisu, nimetus, kuupäev, number ja selle andnud või teinud haldusorgan, kui nimetatud andmete esitamine on võimalik;
+- 6) vaidlusaluse haldusakti või toimingu sisu, nimetus, kuupäev, number ja selle andnud või teinud haldusorgan, kui nimetatud andmete esitamine on võimalik;
 
-7) kaebuse faktiline põhjendus;
+- 7) kaebuse faktiline põhjendus;
 
-8) tõendid, mis kinnitavad kaebaja poolt väidetavaid asjaolusid, viidates konkreetselt, millist asjaolu millise tõendiga tõendada soovitakse;
+- 8) tõendid, mis kinnitavad kaebaja poolt väidetavaid asjaolusid, viidates konkreetselt, millist asjaolu millise tõendiga tõendada soovitakse;
 
-9) kuidas ja millal sai kaebaja teada vaidlustatud haldusaktist või toimingust;
+- 9) kuidas ja millal sai kaebaja teada vaidlustatud haldusaktist või toimingust;
 
-10) kas kaebaja soovib asja arutamist istungil, kirjalikus menetluses või lihtmenetluses;
+- 10) kas kaebaja soovib asja arutamist istungil, kirjalikus menetluses või lihtmenetluses;
 
-11) kaebuse lisade nimekiri.
+- 11) kaebuse lisade nimekiri.
 
 (2) Rahalise hüvitise nõudmisel märgitakse lisaks käesoleva paragrahvi lõikes 1 sätestatule hüvitise suurus. Mittevaralise kahju eest hüvitise nõudmisel, samuti juhul, kui kaebajal on võimatu või ebamõistlikult keeruline varalise kahju suurust kindlaks teha, võib kaebaja jätta hüvitise suuruse kaebuses märkimata ja taotleda õiglast hüvitist kohtu äranägemisel.
 

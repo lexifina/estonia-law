@@ -1,26 +1,28 @@
 # § 182. Nõuded apellatsioonkaebusele
 
-(1) Apellatsioonkaebus esitatakse kirjalikult kohtualluvuse järgsele ringkonnakohtule.Apellatsioonkaebuses märgitakse:
+(1) Apellatsioonkaebus esitatakse kirjalikult kohtualluvuse järgsele ringkonnakohtule.
 
-1) menetlusosaliste nimed, aadressid ja seisund menetluses, samuti sidevahendite andmed;
+Apellatsioonkaebuses märgitakse:
 
-2) apellatsioonkaebuse esitaja (edaspidi apellant) nimi, aadress ja sidevahendite andmed;
+- 1) menetlusosaliste nimed, aadressid ja seisund menetluses, samuti sidevahendite andmed;
 
-3) ringkonnakohtu nimetus;
+- 2) apellatsioonkaebuse esitaja (edaspidi apellant) nimi, aadress ja sidevahendite andmed;
 
-4) kaevatava otsuse teinud halduskohtu nimetus, otsuse kuupäev ja haldusasja number;
+- 3) ringkonnakohtu nimetus;
 
-5) apellatsioonkaebuse põhjendus, märkides ära, millist õigusnormi on halduskohus ebaõigesti kohaldanud või missuguse asjaolu on halduskohus ebaõigesti või ebapiisavalt tuvastanud ning milles selline õigusnormi rikkumine või asjaolu ebaõige või ebapiisav tuvastamine seisneb;
+- 4) kaevatava otsuse teinud halduskohtu nimetus, otsuse kuupäev ja haldusasja number;
 
-6) viide tõenditele, millega apellant soovib iga faktiväidet tõendada;
+- 5) apellatsioonkaebuse põhjendus, märkides ära, millist õigusnormi on halduskohus ebaõigesti kohaldanud või missuguse asjaolu on halduskohus ebaõigesti või ebapiisavalt tuvastanud ning milles selline õigusnormi rikkumine või asjaolu ebaõige või ebapiisav tuvastamine seisneb;
 
-7) apellandi selgelt väljendatud taotlus, märkides ära, millises ulatuses apellant halduskohtu otsust vaidlustab ning missugust ringkonnakohtu lahendit apellant taotleb;
+- 6) viide tõenditele, millega apellant soovib iga faktiväidet tõendada;
 
-8) andmed riigilõivu tasumise kohta;
+- 7) apellandi selgelt väljendatud taotlus, märkides ära, millises ulatuses apellant halduskohtu otsust vaidlustab ning missugust ringkonnakohtu lahendit apellant taotleb;
 
-9) kas apellant soovib asja arutamist kohtuistungil. Kui apellant ei ole seda soovi märkinud, eeldatakse, et ta on nõus asja lahendamisega kirjalikus menetluses;
+- 8) andmed riigilõivu tasumise kohta;
 
-10) kaebusele lisatud dokumentide loetelu.
+- 9) kas apellant soovib asja arutamist kohtuistungil. Kui apellant ei ole seda soovi märkinud, eeldatakse, et ta on nõus asja lahendamisega kirjalikus menetluses;
+
+- 10) kaebusele lisatud dokumentide loetelu.
 
 (2) Apellatsioonimenetluses uute tõendite esitamisel või uute tõendite kogumise taotlemisel tuleb märkida põhjendused, miks neid tõendeid ei saanud esitada või nende hankimist taotleda halduskohtus.
 

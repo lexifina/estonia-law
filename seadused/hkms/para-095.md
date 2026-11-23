@@ -8,4 +8,4 @@
 
 (4) Kui kohus taotleb asjas tõusetunud küsimuses Euroopa Liidu Kohtult eelotsust, peatab kohus menetluse kuni Euroopa Liidu Kohtu lahendi jõustumiseni. Kohus võib menetluse peatada kuni Euroopa Liidu Kohtu lahendi jõustumiseni ka juhul, kui Euroopa Liidu Kohtu poolt lahendatavas asjas on küsimuse all õigusnormi tõlgendamine, millel on määrav tähtsus ka menetletava haldusasja lahendamiseks.
 
-(5) Kui Riigikohus taotleb Euroopa Inimõiguste Kohtult käesoleva seadustiku § 2281 alusel nõuandvat arvamust, võib Riigikohus oma menetluse peatada taotluse menetlemise ajaks või kuni taotlusest loobumiseni.
+(5) Kui Riigikohus taotleb Euroopa Inimõiguste Kohtult käesoleva seadustiku § 228¹ alusel nõuandvat arvamust, võib Riigikohus oma menetluse peatada taotluse menetlemise ajaks või kuni taotlusest loobumiseni.

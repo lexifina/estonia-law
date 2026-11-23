@@ -8,8 +8,10 @@
 
 (4) Menetlusosalise või asja saanud kohtu taotlusel määrab Riigikohtu halduskolleegiumi esimees kohtualluvuse, kui:
 
-1) kohus, kellele asi allub, ei saa seda asja lahendada;
+- 1) kohus, kellele asi allub, ei saa seda asja lahendada;
 
-2) ei ole selge, millisele kohtule asi allub;
+- 2) ei ole selge, millisele kohtule asi allub;
 
-3) ühes asjas on mitu sama astme kohut otsustanud, et asi ei allu neile, või 4) ühes asjas on mitu sama astme kohut otsustanud, et asi allub neile.
+- 3) ühes asjas on mitu sama astme kohut otsustanud, et asi ei allu neile, või
+
+- 4) ühes asjas on mitu sama astme kohut otsustanud, et asi allub neile.

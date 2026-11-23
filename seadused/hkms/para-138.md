@@ -8,13 +8,13 @@
 
 (4) Läbirääkimistel kohus:
 
-1) selgitab lepitusmenetluse korda ja eesmärki ning menetlusosaliste õigusi;
+- 1) selgitab lepitusmenetluse korda ja eesmärki ning menetlusosaliste õigusi;
 
-2) kuulab ära menetlusosaliste seisukohad;
+- 2) kuulab ära menetlusosaliste seisukohad;
 
-3) selgitab võimalikult täpselt välja menetlusosaliste huvid ja nende kaitsmise võimalused seoses vaidluse esemega;
+- 3) selgitab võimalikult täpselt välja menetlusosaliste huvid ja nende kaitsmise võimalused seoses vaidluse esemega;
 
-4) arutab menetlusosalistega võimalusi vaidluse lahendamiseks kompromissiga.
+- 4) arutab menetlusosalistega võimalusi vaidluse lahendamiseks kompromissiga.
 
 (5) Lepitusmenetluse läbiviimiseks määratakse teine kohtukoosseis.
 

@@ -2,11 +2,11 @@
 
 (1) Menetlusabi taotluses märgitakse:
 
-1) menetlus, milleks menetlusabi taotletakse;
+- 1) menetlus, milleks menetlusabi taotletakse;
 
-2) kellena taotluse esitaja menetluses osaleb või soovib osaleda ja milliseid avaldusi või taotlusi ta tahab esitada;
+- 2) kellena taotluse esitaja menetluses osaleb või soovib osaleda ja milliseid avaldusi või taotlusi ta tahab esitada;
 
-3) millel taotluse esitaja nõue või vastuväide põhineb.
+- 3) millel taotluse esitaja nõue või vastuväide põhineb.
 
 (2) Taotlusele lisab taotleja allkirjastatud teatise enda ja oma perekonnaliikmete isikliku ja majandusliku seisundi kohta (perekonnasuhted, elukutse, vara, sissetulek ja kohustused) ning võimaluse korral ka muud dokumendid, mis seda seisundit tõendavad.
 

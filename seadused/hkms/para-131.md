@@ -2,7 +2,9 @@
 
 (1) Kohus võib asja läbi vaadata kirjalikus menetluses, kui kohtu hinnangul on asja lahendamiseks olulised asjaolud võimalik välja selgitada kohtuistungit korraldamata ning:
 
-1) kõik pooled ja kolmandad isikud on nõustunud asja arutamisega kirjalikus menetluses või 2) menetlusosalistel puudub ilmselgelt põhjus kohtuistungi korraldamist nõuda, arvestades kaalul olevaid õigushüvesid ja vaidluse iseloomu, sealhulgas kui menetlusosaliste vahel on vaidluse all üksnes õigusküsimused.
+- 1) kõik pooled ja kolmandad isikud on nõustunud asja arutamisega kirjalikus menetluses või
+
+- 2) menetlusosalistel puudub ilmselgelt põhjus kohtuistungi korraldamist nõuda, arvestades kaalul olevaid õigushüvesid ja vaidluse iseloomu, sealhulgas kui menetlusosaliste vahel on vaidluse all üksnes õigusküsimused.
 
 (2) Kui pool või kolmas isik on kohtule vastanud, kuid ei ole teatanud, et ta on nõus kirjaliku menetlusega, eeldatakse, et ta soovib asja läbivaatamist kohtuistungil. Menetlusosaline võib nõusoleku asja lahendamiseks kirjalikus menetluses tagasi võtta üksnes menetlusolukorra olulisel muutumisel.
 

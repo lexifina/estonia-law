@@ -4,9 +4,11 @@
 
 (2) Täisealisel piiratud teovõimega isikul on halduskohtumenetluses teovõime, kui kohtu hinnangul:
 
-1) teovõime piiratus ei puuduta haldusasja;
+- 1) teovõime piiratus ei puuduta haldusasja;
 
-2) piiratud teovõimega isiku huvid võivad olla tema eestkostja huvidega vastuolus või 3) seataks vastasel juhul ohtu piiratud teovõimega isiku või mõne teise menetlusosalise õigus või avalik huvi.
+- 2) piiratud teovõimega isiku huvid võivad olla tema eestkostja huvidega vastuolus või
+
+- 3) seataks vastasel juhul ohtu piiratud teovõimega isiku või mõne teise menetlusosalise õigus või avalik huvi.
 
 (3) Vähemalt 15-aastasel alaealisel on halduskohtumenetluses teovõime, kui ta saab kohtu hinnangul oma toimingutest halduskohtumenetluses aru ning ei kahjusta enda ega oma lähedaste huve.
 

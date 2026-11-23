@@ -2,15 +2,15 @@
 
 (1) Kinniseks kuulutatud menetluses võib menetlusosalise menetlustoimingult, sealhulgas kohtuistungilt või selle osalt eemaldada:
 
-1) riigi julgeoleku või avaliku korra tagamiseks, eelkõige riigisaladuse või salastatud välisteabe hoidmiseks või asutusesiseseks kasutamiseks tunnistatud teabe kaitseks;
+- 1) riigi julgeoleku või avaliku korra tagamiseks, eelkõige riigisaladuse või salastatud välisteabe hoidmiseks või asutusesiseseks kasutamiseks tunnistatud teabe kaitseks;
 
-2) menetlusosalise, tunnistaja või muu isiku elu, tervise või vabaduse kaitseks;
+- 2) menetlusosalise, tunnistaja või muu isiku elu, tervise või vabaduse kaitseks;
 
-3) menetlusosalise, tunnistaja või muu isiku eraelu kaitseks;
+- 3) menetlusosalise, tunnistaja või muu isiku eraelu kaitseks;
 
-4) lapsendamissaladuse hoidmiseks;
+- 4) lapsendamissaladuse hoidmiseks;
 
-5) äri-, autorisaladuse või muu sellesarnase saladuse hoidmiseks.
+- 5) äri-, autorisaladuse või muu sellesarnase saladuse hoidmiseks.
 
 (2) Menetlusosalise eemaldamine käesoleva paragrahvi lõikes 1 märgitud alusel on võimalik üksnes tingimusel, et huvi saladuse hoidmiseks on ilmselgelt kaalukam menetlusosalise õigusest olla menetlustoimingu juures.
 

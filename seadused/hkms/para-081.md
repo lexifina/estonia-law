@@ -12,4 +12,4 @@
 
 (6) Menetlusosalise taotlusel korraldab kohus temale kohtuotsuse või -määruse tõlkimise tema enda kulul.
 
-(7) Käesoleva seadustiku § 2281 alusel esitatava taotluse tõlkimise inglise või prantsuse keelde ja esitatud taotluse kohta saadud Euroopa Inimõiguste Kohtu lahendi tõlkimise eesti keelde korraldab Riigikohus riigi arvel.
+(7) Käesoleva seadustiku § 228¹ alusel esitatava taotluse tõlkimise inglise või prantsuse keelde ja esitatud taotluse kohta saadud Euroopa Inimõiguste Kohtu lahendi tõlkimise eesti keelde korraldab Riigikohus riigi arvel.

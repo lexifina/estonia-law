@@ -6,11 +6,11 @@
 
 (3) Kohus võib keelduda tõendi vastuvõtmisest ja selle tagastada või keelduda tõendite kogumisest lisaks käesoleva paragrahvi lõikes 2 sätestatule, kui:
 
-1) tegemist on kuriteoga või põhiõiguse rikkumisega saadud tõendiga;
+- 1) tegemist on kuriteoga või põhiõiguse rikkumisega saadud tõendiga;
 
-2) tõend ei ole kättesaadav, eelkõige kui ei ole teada dokumendi asukoht või tunnistaja andmed või tunnistajale ei ole olemasolevate andmete alusel korduvalt olnud võimalik kohtukutset kätte toimetada, samuti kui tõendi tähtsus ei ole vastavuses tõendi kättesaamiseks mineva ajakuluga või sellega seotud muude raskustega;
+- 2) tõend ei ole kättesaadav, eelkõige kui ei ole teada dokumendi asukoht või tunnistaja andmed või tunnistajale ei ole olemasolevate andmete alusel korduvalt olnud võimalik kohtukutset kätte toimetada, samuti kui tõendi tähtsus ei ole vastavuses tõendi kättesaamiseks mineva ajakuluga või sellega seotud muude raskustega;
 
-3) tõendite esitamise ja kogumise vajadust ei ole põhjendatud.
+- 3) tõendite esitamise ja kogumise vajadust ei ole põhjendatud.
 
 (4) Kui menetlusosalise taotlus tõendeid koguda jäi rahuldamata seetõttu, et tõendite kogumist taotleti hilinenult või tõendite kogumist taotlenud menetlusosaline jättis tasumata kohtu nõutud ettemakse tõendite kogumisega seotud kulude katteks, ei ole tal hiljem õigust taotleda nende tõendite kogumist, kui taotluse rahuldamine põhjustaks asja arutamise edasilükkamise.
 

@@ -6,9 +6,9 @@
 
 (3) Riigikohus võtab kassatsioonkaebuse menetlusse, kui:
 
-1) kassatsioonkaebuses esitatud seisukohad võimaldavad arvata, et ringkonnakohus on ebaõigesti kohaldanud materiaalõigust või oluliselt rikkunud kohtumenetluse norme, mis on toonud kaasa või oleks võinud kaasa tuua ebaõige kohtulahendi;
+- 1) kassatsioonkaebuses esitatud seisukohad võimaldavad arvata, et ringkonnakohus on ebaõigesti kohaldanud materiaalõigust või oluliselt rikkunud kohtumenetluse norme, mis on toonud kaasa või oleks võinud kaasa tuua ebaõige kohtulahendi;
 
-2) kassatsioonkaebuse lahendamisel on sõltumata käesoleva lõike punktis 1 sätestatust põhimõtteline tähendus õiguskindluse tagamiseks või ühtse kohtupraktika kujundamiseks.
+- 2) kassatsioonkaebuse lahendamisel on sõltumata käesoleva lõike punktis 1 sätestatust põhimõtteline tähendus õiguskindluse tagamiseks või ühtse kohtupraktika kujundamiseks.
 
 (4) Kui kassatsioonkaebus võetakse menetlusse, võib vastukassatsioonkaebuse menetlusse võtmisest keelduda üksnes põhjusel, et vastukassatsioonkaebus ei vasta seaduses sätestatud nõuetele.
 

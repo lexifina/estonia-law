@@ -4,11 +4,11 @@
 
 (2) Viivitamata täitmisele kuulub kohtulahend:
 
-1) millega ennistatakse ametnik teenistusse;
+- 1) millega ennistatakse ametnik teenistusse;
 
-2) millega mõistetakse välja saamata jäänud töötasu, kuid mitte rohkem kui kahe kuu ulatuses;
+- 2) millega mõistetakse välja saamata jäänud töötasu, kuid mitte rohkem kui kahe kuu ulatuses;
 
-3) muul seaduses sätestatud juhul.
+- 3) muul seaduses sätestatud juhul.
 
 (3) Kohus võib menetlusosalise taotlusel tunnistada eraldi määrusega kohtulahendi viivitamata täidetavaks ka juhul, kui kohtulahendi hilisem täitmine kahjustaks oluliselt menetlusosalise õigusi või oleks raskendatud või võimatu. Kohtulahendi viivitamata täidetavaks tunnistamisel arvestab kohus ka teiste menetlusosaliste õigusi ja avalikke huve. Võimaluse korral küsib kohus viivitamata täitmise kohta teiste menetlusosaliste seisukohta.
 

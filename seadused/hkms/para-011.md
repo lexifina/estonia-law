@@ -2,11 +2,11 @@
 
 (1) Halduskohtus lahendab kohtunik haldusasja ainuisikuliselt. Kohtu esimees võib määrata asja lahendamiseks kolmeliikmelisele koosseisule:
 
-1) asja erilise keerukuse korral;
+- 1) asja erilise keerukuse korral;
 
-2) asja põhimõttelise tähtsuse korral;
+- 2) asja põhimõttelise tähtsuse korral;
 
-3) muudel juhtudel, kui see on õigusemõistmise huvides.
+- 3) muudel juhtudel, kui see on õigusemõistmise huvides.
 
 (2) Halduskohtus kolmeliikmelisele koosseisule lahendamiseks antud asja ei saa anda lahendamiseks kohtunikule ainuisikuliselt, välja arvatud juhul, kui asi saadeti halduskohtule uueks lahendamiseks, asjas eraldatakse nõuded või asja menetlus lõpetatakse osaliselt. Toimingud ja määrused kaebuse menetlusse võtmisel ja eelmenetluse toimingud, samuti korraldavad määrused väljaspool kohtuistungit, välja arvatud tõendi vastuvõtmisest keeldumine, võib kolmeliikmelise koosseisu liige teha ainuisikuliselt.
 

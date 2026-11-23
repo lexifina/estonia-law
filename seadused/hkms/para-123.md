@@ -2,19 +2,19 @@
 
 (1) Vastustaja peab vastuses kaebusele muu hulgas märkima:
 
-1) kas kaebus on tema hinnangul õigesti menetlusse võetud või on alust jätta kaebus läbi vaatamata või menetlus lõpetada;
+- 1) kas kaebus on tema hinnangul õigesti menetlusse võetud või on alust jätta kaebus läbi vaatamata või menetlus lõpetada;
 
-2) kas vastustaja on kindlaks tehtud õigesti;
+- 2) kas vastustaja on kindlaks tehtud õigesti;
 
-3) kas ta nõustub kaebusega või vaidleb sellele vastu;
+- 3) kas ta nõustub kaebusega või vaidleb sellele vastu;
 
-4) kõik oma taotlused ja väited ning tõendid faktiliste väidete tõendamiseks;
+- 4) kõik oma taotlused ja väited ning tõendid faktiliste väidete tõendamiseks;
 
-5) kuidas tuleks jaotada menetluskulud;
+- 5) kuidas tuleks jaotada menetluskulud;
 
-6) kas ta on nõus kirjaliku menetlusega või lihtmenetlusega või soovib asja läbivaatamist kohtuistungil;
+- 6) kas ta on nõus kirjaliku menetlusega või lihtmenetlusega või soovib asja läbivaatamist kohtuistungil;
 
-7) kas tema arvates on võimalik asi lahendada kompromissiga või muul viisil kokkuleppel.
+- 7) kas tema arvates on võimalik asi lahendada kompromissiga või muul viisil kokkuleppel.
 
 (2) Kui kolmas isik esitab kaebusele vastuse, peab ta selles muu hulgas teatama käesoleva paragrahvi lõike 1 punktides 1 ja 3–7 nimetatud andmed.
 

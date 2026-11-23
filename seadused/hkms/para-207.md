@@ -6,6 +6,8 @@
 
 (3) Ringkonnakohus võib käesoleva paragrahvi lõikes 2 nimetatud määruse teha ilma kirjeldava ja põhjendava osata, märkides ära määruskaebuse tagastamise õigusliku aluse, kui:
 
-1) ringkonnakohtu määruse peale ei saa Riigikohtule edasi kaevata või 2) seadus võimaldab asja läbi vaadata lihtmenetluses.
+- 1) ringkonnakohtu määruse peale ei saa Riigikohtule edasi kaevata või
+
+- 2) seadus võimaldab asja läbi vaadata lihtmenetluses.
 
 (4) Käesoleva paragrahvi lõike 3 punktis 1 sätestatud juhul ei ole ringkonnakohtu määrus Riigikohtusse edasi kaevatav sõltumata sellest, kas ringkonnakohus määrust põhjendab või mitte.

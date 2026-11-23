@@ -6,19 +6,19 @@
 
 (3) Apellatsioonkaebus tagastatakse, kui:
 
-1) apellatsioonkaebus ei allu sellele ringkonnakohtule;
+- 1) apellatsioonkaebus ei allu sellele ringkonnakohtule;
 
-2) apellatsioonkaebus on esitatud pärast apellatsioonitähtaja möödumist ja ringkonnakohus ei ennista apellatsioonitähtaega;
+- 2) apellatsioonkaebus on esitatud pärast apellatsioonitähtaja möödumist ja ringkonnakohus ei ennista apellatsioonitähtaega;
 
-3) tasutud ei ole riigilõivu;
+- 3) tasutud ei ole riigilõivu;
 
-4) apellatsioonkaebuse apellandi nimel esitanud isik ei ole põhistanud oma esindusõiguse olemasolu;
+- 4) apellatsioonkaebuse apellandi nimel esitanud isik ei ole põhistanud oma esindusõiguse olemasolu;
 
-5) apellatsioonkaebuses esitatud väidete õigsust eeldades ei saaks apellatsioonkaebust ilmselgelt rahuldada;
+- 5) apellatsioonkaebuses esitatud väidete õigsust eeldades ei saaks apellatsioonkaebust ilmselgelt rahuldada;
 
-6) apellandil ei ole apellatsioonkaebuse esitamise õigust või kui asjas tehtav kohtuotsus ei saaks muutunud asjaolude tõttu enam ilmselgelt mõjutada tema õigusi või kohustusi;
+- 6) apellandil ei ole apellatsioonkaebuse esitamise õigust või kui asjas tehtav kohtuotsus ei saaks muutunud asjaolude tõttu enam ilmselgelt mõjutada tema õigusi või kohustusi;
 
-7) apellatsioonkaebus ei vasta käesoleva seadustiku §-s 182 sätestatud nõuetele.
+- 7) apellatsioonkaebus ei vasta käesoleva seadustiku §-s 182 sätestatud nõuetele.
 
 (3¹) Ringkonnakohus võib apellatsioonkaebuse tagastada, kui seadus võimaldab asja läbi vaadata lihtmenetluses ning asjaoludest tulenevalt on apellatsioonkaebuse rahuldamine ebatõenäoline.
 

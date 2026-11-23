@@ -2,9 +2,9 @@
 
 (1) Haldusasi antakse koosseisu kuuluva kohtuniku ettepanekul läbivaatamiseks üle halduskolleegiumi kogu koosseisule, kui:
 
-1) halduskolleegiumi kolmeliikmelises koosseisus tekivad haldusasja lahendamisel põhimõttelist laadi eriarvamused seaduse kohaldamisel;
+- 1) halduskolleegiumi kolmeliikmelises koosseisus tekivad haldusasja lahendamisel põhimõttelist laadi eriarvamused seaduse kohaldamisel;
 
-2) koosseisu enamus tahab muuta halduskolleegiumi senist seisukohta seaduse kohaldamisel või üleandmine on koosseisu arvates vajalik kohtupraktika ühtlustamiseks.
+- 2) koosseisu enamus tahab muuta halduskolleegiumi senist seisukohta seaduse kohaldamisel või üleandmine on koosseisu arvates vajalik kohtupraktika ühtlustamiseks.
 
 (2) Asja halduskolleegiumi kogu koosseisule läbivaatamiseks andmine otsustatakse määrusega, mille ärakiri edastatakse menetlusosalistele. Menetlusosalistele tehakse aegsasti teatavaks uue kohtuistungi toimumise aeg, koht või asja läbivaatamine kirjalikus menetluses ning asja lahendav kohtukoosseis.
 

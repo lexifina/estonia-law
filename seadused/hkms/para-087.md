@@ -4,6 +4,6 @@
 
 (2) Toimikus võivad olla muukeelsed dokumendid vaid tõlkega varustatult, välja arvatud juhul, kui see oleks ilmselgelt ebaproportsionaalne, arvestades dokumentide sisu ja mahtu.
 
-(3) Riigisaladust või salastatud välisteavet sisaldavate dokumentide suhtes kohaldatakse tsiviilkohtumenetluse seadustiku § 59 lõiget 52.
+(3) Riigisaladust või salastatud välisteavet sisaldavate dokumentide suhtes kohaldatakse tsiviilkohtumenetluse seadustiku § 59 lõiget 5².
 
 (4) Haldusasja toimiku arhiveerib halduskohus.

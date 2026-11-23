@@ -6,15 +6,15 @@
 
 (3) Kaebuse muutmiseks ei loeta:
 
-1) esitatud faktiliste või õiguslike väidete täiendamist või parandamist, ilma et muudetaks nõude alust;
+- 1) esitatud faktiliste või õiguslike väidete täiendamist või parandamist, ilma et muudetaks nõude alust;
 
-2) rahalise nõude suurendamist või vähendamist;
+- 2) rahalise nõude suurendamist või vähendamist;
 
-3) esialgu nõutud eseme asemel asjaolude muutumise tõttu teise eseme või muu hüve nõudmist;
+- 3) esialgu nõutud eseme asemel asjaolude muutumise tõttu teise eseme või muu hüve nõudmist;
 
-4) otsuse täitmise tähtaja või muude otsuse täitmise tingimuste kindlaksmääramise taotluse esitamist või muutmist;
+- 4) otsuse täitmise tähtaja või muude otsuse täitmise tingimuste kindlaksmääramise taotluse esitamist või muutmist;
 
-5) liitkaebusest mõne nõude väljajätmist, asendamata seda uue nõudega.
+- 5) liitkaebusest mõne nõude väljajätmist, asendamata seda uue nõudega.
 
 (4) Käesoleva paragrahvi lõike 3 punktis 5 nimetatud juhul kohaldatakse kaebusest loobumise sätteid.
 

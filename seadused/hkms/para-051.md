@@ -10,10 +10,10 @@
 
 (5) Avaldus loetakse kohtule esitatuks hetkest, kui:
 
-1) kirjalik avaldus on jõudnud kohtusse;
+- 1) kirjalik avaldus on jõudnud kohtusse;
 
-2) kohtuistungil suuliselt esitatud avaldus on protokollitud ja kohtuistungi protokoll allkirjastatud;
+- 2) kohtuistungil suuliselt esitatud avaldus on protokollitud ja kohtuistungi protokoll allkirjastatud;
 
-3) elektrooniline avaldus on saadetud nõuetekohaselt ettenähtud elektronposti aadressil ning see on selleks ettenähtud seadmes salvestatud;
+- 3) elektrooniline avaldus on saadetud nõuetekohaselt ettenähtud elektronposti aadressil ning see on selleks ettenähtud seadmes salvestatud;
 
-4) elektrooniline avaldus on salvestatud tsiviilkohtumenetluse seadustiku §-s 601 sätestatud e-toimiku menetlemise infosüsteemis.
+- 4) elektrooniline avaldus on salvestatud tsiviilkohtumenetluse seadustiku §-s 60¹ sätestatud e-toimiku menetlemise infosüsteemis.

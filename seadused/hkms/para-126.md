@@ -6,4 +6,4 @@
 
 (3) Rahvusvahelise kaitse asja ja ajutise konkurentsijärelevalvemeetme peale esitatud kaebuse vaatab kohus läbi eelisjärjekorras. Rahvusvahelise kaitse asja vaatab kohus läbi välismaalasele rahvusvahelise kaitse andmise seaduses sätestatud tähtajal.
 
-(4) Ehitusseadustiku § 115 lõigete 1 ja 11 tähenduses riigikaitselise ehitisega, mille ainus eesmärk on riigi julgeoleku, sealhulgas sõjalise riigikaitse tagamine, seotud asja vaatab kohus läbi eelisjärjekorras, kuid mitte pikema aja kui nelja kuu jooksul. Põhjendatud juhul võib kohus asja läbivaatamise tähtaega pikendada üldjuhul kuni kahe kuu võrra.
+(4) Ehitusseadustiku § 115 lõigete 1 ja 1¹ tähenduses riigikaitselise ehitisega, mille ainus eesmärk on riigi julgeoleku, sealhulgas sõjalise riigikaitse tagamine, seotud asja vaatab kohus läbi eelisjärjekorras, kuid mitte pikema aja kui nelja kuu jooksul. Põhjendatud juhul võib kohus asja läbivaatamise tähtaega pikendada üldjuhul kuni kahe kuu võrra.

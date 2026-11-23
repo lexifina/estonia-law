@@ -4,15 +4,15 @@
 
 (2) Vastuses kassatsioonkaebusele tuleb muu hulgas märkida:
 
-1) kas on mõni kassatsioonkaebuse menetlemist takistav puudus;
+- 1) kas on mõni kassatsioonkaebuse menetlemist takistav puudus;
 
-2) kas menetlusosaline nõustub kassatsioonkaebusega või vaidleb sellele vastu;
+- 2) kas menetlusosaline nõustub kassatsioonkaebusega või vaidleb sellele vastu;
 
-3) põhjendatud vastuväited kassatsioonkaebuse nõudmiste ja põhjenduste kohta ning asjaolud ja õigusnormid, millele menetlusosaline oma vastuväited rajab;
+- 3) põhjendatud vastuväited kassatsioonkaebuse nõudmiste ja põhjenduste kohta ning asjaolud ja õigusnormid, millele menetlusosaline oma vastuväited rajab;
 
-4) menetlusosalise taotlused koos põhjendustega ja muude taotluse lahendamiseks vajalike andmetega;
+- 4) menetlusosalise taotlused koos põhjendustega ja muude taotluse lahendamiseks vajalike andmetega;
 
-5) kas menetlusosaline soovib kohtuistungist osa võtta, arvestades, et kui kohtuistungil asja arutamise soovi ei märgita, eeldatakse menetlusosalise nõusolekut kirjaliku menetlusega.
+- 5) kas menetlusosaline soovib kohtuistungist osa võtta, arvestades, et kui kohtuistungil asja arutamise soovi ei märgita, eeldatakse menetlusosalise nõusolekut kirjaliku menetlusega.
 
 (3) [Kehtetu]
 

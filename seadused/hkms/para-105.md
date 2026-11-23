@@ -12,6 +12,6 @@
 
 (6) Kui dokument tuleb ärakirjana kätte toimetada ja menetlusosaline ei ole esitanud nõutaval arvul ärakirju, maksab menetlusosaline ärakirjade või väljatrükkide tegemise eest riigilõivu.
 
-(7) Menetlusosalise poolt või tema eest asja läbivaatamiseks ette tasutud kulud tagastatakse enam tasutud ulatuses, samuti juhul, kui toiming, mille kulud ette tasuti, jääb tegemata või kui riik toiminguga seoses kulusid ei kanna. Ette tasutud kulud tagastatakse käesoleva seadustiku § 104 lõigetes 8–82 sätestatud korras.
+(7) Menetlusosalise poolt või tema eest asja läbivaatamiseks ette tasutud kulud tagastatakse enam tasutud ulatuses, samuti juhul, kui toiming, mille kulud ette tasuti, jääb tegemata või kui riik toiminguga seoses kulusid ei kanna. Ette tasutud kulud tagastatakse käesoleva seadustiku § 104 lõigetes 8–8² sätestatud korras.
 
 (8) Halduskohtu või ringkonnakohtu asja läbivaatamise kulude tagastamisest keeldumise määruse peale võib isik, kelle taotlus jäi rahuldamata, esitada määruskaebuse. Määruskaebuse kohta tehtud ringkonnakohtu määrus ei ole edasi kaevatav.

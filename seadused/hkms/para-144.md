@@ -4,4 +4,6 @@
 
 (2) Kohus võib jätta kaebuse läbi vaatamata, kui:
 
-1) kaebaja on taotlenud asjas istungi korraldamist ja kohtuistungile ei ilmu ei kaebaja ega tema esindaja või 2) kohus on kohustanud kaebajat ilmuma istungile isiklikult ja kaebaja ei ilmu kohtuistungile.
+- 1) kaebaja on taotlenud asjas istungi korraldamist ja kohtuistungile ei ilmu ei kaebaja ega tema esindaja või
+
+- 2) kohus on kohustanud kaebajat ilmuma istungile isiklikult ja kaebaja ei ilmu kohtuistungile.
