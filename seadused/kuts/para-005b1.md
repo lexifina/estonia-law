@@ -4,6 +4,4 @@
 
 (2) Euroopa Parlamendi ja nõukogu määruse (EL) 2021/887 artikli 6 tähenduses riikliku koordineerimiskeskuse ülesandeid täidab Eesti küberturvalisuse valdkonna tööstuse, tehnoloogia ja teadusuuringute koordineerimisüksus.
 
-(3) Käesoleva paragrahvi lõikes 2 nimetatud koordineerimisüksuse määrab ja tema ülesannete täitmise korra kehtestab
-
-määrusega.
+(3) Käesoleva paragrahvi lõikes 2 nimetatud koordineerimisüksuse määrab ja tema ülesannete täitmise korra kehtestab valdkonna eest vastutav minister määrusega.

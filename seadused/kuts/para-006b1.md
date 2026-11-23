@@ -4,6 +4,6 @@
 
 (2) Käesoleva paragrahvi lõikes 1 nimetatud teenuseosutaja juhatuse liige läbib korrapäraselt koolitusi eesmärgiga omandada piisavad teadmised ja oskused, et mõista ja hinnata riske, nende mõju teenuseosutaja teenustele ning riskide juhtimise viise.
 
-(3) Kui teenuseosutaja ei määra käesoleva paragrahvi lõikes 1 nimetatud juhatuse liiget, kohaldatakse käesolevas paragrahvis sätestatud kohustusi kõigile juhatuse liikmetele.
+(3) Kui teenuseosutaja ei määra käesoleva paragrahvi lõikes 1 nimetatud juhatuse liiget, kohaldatakse käesolevas paragrahvis sätestatud kohustusi kõigile juhatuse liikmetele.
 
 (4) Kui teenuseosutajal ei ole oma juriidilise vormi või struktuuri tõttu juhatuse liiget, kohaldatakse juhatuse liikme kohta käivat ka muule isikule, kes on seaduse, põhimääruse või muu õigusakti kohaselt määratud asjaomase teenuseosutaja juures juhtimisülesandeid täitma. Kui teenuseosutaja on füüsilisest isikust ettevõtja, kohaldatakse teenuseosutaja juhatuse liikme kohustuste kohta sätestatut asjaomasele füüsilisele isikule.

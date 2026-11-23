@@ -1,6 +1,6 @@
 # § 18⁵. Seaduse nõuete rikkumine piiriüleste elektrivoogude valdkonna üksuse seadusliku esindaja poolt
 
-(1) Euroopa Komisjoni delegeeritud määruse (EL) 2024/1366 artikli 15 lõike 1 alusel nimetatud seadusliku esindaja poolt samas määruses sätestatud nõuete rikkumise eest –
+(1) Euroopa Komisjoni delegeeritud määruse (EL) 2024/1366 artikli 15 lõike 1 alusel nimetatud seadusliku esindaja poolt samas määruses sätestatud nõuete rikkumise eest –
 
 karistatakse rahatrahviga kuni 300 trahviühikut.
 
