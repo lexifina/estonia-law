@@ -8,6 +8,4 @@
 
 (4) Finantskontode maksualase teabe hulka kuuluva tulu liik määratakse kindlaks ja nimetatud tulu liigi, kontojäägi ja kontoväärtuse suurus leitakse eurodes, arvestades tulumaksuseaduses sätestatut.
 
-(5) Finantskontode maksualase teabe deklaratsioonide vormid ning deklaratsioonide esitamise ja täitmise korra kehtestab
-
-määrusega.
+(5) Finantskontode maksualase teabe deklaratsioonide vormid ning deklaratsioonide esitamise ja täitmise korra kehtestab valdkonna eest vastutav minister määrusega.
