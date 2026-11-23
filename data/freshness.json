@@ -1,0 +1,39 @@
+{
+ "schema": "lexifina-trail-freshness/1",
+ "as_of": "2026-11-23",
+ "note": "How current this repository is, from its check trail (data/checks/): the day each official source was last read with every act held here checked against it. tools/checktrail.py reads the trail.",
+ "checked_against_official_source": "2026-11-23",
+ "totals": {
+  "acts": 13082,
+  "by_status": {
+   "current": 0,
+   "pending-change": 64,
+   "stale": 0,
+   "unverified": 13018,
+   "source-unavailable": 0
+  }
+ },
+ "sources": [
+  {
+   "source": "riigi-teataja",
+   "name": "Riigi Teataja (consolidated texts)",
+   "state": "available",
+   "last_successful_check": "2026-11-23",
+   "last_successful_contact": "2026-11-23"
+  },
+  {
+   "source": "riigikogu",
+   "name": "Riigikogu open data (drafts and adopted laws)",
+   "state": "available",
+   "last_successful_check": "2026-11-23",
+   "last_successful_contact": "2026-11-23"
+  },
+  {
+   "source": "eu-nim",
+   "name": "EU Publications Office (Estonia's measures transposing EU directives)",
+   "state": "available",
+   "last_successful_check": "2026-11-23",
+   "last_successful_contact": "2026-11-23"
+  }
+ ]
+}

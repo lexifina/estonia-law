@@ -1,0 +1,144 @@
+{
+ "generated": "2026-11-23T10:12:06Z",
+ "latest": {
+  "eu-nim|estonia/national/acts": {
+   "attempt": 1,
+   "audit": null,
+   "census": {
+    "checked": 4005,
+    "current": 4005,
+    "gone": 0,
+    "held": 4005,
+    "newest_at_source": "202608492",
+    "newest_in_repo": "202608296",
+    "pending": 0,
+    "records_as_of": "2026-11-16",
+    "repo": 4005,
+    "source_in_scope": 4028
+   },
+   "check_id": "ee-eu-nim-20261123T101202Z",
+   "commits": null,
+   "corpus": "estonia/national/acts",
+   "error": null,
+   "finished": "2026-11-23T10:12:05Z",
+   "flags": [],
+   "gap": 23,
+   "note": "records here as of 2026-11-16 (the EU's record of each measure; its text is in Riigi Teataja); first check: the list of measures was recorded as the baseline for the next check",
+   "outcome": "no-change",
+   "published": {
+    "added": [],
+    "changed": [],
+    "removed": []
+   },
+   "requests": 1,
+   "runner": "lawwatch estonia (3d9a470581)",
+   "schema": "lexifina-check/1",
+   "seen": {
+    "added": [],
+    "changed": [],
+    "removed": []
+   },
+   "snapshot": "2026-11-18",
+   "source": "eu-nim",
+   "started": "2026-11-23T10:12:02Z",
+   "unexplained": 0,
+   "verify": null
+  },
+  "riigi-teataja|estonia/national/acts": {
+   "attempt": 1,
+   "audit": null,
+   "census": {
+    "checked": 36,
+    "current": 24,
+    "gone": 0,
+    "held": 36,
+    "newest_at_source": "2026-11-18",
+    "newest_in_repo": "2026-11-01",
+    "out_of_scope": 961,
+    "pending": 12,
+    "repo": 36,
+    "source_in_scope": 997
+   },
+   "check_id": "ee-riigi-teataja-20261123T095348Z",
+   "commits": null,
+   "corpus": "estonia/national/acts",
+   "error": null,
+   "finished": "2026-11-23T10:11:15Z",
+   "flags": [
+    {
+     "detail": "12 items new or changed at the source over 7 days ago are not here yet",
+     "flag": "publish-lag"
+    }
+   ],
+   "gap": 21,
+   "note": "961 laws in force at Riigi Teataja have no consolidated text here: this repository holds 36 consolidated laws and the rest as the Riigikogu adopted them (riigikogu/; README, 'What it does not show'); not counted as gaps; laws read newest version first down to 2026-10-24 (1 page); first check: the laws' versions were recorded as the baseline for the next check",
+   "outcome": "no-change",
+   "published": {
+    "added": [],
+    "changed": [],
+    "removed": []
+   },
+   "requests": 77,
+   "runner": "lawwatch estonia (fbbac5e80c)",
+   "schema": "lexifina-check/1",
+   "seen": {
+    "added": [],
+    "changed": [],
+    "removed": []
+   },
+   "snapshot": "2026-11-18",
+   "source": "riigi-teataja",
+   "started": "2026-11-23T09:53:48Z",
+   "unexplained": 0,
+   "verify": null
+  },
+  "riigikogu|estonia/national/acts": {
+   "attempt": 1,
+   "audit": null,
+   "census": {
+    "checked": 9041,
+    "current": 8989,
+    "gone": 0,
+    "held": 9041,
+    "law_texts_here": 3401,
+    "law_texts_needed_missing": 380,
+    "laws_adopted_at_source": 4649,
+    "newest_at_source": "15-1101-oe",
+    "newest_in_repo": "15-1096-se",
+    "out_of_scope": 860,
+    "pending": 52,
+    "records_as_of": "2026-11-16",
+    "repo": 9041,
+    "source_in_scope": 9058
+   },
+   "check_id": "ee-riigikogu-20261123T101115Z",
+   "commits": null,
+   "corpus": "estonia/national/acts",
+   "error": null,
+   "finished": "2026-11-23T10:12:02Z",
+   "flags": [],
+   "gap": 457,
+   "note": "draft records here as of 2026-11-16; laws adopted at the source 4649, their adopted texts here 3401; 380 texts that laws in force need are missing (data/puuduvad-aktid.csv, listed); 860 other adopted laws are not here and no law in force needs them (PLAN.md counts only those): not counted as gaps; resolutions adopted 1065, texts here 811 (not compared); the API answered 404 for 1 entries, read around: term 8, position 565 of 1184 by number; first check: the draft register was recorded as the baseline for the next check",
+   "outcome": "no-change",
+   "published": {
+    "added": [],
+    "changed": [],
+    "removed": []
+   },
+   "requests": 16,
+   "runner": "lawwatch estonia (ee423df692)",
+   "schema": "lexifina-check/1",
+   "seen": {
+    "added": [],
+    "changed": [],
+    "removed": []
+   },
+   "snapshot": "2026-11-23",
+   "source": "riigikogu",
+   "started": "2026-11-23T10:11:15Z",
+   "unexplained": 0,
+   "verify": null
+  }
+ },
+ "schema": "lexifina-check/1"
+}

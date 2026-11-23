@@ -1,0 +1,108 @@
+{
+ "sources": [
+  {
+   "id": "riigi-teataja",
+   "kind": "legislation",
+   "name": {
+    "en": "Riigi Teataja (consolidated texts)",
+    "et": "Riigi Teataja (terviktekstid)"
+   },
+   "url": "https://www.riigiteataja.ee",
+   "reads": {
+    "en": "the number of laws in force, the laws whose consolidated version came into force since the last check (the public API's search, newest first), and the version list of each law held here",
+    "et": "kehtivate seaduste arv, seadused, mille terviktekst on pärast eelmist kontrolli jõustunud (avaliku API otsing, uusimad eespool), ja iga siin oleva seaduse redaktsioonide loetelu"
+   },
+   "folders": [
+    "ps/",
+    "seadused/"
+   ],
+   "schedule": "daily",
+   "state": "watched",
+   "corpora": [
+    "estonia/national/acts"
+   ],
+   "interval": 6.0,
+   "note": {
+    "en": "lists only, no texts, one request every 6 seconds (its API limits how many it answers); some texts here come from copies of Riigi Teataja's data (legalize-ee, lahend.ee: see PLAN.md)",
+    "et": "ainult loetelud, mitte tekstid, üks päring iga 6 sekundi järel (selle API piirab vastatavate päringute arvu); osa siinseid tekste on Riigi Teataja andmete koopiatest (legalize-ee, lahend.ee: vt PLAN.md)"
+   }
+  },
+  {
+   "id": "riigikogu",
+   "kind": "legislation",
+   "name": {
+    "en": "Riigikogu open data (drafts and adopted laws)",
+    "et": "Riigikogu avaandmed (eelnõud ja vastuvõetud seadused)"
+   },
+   "url": "https://api.riigikogu.ee",
+   "reads": {
+    "en": "the register of every draft of every Riigikogu term, with its stage, status and status day (api/volumes/drafts, about one request per term)",
+    "et": "iga Riigikogu koosseisu kõigi eelnõude register koos menetlusetapi, staatuse ja staatuse kuupäevaga (api/volumes/drafts, umbes üks päring koosseisu kohta)"
+   },
+   "folders": [
+    "riigikogu/"
+   ],
+   "schedule": "daily",
+   "state": "watched",
+   "corpora": [
+    "estonia/national/acts"
+   ],
+   "interval": 3.0,
+   "note": {
+    "en": "drafts and adopted laws, one request every 3 seconds (the API limits bursts); votes, transcripts and documents in riigikogu/ are not compared yet",
+    "et": "eelnõud ja vastuvõetud seadused, üks päring iga 3 sekundi järel (API piirab päringute hulka); riigikogu/ hääletusi, stenogramme ja dokumente veel ei võrrelda"
+   }
+  },
+  {
+   "id": "tartu",
+   "kind": "legislation",
+   "name": {
+    "en": "Tartu city council document register",
+    "et": "Tartu Linnavolikogu dokumendiregister"
+   },
+   "url": "https://info.raad.tartu.ee/dhs.nsf/volmaarused",
+   "reads": {
+    "en": "—",
+    "et": "—"
+   },
+   "folders": [
+    "kov/tartu/"
+   ],
+   "schedule": "none",
+   "state": "not-yet-watched",
+   "corpora": [
+    "estonia/national/acts"
+   ],
+   "note": {
+    "en": "its robots.txt disallows all automated reading (Disallow: /), so it is not read; Riigi Teataja publishes the council's regulations but not its decisions",
+    "et": "selle robots.txt keelab igasuguse automaatse lugemise (Disallow: /), seega seda ei loeta; Riigi Teataja avaldab volikogu määrused, kuid mitte otsuseid"
+   }
+  },
+  {
+   "id": "eu-nim",
+   "kind": "legislation",
+   "name": {
+    "en": "EU Publications Office (Estonia's measures transposing EU directives)",
+    "et": "Euroopa Liidu Väljaannete Talitus (Eesti meetmed EL-i direktiivide ülevõtmiseks)"
+   },
+   "url": "https://publications.europa.eu/webapi/rdf/sparql",
+   "reads": {
+    "en": "every national implementing measure Estonia notified, with its notification day and the day the record last changed (one SPARQL query)",
+    "et": "kõik Eesti teatatud siseriiklikud ülevõtmismeetmed koos teatamise kuupäeva ja kirje viimase muutmise kuupäevaga (üks SPARQL-päring)"
+   },
+   "folders": [
+    "eu-nim/"
+   ],
+   "schedule": "daily",
+   "state": "watched",
+   "corpora": [
+    "estonia/national/acts"
+   ],
+   "interval": 1.0,
+   "note": {
+    "en": "records of the measures only; their texts are in Riigi Teataja",
+    "et": "ainult meetmete kirjed; nende tekstid on Riigi Teatajas"
+   }
+  }
+ ]
+}
