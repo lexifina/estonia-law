@@ -6,12 +6,12 @@
 
 (3) Rikkumisest teavitamine on käesolevas seaduses sätestatud alustel rikkumisest teavitamine:
 
-1) asutusesisese teavituskanali kaudu;
+- 1) asutusesisese teavituskanali kaudu;
 
-2) teavitaja juhi kaudu;
+- 2) teavitaja juhi kaudu;
 
-3) asutusevälise teavituskanali kaudu või
+- 3) asutusevälise teavituskanali kaudu või
 
-4) käesolevas seaduses sätestatud tingimustel üldsusele avalikustades.
+- 4) käesolevas seaduses sätestatud tingimustel üldsusele avalikustades.
 
 (4) Asutusevälise teavituskanali võib rikkumisest teavitamiseks valida ka ilma asutusesisest kanalit eelnevalt kasutamata.

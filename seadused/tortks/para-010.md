@@ -6,6 +6,4 @@
 
 (3) Rikkumisteadet säilitatakse kolm aastat käesoleva seaduse § 11 lõikes 4 nimetatud tagasiside andmisest arvates.
 
-(4) Rikkumisteadete säilitamise korra kehtestab
-
-määrusega.
+(4) Rikkumisteadete säilitamise korra kehtestab Vabariigi Valitsus määrusega.
