@@ -16,4 +16,4 @@
 
 (5²) Valdkonna eest vastutav minister kehtestab määrusega täpsema korra ja nõuded ostuhinna tasumisele oksjonikeskkonnas makseteenuse pakkuja pakutava kohest laekumist võimaldava makseviisi kaudu.
 
-(6) Ostja taotlusel pikendab kohtutäitur käesoleva paragrahvi lõigetes 2 ja 21 sätestatud ostuhinna tasumise tähtaega täiendavalt 15 päeva võrra. Ostuhinna tasumise tähtaja pikendamise vormistab kohtutäitur otsusena. Otsus edastatakse võlgnikule, sissenõudjale, parima pakkumise teinud isikule ja isikutele, kelle õigused müüdavale asjale on kohtutäiturile teada.
+(6) Ostja taotlusel pikendab kohtutäitur käesoleva paragrahvi lõigetes 2 ja 2¹ sätestatud ostuhinna tasumise tähtaega täiendavalt 15 päeva võrra. Ostuhinna tasumise tähtaja pikendamise vormistab kohtutäitur otsusena. Otsus edastatakse võlgnikule, sissenõudjale, parima pakkumise teinud isikule ja isikutele, kelle õigused müüdavale asjale on kohtutäiturile teada.

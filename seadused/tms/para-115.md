@@ -18,4 +18,4 @@
 
 (6) Arestimisakti täitmise järel vabastatakse isiku konto aresti alt. Kui nõue rahuldatakse, tühistab kohtutäitur viivitamata kõik selle nõude täitmiseks koostatud arestimisaktid ja teavitab arestimisakti tühistamisest iga krediidi- ja makseasutust, kellele arestimisakt on saadetud.
 
-(7) Arestimisakti vormi ning elektroonilise arestimise korra ja tehnilised nõuded kehtestab valdkonna eest vastutav minister .
+(7) Arestimisakti vormi ning elektroonilise arestimise korra ja tehnilised nõuded kehtestab valdkonna eest vastutav minister.

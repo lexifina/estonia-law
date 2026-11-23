@@ -4,13 +4,13 @@
 
 (2) Kohtutäitur toimetab võlgnikule kätte täitmisteate kinnisasja väljaandmise kohta vähemalt 14 päeva enne kavandatavat sundtäitmist. Täitmisteatesse märgitakse muu hulgas:
 
-1) täitedokumendi vabatahtliku täitmise tähtaeg;
+- 1) täitedokumendi vabatahtliku täitmise tähtaeg;
 
-2) kohtutäituri õigus tähtaja möödumisel kinnisasi sundkorras ära võtta või võlgnik ja temaga koosolevad isikud välja tõsta;
+- 2) kohtutäituri õigus tähtaja möödumisel kinnisasi sundkorras ära võtta või võlgnik ja temaga koosolevad isikud välja tõsta;
 
-3) kinnisasja sundkorras vabastamise päev;
+- 3) kinnisasja sundkorras vabastamise päev;
 
-4) võlgniku kohustused anda kinnisasi välja, muretseda ruum vara paigutamiseks, teatada ruumi asukoht kohtutäiturile ning väljatõstmist takistavate asjaolude ilmnemisel teatada sellest kohtutäiturile.
+- 4) võlgniku kohustused anda kinnisasi välja, muretseda ruum vara paigutamiseks, teatada ruumi asukoht kohtutäiturile ning väljatõstmist takistavate asjaolude ilmnemisel teatada sellest kohtutäiturile.
 
 (3) Kui võlgnik ei täida täitedokumenti ettenähtud aja jooksul vabatahtlikult, võtab kohtutäitur kinnisasja võlgniku valdusest ära ja annab sissenõudja valdusse. Väljatõstmisele kuuluvad nii asjad kui ka isikud. Vajaduse korral kaasab kohtutäitur kinnisasja väljaandmiseks politsei.
 

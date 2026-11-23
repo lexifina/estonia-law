@@ -4,13 +4,13 @@
 
 (2) Täitekulude ettemaksu ei või nõuda füüsiliselt isikult, kes esitab:
 
-1) täitmiseks kohtulahendi, mille tegemisel on ta saanud menetluskulude tasumiseks riigi menetlusabi;
+- 1) täitmiseks kohtulahendi, mille tegemisel on ta saanud menetluskulude tasumiseks riigi menetlusabi;
 
-2) täitmiseks kriminaalmenetluses tehtud kohtuotsuse, millega on rahuldatud talle kuriteoga tekitatud kahju hüvitamise nõue;
+- 2) täitmiseks kriminaalmenetluses tehtud kohtuotsuse, millega on rahuldatud talle kuriteoga tekitatud kahju hüvitamise nõue;
 
-3) täitedokumendi elatise sissenõudmiseks;
+- 3) täitedokumendi elatise sissenõudmiseks;
 
-4) täitmiseks kohtulahendi, millega on välja mõistetud hüvitis tervisekahjustusega tekitatud töövõime kaotuse eest.
+- 4) täitmiseks kohtulahendi, millega on välja mõistetud hüvitis tervisekahjustusega tekitatud töövõime kaotuse eest.
 
 (3) Kui sissenõudja teatab, et ta ei nõustu täitekulude ettemaksuga, või ettemaks ei ole kindlaksmääratud tähtpäevaks arvelduskontole laekunud ja see raskendab täitemenetlust, võib kohtutäitur jätta täitetoimingu tegemata. Kohtutäitur informeerib sissenõudjat täitetoimingu tegemata jätmisest viivitamata.
 

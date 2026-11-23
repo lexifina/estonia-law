@@ -4,11 +4,11 @@
 
 (2) Arestimääruses tuleb muu hulgas näidata:
 
-1) andmed sissenõudja ja võlgniku kohta;
+- 1) andmed sissenõudja ja võlgniku kohta;
 
-2) aresti põhjus;
+- 2) aresti põhjus;
 
-3) aresti kestus, määrates aresti kestuse lõppenuks kas võlgniku vande andmise ajaga või määratud aresti ärakandmisega.
+- 3) aresti kestus, määrates aresti kestuse lõppenuks kas võlgniku vande andmise ajaga või määratud aresti ärakandmisega.
 
 (3) Arestimäärust ei ole vaja enne selle täitmist kätte toimetada. Kinnipidamisel antakse võlgnikule allkirja vastu kätte arestimääruse ärakiri.
 

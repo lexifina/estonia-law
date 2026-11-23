@@ -1,6 +1,6 @@
 # § 156¹. Kinnisasja omandamine laenuga
 
-(1) Kinnisasja omandamisel laenuga teatab ostja sellest kohtutäiturile käesoleva seadustiku §-s 931 sätestatud korras.
+(1) Kinnisasja omandamisel laenuga teatab ostja sellest kohtutäiturile käesoleva seadustiku §-s 93¹ sätestatud korras.
 
 (2) Kui ostja ja krediidiasutus lepivad kokku laenu tagatisena enampakkumisel müüdava kinnisasja koormamises hüpoteegiga ja kohesele sundtäitmisele allumise kokkuleppe kandmises kinnistusraamatusse, teatab ostja sellest samal ajal kui kinnisasja laenuga ostmise kavatsusest. Krediidiasutus teatab kohtutäiturile tehingu tõestamise aja, notari nime ja kontaktandmed.
 

@@ -8,6 +8,6 @@
 
 (4) Vara arestimine või arestimisest tulenev käsutuskeeld ei takista ega piira:
 
-1) väärtpaberituru seaduse §-s 2293 sätestatud kvalifitseeruvatest finantstehingutest tulenevate eseme üleandmise õiguste või kohustuste või makseõiguste või -kohustuste lõpetamisel või nende kohustuste täitmise kiirendamisel toimuva tasaarvestuse (edaspidi lõpetamisel toimuv tasaarvestus) kohaldamist vastavalt tasaarvestuskokkuleppe või finantstagatise kokkuleppe tingimustele;
+- 1) väärtpaberituru seaduse §-s 229³ sätestatud kvalifitseeruvatest finantstehingutest tulenevate eseme üleandmise õiguste või kohustuste või makseõiguste või -kohustuste lõpetamisel või nende kohustuste täitmise kiirendamisel toimuva tasaarvestuse (edaspidi lõpetamisel toimuv tasaarvestus) kohaldamist vastavalt tasaarvestuskokkuleppe või finantstagatise kokkuleppe tingimustele;
 
-2) finantstagatise kokkuleppest või väärtpaberituru seaduse § 2294 lõikes 1 nimetatud tasaarvestuskokkulepet või sellega hõlmatud kvalifitseeruvat finantstehingut tagavast tagatiskokkuleppest tulenevate õiguste kasutamist või kohustuste täitmist vastavalt tagatiskokkuleppe tingimustele.
+- 2) finantstagatise kokkuleppest või väärtpaberituru seaduse § 229⁴ lõikes 1 nimetatud tasaarvestuskokkulepet või sellega hõlmatud kvalifitseeruvat finantstehingut tagavast tagatiskokkuleppest tulenevate õiguste kasutamist või kohustuste täitmist vastavalt tagatiskokkuleppe tingimustele.

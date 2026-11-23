@@ -6,7 +6,7 @@
 
 (1²) Kui sissenõude pööramine võlgniku muule varale ei ole viinud või eeldatavalt ei vii nõude täielikule rahuldamisele, võib sõltumata võlgniku suhtes läbiviidavate täitemenetluste arvust arestida ühes kuus kuni 20 protsenti sissetulekust, mis ei ole suurem kui käesoleva paragrahvi lõikes 1 nimetatud sissetulek, millest on maha arvatud Statistikaameti poolt avaldatud arvestuslik elatusmiinimum. Sissetulekut ei arestita, kui see jääb alla Statistikaameti poolt avaldatud arvestusliku elatusmiinimumi. Käesolevas paragrahvis sätestatut ei kohaldata lapse elatisnõude täitmisele.
 
-(1³) Kui võlgnikul on ülalpeetavaid, arvutatakse käesoleva paragrahvi lõikes 12 nimetatud 20 protsenti võlgniku sissetulekust, millest on maha arvatud käesoleva paragrahvi lõike 2 kohaselt mittearestitav summa iga ülalpeetava kohta ja Statistikaameti poolt avaldatud arvestuslik elatusmiinimum.
+(1³) Kui võlgnikul on ülalpeetavaid, arvutatakse käesoleva paragrahvi lõikes 1² nimetatud 20 protsenti võlgniku sissetulekust, millest on maha arvatud käesoleva paragrahvi lõike 2 kohaselt mittearestitav summa iga ülalpeetava kohta ja Statistikaameti poolt avaldatud arvestuslik elatusmiinimum.
 
 (1⁴) Statistikaamet avaldab väljaandes Ametlikud Teadaanded iga aasta 1. veebruariks möödunud aasta andmete alusel arvestusliku elatusmiinimumi summa eurodes.
 

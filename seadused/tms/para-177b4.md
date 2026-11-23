@@ -2,13 +2,13 @@
 
 (1) Kohus vaatab kohtutäituri avalduse võlgniku õiguste piiramise, lubade kehtivuse peatamise või dokumentide kehtetuks tunnistamise ja nende andmise keelamise kohta läbi hagita menetluses.
 
-(2) Kohus ei piira võlgniku õigusi, ei peata lubade kehtivust, ei tunnista dokumente kehtetuks ega keela temale nende andmist, kui võlgnik on pärast kohtutäituri poolt käesoleva seadustiku § 1773 lõikes 1 nimetatud avalduse esitamist:
+(2) Kohus ei piira võlgniku õigusi, ei peata lubade kehtivust, ei tunnista dokumente kehtetuks ega keela temale nende andmist, kui võlgnik on pärast kohtutäituri poolt käesoleva seadustiku § 177³ lõikes 1 nimetatud avalduse esitamist:
 
-1) asunud elatisnõuet täitma ning on tasunud vähemalt kahe kuu elatise;
+- 1) asunud elatisnõuet täitma ning on tasunud vähemalt kahe kuu elatise;
 
-2) sõlminud sissenõudjaga elatise tasumiseks maksegraafiku kokkuleppe ning on tasunud vähemalt ühe kuu elatise;
+- 2) sõlminud sissenõudjaga elatise tasumiseks maksegraafiku kokkuleppe ning on tasunud vähemalt ühe kuu elatise;
 
-3) põhjendanud, et õiguse piiramine, loa kehtivuse peatamine või dokumendi kehtetuks tunnistamine oleks tema suhtes ebaõiglane, eelkõige juhul, kui elatise tasumata jätmiseks esines mõjuv põhjus või kui õiguse piiramine, loa kehtivuse peatamine või dokumendi kehtetuks tunnistamine ning nende andmise keelamine takistaks oluliselt võlgniku ja tema ülalpeetavate toimetulekut.
+- 3) põhjendanud, et õiguse piiramine, loa kehtivuse peatamine või dokumendi kehtetuks tunnistamine oleks tema suhtes ebaõiglane, eelkõige juhul, kui elatise tasumata jätmiseks esines mõjuv põhjus või kui õiguse piiramine, loa kehtivuse peatamine või dokumendi kehtetuks tunnistamine ning nende andmise keelamine takistaks oluliselt võlgniku ja tema ülalpeetavate toimetulekut.
 
 (3) Kohus toimetab võlgnikule ja kohtutäiturile kätte võlgniku õiguse piiramise, loa kehtivuse peatamise, dokumendi kehtetuks tunnistamise ning nende andmise keelamise kohtumääruse.
 

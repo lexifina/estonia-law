@@ -2,25 +2,25 @@
 
 (1) Kohtutäitur teeb otsuse kohustuse täitmiseks ning sunniraha määramise hoiatuse:
 
-1) käesoleva seaduse §-s 26 sätestatud kohustuse täitmata jätmise korral teavet andma kohustatud isikule;
+- 1) käesoleva seaduse §-s 26 sätestatud kohustuse täitmata jätmise korral teavet andma kohustatud isikule;
 
-2) võlgniku suhtes kohustatud kolmandale isikule, kui viimane keeldub alusetult arestimisakti täitmisest või ei täida seda nõuetekohaselt.
+- 2) võlgniku suhtes kohustatud kolmandale isikule, kui viimane keeldub alusetult arestimisakti täitmisest või ei täida seda nõuetekohaselt.
 
 (2) Käesoleva paragrahvi lõikes 1 nimetatud kirjalik hoiatus peab sisaldama:
 
-1) adressaadi ees- ja perekonnanime ning aadressi või juriidilise isiku nime ja postiaadressi;
+- 1) adressaadi ees- ja perekonnanime ning aadressi või juriidilise isiku nime ja postiaadressi;
 
-2) otsust, mille täitmist taotletakse;
+- 2) otsust, mille täitmist taotletakse;
 
-3) kuupäeva, milleni on aega otsus vabatahtlikult täita;
+- 3) kuupäeva, milleni on aega otsus vabatahtlikult täita;
 
-4) kui otsus sisaldab kohustust teatud teost hoiduda, ei ole kuupäeva vaja märkida;
+- 4) kui otsus sisaldab kohustust teatud teost hoiduda, ei ole kuupäeva vaja märkida;
 
-5) sunniraha suurust, mida rakendatakse otsuse täitmata jätmise korral;
+- 5) sunniraha suurust, mida rakendatakse otsuse täitmata jätmise korral;
 
-6) hoiatuse teinud kohtutäituri nime;
+- 6) hoiatuse teinud kohtutäituri nime;
 
-7) hoiatuse koostamise kuupäeva.
+- 7) hoiatuse koostamise kuupäeva.
 
 (3) Hoiatusega otsuse vabatahtlikuks täitmiseks antud tähtaeg peab võimaldama adressaadil kohustus täita.
 
@@ -38,8 +38,8 @@
 
 (10) Sunniraha ei rakendata, kui:
 
-1) käesoleva paragrahvi lõikes 7 sätestatud sunniraha rakendamise alused on ära langenud;
+- 1) käesoleva paragrahvi lõikes 7 sätestatud sunniraha rakendamise alused on ära langenud;
 
-2) otsuse aluseks olnud õigusnorm on tunnistatud kehtetuks;
+- 2) otsuse aluseks olnud õigusnorm on tunnistatud kehtetuks;
 
-3) sunniraha rakendamine lükatakse edasi.
+- 3) sunniraha rakendamine lükatakse edasi.

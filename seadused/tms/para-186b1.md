@@ -6,7 +6,7 @@
 
 (3) Kohustatud isikule võib trahvi määrata üksnes siis, kui talle on tehtud trahvihoiatus, välja arvatud juhul, kui eelnev hoiatamine ei olnud võimalik või mõistlik.
 
-(4) Trahvisumma määramisel lähtutakse tsiviilkohtumenetluse seadustiku §-st 49722.
+(4) Trahvisumma määramisel lähtutakse tsiviilkohtumenetluse seadustiku §-st 497²².
 
 (5) Kohustuse rikkumise eest isikule määratud trahv ei vabasta teda kohustuse täitmisest. Kui kohustust pärast trahvi määramist ei täideta, võib määrata uue trahvi.
 

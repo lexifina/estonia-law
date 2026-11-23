@@ -6,12 +6,12 @@
 
 (2¹) Käesoleva paragrahvi lõikes 2 sätestatut ei kohaldata:
 
-1) finantstagatise kokkuleppe sõlmimisele, finantstagatise seadmisele, täiendamisele või asendamisele või finantstagatise eseme käsutamisele;
+- 1) finantstagatise kokkuleppe sõlmimisele, finantstagatise seadmisele, täiendamisele või asendamisele või finantstagatise eseme käsutamisele;
 
-2) tagatislepingu sõlmimisele või tagatise andmisele, et tagada väärtpaberituru seaduse § 2294 lõikes 1 nimetatud tasaarvestuskokkulepe või sellega hõlmatud kvalifitseeruv finantstehing, või sellise tagatislepingu eseme käsutamisele;
+- 2) tagatislepingu sõlmimisele või tagatise andmisele, et tagada väärtpaberituru seaduse § 229⁴ lõikes 1 nimetatud tasaarvestuskokkulepe või sellega hõlmatud kvalifitseeruv finantstehing, või sellise tagatislepingu eseme käsutamisele;
 
-3) väärtpaberituru seaduse §-s 2292 nimetatud lõpetamisel toimuva tasaarvestuse kohaldamisele.
+- 3) väärtpaberituru seaduse §-s 229² nimetatud lõpetamisel toimuva tasaarvestuse kohaldamisele.
 
 (3) Võlgniku lähikondsed määratakse pankrotiseaduse § 117 kohaselt.
 
-(4) Tasaarvestuskokkulepet väärtpaberituru seaduse § 2294 lõike 1 tähenduses, väärtpaberituru seaduse §-s 2293 nimetatud kvalifitseeruvate finantstehingute lisamist tasaarvestuskokkuleppesse ning lõpetamisel toimuva tasaarvestuse kohaldamist väärtpaberituru seaduse § 2292 tähenduses ei saa tagasi võita, välja arvatud juhul, kui on ilmne, et tehingu ainuke eesmärk oli kahjustada teisi võlausaldajaid ja tehingu teine pool oli sellest teadlik ning tehing oli tehtud kuue kuu jooksul enne täitemenetluse alustamist.
+(4) Tasaarvestuskokkulepet väärtpaberituru seaduse § 229⁴ lõike 1 tähenduses, väärtpaberituru seaduse §-s 229³ nimetatud kvalifitseeruvate finantstehingute lisamist tasaarvestuskokkuleppesse ning lõpetamisel toimuva tasaarvestuse kohaldamist väärtpaberituru seaduse § 229² tähenduses ei saa tagasi võita, välja arvatud juhul, kui on ilmne, et tehingu ainuke eesmärk oli kahjustada teisi võlausaldajaid ja tehingu teine pool oli sellest teadlik ning tehing oli tehtud kuue kuu jooksul enne täitemenetluse alustamist.

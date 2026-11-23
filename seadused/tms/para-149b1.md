@@ -10,6 +10,6 @@
 
 (4) Kümne päeva jooksul käesoleva paragrahvi lõikes 1 nimetatud teate saamisest arvates peab korteriühistu esitama kohtutäiturile korteriühistu kehtiva majanduskava ja tõendi järgmiste andmetega:
 
-1) korteriomandist tuleneva sellise nõude suurus, mis on muutunud sissenõutavaks kuni kolm kuud enne keelumärke kinnistusraamatusse kandmist, ja selle nõude põhjendatuse kontrollimist võimaldavad andmed;
+- 1) korteriomandist tuleneva sellise nõude suurus, mis on muutunud sissenõutavaks kuni kolm kuud enne keelumärke kinnistusraamatusse kandmist, ja selle nõude põhjendatuse kontrollimist võimaldavad andmed;
 
-2) majandamiskulude edasise arvestuse alus.
+- 2) majandamiskulude edasise arvestuse alus.

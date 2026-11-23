@@ -2,15 +2,15 @@
 
 (1) Kohtutäitur kannab iga täitetoimingu kohta täitetoimikusse järgmised andmed:
 
-1) täitetoimingu tegemise aeg ja koht;
+- 1) täitetoimingu tegemise aeg ja koht;
 
-2) täitetoimingu sisu lühikirjeldus;
+- 2) täitetoimingu sisu lühikirjeldus;
 
-3) täitetoimingu juures viibinud isikute nimed;
+- 3) täitetoimingu juures viibinud isikute nimed;
 
-4) täitetoimingu juures viibinud isikute allkirjad ja märkus, et kirjele on alla kirjutatud pärast selle ettelugemist või kirjega tutvumist ja kirjega nõustumist;
+- 4) täitetoimingu juures viibinud isikute allkirjad ja märkus, et kirjele on alla kirjutatud pärast selle ettelugemist või kirjega tutvumist ja kirjega nõustumist;
 
-5) kohtutäituri allkiri.
+- 5) kohtutäituri allkiri.
 
 (2) Kui täitetoimingu juures viibiv isik ei saa või ei taha kirjele alla kirjutada, tuleb toimikusse märkida allkirjast loobumise põhjus.
 

@@ -4,13 +4,13 @@
 
 (2) Enampakkumise aktis märgitakse muu hulgas järgmised andmed:
 
-1) müüdava asja andmed;
+- 1) müüdava asja andmed;
 
-2) ostja nimi, isiku- või registrikood;
+- 2) ostja nimi, isiku- või registrikood;
 
-3) parima pakkumise hind ning tasumise viis ja tähtaeg;
+- 3) parima pakkumise hind ning tasumise viis ja tähtaeg;
 
-4) asja üleandmise tingimused.
+- 4) asja üleandmise tingimused.
 
 (3) Kui asi tuleb registris vormistada ostja nimele, toimub see enampakkumise akti ärakirja alusel.
 

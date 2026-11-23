@@ -12,8 +12,8 @@
 
 (4) Tagatisraha ei pea maksma:
 
-1) riik ja kohaliku omavalitsuse üksus ning Eesti Pank;
+- 1) riik ja kohaliku omavalitsuse üksus ning Eesti Pank;
 
-2) sissenõudja ja pandipidaja, kui nende nõue katab nõutava tagatisraha.
+- 2) sissenõudja ja pandipidaja, kui nende nõue katab nõutava tagatisraha.
 
 (5) Ostja makstud tagatisraha arvatakse ostuhinna sisse, teistele enampakkumisest osavõtnutele tagastatakse see enampakkumise päevale järgneval tööpäeval.

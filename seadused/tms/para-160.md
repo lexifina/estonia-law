@@ -6,6 +6,6 @@
 
 (1²) Käesoleva paragrahvi lõigetes 1 ja 2 nimetatud juhul loetakse omaniku sissekandmise avaldus ostja esitatud avalduseks. Ostja on kohustatud tasuma riigilõivu riigilõivuseaduses sätestatud ulatuses.
 
-(2) Õiguste kustutamise kande tegemiseks ei ole vaja kustutatavate õiguste omajate nõusolekut kinnistusraamatuseaduse § 341 mõttes.
+(2) Õiguste kustutamise kande tegemiseks ei ole vaja kustutatavate õiguste omajate nõusolekut kinnistusraamatuseaduse § 34¹ mõttes.
 
 (3) Kui ostja taotleb enne enda omanikuna kinnistusraamatusse kandmist õiguse sissekandmist enampakutud kinnisasjale või nõustub sellega, ei või sel alusel kannet teha enne ostja omanikuna kinnistusraamatusse kandmist.

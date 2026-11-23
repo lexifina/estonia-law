@@ -2,23 +2,23 @@
 
 (1) Kohtutäitur ei või täitemenetlust läbi viia ja peab ennast otsusega taandama, kui ta on:
 
-1) võlgnik või sissenõudja või tema esindaja, välja arvatud juhul, kui kohtutäitur nõuab sisse täitekulu;
+- 1) võlgnik või sissenõudja või tema esindaja, välja arvatud juhul, kui kohtutäitur nõuab sisse täitekulu;
 
-2) võlgniku või sissenõudja alaneja või üleneja sugulane või õde, poolõde, vend või poolvend või ta on või on olnud abielus või registreeritud kooselus võlgniku või sissenõudja õe, poolõe, venna või poolvennaga;
+- 2) võlgniku või sissenõudja alaneja või üleneja sugulane või õde, poolõde, vend või poolvend või ta on või on olnud abielus või registreeritud kooselus võlgniku või sissenõudja õe, poolõe, venna või poolvennaga;
 
-3) võlgniku või sissenõudja võõras- või kasuvanem, võõras- või kasulaps;
+- 3) võlgniku või sissenõudja võõras- või kasuvanem, võõras- või kasulaps;
 
-4) võlgniku või sissenõudja lapsendaja või lapsendatu;
+- 4) võlgniku või sissenõudja lapsendaja või lapsendatu;
 
-5) võlgniku või sissenõudja abikaasa, võlgniku või sissenõudja registreeritud elukaaslane, võlgniku või sissenõudjaga püsivalt koos elav isik, sealhulgas pärast abielu, registreeritud kooselu või püsiva kooselu lõppemist;
+- 5) võlgniku või sissenõudja abikaasa, võlgniku või sissenõudja registreeritud elukaaslane, võlgniku või sissenõudjaga püsivalt koos elav isik, sealhulgas pärast abielu, registreeritud kooselu või püsiva kooselu lõppemist;
 
-6) otse või kaudselt huvitatud sundtäitmisest või kui on muid asjaolusid, mis tekitavad kahtlust tema erapooletuses.
+- 6) otse või kaudselt huvitatud sundtäitmisest või kui on muid asjaolusid, mis tekitavad kahtlust tema erapooletuses.
 
 (1¹) Kohtutäitur peab ennast taandama ka juhul, kui menetlusosaliseks või täitetoimingust kasu saajaks on tema lähikondne pankrotiseaduse § 117 lõike 1 tähenduses, tema büroo töötaja või teine kohtutäitur, kellega ta peab ühist bürood. Täitetoimingu üleandmine kohtutäituri abile või asendajale ei ole vabandav asjaolu.
 
 (2) Käesoleva paragrahvi lõike 1 punktis 6 nimetatud juhul ei loeta erapoolikust põhjustavaks asjaoluks kohtutäituri tasu sissenõudmist.
 
-(3) Käesoleva paragrahvi lõigetes 1 ja 11 nimetatud alustel võib esitada kohtutäituri põhistatud taandamise taotluse täitemenetluse osaline või tema esindaja. Taotluse võib esitada viivitamata pärast seda, kui on saadud teada taandamise aluseks olevast asjaolust.
+(3) Käesoleva paragrahvi lõigetes 1 ja 1¹ nimetatud alustel võib esitada kohtutäituri põhistatud taandamise taotluse täitemenetluse osaline või tema esindaja. Taotluse võib esitada viivitamata pärast seda, kui on saadud teada taandamise aluseks olevast asjaolust.
 
 (4) Kui kohtutäitur taotluse alusel ei taandu, võib taotluse esitaja taandamisest keeldumise otsuse kättetoimetamisest alates kümne päeva jooksul esitada kohtutäituri taandamise avalduse kohtule.
 

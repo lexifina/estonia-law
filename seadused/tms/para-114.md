@@ -2,13 +2,13 @@
 
 (1) Nõude arestimisaktis peavad olema märgitud järgmised andmed:
 
-1) sissenõutava summa suurus;
+- 1) sissenõutava summa suurus;
 
-2) arestitava nõude üldine kirjeldus;
+- 2) arestitava nõude üldine kirjeldus;
 
-3) viide täitedokumendile;
+- 3) viide täitedokumendile;
 
-4) korraldus täita kohustus võlgniku asemel kohtutäiturile.
+- 4) korraldus täita kohustus võlgniku asemel kohtutäiturile.
 
 (2) Tulevase nõude arestimine tuleb arestimisaktis märkida.
 

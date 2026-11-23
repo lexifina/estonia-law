@@ -2,11 +2,11 @@
 
 (1) Kohtutäitur lükkab tagasi tühise pakkumise. Tühiseks pakkumiseks loetakse eelkõige:
 
-1) pakkumist, mis ei kata alghinda;
+- 1) pakkumist, mis ei kata alghinda;
 
-2) selle isiku pakkumist, kes ei tohi enampakkumises osaleda;
+- 2) selle isiku pakkumist, kes ei tohi enampakkumises osaleda;
 
-3) tingimuslikku pakkumist.
+- 3) tingimuslikku pakkumist.
 
 (2) Kohtutäitur võib tagasi lükata enampakkumise nurjamise kavatsusega tehtud pakkumise.
 
