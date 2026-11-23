@@ -9,8 +9,8 @@
    },
    "url": "https://www.riigiteataja.ee",
    "reads": {
-    "en": "the number of laws in force, the laws whose consolidated version came into force since the last check (the public API's search, newest first), and the version list of each law held here",
-    "et": "kehtivate seaduste arv, seadused, mille terviktekst on pärast eelmist kontrolli jõustunud (avaliku API otsing, uusimad eespool), ja iga siin oleva seaduse redaktsioonide loetelu"
+    "en": "the number of laws in force, the laws whose consolidated version came into force since the last check (the public API's search, newest first), the version list of each law held here, and the XML of each held law's version in force and of the versions after the one held (with the amending acts they name); for the audit, a few versions' plain text",
+    "et": "kehtivate seaduste arv, seadused, mille terviktekst on pärast eelmist kontrolli jõustunud (avaliku API otsing, uusimad eespool), iga siin oleva seaduse redaktsioonide loetelu ning iga siin oleva seaduse kehtiva redaktsiooni ja hoitavale järgnevate redaktsioonide XML (koos neis nimetatud muutmisaktidega); auditiks mõne redaktsiooni lihttekst"
    },
    "folders": [
     "ps/",
@@ -22,9 +22,13 @@
     "estonia/national/acts"
    ],
    "interval": 6.0,
+   "allow": [
+    "ps/",
+    "seadused/"
+   ],
    "note": {
-    "en": "lists only, no texts, one request every 6 seconds (its API limits how many it answers); some texts here come from copies of Riigi Teataja's data (legalize-ee, lahend.ee: see PLAN.md)",
-    "et": "ainult loetelud, mitte tekstid, üks päring iga 6 sekundi järel (selle API piirab vastatavate päringute arvu); osa siinseid tekste on Riigi Teataja andmete koopiatest (legalize-ee, lahend.ee: vt PLAN.md)"
+    "en": "one request every 6 seconds (its API limits how many it answers); texts here that came from copies of Riigi Teataja's data (legalize-ee, lahend.ee: see PLAN.md) are set to Riigi Teataja's own XML, as tools/build.py writes it, by correction commits",
+    "et": "üks päring iga 6 sekundi järel (selle API piirab vastatavate päringute arvu); siinsed tekstid, mis pärinevad Riigi Teataja andmete koopiatest (legalize-ee, lahend.ee: vt PLAN.md), viiakse parandusega vastavusse Riigi Teataja enda XML-iga, nagu tools/build.py selle kirjutab"
    }
   },
   {
@@ -48,9 +52,12 @@
     "estonia/national/acts"
    ],
    "interval": 3.0,
+   "allow": [
+    "riigikogu/eelnoud/"
+   ],
    "note": {
-    "en": "drafts and adopted laws, one request every 3 seconds (the API limits bursts); votes, transcripts and documents in riigikogu/ are not compared yet",
-    "et": "eelnõud ja vastuvõetud seadused, üks päring iga 3 sekundi järel (API piirab päringute hulka); riigikogu/ hääletusi, stenogramme ja dokumente veel ei võrrelda"
+    "en": "drafts and adopted laws, one request every 3 seconds (the API limits bursts); votes, transcripts and documents in riigikogu/ are not compared yet; the adopted texts of new laws are not written here yet (the tool that read them is gone)",
+    "et": "eelnõud ja vastuvõetud seadused, üks päring iga 3 sekundi järel (API piirab päringute hulka); riigikogu/ hääletusi, stenogramme ja dokumente veel ei võrrelda; uute seaduste vastuvõetud tekste siia veel ei kirjutata (neid lugenud tööriist on kadunud)"
    }
   },
   {
@@ -99,6 +106,9 @@
     "estonia/national/acts"
    ],
    "interval": 1.0,
+   "allow": [
+    "eu-nim/"
+   ],
    "note": {
     "en": "records of the measures only; their texts are in Riigi Teataja",
     "et": "ainult meetmete kirjed; nende tekstid on Riigi Teatajas"
