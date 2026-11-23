@@ -18,6 +18,22 @@
 
   - 2. jagu Varasuhete liigid
 
+    - 1. jaotis Varaühisus
+
+      - 1. alljaotis Üldsätted
+
+      - 2. alljaotis Ühisvara valitsemine
+
+      - 3. alljaotis Ühisvara jagamine
+
+    - 2. jaotis Vara juurdekasvu tasaarvestus
+
+      - 1. alljaotis Üldsätted
+
+      - 2. alljaotis Abikaasade vastastikused õigused vara juurdekasvu tasaarvestuse varasuhte lõppemise korral
+
+    - 3. jaotis Varalahusus
+
   - 3. jagu Abieluvaraleping
 
 - 5. peatükk ABIELU LÕPPEMINE
