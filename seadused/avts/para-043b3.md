@@ -8,6 +8,4 @@
 
 (4) Ainult organisatsiooni sisemise töökorralduse vajadusteks või asutustevaheliseks dokumentide menetlemiseks peetavat ja riigi infosüsteemi mittekuuluvat andmekogu ei pea käesoleva paragrahvi lõikes 3 sätestatud korras kooskõlastama.
 
-(5) Riigi Infosüsteemi Ametiga ning Andmekaitse Inspektsiooniga kooskõlastamise täpsemad tingimused ja kord ning vajadusel andmekogu asutamise ja pidamise tehnilised ja korralduslikud nõuded sätestatakse käesoleva seaduse § 43⁹ lõike 1 punktis 6 nimetatud kindlustavat süsteemi
-
-.
+(5) Riigi Infosüsteemi Ametiga ning Andmekaitse Inspektsiooniga kooskõlastamise täpsemad tingimused ja kord ning vajadusel andmekogu asutamise ja pidamise tehnilised ja korralduslikud nõuded sätestatakse käesoleva seaduse § 43⁹ lõike 1 punktis 6 nimetatud kindlustavat süsteemi kehtestavas määruses.

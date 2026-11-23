@@ -6,6 +6,6 @@
 
 (3) Teabenõuet ei pea registreerima, kui:
 
-1) see on anonüümne;
+- 1) see on anonüümne;
 
-2) see on esitatud suuliselt või elektrooniliselt ja täidetakse viivitamata.
+- 2) see on esitatud suuliselt või elektrooniliselt ja täidetakse viivitamata.

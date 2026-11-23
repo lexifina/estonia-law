@@ -2,25 +2,25 @@
 
 (1) Teabevaldaja täidab teabenõude teabenõudja poolt soovitud viisil, väljastades teabe:
 
-1) teisaldatavale andmekandjale digitaalselt või teabenõudes märgitud elektronpostiaadressil;
+- 1) teisaldatavale andmekandjale digitaalselt või teabenõudes märgitud elektronpostiaadressil;
 
-2) dokumendi koopia või ärakirjana paberkandjal kas vahetult teabenõudjale või tema postiaadressil;
+- 2) dokumendi koopia või ärakirjana paberkandjal kas vahetult teabenõudjale või tema postiaadressil;
 
-3) faksi teel;
+- 3) faksi teel;
 
-4) suuliselt;
+- 4) suuliselt;
 
-5) tutvumiseks teabevaldaja juures;
+- 5) tutvumiseks teabevaldaja juures;
 
-6) muul viisil, arvestades teabekandja tüüpi.
+- 6) muul viisil, arvestades teabekandja tüüpi.
 
 (2) Teabevaldaja võib keelduda soovitud viisil teabenõude täitmisest, kui:
 
-1) selleks puuduvad tehnilised võimalused;
+- 1) selleks puuduvad tehnilised võimalused;
 
-2) seda ei võimalda teabekandja tüüp;
+- 2) seda ei võimalda teabekandja tüüp;
 
-3) teabe suuliselt edastamine takistab ajalise kestuse tõttu ülemääraselt teabevaldaja põhiülesannete täitmist.
+- 3) teabe suuliselt edastamine takistab ajalise kestuse tõttu ülemääraselt teabevaldaja põhiülesannete täitmist.
 
 (3) Teabevaldaja peab teabenõudja taotlusel väljastama dokumentide koopiad paberkandjal, kui teabekandja tüüp ja teabenõudja sideandmed seda võimaldavad ja kui teave ei ole avalikustatud.
 
@@ -28,9 +28,9 @@
 
 (5) Suuliselt väljastatakse teave üksnes juhul, kui:
 
-1) soovitakse andmeid teabenõudja esitatud avalduse, märgukirja või muu taotluse menetluse kohta;
+- 1) soovitakse andmeid teabenõudja esitatud avalduse, märgukirja või muu taotluse menetluse kohta;
 
-2) soovitakse andmeid selle kohta, kas teabevaldaja valduses on teabenõudja poolt soovitud teave.
+- 2) soovitakse andmeid selle kohta, kas teabevaldaja valduses on teabenõudja poolt soovitud teave.
 
 (6) Teabenõude suulisel täitmisel ei ole teabenõude täitja kohustatud dokumente ette lugema.
 

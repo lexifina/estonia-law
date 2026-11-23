@@ -2,17 +2,19 @@
 
 (1) Andmekogude pidamiseks kehtestab Vabariigi Valitsus määrusega järgmised kindlustavad süsteemid:
 
-1) ;
+- 1) klassifikaatorite süsteem;
 
-2) ;
+- 2) geodeetiline süsteem;
 
-3) ;
+- 3) aadressiandmete süsteem;
 
-5) ;
+- 4) [Kehtetu]
 
-6) .
+- 5) infosüsteemide andmevahetuskiht;
 
-(2) võib käesoleva paragrahvi lõikes 1 nimetatud kindlustavate süsteemide ja nende rakendamise korra kehtestamise õiguse anda asjaomasele ministrile.
+- 6) riigi infosüsteemi haldussüsteem.
+
+(2) Vabariigi Valitsus võib käesoleva paragrahvi lõikes 1 nimetatud kindlustavate süsteemide ja nende rakendamise korra kehtestamise õiguse anda asjaomasele ministrile.
 
 (3) Riigi infosüsteemi kindlustavate süsteemide kasutamine on kohustuslik kõigi riigi ja kohaliku omavalitsuse andmekogude pidamisel. Käesoleva seaduse § 43³ lõikes 4 nimetatud andmekogu pidamiseks on kohustuslikud käesoleva paragrahvi lõike 1 punktides 1, 2 ja 6 nimetatud kindlustavad süsteemid.
 

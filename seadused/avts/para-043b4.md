@@ -4,11 +4,7 @@
 
 (1¹) Andmehalduse valdkonda koordineerib Statistikaamet.
 
-(1²) Andmehalduse täpsemad nõuded ja tingimused sätestab
-
-või tema
-
-määrusega.
+(1²) Andmehalduse täpsemad nõuded ja tingimused sätestab Vabariigi Valitsus või tema volitatud minister määrusega.
 
 (2) Andmekogu vastutav töötleja võib volitada andmete töötlemise ja andmekogu majutamise teisele riigi- või kohaliku omavalitsuse asutusele, avalik-õiguslikule juriidilisele isikule või hanke- või halduslepingu alusel eraõiguslikule isikule vastutava töötleja poolt ettenähtud ulatuses.
 
