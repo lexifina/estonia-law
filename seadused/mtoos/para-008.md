@@ -6,12 +6,12 @@
 
 (3) Meretöölepingu sõlmimiseks võib reeder laevapere liikmeks soovijalt nõuda dokumente ja andmeid, mille vastu tal on õigustatud huvi, eelkõige:
 
-1) meremehe teenistusraamatut või meresõidutunnistust ja vajaduse korral muud isikut tõendavat dokumenti;
+- 1) meremehe teenistusraamatut või meresõidutunnistust ja vajaduse korral muud isikut tõendavat dokumenti;
 
-2) meresõidudiplomit või kutsetunnistust nõutava kvalifikatsiooni kohta;
+- 2) meresõidudiplomit või kutsetunnistust nõutava kvalifikatsiooni kohta;
 
-3) haridust tõendavat dokumenti;
+- 3) haridust tõendavat dokumenti;
 
-4) tervisetõendit;
+- 4) tervisetõendit;
 
-5) välismaalase elamis- või tööluba.
+- 5) välismaalase elamis- või tööluba.

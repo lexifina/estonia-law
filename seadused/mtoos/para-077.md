@@ -1,6 +1,6 @@
 # § 77. Alaealise tööle rakendamise piirangu järgimata jätmine
 
-(1) Käesoleva seaduse §-s 45 sätestatud alaealise tööle rakendamise piirangu järgimata jätmise eest reederi, tema juhatuse liikme või muu esindaja poolt, kellele oli nimetatud kohustus delegeeritud, –
+(1) Käesoleva seaduse §-s 45 sätestatud alaealise tööle rakendamise piirangu järgimata jätmise eest reederi, tema juhatuse liikme või muu esindaja poolt, kellele oli nimetatud kohustus delegeeritud, –
 
 karistatakse rahatrahviga kuni 300 trahviühikut.
 

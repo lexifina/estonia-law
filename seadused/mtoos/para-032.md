@@ -2,9 +2,7 @@
 
 (1) Reeder tagab laevapere liikmele meditsiiniabi andmise laeval.
 
-(2) Laeval meditsiiniabi korraldamise nõuded ja laeval nõutava meditsiinivarustuse loetelu kehtestab
-
-määrusega.
+(2) Laeval meditsiiniabi korraldamise nõuded ja laeval nõutava meditsiinivarustuse loetelu kehtestab valdkonna eest vastutav minister määrusega.
 
 (3) Laevapere liige läbib eelneva ja perioodilise tervisekontrolli meresõiduohutuse seaduses sätestatud korras.
 
@@ -16,6 +14,4 @@ määrusega.
 
 (7) Meditsiinilise kaugkonsultatsiooni teenuse tasuta osutamiseks sõlmib Tervisekassa tervishoiuteenuse osutajaga halduslepingu halduskoostöö seaduses sätestatud tingimustel ja korras. Teenuse osutamist rahastatakse Tervisekassa eelarve kaudu.
 
-(8) Meditsiinilise kaugkonsultatsiooni teenuse eest makstava tasu arvutamise metoodika ja selle teenuse hinna kehtestab
-
-määrusega Tervisekassa nõukogu ettepanekul.
+(8) Meditsiinilise kaugkonsultatsiooni teenuse eest makstava tasu arvutamise metoodika ja selle teenuse hinna kehtestab valdkonna eest vastutav minister määrusega Tervisekassa nõukogu ettepanekul.

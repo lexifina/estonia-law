@@ -2,8 +2,8 @@
 
 Reeder võib nõuda laevapere liikmelt käesoleva seaduse §-des 33–35 sätestatud kulude hüvitamist, kui:
 
-1) laevapere liikme haigus või vigastus tekkis laevapere liikme tahtluse või raske hooletuse tagajärjel;
+- 1) laevapere liikme haigus või vigastus tekkis laevapere liikme tahtluse või raske hooletuse tagajärjel;
 
-2) laevapere liige varjas tahtlikult oma terviseseisundit või
+- 2) laevapere liige varjas tahtlikult oma terviseseisundit või
 
-3) vigastus ei tekkinud teenistuse ajal laevas.
+- 3) vigastus ei tekkinud teenistuse ajal laevas.

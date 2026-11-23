@@ -10,4 +10,4 @@
 
 (4) Reeder või kapten teavitab laevapere liikme haigusest või vigastusest laevapere liikme nimetatud isikut.
 
-(5) Reederi ja kapteni kohustus korraldada välisriigis viibiva laevapere liikme ravi lõpeb, kui reeder on korraldanud laevapere liikme kojusõidu käesoleva seaduse §-s 56 sätestatud sihtkohta või kui laevapere liige on ravi põhjendamatult katkestanud.
+(5) Reederi ja kapteni kohustus korraldada välisriigis viibiva laevapere liikme ravi lõpeb, kui reeder on korraldanud laevapere liikme kojusõidu käesoleva seaduse §-s 56 sätestatud sihtkohta või kui laevapere liige on ravi põhjendamatult katkestanud.

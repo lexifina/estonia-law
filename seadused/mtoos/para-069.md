@@ -1,6 +1,6 @@
 # § 69. Meretöölepingu erakorraline ülesütlemine laevapere liikme poolt
 
-(1) Lisaks töölepingu seaduse §-s 91 sätestatule võib laevapere liige meretöölepingu erakorraliselt üles öelda eelkõige käesoleva seaduse § 18 lõikes 1 nimetatud asjaoludel.
+(1) Lisaks töölepingu seaduse §-s 91 sätestatule võib laevapere liige meretöölepingu erakorraliselt üles öelda eelkõige käesoleva seaduse § 18 lõikes 1 nimetatud asjaoludel.
 
 (2) Meretöölepingu ülesütlemisest käesoleva paragrahvi lõikes 1 sätestatud alusel peab laevapere liige reederile ette teatama viis kalendripäeva, välja arvatud juhul, kui kõiki asjaolusid ja mõlemapoolset huvi arvestades ei või mõistlikult nõuda lepingu jätkamist etteteatamistähtaja lõppemiseni.
 

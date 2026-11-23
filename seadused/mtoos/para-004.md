@@ -4,11 +4,11 @@
 
 (2) Laevapere liikmeks ei peeta:
 
-1) isikut, kes laeva sadamasoleku ajal teeb laeval kontrollimis-, lastimis-, hooldus-, remondi- või koristustöid või muid sama laadi töid;
+- 1) isikut, kes laeva sadamasoleku ajal teeb laeval kontrollimis-, lastimis-, hooldus-, remondi- või koristustöid või muid sama laadi töid;
 
-2) isikut, kes teostab lootsimist;
+- 2) isikut, kes teostab lootsimist;
 
-3) isikut, kelle peamine töötegemise koht on kaldal, kuid kelle tööülesanded eeldavad mittekorrapärast lühiajalist laeval viibimist.
+- 3) isikut, kelle peamine töötegemise koht on kaldal, kuid kelle tööülesanded eeldavad mittekorrapärast lühiajalist laeval viibimist.
 
 (3) Laevapere liikmega sõlmitakse meretööleping.
 

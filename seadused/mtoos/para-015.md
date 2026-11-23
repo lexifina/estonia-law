@@ -2,13 +2,13 @@
 
 (1) Lisaks käesoleva seaduse §-s 14 sätestatule järgib laevapere liige kapteni või muu pädeva isiku korraldusi, mis on vajalikud:
 
-1) laeval olevaid või teisi isikuid ähvardava ohu vältimiseks;
+- 1) laeval olevaid või teisi isikuid ähvardava ohu vältimiseks;
 
-2) laeva ohutuse tagamiseks;
+- 2) laeva ohutuse tagamiseks;
 
-3) lasti riknemise või hävimise vältimiseks;
+- 3) lasti riknemise või hävimise vältimiseks;
 
-4) teisi laevu ähvardava ohu vältimiseks.
+- 4) teisi laevu ähvardava ohu vältimiseks.
 
 (2) Ähvardava laevahuku või muu laeval olevaid isikuid ähvardava otsese ohu korral ei lahku laevapere liige laevalt ilma kapteni või muu pädeva isiku loata.
 
