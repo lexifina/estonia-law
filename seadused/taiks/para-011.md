@@ -6,14 +6,14 @@
 
 (3) Innovatsioonipoliitika rakendusüksus:
 
-1) toetab ettevõtjate teadus- ja arendus- ning innovatsioonitegevusi;
+- 1) toetab ettevõtjate teadus- ja arendus- ning innovatsioonitegevusi;
 
-2) toetab ettevõtjate rahvusvahelist teadus- ja arendustegevuse ning innovatsiooni alast koostööd;
+- 2) toetab ettevõtjate rahvusvahelist teadus- ja arendustegevuse ning innovatsiooni alast koostööd;
 
-3) edendab ettevõtjate teadlikkust teadus- ja arendustegevusest ning innovatsioonist ning nendega tegelemise võimekust;
+- 3) edendab ettevõtjate teadlikkust teadus- ja arendustegevusest ning innovatsioonist ning nendega tegelemise võimekust;
 
-4) toetab teadus- ja arendustegevuse ning innovatsiooni poliitikat ettevõtjate teadus- ja arendustegevuse ning innovatsiooni kohta informatsiooni kogumise, säilitamise, kättesaadavaks tegemise ja analüüsimisega;
+- 4) toetab teadus- ja arendustegevuse ning innovatsiooni poliitikat ettevõtjate teadus- ja arendustegevuse ning innovatsiooni kohta informatsiooni kogumise, säilitamise, kättesaadavaks tegemise ja analüüsimisega;
 
-5) täidab teisi talle õigusaktidega pandud ülesandeid.
+- 5) täidab teisi talle õigusaktidega pandud ülesandeid.
 
 (4) Innovatsioonipoliitika rakendusüksus on ettevõtjate teadus- ja arendustegevuse ning innovatsiooni toetuse taotluste menetlemisel ja rahastamisotsuste tegemisel sõltumatu.

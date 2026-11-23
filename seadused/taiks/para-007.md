@@ -2,9 +2,7 @@
 
 (1) Teadus- ja arendustegevuse ning innovatsiooni poliitika nõukogu on Vabariigi Valitsuse juures asuv nõuandev kogu, mis nõustab Vabariigi Valitsust ühiskonna toimetulekut ja heaolu toetava, majanduse konkurentsivõimet kasvatava ning eesti keele ja kultuuri kestlikkust väärtustava teadus- ja arendustegevuse ning innovatsiooni poliitika väljatöötamisel ja rakendamisel.
 
-(2) Teadus- ja arendustegevuse ning innovatsiooni poliitika nõukogu põhimääruse, milles nähakse ette selle tegevuse alused, ülesanded ja töökord, kehtestab
-
-määrusega.
+(2) Teadus- ja arendustegevuse ning innovatsiooni poliitika nõukogu põhimääruse, milles nähakse ette selle tegevuse alused, ülesanded ja töökord, kehtestab Vabariigi Valitsus määrusega.
 
 (3) Teadus- ja arendustegevuse ning innovatsiooni poliitika nõukogu koosseisu kinnitab Vabariigi Valitsus korraldusega.
 

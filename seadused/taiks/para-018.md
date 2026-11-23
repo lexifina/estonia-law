@@ -4,6 +4,6 @@
 
 (2) Temaatilise hindamise teema, osalejad ja täpsema korralduse kinnitab teadus- ja arendustegevuse valdkonna eest vastutav minister käskkirjaga.
 
-(3) Temaatilise hindamise kulud katab teadus- ja arendustegevuse valdkonna eest vastutav ministeerium, arvestades käesoleva paragrahvi lõikes 4 sätestatut.
+(3) Temaatilise hindamise kulud katab teadus- ja arendustegevuse valdkonna eest vastutav ministeerium, arvestades käesoleva paragrahvi lõikes 4 sätestatut.
 
 (4) Kui temaatiline hindamine tehakse konkreetse juriidilise isiku või asutuse huvides ning see ei ole riigi teaduspoliitika kujundamise seisukohalt määrava tähtsusega, kannab kulud juriidiline isik või asutus.

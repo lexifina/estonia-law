@@ -6,6 +6,4 @@
 
 (3) Riikliku uurimistoetuse teadus- ja arendustegevuse projektide valik toimub rahvusvaheliselt tunnustatud hindamiskriteeriumite alusel, tagades kõigi teadusvaldkondade võrdse kohtlemise ja otsustusprotsessi sõltumatuse.
 
-(4) Riikliku uurimistoetuse taotlemise, taotluse hindamise, toetuse määramise ning toetuse tagasinõudmise täpsemad tingimused ja korra kehtestab
-
-määrusega.
+(4) Riikliku uurimistoetuse taotlemise, taotluse hindamise, toetuse määramise ning toetuse tagasinõudmise täpsemad tingimused ja korra kehtestab teadus- ja arendustegevuse valdkonna eest vastutav minister määrusega.
