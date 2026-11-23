@@ -18,7 +18,7 @@
 
 9. peatükk Rahastamine
 
-10. peatükk Kooli ümberkorraldamine, pidamise erisused ja üleandmine ning tegevuse lõpetamine
+10. peatükk Kooli ümberkorraldamine, pidamise erisused ja üleandmine ning tegevuse lõpetamine
 
 11. peatükk Haldusjärelevalve
 

@@ -1,12 +1,14 @@
 # § 23. Kutseõppe liigid
 
-(1) Kutseõppe liik on kutseõppe õppekavade rühmitamise kategooria, milles lähtutakse kutseseaduses kehtestatud kvalifikatsiooniraamistiku tasemetest (edaspidi *kvalifikatsioonitase*) ning arvestatakse õpiväljundeid ja õppima asumise nõudeid.
+(1) Kutseõppe liik on kutseõppe õppekavade rühmitamise kategooria, milles lähtutakse kutseseaduses kehtestatud kvalifikatsiooniraamistiku tasemetest (edaspidi kvalifikatsioonitase) ning arvestatakse õpiväljundeid ja õppima asumise nõudeid.
 
 (2) Kutseõpe jaguneb tasemeõppeks ja täiendusõppeks:
 
-1) tasemeõpe on käesoleva seaduse tähenduses kutseõpe, mille käigus omandatakse kindlale kvalifikatsioonitasemele vastav kvalifikatsioon, mis võimaldab juurdepääsu järgmise kvalifikatsioonitaseme õppele;
+- 1) tasemeõpe on käesoleva seaduse tähenduses kutseõpe, mille käigus omandatakse kindlale kvalifikatsioonitasemele vastav kvalifikatsioon, mis võimaldab juurdepääsu järgmise kvalifikatsioonitaseme õppele;
 
-2) täiendusõpe on käesoleva seaduse tähenduses kutseõpe, mille käigus omandatakse üksikkompetentse.
+- 2) täiendusõpe on käesoleva seaduse tähenduses kutseõpe, mille käigus omandatakse üksikkompetentse.
+
+(2¹) [Kehtetu]
 
 (3) Tasemeõpe toimub teisel kuni viiendal kvalifikatsioonitasemel.
 
@@ -16,6 +18,4 @@
 
 (6) Täiendusõppe suhtes kohaldatakse täiskasvanute koolituse seaduse täienduskoolitust reguleerivaid sätteid.
 
-(7) Täiendusõppe korraldamise tingimused ja korra kehtestab
-
-määrusega.
+(7) Täiendusõppe korraldamise tingimused ja korra kehtestab valdkonna eest vastutav minister määrusega.

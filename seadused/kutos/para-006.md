@@ -4,9 +4,7 @@
 
 (2) Kooli põhimääruse kehtestab kooli pidaja ja kooli arengukava kinnitab kooli pidaja või tema volitatud isik.
 
-(3) Riigikooli põhimääruse kehtestab
-
-määrusega.
+(3) Riigikooli põhimääruse kehtestab valdkonna eest vastutav minister määrusega.
 
 (4) Kooli arengukava koostatakse vähemalt kolmeks aastaks ja selles määratakse kooli arengu põhisuunad ja nende rakendamise meetmed, lähtudes riiklikest strateegilistest dokumentidest.
 

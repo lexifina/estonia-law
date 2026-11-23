@@ -6,40 +6,46 @@
 
 (3) Nõukogusse kuuluvad:
 
-1) direktor;
+- 1) direktor;
 
-2) direktori asetäitjad;
+- 2) direktori asetäitjad;
 
-3) kooli struktuuriüksuste juhid ja õppevaldkondade eest vastutavad töötajad;
+- 3) kooli struktuuriüksuste juhid ja õppevaldkondade eest vastutavad töötajad;
 
-4) õpilaskonna esindaja;
+- 4) õpilaskonna esindaja;
 
-5) töötajate usaldusisik, selle puudumisel töötajate valitud esindaja.
+- 5) töötajate usaldusisik, selle puudumisel töötajate valitud esindaja.
 
 (4) Nõukogu tööd juhib direktor.
 
 (5) Nõukogu:
 
-1) arutab kooli õppekasvatustöö ning majandustegevuse korraldamisega seotud küsimusi;
+- 1) arutab kooli õppekasvatustöö ning majandustegevuse korraldamisega seotud küsimusi;
 
-2) teeb kooli pidajale ettepanekuid kooli põhimääruse muutmiseks;
+- 2) teeb kooli pidajale ettepanekuid kooli põhimääruse muutmiseks;
 
-3) kooskõlastab kooli arengukava eelnõu ja esitab selle kooli pidajale kinnitamiseks;
+- 3) kooskõlastab kooli arengukava eelnõu ja esitab selle kooli pidajale kinnitamiseks;
 
-5) kinnitab kooli õppekorralduseeskirja;
+- 4) [Kehtetu]
 
-6) kinnitab kooli õppeaasta tööplaani, sealhulgas õppekasvatusala töötajate koolitusplaani;
+- 5) kinnitab kooli õppekorralduseeskirja;
 
-7) kooskõlastab kooli eelarve ja hankeplaani;
+- 6) kinnitab kooli õppeaasta tööplaani, sealhulgas õppekasvatusala töötajate koolitusplaani;
 
-9) kooskõlastab kooli õppekavad;
+- 7) kooskõlastab kooli eelarve ja hankeplaani;
 
-10) kooskõlastab kooli kasutusse antud riigivaraga seotud toiminguid;
+- 8) [Kehtetu]
 
-11) kinnitab kooli õpilasesinduse põhikirja;
+- 9) kooskõlastab kooli õppekavad;
 
-11¹) kinnitab koolituskohtade arvu kalendriaastaks õppevaldkonnas, õppekavarühmas või õppekaval, sealhulgas nende käesoleva seaduse § 47¹ lõikes 3 nimetatud koolituskohtade arvu, mille õppekulusid riik ei hüvita;
+- 10) kooskõlastab kooli kasutusse antud riigivaraga seotud toiminguid;
 
-13) lahendab teisi küsimusi, mis õigusaktide ja kooli põhimääruse alusel kuuluvad tema pädevusse.
+- 11) kinnitab kooli õpilasesinduse põhikirja;
+
+- 11¹) kinnitab koolituskohtade arvu kalendriaastaks õppevaldkonnas, õppekavarühmas või õppekaval, sealhulgas nende käesoleva seaduse § 47¹ lõikes 3 nimetatud koolituskohtade arvu, mille õppekulusid riik ei hüvita;
+
+- 12) [Kehtetu]
+
+- 13) lahendab teisi küsimusi, mis õigusaktide ja kooli põhimääruse alusel kuuluvad tema pädevusse.
 
 (6) Nõukogu võtab oma pädevuse piires vastu otsuseid.

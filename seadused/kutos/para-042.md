@@ -6,13 +6,13 @@
 
 (3) Õpilaskonnal on õigus:
 
-1) moodustada teiste õpilaskondade ja üliõpilaskondadega liite ja organisatsioone õigusaktidega sätestatud alustel ja korras;
+- 1) moodustada teiste õpilaskondade ja üliõpilaskondadega liite ja organisatsioone õigusaktidega sätestatud alustel ja korras;
 
-2) astuda rahvusvaheliste organisatsioonide liikmeks või arendada nendega koostööd;
+- 2) astuda rahvusvaheliste organisatsioonide liikmeks või arendada nendega koostööd;
 
-3) määrata oma täisealine esindaja kooli nõukokku;
+- 3) määrata oma täisealine esindaja kooli nõukokku;
 
-4) otsustada ja korraldada kõiki muid õpilaselu küsimusi, mis seaduse ja seaduse alusel antud õigusaktide kohaselt kuuluvad õpilaskonna pädevusse ning mis ei ole samadel alustel antud kellegi teise otsustada ega korraldada.
+- 4) otsustada ja korraldada kõiki muid õpilaselu küsimusi, mis seaduse ja seaduse alusel antud õigusaktide kohaselt kuuluvad õpilaskonna pädevusse ning mis ei ole samadel alustel antud kellegi teise otsustada ega korraldada.
 
 (4) Õpilaskonna esindusorgan on valitud õpilasesindus, mis esindab õpilaskonda suhetes kooli, Eesti ja rahvusvaheliste organisatsioonide, asutuste ja isikutega.
 

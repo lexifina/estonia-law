@@ -2,10 +2,18 @@
 
 Haldusjärelevalvet teostaval ametiisikul on õigus:
 
-1) külastada kooli, et kontrollida õppekasvatusala, teavitades sellest varem direktorit;
+- 1) külastada kooli, et kontrollida õppekasvatusala, teavitades sellest varem direktorit;
 
-2) osaleda kooli juhtorganite, töötajate, õpilaste ja vanemate koosolekutel;
+- 2) osaleda kooli juhtorganite, töötajate, õpilaste ja vanemate koosolekutel;
 
-3) tutvuda kooli dokumentidega;
+- 3) tutvuda kooli dokumentidega;
 
-4) saada koolilt informatsiooni õigusaktide rakendamise kohta;
+- 4) saada koolilt informatsiooni õigusaktide rakendamise kohta;
+
+- 5) [Kehtetu]
+
+- 6) [Kehtetu]
+
+- 7) [Kehtetu]
+
+- 8) [Kehtetu]

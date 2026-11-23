@@ -1,5 +1,3 @@
 # § 20. Kooli kohustuslikud dokumendid
 
-Kooli arendustegevust ja õppekasvatustööd käsitlevate kohustuslike dokumentide nõuded ja dokumentide pidamise korra kehtestab
-
-määrusega.
+Kooli arendustegevust ja õppekasvatustööd käsitlevate kohustuslike dokumentide nõuded ja dokumentide pidamise korra kehtestab valdkonna eest vastutav minister määrusega.

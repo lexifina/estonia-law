@@ -4,13 +4,13 @@
 
 (2) Koolid korraldatakse ümber järgmiselt:
 
-1) koolid ühendatakse üheks või mitmeks kooliks, kusjuures ühendatavad koolid lõpetavad tegevuse ja nende baasil asutatakse uus kool või uued koolid;
+- 1) koolid ühendatakse üheks või mitmeks kooliks, kusjuures ühendatavad koolid lõpetavad tegevuse ja nende baasil asutatakse uus kool või uued koolid;
 
-2) kool või koolid liidetakse teise kooliga ja liidetav kool või liidetavad koolid lõpetavad tegevuse;
+- 2) kool või koolid liidetakse teise kooliga ja liidetav kool või liidetavad koolid lõpetavad tegevuse;
 
-3) kool jaotatakse vähemalt kaheks kooliks ja jagunev kool lõpetab tegevuse;
+- 3) kool jaotatakse vähemalt kaheks kooliks ja jagunev kool lõpetab tegevuse;
 
-4) kool eraldatakse teisest koolist, selle tulemusel asutatakse uus kool ja säilib esialgne kool.
+- 4) kool eraldatakse teisest koolist, selle tulemusel asutatakse uus kool ja säilib esialgne kool.
 
 (3) Kooli ümberkorraldamise ja tegevuse lõpetamise otsusest tuleb teavitada kooli ja õpilasi kirjalikku taasesitamist võimaldavas vormis hiljemalt kuus kuud enne uue õppeaasta algust. Kui kool ei kuulu Haridus- ja Teadusministeeriumi valitsemisalasse, teavitatakse selle ümberkorraldamisest või tegevuse lõpetamisest valdkonna eest vastutavat ministrit hiljemalt kuus kuud enne õppeaasta algust.
 

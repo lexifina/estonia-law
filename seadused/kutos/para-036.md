@@ -1,6 +1,6 @@
 # § 36. Koolipere
 
-(1) Koolipere moodustavad kooli direktor, õppekasvatusala juhtivad töötajad, õpetajad ja teised töötajad (edaspidi *töötajad*) ning õpilased ja üliõpilased.
+(1) Koolipere moodustavad kooli direktor, õppekasvatusala juhtivad töötajad, õpetajad ja teised töötajad (edaspidi töötajad) ning õpilased ja üliõpilased.
 
 (2) Käesoleva seaduse tähenduses on õpilane kutseõppe tasemeõppe õppekava järgi õppija.
 

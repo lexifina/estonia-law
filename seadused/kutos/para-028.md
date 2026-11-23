@@ -12,8 +12,6 @@
 
 (6) Töökohapõhise õppevormi puhul on praktika osakaal vähemalt kaks kolmandikku õppekava mahust.
 
-(7) Töökohapõhise õppe rakendamise korra kehtestab
-
-määrusega.
+(7) Töökohapõhise õppe rakendamise korra kehtestab valdkonna eest vastutav minister määrusega.
 
 (8) Kutsekeskhariduse õppekava puhul ei arvestata käesoleva paragrahvi lõigetes 5 ja 6 nimetatud õppekava mahu hulka võtmepädevuste õppe mahtu.
