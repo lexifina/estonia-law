@@ -8,9 +8,9 @@
 
 (3) Kaitseliidu relva ja laskemoona on keelatud käidelda ja kasutada:
 
-1) alkoholijoobes, narkootilise või psühhotroopse aine mõju all;
+- 1) alkoholijoobes, narkootilise või psühhotroopse aine mõju all;
 
-2) koosolekul, meeleavaldusel, piketil, pidustusel ja muul avalikul üritusel, välja arvatud nimetatud avalikel üritustel teenistuskohustuse täitmisel, kui relva kandmiseks on eelnevalt kirjaliku nõusoleku andnud Kaitseliidu ülem või tema volitatud struktuuriüksuse juht.
+- 2) koosolekul, meeleavaldusel, piketil, pidustusel ja muul avalikul üritusel, välja arvatud nimetatud avalikel üritustel teenistuskohustuse täitmisel, kui relva kandmiseks on eelnevalt kirjaliku nõusoleku andnud Kaitseliidu ülem või tema volitatud struktuuriüksuse juht.
 
 (4) Kaitseliidu relva ja laskemoona on keelatud üle anda alkoholijoobes või narkootilise või psühhotroopse aine tarvitamise tunnustega isikule.
 
@@ -22,8 +22,6 @@
 
 (8) Tegevliikmele, kes ei ole läbi teinud Kaitseliidu relva käitlemise ja kasutamise koolitust, võib Kaitseliidu relva anda kasutada vaid lasketiirus kasutamiseks pärast relva kasutamise nõuetega tutvumist.
 
-(9) Kaitseliidu relva, mida ei loeta sõjarelvaks relvaseaduse tähenduses, käitlemise ja kasutamise nõuded kehtestab
+(9) Kaitseliidu relva, mida ei loeta sõjarelvaks relvaseaduse tähenduses, käitlemise ja kasutamise nõuded kehtestab valdkonna eest vastutav minister määrusega.
 
-määrusega.
-
-(10) Kaitseliidu relva, mida loetakse sõjarelvaks relvaseaduse tähenduses, käitlemisele, kasutamisele ja üleandmisele kohaldatakse relvaseadust, välja arvatud käesoleva paragrahvi lõikes 7 sätestatud juhul.
+(10) Kaitseliidu relva, mida loetakse sõjarelvaks relvaseaduse tähenduses, käitlemisele, kasutamisele ja üleandmisele kohaldatakse relvaseadust, välja arvatud käesoleva paragrahvi lõikes 7 sätestatud juhul.

@@ -2,11 +2,11 @@
 
 (1) Kaitseliidu liikmesus peatatakse:
 
-1) liikme kirjaliku avalduse alusel;
+- 1) liikme kirjaliku avalduse alusel;
 
-2) distsiplinaarkaristusena;
+- 2) distsiplinaarkaristusena;
 
-3) käesoleva seaduse § 28 lõikes 3 sätestatud alusel tervisekontrolli suunamisel.
+- 3) käesoleva seaduse § 28 lõikes 3 sätestatud alusel tervisekontrolli suunamisel.
 
 (2) Noorliikme liikmesus peatub käesoleva paragrahvi lõike 1 punktis 1 sätestatud alusel ka juhul, kui liikmeks astumise nõusoleku andnud vanem või eestkostja esitab kirjaliku avalduse eestkostetava liikmesuse peatamiseks.
 

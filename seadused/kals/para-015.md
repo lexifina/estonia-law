@@ -6,11 +6,11 @@
 
 (3) Kaitseväe juhataja tegevväelase kõrgema ülemana:
 
-1) võib määrata Kaitseliidus rahuaja ametikohal olevale tegevväelasele ergutusi ja distsiplinaarkaristusi kaitseväeteenistuse seaduses sätestatud korras;
+- 1) võib määrata Kaitseliidus rahuaja ametikohal olevale tegevväelasele ergutusi ja distsiplinaarkaristusi kaitseväeteenistuse seaduses sätestatud korras;
 
-2) lahendab Kaitseliidus rahuaja ametikohal oleva tegevväelase esitatud vaide, kui vaide lahendamine on kaitseväeteenistuse seaduse kohaselt tema pädevuses;
+- 2) lahendab Kaitseliidus rahuaja ametikohal oleva tegevväelase esitatud vaide, kui vaide lahendamine on kaitseväeteenistuse seaduse kohaselt tema pädevuses;
 
-3) korraldab kaitseväeteenistuse seaduses sätestatud nõuete täitmise järelevalvet Kaitseliidus rahuaja ametikohale nimetatud tegevväelase üle.
+- 3) korraldab kaitseväeteenistuse seaduses sätestatud nõuete täitmise järelevalvet Kaitseliidus rahuaja ametikohale nimetatud tegevväelase üle.
 
 (4) Tegevväelase kaitseväelise distsipliini üle teostatakse kontrolli kaitseväeteenistuse seaduses ja Kaitseväe korralduse seaduses sätestatud korras.
 
@@ -22,7 +22,7 @@
 
 (8) Tegevväelase lähetamise kaitseväeteenistuse seaduse § 114 lõikes 1 sätestatud juhul otsustab Kaitseliidu ülem või tema volitatud struktuuriüksuse juht.
 
-(8¹) Tegevväelase lähetamise välisriiki kaitseväeteenistuse seaduse § 115 lõike 1 punktis 1 sätestatud juhul kuni 60 päevaks otsustab Kaitseliidu ülem.
+(8¹) Tegevväelase lähetamise välisriiki kaitseväeteenistuse seaduse § 115 lõike 1 punktis 1 sätestatud juhul kuni 60 päevaks otsustab Kaitseliidu ülem.
 
 (9) Kaitseliidus oleva tegevväelase võib ressursimahukale koolitusele saata Kaitseväe juhataja kirjalikul nõusolekul.
 

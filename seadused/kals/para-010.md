@@ -1,6 +1,6 @@
 # § 10. Sõjaväelise auastmega rahuaja ametikoht Kaitseliidus
 
-(1) Kaitseliidus on sõjaväelise auastmega rahuaja ametikohad (edaspidi *rahuaja ametikoht*) Kaitseliidu ülema, peastaabi ülema, maakaitseringkonna pealiku ja malevapealiku ametikoht.
+(1) Kaitseliidus on sõjaväelise auastmega rahuaja ametikohad (edaspidi rahuaja ametikoht) Kaitseliidu ülema, peastaabi ülema, maakaitseringkonna pealiku ja malevapealiku ametikoht.
 
 (2) Kaitseliidus võib lisaks käesoleva paragrahvi lõikes 1 sätestatud ametikohtadele luua Kaitseliidu ülesannete täitmiseks muid rahuaja ametikohti.
 

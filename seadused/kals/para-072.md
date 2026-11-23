@@ -12,12 +12,12 @@
 
 (6) Erivahend käesoleva seaduse tähenduses on:
 
-1) käerauad;
+- 1) käerauad;
 
-2) sidumisvahend;
+- 2) sidumisvahend;
 
-3) teenistusloom;
+- 3) teenistusloom;
 
-4) tehniline tõke;
+- 4) tehniline tõke;
 
-5) sõiduki sundpeatamise vahend.
+- 5) sõiduki sundpeatamise vahend.

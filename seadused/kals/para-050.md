@@ -8,4 +8,4 @@
 
 (4) Au- ja toetajaliikmele ei või anda Kaitseliidu relva ega laskemoona elukohas hoidmiseks ning neil ei ole õigust soetada tegevliikme relva.
 
-(5) Käesolevat paragrahvi ei kohaldata käesoleva seaduse § 27 lõike 2 punktis 1 sätestatud alusel valitud auliikmele, kellele laieneb käesoleva seaduse §-des 42–49 sätestatu.
+(5) Käesolevat paragrahvi ei kohaldata käesoleva seaduse § 27 lõike 2 punktis 1 sätestatud alusel valitud auliikmele, kellele laieneb käesoleva seaduse §-des 42–49 sätestatu.

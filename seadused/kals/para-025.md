@@ -6,12 +6,16 @@
 
 (3) Noorliikmeks ei võeta isikut:
 
-2) kellele on mõistetud vabadusekaotuslik karistus ja isiku andmed ei ole karistusregistrist karistusregistri seaduse kohaselt kustutatud;
+- 1) [Kehtetu]
 
-3) kellel puudub oma vanema või eestkostja nõusolek liikmeks astumise kohta;
+- 2) kellele on mõistetud vabadusekaotuslik karistus ja isiku andmed ei ole karistusregistrist karistusregistri seaduse kohaselt kustutatud;
 
-4) kes liikmeks astumisel teadvalt esitas valeandmeid.
+- 3) kellel puudub oma vanema või eestkostja nõusolek liikmeks astumise kohta;
+
+- 4) kes liikmeks astumisel teadvalt esitas valeandmeid.
+
+(4) [Kehtetu]
 
 (5) Noorliikmele uue eestkostja määramisel peab uus eestkostja kirjalikult kinnitama oma nõusolekut eestkostetava liikmesuse jätkumise kohta.
 
-(6) Noorliiget ei või kaasata käesoleva seaduse § 4 lõike 1 punktides 2, 4, 7 ja 8 sätestatud Kaitseliidu ülesannete, lõikes 2 nimetatud korrakaitseorgani ülesannete ja lõikes 3¹ nimetatud Kaitseväe ülesannete täitmisse.
+(6) Noorliiget ei või kaasata käesoleva seaduse § 4 lõike 1 punktides 2, 4, 7 ja 8 sätestatud Kaitseliidu ülesannete, lõikes 2 nimetatud korrakaitseorgani ülesannete ja lõikes 3¹ nimetatud Kaitseväe ülesannete täitmisse.

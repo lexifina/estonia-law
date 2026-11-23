@@ -14,9 +14,9 @@
 
 (7) Valvur võib kasutada isiku suhtes tuli- ja elektrišokirelva ainult isiku ründamis-, vastupanu- või põgenemisvõimetuks muutmiseks äärmise abinõuna juhul, kui seda eesmärki ei ole võimalik saavutada looma kasutamisega ega asja vastu tulirelva kasutamisega ega muu vahetu sunni vahendiga ning kui see on ühtlasi vajalik, et:
 
-1) tõrjuda vahetu oht elule või kehalisele puutumatusele;
+- 1) tõrjuda vahetu oht elule või kehalisele puutumatusele;
 
-2) tõkestada vahetult eesseisva või juba asetleidva vägivaldse esimese astme kuriteo toimepanemist või sellise kuriteo toimepanemist, mille eest võib karistusena mõista eluaegse vangistuse.
+- 2) tõkestada vahetult eesseisva või juba asetleidva vägivaldse esimese astme kuriteo toimepanemist või sellise kuriteo toimepanemist, mille eest võib karistusena mõista eluaegse vangistuse.
 
 (8) Enne vahetu sunni kasutamist on valvur kohustatud suuliselt hoiatama isikut, kelle vastu või kelle omandis või valduses oleva looma või asja vastu ta kavatseb sundi kasutada. Hoiatamisel tuleb arvestada, et hoiatataval isikul oleks võimalik vabatahtlikult eemalduda. Isikuid ei pea hoiatama nende suhtes tehnilise tõkke kasutamise eest.
 

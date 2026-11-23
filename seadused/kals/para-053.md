@@ -10,7 +10,7 @@
 
 (5) Kaitseliidu liige kannab isiklikku ja varalist vastutust temale Kaitseliidu poolt antud relva, tegevliikme relva, laskemoona ja muu talle antud vara eest.
 
-(6) Kaitseliidu liige, kes on teenistuskohustuse süülise rikkumise tõttu tekitanud Kaitseliidule kahju, on kohustatud selle kahju hüvitama käesoleva paragrahvi lõigetes 8 ja 9 nimetatud ulatuses.
+(6) Kaitseliidu liige, kes on teenistuskohustuse süülise rikkumise tõttu tekitanud Kaitseliidule kahju, on kohustatud selle kahju hüvitama käesoleva paragrahvi lõigetes 8 ja 9 nimetatud ulatuses.
 
 (7) Mitme Kaitseliidu liikme ühiselt tekitatud kahju eest vastutab iga Kaitseliidu liige oma süüle vastavas ulatuses.
 

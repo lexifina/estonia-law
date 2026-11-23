@@ -4,20 +4,20 @@
 
 (2) Erivahend käesoleva seaduse tähenduses on:
 
-1) käerauad;
+- 1) käerauad;
 
-2) sidumisvahend;
+- 2) sidumisvahend;
 
-3) teenistuskoer.
+- 3) teenistuskoer.
 
-(3) Kaitseliidu enesekaitsevahendite loetelu ja nõuded nendele kehtestab
+- 4) [Kehtetu]
 
-määrusega.
+- 5) [Kehtetu]
+
+(3) Kaitseliidu enesekaitsevahendite loetelu ja nõuded nendele kehtestab valdkonna eest vastutav minister määrusega.
 
 (4) Kaitseliidu erivahendit ja enesekaitsevahendit võib tegevliige hoida oma elukohas, kui see on vajalik teenistuskohustuse täitmiseks.
 
-(5) Kaitseliidu erivahendi ja enesekaitsevahendi hoiule andmise tingimused ning korra kehtestab
-
-määrusega.
+(5) Kaitseliidu erivahendi ja enesekaitsevahendi hoiule andmise tingimused ning korra kehtestab valdkonna eest vastutav minister määrusega.
 
 (6) Kaitseliidu erivahendi ja enesekaitsevahendi kasutamise korra ja nende kasutamise koolituse nõuded kehtestab Kaitseliidu ülem.

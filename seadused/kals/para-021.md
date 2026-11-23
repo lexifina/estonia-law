@@ -4,17 +4,17 @@
 
 (2) Vanematekogu:
 
-1) tutvustab Kaitseliidu tegevust;
+- 1) tutvustab Kaitseliidu tegevust;
 
-2) annab arvamuse Kaitseliidu ülema ametikohale nimetatava tegevväelase kohta;
+- 2) annab arvamuse Kaitseliidu ülema ametikohale nimetatava tegevväelase kohta;
 
-3) annab arvamuse Kaitseliidu ülesannete täitmise ja tegevuse kohta;
+- 3) annab arvamuse Kaitseliidu ülesannete täitmise ja tegevuse kohta;
 
-4) annab arvamuse kinnisvara omandamise, võõrandamise ja pantimise kohta;
+- 4) annab arvamuse kinnisvara omandamise, võõrandamise ja pantimise kohta;
 
-5) annab arvamuse eelarve ja selle täitmise kohta;
+- 5) annab arvamuse eelarve ja selle täitmise kohta;
 
-6) annab arvamuse käesoleva seaduse ja kodukorra muutmise ettepanekute kohta.
+- 6) annab arvamuse käesoleva seaduse ja kodukorra muutmise ettepanekute kohta.
 
 (3) Vanematekogu liige valitakse kolmeks aastaks. Igal aastal valitakse vanematekogusse viis uut liiget. Liikme võib tagasi valida.
 

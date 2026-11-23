@@ -10,19 +10,23 @@
 
 (4) Haldusjärelevalve teostajal on õigus:
 
-1) nõuda järelevalvatavalt seletusi ja dokumentide esitamist;
+- 1) nõuda järelevalvatavalt seletusi ja dokumentide esitamist;
 
-2) kontrollida meeleliselt või tehnilise vahendi abil Kaitseliidu esindaja juuresolekul järelevalvatava valduses olevat vallasasja, sealhulgas avada uksi ja kõrvaldada muid takistusi;
+- 2) kontrollida meeleliselt või tehnilise vahendi abil Kaitseliidu esindaja juuresolekul järelevalvatava valduses olevat vallasasja, sealhulgas avada uksi ja kõrvaldada muid takistusi;
 
-3) võtta järelevalvatava valduses olev vallasasi hoiule ning vajaduse korral hoiule võetud vallasasi müüa või hävitada;
+- 3) võtta järelevalvatava valduses olev vallasasi hoiule ning vajaduse korral hoiule võetud vallasasi müüa või hävitada;
 
-4) siseneda Kaitseliidu esindaja juuresolekul järelevalvatava territooriumile, piiratud või tähistatud kinnisasjale, ehitisse või ruumi, sealhulgas avada uksi, väravaid ja kõrvaldada muid takistusi;
+- 4) siseneda Kaitseliidu esindaja juuresolekul järelevalvatava territooriumile, piiratud või tähistatud kinnisasjale, ehitisse või ruumi, sealhulgas avada uksi, väravaid ja kõrvaldada muid takistusi;
 
-5) jäädvustada olukord, võtta proove ja näidiseid, samuti teostada mõõtmisi või ekspertiisi;
+- 5) jäädvustada olukord, võtta proove ja näidiseid, samuti teostada mõõtmisi või ekspertiisi;
 
-6) peatada toimingu sooritamine või akti kehtivus;
+- 6) peatada toimingu sooritamine või akti kehtivus;
 
-7) tunnistada akt kehtetuks.
+- 7) tunnistada akt kehtetuks.
+
+(5) [Kehtetu]
+
+(6) [Kehtetu]
 
 (7) Haldusjärelevalve teostaja teavitab järelevalvatavat võimaluse korral eelnevalt järelevalve läbiviimise ajast ja viisist.
 

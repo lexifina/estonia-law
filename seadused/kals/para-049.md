@@ -1,6 +1,6 @@
 # § 49. Tegevliikme relva käitlemise õiguse lõppemine
 
-(1) Tegevliikme relva käitlemise õigus lõpeb tegevliikmeks olemise lõppemisel või tegevliikme poolt Kaitseliidu ülemale või tema volitatud struktuuriüksuse juhile esitatud vastavasisulise kirjaliku taotluse alusel või relvaseaduse §-des 7–8¹ sätestatud asjaolude ilmnemisel, välja arvatud käesoleva seaduse § 50 lõikes 5 sätestatud juhul.
+(1) Tegevliikme relva käitlemise õigus lõpeb tegevliikmeks olemise lõppemisel või tegevliikme poolt Kaitseliidu ülemale või tema volitatud struktuuriüksuse juhile esitatud vastavasisulise kirjaliku taotluse alusel või relvaseaduse §-des 7–8¹ sätestatud asjaolude ilmnemisel, välja arvatud käesoleva seaduse § 50 lõikes 5 sätestatud juhul.
 
 (2) Tegevliikme relva käitlemise õiguse lõppemisel on isik kohustatud otsusest teadasaamisel viivitamata tooma tema valduses oleva relva ja talle väljastatud laskemoona Kaitseliitu hoiule.
 

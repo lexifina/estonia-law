@@ -6,6 +6,4 @@
 
 (3) Ajutiselt valvatav objekt tähistatakse esimesel võimalusel.
 
-(4) Ajutiselt valvatava objekti tähistamise korra ja tähised kehtestab
-
-määrusega.
+(4) Ajutiselt valvatava objekti tähistamise korra ja tähised kehtestab valdkonna eest vastutav minister määrusega.

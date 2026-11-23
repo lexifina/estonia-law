@@ -1,6 +1,6 @@
 # § 33. Teenistuskohustuse täitmine
 
-(1) Teenistuskohustus on ülesanne, mida Kaitseliidu liige täidab käesoleva seaduse § 4 lõikes 1 sätestatud Kaitseliidu ülesannete täitmise eesmärgil ning Kaitseliidu koosseisus lõikes 2 nimetatud korrakaitseorgani ülesannete ja lõikes 3¹ nimetatud Kaitseväe ülesannete täitmises osalemise või valves osalemise eesmärgil.
+(1) Teenistuskohustus on ülesanne, mida Kaitseliidu liige täidab käesoleva seaduse § 4 lõikes 1 sätestatud Kaitseliidu ülesannete täitmise eesmärgil ning Kaitseliidu koosseisus lõikes 2 nimetatud korrakaitseorgani ülesannete ja lõikes 3¹ nimetatud Kaitseväe ülesannete täitmises osalemise või valves osalemise eesmärgil.
 
 (2) Teenistuskohustus vormistatakse enne ülesande sooritamist kirjalikku taasesitamist võimaldavas vormis, kiiret tegutsemist nõudvas olukorras esimesel võimalusel, ja sellest peab selguma Kaitseliidu relva kaasavõtmise vajadus.
 

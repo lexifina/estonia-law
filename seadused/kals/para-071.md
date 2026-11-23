@@ -4,31 +4,29 @@
 
 (1¹) Valves osalev isik kannab teenistusülesannet või teenistuskohustust täites vormiriietust ja eraldusmärke.
 
-(2) Kaitseliidu valvuri käesideme ja embleemi kirjelduse ning kandmise korra kehtestab
+(2) Kaitseliidu valvuri käesideme ja embleemi kirjelduse ning kandmise korra kehtestab valdkonna eest vastutav minister määrusega.
 
-määrusega.
-
-(2¹) Alaliselt valvatava objekti ning nõuetekohaselt tähistatud ajutiselt valvatava objekti valves osalev isik võib teenistusülesande või teenistuskohustuse täitmisel kanda relvi, erivahendeid ja enesekaitsevahendeid ning kohaldada meetmeid ja vahetut sundi valvurile käesoleva paragrahvi lõigetes 3–9 ning käesoleva seaduse §-des 72 ja 73 lubatud ulatuses ja korras.
+(2¹) Alaliselt valvatava objekti ning nõuetekohaselt tähistatud ajutiselt valvatava objekti valves osalev isik võib teenistusülesande või teenistuskohustuse täitmisel kanda relvi, erivahendeid ja enesekaitsevahendeid ning kohaldada meetmeid ja vahetut sundi valvurile käesoleva paragrahvi lõigetes 3–9 ning käesoleva seaduse §-des 72 ja 73 lubatud ulatuses ja korras.
 
 (3) Valvuril on õigus:
 
-1) tuvastada valvatavale objektile siseneda sooviva isiku isikusamasus;
+- 1) tuvastada valvatavale objektile siseneda sooviva isiku isikusamasus;
 
-2) tõkestada pääs valvatavale objektile ja kinni pidada isik, kes püüab sinna siseneda loata või muu seadusliku aluseta;
+- 2) tõkestada pääs valvatavale objektile ja kinni pidada isik, kes püüab sinna siseneda loata või muu seadusliku aluseta;
 
-3) peatada isik, kes on loata sisenenud valvatavale objektile;
+- 3) peatada isik, kes on loata sisenenud valvatavale objektile;
 
-4) kinni pidada isik, keda kahtlustatakse valvataval objektil toimepandud süüteos;
+- 4) kinni pidada isik, keda kahtlustatakse valvataval objektil toimepandud süüteos;
 
-5) peatada isik, kes tungib või on tunginud valvatavale objektile, viibib seal asjakohase loa või muu seadusliku aluseta, ohustab valvatavat objekti, seal hoitavat vara või objektil viibivaid isikuid või takistab valvurit tema ülesannete täitmisel;
+- 5) peatada isik, kes tungib või on tunginud valvatavale objektile, viibib seal asjakohase loa või muu seadusliku aluseta, ohustab valvatavat objekti, seal hoitavat vara või objektil viibivaid isikuid või takistab valvurit tema ülesannete täitmisel;
 
-6) kontrollida isiku sisenemisel valvatavale objektile ja sealt lahkumisel isikut ja tema riietust vaatlemise ja kompimise teel või tehnilise vahendi või väljaõppe saanud teenistuskoera abil, et kindlaks teha, kas isiku valduses ei ole eset või ainet, millega ta võib ohustada ennast või teisi isikuid või mille omamine valvataval objektil on keelatud;
+- 6) kontrollida isiku sisenemisel valvatavale objektile ja sealt lahkumisel isikut ja tema riietust vaatlemise ja kompimise teel või tehnilise vahendi või väljaõppe saanud teenistuskoera abil, et kindlaks teha, kas isiku valduses ei ole eset või ainet, millega ta võib ohustada ennast või teisi isikuid või mille omamine valvataval objektil on keelatud;
 
-7) kontrollida isiku sisenemisel valvatavale objektile ja sealt lahkumisel temaga kaasas olevat asja vaatlemise või tehnilise vahendi või väljaõppe saanud teenistuskoera abil, et kindlaks teha, kas isiku valduses ei ole eset või ainet, millega ta võib ohustada ennast või teisi isikuid või mille omamine valvataval objektil on keelatud;
+- 7) kontrollida isiku sisenemisel valvatavale objektile ja sealt lahkumisel temaga kaasas olevat asja vaatlemise või tehnilise vahendi või väljaõppe saanud teenistuskoera abil, et kindlaks teha, kas isiku valduses ei ole eset või ainet, millega ta võib ohustada ennast või teisi isikuid või mille omamine valvataval objektil on keelatud;
 
-8) kinni pidada isik vahetult eesseisva kuriteo toimepanemise ärahoidmiseks või elu või kehalist puutumatust ähvardava vahetu ohu tõrjumiseks;
+- 8) kinni pidada isik vahetult eesseisva kuriteo toimepanemise ärahoidmiseks või elu või kehalist puutumatust ähvardava vahetu ohu tõrjumiseks;
 
-9) anda valvataval objektil sõidukile käega, sauaga, helkurkettaga või muu sarnase funktsiooniga vahendiga märguanne sõiduki või maastikusõiduki peatamiseks.
+- 9) anda valvataval objektil sõidukile käega, sauaga, helkurkettaga või muu sarnase funktsiooniga vahendiga märguanne sõiduki või maastikusõiduki peatamiseks.
 
 (4) Isiku kinnipidamiseks võib valvur isiku sulgeda ruumi või sõidukisse ja muul viisil piirata olulisel määral isiku füüsilist vabadust. Isiku kinnipidamisest üleandmise eesmärgil teavitab valvur viivitamata asjaomast ametiasutust. Isikut ei või kinni pidada kauem kui kuus tundi.
 

@@ -4,17 +4,17 @@
 
 (2) Kaitseliidu liikmele kohaldatavad ergutused on:
 
-1) distsiplinaarkaristuse kergendamine, selle tähtaja lühendamine või ennetähtaegne kustutamine;
+- 1) distsiplinaarkaristuse kergendamine, selle tähtaja lühendamine või ennetähtaegne kustutamine;
 
-2) tänu avaldamine;
+- 2) tänu avaldamine;
 
-3) tänukirja andmine;
+- 3) tänukirja andmine;
 
-4) Kaitseliidu teenetemärgi andmine;
+- 4) Kaitseliidu teenetemärgi andmine;
 
-5) hinnalise kingituse tegemine;
+- 5) hinnalise kingituse tegemine;
 
-6) rahalise preemia andmine.
+- 6) rahalise preemia andmine.
 
 (3) Distsiplinaarkaristuse ennetähtaegse kustutamise õigus on distsiplinaarkaristuse määranud juhil ja distsiplinaarkaristuse määranud juhi otsesel juhil.
 
