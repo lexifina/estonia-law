@@ -146,9 +146,25 @@
 
   - 1. jagu Üldsätted
 
+    - 1. jaotis Lepingu sisu
+
+    - 2. jaotis Kindlustusväärtus
+
+    - 3. jaotis Kindlustusandjate paljusus
+
+    - 4. jaotis Kindlustusjuhtum
+
+    - 5. jaotis Kindlustatud asja võõrandamine
+
+    - 6. jaotis Kindlustusandja vastutus hüpoteegipidaja ees ehitise kindlustamise puhul
+
   - 2. jagu Veosekindlustus
 
   - 3. jagu Vastutuskindlustus
+
+    - 1. jaotis Üldsätted
+
+    - 2. jaotis Kohustuslik vastutuskindlustus
 
   - 4. jagu Õigusabikulude kindlustus
 
@@ -196,6 +212,18 @@
 
   - 2. jagu Makseteenuse leping
 
+    - 1. jaotis Üldsätted
+
+    - 1¹. jaotis Makseteenuse lepingu muutmine ja lõpetamine seoses makseteenuse üleviimisega
+
+    - 2. jaotis Makseteenuse lepingu täitmine
+
+    - 3. jaotis Vastutus
+
+    - 4. jaotis Makseinstrumendiga seotud kohustused ning erisused seoses väikemaksevahendite ja e-rahaga
+
+    - 5. jaotis Kohaldamisala ja kõrvalekalduvad kokkulepped
+
   - 3. jagu
 
   - 4. jagu Akreditiiviarveldus
@@ -208,7 +236,21 @@
 
   - 1. jagu Kaubaveoleping
 
+    - 1. jaotis Üldsätted
+
+    - 2. jaotis Kolimine
+
+    - 3. jaotis Vedamine erinevate sõidukitega
+
   - 2. jagu Reisijaveoleping
+
+    - 1. jaotis Üldsätted
+
+    - 2. jaotis Reisijavedu ühissõidukis
+
+    - 3. jaotis Kombineeritud reisijaveoleping
+
+    - 4. jaotis Jao sätete kohustuslikkus
 
 - 43. peatükk EKSPEDEERIMISLEPING
 
