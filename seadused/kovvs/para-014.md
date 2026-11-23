@@ -6,7 +6,7 @@
 
 (3) Valla ja linna valimiskomisjonide volitused kestavad kuni komisjoni uue koosseisu nimetamiseni.
 
-(4) Valla ja linna valimiskomisjoni esimees on valla- või linnasekretär. Kui valla- või linnasekretäri äraoleku ajaks on kohaliku omavalitsuse korralduse seaduse § 55 lõike 5 alusel määratud asendaja, täidab valla või linna valimiskomisjoni esimehe ülesandeid valla- või linnasekretäri asendaja.
+(4) Valla ja linna valimiskomisjoni esimees on valla- või linnasekretär. Kui valla- või linnasekretäri äraoleku ajaks on kohaliku omavalitsuse korralduse seaduse § 55 lõike 5 alusel määratud asendaja, täidab valla või linna valimiskomisjoni esimehe ülesandeid valla- või linnasekretäri asendaja.
 
 (5) Valla ja linna valimiskomisjoni liikmed nimetab oma otsusega volikogu valla- või linnasekretäri ettepanekul.
 

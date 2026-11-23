@@ -1,8 +1,8 @@
 # § 53. Eelhääletamise ajal väljaspool elukohajärgset valimisringkonda antud häälte arvestamine
 
-(1) Jaoskonnakomisjon pakib viivitamata pärast väljaspool elukohajärgset valimisringkonda hääletamise lõppemist valijate hääletamissedelitega ümbrikud valdade ja linnade kaupa ning edastab need valla või linna valimiskomisjonile, kes edastab need riigi valimisteenistusele käesoleva seaduse § 19 lõike 2 punkti 5¹ alusel kehtestatud korra kohaselt.
+(1) Jaoskonnakomisjon pakib viivitamata pärast väljaspool elukohajärgset valimisringkonda hääletamise lõppemist valijate hääletamissedelitega ümbrikud valdade ja linnade kaupa ning edastab need valla või linna valimiskomisjonile, kes edastab need riigi valimisteenistusele käesoleva seaduse § 19 lõike 2 punkti 5¹ alusel kehtestatud korra kohaselt.
 
-(2) Väljaspool elukohajärgset valimisringkonda hääletanud valija hääletamissedeliga ümbrik tuleb edastada valija elukohajärgsele valla või linna valimiskomisjonile hiljemalt valimispäeval kell 12.00.
+(2) Väljaspool elukohajärgset valimisringkonda hääletanud valija hääletamissedeliga ümbrik tuleb edastada valija elukohajärgsele valla või linna valimiskomisjonile hiljemalt valimispäeval kell 12.00.
 
 (3) Saanud hääletamissedelitega ümbrikud, kontrollib valla või linna valimiskomisjon valijate nimekirjast, kas valija elukoht on selles vallas või linnas.
 

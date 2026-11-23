@@ -8,21 +8,21 @@
 
 (4) Hääletamiskasti avades kontrollitakse sellel olevate turvaelementide seisukorda.
 
-(5) Kodus hääletanute ja käesoleva seaduse § 52¹ lõike 3 punkti 1 alusel hääletamiskasti lastud hääletamissedelite välisküljele pannakse jaoskonnakomisjoni pitsati jäljend ning sedelid pannakse hääletamisruumis hääletanute hääletamissedelite hulka.
+(5) Kodus hääletanute ja käesoleva seaduse § 52¹ lõike 3 punkti 1 alusel hääletamiskasti lastud hääletamissedelite välisküljele pannakse jaoskonnakomisjoni pitsati jäljend ning sedelid pannakse hääletamisruumis hääletanute hääletamissedelite hulka.
 
 (6) Jaoskonnakomisjon teeb hääletamiskastides olnud sedelite alusel kindlaks kehtetute sedelite arvu ning kandidaatidele, erakondadele ja valimisliitudele antud häälte arvu ning kannab need protokolli.
 
 (7) Kehtetuks tunnistatakse hääletamissedel:
 
-1) millel ei ole jaoskonnakomisjoni pitsati kaht jäljendit;
+- 1) millel ei ole jaoskonnakomisjoni pitsati kaht jäljendit;
 
-2) millele ei ole kirjutatud ühegi kandidaadi registreerimisnumbrit või millele on neid kirjutatud rohkem kui üks;
+- 2) millele ei ole kirjutatud ühegi kandidaadi registreerimisnumbrit või millele on neid kirjutatud rohkem kui üks;
 
-3) millele kirjutatud numbriga kandidaati ei kandideeri selles valimisringkonnas;
+- 3) millele kirjutatud numbriga kandidaati ei kandideeri selles valimisringkonnas;
 
-4) millele kirjutatud kandidaadi registreerimisnumber on parandatud või
+- 4) millele kirjutatud kandidaadi registreerimisnumber on parandatud või
 
-5) millele kirjutatud kandidaadi registreerimisnumber ei ole loetav.
+- 5) millele kirjutatud kandidaadi registreerimisnumber ei ole loetav.
 
 (8) Kui hääletamissedelile ei ole kirjutatud ühegi kandidaadi registreerimisnumbrit, kuid valija tahe on üheselt arusaadav, loetakse hääletamissedel kehtivaks.
 

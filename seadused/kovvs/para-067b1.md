@@ -1,7 +1,9 @@
 # § 67¹. Andmete või materjalide esitamata jätmine või valimiskomisjoni otsuse mittetäitmine
 
-(1) Andmete või materjalide esitamata jätmise eest valimiste korraldamiseks, samuti valimiskomisjoni otsuse mittetäitmise eest –
+(1) Andmete või materjalide esitamata jätmise eest valimiste korraldamiseks, samuti valimiskomisjoni otsuse mittetäitmise eest –
 
 karistatakse rahatrahviga kuni 20 trahviühikut.
+
+(2) [Kehtetu]
 
 (3) Käesoleva paragrahvi lõikes 1 sätestatud väärteo kohtuväline menetleja on politseiasutus.

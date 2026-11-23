@@ -4,9 +4,9 @@
 
 (2) Riigi valimisteenistus säilitab elektroonilisi hääli ühe kuu jooksul valimispäevast arvates. Pärast nimetatud tähtaja möödumist, kuid mitte enne, kui käesoleva seaduse §-s 63 sätestatud esitatud kaebuste kohta on tehtud lõplikud otsused:
 
-1) hävitab riigi valimisteenistus avalikult elektroonilised hääled, elektroonilise hääletamise süsteemis sisalduvad valijate isikuandmed ning elektrooniliste häälte avamise võtme;
+- 1) hävitab riigi valimisteenistus avalikult elektroonilised hääled, elektroonilise hääletamise süsteemis sisalduvad valijate isikuandmed ning elektrooniliste häälte avamise võtme;
 
-2) hävitavad teised osapooled, kes on kaasatud elektroonilise hääletamise korraldamisse, oma valduses olevad elektroonilise hääletamise süsteemi varukoopiad ning elektroonilise hääletamise süsteemis sisalduvad valijate isikuandmed.
+- 2) hävitavad teised osapooled, kes on kaasatud elektroonilise hääletamise korraldamisse, oma valduses olevad elektroonilise hääletamise süsteemi varukoopiad ning elektroonilise hääletamise süsteemis sisalduvad valijate isikuandmed.
 
 (3) Hääletamis- ja valimistulemuste protokolle säilitatakse alaliselt. Valijate nimekirja säilitatakse püsivalt Rahvusarhiivis.
 

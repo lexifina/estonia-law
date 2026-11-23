@@ -6,19 +6,19 @@
 
 (3) Valijate arvestust peetakse isiku kohta rahvastikuregistrisse kantud järgmiste andmete alusel:
 
-1) ees- ja perekonnanimi;
+- 1) ees- ja perekonnanimi;
 
-2) sünniaeg;
+- 2) sünniaeg;
 
-3) isikukood;
+- 3) isikukood;
 
-4) kodakondsuse andmed;
+- 4) kodakondsuse andmed;
 
-5) teovõimetuks tunnistamise andmed;
+- 5) teovõimetuks tunnistamise andmed;
 
-6) elukoha aadress;
+- 6) elukoha aadress;
 
-7) viibimiskoha aadress.
+- 7) viibimiskoha aadress.
 
 (4) Valla- või linnasekretär võib volitada käesolevas peatükis sätestatud valla- või linnasekretäri ülesandeid täitma valla- või linnavalitsuse või selle allasutuse ametniku või töötaja, teavitades sellest rahvastikuregistri vastutavat töötlejat.
 

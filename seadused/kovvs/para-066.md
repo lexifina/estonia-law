@@ -2,18 +2,18 @@
 
 (1) Kaebus esitatakse Vabariigi Valimiskomisjonile kolme päeva jooksul arvates:
 
-1) vaidlustatava otsuse või toimingu tegemisest või
+- 1) vaidlustatava otsuse või toimingu tegemisest või
 
-2) käesoleva seaduse §-s 62 sätestatud avalduse läbivaatamisest.
+- 2) käesoleva seaduse §-s 62 sätestatud avalduse läbivaatamisest.
 
 (2) Vabariigi Valimiskomisjon peab kaebuse läbi vaatama ja selle suhtes otsuse tegema viie tööpäeva jooksul kaebuse laekumisest arvates.
 
 (3) Vabariigi Valimiskomisjon teeb ühe järgmistest otsustest:
 
-1) jätta kaebus rahuldamata;
+- 1) jätta kaebus rahuldamata;
 
-2) kaebus rahuldada;
+- 2) kaebus rahuldada;
 
-3) kaebus rahuldada osaliselt.
+- 3) kaebus rahuldada osaliselt.
 
 (4) Vabariigi Valimiskomisjon edastab otsuse kaebuse esitajale viivitamata.

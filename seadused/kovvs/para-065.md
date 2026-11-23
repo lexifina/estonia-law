@@ -2,22 +2,22 @@
 
 (1) Kaebus vormistatakse kirjalikult ning selles märgitakse:
 
-1) kaebuse esitaja nimi, isikukood või selle puudumisel sünniaeg või registrikood, aadress ja sidevahendite andmed;
+- 1) kaebuse esitaja nimi, isikukood või selle puudumisel sünniaeg või registrikood, aadress ja sidevahendite andmed;
 
-2) kaebuse esitaja esindaja nimi, aadress ja sidevahendite andmed, kui kaebuse esitajal on esindaja;
+- 2) kaebuse esitaja esindaja nimi, aadress ja sidevahendite andmed, kui kaebuse esitajal on esindaja;
 
-3) andmed vaidlustatava otsuse kohta või vaidlustatava toimingu kirjeldus;
+- 3) andmed vaidlustatava otsuse kohta või vaidlustatava toimingu kirjeldus;
 
-4) põhjused, miks kaebuse esitaja leiab, et vaidlustatav otsus või toiming rikub tema õigusi;
+- 4) põhjused, miks kaebuse esitaja leiab, et vaidlustatav otsus või toiming rikub tema õigusi;
 
-5) põhjused, miks kaebuse esitaja leiab, et vaidlustatav otsus või toiming ei ole seaduslik;
+- 5) põhjused, miks kaebuse esitaja leiab, et vaidlustatav otsus või toiming ei ole seaduslik;
 
-6) kuidas ja millal sai kaebuse esitaja vaidlustatavast otsusest või toimingust teada;
+- 6) kuidas ja millal sai kaebuse esitaja vaidlustatavast otsusest või toimingust teada;
 
-7) kaebuse esitamise tähtaja ennistamise taotlus ja tähtaja möödalaskmise põhjused, kui kaebus esitatakse pärast kaebuse esitamise tähtaja möödumist;
+- 7) kaebuse esitamise tähtaja ennistamise taotlus ja tähtaja möödalaskmise põhjused, kui kaebus esitatakse pärast kaebuse esitamise tähtaja möödumist;
 
-8) kaebuse esitamise kuupäev.
+- 8) kaebuse esitamise kuupäev.
 
 (2) Kaebusele kirjutab alla selle esitaja. Erakonna või valimisliidu kaebusele kirjutab alla erakonna või valimisliidu volitatud esindaja.
 
-(3) Kui kaebus ei vasta käesoleva paragrahvi lõigetes 1 ja 2 ettenähtud nõuetele või kui kaebus on esitatud käesoleva seaduse §-s 64 ja § 66 lõikes 1 ettenähtud korda rikkudes, võib Vabariigi Valimiskomisjon jätta kaebuse läbi vaatamata. Kaebuse läbi vaatamata jätmisel võib Vabariigi Valimiskomisjon selle edastada riigi valimisteenistusele vastamiseks käesoleva seaduse § 62 lõikes 6 sätestatud korras. Kui kaebuse esitaja on kaebuse esitamise tähtaja lasknud mööda mõjuval põhjusel, ennistab Vabariigi Valimiskomisjon tema põhistatud taotluse alusel tähtaja.
+(3) Kui kaebus ei vasta käesoleva paragrahvi lõigetes 1 ja 2 ettenähtud nõuetele või kui kaebus on esitatud käesoleva seaduse §-s 64 ja § 66 lõikes 1 ettenähtud korda rikkudes, võib Vabariigi Valimiskomisjon jätta kaebuse läbi vaatamata. Kaebuse läbi vaatamata jätmisel võib Vabariigi Valimiskomisjon selle edastada riigi valimisteenistusele vastamiseks käesoleva seaduse § 62 lõikes 6 sätestatud korras. Kui kaebuse esitaja on kaebuse esitamise tähtaja lasknud mööda mõjuval põhjusel, ennistab Vabariigi Valimiskomisjon tema põhistatud taotluse alusel tähtaja.

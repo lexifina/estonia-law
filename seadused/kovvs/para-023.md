@@ -2,11 +2,11 @@
 
 (1) Hääletamise korraldamiseks valimisjaoskonnas moodustab volikogu vähemalt viieliikmelise jaoskonnakomisjoni.
 
-(2) Volikogu nimetab otsusega valla- või linnasekretäri ettepanekul ning poliitilise tasakaalustatuse põhimõtet arvestades jaoskonnakomisjoni esimehe ja jaoskonnakomisjoni liikmed hiljemalt 20. päeval enne valimispäeva.
+(2) Volikogu nimetab otsusega valla- või linnasekretäri ettepanekul ning poliitilise tasakaalustatuse põhimõtet arvestades jaoskonnakomisjoni esimehe ja jaoskonnakomisjoni liikmed hiljemalt 20. päeval enne valimispäeva.
 
 (3) Poole jaoskonnakomisjoni liikmetest esitab valla- või linnasekretär ning ülejäänud liikmed esitavad selles vallas või linnas valimistel osalevad erakonnad ja valimisliidud.
 
-(4) Valimistel osalev erakond või valimisliit võib esitada ühe jaoskonnakomisjoni liikmekandidaadi valla- või linnasekretärile hiljemalt 40. päeval enne valimispäeva.
+(4) Valimistel osalev erakond või valimisliit võib esitada ühe jaoskonnakomisjoni liikmekandidaadi valla- või linnasekretärile hiljemalt 40. päeval enne valimispäeva.
 
 (5) Jaoskonnakomisjoni liikmeks nimetamiseks peab olema isiku nõusolek.
 

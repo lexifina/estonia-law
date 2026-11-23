@@ -4,8 +4,8 @@
 
 (2) Valimiste teabelehele kantakse:
 
-1) teave hääletamisõiguse tingimuste kohta;
+- 1) teave hääletamisõiguse tingimuste kohta;
 
-2) teave hääletamisvõimaluste kohta vallas või linnas;
+- 2) teave hääletamisvõimaluste kohta vallas või linnas;
 
-3) muu teave hääletamise kohta.
+- 3) muu teave hääletamise kohta.

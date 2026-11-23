@@ -2,9 +2,9 @@
 
 (1) Erakond või valimisliit koostab:
 
-1) kandidaatide ringkonnanimekirjad;
+- 1) kandidaatide ringkonnanimekirjad;
 
-2) Tallinnas lisaks kandidaatide ülelinnalise nimekirja.
+- 2) Tallinnas lisaks kandidaatide ülelinnalise nimekirja.
 
 (2) Registreerimiseks esitatud kandidaat peab olema käesoleva paragrahvi lõikes 1 nimetatud mõlemas nimekirjas.
 

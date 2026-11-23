@@ -2,11 +2,11 @@
 
 (1) Kohaliku omavalitsuse volikogu valimisi korraldavad:
 
-1) riigi valimisteenistus;
+- 1) riigi valimisteenistus;
 
-2) valla- ja linnasekretärid;
+- 2) valla- ja linnasekretärid;
 
-3) jaoskonnakomisjonid.
+- 3) jaoskonnakomisjonid.
 
 (2) Riigi valimisteenistuse moodustamise kord sätestatakse Riigikogu valimise seaduses.
 

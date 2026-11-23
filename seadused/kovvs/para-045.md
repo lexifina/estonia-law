@@ -1,6 +1,6 @@
 # § 45. Hääletamine
 
-(1) Valija hääletab tema elukohajärgse valimisringkonna territooriumil asuvas valimisjaoskonnas, välja arvatud käesoleva seaduse §-des 47–49 ja 51 ning 7¹. peatükis ettenähtud juhtudel.
+(1) Valija hääletab tema elukohajärgse valimisringkonna territooriumil asuvas valimisjaoskonnas, välja arvatud käesoleva seaduse §-des 47–49 ja 51 ning 7¹. peatükis ettenähtud juhtudel.
 
 (2) Hääletamissedeli saamiseks esitab valija jaoskonnakomisjonile isikut tõendava dokumendi.
 

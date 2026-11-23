@@ -4,13 +4,15 @@
 
 (2) Valla ja linna valimiskomisjoni liikme volitused lõpevad ennetähtaegselt:
 
-1) tema tagasiastumisega;
+- 1) tema tagasiastumisega;
 
-2) tema surmaga;
+- 2) tema surmaga;
 
-3) tema asumisega erakonna, valimisliidu või üksikkandidaadi volitatud esindajaks;
+- 3) tema asumisega erakonna, valimisliidu või üksikkandidaadi volitatud esindajaks;
 
-4) tema registreerimiseks esitamisega kandidaadiks kohaliku omavalitsuse volikogu valimistel;
+- 4) tema registreerimiseks esitamisega kandidaadiks kohaliku omavalitsuse volikogu valimistel;
+
+- 5) [Kehtetu]
 
 (3) Valla ja linna valimiskomisjoni liikme võib ennetähtaegselt valimiskomisjoni liikme kohustustest vabastada tema nimetanud volikogu oma põhistatud otsusega kas omal algatusel või valimiskomisjoni ettepanekul.
 

@@ -8,4 +8,4 @@
 
 (4) Valla- või linnasekretär edastab valimisringkonna kandidaatide koondnimekirjad ja ülelinnalised nimekirjad. Riigi valimisteenistus koostab kõikide volikogude liikmekandidaatide nimekirja.
 
-(5) Valla- või linnasekretär teavitab kõigist valla või linna kandidaatide koondnimekirja ja ülelinnalise nimekirja parandustest ja muudatustest viivitamata riigi valimisteenistust. Riigi valimisteenistus teavitab parandustest ja muudatustest teisi valla- või linnasekretäre. Valla- või linnasekretär teeb kõikide volikogude liikmekandidaatide nimekirja asjakohased parandused ja muudatused. Kandidaatide nimekirju ei muudeta pärast 13. päeva enne valimispäeva.
+(5) Valla- või linnasekretär teavitab kõigist valla või linna kandidaatide koondnimekirja ja ülelinnalise nimekirja parandustest ja muudatustest viivitamata riigi valimisteenistust. Riigi valimisteenistus teavitab parandustest ja muudatustest teisi valla- või linnasekretäre. Valla- või linnasekretär teeb kõikide volikogude liikmekandidaatide nimekirja asjakohased parandused ja muudatused. Kandidaatide nimekirju ei muudeta pärast 13. päeva enne valimispäeva.
