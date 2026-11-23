@@ -1,14 +1,14 @@
 # § 51. Riikliku ülesande kulude katmine
 
-(1) Kohaliku omavalitsuse üksusele seadusega pandud riikliku ülesande (edaspidi *riiklik ülesanne*) kulude katmise aluseks on keskmine arvutatud kulu või tegelik kulu.
+(1) Kohaliku omavalitsuse üksusele seadusega pandud riikliku ülesande (edaspidi riiklik ülesanne) kulude katmise aluseks on keskmine arvutatud kulu või tegelik kulu.
 
-(2) Kui riikliku ülesande kulud kaetakse seaduses sätestatud arvnäitajate alusel, määratakse keskmise kulu arvutamise põhimõtted või tegeliku kulu hüvitamise põhimõtted käesoleva seaduse § 48 lõikes 4 nimetatud määruses.
+(2) Kui riikliku ülesande kulud kaetakse seaduses sätestatud arvnäitajate alusel, määratakse keskmise kulu arvutamise põhimõtted või tegeliku kulu hüvitamise põhimõtted käesoleva seaduse § 48 lõikes 4 nimetatud määruses.
 
-(3) määrusega:
+(3) Minister võib kehtestada määrusega:
 
-1) riikliku ülesande kulude katmise keskmise kulu arvutamise või tegeliku kulu hüvitamise põhimõtted;
+- 1) riikliku ülesande kulude katmise keskmise kulu arvutamise või tegeliku kulu hüvitamise põhimõtted;
 
-2) kulude katmise taotluse esitamise ja menetlemise korra.
+- 2) kulude katmise taotluse esitamise ja menetlemise korra.
 
 (4) Hüvitise määrad riikliku ülesande kulude katmiseks määratakse igaks eelarveaastaks riigieelarvega.
 

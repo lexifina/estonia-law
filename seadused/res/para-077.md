@@ -6,4 +6,4 @@
 
 (3) Riigikontrolli raamatupidamise aastaaruande auditi teeb ja tehingute seaduslikkust kontrollib Riigikogu poolt vastavalt Riigikontrolli seadusele määratud audiitorettevõtja.
 
-(4) Riigikontroll võib käesoleva paragrahvi lõikes 2 nimetatud auditi või tehingute seaduslikkuse kontrolli käigus toetuda riigi konsolideerimisgrupi üksuse raamatupidamise aastaaruande auditis või tehingute seaduslikkuse kontrolli põhjal audiitortegevuse seaduse § 54 tähenduses vormistatud vandeaudiitori aruandes avaldatule.
+(4) Riigikontroll võib käesoleva paragrahvi lõikes 2 nimetatud auditi või tehingute seaduslikkuse kontrolli käigus toetuda riigi konsolideerimisgrupi üksuse raamatupidamise aastaaruande auditis või tehingute seaduslikkuse kontrolli põhjal audiitortegevuse seaduse § 54 tähenduses vormistatud vandeaudiitori aruandes avaldatule.

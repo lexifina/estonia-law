@@ -6,9 +6,7 @@
 
 (2) Vabariigi Valitsuse reservist vahendite eraldamise otsustab Vabariigi Valitsus. Raha eraldamisel kuludeks määrab Vabariigi Valitsus tulemusvaldkonna, kus raha kasutatakse.
 
-(3) Vabariigi Valitsuse reservist vahendite eraldamise ja eraldatud vahendite kasutamise korra kehtestab
-
-määrusega.
+(3) Vabariigi Valitsuse reservist vahendite eraldamise ja eraldatud vahendite kasutamise korra kehtestab Vabariigi Valitsus määrusega.
 
 (4) Vabariigi Valitsusel on õigus käesoleva paragrahvi lõikes 3 nimetatud määrusega volitada käesoleva paragrahvi lõikes 1¹ nimetatud sihtotstarbeliste vahendite eraldamist otsustama valdkonna eest vastutav minister. Valdkonna eest vastutav minister võib vahendeid eraldada ainult Vabariigi Valitsuse määratud sihtotstarbeks.
 

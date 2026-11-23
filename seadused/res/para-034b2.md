@@ -4,6 +4,4 @@
 
 (2) Tõhustamiskavaga tehakse konkreetsed ettepanekud riigieelarve vahendite mõjusamaks, tõhusamaks ja säästlikumaks kasutamiseks.
 
-(3) Tõhustamiskava koostamise tingimused ja korra kehtestab
-
-määrusega.
+(3) Tõhustamiskava koostamise tingimused ja korra kehtestab Vabariigi Valitsus määrusega.

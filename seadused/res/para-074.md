@@ -4,14 +4,14 @@
 
 (2) Käesoleva paragrahvi lõikes 1 nimetatud aruandes esitatakse vähemalt:
 
-1) stabiliseerimisreservi varade turuväärtus ja selle muutus võrreldes aruandeperioodile eelneva kvartali lõpu ja aruandeaasta algusega;
+- 1) stabiliseerimisreservi varade turuväärtus ja selle muutus võrreldes aruandeperioodile eelneva kvartali lõpu ja aruandeaasta algusega;
 
-2) stabiliseerimisreservi sissemaksed ja väljamaksed koondsummadena;
+- 2) stabiliseerimisreservi sissemaksed ja väljamaksed koondsummadena;
 
-3) stabiliseerimisreservi tulusus;
+- 3) stabiliseerimisreservi tulusus;
 
-4) ülevaade stabiliseerimisreservi paigutuste struktuurist finantsvarade, suurimate emitentide ja krediidiasutuste, krediidireitingute, valuuta ja sektorite kaupa;
+- 4) ülevaade stabiliseerimisreservi paigutuste struktuurist finantsvarade, suurimate emitentide ja krediidiasutuste, krediidireitingute, valuuta ja sektorite kaupa;
 
-5) stabiliseerimisreservi investeeringute keskmine kestus.
+- 5) stabiliseerimisreservi investeeringute keskmine kestus.
 
 (3) Rahandusministeerium avaldab käesoleva paragrahvi lõikes 1 nimetatud aruande oma kodulehel pärast Vabariigi Valitsuse istungit, kus aruannet arutati.

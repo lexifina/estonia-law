@@ -4,4 +4,4 @@
 
 (2) Riigieelarve muutmise seaduse eelnõu koos seletuskirjaga koostab Rahandusministeerium.
 
-(3) Riigieelarve muutmise seaduse eelnõu esitamine, arutamine ja vastuvõtmine toimub käesoleva seaduse §-des 39 ja 40 sätestatud korras.
+(3) Riigieelarve muutmise seaduse eelnõu esitamine, arutamine ja vastuvõtmine toimub käesoleva seaduse §-des 39 ja 40 sätestatud korras.

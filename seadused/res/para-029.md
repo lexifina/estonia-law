@@ -2,6 +2,8 @@
 
 (1) Eelarveklassifikaator koosneb vahendite detailsest liigendusest ning eelarvestamisel, finantsjuhtimises ja strateegilises planeerimises kasutatavatest arvestuspõhimõtetest ja mõistetest.
 
-(4) Eelarveklassifikaatori kehtestab
+(2) [Kehtetu]
 
-määrusega.
+(3) [Kehtetu]
+
+(4) Eelarveklassifikaatori kehtestab valdkonna eest vastutav minister määrusega.
