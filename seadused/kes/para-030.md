@@ -4,7 +4,7 @@
 
 (2) Nimekirja kande kehtivus lõpeb nimekirjas oleku kolmanda aasta 15. detsembril, olenemata kande tegemise kuupäevast.
 
-(3) Registreeritud eraeksperdi taotluse alusel võib käesoleva paragrahvi lõikes 2 nimetatud kehtivusaega korduvalt pikendada, kui isik vastab käesoleva seaduse §-s 26 nimetatud nõuetele, mille kohta registreeritud eraekspert annab kande pikendamise taotluses kinnituse.
+(3) Registreeritud eraeksperdi taotluse alusel võib käesoleva paragrahvi lõikes 2 nimetatud kehtivusaega korduvalt pikendada, kui isik vastab käesoleva seaduse §-s 26 nimetatud nõuetele, mille kohta registreeritud eraekspert annab kande pikendamise taotluses kinnituse.
 
 (4) Nimekirja kande kehtivusaja pikendamise taotlus tuleb esitada ekspertiisiasutusele hiljemalt kolm kuud enne kehtivusaja lõppemist.
 

@@ -2,11 +2,11 @@
 
 (1) Ekspertiisiasutus tasub:
 
-1) ekspertiisiasutuses tehtava ekspertiisi käigus väljastpoolt ekspertiisiasutust tellitava uuringu eest;
+- 1) ekspertiisiasutuses tehtava ekspertiisi käigus väljastpoolt ekspertiisiasutust tellitava uuringu eest;
 
-2) käesoleva seaduse § 14 lõike 1 alusel kriminaalmenetluses välisriigi ekspertiisi- või muust asutusest tellitud ekspertiisi eest;
+- 2) käesoleva seaduse § 14 lõike 1 alusel kriminaalmenetluses välisriigi ekspertiisi- või muust asutusest tellitud ekspertiisi eest;
 
-3) kriminaalmenetluses väljastpoolt ekspertiisiasutust ekspertide komisjoni liikmeks kaasatud eksperdile.
+- 3) kriminaalmenetluses väljastpoolt ekspertiisiasutust ekspertide komisjoni liikmeks kaasatud eksperdile.
 
 (2) Väljastpoolt ekspertiisiasutust ekspertide komisjoni liikmeks kaasatud eksperdile tasutakse vastavalt tema ekspertiisi antavale panusele.
 
