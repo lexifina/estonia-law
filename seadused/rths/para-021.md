@@ -4,6 +4,4 @@
 
 (2) Ohutu ja tervist toetava elukeskkonna kujundamiseks tuleb sotsiaalteenuse osutamisel hinnata ja ohjata elukeskkonnast tulenevaid terviseriske, vähendada riskitegureid ning ennetada nende toimet.
 
-(3) Täpsemad nõuded elukeskkonnale, kus osutatakse sotsiaalteenust, ning terviseriskide ohjamisele ja riskitegurite vähendamisele selles elukeskkonnas kehtestab
-
-määrusega.
+(3) Täpsemad nõuded elukeskkonnale, kus osutatakse sotsiaalteenust, ning terviseriskide ohjamisele ja riskitegurite vähendamisele selles elukeskkonnas kehtestab valdkonna eest vastutav minister määrusega.

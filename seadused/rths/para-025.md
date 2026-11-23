@@ -6,20 +6,18 @@
 
 (3) Vähi sõeluuringute registris töödeldakse järgmisi andmeid:
 
-1) isiku üldandmed, Eestis viibitud aeg ja ravikindlustuse olemasolu;
+- 1) isiku üldandmed, Eestis viibitud aeg ja ravikindlustuse olemasolu;
 
-2) saadetud sõeluuringu kutse ja korduskutse;
+- 2) saadetud sõeluuringu kutse ja korduskutse;
 
-3) sõeluuringu sihtrühma kuuluva isiku terviseandmed ning sõeluuringu sihtrühma kuuluvale isikule sõeluuringuväliselt tehtud uuringu, analüüsi või protseduuri andmed;
+- 3) sõeluuringu sihtrühma kuuluva isiku terviseandmed ning sõeluuringu sihtrühma kuuluvale isikule sõeluuringuväliselt tehtud uuringu, analüüsi või protseduuri andmed;
 
-4) isiku surma aeg ja põhjus;
+- 4) isiku surma aeg ja põhjus;
 
-5) andmete esitaja andmed.
+- 5) andmete esitaja andmed.
 
 (4) Vähi sõeluuringute registris säilitatakse andmeid tähtajatult. Logisid ja alusandmeid säilitatakse vähi sõeluuringute registri põhimääruse kohaselt.
 
 (5) Vähi sõeluuringute registri vastutav töötleja on Tervise Arengu Instituut.
 
-(6) Vähi sõeluuringute registri asutab ja selle põhimääruse kehtestab
-
-määrusega.
+(6) Vähi sõeluuringute registri asutab ja selle põhimääruse kehtestab valdkonna eest vastutav minister määrusega.

@@ -6,18 +6,16 @@
 
 (3) Müokardiinfarktiregistris töödeldakse järgmisi andmeid:
 
-1) isiku üldandmed ja Eestis viibitud aeg;
+- 1) isiku üldandmed ja Eestis viibitud aeg;
 
-2) müokardiinfarktihaige terviseandmed, sealhulgas nii haiglaravieelne, -aegne kui ka -järgne uuring ja selle tulemus ning ravimid;
+- 2) müokardiinfarktihaige terviseandmed, sealhulgas nii haiglaravieelne, -aegne kui ka -järgne uuring ja selle tulemus ning ravimid;
 
-3) isiku surma aeg ja põhjus ning suremispaik;
+- 3) isiku surma aeg ja põhjus ning suremispaik;
 
-4) andmete esitaja andmed.
+- 4) andmete esitaja andmed.
 
 (4) Müokardiinfarktiregistris säilitatakse andmeid tähtajatult. Logisid ja alusandmeid säilitatakse müokardiinfarktiregistri põhimääruse kohaselt.
 
 (5) Müokardiinfarktiregistri vastutav töötleja on Sotsiaalministeerium.
 
-(6) Müokardiinfarktiregistri asutab ja selle põhimääruse kehtestab
-
-määrusega.
+(6) Müokardiinfarktiregistri asutab ja selle põhimääruse kehtestab valdkonna eest vastutav minister määrusega.

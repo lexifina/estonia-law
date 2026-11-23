@@ -6,18 +6,16 @@
 
 (3) Tuberkuloosiregistris töödeldakse järgmisi andmeid:
 
-1) isiku üldandmed, rahvus, perekonnaseis, haridus, tegevusala ja -koht, Eestis viibitud aeg, ravikindlustuse olemasolu ning vanema nimi;
+- 1) isiku üldandmed, rahvus, perekonnaseis, haridus, tegevusala ja -koht, Eestis viibitud aeg, ravikindlustuse olemasolu ning vanema nimi;
 
-2) tuberkuloosihaige terviseandmed, sealhulgas tema ravieelne seisund, ravi ning selle tulemus ja lõpetamise põhjused, samuti kasutatud ravimid;
+- 2) tuberkuloosihaige terviseandmed, sealhulgas tema ravieelne seisund, ravi ning selle tulemus ja lõpetamise põhjused, samuti kasutatud ravimid;
 
-3) isiku surma aeg ja põhjus;
+- 3) isiku surma aeg ja põhjus;
 
-4) andmete esitaja andmed.
+- 4) andmete esitaja andmed.
 
 (4) Tuberkuloosiregistris säilitatakse andmeid tähtajatult. Logisid ja alusandmeid säilitatakse tuberkuloosiregistri põhimääruse kohaselt.
 
 (5) Tuberkuloosiregistri vastutav töötleja on Tervise Arengu Instituut.
 
-(6) Tuberkuloosiregistri asutab ja selle põhimääruse kehtestab
-
-määrusega.
+(6) Tuberkuloosiregistri asutab ja selle põhimääruse kehtestab valdkonna eest vastutav minister määrusega.

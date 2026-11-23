@@ -4,12 +4,8 @@
 
 (2) Käesoleva paragrahvi lõikes 1 nimetatud asutuses ja sotsiaalteenuse osutamise korral peab olema nähtavas kohas ja tasuta kättesaadav veeseaduse alusel kehtestatud nõuetele vastav joogivesi.
 
-(3) Täpsemad nõuded toitlustamisele ja selle dokumenteerimisele haiglas ja kinnipidamisasutuses ning täiskasvanutele sotsiaalteenuse osutamisel kehtestab
+(3) Täpsemad nõuded toitlustamisele ja selle dokumenteerimisele haiglas ja kinnipidamisasutuses ning täiskasvanutele sotsiaalteenuse osutamisel kehtestab valdkonna eest vastutav minister määrusega.
 
-määrusega.
-
-(4) Täpsemad nõuded toitlustamisele ja selle dokumenteerimisele lastehoius ja lasteaias, statsionaarse õppega üldhariduskoolis ja kutseõppeasutuses ning lastele sotsiaalteenuse osutamisel kehtestab
-
-määrusega.
+(4) Täpsemad nõuded toitlustamisele ja selle dokumenteerimisele lastehoius ja lasteaias, statsionaarse õppega üldhariduskoolis ja kutseõppeasutuses ning lastele sotsiaalteenuse osutamisel kehtestab Vabariigi Valitsus määrusega.
 
 (5) Üldhariduskooli ja kutseõppeasutuse direktor kehtestab koolis müügiks pakutavale toidule nõuded ja piirangud, arvestades Sotsiaalministeeriumi valitsemisala asutuse koostatud juhendit, mis on avaldatud Sotsiaalministeeriumi valitsemisala asutuse veebilehel. Nõuded ja piirangud esitatakse enne nende kehtestamist arvamuse avaldamiseks hoolekogule või nõukogule.

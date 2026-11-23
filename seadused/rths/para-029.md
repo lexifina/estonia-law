@@ -6,16 +6,14 @@
 
 (3) Vee terviseohutuse infosüsteemis töödeldakse järgmisi andmeid:
 
-1) joogivee käitleja andmed ning veevärgi ja joogivee kvaliteet;
+- 1) joogivee käitleja andmed ning veevärgi ja joogivee kvaliteet;
 
-2) ujula valdaja andmed ja basseinivee kvaliteet;
+- 2) ujula valdaja andmed ja basseinivee kvaliteet;
 
-3) supluskoha valdaja andmed ja suplusvee kvaliteet;
+- 3) supluskoha valdaja andmed ja suplusvee kvaliteet;
 
-4) loodusliku mineraalvee või allikavee käitleja andmed ning loodusliku mineraalvee ja allikavee kvaliteet.
+- 4) loodusliku mineraalvee või allikavee käitleja andmed ning loodusliku mineraalvee ja allikavee kvaliteet.
 
 (4) Vee terviseohutuse infosüsteemi vastutav töötleja on Terviseamet.
 
-(5) Vee terviseohutuse infosüsteemi asutab ja selle põhimääruse kehtestab
-
-määrusega.
+(5) Vee terviseohutuse infosüsteemi asutab ja selle põhimääruse kehtestab valdkonna eest vastutav minister määrusega.

@@ -4,16 +4,16 @@
 
 (2) Tervisedenduse meetmed on:
 
-1) vigastuste ennetamine ja vähendamine;
+- 1) vigastuste ennetamine ja vähendamine;
 
-2) nakkushaiguste leviku ennetamine ja vähendamine;
+- 2) nakkushaiguste leviku ennetamine ja vähendamine;
 
-3) uimastavate ja sõltuvust tekitavate ainete tarvitamise ennetamine ja vähendamine;
+- 3) uimastavate ja sõltuvust tekitavate ainete tarvitamise ennetamine ja vähendamine;
 
-4) tasakaalustatud toitumise ja kehalise aktiivsuse edendamine ning istuva eluviisi vähendamine;
+- 4) tasakaalustatud toitumise ja kehalise aktiivsuse edendamine ning istuva eluviisi vähendamine;
 
-5) vaimse tervise edendamine;
+- 5) vaimse tervise edendamine;
 
-6) seksuaaltervise edendamine.
+- 6) seksuaaltervise edendamine.
 
 (3) Nakkushaiguste ennetamine ja nendest rahvastiku tervisele tulenevate mõjude ohjamine on sätestatud nakkushaiguste ennetamise ja tõrje seaduses.
