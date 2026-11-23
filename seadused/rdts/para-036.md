@@ -4,7 +4,7 @@
 
 (2) Käesoleva paragrahvi lõikes 1 nimetatud töötajal peab olema tööks vastav pädevus, mida tõendab asjakohane kutse kutseseaduse tähenduses, mis antakse isikule viieks aastaks.
 
-(3) Käesoleva paragrahvi lõikes 1 nimetatud töötajana võib tegutseda ka välisriigi kutsekvalifikatsiooni omandanud isik, kui tema kutsekvalifikatsiooni on tunnustatud välisriigi kutsekvalifikatsiooni tunnustamise seaduse kohaselt. Välisriigi kutsekvalifikatsiooni tunnustamise seaduse § 7 lõikes 2 sätestatud pädev asutus on Tarbijakaitse ja Tehnilise Järelevalve Amet.
+(3) Käesoleva paragrahvi lõikes 1 nimetatud töötajana võib tegutseda ka välisriigi kutsekvalifikatsiooni omandanud isik, kui tema kutsekvalifikatsiooni on tunnustatud välisriigi kutsekvalifikatsiooni tunnustamise seaduse kohaselt. Välisriigi kutsekvalifikatsiooni tunnustamise seaduse § 7 lõikes 2 sätestatud pädev asutus on Tarbijakaitse ja Tehnilise Järelevalve Amet.
 
 (4) Raudteerajatise omanik või valdaja, kes ei ole raudteeinfrastruktuuriettevõtja, peab määrama pädeva isiku, kellel on raudteeinseneri, raudtee teemehaaniku või raudtee turvanguseadmete mehaaniku kutse ja kes vastutab raudteeohutuse eest.
 

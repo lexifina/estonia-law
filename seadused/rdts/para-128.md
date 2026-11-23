@@ -10,4 +10,4 @@
 
 (5) Kui raudteeveoettevõtja võetavad parandusmeetmed ei taga vastavust olulistele nõuetele ning kui mittevastavus toob kaasa riski raudteeohutusele, võib Tarbijakaitse ja Tehnilise Järelevalve Amet oma järelevalveülesannete raames ajutiselt raudteeveeremi tüübiloa kehtivuse peatada ja vastava raudteeveeremi tüübi kasutamist piirata.
 
-(6) Kui raudteeveeremi tüübiloa on andnud Raudteeamet, edastab Tarbijakaitse ja Tehnilise Järelevalve Amet Raudteeametile teate koos põhjenduste ja tõenditega käesoleva paragrahvi lõikes 5 nimetatud piirangute rakendamisest.
+(6) Kui raudteeveeremi tüübiloa on andnud Raudteeamet, edastab Tarbijakaitse ja Tehnilise Järelevalve Amet Raudteeametile teate koos põhjenduste ja tõenditega käesoleva paragrahvi lõikes 5 nimetatud piirangute rakendamisest.

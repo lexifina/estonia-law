@@ -8,4 +8,4 @@
 
 (4) Käesoleva paragrahvi lõike 1 alusel äravõetud läbilaskevõimeosa kohta avaldab raudteeinfrastruktuuriettevõtja oma veebilehel teate, milles ta määrab vähemalt 14-päevase tähtaja äravõetud läbilaskevõimeosale taotluse esitamiseks.
 
-(5) Kui äravõetud läbilaskevõimeosa soovivad korraga mitu taotlejat, kohaldatakse selle eraldamisele käesoleva seaduse § 91 lõigetes 1–6 sätestatut. Äravõetud läbilaskevõimeosa eraldamisele läbilaskevõime ammendumise korral kohaldatakse käesoleva seaduse § 92 lõigetes 2, 3, 5, 6, 8 ja 9 sätestatut.
+(5) Kui äravõetud läbilaskevõimeosa soovivad korraga mitu taotlejat, kohaldatakse selle eraldamisele käesoleva seaduse § 91 lõigetes 1–6 sätestatut. Äravõetud läbilaskevõimeosa eraldamisele läbilaskevõime ammendumise korral kohaldatakse käesoleva seaduse § 92 lõigetes 2, 3, 5, 6, 8 ja 9 sätestatut.

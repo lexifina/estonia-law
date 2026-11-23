@@ -8,6 +8,6 @@
 
 (4) Ohutusjuurdluse aruanne sisaldab kokkuvõtet, fakte juhtumi kohta, uurimise ja käsitluse andmeid, analüüsi ja järeldusi, rakendatud meetmeid ning Ohutusjuurdluse Keskuse esitatud soovitusi seoses raudteeohutust mõjutava juhtumiga vastavalt juhtumi tõsidusele.
 
-(5) Tarbijakaitse ja Tehnilise Järelevalve Amet ning asutused, ettevõtted ja organisatsioonid, kellele Ohutusjuurdluse Keskuse ohutusjuurdluse aruandes esitatud soovitused on suunatud, esitavad Ohutusjuurdluse Keskusele ohutusjuurdluse aruande avalikustamisele järgneva aasta 1. aprilliks soovituste põhjal võetud või kavandatavate meetmete aruande. Aruande koopia võib Ohutusjuurdluse Keskus esitada teistele asutustele.
+(5) Tarbijakaitse ja Tehnilise Järelevalve Amet ning asutused, ettevõtted ja organisatsioonid, kellele Ohutusjuurdluse Keskuse ohutusjuurdluse aruandes esitatud soovitused on suunatud, esitavad Ohutusjuurdluse Keskusele ohutusjuurdluse aruande avalikustamisele järgneva aasta 1. aprilliks soovituste põhjal võetud või kavandatavate meetmete aruande. Aruande koopia võib Ohutusjuurdluse Keskus esitada teistele asutustele.
 
 (6) Iga aasta 30. septembriks avaldab Ohutusjuurdluse Keskus oma veebilehel aastaaruande, kus esitatakse ülevaade eelneva kalendriaasta jooksul uuritud raudteeohutust mõjutavatest juhtumitest, soovitustest ning soovituste põhjal võetud meetmetest raudteeliiklusohutuse kohta. Aastaaruande koopia edastatakse Raudteeametile.

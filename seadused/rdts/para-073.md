@@ -4,7 +4,7 @@
 
 (2) Vabariigi Valitsus kinnitab käesoleva paragrahvi lõikes 1 nimetatud tegevuskava, mis hõlmab vähemalt viieaastast perioodi.
 
-(3) Raudteeinfrastruktuuriettevõtja koostab äriplaani, mis sisaldab investeerimis- ja rahastamiskava, arvestades käesoleva paragrahvi lõikes 2 nimetatud tegevuskava ja riigipoolset rahastamist. Äriplaan peab tagama raudteeinfrastruktuuri optimaalse ja tõhusa kasutamise, kättesaadavaks tegemise ja arendamise ning nägema ette nende eesmärkide saavutamiseks vajaliku rahalise tasakaalu ja rahalised vahendid. Äriplaan peab olema kooskõlas käesoleva seaduse §-s 80 nimetatud lepinguga, kui selline leping on sõlmitud.
+(3) Raudteeinfrastruktuuriettevõtja koostab äriplaani, mis sisaldab investeerimis- ja rahastamiskava, arvestades käesoleva paragrahvi lõikes 2 nimetatud tegevuskava ja riigipoolset rahastamist. Äriplaan peab tagama raudteeinfrastruktuuri optimaalse ja tõhusa kasutamise, kättesaadavaks tegemise ja arendamise ning nägema ette nende eesmärkide saavutamiseks vajaliku rahalise tasakaalu ja rahalised vahendid. Äriplaan peab olema kooskõlas käesoleva seaduse §-s 80 nimetatud lepinguga, kui selline leping on sõlmitud.
 
 (4) Raudteeinfrastruktuuriettevõtja annab enne äriplaani kinnitamist teadaolevatele ning selleks soovi avaldanud võimalikele läbilaskevõime taotlejatele juurdepääsu asjakohasele teabele ja võimaluse väljendada oma seisukohti äriplaani kohta infrastruktuurile juurdepääsu ja selle kasutamise tingimuste ning infrastruktuuri olemuse, kättesaadavaks tegemise ja arendamise küsimuses.
 

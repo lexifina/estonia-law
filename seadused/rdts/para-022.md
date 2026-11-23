@@ -1,12 +1,12 @@
 # § 22. Ohutusloa ja tegutsemise ohutustunnistusega ettevõtjale antavad õigused
 
-(1) Raudteeinfrastruktuuriettevõtja võib avalikku raudteed majandada, kui tal on lisaks käesoleva seaduse § 12 lõike 1 punktis 1 nimetatud tegevusalal tegutsemise tegevusloale ka ohutusluba.
+(1) Raudteeinfrastruktuuriettevõtja võib avalikku raudteed majandada, kui tal on lisaks käesoleva seaduse § 12 lõike 1 punktis 1 nimetatud tegevusalal tegutsemise tegevusloale ka ohutusluba.
 
 (2) Mitteavaliku raudtee valdaja võib mitteavalikku raudteed majandada, kui tal on vastav tegutsemise ohutustunnistus.
 
-(3) Ettevõtja võib tegeleda kaubaveoga mitteavalikul raudteel, kui tal on vastav tegutsemise ohutustunnistus või käesoleva seaduse § 27 kohane ühtne ohutustunnistus.
+(3) Ettevõtja võib tegeleda kaubaveoga mitteavalikul raudteel, kui tal on vastav tegutsemise ohutustunnistus või käesoleva seaduse § 27 kohane ühtne ohutustunnistus.
 
-(4) Ettevõtja võib tegeleda reisijateveoga mitteavalikul raudteel, kui tal on vastav tegutsemise ohutustunnistus või käesoleva seaduse § 27 kohane ühtne ohutustunnistus.
+(4) Ettevõtja võib tegeleda reisijateveoga mitteavalikul raudteel, kui tal on vastav tegutsemise ohutustunnistus või käesoleva seaduse § 27 kohane ühtne ohutustunnistus.
 
 (5) Ohutusluba kinnitab, et raudteeinfrastruktuuriettevõtja ohutusjuhtimise süsteem ning protseduurid ja tingimused, mis on vajalikud raudteeinfrastruktuuri ning liiklusjuhtimis- ja signaalimissüsteemi ohutuks projekteerimiseks, hoolduseks ja käitamiseks, vastavad käesoleva seaduse ja selle alusel antud õigusaktide nõuetele.
 

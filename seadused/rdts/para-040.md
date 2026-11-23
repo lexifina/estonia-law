@@ -12,16 +12,14 @@
 
 (6) Raudtee-ettevõtja esitab iga aasta 31. maiks Tarbijakaitse ja Tehnilise Järelevalve Ametile eelmise kalendriaasta kohta ohutusaruande alljärgneva kohta:
 
-1) ülevaade ettevõtja raudteeohutuse eesmärkide saavutamise ja tulemuste kohta;
+- 1) ülevaade ettevõtja raudteeohutuse eesmärkide saavutamise ja tulemuste kohta;
 
-2) riigisiseste ohutusnäitajate ja ühiste ohutusnäitajate areng, kui see on ettevõtja hinnangul vaja ohutusaruandes esitada;
+- 2) riigisiseste ohutusnäitajate ja ühiste ohutusnäitajate areng, kui see on ettevõtja hinnangul vaja ohutusaruandes esitada;
 
-3) sisemise ohutusauditi tulemused, milles kajastatakse ka selle käigus avastatud puudused ja puuduste kõrvaldamiseks rakendatud meetmed;
+- 3) sisemise ohutusauditi tulemused, milles kajastatakse ka selle käigus avastatud puudused ja puuduste kõrvaldamiseks rakendatud meetmed;
 
-4) tähelepanekud raudteeinfrastruktuuri või raudteeveo toimimise kitsaskohtadest või häiretest, millest Tarbijakaitse ja Tehnilise Järelevalve Ameti teavitamine on ettevõtja hinnangul vajalik, sealhulgas kokkuvõte riskidest, mille asjaomased isikud on esitanud kooskõlas käesoleva seaduse § 39 lõike 5 punktiga 2;
+- 4) tähelepanekud raudteeinfrastruktuuri või raudteeveo toimimise kitsaskohtadest või häiretest, millest Tarbijakaitse ja Tehnilise Järelevalve Ameti teavitamine on ettevõtja hinnangul vajalik, sealhulgas kokkuvõte riskidest, mille asjaomased isikud on esitanud kooskõlas käesoleva seaduse § 39 lõike 5 punktiga 2;
 
-5) aruanne asjakohaste ühiste ohutusmeetodite kohaldamise kohta.
+- 5) aruanne asjakohaste ühiste ohutusmeetodite kohaldamise kohta.
 
-(7) Nõuded raudtee-ettevõtja ohutusjuhtimise süsteemile ja selle rakendamisele kehtestab
-
-määrusega.
+(7) Nõuded raudtee-ettevõtja ohutusjuhtimise süsteemile ja selle rakendamisele kehtestab valdkonna eest vastutav minister määrusega.

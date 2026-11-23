@@ -1,6 +1,6 @@
 # § 167. Reisijale teabe andmata jätmine
 
-(1) Euroopa Parlamendi ja nõukogu määruse (EL) 2021/782 artiklis 9 sätestatud nõude täitmata jätmise eest –
+(1) Euroopa Parlamendi ja nõukogu määruse (EL) 2021/782 artiklis 9 sätestatud nõude täitmata jätmise eest –
 
 karistatakse rahatrahviga kuni 100 trahviühikut.
 

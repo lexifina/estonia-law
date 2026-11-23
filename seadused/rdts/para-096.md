@@ -2,7 +2,7 @@
 
 (1) Teenindusrajatise käitaja tagab kõikidele raudteeveoettevõtjatele mittediskrimineerival viisil juurdepääsu raudteele ning teenindusrajatistele ja neis osutatavatele teenustele.
 
-(2) Raudteeveoettevõtja esitatud teenindusrajatisele ja selles osutatavatele teenustele juurdepääsu taotlusele vastab rajatise käitaja 30 päeva jooksul taotluse saamisest arvates. Põhjendatud juhul ja vastava taotluse saamisel võib Konkurentsiamet määrata üldisest erineva vastamistähtaja.
+(2) Raudteeveoettevõtja esitatud teenindusrajatisele ja selles osutatavatele teenustele juurdepääsu taotlusele vastab rajatise käitaja 30 päeva jooksul taotluse saamisest arvates. Põhjendatud juhul ja vastava taotluse saamisel võib Konkurentsiamet määrata üldisest erineva vastamistähtaja.
 
 (3) Käesoleva paragrahvi lõikes 2 nimetatud taotluse võib tagasi lükata üksnes juhul, kui on olemas muu otstarbekas alternatiiv, kuidas asjaomaseid veoteenuseid samal või alternatiivsel marsruudil majanduslikult mõistlikel tingimustel osutada. Juurdepääsutaotluse saamine ei kohusta teenindusrajatise käitajat investeerima selleks, et täita kõiki raudteeveoettevõtjate taotlusi.
 

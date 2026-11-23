@@ -2,9 +2,9 @@
 
 (1) Käesoleva seaduse § 119 lõikes 1 nimetatud juhul loa andmiseks Raudteeamet:
 
-1) hindab käesoleva seaduse § 120 lõike 3 punktides 2–4 nimetatud asjaolusid, et kontrollida toimiku täielikkust ja asjakohasust ning vastavust koostalitluse tehnilistele kirjeldustele;
+- 1) hindab käesoleva seaduse § 120 lõike 3 punktides 2–4 nimetatud asjaolusid, et kontrollida toimiku täielikkust ja asjakohasust ning vastavust koostalitluse tehnilistele kirjeldustele;
 
-2) saadab taotleja toimiku kavandatud kasutusala asjaomastele riiklikele ohutusasutustele hindamiseks, et kontrollida toimiku täielikkust ja asjakohasust ning vastavust käesoleva seaduse § 120 lõike 3 punktis 4 nimetatud nõudele ning sama lõike punktides 1–3 nimetatud asjaolude vastavust võimalikele riigisisestele eeskirjadele.
+- 2) saadab taotleja toimiku kavandatud kasutusala asjaomastele riiklikele ohutusasutustele hindamiseks, et kontrollida toimiku täielikkust ja asjakohasust ning vastavust käesoleva seaduse § 120 lõike 3 punktis 4 nimetatud nõudele ning sama lõike punktides 1–3 nimetatud asjaolude vastavust võimalikele riigisisestele eeskirjadele.
 
 (2) Käesoleva seaduse § 119 lõikes 3 nimetatud juhul hindab loa andmiseks toimiku vastavust § 120 lõikele 3 Tarbijakaitse ja Tehnilise Järelevalve Amet.
 
@@ -12,9 +12,9 @@
 
 (4) Tarbijakaitse ja Tehnilise Järelevalve Amet võib praktilise kontrolli eesmärgil anda katsete tegemiseks ajutise loa raudteevõrgustikus raudteeveeremi kasutamiseks:
 
-1) kui käesoleva seaduse § 120 lõike 3 punktides 2 ja 4 nimetatud tehnilise ühilduvuse tõendamiseks on katsed vajalikud;
+- 1) kui käesoleva seaduse § 120 lõike 3 punktides 2 ja 4 nimetatud tehnilise ühilduvuse tõendamiseks on katsed vajalikud;
 
-2) käesoleva paragrahvi lõikes 3 nimetatud juhul.
+- 2) käesoleva paragrahvi lõikes 3 nimetatud juhul.
 
 (5) Raudteeinfrastruktuuriettevõtja peab katset võimaldama kolme kuu jooksul raudteeveeremi turule laskmise loa taotlejalt, Raudteeametilt või Tarbijakaitse ja Tehnilise Järelevalve Ametilt taotluse saamisest arvates.
 

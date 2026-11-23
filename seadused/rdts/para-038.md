@@ -14,16 +14,16 @@
 
 (7) Tarbijakaitse ja Tehnilise Järelevalve Amet avaldab iga aasta 30. septembriks oma veebilehel ja edastab Raudteeametile aastaaruande, milles esitatakse:
 
-1) ülevaade eelneva kalendriaasta jooksul toimunud raudteeohutuse arengust;
+- 1) ülevaade eelneva kalendriaasta jooksul toimunud raudteeohutuse arengust;
 
-2) kokkuvõte käesoleva seaduse §-s 45 nimetatud ohutusnäitajatest ning ohutustunnistuste ja ohutuslubade andmise arengust;
+- 2) kokkuvõte käesoleva seaduse §-s 45 nimetatud ohutusnäitajatest ning ohutustunnistuste ja ohutuslubade andmise arengust;
 
-3) olulised muudatused raudteeohutust käsitlevates õigusaktides;
+- 3) olulised muudatused raudteeohutust käsitlevates õigusaktides;
 
-4) raudtee-ettevõtjate järelevalve tulemused ning sellega seotud kontrollide ja auditite arv ja tulemused;
+- 4) raudtee-ettevõtjate järelevalve tulemused ning sellega seotud kontrollide ja auditite arv ja tulemused;
 
-5) ülevaade käesoleva seaduse § 42 lõike 8 kohaselt tehtud eranditest seoses hoolduse eest vastutava üksuse sertifitseerimisega;
+- 5) ülevaade käesoleva seaduse § 42 lõike 8 kohaselt tehtud eranditest seoses hoolduse eest vastutava üksuse sertifitseerimisega;
 
-6) kokkuvõte raudtee-ettevõtjate kogemustest asjakohaste ühiste ohutusmeetodite kohaldamisel.
+- 6) kokkuvõte raudtee-ettevõtjate kogemustest asjakohaste ühiste ohutusmeetodite kohaldamisel.
 
 (8) Tarbijakaitse ja Tehnilise Järelevalve Amet peab ohutusasutusena tegema koostööd teiste Euroopa Liidu ohutusasutustega ning vahetama nendega oma tööpraktikast tulenevaid seisukohti ja kogemusi. Koostöö hõlmab vähemalt ohutustunnistusi puudutavat ja piiriülese raudteeinfrastruktuuri korral ohutusloa andmise menetlust ning rahvusvahelise raudteeliikluse hõlbustamist ja koordineerimist.

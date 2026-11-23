@@ -8,17 +8,17 @@
 
 (4) Raudteeinfrastruktuuri läbilaskevõime suurendamise kavas peavad sisalduma järgmised andmed:
 
-1) läbilaskevõime ammendumise põhjused;
+- 1) läbilaskevõime ammendumise põhjused;
 
-2) raudteeliikluse eeldatav areng läbilaskevõime suurendamise kava teostamise ajal;
+- 2) raudteeliikluse eeldatav areng läbilaskevõime suurendamise kava teostamise ajal;
 
-3) raudteeinfrastruktuuri arendamist takistavad asjaolud;
+- 3) raudteeinfrastruktuuri arendamist takistavad asjaolud;
 
-4) läbilaskevõime suurendamise võimalused ja kulud, sealhulgas raudteeinfrastruktuuri kasutustasude eeldatavad muudatused pärast läbilaskevõime suurendamist;
+- 4) läbilaskevõime suurendamise võimalused ja kulud, sealhulgas raudteeinfrastruktuuri kasutustasude eeldatavad muudatused pärast läbilaskevõime suurendamist;
 
-5) läbilaskevõime suurendamiseks rakendatavad abinõud ja nende rakendamise ajakava.
+- 5) läbilaskevõime suurendamiseks rakendatavad abinõud ja nende rakendamise ajakava.
 
-(5) Tarbijakaitse ja Tehnilise Järelevalve Ametil on õigus raudteeinfrastruktuuri läbilaskevõime suurendamise kava heakskiitmisest keelduda, kui see ei vasta käesoleva paragrahvi lõikes 4 sätestatud nõuetele, ning määrata raudteeinfrastruktuuriettevõtjale ettekirjutusega tähtaeg puuduste kõrvaldamiseks.
+(5) Tarbijakaitse ja Tehnilise Järelevalve Ametil on õigus raudteeinfrastruktuuri läbilaskevõime suurendamise kava heakskiitmisest keelduda, kui see ei vasta käesoleva paragrahvi lõikes 4 sätestatud nõuetele, ning määrata raudteeinfrastruktuuriettevõtjale ettekirjutusega tähtaeg puuduste kõrvaldamiseks.
 
 (6) Raudteeinfrastruktuuriettevõtja on kohustatud raudteeinfrastruktuuri läbilaskevõime suurendamise kavas esitatud abinõude rakendamiseks tegema mõistlikke jõupingutusi. Raudteeinfrastruktuuriettevõtja avalikustab oma veebilehel raudteeinfrastruktuuri läbilaskevõime suurendamise kava pärast selle heakskiitmist Tarbijakaitse ja Tehnilise Järelevalve Ameti poolt.
 

@@ -1,6 +1,6 @@
 # § 164. Raudteeveonõuete rikkumine
 
-(1) Raudteeveoste paigaldamise nõuete rikkumise eest, kui sellega tekitati oht inimese elule, tervisele või varale või kui sellega ohustati raudteeliiklust, –
+(1) Raudteeveoste paigaldamise nõuete rikkumise eest, kui sellega tekitati oht inimese elule, tervisele või varale või kui sellega ohustati raudteeliiklust, –
 
 karistatakse rahatrahviga kuni 300 trahviühikut.
 

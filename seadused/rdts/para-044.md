@@ -2,13 +2,13 @@
 
 (1) Raudteeinfrastruktuuriettevõtja võib avalikul raudteel raudteeliiklust põhjendatud juhul oluliselt piirata või selle ajutiselt sulgeda, kui see on vältimatu ja vajalik:
 
-1) raudteehoiutööde tegemiseks;
+- 1) raudteehoiutööde tegemiseks;
 
-2) inimese elule, tervisele või varale või keskkonnale tekkinud otsese ohu kõrvaldamiseks;
+- 2) inimese elule, tervisele või varale või keskkonnale tekkinud otsese ohu kõrvaldamiseks;
 
-3) erakorralise liiklustakistuse kõrvaldamiseks;
+- 3) erakorralise liiklustakistuse kõrvaldamiseks;
 
-4) muudel põhjendatud ja vältimatutel juhtudel.
+- 4) muudel põhjendatud ja vältimatutel juhtudel.
 
 (2) Raudteeliikluse ajutine sulgemine on mingil raudteelõigul teatavaks ajavahemikuks kõigi liiklusgraafikus ettenähtud rongide käigust ärajätmine ning raudteeliikluse oluline piiramine on vähemalt ühe sõiduplaanis ettenähtud reisirongi käigust ärajätmine või olukord, kus ööpäeva jooksul ei suudeta tagada liiklusgraafikus ettenähtud rongiliinidest rohkem kui kolme neljandiku kasutamist.
 
@@ -22,6 +22,4 @@
 
 (7) Kui käesoleva paragrahvi lõikes 6 nimetatud häire võib mõjutada piiriülest raudteeliiklust, jagab raudteeinfrastruktuuriettevõtja asjakohast teavet teiste raudteeinfrastruktuuriettevõtjatega, kelle raudteevõrgustikku ja -liiklust see häire võib mõjutada. Raudteeinfrastruktuuriettevõtjad teevad tavapärase piiriülese raudteeliikluse taastamiseks koostööd.
 
-(8) Raudteeliikluse olulisest piiramisest ja ajutisest sulgemisest teavitamise korra ning esitatavate dokumentide ja andmete loetelu ja kooskõlastamise korra kehtestab
-
-määrusega.
+(8) Raudteeliikluse olulisest piiramisest ja ajutisest sulgemisest teavitamise korra ning esitatavate dokumentide ja andmete loetelu ja kooskõlastamise korra kehtestab valdkonna eest vastutav minister määrusega.

@@ -2,25 +2,25 @@
 
 (1) Kui käesoleva seaduse § 86 lõikes 1 nimetatud läbilaskevõime taotleja leiab, et tema õigusi on kahjustatud, on tal õigus esitada Konkurentsiametile kaebus toimingute ja otsuste peale, mis käsitlevad:
 
-1) raudteevõrgustiku teadaannet selle esialgsel ja lõplikul kujul ning selles esitatud kriteeriume;
+- 1) raudteevõrgustiku teadaannet selle esialgsel ja lõplikul kujul ning selles esitatud kriteeriume;
 
-2) läbilaskevõime jaotamise menetlust ja selle tulemust;
+- 2) läbilaskevõime jaotamise menetlust ja selle tulemust;
 
-3) raudteeinfrastruktuuri kasutustasude ja lisatasude määramist;
+- 3) raudteeinfrastruktuuri kasutustasude ja lisatasude määramist;
 
-4) temalt nõutavate või nõuda kavatsetavate raudteeinfrastruktuuri kasutustasude ja lisatasude suurust;
+- 4) temalt nõutavate või nõuda kavatsetavate raudteeinfrastruktuuri kasutustasude ja lisatasude suurust;
 
-5) juurdepääsu raudteeinfrastruktuurile ja teenindusrajatistele;
+- 5) juurdepääsu raudteeinfrastruktuurile ja teenindusrajatistele;
 
-6) teenustele juurdepääsu ja teenuste eest kasutustasude määramist;
+- 6) teenustele juurdepääsu ja teenuste eest kasutustasude määramist;
 
-7) liiklusjuhtimist;
+- 7) liiklusjuhtimist;
 
-8) uuenduste kavandamist ja plaanilisi või plaaniväliseid hooldustöid;
+- 8) uuenduste kavandamist ja plaanilisi või plaaniväliseid hooldustöid;
 
-9) vastavust käesoleva seaduse §-des 72 ja 75–78 sätestatud nõuetele või
+- 9) vastavust käesoleva seaduse §-des 72 ja 75–78 sätestatud nõuetele või
 
-10) tegutsemist huvide konflikti olukorras.
+- 10) tegutsemist huvide konflikti olukorras.
 
 (2) Konkurentsiamet vaatab kaebuse läbi, palub vajaduse korral lisateavet ja alustab pooltega konsultatsioone ühe kuu jooksul kaebuse saamisest arvates. Konkurentsiamet teeb kuue nädala jooksul kogu asjakohase teabe saamisest arvates kaebuse kohta otsuse ning avaldab selle. Otsusega jätab Konkurentsiamet kaebuse rahuldamata või teeb ettekirjutuse rikkumise kõrvaldamiseks, määrates selleks mõistliku tähtaja.
 
@@ -28,7 +28,7 @@
 
 (4) Kui kaebus on seotud rahvusvahelisele raudteeliinile juurdepääsuga või tasu määramisega, konsulteerib Konkurentsiamet nende liikmesriikide reguleerivate asutustega, mida asjassepuutuv rongiliin läbib, ja vajaduse korral Euroopa Komisjoniga ning taotleb neilt enne otsuse tegemist kogu vajaliku teabe.
 
-(5) Kui Konkurentsiameti poole pöördub seoses käesoleva paragrahvi lõikes 4 nimetatud kaebusega konsulteerimiseks teise liikmesriigi reguleeriv asutus, esitab Konkurentsiamet kogu teabe, mida tal on õigus asjassepuutuvalt isikult küsida. Kõnealust teavet võib kasutada üksnes lõikes 4 osutatud kaebuse või uurimisega seotud küsimuste lahendamiseks.
+(5) Kui Konkurentsiameti poole pöördub seoses käesoleva paragrahvi lõikes 4 nimetatud kaebusega konsulteerimiseks teise liikmesriigi reguleeriv asutus, esitab Konkurentsiamet kogu teabe, mida tal on õigus asjassepuutuvalt isikult küsida. Kõnealust teavet võib kasutada üksnes lõikes 4 osutatud kaebuse või uurimisega seotud küsimuste lahendamiseks.
 
 (6) Kui rahvusvahelise veoga seotud küsimused nõuavad kahe või enama reguleeriva asutuse otsust, teeb Konkurentsiamet otsuse ettevalmistamisel küsimuste lahendamiseks koostööd teiste reguleerivate asutustega.
 

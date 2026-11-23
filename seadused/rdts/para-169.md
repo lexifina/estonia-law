@@ -1,6 +1,6 @@
 # § 169. Reisijale rongi hilinemise korral abi andmata jätmine
 
-(1) Euroopa Parlamendi ja nõukogu määruse (EL) 2021/782 artiklis 18 või 20 sätestatud nõude täitmata jätmise eest –
+(1) Euroopa Parlamendi ja nõukogu määruse (EL) 2021/782 artiklis 18 või 20 sätestatud nõude täitmata jätmise eest –
 
 karistatakse rahatrahviga kuni 100 trahviühikut.
 

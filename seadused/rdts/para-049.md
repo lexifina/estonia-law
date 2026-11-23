@@ -12,6 +12,4 @@
 
 (6) Raudtee-ettevõtja või muu raudteeinfrastruktuuri omanik või valdaja on kohustatud võtma tarvitusele kõik abinõud raudteeohutust mõjutava juhtumi põhjuste väljaselgitamiseks.
 
-(7) Raudteeohutust mõjutavast juhtumist teatamise korra ning kirjaliku teate ja ettekande vorminõuded kehtestab
-
-määrusega.
+(7) Raudteeohutust mõjutavast juhtumist teatamise korra ning kirjaliku teate ja ettekande vorminõuded kehtestab valdkonna eest vastutav minister määrusega.

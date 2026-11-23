@@ -8,11 +8,11 @@
 
 (4) Käesoleva paragrahvi lõike 2 kohaselt võetud meetmest teavitatakse Euroopa Komisjoni, Raudteeametit ja teisi liikmesriike ning teates märgitakse, kas olulistele nõuetele mittevastavuse põhjustas:
 
-1) oluliste nõuete täitmata jätmine;
+- 1) oluliste nõuete täitmata jätmine;
 
-2) üle-euroopaliste tehniliste nõuete puudulikkus;
+- 2) üle-euroopaliste tehniliste nõuete puudulikkus;
 
-3) üle-euroopaliste tehniliste nõuete ebaõige kohaldamine, kui tuginetakse tehniliste nõuete kohaldamisele.
+- 3) üle-euroopaliste tehniliste nõuete ebaõige kohaldamine, kui tuginetakse tehniliste nõuete kohaldamisele.
 
 (5) Lisaks käesoleva paragrahvi lõikes 2 nimetatule võtab Tarbijakaitse ja Tehnilise Järelevalve Amet asjakohased meetmed EÜ vastavusdeklaratsiooni koostaja suhtes ning teavitab sellest Euroopa Komisjoni ja teisi liikmesriike.
 
@@ -20,10 +20,8 @@
 
 (7) Käesoleva paragrahvi lõike 6 kohases teates märgitakse, kas olulistele nõuetele mittevastavuse põhjustas:
 
-1) koostalitluse tehnilise kirjelduse või oluliste nõuete täitmata jätmine või koostalitluse tehnilise kirjelduse puudulik kohaldamine või
+- 1) koostalitluse tehnilise kirjelduse või oluliste nõuete täitmata jätmine või koostalitluse tehnilise kirjelduse puudulik kohaldamine või
 
-2) puudulik koostalitluse tehniline kirjeldus.
+- 2) puudulik koostalitluse tehniline kirjeldus.
 
-(8) Allsüsteemi ja koostalitluse komponendi nõuetele vastavuse hindamise ja tõendamise korra kehtestab
-
-määrusega.
+(8) Allsüsteemi ja koostalitluse komponendi nõuetele vastavuse hindamise ja tõendamise korra kehtestab valdkonna eest vastutav minister määrusega.

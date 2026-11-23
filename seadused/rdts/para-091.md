@@ -4,15 +4,15 @@
 
 (2) Läbilaskevõime jaotamise koordineerimismenetlus on raudteeinfrastruktuuriettevõtja tegevus kõigi taotluste sobitamisel liiklusgraafikusse taotlejatega läbirääkimiste ja neile ettepanekute tegemise teel kõigile taotlejatele võimalikult soodsal viisil. Koordineerimismenetluse käigus konsulteerib raudteeinfrastruktuuriettevõtja taotlejatega ning esitab neile mõistlike piirangutega läbilaskevõime jaotamise ettepaneku. Ettepaneku esitamisel hindab raudteeinfrastruktuuriettevõtja selle võimalikku mõju taotleja äritegevusele.
 
-(3) Koordineerimismenetlus viiakse läbi järgmise teabe alusel, mis tehakse asjast huvitatud läbilaskevõime taotlejatele teatavaks mõistliku aja jooksul alates käesoleva paragrahvi lõike 1 kohase teabe saamisest:
+(3) Koordineerimismenetlus viiakse läbi järgmise teabe alusel, mis tehakse asjast huvitatud läbilaskevõime taotlejatele teatavaks mõistliku aja jooksul alates käesoleva paragrahvi lõike 1 kohase teabe saamisest:
 
-1) rongiliinid, mida kõik teised läbilaskevõime taotlejad on samadel marsruutidel taotlenud;
+- 1) rongiliinid, mida kõik teised läbilaskevõime taotlejad on samadel marsruutidel taotlenud;
 
-2) samadel marsruutidel kõigile teistele läbilaskevõime taotlejatele esialgu eraldatud rongiliinid;
+- 2) samadel marsruutidel kõigile teistele läbilaskevõime taotlejatele esialgu eraldatud rongiliinid;
 
-3) kooskõlas käesoleva paragrahvi lõikega 2 asjaomastel marsruutidel väljapakutud alternatiivsed rongiliinid;
+- 3) kooskõlas käesoleva paragrahvi lõikega 2 asjaomastel marsruutidel väljapakutud alternatiivsed rongiliinid;
 
-4) läbilaskevõime jaotamise käigus arvesse võetavate kriteeriumide kõik üksikasjad.
+- 4) läbilaskevõime jaotamise käigus arvesse võetavate kriteeriumide kõik üksikasjad.
 
 (4) Käesoleva paragrahvi lõikes 3 nimetatud teabe teatavaks tegemisel ei avalikustata läbilaskevõime taotlejaid, kui nad ei ole selleks luba andnud.
 

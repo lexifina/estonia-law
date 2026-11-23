@@ -8,6 +8,6 @@
 
 (4) Käesoleva paragrahvi lõikes 3 nimetatud taotluse juurde esitatakse käesoleva seaduse § 29 lõikes 1 nimetatud dokumendid, kui neis olevad andmed on muutunud, ja näidatakse muudatused võrreldes varem esitatuga.
 
-(5) Ühtse ohutustunnistuse muutmisele ja uuendamisele ning käesoleva paragrahvi lõikes 6 nimetatud menetlusele kohaldatakse vastavalt käesoleva seaduse §-s 29 või 30 sätestatud menetlust.
+(5) Ühtse ohutustunnistuse muutmisele ja uuendamisele ning käesoleva paragrahvi lõikes 6 nimetatud menetlusele kohaldatakse vastavalt käesoleva seaduse §-s 29 või 30 sätestatud menetlust.
 
 (6) Kui ohutust puudutav õiguslik raamistik oluliselt muutub, on ühtse ohutustunnistuse andjal õigus ühtne ohutustunnistus läbi vaadata ja nõuda muutunud asjaolusid kajastavate dokumentide esitamist ühtse ohutustunnistuse muutmiseks.

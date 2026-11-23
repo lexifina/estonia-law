@@ -1,6 +1,6 @@
 # § 161. Raudteeliikluse ja raudteeveo korra rikkumine
 
-(1) Raudteel kaubaveo või reisijateveo või raudteeinfrastruktuuril liikluse korraldamise eest selleks vastavat ühtset ohutustunnistust, tegutsemise ohutustunnistust või ohutusluba omamata, samuti raudteeliikluse olulise piiramise või ajutise sulgemise korra rikkumise eest, –
+(1) Raudteel kaubaveo või reisijateveo või raudteeinfrastruktuuril liikluse korraldamise eest selleks vastavat ühtset ohutustunnistust, tegutsemise ohutustunnistust või ohutusluba omamata, samuti raudteeliikluse olulise piiramise või ajutise sulgemise korra rikkumise eest, –
 
 karistatakse rahatrahviga kuni 300 trahviühikut.
 

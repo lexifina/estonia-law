@@ -2,21 +2,21 @@
 
 (1) Käesolev seadus reguleerib:
 
-1) raudtee ohutust;
+- 1) raudtee ohutust;
 
-2) raudteeinfrastruktuuri ja raudteeveeremi omanike või valdajate õigusi ja kohustusi raudteeinfrastruktuuri ja raudteeveeremi korrashoiul ja kasutamisel ning nõudeid raudteevedudele;
+- 2) raudteeinfrastruktuuri ja raudteeveeremi omanike või valdajate õigusi ja kohustusi raudteeinfrastruktuuri ja raudteeveeremi korrashoiul ja kasutamisel ning nõudeid raudteevedudele;
 
-3) raudteeveeremi ehituse, tehnohoolde ja remondiga tegelevate ettevõtjate õigusi ja kohustusi;
+- 3) raudteeveeremi ehituse, tehnohoolde ja remondiga tegelevate ettevõtjate õigusi ja kohustusi;
 
-4) raudteesüsteemi koostalitlust üleeuroopalise raudteesüsteemiga;
+- 4) raudteesüsteemi koostalitlust üleeuroopalise raudteesüsteemiga;
 
-5) riiklikku järelevalvet raudteeliikluse ning raudteeinfrastruktuuri ja raudteeveeremi korrashoiu, raudteerajatiste ehitamise ning raudteeveeremi ehituse, tehnohoolde ja remondi üle;
+- 5) riiklikku järelevalvet raudteeliikluse ning raudteeinfrastruktuuri ja raudteeveeremi korrashoiu, raudteerajatiste ehitamise ning raudteeveeremi ehituse, tehnohoolde ja remondi üle;
 
-6) vastutust käesoleva seaduse rikkumise eest.
+- 6) vastutust käesoleva seaduse rikkumise eest.
 
-(2) Käesolevat seadust kohaldatakse raudteele, mille rööbastee laius on 1520 millimeetrit, 1524 millimeetrit ja 1435 millimeetrit.
+(2) Käesolevat seadust kohaldatakse raudteele, mille rööbastee laius on 1520 millimeetrit, 1524 millimeetrit ja 1435 millimeetrit.
 
-(3) Kitsarööpmelisele 750-millimeetrise rööbastee laiusega raudteele (edaspidi *kitsarööpmeline raudtee*) kohalduvad ainult käesoleva seaduse §-des 10, 11 ja 35 sätestatud nõuded.
+(3) Kitsarööpmelisele 750-millimeetrise rööbastee laiusega raudteele (edaspidi kitsarööpmeline raudtee) kohalduvad ainult käesoleva seaduse §-des 10, 11 ja 35 sätestatud nõuded.
 
 (4) Raudteele, mis ei ole ühenduses avaliku raudteega, kohaldatakse käesolevat seadust üksnes juhul, kui raudteed kasutatakse raudteeveoks.
 

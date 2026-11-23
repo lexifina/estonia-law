@@ -2,11 +2,11 @@
 
 (1) Raudtee-ettevõtja peatab sertifikaadi kehtivuse või tunnistab selle kehtetuks, kui:
 
-1) vedurijuht jätab mõjuva põhjuseta täiendusõppele ilmumata;
+- 1) vedurijuht jätab mõjuva põhjuseta täiendusõppele ilmumata;
 
-2) vedurijuht ei läbi käesoleva seaduse § 65 lõike 2 punktis 3 nimetatud vahekontrolli;
+- 2) vedurijuht ei läbi käesoleva seaduse § 65 lõike 2 punktis 3 nimetatud vahekontrolli;
 
-3) lõpeb vedurijuhi ja raudtee-ettevõtja vaheline tööleping või muu sarnane leping.
+- 3) lõpeb vedurijuhi ja raudtee-ettevõtja vaheline tööleping või muu sarnane leping.
 
 (2) Sertifikaadi väljaandmise, muutmise, kehtivuse peatamise või kehtetuks tunnistamise ja eeltoodu vaidlustamise korra kehtestab raudtee-ettevõtja oma ohutusjuhtimise süsteemis.
 

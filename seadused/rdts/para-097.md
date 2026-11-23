@@ -6,7 +6,7 @@
 
 (3) Käesoleva paragrahvi lõikes 1 nimetatud lepingu lisaks on tulemuslikkuskava, mis kehtib kogu raudteevõrgustiku ulatuses ja mille eesmärk on ärgitada lepingupooli minimeerima häireid ning parandama raudteevõrgustiku toimivust. Kava võib hõlmata sanktsioone raudteevõrgustiku toimivust häirivate tegude eest, hüvitist ettevõtjatele, kes häiretest kahju saavad, ning preemiaid kavandatust parema tulemuslikkuse eest.
 
-(4) Käesoleva paragrahvi lõikes 3 nimetatud tulemuslikkuskava aluspõhimõtted sisalduvad Euroopa Parlamendi ja nõukogu direktiivi 2012/34/EL VI lisa punktis 2.
+(4) Käesoleva paragrahvi lõikes 3 nimetatud tulemuslikkuskava aluspõhimõtted sisalduvad Euroopa Parlamendi ja nõukogu direktiivi 2012/34/EL VI lisa punktis 2.
 
 (5) Kui liiklusgraafikusse kandmisel eelistust omav raudteeveoettevõtja ja raudteeinfrastruktuuriettevõtja ei jõua liiklusgraafikuperioodi alguseks raudteeinfrastruktuuri kasutamise tingimustes kokkuleppele, on raudteeinfrastruktuuriettevõtja kohustatud võimaldama raudteeveoettevõtjal raudteeinfrastruktuuri kasutada eelnevaks liiklusgraafikuperioodiks kokkulepitud tingimustel kuni uue kokkuleppe saavutamiseni.
 

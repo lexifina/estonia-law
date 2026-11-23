@@ -10,6 +10,4 @@
 
 (5) Raudteeinfrastruktuuriettevõtjale ja raudteeveoettevõtjale, Tarbijakaitse ja Tehnilise Järelevalve Ametile, Raudteeametile, ohvritele ja nende sugulastele, kahjustatud vara omanikele, tootjatele, töötajate ja raudtee kasutajate esindajatele, Päästeametile, Politsei- ja Piirivalveametile ning Keskkonnainspektsioonile antakse võimalus anda asjakohast tehnilist või muud teavet ohutusjuurdlusaruande kvaliteedi parandamiseks. Ohutusjuurdlusasutus võtab arvesse ka ohvrite ja nende sugulaste mõistlikke vajadusi ning teavitab neid ohutusjuurdluse käigust.
 
-(6) Ohutusjuurdluse korra kehtestab
-
-määrusega.
+(6) Ohutusjuurdluse korra kehtestab valdkonna eest vastutav minister määrusega.

@@ -10,10 +10,10 @@
 
 (5) Tarbijakaitse ja Tehnilise Järelevalve Amet vaatab toimiku läbi, raudteeäärse Euroopa raudteeliikluse juhtimissüsteemi projekti puhul koostöös Raudteeametiga, ning teeb nelja kuu jooksul kogu asjakohase teabe saamisest otsuse uue kasutuselevõtmise loa vajalikkuse kohta, lähtudes järgmistest asjaoludest:
 
-1) kas kavandatavad tööd võivad kahjustada allsüsteemi üldist ohutustaset;
+- 1) kas kavandatavad tööd võivad kahjustada allsüsteemi üldist ohutustaset;
 
-2) kas asjakohased koostalitluse tehnilised kirjeldused sisaldavad uue kasutuselevõtmise loa taotlemise nõuet;
+- 2) kas asjakohased koostalitluse tehnilised kirjeldused sisaldavad uue kasutuselevõtmise loa taotlemise nõuet;
 
-3) kas liikmesriikide kehtestatud riiklikud rakenduskavad sisaldavad uue kasutuselevõtmise loa taotlemise nõuet;
+- 3) kas liikmesriikide kehtestatud riiklikud rakenduskavad sisaldavad uue kasutuselevõtmise loa taotlemise nõuet;
 
-4) kas muudetud on parameetrite väärtusi, mille alusel anti välja varasem kasutuselevõtmise luba.
+- 4) kas muudetud on parameetrite väärtusi, mille alusel anti välja varasem kasutuselevõtmise luba.

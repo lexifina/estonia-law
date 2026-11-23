@@ -1,6 +1,6 @@
 # § 78. Raudteeinfrastruktuuriettevõtja tehingute finantsläbipaistvus
 
-(1) Raudteeinfrastruktuuriettevõtja võib kasutada raudteeinfrastruktuuri majandamisest saadavat tulu ja riiklikke vahendeid üksnes oma tegevuse rahastamiseks ning oma võlakohustuste täitmiseks ja käesoleva paragrahvi lõikes 2 nimetatud tingimustel dividendide maksmiseks.
+(1) Raudteeinfrastruktuuriettevõtja võib kasutada raudteeinfrastruktuuri majandamisest saadavat tulu ja riiklikke vahendeid üksnes oma tegevuse rahastamiseks ning oma võlakohustuste täitmiseks ja käesoleva paragrahvi lõikes 2 nimetatud tingimustel dividendide maksmiseks.
 
 (2) Käesoleva paragrahvi lõikes 1 nimetatud tulust tekkinud kasumit võib kasutada dividendide maksmiseks ettevõtja nendele omanikele, kes ei ole ettevõtjad, kes moodustavad vertikaalselt integreeritud ettevõtja osa ja kes kontrollivad nii raudteeinfrastruktuuriettevõtjat kui ka raudteeveoettevõtjat.
 

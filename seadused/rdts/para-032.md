@@ -6,4 +6,4 @@
 
 (3) Tarbijakaitse ja Tehnilise Järelevalve Amet teavitab käesoleva paragrahvi lõike 2 kohasest ühtse ohutustunnistuse piiramisest või kehtetuks tunnistamisest viivitamata Raudteeametit.
 
-(4) Ühtse ohutustunnistuse omanik, kelle tunnistus on käesoleva paragrahvi lõike 1 või 2 kohaselt piiratud või kehtetuks tunnistatud, võib esitada kaebuse, järgides käesoleva seaduse § 33 lõigetes 3 ja 4 sätestatut.
+(4) Ühtse ohutustunnistuse omanik, kelle tunnistus on käesoleva paragrahvi lõike 1 või 2 kohaselt piiratud või kehtetuks tunnistatud, võib esitada kaebuse, järgides käesoleva seaduse § 33 lõigetes 3 ja 4 sätestatut.

@@ -6,7 +6,7 @@
 
 (3) Piiriüleseid koostalitlusteenuseid osutav liikuv töötaja on töötaja, kes on rongimeeskonna liige ja kes töötab piiriüleseid koostalitlusteenuseid osutava raudteeveoettevõtja juures üle ühe tunni päevase tööaja jooksul.
 
-(4) Käesolevas peatükis sätestatut ei kohaldata kohaliku ja piirkondliku piiriülese reisijateveo ning piiriülese kaubaveo suhtes, mis ei ulatu riigipiirist kaugemale kui 15 kilomeetrit.
+(4) Käesolevas peatükis sätestatut ei kohaldata kohaliku ja piirkondliku piiriülese reisijateveo ning piiriülese kaubaveo suhtes, mis ei ulatu riigipiirist kaugemale kui 15 kilomeetrit.
 
 (5) Käesolevas peatükis sätestatut ei kohaldata sellistel piiriülestel marsruutidel, mille lähte- ja sihtkoht asub sama liikmesriigi raudteeinfrastruktuuril ning mis kasutavad teise liikmesriigi infrastruktuuri seal peatumata.
 

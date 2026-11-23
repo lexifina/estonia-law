@@ -8,8 +8,8 @@
 
 (4) Läbilaskevõimeosa ei ole vaja eraldi taotleda:
 
-1) päästerongi või abiveduri liiklemiseks;
+- 1) päästerongi või abiveduri liiklemiseks;
 
-2) veduri või mootorrongi liiklemiseks õnnetusjuhtumi korral või tehnilise rikkega rongikoosseisu vedava veduri või mootorrongi väljavahetamiseks, et oleks võimalik jätkata kauba- või reisijatevedu;
+- 2) veduri või mootorrongi liiklemiseks õnnetusjuhtumi korral või tehnilise rikkega rongikoosseisu vedava veduri või mootorrongi väljavahetamiseks, et oleks võimalik jätkata kauba- või reisijatevedu;
 
-3) raudteeinfrastruktuuri majandamise eesmärgil töörongi liiklemisel tööobjektile ja tagasi.
+- 3) raudteeinfrastruktuuri majandamise eesmärgil töörongi liiklemisel tööobjektile ja tagasi.

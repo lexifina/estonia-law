@@ -4,15 +4,15 @@
 
 (2) Vedurijuhi teadmisi ja oskusi hinnatakse:
 
-1) pärast väljaõppe üldkoolituse läbimist vedurijuhiloa saamiseks vedurijuhi eksamil;
+- 1) pärast väljaõppe üldkoolituse läbimist vedurijuhiloa saamiseks vedurijuhi eksamil;
 
-2) pärast sertifikaadiväljaõppe läbimist sertifikaadieksamil;
+- 2) pärast sertifikaadiväljaõppe läbimist sertifikaadieksamil;
 
-3) vahekontrollil sertifikaadi kehtivuse säilitamiseks.
+- 3) vahekontrollil sertifikaadi kehtivuse säilitamiseks.
 
 (3) Sertifikaadieksami ja vahekontrolli korraldab Tarbijakaitse ja Tehnilise Järelevalve Ameti tunnustatud eksamineerija.
 
-(4) Eksamineerija koostab eksamineerimise korra, kus on kehtestatud hindamise ja punktiarvestuse põhimõtted ja tulemuste esitamise viis ning mis on kooskõlas komisjoni otsuse 2011/765/EL artikliga 9. Eksamineerimise kord peab olema tehtud eksamineeritava jaoks kättesaadavaks vähemalt nädal enne eksami toimumist.
+(4) Eksamineerija koostab eksamineerimise korra, kus on kehtestatud hindamise ja punktiarvestuse põhimõtted ja tulemuste esitamise viis ning mis on kooskõlas komisjoni otsuse 2011/765/EL artikliga 9. Eksamineerimise kord peab olema tehtud eksamineeritava jaoks kättesaadavaks vähemalt nädal enne eksami toimumist.
 
 (5) Käesoleva paragrahvi lõike 2 punktis 3 nimetatud vahekontrolli peab vedurijuht läbima üks kord kolme aasta jooksul. Kontrolli käigus hinnatakse vedurijuhi teadmisi raudteeveeremi ja sõidupiirkonna kohta ning keeleoskust, kui raudteeinfrastruktuuriettevõtja poolt raudteeinfrastruktuuril suhtlemiseks määratud keel ei ole isiku emakeel.
 

@@ -1,3 +1,7 @@
 # § 142. Raudteeliiklusregistris registreerimata raudteerajatise kasutamine
 
-Raudteeliikluse korraldamisel on keelatud kasutada raudteeliiklusregistris registreerimata raudteerajatist.
+(1) Raudteeliikluse korraldamisel on keelatud kasutada raudteeliiklusregistris registreerimata raudteerajatist.
+
+(2) [Kehtetu]
+
+(3) [Kehtetu]

@@ -1,22 +1,22 @@
 # § 48. Raudteeohutust mõjutav juhtum
 
-(1) Raudteeohutust mõjutavaks juhtumiks on tõsine õnnetusjuhtum, õnnetusjuhtum ja vahejuhtum (edaspidi koos *raudteeohutust mõjutav juhtum*).
+(1) Raudteeohutust mõjutavaks juhtumiks on tõsine õnnetusjuhtum, õnnetusjuhtum ja vahejuhtum (edaspidi koos raudteeohutust mõjutav juhtum).
 
 (2) Tõsine õnnetusjuhtum käesoleva seaduse tähenduses on rongide kokkupõrge või rööbastelt mahasõit, mis põhjustab inimese surma või vähemalt viiele inimesele raske tervisekahjustuse või mille tulemusena saab raudteeveerem, raudteeinfrastruktuur või keskkond Ohutusjuurdluse Keskuse hinnangul vähemalt kahe miljoni euro ulatuses kahjustusi, ja muud samade tagajärgedega õnnetusjuhtumid, millel on selge mõju raudteeohutusele.
 
 (3) Õnnetusjuhtum käesoleva seaduse tähenduses on ettekavatsemata või ootamatu sündmus või sündmuste jada, mille tagajärjel tekib kahju. Õnnetusjuhtumid jagunevad järgmistesse kategooriatesse:
 
-1) rongi kokkupõrge teise rongi, manööverdava raudteeveeremi või muu takistusega;
+- 1) rongi kokkupõrge teise rongi, manööverdava raudteeveeremi või muu takistusega;
 
-2) rongi rööbastelt mahasõit;
+- 2) rongi rööbastelt mahasõit;
 
-3) raudteeületuskohal toimunud õnnetus;
+- 3) raudteeületuskohal toimunud õnnetus;
 
-4) raudteeveeremi otsasõit inimesele;
+- 4) raudteeveeremi otsasõit inimesele;
 
-5) raudteeveeremi põleng;
+- 5) raudteeveeremi põleng;
 
-6) muud raudteega seotud õnnetusjuhtumid.
+- 6) muud raudteega seotud õnnetusjuhtumid.
 
 (4) Vahejuhtum käesoleva seaduse tähenduses on rongi kasutamisega seotud sündmus, mis ei ole tõsine õnnetusjuhtum ega õnnetusjuhtum, kuid mõjutab või võib mõjutada raudtee kasutamise ohutust.
 

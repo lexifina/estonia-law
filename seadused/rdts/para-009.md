@@ -6,12 +6,10 @@
 
 (3) Riigi või kohaliku omavalitsuse üksuse poolt raudteeinfrastruktuuri majandamiseks või avalikuks reisijateveoks antud toetust tohib kasutada üksnes sihtotstarbeliselt. Selle kohustuse täitmine peab kajastuma mõlema valdkonna tulude ja kulude arvestuses.
 
-(4) Käesoleva paragrahvi lõigetes 1 ja 2 nimetatud raudtee-ettevõtjad on kohustatud esitama Konkurentsiametile lõigete 1–3 kohaselt peetavad tulude ja kulude arvestused.
+(4) Käesoleva paragrahvi lõigetes 1 ja 2 nimetatud raudtee-ettevõtjad on kohustatud esitama Konkurentsiametile lõigete 1–3 kohaselt peetavad tulude ja kulude arvestused.
 
 (5) Raamatupidamise eraldatuse ja käesoleva seaduse §-s 78 sätestatud finantsläbipaistvuse nõuete kontrollimiseks on Konkurentsiametil õigus nõuda raudteeinfrastruktuuriettevõtjalt, teenindusrajatise käitajalt ning vajaduse korral raudteeveoettevõtjalt lisaks asjakohaseid raamatupidamisandmeid ning neid ettevõtjaid vajaduse korral auditeerida või algatada nende suhtes välisaudit.
 
-(6) Käesoleva seaduse § 74 lõikes 1 nimetatud vertikaalselt integreeritud ettevõtja puhul kehtib käesoleva paragrahvi lõikes 5 nimetatud õigus kõigi ettevõtjasse kuuluvate juriidiliste isikute suhtes.
+(6) Käesoleva seaduse § 74 lõikes 1 nimetatud vertikaalselt integreeritud ettevõtja puhul kehtib käesoleva paragrahvi lõikes 5 nimetatud õigus kõigi ettevõtjasse kuuluvate juriidiliste isikute suhtes.
 
-(7) Käesoleva paragrahvi lõigetes 1 ja 2 nimetatud raudtee-ettevõtja tulude ja kulude arvestuste esitamise korra ja tähtajad ning lõikes 5 nimetatud raamatupidamisandmete loetelu kehtestab
-
-määrusega.
+(7) Käesoleva paragrahvi lõigetes 1 ja 2 nimetatud raudtee-ettevõtja tulude ja kulude arvestuste esitamise korra ja tähtajad ning lõikes 5 nimetatud raamatupidamisandmete loetelu kehtestab valdkonna eest vastutav minister määrusega.
