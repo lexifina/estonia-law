@@ -2,21 +2,21 @@
 
 (1) Loa andja vaatab kompleksloa nõuded läbi järgmistel juhtudel:
 
-1) kui käesoleva seaduse §-s 158 sätestatud kompleksloa kohustusega käitise korrapärase kontrolli tulemused seda põhjustavad;
+- 1) kui käesoleva seaduse §-s 158 sätestatud kompleksloa kohustusega käitise korrapärase kontrolli tulemused seda põhjustavad;
 
-2) pärast käitise peamist tegevusvaldkonda puudutava PVT-järeldusi käsitleva otsuse avaldamist;
+- 2) pärast käitise peamist tegevusvaldkonda puudutava PVT-järeldusi käsitleva otsuse avaldamist;
 
-3) kui käitisele ei kohaldu ükski PVT-järeldus, siis juhul, kui parima võimaliku tehnika areng võimaldab heite hulka või ohtlikkust oluliselt vähendada;
+- 3) kui käitisele ei kohaldu ükski PVT-järeldus, siis juhul, kui parima võimaliku tehnika areng võimaldab heite hulka või ohtlikkust oluliselt vähendada;
 
-4) kui käitise põhjustatud saastatus on nii suur, et tuleb vähendada heite piirväärtusi või määrata täiendavad heite piirväärtused;
+- 4) kui käitise põhjustatud saastatus on nii suur, et tuleb vähendada heite piirväärtusi või määrata täiendavad heite piirväärtused;
 
-5) kui käitise tegevuse ohutuse tagamiseks tuleb kasutada muid meetmeid kui kompleksloas määratud;
+- 5) kui käitise tegevuse ohutuse tagamiseks tuleb kasutada muid meetmeid kui kompleksloas määratud;
 
-6) kui keskkonna kvaliteedinormatiive muudetakse või kehtestatakse uus keskkonna kvaliteedinormatiiv;
+- 6) kui keskkonna kvaliteedinormatiive muudetakse või kehtestatakse uus keskkonna kvaliteedinormatiiv;
 
-7) kui õigusaktides sätestatud ja kompleksloa nõuete aluseks olnud õigusnormid on muutunud;
+- 7) kui õigusaktides sätestatud ja kompleksloa nõuete aluseks olnud õigusnormid on muutunud;
 
-8) kui käitise laadi või toimimisviisi on oluliselt muudetud või kavatsetakse oluliselt muuta.
+- 8) kui käitise laadi või toimimisviisi on oluliselt muudetud või kavatsetakse oluliselt muuta.
 
 (2) Käesoleva paragrahvi lõikes 1 loetletud juhtudel kompleksloa nõuete läbivaatamisel algatab loa andja vajaduse korral kompleksloa muutmise menetluse.
 
@@ -27,3 +27,5 @@
 (5) Kui loa andja leiab kompleksloa nõuete läbivaatamise tulemusena, et kompleksloa muutmine ei ole vajalik, teeb ta selle kohta otsuse. Otsus peab sisaldama selle tegemise põhjendusi, sealhulgas enne otsuse tegemist peetud konsultatsioonide tulemusi ja selgitust, kuidas neid tulemusi arvesse võeti.
 
 (6) Käitaja on kohustatud osutama käitises loa nõudeid üle vaatavale loa andja esindajale igakülgset abi, tagama talle juurdepääsu käitise tegevuskohale ning võimaldama tal võtta proove ja koguda informatsiooni käesolevas seaduses sätestatud kohustuste täitmise kohta.
+
+(7) [Kehtetu]

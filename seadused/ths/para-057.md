@@ -10,11 +10,11 @@
 
 (4) Lähteolukorra aruanne sisaldab vähemalt järgmisi andmeid:
 
-1) teave tegevuskohal aruande koostamise ajal toimunud tegevuste ja võimaluse korral varasemate tegevuste kohta;
+- 1) teave tegevuskohal aruande koostamise ajal toimunud tegevuste ja võimaluse korral varasemate tegevuste kohta;
 
-2) võimaluse korral olemasolev teave pinnase ja põhjavee saastatuse mõõtmiste kohta, mis kajastavad olukorda aruande koostamise ajal;
+- 2) võimaluse korral olemasolev teave pinnase ja põhjavee saastatuse mõõtmiste kohta, mis kajastavad olukorda aruande koostamise ajal;
 
-3) kui käesoleva lõike punktis 2 nimetatud teave puudub, siis andmed uute pinnase ja põhjavee saastatuse mõõtmiste kohta.
+- 3) kui käesoleva lõike punktis 2 nimetatud teave puudub, siis andmed uute pinnase ja põhjavee saastatuse mõõtmiste kohta.
 
 (5) Käesoleva paragrahvi lõike 4 punkti 3 kohaldamisel võetakse mõõtmiste kavandamisel ning tegemisel arvesse võimalust, et pinnas ja põhjavesi on saastunud käitises kasutatavate, toodetavate või keskkonda viidavate ohtlike ainetega.
 

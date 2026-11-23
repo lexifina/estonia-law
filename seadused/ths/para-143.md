@@ -4,4 +4,4 @@
 
 (2) Käitaja esitab loa taotlemisel loa andjale käesoleva paragrahvi lõikes 1 sätestatud nõude täitmiseks vajalike ettevaatusmeetmete rakendamise kirjelduse.
 
-(3) Registreerimiskohustusega käitaja esitab käesoleva paragrahvi lõikes 1 sätestatud nõude täitmiseks vajalike ettevaatusmeetmete rakendamise kirjelduse Keskkonnaametile koos käesoleva seaduse § 134 lõikes 2 sätestatud teatega.
+(3) Registreerimiskohustusega käitaja esitab käesoleva paragrahvi lõikes 1 sätestatud nõude täitmiseks vajalike ettevaatusmeetmete rakendamise kirjelduse Keskkonnaametile koos käesoleva seaduse § 134 lõikes 2 sätestatud teatega.

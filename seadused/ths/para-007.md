@@ -6,6 +6,6 @@
 
 (3) Käesoleva seaduse järgmistes peatükkides mõistetakse loa all:
 
-1) 2. ja 6. peatükis kompleksluba;
+- 1) 2. ja 6. peatükis kompleksluba;
 
-2) 3., 4. ja 5. peatükis kompleksluba või kompleksloa kohustuse puudumise korral keskkonnaluba.
+- 2) 3., 4. ja 5. peatükis kompleksluba või kompleksloa kohustuse puudumise korral keskkonnaluba.

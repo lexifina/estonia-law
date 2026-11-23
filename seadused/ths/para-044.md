@@ -12,21 +12,21 @@
 
 (6) Erandina käesoleva paragrahvi lõigetes 3 ja 5 sätestatust võib loa andja määrata kompleksloas leebemad heite piirväärtused. Leebemaid heite piirväärtusi määratakse vaid juhul, kui loa andja hinnangul tekitaks parima võimaliku tehnikaga saavutatava heitetaseme kohaldamine ebaproportsionaalselt suuri kulusid võrreldes keskkonnakasuga ning sellised kulud on seotud käitise eripäraga, mis tuleneb selle:
 
-1) geograafilisest asukohast;
+- 1) geograafilisest asukohast;
 
-2) kohalikest keskkonnatingimustest või
+- 2) kohalikest keskkonnatingimustest või
 
-3) tehnilistest näitajatest.
+- 3) tehnilistest näitajatest.
 
 (7) Käesoleva paragrahvi lõike 6 kohaldamisel loa andja:
 
-1) esitab loa andmise otsuses erandi kohaldamise ja määratud nõuete põhjendused;
+- 1) esitab loa andmise otsuses erandi kohaldamise ja määratud nõuete põhjendused;
 
-2) määrab loas heite piirväärtused, mis ei ületa käesolevas seaduses ning selle alusel kehtestatud õigusaktides või muudes õigusaktides sätestatud heite piirväärtusi;
+- 2) määrab loas heite piirväärtused, mis ei ületa käesolevas seaduses ning selle alusel kehtestatud õigusaktides või muudes õigusaktides sätestatud heite piirväärtusi;
 
-3) tagab, et ei tekitata saastatust ning saavutatakse keskkonna kui terviku kaitse kõrge tase;
+- 3) tagab, et ei tekitata saastatust ning saavutatakse keskkonna kui terviku kaitse kõrge tase;
 
-4) hindab kompleksloa nõuete läbivaatamisel, kas käesoleva paragrahvi lõikes 6 sätestatud erandi kohaldamine on endiselt põhjendatud.
+- 4) hindab kompleksloa nõuete läbivaatamisel, kas käesoleva paragrahvi lõikes 6 sätestatud erandi kohaldamine on endiselt põhjendatud.
 
 (8) Kujunemisjärgus tehnika katsetamise ja kasutamise korral võib loa andja teha ajutise erandi parima võimaliku tehnika ja selle alusel määratud heite piirväärtuste, võrdväärsete parameetrite, tehniliste meetmete ja muude saastatuse vältimiseks asjakohaste ennetusmeetmete rakendamise nõude kohaldamisest kuni üheksaks kuuks, kui selle järel lõpetatakse kujunemisjärgus tehnika kasutamine või selle tehnikaga seotud tegevuses saavutatakse vähemalt heitetase, mis vastab parima võimaliku tehnikaga saavutatavale heitetasemele.
 

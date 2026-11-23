@@ -1,3 +1,3 @@
 # § 27. Kompleksloa andja
 
-Kompleksloa annab Keskkonnaamet (edaspidi *loa andja*).
+Kompleksloa annab Keskkonnaamet (edaspidi loa andja).

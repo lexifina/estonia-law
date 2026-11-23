@@ -2,6 +2,6 @@
 
 Käesoleva seaduse § 73 alusel kehtestatud heite piirväärtusi ei kohaldata järgmistele suurtele põletusseadmetele:
 
-1) diiselmootori põhimõttel ja survesüütega toimivatele sisepõlemismootoritele;
+- 1) diiselmootori põhimõttel ja survesüütega toimivatele sisepõlemismootoritele;
 
-2) utilisaatorkateldele tselluloosi tootmisel.
+- 2) utilisaatorkateldele tselluloosi tootmisel.

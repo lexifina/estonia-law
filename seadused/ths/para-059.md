@@ -6,8 +6,8 @@
 
 (3) Käitaja teatab loa andjale:
 
-1) kompleksloaga määratud seire andmed kompleksloas ettenähtud nõuete kohaselt;
+- 1) kompleksloaga määratud seire andmed kompleksloas ettenähtud nõuete kohaselt;
 
-2) kavandatavast käitaja vahetumisest.
+- 2) kavandatavast käitaja vahetumisest.
 
 (4) Käitaja on kohustatud esitama Keskkonnaametile tema nõudmisel kompleksloa andmiseks, muutmiseks ja kehtetuks tunnistamiseks, kompleksloa nõuete läbivaatamiseks ning keskkonnaalase kontrolli teostamiseks vajalikud andmed.

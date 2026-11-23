@@ -2,13 +2,13 @@
 
 (1) Suure põletusseadme korral, mille summaarne nimisoojusvõimsus on 100 megavatti või enam, mõõdetakse heiteallika väljuvates gaasides pidevalt järgmiste saasteainete sisaldust:
 
-1) vääveldioksiid;
+- 1) vääveldioksiid;
 
-2) lämmastikoksiidid;
+- 2) lämmastikoksiidid;
 
-3) tahkete osakeste kõik fraktsioonid kokku;
+- 3) tahkete osakeste kõik fraktsioonid kokku;
 
-4) süsinikoksiid gaaskütuse põletamise korral.
+- 4) süsinikoksiid gaaskütuse põletamise korral.
 
 (2) Käesoleva paragrahvi lõike 1 punktis 4 nimetatud süsinikoksiidi sisaldust mõõdetakse igas üksikus põletusseadmes.
 
@@ -16,13 +16,13 @@
 
 (4) Loa andja võib loobuda:
 
-1) käesoleva paragrahvi lõikes 1 nimetatud saasteainete sisalduse pidevmõõtmise nõudmisest, kui suure põletusseadme eluiga on lühem kui 10 000 töötundi;
+- 1) käesoleva paragrahvi lõikes 1 nimetatud saasteainete sisalduse pidevmõõtmise nõudmisest, kui suure põletusseadme eluiga on lühem kui 10 000 töötundi;
 
-2) väljutatava vääveldioksiidi ja tahkete osakeste sisalduse mõõtmise nõudmisest maagaasil töötava suure põletusseadme korral;
+- 2) väljutatava vääveldioksiidi ja tahkete osakeste sisalduse mõõtmise nõudmisest maagaasil töötava suure põletusseadme korral;
 
-3) väljutatava vääveldioksiidi sisalduse mõõtmise nõudmisest teatud väävlisisaldusega vedelkütusel töötava suure põletusseadme korral, millel puudub väävliärastusseade;
+- 3) väljutatava vääveldioksiidi sisalduse mõõtmise nõudmisest teatud väävlisisaldusega vedelkütusel töötava suure põletusseadme korral, millel puudub väävliärastusseade;
 
-4) biomassi kasutava suure põletusseadme väljuvates gaasides vääveldioksiidi sisalduse mõõtmise nõudmisest, kui käitaja tõestab loa andjale, et vääveldioksiidi sisaldus väljuvates gaasides ei saa ühelgi juhul ületada käesoleva seaduse § 73 alusel kehtestatud heite piirväärtust.
+- 4) biomassi kasutava suure põletusseadme väljuvates gaasides vääveldioksiidi sisalduse mõõtmise nõudmisest, kui käitaja tõestab loa andjale, et vääveldioksiidi sisaldus väljuvates gaasides ei saa ühelgi juhul ületada käesoleva seaduse § 73 alusel kehtestatud heite piirväärtust.
 
 (5) Käesoleva paragrahvi lõikes 4 sätestatud juhtudel tehakse käesoleva paragrahvi lõikes 1 nimetatud saasteainete mõõtmisi vähemalt iga kolme kuu järel või kasutatakse vääveldioksiidi ja lämmastikoksiidide sisalduse hindamiseks väljuvates gaasides loa andja kontrollitud ja heaks kiidetud määramismeetodeid.
 
