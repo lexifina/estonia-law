@@ -6,14 +6,14 @@
 
 (3) Tagatise kasutamiseks Tarbijakaitse ja Tehnilise Järelevalve Amet:
 
-1) määrab reisijate poolt Tarbijakaitse ja Tehnilise Järelevalve Ametile nõuete esitamise tähtaja, mis ei või olla lühem kui 14 päeva;
+- 1) määrab reisijate poolt Tarbijakaitse ja Tehnilise Järelevalve Ametile nõuete esitamise tähtaja, mis ei või olla lühem kui 14 päeva;
 
-2) kogub reisijate nõuded ja kontrollib õigeaegselt esitatud nõuete põhjendatust, võimaluse korral pakub pakettreisi jätkamise võimalust;
+- 2) kogub reisijate nõuded ja kontrollib õigeaegselt esitatud nõuete põhjendatust, võimaluse korral pakub pakettreisi jätkamise võimalust;
 
-3) korraldab käesoleva seaduse § 15 lõigetes 3 ja 4 nimetatud kohustuste täitmist ning määrab tagatise andjale tagatisest väljamaksete tegemiseks mõistliku tähtaja.
+- 3) korraldab käesoleva seaduse § 15 lõigetes 3 ja 4 nimetatud kohustuste täitmist ning määrab tagatise andjale tagatisest väljamaksete tegemiseks mõistliku tähtaja.
 
 (4) Valdkonna eest vastutav minister võib kehtestada määrusega:
 
-1) ;
+- 1) pakettreiside ja seotud reisikorraldusteenuste kogumüügi aruande vormi;
 
-2) .
+- 2) tagatise kasutamise korra.

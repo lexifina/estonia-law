@@ -4,6 +4,4 @@
 
 (2) Majutusteenuse osutaja tagab majutusettevõtte liigi eripära arvestavad majutus- ja puhkevõimalused ning piisavad hügieenitingimused.
 
-(3) Majutusteenuse täpsemad nõuded majutusettevõtte liigiti majutusteenuse kasutaja mugavuse ja ohutuse eesmärgil kehtestab
-
-määrusega.
+(3) Majutusteenuse täpsemad nõuded majutusettevõtte liigiti majutusteenuse kasutaja mugavuse ja ohutuse eesmärgil kehtestab valdkonna eest vastutav minister määrusega.

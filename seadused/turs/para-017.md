@@ -6,12 +6,12 @@
 
 (3) Majutusteenuseks ei loeta:
 
-1) ettevõtja poolt temale kuuluva vara arvel temaga töö- või teenistussuhetes olevate isikute majutamist;
+- 1) ettevõtja poolt temale kuuluva vara arvel temaga töö- või teenistussuhetes olevate isikute majutamist;
 
-2) majutamist, mille puhul sõlmitakse eluruumi üürileping;
+- 2) majutamist, mille puhul sõlmitakse eluruumi üürileping;
 
-3) õppeasutuse poolt õppeasutuses õppivate või töötavate isikute majutamist;
+- 3) õppeasutuse poolt õppeasutuses õppivate või töötavate isikute majutamist;
 
-4) majutamist reisijateveoteenuse osutamiseks kasutatavas transpordivahendis;
+- 4) majutamist reisijateveoteenuse osutamiseks kasutatavas transpordivahendis;
 
-5) erakordsetes tingimustes ööbimise võimaldamist elamuse saamise eesmärgil (vabas looduses, onnis, parvel jms).
+- 5) erakordsetes tingimustes ööbimise võimaldamist elamuse saamise eesmärgil (vabas looduses, onnis, parvel jms).

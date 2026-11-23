@@ -8,7 +8,7 @@
 
 (4) Ettevõtja, kellele on väljastatud käesoleva paragrahvi lõikes 1 nimetatud tegevuslitsents, ei pea sellise tegevuslitsentsi kehtivuse ajal omama käesoleva seaduse §-s 15 sätestatud tagatist.
 
-(5) Riiklikus erinõuetega tegevusaladel tegutsevate ettevõtjate registris registreeritud reisibürood ja reisikorraldajad on kohustatud 2004. aasta 15. oktoobriks viima oma andmed vastavusse turismiseaduse nõuetega, esitades uue registreerimistaotluse.
+(5) Riiklikus erinõuetega tegevusaladel tegutsevate ettevõtjate registris registreeritud reisibürood ja reisikorraldajad on kohustatud 2004. aasta 15. oktoobriks viima oma andmed vastavusse turismiseaduse nõuetega, esitades uue registreerimistaotluse.
 
 (6) Enne 2005. aasta 1. novembrit väljastatud majutusettevõtte tunnistus kehtib tunnistusele märgitud tähtpäevani või sellele märgitud andmete muutumiseni, kuid mitte kauem kui 2006. aasta 31. oktoobrini.
 
@@ -28,8 +28,8 @@
 
 (14) Käesoleva seaduse § 8 lõiget 3 kohaldatakse alates 2016. aasta 1. juulist.
 
-(15) Enne 2018. aasta 1. juulit majandustegevuse registris registreeritud reisiettevõtja peab majandustegevuse registris oma majandustegevuse andmed viima vastavusse käesoleva seaduse nõuetega 2018. aasta 30. septembriks.
+(15) Enne 2018. aasta 1. juulit majandustegevuse registris registreeritud reisiettevõtja peab majandustegevuse registris oma majandustegevuse andmed viima vastavusse käesoleva seaduse nõuetega 2018. aasta 30. septembriks.
 
-(16) Enne 2018. aasta 1. juulit väljastatud tagatise suhtes kohaldatakse tagatise andmisel kehtinud turismiseaduse redaktsioonist tulenevaid nõudeid kuni tagatise kehtivuse lõpuni, kuid kõige kauem 2018. aasta 30. septembrini.
+(16) Enne 2018. aasta 1. juulit väljastatud tagatise suhtes kohaldatakse tagatise andmisel kehtinud turismiseaduse redaktsioonist tulenevaid nõudeid kuni tagatise kehtivuse lõpuni, kuid kõige kauem 2018. aasta 30. septembrini.
 
-(17) Käesoleva seaduse § 24 lõiget 2 kohaldatakse Ühendkuningriigi kodanikele kuni 2020. aasta 31. detsembrini.
+(17) Käesoleva seaduse § 24 lõiget 2 kohaldatakse Ühendkuningriigi kodanikele kuni 2020. aasta 31. detsembrini.

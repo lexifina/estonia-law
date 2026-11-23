@@ -4,19 +4,19 @@
 
 (2) Kui majutusteenuse kasutaja on Eesti, Euroopa Majanduspiirkonna teise lepinguriigi või Šveitsi kodanik või Eestis elamisloa või elamisõiguse alusel elav välismaalane, esitab ta enda kohta vähemalt järgmised andmed:
 
-1) ees- ja perekonnanimi või -nimed;
+- 1) ees- ja perekonnanimi või -nimed;
 
-2) sünniaeg;
+- 2) sünniaeg;
 
-3) kodakondsus;
+- 3) kodakondsus;
 
-4) elukohariik;
+- 4) elukohariik;
 
-5) majutusteenuse osutamise aeg;
+- 5) majutusteenuse osutamise aeg;
 
-6) reisi eesmärk;
+- 6) reisi eesmärk;
 
-7) temaga koos majutuvate alaealiste laste arv.
+- 7) temaga koos majutuvate alaealiste laste arv.
 
 (3) Käesoleva paragrahvi lõikes 2 nimetamata isik esitab lisaks samas lõikes nimetatud andmetele järgmised andmed: reisidokumendi liik, number ja selle välja andnud riik.
 

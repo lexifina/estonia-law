@@ -6,4 +6,4 @@
 
 (3) Käesolevat seadust ei kohaldata pakettreisilepingute ega seotud reisikorraldusteenuste lepingute suhtes, mis on sõlmitud üldlepingu alusel, millega ettevõtja korraldab ärireise teisele majandus- või kutsetegevuses tegutsevale isikule.
 
-(4) Käesolevat seadust ei kohaldata pakettreiside ega seotud reisikorraldusteenuste suhtes, mis kestavad vähem kui 24 tundi, välja arvatud juhul, kui need sisaldavad öist majutust.
+(4) Käesolevat seadust ei kohaldata pakettreiside ega seotud reisikorraldusteenuste suhtes, mis kestavad vähem kui 24 tundi, välja arvatud juhul, kui need sisaldavad öist majutust.
