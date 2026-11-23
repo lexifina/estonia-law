@@ -4,9 +4,7 @@
 
 (2) Vibujahi laskekatse tunnistus on jahitunnistust omavale isikule antav paberil või elektrooniline dokument, mis tõendab tema õigust osaleda väikeulukijahil kütina ja kasutada väikeuluki laskmiseks jahivibu.
 
-(3) Suuruluki laskekatse tunnistuse ja vibujahi laskekatse tunnistuse taotlemise, andmise ja arvestuse pidamise korra, katse sooritamise nõuded ning suuruluki laskekatse tunnistuse vormi ja vibujahi laskekatse tunnistuse vormi kehtestab
-
-määrusega.
+(3) Suuruluki laskekatse tunnistuse ja vibujahi laskekatse tunnistuse taotlemise, andmise ja arvestuse pidamise korra, katse sooritamise nõuded ning suuruluki laskekatse tunnistuse vormi ja vibujahi laskekatse tunnistuse vormi kehtestab valdkonna eest vastutav minister määrusega.
 
 (4) Kui isikule on välisriigis väljastatud suuruluki laskekatse või vibujahi laskekatse sooritamist kinnitav tunnistus ja viimase laskekatse sooritamisest ei ole möödunud rohkem kui kaks aastat, ei nõuta temalt suuruluki laskekatse või vibujahi laskekatse sooritamist.
 

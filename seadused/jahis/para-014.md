@@ -4,11 +4,11 @@
 
 (2) Jahipiirkonna kasutusõiguse luba on õigus saada:
 
-1) Eestis registreeritud juriidilisel isikul;
+- 1) Eestis registreeritud juriidilisel isikul;
 
-2) riigiasutusel.
+- 2) riigiasutusel.
 
-(3) Jahipiirkonna kasutusõiguse loa annab ja lubade üle peab arvestust Keskkonnaamet (edaspidi *loa andja*).
+(3) Jahipiirkonna kasutusõiguse loa annab ja lubade üle peab arvestust Keskkonnaamet (edaspidi loa andja).
 
 (4) Jahipiirkonna kasutusõiguse luba antakse kümneks aastaks.
 
@@ -18,14 +18,16 @@
 
 (7) Jahipiirkonna kasutusõiguse loas märgitakse:
 
-1) loa omaja nimi ja registrikood;
+- 1) loa omaja nimi ja registrikood;
 
-2) loa omaja aadress ja e-posti aadress;
+- 2) loa omaja aadress ja e-posti aadress;
 
-3) jahipiirkonna nimetus ja asukoht;
+- 3) jahipiirkonna nimetus ja asukoht;
 
-4) loa kehtivuse algus- ja lõpptähtaeg;
+- 4) loa kehtivuse algus- ja lõpptähtaeg;
 
-5) loa andja nimi, registrikood ja aadress.
+- 5) loa andja nimi, registrikood ja aadress.
 
 (8) Jahipiirkonna kasutusõiguse loale lisatakse jahipiirkonna kaart.
+
+(9) [Kehtetu]

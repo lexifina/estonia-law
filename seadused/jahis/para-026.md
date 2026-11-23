@@ -8,7 +8,7 @@
 
 (4) Põtra, pruunkaru, punahirve, metssiga ja hallhüljest võib tulistada ainult kuuliga.
 
-(5) Põdra, pruunkaru, punahirve, metssea ja hallhülge küttimisel vintraudse püssiga peab vintraua kaliiber olema vähemalt 6,5 millimeetrit ning padrunis kasutatava kuuli kaal vähemalt 9,0 grammi.
+(5) Põdra, pruunkaru, punahirve, metssea ja hallhülge küttimisel vintraudse püssiga peab vintraua kaliiber olema vähemalt 6,5 millimeetrit ning padrunis kasutatava kuuli kaal vähemalt 9,0 grammi.
 
 (6) Ääretulepadrunit võib kasutada püütud väikeuluki surmamiseks ning kährikkoera, nugise, tuhkru, mingi, ondatra ja lindude, välja arvatud hanelise ja laugu küttimiseks.
 

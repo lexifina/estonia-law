@@ -1,6 +1,6 @@
 # § 60. Jahiloa andmise, tagastamise ja jahiloale kantud andmete arvestuse nõuete rikkumine
 
-(1) Jahiloa andmise, tagastamise või jahiloale kantud andmete arvestuse nõuete rikkumise eest –
+(1) Jahiloa andmise, tagastamise või jahiloale kantud andmete arvestuse nõuete rikkumise eest –
 
 karistatakse rahatrahviga kuni 100 trahviühikut.
 

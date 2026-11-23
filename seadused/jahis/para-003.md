@@ -4,6 +4,6 @@
 
 (2) Jahimaa hulka ei kuulu:
 
-1) planeeringuga määratud linna, alevi ja aleviku ning küla selgelt piiritletav kompaktse asustusega ala (edaspidi *tiheasustusala*), samuti puhke- ja virgestusala, kus ohutu jahipidamine ei ole võimalik;
+- 1) planeeringuga määratud linna, alevi ja aleviku ning küla selgelt piiritletav kompaktse asustusega ala (edaspidi tiheasustusala), samuti puhke- ja virgestusala, kus ohutu jahipidamine ei ole võimalik;
 
-2) kaitseala vöönd, kus jahipidamine on seadusega või seaduse alusel kehtestatud õigusaktidega keelatud.
+- 2) kaitseala vöönd, kus jahipidamine on seadusega või seaduse alusel kehtestatud õigusaktidega keelatud.

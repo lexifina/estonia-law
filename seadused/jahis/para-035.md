@@ -2,15 +2,15 @@
 
 (1) Jahipidamisõigust tõendavad dokumendid on:
 
-1) jahitunnistus;
+- 1) jahitunnistus;
 
-2) jahiluba;
+- 2) jahiluba;
 
-3) jahist osavõtjate nimekiri;
+- 3) jahist osavõtjate nimekiri;
 
-4) suuruluki laskekatse tunnistus;
+- 4) suuruluki laskekatse tunnistus;
 
-5) vibujahi laskekatse tunnistus.
+- 5) vibujahi laskekatse tunnistus.
 
 (2) Jahipidamisõigust tõendavad dokumendid peavad jahipidamise ajal kaasas olema või olema vormistatud elektrooniliselt, välja arvatud käesoleva seaduse § 31 lõikes 4 nimetatud juhul.
 

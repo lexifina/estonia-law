@@ -2,19 +2,19 @@
 
 (1) Püünisena on lubatud kasutada:
 
-1) kastlõksu, mis ei vigasta ulukit;
+- 1) kastlõksu, mis ei vigasta ulukit;
 
-2) varesemõrda;
+- 2) varesemõrda;
 
-3) ondatramõrda;
+- 3) ondatramõrda;
 
-4) kopramõrda;
+- 4) kopramõrda;
 
-5) piirdevõrku ja kopra eluspüügi kahva;
+- 5) piirdevõrku ja kopra eluspüügi kahva;
 
-6) uluki kohe surmavat püünisrauda;
+- 6) uluki kohe surmavat püünisrauda;
 
-7) püünisaeda.
+- 7) püünisaeda.
 
 (2) Püünisel ja varjatud püünise juures peab olema nähtaval kohal märgis püünise omaniku jahitunnistuse numbriga. Märgise loetavus peab olema tagatud kogu püügiperioodi kestel.
 

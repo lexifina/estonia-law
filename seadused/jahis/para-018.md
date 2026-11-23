@@ -4,11 +4,11 @@
 
 (2) Jahipiirkonna kasutusõiguse loa kehtivust ei pikendata, kui:
 
-1) loa taotleja on teadlikult esitanud valeandmeid;
+- 1) loa taotleja on teadlikult esitanud valeandmeid;
 
-2) jahindusnõukogu ei ole loa kehtivuse pikendamist toetanud;
+- 2) jahindusnõukogu ei ole loa kehtivuse pikendamist toetanud;
 
-3) jahipiirkonna kasutaja ei ole täitnud jahipiirkonna kasutusõiguse loas sätestatud kohustusi.
+- 3) jahipiirkonna kasutaja ei ole täitnud jahipiirkonna kasutusõiguse loas sätestatud kohustusi.
 
 (3) Loa andja vaatab käesoleva paragrahvi lõikes 1 nimetatud taotluse läbi ja teeb otsuse loa kehtivuse pikendamise kohta kahe kuu jooksul nõuetekohase taotluse saamisest arvates.
 
