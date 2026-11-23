@@ -4,6 +4,4 @@
 
 (2) Mälestiste tähistamist korraldab amet.
 
-(3) Mälestiste tähistamise korra ja tähisel oleva kujutise kehtestab
-
-määrusega.
+(3) Mälestiste tähistamise korra ja tähisel oleva kujutise kehtestab valdkonna eest vastutav minister määrusega.

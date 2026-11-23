@@ -8,20 +8,18 @@
 
 (4) Leiuautasu ei määrata, kui:
 
-1) leid on vee-, õhu- või muu sõiduki vrakk või selle osa või vrakiga seonduv last ja muud esemed;
+- 1) leid on vee-, õhu- või muu sõiduki vrakk või selle osa või vrakiga seonduv last ja muud esemed;
 
-2) arheoloogiliste leidude otsimine või väljakaevamine kuulub leidja kohustuste hulka;
+- 2) arheoloogiliste leidude otsimine või väljakaevamine kuulub leidja kohustuste hulka;
 
-3) leid võõrandatakse leidjale;
+- 3) leid võõrandatakse leidjale;
 
-4) leidja on rikkunud käesoleva seaduse §-s 27 või § 29 lõigetes 4, 10 ja 11 sätestatud kohustusi;
+- 4) leidja on rikkunud käesoleva seaduse §-s 27 või § 29 lõigetes 4, 10 ja 11 sätestatud kohustusi;
 
-5) leid on leitud mälestiselt, muinsuskaitsealalt, nende kaitsevööndist või arheoloogilisest leiukohast;
+- 5) leid on leitud mälestiselt, muinsuskaitsealalt, nende kaitsevööndist või arheoloogilisest leiukohast;
 
-6) leidja on väärteomenetluse korras karistatud arheoloogilise leiuga seotud nõuete rikkumise, otsinguvahendi kasutamise keelu rikkumise või otsinguvahendi loata otsinguvahendi kasutamise eest või kriminaalkorras karistatud kultuuriväärtusega eseme omastamise, mälestise rikkumise või hävitamise eest ning tema karistusandmed ei ole karistusregistrist kustunud;
+- 6) leidja on väärteomenetluse korras karistatud arheoloogilise leiuga seotud nõuete rikkumise, otsinguvahendi kasutamise keelu rikkumise või otsinguvahendi loata otsinguvahendi kasutamise eest või kriminaalkorras karistatud kultuuriväärtusega eseme omastamise, mälestise rikkumise või hävitamise eest ning tema karistusandmed ei ole karistusregistrist kustunud;
 
-7) leid on leitud teise riigi majandusvööndist, mandrilavalt või süvamerepõhjast.
+- 7) leid on leitud teise riigi majandusvööndist, mandrilavalt või süvamerepõhjast.
 
-(5) Leiuautasu määramise korra kehtestab
-
-määrusega.
+(5) Leiuautasu määramise korra kehtestab valdkonna eest vastutav minister määrusega.

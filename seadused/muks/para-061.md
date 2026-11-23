@@ -10,6 +10,4 @@
 
 (5) Üldplaneeringu ja detailplaneeringu muinsuskaitse eritingimused koostab pädev isik ning need kooskõlastatakse ametiga. Üldplaneeringu ja detailplaneeringu muinsuskaitse eritingimuste koostamise kulud katab tellija.
 
-(6) Nõuded üldplaneeringu ja detailplaneeringu muinsuskaitse eritingimuste koostamise korrale kehtestab
-
-määrusega.
+(6) Nõuded üldplaneeringu ja detailplaneeringu muinsuskaitse eritingimuste koostamise korrale kehtestab valdkonna eest vastutav minister määrusega.

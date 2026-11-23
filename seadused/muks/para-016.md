@@ -2,13 +2,13 @@
 
 (1) Enne mälestiseks ja muinsuskaitsealaks tunnistamise menetluse algatamist küsib amet sellekohast arvamust:
 
-1) asukohajärgselt kohaliku omavalitsuse üksuselt;
+- 1) asukohajärgselt kohaliku omavalitsuse üksuselt;
 
-2) riigi haldusorganilt, kelle pädevus seondub kaitse alla võtta soovitava esemega;
+- 2) riigi haldusorganilt, kelle pädevus seondub kaitse alla võtta soovitava esemega;
 
-3) asja või maa-ala piiresse jääva kinnisasja omanikult.
+- 3) asja või maa-ala piiresse jääva kinnisasja omanikult.
 
-(2) Kui enne mälestiseks või muinsuskaitsealaks tunnistamise menetluse algatamist arvamuse küsimisega kaasneks ülemäärane halduskoormus, võib asja või maa-ala piiresse jääva kinnisasja omaniku arvamuse jätta küsimata, kui omanike arv on suurem kui 100.
+(2) Kui enne mälestiseks või muinsuskaitsealaks tunnistamise menetluse algatamist arvamuse küsimisega kaasneks ülemäärane halduskoormus, võib asja või maa-ala piiresse jääva kinnisasja omaniku arvamuse jätta küsimata, kui omanike arv on suurem kui 100.
 
 (3) Arvamuse andmiseks antakse piisav tähtaeg. Arvamuses esitatakse põhjendatud seisukoht asja või maa-ala mälestiseks või muinsuskaitsealaks tunnistamise kohta ning teave kehtivate haldusaktide või pooleliolevate haldusmenetluste või muude oluliste asjaolude kohta, mis võivad kaitse alla võtmist mõjutada.
 

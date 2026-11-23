@@ -1,6 +1,6 @@
 # § 85. Uuringu ja tööde tegemise nõuete rikkumine
 
-(1) Uuringu või töö tegemise eest ilma ameti loata, kui ameti luba oli nõutav, või ametit nõuetekohaselt teavitamata jätmise eest –
+(1) Uuringu või töö tegemise eest ilma ameti loata, kui ameti luba oli nõutav, või ametit nõuetekohaselt teavitamata jätmise eest –
 
 karistatakse rahatrahviga kuni 300 trahviühikut.
 

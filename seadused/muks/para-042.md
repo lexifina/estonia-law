@@ -8,6 +8,4 @@
 
 (4) Sukeldumisteenust pakkuv ettevõtja või sukeldumisloa saanud isik teavitab enne ja pärast mälestisele ning selle kaitsevööndisse sukeldumist ametit.
 
-(5) Sukeldumisloa taotlemise, andmise, sellest keeldumise, kehtetuks tunnistamise ning sukeldumisest teavitamise tähtajad, teavitamisel esitatavad andmed ja teavitamise korra ning nõuded mälestisele sukeldumise koolituse pakkujale kehtestab
-
-määrusega.
+(5) Sukeldumisloa taotlemise, andmise, sellest keeldumise, kehtetuks tunnistamise ning sukeldumisest teavitamise tähtajad, teavitamisel esitatavad andmed ja teavitamise korra ning nõuded mälestisele sukeldumise koolituse pakkujale kehtestab valdkonna eest vastutav minister määrusega.

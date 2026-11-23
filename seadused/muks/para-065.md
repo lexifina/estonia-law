@@ -6,17 +6,17 @@
 
 (3) Amet võib keelduda tööde tegemise loa andmisest, kui:
 
-1) kavandatav töö või tegevus ei vasta käesolevas seaduses sätestatud nõuetele või võib kahjustada mälestise või selle osa säilimist või seisundit;
+- 1) kavandatav töö või tegevus ei vasta käesolevas seaduses sätestatud nõuetele või võib kahjustada mälestise või selle osa säilimist või seisundit;
 
-2) tegevuskava ei vasta käesolevas seaduses kehtestatud nõuetele või uuringu tulemustele;
+- 2) tegevuskava ei vasta käesolevas seaduses kehtestatud nõuetele või uuringu tulemustele;
 
-3) tegevuskava ei ole koostanud pädev isik;
+- 3) tegevuskava ei ole koostanud pädev isik;
 
-4) töö teostaja ei vasta käesoleva seaduse § 68 lõikes 1 sätestatud nõudele;
+- 4) töö teostaja ei vasta käesoleva seaduse § 68 lõikes 1 sätestatud nõudele;
 
-5) loa taotlemisel on esitatud teadvalt valeandmeid, mis mõjutavad oluliselt loa andmise otsustamist;
+- 5) loa taotlemisel on esitatud teadvalt valeandmeid, mis mõjutavad oluliselt loa andmise otsustamist;
 
-6) töö teostajal on varem tehtud tööde nõuetekohane aruanne esitamata.
+- 6) töö teostajal on varem tehtud tööde nõuetekohane aruanne esitamata.
 
 (4) Tööde tegemise luba antakse kuni kaheks aastaks. Luba võib põhjendatud juhul pikendada ühe korra kahe aasta võrra.
 

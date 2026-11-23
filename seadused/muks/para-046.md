@@ -10,10 +10,8 @@
 
 (5) Uuringukavas esitatakse kavandatavad uuringu liigid, nende eesmärk ning tegemise meetodid ja ajakava, vajaduse korral joonised uuringu teostamise kohtade ning ulatuse kohta ja muud olulised andmed sõltuvalt uuringu liigist.
 
-(6) Uuringu liigid ja uuringu tegemise korra kehtestab
-
-määrusega.
+(6) Uuringu liigid ja uuringu tegemise korra kehtestab valdkonna eest vastutav minister määrusega.
 
 (7) Uuringukava koostamine ei ole nõutav vallasmälestise uuringu puhul, kui see on konserveerimise või restaureerimise osa ning sisaldub konserveerimise või restaureerimise tegevuskavas.
 
-(8) Uuringut võib teha teaduslikul eesmärgil. Teadusuuringu tegemise kulu katab uuringu tellija ja selle kulu ei kuulu hüvitamisele käesoleva seaduse § 48 lõike 2 alusel.
+(8) Uuringut võib teha teaduslikul eesmärgil. Teadusuuringu tegemise kulu katab uuringu tellija ja selle kulu ei kuulu hüvitamisele käesoleva seaduse § 48 lõike 2 alusel.

@@ -8,7 +8,7 @@
 
 (4) Pärast arvamuste ja vastuväidete lahendamist ning vajaduse korral kaitse alla võtmise otsuse eelnõu uuendamist korraldab amet avaliku arutelu. Avalikku arutelu ei pea korraldama, kui teates nimetatud tähtaja kestel arvamusi või vastuväiteid ei esitatud.
 
-(5) Kui avaliku arutelu toimumise aega ei ole teatavaks tehtud koos avalikust väljapanekust teatamisega, teavitab amet sellest vähemalt kümme päeva enne arutelu toimumist käesoleva paragrahvi lõikes 2 sätestatud korras.
+(5) Kui avaliku arutelu toimumise aega ei ole teatavaks tehtud koos avalikust väljapanekust teatamisega, teavitab amet sellest vähemalt kümme päeva enne arutelu toimumist käesoleva paragrahvi lõikes 2 sätestatud korras.
 
 (6) Avalik arutelu protokollitakse. Protokoll peab sisaldama arutelul esitatud seisukohti ja küsimusi ning neile antud vastuseid. Amet teeb protokolli kättesaadavaks ameti veebilehel.
 

@@ -2,17 +2,17 @@
 
 (1) Mälestiste liigid on:
 
-1) ajaloomälestis;
+- 1) ajaloomälestis;
 
-2) arheoloogiamälestis;
+- 2) arheoloogiamälestis;
 
-3) ehitismälestis;
+- 3) ehitismälestis;
 
-4) kunstimälestis;
+- 4) kunstimälestis;
 
-5) ajalooline looduslik pühapaik;
+- 5) ajalooline looduslik pühapaik;
 
-6) tehnikamälestis.
+- 6) tehnikamälestis.
 
 (2) Ajaloomälestis on poliitilise ja ühiskondliku protsessi, olulise ajaloosündmuse või silmapaistva ühiskonna- või kultuuritegelasega seotud asi või maa-ala.
 

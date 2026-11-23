@@ -4,6 +4,4 @@
 
 (2) Aruande koostab ja esitab töö teostaja.
 
-(3) Käesoleva paragrahvi lõikes 1 nimetatud tööde dokumenteerimise korra ja nõuded aruandele kehtestab
-
-määrusega.
+(3) Käesoleva paragrahvi lõikes 1 nimetatud tööde dokumenteerimise korra ja nõuded aruandele kehtestab valdkonna eest vastutav minister määrusega.

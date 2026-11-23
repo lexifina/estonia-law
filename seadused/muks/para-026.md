@@ -1,12 +1,12 @@
 # § 26. Arheoloogilise leiukoha kaitse ja kaitse lõpetamine
 
-(1) Arheoloogilises leiukohas tehakse enne ehitamist, teede, kraavide ja trasside rajamist ning muid mulla- ja kaevetöid ning veealuses arheoloogilises leiukohas enne traalimist, süvendamistööde tegemist ja tahkete ainete kaadamist uuring. Uuringu tegemisele ja selle kulu hüvitamisele kohaldatakse käesoleva seaduse § 46 lõigetes 4–6 ning §-des 47–48 sätestatut.
+(1) Arheoloogilises leiukohas tehakse enne ehitamist, teede, kraavide ja trasside rajamist ning muid mulla- ja kaevetöid ning veealuses arheoloogilises leiukohas enne traalimist, süvendamistööde tegemist ja tahkete ainete kaadamist uuring. Uuringu tegemisele ja selle kulu hüvitamisele kohaldatakse käesoleva seaduse § 46 lõigetes 4–6 ning §-des 47–48 sätestatut.
 
 (2) Isik, kelle kinnisasjal arheoloogiline leiukoht asub, teavitab viivitamata:
 
-1) ametit leiukoha rikkumisest või ohust selle säilimisele;
+- 1) ametit leiukoha rikkumisest või ohust selle säilimisele;
 
-2) leiukoha asumisest kinnisasjal selle valduse üleandmisel rendi- või muu selletaolise suhte alusel.
+- 2) leiukoha asumisest kinnisasjal selle valduse üleandmisel rendi- või muu selletaolise suhte alusel.
 
 (3) Arheoloogilise leiukoha piiresse jääva kinnisasja võõrandamise leping või asjaõigusega koormamise leping peab sisaldama sellekohast sätet viitega arheoloogiliseks leiukohaks tunnistamise õigusaktile.
 

@@ -4,4 +4,4 @@
 
 (2) Sisevetes, territoriaalmeres, piiriveekogus või majandusvööndis tehakse enne ehitamist, sealhulgas rajatise ja seadmestiku paigaldamist või veealuse kultuuripärandi säilimist ohustada võiva muu tegevuse kavandamist uuring.
 
-(3) Uuringu määramisele ja uuringu tegemisele kohaldatakse käesoleva seaduse §-des 46–48 sätestatut. Nimetatud uuringu kulu ei kuulu hüvitamisele käesoleva seaduse § 48 lõike 2 alusel.
+(3) Uuringu määramisele ja uuringu tegemisele kohaldatakse käesoleva seaduse §-des 46–48 sätestatut. Nimetatud uuringu kulu ei kuulu hüvitamisele käesoleva seaduse § 48 lõike 2 alusel.

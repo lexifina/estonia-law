@@ -1,6 +1,6 @@
 # § 83. Arheoloogilise leiu ja leiukohaga seotud nõuete rikkumine
 
-(1) Arheoloogilisest leiust mitteteatamise, samuti arheoloogilise leiu või selle osa teadliku leiukohast eemaldamise, samuti arheoloogilise leiu, selle osa või arheoloogilise leiukoha või arheoloogilise kultuurkihi teadliku rikkumise eest –
+(1) Arheoloogilisest leiust mitteteatamise, samuti arheoloogilise leiu või selle osa teadliku leiukohast eemaldamise, samuti arheoloogilise leiu, selle osa või arheoloogilise leiukoha või arheoloogilise kultuurkihi teadliku rikkumise eest –
 
 karistatakse rahatrahviga kuni 200 trahviühikut.
 

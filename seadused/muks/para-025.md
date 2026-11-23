@@ -6,13 +6,13 @@
 
 (3) Arheoloogilise leiukoha määrab ameti peadirektor käskkirjaga. Leiukoha määramise käskkirjas märgitakse:
 
-1) arheoloogiliste leidude, inimluude, ajalooliste ehituskonstruktsioonide jäänuste või arheoloogilisele kultuurkihile osutavate elementide olemasolu;
+- 1) arheoloogiliste leidude, inimluude, ajalooliste ehituskonstruktsioonide jäänuste või arheoloogilisele kultuurkihile osutavate elementide olemasolu;
 
-2) leiukoha piir;
+- 2) leiukoha piir;
 
-3) kohustus teha uuring vastavalt käesoleva seaduse § 26 lõikele 1;
+- 3) kohustus teha uuring vastavalt käesoleva seaduse § 26 lõikele 1;
 
-4) vajaduse korral leevendus käesoleva seaduse § 26 lõikes 1 sätestatud uuringukohustusest.
+- 4) vajaduse korral leevendus käesoleva seaduse § 26 lõikes 1 sätestatud uuringukohustusest.
 
 (4) Isik, kelle kinnisasjalt käesoleva paragrahvi lõikes 1 nimetatud elemente leitakse, võimaldab ametil teha arheoloogilise leiukoha tuvastamiseks vajalikke toiminguid.
 
