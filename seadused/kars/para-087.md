@@ -2,45 +2,45 @@
 
 (1) Kohus võib vähemalt neljateist-, kuid alla kaheksateistaastaselt kuriteo toimepannud isikule, kelle kõlbelise ja vaimse arengu tase ning võime oma teo keelatusest aru saada või oma käitumist vastavalt sellele arusaamisele juhtida on piiratud, kohaldada järgmisi mõjutusvahendeid:
 
-1) hoiatus;
+- 1) hoiatus;
 
-2) sotsiaalprogramm;
+- 2) sotsiaalprogramm;
 
-3) kuriteoga tekitatud kahju hüvitamine või heastamine;
+- 3) kuriteoga tekitatud kahju hüvitamine või heastamine;
 
-4) sõltuvus- või muu ravi;
+- 4) sõltuvus- või muu ravi;
 
-5) vahendusteenus;
+- 5) vahendusteenus;
 
-6) allutamine käitumiskontrollile vastavalt käesoleva seadustiku §-s 75 sätestatule;
+- 6) allutamine käitumiskontrollile vastavalt käesoleva seadustiku §-s 75 sätestatule;
 
-7) 5–60 tundi üldkasulikku tööd;
+- 7) 5–60 tundi üldkasulikku tööd;
 
-8) liikumisvabaduse piirang, vajaduse korral koos allutamisega elektroonilisele järelevalvele vastavalt käesoleva seadustiku §-s 751 sätestatule;
+- 8) liikumisvabaduse piirang, vajaduse korral koos allutamisega elektroonilisele järelevalvele vastavalt käesoleva seadustiku §-s 75¹ sätestatule;
 
-9) kinnisesse lasteasutusse paigutamine, järgides sotsiaalhoolekande seaduses sätestatud kinnisesse lasteasutusse paigutamise põhimõtteid;
+- 9) kinnisesse lasteasutusse paigutamine, järgides sotsiaalhoolekande seaduses sätestatud kinnisesse lasteasutusse paigutamise põhimõtteid;
 
-10) muu asjakohane isiku poolt vabatahtlikult võetav kohustus.
+- 10) muu asjakohane isiku poolt vabatahtlikult võetav kohustus.
 
 (2) Kohus võib vähemalt neljateist-, kuid alla kaheksateistaastaselt väärteo toimepannud isikule, kelle kõlbelise ja vaimse arengu tase ning võime oma teo keelatusest aru saada või oma käitumist vastavalt sellele arusaamisele juhtida on piiratud, kohaldada järgmisi mõjutusvahendeid:
 
-1) hoiatus;
+- 1) hoiatus;
 
-2) sotsiaalprogramm;
+- 2) sotsiaalprogramm;
 
-3) väärteoga tekitatud kahju hüvitamine või heastamine;
+- 3) väärteoga tekitatud kahju hüvitamine või heastamine;
 
-4) sõltuvus- või muu ravi;
+- 4) sõltuvus- või muu ravi;
 
-5) vahendusteenus;
+- 5) vahendusteenus;
 
-6) kuni 20 tundi üldkasulikku tööd;
+- 6) kuni 20 tundi üldkasulikku tööd;
 
-7) liikumisvabaduse piirang;
+- 7) liikumisvabaduse piirang;
 
-8) kinnisesse lasteasutusse paigutamine, järgides sotsiaalhoolekande seaduses sätestatud kinnisesse lasteasutusse paigutamise põhimõtteid;
+- 8) kinnisesse lasteasutusse paigutamine, järgides sotsiaalhoolekande seaduses sätestatud kinnisesse lasteasutusse paigutamise põhimõtteid;
 
-9) muu asjakohane isiku poolt vabatahtlikult võetav kohustus.
+- 9) muu asjakohane isiku poolt vabatahtlikult võetav kohustus.
 
 (3) Kohus kohaldab käesoleva paragrahvi lõike 1 punktides 4, 5, 7 ja 10 ning lõike 2 punktides 4–6 ja 9 loetletud mõjutusvahendeid üksnes isiku eelneval nõusolekul.
 

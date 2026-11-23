@@ -1,5 +1,9 @@
 # § 236. Üleskutse kuriteo toimepanemisele Eesti Vabariigi vastu
 
-(1) Käesolevas jaos sätestatud kuriteo toimepanemisele avaliku üleskutsumise eest –karistatakse rahalise karistuse või kuni kolmeaastase vangistusega.
+(1) Käesolevas jaos sätestatud kuriteo toimepanemisele avaliku üleskutsumise eest –
 
-(2) Sama teo eest, kui selle on toime pannud juriidiline isik, –karistatakse rahalise karistusega.
+karistatakse rahalise karistuse või kuni kolmeaastase vangistusega.
+
+(2) Sama teo eest, kui selle on toime pannud juriidiline isik, –
+
+karistatakse rahalise karistusega.

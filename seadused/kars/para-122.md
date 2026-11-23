@@ -1,1 +1,3 @@
 # § 122. Piinamine
+
+[Kehtetu]

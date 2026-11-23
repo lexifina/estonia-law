@@ -1,1 +1,3 @@
 # § 257. Omavoli
+
+[Kehtetu]

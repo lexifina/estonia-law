@@ -2,9 +2,9 @@
 
 (1) Kohus võib vabastada katseajaga tingimisi enne tähtaega vangistusest süüdlase, kes oli kuriteo toimepanemise ajal noorem kui kaheksateistaastane:
 
-1) teise astme kuriteo või ettevaatamatu esimese astme kuriteo korral, kui ta on tegelikult ära kandnud vähemalt ühe kolmandiku mõistetud karistusajast, kuid mitte vähem kui neli kuud;
+- 1) teise astme kuriteo või ettevaatamatu esimese astme kuriteo korral, kui ta on tegelikult ära kandnud vähemalt ühe kolmandiku mõistetud karistusajast, kuid mitte vähem kui neli kuud;
 
-2) esimese astme tahtliku kuriteo korral, kui ta on tegelikult ära kandnud vähemalt poole mõistetud karistusajast, kuid mitte vähem kui neli kuud.
+- 2) esimese astme tahtliku kuriteo korral, kui ta on tegelikult ära kandnud vähemalt poole mõistetud karistusajast, kuid mitte vähem kui neli kuud.
 
 (2) Kohus vabastab katseajaga tingimisi enne tähtaega vangistusest süüdlase, kes oli kuriteo toimepanemise ajal noorem kui kaheksateistaastane, teise astme kuriteo või ettevaatamatu esimese astme kuriteo korral, kui ta on tegelikult ära kandnud vähemalt poole mõistetud karistusajast, kuid mitte vähem kui neli kuud.
 

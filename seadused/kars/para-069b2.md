@@ -12,9 +12,9 @@
 
 (6) Ravi käesoleva paragrahvi tähenduses on:
 
-1) narkomaanide sõltuvusravi isikule, kes on kuriteo toime pannud narkomaania tõttu;
+- 1) narkomaanide sõltuvusravi isikule, kes on kuriteo toime pannud narkomaania tõttu;
 
-2) seksuaalkurjategijate kompleksravi täisealisele isikule, kes on kuriteo toime pannud seksuaalsuunitluse häire tõttu.
+- 2) seksuaalkurjategijate kompleksravi täisealisele isikule, kes on kuriteo toime pannud seksuaalsuunitluse häire tõttu.
 
 (7) Ravi seisneb süüdlase allutamises statsionaarsele või ambulatoorsele ravile, mille eesmärk on kuriteo toimepanemise põhjuseks olnud psüühikahäire ravimine või selle häire kontrolli all hoidmine.
 

@@ -2,11 +2,15 @@
 
 (1) Teise astme kuriteos või ettevaatamatus esimese astme kuriteos süüdlase võib kohus katseajaga tingimisi enne tähtaega vangistusest vabastada, kui ta on tegelikult ära kandnud:
 
-1) vähemalt ühe kolmandiku mõistetud karistusajast, kuid mitte vähem kui neli kuud, ning nõustunud käesoleva seadustiku § 75 lõike 2 punktis 9 sätestatud elektroonilise valve kohaldamisega või 2) vähemalt poole mõistetud karistusajast, kuid mitte vähem kui neli kuud.
+- 1) vähemalt ühe kolmandiku mõistetud karistusajast, kuid mitte vähem kui neli kuud, ning nõustunud käesoleva seadustiku § 75 lõike 2 punktis 9 sätestatud elektroonilise valve kohaldamisega või
+
+- 2) vähemalt poole mõistetud karistusajast, kuid mitte vähem kui neli kuud.
 
 (2) Tahtlikus esimese astme kuriteos süüdlase võib kohus katseajaga tingimisi enne tähtaega vangistusest vabastada, kui ta on tegelikult ära kandnud:
 
-1) vähemalt poole mõistetud karistusajast, kuid mitte vähem kui neli kuud, ning nõustunud käesoleva seadustiku § 75 lõike 2 punktis 9 sätestatud elektroonilise valve kohaldamisega või 2) vähemalt kaks kolmandikku mõistetud karistusajast, kuid mitte vähem kui neli kuud.
+- 1) vähemalt poole mõistetud karistusajast, kuid mitte vähem kui neli kuud, ning nõustunud käesoleva seadustiku § 75 lõike 2 punktis 9 sätestatud elektroonilise valve kohaldamisega või
+
+- 2) vähemalt kaks kolmandikku mõistetud karistusajast, kuid mitte vähem kui neli kuud.
 
 (3) Tingimisi enne tähtaega ei vabastata süüdlast, keda on karistatud vähemalt kaheaastase vangistusega ja kellel on jäänud mõistetud karistusajast kanda vähem kui kaks kuud.
 
