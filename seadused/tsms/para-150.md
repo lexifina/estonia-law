@@ -2,27 +2,27 @@
 
 (1) Tasutud riigilõiv tagastatakse:
 
-1) enam tasutud osas, kui riigilõivu on tasutud ettenähtust rohkem;
+- 1) enam tasutud osas, kui riigilõivu on tasutud ettenähtust rohkem;
 
-2) kui avaldust ei võeta menetlusse;
+- 2) kui avaldust ei võeta menetlusse;
 
-3) kui avaldus jäetakse läbi vaatamata, välja arvatud juhul, kui hagi jäetakse läbi vaatamata seetõttu, et hageja võtab hagi tagasi, kumbki pool või hageja ei ilmu kohtuistungile, hageja ei täida kohtu nõuet leida endale tõlk või eesti keelt oskav esindaja või hageja ei anna kohtu määratud tähtaja jooksul tagatist kostja eeldatavate menetluskulude katteks;
+- 3) kui avaldus jäetakse läbi vaatamata, välja arvatud juhul, kui hagi jäetakse läbi vaatamata seetõttu, et hageja võtab hagi tagasi, kumbki pool või hageja ei ilmu kohtuistungile, hageja ei täida kohtu nõuet leida endale tõlk või eesti keelt oskav esindaja või hageja ei anna kohtu määratud tähtaja jooksul tagatist kostja eeldatavate menetluskulude katteks;
 
-4) kui maksekäsu kiirmenetluse avaldus jäetakse rahuldamata käesoleva seadustiku § 483 lõike 2 punktides 1, 2 ja 4 sätestatud juhul;
+- 4) kui maksekäsu kiirmenetluse avaldus jäetakse rahuldamata käesoleva seadustiku § 483 lõike 2 punktides 1, 2 ja 4 sätestatud juhul;
 
-5) määruskaebuse esitajale või tööstusomandi apellatsioonikomisjoni otsuse peale maakohtule kaebuse esitajale kaebuse rahuldamise korral, kui menetluses ei osale teisi menetlusosalisi või kui kohus ei jäta riigilõivu mõne teise menetlusosalise kanda;
+- 5) määruskaebuse esitajale või tööstusomandi apellatsioonikomisjoni otsuse peale maakohtule kaebuse esitajale kaebuse rahuldamise korral, kui menetluses ei osale teisi menetlusosalisi või kui kohus ei jäta riigilõivu mõne teise menetlusosalise kanda;
 
-6) määruskaebuse esitajale menetlustähtaja ennistamata jätmise määruse peale esitatud määruskaebuse rahuldamise korral;
+- 6) määruskaebuse esitajale menetlustähtaja ennistamata jätmise määruse peale esitatud määruskaebuse rahuldamise korral;
 
-7) kaja, menetluse taastamise või menetlustähtaja ennistamise avalduse osalise või täieliku rahuldamise korral.
+- 7) kaja, menetluse taastamise või menetlustähtaja ennistamise avalduse osalise või täieliku rahuldamise korral.
 
 (2) Pool menetluses tasutud riigilõivust tagastatakse, kui:
 
-1) pooled või hagita menetluse osalised sõlmivad kompromissi;
+- 1) pooled või hagita menetluse osalised sõlmivad kompromissi;
 
-2) hageja loobub hagist;
+- 2) hageja loobub hagist;
 
-3) pooled loobuvad enne esimese astme kohtu otsuse tervikuna avalikkusele teatavaks tegemist apellatsioonkaebuse esitamise õigusest.
+- 3) pooled loobuvad enne esimese astme kohtu otsuse tervikuna avalikkusele teatavaks tegemist apellatsioonkaebuse esitamise õigusest.
 
 (3) Avalduse läbi vaatamata jätmisel või menetluse lõpetamisel kompromissi kinnitamise või hagist loobumise tõttu ei tagastata eelnevas kohtuastmes ja maksekäsu kiirmenetluses tasutud riigilõivu.
 

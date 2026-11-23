@@ -2,9 +2,9 @@
 
 (1) Eesti kohus võib tunnistada isiku surnuks ja tuvastada tema surma aja, kui:
 
-1) teadmata kadunud isik oli temast viimase teate saamise ajal Eesti Vabariigi kodanik või kui tema elukoht oli sel ajal Eestis;
+- 1) teadmata kadunud isik oli temast viimase teate saamise ajal Eesti Vabariigi kodanik või kui tema elukoht oli sel ajal Eestis;
 
-2) on olemas muu õiguslik huvi, et Eesti kohus tunnistaks isiku surnuks või tuvastaks tema surma aja.
+- 2) on olemas muu õiguslik huvi, et Eesti kohus tunnistaks isiku surnuks või tuvastaks tema surma aja.
 
 (2) Isiku surnuks tunnistamise ja surma aja tuvastamise avaldus esitatakse teadmata kadunud isiku viimase elukoha järgi. Kui isik on jäänud teadmata kadunuks Eestis registreeritud laeva hukkumise tõttu, esitatakse avaldus laeva kodusadama järgi.
 

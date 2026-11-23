@@ -4,13 +4,13 @@
 
 (2) Kohus määrab isikule esindaja eelkõige, kui teda ei esinda tsiviilkohtumenetlusteovõimeline isik ja kui:
 
-1) kohus ei pea isikut ennast menetluses ära kuulama;
+- 1) kohus ei pea isikut ennast menetluses ära kuulama;
 
-2) eestkoste kavatsetakse seada isiku kõigi või enamuse tema asjade ajamiseks;
+- 2) eestkoste kavatsetakse seada isiku kõigi või enamuse tema asjade ajamiseks;
 
-3) eestkostja pädevust laiendatakse;
+- 3) eestkostja pädevust laiendatakse;
 
-4) menetluse esemeks on eestkostja nõusoleku andmine isiku steriliseerimiseks.
+- 4) menetluse esemeks on eestkostja nõusoleku andmine isiku steriliseerimiseks.
 
 (3) [Kehtetu]
 

@@ -4,13 +4,13 @@
 
 (2) Perekonnaasjas võib kohus määrata tsiviilkohtumenetlusteovõimetule isikule teda puudutavas menetluses esindaja, kui see on vajalik tsiviilkohtumenetlusteovõimetu isiku huvide kaitseks. Esindaja tuleb määrata, kui:
 
-1) tsiviilkohtumenetlusteovõimetu isiku huvid on oluliselt vastuolus tema seadusliku esindaja huvidega;
+- 1) tsiviilkohtumenetlusteovõimetu isiku huvid on oluliselt vastuolus tema seadusliku esindaja huvidega;
 
-2) kohus menetleb eestkoste seadmist tsiviilkohtumenetlusteovõimetu isiku üle;
+- 2) kohus menetleb eestkoste seadmist tsiviilkohtumenetlusteovõimetu isiku üle;
 
-3) kohus menetleb abinõude rakendamist lapse heaolu tagamiseks, mis on seotud lapse eraldamisega perekonnast või isikuhooldusõiguse täieliku äravõtmisega;
+- 3) kohus menetleb abinõude rakendamist lapse heaolu tagamiseks, mis on seotud lapse eraldamisega perekonnast või isikuhooldusõiguse täieliku äravõtmisega;
 
-4) kohus menetleb lapse äravõtmist kasuperekonnast, ühelt vanemalt või muult lapsega suhtlemiseks õigustatud isikult.
+- 4) kohus menetleb lapse äravõtmist kasuperekonnast, ühelt vanemalt või muult lapsega suhtlemiseks õigustatud isikult.
 
 (3) Tsiviilkohtumenetlusteovõimetule isikule ei pea esindajat määrama ja esindaja määramise määruse võib tühistada, kui teda esindab advokaat või muu kohane esindaja.
 

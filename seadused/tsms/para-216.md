@@ -6,11 +6,11 @@
 
 (2) Hageja või kostja poolel kolmanda isiku kaasamise avalduses märgitakse:
 
-1) kolmanda isiku nimi;
+- 1) kolmanda isiku nimi;
 
-2) menetluse sisu ja staadium;
+- 2) menetluse sisu ja staadium;
 
-3) kolmanda isiku menetlusse kaasamise põhjus ja põhistus.
+- 3) kolmanda isiku menetlusse kaasamise põhjus ja põhistus.
 
 (3) Kohus toimetab avalduse kätte kolmandale isikule ja teatab avaldusest teisele poolele ning annab neile tähtaja seisukoha võtmiseks.
 

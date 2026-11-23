@@ -2,15 +2,15 @@
 
 (1) Hagiavalduses märgitakse:
 
-1) vahekohtu nimetus või vahekohtuniku nimi;
+- 1) vahekohtu nimetus või vahekohtuniku nimi;
 
-2) hageja ja kostja andmed;
+- 2) hageja ja kostja andmed;
 
-3) hageja nõue;
+- 3) hageja nõue;
 
-4) asjaolud, millel nõue põhineb, ja neid asjaolusid kinnitavad tõendid, mida hageja esitab või kavatseb esitada;
+- 4) asjaolud, millel nõue põhineb, ja neid asjaolusid kinnitavad tõendid, mida hageja esitab või kavatseb esitada;
 
-5) lisatud dokumentide nimekiri.
+- 5) lisatud dokumentide nimekiri.
 
 (2) Poolte kokkulepitud või vahekohtu määratud tähtaja jooksul peab kostja esitama hagi kohta oma seisukoha.
 

@@ -2,11 +2,11 @@
 
 (1) Menetlusosalisele võib kohtu määruse alusel toimetada menetlusdokumendi kätte avalikult, kui:
 
-1) menetlusosalise aadress ei ole kantud registrisse või kui isik ei ela registris märgitud aadressil ning isiku aadress või viibimiskoht ei ole kohtule muul viisil teada ja kui dokumenti ei saa kätte toimetada isiku esindajale ega dokumendi kättesaamiseks volitatud isikule või muul käesolevas osas sätestatud viisil;
+- 1) menetlusosalise aadress ei ole kantud registrisse või kui isik ei ela registris märgitud aadressil ning isiku aadress või viibimiskoht ei ole kohtule muul viisil teada ja kui dokumenti ei saa kätte toimetada isiku esindajale ega dokumendi kättesaamiseks volitatud isikule või muul käesolevas osas sätestatud viisil;
 
-2) välisriigis ei ole eeldatavasti võimalik dokumenti nõuetekohaselt kätte toimetada;
+- 2) välisriigis ei ole eeldatavasti võimalik dokumenti nõuetekohaselt kätte toimetada;
 
-3) dokumenti ei õnnestu kätte toimetada seetõttu, et kättetoimetamise kohaks on eksterritoriaalse isiku eluruum.
+- 3) dokumenti ei õnnestu kätte toimetada seetõttu, et kättetoimetamise kohaks on eksterritoriaalse isiku eluruum.
 
 (1¹) Olenemata käesoleva paragrahvi lõikes 1 sätestatust, võib juriidilisest isikust menetlusosalisele kohtu määruse alusel toimetada menetlusdokumendi kätte avalikult, kui elektrooniline kättetoimetamine ja juriidilise isiku kohta peetavasse registrisse kantud postiaadressil tähitud kirjaga kättetoimetamine ei ole tulemust andnud. Kui juriidiline isik on esitanud registripidajale äriregistri seaduse §-s 24 sätestatud isiku Eesti aadressi, tuleb enne menetlusdokumendi avalikult kättetoimetamist üritada dokumenti kätte toimetada ka sellel aadressil.
 
@@ -18,15 +18,15 @@
 
 (4) Käesoleva paragrahvi lõikes 3 nimetatud väljavõttes peab olema ära märgitud:
 
-1) asja arutav kohus, menetlusosaline ja menetluse ese;
+- 1) asja arutav kohus, menetlusosaline ja menetluse ese;
 
-2) kättetoimetatavas dokumendis sisalduv taotlus;
+- 2) kättetoimetatavas dokumendis sisalduv taotlus;
 
-3) lahendi kättetoimetamise puhul selle resolutsioon;
+- 3) lahendi kättetoimetamise puhul selle resolutsioon;
 
-4) kohtukutse kättetoimetamise korral kohtusse kutsumise eesmärk ja aeg;
+- 4) kohtukutse kättetoimetamise korral kohtusse kutsumise eesmärk ja aeg;
 
-5) hagi kättetoimetamise korral hagile vastamise ettepanek, ettepaneku sisu ja ettenähtud selgitus.
+- 5) hagi kättetoimetamise korral hagile vastamise ettepanek, ettepaneku sisu ja ettenähtud selgitus.
 
 (5) Dokument loetakse avalikult kättetoimetatuks 15 päeva möödumisel väljavõtte väljaandes Ametlikud Teadaanded ilmumise päevast. Asja arutav kohus võib määrata dokumendi kättetoimetatuks lugemiseks pikema tähtaja. Sel juhul avaldatakse tähtaeg koos avaliku kättetoimetamisega.
 

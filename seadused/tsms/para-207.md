@@ -2,11 +2,11 @@
 
 (1) Mitu isikut võivad esitada ühise hagi ja hagi võib esitada ühiselt mitme kostja vastu, kui:
 
-1) menetluse esemeks on mitme isiku ühine õigus;
+- 1) menetluse esemeks on mitme isiku ühine õigus;
 
-2) mitu isikut on õigustatud või kohustatud samast alusest;
+- 2) mitu isikut on õigustatud või kohustatud samast alusest;
 
-3) menetluse esemeks on samalaadsed ja olemuslikult samalaadsest alusest tekkinud nõuded või kohustused.
+- 3) menetluse esemeks on samalaadsed ja olemuslikult samalaadsest alusest tekkinud nõuded või kohustused.
 
 (2) Iga hageja või kostja osaleb menetluses teise poole suhtes iseseisvalt. Hageja või kostja toimingust ei tulene kaashagejale või -kostjale õiguslikke tagajärgi, kui seaduses ei ole ette nähtud teisiti.
 

@@ -14,4 +14,4 @@
 
 (6¹) [Kehtetu]
 
-(7) Kui koos maksekäsu peale esitatud määruskaebusega on esitatud ka taotlus vastavalt käesoleva seadustiku § 4891 lõikele 3 ning kaevatava maksekäsu on teinud kohtunikuabi, annab kohtunikuabi kaebuse lahendamiseks viivitamata edasi pädevale kohtunikule.
+(7) Kui koos maksekäsu peale esitatud määruskaebusega on esitatud ka taotlus vastavalt käesoleva seadustiku § 489¹ lõikele 3 ning kaevatava maksekäsu on teinud kohtunikuabi, annab kohtunikuabi kaebuse lahendamiseks viivitamata edasi pädevale kohtunikule.

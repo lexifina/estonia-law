@@ -4,11 +4,11 @@
 
 (2) Kohtu nõudmisest sõltumata ei pea dokumenti välja andma:
 
-1) advokaat, kui ta on dokumendi saanud seoses õigusteenuse osutamisega;
+- 1) advokaat, kui ta on dokumendi saanud seoses õigusteenuse osutamisega;
 
-2) kui dokument sisaldab andmeid, mille suhtes ei või dokumendi valdajat tunnistajana üle kuulata või mille suhtes on valdajal õigus keelduda tunnistajana ütluste andmisest;
+- 2) kui dokument sisaldab andmeid, mille suhtes ei või dokumendi valdajat tunnistajana üle kuulata või mille suhtes on valdajal õigus keelduda tunnistajana ütluste andmisest;
 
-3) isik, kes võib dokumendi väljaandmisest keelduda muul seadusest tuleneval põhjusel.
+- 3) isik, kes võib dokumendi väljaandmisest keelduda muul seadusest tuleneval põhjusel.
 
 (3) Muu isik kui pool võib dokumendi väljaandmise nõudele esitada seadusest tulenevaid vastuväiteid, muu hulgas materiaalõigusel põhineva vastuväite. Vastuväidet tuleb põhistada.
 

@@ -4,13 +4,13 @@
 
 (2) Määruses märgitakse:
 
-1) isik, kellele eestkostja määratakse;
+- 1) isik, kellele eestkostja määratakse;
 
-2) eestkostjaks määratud isik või asutus;
+- 2) eestkostjaks määratud isik või asutus;
 
-3) eestkostja ülesanded;
+- 3) eestkostja ülesanded;
 
-4) kas ja milliseid tehinguid võib alaealine teha eestkostja nõusolekuta.
+- 4) kas ja milliseid tehinguid võib alaealine teha eestkostja nõusolekuta.
 
 (2¹) Määruses märgitakse, et eestkoste seatakse alaealise täisealiseks saamiseni, kui kohus ei määra eestkostjat lühemaks ajaks.
 

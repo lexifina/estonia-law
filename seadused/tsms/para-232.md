@@ -6,4 +6,10 @@
 
 (3) Kohus on seotud vaieldava asjaolu kindlakstegemisel arvamusega, mille on andnud poolte kokkuleppel määratud asjatundja, kui:
 
-1) tegemist on vaidlusega, mis tuleneb mõlema poole majandus- või kutsetegevuses sõlmitud lepingust, ja 2) puudub asjaolu, mis oleks aluseks asjatundja menetluses eksperdina taandamiseks, ja 3) asjatundja määrati vastavalt kokkuleppele, üht poolt eelistamata ja 4) asjatundja arvamus ei ole ilmselt ebaõige.
+- 1) tegemist on vaidlusega, mis tuleneb mõlema poole majandus- või kutsetegevuses sõlmitud lepingust, ja
+
+- 2) puudub asjaolu, mis oleks aluseks asjatundja menetluses eksperdina taandamiseks, ja
+
+- 3) asjatundja määrati vastavalt kokkuleppele, üht poolt eelistamata ja
+
+- 4) asjatundja arvamus ei ole ilmselt ebaõige.

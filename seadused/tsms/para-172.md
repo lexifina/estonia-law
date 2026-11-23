@@ -16,13 +16,13 @@
 
 (8) Vajalikud kohtuvälised kulud hüvitatakse hagita menetluses menetlusosalistele samadel alustel tunnistajale makstava hüvitisega. Kohtuväliste kulutuste hüvitamist saab nõuda üksnes juhul, kui kohus jätab need mõne menetlusosalise kanda. Riigi kanda võib kohtuvälised kulud jätta üksnes juhul, kui kohtuväliste kulude kandmiseks anti isikule menetlusabi. See kehtib ka käesoleva paragrahvi lõikes 3 nimetatud juhul.
 
-(9) Maksekäsu kiirmenetluse kulud kannab maksekäsu tegemise korral ja käesoleva seadustiku §-s 4881 sätestatud juhul võlgnik, muul juhul avaldaja, kui seadusest ei tulene teisiti. Muus osas kohaldatakse hagimenetluses menetluskulude kohta sätestatut. Asja edasisel lahendamisel hagimenetluses arvatakse maksekäsu kiirmenetluse kulud hagimenetluse kulude hulka.
+(9) Maksekäsu kiirmenetluse kulud kannab maksekäsu tegemise korral ja käesoleva seadustiku §-s 488¹ sätestatud juhul võlgnik, muul juhul avaldaja, kui seadusest ei tulene teisiti. Muus osas kohaldatakse hagimenetluses menetluskulude kohta sätestatut. Asja edasisel lahendamisel hagimenetluses arvatakse maksekäsu kiirmenetluse kulud hagimenetluse kulude hulka.
 
 (10) Kohtutäituri otsuse peale esitatud kaebuse ja notari ametitoimingu tegemise taotluse kohtule esitamisel tasumisele kuuluva riigilõivu kannab menetlusosaline, kelle kahjuks lahend tehti.
 
 (11) Kollektiivse esindushagi rahuldamise korral kannab menetluskulud puudutatud isik, kelle rikkumisest tulenevalt esindushagi esitati, arvestades käesoleva paragrahvi lõigetes 1 ja 8 sätestatut. Kui kollektiivne esindushagi jäetakse rahuldamata, kannab menetluskulud avaldaja, arvestades samades lõigetes sätestatut.
 
-(12) Kui individuaalsete õiguskaitsevahendite kindlaksmääramiseks esitatavat kollektiivset esindushagi menetletakse pärast käesoleva seadustiku §-s 49716 sätestatud kohtulahendi jõustumist, millega tuvastati rikkumine, kannab individuaalsete õiguskaitsevahendite kindlaksmääramise kollektiivse esindushagi menetluskulud puudutatud isik, kelle rikkumisest tulenevalt esindushagi esitati.
+(12) Kui individuaalsete õiguskaitsevahendite kindlaksmääramiseks esitatavat kollektiivset esindushagi menetletakse pärast käesoleva seadustiku §-s 497¹⁶ sätestatud kohtulahendi jõustumist, millega tuvastati rikkumine, kannab individuaalsete õiguskaitsevahendite kindlaksmääramise kollektiivse esindushagi menetluskulud puudutatud isik, kelle rikkumisest tulenevalt esindushagi esitati.
 
 (13) Kui kollektiivse esindushagi menetluse osaline peab menetluskulude jaotust kindlaksmäärava kohtulahendi kohaselt kandma käesoleva seadustiku § 144 punkti 9 või 10 kohased tarbijate või andmesubjektide teavitamise kulud, mõistab kohus kulud välja põhjendatud ja vajalikus ulatuses.
 

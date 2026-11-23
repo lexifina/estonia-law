@@ -6,19 +6,19 @@
 
 (3) Riigikohtu erikogu koosseisu kuuluvad:
 
-1) Riigikohtu esimees eesistujana;
+- 1) Riigikohtu esimees eesistujana;
 
-2) kaks riigikohtunikku tsiviilkolleegiumist;
+- 2) kaks riigikohtunikku tsiviilkolleegiumist;
 
-3) kaks riigikohtunikku sellest kolleegiumist, kelle seisukoha seaduse kohaldamise kohta on tsiviilkolleegium vaidlustanud.
+- 3) kaks riigikohtunikku sellest kolleegiumist, kelle seisukoha seaduse kohaldamise kohta on tsiviilkolleegium vaidlustanud.
 
 (4) Tsiviilasi antakse lahendada Riigikohtu üldkogule, kui:
 
-1) tsiviilkolleegium kogu koosseisus asub oma enamuses seisukohale, mis erineb Riigikohtu üldkogus seni omaks võetud õiguslikust põhimõttest või seisukohast seaduse kohaldamisel;
+- 1) tsiviilkolleegium kogu koosseisus asub oma enamuses seisukohale, mis erineb Riigikohtu üldkogus seni omaks võetud õiguslikust põhimõttest või seisukohast seaduse kohaldamisel;
 
-2) asja lahendamine üldkogus on tsiviilkolleegiumi kogu koosseisu enamuse arvates oluline seaduse ühetaolise kohaldamise seisukohast;
+- 2) asja lahendamine üldkogus on tsiviilkolleegiumi kogu koosseisu enamuse arvates oluline seaduse ühetaolise kohaldamise seisukohast;
 
-3) asja lahendamine eeldab põhiseaduslikkuse järelevalve kohtumenetluse seaduse alusel läbivaadatava küsimuse lahendamist.
+- 3) asja lahendamine eeldab põhiseaduslikkuse järelevalve kohtumenetluse seaduse alusel läbivaadatava küsimuse lahendamist.
 
 (5) Riigikohtu erikogule või üldkogule lahendada antud asja kannab erikogule või üldkogule ette tsiviilkolleegiumi liige kolleegiumi esimehe korraldusel.
 

@@ -6,7 +6,7 @@
 
 (2¹) Käesoleva paragrahvi lõigetes 1 ja 2 nimetatud kohtulahendile, millega mõistetakse Eesti Vabariigi kasuks välja menetluskulud või menetlusabikulud, võib kohus lisada eraldi dokumendis nõude tasumiseks vajalikud andmed.
 
-(2²) Käesoleva paragrahvi lõikes 21 nimetatud nõude täitmiseks vajalike andmete loetelu ja nende vormistamisele esitatavad tehnilised nõuded kehtestab valdkonna eest vastutav minister määrusega.
+(2²) Käesoleva paragrahvi lõikes 2¹ nimetatud nõude täitmiseks vajalike andmete loetelu ja nende vormistamisele esitatavad tehnilised nõuded kehtestab valdkonna eest vastutav minister määrusega.
 
 (3) Käesoleva paragrahvi lõigetes 1 ja 2 nimetatud maakohtu või ringkonnakohtu määruse peale võib menetluskulusid maksma kohustatud isik või Eesti Vabariik valdkonna eest vastutava ministri käskkirjaga määratud asutuse kaudu esitada määruskaebuse, kui kaebuse hind ületab 100 eurot. Maakohtu määruse peale esitatud määruskaebuse kohta tehtud ringkonnakohtu määruse peale ei saa Riigikohtule edasi kaevata.
 

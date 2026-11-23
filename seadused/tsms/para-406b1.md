@@ -6,12 +6,12 @@
 
 (3) Avalikku huvi pakkuva küsimusena käesoleva paragrahvi lõike 2 tähenduses käsitatakse muu hulgas järgmisi oma mõju tõttu üldsuse õigustatud huvi äratavaid küsimusi:
 
-1) põhiõiguste, rahvatervise, ohutuse, keskkonna või kliimaga seotud küsimused;
+- 1) põhiõiguste, rahvatervise, ohutuse, keskkonna või kliimaga seotud küsimused;
 
-2) küsimused, mis on seotud füüsilisest või juriidilisest isikust avaliku elu tegelase tegevusega avalikus või erasektoris;
+- 2) küsimused, mis on seotud füüsilisest või juriidilisest isikust avaliku elu tegelase tegevusega avalikus või erasektoris;
 
-3) küsimused, mida arutatakse või vaadatakse läbi seadusandlikus, täitevvõimu- või kohtuorganis või muus ametlikus menetluses;
+- 3) küsimused, mida arutatakse või vaadatakse läbi seadusandlikus, täitevvõimu- või kohtuorganis või muus ametlikus menetluses;
 
-4) küsimused, mis on seotud süüdistustega korruptsioonis, pettuses, kelmuses või mis tahes muus kuriteos või väärteos;
+- 4) küsimused, mis on seotud süüdistustega korruptsioonis, pettuses, kelmuses või mis tahes muus kuriteos või väärteos;
 
-5) küsimused, mis on seotud tegevustega, mille eesmärk on eelkõige valeinfo vastu võitlemise kaudu kaitsta inimväärikust, vabadust, demokraatiat, võrdsust, õigusriiki ja inimõigusi, kaasa arvatud vähemuste hulka kuuluvate isikute õigusi, sealhulgas demokraatlikke protsesse, põhjendamatu sekkumise eest.
+- 5) küsimused, mis on seotud tegevustega, mille eesmärk on eelkõige valeinfo vastu võitlemise kaudu kaitsta inimväärikust, vabadust, demokraatiat, võrdsust, õigusriiki ja inimõigusi, kaasa arvatud vähemuste hulka kuuluvate isikute õigusi, sealhulgas demokraatlikke protsesse, põhjendamatu sekkumise eest.

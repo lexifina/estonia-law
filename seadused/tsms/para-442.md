@@ -4,25 +4,25 @@
 
 (2) Otsuse sissejuhatuses märgitakse:
 
-1) otsuse teinud kohtu nimetus;
+- 1) otsuse teinud kohtu nimetus;
 
-2) otsuse teinud kohtuniku nimi;
+- 2) otsuse teinud kohtuniku nimi;
 
-3) otsuse avalikult teatavakstegemise aeg ja koht;
+- 3) otsuse avalikult teatavakstegemise aeg ja koht;
 
-4) tsiviilasja number;
+- 4) tsiviilasja number;
 
-5) hagi ese;
+- 5) hagi ese;
 
-5¹) tsiviilasja hind;
+- 5¹) tsiviilasja hind;
 
-6) menetlusosaliste nimed ja isiku- või registrikoodid;
+- 6) menetlusosaliste nimed ja isiku- või registrikoodid;
 
-7) menetlusosaliste aadressid, kui see on ilmselt vajalik otsuse täitmiseks või tunnustamiseks;
+- 7) menetlusosaliste aadressid, kui see on ilmselt vajalik otsuse täitmiseks või tunnustamiseks;
 
-8) menetlusosaliste esindajate nimed, esindajate asendumise korral viimaste esindajate nimed;
+- 8) menetlusosaliste esindajate nimed, esindajate asendumise korral viimaste esindajate nimed;
 
-9) viimase kohtuistungi aeg või viide asja lahendamisele kirjalikus menetluses.
+- 9) viimase kohtuistungi aeg või viide asja lahendamisele kirjalikus menetluses.
 
 (3) Füüsilise isiku isikukoodi puudumisel märgitakse otsuses tema sünniaeg. Juriidilise isiku registrikoodi puudumisel märgitakse otsuses vajaduse korral viide juriidilise isiku õiguslikule alusele.
 

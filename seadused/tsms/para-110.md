@@ -2,9 +2,9 @@
 
 (1) Eestkosteasi on isikule eestkostja määramise asi ja eestkostega seotud muu asi. Eesti kohus võib lahendada eestkosteasja, kui:
 
-1) eestkostet vajav isik või eestkostetav on Eesti Vabariigi kodanik või kui tema elukoht on Eestis;
+- 1) eestkostet vajav isik või eestkostetav on Eesti Vabariigi kodanik või kui tema elukoht on Eestis;
 
-2) eestkostet vajav isik või eestkostetav vajab muul põhjusel Eesti kohtu kaitset, muu hulgas kui Eestis asub tema vara.
+- 2) eestkostet vajav isik või eestkostetav vajab muul põhjusel Eesti kohtu kaitset, muu hulgas kui Eestis asub tema vara.
 
 (2) Kui eestkoste võib seada nii Eesti kui ka välisriigi kohus ja kui välisriigis on eestkostja juba määratud või eestkostja määramine on menetluses, ei pea Eestis eestkostjat määrama, kui välisriigi kohtu lahend kuulub eeldatavasti Eestis tunnustamisele ja eestkostja Eestis määramata jätmine on eestkostet vajava isiku huvides.
 

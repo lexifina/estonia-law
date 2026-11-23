@@ -4,6 +4,6 @@
 
 (2) Määruses märgitakse:
 
-1) isik, kelle teovõimet laiendatakse;
+- 1) isik, kelle teovõimet laiendatakse;
 
-2) milliseid tehinguid või õigustoiminguid võib alaealine teha seadusliku esindaja nõusolekuta.
+- 2) milliseid tehinguid või õigustoiminguid võib alaealine teha seadusliku esindaja nõusolekuta.

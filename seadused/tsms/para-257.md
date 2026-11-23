@@ -2,15 +2,15 @@
 
 (1) Õigus keelduda tunnistajana ütluste andmisest on hageja või kostja:
 
-1) alanejal ja ülenejal sugulasel;
+- 1) alanejal ja ülenejal sugulasel;
 
-2) õel, poolõel, vennal, poolvennal või isikul, kes on või on olnud abielus või registreeritud kooselus hageja või kostja õe, poolõe, venna või poolvennaga;
+- 2) õel, poolõel, vennal, poolvennal või isikul, kes on või on olnud abielus või registreeritud kooselus hageja või kostja õe, poolõe, venna või poolvennaga;
 
-3) võõras- või kasuvanemal, võõras- või kasulapsel;
+- 3) võõras- või kasuvanemal, võõras- või kasulapsel;
 
-4) lapsendajal ja lapsendatul;
+- 4) lapsendajal ja lapsendatul;
 
-5) abikaasal, registreeritud elukaaslasel, elukaaslasel ja tema vanemal, sealhulgas pärast abielu, registreeritud kooselu või püsiva kooselu lõppemist.
+- 5) abikaasal, registreeritud elukaaslasel, elukaaslasel ja tema vanemal, sealhulgas pärast abielu, registreeritud kooselu või püsiva kooselu lõppemist.
 
 (2) Tunnistaja võib keelduda ütluste andmisest ka siis, kui ütlused võivad kuriteo või väärteo toimepanemises süüstada teda ennast või käesoleva paragrahvi lõikes 1 nimetatud isikut.
 

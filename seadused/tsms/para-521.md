@@ -2,7 +2,11 @@
 
 (1) Kohus võib määrusega rakendada esialgset õiguskaitset ja määrata muu hulgas ajutise eestkostja, kui:
 
-1) võib ilmselt eeldada, et eestkostja määramise tingimused on täidetud ja viivitusega kaasneks oht eestkostet vajava isiku huvidele ja 2) isikule on määratud menetluses esindaja ja 3) isik on isiklikult ära kuulatud.
+- 1) võib ilmselt eeldada, et eestkostja määramise tingimused on täidetud ja viivitusega kaasneks oht eestkostet vajava isiku huvidele ja
+
+- 2) isikule on määratud menetluses esindaja ja
+
+- 3) isik on isiklikult ära kuulatud.
 
 (2) Isiku võib käesoleva paragrahvi lõikes 1 nimetatud eesmärgil ära kuulata ka erinõude alusel tegutsev kohtunik. Isikut ei pea ära kuulama, kui see ilmselt kahjustaks oluliselt tema tervist või kui ta ilmselt ei suuda tahet avaldada.
 

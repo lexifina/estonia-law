@@ -4,25 +4,25 @@
 
 (2) Enne isiku kinnisesse asutusse paigutamist peab kohus ära kuulama ka valla- või linnavalitsuse ja järgmiste isikute arvamuse:
 
-1) isiku abikaasa, registreeritud elukaaslase ja muud isikuga koos elavad pereliikmed;
+- 1) isiku abikaasa, registreeritud elukaaslase ja muud isikuga koos elavad pereliikmed;
 
-2) isiku eestkostja;
+- 2) isiku eestkostja;
 
-3) isiku nimetatud usaldusisik;
+- 3) isiku nimetatud usaldusisik;
 
-3¹) rehabilitatsioonimeeskonna liikmed;
+- 3¹) rehabilitatsioonimeeskonna liikmed;
 
-4) kinnise asutuse, kus isik viibib, juht või tema määratud ametiisik.
+- 4) kinnise asutuse, kus isik viibib, juht või tema määratud ametiisik.
 
 (2¹) Käesoleva paragrahvi lõike 2 punktis 1 nimetatud isikuid ei pea ära kuulama, kui:
 
-1) isik, kelle kinnisesse asutusse paigutamist menetletakse, on nende ärakuulamisele vastu;
+- 1) isik, kelle kinnisesse asutusse paigutamist menetletakse, on nende ärakuulamisele vastu;
 
-2) need isikud ise loobuvad endi ärakuulamisest;
+- 2) need isikud ise loobuvad endi ärakuulamisest;
 
-3) nende isikute ärakuulamine ei aita ilmselt kaasa asja lahendamisele;
+- 3) nende isikute ärakuulamine ei aita ilmselt kaasa asja lahendamisele;
 
-4) kohtul ei ole õnnestunud neid isikuid leida või nendega kontakti saada sõltumata mõistlikest pingutustest.
+- 4) kohtul ei ole õnnestunud neid isikuid leida või nendega kontakti saada sõltumata mõistlikest pingutustest.
 
 (2²) Isiku enda ja teiste isikute ära kuulamata jätmist tuleb määruses põhjendada.
 

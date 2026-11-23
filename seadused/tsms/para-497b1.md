@@ -4,6 +4,6 @@
 
 (2) Kollektiivse esindushagiga on võimalik taotleda:
 
-1) rikkumise tuvastamist ja lõpetamist, edasise rikkumise keelamist või parandamisavalduse esitamist;
+- 1) rikkumise tuvastamist ja lõpetamist, edasise rikkumise keelamist või parandamisavalduse esitamist;
 
-2) individuaalsete õiguskaitsevahendite kindlaksmääramist.
+- 2) individuaalsete õiguskaitsevahendite kindlaksmääramist.

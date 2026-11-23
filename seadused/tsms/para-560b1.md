@@ -16,7 +16,7 @@
 
 (8) Kui Sotsiaalkindlustusamet edastab kohtule riikliku perelepitusteenuse seaduse § 14 alusel sama seaduse §-s 12 sätestatud kinnitatud vanemluskokkuleppe või teabe vanemluskokkuleppe kinnitamise kohta, lõpetab kohus käesoleva seadustiku § 428 lõike 1 punkti 6 alusel asja menetluse määrusega ja otsustab vajaduse korral käesoleva seadustiku § 480 alusel varasema kohtulahendi tühistamise või muutmise. Kui kohtule esitatakse riikliku perelepitusteenuse seaduse §-s 13 sätestatud lepitusmenetluse edutuse tõend, jätkab kohus asja menetlemist.
 
-(9) Kui kohtule on esitatud lapsega suhtlemise korraldamise asjaga seotud perekonnaseaduse §-s 1371 nimetatud hooldusõiguse nõue või elatisnõue, võib kohus suunata vanemad lepitusmenetluses osalema kõigis nõuetes käesoleva paragrahvi lõigetes 1–8 sätestatud korras.
+(9) Kui kohtule on esitatud lapsega suhtlemise korraldamise asjaga seotud perekonnaseaduse §-s 137¹ nimetatud hooldusõiguse nõue või elatisnõue, võib kohus suunata vanemad lepitusmenetluses osalema kõigis nõuetes käesoleva paragrahvi lõigetes 1–8 sätestatud korras.
 
 (10) Lapsega suhtlemise korraldamise kokkuleppe või määruse muutmise korral kohtusse pöördumisele kohaldatakse lapsega suhtlemise korraldamise kohta sätestatut. Kohus võib riikliku perelepitusteenuse seaduses sätestatud lepitusmenetlusse suunata ka kohtulahendi muutmise asja.
 

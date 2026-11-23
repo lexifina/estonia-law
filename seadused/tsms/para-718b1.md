@@ -4,11 +4,11 @@
 
 (2) Enne vahekohtumenetluse kokkuleppe sõlmimist esitatakse tarbijale kirjalikku taasesitamist võimaldavas vormis teave kohtu- ja vahekohtumenetluse erinevuste kohta. Muu hulgas tuleb tarbijale esitada järgmine teave:
 
-1) vahekohtu moodustamise kord, vahekohtumenetluse läbiviimise põhimõtted ja kohaldatavad reeglid, sealhulgas käesoleva seadustiku § 732 lõikes 2 sätestatud eeldus;
+- 1) vahekohtu moodustamise kord, vahekohtumenetluse läbiviimise põhimõtted ja kohaldatavad reeglid, sealhulgas käesoleva seadustiku § 732 lõikes 2 sätestatud eeldus;
 
-2) vahekohtu otsuse vaidlustamise kord, samuti teave selle kohta, et kohus ei kontrolli vahekohtu otsuse peale esitatud kaebuse läbivaatamisel vaidluse lahendamise sisulist õiguspärasust;
+- 2) vahekohtu otsuse vaidlustamise kord, samuti teave selle kohta, et kohus ei kontrolli vahekohtu otsuse peale esitatud kaebuse läbivaatamisel vaidluse lahendamise sisulist õiguspärasust;
 
-3) käesoleva seadustiku § 753 lõigetes 1 ja 11 sätestatu, samuti teave selle kohta, et täidetavaks tunnistatud vahekohtu otsusel on täitemenetluses kohtulahendiga samasugune toime.
+- 3) käesoleva seadustiku § 753 lõigetes 1 ja 1¹ sätestatu, samuti teave selle kohta, et täidetavaks tunnistatud vahekohtu otsusel on täitemenetluses kohtulahendiga samasugune toime.
 
 (3) Kui vahekohtumenetluse pool on tarbija, lepitakse vahekohtumenetluse kohana kokku tarbija elu- või töökoht vähemalt maakonna täpsusega.
 

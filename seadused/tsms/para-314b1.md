@@ -6,9 +6,9 @@
 
 (3) Käesoleva paragrahvi lõigetes 1 ja 2 sätestatud korras võib kohus menetlusdokumente kätte toimetada nende saatmisega ka:
 
-1) teises käimasolevas kohtumenetluses kohtule teadaolevat menetlusosalise aadressi või muu sidevahendi andmeid kasutades;
+- 1) teises käimasolevas kohtumenetluses kohtule teadaolevat menetlusosalise aadressi või muu sidevahendi andmeid kasutades;
 
-2) hagimenetlusele eelnenud maksekäsu kiirmenetluses kohtule teadaolevat menetlusosalise aadressi või muu sidevahendi andmeid kasutades.
+- 2) hagimenetlusele eelnenud maksekäsu kiirmenetluses kohtule teadaolevat menetlusosalise aadressi või muu sidevahendi andmeid kasutades.
 
 (4) Kui menetlusdokument toimetatakse välisriigis kätte postiteenuse osutaja vahendusel saatmisega, loetakse menetlusdokument kättetoimetatuks 30 päeva möödumisel selle saatmisest arvates.
 

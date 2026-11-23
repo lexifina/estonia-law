@@ -4,11 +4,11 @@
 
 (2) Vahekohtumenetluse kokkulepe on tühine, kui selle ese on:
 
-1) Eestis asuva eluruumi üürilepingu kehtivuse ja ülesütlemise ning eluruumi vabastamise vaidlus;
+- 1) Eestis asuva eluruumi üürilepingu kehtivuse ja ülesütlemise ning eluruumi vabastamise vaidlus;
 
-2) töölepingu lõpetamise vaidlus;
+- 2) töölepingu lõpetamise vaidlus;
 
-3) tarbijakrediidilepingust tulenev vaidlus.
+- 3) tarbijakrediidilepingust tulenev vaidlus.
 
 (3) Avalik-õiguslik varaline nõue võib olla vahekohtumenetluse kokkuleppe ese, kui pooled võivad sõlmida vaidluseseme kohta halduslepingu.
 

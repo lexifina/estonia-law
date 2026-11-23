@@ -2,11 +2,11 @@
 
 (1) Vahekohus võib poole avalduse alusel:
 
-1) parandada vahekohtu otsuses esinevad arvutus-, kirja- ja muud sarnased vead;
+- 1) parandada vahekohtu otsuses esinevad arvutus-, kirja- ja muud sarnased vead;
 
-2) selgitada otsust taotletavas osas;
+- 2) selgitada otsust taotletavas osas;
 
-3) teha täiendava otsuse nõude kohta, mis küll vahekohtumenetluses esitati, aga mida otsuses ei ole lahendatud.
+- 3) teha täiendava otsuse nõude kohta, mis küll vahekohtumenetluses esitati, aga mida otsuses ei ole lahendatud.
 
 (2) Käesoleva paragrahvi lõikes 1 nimetatud avalduse võib esitada otsuse kättetoimetamisest alates 30 päeva jooksul, kui pooled ei ole kokku leppinud teist tähtaega.
 

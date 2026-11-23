@@ -2,9 +2,9 @@
 
 (1) Kui menetlusabi korras on määratud menetluskulude tasumine osadena, peatab kohus määrusega osamaksete tasumise, kui:
 
-1) on ilmne, et menetlusabi saaja senised maksed katavad menetluskulud;
+- 1) on ilmne, et menetlusabi saaja senised maksed katavad menetluskulud;
 
-2) jõustub lahend, mille alusel peab menetluskulud kandma teine menetlusosaline.
+- 2) jõustub lahend, mille alusel peab menetluskulud kandma teine menetlusosaline.
 
 (2) Kohus ei peata käesoleva paragrahvi lõike 1 punkti 2 kohaselt osamaksete tasumist, kui menetluskulude kandmiseks kohtulahendi alusel kohustatud menetlusosalisele on samuti antud menetlusabi menetluskulude kandmiseks või kui muul põhjusel on ilmne, et see menetlusosaline ei suuda kulusid tasuda.
 

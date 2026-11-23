@@ -6,15 +6,15 @@
 
 (2) Kohus jätab maksekäsu kiirmenetluse avalduse määrusega rahuldamata, kui:
 
-1) käesoleva seadustiku § 481 kohaselt ei ole maksekäsu kiirmenetlus lubatud;
+- 1) käesoleva seadustiku § 481 kohaselt ei ole maksekäsu kiirmenetlus lubatud;
 
-2) avaldus ei vasta käesoleva seadustiku §-s 482 sätestatud nõuetele;
+- 2) avaldus ei vasta käesoleva seadustiku §-s 482 sätestatud nõuetele;
 
-3) makseettepanekut ei ole õnnestunud võlgnikule mõistliku aja jooksul kätte toimetada ja seda ei saa avalikult kätte toimetada ning avaldaja on sõnaselgelt väljendanud soovi vastuväite esitamise korral menetlus lõpetada;
+- 3) makseettepanekut ei ole õnnestunud võlgnikule mõistliku aja jooksul kätte toimetada ja seda ei saa avalikult kätte toimetada ning avaldaja on sõnaselgelt väljendanud soovi vastuväite esitamise korral menetlus lõpetada;
 
-3¹) avaldaja ei teavita kohut talle käesoleva seadustiku § 3151 lõike 2 alusel määratud tähtaja jooksul kättetoimetamise tulemustest;
+- 3¹) avaldaja ei teavita kohut talle käesoleva seadustiku § 315¹ lõike 2 alusel määratud tähtaja jooksul kättetoimetamise tulemustest;
 
-4) ilmnevad käesolevas seadustikus sätestatud menetluse peatumise alused.
+- 4) ilmnevad käesolevas seadustikus sätestatud menetluse peatumise alused.
 
 (3) [Kehtetu]
 

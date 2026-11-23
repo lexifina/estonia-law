@@ -8,4 +8,4 @@
 
 (4) Kohus peatab menetluse nõutavaks ajaks, kui Finantsinspektsioon taotleb seda finantskriisi ennetamise ja lahendamise seaduse alusel.
 
-(5) Kui Riigikohus taotleb Euroopa Inimõiguste Kohtult käesoleva seadustiku § 6811 alusel nõuandvat arvamust, võib Riigikohus oma menetluse peatada taotluse menetlemise ajaks või kuni taotlusest loobumiseni.
+(5) Kui Riigikohus taotleb Euroopa Inimõiguste Kohtult käesoleva seadustiku § 681¹ alusel nõuandvat arvamust, võib Riigikohus oma menetluse peatada taotluse menetlemise ajaks või kuni taotlusest loobumiseni.

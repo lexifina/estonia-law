@@ -4,11 +4,11 @@
 
 (2) Maakohtu otsus jõustub eelkõige, kui:
 
-1) apellatsioonkaebuse esitamise tähtaeg on möödunud ja kaebust ei ole tähtaja jooksul esitatud;
+- 1) apellatsioonkaebuse esitamise tähtaeg on möödunud ja kaebust ei ole tähtaja jooksul esitatud;
 
-2) ringkonnakohus ei võta apellatsioonkaebust menetlusse või jätab kaebuse läbi vaatamata või rahuldamata või kui lõpetatakse apellatsioonimenetlus ning ringkonnakohtu lahendi peale kassatsioonkaebuse esitamise tähtaja jooksul kassatsioonkaebust ei esitata;
+- 2) ringkonnakohus ei võta apellatsioonkaebust menetlusse või jätab kaebuse läbi vaatamata või rahuldamata või kui lõpetatakse apellatsioonimenetlus ning ringkonnakohtu lahendi peale kassatsioonkaebuse esitamise tähtaja jooksul kassatsioonkaebust ei esitata;
 
-3) apellatsioonkaebus jäetakse ringkonnakohtus menetlusse võtmata, läbi vaatamata või rahuldamata või lõpetatakse apellatsioonimenetlus ja ringkonnakohtu lahendi peale esitatud kassatsioonkaebust ei võeta menetlusse, see jäetakse läbi vaatamata või rahuldamata või lõpetatakse kassatsioonimenetlus.
+- 3) apellatsioonkaebus jäetakse ringkonnakohtus menetlusse võtmata, läbi vaatamata või rahuldamata või lõpetatakse apellatsioonimenetlus ja ringkonnakohtu lahendi peale esitatud kassatsioonkaebust ei võeta menetlusse, see jäetakse läbi vaatamata või rahuldamata või lõpetatakse kassatsioonimenetlus.
 
 (3) Tagaseljaotsus jõustub, kui selle peale ei esitata kaja ega apellatsioonkaebust või kui kaja jäetakse läbi vaatamata või rahuldamata või kui jõustub ringkonnakohtu lahend apellatsioonkaebuse kohta.
 

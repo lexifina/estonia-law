@@ -2,17 +2,17 @@
 
 (1) Tsiviilasjas tehtud välisriigi kohtulahend kuulub Eesti Vabariigis tunnustamisele, välja arvatud juhul, kui:
 
-1) lahendi tunnustamine oleks ilmselt vastuolus Eesti õiguse oluliste põhimõtetega (avaliku korraga), eelkõige isikute põhiõiguste ja -vabadustega;
+- 1) lahendi tunnustamine oleks ilmselt vastuolus Eesti õiguse oluliste põhimõtetega (avaliku korraga), eelkõige isikute põhiõiguste ja -vabadustega;
 
-2) kostja või muu võlgnik ei ole saanud oma õigusi mõistlikult kaitsta, eelkõige kui ta ei saanud kohtukutset või muud menetlust algatavat dokumenti kätte õigel ajal ja nõuetekohasel viisil, välja arvatud juhul, kui tal oli mõistlik võimalus kohtulahend vaidlustada ja ta seda ettenähtud tähtaja jooksul ei teinud;
+- 2) kostja või muu võlgnik ei ole saanud oma õigusi mõistlikult kaitsta, eelkõige kui ta ei saanud kohtukutset või muud menetlust algatavat dokumenti kätte õigel ajal ja nõuetekohasel viisil, välja arvatud juhul, kui tal oli mõistlik võimalus kohtulahend vaidlustada ja ta seda ettenähtud tähtaja jooksul ei teinud;
 
-3) lahend on vastuolus samade poolte vahel samas asjas Eestis tehtud varasema lahendiga või kui samade poolte vahel on samas asjas esitatud hagi Eesti kohtusse;
+- 3) lahend on vastuolus samade poolte vahel samas asjas Eestis tehtud varasema lahendiga või kui samade poolte vahel on samas asjas esitatud hagi Eesti kohtusse;
 
-4) lahend on vastuolus samade poolte vahel samas asjas Eestis varem tunnustatud või täidetud välisriigi kohtu lahendiga;
+- 4) lahend on vastuolus samade poolte vahel samas asjas Eestis varem tunnustatud või täidetud välisriigi kohtu lahendiga;
 
-5) lahend on vastuolus samade poolte vahel samas asjas välisriigis tehtud, kuid Eestis tunnustamata varasema lahendiga, eeldusel, et varasem välisriigi kohtulahend on Eestis tunnustatav või täidetav;
+- 5) lahend on vastuolus samade poolte vahel samas asjas välisriigis tehtud, kuid Eestis tunnustamata varasema lahendiga, eeldusel, et varasem välisriigi kohtulahend on Eestis tunnustatav või täidetav;
 
-6) lahendi teinud kohus ei võinud lahendit teha Eesti õiguse rahvusvahelise kohtualluvuse sätete kohaselt.
+- 6) lahendi teinud kohus ei võinud lahendit teha Eesti õiguse rahvusvahelise kohtualluvuse sätete kohaselt.
 
 (1¹) Kui välisriigi kohtulahend tehti isiku avalikus arutelus osalemisest tulenevalt algatatud kohtumenetluses ja esitatud nõue oli ilmselgelt põhjendamatu või kohtumenetlus oli kuritarvituslik, loetakse kohtulahendi tunnustamine Eesti õiguse oluliste põhimõtetega vastuolus olevaks.
 

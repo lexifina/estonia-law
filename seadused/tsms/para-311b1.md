@@ -2,15 +2,15 @@
 
 (1) Kohus võib toimetada menetlusdokumendi kätte elektrooniliselt selleks ettenähtud infosüsteemi kaudu, edastades seal dokumendi kättesaadavaks tegemise kohta teavituse:
 
-1) kohtule avaldatud elektronpostiaadressil ja telefoninumbril;
+- 1) kohtule avaldatud elektronpostiaadressil ja telefoninumbril;
 
-2) füüsilisest isikust ettevõtja või juriidilise isiku kohta Eestis peetava registri infosüsteemis registreeritud elektronpostiaadressil ja telefoninumbril;
+- 2) füüsilisest isikust ettevõtja või juriidilise isiku kohta Eestis peetava registri infosüsteemis registreeritud elektronpostiaadressil ja telefoninumbril;
 
-3) adressaadi ja tema seadusliku esindaja rahvastikuregistrisse kantud elektronpostiaadressil ja telefoninumbril;
+- 3) adressaadi ja tema seadusliku esindaja rahvastikuregistrisse kantud elektronpostiaadressil ja telefoninumbril;
 
-4) muus riigi andmekogus, mille andmebaasist on kohtul võimalik ise elektroonilise päringu tegemisega andmeid kontrollida, oleval adressaadi ja tema seadusliku esindaja elektronpostiaadressil ja telefoninumbril;
+- 4) muus riigi andmekogus, mille andmebaasist on kohtul võimalik ise elektroonilise päringu tegemisega andmeid kontrollida, oleval adressaadi ja tema seadusliku esindaja elektronpostiaadressil ja telefoninumbril;
 
-5) Eesti isikukoodi olemasolu korral adressaadi ja tema seadusliku esindaja elektronpostiaadressil isikukood@eesti.ee.
+- 5) Eesti isikukoodi olemasolu korral adressaadi ja tema seadusliku esindaja elektronpostiaadressil isikukood@eesti.ee.
 
 (2) Kohus võib teavituse dokumendi kättesaadavaks tegemise kohta edastada ka avalikust arvutivõrgust leitud telefoninumbril, elektronpostiaadressil, virtuaalse sotsiaalvõrgustiku oletataval kasutajakonto lehel või muu virtuaalse suhtluskeskkonna lehel, mida avalikus arvutivõrgus avaldatud teabe kohaselt võib adressaat eeldatavasti kasutada või millel edastatud teave võib eeldatavasti jõuda adressaadini. Kohus avaldab adressaadi oletataval virtuaalse sotsiaalvõrgustiku kasutajakonto lehel või muu virtuaalse suhtluskeskkonna lehel teavituse võimaluse korral viisil, mille kohaselt teavitus ei ole muule isikule peale adressaadi nähtav.
 
@@ -30,10 +30,10 @@
 
 (9) Kui isik ei ole menetlusdokumenti käesoleva paragrahvi lõike 10 alusel kehtestatud tähtaja jooksul vastu võtnud, piiratakse kuni dokumendi kättetoimetamiseni ajutiselt tema juurdepääsu kättetoimetamiseks ettenähtud infosüsteemidega liidestatud järgmistele infosüsteemidele ja andmekogudele:
 
-1) e-kinnistusraamat;
+- 1) e-kinnistusraamat;
 
-2) e-toimik;
+- 2) e-toimik;
 
-3) e-äriregister.
+- 3) e-äriregister.
 
 (10) Valdkonna eest vastutav minister kehtestab tähtaja menetlusdokumendi elektrooniliseks vastuvõtmiseks käesoleva paragrahvi lõikes 9 nimetatud infosüsteemis.

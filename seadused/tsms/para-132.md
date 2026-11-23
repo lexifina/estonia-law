@@ -1,6 +1,6 @@
 # § 132. Hagihind mittevaralise nõude puhul
 
-(1) Mittevaralise nõude puhul eeldatakse, et hagihind on 3500 eurot, kui käesoleva paragrahvi lõikes 11 ei ole ette nähtud teisiti.
+(1) Mittevaralise nõude puhul eeldatakse, et hagihind on 3500 eurot, kui käesoleva paragrahvi lõikes 1¹ ei ole ette nähtud teisiti.
 
 (1¹) Käesoleva paragrahvi lõikes 4 sätestatud mittevaralise nõude puhul loetakse, et hagihind on 3500 eurot.
 
@@ -10,20 +10,22 @@
 
 (4) Hagihinna tähenduses loetakse mittevaraliseks ka järgmised nõuded:
 
-1) valduse kaitse nõue (asjaõigusseaduse §-d 44 ja 45);
+- 1) valduse kaitse nõue (asjaõigusseaduse §-d 44 ja 45);
 
-2) omandi kaitse nõue valduse kaotusega mitteseotud rikkumise korral (asjaõigusseaduse § 89);
+- 2) omandi kaitse nõue valduse kaotusega mitteseotud rikkumise korral (asjaõigusseaduse § 89);
 
-3) kinnistusraamatusse kantud kinnisasja omaniku nõue, mis on suunatud kinnisasja väljanõudmisele ebaseaduslikust valdusest oma valdusse, välja arvatud käesoleva seadustiku § 128 teises lauses sätestatud juhul;
+- 3) kinnistusraamatusse kantud kinnisasja omaniku nõue, mis on suunatud kinnisasja väljanõudmisele ebaseaduslikust valdusest oma valdusse, välja arvatud käesoleva seadustiku § 128 teises lauses sätestatud juhul;
 
-4) kaasomandi lõpetamise nõue;
+- 4) kaasomandi lõpetamise nõue;
 
-5) ühisvara jagamise nõue;
+- 5) ühisvara jagamise nõue;
 
-6) soetisvara tasaarvestamise nõue;
+- 6) soetisvara tasaarvestamise nõue;
 
-7) ebamõistlikult kahjustava tüüptingimuse kasutamise lõpetamise või tingimuse soovitajalt soovitamise lõpetamise ja soovituse tagasivõtmise nõue;
+- 7) ebamõistlikult kahjustava tüüptingimuse kasutamise lõpetamise või tingimuse soovitajalt soovitamise lõpetamise ja soovituse tagasivõtmise nõue;
 
-8) juriidilise isiku organi otsuse kehtetuks tunnistamise ja otsuse tühisuse tuvastamise nõue. 9)
+- 8) juriidilise isiku organi otsuse kehtetuks tunnistamise ja otsuse tühisuse tuvastamise nõue.
+
+- 9) [Kehtetu]
 
 (5) Mittevaraliseks loetakse hagihinna tähenduses ka sundtäitmise lubamatuks tunnistamise nõuet. Kohus ei või määrata sellise nõudega hagi hinnaks enam kui 6000 eurot.

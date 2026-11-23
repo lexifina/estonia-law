@@ -10,14 +10,14 @@
 
 (5) Kohus võib käesoleva paragrahvi lõikes 4 sätestatud juhul nõuda asjakohast teavet:
 
-1) poole tööandjalt, muu hulgas endiselt tööandjalt;
+- 1) poole tööandjalt, muu hulgas endiselt tööandjalt;
 
-2) Sotsiaalkindlustusametilt ja muult asutuselt või isikult, kes teeb vanadusega või töövõime kaotusega seotud väljamakseid;
+- 2) Sotsiaalkindlustusametilt ja muult asutuselt või isikult, kes teeb vanadusega või töövõime kaotusega seotud väljamakseid;
 
-3) kindlustusseltsidelt;
+- 3) kindlustusseltsidelt;
 
-4) Maksu- ja Tolliametilt;
+- 4) Maksu- ja Tolliametilt;
 
-5) krediidiasutustelt.
+- 5) krediidiasutustelt.
 
 (6) Käesoleva paragrahvi lõikes 5 nimetatud isik ja asutus on kohustatud andma kohtule teavet kohtu määratud tähtaja jooksul. Kohustuse rikkumise korral võib kohus kohustatud isikut või asutust trahvida.

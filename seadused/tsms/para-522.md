@@ -14,4 +14,8 @@
 
 (5) Ekspertiisi ei pea määrama, kui:
 
-1) eestkostja määramise avalduse esitas eestkostet vajav isik ise ning avaldusele on lisatud tema tervislikku seisundit kajastavad dokumendid ja 2) isik loobub ekspertiisi tegemise õigusest ja 3) ekspertiisi tegemine on eestkostja ülesannete mahtu arvestades ebamõistlikult kulukas või töömahukas.
+- 1) eestkostja määramise avalduse esitas eestkostet vajav isik ise ning avaldusele on lisatud tema tervislikku seisundit kajastavad dokumendid ja
+
+- 2) isik loobub ekspertiisi tegemise õigusest ja
+
+- 3) ekspertiisi tegemine on eestkostja ülesannete mahtu arvestades ebamõistlikult kulukas või töömahukas.

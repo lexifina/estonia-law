@@ -8,11 +8,11 @@
 
 (4) Hagi muutmiseks ei peeta:
 
-1) esitatud faktiliste või õiguslike väidete täiendamist või parandamist, ilma et muudetaks hagi aluseks olevaid põhilisi asjaolusid;
+- 1) esitatud faktiliste või õiguslike väidete täiendamist või parandamist, ilma et muudetaks hagi aluseks olevaid põhilisi asjaolusid;
 
-2) hageja põhinõude või kõrvalnõuete suurendamist, vähendamist, laiendamist või kitsendamist;
+- 2) hageja põhinõude või kõrvalnõuete suurendamist, vähendamist, laiendamist või kitsendamist;
 
-3) esialgu nõutud eseme asemel asjaolude muutumise tõttu teise eseme või muu hüve nõudmist.
+- 3) esialgu nõutud eseme asemel asjaolude muutumise tõttu teise eseme või muu hüve nõudmist.
 
 (5) Kohus võib nõuda hagiavalduse teksti tervikuna esitamist, kui hagi on selle korduva muutmise tõttu või muul põhjusel ebaülevaatlik ja hagiavalduse teksti terviklik esitamine lihtsustab asja menetlemist.
 

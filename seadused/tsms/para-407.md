@@ -10,15 +10,15 @@
 
 (5) Tagaseljaotsust ei või teha juhul, kui:
 
-1) kostjale anti hagile vastamiseks ilmselt liiga lühike tähtaeg;
+- 1) kostjale anti hagile vastamiseks ilmselt liiga lühike tähtaeg;
 
-2) kostjale ei teatatud hagile vastamata jätmise tagajärgedest;
+- 2) kostjale ei teatatud hagile vastamata jätmise tagajärgedest;
 
-2¹) kostja on vastuse esitamise tähtaja jooksul taotlenud riigi õigusabi andmist advokaadi vahendusel vastamiseks;
+- 2¹) kostja on vastuse esitamise tähtaja jooksul taotlenud riigi õigusabi andmist advokaadi vahendusel vastamiseks;
 
-2²) hagi on ebaõigesti menetlusse võetud, muu hulgas juhul, kui asi ei allu sellele kohtule;
+- 2²) hagi on ebaõigesti menetlusse võetud, muu hulgas juhul, kui asi ei allu sellele kohtule;
 
-3) kostja on teatanud kohtule mõjuvast põhjusest hagile vastamata jätmiseks ja on seda põhistanud.
+- 3) kostja on teatanud kohtule mõjuvast põhjusest hagile vastamata jätmiseks ja on seda põhistanud.
 
 (5¹) Kohus võib keelduda tagaseljaotsuse tegemisest ka juhul, kui hagi toimetati kostjale kätte avaliku kättetoimetamisega ning menetluses tehtavat lahendit soovitakse eeldatavasti tunnustada või täita välisriigis ja hagi avaliku kättetoimetamise tõttu on tõenäoline, et lahendit ei tunnustataks või ei täidetaks.
 

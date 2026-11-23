@@ -4,13 +4,13 @@
 
 (2) Vastustajale teeb Riigikohus teatavaks järgmised asjaolud:
 
-1) kassatsioonkaebuse kohtusse saabumise aeg;
+- 1) kassatsioonkaebuse kohtusse saabumise aeg;
 
-2) vastustaja kohustus kassatsioonkaebusele kohtu määratud tähtajaks kirjalikult vastata;
+- 2) vastustaja kohustus kassatsioonkaebusele kohtu määratud tähtajaks kirjalikult vastata;
 
-2¹) vastustaja õigus esitada vastukassatsioonkaebus;
+- 2¹) vastustaja õigus esitada vastukassatsioonkaebus;
 
-3) mida vastus peab sisaldama.
+- 3) mida vastus peab sisaldama.
 
 (3) Teistele menetlusosalistele teatab Riigikohus kassatsioonkaebuse kohtusse saabumise aja ja selgitab neile õigust esitada kassatsioonkaebuse suhtes oma seisukoht kohtu määratud tähtaja jooksul.
 

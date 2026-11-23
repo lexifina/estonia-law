@@ -8,4 +8,4 @@
 
 (4) Kohus hoiab asitõendit nii, et asitõend ja selle tõenduslikud omadused säiliksid. Vajaduse korral asitõend pitseeritakse.
 
-(5) Kohtu poolt asitõendite arvelevõtmise, hoidmise, üleandmise ja hävitamise ning kiiresti riknevate asitõendite hindamise, võõrandamise ja hävitamise korra kehtestab Vabariigi Valitsus .
+(5) Kohtu poolt asitõendite arvelevõtmise, hoidmise, üleandmise ja hävitamise ning kiiresti riknevate asitõendite hindamise, võõrandamise ja hävitamise korra kehtestab Vabariigi Valitsus.

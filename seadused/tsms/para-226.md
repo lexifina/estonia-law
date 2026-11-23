@@ -4,14 +4,14 @@
 
 (2) Esindusõiguse puudumise tuvastamise korral võib kohus:
 
-1) jätta hagi läbi vaatamata, kui hageja nimel hagiavalduse esitanud isikul ei olnud esindusõigust hagi esitamisel;
+- 1) jätta hagi läbi vaatamata, kui hageja nimel hagiavalduse esitanud isikul ei olnud esindusõigust hagi esitamisel;
 
-2) teha otsuse, kui otsuse tegemine on seaduse kohaselt võimalik;
+- 2) teha otsuse, kui otsuse tegemine on seaduse kohaselt võimalik;
 
-3) kõrvaldada esindusõiguseta isik määrusega menetlusest, kui menetlusosalisel on menetluses mitu esindajat;
+- 3) kõrvaldada esindusõiguseta isik määrusega menetlusest, kui menetlusosalisel on menetluses mitu esindajat;
 
-4) lubada esindajal menetluses osaleda käesoleva seadustiku § 227 kohaselt;
+- 4) lubada esindajal menetluses osaleda käesoleva seadustiku § 227 kohaselt;
 
-5) lükata asja arutamine edasi.
+- 5) lükata asja arutamine edasi.
 
 (3) Kui esindusõiguse puudumine selgub menetluse kestel, kuid hagi on esitatud õigesti, loetakse, et esindatud menetlusosaline ei ole esindusõiguseta esindatud ulatuses menetluses osalenud, kui menetlusosaline ei kiida esindajana esinenud isiku menetlustoiminguid hiljem heaks.

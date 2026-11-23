@@ -2,11 +2,11 @@
 
 (1) Kohus algatab isiku surnuks tunnistamise menetluse üksnes avalduse alusel. Avalduse võib esitada isik või asutus, kellel on isiku surnuks tunnistamiseks õiguslik huvi, eelkõige:
 
-1) teadmata kadunud isiku seaduslik esindaja või valla- või linnavalitsus;
+- 1) teadmata kadunud isiku seaduslik esindaja või valla- või linnavalitsus;
 
-2) teadmata kadunud isiku abikaasa, registreeritud elukaaslane või üleneja või alaneja sugulane;
+- 2) teadmata kadunud isiku abikaasa, registreeritud elukaaslane või üleneja või alaneja sugulane;
 
-3) Siseministeerium või valdkonna eest vastutava ministri volitatud Siseministeeriumi valitsemisala asutus.
+- 3) Siseministeerium või valdkonna eest vastutava ministri volitatud Siseministeeriumi valitsemisala asutus.
 
 (2) Isiku surnuks tunnistamise avalduses märgitakse, miks avaldaja on huvitatud isiku surnuks tunnistamisest, ja samuti asjaolud, mis põhistavad isiku surnuks tunnistamist.
 

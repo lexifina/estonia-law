@@ -6,8 +6,8 @@
 
 (3) Sõltumata käesoleva paragrahvi lõikes 1 sätestatust, kehtib kohtualluvuse kokkulepe ka juhul, kui:
 
-1) selles on kokku lepitud pärast vaidluse tekkimist;
+- 1) selles on kokku lepitud pärast vaidluse tekkimist;
 
-2) kohtualluvus lepiti kokku juhuks, kui kostja asub pärast kokkuleppe sõlmimist elama välisriiki või kui viib sinna üle oma tegevuskoha või asukoha või kui tema tegevus-, elu- või asukoht ei ole hagi esitamise ajal teada.
+- 2) kohtualluvus lepiti kokku juhuks, kui kostja asub pärast kokkuleppe sõlmimist elama välisriiki või kui viib sinna üle oma tegevuskoha või asukoha või kui tema tegevus-, elu- või asukoht ei ole hagi esitamise ajal teada.
 
 (4) Kokkulepitud kohtualluvus on erandlik, kui pooled ei ole kokku leppinud teisiti.

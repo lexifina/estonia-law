@@ -8,12 +8,12 @@
 
 (4) Käesoleva paragrahvi lõigetes 2 ja 3 sätestatut kohaldatakse ka ülalpidamisasjade suhtes. Ülalpidamisasi on tsiviilasi, kus lahendatakse hagi, mille esemeks on nõue:
 
-1) seadusest tuleneva vanema ülalpidamiskohustuse täitmiseks alaealise lapse suhtes;
+- 1) seadusest tuleneva vanema ülalpidamiskohustuse täitmiseks alaealise lapse suhtes;
 
-2) vanematevahelise ülalpidamiskohustuse täitmiseks;
+- 2) vanematevahelise ülalpidamiskohustuse täitmiseks;
 
-3) abikaasadevahelise ülalpidamiskohustuse täitmiseks;
+- 3) abikaasadevahelise ülalpidamiskohustuse täitmiseks;
 
-3¹) registreeritud elukaaslaste vahelise ülalpidamiskohustuse täitmiseks;
+- 3¹) registreeritud elukaaslaste vahelise ülalpidamiskohustuse täitmiseks;
 
-4) seadusest tuleneva muu ülalpidamiskohustuse täitmiseks.
+- 4) seadusest tuleneva muu ülalpidamiskohustuse täitmiseks.

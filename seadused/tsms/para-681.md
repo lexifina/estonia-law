@@ -2,15 +2,15 @@
 
 (1) Pärast kassatsioonkaebuse menetlusse võtmist Riigikohus:
 
-1) teeb hagi tagamise või hagi tagamise tühistamise määruse, kui sellekohane taotlus on põhjendatud;
+- 1) teeb hagi tagamise või hagi tagamise tühistamise määruse, kui sellekohane taotlus on põhjendatud;
 
-2) lahendab kohtuotsuse viivitamata täitmise või täitmise peatamise, kui sellekohane taotlus on põhjendatud;
+- 2) lahendab kohtuotsuse viivitamata täitmise või täitmise peatamise, kui sellekohane taotlus on põhjendatud;
 
-3) selgitab, kas asja lahendamine eelmenetluses on võimalik;
+- 3) selgitab, kas asja lahendamine eelmenetluses on võimalik;
 
-4) määrab kohtuistungi asja läbivaatamiseks, kui asja ei saa lahendada kirjalikus menetluses;
+- 4) määrab kohtuistungi asja läbivaatamiseks, kui asja ei saa lahendada kirjalikus menetluses;
 
-5) annab vajaduse korral menetlusosalisele tähtaja vastamiseks Riigikohtu poolt vajalikuks peetud küsimusele või nõuab menetlusosaliselt vastuse täiendamist kohtu määratud tähtaja jooksul.
+- 5) annab vajaduse korral menetlusosalisele tähtaja vastamiseks Riigikohtu poolt vajalikuks peetud küsimusele või nõuab menetlusosaliselt vastuse täiendamist kohtu määratud tähtaja jooksul.
 
 (2) Pärast asja menetlusse võtmist valmistab asja lahendamise ette ettekandjaks määratud Riigikohtu tsiviilkolleegiumi liige sellise põhjalikkusega, et asja saaks kohtuistungi korraldamisel lahendada katkestamatult ühel kohtuistungil.
 

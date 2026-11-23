@@ -2,11 +2,11 @@
 
 (1) Makseettepaneku koostanud kohus annab asja hagimenetluses menetlemiseks üle maksekäsu kiirmenetluse avalduses märgitud kohtule, arvestades kohtualluvuse sätteid, kui:
 
-1) võlgnik esitab õigel ajal makseettepanekule vastuväite ning avaldaja ei ole sõnaselgelt väljendanud soovi vastuväite esitamise korral menetlus lõpetada;
+- 1) võlgnik esitab õigel ajal makseettepanekule vastuväite ning avaldaja ei ole sõnaselgelt väljendanud soovi vastuväite esitamise korral menetlus lõpetada;
 
-2) makseettepanekut ei ole õnnestunud võlgnikule mõistliku aja jooksul kätte toimetada ja seda ei saa avalikult kätte toimetada ning avaldaja ei ole sõnaselgelt väljendanud soovi vastuväite esitamise korral menetlus lõpetada;
+- 2) makseettepanekut ei ole õnnestunud võlgnikule mõistliku aja jooksul kätte toimetada ja seda ei saa avalikult kätte toimetada ning avaldaja ei ole sõnaselgelt väljendanud soovi vastuväite esitamise korral menetlus lõpetada;
 
-3) avaldaja ja võlgnik on enne maksekäsu tegemist esitanud kohtule kirjaliku kompromissilepingu.
+- 3) avaldaja ja võlgnik on enne maksekäsu tegemist esitanud kohtule kirjaliku kompromissilepingu.
 
 (2) Hagi loetakse hagimenetluse tähenduses esitatuks alates maksekäsu kiirmenetluse avalduse esitamisest.
 

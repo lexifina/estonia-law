@@ -4,7 +4,9 @@
 
 (2) Eestkostja ülesannete muutmisel, uue eestkostja määramisel või eestkostja ametiaja pikendamisel ei pea uut ekspertiisi tegema ega eestkostetavale menetluseks esindajat määrama, kui:
 
-1) eestkostja ülesandeid oluliselt ei laiendata või 2) eestkoste määramise aluseks olevast ekspertiisist on möödunud vähem kui viis aastat.
+- 1) eestkostja ülesandeid oluliselt ei laiendata või
+
+- 2) eestkoste määramise aluseks olevast ekspertiisist on möödunud vähem kui viis aastat.
 
 (3) [Kehtetu]
 

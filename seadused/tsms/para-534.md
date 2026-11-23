@@ -2,7 +2,9 @@
 
 (1) Kohus võib avaldaja taotlusel esialgse õiguskaitse rakendamise korras paigutada isiku kinnisesse asutusse, kui:
 
-1) kinnisesse asutusse paigutamise tingimused on ilmselt täidetud ja viivitusega kaasneks oht isikule endale või kolmandatele isikutele ja 2) on olemas piisavad dokumendid isiku tervisliku seisundi kohta.
+- 1) kinnisesse asutusse paigutamise tingimused on ilmselt täidetud ja viivitusega kaasneks oht isikule endale või kolmandatele isikutele ja
+
+- 2) on olemas piisavad dokumendid isiku tervisliku seisundi kohta.
 
 (2) Esialgse õiguskaitse rakendamise taotluse psüühikahäirega isiku paigutamiseks tema tahteta või tahte vastaselt psühhiaatriahaiglasse võib esitada ka psühhiaatrilise abi seaduse § 13 lõikes 1 nimetatud isik.
 

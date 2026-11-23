@@ -4,11 +4,11 @@
 
 (2) Käesoleva paragrahvi lõikes 1 nimetatud avalduses märgitakse lisaks menetlusdokumentide muudele andmetele (§ 338):
 
-1) andmed poolte ja kohtuvaidluse kohta;
+- 1) andmed poolte ja kohtuvaidluse kohta;
 
-2) õigusliku huvi, mida iseseisva nõudeta kolmas isik asjas omab, põhistus;
+- 2) õigusliku huvi, mida iseseisva nõudeta kolmas isik asjas omab, põhistus;
 
-3) menetlusega ühinemise taotlus.
+- 3) menetlusega ühinemise taotlus.
 
 (3) Kohus toimetab käesoleva paragrahvi lõikes 1 nimetatud avalduse kätte mõlemale poolele ja annab neile tähtaja seisukoha võtmiseks.
 

@@ -4,15 +4,15 @@
 
 (1¹) Kohtuistungi võib jätta salvestamata, kui:
 
-1) enne istungit või istungi käigus ilmneb, et salvestamine on tehniliselt võimatu;
+- 1) enne istungit või istungi käigus ilmneb, et salvestamine on tehniliselt võimatu;
 
-2) istung toimub väljaspool kohturuume;
+- 2) istung toimub väljaspool kohturuume;
 
-3) istung toimub poole osavõtuta ja kohus jätab hagi läbi vaatamata, lükkab asja arutamise edasi või lahendab asja kirjalikus menetluses või tagaseljaotsusega;
+- 3) istung toimub poole osavõtuta ja kohus jätab hagi läbi vaatamata, lükkab asja arutamise edasi või lahendab asja kirjalikus menetluses või tagaseljaotsusega;
 
-4) tegemist on kohtulahendi kuulutamiseks korraldatud istungiga;
+- 4) tegemist on kohtulahendi kuulutamiseks korraldatud istungiga;
 
-5) tegemist on Riigikohtu istungiga.
+- 5) tegemist on Riigikohtu istungiga.
 
 (1²) Esialgselt võib kohtuistungi või muu menetlustoimingu täielikult või osaliselt salvestada heli-, video- või muule andmekandjale. Sel juhul koostatakse protokoll viivitamata pärast kohtuistungit või muu menetlustoimingu tegemist.
 

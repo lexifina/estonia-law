@@ -2,15 +2,15 @@
 
 (1) Kohus ei jäta hagi läbi vaatamata sõltumata hageja ilmumata jäämisest kohtuistungile, kui:
 
-1) hageja oli nõus kirjaliku menetlusega või hagi läbivaatamisega tema osavõtuta;
+- 1) hageja oli nõus kirjaliku menetlusega või hagi läbivaatamisega tema osavõtuta;
 
-2) kohtuistungile ilmumata jäänud hagejat ei kutsutud istungile õigel ajal või kutses ei ole selgitatud istungilt puudumise tagajärgi või kui on eiratud muid istungile kutsumise nõudeid;
+- 2) kohtuistungile ilmumata jäänud hagejat ei kutsutud istungile õigel ajal või kutses ei ole selgitatud istungilt puudumise tagajärgi või kui on eiratud muid istungile kutsumise nõudeid;
 
-3) hageja on teatanud eelnevalt kohtule mõjuvast põhjusest istungile ilmumata jätmiseks ja seda põhistanud;
+- 3) hageja on teatanud eelnevalt kohtule mõjuvast põhjusest istungile ilmumata jätmiseks ja seda põhistanud;
 
-4) kostja taotleb asja sisulist lahendamist ja asi on võimalik sisuliselt lahendada;
+- 4) kostja taotleb asja sisulist lahendamist ja asi on võimalik sisuliselt lahendada;
 
-5) kostja on võtnud hagi õigeks.
+- 5) kostja on võtnud hagi õigeks.
 
 (2) Kohus võib jätta hagi läbi vaatamata muu hulgas juhul, kui hageja ei ilmunud isiklikult kohtusse, kuigi kohus kohustas teda seda isiklikult tegema, ilma et hageja või tema esindaja oleks teatanud kohtule mõjuvast põhjusest ilmumata jätmiseks või oleks seda põhistanud. Kohtul on see õigus sõltumata sellest, et istungil osaleb hageja esindaja.
 

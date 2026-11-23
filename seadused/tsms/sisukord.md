@@ -1,0 +1,247 @@
+# Sisukord
+
+1. osa ÜLDSÄTTED
+
+- 1. peatükk MENETLUSE ÜLDPÕHIMÕTTED
+
+- 2. peatükk TSIVIILASJU LAHENDAVAD KOHTUD
+
+- 3. peatükk KOHTUKOOSSEIS
+
+- 4. peatükk MENETLUSES OSALEMIST VÄLISTAVAD ASJAOLUD
+
+- 5. peatükk KOHTU TÖÖKEEL
+
+- 6. peatükk MENETLUSE AVALIKKUS
+
+- 7. peatükk TSIVIILKOHTUMENETLUSE TAGAMINE
+
+- 8. peatükk PROTOKOLLID
+
+- 9. peatükk TOIMIK
+
+- 10. peatükk MENETLUSTÄHTAJAD
+
+2. osa KOHTUALLUVUS
+
+- 11. peatükk ÜLDSÄTTED
+
+- 12. peatükk ÜLDINE KOHTUALLUVUS
+
+- 13. peatükk VALIKULINE KOHTUALLUVUS
+
+- 14. peatükk ERANDLIK KOHTUALLUVUS
+
+- 15. peatükk KOHTUALLUVUSE KOKKULEPE
+
+- 16. peatükk HAGITA ASJADE KOHTUALLUVUS
+
+3. osa TSIVIILASJA HIND, MENETLUSKULUD JA TAGATISED
+
+- 17. peatükk TSIVIILASJA HIND
+
+- 18. peatükk MENETLUSKULUD
+
+  - 1. jagu Üldsätted
+
+  - 2. jagu Menetluskulude kandmine
+
+  - 3. jagu Tunnistaja-, eksperdi- ja tõlgikulud ning muud tõendamisega seotud kulud
+
+  - 4. jagu Menetluskulude jaotus
+
+  - 5. jagu Menetluskulude kindlaksmääramine
+
+  - 6. jagu Riigipoolse menetlusabi andmine menetluskulude kandmiseks
+
+- 19. peatükk TAGATIS
+
+4. osa MENETLUSOSALISED JA NENDE ESINDAJAD
+
+- 20. peatükk ÜLDSÄTTED
+
+- 21. peatükk POOLED
+
+- 22. peatükk KOLMANDAD ISIKUD
+
+- 23. peatükk ESINDAMINE
+
+5. osa TÕENDID
+
+- 24. peatükk ÜLDSÄTTED
+
+- 25. peatükk TÕENDITE ESITAMINE, KOGUMINE JA UURIMINE
+
+- 26. peatükk EELTÕENDAMISMENETLUS TÕENDITE TAGAMISEKS JA ASJAOLUDE EELNEVAKS TUVASTAMISEKS
+
+- 27. peatükk TUNNISTAJA ÜTLUSED
+
+- 28. peatükk MENETLUSOSALISE VANDE ALL ANTUD SELETUS
+
+- 29. peatükk DOKUMENTAALNE TÕEND
+
+- 30. peatükk ASITÕEND
+
+- 31. peatükk VAATLUS
+
+- 32. peatükk EKSPERDIARVAMUS
+
+6. osa MENETLUSDOKUMENTIDE KÄTTETOIMETAMINE
+
+- 33. peatükk ÜLDSÄTTED
+
+- 34. peatükk MENETLUSDOKUMENDI KÄTTETOIMETAMISE VIISID
+
+- 35. peatükk MENETLUSDOKUMENDI KÄTTETOIMETAMINE SAAJA ESINDAJALE
+
+- 36. peatükk KÄTTETOIMETAMINE ERIJUHTUDEL
+
+7. osa MENETLUSOSALISTE AVALDUSED JA TAOTLUSED
+
+- 37. peatükk ÜLDSÄTTED
+
+- 38. peatükk MENETLUSOSALISTE ESITATAVATE MENETLUSDOKUMENTIDE VORM
+
+8. osa KOHTUISTUNG
+
+9. osa MENETLUSE PEATUMINE JA PEATAMINE
+
+10. osa HAGIMENETLUS
+
+- 39. peatükk ASJA ALGATAMINE
+
+- 40. peatükk HAGI TAGAMINE
+
+- 41. peatükk EELMENETLUS
+
+- 42. peatükk KOHTUISTUNG HAGIMENETLUSES
+
+- 43. peatükk LIHTSUSTATUD MENETLUSED
+
+- 43¹. peatükk AVALIKUS ARUTELUS OSALEMISEST TULENEVALT ALGATATUD KURITARVITUSLIK KOHTUMENETLUS
+
+- 44. peatükk KOHTULE VASTAMATA JÄTMISE JA MENETLUSOSALISE KOHTUISTUNGILT PUUDUMISE TAGAJÄRJED
+
+- 45. peatükk HAGI LÄBIVAATAMATA JÄTMINE
+
+- 46. peatükk MENETLUSE LÕPETAMINE
+
+- 47. peatükk KOHTULAHEND
+
+  - 1. jagu Kohtuotsus
+
+  - 2. jagu Kohtumäärus
+
+  - 3. jagu Kohtulahendi viivitamatu täitmine
+
+11. osa HAGITA MENETLUS
+
+- 48. peatükk ÜLDSÄTTED
+
+- 49. peatükk MAKSEKÄSU KIIRMENETLUS
+
+  - 1. jagu Üldsätted
+
+  - 2. jagu Maksekäsu kiirmenetlus lapse elatisnõudes
+
+- 49¹. peatükk KOLLEKTIIVSED ESINDUSHAGID
+
+  - 1. jagu Üldsätted
+
+  - 2. jagu Kollektiivse esindushagi menetlus
+
+- 50. peatükk ÜLESKUTSEMENETLUS
+
+- 51. peatükk ISIKU SURNUKS TUNNISTAMINE JA SURMAAJA TUVASTAMINE
+
+- 52. peatükk ÄRAOLIJA VARALE HOOLDUSE SEADMINE
+
+- 53. peatükk PIIRATUD TEOVÕIMEGA TÄISEALISELE ISIKULE EESTKOSTJA MÄÄRAMINE
+
+- 54. peatükk ISIKU PAIGUTAMINE KINNISESSE ASUTUSSE
+
+- 55. peatükk LÄHENEMISKEELU JA MUUDE SARNASTE ABINÕUDE RAKENDAMINE ISIKUÕIGUSTE KAITSEKS
+
+- 56. peatükk MENETLUS HAGITA PEREKONNAASJADES
+
+  - 1. jagu Üldsätted
+
+  - 2. jagu Alaealisele isikule eestkostja määramine ja alaealise isiku valimisõiguse osas teovõimetuks tunnistamine
+
+  - 3. jagu Vanema õiguste määramine lapse suhtes ja lapsega suhtlemise korraldamine
+
+  - 4. jagu Lapsendamine
+
+  - 5. jagu Alaealise teovõime laiendamine
+
+  - 6. jagu Isikust põlvnemise tuvastamine ja vanema kande vaidlustamine pärast isiku surma
+
+- 57. peatükk PÄRANDI HOIUMEETMETE RAKENDAMINE
+
+- 58. peatükk REGISTRIASJAD
+
+- 59. peatükk JURIIDILISE ISIKU JUHATUSE JA NÕUKOGU ASENDUSLIIKME, AUDIITORI, ERIKONTROLLI LÄBIVIIJA JA LIKVIDEERIJA MÄÄRAMINE
+
+- 60. peatükk ÄRIÜHINGU OSANIKELE JA AKTSIONÄRIDELE HÜVITISE SUURUSE MÄÄRAMINE
+
+- 61. peatükk KORTERIOMANDI JA KAASOMANDI ASJAD
+
+- 61¹. peatükk AVALIKULT KASUTATAVALE TEELE JUURDEPÄÄSU, MAAPARANDUSSÜSTEEMI EESVOOLU JA TEHNORAJATISE TALUMISE ASJAD
+
+- 62. peatükk TSIVIILASJAS TEHTUD VÄLISRIIGI KOHTULAHENDITE JA MUUDE TÄITEDOKUMENTIDE TUNNUSTAMINE JA TÄITMINE
+
+- 62¹. peatükk LEPITAJA VAHENDUSEL SÕLMITUD KOKKULEPPE TÄIDETAVAKS TUNNISTAMINE
+
+- 63. peatükk MUUD HAGITA ASJAD
+
+12. osa MENETLUS RINGKONNAKOHTUS
+
+- 64. peatükk APELLATSIOONIMENETLUS
+
+  - 1. jagu Ringkonnakohtusse edasikaebamine
+
+  - 2. jagu Menetlus ringkonnakohtus
+
+  - 3. jagu Ringkonnakohtu otsus
+
+- 65. peatükk MÄÄRUSKAEBUS RINGKONNAKOHTUS
+
+13. osa MENETLUS RIIGIKOHTUS
+
+- 66. peatükk KASSATSIOONIMENETLUS
+
+  - 1. jagu Riigikohtusse edasikaebamine
+
+  - 2. jagu Menetluse kord Riigikohtus
+
+  - 3. jagu Riigikohtu otsus
+
+- 67. peatükk MÄÄRUSKAEBUS RIIGIKOHTUS
+
+- 68. peatükk TEISTMINE
+
+- 69. peatükk PÄDEVA KOHTU MÄÄRAMINE
+
+14. osa VAHEKOHTUMENETLUS
+
+- 70. peatükk ÜLDSÄTTED
+
+- 71. peatükk VAHEKOHTUMENETLUSE KOKKULEPE
+
+- 72. peatükk VAHEKOHTU MOODUSTAMINE
+
+- 73. peatükk VAHEKOHTU PÄDEVUS
+
+- 74. peatükk VAHEKOHTUMENETLUSE LÄBIVIIMISE PÕHIMÕTTED
+
+- 75. peatükk VAHEKOHTU OTSUS JA MENETLUSE LÕPETAMINE
+
+- 76. peatükk OTSUSE TÜHISTAMINE
+
+- 77. peatükk VAHEKOHTU OTSUSE TUNNUSTAMISE JA TÄITMISE EELDUSED
+
+- 78. peatükk KOHTUMENETLUS
+
+- 79. peatükk LEPINGUVÄLISED VAHEKOHTUD
+
+15. osa SEADUSTIKU JÕUSTUMINE

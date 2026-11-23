@@ -4,15 +4,15 @@
 
 (2) Kohus teeb kostjale hagi menetlusse võtmisest teatamisel teatavaks:
 
-1) kostja kohustuse hagile kohtu määratud tähtpäevaks kirjalikult vastata;
+- 1) kostja kohustuse hagile kohtu määratud tähtpäevaks kirjalikult vastata;
 
-2) mida vastus hagile peab sisaldama;
+- 2) mida vastus hagile peab sisaldama;
 
-3) hagile vastamata jätmise, hagi tunnistamise ja hageja väidetega nõustumise tagajärjed, muu hulgas tagaseljaotsuse tegemise võimaluse kostja kahjuks ja kostja kohustuse kanda menetluskulud;
+- 3) hagile vastamata jätmise, hagi tunnistamise ja hageja väidetega nõustumise tagajärjed, muu hulgas tagaseljaotsuse tegemise võimaluse kostja kahjuks ja kostja kohustuse kanda menetluskulud;
 
-4) kohtuistungilt puudumise tagajärjed, kui asi vaadatakse läbi kohtuistungil;
+- 4) kohtuistungilt puudumise tagajärjed, kui asi vaadatakse läbi kohtuistungil;
 
-5) tõendite kohtu määratud ajaks esitamata jätmise tagajärjed.
+- 5) tõendite kohtu määratud ajaks esitamata jätmise tagajärjed.
 
 (2¹) Iseseisva nõudeta kolmandale isikule selgitab kohus tema õigust esitada hagi suhtes oma seisukoht kohtu määratud tähtaja jooksul.
 

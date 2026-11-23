@@ -6,11 +6,11 @@
 
 (3) Riigikohus võtab kassatsioonkaebuse menetlusse, kui kassatsioonkaebus vastab seaduses sätestatud nõuetele ja on esitatud õigeaegselt ning, kui:
 
-1) ringkonnakohus on oma otsuses ilmselt valesti kohaldanud materiaalõiguse normi ja selle normi vale kohaldamine võis kaasa tuua ebaõige otsuse;
+- 1) ringkonnakohus on oma otsuses ilmselt valesti kohaldanud materiaalõiguse normi ja selle normi vale kohaldamine võis kaasa tuua ebaõige otsuse;
 
-2) ringkonnakohus on otsust tehes rikkunud oluliselt menetlusõiguse normi ja see võis kaasa tuua ebaõige otsuse;
+- 2) ringkonnakohus on otsust tehes rikkunud oluliselt menetlusõiguse normi ja see võis kaasa tuua ebaõige otsuse;
 
-3) kassatsioonkaebuse lahendamisel on sõltumata käesoleva lõike punktides 1 ja 2 sätestatust põhimõtteline tähendus õiguskindluse tagamiseks ja ühtse kohtupraktika kujundamiseks või õiguse edasiarenduseks.
+- 3) kassatsioonkaebuse lahendamisel on sõltumata käesoleva lõike punktides 1 ja 2 sätestatust põhimõtteline tähendus õiguskindluse tagamiseks ja ühtse kohtupraktika kujundamiseks või õiguse edasiarenduseks.
 
 (4) Riigikohus ei pea varalise nõudega hagi asjas esitatud kassatsioonkaebust menetlusse võtma sõltumata käesoleva paragrahvi lõike 3 punktides 1 ja 2 sätestatust, kui kassaator vaidlustab ringkonnakohtu otsust väiksemas ulatuses kui Vabariigi Valitsuse kehtestatud kuupalga kümnekordne alammäär.
 

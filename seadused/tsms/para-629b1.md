@@ -1,6 +1,4 @@
-# § 629¹. Asjaõiguse kohandamine vastavalt Euroopa Parlamendi ja nõukogu määrusele (EL) nr 650/2012
-
-Asjaõiguse kohandamine vastavalt Euroopa Parlamendi ja nõukogu määrusele (EL) nr 650/2012
+# § 629¹. Asjaõiguse kohandamine vastavalt Euroopa Parlamendi ja nõukogu määrusele (EL) nr 650/2012
 
 (1) Kohus algatab välisriigi asjaõiguse kohandamise menetluse selleks õigustatud isiku avalduse alusel.
 

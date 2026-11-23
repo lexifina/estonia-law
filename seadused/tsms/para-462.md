@@ -2,7 +2,7 @@
 
 (1) Jõustunud kohtuotsus avalikustatakse selleks ettenähtud kohas arvutivõrgus. See ei mõjuta otsuse jõustumist.
 
-(2) Andmesubjekti taotlusel või kohtu algatusel asendatakse jõustunud kohtuotsuses andmesubjekti nimi initsiaalide või tähemärgiga ning ei avalikustata tema isikukoodi, sünniaega, registrikoodi ega aadressi. Riigi- või kohaliku omavalitsuse asutuse, avalik-õigusliku juriidilise isiku või muu avaliku võimu kandja, samuti käesoleva seadustiku § 4062 kohaselt kuritarvitusliku kohtumenetluse algatanud hageja andmeid kohtulahendis ei varjata.
+(2) Andmesubjekti taotlusel või kohtu algatusel asendatakse jõustunud kohtuotsuses andmesubjekti nimi initsiaalide või tähemärgiga ning ei avalikustata tema isikukoodi, sünniaega, registrikoodi ega aadressi. Riigi- või kohaliku omavalitsuse asutuse, avalik-õigusliku juriidilise isiku või muu avaliku võimu kandja, samuti käesoleva seadustiku § 406² kohaselt kuritarvitusliku kohtumenetluse algatanud hageja andmeid kohtulahendis ei varjata.
 
 (3) Kohus avalikustab omal algatusel või andmesubjekti taotlusel arvutivõrgus üksnes otsuse resolutsiooni või ei avalikusta otsust, kui otsus sisaldab eriliiki isikuandmeid ja kui otsuse isikuandmetega avalikustamine võib ka käesoleva paragrahvi lõikes 2 sätestatut järgides oluliselt kahjustada isiku eraelu puutumatust. Kohus lahendab taotluse määrusega.
 

@@ -2,11 +2,11 @@
 
 (1) Kaja esitatakse tagaseljaotsuse teinud kohtule. Kajas peab sisalduma:
 
-1) viide otsusele, mille peale kaja esitatakse;
+- 1) viide otsusele, mille peale kaja esitatakse;
 
-2) avaldus, et selle otsuse peale esitatakse kaja;
+- 2) avaldus, et selle otsuse peale esitatakse kaja;
 
-3) asjaolu, mis takistas kaja esitajal hagile vastamast või kohtuistungile ilmumast ja sellest teatamast ning selle põhistus, välja arvatud juhul, kui kaja esitamiseks ei ole mõjuv põhjus vajalik.
+- 3) asjaolu, mis takistas kaja esitajal hagile vastamast või kohtuistungile ilmumast ja sellest teatamast ning selle põhistus, välja arvatud juhul, kui kaja esitamiseks ei ole mõjuv põhjus vajalik.
 
 (2) Kui tagaseljaotsus tehti eelmenetluses seetõttu, et kostja ei vastanud tähtaegselt kohtule või ei ilmunud eelistungile, tuleb kajale lisada kõik asja ettevalmistamise lõpuleviimiseks vajalik.
 

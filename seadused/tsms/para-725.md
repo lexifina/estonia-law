@@ -4,8 +4,8 @@
 
 (2) Kohus arvestab vahekohtunikku määrates:
 
-1) poolte vahel vahekohtuniku suhtes kokkulepitud tingimusi;
+- 1) poolte vahel vahekohtuniku suhtes kokkulepitud tingimusi;
 
-2) asjaolusid, mis tagavad sõltumatu, erapooletu ja kompetentse vahekohtuniku määramise.
+- 2) asjaolusid, mis tagavad sõltumatu, erapooletu ja kompetentse vahekohtuniku määramise.
 
 (3) Vahekohtuniku määramise määruse peale ei saa edasi kaevata.

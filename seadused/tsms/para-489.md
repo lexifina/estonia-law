@@ -12,7 +12,7 @@
 
 (4) [Kehtetu]
 
-(5) Maksekäsus tuleb võlgnikule selgitada, et ta võib määruse kättetoimetamisest alates 15 päeva jooksul, maksekäsu välismaal kättetoimetamise korral 30 päeva jooksul esitada maksekäsu peale määruskaebuse. Võlgnikule selgitatakse, et määruskaebuse esitamine on võimalik üksnes käesoleva seadustiku § 4891 lõikes 2 nimetatud juhtudel.
+(5) Maksekäsus tuleb võlgnikule selgitada, et ta võib määruse kättetoimetamisest alates 15 päeva jooksul, maksekäsu välismaal kättetoimetamise korral 30 päeva jooksul esitada maksekäsu peale määruskaebuse. Võlgnikule selgitatakse, et määruskaebuse esitamine on võimalik üksnes käesoleva seadustiku § 489¹ lõikes 2 nimetatud juhtudel.
 
 (6) Maksekäsk toimetatakse võlgnikule kätte ja sellest teavitatakse ka avaldajat.
 

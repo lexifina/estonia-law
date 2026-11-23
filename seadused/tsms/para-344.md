@@ -2,19 +2,19 @@
 
 (1) Kohtukutses märgitakse vähemalt:
 
-1) kohtusse kutsutava isiku nimi;
+- 1) kohtusse kutsutava isiku nimi;
 
-2) kohtu nimetus ja aadress;
+- 2) kohtu nimetus ja aadress;
 
-3) kohtuistungi aeg ja koht;
+- 3) kohtuistungi aeg ja koht;
 
-4) asja põhisisu;
+- 4) asja põhisisu;
 
-5) kellena isik välja kutsutakse;
+- 5) kellena isik välja kutsutakse;
 
-6) kohustus teatada kohtusse ilmumata jätmise põhjusest;
+- 6) kohustus teatada kohtusse ilmumata jätmise põhjusest;
 
-7) kohtusse ilmumata jätmise tagajärjed.
+- 7) kohtusse ilmumata jätmise tagajärjed.
 
 (2) Kui menetlusosaline kutsutakse hagimenetluses Riigikohtu istungile ja kohtukutset ei edastata vandeadvokaadile, märgitakse kutses ka, et menetlusosaline võib Riigikohtus menetlustoiminguid teha ning avaldusi ja taotlusi esitada üksnes vandeadvokaadi vahendusel.
 

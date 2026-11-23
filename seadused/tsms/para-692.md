@@ -2,9 +2,9 @@
 
 (1) Kassatsiooni korras kohtuotsuse tühistamise aluseks on:
 
-1) materiaalõiguse normi väär tõlgendamine või kohaldamine, muu hulgas materiaalõiguse normi kohaldamata jätmine, kuigi seda oleks pidanud asjaoludest tulenevalt kohaldama, ja tuvastatud asjaoludele ebaõige õigusliku hinnangu andmine;
+- 1) materiaalõiguse normi väär tõlgendamine või kohaldamine, muu hulgas materiaalõiguse normi kohaldamata jätmine, kuigi seda oleks pidanud asjaoludest tulenevalt kohaldama, ja tuvastatud asjaoludele ebaõige õigusliku hinnangu andmine;
 
-2) menetlusõiguse normi oluline rikkumine, kui see võis kaasa tuua ebaõige otsuse.
+- 2) menetlusõiguse normi oluline rikkumine, kui see võis kaasa tuua ebaõige otsuse.
 
 (2) Kui Riigikohus tuvastab ringkonnakohtu otsuse põhjendavas osas materiaalõiguse normi väära tõlgendamise või kohaldamise, kuid ringkonnakohtu otsuse resolutsioon on sellest sõltumata või muudel asjaoludel sisuliselt õige, jätab Riigikohus kassatsioonkaebuse rahuldamata, kuid muudab õiguslikku põhjendust.
 

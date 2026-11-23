@@ -2,9 +2,9 @@
 
 (1) Kohus määrab varale hooldaja, kui on vaja hoolitseda vara eest, mis kuulub:
 
-1) teadmata kadunud isikule;
+- 1) teadmata kadunud isikule;
 
-2) isikule, kelle viibimiskoht on teada, kuid kes ei saa tagasi pöörduda või muul põhjusel ei saa oma asjade eest hoolitseda.
+- 2) isikule, kelle viibimiskoht on teada, kuid kes ei saa tagasi pöörduda või muul põhjusel ei saa oma asjade eest hoolitseda.
 
 (2) Kohus määrab äraolija varale hooldaja ka siis, kui isik on andnud käsundi või volikirja oma asjade ajamiseks, kuid on ilmnenud asjaolud, mis annavad põhjuse käsund või volitus tagasi võtta.
 

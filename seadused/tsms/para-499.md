@@ -4,13 +4,13 @@
 
 (2) Üleskutsemääruses märgitakse vähemalt:
 
-1) kohtu nimetus;
+- 1) kohtu nimetus;
 
-2) avaldaja andmed;
+- 2) avaldaja andmed;
 
-3) üleskutse puudutatud isikutele teatada kohtule nõuetest või muudest õigustest kohtu määratud ajaks;
+- 3) üleskutse puudutatud isikutele teatada kohtule nõuetest või muudest õigustest kohtu määratud ajaks;
 
-4) nõudest või õigusest teatamata jätmise tagajärjed.
+- 4) nõudest või õigusest teatamata jätmise tagajärjed.
 
 (3) Kohus võib ühendada mitu samaliigilist üleskutsemenetlust.
 

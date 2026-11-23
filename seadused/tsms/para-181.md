@@ -2,7 +2,9 @@
 
 (1) Menetlusabi taotlejale antakse menetlusabi, kui:
 
-1) menetlusabi taotleja ei suuda oma majandusliku seisundi tõttu menetluskulusid tasuda või kui ta suudab neid tasuda üksnes osaliselt või osamaksetena ja 2) on piisav alus eeldada, et kavandatav menetluses osalemine on edukas.
+- 1) menetlusabi taotleja ei suuda oma majandusliku seisundi tõttu menetluskulusid tasuda või kui ta suudab neid tasuda üksnes osaliselt või osamaksetena ja
+
+- 2) on piisav alus eeldada, et kavandatav menetluses osalemine on edukas.
 
 (2) Menetluses osalemise edukust eeldatakse, kui taotlus, mille esitamiseks menetlusabi taotletakse, on õiguslikult veenvalt põhjendatud ja faktiliselt põhistatud. Menetluses osalemise edukuse hindamisel arvestatakse ka asja tähendust menetlusabi taotlejale.
 

@@ -6,11 +6,11 @@
 
 (3) Kohus ei tee tagaseljaotsust, kui:
 
-1) kohtuistungile ilmumata jäänud kostjat ei kutsutud istungile õigel ajal või kutses ei ole selgitatud istungilt puudumise tagajärgi või kui on eiratud muid istungile kutsumise nõudeid;
+- 1) kohtuistungile ilmumata jäänud kostjat ei kutsutud istungile õigel ajal või kutses ei ole selgitatud istungilt puudumise tagajärgi või kui on eiratud muid istungile kutsumise nõudeid;
 
-2) kostja on teatanud kohtule mõjuvast põhjusest kohtuistungile ilmumata jätmiseks ja on seda põhistanud;
+- 2) kostja on teatanud kohtule mõjuvast põhjusest kohtuistungile ilmumata jätmiseks ja on seda põhistanud;
 
-3) kostja oli nõus asjas kirjaliku menetlusega või asja lahendamisega tema osavõtuta.
+- 3) kostja oli nõus asjas kirjaliku menetlusega või asja lahendamisega tema osavõtuta.
 
 (3¹) Kohus võib keelduda tagaseljaotsuse tegemisest ka juhul, kui kohtukutse toimetati kostjale kätte avaliku kättetoimetamisega ning menetluses tehtavat lahendit soovitakse eeldatavasti tunnustada või täita välisriigis ja kohtukutse avaliku kättetoimetamise tõttu on tõenäoline, et lahendit ei tunnustataks või ei täidetaks.
 

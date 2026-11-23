@@ -10,6 +10,6 @@
 
 (5) Kohus ei pea eestkostet vajavat isikut isiklikult ära kuulama, kui:
 
-1) sellest võivad tema tervislikku seisundit kajastavate dokumentide või pädeva arsti arvamuse kohaselt tuleneda isiku tervisele kahjulikud tagajärjed;
+- 1) sellest võivad tema tervislikku seisundit kajastavate dokumentide või pädeva arsti arvamuse kohaselt tuleneda isiku tervisele kahjulikud tagajärjed;
 
-2) kohus on vahetu mulje põhjal veendunud, et isik ei ole ilmselt võimeline oma tahet avaldama.
+- 2) kohus on vahetu mulje põhjal veendunud, et isik ei ole ilmselt võimeline oma tahet avaldama.

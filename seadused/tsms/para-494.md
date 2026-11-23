@@ -4,17 +4,17 @@
 
 (2) Võlgnik võib esitada elatisnõudele üksnes vastuväite selle kohta, et:
 
-1) ta ei ole lapse vanem;
+- 1) ta ei ole lapse vanem;
 
-2) ta elab lapsega koos ja osaleb lapse ülalpidamises;
+- 2) ta elab lapsega koos ja osaleb lapse ülalpidamises;
 
-3) ta on täitnud oma ülalpidamiskohustust;
+- 3) ta on täitnud oma ülalpidamiskohustust;
 
-4) maksekäsu kiirmenetlus ei ole seaduse järgi lubatud;
+- 4) maksekäsu kiirmenetlus ei ole seaduse järgi lubatud;
 
-5) aeg, millest alates elatise maksmist nõutakse, on määratud ebaõigesti;
+- 5) aeg, millest alates elatise maksmist nõutakse, on määratud ebaõigesti;
 
-6) elatise suurus on määratud ebaõigesti.
+- 6) elatise suurus on määratud ebaõigesti.
 
 (3) [Kehtetu]
 

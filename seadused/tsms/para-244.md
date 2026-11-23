@@ -6,11 +6,11 @@
 
 (3) Kui menetlus ei ole alanud, võib isik taotleda kohtult eeltõendamismenetluses ekspertiisi määramist ka siis, kui tal on õiguslik huvi, et tuvastataks:
 
-1) isiku seisund või eseme seisund või väärtus;
+- 1) isiku seisund või eseme seisund või väärtus;
 
-2) kahju või eseme puuduse põhjus;
+- 2) kahju või eseme puuduse põhjus;
 
-3) kahju või eseme puuduse kõrvaldamiseks vajalikud kulud või abinõud.
+- 3) kahju või eseme puuduse kõrvaldamiseks vajalikud kulud või abinõud.
 
 (4) Õiguslik huvi on käesoleva paragrahvi lõikes 3 nimetatud juhul olemas, kui tuvastamine aitaks ilmselt vältida kohtuvaidlust.
 

@@ -2,11 +2,11 @@
 
 (1) Apellatsioonkaebuse vastuses peab vastustaja muu hulgas märkima:
 
-1) kas apellatsioonkaebus on vastustaja arvates võetud õigesti ringkonnakohtu menetlusse, kui ta ei ole selle kohta oma seisukohta juba avaldanud;
+- 1) kas apellatsioonkaebus on vastustaja arvates võetud õigesti ringkonnakohtu menetlusse, kui ta ei ole selle kohta oma seisukohta juba avaldanud;
 
-2) kas vastustaja peab kaebust õigeks või vaidleb sellele vastu;
+- 2) kas vastustaja peab kaebust õigeks või vaidleb sellele vastu;
 
-3) vastuväited kaebuse nõudmiste ja põhjenduste kohta ning asjaolud, millele vastustaja tugineb.
+- 3) vastuväited kaebuse nõudmiste ja põhjenduste kohta ning asjaolud, millele vastustaja tugineb.
 
 (2) Kui vastustaja nimetab oma seisukohtade põhjendamiseks uusi asjaolusid ja tõendeid, tuleb vastuses märkida uute asjaolude ja tõendite esimese astme kohtus esitamata jätmise põhjus.
 

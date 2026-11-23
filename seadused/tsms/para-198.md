@@ -2,9 +2,9 @@
 
 (1) Menetlusosalised on:
 
-1) hagimenetluses – pooled ja kolmas isik;
+- 1) hagimenetluses – pooled ja kolmas isik;
 
-2) hagita menetluses – avaldaja ja muud asjast puudutatud isikud.
+- 2) hagita menetluses – avaldaja ja muud asjast puudutatud isikud.
 
 (2) Seaduses ettenähtud juhul on menetlusosaline ka avalikku huvi kaitsma õigustatud isik või asutus.
 

@@ -4,21 +4,23 @@
 
 (1¹) Maksekäsu kiirmenetlust ei kohaldata lepinguvälistele nõuetele, välja arvatud:
 
-1) liikluskindlustuse seaduse §-dest 53–57 tulenevad nõuded;
+- 1) liikluskindlustuse seaduse §-dest 53–57 tulenevad nõuded;
 
-2) nõuded, mille kohta on võlgnik andnud võlatunnistuse või mille kohta on sõlmitud muu täitmiseks kohustav kokkulepe; 3)
+- 2) nõuded, mille kohta on võlgnik andnud võlatunnistuse või mille kohta on sõlmitud muu täitmiseks kohustav kokkulepe;
+
+- 3) [Kehtetu]
 
 (2) Maksekäsu kiirmenetlust ei toimu, kui:
 
-1) nõue ei ole avalduse esitamise ajal veel sissenõutav, välja arvatud käesoleva seadustiku §-s 367 nimetatud viivisenõuded või kui nõude esitamine sõltub vastastikuse kohustuse täitmisest ja kohustus ei ole veel täidetud;
+- 1) nõue ei ole avalduse esitamise ajal veel sissenõutav, välja arvatud käesoleva seadustiku §-s 367 nimetatud viivisenõuded või kui nõude esitamine sõltub vastastikuse kohustuse täitmisest ja kohustus ei ole veel täidetud;
 
-2)
+- 2) [Kehtetu]
 
-3) nõude esemeks on mittevaralise kahju hüvitamine;
+- 3) nõude esemeks on mittevaralise kahju hüvitamine;
 
-4) nõue esitatakse pankrotivõlgniku vastu;
+- 4) nõue esitatakse pankrotivõlgniku vastu;
 
-5) nõue, mis on esitatud mitme võlgniku vastu, ei tulene samast alusest või kohustusest.
+- 5) nõue, mis on esitatud mitme võlgniku vastu, ei tulene samast alusest või kohustusest.
 
 (2¹) Maksekäsu kiirmenetlust ei kohaldata kõrvalnõuetele ulatuses, mis ületab põhinõuet.
 
@@ -26,8 +28,8 @@
 
 (2³) Maksekäsu kiirmenetlust ei kohaldata tarbijalepingust tuleneva nõude suhtes, kui:
 
-1) tarbija poolt tasumisele kuuluva krediidi kulukuse määr ületab võlaõigusseaduse § 4062 lõikes 1 sätestatud krediidi kulukuse määra ülempiiri;
+- 1) tarbija poolt tasumisele kuuluva krediidi kulukuse määr ületab võlaõigusseaduse § 406² lõikes 1 sätestatud krediidi kulukuse määra ülempiiri;
 
-2) tarbijaga kokkulepitud viivisemäär ületab kolmekordset võlaõigusseaduse § 113 lõike 1 teises lauses sätestatud viivisemäära.
+- 2) tarbijaga kokkulepitud viivisemäär ületab kolmekordset võlaõigusseaduse § 113 lõike 1 teises lauses sätestatud viivisemäära.
 
 (3) Elatisnõudeid võib maksekäsu kiirmenetluses esitada üksnes käesoleva peatüki 2. jaos sätestatud erisusi järgides.
