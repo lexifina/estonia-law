@@ -4,19 +4,19 @@
 
 (2) Ehitiste kontrollimise käigus selgitatakse eelkõige välja:
 
-1) ehitise ehitamise õiguslik alus;
+- 1) ehitise ehitamise õiguslik alus;
 
-2) ehitise ehitisealune pind;
+- 2) ehitise ehitisealune pind;
 
-3) ehitise kasutamise otstarve;
+- 3) ehitise kasutamise otstarve;
 
-4) ehitise ehitamise aeg;
+- 4) ehitise ehitamise aeg;
 
-5) vajaduse korral ehitise varasema ümberehitamise, laiendamise või lammutamisega seonduv teave;
+- 5) vajaduse korral ehitise varasema ümberehitamise, laiendamise või lammutamisega seonduv teave;
 
-6) vajaduse korral eluruumide loendusega seonduvad andmed;
+- 6) vajaduse korral eluruumide loendusega seonduvad andmed;
 
-7) muud järelevalvemenetluseks olulised asjaolud.
+- 7) muud järelevalvemenetluseks olulised asjaolud.
 
 (3) Kui kinnisasja omanik ei esita piisavaid tõendeid ehitamise aja kohta, eeldatakse, et ehitis on ehitatud pärast ehitusseaduse jõustumist.
 

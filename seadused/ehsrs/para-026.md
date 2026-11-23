@@ -1,6 +1,6 @@
 # § 26. Ehitisregistri andmete korrastamine ja elektroonilise menetluse rakendamine
 
-(1) Ehitisregistri andmed korrastatakse 2020. aasta 1. jaanuariks.
+(1) Ehitisregistri andmed korrastatakse 2020. aasta 1. jaanuariks.
 
 (2) Ehitisregistri andmete korrastamise käigus kantakse ehitisregistrisse sinna seni kandmata hooned.
 
@@ -8,7 +8,7 @@
 
 (4) Ortofotodelt saadud andmeid võrreldakse olemasolevate ehitisregistri andmetega ning selgitatakse välja edasise kontrolli vajadus.
 
-(5) Ehitusseadustiku sätteid pädevale asutusele dokumentide elektrooniliselt ehitisregistri kaudu esitamisele ning lubade menetlemisele ehitisregistri vahendusel ja andmisele ehitisregistrisse kohaldatakse alates 2016. aasta 1. aprillist.
+(5) Ehitusseadustiku sätteid pädevale asutusele dokumentide elektrooniliselt ehitisregistri kaudu esitamisele ning lubade menetlemisele ehitisregistri vahendusel ja andmisele ehitisregistrisse kohaldatakse alates 2016. aasta 1. aprillist.
 
 (6) Kuni 2016. aasta 1. aprillini esitatakse ehitus- ja kasutusteatis, projekteerimistingimuste, ehitus- ja kasutusloa taotlus ning seonduvad dokumendid pädevale asutusele. Pädev asutus kannab esitatud ehitus- ja kasutusloa taotluste, ehitus- ja kasutusteatiste ning ehitus- ja kasutuslubade andmed ehitisregistrisse.
 

@@ -1,6 +1,6 @@
 # § 10. Eelvaliku tegemise arvestamine kehtestatud üldplaneeringus
 
-(1) Kui üldplaneering on koostatud enne käesoleva seaduse jõustumist kehtinud planeerimisseaduse alusel ja selles on määratud ehitise asukoht või tehtud ehitise asukoha eelvalik või asukohavalik enne käesoleva seaduse jõustumist kehtinud planeerimisseaduse §-de 8, 29² ja 34 alusel, võib ehitise asukoha valiku või üldplaneeringu teema- või osaplaneeringu põhjal koostada planeerimisseaduses ettenähtud kohaliku omavalitsuse eriplaneeringu, alustades detailsema lahenduse menetlusest.
+(1) Kui üldplaneering on koostatud enne käesoleva seaduse jõustumist kehtinud planeerimisseaduse alusel ja selles on määratud ehitise asukoht või tehtud ehitise asukoha eelvalik või asukohavalik enne käesoleva seaduse jõustumist kehtinud planeerimisseaduse §-de 8, 29² ja 34 alusel, võib ehitise asukoha valiku või üldplaneeringu teema- või osaplaneeringu põhjal koostada planeerimisseaduses ettenähtud kohaliku omavalitsuse eriplaneeringu, alustades detailsema lahenduse menetlusest.
 
 (2) Üldplaneeringus tehtud eelvaliku või üldplaneeringu teema- või osaplaneeringu alusel on võimalik koostada detailsem lahendus ainult planeerimisseaduses või selle alusel antud õigusaktides sätestatud ehitiste kohta.
 

@@ -1,6 +1,6 @@
 # § 9. Eelvaliku tegemise arvestamine kehtestatud maakonnaplaneeringus
 
-(1) Kui maakonnaplaneering on koostatud enne käesoleva seaduse jõustumist kehtinud planeerimisseaduse alusel ja selles on määratud ehitise asukoht või tehtud ehitise asukoha eelvalik või asukohavalik enne käesoleva seaduse jõustumist kehtinud planeerimisseaduse §-de 7, 29² ja 34 alusel, võib selle maakonnaplaneeringu alusel koostada planeerimisseaduses ettenähtud riigi eriplaneeringu, alustades detailsema lahenduse menetlusest.
+(1) Kui maakonnaplaneering on koostatud enne käesoleva seaduse jõustumist kehtinud planeerimisseaduse alusel ja selles on määratud ehitise asukoht või tehtud ehitise asukoha eelvalik või asukohavalik enne käesoleva seaduse jõustumist kehtinud planeerimisseaduse §-de 7, 29² ja 34 alusel, võib selle maakonnaplaneeringu alusel koostada planeerimisseaduses ettenähtud riigi eriplaneeringu, alustades detailsema lahenduse menetlusest.
 
 (2) Maakonnaplaneeringus tehtud eelvaliku või maakonnaplaneeringu teema- või osaplaneeringu alusel on võimalik koostada detailsem lahendus ainult planeerimisseaduses või selle alusel antud õigusaktides sätestatud ehitise kohta.
 
