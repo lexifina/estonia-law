@@ -12,6 +12,4 @@
 
 (6) Esitatud aruandes puuduste tuvastamisel esitab emitent viivitamata korrigeeritud aruande.
 
-(7) Järelevalvearuannete sisu, nende koostamise alused ja esitamise korra kehtestab
-
-määrusega.
+(7) Järelevalvearuannete sisu, nende koostamise alused ja esitamise korra kehtestab valdkonna eest vastutav minister määrusega.

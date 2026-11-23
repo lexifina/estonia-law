@@ -16,6 +16,6 @@
 
 (8) Tagatisvara haldur täidab käesoleva seaduse §-des 54 ja 55 sätestatud aruandluse ja teabe avalikustamise kohustust.
 
-(9) Lisaks käesoleva paragrahvi lõikes 8 sätestatule esitab tagatisvara haldur viivitamata pärast käesoleva paragrahvi lõikes 2 nimetatud ülesande täitmist ning seejärel igal kuul Finantsinspektsioonile aruande pandikirjaportfelli hetkeseisust ja oma tegevusest pandikirjaportfelli valitsemisel. Aruandeperiood on kalendrikuu ja aruanne tuleb Finantsinspektsioonile esitada viie tööpäeva jooksul pärast aruandeperioodi lõppu.
+(9) Lisaks käesoleva paragrahvi lõikes 8 sätestatule esitab tagatisvara haldur viivitamata pärast käesoleva paragrahvi lõikes 2 nimetatud ülesande täitmist ning seejärel igal kuul Finantsinspektsioonile aruande pandikirjaportfelli hetkeseisust ja oma tegevusest pandikirjaportfelli valitsemisel. Aruandeperiood on kalendrikuu ja aruanne tuleb Finantsinspektsioonile esitada viie tööpäeva jooksul pärast aruandeperioodi lõppu.
 
 (10) Tagatisvara haldur ja emitendi pankrotihaldur, moratooriumihaldur või likvideerija ning tagatisvara haldur ja pandikirjaportfelli pankrotihaldur on kohustatud tegema koostööd ning edastama üksteisele teavet, millel võib olla tähtsust emitendi või pandikirjaportfelli pankrotimenetluse, likvideerimismenetluse, moratooriumi ja pandikirjaportfelli valitsemise seisukohast. Käesoleva lõike esimeses lauses nimetatud kohustus on ka isikul, kelle volitused tagatisvara haldurina on lõppenud.
