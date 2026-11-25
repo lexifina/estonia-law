@@ -6,21 +6,24 @@
 
 How global-law monitors every country: [global-law monitoring/](https://github.com/lexifina/global-law/tree/main/monitoring). This page is the same for Estonia only: every time an official source is read, when, and what came of it (acts added, changed and removed). The machine-readable form is [data/checks/](../data/checks/) (JSON Lines, schema `lexifina-check/1`), in `git log` as `Kind: check` commits, and month by month in [checks/](checks/).
 
-**Last check:** 2026-11-24 05:10 UTC, EU Publications Office (Estonia's measures transposing EU directives): 11 addresses read; 0 added, 0 changed, 0 removed; no change; 14 not published, 0 of them with no reason.
+**Last check:** 2026-11-25 05:11 UTC, EU Publications Office (Estonia's measures transposing EU directives): 11 addresses read; 0 added, 0 changed, 0 removed; no change; 14 not published, 0 of them with no reason.
 
 ## Sources
 
 | Source | Folders | How often | Last successful check | Last result | State |
 | --- | --- | --- | --- | --- | --- |
-| [Riigi Teataja (consolidated texts)](https://www.riigiteataja.ee) | `ps/`, `seadused/` | daily | 2026-11-24 05:09 UTC | no change | watched: one request every 6 seconds (its API limits how many it answers); texts here that came from copies of Riigi Teataja's data (legalize-ee, lahend.ee: see PLAN.md) are set to Riigi Teataja's own XML, as tools/build.py writes it, by correction commits |
-| [Riigikogu open data (drafts and adopted laws)](https://api.riigikogu.ee) | `riigikogu/` | daily | 2026-11-24 05:10 UTC | no change | watched: drafts and adopted laws, one request every 3 seconds (the API limits bursts); votes, transcripts and documents in riigikogu/ are not compared yet; the adopted texts of new laws are not written here yet (the tool that read them is gone) |
+| [Riigi Teataja (consolidated texts)](https://www.riigiteataja.ee) | `ps/`, `seadused/` | daily | 2026-11-25 05:09 UTC | no change | watched: one request every 6 seconds (its API limits how many it answers); texts here that came from copies of Riigi Teataja's data (legalize-ee, lahend.ee: see PLAN.md) are set to Riigi Teataja's own XML, as tools/build.py writes it, by correction commits |
+| [Riigikogu open data (drafts and adopted laws)](https://api.riigikogu.ee) | `riigikogu/` | daily | 2026-11-25 05:11 UTC | changes found | watched: drafts and adopted laws, one request every 3 seconds (the API limits bursts); votes, transcripts and documents in riigikogu/ are not compared yet; the adopted texts of new laws are not written here yet (the tool that read them is gone) |
 | [Tartu city council document register](https://info.raad.tartu.ee/dhs.nsf/volmaarused) | `kov/tartu/` | — | — | — | not watched yet: its robots.txt disallows all automated reading (Disallow: /), so it is not read; Riigi Teataja publishes the council's regulations but not its decisions |
-| [EU Publications Office (Estonia's measures transposing EU directives)](https://publications.europa.eu/webapi/rdf/sparql) | `eu-nim/` | daily | 2026-11-24 05:10 UTC | no change | watched: records of the measures only; their texts are in Riigi Teataja |
+| [EU Publications Office (Estonia's measures transposing EU directives)](https://publications.europa.eu/webapi/rdf/sparql) | `eu-nim/` | daily | 2026-11-25 05:11 UTC | no change | watched: records of the measures only; their texts are in Riigi Teataja |
 
 ## The last 30 days
 
 | Started (UTC) | Source | Read | Added | Changed | Removed | Not published (no reason) | Result | Commits |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-25 05:11](checks/2026-11.md#ee-eu-nim-20261125t051115z) | eu-nim | 11 | 0 | 0 | 0 | 14 (0) | no change | — |
+| [2026-11-25 05:09](checks/2026-11.md#ee-riigikogu-20261125t050943z) | riigikogu | 21 | 2 | 19 | 0 | 395 (0) | changes found | [21](https://github.com/lexifina/estonia-law/compare/3383a13d004c...4e58c3fe1772) |
+| [2026-11-25 05:00](checks/2026-11.md#ee-riigi-teataja-20261125t050003z) | riigi-teataja | 45 | 0 | 0 | 0 | 18 (0) | no change | — |
 | [2026-11-24 05:10](checks/2026-11.md#ee-eu-nim-20261124t051017z) | eu-nim | 11 | 0 | 0 | 0 | 14 (0) | no change | — |
 | [2026-11-24 05:09](checks/2026-11.md#ee-riigikogu-20261124t050912z) | riigikogu | 21 | 0 | 0 | 0 | 392 (0) | no change | — |
 | [2026-11-24 05:00](checks/2026-11.md#ee-riigi-teataja-20261124t050001z) | riigi-teataja | 46 | 0 | 0 | 0 | 18 (0) | no change | — |
