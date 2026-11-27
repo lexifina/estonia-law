@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T05:14:30Z",
+ "generated": "2026-11-27T05:46:04Z",
  "latest": {
   "eu-nim|estonia/national/acts": {
    "attempt": 1,
@@ -10,33 +10,33 @@
     "method": "each record published this check, then a seeded sample of held ones (5 a day, 20 on a mass change), read again from the Cellar's own notice of the measure (publications.europa.eu/resource/cellar/<id>, XML object notice; check, update and verify read the SPARQL endpoint): its CELEX number, Riigi Teataja reference, entry-into-force and notification days and the directives it transposes are in the notice",
     "rows": [
      {
-      "id": "202503228",
+      "id": "164805",
       "published": false,
-      "read": "http://publications.europa.eu/resource/cellar/76ed3d24-8201-4cf4-98bd-116c49833752",
+      "read": "http://publications.europa.eu/resource/cellar/ab1a3076-6c32-4600-8f2c-31bccad3c6b6",
       "verdict": "match_new"
      },
      {
-      "id": "202102700",
+      "id": "194132",
       "published": false,
-      "read": "http://publications.europa.eu/resource/cellar/9093c00d-3912-4df7-888d-3c263ca24e30",
+      "read": "http://publications.europa.eu/resource/cellar/7b617bfa-e43e-47eb-8dd7-2d3979f190af",
       "verdict": "match_new"
      },
      {
-      "id": "235967",
+      "id": "254151",
       "published": false,
-      "read": "http://publications.europa.eu/resource/cellar/cee40f3e-048c-4588-a85a-aafff711d7a0",
+      "read": "http://publications.europa.eu/resource/cellar/724e66f5-8aa8-488c-b842-2bfefa3345fe",
       "verdict": "match_new"
      },
      {
-      "id": "160807",
+      "id": "179335",
       "published": false,
-      "read": "http://publications.europa.eu/resource/cellar/58a68acc-8a0d-4df2-b8bc-2ee80cc92a11",
+      "read": "http://publications.europa.eu/resource/cellar/29b07ecb-777c-441d-a4d2-04183b309371",
       "verdict": "match_new"
      },
      {
-      "id": "142252",
+      "id": "202507413",
       "published": false,
-      "read": "http://publications.europa.eu/resource/cellar/fd53a8f0-78f3-4f60-85c1-7ec6864a0086",
+      "read": "http://publications.europa.eu/resource/cellar/6d79c460-59e3-404d-ba5a-b4b9724db9d4",
       "verdict": "match_new"
      }
     ],
@@ -55,11 +55,11 @@
     "repo": 4014,
     "source_in_scope": 4028
    },
-   "check_id": "ee-eu-nim-20261126T051356Z",
+   "check_id": "ee-eu-nim-20261127T054459Z",
    "commits": null,
    "corpus": "estonia/national/acts",
    "error": null,
-   "finished": "2026-11-26T05:14:28Z",
+   "finished": "2026-11-27T05:46:03Z",
    "flags": [],
    "gap": 14,
    "note": "records here as of 2026-11-23 (the EU's record of each measure; its text is in Riigi Teataja)",
@@ -69,7 +69,7 @@
     "changed": [],
     "removed": []
    },
-   "requests": 11,
+   "requests": 12,
    "runner": "lawwatch estonia (caf943c63b)",
    "schema": "lexifina-check/1",
    "seen": {
@@ -79,7 +79,7 @@
    },
    "snapshot": "2026-11-18",
    "source": "eu-nim",
-   "started": "2026-11-26T05:13:56Z",
+   "started": "2026-11-27T05:44:59Z",
    "unexplained": 0,
    "update": {
     "held_by_builder": 14,
@@ -107,19 +107,28 @@
     "method": "Riigi Teataja's own plain text of the version in force (public API /akt/<id>/txt, a second rendering of the version by the publisher; check, update and verify read its XML): every line of the law's folder at the tip found in it, whitespace, superscripts and Riigi Teataja's bracketed notes aside (tools/check_repo.py's canonical and official rules; a section printed as HTML is left out: the plain text stops there); the laws published this check first, then a seeded sample of held laws, 5 a day (20 on a mass change)",
     "rows": [
      {
-      "folder": "seadused/mtoos",
-      "id": "1024943",
-      "lines": 508,
+      "folder": "ps",
+      "id": "151381",
+      "lines": 597,
       "published": false,
-      "read": "https://www.riigiteataja.ee/public-api/api/v1/akt/128012026006/txt",
+      "read": "https://www.riigiteataja.ee/public-api/api/v1/akt/111042025003/txt",
+      "stops_at": "para-168.md",
       "verdict": "match_new"
      },
      {
-      "folder": "seadused/turs",
-      "id": "153072",
-      "lines": 279,
+      "folder": "seadused/mtvs",
+      "id": "1027366",
+      "lines": 498,
       "published": false,
-      "read": "https://www.riigiteataja.ee/public-api/api/v1/akt/118032026026/txt",
+      "read": "https://www.riigiteataja.ee/public-api/api/v1/akt/115042026002/txt",
+      "verdict": "match_new"
+     },
+     {
+      "folder": "seadused/rdts",
+      "id": "1050419",
+      "lines": 1503,
+      "published": false,
+      "read": "https://www.riigiteataja.ee/public-api/api/v1/akt/130062026026/txt",
       "verdict": "match_new"
      },
      {
@@ -131,19 +140,11 @@
       "verdict": "match_new"
      },
      {
-      "folder": "seadused/kuts",
-      "id": "1043127",
-      "lines": 480,
+      "folder": "seadused/vos",
+      "id": "153569",
+      "lines": 6062,
       "published": false,
-      "read": "https://www.riigiteataja.ee/public-api/api/v1/akt/106102026002/txt",
-      "verdict": "match_new"
-     },
-     {
-      "folder": "seadused/tsms",
-      "id": "148004",
-      "lines": 4670,
-      "published": false,
-      "read": "https://www.riigiteataja.ee/public-api/api/v1/akt/120062026021/txt",
+      "read": "https://www.riigiteataja.ee/public-api/api/v1/akt/117112026013/txt",
       "verdict": "match_new"
      }
     ],
@@ -151,61 +152,70 @@
     "unread": 0
    },
    "census": {
-    "checked": 36,
+    "checked": 24,
     "current": 36,
     "gone": 0,
     "held": 36,
-    "newest_at_source": "2026-11-18",
+    "newest_at_source": "2026-11-27",
     "newest_in_repo": "2026-11-01",
     "out_of_scope": 961,
     "pending": 0,
     "repo": 36,
     "source_in_scope": 997
    },
-   "check_id": "ee-riigi-teataja-20261126T050005Z",
+   "check_id": "ee-riigi-teataja-20261127T050004Z",
    "commits": null,
    "corpus": "estonia/national/acts",
    "error": null,
-   "finished": "2026-11-26T05:12:13Z",
+   "finished": "2026-11-27T05:43:27Z",
    "flags": [],
-   "gap": 18,
-   "note": "961 laws in force at Riigi Teataja have no consolidated text here: this repository holds 36 consolidated laws and the rest as the Riigikogu adopted them (riigikogu/; README, 'What it does not show'); not counted as gaps; laws read newest version first down to 2026-11-24 (1 page)",
-   "outcome": "no-change",
+   "gap": 32,
+   "note": "961 laws in force at Riigi Teataja have no consolidated text here: this repository holds 36 consolidated laws and the rest as the Riigikogu adopted them (riigikogu/; README, 'What it does not show'); not counted as gaps; laws read newest version first down to 2026-11-25 (1 page)",
+   "outcome": "changed",
    "published": {
     "added": [],
     "changed": [],
     "removed": []
    },
-   "requests": 46,
+   "requests": 44,
    "runner": "lawwatch estonia (caf943c63b)",
    "schema": "lexifina-check/1",
    "seen": {
     "added": [],
-    "changed": [],
+    "changed": [
+     "153569",
+     "160831",
+     "162617",
+     "340149",
+     "1028716",
+     "1039062"
+    ],
     "removed": []
    },
-   "snapshot": "2026-11-18",
+   "snapshot": "2026-11-27",
    "source": "riigi-teataja",
-   "started": "2026-11-26T05:00:05Z",
+   "started": "2026-11-27T05:00:04Z",
    "unexplained": 0,
    "update": {
     "commits": 0,
     "corrections": 0,
     "empty": 0,
     "files": 0,
-    "laws_kept": 0,
-    "laws_read": 36
+    "laws_kept": 24,
+    "laws_read": 12
    },
    "verify": {
     "cycle_days": 1,
-    "examples": [],
-    "files_checked": 6824,
-    "files_html_not_compared": 24,
+    "examples": [
+     "res: not read (SourceError: HTTP 429 for https://www.riigiteataja.ee/public-api/api/v1/akt/1110)"
+    ],
+    "files_checked": 3923,
+    "files_html_not_compared": 11,
     "laws_held": 36,
     "method": "every held law, every check: Riigi Teataja's XML of the version in force today (public API /akt/<id>/xml, read this check) rendered by the repository's own builder (tools/build.py: Reader, states_of, tree_of; sections inside a jaotis or alljaotis walked like a jagu) against the law's folder at the tip, file for file, byte for byte (tools/check_repo.py's rule for git against the XML); a section whose words Riigi Teataja prints as HTML (amending provisions for other acts), which the builder does not write, is not compared (the audit reads it)",
-    "ok": true,
-    "unread": 0,
-    "versions_checked": 36,
+    "ok": false,
+    "unread": 12,
+    "versions_checked": 24,
     "versions_differ": 0
    }
   },
@@ -218,33 +228,33 @@
     "method": "each draft record published this check, then a seeded sample of held ones (5 a day, 20 on a mass change), read again from the draft's own record in the Riigikogu API (api/volumes/drafts/<uuid>; check and verify read the register listing): title, number, type, term and initiation day must agree, and the stage and status (a different status there counts as match_old: the draft moved on after the record's day)",
     "rows": [
      {
-      "id": "813-se",
+      "id": "827-oe",
       "published": true,
-      "read": "https://api.riigikogu.ee/api/volumes/drafts/98aff067-2a5c-4299-a768-d63e004cbf64",
+      "read": "https://api.riigikogu.ee/api/volumes/drafts/78c84892-cf55-466b-aaa8-491aa19907dd",
       "verdict": "match_new"
      },
      {
-      "id": "853-se",
+      "id": "905-se",
       "published": true,
-      "read": "https://api.riigikogu.ee/api/volumes/drafts/1a1cbc16-5a9a-4c66-bf75-2eef273ede31",
+      "read": "https://api.riigikogu.ee/api/volumes/drafts/a82f7245-4f06-46e6-8258-91d3ba1b77a5",
       "verdict": "match_new"
      },
      {
-      "id": "892-se",
+      "id": "919-se",
       "published": true,
-      "read": "https://api.riigikogu.ee/api/volumes/drafts/9aa6adac-e716-4dbf-a80e-990bc41dbd35",
+      "read": "https://api.riigikogu.ee/api/volumes/drafts/1fdf1be7-b35c-44bf-9ed8-ab5d309838fd",
       "verdict": "match_new"
      },
      {
-      "id": "906-se",
+      "id": "924-se",
       "published": true,
-      "read": "https://api.riigikogu.ee/api/volumes/drafts/1f8d5e3f-bf9a-4615-86a1-b86f1779aba0",
+      "read": "https://api.riigikogu.ee/api/volumes/drafts/a35f2ed4-f2b2-4b84-99cd-2b30077de89b",
       "verdict": "match_new"
      },
      {
-      "id": "925-se",
+      "id": "976-oe",
       "published": true,
-      "read": "https://api.riigikogu.ee/api/volumes/drafts/d2a106fd-0989-472b-98ad-24eb0479add3",
+      "read": "https://api.riigikogu.ee/api/volumes/drafts/55c26aa9-8837-4c72-928f-abfc7da1f03b",
       "verdict": "match_new"
      }
     ],
@@ -252,69 +262,58 @@
     "unread": 0
    },
    "census": {
-    "checked": 9051,
-    "current": 9051,
+    "checked": 9060,
+    "current": 9060,
     "gone": 0,
-    "held": 9051,
+    "held": 9060,
     "law_texts_here": 3401,
     "law_texts_needed_missing": 380,
     "laws_adopted_at_source": 4656,
-    "newest_at_source": "15-1106-se",
-    "newest_in_repo": "15-1105-se",
+    "newest_at_source": "15-1115-se",
+    "newest_in_repo": "15-1106-se",
     "out_of_scope": 875,
     "pending": 0,
-    "records_as_of": "2026-11-25",
-    "repo": 9050,
-    "source_in_scope": 9063
+    "records_as_of": "2026-11-26",
+    "repo": 9051,
+    "source_in_scope": 9072
    },
-   "check_id": "ee-riigikogu-20261126T051213Z",
+   "check_id": "ee-riigikogu-20261127T054327Z",
    "commits": {
-    "count": 31,
-    "from": "8fee00e8b60ee37541a60da81cd7c9a13c24a1c1",
-    "to": "76a562a246cf8b7a1fbfd939cbcf1dd6136d3ded"
+    "count": 20,
+    "from": "06f3eaf58e5a7caee0999835903684f5ffd5cc07",
+    "to": "63485a9b00b646a649fb584ed9b6e939faaa428c"
    },
    "corpus": "estonia/national/acts",
    "error": null,
-   "finished": "2026-11-26T05:13:56Z",
+   "finished": "2026-11-27T05:44:59Z",
    "flags": [],
    "gap": 392,
-   "note": "draft records here as of 2026-11-25; laws adopted at the source 4656, their adopted texts here 3401; 380 texts that laws in force need are missing (data/puuduvad-aktid.csv, listed); 875 other adopted laws are not here and no law in force needs them (PLAN.md counts only those): not counted as gaps; resolutions adopted 1074, texts here 811 (not compared); the API answered 404 for 1 entries, read around: term 8, position 565 of 1184 by number",
+   "note": "draft records here as of 2026-11-26; laws adopted at the source 4656, their adopted texts here 3401; 380 texts that laws in force need are missing (data/puuduvad-aktid.csv, listed); 875 other adopted laws are not here and no law in force needs them (PLAN.md counts only those): not counted as gaps; resolutions adopted 1074, texts here 811 (not compared); the API answered 404 for 1 entries, read around: term 8, position 565 of 1184 by number",
    "outcome": "changed",
    "published": {
     "added": [
-     "15-1106-se"
+     "15-1107-se",
+     "15-1108-se",
+     "15-1109-se",
+     "15-1110-se",
+     "15-1111-se",
+     "15-1112-se",
+     "15-1113-se",
+     "15-1114-se",
+     "15-1115-se"
     ],
     "changed": [
-     "15-1001-se",
-     "15-1005-se",
-     "15-1008-se",
-     "15-1024-se",
-     "15-1025-se",
-     "15-1028-se",
-     "15-1029-se",
-     "15-1033-oe",
-     "15-1047-oe",
-     "15-1048-oe",
-     "15-1049-oe",
-     "15-1050-oe",
-     "15-1051-oe",
-     "15-1052-oe",
-     "15-1053-oe",
-     "15-1054-oe",
-     "15-1063-se",
-     "15-1064-se",
-     "15-813-se",
-     "15-853-se",
-     "15-892-se",
-     "15-906-se",
-     "15-925-se",
-     "15-926-se",
-     "15-931-se",
-     "15-932-se",
-     "15-937-se",
-     "15-950-se",
-     "15-981-se",
-     "15-992-se"
+     "15-1043-se",
+     "15-1069-se",
+     "15-1078-oe",
+     "15-1094-se",
+     "15-1106-se",
+     "15-827-oe",
+     "15-905-se",
+     "15-919-se",
+     "15-924-se",
+     "15-976-oe",
+     "15-994-se"
     ],
     "removed": []
    },
@@ -323,61 +322,49 @@
    "schema": "lexifina-check/1",
    "seen": {
     "added": [
-     "15-1106-se"
+     "15-1107-se",
+     "15-1108-se",
+     "15-1109-se",
+     "15-1110-se",
+     "15-1111-se",
+     "15-1112-se",
+     "15-1113-se",
+     "15-1114-se",
+     "15-1115-se"
     ],
     "changed": [
-     "15-813-se",
-     "15-853-se",
-     "15-892-se",
-     "15-906-se",
-     "15-925-se",
-     "15-926-se",
-     "15-931-se",
-     "15-932-se",
-     "15-937-se",
-     "15-950-se",
-     "15-981-se",
-     "15-992-se",
-     "15-1001-se",
-     "15-1005-se",
-     "15-1008-se",
-     "15-1024-se",
-     "15-1025-se",
-     "15-1028-se",
-     "15-1029-se",
-     "15-1033-oe",
-     "15-1047-oe",
-     "15-1048-oe",
-     "15-1049-oe",
-     "15-1050-oe",
-     "15-1051-oe",
-     "15-1052-oe",
-     "15-1053-oe",
-     "15-1054-oe",
-     "15-1063-se",
-     "15-1064-se"
+     "15-827-oe",
+     "15-905-se",
+     "15-919-se",
+     "15-924-se",
+     "15-976-oe",
+     "15-994-se",
+     "15-1043-se",
+     "15-1069-se",
+     "15-1094-se",
+     "15-1106-se"
     ],
     "removed": []
    },
-   "snapshot": "2026-11-25",
+   "snapshot": "2026-11-26",
    "source": "riigikogu",
-   "started": "2026-11-26T05:12:13Z",
+   "started": "2026-11-27T05:43:27Z",
    "unexplained": 0,
    "update": {
     "adopted_texts_not_written": 0,
-    "drafts_added": 1,
-    "drafts_changed": 30,
+    "drafts_added": 9,
+    "drafts_changed": 11,
     "kept": 12,
-    "records_compared_before": 9050,
-    "records_differing_before": 30
+    "records_compared_before": 9051,
+    "records_differing_before": 11
    },
    "verify": {
     "cycle_days": 1,
     "examples": [],
     "method": "every draft record at the tip (riigikogu/eelnoud/) against the record the repository's runner (ee-rk-eelnoud-runner build()) writes from the register entry read this check (the same uuid), as of the record's own day (status_as_of), byte for byte: stage, status, status day, committee, title, deadline; the laws' adopted texts (riigikogu/seadused/) are not compared (their builder is not rebuilt)",
     "ok": true,
-    "records_held": 9051,
-    "versions_checked": 9051,
+    "records_held": 9060,
+    "versions_checked": 9060,
     "versions_differ": 0
    }
   }

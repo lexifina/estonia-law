@@ -8,19 +8,20 @@ How global-law measures how current every country is: [global-law FRESHNESS.md](
 
 ### Riigi Teataja (consolidated texts) · `estonia/national/acts`
 
-- The official source last read and every act held here checked against it: **2026-11-26 05:12 UTC**.
+- The official source last read and every act held here checked against it: **2026-11-27 05:43 UTC**.
 - Acts held here: 36; current at the source: 36; changed at the source since the version held here: 0; no longer at the source: 0.
-- Not published: 18 (in force later: 18); with no reason: 0.
+- Compared with the source in this read: 24 of the 36 acts held here; the others were not compared in this read (see the check's note).
+- Not published: 32 (in force later: 8, a step failed: 24); with no reason: 0.
 
 ### Riigikogu open data (drafts and adopted laws) · `estonia/national/acts`
 
-- The official source last read and every act held here checked against it: **2026-11-26 05:13 UTC**.
-- Acts held here: 9 051; current at the source: 9 051; changed at the source since the version held here: 0; no longer at the source: 0.
+- The official source last read and every act held here checked against it: **2026-11-27 05:44 UTC**.
+- Acts held here: 9 060; current at the source: 9 060; changed at the source since the version held here: 0; no longer at the source: 0.
 - Not published: 392 (held by a check: 198, the source has not published its text yet: 193, in force later: 1); with no reason: 0.
 
 ### EU Publications Office (Estonia's measures transposing EU directives) · `estonia/national/acts`
 
-- The official source last read and every act held here checked against it: **2026-11-26 05:14 UTC**.
+- The official source last read and every act held here checked against it: **2026-11-27 05:46 UTC**.
 - Acts held here: 4 014; current at the source: 4 014; changed at the source since the version held here: 0; no longer at the source: 0.
 - Not published: 14 (held by a check: 14); with no reason: 0.
 

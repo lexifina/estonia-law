@@ -6,21 +6,24 @@
 
 Kuidas global-law seirab kõiki riike: [global-law monitoring/](https://github.com/lexifina/global-law/tree/main/monitoring). See leht teeb sama ainult ühe riigi (Eesti) kohta: iga kord, kui ametlikku allikat loetakse, millal see juhtus ja mis sellest tuli (lisatud, muudetud ja kehtetuks tunnistatud aktid). Masinloetav kuju on [data/checks/](../data/checks/) (JSON Lines, skeem `lexifina-check/1`), `git log`-is `Kind: check` commit'idena ja kuude kaupa kaustas [checks/](checks/).
 
-**Viimane kontroll:** 2026-11-26 05:14 UTC, Euroopa Liidu Väljaannete Talitus (Eesti meetmed EL-i direktiivide ülevõtmiseks): loetud 11 aadressi; lisatud 0, muudetud 0, eemaldatud 0; muutusi ei ole; avaldamata 14, neist põhjuseta 0.
+**Viimane kontroll:** 2026-11-27 05:46 UTC, Euroopa Liidu Väljaannete Talitus (Eesti meetmed EL-i direktiivide ülevõtmiseks): loetud 12 aadressi; lisatud 0, muudetud 0, eemaldatud 0; muutusi ei ole; avaldamata 14, neist põhjuseta 0.
 
 ## Allikad
 
 | Allikas | Kaustad | Kui tihti | Viimane õnnestunud kontroll | Viimane tulemus | Seis |
 | --- | --- | --- | --- | --- | --- |
-| [Riigi Teataja (terviktekstid)](https://www.riigiteataja.ee) | `ps/`, `seadused/` | iga päev | 2026-11-26 05:12 UTC | muutusi ei ole | jälgitakse: üks päring iga 6 sekundi järel (selle API piirab vastatavate päringute arvu); siinsed tekstid, mis pärinevad Riigi Teataja andmete koopiatest (legalize-ee, lahend.ee: vt PLAN.md), viiakse parandusega vastavusse Riigi Teataja enda XML-iga, nagu tools/build.py selle kirjutab |
-| [Riigikogu avaandmed (eelnõud ja vastuvõetud seadused)](https://api.riigikogu.ee) | `riigikogu/` | iga päev | 2026-11-26 05:13 UTC | leiti muutusi | jälgitakse: eelnõud ja vastuvõetud seadused, üks päring iga 3 sekundi järel (API piirab päringute hulka); riigikogu/ hääletusi, stenogramme ja dokumente veel ei võrrelda; uute seaduste vastuvõetud tekste siia veel ei kirjutata (neid lugenud tööriist on kadunud) |
+| [Riigi Teataja (terviktekstid)](https://www.riigiteataja.ee) | `ps/`, `seadused/` | iga päev | 2026-11-27 05:43 UTC | leiti muutusi | jälgitakse: üks päring iga 6 sekundi järel (selle API piirab vastatavate päringute arvu); siinsed tekstid, mis pärinevad Riigi Teataja andmete koopiatest (legalize-ee, lahend.ee: vt PLAN.md), viiakse parandusega vastavusse Riigi Teataja enda XML-iga, nagu tools/build.py selle kirjutab |
+| [Riigikogu avaandmed (eelnõud ja vastuvõetud seadused)](https://api.riigikogu.ee) | `riigikogu/` | iga päev | 2026-11-27 05:44 UTC | leiti muutusi | jälgitakse: eelnõud ja vastuvõetud seadused, üks päring iga 3 sekundi järel (API piirab päringute hulka); riigikogu/ hääletusi, stenogramme ja dokumente veel ei võrrelda; uute seaduste vastuvõetud tekste siia veel ei kirjutata (neid lugenud tööriist on kadunud) |
 | [Tartu Linnavolikogu dokumendiregister](https://info.raad.tartu.ee/dhs.nsf/volmaarused) | `kov/tartu/` | — | — | — | veel ei jälgita: selle robots.txt keelab igasuguse automaatse lugemise (Disallow: /), seega seda ei loeta; Riigi Teataja avaldab volikogu määrused, kuid mitte otsuseid |
-| [Euroopa Liidu Väljaannete Talitus (Eesti meetmed EL-i direktiivide ülevõtmiseks)](https://publications.europa.eu/webapi/rdf/sparql) | `eu-nim/` | iga päev | 2026-11-26 05:14 UTC | muutusi ei ole | jälgitakse: ainult meetmete kirjed; nende tekstid on Riigi Teatajas |
+| [Euroopa Liidu Väljaannete Talitus (Eesti meetmed EL-i direktiivide ülevõtmiseks)](https://publications.europa.eu/webapi/rdf/sparql) | `eu-nim/` | iga päev | 2026-11-27 05:46 UTC | muutusi ei ole | jälgitakse: ainult meetmete kirjed; nende tekstid on Riigi Teatajas |
 
 ## Viimased 30 päeva
 
 | Algus (UTC) | Allikas | Loetud | Lisatud | Muudetud | Eemaldatud | Avaldamata (põhjuseta) | Tulemus | Commit'id |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-27 05:44](checks/2026-11.md#ee-eu-nim-20261127t054459z) | eu-nim | 12 | 0 | 0 | 0 | 14 (0) | muutusi ei ole | — |
+| [2026-11-27 05:43](checks/2026-11.md#ee-riigikogu-20261127t054327z) | riigikogu | 21 | 9 | 10 | 0 | 392 (0) | leiti muutusi | [20](https://github.com/lexifina/estonia-law/compare/06f3eaf58e5a...63485a9b00b6) |
+| [2026-11-27 05:00](checks/2026-11.md#ee-riigi-teataja-20261127t050004z) | riigi-teataja | 44 | 0 | 6 | 0 | 32 (0) | leiti muutusi | — |
 | [2026-11-26 05:13](checks/2026-11.md#ee-eu-nim-20261126t051356z) | eu-nim | 11 | 0 | 0 | 0 | 14 (0) | muutusi ei ole | — |
 | [2026-11-26 05:12](checks/2026-11.md#ee-riigikogu-20261126t051213z) | riigikogu | 21 | 1 | 30 | 0 | 392 (0) | leiti muutusi | [31](https://github.com/lexifina/estonia-law/compare/8fee00e8b60e...76a562a246cf) |
 | [2026-11-26 05:00](checks/2026-11.md#ee-riigi-teataja-20261126t050005z) | riigi-teataja | 46 | 0 | 0 | 0 | 18 (0) | muutusi ei ole | — |
