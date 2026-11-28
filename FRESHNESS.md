@@ -8,20 +8,20 @@ Kuidas global-law mõõdab iga riigi ajakohasust: [global-law FRESHNESS.md](http
 
 ### Riigi Teataja (terviktekstid) · `estonia/national/acts`
 
-- Ametlikku allikat loeti viimati ja iga siin olevat akti võrreldi sellega: **2026-11-27 05:43 UTC**.
+- Ametlikku allikat loeti viimati ja iga siin olevat akti võrreldi sellega: **2026-11-28 05:43 UTC**.
 - Siin olevaid akte: 36; allikaga kooskõlas: 36; allikas pärast siinset versiooni muudetud: 0; allikas enam ei ole: 0.
-- Selle lugemisega võrreldi allikaga 24 siin olevast 36 aktist; ülejäänuid selle lugemisega ei võrreldud (vt kontrolli märkust).
-- Avaldamata: 32 (jõustub hiljem: 8, üks samm ebaõnnestus: 24); põhjuseta: 0.
+- Selle lugemisega võrreldi allikaga 23 siin olevast 36 aktist; ülejäänuid selle lugemisega ei võrreldud (vt kontrolli märkust).
+- Avaldamata: 33 (jõustub hiljem: 8, üks samm ebaõnnestus: 25); põhjuseta: 0.
 
 ### Riigikogu avaandmed (eelnõud ja vastuvõetud seadused) · `estonia/national/acts`
 
-- Ametlikku allikat loeti viimati ja iga siin olevat akti võrreldi sellega: **2026-11-27 05:44 UTC**.
+- Ametlikku allikat loeti viimati ja iga siin olevat akti võrreldi sellega: **2026-11-28 05:44 UTC**.
 - Siin olevaid akte: 9 060; allikaga kooskõlas: 9 060; allikas pärast siinset versiooni muudetud: 0; allikas enam ei ole: 0.
 - Avaldamata: 392 (kontroll on selle kinni pidanud: 198, allikas ei ole teksti veel avaldanud: 193, jõustub hiljem: 1); põhjuseta: 0.
 
 ### Euroopa Liidu Väljaannete Talitus (Eesti meetmed EL-i direktiivide ülevõtmiseks) · `estonia/national/acts`
 
-- Ametlikku allikat loeti viimati ja iga siin olevat akti võrreldi sellega: **2026-11-27 05:46 UTC**.
+- Ametlikku allikat loeti viimati ja iga siin olevat akti võrreldi sellega: **2026-11-28 05:45 UTC**.
 - Siin olevaid akte: 4 014; allikaga kooskõlas: 4 014; allikas pärast siinset versiooni muudetud: 0; allikas enam ei ole: 0.
 - Avaldamata: 14 (kontroll on selle kinni pidanud: 14); põhjuseta: 0.
 
